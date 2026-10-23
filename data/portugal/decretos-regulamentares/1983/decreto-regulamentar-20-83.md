@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05500/08410844.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1983-309878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac223bfb9be2621877d8b99ba1ef8ebb3ca8c6e56166cef7e6b62dde2d59d3db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 352dad6b08f2810bfa09db4753d7b31caa22e71248fbb5f5e217d4acc00fccbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:662172:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380886:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662172:por
+  label: Revogado pelo DR.22/87.19.03.1987.PCM, DR.IS [65] de 19.03.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-1987-662172
+  date: '1987-03-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:05Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +114,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 9.º, n.º 1, 10.º, n.º 1, alínea c), 13.º, n.º 1, 14.º, o corpo do n.º 1 e o n.º 3 do artigo 21.º e os artigos 26.º, n.º 3, 29.º, n.º 2, 31.º, n.º 1, alínea a), 33.º, 35.º, n.º 4, 36.º, 37.º, 38.º, n.os 1 e 2, 49.º, n.º 1, 50.º, 76.º, n.º 1, e 77.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 9.º, n.º 1, 10.º, n.º 1, alínea c), 13.º, n.º 1, 14.º, o corpo do n.º 1 e o n.º 3 do artigo 21.º e os artigos 26.º, n.º 3, 29.º, n.º 2, 31.º, n.º 1, alínea a), 33.º, 35.º, n.º 4, 36.º, 37.º, 38.º, n.os 1 e 2, 49.º, n.º 1, 50.º, 76.º, n.º 1, e 77.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296), de 31 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 9.º - 1 - Dependem de autorização prévia da Direcção-Geral do Turismo:
+Art. 9.º - 1 - Dependem de autorização prévia da Direcção-Geral do Turismo:
 
 a) A abertura de delegações e sucursais das agências de viagem e turismo;
 
@@ -111,7 +130,7 @@ e) A mudança de localização do estabelecimento das agências e suas delegaç�
 
 f) Qualquer negócio translativo da propriedade ou do direito à exploração do estabelecimento de uma agência e das sucursais ou delegações.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 a) ...
 
@@ -119,13 +138,13 @@ b) ...
 
 c) Identificação completa do responsável técnico pelo funcionamento da delegação.
 
-###### Art. 13.º - 1 - O pedido de qualquer alteração do pacto social sujeito a autorização prévia deve ser acompanhado da minuta da alteração pretendida.
+Art. 13.º - 1 - O pedido de qualquer alteração do pacto social sujeito a autorização prévia deve ser acompanhado da minuta da alteração pretendida.
 
-###### Art. 14.º - 1 - A comunicação da substituição de qualquer administrador ou gerente da sociedade deverá conter a identificação completa dos novos elementos e ser acompanhada dos documentos exigidos na alínea II) do n.º 2 do artigo 2.º
+Art. 14.º - 1 - A comunicação da substituição de qualquer administrador ou gerente da sociedade deverá conter a identificação completa dos novos elementos e ser acompanhada dos documentos exigidos na alínea II) do n.º 2 do artigo 2.º
 
 2 - A substituição não produzirá efeito relativamente à Direcção-Geral do Turismo enquanto não for apresentado documento comprovativo de ter sido registada a designação dos novos administradores ou gerentes.
 
-###### Art. 21.º - 1 - Serão cassados, mediante despacho do Secretário de Estado do Turismo, os alvarás das agências de viagens e turismo:
+Art. 21.º - 1 - Serão cassados, mediante despacho do Secretário de Estado do Turismo, os alvarás das agências de viagens e turismo:
 
 a) ...
 
@@ -145,7 +164,7 @@ g) ...
 
 3 - No caso previsto na alínea g) do n.º 1, a empresa é obrigada a apresentar o novo director técnico no prazo máximo de 3 meses, contado da data da saída do anterior, sob pena de, não o fazendo por causa que lhe seja imputável, lhe ser igualmente cassado o alvará.
 
-###### Art. 26.º - 1 - ...
+Art. 26.º - 1 - ...
 
 a) ...
 
@@ -167,17 +186,17 @@ h) ...
 
 3 - Presume-se que o delegado deixou de exercer regularmente a sua actividade se tiver o escritório encerrado por um tempo superior a 90 dias ou deixar de comparecer na agência onde estiver instalado por igual período, sem qualquer justificação perante a Direcção-Geral do Turismo.
 
-###### Art. 29.º - 1 - ...
+Art. 29.º - 1 - ...
 
 2 - Depende de autorização prévia da Direcção-Geral do Turismo a substituição do respectivo técnico destes «serviços», sendo-lhe aplicável o disposto no artigo 15.º, com as necessárias adaptações.
 
-###### Art. 31.º - 1 - ...
+Art. 31.º - 1 - ...
 
 a) Não poderão ser prestados quaisquer outros serviços, além dos previstos na alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064);
 
 ...
 
-###### Art. 33.º - 1 - O cargo de director técnico de uma agência de viagens e turismo só poderá ser exercido por pessoas com idoneidade comercial que, preenchendo algum dos requisitos a seguir enumerados, sejam consideradas aptas nos testes previstos no artigo 36.º:
+Art. 33.º - 1 - O cargo de director técnico de uma agência de viagens e turismo só poderá ser exercido por pessoas com idoneidade comercial que, preenchendo algum dos requisitos a seguir enumerados, sejam consideradas aptas nos testes previstos no artigo 36.º:
 
 a) Possuir o diploma de curso superior de turismo passado por uma escola portuguesa ou estrangeira, desde que reconhecida em Portugal, e ter trabalhado profissionalmente numa agência de viagens, em lugares de chefia ou de carácter técnico, durante um período mínimo de 2 anos;
 
@@ -205,7 +224,7 @@ e) Ter desempenhado funções de chefia ou de carácter técnico na Direcção-G
 
 9 - Os profissionais considerados aptos para exercerem funções de director técnico de agências de viagens classificadas como «operadores» ou «grossistas» poderão exercer tal cargo em qualquer agência de viagens, independentemente da sua categoria.
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 a) ...
 
@@ -223,7 +242,7 @@ e) ...
 
 4 - O disposto nos números anteriores é aplicável também nos casos de substituição dos directores ou dos responsáveis pelos estabelecimentos, salvo se o indivíduo proposto já é ou foi anteriormente inscrito na Direcção-Geral do Turismo, como director ou responsável de um estabelecimento de igual categoria ou equiparada, caso em que não é necessário apresentar os documentos referentes às habilitações literárias, à categoria e ao tempo de serviço.
 
-###### Art. 36.º - 1 - A verificação dos requisitos de aptidão profissional dos directores técnicos e dos responsáveis técnicos será feita sempre pela comissão consultiva, mediante testes escritos e orais de avaliação dos conhecimentos técnico-profissionais.
+Art. 36.º - 1 - A verificação dos requisitos de aptidão profissional dos directores técnicos e dos responsáveis técnicos será feita sempre pela comissão consultiva, mediante testes escritos e orais de avaliação dos conhecimentos técnico-profissionais.
 
 2 - Para este efeito, a Direcção-Geral do Turismo enviar-lhe-á a documentação apresentada.
 
@@ -239,7 +258,7 @@ b) Contactar directamente com o interessado ou com os responsáveis pelas agênc
 
 6 - A decisão da comissão caduca se o interessado não entrar em funções.
 
-###### Art. 37.º - 1 - A mesma pessoa não pode desempenhar o cargo de director técnico ou de responsável técnico em 2 ou mais estabelecimentos simultaneamente, salvo nos casos previstos nos números seguintes.
+Art. 37.º - 1 - A mesma pessoa não pode desempenhar o cargo de director técnico ou de responsável técnico em 2 ou mais estabelecimentos simultaneamente, salvo nos casos previstos nos números seguintes.
 
 2 - Quando as sucursais ou as delegações de uma agência se situarem na mesma localidade da sede, o director técnico da agência poderá ser também responsável pelo funcionamento de todos os estabelecimentos.
 
@@ -249,19 +268,19 @@ b) Contactar directamente com o interessado ou com os responsáveis pelas agênc
 
 5 - Os directores técnicos e os responsáveis técnicos deverão acompanhar pessoalmente a actividade do estabelecimento, durante o período normal do seu funcionamento, e farão parte do quadro de pessoal da empresa, salvo tratando-se das pessoas referidas no n.º 2 do artigo 34.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) e dos «serviços de reservas».
 
-###### Art. 38.º - 1 - Nos casos previstos nos n.os 3 e 4 do artigo anterior, a empresa ou entidade interessada deve requerer a respectiva autorização antes de se verificar a situação de acumulação.
+Art. 38.º - 1 - Nos casos previstos nos n.os 3 e 4 do artigo anterior, a empresa ou entidade interessada deve requerer a respectiva autorização antes de se verificar a situação de acumulação.
 
 2 - Para este efeito, o requerimento deverá identificar os estabelecimentos e ser instruído com uma declaração do director técnico ou do responsável técnico aceitando a situação de acumulação requerida.
 
-###### Art. 49.º - 1 - As empresas devem actualizar os seus seguros no prazo que for fixado na portaria prevista no artigo anterior, o qual não poderá ser inferior a 90 dias contados da data da respectiva comunicação, enviando cópia da respectiva apólice à Direcção-Geral do Turismo.
+Art. 49.º - 1 - As empresas devem actualizar os seus seguros no prazo que for fixado na portaria prevista no artigo anterior, o qual não poderá ser inferior a 90 dias contados da data da respectiva comunicação, enviando cópia da respectiva apólice à Direcção-Geral do Turismo.
 
-###### Art. 50.º - 1 - Em caso de rescisão ou caducidade antecipada do seguro, sem se verificar a sua renovação, a companhia de seguros fica obrigada a comunicar o facto à Direcção-Geral do Turismo, no prazo máximo de 8 dias antes de o evento ter lugar, ou, se tal não lhe for possível, nos 8 dias seguintes.
+Art. 50.º - 1 - Em caso de rescisão ou caducidade antecipada do seguro, sem se verificar a sua renovação, a companhia de seguros fica obrigada a comunicar o facto à Direcção-Geral do Turismo, no prazo máximo de 8 dias antes de o evento ter lugar, ou, se tal não lhe for possível, nos 8 dias seguintes.
 
 2 - Aplica-se, nos casos previstos no número anterior, o disposto no n.º 1 do artigo 49.º deste diploma.
 
-###### Art. 76.º - 1 - A não observância do disposto nos artigos 45.º e 46.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) e n.º 1, alíneas b) e c), e n.º 3 do artigo 9.º do presente diploma será punida com a multa de 5000$00 a 20000$00.
+Art. 76.º - 1 - A não observância do disposto nos artigos 45.º e 46.º do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064) e n.º 1, alíneas b) e c), e n.º 3 do artigo 9.º do presente diploma será punida com a multa de 5000$00 a 20000$00.
 
-###### Art. 77.º - 1 - A comprovada falta de zelo das agências de viagens e turismo no que respeita aos direitos e interesses dos seus clientes, segundo os princípios gerais de direito e os usos próprios da actividade, implica sanções que irão de advertência a multa até 20000$00.
+Art. 77.º - 1 - A comprovada falta de zelo das agências de viagens e turismo no que respeita aos direitos e interesses dos seus clientes, segundo os princípios gerais de direito e os usos próprios da actividade, implica sanções que irão de advertência a multa até 20000$00.
 
 2 - A não exibição ao público, em lugar bem visível, da tabela de comissões e taxas a cobrar aos clientes pelas agências de viagens e turismo será punida com a multa de 5000$00 a 20000$00.
 
@@ -271,9 +290,9 @@ b) Contactar directamente com o interessado ou com os responsáveis pelas agênc
 
 5 - Nos casos previstos nos números anteriores, o director técnico da agência ou da sucursal ou o responsável pela delegação será punido com a suspensão do exercício do seu cargo por 1 a 3 meses.
 
-###### Art. 2.º Ao artigo 34.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296) é aditado um n.º 5, com a seguinte redacção:
+Art. 2.º Ao artigo 34.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296) é aditado um n.º 5, com a seguinte redacção:
 
-###### Art. 34.º - 1 - ...
+Art. 34.º - 1 - ...
 
 2 - ...
 
@@ -287,21 +306,21 @@ b) ...
 
 5 - Aos profissionais a que se refere o presente artigo é aplicável o disposto no n.º 8 do artigo anterior, com as necessárias adaptações.
 
-###### Art. 3.º A tabela a que se refere o artigo 65.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296), de 31 de Dezembro, e substituída pela tabela publicada em anexo ao presente diploma.
+Art. 3.º A tabela a que se refere o artigo 65.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296), de 31 de Dezembro, e substituída pela tabela publicada em anexo ao presente diploma.
 
-###### Art. 4.º É revogado o artigo 18.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296).
+Art. 4.º É revogado o artigo 18.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296).
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Luís Fernando Cardoso Nandim de Carvalho.
 
-**Promulgado em 18 de Fevereiro de 1983.**
+Promulgado em 18 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Fevereiro de 1983.**
+Referendado em 22 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Tabela anexa a que se refere o artigo 65.º do [Decreto Regulamentar n.º 84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296)
 

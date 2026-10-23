@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/587-1972-691806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d37c3d484e73dc4ce93396833fc9283602e589d279b29086eb98bcc4fe3ea507
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d8c70b269e343560116069ae5d477b57a011a3dac68f9755952579c17792de9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:244878:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:01Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +94,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 Regulamento da Concessão de Bolsas de Estudo
 
-###### Artigo 1.º - 1. As bolsas de estudo a conceder pelo Instituto Nacional de Saúde, ao abrigo do artigo 22.º do seu Regulamento, destinam-se, em princípio, a nacionais licenciados em Medicina e Cirurgia que dêem garantia de continuidade nas carreiras médicas, de saúde pública ou hospitalar, delas podendo ainda beneficiar outros diplomados por escolas superiores, particularmente técnicos superiores de laboratório que pertençam aos serviços de saúde pública ou hospitalar.
+Artigo 1.º - 1. As bolsas de estudo a conceder pelo Instituto Nacional de Saúde, ao abrigo do artigo 22.º do seu Regulamento, destinam-se, em princípio, a nacionais licenciados em Medicina e Cirurgia que dêem garantia de continuidade nas carreiras médicas, de saúde pública ou hospitalar, delas podendo ainda beneficiar outros diplomados por escolas superiores, particularmente técnicos superiores de laboratório que pertençam aos serviços de saúde pública ou hospitalar.
 
 2. Excepcionalmente, e quando daí se prevejam vantagens para os serviços de saúde pública ou hospitalares, poderão ser concedidas bolsas a outros técnicos de quaisquer daqueles serviços.
 
-###### Art. 2.º - 1. A atribuição das bolsas será feita, por despacho ministerial, mediante proposta da Comissão Coordenadora da Investigação Médica e o seu processamento deverá inserir-se em planos de conjunto a elaborar anualmente pela referida Comissão, a qual, para o efeito, atenderá à orientação geral dimanada do Gabinete de Estudos e Planeamento e do Conselho Consultivo do Instituto relativamente às prioridades a estabelecer no que se refere aos programas de investigação.
+Art. 2.º - 1. A atribuição das bolsas será feita, por despacho ministerial, mediante proposta da Comissão Coordenadora da Investigação Médica e o seu processamento deverá inserir-se em planos de conjunto a elaborar anualmente pela referida Comissão, a qual, para o efeito, atenderá à orientação geral dimanada do Gabinete de Estudos e Planeamento e do Conselho Consultivo do Instituto relativamente às prioridades a estabelecer no que se refere aos programas de investigação.
 
 2. A Comissão Coordenadora da Investigação Médica considerará como critérios gerais de prioridade para a atribuição de bolsas os seguintes:
 
@@ -116,7 +120,7 @@ c) Preparação de investigadores e técnicos em sectores de presumível aplica�
 
 4. Para efeito da apreciação e valorização relativa dos programas mencionados nos n.os 2 e 3 do presente artigo, poderá a Comissão Coordenadora da Investigação Médica socorrer-se do parecer de individualidades especialmente qualificadas nas matérias em apreço.
 
-###### Art. 3.º - 1. As bolsas a atribuir serão, quanto à sua duração e finalidade, de três tipos:
+Art. 3.º - 1. As bolsas a atribuir serão, quanto à sua duração e finalidade, de três tipos:
 
 a) De longa duração - de seis meses a um ano, prorrogáveis uma vez, destinadas a formação ou aperfeiçoamento técnico ou à execução de parte ou totalidade de trabalhos não exequíveis nas condições normais de trabalho dos candidatos nos centros a que estejam ligados;
 
@@ -128,7 +132,7 @@ c) De curta duração - até três meses, para informação, esclarecimento ou o
 
 3. Cabe à Comissão Coordenadora da Investigação Médica verificar se os centros que os candidatos pretendem frequentar são adequados aos fins em vista, competindo-lhe propor em substituição daqueles, se assim o entender, outros que porventura considere mais convenientes para o efeito.
 
-###### Art. 4.º - 1. As bolsas são pecuniárias e consistirão em quantitativo mensal que será anualmente determinado, para o País e para o estrangeiro, pela Comissão Coordenadora da Investigação Médica, de acordo com a orientação dimanada do Gabinete de Estudos e Planeamento.
+Art. 4.º - 1. As bolsas são pecuniárias e consistirão em quantitativo mensal que será anualmente determinado, para o País e para o estrangeiro, pela Comissão Coordenadora da Investigação Médica, de acordo com a orientação dimanada do Gabinete de Estudos e Planeamento.
 
 2. As bolsas concedidas para o estrangeiro cobrirão despesas de viagem, despesas de manutenção e, eventualmente, matrículas ou propinas inerentes a inscrições em cursos.
 
@@ -140,7 +144,7 @@ As despesas de viagem terão como base o preço das deslocações em avião em c
 
 5. Não será permitida a acumulação de bolsas do Instituto Nacional de Saúde com bolsas de outras instituições, salvo em casos excepcionais, que serão objecto de apreciação e decisão da Comissão Coordenadora da Investigação Médica.
 
-###### Art. 5.º - 1. Os candidatos a bolseiros deverão entregar a sua documentação de candidatura, patrocinada pelos centros a que pertençam ou em cujas actividades a sua preparação se integra, até ao dia 31 de Março de cada ano, devendo a Comissão Coordenadora da Investigação Médica pronunciar-se sobre o respectivo processo no prazo de dois meses após essa data.
+Art. 5.º - 1. Os candidatos a bolseiros deverão entregar a sua documentação de candidatura, patrocinada pelos centros a que pertençam ou em cujas actividades a sua preparação se integra, até ao dia 31 de Março de cada ano, devendo a Comissão Coordenadora da Investigação Médica pronunciar-se sobre o respectivo processo no prazo de dois meses após essa data.
 
 2. A documentação de candidatura será constituída pelos elementos seguintes:
 
@@ -160,7 +164,7 @@ f) Documento comprovativo da habilitação mencionada na alínea c) do n.º 1 do
 
 4. Sempre que possível, os candidatos farão também constar da documentação apresentada quaisquer elementos de consulta que tenham porventura já obtido dos responsáveis pelos centros que pretendem frequentar, sobre as condições que neles lhes serão facultadas.
 
-###### Art. 6.º - 1. Aos bolseiros serão exigíveis as seguintes condições:
+Art. 6.º - 1. Aos bolseiros serão exigíveis as seguintes condições:
 
 a) Aos licenciados em Medicina, como mínimo de habilitações, o internato geral ou de policlínica;
 
@@ -170,7 +174,7 @@ c) No caso das bolsas requeridas para o estrangeiro, o conhecimento, abonado por
 
 d) Para o caso das bolsas de longa duração, idade inferior a 40 anos, limite que, excepcionalmente e com a devida justificação, a Comissão Coordenadora da Investigação Médica poderá dispensar.
 
-###### Art. 7.º - 1. O bolseiro obriga-se a cumprir rigorosamente o regime de trabalho vigente no centro onde decorre o estágio ou aquele que o respectivo responsável lhe atribuir.
+Art. 7.º - 1. O bolseiro obriga-se a cumprir rigorosamente o regime de trabalho vigente no centro onde decorre o estágio ou aquele que o respectivo responsável lhe atribuir.
 
 2. O bolseiro não poderá interromper o seu estágio, salvo por doença ou por outro motivo de força maior, cuja justificação seja considerada aceitável pela Comissão Coordenadora da Investigação Médica.
 
@@ -180,8 +184,8 @@ d) Para o caso das bolsas de longa duração, idade inferior a 40 anos, limite q
 
 O prazo para a entrega do relatório final é de dois meses a contar do termo do estágio.
 
-###### Art. 8.º A falta de cumprimento de qualquer das obrigações estabelecidas no artigo 7.º será motivo suficiente para o cancelamento da bolsa.
+Art. 8.º A falta de cumprimento de qualquer das obrigações estabelecidas no artigo 7.º será motivo suficiente para o cancelamento da bolsa.
 
-###### Art. 9.º As dúvidas suscitadas na aplicação do presente Regulamento serão resolvidas por despacho ministerial, mediante parecer da Comissão Coordenadora da Investigação Médica, ouvido o director do Instituto.
+Art. 9.º As dúvidas suscitadas na aplicação do presente Regulamento serão resolvidas por despacho ministerial, mediante parecer da Comissão Coordenadora da Investigação Médica, ouvido o director do Instituto.
 
 Ministério da Saúde e Assistência, 26 de Setembro de 1972. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

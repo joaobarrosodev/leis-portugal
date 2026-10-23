@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/680-1974-472154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:33:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e7e35edbdcfb1a68dfdf3aa3e699bbe2fc405443e19fd7a246727eb92a3ba3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 257890ef875448c89481d3026bb18dd180c0ac6bf6de567f705b624ccd720e2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:33:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:198913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364740:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:33:12Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +112,7 @@ c) Sobre os preços dos bilhetes de excursões e circuitos turísticos;
 
 2. Das contas constarão sempre as datas e os nomes dos hóspedes, a numeração dos quartos e a discriminação da despesa.
 
-###### Art. 3.º Em serviços de excursões ou circuitos turísticos organizados pelas agências de viagens e de turismo que incluam o fornecimento de refeições, as respectivas agências cobrarão a taxa de turismo sobre o preço global do bilhete, não tendo os estabelecimentos similares de hotelaria de entregar na Delegação as contas que estão compreendidas naquele preço global.
+Art. 3.º Em serviços de excursões ou circuitos turísticos organizados pelas agências de viagens e de turismo que incluam o fornecimento de refeições, as respectivas agências cobrarão a taxa de turismo sobre o preço global do bilhete, não tendo os estabelecimentos similares de hotelaria de entregar na Delegação as contas que estão compreendidas naquele preço global.
 
 4.º Os estabelecimentos hoteleiros e similares são obrigados a ter um livro, com termos de abertura e encerramento e com todas as folhas rubricadas pelo presidente da Delegação, onde se inscreverão cronologicamente as importâncias sujeitas à taxa de turismo, com a indicação da pessoa que fez a despesa. Este livro será facultado à fiscalização da Delegação de Turismo, nos termos da legislação aplicável.
 

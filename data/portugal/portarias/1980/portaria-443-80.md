@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/443-1980-472102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d413cbd328f2dc82a6495ba98c48965a1635f1e4ba45b10c638066088e4af02f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e113ef5f79324ea7d5665a3606ea4a1a1556a70d07c276ab58bf47c58f2de851
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Pilotagem dos Portos
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:609829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:45Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +125,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 É alterado o artigo 73.º do [Decreto-Lei n.º 361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), de 27 de Novembro, que passa a ter a seguinte redacção:
 
-###### Art. 73.º - 1 - A aposentação e o cálculo das respectivas pensões de aposentação do pessoal no activo que já pertencia aos quadros das extintas corporações e secções de pilotos à data da entrada em vigor do presente diploma continuam a reger-se pelas disposições do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, com as alterações das disposições constantes da [Portaria n.º 279/76](https://diariodarepublica.pt/dr/detalhe/portaria/279-1976-427453), de 3 de Maio, e dos números seguintes.
+Art. 73.º - 1 - A aposentação e o cálculo das respectivas pensões de aposentação do pessoal no activo que já pertencia aos quadros das extintas corporações e secções de pilotos à data da entrada em vigor do presente diploma continuam a reger-se pelas disposições do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, com as alterações das disposições constantes da [Portaria n.º 279/76](https://diariodarepublica.pt/dr/detalhe/portaria/279-1976-427453), de 3 de Maio, e dos números seguintes.
 
 2 - O pessoal dos quadros do INPP que foi admitido ao abrigo do artigo 7º do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078) referido no número anterior poderá ser voluntariamente aposentado desde que tenha 60 ou mais anos de idade e satisfaça a exigência de tempo para a aposentação.
 

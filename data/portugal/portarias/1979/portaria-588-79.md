@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/588-1979-363143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 295715ca185f620897035c76f7c3c17b5503223119f3f663cb47d5fc4396e0d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fad38954d7730390fa89e04ad1437733d711bfdd2b5b03ebd573d33ca66215f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422834:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:17Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comuni
 
 Único. O corpo do artigo 129.º e o § 2.º do artigo 132.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), com a redacção dada pela [Portaria n.º 391/73](https://diariodarepublica.pt/dr/detalhe/portaria/391-1973-422834), de 4 de Junho, são alterados do seguinte modo:
 
-###### Art. 129.º As cartas dos oficiais são passadas pela Direcção-Geral do Pessoal do Mar. Para a contagem do tempo de embarque e das horas de navegação exigidos na obtenção da carta em cada categoria, os tirocínios do oficial serão registados num mapa individual, de modelo anexo a este diploma, que será preenchido sob a responsabilidade do respectivo chefe de serviço e confirmado pelo comandante, que o entregará ou mandará entregar, mediante recibo, na capitania ou no consulado do porto onde o navio der entrada, e a que for presente o rol de matrícula ou de tripulação e os diários náutico e de máquinas da embarcação, para ser conferido e visado e, seguidamente, remetido à referida Direcção-Geral.
+Art. 129.º As cartas dos oficiais são passadas pela Direcção-Geral do Pessoal do Mar. Para a contagem do tempo de embarque e das horas de navegação exigidos na obtenção da carta em cada categoria, os tirocínios do oficial serão registados num mapa individual, de modelo anexo a este diploma, que será preenchido sob a responsabilidade do respectivo chefe de serviço e confirmado pelo comandante, que o entregará ou mandará entregar, mediante recibo, na capitania ou no consulado do porto onde o navio der entrada, e a que for presente o rol de matrícula ou de tripulação e os diários náutico e de máquinas da embarcação, para ser conferido e visado e, seguidamente, remetido à referida Direcção-Geral.
 
 § 1.º ...
 
@@ -106,7 +121,7 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comuni
 
 ...
 
-###### Art. 132.º ...
+Art. 132.º ...
 
 § 1.º ...
 

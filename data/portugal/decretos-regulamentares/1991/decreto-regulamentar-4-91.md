@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/041b00/08080808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/1991/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1991-487689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1340aca488c3fcfc359137332c384ca8aa15a427824771b054541c3b2649453b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d72800e5b5f76a65f5f466c88428c8afe306a2e791946cf648d2ede37355f76a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80/1991/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80/1991/02/19/p/dre
+- type: cites
+  target: pt:dre:372797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278888:por
+  label: "Revogado em 09.03.2011 pela LEI.5/2011.02.03.2011.AR, DR.IS [43] de 02.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2011-278888
+  date: '2011-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:01Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +117,13 @@ Assim:
 
 Ao abrigo do artigo 6.º do [Decreto-Lei n.º 414-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798), de 15 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 22.º e 31.º, a epígrafe do capítulo X da parte II e o artigo 45.º do Regulamento das Ordens Honoríficas Portuguesas, aprovado pelo [Decreto Regulamentar n.º 71-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1986-372797), de 15 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 22.º e 31.º, a epígrafe do capítulo X da parte II e o artigo 45.º do Regulamento das Ordens Honoríficas Portuguesas, aprovado pelo [Decreto Regulamentar n.º 71-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1986-372797), de 15 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 22.º - 1 - As insígnias das condecorações nacionais precedem sempre as estrangeiras e as das ordens honoríficas portuguesas são colocadas, da direita para a esquerda, no lado esquerdo do peito, pela seguinte ordem de precedência: Torre e Espada, do Valor, Lealdade e Mérito, Cristo, Avis, Sant'Iago da Espada, Infante D. Henrique, Liberdade, Mérito, Instrução Pública e Mérito Agrícola, Comercial e Industrial.
+Art. 22.º - 1 - As insígnias das condecorações nacionais precedem sempre as estrangeiras e as das ordens honoríficas portuguesas são colocadas, da direita para a esquerda, no lado esquerdo do peito, pela seguinte ordem de precedência: Torre e Espada, do Valor, Lealdade e Mérito, Cristo, Avis, Sant'Iago da Espada, Infante D. Henrique, Liberdade, Mérito, Instrução Pública e Mérito Agrícola, Comercial e Industrial.
 
 2 - ...
 
-###### Art. 31.º - 1 - ...
+Art. 31.º - 1 - ...
 
 2 - ...
 
@@ -118,7 +135,7 @@ Ao abrigo do artigo 6.º do [Decreto-Lei n.º 414-A/86](https://diariodarepublic
 
 ### CAPÍTULO X — Ordem do Mérito Agrícola, Comercial e Industrial
 
-###### Art. 45.º - 1 - O distintivo da Ordem do Mérito Agrícola, Comercial e Industrial é constituído por uma estrela de nove pontas esmaltadas de verde, de azul ou de vermelho, segundo for do mérito agrícola, do comercial ou do industrial, perfilada e arraiada de ouro, tendo ao centro, em campo de ouro, o escudo nacional, contido em coroa circular de esmalte branco com a legenda «Mérito Agrícola», «Mérito Comercial» ou «Mérito Industrial», conforme a classe, em letras maiúsculas de ouro, e a fita chamalote, tripartida em palas, sendo a do centro branca e as laterais da cor da classe, de largura igual a dois terços da parte branca.
+Art. 45.º - 1 - O distintivo da Ordem do Mérito Agrícola, Comercial e Industrial é constituído por uma estrela de nove pontas esmaltadas de verde, de azul ou de vermelho, segundo for do mérito agrícola, do comercial ou do industrial, perfilada e arraiada de ouro, tendo ao centro, em campo de ouro, o escudo nacional, contido em coroa circular de esmalte branco com a legenda «Mérito Agrícola», «Mérito Comercial» ou «Mérito Industrial», conforme a classe, em letras maiúsculas de ouro, e a fita chamalote, tripartida em palas, sendo a do centro branca e as laterais da cor da classe, de largura igual a dois terços da parte branca.
 
 2 - As insígnias desta Ordem são:
 
@@ -134,22 +151,22 @@ Grande-oficial: [...]
 
 Grã-cruz: [...]
 
-###### Art. 2.º O distintivo e as insígnias da Ordem do Mérito Agrícola, Comercial e Industrial - classe do mérito comercial constam do modelo anexo ao presente diploma.
+Art. 2.º O distintivo e as insígnias da Ordem do Mérito Agrícola, Comercial e Industrial - classe do mérito comercial constam do modelo anexo ao presente diploma.
 
-###### Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
+Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1991.
 
 Presidência do Conselho de Ministros, 10 de Dezembro de 1990.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - José Albino da Silva Peneda - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 25 de Janeiro de 1991.**
+Promulgado em 25 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Janeiro de 1991.**
+Referendado em 30 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/041b00/08080808.pdf))](https://files.diariodarepublica.pt/1s/1991/02/041b00/08080808.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/041b00/08080808.pdf)

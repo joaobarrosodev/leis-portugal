@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23737-1968-262821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d6d2d956f3c48e30f8b3dd6d8935efc39aff0a998ac059861512ca45e7f44a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bb6bbb66e5e8d4ccb74754a778099c503d1f8556edbd2355709911fa12150be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:25Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +93,15 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 2.º «Remunerações acidentais», n.º 2) «Subvenção de campanha» ... 2200000$00
+Artigo 2.º «Remunerações acidentais», n.º 2) «Subvenção de campanha» ... 2200000$00
 
-###### Artigo 3.º «Outras despesas com o pessoal», n.º 1) «Ajudas de custo» ... 2400000$00
+Artigo 3.º «Outras despesas com o pessoal», n.º 1) «Ajudas de custo» ... 2400000$00
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisições de utilização permanente», n.º 3) «Móveis» ... 3000000$00
+Artigo 5.º «Aquisições de utilização permanente», n.º 3) «Móveis» ... 3000000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1) «De imóveis» ... 2500000$00
 
@@ -105,17 +109,17 @@ N.º 2) «De semoventes», alínea b) «Veículos com motor - Combustíveis e lu
 
 N.º 3 «De móveis» ... 500000$00
 
-###### Artigo 7.º «Material de consumo corrente», n.º 4) «Artigos de expediente e diverso material não especificado e embalagens» ... 1800000$00
+Artigo 7.º «Material de consumo corrente», n.º 4) «Artigos de expediente e diverso material não especificado e embalagens» ... 1800000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto», n.º 1) «Serviços clínicos e de hospitalização» ... 2000000$00
+Artigo 8.º «Despesas de higiene, saúde e conforto», n.º 1) «Serviços clínicos e de hospitalização» ... 2000000$00
 
-###### Artigo 9.º «Despesas de comunicações», n.º 2) «Telefones» ... 150000$00
+Artigo 9.º «Despesas de comunicações», n.º 2) «Telefones» ... 150000$00
 
-###### Artigo 11.º «Encargos administrativos», n.º 5) «Pagamento de serviços e encargos não especificados» ... 500000$00
+Artigo 11.º «Encargos administrativos», n.º 5) «Pagamento de serviços e encargos não especificados» ... 500000$00
 
-###### Artigo 13.º «Abono de família» ... 2500000$00
+Artigo 13.º «Abono de família» ... 2500000$00
 
 ... 20550000$00
 
@@ -123,9 +127,9 @@ tomando como contrapartida as disponibilidades que se indicam nas seguintes rubr
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Outras despesas com o pessoal», n.º 5) «Subvenção de família» ... 5250000$00
+Artigo 3.º «Outras despesas com o pessoal», n.º 5) «Subvenção de família» ... 5250000$00
 
-###### Artigo 14.º «Despesas de anos económicos findos» ... 15300000$00
+Artigo 14.º «Despesas de anos económicos findos» ... 15300000$00
 
 ... 20550000$00
 

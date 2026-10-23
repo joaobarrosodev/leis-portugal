@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/212-1973-674811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T04:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2772f60925c7947e28201a971c0abc5d8c43038394be0cf1d0520b54877a547
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 318b14dd6360dece02171449c4ba123a8251250fe426fc8fbfd4df731d31175f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:01:22Z'
   warnings: []
   errors: []
 ---
@@ -99,30 +107,30 @@ Regulmento de Uso Público de Serviço de Transmissão de Telegrafia Fac-Similad
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A rede telefónica nacional, adiante designada RFN, pode ser utilizada pelos seus assinantes para o estabelcimento de comunicações por comutação automática para transmissão de mensagens, correspondência comercial e outros documentos análogos por reprodução fac-similada.
+Artigo 1.º A rede telefónica nacional, adiante designada RFN, pode ser utilizada pelos seus assinantes para o estabelcimento de comunicações por comutação automática para transmissão de mensagens, correspondência comercial e outros documentos análogos por reprodução fac-similada.
 
-###### Art. 2.º A RFN, concebida e realizada para a transmissão da voz, será utilizada para os fins a que se refere o artigo anterior, no estado em que se encontra, não podendo os assinantes exigir trabalhos especiais de modificação da rede existente.
+Art. 2.º A RFN, concebida e realizada para a transmissão da voz, será utilizada para os fins a que se refere o artigo anterior, no estado em que se encontra, não podendo os assinantes exigir trabalhos especiais de modificação da rede existente.
 
-###### Art. 3.º Os assinantes não podem usar a RFN para transmissão de telegrafia fac-similada por forma a perturbar o serviço telefónico nacional, sendo obrigados a proceder prontamente a modificação das suas instalações que os serviços competentes dos CTT ou TLP reputem necessária e a aplicar qualquer novo condicionalismo que venha a ser estabelecido.
+Art. 3.º Os assinantes não podem usar a RFN para transmissão de telegrafia fac-similada por forma a perturbar o serviço telefónico nacional, sendo obrigados a proceder prontamente a modificação das suas instalações que os serviços competentes dos CTT ou TLP reputem necessária e a aplicar qualquer novo condicionalismo que venha a ser estabelecido.
 
-###### Art. 4.º Os assinantes não terão direito a quaisquer descontos nas taxas aplicáveis às comunicações telefónicas em caso de dificuldades resultantes de causas imputáveis à transmissão de telegrafia fac-similada.
+Art. 4.º Os assinantes não terão direito a quaisquer descontos nas taxas aplicáveis às comunicações telefónicas em caso de dificuldades resultantes de causas imputáveis à transmissão de telegrafia fac-similada.
 
 ### CAPÍTULO II — Postos telefónicos com faculdade de ligação de aparelhos para transmissão de telegrafia fac-similada
 
-###### Art. 5.º A ligação de aparelhos para transmissão de telegrafia fac-similada fica dependente de autorização mediante pedido do assinante, em que sejam especificados o tipo de aparelho que se pretende utilizar e o fim a que se destina.
+Art. 5.º A ligação de aparelhos para transmissão de telegrafia fac-similada fica dependente de autorização mediante pedido do assinante, em que sejam especificados o tipo de aparelho que se pretende utilizar e o fim a que se destina.
 
 § único. O assinante apresentará ainda toda a documentação técnica que lhe for exigida.
 
-###### Art. 6.º Os equipamentos de transmissão fac-similada devem ser instalados por forma a não impedir, modificar ou limitar a possibilidade normal de estabelecimento de comunicações telefónicas originadas no posto a que estejam ligados ou destinadas a este posto.
+Art. 6.º Os equipamentos de transmissão fac-similada devem ser instalados por forma a não impedir, modificar ou limitar a possibilidade normal de estabelecimento de comunicações telefónicas originadas no posto a que estejam ligados ou destinadas a este posto.
 
-###### Art. 7.º A transmissão de telegrafia fac-similada dirá respeito, exclusivamente, às actividades do próprio assinante.
+Art. 7.º A transmissão de telegrafia fac-similada dirá respeito, exclusivamente, às actividades do próprio assinante.
 
-###### Art. 8.º O assinante fica sujeito a todas as outras leis, regulamentos e normas aplicáveis às telecomunicações e é responsável pela pagamento das taxas e sobretaxas relativas às suas linhas de rede e à utilização destas.
+Art. 8.º O assinante fica sujeito a todas as outras leis, regulamentos e normas aplicáveis às telecomunicações e é responsável pela pagamento das taxas e sobretaxas relativas às suas linhas de rede e à utilização destas.
 
-###### Art. 9.º Nenhuma mudança fundamental pode ser realizada no equipamento autorizado sem o acordo prévio dos CTT ou TLP.
+Art. 9.º Nenhuma mudança fundamental pode ser realizada no equipamento autorizado sem o acordo prévio dos CTT ou TLP.
 
-###### Art. 10.º Os CTT ou TLP podem cancelar as autorizações concedidas desde que o interesse geral o justifique, com pré-aviso não inferior a um ano.
+Art. 10.º Os CTT ou TLP podem cancelar as autorizações concedidas desde que o interesse geral o justifique, com pré-aviso não inferior a um ano.
 
 § único. O cancelamento a que se refere o corpo deste artigo terá efeito imediato quando tenha resultado de infracções ao presente Regulamento.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

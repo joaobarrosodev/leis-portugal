@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/206a00/29862988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/1996/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1996-241671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00e952c4963f429327bc4fb31a4f30d7f6cc2587096ec6266d48a6c99092801b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 801717714903b6b9a6be2d24b5c5771201e5d4c100282a1517208661723f962a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - ALTO Comissário para a Imigração e Minorias Étnicas
 - ALTO Comissário para as Questões da Promoção da Igualdade e da Família
 - Anafre
-- Protecção à Família
 - Associação Nacional de Municípios Portugueses
-- Ministério da Administração Interna
 - Conselho Nacional da Família
-- Política de Família
+- Família
+- Ministério da Administração Interna
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
+- Ministério da Cultura
 - Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Solidariedade e Segurança Social
+- Ministério das Finanças
+- Ministério do Ambiente
 - Ministério do Planeamento e da Administração do Território
 - Ministério para a Qualificação e o Emprego
-- Ministério da Solidariedade e Segurança Social
-- Ministério da Cultura
-- Ministério das Finanças
-- Ministério da Justiça
-- Ministério do Ambiente
-- Secretário de Estado do Desporto
-- Ministério da Saúde
+- Política de Família
+- Protecção à Família
 - Secretaria de Estado da Administração Pública
 - Secretaria de Estado da Comunicação Social
 - Secretaria de Estado da Juventude
+- Secretário de Estado do Desporto
 relationships:
 - type: amended_by
   target: pt:dre:321282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138786:por
+  label: "Alterados os arts. 4º, 5º, 9º e 10º e aditados os arts. 9º-A e 10º-A pelo DEC LEI.101/99.1999.03.31.PCM, DR.IS-A\
+    \ [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-1999-138786
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade, do Conselho Nacional da Família, criado\
+    \ pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/3-b/1996/01/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/3-b/1996/01/26/p/dre
+- type: cites
+  target: pt:dre:219554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397334:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321282:por
+  label: "Revogado pelo DEC LEI.150/2000.2000.07.20.MTS,DR.IS-A [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2000-321282
+  date: '2000-07-20'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:37Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +213,9 @@ b) Secção das Associações Autárquicas;
 
 c) Secção de Organizações não Governamentais.
 
-###### Artigo 5.º — Secção Interministerial
+###### Artigo 5.º
+
+#### Secção Interministerial
 
 1 - A Secção Interministerial é composta pelos representantes dos seguintes departamentos do Estado:
 
@@ -240,7 +271,9 @@ c) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos para efeitos d
 
 d) Acompanhar e avaliar a execução das medidas da política familiar que decorram de compromissos assumidos internacionalmente.
 
-###### Artigo 7.º — Secção das Associações Autárquicas
+###### Artigo 7.º
+
+#### Secção das Associações Autárquicas
 
 A Secção das Associações Autárquicas é composta por um representante da Associação Nacional de Municípios e um representante da Associação Nacional de Freguesias.
 
@@ -256,7 +289,9 @@ c) Pronunciar-se sobre a elaboração e execução de projectos específicos em 
 
 d) Propor novas formas de apoio às famílias.
 
-###### Artigo 9.º — Secção das Organizações não Governamentais
+###### Artigo 9.º
+
+#### Secção das Organizações não Governamentais
 
 1 - A Secção das Organizações não Governamentais é composta por:
 
@@ -306,12 +341,12 @@ São revogados os Decretos-Leis n.os [304/82](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Guilherme d'Oliveira Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa - Rui Vieira Nery - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Agosto de 1996.**
+Promulgado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Agosto de 1996.**
+Referendado em 23 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

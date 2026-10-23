@@ -46,40 +46,174 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/494-1976-429985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 387cc1ed4433c5829e487b8a0412ec4e5ede8bb26e9b6e0b460722489af16471
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9631b6328f7a10690a6f27ca0029982e9a1c403ee9e5b94bff246e023a84b753
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1325652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251857:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Arranhadouro», situado na freguesia de S. Cristóvão,
+    concelho de Montemor-o-Novo, o presente diploma, pelo(a) Portaria n.º 229/77 - Diário da República n.º 100/1977, Série
+    I de 1977-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-1977-251857
+  date: '1977-04-30'
+- type: amended_by
+  target: pt:dre:250050:por
+  label: Derrogada em parte, pelo(a) Portaria n.º 382/77 - Diário da República n.º 145/1977, Série I de 1977-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1977-250050
+  date: '1977-06-25'
+- type: amended_by
+  target: pt:dre:250797:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Pinheiro do Mato», pelo(a) Portaria n.º 441/77
+    - Diário da República n.º 164/1977, Série I de 1977-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/441-1977-250797
+  date: '1977-07-18'
+- type: amended_by
+  target: pt:dre:251192:por
+  label: Derrogada, na parte relativa à expropriação do prédio rústico denominado «Corte Rabos de Cima», situado na freguesia
+    de S. Cristóvão, concelho de Montemor-o-Novo, pelo(a) Portaria n.º 459/77 - Diário da República n.º 172/1977, Série I
+    de 1977-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/459-1977-251192
+  date: '1977-07-27'
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:446534:por
+  label: Alterada, no que respeita ao nome nela indicado como sendo da proprietária dos prédios denominados «Pomares» e «Pedra
+    Longa», pelo(a) Portaria n.º 100/78 - Diário da República n.º 42/1978, Série I de 1978-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1978-446534
+  date: '1978-02-20'
+- type: amended_by
+  target: pt:dre:446687:por
+  label: Derrogada, no que concerne à expropriação do prédio rústico Guerreira, a presente portaria pelo(a) Portaria n.º 119/78
+    - Diário da República n.º 48/1978, Série I de 1978-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1978-446687
+  date: '1978-02-27'
+- type: amended_by
+  target: pt:dre:294535:por
+  label: Prorrogado até 31.09.1978 o prazo de intervenção do Estado na Companhia Agrícola da Barrosinha, S. A. R. L. pelo(a)
+    Resolução n.º 83/78 - Diário da República n.º 123/1978, Série I de 1978-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/83-1978-294535
+  date: '1978-05-30'
+- type: amended_by
+  target: pt:dre:476542:por
+  label: "Prorrogado, até 31.03.1979, o prazo de intervenção do Estado na Companhia Agrícola da Barrosinha, expropriada pelo\
+    \ presente diploma, pela RES.1/79.03.01.1979.PCM, DR.IS [2] de 03.01.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1-1979-476542
+  date: '1979-01-03'
+- type: amended_by
+  target: pt:dre:393638:por
+  label: "Derrogada, no referente ao prédio rústico Herdade da Serra, concelho de Montemor-o-Novo, pela PORT.92/79.21.02.1979.MAP,\
+    \ DR.IS [44] de 21.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-1979-393638
+  date: '1979-02-21'
+- type: amended_by
+  target: pt:dre:382613:por
+  label: "Prorrogado, até 31.07.1979, o prazo de intervenção do Estado na Companhia Agrícola da Barrosinha, expropriada pelo\
+    \ presente diploma, pela RES.155/79.18.05.1979.PCM, DR.IS [114] de 18.05.1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/155-1979-382613
+  date: '1979-05-18'
+- type: amended_by
+  target: pt:dre:383387:por
+  label: "Derrogada, relativamente aos prédios rústicos denominados «Casa Branca» e «Banhos» pela PORT.271/79.07.06.1979.MAP,\
+    \ DR.IS [131] de 07.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-1979-383387
+  date: '1979-06-07'
+- type: amended_by
+  target: pt:dre:381102:por
+  label: "Derrogado, relativamente ao prédio rústico denominado \"Barroca\",pela PORT.293/79.22.06.1979.MAP, DR.IS [142] de\
+    \ 22.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/293-1979-381102
+  date: '1979-06-22'
+- type: amended_by
+  target: pt:dre:382220:por
+  label: "Derrogada no que se refere ao prédio rústico denominado «Landina»., pela PORT.363/79.24.07.1979.MAP, DR.IS [169]\
+    \ de 24.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-1979-382220
+  date: '1979-07-24'
+- type: amended_by
+  target: pt:dre:463986:por
+  label: "Derrogada, na parte referente aos prédios rústicos \"Andrades\", \"Montinho do Vale do Pereira\" e \"Carrascal\"\
+    , pela PORT.555/80.01.09.1980.MAP, DR.IS [201] de 01.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/555-1980-463986
+  date: '1980-09-01'
+- type: amended_by
+  target: pt:dre:461793:por
+  label: "Derrogados, na parte respeitante aos prédios rústicos denominados «Herdade dos Clérigos» e «Herdade do Trambolho»,\
+    \ expropriados pelo presente diploma, pela PORT.736/80.26.09.1980.MAP, DR.IS [223] de 26.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-1980-461793
+  date: '1980-09-26'
+- type: amended_by
+  target: pt:dre:462798:por
+  label: "Derrogada, na parte respeitante ao prédio rústico denominado \"Fiúza Mouzinheirio e Azinhalinho\", pela PORT.856/80.22.10.1980.MAP,\
+    \ DR.IS [245] de 22.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/856-1980-462798
+  date: '1980-10-22'
+- type: amended_by
+  target: pt:dre:459897:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado \"Cofenos de Cima\", pela PORT.1067/80.15.12.1980.MAP,\
+    \ DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-1980-459897
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:387978:por
+  label: "Derrogada, relativamente ao prédio rústico denominado \"Pereira Candeeira, Cvalinhos, Abraão e Courela das Figueiras\"\
+    \ aprovada pelo presente diploma, pela PORT.279/81.19.03.1981.MAP, DR.IS [65] de 19.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/279-1981-387978
+  date: '1981-03-19'
+- type: amended_by
+  target: pt:dre:576964:por
+  label: "Derrogada, relativamente ao prédio rústico «Outeiro», pela PORT.655/81.01.08.1981.MAP, DR.IS [175] de 01.08.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/655-1981-576964
+  date: '1981-08-01'
+- type: amended_by
+  target: pt:dre:1325652:por
+  label: "Derrogada, na parte em que expropria os prédios rústicos \"Vale Rodrigo\" e \"Montinho da Costa Braço\", pela PORT.DD348.19.09.1990.PCM,\
+    \ DR.IIS [217] de 19.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-1325652
+  date: '1990-09-19'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:59Z'
   warnings: []
   errors: []
 ---

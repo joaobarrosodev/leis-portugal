@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/1996/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1996-241673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d1ed52349552ad047a7c99a208de3cd16cc74598b3230112dfbb57139b3ee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50c9ca449a93c2a82a7526ae0da6990e998e97bb5b36e3998a743259da0b524c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Autarquia Local
 - Contrato de Concessão
 - Ersuc-resíduos Sólidos de Coimbra
+- Gestão de Resíduos
 - Proteção do Ambiente
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do Litoral Centro
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:25345604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345604:por
+  label: Alterados, a partir de 03.07.2014, os arts. 1.º e 3.º, aditados os arts 8.º e 9.º e revogados os art. 2.º, os n.ºs
+    2 e 3 do art. 3.º e os arts. 4.º, 5.º, 6.º e 7.º do presente diploma, bem como alterados os arts 2.º, 3.º, 4.º, 5.º, 8.º,
+    9.º, 10.º, 12.º, 14.º, 18.º, 19.º e 25.º, aditado o art 25.º-A e revogados o art 6.º, o n.º 3 do art 8.º, os n.ºs 1 e
+    2 do art 9.º e o n.º 3 do art 10.º dos estatutos anexos, na redação e republicação atual, pelo(a) Decreto-Lei n.º 102/2014
+    - Diário da República n.º 125/2014, Série I de 2014-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2014-25345604
+  date: '2014-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/294/1994/11/16/p/dre
   label: null
@@ -89,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:37Z'
   warnings: []
   errors: []
 ---
@@ -193,17 +222,19 @@ f) Outros equipamentos que se revelem necessários.
 
 Visto e aprovado em Conselho de Ministros 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Agosto de 1996.**
+Promulgado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1996.**
+Referendado em 21 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

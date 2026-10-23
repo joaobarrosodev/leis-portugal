@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01000/0030700336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2009/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2009-603187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a091ee8ebe62d8e17ec45fe19c3c3453bf36997a787b4741e43a37a9056b509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d16025dbe4eac3fb104393bf362b156c49daef560529e293f6d0e737866ad78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
+- Comércio
+- Embarcação
 - Equipamento Marítimo
-- Instalações Radioelétricas
 - Fabrico Industrial
+- Instalações Radioelétricas
 - Normas de Segurança
 - Poluição Marinha
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:895836013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611925:por
+  label: "Alterado o anexo ao Dec Lei 24/2004, de 23-Jan, na redacção do presente diploma, pelo DEC LEI.17/2010.17.03.2010.MOPTC,\
+    \ DR.IS [53] de 17.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2010-611925
+  date: '2010-03-17'
+- type: amended_by
+  target: pt:dre:542273:por
+  label: "Dada nova redação ao anexo do Dec Lei 24/2004 de 23-jan, alterado pelo presente diploma, pelo DEC LEI.53/2012.08.03.2012.MAMAOT,\
+    \ DR.IS [49] de 08.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2012-542273
+  date: '2012-03-08'
+- type: amended_by
+  target: pt:dre:174827:por
+  label: "Alterado o anexo ao Dec Lei 24/2004, de 23-jan, na redação do presente diploma, pelo DEC LEI.207/2012.03.09.2012.MAMAOT,\
+    \ DR.IS [170] de 03.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2012-174827
+  date: '2012-09-03'
+- type: amended_by
+  target: pt:dre:498723:por
+  label: "Dada nova redação ao anexo do Dec Lei 24/2004 de 23-jan, alterado pelo presente diploma, pelo DEC LEI.104/2013.29.07.2013.MAMAOT,\
+    \ DR.IS [144] de 29.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2013-498723
+  date: '2013-07-29'
+- type: amended_by
+  target: pt:dre:58815312:por
+  label: Dada nova redação ao anexo do Dec Lei 24/2004 de 23-jan, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º
+    170-C/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-c-2014-58815312
+  date: '2014-11-07'
 - type: cites
   target: celex:31996L0098
   label: null
@@ -102,16 +132,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/2004/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/2004/01/23/p/dre
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado o Dec Lei 24/2004, de 23-jan, na redação do presente diploma pelo(a) Decreto-Lei n.º 63/2017 - Diário da
+    República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:06Z'
   warnings: []
   errors: []
 ---
@@ -146,15 +182,15 @@ Os equipamentos assinalados como «item novo» na coluna com o título «Designa
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 30 de Dezembro de 2008.**
+Promulgado em 30 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Dezembro de 2008.**
+Referendado em 31 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -216,4 +252,4 @@ e) Coluna 6 - quando é indicado o módulo H, pretende-se designar o módulo H m
 
 f) As prescrições do presente anexo não prejudicam as prescrições das convenções internacionais relativas ao transporte de equipamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01000/0030700336.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01000/0030700336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01000/0030700336.pdf)

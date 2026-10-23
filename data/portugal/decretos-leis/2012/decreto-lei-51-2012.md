@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2012/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2012-542399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 576e8a8769b466ce9a70a614f1a5e3f1a942b50ec1f731773bab7c99fd2139f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42d4e184b43d1664617450637baba915c785d1dd3d8f1aeefa72964f49e2126
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Embarcação
-- Proteção do Ambiente
 - Poluição Marinha
+- Proteção do Ambiente
 - Segurança Marítima
 relationships:
 - type: cites
@@ -93,14 +93,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/2009/391/oj
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:34Z'
   warnings: []
   errors: []
 ---
@@ -229,21 +229,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 12 de Janeiro de 2012.**
+Promulgado em 12 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Janeiro de 2012.**
+Referendado em 16 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — Critérios mínimos relativamente aos inspectores do Estado de bandeira
 
 [a que se refere a alínea e) do artigo 2.º]
 
-# PARTE A
+## PARTE A
 
 1 - Os inspectores devem possuir autorização da administração marítima nacional para realizar as vistorias e inspecções previstas nas convenções da OMI referidas no artigo 3.º
 
@@ -265,7 +265,7 @@ c) Dispor de um diploma universitário ou equiparado relevante e sido adequadame
 
 7 - Os inspectores que não preencham os critérios atrás referidos são também aceites se, em 31 de Dezembro de 2011, estiverem ao serviço da administração marítima nacional e autorizados por esta a realizarem as vistorias e inspecções previstas nas convenções da OMI referidas no artigo 3.º ou as inspecções no âmbito do controlo pelo Estado do porto.
 
-# PARTE B
+## PARTE B
 
 O cartão de identificação dos inspectores do Estado de bandeira deve conter as seguintes informações:
 

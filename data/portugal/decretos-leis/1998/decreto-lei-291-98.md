@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/215a00/48124813.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/291/1998/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1998-241415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bb7dd9a13a49f5265231ee4b90535e23e4cba3b919ba0e0c3cf7bd913c9fd5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e2e96fe5ac56d82357431a6e1a2f642b5ec304c2aeccb5480d7842b898d6ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Farmacêutica
 - CEE
+- Comércio
 - Comparticipação do Estado
 - Direcção Geral de Assuntos Farmacêuticos
+- Indústria Farmacêutica
 - Medicamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:560266:por
+  label: "Alterados os artºs. 2º, 19º, 20º, 21º e 23º do Dec Lei 72/91 de 08-Fev DR.IS-A [33], na redacção do presente diploma,\
+    \ pelo DEC LEI.242/2000.2000.09.26.MS, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2000-560266
+  date: '2000-09-26'
+- type: amended_by
+  target: pt:dre:223427:por
+  label: "Alterado o art. 2º do Dec Lei 72/91 de 08-Fev, com a redacção do presente diploma, pelo DEC LEI.90/2004.20.04.2004.MS,\
+    \ DR.IS-A [93] de 20.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2004-223427
+  date: '2004-04-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/1993/07/09/p/dre
   label: null
@@ -90,16 +102,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/623/1992/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/623/1992/07/01/p/dre
+- type: cites
+  target: pt:dre:304683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223251:por
+  label: "Revogadas as als. c) e d) do art. 2.º do Dec Lei 72/91, de 08-Fev, alterado no presente diploma e nos Dec Lei 242/2000,\
+    \ de 26-Set, Dec Lei 90/2004, de 20-Abr e Dec Lei 249/93, de 09-Set, pelo DEC LEI.95/2004.22.04.2004.MS, DR.IS-A [95]\
+    \ de 22.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2004-223251
+  date: '2004-04-22'
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:22Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +196,9 @@ j) Denominação comum internacional (DCI): designação adoptada ou proposta pe
 
 l) Nome genérico: designação pela qual a substância activa de um medicamento é conhecida, que não corresponde a uma DCI aprovada ou recomendada, e não é objecto de registo de marca ou de nome.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A autorização de introdução no mercado de medicamentos genéricos está sujeita ao disposto na secção I deste capítulo.
 
@@ -178,11 +224,15 @@ c) Pela denominação comum internacional das substâncias activas seguida do no
 
 2 - Na falta de denominação comum internacional das substâncias activas, o medicamento é identificado pelo nome genérico, sem prejuízo das restantes formas de identificação previstas no número anterior.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 O director técnico de farmácia ou, sob sua autorização e responsabilidade, o farmacêutico-adjunto deve rubricar a receita no acto de dispensa de medicamentos genéricos, sempre que estes sejam identificados nos termos da alínea a) do n.º 1 do artigo anterior.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 O regime de preços dos medicamentos genéricos é aprovado por portaria conjunta dos Ministérios das Finanças, da Saúde e da Economia.»
 
@@ -192,12 +242,12 @@ Mantém-se em vigor a [Portaria n.º 623/92](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1998. - Jaime José Matos da Gama - Fernando Teixeira dos Santos - Vítor Manuel Sampaio Caetano Ramalho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 3 de Setembro de 1998.**
+Promulgado em 3 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Setembro de 1998.**
+Referendado em 8 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

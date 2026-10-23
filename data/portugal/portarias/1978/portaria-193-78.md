@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08200/06370641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-1978-446916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:35:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbebbf5968a11eb8a6143f24e709babe2d9000368ab01d50834ad2d1c9668e89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1541d8dfb0374b1021e302b7b3b55f5497fa9cdffee46ff0f70858011c3bb26f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:35:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fardamento
+- Marinha
+- Militar
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:35:09Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 1.º No RUPESPA, os artigos 6.º, 7.º, 10.º, 17.º e 44.º, o § 1.º do artigo 47.º, os artigos 55.º, 56.º, 63.º, 78.º, 79.º, 85.º e 89.º e os n.os 2), 3) e 7) do artigo 142.º passam a ter a seguinte redacção:
 
-###### Art. 6.º A blusa azul para praças (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete de 0,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
+Art. 6.º A blusa azul para praças (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete de 0,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
 
 A manga é de uma só costura, com canhão sobreposto do próprio tecido, de 0,050 m de altura, pregado com quatro pespontos paralelos, formando dois bicos, nos quais o canhão atinge a altura máxima de 0,080 m.
 
@@ -108,7 +120,7 @@ Para os cabos reunindo todas as condições de promoção (fig. 47) o intervalo 
 
 Para as praças especializadas em submarinos, monitores e fuzileiros especiais, a blusa leva no peito, do lado direito, uma elipse de pano azul-ferrete com as mesmas dimensões das dos distintivos da classe, contendo o distintivo da respectiva especialização bordado a fio de algodão perlé vermelho-cochonilha. No caso da especialização em submarinos, o eixo maior da elipse está no sentido horizontal, enquanto nas outras especializações está colocado verticalmente.
 
-###### Art. 7.º A blusa branca para praças é de algodão e de terylene branco, com o talhe da azul. A parte inferior dos canhões das mangas e do corpo da blusa tem um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto branco.
+Art. 7.º A blusa branca para praças é de algodão e de terylene branco, com o talhe da azul. A parte inferior dos canhões das mangas e do corpo da blusa tem um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto branco.
 
 A fita de seda para prender a manta é branca, sendo igualmente brancos os ilhós onde ela enfia e os botões de massa dos canhões.
 
@@ -120,13 +132,13 @@ Na blusa branca apenas se usam os distintivos de especialização em submarinos,
 
 ...
 
-###### Art. 10.º O boné para sargentos-mores, sargentos-chefes e sargentos-ajudantes é igual ao determinado para os oficiais subalternos, usando-se com a capa branca amovível.
+Art. 10.º O boné para sargentos-mores, sargentos-chefes e sargentos-ajudantes é igual ao determinado para os oficiais subalternos, usando-se com a capa branca amovível.
 
 ...
 
-###### Art. 17.º Os botões para sargentos-mores, sargentos-chefes e sargentos-ajudantes são iguais aos usados pelos oficiais nos mesmos uniformes.
+Art. 17.º Os botões para sargentos-mores, sargentos-chefes e sargentos-ajudantes são iguais aos usados pelos oficiais nos mesmos uniformes.
 
-###### Art. 44.º Os distintivos de postos e graduação são os seguinte:
+Art. 44.º Os distintivos de postos e graduação são os seguinte:
 
 1) Sargento-mor (fig. 40-A) - Em cada manga, platina ou passadeira, sobre um disco filetado de ouro, um escudo nacional sem distinção de esmaltes, todo de prata com os móveis de ouro, circundado por uma capela formada por um ramo de loureiro à dextra e um de carvalho à sinistra, atados com um torsal, tudo de ouro; sobreposto o disco a dois galões de ouro.
 
@@ -174,17 +186,17 @@ O cabo que reúna todas as condições de promoção usa nas mangas, por baixo d
 
 11) Os alunos de qualquer curso para o ingresso numa classe, se forem já praças da Armada antes de frequentarem o respectivo curso, continuam a usar os distintivos a que têm direito até ingressarem na nova classe.
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § 1.º Estes distintivos, à excepção dos de submarinos, monitores e fuzileiros especiais, apenas se usam na manga do braço esquerdo da blusa azul, dentro da elipse e sob o distintivo da classe respectiva.
 
 ...
 
-###### Art. 55.º O dólman branco para sargentos-mores, sargentos-chefes e sargentos-ajudantes (figs. 95 e 96) é igual ao determinado para os oficiais, tendo em cada ombro duas pequenas passadeiras do mesmo tecido para fixação da platina rígida.
+Art. 55.º O dólman branco para sargentos-mores, sargentos-chefes e sargentos-ajudantes (figs. 95 e 96) é igual ao determinado para os oficiais, tendo em cada ombro duas pequenas passadeiras do mesmo tecido para fixação da platina rígida.
 
 Os sargentos-mores, sargentos-chefes e sargentos-ajudantes especializados em submarinos, monitores e fuzileiros especiais usam no peito, do lado direito, o respectivo distintivo de especialização, confeccionado em metal dourado.
 
-###### Art. 56.º O dólman branco para primeiros-sargentos, segundos-sargentos e praças da música (figs. 97 e 98) é de algodão e terylene branco, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
+Art. 56.º O dólman branco para primeiros-sargentos, segundos-sargentos e praças da música (figs. 97 e 98) é de algodão e terylene branco, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
 
 Abotoa à frente com uma ordem de seis botões do padrão n.º 1 para os primeiros-sargentos e segundos-sargentos e do padrão n.º 3 para as praças da música; o botão superior fica distanciado 0,030 m da gola.
 
@@ -198,7 +210,7 @@ Nos ombros têm platinas fixas do mesmo algodão e terylene, com 0,040 m de larg
 
 Os primeiros-sargentos e segundos-sargentos, especializados em submarinos, monitores e fuzileiros especiais usam no peito, do lado direito, o respectivo distintivo de especialização confeccionado em metal dourado.
 
-###### Art. 63.º O jaquetão azul para sargentos-mores, sargentos-chefes e sargentos-ajudantes (figs. 103 e 104), é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada, com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões de metal iguais aos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
+Art. 63.º O jaquetão azul para sargentos-mores, sargentos-chefes e sargentos-ajudantes (figs. 103 e 104), é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada, com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões de metal iguais aos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
 
 Mangas fechadas sem canhões, mas com dois botões pequenos de metal iguais aos dos oficiais, junto à costura.
 
@@ -210,19 +222,19 @@ Em ambas as mangas, na folha exterior, o jaquetão leva cosida, a 0,140 m do pre
 
 Para os sargentos-mores, sargentos-chefes e sargentos-ajudantes especializados em submarinos, monitores e fuzileiros especiais o jaquetão leva no peito, do lado direito, uma elipse de pano de lã azul-ferrete, com as mesmas dimensões dos distintivos de classe, contendo o distintivo de especialização bordado a fio de ouro. No caso de especialização em submarinos o eixo maior da elipse está no sentido horizontal, enquanto nas outras especializações está colocado verticalmente. Para as restantes especializações a elipse do distintivo de classe, colocado no braço esquerdo, leva inferiormente o respectivo distintivo de especialização bordado a fio de ouro.
 
-###### Art. 78.º As passadeiras para primeiros-marinheiros (fig. 116) são iguais às anteriores mas apenas com uma divisa.
+Art. 78.º As passadeiras para primeiros-marinheiros (fig. 116) são iguais às anteriores mas apenas com uma divisa.
 
-###### Art. 79.º As passadeiras para segundos-marinheiros são iguais às de primeiro-marinheiro, mas cada divisa tem 0,004 m de largura.
+Art. 79.º As passadeiras para segundos-marinheiros são iguais às de primeiro-marinheiro, mas cada divisa tem 0,004 m de largura.
 
-###### Art. 85.º As platinas para sargentos-mores, sargentos-chefes e sargentos-ajudantes são rígidas, iguais às determinadas para os oficiais subalternos, mas com os distintivos indicados nos artigos 73.º-A e 74.º, e tendo na face inferior um dispositivo apropriado para enfiar nas pequenas passadeiras de algodão e terylene branco existentes nos ombros do dólman branco.
+Art. 85.º As platinas para sargentos-mores, sargentos-chefes e sargentos-ajudantes são rígidas, iguais às determinadas para os oficiais subalternos, mas com os distintivos indicados nos artigos 73.º-A e 74.º, e tendo na face inferior um dispositivo apropriado para enfiar nas pequenas passadeiras de algodão e terylene branco existentes nos ombros do dólman branco.
 
-###### Art. 89.º O sobretudo para sargentos-mores, sargentos-chefes e sargentos-ajudantes (figs. 128 e 129) é de pano de lã azul-ferrete e de modelo igual ao determinado para os oficiais, tendo nos ombros platinas fixas do mesmo pano, com 0,040 m de largura, para enfiar as passadeiras; do lado esquerdo tem uma abertura vertical de 0,070 m de comprimento para suspensão da espada. É assertoado, com duas ordens paralelas de cinco botões pretos do padrão n.º 5, dos quais os quatro inferiores são para usar abotoados; os botões superiores das duas ordens ficam debaixo das bandas, por forma a permitir cruzar a gola e abotoar o quinto botão, quando necessário. Os botões das platinas e os da abertura inferior das costas (em carcela) são pretos, do padrão n.º 7.
+Art. 89.º O sobretudo para sargentos-mores, sargentos-chefes e sargentos-ajudantes (figs. 128 e 129) é de pano de lã azul-ferrete e de modelo igual ao determinado para os oficiais, tendo nos ombros platinas fixas do mesmo pano, com 0,040 m de largura, para enfiar as passadeiras; do lado esquerdo tem uma abertura vertical de 0,070 m de comprimento para suspensão da espada. É assertoado, com duas ordens paralelas de cinco botões pretos do padrão n.º 5, dos quais os quatro inferiores são para usar abotoados; os botões superiores das duas ordens ficam debaixo das bandas, por forma a permitir cruzar a gola e abotoar o quinto botão, quando necessário. Os botões das platinas e os da abertura inferior das costas (em carcela) são pretos, do padrão n.º 7.
 
 No sobretudo não se usam distintivos de especialização.
 
 ...
 
-###### Art. 142.º ...
+Art. 142.º ...
 
 1) ...
 
@@ -248,11 +260,11 @@ Sargentos-mores, sargentos-chefes e sargentos-ajudantes.
 
 4.º Ao Regulamento que se tem vindo a citar são acrescentadas as figuras 40-A, 40-B, 111-A e 111-B em anexo a esta portaria e os artigos 73.º-A e 80.º, com a seguinte redacção respectiva:
 
-###### Art. 73.º-A - As passadeiras para sargentos-mores e sargentos-chefes (figs. 111-A e 111-B, respectivamente), são de pano de lã azul-ferrete, consistente, próprias para serem enfiadas nas presilhas fixas existentes nos ombros de certos uniformes (bata, camisa azul, camisa branca, padrão n.º 3, casaco de zuarte, fato de zuarte, gabardina, impermeável, sobretudos e uniformes camuflados e de exercício), formando um rectângulo de 0,115 m x 0,058 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro e com o distintivo de posto bordado a fio de ouro e prata.
+Art. 73.º-A - As passadeiras para sargentos-mores e sargentos-chefes (figs. 111-A e 111-B, respectivamente), são de pano de lã azul-ferrete, consistente, próprias para serem enfiadas nas presilhas fixas existentes nos ombros de certos uniformes (bata, camisa azul, camisa branca, padrão n.º 3, casaco de zuarte, fato de zuarte, gabardina, impermeável, sobretudos e uniformes camuflados e de exercício), formando um rectângulo de 0,115 m x 0,058 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro e com o distintivo de posto bordado a fio de ouro e prata.
 
 ...
 
-###### Art. 80.º As passadeiras para primeiros-grumetes e segundos-grumetes (fig. 117) são iguais às do marinheiro, mas sem divisa alguma.
+Art. 80.º As passadeiras para primeiros-grumetes e segundos-grumetes (fig. 117) são iguais às do marinheiro, mas sem divisa alguma.
 
 5.º A legendas das figuras 48, 95, 96, 103 e 104 do citado Regulamento passam a ter a seguinte redacção:
 
@@ -270,4 +282,4 @@ Fig. 104 - Jaquetão para sargentos-mores, sargentos-chefes e sargentos-ajudante
 
 Estado-Maior da Armada, 1 de Março de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08200/06370641.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08200/06370641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08200/06370641.pdf)

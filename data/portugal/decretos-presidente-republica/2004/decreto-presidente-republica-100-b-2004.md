@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 298/2004, 1º Suplemento, Série I-A de 2004-12-22
   number: '298'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7286-(2) a 7286-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/298a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/100-b/2004/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/100-b-2004-292680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9dd76fb9adc65db3e4b2c0d482fd6eb8b7b7c77ab756041876b7d3c6cf7a84f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 191fea40c30835052a57c4335767add57d08f6a7452c8de0120fbaf407e8f095
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Assembleia da República
 - Dissolução do Parlamento
 - Eleição Legislativa
-- Assembleia da República
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:46:28Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +87,7 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República decreta, ouvidos os partidos representados na Assembleia da República e o Conselho de Estado, nos termos dos artigos 133.º, alínea e), e 113.º, n.º 6, da Constituição, o seguinte:**
+O Presidente da República decreta, ouvidos os partidos representados na Assembleia da República e o Conselho de Estado, nos termos dos artigos 133.º, alínea e), e 113.º, n.º 6, da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -97,8 +97,8 @@ de 22 de Dezembro
 
 É fixado o dia 20 de Fevereiro de 2005 para a eleição dos deputados à Assembleia da República.
 
-**Assinado em 22 de Dezembro de 2004.**
+Assinado em 22 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

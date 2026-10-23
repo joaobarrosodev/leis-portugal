@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 161/1978, 2º Suplemento, Série I de 1978-07-15
   number: '161'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1314-(6) a 1314-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16102/00060007.pdf
 entry_into_force_dates: []
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1978-434601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2a8c1eabd268effc8525589f00fe7a6d47349d4e99939d6138077927e5b4c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c216454fee572d87b60aaa0a568cb51b5012d4d89e80be8b04d904b6f9b63d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Contribuições da Segurança Social
+- Função Pública
+- Parlamentar
+- Proteção Social
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:463999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:463999:por
+  label: "Alterada a redacção do art. 2º, nº 2 do art. 3º e aditados os nºs 3 e 4 ao mesmo art., pelo DR.45/80.1980.09.03.PCM,\
+    \ DR.IS [203]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-1980-463999
+  date: '1980-09-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:34Z'
   warnings: []
   errors: []
 ---
@@ -101,26 +113,26 @@ O presente diploma consubstancia o consenso que nesta matéria se pode obter, cu
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os Deputados à Assembleia da República, ainda que não abrangidos por qualquer regime de previdência social, beneficiam do regime de protecção social aplicável ao funcionalismo público, enquanto se mantiverem no exercício do seu mandato.
+Artigo 1.º - 1 - Os Deputados à Assembleia da República, ainda que não abrangidos por qualquer regime de previdência social, beneficiam do regime de protecção social aplicável ao funcionalismo público, enquanto se mantiverem no exercício do seu mandato.
 
 2 - Poderão os Deputados, porém, optar pelo regime de previdência da sua actividade profissional anterior.
 
-###### Art. 2.º A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo inerente ao Deputado ser deduzido no respectivo subsídio.
+Art. 2.º A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo inerente ao Deputado ser deduzido no respectivo subsídio.
 
-###### Art. 3.º - 1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.
+Art. 3.º - 1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.
 
 2 - A entidade competente para a gestão do esquema de protecção a que se refere este artigo é a Caixa de Previdência e Abono de Família dos Serviços do Distrito de Lisboa.
 
-###### Art. 4.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 4.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 2 - Qualquer que seja o regime de previdência por que os Deputados tenham optado, considera-se para todos os efeitos equivalente à entrada de contribuições o período decorrido entre o início do mandato dos Deputados e a entrada em vigor deste decreto regulamentar.
 
-###### Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministérios das Finanças e do Plano e dos Assuntos Sociais.
+Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministérios das Finanças e do Plano e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Duarte Arnaut.
 
-**Promulgado em 30 de Junho de 1978.**
+Promulgado em 30 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

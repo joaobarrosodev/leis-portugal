@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/29/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/29-1998-423669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35c77f5aebd0cdb971917c58ca3fadac88582c568d84264756ff276ce8074354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14be6908a95ab35dfa5f8a4e14574d3f2e4f7d424cfef4e71b5fa19f74d3cb0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- ONU
+- Droga
 - Macau
 - Medicamento
-- Droga
+- ONU
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:182272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182272:por
+  label: "Suspensa a vigência e os efeitos Jurídicos pelo DEC.34-A/98.1998.07.31.PR DR.IS-A [175]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/34-a-1998-182272
+  date: '1998-07-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:46Z'
   warnings: []
   errors: []
 ---
@@ -100,8 +105,8 @@ Nos termos e para os efeitos previstos no artigo 3.º, n.os 2 e 3, e nos artigos
 
 Para publicação no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.
 
-**Assinado em 2 de Julho de 1998.**
+Assinado em 2 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

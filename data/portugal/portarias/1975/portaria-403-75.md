@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 148/1975, 1º Suplemento, Série I de 1975-06-30
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 908-(1) a 908-(51)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-1975-233959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45fc6f3eadd8672c2df20c332271c0f5da78c4c869ce99c69706d20aa23daab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c8516245cb03c6b5805bd3c9c0197abc476ee58c584b9563d1f58413c24a91b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bagagem
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Titulo de Transporte
+- Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:354688:por
+  label: Alterados os arts. 13.º, 14.º, 20.º, 47.º, 48.º, 49.º, 50.º, 63.º e 87.º da tarifa geral de transportes - parte I
+    «Passageiros e bagagens» pelo(a) Portaria n.º 806/75 - Diário do Governo n.º 300/1975, 8º Suplemento, Série I de 1975-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/806-1975-354688
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:430585:por
+  label: Alterado o art. 80.º da Tarifa Geral de Transportes - «Parte I- Passageiros e bagagens», pelo(a) Portaria n.º 434/76
+    - Diário da República n.º 169/1976, Série I de 1976-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/434-1976-430585
+  date: '1976-07-21'
+- type: amended_by
+  target: pt:dre:430241:por
+  label: Substituído o preçário do n.º 8.º do anexo II «Taxas de operações acessórias e especiais» da Tarifa Geral de Transportes,
+    parte I «Passageiros e bagagens», aprovada pelo presente diploma, pelo(a) Portaria n.º 511/76 - Diário da República n.º
+    191/1976, Série I de 1976-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/511-1976-430241
+  date: '1976-08-16'
+- type: amended_by
+  target: pt:dre:219555:por
+  label: "Alterada a Tarifa Geral de Transportes - Parte I \"Passageiros e Bagagens\" aprovada pelo presente diploma, pela\
+    \ PORT.170/78.29.03.1978.MCT, DR.IS [73] de 29.03.1978, como seguidamente se descreve: - Alterados os arts. 2º, 3º, 4º,\
+    \ 11º, 13º, 14º, 16º, 17º, 19º, 20º, 27º, 28º, 29º, 30º, 31º, 41º, 42º, 46º, 50º, 51º, 52º, 54º, 56º, 60º. 63º, 71º, 72º,\
+    \ 73º, 75º, 78º, 79º, 80º, 104º, 105º, 113º, 114º e 115º, bem como as tabelas de preços nºs 1, 2, 3, 20, 22, 23, 25, 26\
+    \ e 28 e o anexo II; - corrigidos o quadro de percursos nº 4, constante da tabela de preços nº 4 e o quadro de percursos\
+    \ nº 10 - que passa a nº 11 - constante da tabela de preços nº 10, ambos do anexo I; - criada a tabela de preços nº 41;\
+    \ - aditados os arts. 29º-A, 43º, 85º, 90º, 91º, 106º, 107º, 108, 109, 110º, 111º e 112º; - anulada a Tarifa especial\
+    \ nº 12 e a Tarifa de Transportes - parte I \"Passageiros e Bagagens\" da Estoril, S.A.R.L; - e revogadas as tabelas de\
+    \ preços nºs 1 a 10 e nºs 20 a 29 inclusive. \0sive. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-1978-219555
+  date: '1978-03-29'
+- type: amended_by
+  target: pt:dre:295795:por
+  label: Alterados os arts. 17.º, 30.º (ambos com a redação dada pela Port 170/78 de 29-mar), 41.º, 50.º (com a redação dada
+    pela Port 170/78 de 29-mar), 91.º e 105.º (com a redação dada pela Port 170/78 de 29-mar) daTarifa Geral de Transportes
+    - Parte I «Passageiros e bagagens» da CP, aprovada pela Portaria n.º 256/78 - Diário da República n.º 103/1978, Série
+    I de 1978-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-1978-295795
+  date: '1978-05-05'
+- type: amended_by
+  target: pt:dre:403330:por
+  label: "Alterada a Tarifa Geral de Transportes - Parte I \"Passageiros e Bagagens\" aprovada pelo presente diploma, com\
+    \ a redacção dada pela Port 170/78 de 29-Mar, pela PORT.526/79.29.09.1979.MF, DR.IS [226-Supl] de 29.09.1979, como a seguir\
+    \ se descreve: - alterados os arts. 3º, 9º, 10º, 12º, 17º, 20º, 24º, 43º, 50º, 63º, 79º, 98º, 99º, 102º, 103º, 104º e\
+    \ 108º e as tabelas de preços nºs 1, 2, 20, 22, 23, 25, 26, 28 e 41 e o anexo II \"Taxas de operações acessórias e especiais\"\
+    ; introduzidos aditamentos aos quadros de percursos nºs 8 e 10; - e eliminado o quadro de percurso nº 7 e a tabela de\
+    \ preços nº 40. \0. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1979-403330
+  date: '1979-09-20'
+- type: amended_by
+  target: pt:dre:226652:por
+  label: "Alterados os arts. 7º, 8º, 10º, 12º, 13º, 14º, 18º, 19º, 20º, 22º, 29º, 32º, 33º, 42º, 50º, 51º, 52º, 56º, 58º,\
+    \ 63º, 80º, 86º, 91º, 98º, 100º, 104º, 108º, 111º e 112º da Tarifa Geral de Transportes - Parte I «Passageiros e Bagagens»\
+    \ aprovado pelo presente diploma, com a redacção dada pelas Port 170/78 de 29-Mar e 526/79 de 29-Set, pela PORT.1116/80.31.12.1980.MFP,\
+    \ DR.IS [301-9º Supl] de 31.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1980-226652
+  date: '1980-12-31'
+- type: amended_by
+  target: pt:dre:608742:por
+  label: "Declarada a insconstitucionalidade, com força obrigatória geral, da norma constante do primeiro período do nº 1\
+    \ do art. 19º da Tarifa Geral de Transportes, aprovada pelo presente diploma, com a redacção dada pelas Port 1116/80 de\
+    \ 31-Dez e 736-D/81 de 28-Ago, pelo AC.650/2004.16.11.2004.TCS, DR.IS-A [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/650-2004-608742
+  date: '2004-11-16'
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434790:por
+  label: Revogado, a partir de 22.12.1976, o n.º 2 do art. 80.º da Tarifa Geral de Transportes, aprovada pelo presente diploma
+    pelo(a) Portaria n.º 756-B/76 - Diário da República n.º 296/1976, 1º Suplemento, Série I de 1976-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-b-1976-434790
+  date: '1976-12-21'
+- type: repealed_by
+  target: pt:dre:246493:por
+  label: "Revogada a parte I \"Passageiros e Bagagens\" da Tarifa Geral de Transportes dos Caminhos-de-Ferro aprovada pelo\
+    \ presente diploma, com a redacção constante das Port 170/78 de 29-Mar, 526/79 de 29-Set, 1116/80 de 31-Dez, 1338/82 de\
+    \ 31-Dez, 851/83 de 24-Ago, 309-A/84 de 23-Mai, 31-R/85 de 12-Jan, 894-G/85 de 23-Nov e 1080/92 de 24-Nov, pelo DEC LEI.58/2008.26.03.2008.MOPTC,\
+    \ DR.IS [60] de 26.03.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2008-246493
+  date: '2008-03-26'
 article_structure:
-  article_count: 73
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:50Z'
   warnings: []
   errors: []
 ---
@@ -179,209 +273,209 @@ CAMINHOS DE FERRO PORTUGUESES
 
 Tarifa Geral de Transportes
 
-# Parte I
+Parte I
 
 PASSAGEIROS E BAGAGENS
 
 Em vigor desde 1 de Julho de 1975
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf))](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf)
 
 SUMÁRIO
 
 ## Título I - Disposições gerais
 
-### Capítulo I - Campo de aplicação:
+Capítulo I - Campo de aplicação:
 
 ###### Artigo 1.º - Objecto.
 
-###### Artigo 2.º - Comboios de passageiros.
+Artigo 2.º - Comboios de passageiros.
 
-###### Artigo 3.º - Transportes em comboios tranvias.
+Artigo 3.º - Transportes em comboios tranvias.
 
-###### Artigo 4.º - Tipos de bilhetes e assinaturas.
+Artigo 4.º - Tipos de bilhetes e assinaturas.
 
-### Capítulo II - Contrato de transporte:
+Capítulo II - Contrato de transporte:
 
-###### Artigo 5.º - Normas aplicáveis. Obrigatoriedade de transporte.
+Artigo 5.º - Normas aplicáveis. Obrigatoriedade de transporte.
 
-###### Artigo 6.º - Obrigações dos passageiros.
+Artigo 6.º - Obrigações dos passageiros.
 
-###### Artigo 7.º - Exigência do título de transporte.
+Artigo 7.º - Exigência do título de transporte.
 
-###### Artigo 8.º - Indicação nos títulos de transporte.
+Artigo 8.º - Indicação nos títulos de transporte.
 
-###### Artigo 9.º - Validade dos bilhetes e assinaturas.
+Artigo 9.º - Validade dos bilhetes e assinaturas.
 
-###### Artigo 10.º - Revalidação ou não utilização de bilhetes.
+Artigo 10.º - Revalidação ou não utilização de bilhetes.
 
-###### Artigo 11.º - Ocupação de lugares.
+Artigo 11.º - Ocupação de lugares.
 
-###### Artigo 12.º - Itinerários. Paragens em trânsito.
+Artigo 12.º - Itinerários. Paragens em trânsito.
 
 ###### Artigo 13.º - Mudança de classe.
 
-###### Artigo 14.º - Passageiros sem bilhete ou com bilhete não válido.
+Artigo 14.º - Passageiros sem bilhete ou com bilhete não válido.
 
-###### Artigo 15.º - Apreensão de títulos de transporte nulos.
+Artigo 15.º - Apreensão de títulos de transporte nulos.
 
-###### Artigo 16.º - Passageiros admitidos sob condições.
+Artigo 16.º - Passageiros admitidos sob condições.
 
-###### Artigo 17.º - Volumes portáteis e animais admitidos nas carruagens.
+Artigo 17.º - Volumes portáteis e animais admitidos nas carruagens.
 
-###### Artigo 18.º - Horários. Venda de bilhetes.
+Artigo 18.º - Horários. Venda de bilhetes.
 
-###### Artigo 19.º - Faltas de correspondência. Supressão de comboios.
+Artigo 19.º - Faltas de correspondência. Supressão de comboios.
 
-### Capítulo III - Preços de transporte:
+Capítulo III - Preços de transporte:
 
-###### Artigo 20.º - Cálculo dos preços.
+Artigo 20.º - Cálculo dos preços.
 
-###### Artigo 21.º - Gratuitidade de transporte para crianças de idade inferior a 4 anos.
+Artigo 21.º - Gratuitidade de transporte para crianças de idade inferior a 4 anos.
 
-###### Artigo 22.º - Restituições e pagamentos suplementares.
+Artigo 22.º - Restituições e pagamentos suplementares.
 
-### Capítulo IV - Responsabilidade. Reclamações:
+Capítulo IV - Responsabilidade. Reclamações:
 
-###### Artigo 23.º - Responsabilidade relativa ao transporte de passageiros, volumes de mão e animais.
+Artigo 23.º - Responsabilidade relativa ao transporte de passageiros, volumes de mão e animais.
 
-###### Artigo 24.º - Responsabilidade relativa aos transportes de bagagens.
+Artigo 24.º - Responsabilidade relativa aos transportes de bagagens.
 
 ###### Artigo 25.º - Reclamações.
 
-### Capítulo V - Disposições diversas:
+Capítulo V - Disposições diversas:
 
-###### Artigo 26.º - Marcação de lugares e de compartimentos.
+Artigo 26.º - Marcação de lugares e de compartimentos.
 
-###### Artigo 27.º - Reserva de carruagens.
+Artigo 27.º - Reserva de carruagens.
 
-###### Artigo 28.º - Comboios especiais.
+Artigo 28.º - Comboios especiais.
 
-###### Artigo 29.º - Carruagens-restaurantes.
+Artigo 29.º - Carruagens-restaurantes.
 
 ###### Artigo 30.º - Carruagens-camas.
 
-###### Artigo 31.º - Consulta, venda e modificações da tarifa.
+Artigo 31.º - Consulta, venda e modificações da tarifa.
 
 Artigos 32.º a 40.º - Reservados.
 
 ## Título II - Passageiros isolados
 
-### Capítulo I - Bilhetes simples e de ida e volta:
+Capítulo I - Bilhetes simples e de ida e volta:
 
 ###### Artigo 41.º - Bilhetes simples.
 
-###### Artigo 42.º - Bilhetes de ida e volta.
+Artigo 42.º - Bilhetes de ida e volta.
 
 Artigos 43.º a 45.º - Reservados.
 
 ### Capítulo II - Bilhetes semanais:
 
-###### Artigo 46.º - Utilização e validade dos bilhetes.
+Artigo 46.º - Utilização e validade dos bilhetes.
 
-###### Artigo 47.º - Despacho de bagagens.
+Artigo 47.º - Despacho de bagagens.
 
-###### Artigo 48.º - Preço de transporte.
+Artigo 48.º - Preço de transporte.
 
 ###### Artigo 49.º - Reservado.
 
-### Capítulo III - Assinaturas:
+Capítulo III - Assinaturas:
 
-###### Artigo 50.º - Tipos de assinaturas.
+Artigo 50.º - Tipos de assinaturas.
 
-###### Artigo 51.º - Assinaturas para jovens e estudantes.
+Artigo 51.º - Assinaturas para jovens e estudantes.
 
-###### Artigo 52.º - Requisição de cartões de identidade.
+Artigo 52.º - Requisição de cartões de identidade.
 
-###### Artigo 53.º - Entrega dos cartões de identidade e dos bilhetes.
+Artigo 53.º - Entrega dos cartões de identidade e dos bilhetes.
 
-###### Artigo 54.º - Validade e aquisição dos bilhetes.
+Artigo 54.º - Validade e aquisição dos bilhetes.
 
-###### Artigo 55.º - Intransmissibilidade dos cartões de identidade e dos bilhetes.
+Artigo 55.º - Intransmissibilidade dos cartões de identidade e dos bilhetes.
 
-###### Artigo 56.º - Modificação nas condições das assinaturas.
+Artigo 56.º - Modificação nas condições das assinaturas.
 
-###### Artigo 57.º - Extravio dos cartões e bilhetes.
+Artigo 57.º - Extravio dos cartões e bilhetes.
 
 ###### Artigo 58.º - Assinaturas nulas.
 
-###### Artigo 59.º - Rescisão de assinaturas.
+Artigo 59.º - Rescisão de assinaturas.
 
-###### Artigo 60.º - Esquecimento de assinatura válida.
+Artigo 60.º - Esquecimento de assinatura válida.
 
-###### Artigo 61.º - Obrigações dos assinantes.
+Artigo 61.º - Obrigações dos assinantes.
 
 ###### Artigo 62.º - Infracções.
 
-###### Artigo 63.º - Preços dos bilhetes de assinatura.
+Artigo 63.º - Preços dos bilhetes de assinatura.
 
 Artigos 64.º a 70.º - Reservados.
 
-### Capítulo IV - Cadernetas quilométricas:
+Capítulo IV - Cadernetas quilométricas:
 
-###### Artigo 71.º - Conceito de validade.
+Artigo 71.º - Conceito de validade.
 
-###### Artigo 72.º - Requisição e entrega das cadernetas.
+Artigo 72.º - Requisição e entrega das cadernetas.
 
-###### Artigo 73.º - Utilização e regularização das cadernetas.
+Artigo 73.º - Utilização e regularização das cadernetas.
 
-###### Artigo 74.º - Cadernetas anuladas.
+Artigo 74.º - Cadernetas anuladas.
 
-###### Artigo 75.º - Preço das cadernetas.
+Artigo 75.º - Preço das cadernetas.
 
 Artigos 76.º e 77.º - Reservados.
 
 ### Capítulo V - Bilhetes especiais:
 
-###### Artigo 78.º - Bilhetes para crianças.
+Artigo 78.º - Bilhetes para crianças.
 
-###### Artigo 79.º - Bilhetes turísticos.
+Artigo 79.º - Bilhetes turísticos.
 
-###### Artigo 80.º - Bilhetes para pessoas idosas.
+Artigo 80.º - Bilhetes para pessoas idosas.
 
 Artigos 81.º a 85.º - Reservados.
 
-## Título III - Grupos de passageiros
+Título III - Grupos de passageiros
 
 ### Capítulo único - Grupos:
 
-###### Artigo 86.º - Grupos de, pelo menos, dez pessoas ou pagando como tal.
+Artigo 86.º - Grupos de, pelo menos, dez pessoas ou pagando como tal.
 
-###### Artigo 87.º - Condições de utilização.
+Artigo 87.º - Condições de utilização.
 
 Artigos 88.º a 97.º - Reservados.
 
 ## Título IV - Bagagens
 
-### Capítulo único - Bagagens:
+Capítulo único - Bagagens:
 
-###### Artigo 98.º - Definição de bagagem.
+Artigo 98.º - Definição de bagagem.
 
-###### Artigo 99.º - Objectos excluídos do transporte.
+Artigo 99.º - Objectos excluídos do transporte.
 
-###### Artigo 100.º - Responsabilidade do passageiro.
+Artigo 100.º - Responsabilidade do passageiro.
 
-###### Artigo 101.º - Embalagem e acondicionamento.
+Artigo 101.º - Embalagem e acondicionamento.
 
-###### Artigo 102.º - Registo de bagagem. Senha de bagagem.
+Artigo 102.º - Registo de bagagem. Senha de bagagem.
 
-###### Artigo 103.º - Seguimento das bagagens.
+Artigo 103.º - Seguimento das bagagens.
 
-###### Artigo 104.º - Preços de transporte.
+Artigo 104.º - Preços de transporte.
 
-###### Artigo 105.º - Depósito de bagagens, volumes portáteis e biciclos com ou sem motor.
+Artigo 105.º - Depósito de bagagens, volumes portáteis e biciclos com ou sem motor.
 
 Artigos 106.º a 112.º - Reservados.
 
-## Título V - Disposições complementares
+Título V - Disposições complementares
 
-### Capítulo I - Acesso aos cais de embarque. Utilização dos ascensores de Lisboa (Rossio) e do funicular de Santa Luzia (Viana do Castelo):
+Capítulo I - Acesso aos cais de embarque. Utilização dos ascensores de Lisboa (Rossio) e do funicular de Santa Luzia (Viana do Castelo):
 
-###### Artigo 113.º - Acesso aos cais de embarque das estações.
+Artigo 113.º - Acesso aos cais de embarque das estações.
 
-###### Artigo 114.º - Utilização dos ascensores da estação de Lisboa (Rossio).
+Artigo 114.º - Utilização dos ascensores da estação de Lisboa (Rossio).
 
-###### Artigo 115.º - Utilização do funicular de Santa Luzia (Viana do Castelo).
+Artigo 115.º - Utilização do funicular de Santa Luzia (Viana do Castelo).
 
 ###### Artigo 116.º - Disposição comum.
 
@@ -397,7 +491,7 @@ II - Taxas de operações acessórias e especiais.
 
 ### CAPÍTULO I — Campo de aplicação
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 Objecto
 
@@ -405,7 +499,7 @@ As disposições desta parte da tarifa geral de transportes aplicam-se aos trans
 
 Estas disposições são igualmente aplicáveis aos transportes efectuados ao abrigo de convenções e tarifas internacionais em tudo que não contrariar o que nestas se contém.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Comboios de passageiros
 
@@ -429,7 +523,7 @@ Entendem-se como comboios directos, semidirectos e regionais aqueles que, não i
 
 A atribuição destas categorias de comboios é feita através dos respectivos cartazes-horários.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Transportes em comboios tranvias
 
@@ -455,7 +549,7 @@ São os seguintes os percursos onde é admitida a efectivação de comboios tran
 
 10 - Lisboa (Terreiro do Paço)-Praias do Sado.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 Tipos de bilhetes e assinaturas
 
@@ -485,7 +579,7 @@ Bilhetes para grupos de dez ou mais pessoas.
 
 ### CAPÍTULO II — Contrato de transporte
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Normas aplicáveis. Obrigatoriedade de transporte
 
@@ -499,7 +593,7 @@ b) Os transportes sejam possíveis com os meios disponíveis que foram dimension
 
 c) Os transportes não sejam impedidos por factos que o Caminho de Ferro não possa evitar ou não possa remediar.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Obrigações dos passageiros
 
@@ -557,13 +651,13 @@ y) Colocar volumes pesados ou sujos sobre os bancos, apoiar os pés directamente
 
 z) Em geral, praticar actos ou proferir expressões que perturbem a boa ordem dos serviços ou incomodem os outros passageiros.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Exigência do título de transporte
 
 Desde o início da sua viagem, excepto quando em locais de embarque onde a venda de bilhetes não está assegurada, o passageiro deve munir-se de um título de transporte válido e conservá-lo durante toda a viagem, apresentá-lo aos agentes encarregados do contrôle e revisão e, sendo caso disso, a devolvê-lo no local de desembarque ao funcionário incumbido da fiscalização das saídas.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Indicação nos títulos de transporte
 
@@ -579,7 +673,7 @@ d) Dia do início da sua validade.
 
 2. É da responsabilidade do passageiro verificar na recepção do bilhete ou assinatura se estes estão conformes às suas indicações, sob pena de incorrer nas disposições do artigo 14.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 Validade dos bilhetes e assinaturas
 
@@ -589,7 +683,7 @@ Validade dos bilhetes e assinaturas
 
 3. Os bilhetes das assinaturas são fornecidos para períodos mensais, trimestrais ou semestrais, com validade a partir do primeiro dia do mês para que são requisitados.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 Revalidação ou não utilização de bilhetes
 
@@ -601,7 +695,7 @@ Pela revalidação é devida a taxa indicada no anexo II, n.º 1.º, desta parte
 
 Por esta restituição pagará o passageiro a taxa fixa indicada no anexo II, n.º 2.º, desta parte, qualquer que seja a classe e o percurso a efectuar.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Ocupação de lugares
 
@@ -613,7 +707,7 @@ O passageiro que deixar o seu lugar sem o marcar perde o direito a recuperá-lo.
 
 3. Em todos os comboios onde não é obrigatória a marcação de lugar devem existir nas carruagens, devidamente assinalados, lugares reservados, por ordem prioritária, a cegos, inválidos, grávidas e pessoas com crianças de colo.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Itinerários. Paragens em trânsito
 
@@ -625,7 +719,7 @@ Itinerários. Paragens em trânsito
 
 4. Ao passageiro munido de um título de transporte para utilização num comboio não tranvia permite-se uma paragem em trânsito nas estações que servem as cidades de Lisboa e Porto, desde que a viagem seja reiniciada até às 24 horas do dia seguinte ao indicado no respectivo título de transporte.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Mudança de classe
 
@@ -641,7 +735,7 @@ A importância mínima a ser cobrada é a que consta no anexo II, n.º 3.º
 
 Esta disposição não se aplica, no entanto, aos passageiros munidos de títulos de transporte para comboios tranvias nem aos munidos de bilhetes semanais e assinaturas para comboios directos, semidirectos e regionais.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 Passageiros sem bilhete ou com bilhete não válido
 
@@ -663,13 +757,13 @@ e) Para o passageiro que utiliza um título de transporte em condições diferen
 
 4. Para o passageiro que tome lugar num comboio à partida de um local onde se não efectua a venda de bilhetes é-lhe cobrado o respectivo bilhete em trânsito ou à chegada sem aplicação de qualquer sobretaxa.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Apreensão de títulos de transporte nulos
 
 A apresentação de um título de transporte nulo ou considerado como tal nos termos desta tarifa implica a sua imediata apreensão, independentemente dos procedimentos legais que se venham a adoptar.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Passageiros admitidos sob condições
 
@@ -681,7 +775,7 @@ Passageiros admitidos sob condições
 
 4. As macas e cadeirinhas necessárias para o transporte dos doentes, bem como as cadeiras para os acompanhantes são transportadas gratuitamente.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 Volumes portáteis e animais admitidos nas carruagens
 
@@ -699,7 +793,7 @@ b) Os cães, em número máximo de dois por passageiro, encerrados ou não, medi
 
 5. A não observância das disposições dos n.os 1, 2, alínea a), e 4 implica, para os volumes em questão, a cobrança da importância indicada no anexo II, n.º 5.º, além da obrigatoriedade para o passageiro de os fazer transportar para o furgão como bagagem.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Horários. Venda de bilhetes
 
@@ -713,7 +807,7 @@ Para certos comboios e estações a venda pode ser antecipada nas condições in
 
 4. Para os comboios com reserva de lugar, a venda dos bilhetes deixa de ser obrigatória trinta minutos antes da sua partida da estação de origem.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 Faltas de correspondência. Supressão de comboios
 
@@ -723,7 +817,7 @@ Em comboios tranvias, o passageiro não tem direito a qualquer reembolso.
 
 ### CAPÍTULO III — Preços de transporte
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 Cálculo dos preços
 
@@ -745,13 +839,13 @@ Quando se utilizarem sucessivamente, para efectivação da viagem, categorias di
 
 6. Sempre que tal se verifique, é arredondada para o múltiplo de 1$00 imediatamente superior a importância total a cobrar por cada bilhete que não for múltipla de 1$00.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 Gratuitidade de transporte para crianças de idade inferior a 4 anos
 
 As crianças de idade inferior a 4 anos são transportadas gratuitamente, sem bilhete, não tendo direito a ocupar um lugar distinto; se o ocuparem, é devido o pagamento do bilhete especial indicado no artigo 78.º
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 Restituições e pagamentos suplementares
 
@@ -763,7 +857,7 @@ Restituições e pagamentos suplementares
 
 ### CAPÍTULO IV — Responsabilidade. Reclamações
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Responsabilidade relativa ao transporte de passageiros, volumes de mão e animais
 
@@ -773,7 +867,7 @@ Responsabilidade relativa ao transporte de passageiros, volumes de mão e animai
 
 3. Os passageiros são responsáveis pelos prejuízos causados ao Caminho de Ferro e aos outros passageiros pelos volumes de mão ou pelos animais que levem nas carruagens.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 Responsabilidade relativa aos transportes de bagagens
 
@@ -781,7 +875,7 @@ Responsabilidade relativa aos transportes de bagagens
 
 2. Na atribuição de responsabilidade ao Caminho de Ferro no que respeita ao transporte de bagagens vigoram as disposições referentes ao transporte de remessas - artigo 145.º -, parte II desta tarifa.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 Reclamações
 
@@ -789,7 +883,7 @@ Para efeito de apresentação de reclamações sobre o transporte de bagagens e 
 
 ### CAPÍTULO V — Disposições diversas
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 Marcação de lugares e de compartimentos
 
@@ -803,7 +897,7 @@ Marcação de lugares e de compartimentos
 
 5. Não se aceitam marcações de lugares ou compartimentos para os comboios tranvias.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Reserva de carruagens
 
@@ -819,7 +913,7 @@ Reserva de carruagens
 
 6. Cumulativamente, é cobrada uma taxa fixa diária, a título de estacionamento, prevista no anexo II, n.º 7.º Esta taxa é devida por períodos indivisíveis de vinte e quatro horas, com início seis horas após a chegada a qualquer paragem.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 Comboios especiais
 
@@ -831,7 +925,7 @@ Comboios especiais
 
 4. Os requisitantes dos comboios especiais de passageiros são responsáveis pelas avarias ocasionadas no material ferroviário, imputadas aos passageiros desses comboios.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 Carruagens-restaurantes
 
@@ -839,7 +933,7 @@ Os passageiros têm direito a acesso, sem pagamento de qualquer suplemento, às 
 
 Fora das horas fixadas para as refeições, os passageiros podem frequentar estas carruagens, se o serviço se não opuser, para aí tomarem bebidas ou refeições ligeiras aos preços estabelecidos.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 Carruagens-camas
 
@@ -853,7 +947,7 @@ As crianças, no máximo de duas, para as quais se pretenda uma cama distinta pa
 
 3. Os utentes das carruagens-camas conformar-se-ão com as normas estabelecidas para a sua utilização.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 Consulta, venda e modificações da tarifa
 
@@ -869,7 +963,7 @@ ARTIGOS 32.º a 40.º
 
 ### CAPÍTULO I — Bilhetes simples e de ida e volta
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 Bilhetes simples
 
@@ -877,7 +971,7 @@ Bilhetes simples
 
 2. Os preços destes bilhtes são os indicados nas tabelas n.os 1 a 10 e 20 do anexo I, de acordo com a categoria de comboios a utilizar.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 Bilhetes de ida e volta
 
@@ -891,7 +985,7 @@ ARTIGOS 43.º a 45.º
 
 ### CAPÍTULO II — Bilhetes semanais
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 Utilização e validade dos bilhetes
 
@@ -901,25 +995,25 @@ Utilização e validade dos bilhetes
 
 3. Em caso de extravio ou deterioração estes bilhetes não são substituíveis.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 Despacho de bagagens
 
 O passageiro portador destes bilhetes não goza da regalia de gratuitidade de transporte de bagagem estabelecida no artigo 104.º
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 Preço de transporte
 
 Os preços destes bilhetes semanais são os indicados nas tabelas n.os 1 a 10 e 22 do anexo I.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Reservado.)
 
 ### CAPÍTULO III — Assinaturas
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 Tipos de assinaturas
 
@@ -931,7 +1025,7 @@ b) Assinaturas de base quilométrica em comboios directos, semidirectos e region
 
 2. O título de assinatura é constituído por um cartão de identidade, com a fotografia do seu titular, válido por um período de cinco anos, e por um bilhete a adquirir com pagamento mensal, trimestral ou semestral.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 Assinaturas para jovens e estudantes
 
@@ -939,7 +1033,7 @@ Qualquer jovem até aos 18 anos e os estudantes com menos de 25 anos de idade qu
 
 Para o efeito, devem os interessados comprovar a sua idade através da cédula pessoal ou bilhete de identidade do Arquivo de Identificação e a sua qualidade de estudante, quando for caso disso, por uma declaração ou certificado emitidos pelo estabelecimento de ensino.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 Requisição de cartões de identidade
 
@@ -953,7 +1047,7 @@ Finda a validade do cartão de identidade, devem ser entregues novas fotografias
 
 4. No acto da entrega da requisição cobra-se a importância prevista no anexo II, n.º 9.º, sendo entregue ao requisitante uma senha em troca da qual receberá o cartão de identidade.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 Entrega dos cartões de identidade e dos bilhetes
 
@@ -963,7 +1057,7 @@ Entrega dos cartões de identidade e dos bilhetes
 
 3. São considerados nulos os cartões de identidade que não forem levantados das estações até ao último dia do primeiro mês de validade.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 Validade e aquisição dos bilhetes
 
@@ -971,7 +1065,7 @@ Validade e aquisição dos bilhetes
 
 2. Todos os bilhetes, sempre de igual percurso, são adquiridos directamente na estação onde foi requisitado o cartão de identidade, mediante a apresentação deste, a entrega do bilhete anterior e a inscrição, a efectuar pela estação, no novo bilhete, da validade deste e do número do cartão de identidade.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 Intransmissibilidade dos cartões de identidade e dos bilhetes
 
@@ -979,7 +1073,7 @@ Intransmissibilidade dos cartões de identidade e dos bilhetes
 
 2. Os bilhetes não são válidos se deles não constar o seu período de validade e o número correspondente ao do cartão de identidade respectivo.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 Modificação nas condições das assinaturas
 
@@ -993,7 +1087,7 @@ Modificação nas condições das assinaturas
 
 5. A modificação das assinaturas reporta-se sempre ao dia 1 de cada mês.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 Extravio dos cartões e bilhetes
 
@@ -1003,7 +1097,7 @@ Extravio dos cartões e bilhetes
 
 3. O assinante não tem direito ao reembolso das importâncias que houver pago pelas viagens efectuadas até lhe ser entregue o novo documento de assinatura.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 Assinaturas nulas
 
@@ -1019,7 +1113,7 @@ c) Por pessoa que não seja o titular.
 
 Nos casos previstos no número anterior, o passageiro ficará sujeito ao procedimento legal que venha a adoptar-se contra os autores ou cúmplices da fraude.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 Rescisão de assinaturas
 
@@ -1027,25 +1121,25 @@ Rescisão de assinaturas
 
 2. O reembolso é limitado a 70% da importância correspondente à diferença entre o que o assinante pagou e aquela que pagaria até ao fim do mês em que é pedida a rescisão.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 Esquecimento de assinatura válida
 
 Quando um assinante declarar ao revisor de um comboio ter-se esquecido da sua assinatura será considerado como passageiro sem bilhete, sem direito a qualquer reembolso.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 Obrigações dos assinantes
 
 Os assinantes obrigam-se a apresentar conjuntamente os cartões de identidade e os respectivos bilhetes aos empregados do caminho de ferro, sempre que estes o solicitem. Da sua não apresentação resulta ser o assinante considerado como passageiro sem bilhete.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 Infracções
 
 Em caso de infracção às disposições deste capítulo ou às de carácter geral aplicáveis, o Caminho de Ferro reserva-se a faculdade de apreender e anular a assinatura, sem que o assinante tenha direito a qualquer reembolso. Igualmente poderá o Caminho de Ferro deixar de fornecer novas assinaturas aos contraventores durante prazos que podem ir até um ano, ou mais, em caso de reincidência, contados a partir da data da anulação da assinatura.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 Preços dos bilhetes de assinatura
 
@@ -1059,7 +1153,7 @@ ARTIGOS 64.º a 70.º
 
 ### CAPÍTULO IV — Cadernetas quilométricas
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 Conceito e validade
 
@@ -1077,7 +1171,7 @@ c) De 22 de Dezembro a 3 de Janeiro;
 
 d) De quarta-feira anterior ao domingo de Páscoa à quarta-feira seguinte.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 Requisição e entrega das cadernetas
 
@@ -1093,7 +1187,7 @@ c) A estação onde o requisitante a deseja receber.
 
 3. A entrega da caderneta efectua-se no local indicado pelo requisitante, obrigando-se o Caminho de Ferro a fazê-la somente decorridos oito dias úteis contados a partir da data da entrega da requisição.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 Utilização e regularização das cadernetas
 
@@ -1115,7 +1209,7 @@ Quando for adquirida nova caderneta, a regularização far-se-á nas duas cadern
 
 6. As cadernetas não dão direito a paragens nas estações intermédias, perdendo os passageiros que efectuem paragens o direito ao percurso não efectuado.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 Cadernetas anuladas
 
@@ -1129,7 +1223,7 @@ c) Com sinais de viciação nos dizeres, marcas, carimbos ou quaisquer outros ve
 
 2. As cadernetas nulas serão apreendidas, sendo os seus portadores considerados como passageiros sem bilhete, sem prejuízo do procedimento legal que venha a adoptar-se nos casos previstos nas alíneas b) e c) do número anterior.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 Preço das cadernetas
 
@@ -1145,13 +1239,13 @@ ARTIGOS 76.º e 77.º
 
 ### CAPÍTULO V — Bilhetes especiais
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 Bilhetes para crianças
 
 As crianças de idade igual ou superior a 4 e inferior a 12 anos são transportadas com uma redução de 50% sobre os bilhetes a preço inteiro e têm direito a um lugar distinto. No entanto, em caso de necessidade, cada grupo de duas crianças deve apenas ocupar o espaço correspondente ao lugar de um passageiro.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 Bilhetes turísticos
 
@@ -1167,7 +1261,7 @@ Bilhetes turísticos
 
 6. Os preços destes bilhetes são os indicados na tabela n.º 26 do anexo I.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 Bilhetes para pessoas idosas
 
@@ -1195,13 +1289,13 @@ ARTIGOS 81.º a 85.º
 
 ### CAPÍTULO ÚNICO — Grupos
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 Grupos de, pelo menos, dez pessoas ou pagando como tal
 
 Os grupos de pessoas que efectuem viagens simples ou de ida e volta pelo mesmo ou outro itinerário e que adquirem um bilhete colectivo para, pelo menos, dez pessoas a preço inteiro, beneficiam dos preços das tabelas n.os 28 e 29 do anexo I.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 Condições de utilização
 
@@ -1227,7 +1321,7 @@ ARTIGOS 88.º a 97.º
 
 ## TÍTULO IV — Bagagens
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 Definição de bagagem
 
@@ -1257,7 +1351,7 @@ Cada passageiro não pode despachar como bagagem mais do que um dos objectos men
 
 3. O Caminho de Ferro não se obriga a aceitar como bagagem volumes ou objectos de peso unitário superior a 100 kg e pode, além disso, recusar aqueles cuja natureza, volume, dimensão ou acondicionamento não se prestem ao transporte.
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 Objectos excluídos do transporte
 
@@ -1267,7 +1361,7 @@ a) Matérias e objectos perigosos, nomeadamente as armas carregadas, matérias e
 
 b) Dinheiro, valores e objectos de arte.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 Responsabilidade do passageiro
 
@@ -1279,7 +1373,7 @@ Se a infracção é constatada, as despesas ocasionadas pela verificação devem
 
 3. Em caso de infracção ao disposto nos artigos 98.º e 99.º, o detentor da senha de bagagem deve pagar, além da importância já despendida e das indemnizações por danos a que der lugar, o preço de transporte dos volumes considerados como remessas de detalhe, transportadas em regime acelerado, conforme se prescreve na presente tarifa (parte II).
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 Embalagem e acondicionamento
 
@@ -1289,7 +1383,7 @@ Embalagem e acondicionamento
 
 3. As etiquetas antigas, endereços ou outras indicações de transporte anteriormente efectuado devem ser retiradas ou tornadas ilegíveis pelo passageiro.
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 Registo de bagagem. Senha de bagagem
 
@@ -1307,7 +1401,7 @@ A taxa de registo e (ou) o preço de transporte das bagagens são pagos com a su
 
 4. O Caminho de Ferro reserva-se o direito de não admitir ou limitar o transporte de bagagens em certos comboios ou certas categorias de comboios, obrigando-se para o efeito a anunciar devidamente tais restrições.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 Seguimento das bagagens
 
@@ -1327,7 +1421,7 @@ Quando se não verificarem estas condições, o passageiro pode mandar fazer o t
 
 7. A bagagem a entregar na estação de destino deve ser posta à disposição dos portadores das respectivas senhas, no prazo máximo de trinta minutos após a sua chegada.
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 Preços de transporte
 
@@ -1337,7 +1431,7 @@ Preços de transporte
 
 3. Quando haja necessidade da efectivação de transbordo, quer entre linhas de bitola diferente, quer na via fluvial, cobrar-se-á, por cada volume de bagagem, a taxa indicada no anexo II, n.º 13.º
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 Depósito de bagagens, volumes portáteis e biciclos com ou sem motor
 
@@ -1359,7 +1453,7 @@ ARTIGOS 106.º a 112.º
 
 ### CAPÍTULO I — Acesso aos cais de embarque. Utilização dos ascensores de Lisboa (Rossio) e do funicular de Santa Luzia (Viana do Castelo)
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 Acesso aos cais de embarque das estações
 
@@ -1375,7 +1469,7 @@ As crianças com idade inferior a 4 anos estão isentas do pagamento deste bilhe
 
 5. O Caminho de Ferro reserva-se o direito de suspender a venda destes bilhetes sempre que o julgue conveniente para a boa regularização do serviço das estações, permitindo-se apenas o acesso ao interior dessas estações aos passageiros munidos de um bilhete de transporte válido.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 Utilização dos ascensores da estação de Lisboa (Rossio)
 
@@ -1385,7 +1479,7 @@ As crianças de idade inferior a 4 anos estão isentas do pagamento destes bilhe
 
 2. É permitido aos utilizadores destes ascensores o transporte, nos mesmos, dos volumes portáteis de que se façam acompanhar, salvo se esses volumes, pelas suas dimensões, natureza, forma ou cheiro, causarem incómodo ou prejuízo.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 Utilização do funicular de Santa Luzia (Viana do Castelo)
 
@@ -1395,7 +1489,7 @@ Utilização do funicular de Santa Luzia (Viana do Castelo)
 
 3. A quantidade de passageiros a transportar não pode exceder a lotação do funicular, considerando-se para este efeito cada grupo de duas crianças de idade igual ou superior a 4 anos e inferior a 12 anos como um adulto.
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 Disposição comum
 
@@ -1407,8 +1501,8 @@ ARTIGOS 117.º a 122.º
 
 ## ANEXO I — Tabelas de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf))](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf)
 
 ## ANEXO II — Taxas de operações acessórias e especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf))](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14801/00010051.pdf)

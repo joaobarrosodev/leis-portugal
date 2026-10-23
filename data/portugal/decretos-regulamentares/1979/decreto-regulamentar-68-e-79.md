@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1979, 3º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3366-(102) a 3366-(105)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29703/01020105.pdf
 entry_into_force_dates: []
@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-e-1979-147411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebd6a1467288b0813a4a596d1dd9a69ec7289d3013e8b151fcbea5d75ea280d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fbc78eb5e687f5e1b63986e68b628fa51986e73de0ba1f16341d339209ff36c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Inspecção Geral Técnica e Administrativa
+- Ministério da Agricultura e Pescas
+- Regime de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:00Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +109,21 @@ Regulamento da Inspecção-Geral Técnica e Administrativa do Ministério da Agr
 
 ### CAPÍTULO I — (Enquadramento orgânico)
 
-###### Artigo 1.º A Inspecção-Geral Técnica e Administrativa, criada pelo artigo 42.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio (Lei Orgânica do MAP) é um dos órgãos de concepção, coordenação e apoio da actividade do Ministério da Agricultura e Pescas, funcionando na dependência directa do Ministro, nos termos do artigo 5.º do referido decreto-lei.
+Artigo 1.º A Inspecção-Geral Técnica e Administrativa, criada pelo artigo 42.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio (Lei Orgânica do MAP) é um dos órgãos de concepção, coordenação e apoio da actividade do Ministério da Agricultura e Pescas, funcionando na dependência directa do Ministro, nos termos do artigo 5.º do referido decreto-lei.
 
-###### Art. 2.º A Inspecção-Geral Técnica e Administrativa, abreviadamente designada por Inspecção-Geral, rege-se pelas disposições do [Decreto Regulamentar n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1978-324732), de 13 de Dezembro, e pelo presente Regulamento, que dele passa a fazer parte integrante.
+Art. 2.º A Inspecção-Geral Técnica e Administrativa, abreviadamente designada por Inspecção-Geral, rege-se pelas disposições do [Decreto Regulamentar n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1978-324732), de 13 de Dezembro, e pelo presente Regulamento, que dele passa a fazer parte integrante.
 
 ### CAPÍTULO II — (Atribuições)
 
-###### Art. 3.º São atribuições da Inspecção-Geral Técnica e Administrativa as que lhe foram cometidas pelo artigo 17.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 3.º São atribuições da Inspecção-Geral Técnica e Administrativa as que lhe foram cometidas pelo artigo 17.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 4.º As atribuições que foram fixadas à Inspecção-Geral visam fundamentalmente dois objectivos:
+Art. 4.º As atribuições que foram fixadas à Inspecção-Geral visam fundamentalmente dois objectivos:
 
 a) Apoiar, através da sua própria actuação, a acção do Ministro, na coordenação da actividade global do Ministério, nomeadamente no que se refere à complementarização e compatibilização das acções dos centros de decisão, centrais e regionais;
 
 b) Contribuir para melhorar a actuação dos órgãos e serviços do Ministério, com vista a dar satisfação aos problemas vividos pelos destinatários da actividade desenvolvida.
 
-###### Art. 5.º A Inspecção-Geral, para consecução dos objectivos enunciados, deve, designadamente:
+Art. 5.º A Inspecção-Geral, para consecução dos objectivos enunciados, deve, designadamente:
 
 a) Acompanhar a forma como se desenrolam as acções e medidas que tenham em vista a concretização da política do Ministério, nomeadamente as definidas no Plano e expressas nos programas e projectos cometidos aos serviços do MAP, de modo a informar o Ministro dos estrangulamentos existentes e dos resultados obtidos;
 
@@ -126,9 +143,9 @@ h) Levar a efeito as inspecções, visitas de prospecção e outras actividades 
 
 ### CAPÍTULO III — (Programa e áreas de actuação e características da actividade a desenvolver)
 
-###### Art. 6.º As linhas gerais da actividade da Inspecção-Geral constarão de um programa anual, que será submetido à aprovação do Ministro, nos termos do artigo 4.º do [Decreto Regulamentar n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1978-324732), de 13 de Dezembro.
+Art. 6.º As linhas gerais da actividade da Inspecção-Geral constarão de um programa anual, que será submetido à aprovação do Ministro, nos termos do artigo 4.º do [Decreto Regulamentar n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1978-324732), de 13 de Dezembro.
 
-###### Art. 7.º - 1 - No desempenho das suas atribuições a actividade da Inspecção-Geral desenvolver-se-á por áreas de actuação, designadamente pelas seguintes:
+Art. 7.º - 1 - No desempenho das suas atribuições a actividade da Inspecção-Geral desenvolver-se-á por áreas de actuação, designadamente pelas seguintes:
 
 Área I - Informação e estudos de base.
 
@@ -144,7 +161,7 @@ h) Levar a efeito as inspecções, visitas de prospecção e outras actividades 
 
 2 - As áreas de actuação podem ser alteradas, em número e em contexto funcional, se a actividade da Inspecção-Geral, no campo das suas competências, assim o justificar, mediante despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 8.º Em cada uma das áreas de actuação a actividade da Inspecção-Geral incidirá nos aspectos adequados à consecução dos seus objectivos e, designadamente, nos que a seguir se referem:
+Art. 8.º Em cada uma das áreas de actuação a actividade da Inspecção-Geral incidirá nos aspectos adequados à consecução dos seus objectivos e, designadamente, nos que a seguir se referem:
 
 Na área I:
 
@@ -234,13 +251,13 @@ c) Realização de inspecções determinadas pelo inspector-geral técnico e adm
 
 d) Elaboração dos relatórios inerentes às diligências executadas, a fim de servirem de base às decisões a tomar superiormente, ouvido o órgão jurídico competente do Ministério.
 
-###### Art. 9.º Para conveniente uniformização das normas de actuação nos domínios técnico e administrativo, designadamente no que respeita ao rigoroso cumprimento dos deveres de objectividade, isenção e confidencialidade, impostos pela deontologia profissional, a Inspecção-Geral elaborará, para uso dos seus membros, o Guia do Inspector, que submeterá a apreciação e aprovação do Ministro da Agricultura e Pescas.
+Art. 9.º Para conveniente uniformização das normas de actuação nos domínios técnico e administrativo, designadamente no que respeita ao rigoroso cumprimento dos deveres de objectividade, isenção e confidencialidade, impostos pela deontologia profissional, a Inspecção-Geral elaborará, para uso dos seus membros, o Guia do Inspector, que submeterá a apreciação e aprovação do Ministro da Agricultura e Pescas.
 
 ### CAPÍTULO IV — (Organização e funcionamento do corpo de inspecção)
 
-###### Art. 10.º Os serviços da Inspecção-Geral serão organizados em termos de assegurarem a cobertura eficaz das áreas de actuação referidas no capítulo anterior.
+Art. 10.º Os serviços da Inspecção-Geral serão organizados em termos de assegurarem a cobertura eficaz das áreas de actuação referidas no capítulo anterior.
 
-###### Art. 11.º A organização dos serviços, com vista a alcançar o objectivo referido no artigo anterior, submeter-se-á ao seguinte esquema básico:
+Art. 11.º A organização dos serviços, com vista a alcançar o objectivo referido no artigo anterior, submeter-se-á ao seguinte esquema básico:
 
 a) Na área I (informação e estudos de base), que corresponde ao sector de trabalho interno, participará todo o pessoal licenciado e bacharelado da Inspecção-Geral, agrupado por áreas sectoriais, de carácter integrado e pluridisciplinar, cada uma das quais deverá corresponder a problemas fundamentais dos sectores da agricultura e das pescas que, assim, deverão ser permanentemente analisados;
 
@@ -254,9 +271,9 @@ e) Os responsáveis das áreas de actuação a que se refere a alínea anterior 
 
 f) Sempre que pela natureza e volume da actividade a desenvolver seja exigida uma maior capacidade de resposta, cada uma das áreas de actuação, com a excepção da área I, poderão ser divididas e subdivididas por sectores de actividade e por zonas geográficas, sendo, nesse caso, designados responsáveis para cada um desses sectores e zonas, os quais actuarão como adjuntos do responsável geral da respectiva área de actuação.
 
-###### Art. 12.º A designação de todos os responsáveis, bem como a formalização das subdivisões das áreas de actuação e a continuação das equipas, são feitas por despacho do Ministro da Agricultura e Pescas, sobre proposta do inspector-geral técnico e administrativo, ouvido o núcleo coordenador referido no artigo seguinte.
+Art. 12.º A designação de todos os responsáveis, bem como a formalização das subdivisões das áreas de actuação e a continuação das equipas, são feitas por despacho do Ministro da Agricultura e Pescas, sobre proposta do inspector-geral técnico e administrativo, ouvido o núcleo coordenador referido no artigo seguinte.
 
-###### Art. 13.º - 1 - A Inspecção-Geral disporá de um núcleo coordenador, presidido pelo inspector-geral técnico e administrativo, ao qual compete apreciar periodicamente a actividade desenvolvida e sugerir as medidas que deverão ser tomadas no âmbito interno ou propostas superiormente.
+Art. 13.º - 1 - A Inspecção-Geral disporá de um núcleo coordenador, presidido pelo inspector-geral técnico e administrativo, ao qual compete apreciar periodicamente a actividade desenvolvida e sugerir as medidas que deverão ser tomadas no âmbito interno ou propostas superiormente.
 
 2 - O núcleo coordenador é composto por representantes de todas as categorias hierárquicas do pessoal das carreiras de inspecção, na proporção de um representante escolhido por cada categoria.
 
@@ -266,29 +283,29 @@ f) Sempre que pela natureza e volume da actividade a desenvolver seja exigida um
 
 ### CAPÍTULO V — (Acesso à informação e documentação)
 
-###### Art. 14.º Para o cabal desempenho das funções que lhe competem é expressamente reconhecido à Inspecção-Geral o direito de proceder às diligências conducentes à obtenção de toda a informação necessária ao correcto conhecimento da problemática global da agricultura e das pescas nacionais e da acção dos órgãos e serviços do MAP.
+Art. 14.º Para o cabal desempenho das funções que lhe competem é expressamente reconhecido à Inspecção-Geral o direito de proceder às diligências conducentes à obtenção de toda a informação necessária ao correcto conhecimento da problemática global da agricultura e das pescas nacionais e da acção dos órgãos e serviços do MAP.
 
-###### Art. 15.º - 1 - Nos termos do artigo anterior a Inspecção-Geral poderá solicitar aos órgãos e serviços do MAP e aos grupos de trabalho, comissões, etc., criados com objectivos específicos, toda a documentação que considere necessária à sua actuação.
+Art. 15.º - 1 - Nos termos do artigo anterior a Inspecção-Geral poderá solicitar aos órgãos e serviços do MAP e aos grupos de trabalho, comissões, etc., criados com objectivos específicos, toda a documentação que considere necessária à sua actuação.
 
 2 - Com o mesmo objectivo, quer os órgãos e serviços do MAP, quer quaisquer outras entidades dependentes do Ministério fornecerão regularmente à Inspecção-Geral os programas e projectos das actividades a seu cargo, bem como os respectivos relatórios anuais.
 
-###### Art. 16.º Poderá igualmente a Inspecção-Geral solicitar às empresas, institutos e outras entidades tuteladas pelo Ministério, a documentação corrente julgada necessária ao conhecimento actualizado da respectiva situação e dos problemas inerentes.
+Art. 16.º Poderá igualmente a Inspecção-Geral solicitar às empresas, institutos e outras entidades tuteladas pelo Ministério, a documentação corrente julgada necessária ao conhecimento actualizado da respectiva situação e dos problemas inerentes.
 
-###### Art. 17.º Sempre que a documentação solicitada nos termos dos dois últimos artigos tenha o carácter de «secreto», «confidencial» ou «reservada», a Inspecção-Geral actuará com a prévia concordância do Ministro da Agricultura e Pescas e através do Gabinete do Ministro.
+Art. 17.º Sempre que a documentação solicitada nos termos dos dois últimos artigos tenha o carácter de «secreto», «confidencial» ou «reservada», a Inspecção-Geral actuará com a prévia concordância do Ministro da Agricultura e Pescas e através do Gabinete do Ministro.
 
-###### Art. 18.º A Inspecção-Geral, com a mesma finalidade referida no artigo 14.º, organizará um serviço de documentação técnica, jurídica e administrativa, bem como uma biblioteca especializada composta por livros e revistas de consulta corrente adequada à especificidade das suas áreas de actuação.
+Art. 18.º A Inspecção-Geral, com a mesma finalidade referida no artigo 14.º, organizará um serviço de documentação técnica, jurídica e administrativa, bem como uma biblioteca especializada composta por livros e revistas de consulta corrente adequada à especificidade das suas áreas de actuação.
 
-###### Art. 19.º À Inspecção-Geral, para que possa manter-se constantemente informada sobre a actividade do Ministério, é reconhecido o direito de participar nas reuniões destinadas a definir as grandes linhas orientadoras da política de actuação do Ministério e naquelas em que se apreciam e estabeleçam os programas e projectos de actividade a realizar pelos seus diferentes órgãos e serviços.
+Art. 19.º À Inspecção-Geral, para que possa manter-se constantemente informada sobre a actividade do Ministério, é reconhecido o direito de participar nas reuniões destinadas a definir as grandes linhas orientadoras da política de actuação do Ministério e naquelas em que se apreciam e estabeleçam os programas e projectos de actividade a realizar pelos seus diferentes órgãos e serviços.
 
-###### Art. 20.º A Inspecção-Geral, sempre que considere haver alta conveniência para o esclarecimento de problemas fundamentais e consequente actualização dos conhecimentos sobre vias de resolução, poderá solicitar autorização do Ministro para participar em reuniões, certames, congressos, exposições, etc., de carácter internacional.
+Art. 20.º A Inspecção-Geral, sempre que considere haver alta conveniência para o esclarecimento de problemas fundamentais e consequente actualização dos conhecimentos sobre vias de resolução, poderá solicitar autorização do Ministro para participar em reuniões, certames, congressos, exposições, etc., de carácter internacional.
 
-###### Art. 21.º A Inspecção-Geral, se a sua actividade no equacionamento dos problemas fundamentais da agricultura e das pescas o vier a justificar, poderá propor a preparação de um boletim de actividade, de periodicidade variável, a publicar pelo Ministério, salvaguardando a confidencialidade própria dos assuntos de serviço.
+Art. 21.º A Inspecção-Geral, se a sua actividade no equacionamento dos problemas fundamentais da agricultura e das pescas o vier a justificar, poderá propor a preparação de um boletim de actividade, de periodicidade variável, a publicar pelo Ministério, salvaguardando a confidencialidade própria dos assuntos de serviço.
 
 ### CAPÍTULO VI — (Âmbito de actividade e apoio à actuação)
 
-###### Art. 22.º A Inspecção-Geral exercerá a sua acção em todo o território nacional, sob a dependência directa do Ministro da Agricultura e Pescas, como estabelece o n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1978-324732).
+Art. 22.º A Inspecção-Geral exercerá a sua acção em todo o território nacional, sob a dependência directa do Ministro da Agricultura e Pescas, como estabelece o n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 48/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1978-324732).
 
-###### Art. 23.º - 1 - A Inspecção-Geral pode instalar núcleos de inspecção, que funcionarão por tempo indeterminado nos locais do País mais adequados às conveniências de serviço determinadas por um melhor aproveitamento do pessoal.
+Art. 23.º - 1 - A Inspecção-Geral pode instalar núcleos de inspecção, que funcionarão por tempo indeterminado nos locais do País mais adequados às conveniências de serviço determinadas por um melhor aproveitamento do pessoal.
 
 2 - Os referidos núcleos de inspecção ficam na dependência directa do inspector-geral técnico e administrativo, através do responsável do núcleo, o qual será sempre o inspector ou inspector-adjunto mais categorizado ou mais antigo.
 
@@ -300,11 +317,11 @@ f) Sempre que pela natureza e volume da actividade a desenvolver seja exigida um
 
 6 - No caso, porém, das diligências a efectuar terem carácter regular e permanente, ou serem de duração muito demorada, a Inspecção-Geral fornecerá aos seus funcionários os meios necessários ao desempenho eficaz das funções, excepto quanto a instalações de trabalho.
 
-###### Art. 24.º A Constituição e extinção dos núcleos de inspecção são feitas por despacho do Ministro, sobre proposta do inspector-geral técnico e administrativo.
+Art. 24.º A Constituição e extinção dos núcleos de inspecção são feitas por despacho do Ministro, sobre proposta do inspector-geral técnico e administrativo.
 
 ### CAPÍTULO VII — (Disposições gerais)
 
-###### Art. 25.º O pessoal da Inspecção-Geral goza das seguintes prerrogativas, quando no desempenho das suas funções junto dos órgãos e serviços do MAP ou de entidades directa ou indirectamente tuteladas pelo Ministério:
+Art. 25.º O pessoal da Inspecção-Geral goza das seguintes prerrogativas, quando no desempenho das suas funções junto dos órgãos e serviços do MAP ou de entidades directa ou indirectamente tuteladas pelo Ministério:
 
 a) Livre acesso a todas as instalações e locais de trabalho;
 
@@ -316,9 +333,9 @@ d) Direito de ouvir em auto de declarações os funcionários, agentes e emprega
 
 e) Direito a utilizar os meios oficiais de expedição de telegramas e de correspondência.
 
-###### Art. 26.º O pessoal dirigente, ou o pessoal exercendo as funções de responsáveis, dos órgãos e serviços do MAP e das entidades tuteladas fica obrigado a prestar ao pessoal da Inspecção-Geral os esclarecimentos e as facilidades, designadamente quanto a instalações de trabalho e serviço de secretaria, tidos por necessários ao bom desempenho das suas funções.
+Art. 26.º O pessoal dirigente, ou o pessoal exercendo as funções de responsáveis, dos órgãos e serviços do MAP e das entidades tuteladas fica obrigado a prestar ao pessoal da Inspecção-Geral os esclarecimentos e as facilidades, designadamente quanto a instalações de trabalho e serviço de secretaria, tidos por necessários ao bom desempenho das suas funções.
 
-###### Art. 27.º Nas inspecções administrativas dos serviços dotados de autonomia administrativa ou financeira a Inspecção-Geral deverá pautar o trabalho de inspecção pelas normas usuais, designadamente no que se refere ao balanço do cofre, o qual terá por finalidade verificar:
+Art. 27.º Nas inspecções administrativas dos serviços dotados de autonomia administrativa ou financeira a Inspecção-Geral deverá pautar o trabalho de inspecção pelas normas usuais, designadamente no que se refere ao balanço do cofre, o qual terá por finalidade verificar:
 
 a) A responsabilidade do tesoureiro pelos fundos, valores e documentos à sua guarda;
 
@@ -328,22 +345,22 @@ c) A regularidade da escrita da tesouraria;
 
 d) A forma como é exercida a fiscalização à tesouraria.
 
-###### Art. 28.º No exercício das suas funções o pessoal da Inspecção-Geral não poderá interferir na execução dos serviços dos organismos nem exercer qualquer acção disciplinar sobre o seu pessoal.
+Art. 28.º No exercício das suas funções o pessoal da Inspecção-Geral não poderá interferir na execução dos serviços dos organismos nem exercer qualquer acção disciplinar sobre o seu pessoal.
 
-###### Art. 29.º No exercício das suas funções pode o pessoal da Inspecção-Geral solicitar, quando se afigure imprescindível ao cumprimento das missões de que esteja superiormente incumbido, o auxílio das autoridades administrativas, judiciais e policiais.
+Art. 29.º No exercício das suas funções pode o pessoal da Inspecção-Geral solicitar, quando se afigure imprescindível ao cumprimento das missões de que esteja superiormente incumbido, o auxílio das autoridades administrativas, judiciais e policiais.
 
-###### Art. 30.º O pessoal das carreiras de inspecção da Inspecção-Geral, quando em serviço externo, tem direito a corresponder-se com outras autoridades, bem como com quaisquer pessoas singulares ou colectivas, sobre assuntos de serviço da sua competência.
+Art. 30.º O pessoal das carreiras de inspecção da Inspecção-Geral, quando em serviço externo, tem direito a corresponder-se com outras autoridades, bem como com quaisquer pessoas singulares ou colectivas, sobre assuntos de serviço da sua competência.
 
-###### Art. 31.º O pessoal das carreiras de inspecção da Inspecção-Geral têm direito à detenção, uso e porte de arma, nos termos do artigo 48.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
+Art. 31.º O pessoal das carreiras de inspecção da Inspecção-Geral têm direito à detenção, uso e porte de arma, nos termos do artigo 48.º do regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.
 
-###### Art. 32.º A Inspecção-Geral elaborará, anualmente, um relatório de actividade.
+Art. 32.º A Inspecção-Geral elaborará, anualmente, um relatório de actividade.
 
-###### Art. 33.º As dúvidas que se suscitarem na aplicação deste regulamento serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 33.º As dúvidas que se suscitarem na aplicação deste regulamento serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Joaquim da Silva Lourenço.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/521-1971-632741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a6af338ca60d4e50ce2a96021483941f2acc98908cd94e65c6a1167c5951046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10e62eb92783e114f6dacdadd1b51b6cb04c6cc72e508b2f7fd1640f748ecf18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:00Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +125,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 I - 1. O quantitativo mensal das pensões regulamentares concedidas pela Caixa Nacional de Pensões e pelas caixas a que são aplicáveis os preceitos da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, será multiplicado pelo factor B (a), dependente do ano a em que a pensão teve início, cujos valores são dados pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/22800/14031405.pdf))](https://files.diariodarepublica.pt/1s/1971/09/22800/14031405.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/22800/14031405.pdf)
 
 2. Relativamente às pensões iniciadas antes de 1 de Fevereiro de 1966, o quantitativo da pensão mensal a considerar é o que resultou da aplicação do n.º 2 da norma XL da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966.
 
@@ -153,4 +173,4 @@ VII - Ficam revogadas as normas I a III da [Portaria n.º 476/70](https://diario
 
 VIII - As disposições da presente portaria produzem efeitos a partir de 1 de Janeiro de 1972.
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

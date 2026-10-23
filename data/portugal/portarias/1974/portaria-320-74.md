@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 96/1974, 1º Suplemento, Série I de 1974-04-24
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 580-(20) a 580-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09601/00200022.pdf
 entry_into_force_dates: []
@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-1974-266124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 857b4ec330d61309c47de671beddfc494104c63a04b49f9e6dd40bbcac5ab434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 953d72d4d3daf86b1fd8b62a5b63a06b7a9fd89b2f9d09d1292e9cd8a31c6b1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Educação
+- Concurso
+- Contratação de Pessoal
+- Ensino Superior
+- Matrícula
+- Pessoal Auxiliar
+- Pessoal Docente
+- Propinas
 relationships:
 - type: amended_by
   target: pt:dre:171482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376637:por
+  label: "Aditado os nºs 12 e 13º ao nº. 1 pela PORT.958/82.22.09.1982.ME, DR.IS [235] de 11.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1982-376637
+  date: '1982-09-22'
+- type: amended_by
+  target: pt:dre:451659:por
+  label: Aditados os n.ºs 14, 15, 16 e 17 ao n.º 1.º, alargado até 15 dias após a publicação do presente diploma o prazo referido
+    no n.º 14 do art. 1.º e revogado o n.º 9.º pelo(a) Portaria n.º 635/83 - Diário da República n.º 125/1983, Série I de
+    1983-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/635-1983-451659
+  date: '1983-05-31'
+- type: amended_by
+  target: pt:dre:454282:por
+  label: Aditado o n.º 18 ao n.º 1.º pelo(a) Portaria n.º 800/83 - Diário da República n.º 173/1983, Série I de 1983-07-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/800-1983-454282
+  date: '1983-07-29'
+- type: amended_by
+  target: pt:dre:325515:por
+  label: "Aditados os nºs 18, 19. e 20 ao nº. 1, na redacção da Port. 958/82, de 11-Out, Port. 635/83, de 31-Mai, Port. 800/83,\
+    \ de 29-Jul, Port. 1068/83, de 28-Dez, e Port. 370/84, de 14-Jun, pela PORT.206/85.13.04.1985.ME, DR.IS [86] de 13.04.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-1985-325515
+  date: '1985-04-13'
+- type: cites
+  target: pt:dre:419614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669494:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:386593:por
+  label: "Revogado o n.º 18 do n.º 1 do presente diploma, aditado pelo n.º 1 da Port 800/83, de 24-Jul, pela PORT.370/84.14.06.1984.ME,\
+    \ DR.IS [137] de 14.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-1984-386593
+  date: '1984-06-14'
+- type: repealed_by
+  target: pt:dre:171482:por
+  label: "Revogados os nºs. 12 a 20 do nº 1 do presente diploma, pela PORT.824/85.31.10.1985.ME, DR.IS [251] de 31.10.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/824-1985-171482
+  date: '1985-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:37Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-1972-674391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 568233f6af0161890ddccea9ecae5d4b66855480a1155ed98201280f6b2232f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e77f6b0913f3425a95db8b2f5fc585c041db50d6a0e067204f6664d9ee0f6176
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:514847:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:57Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1. Os artigos 3.º e seu § único, 4.º e § único do artigo 5.º terão, na sua aplicação ao ultramar, a seguinte redacção:
 
-###### Art. 3.º A concessão da medalha compete ao Ministro do Ultramar, por sua iniciativa ou sob proposta dos Governadores das províncias ultramarinas, sendo as respectivas decisões publicadas no Diário do Governo e transcritas no Boletim Oficial da província ultramarina onde tiver domicílio a pessoa singular ou colectiva a galardoar.
+Art. 3.º A concessão da medalha compete ao Ministro do Ultramar, por sua iniciativa ou sob proposta dos Governadores das províncias ultramarinas, sendo as respectivas decisões publicadas no Diário do Governo e transcritas no Boletim Oficial da província ultramarina onde tiver domicílio a pessoa singular ou colectiva a galardoar.
 
 § único. A entrega das insígnias será feita de preferência em cerimónia pública.
 
-###### Art. 4.º Será organizado na Direcção-Geral de Administração Civil do Ministério do Ultramar um registo das concessões da medalha de mérito corporativo e do trabalho.
+Art. 4.º Será organizado na Direcção-Geral de Administração Civil do Ministério do Ultramar um registo das concessões da medalha de mérito corporativo e do trabalho.
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § único. Compete ao Ministro do Ultramar ordenar o cancelamento da concessão da medalha do respectivo registo.
 

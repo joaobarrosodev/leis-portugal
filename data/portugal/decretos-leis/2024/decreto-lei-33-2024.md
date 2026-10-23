@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/09400/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2024/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2024-864843948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c79ec00fd8310e1c7a25679552dcfae906f6417dc21e58ee95c8a558f23e396a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 550dcd6305f4c09b0b32b392504a75e1acef80c220e109eaa6a06550b0f2a6e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência para o Desenvolvimento e Coesão
 - Ajuda Comunitária
+- CIC Portugal 2020
 - Desenvolvimento Rural
 - Fundos CE
-- Proderam
-- Prorural
 - Madeira.região Autónoma
-- Prorrogação de Prazo
-- Regulamento
-- Açores
 - PDR 2020
 - PORTUGAL 2020
-- CIC Portugal 2020
+- Proderam
+- Prorrogação de Prazo
+- Prorural
+- Regulamento
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:159/2014
+  label: Altera, a partir de 16 de maio de 2024, com efeitos a 1 de março de 2024, o artigo 15.º do Decreto-Lei n.º 159/2014,
+    de 27 de outubro, Diário da República n.º 207/2014, Série I
+  source: null
+  date: '2014-10-27'
 - type: cites
   target: celex:32013R1303
   label: null
@@ -114,16 +120,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224728395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:11Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +176,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à sexta alteração ao [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>215/2015, de 6 de outubro, [88/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2018-116895169), de 6 de novembro, [127/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2019-124283151), de 29 de agosto, [10-L/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-l-2020-130779511), de 26 de março, e [109/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395), de 24 de novembro, alargando o prazo de reembolso a considerar, para efeitos de elegibilidade da despesa.
+O presente decreto-lei procede à sexta alteração ao [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, alterado pelos Decretos-Leis n.os215/2015, de 6 de outubro, [88/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2018-116895169), de 6 de novembro, [127/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2019-124283151), de 29 de agosto, [10-L/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-l-2020-130779511), de 26 de março, e [109/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395), de 24 de novembro, alargando o prazo de reembolso a considerar, para efeitos de elegibilidade da despesa.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro
 
@@ -198,12 +224,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de maio de 2024. - Luís Filipe Montenegro Cardoso de Morais Esteves - Joaquim José Miranda Sarmento - Manuel Castro Almeida.
 
-**Promulgado em 13 de maio de 2024.**
+Promulgado em 13 de maio de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de maio de 2024.**
+Referendado em 14 de maio de 2024.
 
-**O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.**
+O Primeiro-Ministro, Luís Filipe Montenegro Cardoso de Morais Esteves.
+
+117699071

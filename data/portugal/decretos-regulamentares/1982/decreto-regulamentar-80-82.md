@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1982-378318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 067a7464117ecba695a83563c0b1ec447dbb3f7d101ee378fa8fa67b4e8d3f11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e5f90adbb96c9ed589683ba381b5be18ca5e46e68496c6f18da7ce7e0b8333d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Administração e da Função Pública
+- Função Pública
+- Ministério da Reforma Administrativa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:218908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218908:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 229/86 - Diário da República n.º 186/1986, Série I de 1986-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1986-218908
+  date: '1986-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:23Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +143,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral da Administração e da Função Pública, abreviadamente designada por DGAFP, é um serviço de estudo, coordenação e apoio técnico, que tem como atribuições promover o permanente aperfeiçoamento e modernização da Administração Pública nos domínios das estruturas orgânicas e da função pública, bem como participar na definição das respectivas políticas e proceder ao seu acompanhamento sistemático.
+Artigo 1.º - 1 - A Direcção-Geral da Administração e da Função Pública, abreviadamente designada por DGAFP, é um serviço de estudo, coordenação e apoio técnico, que tem como atribuições promover o permanente aperfeiçoamento e modernização da Administração Pública nos domínios das estruturas orgânicas e da função pública, bem como participar na definição das respectivas políticas e proceder ao seu acompanhamento sistemático.
 
 2 - São ainda atribuições da DGAFP participar na definição das estratégias e das políticas de reforma administrativa, designadamente nas de emprego e formação da Administração Pública.
 
-###### Art. 2.º - 1 - As atribuições da DGAFP exercem-se, fundamentalmente, nos seguintes domínios:
+Art. 2.º - 1 - As atribuições da DGAFP exercem-se, fundamentalmente, nos seguintes domínios:
 
 a) Criação e reestruturação dos serviços públicos;
 
@@ -118,9 +163,9 @@ f) Segurança social;
 
 g) Acção social complementar dos funcionários e agentes.
 
-###### Art. 3.º Como órgão de estudo, compete à DGAFP realizar os estudos necessários à sua participação na definição das políticas de reforma administrativa, realizar estudos de adequação e propor o aperfeiçoamento das medidas legais relativas aos domínios das suas atribuições, elaborando os correspondentes projectos de diplomas.
+Art. 3.º Como órgão de estudo, compete à DGAFP realizar os estudos necessários à sua participação na definição das políticas de reforma administrativa, realizar estudos de adequação e propor o aperfeiçoamento das medidas legais relativas aos domínios das suas atribuições, elaborando os correspondentes projectos de diplomas.
 
-###### Art. 4.º Como órgão de coordenação e apoio técnico, compete à DGAFP:
+Art. 4.º Como órgão de coordenação e apoio técnico, compete à DGAFP:
 
 a) Executar acções de coordenação e controle da aplicação das medidas de política e das disposições legais em vigor nos domínios das suas atribuições;
 
@@ -142,11 +187,11 @@ i) Assegurar o estabelecimento de relações com as organizações representativ
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º - 1 - O director-geral é o órgão que gere a DGAFP, coadjuvado pelos subdirectores-gerais, os quais exercerão as funções e competências que lhes forem cometidas, delegadas ou subdelegadas pelo director-geral.
+Art. 5.º - 1 - O director-geral é o órgão que gere a DGAFP, coadjuvado pelos subdirectores-gerais, os quais exercerão as funções e competências que lhes forem cometidas, delegadas ou subdelegadas pelo director-geral.
 
 2 - O director-geral será substituído nas suas faltas e impedimentos por um dos subdirectores-gerais, designado sob proposta do director-geral.
 
-###### Art. 6.º - 1 - Para o exercício das suas atribuições, a DGAFP compreende os seguintes serviços:
+Art. 6.º - 1 - Para o exercício das suas atribuições, a DGAFP compreende os seguintes serviços:
 
 a) Departamento de Pesquisa e Desenvolvimento, abreviadamente designado DPD;
 
@@ -160,7 +205,7 @@ e) Divisão da Acção Social Complementar, abreviadamente designada DASC.
 
 2 - O apoio administrativo à DGAFP será prestado por uma secção administrativa, que funcionará na dependência funcional da Direcção de Serviços de Administração Geral do MRA.
 
-###### Art. 7.º - 1 - Ao DPD compete:
+Art. 7.º - 1 - Ao DPD compete:
 
 a) O tratamento integrado dos dados e informações de âmbito científico, técnico e estatístico necessários à elaboração de estudos e à condução das acções de coordenação e apoio técnico a empreender no âmbito das atribuições da DGAFP;
 
@@ -176,19 +221,19 @@ e) A preparação de planos de desenvolvimento e o acompanhamento da sua execuç
 
 3 - O DPD utilizará meios de tratamento automático de informação, recorrendo, de preferência, a rede do MRA.
 
-###### Art. 8.º Compete, em geral, ao DEQ:
+Art. 8.º Compete, em geral, ao DEQ:
 
 a) A coordenação e o controle da aplicação das medidas de política e das disposições legais vigentes quanto à criação e reestruturação de serviços e de quadros de pessoal na Administração Pública e, bem assim, a prestação de apoio técnico naqueles domínios;
 
 b) A participação e a realização de estudos e a elaboração de projectos de adequação das estruturas e dos quadros de pessoal com vista a contribuir para o aperfeiçoamento permanente das medidas de política nos domínios referidos.
 
-###### Art. 9.º Para o exercício da competência referida no artigo anterior, o DEQ dispõe das seguintes divisões:
+Art. 9.º Para o exercício da competência referida no artigo anterior, o DEQ dispõe das seguintes divisões:
 
 a) Divisão de Estruturas Orgânicas, abreviadamente designada DEO;
 
 b) Divisão de Quadros de Pessoal, abreviadamente designada DQP.
 
-###### Art. 10.º À DEO compete:
+Art. 10.º À DEO compete:
 
 a) A inventariação permanente dos organismos e serviços do Estado;
 
@@ -200,7 +245,7 @@ d) A emissão de pareceres e o acompanhamento e o apoio técnico de projectos so
 
 e) A elaboração e participação em estudos no domínio das estruturas.
 
-###### Art. 11.º - 1 - À DOP compete:
+Art. 11.º - 1 - À DOP compete:
 
 a) A aplicação de critérios doutrinais e legais sobre criação e reestruturação de quadros de pessoal e requisitos de provimento aplicáveis às diferentes categorias;
 
@@ -210,7 +255,7 @@ c) O dimensionamento de quadros de pessoal, face aos objectivos estruturalmente 
 
 d) A elaboração e participação em estudos no domínio dos quadros de pessoal.
 
-###### Art. 12.º Ao DCR compete, em geral:
+Art. 12.º Ao DCR compete, em geral:
 
 a) Proceder aos estudos de aperfeiçoamento permanente dos sistemas de carreiras e remuneratório, designadamente com base na análise e qualificação de funções;
 
@@ -218,7 +263,7 @@ b) Coordenar e apoiar a representação de medidas sobre carreiras e remuneraç�
 
 c) Apoiar a Comissão Interministerial para as Remunerações Acessórias, criada pelo [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Julho, com a qual articulará a respectiva actuação.
 
-###### Art. 13.º Para o exercício da competência no artigo anterior, o DCR dispõe das seguintes divisões:
+Art. 13.º Para o exercício da competência no artigo anterior, o DCR dispõe das seguintes divisões:
 
 a) Divisão de Carreiras, abreviadamente designada DC;
 
@@ -226,7 +271,7 @@ b) Divisão de Remunerações, abreviadamente designada DR;
 
 c) Divisão de Análises e Qualificação de Funções, abreviadamente designada DAQF.
 
-###### Art. 14.º À DC compete:
+Art. 14.º À DC compete:
 
 a) Inventariar permanentemente as carreiras e categorias existentes na função pública e os respectivos efectivos;
 
@@ -240,7 +285,7 @@ e) Fornecer os elementos necessários à participação, com a DGEAFP e o INA, n
 
 f) Fornecer os elementos necessários à participação, com a DGEFAP, na definição das linhas orientadoras em matéria de recrutamento e contingentação dos recursos humanos na função pública.
 
-###### Art. 15.º À DR compete:
+Art. 15.º À DR compete:
 
 a) Proceder à inventariação do regime remuneratório da função pública e das várias situações especiais existentes, designadamente no que respeita a remunerações acessórias, de modo a garantir o conhecimento actualizado dos desequilíbrios detectados e das necessidades a satisfazer;
 
@@ -248,7 +293,7 @@ b) Propôr as medidas de aperfeiçoamento da política salarial da função púb
 
 c) Elaboração dos estudos necessários ao exercício das competências referidas nas alíneas anteriores.
 
-###### Art. 16.º À DAQF compete:
+Art. 16.º À DAQF compete:
 
 a) Definir e inventariar as funções predominantemente correspondentes às várias categorias e carreiras da função pública e à integração destas em vários níveis de remuneração e qualificação;
 
@@ -258,7 +303,7 @@ c) Fornecer os instrumentos técnicos necessários à articulação de acções 
 
 d) Colaborar em estudos e intervenções de dimensionamento de quadros.
 
-###### Art. 17.º Compete, em geral, ao DCT:
+Art. 17.º Compete, em geral, ao DCT:
 
 a) Coordenar e apoiar todos os projectos de diploma que contenham normas respeitantes ao regime geral de prestação de trabalho na função pública, aos direitos de exercício colectivo dos funcionários e agentes, a estatutos e regimes especiais e sectoriais e à segurança social;
 
@@ -268,7 +313,7 @@ c) Propor os aperfeiçoamentos que forem considerados necessários para a boa ex
 
 d) Efectuar os estudos necessários ao exercício da sua competência.
 
-###### Art. 18.º Para o exercício da sua competência, o DCT dispõe das seguintes divisões:
+Art. 18.º Para o exercício da sua competência, o DCT dispõe das seguintes divisões:
 
 a) Divisão de Regime Geral, abreviadamente designada DRG;
 
@@ -276,7 +321,7 @@ b) Divisão de Regimes Especiais e Sectoriais, abreviadamente designada DRES;
 
 c) Divisão de Segurança Social, abreviadamente designada DSS.
 
-###### Art. 19.º Compete à DRG:
+Art. 19.º Compete à DRG:
 
 a) Prestar o apoio técnico-jurídico que lhe for solicitado pelos diversos organismos e serviços da Administração e emitir parecer sobre projectos de diploma que envolvam matérias relativas ao regime geral da prestação de trabalho na função pública e aos direitos de exercício colectivo dos funcionários e agentes;
 
@@ -284,7 +329,7 @@ b) Acompanhar, interpretar e esclarecer as medidas e diplomas referentes às mat
 
 c) Propor as medidas de aperfeiçoamento decorrentes das acções compreendidas no âmbito da sua competência.
 
-###### Art. 20.º À DRES compete:
+Art. 20.º À DRES compete:
 
 a) Prestar o apoio técnico-jurídico que lhe for solicitado pelos diversos organismos e serviços e emitir parecer sobre todos os projectos de diploma que envolvam matérias relativas a estatutos e regimes especiais e sectoriais da Administração Pública;
 
@@ -292,7 +337,7 @@ b) Acompanhar, interpretar e esclarecer as medidas e diplomas referentes às mat
 
 c) Propor as medidas de aperfeiçoamento decorrentes das acções compreendidas no âmbito da sua competência.
 
-###### Art. 21.º Compete à DSS:
+Art. 21.º Compete à DSS:
 
 a) Prestar o apoio técnico-jurídico que lhe for solicitado pelos diversos organismos e serviços da Administração e emitir parecer sobre todos os projectos de diploma que envolvam matérias relativas ao regime de segurança social na função pública;
 
@@ -300,7 +345,7 @@ b) Acompanhar, interpretar e esclarecer as medidas e diplomas referentes à segu
 
 c) Propor as medidas de aperfeiçoamento adequadas à melhoria do sistema de segurança social na função pública.
 
-###### Art. 22.º - 1 - À DASC compete:
+Art. 22.º - 1 - À DASC compete:
 
 a) Apoiar e dinamizar os serviços e organismos que concedem benefícios sociais e coordenar os programas e acções por eles desenvolvidos, propondo as necessárias medidas de aperfeiçoamento;
 
@@ -308,17 +353,17 @@ b) Dar parecer sobre projectos de diplomas que contenham matérias respeitantes 
 
 c) Apoiar a CIASC no exercício das respectivas competências fixadas no [Decreto-Lei n.º 592/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/592-1976-430638), de 23 de Julho.
 
-###### Art. 23.º - 1 - Os departamentos e as divisões são dirigidos, respectivamente, por directores de serviço e chefes de divisão, aos quais cabe assegurar a direcção dos respectivos serviços.
+Art. 23.º - 1 - Os departamentos e as divisões são dirigidos, respectivamente, por directores de serviço e chefes de divisão, aos quais cabe assegurar a direcção dos respectivos serviços.
 
 2 - A Secção Administrativa é chefiada por um chefe de secção.
 
 ### CAPÍTULO III — Funcionamento dos serviços
 
-###### Art. 24.º - 1 - A prossecução das actividades da DGAFP obedece aos princípios do planeamento, orçamentação e controle, exerce-se pela via da programação e é suportada em projectos geridos integradamente por um esquema de estrutura matricial assente no DPD.
+Art. 24.º - 1 - A prossecução das actividades da DGAFP obedece aos princípios do planeamento, orçamentação e controle, exerce-se pela via da programação e é suportada em projectos geridos integradamente por um esquema de estrutura matricial assente no DPD.
 
 2 - As actividades de rotina com carácter interdepartamental são geridas de forma integrada pela participação conjunta dos departamentos pertinentes.
 
-###### Art. 25.º - 1 - A DGAFP manterá permanente ligação com os demais serviços do Ministério no domínio das respectivas atribuições.
+Art. 25.º - 1 - A DGAFP manterá permanente ligação com os demais serviços do Ministério no domínio das respectivas atribuições.
 
 2 - A DGAFP exercerá as suas actividades em cooperação e colaboração com os departamentos adequados da Administração, designadamente com as secretarias-gerais e os serviços homólogos das regiões autónomas.
 
@@ -326,7 +371,7 @@ c) Apoiar a CIASC no exercício das respectivas competências fixadas no [Decret
 
 4 - No que respeita às autarquias, a colaboração a prestar pela DGAFP decorrerá do que lhe for solicitado pelo ministério da tutela ou directamente pelas autarquias ou respectivas associações, quando existam.
 
-###### Art. 26.º Para a prossecução das suas atribuições, pode ainda a DGAFP:
+Art. 26.º Para a prossecução das suas atribuições, pode ainda a DGAFP:
 
 a) Solicitar aos organismos e serviços públicos os elementos necessários à prossecução dos seus objectivos;
 
@@ -342,7 +387,7 @@ f) Receber e orientar estagiários de outros serviços ou de outros países, des
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 27.º - 1 - A DGAFP dispõe do pessoal constante do quadro I anexo ao presente diploma.
+Art. 27.º - 1 - A DGAFP dispõe do pessoal constante do quadro I anexo ao presente diploma.
 
 2 - A DGAFP disporá ainda do pessoal administrativo e auxiliar pertencente ao quadro único do Ministério colocado na DGAFP nos termos do n.º 3 do artigo 20.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, e contingentado no quadro II anexo.
 
@@ -352,13 +397,13 @@ f) Receber e orientar estagiários de outros serviços ou de outros países, des
 
 5 - O pessoal da DGAFP será distribuído pelos serviços mediante despacho do director-geral e poderá ser adstrito a cada uma das unidades orgânicas com carácter de rotatividade e periodicidade, de acordo com as condições a estabelecer por despacho do director-geral.
 
-###### Art. 28.º - 1 - O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
+Art. 28.º - 1 - O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
 
 2 - Nos termos do n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, o cargo de chefe de divisão do DASC será provido de entre técnicos superiores principais que possuam formação e experiência na área da acção social complementar, habilitados com curso superior adequado, devendo o despacho de nomeação ser acompanhado, para publicação, do currículo do nomeado.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 29.º - 1 - Sem prejuízo do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, será integrado no quadro a que se refere o n.º 1 do artigo 27.º deste diploma todo o pessoal que, à data da entrada em vigor do presente diploma, se encontre a prestar serviço efectivo na DGAFP, bem como o pessoal pertencente aos quadros da ex-DGRH, destacado, requisitado ou em comissão de serviço noutros organismos.
+Art. 29.º - 1 - Sem prejuízo do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, será integrado no quadro a que se refere o n.º 1 do artigo 27.º deste diploma todo o pessoal que, à data da entrada em vigor do presente diploma, se encontre a prestar serviço efectivo na DGAFP, bem como o pessoal pertencente aos quadros da ex-DGRH, destacado, requisitado ou em comissão de serviço noutros organismos.
 
 2 - À transição do pessoal abrangido pelo número anterior para os lugares do quadro I anexo a este diploma aplicar-se-á o disposto no artigo 35.º do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
 
@@ -366,34 +411,34 @@ f) Receber e orientar estagiários de outros serviços ou de outros países, des
 
 4 - A integração do pessoal referido no número anterior far-se-á mediante lista ou listas nominativas, aprovadas por despacho do Ministro da Reforma Administrativa, a publicar no Diário da República, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas.
 
-###### Art. 30.º Os concursos de promoção abertos ao abrigo da [Portaria n.º 1005/81](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1981-568075), de 23 de Novembro, para vagas do quadro constante do [Decreto Regulamentar n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1979-231285), de 31 de Dezembro, mantido em vigor pelo artigo 22.º, n.º 2, do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, consideram-se válidos relativamente aos lugares do quadro I anexo ao presente diploma.
+Art. 30.º Os concursos de promoção abertos ao abrigo da [Portaria n.º 1005/81](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1981-568075), de 23 de Novembro, para vagas do quadro constante do [Decreto Regulamentar n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1979-231285), de 31 de Dezembro, mantido em vigor pelo artigo 22.º, n.º 2, do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, consideram-se válidos relativamente aos lugares do quadro I anexo ao presente diploma.
 
-###### Art. 31.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas dotações existentes no actual orçamento do Ministério da Reforma Administrativa.
+Art. 31.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas dotações existentes no actual orçamento do Ministério da Reforma Administrativa.
 
-###### Art. 32.º - 1 - Até ao final do corrente ano económico os encargos com pessoal respeitantes ao funcionamento da DGAFP serão suportados por força das verbas consignadas à Direcção-Geral dos Recursos Humanos e Direcção-Geral de Sistemas Administrativos, por transferências das verbas correspondentes aos encargos com o pessoal e vagas afectos à DGAFP.
+Art. 32.º - 1 - Até ao final do corrente ano económico os encargos com pessoal respeitantes ao funcionamento da DGAFP serão suportados por força das verbas consignadas à Direcção-Geral dos Recursos Humanos e Direcção-Geral de Sistemas Administrativos, por transferências das verbas correspondentes aos encargos com o pessoal e vagas afectos à DGAFP.
 
 2 - A afectação à DGAFP do património da ex-DGSA proveniente da transferência de atribuições e pessoal, prevista no [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, e no presente decreto regulamentar, será determinada por despacho do Ministro da Reforma Administrativa, ouvidos os directores-gerais da Administração e da Função Pública e da Organização Administrativa.
 
-###### Art. 33.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano quando estiver em causa matéria de sua competência.
+Art. 33.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano quando estiver em causa matéria de sua competência.
 
-###### Art. 34.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 34.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 27.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf)
 
 QUADRO II
 
 Mapa de pessoal a que se refere o n.º 2 do artigo 27.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36563661.pdf)

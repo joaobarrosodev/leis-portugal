@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 302/1988, 1º Suplemento, Série I de 1988-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5154-(2) a 5154-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/30201/00020002.pdf
 entry_into_force_dates: []
@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/98-1988-199421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f8131fe2807ea6694c973f68fd075d5d08f21b9af9fad795e96eb200a3e1dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79d51d494fc54c24baf125e296b0ced4f4d51db803aef1c495b2cf05a1ad1f6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acordo CE
+- Bruxelas
+- CE Países
+- CEE
+- Convenção
+- Decisão CE
+- Euratom
+- Financiamento
+- Orçamento
+- Portugal
+- Sistema de Recursos Próprios das Comunidades Europeias
+relationships:
+- type: cites
+  target: pt:dre:361140:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:33Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +101,16 @@ validation:
 
 de 31 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 São ratificados o Acordo Intergovernamental entre os representantes dos Estados membros da Comunidade Europeia, aprovado em 24 de Junho de 1988, e a Decisão do Conselho n.º 88/3/376/CEE EURATOM, relativa ao sistema de recursos próprios das Comunidades, aprovados, para ratificação, pela [Resolução da Assembleia da República n.º 23/88](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/23-1988-361140), de 24 de Novembro.
 
-**Assinado em 28 de Dezembro de 1988.**
+Assinado em 28 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1988.**
+Referendado em 29 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

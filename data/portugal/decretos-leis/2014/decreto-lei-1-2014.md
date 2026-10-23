@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/2014/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2014-606113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ec5cb6bf10c9c7a371b6f9931f14ae8467e6e5bc0442300196d03062af88b2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ff8aa68fbf8ce0ff93299193fd29449a6e4195d9673255755fe2a91f4213f3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
-- Médico
-- Ministério da Defesa Nacional
-- Exército
+- Chefe do Estado Maior do Exército
 - Definição de Competências
 - Estabelecimentos Fabris do Exército
-- Sistema Retributivo
+- Exército
 - Extinção de Lugares
-- Pessoal Operário
-- Secretaria Geral
 - Integração de Trabalhadores
-- Chefe do Estado Maior do Exército
 - Laboratório Militar de Produtos Químicos e Farmacêuticos
 - Manutenção Militar
+- Médico
+- Ministério da Defesa Nacional
 - Oficinas Gerais de Fardamento e Equipamento
 - Oficinas Gerais de Material de Engenharia
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Informática
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Regime do Contrato de Trabalho em Funções Públicas
 - Remuneração
+- Secretaria Geral
+- Sistema Retributivo
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
@@ -102,16 +102,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:312445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675788:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:19Z'
   warnings: []
   errors: []
 ---
@@ -202,15 +246,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 31 de dezembro de 2013.**
+Promulgado em 31 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de janeiro de 2014.**
+Referendado em 2 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — MAPA I
 
@@ -218,7 +262,7 @@ Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Pas
 
 Carreiras e categorias atuais do Laboratório Militar de Produtos Químicos e Farmacêuticos (LMPQF)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA II
 
@@ -226,7 +270,7 @@ MAPA II
 
 LMPQF - Transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA III
 
@@ -234,7 +278,7 @@ MAPA III
 
 LMPQF - Carreiras/categorias a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA IV
 
@@ -242,7 +286,7 @@ MAPA IV
 
 LMPQF - Carreiras/categorias subsistentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 ## ANEXO II — MAPA I
 
@@ -250,7 +294,7 @@ LMPQF - Carreiras/categorias subsistentes
 
 Carreiras e categorias atuais das Oficinas Gerais de Fardamento e Equipamento (OGFE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA II
 
@@ -258,7 +302,7 @@ MAPA II
 
 OGFE - Transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA III
 
@@ -266,7 +310,7 @@ MAPA III
 
 OGFE - Carreiras/categorias a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA IV
 
@@ -274,7 +318,7 @@ MAPA IV
 
 OGFE - Carreiras/categorias subsistentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 ## ANEXO III — MAPA I
 
@@ -282,7 +326,7 @@ OGFE - Carreiras/categorias subsistentes
 
 Carreiras e categorias atuais das Oficinas Gerais de Material de Engenharia (OGME)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA II
 
@@ -290,7 +334,7 @@ MAPA II
 
 OGME - Transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA III
 
@@ -298,7 +342,7 @@ MAPA III
 
 OGME - Carreiras/categorias a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA IV
 
@@ -306,7 +350,7 @@ MAPA IV
 
 OGME - Carreiras/categorias subsistentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 ## ANEXO IV — MAPA I
 
@@ -314,7 +358,7 @@ OGME - Carreiras/categorias subsistentes
 
 Carreiras e categorias atuais da Manutenção Militar (MM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA II
 
@@ -322,7 +366,7 @@ MAPA II
 
 MM - Transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA III
 
@@ -330,7 +374,7 @@ MAPA III
 
 MM - Carreiras/categorias a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
 
 MAPA IV
 
@@ -338,4 +382,4 @@ MAPA IV
 
 MM - Carreiras/categorias subsistentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf))](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/00600/0006100070.pdf)

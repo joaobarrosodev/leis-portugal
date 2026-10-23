@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(2) a 72-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-a-1985-162788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccbdaff0915babdf5b1c6af862023aa6dfc771f164349a609c005809dc3e8631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f36aae11e06cdb89ec56fdefb0e9d87ffaed0f52fc9cb9d7e79eefd91b09b9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- EPAC
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:249496:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660551:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621173:por
+  label: Revogado o n.º 9.º pelo(a) Despacho Normativo n.º 41-A/85 - Diário da República n.º 128/1985, 1º Suplemento, Série
+    I de 1985-06-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/41-a-1985-621173
+  date: '1985-06-04'
+- type: repealed_by
+  target: pt:dre:249496:por
+  label: Revogado, a partir de 28.11.1985, pelo(a) Despacho Normativo n.º 112/85 - Diário da República n.º 270/1985, 1º Suplemento,
+    Série I de 1985-11-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/112-1985-249496
+  date: '1985-11-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:35Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +135,7 @@ Trigo
 
 1.º Os preços de venda pela Empresa Pública de Abastecimento de Cereais (EPAC) de trigo mole nacional e rijo da classe C são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf)
 
 2.º Os preços de venda pela EPAC de trigo rijo de grão claro das classes A e B, definidas e classificadas pela [Portaria n.º 20795](https://diariodarepublica.pt/dr/detalhe/portaria/20795-1964-537381), de 9 de Setembro de 1964, por tonelada, são os estabelecidos no número anterior, acrescidos de 15635$00 e 12635$00, respectivamente.
 
@@ -118,7 +157,7 @@ Centeio e Triticale
 
 5.º Os preços de venda pela EPAC de centeio e triticale destinados à produção de farinhas são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00020003.pdf)
 
 III
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/50/1997/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1997-694208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b98aea90d7347b59d44a822c774a0f655e405bc3d478cdfc13094df0ff5ec2f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c57fd742d1610880a055f155dcfa33272133aa757fa89a04d3abb78b86e5669
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - CAÇA
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização
 - Ilícito de MERA Ordenação Social
 - Instituto da Conservação da Natureza
-- Serra da Estrela
+- Ordenamento do Território
 - Parque Natural da Serra da Estrela
 - Proteção do Ambiente
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:67198365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216723:por
+  label: "Interditado o exercício da caça nos terrenos cinegéticos não ordenados dentro dos limites do Parque Natural da Serra\
+    \ da Estrela, previstos no Dec Lei 167/79 de 14-Jun, reclassificado pelo presente diploma, pela PORT.352/2004.01.04.2004.MCOTA,\
+    \ DR.IS-B [78] de 01.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-2004-216723
+  date: '2004-04-01'
+- type: amended_by
+  target: pt:dre:641461:por
+  label: "Alterados os anexos I e II, pelo DR.83/2007.10.10.2007.MAOTDR, DR.IS [195] de 10.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/83-2007-641461
+  date: '2007-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169/1996/09/18/p/dre
   label: null
@@ -96,16 +108,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/836/1993/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/836/1993/09/08/p/dre
+- type: cites
+  target: pt:dre:219475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626998:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489984:por
+  label: "Revogada, com a entrada em vigor do POPNSE, nos termos do n.º 6 do art. 23.º do Dec Lei 142/2008, de 24-Jul, a Port\
+    \ 583/90, de 25-Jul, mantida em vigor pelo presente diploma, pela RES.83/2009.09.09.2009.PCM, DR.IS [175] de 09.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/83-2009-489984
+  date: '2009-09-09'
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:51Z'
   warnings: []
   errors: []
 ---
@@ -360,15 +429,15 @@ Presidência do Conselho de Ministros, 11 de Setembro de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 24 de Outubro de 1997.**
+Promulgado em 24 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites do Parque Natural
 
@@ -382,4 +451,4 @@ A sul, segue pela estrada nacional n.º 230 até ao desvio para Erada e desta pa
 
 A oeste, segue o limite do concelho de Oliveira do Hospital até à estrada nacional n.º 17 e por esta até Celorico da Beira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/269b00/63116315.pdf))](https://files.diariodarepublica.pt/1s/1997/11/269b00/63116315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63116315.pdf)

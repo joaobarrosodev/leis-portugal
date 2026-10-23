@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 214/2000, 2º Suplemento, Série I-B de 2000-09-15
   number: '214'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4946-(34) a 4946-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/214b02/00340043.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12-a/2000/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-a-2000-261891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b19bd2ca89a58813950b6cf5683baeeb7e4004b72b221d0e9ddd37964d9c52c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b307bbbfb23aa4b51674a9c0ee60694581ced30af59514a32469c3d248d980e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Definição de Competências
+- Economia Social
 - Financiamento
 - Formação Profissional
-- Definição de Competências
-- QCA
 - FSE
-- Economia Social
-- Política de Emprego
 - Mercado do Trabalho
+- Política de Emprego
+- QCA
 relationships:
 - type: amended_by
   target: pt:dre:426483:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271254:por
+  label: "Excluídas as acções co-financiadas pelo FSE, a implementar no âmbito do eixo n.º 2 da medida n.º 4 do PR, do âmbito\
+    \ de aplicação do disposto no art. 16.º do presente diploma, pelo DR.23/2004.24.06.2004.MSST, DR.IS-B [147] de 24.06.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-2004-271254
+  date: '2004-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
   label: null
@@ -102,16 +109,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/782/1997/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/782/1997/08/29/p/dre
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474696:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:386210:por
+  label: "Rectificado pela DECL-RECT.14-E/2000.2000.10.31.PCM DR.IS-B [252]3ºSupl de 31.10.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-e-2000-386210
+  date: '2000-10-31'
+- type: repealed_by
+  target: pt:dre:426483:por
+  label: "Revogado a partir de 15.12.2007 pelo DR.84-A/2007.10.12.2007.MTSSO, DR.IS [237-Supl] de 10.12.2007 (Ver Notas)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/84-a-2007-426483
+  date: '2007-12-10'
 article_structure:
   article_count: 43
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:26Z'
   warnings: []
   errors: []
 ---
@@ -682,12 +724,12 @@ O disposto nos artigos 11.º a 16.º, 18.º a 22.º e 27.º a 32.º não se apli
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2000. - Jaime José Matos da Gama - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - António do Pranto Nogueira Leite - Vítor Manuel Sampaio Caetano Ramalho - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Guilherme d'Oliveira Martins - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Armando António Martins Vara.
 
-**Promulgado em 14 de Setembro de 2000.**
+Promulgado em 14 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2000.**
+Referendado em 15 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

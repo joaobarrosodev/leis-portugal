@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 29-(2) a 29-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/10501/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24-a/2020/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33aa629cd5a07a88fcbd126094682b3206f7d6d45a1334385fc4a927137c14e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 216ae63d1bda61c4378541f0e62d11442d419b88472b3ed82eb8926c9a920bf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,74 +65,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Administração Geral Tributária
+- Administração Regional de Saúde
+- Agência para a Modernização Administrativa
+- Apoio Domiciliário
 - Aposentado
 - Assembleia Geral
-- Livro de Reclamações
-- Proteção Civil
-- Gestão de Resíduos
-- Pessoal de Saúde
-- Financiamento
-- Espetáculos e Divertimentos Públicos
-- Médico
-- Instituto do Emprego e Formação Profissional
+- Associação
 - Atestado Médico
-- Estabelecimento Comercial
-- Direção Geral da Saúde
-- Saúde
+- Autarquia Local
+- Benefícios Fiscais
+- Comércio
+- Cooperativa
+- Deficiente
 - Definição de Competências
 - Despesas Públicas
-- Administração Regional de Saúde
+- Direção Geral da Saúde
 - Direção Geral das Autarquias Locais
+- Doença Infecciosa
+- Ensino
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Saúde Pública
-- Cooperativa
-- Serviço Nacional de Saúde
-- Pesca
-- Administração Geral Tributária
-- Recrutamento de Pessoal
+- Ensino Secundário
+- Ensino Superior
+- Epidemia
+- Equipamento de Proteção
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
+- Estágio de Formação
+- Financiamento
+- Gestão de Resíduos
+- Incapacidade Permanente
+- Incapacidade Temporária
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto do Emprego e Formação Profissional
 - Insuficiência Económica
 - Isolamento Profiláctico
-- Ensino Secundário
 - Junta Médica
 - Licenciamento
+- Livro de Reclamações
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Instituto da Conservação da Natureza e das Florestas
-- Pessoal não Docente
-- Doença Infecciosa
-- Epidemia
-- Proteção ao Deficiente
-- Ensino
-- Estabelecimento de Ensino
+- Médico
+- Pesca
+- Pessoal de Saúde
 - Pessoal Docente
-- Serviço Público
-- Prestação de Serviços
-- Ensino Básico
-- Estágio de Formação
-- Prorrogação de Prazo
-- Proteção do Consumidor
-- Apoio Domiciliário
-- Agência para a Modernização Administrativa
-- Ensino Superior
-- Associação
-- Relatório Pericial
-- Benefícios Fiscais
-- Incapacidade Temporária
-- Segurança Social
-- Incapacidade Permanente
-- Comércio
-- Transporte de Passageiros
-- Autarquia Local
+- Pessoal não Docente
 - Plataforma Eletrónica
-- Equipamento de Proteção
+- Prestação de Serviços
+- Prorrogação de Prazo
+- Proteção ao Deficiente
+- Proteção Civil
+- Proteção do Consumidor
+- Recrutamento de Pessoal
+- Relatório Pericial
+- Saúde
+- Saúde Pública
+- Segurança Social
+- Serviço Nacional de Saúde
+- Serviço Público
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -173,16 +179,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/33-c/2020/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/33-c/2020/04/30/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133491339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:07Z'
   warnings: []
   errors: []
 ---
@@ -261,7 +311,9 @@ Os artigos 5.º, 6.º, 13.º-B, 13.º-D, 16.º, 18.º, 25.º-D, 28.º-B, 35.º-D
 
 11 - Para efeitos de benefícios sociais, económicos e fiscais, é prorrogada, até 31 de dezembro de 2020, a validade dos atestados médicos de incapacidade multiuso emitidos nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de outubro, na sua redação atual.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -277,7 +329,9 @@ Os artigos 5.º, 6.º, 13.º-B, 13.º-D, 16.º, 18.º, 25.º-D, 28.º-B, 35.º-D
 
 7 - [...]
 
-###### Artigo 13.º-B — [...]
+Artigo 13.º-B
+
+[...]
 
 1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência nos seguintes locais:
 
@@ -309,7 +363,9 @@ b) Declaração médica que ateste que a condição clínica da pessoa não se c
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 13.º-D — [...]
+Artigo 13.º-D
+
+[...]
 
 1 - [...]
 
@@ -327,7 +383,9 @@ c) [Anterior alínea c) do n.º 3.]
 
 d) A comparticipação é transferida pela DGAL em função da despesa realizada, nos termos do n.º 2.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -341,13 +399,17 @@ d) A comparticipação é transferida pela DGAL em função da despesa realizada
 
 6 - O disposto no n.º 2 não é aplicável às licenças de pesca lúdica mensais e anuais que estivessem válidas na data a que se refere o n.º 1, considerando-se as mesmas prorrogadas pelo período equivalente ao da respetiva interdição de exercício da pesca lúdica.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [Anterior corpo do artigo.]
 
 2 - Sem prejuízo do disposto no número anterior, no caso das cooperativas e das associações com mais de 100 cooperantes ou associados, as assembleias gerais que devam ter lugar por imposição estatutária podem ser realizadas até 30 de setembro de 2020.
 
-###### Artigo 25.º-D — Reabertura de respostas sociais e educativas
+Artigo 25.º-D
+
+Reabertura de respostas sociais e educativas
 
 1 - Nas atividades das respostas sociais de creche, creche familiar e ama, bem como de centro de atividades ocupacionais, previstas nos n.os 1 e 2 do artigo 9.º, cuja suspensão de atividades cessou a partir de 18 de maio de 2020, devem ser observadas as regras de ocupação, permanência, distanciamento físico e de higiene determinadas pela Direção-Geral da Saúde.
 
@@ -357,7 +419,9 @@ d) A comparticipação é transferida pela DGAL em função da despesa realizada
 
 4 - Sem prejuízo do disposto no n.º 2, as demais atividades de apoio à família e de ocupação de tempos livres ou similares apenas podem funcionar a partir do final do ano letivo.
 
-###### Artigo 28.º-B — [...]
+Artigo 28.º-B
+
+[...]
 
 1 - [...]
 
@@ -373,7 +437,9 @@ d) A comparticipação é transferida pela DGAL em função da despesa realizada
 
 7 - [...]
 
-###### Artigo 35.º-D — [...]
+Artigo 35.º-D
+
+[...]
 
 1 - [...]
 
@@ -383,7 +449,9 @@ d) A comparticipação é transferida pela DGAL em função da despesa realizada
 
 4 - [...]
 
-###### Artigo 35.º-J — Entrada de resíduos destinados a eliminação
+Artigo 35.º-J
+
+Entrada de resíduos destinados a eliminação
 
 1 - Por motivo de força maior decorrente da necessidade de salvaguarda da suficiência nacional em matéria de instalações de eliminação de resíduos previstas nas alíneas a) e b) do artigo 10.º do [Decreto-Lei n.º 183/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2009-493485), de 10 de agosto, na sua redação atual, são suspensos até 31 de dezembro de 2020 os efeitos das autorizações emitidas ao abrigo do [Decreto-Lei n.º 45/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2008-247025), de 11 de março, na sua redação atual, para entrada de resíduos no território nacional.
 
@@ -409,11 +477,15 @@ Norma interpretativa
 
 5 - Os procedimentos de seleção em curso e que as entidades entenderem dever continuar, mesmo que a outorga dos contratos fique adiada até à cessação da suspensão, podem seguir os seus trâmites normais até à elaboração da lista de classificação final.
 
-###### Artigo 18.º-A — Prorrogação dos prazos para exercício de direitos do consumidor
+Artigo 18.º-A
+
+Prorrogação dos prazos para exercício de direitos do consumidor
 
 Os prazos para o exercício de direitos previstos no artigo 5.º-A do [Decreto-Lei n.º 67/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2003-223630), de 8 de abril, na sua redação atual, cujo término se tenha verificado entre os dias 18 de março de 2020 e 31 de maio de 2020, são prorrogados até 30 de junho de 2020.
 
-###### Artigo 35.º-L — Perícias por junta médica
+Artigo 35.º-L
+
+Perícias por junta médica
 
 1 - As perícias por junta médica, solicitadas pelas autoridades judiciárias, ao abrigo do n.º 1 do artigo 139.º do Código de Processo do Trabalho, aprovado pelo [Decreto-Lei n.º 480/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1999-683065), de 9 de novembro, na sua redação atual, são realizadas exclusivamente nas instalações das delegações do INMLCF, I. P., gabinetes médico-legais ou hospitais.
 
@@ -421,7 +493,9 @@ Os prazos para o exercício de direitos previstos no artigo 5.º-A do [Decreto-L
 
 3 - Quando as diligências referidas no presente artigo sejam efetuadas por meio de comunicação à distância, o respetivo auto é assinado apenas pelo magistrado que preside.
 
-###### Artigo 35.º-M — Operações de gestão de resíduos
+Artigo 35.º-M
+
+Operações de gestão de resíduos
 
 Os operadores licenciados para operações de valorização de resíduos de equipamentos de proteção individual podem enviar estes resíduos para eliminação, preferencialmente por incineração ou, não sendo possível, para deposição em aterro.»
 
@@ -443,12 +517,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de maio de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Graça Maria da Fonseca Caetano Gonçalves - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 29 de maio de 2020.**
+Promulgado em 29 de maio de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de maio de 2020.**
+Referendado em 29 de maio de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113283922

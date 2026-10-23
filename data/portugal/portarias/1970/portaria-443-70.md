@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/443-1970-148834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fc3d846bf4dc1d52ae7dafa581b234b83fd34b79455fadbe791729a1569347f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d11d34275c5b0bfb49673fb61cb3d655be87949046ac806e7b91001890cc6f2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:342468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577167:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:07Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Atendendo à necessidade de adaptar o escudo de armas concedido à antiga vila �
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, no uso da competência que lhe é conferida pela base XI da Lei Orgânica do Ultramar e pelo artigo 4.º das ordenações aprovadas pela [Portaria n.º 8098](https://diariodarepublica.pt/dr/detalhe/portaria/8098-1935-577167), de 6 de Maio de 1935, o seguinte:
 
-###### Artigo único. A cidade de Negage terá direito a usar o escudo de armas concedido à antiga vila do mesmo nome pela [Portaria n.º 19076](https://diariodarepublica.pt/dr/detalhe/portaria/19076-1962-518238), de 15 de Março de 1962, publicada no Boletim Oficial de Angola, 1.ª série, n.º 13, de 28 de Março de 1962, com as seguintes alterações:
+Artigo único. A cidade de Negage terá direito a usar o escudo de armas concedido à antiga vila do mesmo nome pela [Portaria n.º 19076](https://diariodarepublica.pt/dr/detalhe/portaria/19076-1962-518238), de 15 de Março de 1962, publicada no Boletim Oficial de Angola, 1.ª série, n.º 13, de 28 de Março de 1962, com as seguintes alterações:
 
 Armas: em campo de ouro, flanqueado em pala verde, uma águia negra bicéfala, membrada e bicada de vermelho. Coroa mural de prata de cinco torres. Listel branco com a designação, em caracteres negros: «Cidade de Negage».
 

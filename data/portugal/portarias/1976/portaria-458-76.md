@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/458-1976-430874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:04:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df26c63df1c821023f93597c43e865c43a705671229f9759b61dfb96cb4f26ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69dce26a9a226feb35d67e1d42f9672e594694622f4129313b4aabf78d606d4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:04:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento
+- Abastecimento de BENS Essenciais
+- Empresa
+- Indústria da Celulose e do Papel
+- Papel
+relationships:
+- type: cites
+  target: pt:dre:501380:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:04:59Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +106,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Indús
 
 1. As empresas produtoras de pastas papeleiras Portucel, Celbi e Caima são obrigadas a abastecer, durante o ano de 1976, as empresas nacionais fabricantes de papel, nas variedades de pasta e até às quantidades, para além das constantes do quadro anexo à [Portaria n.º 156/76](https://diariodarepublica.pt/dr/detalhe/portaria/156-1976-501380), de 22 de Março, seguintes (em milhares de toneladas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/07/17600/17711772.pdf))](https://files.diariodarepublica.pt/1s/1976/07/17600/17711772.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/07/17600/17711772.pdf)
 
 2. As empresas produtoras de papel deverão, até 30 de Setembro de 1976, firmar os novos contratos de compra e venda com as empresas fabricantes de pasta para papel.
 

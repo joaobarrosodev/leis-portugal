@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/041a00/06310632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/1998/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1998-209664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73e00e50e32dd3e2b047dd3d9633f5dd977d6081e0b82c7fa812db1fa26a572c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e84dbb283f01501d3ee3ee912a56b15754d56a4a3a732d1d9475fb0fa41ecad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,34 @@ reuse:
 subjects:
 - Aposentação
 - Estatuto
-- Imprensa Nacional-Casa da Moeda
 - Fundo de Pensões
+- Imprensa Nacional-Casa da Moeda
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:70686126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:567461:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70686126:por
+  label: Revogado, a partir de 15.10.2015, o Dec Lei 333/81 de 07-dez, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 235/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2015-70686126
+  date: '2015-10-14'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:51Z'
   warnings: []
   errors: []
 ---
@@ -116,12 +126,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 29 de Janeiro de 1998.**
+Promulgado em 29 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Fevereiro de 1998.**
+Referendado em 5 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

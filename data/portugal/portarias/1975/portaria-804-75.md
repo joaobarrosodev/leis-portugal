@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 7º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 2160-(137) a 2160-(138)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30007/01370138.pdf
 entry_into_force_dates: []
@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/804-1975-355350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf68b7d8fe52573b77827047332f81894518b867627399279dda0a82ec4690da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a7efdc972f5890e079d7eefaa9085c9d0b4c4469e06d45c9e45d9a8c3584cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Nacional de Pensões
+- Contribuições da Segurança Social
+- Integração de Serviços
+- Junta Central das Casas dos Pescadores
+- Pensões
+- Prorrogação de Prazo
+- Reestruturação de Serviços
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:236110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336703:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:45Z'
   warnings: []
   errors: []
 ---
@@ -91,6 +107,6 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:
 
-###### Artigo único. É prorrogado para 30 de Junho de 1976 o prazo referido no n.º 9 da [Portaria n.º 866/74](https://diariodarepublica.pt/dr/detalhe/portaria/866-1974-236110), de 31 de Dezembro.
+Artigo único. É prorrogado para 30 de Junho de 1976 o prazo referido no n.º 9 da [Portaria n.º 866/74](https://diariodarepublica.pt/dr/detalhe/portaria/866-1974-236110), de 31 de Dezembro.
 
 Secretaria de Estado da Segurança Social, 22 de Dezembro de 1975. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

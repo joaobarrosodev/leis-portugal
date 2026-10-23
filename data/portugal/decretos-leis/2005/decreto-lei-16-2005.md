@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/012a00/03100313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2005/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2005-624976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff0891cf2e02bb8235e233b63a4020b842013361eb72bc09bd49fc6e4cb9a472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87fc7878a4ebcd20958779e548444d5d15313732ebaeaf2b779bf613e37afe67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Gestão Financeira
 - Criação de Serviços
 - Definição de Competências
+- Estratégia de Lisboa
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Instituto Público
 - Orgânica
-- Estratégia de Lisboa
+- Reestruturação de Serviços
 - UMIC
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:520872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério da Ciência, Tecnologia e Ensino Superior da UMIC (integrada na Presidência\
+    \ do Conselho de Ministros), criada no presente diploma, e cujos estatutos foram aprovados pela Port 205/2005, de 21-Fev,\
+    \ sendo a competência relativa à definição das orientações estratégicas, bem como o acompanhamento da sua execução, exercida\
+    \ pelo Ministro da Ciência, Tecnologia e Ensino Superior em articulação com o Ministro de Estado e da Administração Interna,\
+    \ com o Ministro da Economia e da Inovação e com o Ministro das Obras Públicas, Transportes e Comunicações, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Reestrurada, e transferidas as atribuições no domínio da administração electrónica para a Agência da Modernização\
+    \ Administrativa, I. P., no âmbito da Presidência do Conselho de Ministros, e integradas as atribuições do Gabinete de\
+    \ Relações Internacionais da Ciência, Inovação e Ensino Superior (ora extinto), no que respeita à cooperação internacional\
+    \ no domínio da sociedade da informação e do conhecimento, pelo DEC LEI.214/2006.27.10.2006.MCTES, DR.IS [208] de 27.10.2006,\
+    \ nos termos dos seus artigos 31.º e 32.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/413/1993/12/23/p/dre
   label: null
@@ -116,16 +135,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
+- type: cites
+  target: pt:dre:302160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660951:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520872:por
+  label: "Revogado a partir de 01.05.2007 pelo DEC LEI.153/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2007-520872
+  date: '2007-04-27'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:35Z'
   warnings: []
   errors: []
 ---
@@ -342,12 +402,12 @@ As referências feitas à Unidade de Missão Inovação e Conhecimento constante
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - Daniel Viegas Sanches - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - Fernando Mimoso Negrão - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes - Henrique José Monteiro Chaves.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2005.**
+Referendado em 10 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

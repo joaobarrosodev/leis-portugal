@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 9º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 3446-(177) a 3446-(179)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29909/01770179.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1979-157049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63ac5fd9a1f428b86312b6cbf62b314b0adf77d3aab46883bda9c61bbe8da91a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85b11433f8b22b9190ce3f1e50a6176c228b7974970b6e8e3a072d0bd65abad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:380546:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:05Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +94,9 @@ Considerando a necessidade de proceder a ligeiras alterações de forma e estrut
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Passam a ter a seguinte redacção os artigos abaixo indicados do [Decreto Regulamentar n.º 39/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546), de 10 de Julho:
+Artigo 1.º Passam a ter a seguinte redacção os artigos abaixo indicados do [Decreto Regulamentar n.º 39/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546), de 10 de Julho:
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - ...
 
@@ -128,7 +134,7 @@ j) ...
 
 l) Um professor do Instituto Superior de Agronomia, do curso superior de Silvicultura.
 
-###### Art. 12.º A DGOGF dispõe dos seguintes serviços:
+Art. 12.º A DGOGF dispõe dos seguintes serviços:
 
 1 - Centrais:
 
@@ -144,7 +150,7 @@ B) Serviços operativos:
 
 Circunscrições florestais.
 
-###### Art. 28.º À Secção de Património e Aprovisionamento compete:
+Art. 28.º À Secção de Património e Aprovisionamento compete:
 
 a) ...
 
@@ -156,7 +162,7 @@ d) Processar os documentos de despesa das aquisições referentes aos serviços 
 
 e) Zelar pela segurança dos edifícios e outras instalações dos serviços centrais da DGOGF.
 
-###### Art. 31.º À Secção de Pessoal compete:
+Art. 31.º À Secção de Pessoal compete:
 
 a) ...
 
@@ -170,7 +176,7 @@ e) Superintender no pessoal auxiliar dos serviços centrais da DGOGF;
 
 f) ...
 
-###### Art. 42.º ...
+Art. 42.º ...
 
 a) ...
 
@@ -186,15 +192,15 @@ f) ...
 
 g) Assegurar a gestão do Centro de Formação Profissional da Lousã.
 
-###### Art. 50.º À Divisão de Produção Piscícola do Norte, com sede na Estação Aquícola do Rio Ave, compete:
+Art. 50.º À Divisão de Produção Piscícola do Norte, com sede na Estação Aquícola do Rio Ave, compete:
 
 ...
 
-###### Art. 51.º À Divisão de Produção Piscícola do Sul, com sede no Posto Aquícola da Azambuja, compete:
+Art. 51.º À Divisão de Produção Piscícola do Sul, com sede no Posto Aquícola da Azambuja, compete:
 
 ...
 
-###### Art. 52.º ...
+Art. 52.º ...
 
 a) ...
 
@@ -212,11 +218,11 @@ g) ...
 
 h) Assegurar a gestão do perímetro florestal da serra de Sintra, Parque da Pena e tapadas anexas, Parque e pinhal de Monserrate, Matinha de Queluz, 2.ª e 3.ª tapadas de Mafra e Jardim do Cerco.
 
-###### Art. 53.º - 1 - As circunscrições florestais são os serviços da DGOGF aos quais compete prestar aos serviços centrais da Direcção-Geral informação e parecer para a preparação e elaboração dos diferentes programas a desenvolver na sua área geográfica e dar-lhes a consequente execução.
+Art. 53.º - 1 - As circunscrições florestais são os serviços da DGOGF aos quais compete prestar aos serviços centrais da Direcção-Geral informação e parecer para a preparação e elaboração dos diferentes programas a desenvolver na sua área geográfica e dar-lhes a consequente execução.
 
 2 - As circunscrições florestais cujas áreas de intervenção directa na gestão florestal são as constantes do mapa I anexo ao presente diploma subdividem-se geograficamente em administrações florestais, sendo o número, a sede, a área de actuação e as condições de funcionamento estabelecidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 54.º As circunscrições florestais são dirigidas por chefes de circunscrição com categoria de directores de serviços, aos quais compete:
+Art. 54.º As circunscrições florestais são dirigidas por chefes de circunscrição com categoria de directores de serviços, aos quais compete:
 
 a) Superintender na execução das acções planeadas pelos serviços centrais e promover a aplicação do regime florestal nas áreas que lhes sejam determinadas;
 
@@ -224,25 +230,25 @@ b) Assegurar o fomento e fiscalização dos recursos cinegéticos e piscícolas 
 
 c) Coordenar e compatibilizar as actividades de execução desenvolvidas através das administrações florestais.
 
-###### Art. 55.º Em cada circunscrição florestal funciona uma secção administrativa dependente do respectivo chefe de circunscrição e à qual compete o apoio à gestão administrativa que lhe está confiada.
+Art. 55.º Em cada circunscrição florestal funciona uma secção administrativa dependente do respectivo chefe de circunscrição e à qual compete o apoio à gestão administrativa que lhe está confiada.
 
-###### Art. 58.º O provimento dos lugares de director de serviços e de chefe de divisão é feito nos termos da lei geral.
+Art. 58.º O provimento dos lugares de director de serviços e de chefe de divisão é feito nos termos da lei geral.
 
-###### Art. 2.º São revogados os n.os 2 e 3 do artigo 24.º do [Decreto Regulamentar n.º 39/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546), de 10 de Julho.
+Art. 2.º São revogados os n.os 2 e 3 do artigo 24.º do [Decreto Regulamentar n.º 39/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546), de 10 de Julho.
 
-###### Art. 3.º Em todo o diploma é substituída a expressão «administração florestal» por «circunscrição florestal» e «administrador florestal» por «chefe de circunscrição».
+Art. 3.º Em todo o diploma é substituída a expressão «administração florestal» por «circunscrição florestal» e «administrador florestal» por «chefe de circunscrição».
 
-###### Art. 4.º O mapa I anexo ao [Decreto Regulamentar n.º 39/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546), de 10 de Julho, é substituído pelo mapa anexo ao presente diploma.
+Art. 4.º O mapa I anexo ao [Decreto Regulamentar n.º 39/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546), de 10 de Julho, é substituído pelo mapa anexo ao presente diploma.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 27 de Dezembro de 1979.**
+Promulgado em 27 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 3.º
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/1997/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19ff0de1ee19aeedc43df3a69c7fe7f0cb7354ba7dd778c8963480b86df72530
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 954a880394148aea1af333da60ed8c81df8cfe0e32b1a3f50ccf1ccdf005589d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Código das Custas Judiciais
 - Cofre Geral dos Tribunais
-- Multa
+- Custas Judiciais
 - Definição de Competências
-- Pagamento
 - Imposto de Justiça
 - Instituto de Gestão Financeira da Segurança Social
 - Justiça
+- Multa
 - Orçamento
-- Tesouraria
+- Pagamento
 - Receita Municipal
 - Responsabilidade Civil
 - Segurança Social
 - Taxa
-- Custas Judiciais
-- Autarquia Local
+- Tesouraria
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:247448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 131º do Código das Custas Judiciais aprovado pelo Dec Lei 224-A/96 de 26-Nov, com a redacção conferida\
+    \ pelo presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/1995/06/14/p/dre
   label: null
@@ -96,16 +102,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/224-a/1996/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/224-a/1996/11/26/p/dre
+- type: cites
+  target: pt:dre:518652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96, de 26-Nov, alterado\
+    \ pelo presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:17Z'
   warnings: []
   errors: []
 ---
@@ -164,12 +192,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, produz
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em Coimbra, sede da Associação Nacional de Municípios Portugueses, em 7 de Abril de 1997.**
+Promulgado em Coimbra, sede da Associação Nacional de Municípios Portugueses, em 7 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

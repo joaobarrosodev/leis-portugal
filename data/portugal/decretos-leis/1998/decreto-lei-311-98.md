@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/237a00/53205321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/311/1998/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1998-234901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1c9dd322088a52c29b9b19a4255420ac3918eef4b9ec2a7c9bdc24e7a67d6ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3a875cbbfc91be8b23a542b4917b2149077d94fa2d997e5c784d671df63b7f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiactividade
-- Radioprotecção
-- Segurança Nuclear
+- Comissão
 - Comissão para a Protecção Radiológica e Segurança Nuclear
 - Criação de Serviços
 - Definição de Competências
 - Energia Nuclear
-- Saúde Pública
-- Comissão
 - Instituto Tecnológico e Nuclear
 - Integração de Trabalhadores
 - Licenciamento
 - Proteção do Ambiente
+- Radiactividade
+- Radioprotecção
+- Saúde Pública
+- Segurança Nuclear
 relationships:
 - type: amended_by
   target: pt:dre:504774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243499:por
+  label: "Alterados os arts. 2.º e 3.º do presente diploma, pelo DEC LEI.139/2005.17.08.2005.MCTES, DR.IS-A [157] de 17.08.2005,\
+    \ republicado na integra em anexo\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2005-243499
+  date: '2005-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1993/05/24/p/dre
   label: null
@@ -91,16 +97,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/32/1995/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/32/1995/11/30/p/dre
+- type: cites
+  target: pt:dre:283523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627032:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504774:por
+  label: "Revogado, a partir de 05.12.2013, o presente diploma, alterado e republicado pelo Dec Lei 139/2005 de 17-ago, pelo\
+    \ DEC LEI.156/2013.05.11.2013.MECI, DR.IS [214] de 05.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2013-504774
+  date: '2013-11-05'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:45Z'
   warnings: []
   errors: []
 ---
@@ -225,12 +245,12 @@ São revogadas as alíneas g), h), i), j) e l) do n.º 4 do artigo 9.º do [Decr
 
 Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia - Maria de Belém Roseira Martins Coelho Henriques de Pina - António Ricardo Rocha Magalhães - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 23 de Setembro de 1998.**
+Promulgado em 23 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Setembro de 1998.**
+Referendado em 30 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 144/2009, 1º Suplemento, Série I de 2009-07-28
   number: '144'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4860-(12) a 4860-(34)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14401/0001200034.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165-c/2009/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-c-2009-479646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2be75f054fe860239199317c44fd047f5708ab8887b397e04f284a4514da8260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1de916184179b387ff9cf84f8c2c0bd182713dabbbb2e1cafb0c87baaa47e1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Tempo de Serviço
-- Formação Profissional
-- Exoneração
-- REDE Escolar
+- Avaliação do Pessoal
 - Comissão de Serviço
 - Concurso Público
 - Contratação de Docentes
@@ -79,31 +76,46 @@ subjects:
 - Coordenador
 - Definição de Competências
 - Direcção Geral dos Recursos Humanos da Educação
+- Duração do Trabalho
 - Educador de Infância
+- Ensino Básico
 - Ensino Português no Estrangeiro
+- Exoneração
+- Faltas
 - Férias
-- Recrutamento de Pessoal
-- Remuneração Acessória
+- Formação Profissional
+- Horário de Trabalho
+- Instituto Camões
 - Pagamento
 - Palop
-- Instituto Camões
-- Faltas
-- Pessoal Docente
-- Ensino Básico
-- Proteção no Desemprego
-- Regime Jurídico
-- Duração do Trabalho
-- Horário de Trabalho
-- Remuneração
-- Reposição de Verbas
-- Avaliação do Pessoal
-- Subsídio de Transporte
 - Passaporte
+- Pessoal Docente
+- Proteção no Desemprego
+- Recrutamento de Pessoal
+- REDE Escolar
+- Regime Jurídico
+- Remuneração
+- Remuneração Acessória
+- Reposição de Verbas
+- Subsídio de Transporte
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:115620692:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611332:por
+  label: "Alterado o art. 3.º pelo DEC LEI.22/2010.25.03.2010.MNE, DR.IS [59] de 25.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2010-611332
+  date: '2010-03-25'
+- type: amended_by
+  target: pt:dre:191541:por
+  label: "Alterados os arts. 5.º, 7.º, 8.º, 10.º, 16.º, 18.-Aº, 19.º-D, 19.º-E, 20.º, 23.º, 25.º, 28.º, 30.º, 31.º, 32.º e\
+    \ 35.º do Dec Lei n.º 165/2006, de 11-ago, na redação do presente diploma, pelo DEC LEI.234/2012.30.10.2012.MNE, DR.IS\
+    \ [210] de 30.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2012-191541
+  date: '2012-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2007/04/27/p/dre
   label: null
@@ -144,16 +156,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:182837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 111
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 66
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:51Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +298,9 @@ Os artigos 1.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º,
 
 3 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -206,7 +312,9 @@ c) ...
 
 2 - Para o cabal cumprimento desta responsabilidade, deve o Estado estabelecer e desenvolver a colaboração com as organizações da sociedade civil, designadamente com instituições ou associações com vocação cultural e educativa, bem como parcerias com instituições de ensino estrangeiras e organizações internacionais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +342,9 @@ h) ...
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Constituem modalidades de organização do ensino português no estrangeiro o ensino da língua portuguesa ou em língua portuguesa em qualquer das formas referidas na alínea a) do n.º 1 do artigo 4.º, desenvolvido nos seguintes termos:
 
@@ -256,11 +366,15 @@ h) [Anterior alínea e).]
 
 2 - Constitui, ainda, modalidade de organização do ensino português no estrangeiro a criação de escolas portuguesas nos países de língua oficial portuguesa, as quais se regem pelos próprios estatutos, sob tutela do Ministério da Educação.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A rede de cursos do ensino português no estrangeiro referidos no n.º 2 do artigo 5.º é aprovada por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, publicado no Diário da República, mediante proposta do Instituto Camões, I. P., ouvidas as estruturas de coordenação referidas no capítulo ii.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As estruturas de coordenação do ensino português no estrangeiro são unidades de supervisão, planificação e organização da rede de ensino de um país ou de um agrupamento geopolítico de países criadas, sempre que a dimensão e complexidade dessa rede o justifique, junto da respectiva missão diplomática ou consular.
 
@@ -268,7 +382,9 @@ A rede de cursos do ensino português no estrangeiro referidos no n.º 2 do arti
 
 3 - Os coordenadores actuam sob a direcção do presidente do Instituto Camões, I. P., de acordo com as orientações pedagógicas emanadas do Ministério da Educação, sem prejuízo da articulação com o chefe da missão diplomática ou consular.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Aos coordenadores do ensino português cabe promover e coordenar, nos respectivos países, o ensino português a nível da educação pré-escolar e dos ensinos básico, secundário e superior e da educação ao longo da vida, e em especial:
 
@@ -300,7 +416,9 @@ f) Na coordenação das acções de divulgação da língua e culturas portugues
 
 3 - Em matéria de gestão orçamental e financeira, o coordenador exerce as competências previstas na lei para os directores-gerais, nos termos previstos no regime jurídico e financeiro dos serviços externos do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Em situações devidamente fundamentadas, designadamente em casos de grande dimensão da área geográfica abrangida e de elevado número de cursos ou alunos, podem ser designados adjuntos da coordenação do ensino português no estrangeiro.
 
@@ -308,7 +426,9 @@ f) Na coordenação das acções de divulgação da língua e culturas portugues
 
 3 - O adjunto de coordenação actua sob a direcção do coordenador, em articulação com o chefe da missão diplomática e consular, caso exerça as suas funções em área diferente daquela em que o coordenador exerce funções.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As estruturas de coordenação do ensino português no estrangeiro podem, em circunstâncias devidamente fundamentadas, integrar docentes com funções de apoio pedagógico a professores e a alunos dos cursos de língua portuguesa em funcionamento.
 
@@ -316,17 +436,23 @@ f) Na coordenação das acções de divulgação da língua e culturas portugues
 
 3 - O exercício efectivo das funções de apoio pedagógico dá lugar à redução da componente lectiva do horário de trabalho nos termos definidos no despacho conjunto previsto no artigo 7.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As estruturas de coordenação do ensino português no estrangeiro são constituídas por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação, mediante proposta do presidente do Instituto Camões, I. P.
 
-###### Artigo 14.º — Coordenadores
+Artigo 14.º
+
+Coordenadores
 
 1 - Os coordenadores do ensino português no estrangeiro gozam dos direitos e estão sujeitos aos deveres dos secretários de embaixada da carreira diplomática, com as especificidades constantes do presente decreto-lei.
 
 2 - Os coordenadores e os adjuntos de coordenação do ensino português no estrangeiro têm direito ao uso de passaporte especial, nos termos previstos na respectiva lei reguladora, sendo os custos correspondentes suportados pelo Instituto Camões, I. P.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As funções de coordenador e de adjunto da coordenação são exercidas em comissão de serviço, pelo período de três anos, renovável uma única vez por igual período.
 
@@ -340,7 +466,9 @@ As estruturas de coordenação do ensino português no estrangeiro são constitu
 
 6 - Aos coordenadores e adjuntos da coordenação aplica-se o Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas, aprovado pela [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os coordenadores são nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, de acordo com as regras previstas para os cargos de direcção superior de 2.º grau, com as especificidades constantes do presente decreto-lei.
 
@@ -352,13 +480,17 @@ As estruturas de coordenação do ensino português no estrangeiro são constitu
 
 5 - Os docentes de apoio pedagógico são recrutados por escolha e designados por despacho do presidente do Instituto Camões, I. P., com base na proposta do respectivo coordenador, devendo o recrutamento ser feito de entre os docentes do ensino português no estrangeiro em exercício de funções no respectivo país.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O tempo de serviço prestado no exercício das funções de coordenador, adjunto de coordenação e docente de apoio pedagógico releva para todos os efeitos legais como prestado na relação jurídica de emprego público de origem.
 
 2 - Nos casos em que o docente de apoio pedagógico não seja titular de uma relação jurídica de emprego público por tempo indeterminado previamente estabelecida e venha a integrar a carreira docente do ensino não superior, o tempo de serviço prestado nessas funções é contado como tempo de serviço efectivo prestado em funções docentes.
 
-###### Artigo 18.º — Remuneração e outras atribuições patrimoniais
+Artigo 18.º
+
+Remuneração e outras atribuições patrimoniais
 
 1 - Os níveis remuneratórios da tabela única correspondentes à remuneração base dos coordenadores e dos adjuntos de coordenação são fixados por decreto regulamentar.
 
@@ -374,7 +506,9 @@ b) Subsídio de viagem correspondente ao reembolso das despesas efectuadas com a
 
 5 - O montante pecuniário do subsídio de instalação é fixado no decreto regulamentar a que se refere o n.º 1, tendo por referência o abono mensal de habitação de secretário de embaixada da carreira diplomática e o índice de custo de vida fixado pela Organização para a Cooperação e Desenvolvimento Económico do país de acolhimento.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As disposições do presente decreto-lei relativas ao pessoal docente aplicam-se ao pessoal recrutado para o desempenho de funções de ensino português no estrangeiro, definido nos termos dos números seguintes.
 
@@ -386,9 +520,13 @@ b) Leitor, ao nível do ensino superior.
 
 3 - O pessoal docente do ensino português no estrangeiro contribui para a concretização dos objectivos da política cultural externa portuguesa, através da promoção, divulgação e docência da língua e cultura portuguesas, da história e da geografia, e do apoio e participação activa nas iniciativas de índole cultural dos serviços de representação externa do Estado, exercendo as suas funções com responsabilidade profissional e autonomia técnica e científica, no respeito pelas orientações que lhe sejam dadas.
 
-#### SECÇÃO II — Modalidade de vinculação e prestação de trabalho
+SECÇÃO II
 
-###### Artigo 20.º — Comissão de serviço
+Modalidade de vinculação e prestação de trabalho
+
+Artigo 20.º
+
+Comissão de serviço
 
 1 - Os docentes do ensino português no estrangeiro exercem o cargo de professor ou de leitor em regime de comissão de serviço, nos termos definidos no presente decreto-lei.
 
@@ -404,13 +542,17 @@ b) Leitor, ao nível do ensino superior.
 
 7 - (Revogado.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O serviço prestado como docente do ensino português no estrangeiro é considerado, para todos os efeitos legais, tempo de serviço efectivo em funções docentes no ensino público.
 
 2 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A avaliação do desempenho relativa aos docentes do ensino português no estrangeiro rege-se pela [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, no que se refere ao sistema de avaliação de desempenho dos trabalhadores da Administração Pública, com as adaptações constantes do presente artigo.
 
@@ -462,13 +604,17 @@ e) Insuficiente - de 1 a 4,9 valores.
 
 15 - A adaptação das regras do processo de avaliação à organização do serviço e necessidades de gestão é aprovada em regulamento interno do Instituto Camões, I. P., nos termos do n.º 4 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro.
 
-###### Artigo 24.º — Duração e horário de trabalho
+Artigo 24.º
+
+Duração e horário de trabalho
 
 1 - O pessoal docente está sujeito à prestação de 35 horas semanais de serviço.
 
 2 - O horário semanal dos docentes integra a componente lectiva e a componente não lectiva, desenvolvendo-se, por regra, em cinco dias de trabalho.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A componente lectiva do pessoal docente é a seguinte:
 
@@ -506,7 +652,9 @@ iii) O exercício de funções de apoio e formação a docentes e alunos do mesm
 
 7 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - A componente não lectiva do horário dos docentes de ensino português no estrangeiro compreende a realização de trabalho a nível individual e a prestação de trabalho relativa à organização dos cursos.
 
@@ -532,7 +680,9 @@ i) A substituição por períodos inferiores a 30 dias de outros docentes coloca
 
 3 - A componente não lectiva do horário dos leitores compreende ainda a elaboração do plano de actividades culturais a desenvolver em cada ciclo lectivo, bem como a proposta do respectivo financiamento e a sua execução técnica e financeira.
 
-###### Artigo 27.º — Férias, feriados, faltas e licenças
+Artigo 27.º
+
+Férias, feriados, faltas e licenças
 
 1 - O pessoal docente rege-se em matéria de férias, faltas e licenças pelas disposições aplicáveis do regime do contrato de trabalho em funções públicas com as especificidades constantes do presente decreto-lei.
 
@@ -544,19 +694,25 @@ i) A substituição por períodos inferiores a 30 dias de outros docentes coloca
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O exercício das funções de docente do ensino português no estrangeiro pode ser acumulado com outras funções nos termos previstos na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, mediante despacho de autorização do presidente do Instituto Camões, I. P., obtida a concordância da instituição em que preste serviço.
 
 2 - Ao leitor e professor do 3.º ciclo do ensino básico e do secundário da rede do ensino português no estrangeiro pode ser cometida, pelo presidente do Instituto Camões, I. P., a gestão de um centro de língua e a inerente responsabilidade pela elaboração e execução do correspondente plano anual de actividades.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Aos docentes do ensino português no estrangeiro aplica-se o Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas.
 
 2 - (Revogado.)
 
-###### Artigo 30.º — Cessação da comissão de serviço
+Artigo 30.º
+
+Cessação da comissão de serviço
 
 1 - A comissão de serviço cessa:
 
@@ -592,9 +748,13 @@ b) Dois dias de remuneração base por cada mês de duração do vínculo no cas
 
 3 - A identificação das doenças incapacitantes referidas na subalínea iv) da alínea f) do n.º 1 é efectuada por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças, da Administração Pública e da saúde, publicado no Diário da República, e deve ser justificada com relatório médico que a ateste e comprove.
 
-#### SECÇÃO III — Recrutamento, selecção e provimento
+SECÇÃO III
 
-###### Artigo 31.º — Recrutamento e selecção
+Recrutamento, selecção e provimento
+
+Artigo 31.º
+
+Recrutamento e selecção
 
 1 - O recrutamento do pessoal docente do ensino português no estrangeiro é realizado mediante oferta pública de emprego aberta a candidatos, detentores ou não de uma relação jurídica de emprego público por tempo indeterminado, nos termos dos números seguintes.
 
@@ -654,7 +814,9 @@ n) Forma de publicitação da lista unitária para a ordenação final dos candi
 
 11 - O procedimento concursal é iniciado com a devida antecedência relativamente ao início do ciclo lectivo a que respeita obedecendo, com as devidas adaptações, à regulamentação geral do procedimento concursal de recrutamento para o exercício de funções públicas.
 
-###### Artigo 32.º — Contratação temporária
+Artigo 32.º
+
+Contratação temporária
 
 1 - Para suprir necessidades de natureza temporária, pode ainda recorrer-se ao recrutamento local de docentes que reúnam os seguintes requisitos cumulativos:
 
@@ -668,9 +830,13 @@ c) Estar devidamente habilitado para a docência de português e dominar a líng
 
 3 - A contratação a local a termo resolutivo rege-se pelo Regime do Contrato de Trabalho em Funções Públicas, aprovado pela [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro, com as especificidades constantes do presente decreto-lei, com excepção do direito ao suplemento remuneratório constante do n.º 5 do artigo 34.º e às despesas previstas nos n.os 1 e 2 do artigo 34.º-A.
 
-#### SECÇÃO IV — Remunerações e outras prestações
+SECÇÃO IV
 
-###### Artigo 34.º — [...]
+Remunerações e outras prestações
+
+Artigo 34.º
+
+[...]
 
 1 - Os níveis remuneratórios correspondentes à remuneração base dos docentes de ensino português no estrangeiro constam de tabela a aprovar por decreto regulamentar.
 
@@ -684,7 +850,9 @@ c) Estar devidamente habilitado para a docência de português e dominar a líng
 
 6 - O montante pecuniário do suplemento remuneratório de instalação é fixado no decreto regulamentar previsto no n.º 1, tendo por referência o valor do subsídio da mesma natureza atribuído aos coordenadores e o índice de custo de vida fixado pela Organização para a Cooperação e Desenvolvimento Económico do país de acolhimento.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -694,7 +862,9 @@ c) Estar devidamente habilitado para a docência de português e dominar a líng
 
 4 - Quando o docente utilizar viatura própria nas deslocações entre locais onde ministra os cursos, ou em outras devidamente autorizadas, é reembolsado de acordo com o regime jurídico das ajudas de custo e de transporte para deslocação em serviço público.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Os coordenadores, adjuntos de coordenação e pessoal docente do ensino português no estrangeiro ficam abrangidos pelo regime de protecção social convergente (RPSC) ou pelo regime geral de segurança social (RGSS), nos termos da lei que define a protecção social dos trabalhadores que exercem funções públicas, sem prejuízo do disposto em instrumento internacional a que Portugal se encontre vinculado.
 
@@ -712,7 +882,9 @@ c) Estar devidamente habilitado para a docência de português e dominar a líng
 
 8 - O Instituto Camões, I. P., comparticipa as despesas de saúde dos coordenadores, adjuntos de coordenação e pessoal docente, bem como do respectivo agregado familiar, nos países onde não haja ou não seja possível o acesso a um sistema de saúde, nos termos constantes de regulamento interno.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -732,7 +904,9 @@ c) Estar devidamente habilitado para a docência de português e dominar a líng
 
 9 - Aos educadores de infância e aos professores do 1.º ciclo do ensino básico dos quadros do Ministério da Educação, em regime de monodocência e no exercício de funções docentes no ensino português no estrangeiro no mesmo regime, continua a ser aplicável o regime transitório de aposentação previsto no [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), de 29 de Dezembro, ou outro mais favorável, desde que abrangidos pelas suas regras.
 
-###### Artigo 42.º — Direito subsidiário
+Artigo 42.º
+
+Direito subsidiário
 
 Em tudo o que não se encontrar especialmente previsto no presente decreto-lei em matéria de pessoal docente aplica-se, por esta ordem:
 
@@ -754,7 +928,9 @@ Deveres de apresentação e informação
 
 3 - A ausência do adjunto de coordenação da área consular onde exerce funções por período superior a dois dias é obrigatoriamente comunicada, com a devida antecedência, salvo caso de força maior, ao coordenador da respectiva área.
 
-###### Artigo 18.º-B — Avaliação de desempenho
+Artigo 18.º-B
+
+Avaliação de desempenho
 
 1 - A avaliação de desempenho dos coordenadores e dos adjuntos de coordenação é realizada em cada ano civil, de acordo com o disposto na [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, no que se refere à avaliação de desempenho dos dirigentes intermédios da Administração Pública (SIADAP 2), com as adaptações constantes do presente decreto-lei.
 
@@ -768,9 +944,13 @@ b) Do adjunto de coordenação, o coordenador.
 
 4 - A adaptação das regras do processo de avaliação à organização do serviço e necessidades de gestão é aprovada em regulamento interno do Instituto Camões, I. P., nos termos do n.º 4 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro.
 
-#### SECÇÃO I — Direitos e deveres
+SECÇÃO I
 
-###### Artigo 19.º-A — Regras gerais
+Direitos e deveres
+
+Artigo 19.º-A
+
+Regras gerais
 
 1 - O pessoal docente goza dos direitos e está sujeito aos deveres gerais estabelecidos na lei para o exercício de funções públicas, sem prejuízo do disposto no presente decreto-lei.
 
@@ -780,7 +960,9 @@ b) Do adjunto de coordenação, o coordenador.
 
 4 - Sem prejuízo da subordinação hierárquica ao presidente do Instituto Camões, I. P, e ao respectivo coordenador, compete ao docente actuar no quadro e em obediência aos regulamentos e demais regras de funcionamento das instituições onde exerce funções.
 
-###### Artigo 19.º-B — Formação
+Artigo 19.º-B
+
+Formação
 
 1 - O pessoal docente tem o direito e o dever de frequentar cursos de formação contínua com vista à actualização de conhecimentos e ao aperfeiçoamento dos métodos e técnicas de ensino, designadamente as acções que forem promovidas pelo Instituto Camões, I. P.
 
@@ -788,11 +970,15 @@ b) Do adjunto de coordenação, o coordenador.
 
 3 - Sem prejuízo do disposto no número anterior, ao pessoal docente podem ser concedidas dispensas de serviço para participação em actividades de formação destinadas à respectiva actualização, nas condições a definir por despacho do presidente do Instituto Camões, I. P., tendo presente as regras e os princípios que regem a formação profissional na Administração Pública.
 
-###### Artigo 19.º-C — Passaporte especial
+Artigo 19.º-C
+
+Passaporte especial
 
 O pessoal docente tem direito ao uso de passaporte especial, nos termos previstos na respectiva lei reguladora, sendo os respectivos custos suportados pelo Instituto Camões, I. P.
 
-###### Artigo 19.º-D — Dever de apresentação e informação
+Artigo 19.º-D
+
+Dever de apresentação e informação
 
 1 - O pessoal docente deve efectuar a sua apresentação na instituição de destino no prazo de dois dias a contar da data de entrada no país e até oito dias antes do início do funcionamento dos cursos e contactar, de imediato, o respectivo director ou professor responsável pelo departamento ou grupo de disciplinas em que vai integrar-se.
 
@@ -800,7 +986,9 @@ O pessoal docente tem direito ao uso de passaporte especial, nos termos previsto
 
 3 - A ausência do docente da área consular onde exerce funções por período superior a dois dias é obrigatoriamente comunicada, com a devida antecedência, salvo caso de força maior, ao coordenador ou, na sua falta, ao presidente do Instituto Camões, I. P., e à embaixada ou consulado da respectiva área.
 
-###### Artigo 19.º-E — Relatórios de actividade
+Artigo 19.º-E
+
+Relatórios de actividade
 
 1 - Constitui dever especial do pessoal docente enviar ao respectivo coordenador, com a periodicidade que lhe for fixada, relatórios das actividades desenvolvidas.
 
@@ -814,7 +1002,9 @@ b) Programas de ensino-aprendizagem;
 
 c) Plano de trabalho escolar e de formação pessoal.
 
-###### Artigo 25.º-A — Organização da componente lectiva
+Artigo 25.º-A
+
+Organização da componente lectiva
 
 1 - A componente lectiva do horário dos professores corresponde ao número de horas leccionadas, compreendendo o exercício das seguintes funções:
 
@@ -838,7 +1028,9 @@ c) O apoio aos alunos na realização de actividades científicas e culturais e 
 
 d) A tutoria dos cursos de ensino à distância promovidos pelo Instituto Camões, I. P.
 
-###### Artigo 27.º-A — Período de férias
+Artigo 27.º-A
+
+Período de férias
 
 1 - As férias do pessoal docente são gozadas entre o termo de um ano lectivo e o início do ano lectivo seguinte.
 
@@ -848,7 +1040,9 @@ d) A tutoria dos cursos de ensino à distância promovidos pelo Instituto Camõe
 
 4 - As férias são comunicadas ao Instituto Camões, I. P., com conhecimento ao coordenador, ou, nos casos em que não exista estrutura de coordenação, ao representante diplomático ou consular.
 
-###### Artigo 27.º-B — Faltas
+Artigo 27.º-B
+
+Faltas
 
 1 - Falta é a ausência do docente durante a totalidade ou parte do período diário de presença obrigatória no estabelecimento de educação ou de ensino ou em local a que se deva deslocar para exercer as suas funções.
 
@@ -864,11 +1058,15 @@ b) A reuniões de avaliação dos alunos.
 
 5 - A ausência do docente a outras reuniões de natureza pedagógica convocadas nos termos da lei é considerada falta a dois tempos lectivos.
 
-###### Artigo 31.º-A — Provimento no cargo
+Artigo 31.º-A
+
+Provimento no cargo
 
 Os docentes de língua e cultura portuguesa são providos no cargo de professor ou de leitor em regime de comissão de serviço, nos termos definidos no presente decreto-lei, mediante despacho do presidente do Instituto Camões, I. P., findo o procedimento de recrutamento previsto no artigo anterior.
 
-###### Artigo 34.º-A — Despesas de viagens e de transportes
+Artigo 34.º-A
+
+Despesas de viagens e de transportes
 
 1 - O Instituto Camões, I. P., suporta o custo da viagem do docente no início e no fim da comissão de serviço, bem como as despesas de transporte de bagagem, nas condições fixadas no decreto regulamentar previsto no artigo anterior.
 
@@ -878,13 +1076,17 @@ Os docentes de língua e cultura portuguesa são providos no cargo de professor 
 
 4 - Constituem encargo do Instituto Camões, I. P., as despesas com transportes e estada dos docentes que prestem serviço, em regime de acumulação, nos termos previstos no presente decreto-lei.
 
-###### Artigo 35.º-A — Reembolso de abonos indevidos
+Artigo 35.º-A
+
+Reembolso de abonos indevidos
 
 1 - Salvo motivo de força maior, o docente que interrompa a sua comissão de serviço, sem a necessária autorização, perde o direito a remunerações e outras atribuições patrimoniais, ficando obrigado a reembolsar o Instituto Camões, I. P., das quantias recebidas sem contrapartida de serviço efectivamente prestado.
 
 2 - É igualmente determinado o reembolso das quantias pagas antecipadamente na situação prevista na alínea c) do n.º 1 do artigo 30.º
 
-###### Artigo 36.º-A — Protecção no desemprego
+Artigo 36.º-A
+
+Protecção no desemprego
 
 1 - Durante o período de concessão das prestações de desemprego, para além dos deveres previstos no respectivo regime, os beneficiários têm os seguintes deveres perante o Instituto Camões, I. P.:
 
@@ -958,15 +1160,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 13 de Julho de 2009.**
+Promulgado em 13 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Julho de 2009.**
+Referendado em 14 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 165/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2006-538465), de 11 de Agosto
 
@@ -1126,7 +1328,7 @@ As estruturas de coordenação do ensino português no estrangeiro são constitu
 
 ###### Artigo 13.º — Apoio logístico e administrativo
 
-**O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.**
+O chefe da missão diplomática ou posto consular disponibiliza apoio logístico e administrativo para o desempenho das funções dos responsáveis pela coordenação do ensino português no estrangeiro.
 
 #### SECÇÃO II — Funcionamento
 

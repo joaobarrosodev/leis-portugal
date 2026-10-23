@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1986-195072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 821f389eafa8d8ad68ad79e45079f517e5fbc18588e5e2a20f1d83ce9676a335
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c9ef3f51eb134c4ddce3897208983f01ef68aad2e2e8902de18c950ccafcb86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Polícia Judiciária
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:609872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609872:por
+  label: Atualizado o art. 1.º do DR 12/86 pelo(a) Decreto n.º 23/89 - Diário da República n.º 121/1989, Série I de 1989-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/23-1989-609872
+  date: '1989-05-27'
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:35Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +108,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:
+Artigo 1.º Os dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:
 
 a) Pessoal dirigente - 8500$00;
 
@@ -109,18 +120,18 @@ d) Agente e agente-motorista - 7000$00;
 
 e) Restante pessoal - 5000$00.
 
-###### Art. 2.º O presente diploma produz efeitos a partir de 1 de Março de 1986.
+Art. 2.º O presente diploma produz efeitos a partir de 1 de Março de 1986.
 
-###### Art. 3.º Os encargos resultantes da aplicação do presente diploma serão suportados no ano económico de 1986 pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.
+Art. 3.º Os encargos resultantes da aplicação do presente diploma serão suportados no ano económico de 1986 pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 5 de Abril de 1986.**
+Promulgado em 5 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1986.**
+Referendado em 11 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

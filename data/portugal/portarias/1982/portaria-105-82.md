@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/105-1982-600928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:01:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2101318a86f323818ffab534c543d19d53881c0d4bf80c26c78f2e52584461c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afafaf4ff5eaa7cf524fe2d7fb2afc135731dc77c3a00b50de5b7b94130734da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:01:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Apoio à Emigração e às Comunidades Portuguesas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:613056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397909:por
+  label: "Alargado o quadro de pessoal do Instituto de Apoio à Emigração e às Comunidades Portuguesas, aprovado pelo Decreto-Lei\
+    \ 763/74, de 30 de Dezembro, na redacção do presente diploma, pela PORT.774/82.12.08.1982.MFP, DR.IS [185] de 12.08.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-1982-397909
+  date: '1982-08-12'
+- type: cites
+  target: pt:dre:256809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:01:45Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +129,4 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma Administrativa, 11 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, André Roberto Delaunay Gonçalves Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02000/01790180.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02000/01790180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02000/01790180.pdf)

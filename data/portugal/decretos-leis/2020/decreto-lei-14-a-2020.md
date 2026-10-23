@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 69/2020, 1º Suplemento, Série I de 2020-04-07
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11-(2) a 11-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06901/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14-a/2020/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-2020-131228424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a87387b44f8ab79b8618e9f1798e05cc9b1769cec07b641a03f4f99cf2ad8aee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b7c9d7e0f33c5079a3a51b0428db1f02da08bce6146d017744a79a4805711c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,39 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
-- Financiamento
-- Empresa
+- Assinatura Digital
+- Base de Dados
 - Contrato
 - Contrato de Prestação de Serviços
+- Documento Eletrónico
+- Empresa
+- Entidade de Serviços Partilhados da Administração Pública
 - Factura
-- Informática
+- Financiamento
 - Formulário Eletrónico
 - Impresso
-- Base de Dados
-- Documento Eletrónico
-- Entidade de Serviços Partilhados da Administração Pública
-- Portal dos Contratos Públicos
-- Página na Internet
+- Informática
 - Internet
-- Prazo
-- Serviço Público
-- Prestação de Serviços
-- Prorrogação de Prazo
-- Assinatura Digital
 - Microempresa
+- Página na Internet
 - Pequenas e Médias Empresas
 - Plataforma Eletrónica
+- Portal dos Contratos Públicos
+- Prazo
+- Prestação de Serviços
+- Prorrogação de Prazo
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111-b/2017/08/31/p/dre
   label: null
@@ -114,16 +120,32 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119622094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:50Z'
   warnings: []
   errors: []
 ---
@@ -198,12 +220,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de abril de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 6 de abril de 2020.**
+Promulgado em 6 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de abril de 2020.**
+Referendado em 6 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113170919

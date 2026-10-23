@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1985-328992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a517ba1ce46d0ecd899a10f89356d09326b1d985a488c0d55c0da946ce22ae3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ec180fa9242ef00f1b36e14fb670fc832a83f609c73f42b82b53006c63b7ef9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Capitania
+- Criação de Serviços
+- Delegação Marítima
+- Navegação Marítima
+- Porto do Douro
+- Portos
+- Régua
+- Regulamento Geral das Capitanias
 relationships:
 - type: amended_by
   target: pt:dre:333559:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:399214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683474:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:40Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +122,22 @@ Verificando-se a conveniência de alterar os limites constantes do [Decreto Regu
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, na dependência da Capitania do Porto do Douro, a Delegação Marítima da Régua.
+Artigo 1.º É criada, na dependência da Capitania do Porto do Douro, a Delegação Marítima da Régua.
 
-###### Art. 2.º O quadro n.º 1 a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, na parte respeitante à Capitania do Porto do Douro, com as alterações introduzidas pelas Portarias n.os [44/73](https://diariodarepublica.pt/dr/detalhe/portaria/44-1973-683474), de 23 de Janeiro, e [886/81](https://diariodarepublica.pt/dr/detalhe/portaria/886-1981-564051), de 3 de Outubro, passa a ter a redacção seguinte:
+Art. 2.º O quadro n.º 1 a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, na parte respeitante à Capitania do Porto do Douro, com as alterações introduzidas pelas Portarias n.os [44/73](https://diariodarepublica.pt/dr/detalhe/portaria/44-1973-683474), de 23 de Janeiro, e [886/81](https://diariodarepublica.pt/dr/detalhe/portaria/886-1981-564051), de 3 de Outubro, passa a ter a redacção seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01300/01220122.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01300/01220122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01300/01220122.pdf)
 
-###### Art. 3.º Fica revogado o [Decreto Regulamentar n.º 72/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1984-399214), de 13 de Setembro.
+Art. 3.º Fica revogado o [Decreto Regulamentar n.º 72/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1984-399214), de 13 de Setembro.
 
 Mário Soares - Carlos Alberto da Mota Pinto.
 
-**Promulgado em 3 de Janeiro de 1985.**
+Promulgado em 3 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 4 de Janeiro de 1985.**
+Referendado em 4 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

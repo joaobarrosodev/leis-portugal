@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/1998, 2º Suplemento, Série I-A de 1998-03-19
   number: '66'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1234-(4) a 1234-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/066a02/00040004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13-c/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-c-1998-272652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fae335cbff2a72503d922d04040d816945f7ede46ded34fbd2274283d61bba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c0dae786fac7b8f0c8e77736770d1827584a5dd0643a6f7bed241858f00f68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,32 @@ reuse:
 subjects:
 - Chefe do Estado Maior da Força Aérea
 - Força Aérea
-- Nomeação
 - Forças Armadas
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:187365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187365:por
+  label: "Exonerado pelo DEC.40-C/2000.2000.10.12.PR DR.IS-A [236]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/40-c-2000-187365
+  date: '2000-10-12'
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:16Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +102,16 @@ validation:
 
 de 19 de Março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior da Força Aérea, sob proposta do Governo, conforme resolução do Conselho de Ministros de 19 de Março de 1998, o general Manuel José Alvarenga de Sousa Santos, sendo promovido ao posto de general de quatro estrelas, por força do disposto no artigo 233.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro.
 
-**Assinado em 19 de Março de 1998.**
+Assinado em 19 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Março de 1998.**
+Referendado em 19 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

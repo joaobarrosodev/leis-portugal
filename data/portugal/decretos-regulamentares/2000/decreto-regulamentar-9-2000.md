@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2000/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2000-324972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b29aabd60402d1a08072ec6b1a9b9e721c59f87088aef45642e0c83004753a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c42fd17b7d88f209a93be49c208aa15d55e44058636ad2ecc0919e1b90b28ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Directiva
-- RIO TEJO
-- Instituto da Conservação da Natureza
 - Conselho Consultivo
+- Diversidade Biológica
+- Instituto da Conservação da Natureza
 - Parque Natural do Tejo Internacional
 - Proteção do Ambiente
-- Diversidade Biológica
+- RIO TEJO
 - Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:67198365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578878:por
+  label: "Alterados os arts. 6º, 8º e 14º e substituída a descrição constante do anexo I pelo DR.3/2004.12.02.2004.MCOTA,\
+    \ DR.IS-B [36] de 12.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-2004-578878
+  date: '2004-02-12'
+- type: amended_by
+  target: pt:dre:552308:por
+  label: "Alterados os artigos 6.º e 8.º e a área defenida no anexo I (todos na redacção do Decreto Regulamentar n.º 3/2004,\
+    \ de 12 de Fevereiro) e no anexo II do presente diploma, pelo DR.21/2006.27.12.2006.MAOTDR, DR.IS [247] de 27.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-2006-552308
+  date: '2006-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169/1996/09/18/p/dre
   label: null
@@ -94,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:219475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439873:por
+  label: "Revogados os art.s 12º, 13º, 14º, 16º e 18º, pela RES.176/2008.24.11.2008.PCM, DR.IS [228] de 24.11.2008, nos termos\
+    \ do seu art. 41º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/176-2008-439873
+  date: '2008-11-24'
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:47Z'
   warnings: []
   errors: []
 ---
@@ -372,15 +413,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Luís Medeiros Vieira - José Sócrates Carvalho Pinto de Sousa - Manuel Maria Ferreira Carrilho - Alberto de Sousa Martins.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Julho de 2000.**
+Referendado em 29 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Descrição dos limites do Parque Natural do Tejo Internacional
 

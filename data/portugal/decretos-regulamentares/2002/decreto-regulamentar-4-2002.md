@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/030b00/09440950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2002/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2002-272422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0012d90754a5bbb6badb25bd9826f0022511195c2baa7e7a14667d2f0fa22a55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4986f778766f4ac468694d9b443b8e68ca6b149bb91e8af5c80c882d508ff490
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Pessoal Dirigente
-- Direcção Geral de Pessoal e Recrutamento Militar
 - Definição de Competências
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
+- Direcção Geral de Pessoal e Recrutamento Militar
 - Forças Armadas
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Militar
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
 - Orgânica
 - Pessoal Civil
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
-- Militar
-- Ministro da Defesa Nacional
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:489510:por
@@ -120,16 +120,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1256/1995/10/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1256/1995/10/24/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489510:por
+  label: "Revogado, a partir de 01.11.2009, pelo DR.21/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-2009-489510
+  date: '2009-09-04'
 article_structure:
   article_count: 28
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:55Z'
   warnings: []
   errors: []
 ---
@@ -286,7 +327,9 @@ a) A Divisão de Recrutamento e Efectivos Militares (DREM);
 
 b) A Divisão de Incentivos à Prestação do Serviço Militar (DIPSM).
 
-###### Artigo 8.º — Divisão de Recrutamento e Efectivos Militares
+###### Artigo 8.º
+
+##### Divisão de Recrutamento e Efectivos Militares
 
 1 - À DREM compete:
 
@@ -322,7 +365,9 @@ p) Planear, conceber e executar, em colaboração com os ramos das FA, a políti
 
 q) Planear, coordenar e executar, em colaboração com os ramos das FA e outras entidades, a realização do Dia da Defesa Nacional.
 
-###### Artigo 9.º — Divisão de Incentivos à Prestação do Serviço Militar
+###### Artigo 9.º
+
+##### Divisão de Incentivos à Prestação do Serviço Militar
 
 À DIPSM compete:
 
@@ -352,7 +397,9 @@ a) A Divisão Técnico-Jurídica (DTJ);
 
 b) A Divisão de Assuntos do Serviço Militar (DASM).
 
-###### Artigo 11.º — Divisão Técnico-Jurídica
+###### Artigo 11.º
+
+##### Divisão Técnico-Jurídica
 
 À DTJ compete:
 
@@ -374,7 +421,9 @@ h) Acompanhar a interpretação e aplicação de diplomas legais e proceder à a
 
 i) Assegurar a representação do MDN no âmbito da participação na Comissão da Organização do Tratado do Atlântico Norte sobre o Papel das Mulheres nas FA e no conselho consultivo da Comissão para a Igualdade e para os Direitos das Mulheres.
 
-###### Artigo 12.º — Divisão de Assuntos do Serviço Militar
+###### Artigo 12.º
+
+##### Divisão de Assuntos do Serviço Militar
 
 À DASM compete:
 
@@ -412,7 +461,9 @@ a) A Divisão de Ensino e Formação (DEF);
 
 b) A Divisão de Estudos Profissionais e Política Salarial (DEPPS).
 
-###### Artigo 14.º — Divisão de Ensino e Formação
+###### Artigo 14.º
+
+##### Divisão de Ensino e Formação
 
 À DEF compete:
 
@@ -434,7 +485,9 @@ h) Proceder à divulgação dos cursos a promover por entidades internacionais e
 
 i) Assegurar e coordenar a participação nacional e a representação do MDN em organismos ou grupos de trabalho internacionais no âmbito das suas competências.
 
-###### Artigo 15.º — Divisão de Estudos Profissionais e Política Salarial
+###### Artigo 15.º
+
+##### Divisão de Estudos Profissionais e Política Salarial
 
 À DEPPS compete:
 
@@ -462,7 +515,9 @@ a) A Divisão de Saúde Militar (DSM);
 
 b) A Divisão dos Assuntos Sociais (DAS).
 
-###### Artigo 17.º — Divisão de Saúde Militar
+###### Artigo 17.º
+
+##### Divisão de Saúde Militar
 
 À DSM compete:
 
@@ -480,7 +535,9 @@ f) Participar na concepção de medidas de prevenção no âmbito de doenças in
 
 g) Proceder à divulgação e implementação dos acordos de normalização (STANAGS) no domínio da saúde.
 
-###### Artigo 18.º — Divisão de Assuntos Sociais
+###### Artigo 18.º
+
+##### Divisão de Assuntos Sociais
 
 À DAS compete:
 
@@ -496,7 +553,9 @@ e) Promover a coordenação do Programa para a Prevenção e Combate à Droga e 
 
 f) Colaborar no estudo de medidas que facilitem a reinserção socioprofissional dos militares do QP na vida civil, em articulação com outros departamentos ministeriais.
 
-###### Artigo 19.º — Divisão de Gestão Financeira e Administrativa
+###### Artigo 19.º
+
+##### Divisão de Gestão Financeira e Administrativa
 
 1 - A DGFA é o serviço responsável pelo apoio técnico e instrumental nos domínios da gestão orçamental, financeira e patrimonial e da administração de pessoal e apoio geral, competindo-lhe:
 
@@ -630,15 +689,15 @@ As verbas necessárias para fazer face aos encargos decorrentes da aplicação d
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Alberto de Sousa Martins.
 
-**Promulgado em 15 de Janeiro de 2002.**
+Promulgado em 15 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Janeiro de 2002.**
+Referendado em 17 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o artigo 24.º
 

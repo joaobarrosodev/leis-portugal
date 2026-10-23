@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17400/17531754.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/379-1979-381516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 443ad6aa99da8df0ed9cd0bf58e5409e614be58c453216933896e174cc7f75b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9b802ddc554fef95ae54fe1f1e31104ef8a1b80c3be553985629a3edfc981eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cártamo
+- Girassol
+- Indústria Alimentar
+- Instituto do Azeite e Produtos Oleaginosos
+- Oleaginosas
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:475134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:280231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475134:por
+  label: "Revogada pela PORT.221/80.05.05.1980.MFP, DR.IS [103] de 05.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-1980-475134
+  date: '1980-05-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:09Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +150,7 @@ Os preços fixados entendem-se para grão limpo, seco, são e sem cheiros estran
 
 2 - Características de base:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17400/17531754.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17400/17531754.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17400/17531754.pdf)
 
 3 - Bonificações e penalizações:
 
@@ -141,4 +164,4 @@ c) As variações na percentagem de impurezas abaixo de 1% e acima de 2% serão,
 
 Estes preços entendem-se para sementes entregues pelos produtores em local a designar pelo comprador; quando este local se situar fora do distrito em que as sementes hajam sido produzidas, o produtor terá direito a uma compensação, a pagar pelo comprador, correspondente ao acréscimo no custo do frete.
 
-**O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Mário Francisco Barreira da Ponte. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.**
+O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Mário Francisco Barreira da Ponte. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

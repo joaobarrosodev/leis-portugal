@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2004/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2004-501798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 946aa141556340052de6fe461a5fddce1ee311eee5525dbd465945a0a2d2f146
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31affe1a630c65aaedd73cc3c45966b2025722826474becf1af016bda754da4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Alimentação Humana
 - Aditivo Alimentar
+- Alimentação Humana
+- Aproximação das Legislações
 - Comércio
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:245334:por
+  label: "Alterado o anexo II do Dec Lei 365/98 de 21-Nov, com a redacção do presente diploma, pelo DEC LEI.150/2005.30.08.2005.MADRP,\
+    \ DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2005-245334
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:449695:por
+  label: "Alterados os anexos I e II do Dec Lei 365/98, de 21-Nov, na redacção do presente diploma, pelo DEC LEI.99/2008.12.06.2008.MADRP,\
+    \ DR.IS [112] de 12.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2008-449695
+  date: '2008-06-12'
+- type: amended_by
+  target: pt:dre:333873:por
+  label: "Alterados os anexos i e ii do Dec Lei 365/98, de 21-Nov, na redacção do presente diploma, pelo DEC LEI.94/2010.29.07.2010.MADRP,\
+    \ DR.IS [146] de 29.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2010-333873
+  date: '2010-07-29'
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterados o anexos I e II do Dec Lei 365/98, de 21-Nov, na redacção do presente diploma, pelo DEC LEI.64/2011.09.05.2011.MADRP,\
+    \ DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo II\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31996L0077
   label: null
@@ -104,13 +128,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:37Z'
   warnings: []
   errors: []
 ---
@@ -149,15 +173,15 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 15 de Julho de 2004.**
+Promulgado em 15 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Julho de 2004.**
+Referendado em 16 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 272/2002, 1º Suplemento, Série I-A de 2002-11-25
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7388-(2) a 7388-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/272a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/53-a/2002/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/53-a-2002-308324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78dc0b9019dfa56f71512ff4d67a84621ccec535da0cd23af9bc72f02e4ddbd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0e239ab8fb63bf8bea60d2a0ae0628d5556f7e9beedf2b05e6982a2fa96bcb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,29 @@ subjects:
 - Chefe do Estado Maior da Armada
 - Nomeação
 relationships:
+- type: amended_by
+  target: pt:dre:3622408:por
+  label: "Exonerado pelo DESP.26170/2002(2ªSÉRIE).2002.11.20.MDN, DR.IIS [286] de 11/Dez/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/26170-2002-3622408
+  date: '2002-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:40Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +100,16 @@ validation:
 
 de 25 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior da Armada, sob proposta do Governo, conforme deliberação do Conselho de Ministros de 12 de Novembro de 2002, o vice-almirante Francisco António Torres Vidal Abreu, sendo promovido ao posto de almirante, por força do disposto no artigo 215.º, n.º 2, do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de Junho.
 
-**Assinado em 18 de Novembro de 2002.**
+Assinado em 18 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Novembro de 2002.**
+Referendado em 19 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

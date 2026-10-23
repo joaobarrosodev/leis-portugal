@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/204/2002/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2002-645100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f87a3f7be9ff8d190b00db069338a1d2bce7630dee12cc70c4aa2e5b342c70f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 522cb30014344afe3d1751b658f9baada7f42a111ebbc07f9f57e06401a9365e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Zona de Proteção
 - Política de Solos
 - Rede Nacional de Áreas Protegidas
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:667534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405301:por
+  label: "Prorrogado, até 31 de Dezembro de 2005, o prazo de aprovação dos planos de ordenamento das áreas protegidas estabelecido\
+    \ no nº2 do presente diploma, pelo DEC LEI.217-A/2004 de 08-Out, DR.IS-A [237]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-a-2004-405301
+  date: '2004-10-08'
+- type: amended_by
+  target: pt:dre:667534:por
+  label: "Prorrogado por dois anos, a contar do respectivo termo, o prazo de aprovação dos planos de ordenamento das áreas\
+    \ protegidas previsto no nº 1 do art. 1º do Dec Lei 217-A/2004 de 08-Out, na alteração que efectuou ao prazo previsto\
+    \ nº 2 do art. único do presente diploma, pelo DEC LEI.67/2006.23.03.2006.MAOTDR, DR.IS-A [59] de 23.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2006-667534
+  date: '2006-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
   label: null
@@ -95,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:57Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +176,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/87](https:
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Isaltino Afonso de Morais.
 
-**Promulgado em 13 de Setembro de 2002.**
+Promulgado em 13 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Setembro de 2002.**
+Referendado em 23 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

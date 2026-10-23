@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/337/2007/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-2007-641677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70f908f0c16e070cf4e1bc3950fb49e2fdb6712a80f5195b52e3ec1f5bac91c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b0721d7bd50537a3a280b9c1b84e8228b813e339bf3d0f25ba550bebc049112
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Produto Cárneo
 - Cereal
-- Saúde Pública
+- Limite Máximo de Resíduos
+- Pesticida
+- Produto Alimentar
+- Produto Animal
+- Produto Cárneo
+- Produto Fitofarmacêutico
 - Produto Hortícola
 - Proteção do Consumidor
-- Pesticida
-- Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
-- Produto Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449691:por
+  label: "Alterado o anexo II do Dec Lei 51/2004 de 10-Mar, com a redacção conferida no presente diploma, pelo DEC LEI.98/2008.12.06.2008.MADRP,\
+    \ DR.IS [112] de 12.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2008-449691
+  date: '2008-06-12'
 - type: cites
   target: celex:31986L0363
   label: null
@@ -105,16 +111,21 @@ relationships:
   target: celex:32007L0028
   label: null
   source: http://data.europa.eu/eli/dir/2007/28/oj
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:30Z'
   warnings: []
   errors: []
 ---
@@ -145,15 +156,15 @@ O anexo ii do Decreto-Lei n.º 51/2004, de 10 de Março, alterado pelos Decretos
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - Manuel Lobo Antunes - Rui Nobre Gonçalves.
 
-**Promulgado em 20 de Setembro de 2007.**
+Promulgado em 20 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2007.**
+Referendado em 21 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -161,10 +172,10 @@ Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - Fernando Tei
 
 [...]
 
-# Parte A
+Parte A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf)
 
-# Parte B
+Parte B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0728307289.pdf)

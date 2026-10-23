@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/460-1978-299867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1653594af2889f8c4f52cad63ec23642bb1990cffa8ea2e1c89027cd0d102068
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f7db93b204c0660591529fbbbd4dc4c3b6d56586dfe09ae9ee992c9ef2d790
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Correspondência Oficial
+- CTT
+- Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:328999:por
+  label: Retificada, sendo republicada, a tabela III anexa à presente portaria pelo(a) Declaração - Diário da República n.º
+    228/1978, Série I de 1978-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-328999
+  date: '1978-10-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:47Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +111,25 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comuni
 
 Ministério dos Transportes e Comunicações, 25 de Julho de 1978. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.
 
-## Anexo à Portaria n.º 460/78, de 12 de Agosto
+Anexo à Portaria n.º 460/78, de 12 de Agosto
 
 Tabela de descontos para grandes utentes
 
 I) Correspondência (serviço nacional):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
 
 II) Taxas especiais e de outros serviços (serviço nacional):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
 
 III) Encomendas postais (serviço nacional):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
 
 IV) Correspondência (serviço internacional):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18500/16491650.pdf)
 
 Nota. - Os descontos identificados na tabela anterior serão concedidos a todos os grandes utentes que satisfizerem cumulativamente as seguintes condições nas suas remessas:
 
@@ -136,4 +149,4 @@ b) Serem apresentados nas seguintes condições:
 
 c) A franquia ser paga por avença.
 
-**O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

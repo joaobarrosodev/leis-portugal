@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2013/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2013-504772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82ae4d8f698bd97bd5495b22c7dbd04c4fc59385cc2574fc5cb917cf57bb6d97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1f3c21dd04c99324662c9eddacd94cf7d52bed67fdd792cb467102d204704db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Produto Químico
 - Aproximação das Legislações
+- ASAE
 - Autoridade Tributária e Aduaneira
 - CE Países
-- Multa
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
+- Croácia
 - Definição de Competências
-- Saúde Pública
-- União Europeia
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Inspetor Geral
-- ASAE
-- Embalagem
 - Instituto Português de Acreditação
+- Multa
+- Produto Químico
 - Proteção do Ambiente
 - Proteção do Consumidor
 - Regulamento
 - Regulamento para a Classificação Embalagem Rotulagem e Fichas de Dados de Segurança de Preparações Perigosas
+- Saúde Pública
 - Substância Perigosa
-- Comércio
-- Croácia
+- União Europeia
 relationships:
 - type: cites
   target: celex:31967L0548
@@ -118,15 +118,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2003/04/23/p/dre
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:17Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +175,9 @@ g) A Diretiva n.º [2013/21/UE](https://data.europa.eu/eli/dir/2013/21/oj?locale
 
 2 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do disposto no presente decreto-lei compete à Autoridade Tributária e Aduaneira (AT) e à Autoridade de Segurança Alimentar e Económica (ASAE), de acordo com as suas competências específicas.
 
@@ -185,7 +187,9 @@ g) A Diretiva n.º [2013/21/UE](https://data.europa.eu/eli/dir/2013/21/oj?locale
 
 4 - Nos casos em que os autos de notícia não sejam levantados pelas entidades referidas no número anterior, estes devem ser remetidos à ASAE para efeitos da sua instrução.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +197,9 @@ g) A Diretiva n.º [2013/21/UE](https://data.europa.eu/eli/dir/2013/21/oj?locale
 
 3 - As amostras para o controlo são remetidas a laboratórios acreditados pelo Instituto Português de Acreditação, I. P., ou por um dos organismos nacionais de acreditação reconhecidos nos termos do Regulamento (CE) n.º [765/2008](https://data.europa.eu/eli/reg/2008/765/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos, e que revoga o Regulamento (CEE) n.º [339/93](https://data.europa.eu/eli/reg/1993/339/oj?locale=pt).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A aplicação das coimas e sanções acessórias previstas no artigo anterior compete ao Inspetor-Geral da ASAE.
 
@@ -219,15 +225,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de outubro de 2013. - Paulo Sacadura Cabral Portas - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 30 de outubro de 2013.**
+Promulgado em 30 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de outubro de 2013.**
+Referendado em 30 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -235,7 +241,9 @@ Visto e aprovado em Conselho de Ministros de 24 de outubro de 2013. - Paulo Saca
 
 [...]
 
-# PARTE A — [...]
+PARTE A
+
+[...]
 
 [...]
 
@@ -331,7 +339,9 @@ Reino Unido:...
 
 10 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 

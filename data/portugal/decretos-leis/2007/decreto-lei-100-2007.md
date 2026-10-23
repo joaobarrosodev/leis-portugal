@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2007/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01d78a5b5bfcaec99a1531166e5640cec2bbc1cd49e307898a398e56433fcb30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f10fe32301a8fcba0bc48e98960a8df3e159bccec1b238939a56b4676703da45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Energia Elétrica
+- Abastecimento de Água
 - Consumidor
+- Energia Elétrica
+- Garantia
 - Gás
 - Instituto do Consumidor
-- Publicitação
 - Instituto Regulador de Águas e Resíduos
-- Serviço Público
 - Proteção do Consumidor
+- Publicitação
 - Reclamação
 - Reembolso
-- Abastecimento de Água
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:224615907:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66041393:por
+  label: Dada nova redação aos art. 6.º, 6.º-A e 6.º-C do Dec Lei 195/99 de 08-jun, alterado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 2/2015 - Diário da República n.º 3/2015, Série I de 2015-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2015-66041393
+  date: '2015-01-06'
+- type: amended_by
+  target: pt:dre:73650547:por
+  label: Alterados os arts. 6.º-A e 6.º-C do Dec Lei 195/99, de 08-jun, aditados pelo presente diploma pelo(a) Decreto-Lei
+    n.º 7/2016 - Diário da República n.º 36/2016, Série I de 2016-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2016-73650547
+  date: '2016-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/195/1999/06/08/p/dre
   label: null
@@ -92,16 +104,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+- type: cites
+  target: pt:dre:311254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:45Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +166,9 @@ Os artigos 1.º e 6.º do [Decreto-Lei n.º 195/99](https://diariodarepublica.pt
 
 3 - O disposto nos números anteriores aplica-se às autarquias locais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +210,9 @@ Deveres especiais dos prestadores de serviços
 
 3 - Quando as cauções tenham sido recebidas por municípios que tenham posteriormente atribuído a exploração e a gestão dos seus sistemas municipais às actuais entidades prestadoras do serviço, ficam aqueles municípios obrigados a entregar a estas entidades os montantes das cauções, bem como a lista identificativa dos consumidores a que as mesmas respeitam.
 
-###### Artigo 6.º-B — Destino das cauções não restituídas
+Artigo 6.º-B
+
+Destino das cauções não restituídas
 
 1 - Os montantes relativos às cauções não reclamadas nos prazos e nos termos mencionados, que não tenham sito restituídas aos consumidores, ao abrigo do artigo 6.º, revertem para um fundo a administrar pelo Instituto do Consumidor, I. P., destinado ao financiamento de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos dos consumidores e a constituir nos termos a definir por portaria conjunta dos ministros responsáveis pelas áreas das finanças e da defesa do consumidor.
 
@@ -198,7 +222,9 @@ Deveres especiais dos prestadores de serviços
 
 4 - A gestão do fundo a que se refere o n.º 1 deste artigo é apoiada por um órgão consultivo composto por representantes dos operadores intervenientes na captação das cauções e de associações representativas de consumidores, cuja composição global, incluindo os municípios, é definida por portaria do ministro responsável pela área da defesa do consumidor.
 
-###### Artigo 6.º-C — Responsabilidade do Instituto do Consumidor, I. P.
+Artigo 6.º-C
+
+Responsabilidade do Instituto do Consumidor, I. P.
 
 Cumprido o estabelecido no artigo anterior, se a caução não tiver sido restituída pelas entidades que asseguram o fornecimento de serviços públicos essenciais, o consumidor pode reclamar o respectivo montante junto do Instituto do Consumidor, I. P., nos cinco anos subsequentes ao termo do prazo estabelecido no n.º 8 do artigo 6.º»
 
@@ -208,12 +234,12 @@ As entidades referidas no n.º 3 do artigo 2.º do [Decreto-Lei n.º 195/99](htt
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Emanuel Augusto dos Santos - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 19 de Março de 2007.**
+Promulgado em 19 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Março de 2007.**
+Referendado em 21 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

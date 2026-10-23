@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20428-1964-470388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63db64ba4b7e61785999fd8f4ef1eddf04a5bfaad9b40a7908bc4e94451bde18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6322eca635e64e49d055b122f0af919eeefcc2451eeea9a66314044375bec9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:153342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:46Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +107,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 7.º — Serviços de agricultura e florestas
 
-###### Artigo 2163.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 12650$00
+Artigo 2163.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 12650$00
 
 Serviços geográficos e cadastrais
 
-###### Artigo 2354.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 167350$00
+Artigo 2354.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 167350$00
 
 ... 180000$00
 
@@ -103,7 +119,7 @@ Serviços geográficos e cadastrais
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2597.º «Despesas de comunicações»:
+Artigo 2597.º «Despesas de comunicações»:
 
 N.º 1), alínea a) «Portes de correio e telégrafo e endereços telegráficos e caixas de apartados - Para pagamento aos serviços dos correios, telégrafos e telefones de portes de correio de toda a correspondência oficial de telégrafo e endereços telegráficos e caixas de apartados (com exclusão dos serviços autónomos)» ... 700000$00
 
@@ -115,19 +131,19 @@ Alínea b) «Chamadas telefónicas» ... 600000$00
 
 Alínea c) «Conversações interurbanas e internacionais» ... 200000$00
 
-###### Artigo 2598.º «Deslocações de pessoal»:
+Artigo 2598.º «Deslocações de pessoal»:
 
 N.º 1) «Ajudas de custo dentro da província» ... 800000$00
 
 N.º 3) «Passagens dentro da província» ... 700000$00
 
-###### Artigo 2599.º «Diversas despesas»:
+Artigo 2599.º «Diversas despesas»:
 
 N.º 5), alínea b), 2) «Despesas eventuais (artigo 1.º e § 2.º do artigo 6,º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - Na província» ... 1200000$00
 
 N.º 7) «Para pagamento de encargos com a vinda à província de missões de estudo, estagiários, conferencistas finalistas e outras despesas com recepções de individualidades e representantes nacionais e estrangeiros em visita de colaboração e intercâmbio» ... 1300000$00
 
-###### Artigo 2604.º, n.º 1) «Complemento de vencimentos - Para pagamento de complemento de vencimentos aos funcionários em serviço na cidade da Beira, nos termos do § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942, e [Portaria n.º 12247](https://diariodarepublica.pt/dr/detalhe/portaria/12247-1948-153342), de 28 de Dezembro de 1957» ... 1800000$00
+Artigo 2604.º, n.º 1) «Complemento de vencimentos - Para pagamento de complemento de vencimentos aos funcionários em serviço na cidade da Beira, nos termos do § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942, e [Portaria n.º 12247](https://diariodarepublica.pt/dr/detalhe/portaria/12247-1948-153342), de 28 de Dezembro de 1957» ... 1800000$00
 
 ... 7400000$00
 

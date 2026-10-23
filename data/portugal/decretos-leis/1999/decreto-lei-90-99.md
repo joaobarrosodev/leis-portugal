@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/1999/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1999-150516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baa5412b51110d7f9c2a5410e5c46e163f48adbb45c0ae4bf70964f3ad1e46a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1af7e67494bd9e4dc5255b8f6cb60ce57862c87667de6289d728c0231b9a3842
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-- RDP
 - Caixa Geral de Aposentações
 - Pensão de Reforma
+- RDP
 - Transferência de Competências
 relationships:
 - type: cites
@@ -84,16 +84,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/315/1994/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/315/1994/12/24/p/dre
+- type: cites
+  target: pt:dre:302484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623857:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:14Z'
   warnings: []
   errors: []
 ---
@@ -132,12 +156,12 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º da Consti
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 3 de Março de 1999.**
+Promulgado em 3 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 1999.**
+Referendado em 10 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

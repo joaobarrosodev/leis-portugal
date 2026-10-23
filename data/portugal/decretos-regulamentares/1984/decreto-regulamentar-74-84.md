@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1984-399399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6953d4f73b21078adaadbacbc74def26dfd195e99a77289656b5bf489d3f96a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f6a2f898d58a2b2c50647a16078ffa2c3a0a6749fcc2e7f6c0b34610f3248c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Orgânica
+- Serviços Administrativos
+relationships:
+- type: cites
+  target: pt:dre:386423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:10Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +105,11 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 189/84](http
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os serviços administrativos dos estabelecimentos oficiais dos ensinos preparatório e secundário compreendem áreas funcionais e estão sob a directa responsabilidade do respectivo chefe.
+Artigo 1.º - 1 - Os serviços administrativos dos estabelecimentos oficiais dos ensinos preparatório e secundário compreendem áreas funcionais e estão sob a directa responsabilidade do respectivo chefe.
 
 2 - O chefe de serviços administrativos depende hierárquica e funcionalmente do presidente do conselho directivo ou de quem as suas vezes fizer.
 
-###### Art. 2.º - 1 - As áreas funcionais referidas no n.º 1 do artigo anterior são as seguintes:
+Art. 2.º - 1 - As áreas funcionais referidas no n.º 1 do artigo anterior são as seguintes:
 
 a) Alunos;
 
@@ -197,7 +205,7 @@ e) Apoio administrativo a qualquer acção a desenvolver dentro dos objectivos g
 
 6 - Cada uma das áreas referidas nos números anteriores pode ainda compreender as tarefas que se tornem necessárias ao seu bom funcionamento no que respeita a estatísticas, atendimento do público, dactilografia e arquivo, sem prejuízo destas tarefas serem organizadas em comum sempre que as características da escola o aconselharem.
 
-###### Art. 3.º Compete ao chefe de serviços administrativos:
+Art. 3.º Compete ao chefe de serviços administrativos:
 
 a) Orientar e coordenar as actividades dos serviços administrativos;
 
@@ -241,7 +249,7 @@ u) Superintender directamente no serviço de reprografia para efeitos de control
 
 v) Apreciar qualquer outro assunto respeitante ao serviço administrativo, decidindo os que forem da sua competência e expondo ao conselho directivo os que a ultrapassem.
 
-###### Art. 4.º - 1 - O tesoureiro depende hierárquica e funcionalmente do chefe dos serviços administrativos, sem prejuízo do controle directo do conselho administrativo.
+Art. 4.º - 1 - O tesoureiro depende hierárquica e funcionalmente do chefe dos serviços administrativos, sem prejuízo do controle directo do conselho administrativo.
 
 2 - Para além de outras tarefas que lhe possam ser distribuídas nos termos legais, compete, nomeadamente, ao tesoureiro:
 
@@ -273,16 +281,16 @@ n) Emitir cheques por beneficiário ou depositar nas contas dos beneficiários a
 
 o) Executar tudo o mais que lhe seja determinado pelo chefe dos serviços administrativos.
 
-###### Art. 5.º O horário de atendimento do pessoal de cada estabelecimento de ensino e do público será fixado pelo respectivo presidente do conselho directivo, ou quem as suas vezes fizer, sob proposta do chefe de serviços administrativos, só podendo ser reduzido de uma hora relativamente aos 2 períodos de funcionamento normais.
+Art. 5.º O horário de atendimento do pessoal de cada estabelecimento de ensino e do público será fixado pelo respectivo presidente do conselho directivo, ou quem as suas vezes fizer, sob proposta do chefe de serviços administrativos, só podendo ser reduzido de uma hora relativamente aos 2 períodos de funcionamento normais.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - José Augusto Seabra.
 
-**Promulgado em 5 de Setembro de 1984.**
+Promulgado em 5 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Setembro de 1984.**
+Referendado em 10 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

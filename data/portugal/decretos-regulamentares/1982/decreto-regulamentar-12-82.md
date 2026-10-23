@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1982-609171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df2ddee102e200f8f7ad3563f13fb369ed65367e40794988f885b23c5c90da99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 931b5007ffd3583b54c95c124cdc7bbae4847b13a522fc964dd2afc9e6a29c42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:385416:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385416:por
+  label: "Alterada a redacção de alguns arts., pelo DR.47/84.1984.07.03.PCM, DR.IS [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/47-1984-385416
+  date: '1984-07-03'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:46Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +154,7 @@ Sendo assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal do Instituto Bacteriológico de Câmara Pestana é agrupado do seguinte modo:
+Artigo 1.º O pessoal do Instituto Bacteriológico de Câmara Pestana é agrupado do seguinte modo:
 
 a) Pessoal dirigente;
 
@@ -110,9 +164,9 @@ c) Pessoal técnico-profissional e/ou administrativo;
 
 d) Pessoal operário e/ou auxiliar.
 
-###### Art. 2.º O quadro de pessoal a que se refere o artigo anterior é o constante do mapa anexo ao presente diploma e substitui o mapa anexo ao regulamento aprovado pelo [Decreto n.º 38123](https://diariodarepublica.pt/dr/detalhe/decreto/38123-1950-489185), de 29 de Dezembro de 1950, com as alterações que lhe foram introduzidas pelo Decreto n.º 41502, de 4 de Janeiro de 1958.
+Art. 2.º O quadro de pessoal a que se refere o artigo anterior é o constante do mapa anexo ao presente diploma e substitui o mapa anexo ao regulamento aprovado pelo [Decreto n.º 38123](https://diariodarepublica.pt/dr/detalhe/decreto/38123-1950-489185), de 29 de Dezembro de 1950, com as alterações que lhe foram introduzidas pelo Decreto n.º 41502, de 4 de Janeiro de 1958.
 
-###### Art. 3.º - 1 - Os lugares do quadro do Instituto serão providos por nomeação, salvo os casos de contrato nos termos da lei geral e de acordo com o disposto nas alíneas seguintes:
+Art. 3.º - 1 - Os lugares do quadro do Instituto serão providos por nomeação, salvo os casos de contrato nos termos da lei geral e de acordo com o disposto nas alíneas seguintes:
 
 a) O lugar de presidente da direcção será provido, por inerência, de entre docentes da cadeira de Bacteriologia e Parasitologia da Faculdade de Medicina da Universidade de Lisboa, por despacho do Ministro da Educação e das Universidades, ouvido o conselho científico da Faculdade;
 
@@ -134,11 +188,11 @@ i) Os lugares de pessoal operário e auxiliar serão providos de acordo com as d
 
 2 - O presidente da direcção preside, por direito próprio e com voto de qualidade, à direcção do Instituto, que será constituída e terá a composição prevista no artigo 57.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
 
-###### Art. 4.º - 1 - A mudança de classe na carreira de auxiliar técnico de laboratório fica condicionada à permanência de 5 anos na categoria anterior e classificação de serviço não inferior a Bom.
+Art. 4.º - 1 - A mudança de classe na carreira de auxiliar técnico de laboratório fica condicionada à permanência de 5 anos na categoria anterior e classificação de serviço não inferior a Bom.
 
 2 - Os lugares de tratador de animais principal e de 1.ª classe serão providos mediante concurso documental de entre os tratadores de 1.ª e de 2.ª classes com o mínimo de 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 5.º - 1 - A transição de pessoal ao serviço no Instituto para os lugares do quadro anexo ao presente diploma será feita com observância do disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
+Art. 5.º - 1 - A transição de pessoal ao serviço no Instituto para os lugares do quadro anexo ao presente diploma será feita com observância do disposto na alínea b) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou agente já possui;
 
@@ -154,20 +208,20 @@ c) Para categoria que integre as funções que o funcionário ou agente desempen
 
 5 - A comprovação das funções a que se refere o número anterior deverá ser feita em declaração emitida pelo presidente da direcção do Instituto.
 
-###### Art. 6.º Enquanto não for publicado o diploma sobre métodos de recrutamento e selecção a que se refere o artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o ingresso e acesso aos lugares criados pelo presente diploma efectuar-se-á mediante concurso de prestação de provas, cujos termos e condições serão definidos no respectivo aviso de abertura.
+Art. 6.º Enquanto não for publicado o diploma sobre métodos de recrutamento e selecção a que se refere o artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o ingresso e acesso aos lugares criados pelo presente diploma efectuar-se-á mediante concurso de prestação de provas, cujos termos e condições serão definidos no respectivo aviso de abertura.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Vítor Pereira Crespo - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 3 de Março de 1982.**
+Promulgado em 3 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 1.º do Decreto Regulamentar n.º 12/82, de 19 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06500/06090611.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06500/06090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06500/06090611.pdf)
 
 Nota de encargos referentes à nova versão do projecto de actualização do quadro de pessoal do Instituto Bacteriológico de Câmara Pestana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06500/06090611.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06500/06090611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06500/06090611.pdf)

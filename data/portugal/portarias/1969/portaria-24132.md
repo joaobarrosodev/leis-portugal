@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24132-1969-199978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29622961ea993632a978c02241475d3b579d3126c967afa1e3eb095faf1e060a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 761d731a201834d5b08cfe56782be8d26533127fcd0d4fe82feac1e14e036582
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,38 @@ relationships:
   target: pt:dre:227268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227268:por
+  label: "Alterados os nºs. 1 e 2 do art. 9º, os nºs. 1 e 2 do art. 23º e os nºs. 1 e 3 do art. 35º pela PORT.33/70.14.01.1970.MSA,\
+    \ DG.IS [11] de 14.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/33-1970-227268
+  date: '1970-01-14'
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:54Z'
   warnings: []
   errors: []
 ---
@@ -102,35 +124,35 @@ REGULAMENTO DOS CONCURSOS MÉDICOS NOS HOSPITAIS CENTRAIS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. Os concursos para os lugares dos quadros médicos dos hospitais centrais, gerais, regem-se pelo disposto nesta portaria em tudo o que não estiver previsto no Estatuto Hospitalar e no Regulamento Geral dos Hospitais.
+Artigo 1.º - 1. Os concursos para os lugares dos quadros médicos dos hospitais centrais, gerais, regem-se pelo disposto nesta portaria em tudo o que não estiver previsto no Estatuto Hospitalar e no Regulamento Geral dos Hospitais.
 
 2. Os concursos para os graus do internato médico constam do respectivo regulamento, aprovado ao abrigo do disposto no artigo 43.º, n.º 5, do Regulamento Geral dos Hospitais.
 
 3. O Ministro da Saúde e Assistência poderá determinar a aplicação deste Regulamento aos estabelecimentos especializados com a categoria de centrais, introduzindo-lhe as adaptações convenientes.
 
-###### Art. 2.º - 1. As dúvidas que se suscitarem na execução do presente Regulamento serão submetidas à Direcção-Geral dos Hospitais, que as decidirá, colhendo, quando necessário, despacho ministerial.
+Art. 2.º - 1. As dúvidas que se suscitarem na execução do presente Regulamento serão submetidas à Direcção-Geral dos Hospitais, que as decidirá, colhendo, quando necessário, despacho ministerial.
 
 2. À mesma Direcção-Geral compete emitir as instruções indispensáveis à aplicação deste Regulamento.
 
 ### CAPÍTULO II — Dos concursos para graduados
 
-###### Art. 3.º - 1. De acordo com o disposto no artigo 47.º, n.º 1, do Regulamento Geral dos Hospitais, a admissão nos lugares de graduado é feita por concurso de provas, a realizar nos hospitais interessados.
+Art. 3.º - 1. De acordo com o disposto no artigo 47.º, n.º 1, do Regulamento Geral dos Hospitais, a admissão nos lugares de graduado é feita por concurso de provas, a realizar nos hospitais interessados.
 
 2. A fim de promover a simultaneidade dos concursos em todos os serviços e estabelecimentos, o aviso de abertura poderá ser conjunto e publicado por iniciativa da Direcção-Geral dos Hospitais.
 
-###### Art. 4.º - 1. A Direcção-Geral dos Hospitais providenciará para que os concursos sejam abertos logo depois de completados os exames finais do internato complementar.
+Art. 4.º - 1. A Direcção-Geral dos Hospitais providenciará para que os concursos sejam abertos logo depois de completados os exames finais do internato complementar.
 
 2. O prazo de abertura destes concursos será de dez dias. Dos avisos constará o número de lugares postos a concurso em cada especialidade e para cada hospital.
 
-###### Art. 5.º - 1. Em cada ano os concursos terão por objecto exclusivamente as vagas que existirem à data da sua abertura.
+Art. 5.º - 1. Em cada ano os concursos terão por objecto exclusivamente as vagas que existirem à data da sua abertura.
 
 2. As vagas que ficarem por preencher ou surgirem posteriormente serão postas a concurso no ano seguinte. Para assegurar o serviço, poderão ser admitidos médicos além dos quadros, nos termos da legislação geral, mas terão preferência os aprovados em mérito absoluto para esta categoria, a começar pelos do concurso mais recente e por ordem de classificações obtidas.
 
-###### Art. 6.º - 1. Podem concorrer aos lugares de graduado os médicos habilitados com o internato complementar respectivo, qualquer que tenha sido o estabelecimento ou serviço onde o realizaram, bem como aqueles que provem possuírem habilitação equiparada ao mesmo internato, nos termos do artigo 50.º do Regulamento Geral dos Hospitais e artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
+Art. 6.º - 1. Podem concorrer aos lugares de graduado os médicos habilitados com o internato complementar respectivo, qualquer que tenha sido o estabelecimento ou serviço onde o realizaram, bem como aqueles que provem possuírem habilitação equiparada ao mesmo internato, nos termos do artigo 50.º do Regulamento Geral dos Hospitais e artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
 2. Aos lugares de graduado em relação aos quais não exista internato complementar correspondente poderão concorrer os médicos habilitados com o internato complementar, para o efeito considerado adequado pelo Conselho Nacional do Internato Médico.
 
-###### Art. 7.º - 1. Dentro do prazo de abertura do concurso, os candidatos entregarão na secretaria do hospital a seguinte documentação:
+Art. 7.º - 1. Dentro do prazo de abertura do concurso, os candidatos entregarão na secretaria do hospital a seguinte documentação:
 
 a) Requerimento pedindo a admissão ao concurso, contendo a identificação completa do candidato, residência e identificação do ramo ou especialidade a que pretende concorrer;
 
@@ -158,11 +180,11 @@ f) Certificado de sanidade para o exercício de funções públicas passado pela
 
 4. A entrega dos documentos referidos na alínea b) do n.º 1 e no n.º 2 deste artigo poderá ser feita até à data do provimento dos candidatos, quando tal não for possível antes, por estar pendente a passagem desses documentos. Neste caso, os candidatos entregarão, dentro do prazo de abertura do concurso, simples declaração passada pelos serviços respectivos da qual conste esse facto.
 
-###### Art. 8.º - 1. Três dias após o encerramento do prazo do concurso será afixada nos estabelecimentos a lista de candidatos admitidos provisòriamente, com indicação dos documentos em falta nos respectivos processos, os quais deverão ser entregues no prazo de cinco dias, sob pena de exclusão do concurso. Neste mesmo prazo de cinco dias pode ser impugnada a lista provisória dos candidatos.
+Art. 8.º - 1. Três dias após o encerramento do prazo do concurso será afixada nos estabelecimentos a lista de candidatos admitidos provisòriamente, com indicação dos documentos em falta nos respectivos processos, os quais deverão ser entregues no prazo de cinco dias, sob pena de exclusão do concurso. Neste mesmo prazo de cinco dias pode ser impugnada a lista provisória dos candidatos.
 
 2. No terceiro dia subsequente ao decurso do prazo fixado nos números anteriores será afixada a lista definitiva dos candidatos admitidos. Simultâneamente, o júri afixará a data do início das provas, que deverá realizar-se em prazo não superior a dez dias, bem como o número de candidatos que em cada dia efectuam provas.
 
-###### Art. 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro vogais, todos médicos dos quadros hospitalares, dois dos quais serão de categoria não inferior a assistente de hospital central, e os restantes, graduados com, pelo menos, três anos na categoria.
+Art. 9.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá quatro vogais, todos médicos dos quadros hospitalares, dois dos quais serão de categoria não inferior a assistente de hospital central, e os restantes, graduados com, pelo menos, três anos na categoria.
 
 2. Todos os membros do júri deverão, sempre que possível, pertencer ao ramo clínico ou especialidade a que respeitam as provas. O presidente e dois vogais pertencerão ao quadro do estabelecimento ou serviço interessado. Os restantes devem ser escolhidos dos quadros de outros hospitais centrais, mas cada hospital não dará para o mesmo júri mais de um vogal.
 
@@ -172,19 +194,19 @@ f) Certificado de sanidade para o exercício de funções públicas passado pela
 
 5. A homologação dos júris, propostos nos termos do presente artigo, é da competência do director-geral dos Hospitais.
 
-###### Art. 10.º - 1. Cada um dos concorrentes será submetido a uma prova realizada perante o júri, seguida de exposição oral, finda a qual cada membro do júri poderá interrogar durante cinco minutos, tendo o candidato igual tempo para responder a cada um.
+Art. 10.º - 1. Cada um dos concorrentes será submetido a uma prova realizada perante o júri, seguida de exposição oral, finda a qual cada membro do júri poderá interrogar durante cinco minutos, tendo o candidato igual tempo para responder a cada um.
 
 2. A constituição dessa prova consta, para cada um dos ramos ou especialidades, do artigo 13.º do presente Regulamento.
 
-###### Art. 11.º - 1. No primeiro dia de provas, o júri procederá à chamada dos concorrentes, os quais tirarão à sorte o número correspondente ao dia em que efectuam a prova.
+Art. 11.º - 1. No primeiro dia de provas, o júri procederá à chamada dos concorrentes, os quais tirarão à sorte o número correspondente ao dia em que efectuam a prova.
 
 2. Os candidatos que faltarem à chamada prevista no número anterior ou que não se apresentarem à prova no dia e hora que lhes couber serão desde logo eliminados.
 
-###### Art. 12.º - 1. Em cada dia e antes do início da prova, o júri escolherá e inscreverá em verbetes numerados os doentes, preparações ou outros exames e trabalhos para observação ou execução pelos concorrentes.
+Art. 12.º - 1. Em cada dia e antes do início da prova, o júri escolherá e inscreverá em verbetes numerados os doentes, preparações ou outros exames e trabalhos para observação ou execução pelos concorrentes.
 
 2. À hora fixada para início da prova, será feita a chamada dos concorrentes, pelo seu número de ordem, tirando cada um deles, à sorte, o número do verbete que contém o objecto da sua prova.
 
-###### Art. 13.º A constituição da prova será a seguinte:
+Art. 13.º A constituição da prova será a seguinte:
 
 A) Para medicina e cirurgia gerais, e especialidades respectivas:
 
@@ -234,7 +256,7 @@ Observação durante hora e meia, perante o júri, de dois doentes para operar, 
 
 A exposição oral dos dois casos não deve exceder uma hora.
 
-###### Art. 14.º - 1. A classificação da prova será feita mediante a atribuição, a cada concorrente, de valores de uma escala de 0 a 20.
+Art. 14.º - 1. A classificação da prova será feita mediante a atribuição, a cada concorrente, de valores de uma escala de 0 a 20.
 
 2. Diàriamente, o júri afixará a classificação dos candidatos que prestaram provas.
 
@@ -248,13 +270,13 @@ A exposição oral dos dois casos não deve exceder uma hora.
 
 5. O tempo de prestação de serviço militar obrigatório, como oficial médico de qualquer dos ramos das forças armadas, não prejudicará os candidatos que dele fizerem prova no apuramento da segunda prioridade do número anterior.
 
-###### Art. 15.º - 1. Os hospitais onde restem vagas depois de realizados os concursos de provas poderão abrir concurso documental para o seu preenchimento entre os candidatos aprovados em mérito absoluto nos restantes hospitais.
+Art. 15.º - 1. Os hospitais onde restem vagas depois de realizados os concursos de provas poderão abrir concurso documental para o seu preenchimento entre os candidatos aprovados em mérito absoluto nos restantes hospitais.
 
 2. A fim de proporcionar idênticas oportunidades a todos os possíveis concorrentes, estes concursos serão abertos simultâneamente em todos os hospitais. Para este efeito, no dia seguinte ao da publicação da classificação referida no n.º 3 do artigo anterior os hospitais enviarão à Direcção-Geral dos Hospitais a nota dos lugares a pôr a concurso, com indicação do ramo ou especialidade respectiva. A mesma Direcção-Geral promoverá a abertura dos concursos, pelo prazo de cinco dias, mediante aviso a publicar na 2.ª série do Diário do Governo.
 
 3. Logo que o aviso de abertura do concurso siga para o Diário do Governo, serão enviadas cópias aos estabelecimentos e serviços interessados. Estas cópias destinam-se a ser afixadas, com a indicação de que se aguarda a sua publicação no Diário do Governo.
 
-###### Art. 16.º - 1. Dentro do prazo de abertura do concurso, os candidatos entregarão, na secretaria do hospital a que pretendem concorrer, os seguintes documentos:
+Art. 16.º - 1. Dentro do prazo de abertura do concurso, os candidatos entregarão, na secretaria do hospital a que pretendem concorrer, os seguintes documentos:
 
 a) Requerimento de admissão ao concurso, contendo indicação da residência do candidato e do ramo ou especialidade a que deseja concorrer;
 
@@ -266,7 +288,7 @@ Em caso de aprovação do candidato, a documentação em causa será remetida pa
 
 3. Os júris deste concurso serão os mesmos dos concursos de provas.
 
-###### Art. 17.º - 1. Dentro dos três dias seguintes àqueles em que as listas a que se refere o n.º 2 do artigo anterior se tornarem definitivas, o júri afixará a classificação em mérito relativo dos candidatos, sem atribuição de valores.
+Art. 17.º - 1. Dentro dos três dias seguintes àqueles em que as listas a que se refere o n.º 2 do artigo anterior se tornarem definitivas, o júri afixará a classificação em mérito relativo dos candidatos, sem atribuição de valores.
 
 2. A ordenação em mérito relativo dos candidatos obedecerá à seguinte ordem de prioridade, excluindo cada uma delas a que se lhe segue:
 
@@ -280,21 +302,21 @@ Em caso de aprovação do candidato, a documentação em causa será remetida pa
 
 ### CAPÍTULO III — Dos concursos para assistentes
 
-###### Art. 18.º - 1. De acordo com o disposto no artigo 47.º, n.º 1, do Regulamento Geral dos Hospitais, a admissão nos lugares de assistentes dos hospitais centrais é feita por concurso de provas, a realizar nos hospitais interessados.
+Art. 18.º - 1. De acordo com o disposto no artigo 47.º, n.º 1, do Regulamento Geral dos Hospitais, a admissão nos lugares de assistentes dos hospitais centrais é feita por concurso de provas, a realizar nos hospitais interessados.
 
 2. Os concursos são abertos anualmente pelos próprios hospitais, nos termos estabelecidos para as restantes categorias de pessoal, e num único aviso para todos os lugares vagos. O prazo de abertura é de trinta dias.
 
 3. Quando nisso houver muita vantagem, pode o Ministro da Saúde e Assistência autorizar concursos extraordinários.
 
-###### Art. 19.º - 1. O aviso de abertura indicará, para cada ramo ou especialidade, o número de lugares que estejam vagos.
+Art. 19.º - 1. O aviso de abertura indicará, para cada ramo ou especialidade, o número de lugares que estejam vagos.
 
 2. Para assegurar o serviço prejudicado por haver vagas que ficarem por preencher ou surgirem posteriormente, poderão ser admitidos médicos além dos quadros, nos termos da legislação geral, ou interinos. Terão preferência os aprovados em mérito absoluto para a correspondente especialidade ou ramo, a começar pelos do concurso mais recente e por ordem de classificações obtidas.
 
-###### Art. 20.º - 1. Podem concorrer aos lugares de assistente os médicos com a habilitação mínima do internato complementar respectivo, qualquer que tenha sido o estabelecimento ou serviço onde o fizeram, bem como aqueles que provem possuírem habilitação equiparada ao mesmo internato, nos termos do artigo 50.º do Regulamento Geral dos Hospitais e artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
+Art. 20.º - 1. Podem concorrer aos lugares de assistente os médicos com a habilitação mínima do internato complementar respectivo, qualquer que tenha sido o estabelecimento ou serviço onde o fizeram, bem como aqueles que provem possuírem habilitação equiparada ao mesmo internato, nos termos do artigo 50.º do Regulamento Geral dos Hospitais e artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
 2. Aos lugares de assistente em relação aos quais não exista internato complementar correspondente poderão concorrer os médicos habilitados com o internato complementar para o efeito considerado adequado pela Direcção-Geral dos Hospitais, ouvido o Conselho Nacional do Internato Médico, e os médicos com a graduação considerada adequada pela mesma Direcção-Geral, ouvida a comissão médica do hospital interessado.
 
-###### Art. 21.º - 1. Dentro do prazo de abertura do concurso, os candidatos entregarão, na secretaria do hospital, a seguinte documentação:
+Art. 21.º - 1. Dentro do prazo de abertura do concurso, os candidatos entregarão, na secretaria do hospital, a seguinte documentação:
 
 a) Requerimento solicitando a admissão ao concurso, contendo a identificação completa do candidato, residência e indicação do ramo ou especialidade a que pretende concorrer;
 
@@ -322,11 +344,11 @@ f) Certificado de sanidade para exercício de funções públicas, passado pela 
 
 4. A entrega dos documentos referidos na alínea b) do n.º 1 e no n.º 2 deste artigo pode ser feita até à data do provimento dos candidatos quando a sua apresentação não for possível antes, por estar pendente a passagem dos mesmos. Neste caso, os candidatos entregarão, dentro do prazo de abertura do concurso, simples declaração passada pelos respectivos serviços da qual conste esse facto.
 
-###### Art. 22.º - 1. Três dias após o encerramento do prazo do concurso, será afixada no estabelecimento a lista dos candidatos admitidos provisòriamente, com a indicação dos documentos em falta nos respectivas processos, os quais deverão ser entregues no prazo de cinco dias, sob pena de exclusão do concurso. Durante este mesmo prazo de cinco dias pode ser impugnada a lista provisória dos candidatos.
+Art. 22.º - 1. Três dias após o encerramento do prazo do concurso, será afixada no estabelecimento a lista dos candidatos admitidos provisòriamente, com a indicação dos documentos em falta nos respectivas processos, os quais deverão ser entregues no prazo de cinco dias, sob pena de exclusão do concurso. Durante este mesmo prazo de cinco dias pode ser impugnada a lista provisória dos candidatos.
 
 2. No terceiro dia subsequente ao decurso do prazo concedido no número anterior será afixada lista definitiva dos candidatos admitidos ao concurso, bem como a composição definitiva dos júris.
 
-###### Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá seis ou quatro vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.
+Art. 23.º - 1. Cada um dos júris será presidido por um director de serviço hospitalar e terá seis ou quatro vogais, conforme se trate de concurso para medicina interna e cirurgia geral ou para outras especialidades, que serão médicos dos quadros hospitalares com categoria não inferior a assistente de hospital central.
 
 2. Todos os membros dos júris deverão pertencer, sempre que possível, ao ramo clínico ou especialidade a que respeitam as provas. O presidente e dois vogais pertencerão ao quadro do hospital interessado. Os restantes vogais devem ser escolhidos nos quadros de outros hospitais centrais, mas cada hospital não dará para o mesmo júri mais de um vogal. Nos júris dos concursos para medicina interna e cirurgia geral serão três os vogais pertencentes ao quadro do hospital interessado.
 
@@ -336,13 +358,13 @@ f) Certificado de sanidade para exercício de funções públicas, passado pela 
 
 5. A homologação dos júris, propostos nos termos do presente artigo, é da competência do director-geral dos Hospitais.
 
-###### Art. 24.º - 1. Os júris afixarão, com a lista definitiva dos candidatos admitidos aos concursos, o número de concorrentes que, em cada dia, prestam provas.
+Art. 24.º - 1. Os júris afixarão, com a lista definitiva dos candidatos admitidos aos concursos, o número de concorrentes que, em cada dia, prestam provas.
 
 2. No primeiro dia de cada uma das provas, o respectivo júri fará a chamada de todos os candidatos, os quais tirarão à sorte o dia em que deverão prestá-la. Em cada dia, os candidatos tirarão igualmente à sorte a ordem da sua entrada em prova.
 
 3. O candidato que se não apresentar à chamada ou que falte à prestação de alguma prova no dia e hora marcados será desde logo eliminado.
 
-###### Art. 25.º - 1. Nos concursos para assistentes haverá provas documentais, provas teóricas e provas práticas.
+Art. 25.º - 1. Nos concursos para assistentes haverá provas documentais, provas teóricas e provas práticas.
 
 2. As provas documentais consistem na apreciação e discussão públicas do curriculum vitae de cada um dos candidatos, podendo cada membro do júri discuti-lo durante cinco minutos e tendo os candidatos igual prazo para responder a cada um deles.
 
@@ -352,7 +374,7 @@ f) Certificado de sanidade para exercício de funções públicas, passado pela 
 
 5. Os pontos escritos e os relatórios serão sempre lidos e discutidos perante o júri, em sessão pública.
 
-###### Art. 26.º - 1. Em cada prova, a classificação dos candidatos obtém-se somando os valores que lhe forem atribuídos por cada um dos membros do júri, numa escala de 0 a 20, e dividindo o total pelo número de membros do júri, sendo a média apurada até às centésimas.
+Art. 26.º - 1. Em cada prova, a classificação dos candidatos obtém-se somando os valores que lhe forem atribuídos por cada um dos membros do júri, numa escala de 0 a 20, e dividindo o total pelo número de membros do júri, sendo a média apurada até às centésimas.
 
 2. Em cada dia de provas, o júri afixará a classificação obtida pelos candidatos que as efectuarem.
 
@@ -368,11 +390,11 @@ f) Certificado de sanidade para exercício de funções públicas, passado pela 
 
 3.ª Maior tempo de serviço efectivo, em qualquer regime, em estabelecimentos da organização hospitalar.
 
-###### Art. 27.º - 1. Na apreciação e discussão do curriculum vitae dos candidatos, o júri considerará o conjunto de indicações sobre o mérito profissional do candidato, referidas ao seu passado hospitalar, licenciatura, trabalhos publicados e quaisquer outros títulos informativos da sua preparação científica e profissional. Compete aos candidatos invocar os elementos que julguem valorizarem o seu curriculum vitae e que desejem ver considerados pelo júri.
+Art. 27.º - 1. Na apreciação e discussão do curriculum vitae dos candidatos, o júri considerará o conjunto de indicações sobre o mérito profissional do candidato, referidas ao seu passado hospitalar, licenciatura, trabalhos publicados e quaisquer outros títulos informativos da sua preparação científica e profissional. Compete aos candidatos invocar os elementos que julguem valorizarem o seu curriculum vitae e que desejem ver considerados pelo júri.
 
 2. A apreciação do curriculum vitae de todos os candidatos deve ficar concluída até ao início das provas teóricas e práticas.
 
-###### Art. 28.º - 1. Sem prejuízo do disposto no artigo 29.º, será concedido o tempo de três horas para execução de cada uma das provas teóricas, e nas provas práticas seguidas de relatório escrito observar-se-á o seguinte:
+Art. 28.º - 1. Sem prejuízo do disposto no artigo 29.º, será concedido o tempo de três horas para execução de cada uma das provas teóricas, e nas provas práticas seguidas de relatório escrito observar-se-á o seguinte:
 
 a) O candidato terá duas horas para observação dos dois doentes que lhe tiverem cabido, não podendo qualquer nota tomada durante esta prova constituir elemento directo do relatório, muito embora deva ser tomada em papel timbrado e rubricado pelo júri;
 
@@ -388,7 +410,7 @@ b) Imediatamente depois, o candidato apresentará oralmente o primeiro caso clí
 
 A exposição oral dos dois casos não deve exceder uma hora.
 
-###### Art. 29.º - 1. Cada um dos concursos terá as seguintes provas, além da documental:
+Art. 29.º - 1. Cada um dos concursos terá as seguintes provas, além da documental:
 
 A) Medicina e especialidades respectivas:
 
@@ -480,13 +502,13 @@ I) Hemoterapia:
 
 ### CAPÍTULO IV — Dos concursos para directores de serviço
 
-###### Art. 30.º - 1. Quando os lugares de director de serviço não sejam providos, nos termos do artigo 64.º do Estatuto Hospitalar, por professores ou encarregados de regência das disciplinas que lhes correspondam no plano de estudos das Faculdades de Medicina, sê-lo-ão mediante concurso documental, nos termos do disposto no artigo 47.º, n.º 2, do Regulamento Geral dos Hospitais.
+Art. 30.º - 1. Quando os lugares de director de serviço não sejam providos, nos termos do artigo 64.º do Estatuto Hospitalar, por professores ou encarregados de regência das disciplinas que lhes correspondam no plano de estudos das Faculdades de Medicina, sê-lo-ão mediante concurso documental, nos termos do disposto no artigo 47.º, n.º 2, do Regulamento Geral dos Hospitais.
 
 2. O concurso será aberto perante o hospital interessado, pelo prazo de trinta dias, mediante aviso publicado no Diário do Governo.
 
-###### Art. 31.º Podem concorrer aos lugares de director de serviço dos hospitais centrais os assistentes do quadro de qualquer hospital central.
+Art. 31.º Podem concorrer aos lugares de director de serviço dos hospitais centrais os assistentes do quadro de qualquer hospital central.
 
-###### Art. 32.º - 1. Dentro do prazo estabelecido para a abertura do concurso, devem os candidatos entregar na secretaria do estabelecimento onde aquele se efectua os seguintes documentos:
+Art. 32.º - 1. Dentro do prazo estabelecido para a abertura do concurso, devem os candidatos entregar na secretaria do estabelecimento onde aquele se efectua os seguintes documentos:
 
 a) Requerimento solicitando a admissão ao concurso, contendo a identificação completa do candidato, sua residência e indicação do lugar a que pretende concorrer;
 
@@ -512,17 +534,17 @@ f) Certificado de sanidade para o exercício de funções públicas, passado pel
 
 3. Os documentos referidos no número anterior podem ser substituídos por certificado comprovativo da sua entrega, pelo candidato, no estabelecimento a que pertence.
 
-###### Art. 33.º - 1. Nos dez dias seguintes ao encerramento do prazo do concurso será afixada a lista dos candidatos admitidos provisòriamente, bem como a composição do júri. A primeira é impugnável durante o prazo de cinco dias, findos os quais se torna definitiva, se não for objecto de reclamação.
+Art. 33.º - 1. Nos dez dias seguintes ao encerramento do prazo do concurso será afixada a lista dos candidatos admitidos provisòriamente, bem como a composição do júri. A primeira é impugnável durante o prazo de cinco dias, findos os quais se torna definitiva, se não for objecto de reclamação.
 
 2. Decorridos dez dias sobre o último prazo referido no número anterior, o júri dará início à apreciação do curriculum vitae dos candidatos.
 
-###### Art. 34.º - 1. A apreciação do curriculum vitae dos candidatos será feita perante estes, em sessão pública, sempre que haja mais de um concorrente ao lugar, e poderá sê-lo se o concorrente único o solicitar prèviamente. Cada membro do júri poderá formular as considerações que houver por convenientes durante quinze minutos, dispondo o candidato de igual tempo para prestar os esclarecimentos que lhe forem solicitados ou entender necessários.
+Art. 34.º - 1. A apreciação do curriculum vitae dos candidatos será feita perante estes, em sessão pública, sempre que haja mais de um concorrente ao lugar, e poderá sê-lo se o concorrente único o solicitar prèviamente. Cada membro do júri poderá formular as considerações que houver por convenientes durante quinze minutos, dispondo o candidato de igual tempo para prestar os esclarecimentos que lhe forem solicitados ou entender necessários.
 
 2. Na apreciação do curriculum vitae o júri deverá considerar especialmente o conjunto de indicações sobre o mérito profissional dos candidatos referidas ao seu passado actividades hospitalares, e ainda sobre trabalhos publicados e quaisquer outros títulos informativos da sua preparação científica e profissional. Compete aos candidatos invocar e demonstrar os elementos que julguem valorizarem o seu curriculum vitae e que desejem ver considerados pelo júri, particularmente no que diz respeito à actividade hospitalar.
 
 3. Terminada a apreciação do curriculum vitae de todos os candidatos, o júri afixará a respectiva classificação em mérito relativo, sem atribuição de valores. Quando for necessário desempatar o mérito dos candidatos, será condição de preferência a maior antiguidade no lugar de assistente.
 
-###### Art. 35.º - 1. O júri será constituído por um presidente e seis vogais, todos com categoria de director de serviço de hospital central.
+Art. 35.º - 1. O júri será constituído por um presidente e seis vogais, todos com categoria de director de serviço de hospital central.
 
 2. O presidente é, por norma, o director clínico do estabelecimento onde se efectua o concurso, podendo, no entanto, delegar esse cargo num dos directores de serviço com maior antiguidade no lugar. Nos Hospitais Civis de Lisboa a presidência do júri cabe ao presidente da respectiva comissão médica.
 
@@ -532,6 +554,6 @@ f) Certificado de sanidade para o exercício de funções públicas, passado pel
 
 5. A homologação dos júris é da competência do Ministro da Saúde e Assistência:
 
-###### Art. 36.º A validade do concurso é restrita ao lugar ou lugares para cujo provimento tiver sido aberto.
+Art. 36.º A validade do concurso é restrita ao lugar ou lugares para cujo provimento tiver sido aberto.
 
 Ministério da Saúde e Assistência, 23 de Junho de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

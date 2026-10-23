@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19500/0003800048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2024/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2024-890194534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55a7a8294d20cd5b2ad81bbf0b66eea2b67fa554d90dbe386c5c7496f72f81af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5b9aa919614bc00b3b1e904422f4445ebd9fccb37fb0748b4f1f023ed6202bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Consultor
+- Contratação de Pessoal
 - Criação de Serviços
 - Definição de Competências
-- Contratação de Pessoal
 - Entidade de Serviços Partilhados da Administração Pública
 - Orgânica
 - Pessoal Administrativo
-- Presidência do Conselho de Ministros
+- Pessoal Dirigente
 - PlanAPP
+- Presidência do Conselho de Ministros
 - REPLAN
 relationships:
 - type: amended_by
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/153-a/2021/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/153-a/2021/07/19/p/dre
+- type: cites
+  target: pt:dre:159432384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167610827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:21/2021
+  label: Revoga, a partir de 9 de outubro de 2024, nos termos da alínea a) do artigo 24.º do presente diploma, o Decreto-Lei
+    n.º 21/2021, de 15 de março, Diário da República n.º 51/2021, Série I
+  source: null
+  date: '2021-03-15'
+- type: repeals
+  target: pt:numero:portaria:153-A/2021
+  label: Revoga, a partir de 9 de outubro de 2024, nos termos da alínea b) do artigo 24.º do presente diploma, a Portaria
+    n.º 153-A/2021, de 19 de julho, Diário da República n.º 138/2021, 2º Suplemento, Série I
+  source: null
+  date: '2021-07-19'
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:02Z'
   warnings: []
   errors: []
 ---
@@ -451,7 +491,7 @@ O estatuto remuneratório dos dirigentes superiores do PLANAPP consta do anexo i
 
 1 - A comissão de serviço do diretor-geral mantém-se pela duração remanescente e com as condições resultantes da entrada em vigor do presente decreto-lei, não se aplicando o regime previsto no artigo 10.º do [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho.
 
-2 - Sem prejuízo dos deveres decorrentes do disposto nos n.<sup>os</sup>3, 4 e 5 do artigo 6.º, as comissões de serviço dos atuais consultores do PLANAPP mantêm-se pela duração remanescente e com as condições vigentes no momento da respetiva nomeação.
+2 - Sem prejuízo dos deveres decorrentes do disposto nos n.os3, 4 e 5 do artigo 6.º, as comissões de serviço dos atuais consultores do PLANAPP mantêm-se pela duração remanescente e com as condições vigentes no momento da respetiva nomeação.
 
 ###### Artigo 24.º — Norma revogatória
 
@@ -467,15 +507,15 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de setembro de 2024. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento - António Leitão Amaro.
 
-**Promulgado em 4 de outubro de 2024.**
+Promulgado em 4 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de outubro de 2024.**
+Referendado em 7 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 21.º)
 
@@ -490,7 +530,11 @@ Mapa de pessoal dirigente
 
 Estatuto remuneratório do pessoal dirigente
 
-| Cargo | Remuneração base mensal (RBM) | Despesas de representação (percentagem da RBM do respetivo cargo) |
+| Cargo | Remuneração base mensal (RBM) | Despesas de representação<br>(percentagem da RBM do respetivo cargo) |
 | --- | --- | --- |
 | Diretor-geral | 100 % do nível remuneratório 80 da TRU | 25 % |
 | Subdiretor-geral | 85 % da RBM/DG | 20 % |
+
+118197845
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:21px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:18px; } .Tbl13 { text-decoration:none; text-align:center; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

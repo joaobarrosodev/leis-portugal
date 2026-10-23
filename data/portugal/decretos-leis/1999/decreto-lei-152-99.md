@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/108a00/24092412.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/1999/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1999-331175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 730e149db8dadd48f493e99b6413b9d2215c42e0882e5f4d2b044c9e850458e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e82bd16a3721558491822c6cc0fe53f46d6aa3a07a7d706ad495078a1d414113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Financiamento
-- Carreira Técnica Superior
-- Pessoal Dirigente
-- Serviço Nacional de Protecção Civil
-- Comunicação Social
-- Cooperação Técnica
-- Informática
-- Catástrofe
-- Palop
-- Informação
-- Dados Estatísticos
 - Base de Dados
-- Forças Armadas
-- Orgânica
-- Plano de Emergência
-- Cooperação Internacional
-- Estatística
+- Carreira Técnica Superior
+- Catástrofe
+- Comunicação Social
 - Comunicações
+- Cooperação Internacional
+- Cooperação Técnica
+- Dados Estatísticos
+- Estatística
+- Financiamento
 - Força Paramilitar
-- Serviço Nacional de Bombeiros
+- Forças Armadas
+- Informação
+- Informática
 - Ministro da Administração Interna
+- Orgânica
+- Palop
+- Pessoal Dirigente
+- Plano de Emergência
+- Proteção Civil
+- Serviço Nacional de Bombeiros
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:231117:por
@@ -100,16 +100,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:257591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406330:por
+  label: "Rectificado pela DECL-RECT.10-AQ/99.1999.06.23.PCM, DR. IS-A [150]2ºSUPL de 30/Jun/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-aq-1999-406330
+  date: '1999-06-23'
+- type: repealed_by
+  target: pt:dre:231117:por
+  label: "Revogado o Dec Lei 203/93 de 03-Jun, com a redacção deste diploma, pelo DEC LEI.49/2003.2003.03.25.MAI DR.IS-A [71]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2003-231117
+  date: '2003-03-25'
 article_structure:
-  article_count: 21
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:36Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +161,9 @@ Os artigos 7.º, 8.º, 12.º, 15.º, 16.º, 18.º, 19.º, 21.º, 23.º, 24.º, 2
 
 2 - O SNPC depende do Ministro da Administração Interna.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 ...
 
@@ -162,7 +187,9 @@ i) Organizar o sistema nacional de aviso e alerta que integre os diversos servi�
 
 j) Assegurar a montagem e funcionamento de um centro de situação de protecção civil que acompanhe a evolução constante da situação nacional e assegure a intervenção oportuna do centro nacional de operações de emergência e o desencadeamento imediato das acções de emergência necessárias.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O SNPC é dirigido por um presidente, equiparado para todos os efeitos legais a director-geral, sendo coadjuvado por três vice-presidentes, equiparados a subdirectores-gerais.
 
@@ -178,7 +205,9 @@ d) ...
 
 e) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 ...
 
@@ -196,7 +225,9 @@ f) O Núcleo de Relações Internacionais e Cooperação;
 
 g) O Centro de Informação Pública.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +245,9 @@ a) ...
 
 b) A Divisão de Telecomunicações e Informática (DTI).
 
-###### Artigo 18.º — Divisão de Telecomunicações e Informática
+Artigo 18.º
+
+Divisão de Telecomunicações e Informática
 
 1 - À DTI compete:
 
@@ -234,7 +267,9 @@ g) Exercer as funções de administração das bases de dados e das redes de com
 
 2 - A DTI é dirigida por um chefe de divisão.
 
-###### Artigo 19.º — Departamento de Prevenção e Protecção das Populações
+Artigo 19.º
+
+Departamento de Prevenção e Protecção das Populações
 
 1 - Compete ao Departamento de Prevenção e Protecção das Populações (DPPP):
 
@@ -254,7 +289,9 @@ a) ...
 
 b) Divisão de Riscos Tecnológicos e de Regulamentação de Segurança (DRTRS).
 
-###### Artigo 21.º — Divisão de Riscos Tecnológicos e de Regulamentação de Segurança
+Artigo 21.º
+
+Divisão de Riscos Tecnológicos e de Regulamentação de Segurança
 
 1 - Compete à DRTRS:
 
@@ -266,7 +303,9 @@ c) ...
 
 2 - A DRTRS é dirigida por um chefe de divisão.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +327,9 @@ h) ...
 
 2 - A IPC é dirigida por um vice-presidente.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -302,7 +343,9 @@ d) Elaborar estudos e pareceres nas áreas financeira, patrimonial e de recursos
 
 2 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -318,7 +361,9 @@ c) ...
 
 d) A Secção de Serviços Gerais (SSG).
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Compete à Secção de Aprovisionamento (SA):
 
@@ -334,7 +379,9 @@ e) Elaborar propostas de abate e de alienação de material dispensável.
 
 2 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O pessoal dirigente é escolhido, atendendo ao disposto no artigo 24.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, de entre os titulares de licenciatura ou bacharelato com experiência de protecção civil ou de oficiais das Forças Armadas ou das forças de segurança ou individualidades de reconhecido mérito no exercício de funções de direcção ou de comando de organizações de bombeiros ou de protecção civil.
 
@@ -350,7 +397,7 @@ São aditados ao [Decreto-Lei n.º 203/93](https://diariodarepublica.pt/dr/detal
 
 «Artigo 29.º-A
 
-#### Secção de Serviços Gerais
+Secção de Serviços Gerais
 
 1 - Compete à SSG:
 
@@ -366,7 +413,9 @@ e) Coordenar a actividade do pessoal auxiliar.
 
 2 - A SSG é chefiada por um chefe de secção.
 
-###### Artigo 29.º-B — Núcleo de Relações Internacionais e Cooperação
+Artigo 29.º-B
+
+Núcleo de Relações Internacionais e Cooperação
 
 1 - Compete ao Núcleo de Relações Internacionais e Cooperação (NRIC):
 
@@ -380,7 +429,9 @@ d) Participar activamente nos programas de actividades de protecção civil das 
 
 2 - O NRIC é dirigido por um director de serviços.
 
-###### Artigo 29.º-C — Centro de Informação Pública
+Artigo 29.º-C
+
+Centro de Informação Pública
 
 1 - Compete ao Centro de Informação Pública (CIP):
 
@@ -396,7 +447,7 @@ d) Promover a realização periódica de seminários, conferências e reuniões 
 
 ###### Artigo 3.º
 
-**O presidente do SNPC pode credenciar pessoas singulares ou colectivas para, como colaboradores, terem livre acesso aos locais dos sinistros ou procederem a trabalhos específicos, de acordo com o modelo a aprovar por portaria do Ministro da Administração Interna.**
+O presidente do SNPC pode credenciar pessoas singulares ou colectivas para, como colaboradores, terem livre acesso aos locais dos sinistros ou procederem a trabalhos específicos, de acordo com o modelo a aprovar por portaria do Ministro da Administração Interna.
 
 ###### Artigo 4.º
 
@@ -418,12 +469,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

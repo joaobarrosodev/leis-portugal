@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/324/2003/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f91fac302682303737c3611d912cbad1c6fb8ecb41b6bdcd5aec1b4cf645f2f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82a347203c953ee8ac92ce999f1978f96caecb0d31dad3b20e51cc411158d899
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,47 +68,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Declarativo
 - Acesso ao Direito
-- Processo Civil
-- Processo Penal
+- Agente de Execução
+- Cobrança de Dívidas
 - Código das Custas Judiciais
 - Código de Processo Penal
 - Código do Processo Civil
 - Cofre Geral dos Tribunais
-- Multa
-- Sistema Judicial
 - Correio Electrónico
+- Custas Judiciais
+- Direito à Justiça
+- Documento Eletrónico
 - Emolumento
 - Exame Médico-forense
+- Execução de Sentença
 - Execução Fiscal
-- Pagamento
-- Direito à Justiça
+- Execução por Dívidas
 - Imposto de Justiça
 - Injunção
 - Isenção de Taxas e Emolumentos
-- Documento Eletrónico
-- Execução de Sentença
+- Ministério Público
+- Multa
 - Notificação
+- Pagamento
 - Prazo
-- Supremo Tribunal de Justiça
 - Processo Administrativo
 - Processo Administrativo Contencioso
+- Processo Civil
+- Processo de Execução
+- Processo Declarativo
 - Processo Judicial
+- Processo Penal
 - Processo Tributário
 - Prova
 - Reclamação
-- Cobrança de Dívidas
+- Recurso
 - Reembolso
-- Execução por Dívidas
-- Ministério Público
-- Processo de Execução
-- Agente de Execução
+- Sistema Judicial
 - Solicitador
 - Supremo Tribunal Administrativo
+- Supremo Tribunal de Justiça
 - Taxa
-- Custas Judiciais
 - Tribunal da Relação
 - Tribunal Tributário
 relationships:
@@ -116,6 +116,70 @@ relationships:
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233745:por
+  label: "Alterado o art. 19º do Regime Anexo ao Dec Lei 269/98 de 01-Set, na redacção do presente diploma, pelo DEC LEI.107/2005.01.07.2005.MJ,\
+    \ DR.IS-A [125] de 01.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2005-233745
+  date: '2005-07-01'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 40º e 131º do Código das Custas Judiciais aprovado pelo Dec Lei 224-A/96 de 26-Nov, com a redacção\
+    \ conferida pelo presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 95º, 124º, 131º e 142º do Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96 de 26-Nov,\
+    \ alterado e republicado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigo 11.º, e 12.º, os artigo 150.º,\
+    \ 150.º-A, 152.º, 229.º-A, 254.º, 260.º-A e 486.º-A, do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de\
+    \ 28 de Dezembro de 1961, na redacção do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:641082:por
+  label: "Alterado a partir de 15.09.2007, o art 101º do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, na\
+    \ redacção do presente diploma, pela LEI.48/2007.29.08.2007.AR, DR.IS [166] de 29.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2007-641082
+  date: '2007-08-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 19.º do Regime Anexo do Decreto-Lei 269/98, de 01 de Setembro, na redacção do presente diploma,\
+    \ pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterados, a partir de 20.04.2009, os arts. 145º, 152º, 150º-A e 486º-A e revogado o art. 512º-B do Código de Processo\
+    \ Civil, aprovado pelo Dec Lei 44129, de 28-Dez de 1961, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ,\
+    \ DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 3.º do Dec Lei 200/2003, de 10-Set, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ,\
+    \ DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:455152:por
+  label: "Declara a inconstitucionalidade, com força obrigatória geral, do nº2 do art. 13º do Código das Custas Judiciais,\
+    \ aprovado pelo Dec Lei 224-A/96, de 26-Nov, na redacção do presente diploma, pelo AC.375/2008.08.08.2008.TCS, DR.IS [153]\
+    \ de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/375-2008-455152
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:258493:por
+  label: Alterado o art. 101º do Código de Processo Penal, aprovado pelo Dec Lei 78/87, de 17-fev, na redação do presente
+    diploma, pela LEI.20/2013.21.02.2013.AR, DR.IS [37] de 21.02.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2013-258493
+  date: '2013-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2003/09/10/p/dre
   label: null
@@ -156,16 +220,287 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:147384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676039:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:569313:por
+  label: "Rectificado o art. 5.º [na parte que altera o nº 2 do art. 254.º do Código de Processo civil, aprovado pelo Dec\
+    \ Lei 44129 de 28-Dez 1961], art. 8.º [na parte que altera o nº 1 do art. 19.º do regime anexo ao Dec Lei 268/98 de 01-Set],\
+    \ anexo II [na parte que republica o nº 2 do art. 18.º do Código das Custas Judiciais], todos do presente diploma, pela\
+    \ DECL-RECT.26/2004.17.02.2004.PCM, DR.IS-A [46] de 24.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/26-2004-569313
+  date: '2004-02-17'
+- type: repealed_by
+  target: pt:dre:480519:por
+  label: "Revogado o nº 2 do art. 91º do Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96 de 26-Nov, na redacção\
+    \ do presente diploma e mantida esta disposição transitoriamente em vigor até à publicação da legislação prevista no art\
+    \ 8º da LEI.45/2004.19.08.2004.AR, DR.IS-A [195] de 19.08.2004,pelo mesmo diploma legal\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-2004-480519
+  date: '2004-08-19'
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96, de 26-Nov, alterado\
+    \ pelo presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: repealed_by
+  target: pt:dre:453247:por
+  label: "Revogado o art. 15º do Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96, de 26-Nov , na redacção do presente\
+    \ diploma, pelo DEC LEI.181/2008.28.08.2008.MJ, DR.IS [166] de 28.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2008-453247
+  date: '2008-08-28'
 article_structure:
-  article_count: 266
-  section_count: 41
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 175
+  section_count: 46
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:21Z'
   warnings: []
   errors: []
 ---
@@ -292,7 +627,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - As custas compreendem a taxa de justiça e os encargos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Sem prejuízo do disposto em lei especial, são unicamente isentos de custas:
 
@@ -314,7 +651,9 @@ h) [Anterior alínea p).]
 
 2 - Os representantes das instituições particulares de segurança social e das pessoas colectivas de utilidade pública administrativa são pessoalmente e entre si solidariamente responsáveis pelo pagamento de custas quando, vencida a representada, se mostre que actuaram no processo por interesses ou motivos estranhos às suas funções.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +681,9 @@ i) [Anterior alínea l).]
 
 4 - Quando o expropriado vencido no recurso seja isento de custas, suporta o expropriante os encargos respectivos.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +693,9 @@ i) [Anterior alínea l).]
 
 4 - O reembolso previsto no número anterior é efectuado na proporção do vencimento, sendo descontadas as custas que sejam da responsabilidade do vencedor.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -364,7 +707,9 @@ i) [Anterior alínea l).]
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -416,7 +761,9 @@ z) ...
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -444,13 +791,17 @@ l) ...
 
 m) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Nos recursos, o valor é o da sucumbência quando esta for determinável, devendo o recorrente indicar o seu valor no requerimento de interposição do recurso.
 
 2 - Se o valor da sucumbência não for determinável ou na falta da sua indicação, o valor do recurso é igual ao valor da acção.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Se, em face do processo, o valor for ilíquido, desconhecido ou parecer superior ao declarado pelas partes, nos casos em que a este deva atender-se, a secretaria indica o valor que lhe parecer exacto e o modo de o verificar.
 
@@ -458,7 +809,9 @@ m) ...
 
 3 - O juiz deve fixar, na sentença ou despacho final e relativamente a cada um dos sujeitos processuais, a percentagem do decaimento, quando este não seja determinável por mera operação aritmética.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos seguintes, a taxa de justiça é, para cada parte, a constante da tabela do anexo I, sendo calculada sobre o valor das acções, incidentes com a estrutura de acções, procedimentos cautelares ou recursos.
 
@@ -468,7 +821,9 @@ m) ...
 
 4 - Havendo, nos termos do número anterior, pluralidade subjectiva, os respectivos sujeitos processuais são solidariamente responsáveis pelo pagamento da totalidade da taxa de justiça da parte que integram.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A taxa de justiça é reduzida a metade, não sendo devida taxa de justiça subsequente, nos seguintes casos:
 
@@ -520,7 +875,9 @@ x) [Anterior alínea v) do n.º 1 do artigo 15.º]
 
 3 - Nas execuções interrompidas ou extintas após o termo das diligências que precedem a penhora, sem que o exequente pague ou indique bens para a penhora e sem que tenha havido qualquer intervenção do juiz de execução, nos termos do artigo 809.º do Código de Processo Civil, a taxa de justiça devida é apenas a prevista no n.º 2 do artigo 23.º
 
-###### Artigo 15.º — Redução especial da taxa de justiça
+Artigo 15.º
+
+Redução especial da taxa de justiça
 
 1 - A taxa de justiça inicial e subsequente devida pelas partes cujos mandatários optem pelo envio de todos os articulados, alegações, contra-alegações e requerimentos de prova através de correio electrónico ou de outro meio de transmissão electrónica de dados é reduzida em um décimo.
 
@@ -534,7 +891,9 @@ x) [Anterior alínea v) do n.º 1 do artigo 15.º]
 
 6 - O disposto no presente artigo não se aplica às execuções e aos processos de natureza penal.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Nas ocorrências estranhas ao desenvolvimento normal da lide que devam ser tributadas segundo os princípios que regem a condenação em custas e na incompetência relativa, nos impedimentos, nas suspeições, na habilitação, na falsidade, na produção antecipada de prova, no desentranhamento de documentos, bem como noutras questões incidentais não referidas no artigo 14.º, a taxa de justiça é fixada pelo juiz em função da sua complexidade, do valor da causa, do processado a que deu causa ou da sua natureza manifestamente dilatória, entre 1 UC e 20 UC.
 
@@ -542,7 +901,9 @@ x) [Anterior alínea v) do n.º 1 do artigo 15.º]
 
 3 - Sem prejuízo do disposto relativamente à litigância de má fé, se, até à elaboração da conta, o juiz não fixar o valor da taxa de justiça ou não dispensar do seu pagamento, o montante daquela será automaticamente fixado em metade do valor da taxa de justiça do processo, não podendo, no entanto, exceder o valor de 2 UC.
 
-###### Artigo 17.º — Taxa de justiça nas execuções em que seja designado solicitador de execução
+Artigo 17.º
+
+Taxa de justiça nas execuções em que seja designado solicitador de execução
 
 1 - Nas execuções em que seja designado solicitador de execução, a taxa de justiça devida é apenas a prevista no n.º 2 do artigo 23.º, sendo a mesma autoliquidada pelo exequente.
 
@@ -552,7 +913,9 @@ x) [Anterior alínea v) do n.º 1 do artigo 15.º]
 
 4 - O excesso eventualmente apurado é considerado a título de custas de parte, nos termos do artigo 33.º
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Nas causas directamente intentadas perante os tribunais superiores e nos recursos dirigidos ao Supremo Tribunal de Justiça, a taxa de justiça é calculada nos termos do artigo 13.º
 
@@ -560,7 +923,9 @@ x) [Anterior alínea v) do n.º 1 do artigo 15.º]
 
 3 - Nas reclamações para a conferência, nas reclamações do despacho que retiver ou rejeitar o recurso, nos recursos de decisões proferidas em incidentes e nos agravos de decisões interlocutórias que subam juntamente com outro recurso aplica-se o disposto no artigo 16.º
 
-###### Artigo 19.º — Redução da taxa de justiça no Supremo Tribunal de Justiça
+Artigo 19.º
+
+Redução da taxa de justiça no Supremo Tribunal de Justiça
 
 1 - A taxa de justiça no Supremo Tribunal de Justiça é reduzida a metade, não sendo devida taxa de justiça subsequente:
 
@@ -572,17 +937,23 @@ c) Nos recursos que subam juntamente com recurso de natureza penal.
 
 2 - Entende-se que a fase de julgamento do recurso começa com a prolação do despacho de vista aos juízes-adjuntos ou decisão equiparada.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Sem prejuízo do disposto no n.º 2 do artigo 16.º e no n.º 1 do artigo 17.º, nas acções, incidentes e recursos, a taxa de justiça do processo, ainda que sujeita a redução, não pode ser inferior a 1 UC.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Para promoção de acções e recursos, bem como nas situações previstas no artigo 14.º, é devido o pagamento da taxa de justiça inicial autoliquidada nos termos da tabela do anexo I.
 
 2 - Para promoção de execuções é devido o pagamento de uma taxa de justiça correspondente a 1/4 UC ou 1/2 UC, consoante a execução tenha valor igual ou inferior ao da alçada do tribunal da relação ou superior ao mesmo, aplicando-se, com as devidas adaptações, o regime da taxa de justiça inicial.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -598,7 +969,9 @@ c) ...
 
 4 - Os prazos referidos nos números anteriores não se suspendem nos sábados, domingos e feriados, bem como nas férias judiciais.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O montante da taxa de justiça subsequente é igual ao da taxa de justiça inicial, sendo autoliquidada nos termos da tabela do anexo I.
 
@@ -606,7 +979,9 @@ c) ...
 
 3 - As notificações referidas no artigo seguinte devem mencionar expressamente a dispensa do pagamento da taxa de justiça subsequente, sem prejuízo de a mesma poder ser invocada pelas partes.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O documento comprovativo do pagamento da taxa de justiça subsequente referida no artigo anterior é entregue ou remetido ao tribunal no prazo de 10 dias a contar:
 
@@ -616,7 +991,9 @@ b) Nos recursos, da notificação do despacho que mande inscrever o processo em 
 
 2 - É aplicável à taxa de justiça subsequente o disposto nos n.os 2 a 4 do artigo 24.º
 
-###### Artigo 27.º — Limite das taxas de justiça inicial e subsequente
+Artigo 27.º
+
+Limite das taxas de justiça inicial e subsequente
 
 1 - Nas causas de valor superior a 250000 não é considerado o excesso para efeito do cálculo do montante da taxa justiça inicial e subsequente.
 
@@ -626,11 +1003,15 @@ b) Nos recursos, da notificação do despacho que mande inscrever o processo em 
 
 4 - Quando o processo termine antes de concluída a fase de discussão e julgamento da causa não há lugar ao pagamento do remanescente.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 A omissão do pagamento das taxas de justiça inicial e subsequente dá lugar à aplicação das cominações previstas na lei de processo.
 
-###### Artigo 29.º — Dispensa de pagamento prévio de taxas de justiça inicial e subsequente
+Artigo 29.º
+
+Dispensa de pagamento prévio de taxas de justiça inicial e subsequente
 
 1 - Estão dispensados do pagamento prévio das taxas de justiça inicial e subsequente:
 
@@ -672,11 +1053,15 @@ h) Nas reclamações da conta.
 
 4 - Não há lugar ao pagamento prévio de taxa de justiça subsequente nos inventários, nas falências e nos casos previstos no n.º 2 do artigo 25.º
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 As taxas de justiças não abrangidas pelos artigos 23.º, 25.º e 29.º e o excesso cobrado são apuradas na conta.
 
-###### Artigo 31.º — Reembolso e devolução de taxa de justiça
+Artigo 31.º
+
+Reembolso e devolução de taxa de justiça
 
 1 - Sem prejuízo do disposto nos números seguintes, as taxas de justiça pagas por cada parte integram as custas de parte, nos termos do artigo 33.º
 
@@ -684,7 +1069,9 @@ As taxas de justiças não abrangidas pelos artigos 23.º, 25.º e 29.º e o exc
 
 3 - Não é devolvida taxa de justiça de valor igual ou inferior a metade de 1 UC.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - As custas compreendem os seguintes encargos:
 
@@ -710,7 +1097,9 @@ f) O custo da citação por funcionário judicial no caso de o autor declarar pr
 
 6 - (Actual n.º 4.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - As custas de parte compreendem o que a parte haja despendido com o processo a que se refere a condenação e de que tenha direito a ser compensada em virtude da mesma, designadamente:
 
@@ -732,11 +1121,15 @@ e) As remunerações pagas ao solicitador de execução, as despesas por ele efe
 
 5 - A sentença constitui título executivo, designadamente no que respeita às custas de parte.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 Não sendo disponibilizado transporte pelas partes ou pelo tribunal, são pagas aos intervenientes acidentais que o exijam até ao encerramento da audiência as despesas de deslocação em transporte colectivo público ou o custo dos quilómetros percorridos, ao preço unitário de 1/400 de 1 UC.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -746,7 +1139,9 @@ Não sendo disponibilizado transporte pelas partes ou pelo tribunal, são pagas 
 
 4 - Em caso de falta de pagamento da compensação prevista no n.º 1, podem as testemunhas requerer ao Ministério Público que instaure a execução por custas, nos termos do n.º 3 do artigo 116.º
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Sem prejuízo do disposto no regime do acesso ao direito e aos tribunais, a parte vencedora, na proporção em que o seja, tem direito a receber do vencido, desistente ou confitente, na primeira instância e nos tribunais superiores, salvo nos incidentes, uma quantia a título de procuradoria.
 
@@ -762,13 +1157,17 @@ Não sendo disponibilizado transporte pelas partes ou pelo tribunal, são pagas 
 
 7 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A procuradoria é arbitrada pelo tribunal, tendo em atenção o valor, a complexidade da causa, o volume e a natureza da actividade desenvolvida e ainda a situação económica do responsável, entre um décimo e um quarto da taxa de justiça devida.
 
 2 - Quando o tribunal a não arbitre, a procuradoria é igual a um décimo da taxa de justiça devida, sem prejuízo do disposto no n.º 5 do artigo 33.º
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os preparos para despesas destinam-se ao pagamento dos encargos referidos nas alíneas b) a d) do n.º 1 e no n.º 5 do artigo 32.º, bem como dos relativos à transcrição das provas produzidas oralmente.
 
@@ -776,7 +1175,9 @@ Não sendo disponibilizado transporte pelas partes ou pelo tribunal, são pagas 
 
 3 - No termo da diligência a que se destinam os preparos para despesas, procede-se à respectiva liquidação do depósito, efectuando-se, após o termo da fase de discussão e julgamento da causa, os pagamentos e devoluções a que haja lugar.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -786,7 +1187,9 @@ Não sendo disponibilizado transporte pelas partes ou pelo tribunal, são pagas 
 
 4 - (Revogado.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes e no artigo 46.º, a falta de pagamento do preparo para despesas implica, conforme os casos:
 
@@ -804,11 +1207,15 @@ e) A não transcrição das provas produzidas oralmente.
 
 3 - ...
 
-###### Artigo 48.º — Responsabilidade pelos encargos no caso de anulação do processado
+Artigo 48.º
+
+Responsabilidade pelos encargos no caso de anulação do processado
 
 No caso de anulação de diligências ou de processado em consequência de decisão de tribunal superior, as despesas com a deslocação e a remuneração devida aos intervenientes acidentais são adiantadas pelo Cofre Geral dos Tribunais e pagas pela parte a quem for imputável a anulação, havendo-a.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -816,7 +1223,9 @@ No caso de anulação de diligências ou de processado em consequência de decis
 
 3 - ...
 
-###### Artigo 51.º — Elaboração da conta provisória
+Artigo 51.º
+
+Elaboração da conta provisória
 
 1 - A secção procede à contagem dos processos que impliquem o pagamento de custas.
 
@@ -834,11 +1243,15 @@ c) As execuções que devam ser remetidas para apensação ao processo de falên
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 Quando houver pagamentos a efectuar pelo tribunal, no caso de graduação de créditos, far-se-á a liquidação do julgado na altura em que o processo for contado pela primeira vez.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A conta é elaborada de harmonia com o julgado em última instância, abrangendo as custas da acção, dos incidentes e dos recursos, com excepção das custas de parte e da procuradoria, salvo nos casos em que as mesmas devam ser consideradas na conta.
 
@@ -848,19 +1261,25 @@ Quando houver pagamentos a efectuar pelo tribunal, no caso de graduação de cr�
 
 4 - (Revogado.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Se o pagamento não estiver comprovado por documento junto ao processo, são incluídas na conta as indemnizações e as contribuições devidas a instituições de segurança e previdência social relativas a retribuições salariais depositadas em juízo.
 
 2 - As quantias referidas no número anterior são equiparadas, para efeito de cobrança e de rateio, às custas de parte.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
 2 - Se o interessado estiver presente, os papéis e actos avulsos são imediatamente contados; no caso de o requerimento ser feito pelo correio, o pagamento é efectuado por qualquer meio adequado.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - A conta deve conter os elementos indispensáveis à realização dos pagamentos, os quais ficam documentados no processo.
 
@@ -884,7 +1303,9 @@ g) Determinação do valor a pagar, encerrando com a menção da data e assinatu
 
 4 - A devolução prevista no n.º 2 do artigo 31.º fica documentada no processo.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -896,7 +1317,9 @@ g) Determinação do valor a pagar, encerrando com a menção da data e assinatu
 
 5 - No processo é devidamente documentada a notificação.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -908,13 +1331,17 @@ b) Pelo que tiver a receber quaisquer importâncias, até ao seu recebimento, sa
 
 c) Pelo Ministério Público, no prazo de 10 dias a contar da notificação a que se refere o n.º 4 do artigo anterior.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Apresentada a reclamação da conta, o contador pronuncia-se no prazo de cinco dias, indo, depois, o processo com vista ao Ministério Público; em seguida, o juiz decide.
 
 2 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, o prazo de pagamento voluntário das custas é de 10 dias, a que acresce a seguinte dilação:
 
@@ -930,7 +1357,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Sempre que o montante das custas seja superior a 4 UC, pode o juiz, no seu prudente arbítrio, a requerimento do responsável, no prazo de pagamento voluntário, autorizar o pagamento em prestações mensais não inferiores a 1 UC, até ao período máximo de 12 meses.
 
@@ -938,13 +1367,17 @@ c) ...
 
 3 - ...
 
-###### Artigo 69.º — Pagamentos
+Artigo 69.º
+
+Pagamentos
 
 1 - Sempre que tal se mostre necessário, a secção de processos procede aos pagamentos de harmonia com a ordem de preferência a que se refere o artigo 71.º
 
 2 - Os processos cujas contas só impliquem estornos são lançados nos cinco dias posteriores ao termo do prazo de reclamação da conta.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 Os pagamentos são realizados pela seguinte ordem de preferência:
 
@@ -958,11 +1391,15 @@ d) Custas de parte;
 
 e) Créditos de outras entidades.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 Realizados os pagamentos a que se referem as alíneas a) a c) do artigo anterior, o valor remanescente é rateado pelos restantes credores, respeitando a ordem de preferência definida no mesmo artigo.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - A taxa de justiça, que seja condição de abertura da instrução, de constituição de assistente ou de seguimento de recurso, deve ser autoliquidada e o documento comprovativo do seu pagamento junto ao processo com a apresentação do requerimento na secretaria ou no prazo de 10 dias a contar da sua formulação no processo.
 
@@ -974,7 +1411,9 @@ Realizados os pagamentos a que se referem as alíneas a) a c) do artigo anterior
 
 5 - Aplica-se ao documento comprovativo referido nos números anteriores o disposto nos n.os 2 a 4 do artigo 24.º
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
@@ -982,17 +1421,23 @@ Realizados os pagamentos a que se referem as alíneas a) a c) do artigo anterior
 
 3 - ...
 
-###### Artigo 83.º — Taxa de justiça devida pela instrução e pela constituição de assistente
+Artigo 83.º
+
+Taxa de justiça devida pela instrução e pela constituição de assistente
 
 1 - Pela abertura da instrução e pela constituição de assistente é devida taxa de justiça correspondente a 2 UC.
 
 2 - Se o arguido não for pronunciado por todos ou alguns crimes constantes da acusação que o assistente haja deduzido, é devida taxa de justiça pelo assistente, fixada pelo juiz no final da instrução, entre 2 UC e 10 UC.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 Nos incidentes de recusa, de anulação do processado, de apoio judiciário, de habeas corpus e de reclamação para a conferência, bem como noutras questões legalmente configuradas como incidentes e nas ocorrências estranhas ao desenvolvimento normal do processo que devam ser tributadas segundo os princípios que regem a condenação, é devida taxa de justiça entre 1 UC e 5 UC.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - A taxa de justiça na 1.ª instância é a seguinte:
 
@@ -1022,13 +1467,17 @@ f) ...
 
 4 - ...
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Pela interposição de qualquer recurso ordinário ou extraordinário é devida taxa de justiça correspondente a 2 UC.
 
 2 - Nas reclamações para a conferência, nas reclamações do despacho que retiver ou rejeitar o recurso, nos recursos de decisões proferidas em incidentes e nos agravos de decisões interlocutórias que subam juntamente com outro recurso aplica-se o disposto no artigo 84.º
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - A taxa de justiça a fixar na decisão dos recursos é a seguinte:
 
@@ -1044,7 +1493,9 @@ c) Nos recursos de decisões proferidas por autoridades administrativas em proce
 
 4 - ...
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - As custas compreendem os seguintes encargos:
 
@@ -1064,7 +1515,9 @@ e) [Actual alínea g).]
 
 4 - Todas as despesas suportadas pelo Cofre Geral dos Tribunais, mesmo respeitantes à fase de inquérito, ficam documentadas no processo.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -1074,7 +1527,9 @@ e) [Actual alínea g).]
 
 4 - A remuneração dos peritos estabelecida no n.º 1 pode ser actualizada por portaria do Ministro da Justiça.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -1082,7 +1537,9 @@ e) [Actual alínea g).]
 
 3 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -1094,11 +1551,15 @@ e) [Actual alínea g).]
 
 5 - No caso de haver pedido cível ou arresto, a secção de processos elabora, no prazo de 10 dias, a conta e a liquidação.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 À notificação e à reclamação da conta e da liquidação aplica-se, com as necessárias adaptações, o disposto nos artigos 59.º a 61.º, 63.º e 64.º
 
-###### Artigo 102.º — Multas aplicáveis em processos cíveis, administrativos, tributários e criminais
+Artigo 102.º
+
+Multas aplicáveis em processos cíveis, administrativos, tributários e criminais
 
 As multas aplicáveis em processos cíveis, administrativos, tributários e criminais são fixadas, sem qualquer adicional, entre os seguintes limites:
 
@@ -1106,13 +1567,17 @@ a) Para os litigantes de má fé, de 2 UC a 100 UC;
 
 b) Para quaisquer outros casos não especialmente regulados na lei, de 1 UC a 10 UC.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - A liquidação e pagamento das multas a que se refere o artigo anterior efectuam-se após o trânsito em julgado da decisão que as aplicou, nos termos e nos prazos estabelecidos para as custas em processo cível, administrativo, tributário e criminal, respectivamente, salvo se o responsável requerer, antes disso, o seu pagamento.
 
 2 - ...
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - Por cada citação mediante contacto pessoal, notificação, afixação de editais ou outra diligência avulsa, para além das despesas de transporte, é devida 1 UC.
 
@@ -1120,11 +1585,15 @@ b) Para quaisquer outros casos não especialmente regulados na lei, de 1 UC a 10
 
 3 - Quando os actos referidos no n.º 1 sejam praticados por solicitador de execução não são devidos os emolumentos fixados no mesmo.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 Pela confiança de processos a quem não seja mandatário constituído pelas partes no processo, magistrado do Ministério Público ou não exerça o patrocínio oficioso é devida metade de 1 UC.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - ...
 
@@ -1132,7 +1601,9 @@ Pela confiança de processos a quem não seja mandatário constituído pelas par
 
 3 - Sem prejuízo de depósito na conta do tribunal, o secretário é fiel depositário das importâncias pagas.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - ...
 
@@ -1144,7 +1615,9 @@ Pela confiança de processos a quem não seja mandatário constituído pelas par
 
 5 - No caso referido no número anterior, só o depósito da quantia exequenda à ordem da secretaria exonera o devedor, do que será advertido na primeira notificação a que haja lugar.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo seguinte, as execuções por custas, multas e outros valores contados são instauradas por apenso ao processo em que teve lugar a notificação para pagamento, autuando-se o requerimento inicial e observando-se os demais termos do processo comum.
 
@@ -1152,7 +1625,9 @@ Pela confiança de processos a quem não seja mandatário constituído pelas par
 
 3 - ...
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - O pagamento prévio da taxa de justiça é efectuado directamente na Caixa Geral de Depósitos ou através de sistema electrónico, a favor do Instituto de Gestão Financeira e Patrimonial da Justiça.
 
@@ -1168,7 +1643,9 @@ Pela confiança de processos a quem não seja mandatário constituído pelas par
 
 7 - A conta do Instituto de Gestão Financeira e Patrimonial da Justiça vence juros.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Revertem para o Cofre Geral dos Tribunais:
 
@@ -1208,7 +1685,9 @@ d) 80(por mil) para os Serviços Sociais do Ministério da Justiça.
 
 8 - No caso de não ser possível a reposição nos termos do número anterior, as entidades devedoras procederão à devolução das quantias em causa.
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - Os cheques para movimentação das contas são assinados, no Supremo Tribunal de Justiça e nas Relações, pelo secretário de tribunal superior e pelo secretário de justiça e, nos restantes tribunais, pelo secretário de justiça e pelo escrivão de direito da secção central ou, na falta deste, pelo escrivão de direito mais antigo da secretaria.
 
@@ -1216,7 +1695,9 @@ d) 80(por mil) para os Serviços Sociais do Ministério da Justiça.
 
 3 - ...
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - Perdem a validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do 3.º mês seguinte àquele em que foram passados.
 
@@ -1226,7 +1707,9 @@ d) 80(por mil) para os Serviços Sociais do Ministério da Justiça.
 
 4 - O prazo referido no n.º 1 não se suspende nos sábados, domingos e feriados, bem como nas férias judiciais.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 Sem prejuízo do disposto em normas especiais e da obrigação de reembolso, o Cofre Geral dos Tribunais suporta os seguintes encargos:
 
@@ -1244,7 +1727,9 @@ f) ...
 
 g) ...
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - No 1.º dia de cada mês, o secretário deve enviar à Direcção-Geral da Administração da Justiça relação dos funcionários da secretaria que no mês anterior cessaram funções ou nela ingressaram, ainda que a título precário, com a indicação da data em que se verificou a cessação ou o ingresso, da respectiva categoria e do lugar ocupado, das faltas injustificadas, das licenças sem vencimento e de outras circunstâncias que envolvam alteração de vencimento.
 
@@ -1270,7 +1755,9 @@ Pagamento das custas de parte
 
 6 - Em caso de falta de pagamento da nota discriminativa e justificativa, e quando a parte interessada não requeira, por qualquer outro motivo, a execução da sentença, pode a mesma requerer ao Ministério Público que instaure execução por custas, nos termos do n.º 3 do artigo 116.º
 
-###### Artigo 73.º-A — Regime das custas
+Artigo 73.º-A
+
+Regime das custas
 
 1 - O processo judicial administrativo está sujeito a custas, nos termos deste Código e da lei de processo administrativo.
 
@@ -1280,13 +1767,17 @@ Pagamento das custas de parte
 
 4 - As referências ao Supremo Tribunal de Justiça e aos tribunais da Relação, bem como as referências genéricas aos tribunais superiores, consideram-se feitas, consoante os casos, ao Supremo Tribunal Administrativo e ao Tribunal Central Administrativo.
 
-###### Artigo 73.º-B — Limites máximos
+Artigo 73.º-B
+
+Limites máximos
 
 1 - Nas causas do processo administrativo, cujo valor seja superior a (euro) 250000, o excesso não é considerado para efeitos do cálculo do montante da taxa de justiça do processo.
 
 2 - O disposto no número anterior é igualmente aplicável aos recursos em processo judicial administrativo e em processo judicial tributário cujo valor seja superior a (euro) 250000.
 
-###### Artigo 73.º-C — Isenções
+Artigo 73.º-C
+
+Isenções
 
 1 - Sem prejuízo do disposto no artigo 2.º, é unicamente isento de custas o impugnante, em caso de desistência no prazo legal após a revogação parcial do acto tributário impugnado.
 
@@ -1298,7 +1789,9 @@ b) Nos processos de intimação para a prestação de informações, consulta de
 
 c) Nos processos de intimação para protecção de direitos, liberdades e garantias.
 
-###### Artigo 73.º-D — Valor da causa para efeito de custas
+Artigo 73.º-D
+
+Valor da causa para efeito de custas
 
 1 - Sem prejuízo do disposto nos números seguintes, atende-se para efeitos de custas judiciais ao valor resultante da aplicação do Código de Processo nos Tribunais Administrativos e, subsidiariamente, ao resultante do disposto no título I.
 
@@ -1308,7 +1801,9 @@ c) Nos processos de intimação para protecção de direitos, liberdades e garan
 
 4 - Nos casos previstos no número anterior, atende-se, para efeitos de determinação do montante da taxa de justiça inicial e subsequente, ao valor correspondente à alçada dos tribunais administrativos de círculo.
 
-###### Artigo 73.º-E — Redução da taxa de justiça
+Artigo 73.º-E
+
+Redução da taxa de justiça
 
 1 - Sem prejuízo do disposto no artigo 16.º, a taxa de justiça é reduzida a metade, não sendo devida taxa de justiça subsequente, nos seguintes casos:
 
@@ -1330,7 +1825,9 @@ h) Nas questões relativas a execuções fiscais que sejam da competência dos t
 
 2 - O disposto no número anterior não prejudica a obrigatoriedade de pagamento de taxa de justiça devida pela interposição de recurso ou execução de sentença.
 
-###### Artigo 73.º-F — Execuções
+Artigo 73.º-F
+
+Execuções
 
 1 - Aplicam-se à execução de sentenças proferidas pelos tribunais administrativos as disposições relativas às execuções em que não seja designado solicitador de execução.
 
@@ -1340,7 +1837,9 @@ h) Nas questões relativas a execuções fiscais que sejam da competência dos t
 
 4 - A conta relativa às importâncias referidas no número anterior, a sua reforma e o respectivo pagamento são efectuados no serviço onde ocorrer o facto que determinou a sua elaboração.
 
-###### Artigo 81.º-A — Sanção pela prática extemporânea de actos
+Artigo 81.º-A
+
+Sanção pela prática extemporânea de actos
 
 1 - Quando o acto for praticado fora do prazo, o cálculo da multa aplicável é feito com base na taxa de justiça mínima correspondente à respectiva forma de processo.
 
@@ -1386,7 +1885,9 @@ Os artigos 145.º, 150.º, 152.º, 229.º-A, 254.º e 260.º-A do Código de Pro
 
 7 - ...
 
-###### Artigo 150.º — Apresentação a juízo dos actos processuais
+Artigo 150.º
+
+Apresentação a juízo dos actos processuais
 
 1 - Os actos processuais que devam ser praticados por escrito pelas partes são apresentados a juízo por uma das seguintes formas:
 
@@ -1410,7 +1911,9 @@ e) Envio através de outro meio de transmissão electrónica de dados.
 
 6 - (Revogado.)
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - ...
 
@@ -1428,13 +1931,17 @@ e) Envio através de outro meio de transmissão electrónica de dados.
 
 8 - A dispensa prevista no número anterior não é, porém, aplicável aos documentos, cujas cópias são sempre oferecidas pela parte que os apresenta.
 
-###### Artigo 229.º-A — [...]
+Artigo 229.º-A
+
+[...]
 
 1 - ...
 
 2 - O mandatário judicial que só assuma o patrocínio na pendência do processo indicará o seu domicílio profissional e, se for o caso, o respectivo endereço de correio electrónico ao mandatário judicial da contraparte.
 
-###### Artigo 254.º — [...]
+Artigo 254.º
+
+[...]
 
 1 - ...
 
@@ -1448,7 +1955,9 @@ e) Envio através de outro meio de transmissão electrónica de dados.
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 260.º-A — [...]
+Artigo 260.º-A
+
+[...]
 
 1 - ...
 
@@ -1474,7 +1983,9 @@ Comprovativo do pagamento de taxa de justiça
 
 4 - Nos casos previstos no número anterior, a citação só é efectuada após a junção aos autos do referido documento comprovativo.
 
-###### Artigo 486.º-A — Documento comprovativo do pagamento da taxa de justiça
+Artigo 486.º-A
+
+Documento comprovativo do pagamento da taxa de justiça
 
 1 - É aplicável à contestação, com as necessárias adaptações, o disposto no n.º 3 do artigo 467.º, podendo o réu, se estiver a aguardar decisão sobre a concessão do benefício de apoio judiciário na modalidade de dispensa total ou parcial do prévio pagamento da taxa de justiça inicial, juntar apenas o documento comprovativo da apresentação do respectivo requerimento.
 
@@ -1490,7 +2001,9 @@ Comprovativo do pagamento de taxa de justiça
 
 7 - Não sendo efectuado o pagamento omitido não é devida qualquer multa.
 
-###### Artigo 512.º-B — Omissão do pagamento das taxas de justiça
+Artigo 512.º-B
+
+Omissão do pagamento das taxas de justiça
 
 1 - Sem prejuízo do disposto quanto à petição inicial e à contestação, se o documento comprovativo do pagamento da taxa de justiça subsequente ou da concessão do benefício do apoio judiciário não tiver sido junto ao processo no momento definido para esse efeito, a secretaria notifica o interessado para, no prazo de 10 dias, efectuar o pagamento omitido, acrescido de multa de igual montante, mas não inferior a 1 UC nem superior a 10 UC.
 
@@ -1498,7 +2011,9 @@ Comprovativo do pagamento de taxa de justiça
 
 3 - Se a parte se encontrar a aguardar decisão sobre a concessão do apoio judiciário na modalidade de dispensa total ou parcial do prévio pagamento da taxa de justiça, deve, em alternativa, juntar o documento comprovativo da apresentação do respectivo requerimento.
 
-###### Artigo 690.º-B — Omissão do pagamento das taxas de justiça
+Artigo 690.º-B
+
+Omissão do pagamento das taxas de justiça
 
 1 - Se o documento comprovativo do pagamento da taxa de justiça inicial ou subsequente ou da concessão do benefício do apoio judiciário não tiver sido junto ao processo no momento definido para esse efeito, a secretaria notifica o interessado para, em 10 dias, efectuar o pagamento omitido, acrescido de multa de igual montante, mas não inferior a 1 UC nem superior a 10 UC.
 
@@ -1520,7 +2035,9 @@ Os artigos 101.º e 519.º do Código de Processo Penal, aprovado pelo [Decreto-
 
 3 - ...
 
-###### Artigo 519.º — [...]
+Artigo 519.º
+
+[...]
 
 1 - A constituição de assistente dá lugar ao pagamento de taxa de justiça, no montante fixado no Código das Custas Judiciais, a qual é levada em conta no caso de o assistente ser, a final, condenado em nova taxa.
 
@@ -1624,15 +2141,15 @@ O Código das Custas Judiciais, com a redacção resultante da presente alteraç
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 15 de Dezembro de 2003.**
+Promulgado em 15 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Dezembro de 2003.**
+Referendado em 16 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Tabelas
 
@@ -1640,7 +2157,7 @@ Tabela de taxa de justiça
 
 (a que se referem os artigos 13.º, 23.º e 25.º do Código das Custas Judiciais)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
 
 Para além de (euro) 250000, à taxa de justiça do processo acresce, por cada (euro) 25000 ou fracção, 5 UC, a final.
 
@@ -1648,13 +2165,13 @@ Tabela de taxa de justiça para promoção de execuções
 
 (a que se refere o n.º 2 do artigo 23.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
 
 Tabela de taxas de justiça criminais
 
 (a que se referem o n.º 1 do artigo 80.º, o n.º 1 do artigo 83.º e o artigo 86.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
 
 ## ANEXO II — CÓDIGO DAS CUSTAS JUDICIAIS
 
@@ -3080,23 +3597,33 @@ d) 80(por mil) para os Serviços Sociais do Ministério da Justiça.
 
 (Revogado.)
 
-###### Artigo 133.º — Livro de registo de contas
+###### Artigo 133.º
+
+## Livro de registo de contas
 
 (Revogado.)
 
-###### Artigo 134.º — Livro de pagamentos
+###### Artigo 134.º
+
+## Livro de pagamentos
 
 (Revogado.)
 
-###### Artigo 135.º — Livro de conta corrente com as dotações orçamentais
+###### Artigo 135.º
+
+## Livro de conta corrente com as dotações orçamentais
 
 (Revogado.)
 
-###### Artigo 136.º — Livro de emolumentos de actos avulsos
+###### Artigo 136.º
+
+## Livro de emolumentos de actos avulsos
 
 (Revogado.)
 
-###### Artigo 137.º — Livro de contas correntes-processos
+###### Artigo 137.º
+
+## Livro de contas correntes-processos
 
 (Revogado.)
 
@@ -3212,7 +3739,7 @@ Tabela de taxa de justiça
 
 (a que se referem os artigos 13.º, 23.º e 25.º do Código das Custas Judiciais)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
 
 Para além de (euro) 250000, à taxa de justiça do processo acresce, por cada (euro) 25000 ou fracção, 5 UC, a final.
 
@@ -3220,10 +3747,10 @@ Tabela de taxa de justiça para promoção de execuções
 
 (a que se refere o n.º 2 do artigo 23.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
 
 Tabela de taxas de justiça criminais
 
 (a que se referem o n.º 1 do artigo 80.º, o n.º 1 do artigo 83.º e o artigo 86.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)](https://files.diariodarepublica.pt/1s/2003/12/298a00/86968737.pdf)

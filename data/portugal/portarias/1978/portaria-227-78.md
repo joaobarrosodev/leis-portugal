@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-1978-425550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9b6b2ba659f048b1ddfad488853beef60d60d09da5b33bad7f98f1ff2894328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02697a9f986a03d500c6be73ecd54718b05030f0d6369c95cd2c846aa7935050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Centro de Apoio Social
+- Centro Social
+- Integração de Trabalhadores
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297417:por
+  label: Alterada a composição do grupo 3 «Pessoal auxiliar», referido na alínea f) do n.º 1 pelo(a) Portaria n.º 394/78 -
+    Diário da República n.º 165/1978, Série I de 1978-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-1978-297417
+  date: '1978-07-20'
+- type: cites
+  target: pt:dre:250598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:36:00Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +158,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 a) O grupo 1.1 «De serviço social» passa a ter a composição que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
 
 b) O grupo 1.2 «De educação» passa a ter a seguinte composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
 
 c) No subgrupo 1.5.1 «Carreira de enfermagem de saúde pública» são criados mais três lugares de subchefe de serviço de enfermagem regional e mais nove no conjunto dos lugares de enfermeiro de saúde pública de 1.ª, 2.ª e 3.ª classes e auxiliar de enfermagem de saúde pública;
 
@@ -115,11 +172,11 @@ e) No grupo 2.2 «Carreira administrativa» são criados mais um lugar de primei
 
 f) O grupo 3 «Pessoal auxiliar» passa a ter a seguinte composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
 
 g) O grupo 4 «Lugares a extinguir quando vagarem» passa a ter a composição que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf))](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/09400/07590760.pdf)
 
 2 - O sistema de fases a que se refere a alínea b) do artigo 1.º produz efeitos desde a entrada em vigor do [Decreto n.º 604/76](https://diariodarepublica.pt/dr/detalhe/decreto/604-1976-430661), de 24 de Julho, e fica sujeito à regulamentação estabelecida e a estabelecer pelo Ministério da Educação e Cultura para cumprimento do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
 

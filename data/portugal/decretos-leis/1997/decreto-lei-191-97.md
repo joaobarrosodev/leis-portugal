@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/173a00/38693872.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/191/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1997-144842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ab031f280ab6b939abb163748f07b85345792b355b6428024371395d6e5ce5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e78dda74f0c16be2d27000f345e0d6a0bfc062720c63f5dc5ac02a1e3ae7b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Região Autónoma
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Doença Animal
+- Aquicultura
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- União Europeia
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
+- Doença Animal
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Instituto de Investigação das Pescas e do Mar
-- Aquicultura
-- Molusco
 - Madeira.região Autónoma
+- Molusco
+- Região Autónoma
 - Regulamento
-- Açores
 - Saúde Animal
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:491908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:244946:por
+  label: "Alterada a al. a) do nº 1 e o nº 2 do art. 3º e o nº 2 do art. 4º do anexo A, pelo DEC LEI.299/98.1998.09.28.MADRP\
+    \ DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1998-244946
+  date: '1998-09-28'
 - type: cites
   target: celex:31991L0067
   label: null
@@ -96,16 +102,22 @@ relationships:
   target: celex:31995L0070
   label: null
   source: http://data.europa.eu/eli/dir/1995/70/oj
+- type: repealed_by
+  target: pt:dre:491908:por
+  label: "Revogado o presente diploma, na redacção dada pelo Dec Lei 299/98, de 28-Set, pelo DEC LEI.152/2009.02.07.2009.MADRP,\
+    \ DR.IS [126] de 02.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2009-491908
+  date: '2009-07-02'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:40Z'
   warnings: []
   errors: []
 ---
@@ -188,15 +200,15 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 11 de Julho de 1997.**
+Promulgado em 11 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Julho de 1997.**
+Referendado em 18 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A — Regulamento das Medidas Comunitárias Mínimas de Controlo de Certas Doenças dos Moluscos Bivalves
 
@@ -262,7 +274,7 @@ b) Averiguar se saíram moluscos da exploração, zona de exploração ou viveir
 
 2 - O laboratório comunitário de referência é o que consta do anexo D.
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173a00/38693872.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173a00/38693872.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173a00/38693872.pdf)
 
 ## ANEXO C — Laboratórios nacionais de referência para as doenças dos moluscos bivalves
 

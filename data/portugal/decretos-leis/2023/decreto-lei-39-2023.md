@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10400/0001000039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2023/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2023-213706995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6c0655d08492232cfaafd3daabd4a763b6b48eaa1f7e0bdcdbefac112e4bb66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05f4b1e7012ff5c4a619697fd299a756fb47e151c181b02dd535b40b5332b398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Nacionalidade
+- Álcool
 - Aproximação das Legislações
-- Região Autónoma
-- Embarcação
+- Atestado Médico
+- Autoridade Marítima Nacional
+- Balcão Eletrónico do Mar
 - Catálogo Nacional de Qualificações
 - Cédula Profissional
-- Formação Profissional
-- Atestado Médico
 - Certificação Profissional
 - Comandante
-- Direção Geral da Saúde
 - Contra-ordenação
+- Dados Pessoais
 - Definição de Competências
 - Difusão da Informação
-- Autoridade Marítima Nacional
-- Álcool
-- Embarcação de Tráfego Local
-- Inspecção de Navios
-- Registo de Navios
-- Segurança das Embarcações
-- Fiscalização
-- Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica
+- Direção Geral da Saúde
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Rebocador
-- Pessoal Navegante
-- Transporte de Mercadorias
-- Qualificação Profissional
+- Embarcação
+- Embarcação de Tráfego Local
+- Fiscalização
+- Formação Profissional
+- Fundo Azul
+- Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica
+- Inspecção de Navios
 - Madeira.região Autónoma
+- Nacionalidade
+- Pessoal Navegante
+- Qualificação Profissional
+- Rebocador
+- Região Autónoma
+- Registo de Navios
 - Registo Obrigatório
 - Regulamento Geral das Capitanias
 - Segurança da Navegação
-- Açores
-- Dados Pessoais
+- Segurança das Embarcações
+- Sistema Nacional de Embarcações e Marítimos
 - Substância Estupefaciente ou Psicotrópica
 - Taxa
 - Trabalho a Bordo
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
 - Transporte de Passageiros
 - Tripulação
-- Fundo Azul
-- Sistema Nacional de Embarcações e Marítimos
-- Balcão Eletrónico do Mar
 relationships:
 - type: cites
   target: celex:31991L0672
@@ -165,6 +165,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+- type: cites
+  target: pt:dre:115524262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207986501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32017L2397
   label: null
@@ -176,13 +212,13 @@ relationships:
 article_structure:
   article_count: 43
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:58Z'
   warnings: []
   errors: []
 ---
@@ -1019,15 +1055,15 @@ O presente decreto-lei entra em vigor no prazo de 60 dias após a sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2023. - Mariana Guimarães Vieira da Silva - Maria Helena Chaves Carreiras - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Ana Cláudia Fontoura Gouveia - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 16 de maio de 2023.**
+Promulgado em 16 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de maio de 2023.**
+Referendado em 18 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem os artigos 7.º a 9.º)
 
@@ -1440,3 +1476,5 @@ Saber efetuar operações de abastecimento de GNL de forma segura e controlada;
 Preparar o sistema de GNL para a manutenção da embarcação;
 
 Lidar com situações de emergência relacionadas com o GNL.
+
+116498351

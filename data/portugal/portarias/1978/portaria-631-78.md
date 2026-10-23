@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/631-1978-328043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:45:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a307b19b85d84f95dea1929bfa9e0f26335f8d7a038ed39240c7bc0102bd6054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 597c1225fa7e91a3f6f93ad3ab3225491b529287fb509469681f63c895102ceb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:45:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auto-estrada do SUL
+- Brisa
+- Palmela
+- Portagem
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:292752:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:45:54Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +100,7 @@ Assim, os n.os 1 e 2 da [Portaria n.º 358-A/78](https://diariodarepublica.pt/dr
 
 1 - As taxas de portagem a cobrar pela concessionária Brisa - Auto-Estradas de Portugal, S. A. R. L., no lanço Fogueteiro-Palmela, da Auto-Estrada do Sul, são as seguintes, de acordo com as classes dos veículos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24200/22242224.pdf)
 
 2 - No caso de a exploração se efectuar com cobrança automática das portagens dos veículos automóveis de passageiros, aos veículos da classe B serão aplicadas as taxas correspondentes à classe C.
 

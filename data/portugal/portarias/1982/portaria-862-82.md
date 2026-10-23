@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/862-1982-375619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f05bf3857328c5a3acb70908746880f74209569776d9117a1a5785914cd432fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86b7dd7f0b2479cd80e626ebb538a9a2d463e4050f50cedef3b44974fec28298
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:48Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +106,9 @@ Regulamento da Organização e Funcionamento do Departamento de Biologia Vegetal
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Biologia Vegetal da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, constitui uma unidade orgânica de ensino e investigação em biologia vegetal e, dentro desta área científica, de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade.
+Artigo 1.º O Departamento de Biologia Vegetal da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, constitui uma unidade orgânica de ensino e investigação em biologia vegetal e, dentro desta área científica, de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade.
 
-###### Art. 2.º - 1 - Enquanto unidade de ensino, ao Departamento compete:
+Art. 2.º - 1 - Enquanto unidade de ensino, ao Departamento compete:
 
 a) Promover a aquisição e a difusão do conhecimento em biologia vegetal e a formação de docentes, investigadores e técnicos de nível superior qualificados naquele domínio;
 
@@ -128,15 +136,15 @@ d) Desenvolver trabalhos de aplicação da biologia vegetal a outros domínios c
 
 4 - Ao Departamento competirá ainda promover a divulgação do saber nas áreas da biologia vegetal e contribuir para a generalização do seu conhecimento, compreensão e integração na cultura.
 
-###### Art. 3.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, cuja celebração proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou da Faculdade.
+Art. 3.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, cuja celebração proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou da Faculdade.
 
 ### CAPÍTULO II — Secções
 
-###### Art. 4.º - 1 - Atendendo à pluralidade das matérias científicas nele professadas e investigadas e à própria dimensão do Departamento, poderão nele ser criadas secções correspondentes a áreas científicas bem definidas no âmbito da biologia vegetal.
+Art. 4.º - 1 - Atendendo à pluralidade das matérias científicas nele professadas e investigadas e à própria dimensão do Departamento, poderão nele ser criadas secções correspondentes a áreas científicas bem definidas no âmbito da biologia vegetal.
 
 2 - As secções são unidades respeitantes a áreas diferenciadas do conhecimento, com dimensões e características que permitam a prossecução e o desenvolvimento de actividades de ensino, investigação e prestação de serviço.
 
-###### Art. 5.º - 1 - São criadas no Departamento as seguintes secções:
+Art. 5.º - 1 - São criadas no Departamento as seguintes secções:
 
 a) Citologia e Biologia Celular Vegetal;
 
@@ -154,13 +162,13 @@ f) Morfologia e Sistemática Vegetais.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 6.º A gestão do Departamento é exercida pelos seguintes órgãos:
+Art. 6.º A gestão do Departamento é exercida pelos seguintes órgãos:
 
 a) Conselho do Departamento;
 
 b) Comissão executiva.
 
-###### Art. 7.º O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 7.º O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
 
 1 - São membros permanentes os professores em regime de tempo integral, incluindo os convidados e os investigadores doutorados em áreas científicas representadas no Departamento.
 
@@ -168,7 +176,7 @@ b) Comissão executiva.
 
 3 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento, eleito para um mandato de 2 anos por todos os membros do conselho.
 
-###### Art. 8.º Compete ao conselho do Departamento:
+Art. 8.º Compete ao conselho do Departamento:
 
 a) Elaborar propostas de alteração ao Regulamento do Departamento;
 
@@ -196,7 +204,7 @@ m) Aprovar as propostas de estabelecimento de convénios, de acordos e de contra
 
 n) Deliberar sobre matérias cuja competência lhe haja sido delegada pelos órgãos da Faculdade ou da Universidade.
 
-###### Art. 9.º - 1 - A comissão executiva do Departamento é constituída por:
+Art. 9.º - 1 - A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho do Departamento;
 
@@ -204,7 +212,7 @@ b) 2 docentes ou investigadores do Departamento, designados pelo presidente.
 
 2 - A comissão executiva, nas suas actividades de gestão, será coadjuvada por um funcionário do quadro de pessoal da Faculdade, que desempenhará as funções de secretário do Departamento.
 
-###### Art. 10.º Compete à comissão executiva:
+Art. 10.º Compete à comissão executiva:
 
 a) Preparar as reuniões do conselho do Departamento e executar as suas deliberações;
 
@@ -214,22 +222,22 @@ c) Preparar convénios, acordos e contratos de prestação de serviços;
 
 d) Zelar pela conservação e manutenção das instalações e outros bens afectos ao Departamento.
 
-###### Art. 11.º O presidente do conselho do Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
+Art. 11.º O presidente do conselho do Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
 
 ### CAPÍTULO IV — Gestão financeira
 
-###### Art. 12.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem da distribuição interna das verbas do orçamento próprio da Faculdade, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 12.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem da distribuição interna das verbas do orçamento próprio da Faculdade, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Constituirão também receitas do Departamento as provenientes da prestação de serviços, bem como as doações, legados, subsídios e comparticipações concedidos por quaisquer entidades públicas ou privadas, as quais ficarão sujeitas ao regime de gestão previsto nos artigos 18.º e 19.º do Decrto-Lei n.º 66/80, de 9 de Abril.
 
 ### CAPÍTULO V — Instalações e equipamento
 
-###### Art. 13.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes ao 2.º grupo (Botânico) da 3.ª secção (Ciências Naturais) da Faculdade de Ciências da Universidade de Lisboa, bem como as que estão actualmente afectas ao seu funcionamento.
+Art. 13.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes ao 2.º grupo (Botânico) da 3.ª secção (Ciências Naturais) da Faculdade de Ciências da Universidade de Lisboa, bem como as que estão actualmente afectas ao seu funcionamento.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 14.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
+Art. 14.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
 
 2 - O primeiro mandato dos membros eleitos em consequência dos processos referidos no número anterior termina no fim do ano lectivo seguinte àquele em que tiver sido realizada a eleição.
 
-**O Secretário de Estado da Educação e Administração Escolar, João de Deus Pinheiro.**
+O Secretário de Estado da Educação e Administração Escolar, João de Deus Pinheiro.

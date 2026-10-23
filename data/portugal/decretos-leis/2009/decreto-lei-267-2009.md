@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/18900/0699106997.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/2009/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2009-490702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 985e4ac05b7d5aff3eb208f02f328bf31ec0e17c8136a1cd9010ec5178fd31be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74edc7c1d324613de26c3b1b67cdaf7800e9355f12cab8d9cc0531418a4bf660
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,44 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência Portuguesa do Ambiente
 - Ajuda Comunitária
-- Gestão de Resíduos
-- Multa
+- ASAE
+- Autarquia Local
+- Benefícios Fiscais
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Contra-ordenação
 - Definição de Competências
 - Direito Comunitário
+- Eliminação de Resíduos
 - Estabelecimento de Restauração
 - Fiscalização
+- Gestão de Resíduos
 - Importação
 - Indústria Hoteleira
 - Informação
-- Transporte de Resíduos
-- ASAE
-- Licenciamento
+- Informação do Consumidor
 - Inspecção Geral do Ambiente e do Ordenamento do Território
+- Licenciamento
+- Madeira.região Autónoma
+- Multa
 - ÓLEO Comestivel
 - ÓLEO Usado
-- Tratamento de Resíduos
-- Informação do Consumidor
-- Sistema de Informação
 - Produtor
-- Madeira.região Autónoma
 - Regime Jurídico
-- Benefícios Fiscais
 - Sanção
 - Sector Industrial
-- Açores
-- Eliminação de Resíduos
-- Comércio
+- Sistema de Informação
 - Transporte
-- Autarquia Local
-- Agência Portuguesa do Ambiente
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:108041482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108041482:por
+  label: Alterados os arts. 14.º e 18.º e revogados o n.º 3 do art. 11.º e a al. a) do n.º 3 do art. 18.º do presente diploma
+    pelo(a) Decreto-Lei n.º 102/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23 nos termos do seu art. 12.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2017-108041482
+  date: '2017-08-23'
 - type: cites
   target: celex:31999L0031
   label: null
@@ -118,13 +124,13 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:29Z'
   warnings: []
   errors: []
 ---
@@ -445,16 +451,16 @@ O presente decreto-lei entra em vigor no dia 1 de Novembro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Rui Nuno Garcia de Pina Neves Baleiras - Fernando Teixeira dos Santos - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 12 de Setembro de 2009.**
+Promulgado em 12 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Setembro de 2009.**
+Referendado em 15 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Certificado de OAU
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18900/0699106997.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18900/0699106997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18900/0699106997.pdf)

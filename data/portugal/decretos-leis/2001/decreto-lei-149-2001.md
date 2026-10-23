@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/105a00/26422644.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2001/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2001-316078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20dd4d43cb2499eced9d1c273df61be5a41b82b624eeb93c56145c0af7148e54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30bf9923abacfa784e2fa768879ed28f02e2248de3fac14023325047cc83bac4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança Interna
 - Definição de Competências
+- Gabinete Coordenador de Segurança
 - Orgânica
 - Remuneração
-- Gabinete Coordenador de Segurança
+- Segurança Interna
 relationships:
 - type: amended_by
   target: pt:dre:453479:por
@@ -80,16 +80,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:286723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419071:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453479:por
+  label: "Revogado, a partir de 28.09.2008, pela LEI.53/2008.29.08.2008.AR, DR.IS [167] de 29.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2008-453479
+  date: '2008-08-29'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:48Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +147,11 @@ O director-geral do Serviço de Informações e Segurança;
 
 O director-geral de Marinha;
 
-**O presidente do Instituto Nacional da Aviação Civil;**
+O presidente do Instituto Nacional da Aviação Civil;
 
-**O secretário-geral;**
+O secretário-geral;
 
-**O secretário-geral-adjunto.**
+O secretário-geral-adjunto.
 
 3 - Em caso de impedimento, os membros do Gabinete serão substituídos por quem, nos termos da lei, deva assegurar o desempenho do respectivo cargo.
 
@@ -142,7 +159,9 @@ O director-geral de Marinha;
 
 5 - Enquanto não forem nomeados o secretário-geral e o secretário-geral-adjunto, as correspondentes funções serão asseguradas por um dos membros do Gabinete a designar pelo Primeiro-Ministro, ou, por sua delegação, pelo Ministro da Administração Interna.
 
-###### Artigo 2.º — Funções
+Artigo 2.º
+
+Funções
 
 1 - Compete ao Gabinete assistir de modo regular e permanente às entidades governamentais responsáveis pela execução da política de segurança interna e, designadamente, estudar e propor:
 
@@ -164,7 +183,9 @@ f) Os procedimentos de avaliação e planos de aperfeiçoamento, coordenação e
 
 4 - O Gabinete Coordenador de Segurança dispõe de uma sala de situação para acompanhar em permanência as situações previstas na alínea d) do n.º 1 do presente artigo.
 
-###### Artigo 4.º — Competência do secretário-geral e do secretário-geral-adjunto
+Artigo 4.º
+
+Competência do secretário-geral e do secretário-geral-adjunto
 
 1 - Compete especialmente ao secretário-geral:
 
@@ -184,11 +205,15 @@ g) Assegurar o apoio necessário ao funcionamento do Conselho Superior de Segura
 
 2 - Compete ao secretário-geral-adjunto auxiliar o secretário-geral no desempenho de todas as suas competências e substituí-lo em todas as suas faltas e impedimentos.
 
-###### Artigo 5.º — Coordenação técnica
+Artigo 5.º
+
+Coordenação técnica
 
 Para efeitos de coordenação técnica, realiza-se uma reunião quinzenal com um dirigente de cada força e serviço de segurança, mediante convocatória do secretário-geral.
 
-###### Artigo 6.º — Secretariado permanente
+Artigo 6.º
+
+Secretariado permanente
 
 1 - Sob a coordenação do secretário-geral funciona um secretariado permanente constituído por um representante qualificado de cada uma das entidades que compõem o Gabinete.
 
@@ -212,7 +237,9 @@ Núcleo de apoio técnico e administrativo
 
 3 - Os destacamentos referidos no número anterior são efectuados nos termos da lei geral, sem prejuízo do fixado em regulamentação própria das forças de segurança.
 
-###### Artigo 9.º — Gabinetes coordenadores de segurança distritais
+Artigo 9.º
+
+Gabinetes coordenadores de segurança distritais
 
 1 - São instituídos gabinetes coordenadores de segurança ao nível distrital, presididos pelos governadores civis e integrando os responsáveis distritais pelas forças e serviços de segurança previstos no n.º 2 do artigo 1.º
 
@@ -224,12 +251,12 @@ Núcleo de apoio técnico e administrativo
 
 Visto e aprovado em Conselho de Ministros em 22 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 23 de Abril de 2001.**
+Promulgado em 23 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Abril de 2001.**
+Referendado em 26 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2007/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2007-518415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ebe3380a264ed2f8b82a790a149ccf43c7fdb93f689d91c801aae3c7695ea0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30945f4bf2fe2903c568547ad59ed3e1abea9ce09b2c63f5306e24e94283dbe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Aproximação das Legislações
 - Catálogo Nacional de Variedades
 - Certiveg
 - Controlo de Qualidade
 - Etiquetagem
-- Produto Hortícola
-- Agricultor
 - Produção Agrícola
-- Semente
 - Produto Agrícola
+- Produto Hortícola
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:334276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601371:por
+  label: "Alterado o anexo II do Dec Lei 144/2005 de 26-Ago, na redacção do presente diploma, pelo DEC LEI.38/2009.10.02.2009.MADRP,\
+    \ DR.IS [28] de 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2009-601371
+  date: '2009-02-10'
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o Dec Lei 144/2005, de 26-Ago, na redacção do presente diploma, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS\
+    \ [186] de 24.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
 - type: cites
   target: celex:31966L0402
   label: null
@@ -94,16 +107,21 @@ relationships:
   target: celex:32006L0055
   label: null
   source: http://data.europa.eu/eli/dir/2006/55/oj
+- type: repealed_by
+  target: pt:dre:334276:por
+  label: "Revogado, a partir de 25.07.2010, pelo DEC LEI.88/2010.20.07.2010.MADRP, DR.IS [139] de 20.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2010-334276
+  date: '2010-07-20'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:08Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +168,9 @@ O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -168,15 +188,15 @@ O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 26 de Fevereiro de 2007.**
+Promulgado em 26 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 28 de Fevereiro de 2007.**
+Referendado em 28 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -184,15 +204,15 @@ Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sóc
 
 [...]
 
-# Parte A
+Parte A
 
 [...]
 
-# Parte B
+Parte B
 
 [...]
 
-# Parte C
+Parte C
 
 [...]
 
@@ -210,15 +230,17 @@ QUADRO III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf)
 
 ...
 
 6 - ...
 
-## ANEXO II — [...]
+ANEXO II
 
-# Parte A
+[...]
+
+Parte A
 
 1 - ...
 
@@ -254,11 +276,11 @@ Semente certificada de 1.ª e seguintes gerações: para as espécies UE apenas 
 
 3 - ...
 
-# Parte B
+Parte B
 
 [...]
 
-# Parte C
+Parte C
 
 [...]
 
@@ -272,7 +294,7 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05200/15991602.pdf)
 
 ...
 
@@ -292,7 +314,7 @@ QUADRO III
 
 ...
 
-# Parte D
+Parte D
 
 [...]
 
@@ -320,6 +342,6 @@ c) ...
 
 9 - ...
 
-# Parte E
+Parte E
 
 [...]»

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/174/1993/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/174-1993-345526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:01:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff87771543a04646778e177ccac0581a1c42ec2d8d244ebb8108ed6f1d14d640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49da9c71f5d16cc6771a8f291380a7dad8246db4790f2edd19d9d9a41567c92b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:01:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Arroz
 - CEE
 - Cereal
 - Definição de Competências
-- Arroz
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Produção Agrícola
 - Regulamento CE
@@ -79,6 +79,22 @@ relationships:
   target: pt:dre:621332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A AL B) DO NUM 6 PELO DN 45/95 DE 10-AGO DR.IS-B [199] DE 29/AGO/1995 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-29'
+- type: amended_by
+  target: pt:dre:433031:por
+  label: Alterada a al. b) do n.º 6 pelo(a) Despacho Normativo n.º 45/95 - Diário da República n.º 199/1995, Série I-B de
+    1995-08-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/45-1995-433031
+  date: '1995-08-29'
+- type: amended_by
+  target: pt:dre:621332:por
+  label: "Alterado o n.º 9 pelo DN.1/96.03.01.1996.MADRP, DR.IS-B [2] de 03.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-1996-621332
+  date: '1996-01-03'
 - type: cites
   target: celex:31978R1418
   label: null
@@ -98,13 +114,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:01:38Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/1992/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1992-292516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 358807ff7e421ecd871d67425ef97986d94722b69a2e9c6386b3a8bd62b8b3ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f859a94f166321ac29567b2253b210ee039b789901652a4b27a0e468726cc507
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gabinete de Coordenação dos Investimentos
-- Ministério das Obras Públicas Transportes e Comunicações
 - Integração de Trabalhadores
+- Ministério das Obras Públicas Transportes e Comunicações
 - Orgânica
 - Quadro de Pessoal
 - Transferência Patrimonial
@@ -77,6 +77,44 @@ relationships:
   target: pt:dre:2416650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656591:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pelo DN.15/93.1992.11.11.MF DR.IS-B [44] DE 22/FEV/1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-1993-656591
+  date: '1992-11-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, CONSTANTE DO ANEXO MAPA I, PELO DESPACHO NORMATIVO 417/94, DE 27 DE ABRIL, PUBLICADO\
+    \ NO DR.IS-B, 124, DE 940528.\0 940528."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-28'
+- type: amended_by
+  target: pt:dre:1000795:por
+  label: "Alterado o quadro de pessoal pela PORT.432/97(2ªSÉRIE).1997.06.25.PCM, MF e MEPAT DR.IIS [162] de 16/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-1997-1000795
+  date: '1997-06-25'
+- type: amended_by
+  target: pt:dre:1065522:por
+  label: "Alterado o mapa anexo I pela PORT.643/98(2ªSÉRIE).1998.06.18.PCM, DR.IIS [156] de 09/Jul/1998\0998\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1998-1065522
+  date: '1998-06-18'
+- type: amended_by
+  target: pt:dre:3457327:por
+  label: "Alterado o quadro de pessoal constante do anexo, pela PORT.367/2000(2ªSÉRIE).2000.02.08.MES, DR.IIS [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-2000-3457327
+  date: '2000-02-08'
+- type: amended_by
+  target: pt:dre:878234:por
+  label: "Alterado o quadro de pessoal constante do anexo I, pela PORT.551/2002(2ªSÉRIE).2002.02.28.MES DR.IIS [78] DE 03/ABR/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/551-2002-878234
+  date: '2002-02-28'
+- type: amended_by
+  target: pt:dre:2416650:por
+  label: "ALTERADO O MAPA I PELA PORT.1276/2002(2ªSÉRIE).2002.07.30.MF, MOPTH, DR.IIS [196] DE 26/AGO/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1276-2002-2416650
+  date: '2002-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/62/1992/04/21/p/dre
   label: null
@@ -85,16 +123,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1992/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1992/05/28/p/dre
+- type: cites
+  target: pt:dre:217926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515597:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:49Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +247,9 @@ a) Divisão de Diagnóstico e Perspectivas, que exerce as competências referida
 
 b) Divisão de Controlo, que exerce as competências referidas nas alíneas a) e c) do número anterior.
 
-###### Artigo 7.º — Secção administrativa
+###### Artigo 7.º
+
+#### Secção administrativa
 
 A Secção Administrativa tem a seu cargo o apoio instrumental ao Gabinete, designadamente, nas áreas de expediente, pessoal, contabilidade e património, competindo-lhe:
 
@@ -277,16 +325,16 @@ Presidência do Conselho de Ministros, 25 de Maio de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 2 de Julho de 1992.**
+Promulgado em 2 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Julho de 1992.**
+Referendado em 3 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/167b00/34223424.pdf))](https://files.diariodarepublica.pt/1s/1992/07/167b00/34223424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34223424.pdf)

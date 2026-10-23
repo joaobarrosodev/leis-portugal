@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/1997/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1997-148993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5beb76ae5ce76a3f0e91458382d225e981c668010820ddde2b143c3ed7e2f5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f055355a42f1544beb87ddbaa3cbdaaa9a8b44a53a5672791407e02a4360812
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ subjects:
 - Definição de Competências
 - Ensino Superior Politécnico
 - Escola Superior
-- Universidade de Aveiro
 - Escola Superior de Tecnologia e Gestão
+- Estabelecimento de Ensino
 - Instituto Politécnico
 - Integração de Serviços
-- Estabelecimento de Ensino
 - Regime de Instalação
 - Transferência de Competências
+- Universidade de Aveiro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571177:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:25Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +167,12 @@ A Universidade de Aveiro é autorizada a integrar a Escola Superior de Tecnologi
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 3 de Julho de 1997.**
+Promulgado em 3 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

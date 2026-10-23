@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/039a00/08180820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/1999/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1999-172100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73f8aeb9827a1c60c5d81506e7cf29fc95565778b3624f1a0de7c5aced4c8f49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e588736994a780caf08900e28a4e19efa529fb549c71f311b7bc7ee821662e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Acção de Formação
 - Aproximação das Legislações
-- Médico
-- Indústria Farmacêutica
-- Publicidade
+- Comércio
 - Contra-ordenação
+- Indústria Farmacêutica
 - Medicamento
+- Médico
+- Publicidade
 - Receita Médica
 - Regime Jurídico
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
@@ -89,16 +89,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:38Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +144,9 @@ Os artigos 8.º, 9.º, 10.º e 14.º do Decreto-Lei n.º 100/94, de 19 de Abril,
 
 4 - ...
 
-###### Artigo 9.º — Prémios, ofertas e outros benefícios
+Artigo 9.º
+
+Prémios, ofertas e outros benefícios
 
 1 - É proibido ao titular da autorização de introdução no mercado, bem como à empresa responsável pela promoção do medicamento, dar ou prometer, directa ou indirectamente, a pessoas habilitadas a prescrever ou a dispensar medicamentos, prémios, ofertas, benefícios pecuniários ou em espécie, excepto quando se trate de objectos relacionados com a prática da medicina ou da farmácia e de valor intrínseco insignificante.
 
@@ -151,7 +158,9 @@ Os artigos 8.º, 9.º, 10.º e 14.º do Decreto-Lei n.º 100/94, de 19 de Abril,
 
 5 - Sem prejuízo das atribuições e competências das entidades públicas, é proibido efectuar, por qualquer meio e a qualquer título, a recolha, o tratamento e a concessão de informações referentes à prescrição de medicamentos por parte de determinada pessoa habilitada a prescrevê-los.
 
-###### Artigo 10.º — Custos de acolhimento
+Artigo 10.º
+
+Custos de acolhimento
 
 1 - Para efeitos do n.º 2 do artigo 9.º consideram-se custos de acolhimento das pessoas habilitadas a prescrever ou a dispensar medicamentos os encargos com a respectiva inscrição, deslocação e estada em manifestações de carácter exclusivamente científico e ainda em acções de promoção de medicamentos que comportem uma efectiva mais-valia científica ou ganho formativo para os participantes.
 
@@ -161,7 +170,9 @@ Os artigos 8.º, 9.º, 10.º e 14.º do Decreto-Lei n.º 100/94, de 19 de Abril,
 
 4 - A escolha dos locais de realização das acções e dos eventos científicos previstos nos n.os 2 e 3 do artigo 9.º, bem como a organização de programa social complementar, devem obedecer a critérios adequados do ponto de vista profissional e logístico e envolver, designadamente quanto a níveis de hospitalidade, custos financeiros de montante equilibrado.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contra-ordenação, punível com coima de 100000$00 a 500000$00 ou até 6000000$00, consoante o agente seja pessoa singular ou pessoa colectiva, a violação dos deveres prescritos nos artigos 4.º, 7.º, 8.º e n.º 1, 2 e 3 do artigo 9.º-A.
 
@@ -201,12 +212,12 @@ d) Mapa das despesas e eventuais receitas e respectivos documentos justificativo
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 3 de Fevereiro de 1999.**
+Promulgado em 3 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Fevereiro de 1999.**
+Referendado em 8 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

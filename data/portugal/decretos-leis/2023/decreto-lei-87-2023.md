@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19600/0001900025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2023/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2023-222583133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40b885848a21194061c822596dcab4e806f2117f96cd1ef6f6dc7c220b2bc18e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e64df36bb43e1436c997d778020839444bf5f0946f4f066bf03c692cb7f2458
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Água
-- Obras Particulares
-- Contrato de Concessão
-- Recursos Hídricos
-- Fiscalização
-- Avaliação de Impacte Ambiental
-- Licenciamento
-- Obras Públicas
-- País Estrangeiro
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Gestão do Ambiente
-- Política do Ambiente
-- Regime Jurídico
 - Abastecimento de Água
 - Agência Portuguesa do Ambiente
+- Água
+- Avaliação de Impacte Ambiental
+- Contrato de Concessão
+- Fiscalização
+- Gestão do Ambiente
+- Licenciamento
+- Obras Particulares
+- Obras Públicas
+- País Estrangeiro
+- Política do Ambiente
+- Proteção do Ambiente
+- Recursos Hídricos
+- Regime Jurídico
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:32011L0092
@@ -103,6 +103,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:114337013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0092
   label: null
@@ -112,15 +124,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:03Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +187,9 @@ Os artigos 21.º, 24.º e 35.º do regime da utilização dos recursos hídricos
 
 9 - Se o antigo titular manifestar à autoridade competente o interesse na continuação da utilização, o prazo do título de utilização pode ser excecionalmente prorrogado até à decisão final do procedimento de concurso, não podendo, em qualquer caso, a referida prorrogação exceder o prazo máximo de dois anos.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +207,9 @@ Os artigos 21.º, 24.º e 35.º do regime da utilização dos recursos hídricos
 
 8 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -237,7 +253,9 @@ Os artigos 4.º, 33.º e 34.º do regime jurídico da AIA dos projetos públicos
 
 11 - [...]
 
-###### Artigo 33.º — Projetos com impactes em outros Estados
+Artigo 33.º
+
+Projetos com impactes em outros Estados
 
 1 - Sempre que o projeto possa provocar impactes significativos no território de outro ou outros Estados, a autoridade nacional de AIA notifica, através dos serviços competentes do Ministério dos Negócios Estrangeiros, as autoridades do Estado potencialmente afetado, tão cedo quanto possível e o mais tardar até à publicitação do procedimento de AIA nos termos do artigo 15.º
 
@@ -253,7 +271,9 @@ b) Informação sobre a natureza da decisão que pode ser tomada.
 
 5 - A declaração prevista no n.º 3 deve ser transmitida à autoridade nacional de AIA, pelos serviços competentes do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Sempre que as autoridades competentes do Estado potencialmente afetado por um projeto sujeito a procedimento de AIA manifestem formalmente a intenção de participar naquele procedimento, e caso tal ainda não se tenha verificado, são também enviados todos os elementos objeto de publicitação obrigatória nos termos do previsto nos artigos 15.º e 29.º e nas alíneas a), b), d), f), h), i), j), l), m), n), o), p) e r) do anexo vi, acompanhados do projeto, do EIA e do resumo não técnico.
 
@@ -281,15 +301,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - Maria Helena Chaves Carreiras - João Nuno Marques de Carvalho Mendes - António José da Costa Silva - Margarida Fernandes Tavares - José Duarte Piteira Rica Silvestre Cordeiro - Carlos Manuel Soares Miguel.
 
-**Promulgado em 28 de setembro de 2023.**
+Promulgado em 28 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de outubro de 2023.**
+Referendado em 3 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -490,3 +510,5 @@ q) [...]
 r) A natureza de possíveis decisões ou o projeto de decisão, caso exista;
 
 s) [Anterior alínea r).]
+
+116921113

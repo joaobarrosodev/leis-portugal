@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/1998/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1998-242068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 860d135a995bfd588739d47bf4bf2a332abdf5483be4dd69f956b18e7a8fd688
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bbd96385325ac199e83a26622e315e849d955e75e5fcf5493f12b0e4cb4dabb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
-- Função Pública
 - Administração Pública
+- Função Pública
 - Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:243747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 2.º e 4 do Dec Lei 4/89 de 06-Jan, na redacção do presente diploma, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:234497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:513627:por
+  label: "Rectificado pela DECL-RECT.16-D/98.1998.09.30.PCM, DR.IS-A [226]3ºSupl de 30/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-d-1998-513627
+  date: '1998-09-30'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:04Z'
   warnings: []
   errors: []
 ---
@@ -123,13 +142,13 @@ b) ...
 
 3 - O abono para falhas pode ser reconhecido a mais de um funcionário ou agente por cada serviço ou organismo público quando a actividade de guarda ou manuseamento de valores ou dinheiros públicos abranja diferentes postos de trabalho, em resultado da organização dos serviços e organismos.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O abono para falhas a que se refere o presente diploma é fixado em 10% do valor correspondente ao escalão 1 da carreira de tesoureiro.
 
 2 - ...
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -147,12 +166,12 @@ As propostas do reconhecimento do direito ao abono para falhas deverão ser semp
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 26 de Agosto de 1998.**
+Promulgado em 26 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Setembro de 1998.**
+Referendado em 3 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

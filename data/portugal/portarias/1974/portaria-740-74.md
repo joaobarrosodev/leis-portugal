@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-1974-465440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86151f0603e23163b54c9049e3b84ee1307544478df807742d773e8246bee28d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9951dc61333bc395eb66058ed0c3c7860f13e46fddbe257e16a3ff8328891fd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:430625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430625:por
+  label: Determinado que deve ser interpretada por forma a abranger apenas os motoristas de táxi com mais de dez anos de exercício
+    da actividade na condução destes veículos, e que há, pelo menos, dez anos estejam inscritos no respectivo sindicato como
+    sócios efectivos na qualidade de motoristas de táxi, a al. a) do n.º 6 do presente diploma, pelo(a) Portaria n.º 426/76
+    - Diário da República n.º 165/1976, Série I de 1976-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-1976-430625
+  date: '1976-07-16'
+- type: repealed_by
+  target: pt:dre:335743:por
+  label: Revogada a al. b) do n.º 6 pelo(a) Portaria n.º 356/75 - Diário do Governo n.º 132/1975, Série I de 1975-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/356-1975-335743
+  date: '1975-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:34:40Z'
   warnings: []
   errors: []
 ---

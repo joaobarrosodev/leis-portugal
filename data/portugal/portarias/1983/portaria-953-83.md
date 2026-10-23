@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/953-1983-443692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 372e02a98fafea1e9d51f9587f8a7253643dca92a8382b21f0bccecf3b9b0f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bac639f98743fe4ef3a39b9231c7409c58fef0c0918da3ee330ec5ad16687e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bacharelato
+- Curso de Contabilidade e Administração
+- Curso de Línguas e Secretariado
+- Instituto Superior de Contabilidade e Administração
+- Plano de Estudos
+- Porto
+relationships:
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:06Z'
   warnings: []
   errors: []
 ---
@@ -137,9 +151,9 @@ A tabela e o regime de precedências serão fixados pelo conselho científico, o
 
 Ministério da Educação.
 
-**Assinada em 7 de Outubro de 1983.**
+Assinada em 7 de Outubro de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Curso de Contabilidade e Administração
 
@@ -149,19 +163,19 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 ## ANEXO II — Curso de Línguas e Secretariado
 
@@ -171,19 +185,19 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 ## ANEXO III — Curso Aduaneiro
 
@@ -193,16 +207,16 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf))](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/25000/37183720.pdf)

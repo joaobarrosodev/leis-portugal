@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/566-1976-408560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48fa5d26110889e16f5d620b96ba1ab20f313d332e04e3e2a1a3e9cb7dd70587
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a3ec60e1d7b21bf8354d0e3852b4272ce90386d792b82790ab4423ef8ac0813
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bolsa de Valores
+- Emolumento
+- Lisboa
+- Regulamento Interno
+relationships:
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572169:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:408933:por
+  label: Rectificada pela DECL.DD840.01.10.1976.PCM, DR.IS [231] de 01.10.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-408933
+  date: '1976-10-01'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:07:40Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/290a00/88808888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/552/1999/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b677594738c6fc8aa87a42b334c2f3b04a4af3a00534e571ba6019b4d797e85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4d7b95b7930d8ad7d54cdc501fb4e414dc7f1f5d3fca4a67a7f2c4b1224c2ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Comissão de Protecção de Menores
 - Definição de Competências
+- Direcção Geral dos Serviços Tutelares de Menores
 - Extinção de Serviços
 - Gestão do Património
 - Instituto de Reinserção Social
 - Integração de Trabalhadores
 - Orgânica
-- Direcção Geral dos Serviços Tutelares de Menores
 - Quadro de Pessoal
 - Regime de Pessoal
 relationships:
@@ -92,16 +92,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/686/1995/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/686/1995/06/30/p/dre
+- type: cites
+  target: pt:dre:174313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476723:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315335:por
+  label: "Revogadas as alterações introduzidas pelo presente diploma, no Dec Lei 58/95, de 31-Mar, pelo DEC LEI.323-D/2000.2000.12.20.MJ\
+    \ DR.IS-A [292]3ºSUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-d-2000-315335
+  date: '2000-12-20'
+- type: repealed_by
+  target: pt:dre:278882:por
+  label: "Revogado pelo DEC LEI.204-A/2001.2001.07.26.MJ DR.IS-A [172]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-a-2001-278882
+  date: '2001-07-26'
 article_structure:
-  article_count: 29
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:14Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +159,9 @@ Objectivos
 
 2 - O Instituto pode ainda prosseguir finalidades de prevenção criminal mediante acções especificamente orientadas para a limitação da possibilidade de cometimento de crimes e que contribuam simultaneamente para o desenvolvimento social.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -164,7 +193,9 @@ n) ...
 
 o) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A assessoria técnica a prestar pelo Instituto aos tribunais abrange, nos termos da legislação aplicável, o apoio a decisões judiciárias dos tribunais com competência em matéria penal, de execução das penas, de menores e de família e a intervenção na execução de medidas judiciais aplicadas a menores e de penas e medidas executadas na comunidade e privativas de liberdade.
 
@@ -172,7 +203,9 @@ o) ...
 
 3 - A assessoria técnica referida no número anterior é prestada segundo critérios de prioridade, definidos em função das necessidades concretas de protecção dos direitos e interesses dos menores, tendo, designadamente, em conta a gravidade do conflito familiar e a indispensabilidade da intervenção por ausência de apoio técnico por parte de outras entidades públicas e privadas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O apoio técnico a decisões judiciárias a prestar aos tribunais, nos termos da legislação aplicável, abrange, designadamente:
 
@@ -186,7 +219,9 @@ d) A dinamização de acções na comunidade, visando o envolvimento de entidade
 
 e) A elaboração de relatórios para apoio a decisões nos processos de reabilitação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +243,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O apoio a menores, jovens e adultos intervenientes em processos judiciais em que o Instituto preste assessoria técnica deve respeitar os princípios de proporcionalidade da intervenção e da sua adequação às respectivas finalidades no respeito da vida privada e da dignidade do indivíduo e da sua família.
 
@@ -216,7 +253,9 @@ g) ...
 
 3 - O Instituto pode ainda assegurar apoio a menores, jovens e adultos que tenham cumprido penas e medidas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O apoio do Instituto a menores, jovens e adultos, no âmbito das suas atribuições, abrange:
 
@@ -246,15 +285,21 @@ e) [Anterior alínea h).]
 
 9 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O Instituto prossegue os seus objectivos em articulação com as demais entidades públicas e particulares, procurando promover e apoiar iniciativas e dinâmicas comunitárias.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O Instituto coopera com as comissões de protecção de menores, nos termos da legislação aplicável, dando-lhes a conhecer factos ou situações que sejam da sua competência.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +333,9 @@ j) ...
 
 6 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 ...
 
@@ -298,7 +345,9 @@ b) ...
 
 c) O director do Departamento de Gestão Financeira e Patrimonial.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -348,7 +397,9 @@ v) ...
 
 3 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -374,7 +425,9 @@ c) Gabinete de Imprensa e Relações Públicas.
 
 3 - Os serviços referidos no n.º 1 são dirigidos por directores, equiparados, para todos os efeitos, a directores de serviços.
 
-###### Artigo 39.º — Departamento de Gestão Financeira e Patrimonial
+Artigo 39.º
+
+Departamento de Gestão Financeira e Patrimonial
 
 1 - Ao Departamento de Gestão Financeira e Patrimonial (DGFP) compete a coordenação dos sistemas de gestão financeira e patrimonial do Instituto e assegurar a gestão directa de recursos que lhe seja cometida, designadamente:
 
@@ -472,7 +525,9 @@ c) Secção de Reconciliação de Contas, à qual incumbe exercer as competênci
 
 7 - Para o exercício de competências referidas nas alíneas c) e d) do n.º 1, pode ser constituída uma unidade funcional de obras e infra-estruturas.
 
-###### Artigo 40.º — Departamento de Gestão de Recursos Humanos
+Artigo 40.º
+
+Departamento de Gestão de Recursos Humanos
 
 1 - Ao Departamento de Gestão de Recursos Humanos (DRH) compete promover, executar e coordenar a actividade dos sistemas de gestão e administração de recursos humanos do Instituto e assegurar o apoio geral aos órgãos e serviços centrais, designadamente:
 
@@ -528,7 +583,9 @@ b) Secção de Apoio Geral, à qual incumbe exercer as competências previstas n
 
 4 - Para o exercício de competências referidas nas alíneas a) a j) do n.º 1, pode ser constituída uma unidade funcional de gestão de recursos humanos.
 
-###### Artigo 41.º — Departamento de Coordenação da Actividade Técnico-Operativa
+Artigo 41.º
+
+Departamento de Coordenação da Actividade Técnico-Operativa
 
 1 - Ao Departamento de Coordenação da Actividade Técnico-Operativa (DCATO) compete coordenar a actividade técnico-operativa do Instituto desenvolvida em apoio técnico aos tribunais, no âmbito das jurisdições penal, de família e de menores, designadamente:
 
@@ -570,7 +627,9 @@ g) Contribuir com informação, estudos e indicadores de gestão para os demais 
 
 3 - Para o exercício de competências referidas nas alíneas a) a i) do n.º 1, podem ser constituídas duas unidades funcionais para coordenação da actividade na jurisdição penal e na de família e menores.
 
-###### Artigo 42.º — Departamento de Coordenação dos Serviços de Execução das Medidas Tutelares de Internamento
+Artigo 42.º
+
+Departamento de Coordenação dos Serviços de Execução das Medidas Tutelares de Internamento
 
 1 - Ao Departamento de Coordenação dos Serviços de Execução das Medidas Tutelares de Internamento (DCSEMTI) compete coordenar a actividade do Instituto na gestão técnica dos equipamentos de acolhimento, educação e formação de menores e jovens, em execução de medidas tutelares de internamento, designadamente:
 
@@ -610,7 +669,9 @@ e) Contribuir, com informação e estudos de avaliação da actividade desenvolv
 
 3 - Para o exercício de competências referidas nas alíneas a) a j) do n.º 1, podem ser constituídas duas unidades funcionais para a coordenação técnica e coordenação de actividades educativas.
 
-###### Artigo 43.º — Departamento de Desenvolvimento e Cooperação
+Artigo 43.º
+
+Departamento de Desenvolvimento e Cooperação
 
 1 - Ao Departamento de Desenvolvimento e Cooperação (DDC) compete executar actividades que visam assegurar o desenvolvimento técnico do Instituto e a cooperação com entidades externas, designadamente:
 
@@ -700,7 +761,9 @@ i) Promover a organização do ficheiro de legislação, jurisprudência, conven
 
 6 - Para o exercício de competências referidas nas alíneas c) e d) do n.º 1, pode ser constituída uma unidade funcional de convenções internacionais.
 
-###### Artigo 44.º — Departamento de Organização e Informática
+Artigo 44.º
+
+Departamento de Organização e Informática
 
 1 - Ao Departamento de Organização e Informática (DOI) compete:
 
@@ -722,7 +785,9 @@ h) Desenvolver projectos de conservação de massas documentais, nomeadamente co
 
 2 - O DOI organiza-se, sempre que necessário, por projectos.
 
-###### Artigo 45.º — Auditoria e Inspecção
+Artigo 45.º
+
+Auditoria e Inspecção
 
 1 - À Auditoria e Inspecção compete desenvolver auditorias internas sistemáticas e inspecções regulares, verificando e prevenindo tudo o que pode comprometer a realização dos objectivos do Instituto, a qualidade do serviço prestado, o sistema de gestão, a observância da legalidade e a regularidade financeira dos serviços.
 
@@ -732,7 +797,9 @@ h) Desenvolver projectos de conservação de massas documentais, nomeadamente co
 
 4 - A Auditoria e Inspecção é constituída por equipas de funcionários com formação e experiência adequadas a cada acção ou projecto de auditoria e inspecção e coordenada por quem for designado pelo presidente ou vice-presidente.
 
-###### Artigo 46.º — Gabinete Jurídico
+Artigo 46.º
+
+Gabinete Jurídico
 
 1 - Ao Gabinete Jurídico compete prestar assessoria jurídica aos órgãos do Instituto.
 
@@ -754,7 +821,9 @@ g) Conceber o sistema de produção normativa interna do Instituto e controlar o
 
 h) Suscitar oficiosamente quaisquer questões de natureza jurídica, financeira, de gestão ou administração de que tenha tomado conhecimento por via do exercício da sua competência.
 
-###### Artigo 47.º — Gabinete de Imprensa e Relações Públicas
+Artigo 47.º
+
+Gabinete de Imprensa e Relações Públicas
 
 1 - Ao Gabinete de Imprensa e Relações Públicas compete prestar apoio aos órgãos do Instituto em matéria de relações públicas e, em especial, de relações com os órgãos de comunicação social.
 
@@ -770,13 +839,17 @@ d) Apresentar propostas sobre a estratégia de divulgação e distribuição ext
 
 e) Assegurar actividades relacionadas com a recepção e encaminhamento de utentes e visitantes de serviços do Instituto.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - O Instituto compreende as Delegações Regionais de Lisboa, Porto, Coimbra e Faro, a que corresponde a área dos distritos judiciais.
 
 2 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Aos colégios compete executar as medidas tutelares de internamento previstas na legislação específica, bem como assegurar a realização de todas as diligências que, nos termos daquela legislação, tenham de ser cumpridas através de internamento em estabelecimento tutelar.
 
@@ -804,7 +877,9 @@ g) ...
 
 6 - Para além das situações referidas no n.º 1, o enquadramento em CAEF de menores e jovens pode ser excepcionalmente autorizado por despacho do presidente ou por sua delegação, orientando-se pelo disposto no n.º 2, com as devidas adaptações decorrentes da sua situação jurídica.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -814,7 +889,9 @@ g) ...
 
 4 - A dinâmica pedagógica e a organização e funcionamento dos colégios é fixada através de regulamento de orientação pedagógica e de organização e funcionamento, a aprovar por diploma próprio.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - ...
 
@@ -846,15 +923,15 @@ A dotação do grupo de pessoal dirigente do quadro de pessoal do Instituto de R
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa anexo previsto no artigo 4.º
 

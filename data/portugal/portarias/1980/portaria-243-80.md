@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11000/09530953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1980-473917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32c3d6f221be9f7d103e5ad684417c068392eea933b314e62f87cbd23f4b71db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ddc55ac9849e2ff45b7195a9a28ad105d26a279f2842470f941bd89dc47239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Habitação
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:221692:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679428:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221692:por
+  label: "Revogada, sem prejuízo do disposto nos n.ºs 9.º e 10.º da PORT.562/86.29.09.1986.MEC, DR.IS [224] de 29.09.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/562-1986-221692
+  date: '1986-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:12Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +143,6 @@ Quadro anexo à Portaria n.º 243/80, de 13 de Maio
 
 Empréstimos para habitação própria, com juros bonificados pelo Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11000/09530953.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11000/09530953.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11000/09530953.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Habitação e Obras Públicas, João Lopes Porto.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Habitação e Obras Públicas, João Lopes Porto.

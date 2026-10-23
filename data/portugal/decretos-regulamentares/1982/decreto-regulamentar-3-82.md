@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1982-601306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a604b4e6024c97082a8fd407ff3b6d1dd884f095bcf62127abefde963189df1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89d7cb8e89b3ab8261f5b082e5f4e994b1106548069296b48219d5870e5b0c60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Medidas Preventivas
 relationships:
 - type: amended_by
   target: pt:dre:662095:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662095:por
+  label: "Prorrogado o prazo de vigência do presente diploma pelo DR.23/84.1984.03.13.MAI DR.IS [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-1984-662095
+  date: '1984-03-13'
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:09Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +110,7 @@ Considerando o disposto nos artigos 7.º e 27.º do [Decreto-Lei n.º 794/76](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização da Direcção-Geral do Planeamento Urbanístico, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização da Direcção-Geral do Planeamento Urbanístico, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -113,18 +128,18 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - Compete à Câmara Municipal de Vila Real, à Direcção-Geral do Planeamento Urbanístico e ao Instituto Universitário de Trás-os-Montes e Alto Douro a fiscalização da observância das prescrições deste artigo, bem como a aplicação do disposto nos artigos 12.º e 13.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292).
 
-###### Art. 2.º - 1 - É concedido ao Instituto Universitário de Trás-os-Montes e Alto Douro o direito de preferência nas transmissões, por título oneroso, entre particulares, de terrenos e edifícios situados na área defendida no n.º 1 do artigo 1.º
+Art. 2.º - 1 - É concedido ao Instituto Universitário de Trás-os-Montes e Alto Douro o direito de preferência nas transmissões, por título oneroso, entre particulares, de terrenos e edifícios situados na área defendida no n.º 1 do artigo 1.º
 
 2 - Deverá ser dirigida ao reitor do Instituto Universitário de Trás-os-Montes e Alto Douro a comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro.
 
-###### Art. 3.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 30 de Dezembro de 1981.**
+Promulgado em 30 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/01200/01000101.pdf))](https://files.diariodarepublica.pt/1s/1982/01/01200/01000101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/01200/01000101.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/655-1971-631869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3de0e69eb5f4e86d7147d565ed17319725654edd9bb88d758074d5ffb54938c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eef93fc0b21a6ba4b747c3cdc1cab740c98a33eeb5270c9977c4a7d066efcbc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects: []
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:11Z'
   warnings: []
   errors: []
 ---
@@ -90,8 +90,8 @@ Repartição Judicial da Relação do Porto: criado um lugar de ajudante de escr
 
 Secretaria-Geral dos Tribunais Judiciais de Lisboa: criados dois lugares de ajudante de escrivão;
 
-#### Secção Central de Informações e Arquivo da Comarca de Lisboa: criado um lugar de ajudante de escrivão e extinto, quando vagar, um de escriturário-dactilógrafo;
+Secção Central de Informações e Arquivo da Comarca de Lisboa: criado um lugar de ajudante de escrivão e extinto, quando vagar, um de escriturário-dactilógrafo;
 
 Comarca de Oliveira de Azeméis: extintos um lugar de escrivão de direito e outro de oficial de diligências.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

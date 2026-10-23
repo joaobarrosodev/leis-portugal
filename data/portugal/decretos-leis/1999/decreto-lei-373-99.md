@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/373/1999/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1999-569881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d919e6528f2cf09cd88ca39181d4493cc6d4d7e9a2886d6465e9d6e1aab4e35f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584875447c25dda2e6c148def43b0de3ad1022444d08ba4a19473cabfd5df6fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Investigação Científica
-- Pessoal Docente
 - Ensino Superior
+- Pessoal Docente
 - Remuneração
 - Tabela Salarial
 relationships:
@@ -100,16 +100,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/147/1999/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/147/1999/02/27/p/dre
+- type: cites
+  target: pt:dre:165192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673395:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:22Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +188,12 @@ b) De 4,3719%, ficando fixado em 271602$00, de 1 de Outubro de 1999 em diante.
 
 Visto e aprovado em Conselho de Ministros de 29 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia - Guilherme d'Oliveira Martins - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 2 de Setembro de 1999.**
+Promulgado em 2 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 1999.**
+Referendado em 9 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 73/1978, 1º Suplemento, Série I de 1978-03-29
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 604-(6) a 604-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf
 entry_into_force_dates: []
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-1978-219555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fba17d3691b865e6004d33c0816fb91dbccc56afa79dd1037ad114302376e12f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6efa2cfac318680cc2bc0dafff769d9e8c66956a129f73aa6db6a9175d75ccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bagagem
+- Contrato de Seguro
+- CP
+- Preço
+- Seguro
+- Tarifa Geral de Transportes
+- Transporte de Animais
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:295795:por
+  label: Alterados os arts. 17.º, 30.º, 50.º e 105.º da Tarifa Geral de Transportes - Parte I «Passageiros e bagagens», da
+    CP; aprovada pela Port 403/75 de 30-jun DG.IS [148]Supl, com a redação dada pelo presente diploma, pelo(a) Portaria n.º
+    256/78 - Diário da República n.º 103/1978, Série I de 1978-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/256-1978-295795
+  date: '1978-05-05'
+- type: amended_by
+  target: pt:dre:403330:por
+  label: "Alterada a Tarifa Geral de Transportes - Parte I \"Passageiros e Bagagens\" aprovada pela Port 403/75 de 30-Jun,\
+    \ com a redacção dada pelo presente diploma, pela PORT.526/79.29.09.1979.MF, DR.IS [226-Supl] de 29.09.1979, como a seguir\
+    \ se descreve: - alterados os arts. 3º, 9º, 10º, 12º, 17º, 20º, 24º, 43º, 50º, 63º, 79º, 98º, 99º, 102º, 103º, 104º e\
+    \ 108º e as tabelas de preços nºs 1, 2, 20, 22, 23, 25, 26, 28 e 41 e o anexo II \"Taxas de operações acessórias e especiais\"\
+    ; introduzidos aditamentos aos quadros de percursos nºs 8 e 10; - e eliminado o quadro de percurso nº 7 e a tabela de\
+    \ preços nº 40. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1979-403330
+  date: '1979-09-20'
+- type: amended_by
+  target: pt:dre:226652:por
+  label: "Alterados os arts. 7º, 8º, 10º, 12º, 13º, 14º, 18º, 19º, 20º, 22º, 29º, 32º, 33º, 42º, 50º, 51º, 52º, 56º, 58º,\
+    \ 63º, 80º, 86º, 91º, 98º, 100º, 104º, 108º, 111º e 112º da Tarifa Geral de Transportes - Parte I «Passageiros e Bagagens»,\
+    \ aprovada pela Port 403/75 de 30-Jun DG.IS [148]Supl, com a redacção dada pelo presente diploma, pela PORT.1116/80.31.12.1980.MFP,\
+    \ DR.IS [301-9º Supl] de 31.12.1980 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1980-226652
+  date: '1980-12-31'
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482618:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246493:por
+  label: "Revogada a parte I \"Passageiros e Bagagens\" da Tarifa Geral de Transportes dos Caminhos-de-Ferro, aprovada pela\
+    \ Port 403/75 de 30-Jun, com a redacção dada no presente diploma, pelo DEC LEI.58/2008.26.03.2008.MOPTC, DR.IS [60] de\
+    \ 26.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2008-246493
+  date: '2008-03-26'
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:08Z'
   warnings: []
   errors: []
 ---
@@ -737,11 +788,11 @@ c) Outra bagagem.
 
 3.º É corrigido o quadro de percursos n.º 4 (constante da tabela de preços n.º 4 do anexo I), de acordo com o que a seguir se reproduz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 4.º É corrigido o quadro de percursos n.º 10 (constante da tabela de preços n.º 10 do anexo I), que passa a n.º 11, de acordo com o que a seguir se reproduz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 São alteradas em conformidade as seguintes tabelas de preços:
 
@@ -749,55 +800,55 @@ TABELA DE PREÇOS N.º 1
 
 Percursos n.os 1 a 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 2
 
 Percurso n.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 3
 
 Percurso n.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 20
 
 Bilhetes simples
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 22
 
 Bilhetes semanais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 23
 
 Assinaturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 25
 
 Cadernetas quilométricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 26
 
 Bilhetes turísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 TABELA DE PREÇOS N.º 28
 
 Bilhetes para grupos - Viagens simples
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 5.º É criada a tabela de preços n.º 41 «Automóveis acompanhados», que fica como segue:
 
@@ -805,13 +856,13 @@ Tabela de preços n.º 41
 
 Automóveis acompanhados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 6.º O anexo II é alterado como segue:
 
 ## ANEXO II — Taxas de operações acessórias e especiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00060025.pdf)
 
 7.º É anulada a tarifa especial n.º 12 contendo as disposições especiais aplicáveis ao transporte de automóveis em regime «auto-expresso», cujas disposições são agora incorporadas na Tarifa Geral de Transportes.
 

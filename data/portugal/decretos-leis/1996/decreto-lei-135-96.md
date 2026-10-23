@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/187a00/25032505.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/1996/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1996-405373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f90c72eb927349f33cde81dedfbd0b943b6e8f2d4221d52392f9a24d875ff3f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8573ba74e82f97fd912902ed80d675f4d6cf961fc8fa14afa3724703837d6c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Médico
-- Pessoal Dirigente
+- Centro Regional de Oncologia
 - Conselho de Administração
 - Diretor
 - Enfermeiro-director
-- Serviço Nacional de Saúde
+- Estabelecimento Hospitalar
 - Formas de Provimento
 - Gestão Hospitalar
 - Incompatibilidades
-- Centro Regional de Oncologia
 - Instituto Português de Oncologia de Francisco Gentil
-- Estabelecimento Hospitalar
+- Médico
+- Pessoal Dirigente
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:261316:por
@@ -91,16 +91,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597569:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321501:por
+  label: "Rectificado pela DECL-RECT.15-E/96.1996.10.31.PCM, DR.IS-A [253]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-e-1996-321501
+  date: '1996-10-31'
+- type: repealed_by
+  target: pt:dre:261316:por
+  label: "Revogado pelo DEC LEI.39/2002.2002.02.26.MS, DR.IS-A [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2002-261316
+  date: '2002-02-26'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:57Z'
   warnings: []
   errors: []
 ---
@@ -179,12 +213,12 @@ Este diploma produz efeitos no último dia do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1996.**
+Referendado em 26 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

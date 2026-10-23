@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23873-1969-526834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce12d7fa41ec7f97b0f88a16d275c04d83ac6fe12376e8a0b66db6fac88652b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed2ae97ef341aecd480db8e8b89e66ace01f70a232c5ba4cce5fde2ec088f3cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:262807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:17Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ A tabela a que se refere o artigo 10.º do [Decreto-Lei n.º 33834](https://diar
 
 Ajudas de custo a abonar ao pessoal da Policia de Segurança Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/02200/00990100.pdf))](https://files.diariodarepublica.pt/1s/1969/01/02200/00990100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/02200/00990100.pdf)
 
 Nos casos em que seja fornecido alojamento, mas não seja fornecida alimentação, as ajudas de custo a abonar sofrem uma redução de 25 por cento.
 

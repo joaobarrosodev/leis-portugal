@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/145a00/37553769.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/1999/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bac30d993a43f7f8f4a16112535c98e523f0ceba004885567450710fac84dd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6472acb6a1674da4500dde409d1de1f614d4dce72cf164d0beca72b57c867cbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Análise Laboratorial
 - Armazenagem
-- Publicidade
-- Multa
+- Comércio
 - Comissão Técnica de Medicamentos para USO Veterinário
 - Contra-ordenação
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Embalagem
-- Sanção Penal
-- Transporte de Mercadorias
-- Produto Veterinário
 - Limite Máximo de Resíduos
 - Medicamento Veterinário
-- TAXA de Prestação de Serviços
-- Comércio
-- Veterinário
+- Multa
+- Produto Químico
+- Produto Veterinário
+- Publicidade
+- Sanção Penal
 - Saúde Animal
+- Saúde Pública
+- TAXA de Prestação de Serviços
+- Transporte de Mercadorias
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:489712:por
@@ -101,16 +101,29 @@ relationships:
   target: celex:31997R0434
   label: null
   source: http://data.europa.eu/eli/reg/1997/434/oj
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogado, a partir de 27.09.2008, pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008, na parte aplicável\
+    \ aos medicamentos veterinários objecto deste último diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
+- type: repealed_by
+  target: pt:dre:489712:por
+  label: "Revogado a partir de 15.10.2009 e sem prejuízo do disposto no n.º 1 do art. 41.º, o presente diploma, parcialmente\
+    \ revogado pelo Dec Lei 148/2008, de 29-Jul, pelo DEC LEI.237/2009.15.09.2009.MADRP, DR.IS [179] de 15.09.2009 (Ver Notas)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2009-489712
+  date: '2009-09-15'
 article_structure:
   article_count: 45
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:26Z'
   warnings: []
   errors: []
 ---
@@ -813,17 +826,17 @@ j) Renovações quinquenais - 75000$00.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Osvaldo Sarmento e Castro - José Apolinário Nunes Portada - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Maio de 1999.**
+Promulgado em 14 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Maio de 1999.**
+Referendado em 25 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A QUE SE REPORTA O N.º 3 DO ARTIGO 5.º
+ANEXO A QUE SE REPORTA O N.º 3 DO ARTIGO 5.º
 
 Normas para constituição de processos de produtos de uso veterinário
 

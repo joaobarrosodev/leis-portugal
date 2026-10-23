@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/25/1998/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1998-223201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f67d289c531cdf15c86af7d9e8156d1723e78428c8e63f6483711282a762eb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35eb1ed5e357a31aa87aceb9f4ad7781c86ad013041e40d33d479f5aa4257cf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,20 @@ subjects:
 - Centro de Psicologia Aplicada do Exército
 - Comando da Instrução
 - Comando da Logística
-- Exército
 - Comando do Pessoal
 - Definição de Competências
+- Exército
 relationships:
 - type: amended_by
   target: pt:dre:532057:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532057:por
+  label: "Alterado o art. 13.º do DR 44/94, de 02-Set DR.IS-B [203], na redacção dada pelo presente diploma, pelo DR.5/99.1999.03.04.MDN\
+    \ DR.IS-B [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1999-532057
+  date: '1999-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
@@ -85,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/44/1994/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/44/1994/09/02/p/dre
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658441:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:24Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +165,9 @@ n) [Anterior alínea m).]
 
 o) [Anterior alínea n).]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - À Direcção de Apoio de Serviços de Pessoal incumbe propor, dirigir e coordenar a execução das actividades desenvolvidas no âmbito da assistência na doença aos militares do Exército e do apoio social, assistência religiosa, moral e bem-estar do pessoal militar e civil do Exército.
 
@@ -173,7 +189,9 @@ g) ...
 
 h) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -191,7 +209,9 @@ f) A Repartição de Assistência Religiosa, à qual incumbe exercer, no seu âm
 
 g) [Anterior alínea f).]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 ...
 
@@ -241,7 +261,9 @@ x) ...
 
 z) ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 ...
 
@@ -261,7 +283,9 @@ g) [Anterior alínea h).]
 
 h) [Anterior alínea i).]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 ...
 
@@ -287,12 +311,12 @@ Presidência do Conselho de Ministros, 24 de Setembro de 1998.
 
 José Veiga Simão - José Veiga Simão.
 
-**Promulgado em 21 de Outubro de 1998.**
+Promulgado em 21 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 1998.**
+Referendado em 23 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

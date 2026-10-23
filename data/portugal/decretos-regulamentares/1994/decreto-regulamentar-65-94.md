@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/267b00/68766878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/65/1994/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1994-550188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e08b3f191b15c3a863151b327dc6627a273006b477e370a89d8169b9a5b6dce4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 896409002f1b14256d4b0cbb45e3f5d5dfb1b4b6245c0d904b0d4f839e8a8a87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta de Condução
-- Exame de Condução
 - Código da Estrada
 - Direcção Geral de Viação
+- Exame de Condução
 - Veículo
 relationships:
 - type: amended_by
   target: pt:dre:423602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462002:por
+  label: "Alterados os arts. 3.º e 4.º pelo DR.19/95.1995.07.18.MAI DR.IS-B [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1995-462002
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:469198:por
+  label: "Alterado o art 9º pelo DR.10/97.1997.04.21.MAI, DR.IS-B [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-1997-469198
+  date: '1997-04-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423602:por
+  label: "Revogado pelo DEC LEI. 209/98.1998.07.15.MAI, DR.IS-A [161]I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1998-423602
+  date: '1998-07-15'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:36Z'
   warnings: []
   errors: []
 ---
@@ -241,12 +260,12 @@ Presidência do Conselho de Ministros, 8 de Agosto de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - José Manuel Durão Barroso.
 
-**Promulgado em 31 de Outubro de 1994.**
+Promulgado em 31 de Outubro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Novembro de 1994.**
+Referendado em 3 de Novembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

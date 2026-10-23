@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-1972-400025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d23c9bd13620298b870dc7682b5448dcfc4fb43c1ee696864823bf0eb048a510
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb9947837d24eae9526a14de5593e4aa4000b2ca20d80db0b686c7b75dca2dc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:213060:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:55Z'
   warnings: []
   errors: []
 ---
@@ -86,4 +90,4 @@ de 21 de Janeiro
 
 Manda o Governo da República Portuguesa pelos Ministros do Interior e das Finanças, nos termos do n.º 3 do artigo 44.º do [Decreto-Lei n.º 49476](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49476-1969-213060), de 30 de Dezembro de 1969 (estatuto da empresa pública Imprensa Nacional), e atendendo ao que por ela foi solicitado, autorizar a mesma empresa a contrair na Caixa-Geral de Depósitos, Crédito e Previdência um empréstimo de 9000000$00, à taxa de juro de 6,5 por cento ao ano a pagar semestralmente e com o período de utilização de dois anos. O referido empréstimo destina-se a financiar a 1.ª fase da construção das novas instalações fabris da Imprensa Nacional, a implantar em Albarraque, freguesia de S. Pedro de Penaferrim, concelho de Sintra, assim como parte da aquisição do terreno para elas indispensável, será amortizado em dezasseis semestralidades, a primeira das quais se vencerá dois anos e meio depois da celebração do respectivo contrato, e os encargos dele resultantes serão garantidos pela inscrição orçamental das verbas necessárias à sua satisfação.
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Finanças, João Augusto Dias Rosas.

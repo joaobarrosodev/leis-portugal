@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2001/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2001-345150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f003ca5f8b5462a23613cad3a6d325008a1eecc13aeb2e556782626a4621bc72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0adac8f9b89a2c008452512bc28e3558f03c255743f0f6b6ac7c2c09f95e4594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/1998/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1998/04/03/p/dre
+- type: cites
+  target: pt:dre:209019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582192:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:44Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +129,9 @@ c) ...
 
 d) ...
 
-###### Artigo 10.º — Director
+Artigo 10.º
+
+Director
 
 1 - O director, que é também o director artístico do TNSC, é, independentemente da sua nacionalidade, uma personalidade com perfil, formação e experiência no domínio da programação e direcção artísticas das actividades lírica e sinfónica, nomeado pelo Primeiro-Ministro, sob proposta do Ministro da Cultura.
 
@@ -141,7 +151,9 @@ f) Representar o TNSC em juízo ou fora dele;
 
 g) Exercer todas as demais competências que lhe sejam cometidas ou delegadas nos termos da lei.
 
-###### Artigo 11.º — Conselho directivo
+Artigo 11.º
+
+Conselho directivo
 
 1 - O conselho directivo é constituído pelo director, que preside, e por dois vogais nomeados pelo Ministro da Cultura, sob proposta do director.
 
@@ -175,13 +187,17 @@ l) Celebrar contratos-programa, protocolos de colaboração ou apoio e contratos
 
 5 - O conselho directivo reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo director, por sua iniciativa ou por solicitação dos dois vogais.
 
-###### Artigo 12.º — Vinculação
+Artigo 12.º
+
+Vinculação
 
 1 - O TNSC obriga-se pelas assinaturas de dois membros do conselho directivo, um dos quais obrigatoriamente o director, na execução das deliberações do conselho directivo ou das decisões ao abrigo de delegação, excepto em assuntos de mero expediente, em que é suficiente a assinatura de um deles.
 
 2 - O disposto no número anterior não prejudica a possibilidade de delegação de assinatura.
 
-###### Artigo 13.º — Regime aplicável ao director e aos vogais do conselho directivo
+Artigo 13.º
+
+Regime aplicável ao director e aos vogais do conselho directivo
 
 1 - O mandato do director e dos vogais do conselho directivo do TNSC, salvo disposição em contrário do respectivo despacho de nomeação, tem a duração de três anos, renovável por uma só vez, mantendo-se os seus titulares em exercício de funções até à sua efectiva substituição.
 
@@ -191,7 +207,9 @@ l) Celebrar contratos-programa, protocolos de colaboração ou apoio e contratos
 
 4 - Quando funcionários do Estado, de institutos públicos e das autarquias locais, bem como trabalhadores de empresas públicas ou de outras pessoas colectivas de direito público, o director e os vogais do conselho directivo exercem as suas funções em regime de requisição ou comissão de serviço, de reconhecido interesse público, com a faculdade de optarem pelos vencimentos correspondentes aos lugares de origem.
 
-###### Artigo 15.º — Competências da comissão de fiscalização
+Artigo 15.º
+
+Competências da comissão de fiscalização
 
 1 - ...
 
@@ -213,7 +231,9 @@ b) Solicitar ao conselho directivo reuniões conjuntas dos dois órgãos para ap
 
 3 - ...
 
-###### Artigo 16.º — Conselho consultivo
+Artigo 16.º
+
+Conselho consultivo
 
 1 - O conselho consultivo é um órgão de apoio ao conselho directivo que assegura uma melhor inserção do TNSC na sociedade, estabelecendo para o efeito mecanismos de diálogo e articulação com um amplo leque de sectores sócio-profissionais, culturais e económicos, directa ou indirectamente interligados ou interessados na acção do TNSC.
 
@@ -225,7 +245,9 @@ b) Formular recomendações que possam auxiliar o conselho directivo a realizar 
 
 3 - ...
 
-###### Artigo 17.º — Departamentos
+Artigo 17.º
+
+Departamentos
 
 1 - ...
 
@@ -239,7 +261,9 @@ d) ...
 
 2 - Para a prossecução dos seus objectivos e racionalização da gestão dos recursos do TNSC, o conselho directivo pode constituir unidades mistas temporárias de configuração diversificada, podendo envolver pessoal de qualquer das unidades orgânicas referidas no número anterior, acrescido ou não de colaboradores externos, cujos objectivos e hierarquia funcional interna são estabelecidos no acto da respectiva criação.
 
-###### Artigo 19.º — Orquestra Sinfónica Portuguesa
+Artigo 19.º
+
+Orquestra Sinfónica Portuguesa
 
 1 - A Orquestra Sinfónica Portuguesa (OSP) é a orquestra do TNSC, com uma temporada sinfónica e coral-sinfónica própria, competindo-lhe ainda participar na temporada lírica, de acordo com a programação estabelecida pelo director.
 
@@ -249,7 +273,9 @@ d) ...
 
 4 - Os contratos do maestro titular e do maestro-adjunto, dos quais constarão as respectivas competências, são aprovados pelo Ministro da Cultura.
 
-###### Artigo 20.º — Coro do TNSC
+Artigo 20.º
+
+Coro do TNSC
 
 1 - ...
 
@@ -265,7 +291,9 @@ d) ...
 
 3 - A escolha do maestro titular do Coro do TNSC é feita por despacho do Ministro da Cultura, sob proposta do director, devendo recair sobre uma personalidade de reconhecido mérito musical e comprovada experiência no domínio da direcção coral, independentemente da nacionalidade.
 
-###### Artigo 27.º — Receitas
+Artigo 27.º
+
+Receitas
 
 1 - ...
 
@@ -297,13 +325,17 @@ n) ...
 
 2 - A política de preços de bilheteira deve ser anualmente proposta pelo conselho directivo e aprovada por despacho do Ministro da Cultura.
 
-###### Artigo 33.º — Pessoal sujeito ao contrato individual de trabalho
+Artigo 33.º
+
+Pessoal sujeito ao contrato individual de trabalho
 
 1 - ...
 
 2 - Os parâmetros a que deve obedecer o sistema retributivo do pessoal referido no número anterior são aprovados por portaria conjunta dos Ministros das Finanças e da Cultura, sob proposta do conselho directivo.
 
-###### Artigo 34.º — Pessoal convidado
+Artigo 34.º
+
+Pessoal convidado
 
 1 - Para a realização da sua programação artística, o TNSC poderá, sob proposta do director, convidar maestros, encenadores, solistas vocais ou instrumentais, cenógrafos, figurinistas, designers de luz, compositores, músicos suplementares para a OSP ou para o Coro do TNSC, coreógrafos, professores e quaisquer outros colaboradores artísticos independentes, mediante a celebração de contrato escrito.
 
@@ -311,7 +343,9 @@ n) ...
 
 3 - Sem prejuízo da especificidade determinada pelas regras de contratação do mercado artístico nacional e internacional, as remunerações dos serviços referidos no presente artigo deverão pautar-se por padrões remuneratórios genéricos a aprovar anualmente pelo Ministro da Cultura, sob proposta do conselho directivo do TNSC.
 
-###### Artigo 36.º — Segurança social
+Artigo 36.º
+
+Segurança social
 
 1 - ...
 
@@ -327,12 +361,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Estêvão Cangarato Sasportes - Alberto de Sousa Martins.
 
-**Promulgado em 21 de Março de 2001.**
+Promulgado em 21 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Março de 2001.**
+Referendado em 22 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

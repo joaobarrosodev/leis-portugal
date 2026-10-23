@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1980-474144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e20c35ab43ae56e7927714c3c56df3b58e29e9a160bcd82792397d64405b218
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4541b2c5a429f342117889540e411c548b091dfa1e4c240d22c260703fa83424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português do Livro
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:662933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662933:por
+  label: "Extinto o Instituto Português do Livro, cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.71/87.11.02.1987.MEC,\
+    \ DR.IS [35] de 11.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1987-662933
+  date: '1987-02-11'
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459900:por
+  label: Rectificado pela DECL.DD6598.02.12.1980.PCM, DR.IS [289] de 16.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459900
+  date: '1980-12-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:50Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +135,13 @@ Usando da faculdade conferida pela alínea c) do artigo 202.º da Constituição
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto Português do Livro, adiante designado IPL, goza de autonomia administrativa.
+Artigo 1.º O Instituto Português do Livro, adiante designado IPL, goza de autonomia administrativa.
 
-###### Art. 2.º - 1 - O IPL tem como objectivo zelar pela defesa, protecção e expansão do livro enquanto instrumento de cultura, promover o conhecimento e a divulgação das obras de cultura e dos escritores portugueses, com atenção especial para a valorização do património literário nacional, e bem assim criar meios de interacção da criação literária das diversas áreas de expressão portuguesa, com respeito pela liberdade de programação editorial.
+Art. 2.º - 1 - O IPL tem como objectivo zelar pela defesa, protecção e expansão do livro enquanto instrumento de cultura, promover o conhecimento e a divulgação das obras de cultura e dos escritores portugueses, com atenção especial para a valorização do património literário nacional, e bem assim criar meios de interacção da criação literária das diversas áreas de expressão portuguesa, com respeito pela liberdade de programação editorial.
 
 2 - Ao IPL ficará vedado o exercício de actividades editoriais próprias.
 
-###### Art. 3.º Na prossecução das suas finalidades compete ao IPL:
+Art. 3.º Na prossecução das suas finalidades compete ao IPL:
 
 a) Assegurar o conhecimento e a divulgação do património literário português;
 
@@ -138,7 +171,7 @@ n) Colaborar com outras instituições culturais, nacionais ou estrangeiras, pod
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º - 1 - O IPL é dirigido por um presidente e compreende os seguintes órgãos:
+Art. 4.º - 1 - O IPL é dirigido por um presidente e compreende os seguintes órgãos:
 
 a) Conselho consultivo;
 
@@ -162,7 +195,7 @@ a) Secção de Pessoal e Expediente;
 
 b) Secção de Contabilidade e Economato.
 
-###### Art. 5.º - 1 - Ao presidente compete dirigir superiormente o IPL e orientar e coordenar as suas actividades, designadamente:
+Art. 5.º - 1 - Ao presidente compete dirigir superiormente o IPL e orientar e coordenar as suas actividades, designadamente:
 
 a) Representar o IPL em juízo e fora dele;
 
@@ -176,7 +209,7 @@ e) Propor iniciativas de coordenação com outros organismos que visem objectivo
 
 f) Promover a elaboração do relatório da actividade anual do IPL, a publicar até ao dia 31 de Março do ano seguinte, com indicação das verbas destinadas à realização dos seus objectivos.
 
-###### Art. 6.º - 1 - O conselho consultivo é constituído pelo presidente e sete vogais, sendo dois escritores, um docente universitário, um professor efectivo ou profissionalizado do ensino secundário, um editor, um livreiro e um técnico superior do IPL, que servirá de secretário.
+Art. 6.º - 1 - O conselho consultivo é constituído pelo presidente e sete vogais, sendo dois escritores, um docente universitário, um professor efectivo ou profissionalizado do ensino secundário, um editor, um livreiro e um técnico superior do IPL, que servirá de secretário.
 
 2 - Os vogais são designados anualmente por despacho do membro que tiver a seu cargo a área da cultura.
 
@@ -186,11 +219,11 @@ f) Promover a elaboração do relatório da actividade anual do IPL, a publicar 
 
 5 - A participação nas reuniões do conselho consultivo confere o direito à percepção de senhas de presença, a abonar nos termos da lei geral, bem como o direito a ajudas de custo e transportes, nos termos da legislação em vigor.
 
-###### Art. 7.º Compete ao conselho consultivo apreciar e dar parecer sobre as propostas que digam respeito à actividade cultural prosseguida pelo IPL.
+Art. 7.º Compete ao conselho consultivo apreciar e dar parecer sobre as propostas que digam respeito à actividade cultural prosseguida pelo IPL.
 
-###### Art. 8.º O conselho administrativo é constituído pelo presidente, pelo chefe da Repartição Administrativa e por um representante da Direcção-Geral da Contabilidade Pública.
+Art. 8.º O conselho administrativo é constituído pelo presidente, pelo chefe da Repartição Administrativa e por um representante da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 9.º Compete ao conselho administrativo:
+Art. 9.º Compete ao conselho administrativo:
 
 a) Orientar a preparação dos projectos dos orçamentos do IPL;
 
@@ -204,7 +237,7 @@ e) Superintender na elaboração da conta anual de gerência;
 
 f) Proceder à verificação dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade.
 
-###### Art. 10.º À Direcção de Serviços Técnicos compete:
+Art. 10.º À Direcção de Serviços Técnicos compete:
 
 a) O estudo e a programação da actividade cultural do IPL, e bem assim o apoio técnico e económico à edição;
 
@@ -212,7 +245,7 @@ b) Promover a divulgação das obras literárias e dos escritores;
 
 c) Desenvolver e apoiar a dinamização das bibliotecas sem prejuízo das competências próprias de outros serviços neste domínio.
 
-###### Art. 11.º À Divisão Técnica Editorial compete:
+Art. 11.º À Divisão Técnica Editorial compete:
 
 a) A informação e a consulta sobre as iniciativas culturais do IPL e o estudo e a pesquisa sobre matérias respeitantes à sua actividade;
 
@@ -226,7 +259,7 @@ e) Prestar apoio técnico e financeiro aos editores, distribuidores e livreiros 
 
 f) Promover o aperfeiçoamento da arte gráfica dos livros.
 
-###### Art. 12.º À Divisão de Difusão do Livro compete:
+Art. 12.º À Divisão de Difusão do Livro compete:
 
 a) Cooperar com outras entidades nas acções de apoio a bibliotecas públicas e privadas de interesse colectivo;
 
@@ -236,9 +269,9 @@ c) Apoiar a constituição, manutenção e renovação de bibliotecas públicas 
 
 d) Executar acções tendentes à expansão das obras literárias e divulgação dos autores, nomeadamente através de meios publicitários e do apoio à difusão do livro e da leitura.
 
-###### Art. 13.º À Repartição Administrativa compete assegurar os serviços de contabilidade, de economato, de expediente geral e arquivo do IPL, bem como os relacionados com o recrutamento e a administração do seu pessoal.
+Art. 13.º À Repartição Administrativa compete assegurar os serviços de contabilidade, de economato, de expediente geral e arquivo do IPL, bem como os relacionados com o recrutamento e a administração do seu pessoal.
 
-###### Art. 14.º À Secção de Pessoal e Expediente compete, designadamente:
+Art. 14.º À Secção de Pessoal e Expediente compete, designadamente:
 
 a) Ocupar-se do recrutamento e da administração do pessoal do IPL;
 
@@ -250,7 +283,7 @@ d) Prestar apoio administrativo aos órgãos e serviços do IPL, bem como a comi
 
 e) Elaborar os trabalhos de reprografia necessários aos órgãos e serviços do IPL.
 
-###### Art. 15.º À Secção de Contabilidade e Economato compete prestar todo o apoio necessário ao conselho administrativo do IPL, designadamente:
+Art. 15.º À Secção de Contabilidade e Economato compete prestar todo o apoio necessário ao conselho administrativo do IPL, designadamente:
 
 a) Elaborar, sob a orientação do conselho administrativo, os projectos dos orçamentos do IPL;
 
@@ -264,15 +297,15 @@ e) Apoiar as acções respeitantes à estatística e ao planeamento do IPL, sem 
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 16.º As receitas provenientes de actividades ou serviços prestados pelo IPL, ou quaisquer outras que lhe sejam atribuídas por lei, contrato ou outro título, só poderão ser utilizadas através de contas de ordem a movimentar pelo Orçamento Geral do Estado, nos termos do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
+Art. 16.º As receitas provenientes de actividades ou serviços prestados pelo IPL, ou quaisquer outras que lhe sejam atribuídas por lei, contrato ou outro título, só poderão ser utilizadas através de contas de ordem a movimentar pelo Orçamento Geral do Estado, nos termos do [Decreto-Lei n.º 264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 17.º - 1 - O pessoal do quadro do IPL é o constante do mapa anexo ao presente diploma.
+Art. 17.º - 1 - O pessoal do quadro do IPL é o constante do mapa anexo ao presente diploma.
 
 2 - O pessoal do IPL será distribuído pelos respectivos serviços mediante despacho do seu presidente.
 
-###### Art. 18.º - 1 - O provimento do pessoal do quadro será feito por nomeação provisória ou comissão de serviço durante o período de um ano.
+Art. 18.º - 1 - O provimento do pessoal do quadro será feito por nomeação provisória ou comissão de serviço durante o período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -284,7 +317,7 @@ b) Será exonerado ou regressará ao serviço de origem, conforme se trate de no
 
 4 - O disposto no n.º 1 e na alínea b) do n.º 2 não prejudica a nomeação em comissão de serviço por período não superior a um ano, com base na opção do funcionário ou por conveniência da administração.
 
-###### Art. 19.º - 1 - O recrutamento do pessoal dirigente far-se-á nos termos da lei geral.
+Art. 19.º - 1 - O recrutamento do pessoal dirigente far-se-á nos termos da lei geral.
 
 2 - O lugar de chefe de repartição é provido de entre:
 
@@ -300,15 +333,15 @@ b) Indivíduos habilitados com curso superior e e experiência adequada.
 
 4 - Às carreiras de pessoal técnico superior, pessoal técnico, pessoal técnico-profissional, oficial administrativo, escriturário-dactilógrafo, telefonista, motorista e outro pessoal auxiliar aplicam-se as disposições do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 20.º A integração do pessoal do quadro do IPL será efectuada mediante diploma individual de provimento, independentemente de quaisquer outras formalidades, salvo o visto ou anotação do Tribunal de Contas, conforme os casos, a publicação no Diário da República e a posse.
+Art. 20.º A integração do pessoal do quadro do IPL será efectuada mediante diploma individual de provimento, independentemente de quaisquer outras formalidades, salvo o visto ou anotação do Tribunal de Contas, conforme os casos, a publicação no Diário da República e a posse.
 
-###### Art. 21.º A integração do pessoal a que se refere o artigo anterior far-se-á nos termos da lei geral e sem prejuízo das seguintes regras:
+Art. 21.º A integração do pessoal a que se refere o artigo anterior far-se-á nos termos da lei geral e sem prejuízo das seguintes regras:
 
 a) Para categorias idênticas da carreira para a qual possua as habilitações legais;
 
 b) Na mesma categoria, que se extinguirá à medida que vagar, no caso de não preencher os requisitos previstos na alínea anterior.
 
-###### Art. 22.º - 1 - Os lugares do quadro previstos no [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, serão abatidos à medida em que pelos respectivos titulares forem preenchidos os lugares do quadro anexo ao presente diploma.
+Art. 22.º - 1 - Os lugares do quadro previstos no [Decreto-Lei n.º 409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, serão abatidos à medida em que pelos respectivos titulares forem preenchidos os lugares do quadro anexo ao presente diploma.
 
 2 - O pessoal dirigente provido ao abrigo da [Portaria n.º 548/75](https://diariodarepublica.pt/dr/detalhe/portaria/548-1975-307586), de 10 de Setembro, será integrado no quadro do pessoal dirigente do IPL, sem perda da situação nos termos do artigo 12.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
@@ -316,12 +349,12 @@ b) Na mesma categoria, que se extinguirá à medida que vagar, no caso de não p
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 9 de Maio de 1980.**
+Promulgado em 9 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o n.º 1 do artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11900/11171121.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11900/11171121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11900/11171121.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/50/2006/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/50-2006-661921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46edc91a6a4a8f0b4736b254c203e060cf9429b372c73e6db55d064641297faa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91fbdf764ac16ea36ac1a6772a898d06e4f0541c5eea2d0718b04f005e2160a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- OIT
-- Trabalho a Tempo Parcial
 - Genebra
+- OIT
+- Portugal
+- Trabalho a Tempo Parcial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/37/2006/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/37/2006/04/28/p/dre
+- type: cites
+  target: pt:dre:661930:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:21Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +98,16 @@ validation:
 
 de 28 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção n.º 175, sobre trabalho a tempo parcial, da Organização Internacional do Trabalho, adoptada em Genebra em 24 de Junho de 1994, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 37/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-2006-661930), em 26 de Janeiro de 2006.
 
-**Assinado em 6 de Abril de 2006.**
+Assinado em 6 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 19 de Abril de 2006.**
+Referendado em 19 de Abril de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

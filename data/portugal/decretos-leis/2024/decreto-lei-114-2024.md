@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24700/0000900014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2024/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2024-900840740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c861837acc4f1aaea48c50c53d61e7e7f649cdf2d36b769338b18f9f23d8e5dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddc295be1b72a0d37a6ba1b17c0ad3d4a16d000c63efc0c075d2c30c79baf57a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comunicações Eletrónicas
-- Pagamento por Conta
 - Comunicações
-- Taxa
+- Comunicações Eletrónicas
 - Operador de Rede de Comunicações Eletrónicas
+- Pagamento por Conta
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:1006464118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:16/2022
+  label: Altera, a partir de 21 de dezembro de 2024, nos termos dos artigos 5.º e 7.º do presente diploma, os artigos 27.º,
+    167.º e 171.º e adita o artigo 167.º-A e os anexos iv e v à Lei das Comunicações Eletrónicas, aprovada em anexo à Lei
+    n.º 16/2022, de 16 de agosto, Diário da República n.º 157/2022, Série I
+  source: null
+  date: '2022-08-16'
 - type: cites
   target: celex:32018L1972
   label: null
@@ -96,16 +103,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/296-a/2013/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/296-a/2013/10/02/p/dre
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211844895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244541:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:1473-B/2008
+  label: Revoga, a partir de 21 de dezembro de 2024, o anexo ii da Portaria n.º 1473-B/2008, de 17 de dezembro, Diário da
+    República n.º 243/2008, 1º Suplemento, Série I
+  source: null
+  date: '2008-12-17'
 article_structure:
-  article_count: 10
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:34Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +147,9 @@ Em moldes idênticos aos da sua antecessora, a atual Lei das Comunicações Elet
 
 As disposições relativas à taxa anual devida pelo exercício da atividade de fornecedor de redes e serviços de comunicações eletrónicas estão, a nível infralegal, previstas no anexo ii da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, na redação introduzida pela [Portaria n.º 296-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/296-a-2013-244541), de 2 de outubro.
 
-Após as recentes decisões jurisprudenciais do tribunal constitucional, no espírito de lealdade constitucional e boa-fé, considera-se adequado proceder a uma alteração legislativa que mantém, em parte, a solução acolhida no anexo ii da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, transpondo para o artigo 167.º da LCE as disposições até agora previstas nos n.<sup>os</sup>1, 2, 3, 6 e 7 do referido anexo, à semelhança da solução adotada pela [Lei n.º 18/2023](https://diariodarepublica.pt/dr/detalhe/lei/18-2023-211844895), de 17 de abril, que concretiza os elementos essenciais da taxa associada à prestação de serviços postais. A LCE - que agora prevê uma efetiva contribuição financeira - adapta-se assim à jurisprudência constitucional.
+Após as recentes decisões jurisprudenciais do tribunal constitucional, no espírito de lealdade constitucional e boa-fé, considera-se adequado proceder a uma alteração legislativa que mantém, em parte, a solução acolhida no anexo ii da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro, transpondo para o artigo 167.º da LCE as disposições até agora previstas nos n.os1, 2, 3, 6 e 7 do referido anexo, à semelhança da solução adotada pela [Lei n.º 18/2023](https://diariodarepublica.pt/dr/detalhe/lei/18-2023-211844895), de 17 de abril, que concretiza os elementos essenciais da taxa associada à prestação de serviços postais. A LCE - que agora prevê uma efetiva contribuição financeira - adapta-se assim à jurisprudência constitucional.
 
-Pelo presente decreto-lei, deixam ainda de ser consideradas as disposições dos n.<sup>os</sup>4 e 5 do anexo em causa, pois o que nelas se prevê deixou de ser aplicável no contexto da prestação do serviço universal no enquadramento da LCE em vigor. Assim sendo, procede-se à revogação integral do anexo ii da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro.
+Pelo presente decreto-lei, deixam ainda de ser consideradas as disposições dos n.os4 e 5 do anexo em causa, pois o que nelas se prevê deixou de ser aplicável no contexto da prestação do serviço universal no enquadramento da LCE em vigor. Assim sendo, procede-se à revogação integral do anexo ii da [Portaria n.º 1473-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1473-b-2008-198753), de 17 de dezembro.
 
 Com a concretização dos critérios de aplicação da contribuição financeira na LCE, o n.º 3 da redação inicial do artigo 167.º deixa de ser aplicável, sem prejuízo de se prever a possibilidade de fixação dos procedimentos relativos ao apuramento dos rendimentos relevantes para efeitos do cálculo do montante da taxa anual por portaria dos membros do Governo responsáveis pelas áreas das finanças e das comunicações, nos termos do n.º 11 da proposta de redação agora apresentada.
 
@@ -180,7 +209,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 167.º — Contribuição financeira
+Artigo 167.º
+
+Contribuição financeira
 
 1 - As empresas que oferecem redes e serviços de comunicações eletrónicas abrangidas pelo regime de autorização geral estão sujeitas ao pagamento de uma contribuição financeira anual.
 
@@ -204,7 +235,9 @@ c) [...]
 
 11 - Os procedimentos relativos ao apuramento dos rendimentos relevantes para efeitos do cálculo do montante da contribuição financeira referida no n.º 5 são fixados, ouvida a ARN, por portaria dos membros do Governo responsáveis pelas áreas das finanças e das comunicações.
 
-###### Artigo 171.º — [...]
+Artigo 171.º
+
+[...]
 
 1 - [...]
 
@@ -286,15 +319,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 14 de dezembro de 2024.**
+Promulgado em 14 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de dezembro de 2024.**
+Referendado em 16 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -306,21 +339,27 @@ Escalões de rendimentos relevantes
 
 | Código da contribuição financeira | Escalões | De … euros | a … euros | Taxa T(euros) |
 | --- | --- | --- | --- | --- |
-| 121101 | 0 | 0 | 250 000 | T<sub>0</sub> = 0 |
-| 121102 | 1 | 250 001 | 1 500 000 | T<sub>1</sub> = 2 500 |
-| 121103 | 2 | 1 500 001 | Sem limite | T<sub>2</sub> |
+| 121101 | 0 | 0 | 250 000 | T0 = 0 |
+| 121102 | 1 | 250 001 | 1 500 000 | T1 = 2 500 |
+| 121103 | 2 | 1 500 001 | Sem limite | T2 |
 
-## ANEXO V — Fórmula de cálculo para o escalão 2
+ANEXO V
+
+Fórmula de cálculo para o escalão 2
 
 (a que se refere o n.º 5 do artigo 167.º)
 
-| Fórmula de cálculo da taxa T<sub>2</sub> | Fórmula de cálculo da taxa T<sub>2</sub> | Fórmula de cálculo da taxa T<sub>2</sub> |  |
+| Fórmula de cálculo da taxa T2 |  |  |  |
 | --- | --- | --- | --- |
-| T<sub>i</sub> <sub>(ano</sub>n<sub>)</sub><sub>=</sub> | Taxa devida pelas entidades do escalão i (i = 0, 1, 2) no ano n. | Taxa devida pelas entidades do escalão i (i = 0, 1, 2) no ano n. |  |
-| n<sub>i</sub> (<sub>ano</sub>n<sub>)</sub><sub>=</sub> | Número de entidades do escalão i (i = 0, 1, 2) no ano n. | Número de entidades do escalão i (i = 0, 1, 2) no ano n. |  |
-| R<sub>i (ano</sub>n<sub>)</sub><sub>=</sub> | Rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n, a remeter à ARN. | Rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n, a remeter à ARN. |  |
-| ∑R<sub>i (ano</sub>n<sub>)</sub> = | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n. | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n. |  |
-| C <sub>(ano</sub>n<sub>)</sub><sub>=</sub> | Total de custos (gastos) administrativos da ARN a considerar para o ano n, correspondente ao valor médio dos últimos 3 exercícios da componente de custos (gastos) sem provisões para processos judiciais associados ao setor das comunicações. | Total de custos (gastos) administrativos da ARN a considerar para o ano n, correspondente ao valor médio dos últimos 3 exercícios da componente de custos (gastos) sem provisões para processos judiciais associados ao setor das comunicações. |  |
-| R<sub>2 (ano</sub>n<sub>)</sub><sub>=</sub> | Rendimentos relevantes de entidade do escalão 2 no ano n. | Rendimentos relevantes de entidade do escalão 2 no ano n. |  |
-| t<sub>2 (ano</sub>n<sub>)</sub> = | (C <sub>(ano</sub>n<sub>)</sub> - T<sub>1 (ano</sub>n<sub>)</sub>n<sub>1 (ano</sub>n<sub>)</sub>)/∑R<sub>2</sub> <sub>(ano</sub>n<sub>)</sub> | Percentagem contributiva (%) das entidades do escalão 2 no ano n. |  |
-| T<sub>2</sub> <sub>(ano</sub>n<sub>)</sub>= | t2<sub>(ano</sub>n<sub>)</sub>× R<sub>2 (ano</sub>n<sub>)</sub> | t2<sub>(ano</sub>n<sub>)</sub>× R<sub>2 (ano</sub>n<sub>)</sub> | » |
+| Ti (anon)= | Taxa devida pelas entidades do escalão i (i = 0, 1, 2) no ano n. |  |  |
+| ni (anon)= | Número de entidades do escalão i (i = 0, 1, 2) no ano n. |  |  |
+| Ri (anon)= | Rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n, a remeter à ARN. |  |  |
+| ∑Ri (anon) = | Total de rendimentos relevantes das entidades do escalão i (i = 0, 1, 2) relativos ao ano n. |  |  |
+| C (anon)= | Total de custos (gastos) administrativos da ARN a considerar para o ano n, correspondente ao valor médio dos últimos 3 exercícios da componente de custos (gastos) sem provisões para processos judiciais associados ao setor das comunicações. |  |  |
+| R2 (anon)= | Rendimentos relevantes de entidade do escalão 2 no ano n. |  |  |
+| t2 (anon) = | (C (anon) - T1 (anon)n1 (anon))/∑R2 (anon) | Percentagem contributiva (%) das entidades do escalão 2 no ano n. |  |
+| T2 (anon)= | t2(anon)× R2 (anon) | » |  |
+
+118492977
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { min-height:37px; } .Tbl14 { min-height:28px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl16 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl17 { text-indent:0px; margin-top:0px; text-align:right; }

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/152-1974-412993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e0bf54f7befcfe873c846c3855b469b6aade1965f1e0de1f00ff9cd41d21f3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11d3950d008c7b942a3f96c819cd4a82338e84ad593d7a7f67305485ebb3fb70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,31 @@ relationships:
   target: pt:dre:427860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427860:por
+  label: "Eliminada a categoria de servente do quadro de pessoal civil constante da al. a) do nº 2º do presente diploma, na\
+    \ redacção que conferiu ao quadro de pessoal civil constante do Dec Lei 44166 de 26-Jan de 1962, pelo DEC LEI.334/76.11.05.1976.CR,\
+    \ DR.IS [110] de 11.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1976-427860
+  date: '1976-05-11'
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520003:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:20:36Z'
   warnings: []
   errors: []
 ---

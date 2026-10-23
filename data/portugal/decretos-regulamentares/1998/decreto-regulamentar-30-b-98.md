@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1998, 1º Suplemento, Série I-B de 1998-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7384-(4) a 7384-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/301b01/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/30-b/1998/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-b-1998-265707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7541f61a4972baa69944372184d114f8c18412c360ed08bcdb6e9b1462e17e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f983abc7f6f81af00c3f67d80eaf5ba12181d01095b6f88017dc0a56070d706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Aposentação
 - Administração Pública
-- Sistema Retributivo
+- Aposentação
 - Carreira Profissional
-- Lisboa
-- Integração de Trabalhadores
 - Centro de Saúde
-- Santa Casa da Misericórdia
+- Estabelecimento Hospitalar
+- Função Pública
+- Funcionário Público
+- Integração de Trabalhadores
+- Lisboa
+- Ministério da Saúde
+- Mobilidade de Pessoal
 - Pessoal Auxiliar
 - Pessoal de Chefia
 - Promoção Profissional
-- Ministério da Saúde
 - Reestruturação de Carreiras
-- Estabelecimento Hospitalar
 - Remuneração
-- Mobilidade de Pessoal
-- Funcionário Público
+- Santa Casa da Misericórdia
+- Sistema Retributivo
 - Tabela Salarial
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667145:por
+  label: "Alteradas as escalas indiciárias aprovadas pelo Dec Lei 231/92 de 21-Out, na redacção do presente diploma, pelo\
+    \ DEC LEI.413/99.1999.10.15.MS, DR.IS-A [241], de acordo com as do seu Anexo I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1999-667145
+  date: '1999-10-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1992/10/21/p/dre
   label: null
@@ -98,16 +104,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:31Z'
   warnings: []
   errors: []
 ---
@@ -162,14 +186,14 @@ Presidência do Conselho de Ministros, 3 de Dezembro de 1998.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 29 de Dezembro de 1998.**
+Promulgado em 29 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1998.**
+Referendado em 30 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/301b01/00040005.pdf)

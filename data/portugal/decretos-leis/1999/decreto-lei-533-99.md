@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/533/1999/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1999-632723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ebf6345ca74f6d06203c0e525a36ebbdc6cb8910c300931767a2d5c8d46b02d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 329ce239574e839b4571562aec113ffe3ee64e008e306720d0a12981e834d9e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,95 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Código do Registo Comercial
 - Código do Registo Predial
-- Registo Predial
+- Modernização Administrativa
 - Registo Comercial
+- Registo Predial
 relationships:
 - type: amended_by
   target: pt:dre:499550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterado o art. 132º do Código de Registo Predial, aprovado pelo Dec Lei 224/84 de 06-Jun, na redacção do presente\
+    \ diploma, pelo DEC LEI.273/2001.13.10.2001.MJ, DR.IS-A [238] de 13.10.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 97º do Código do Registo Predial, aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção do presente\
+    \ diploma, pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados, a partir de 15.09.2003, os art.s 48.º e 92.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84,\
+    \ de 06-Jul, na redacção do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 5º do Código do Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção introduzida\
+    \ pelo presente diploma, pela LEI.6/2006.27.02.2006.AR, DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art 28º-A do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 147º-A, aditado pelo presente diploma ao Código do Registo Predial, aprovado\
+    \ pelo Dec Lei 224/84, de 06-Jul, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 2º, 5º, 6º, 9º, 26º, 27º, 28º, 31º, 39º, 42º, 43º, 44º, 45º, 47º, 48º, 49º, 58º, 71º, 72º, 78º,\
+    \ 83º, 85º, 92º, 95º, 97º, 101º, 107º, 108º, 109º, 109º-A, 109º-B, 109º-C, 109º-E, 110º, 119º, 135º, 140º, 141º, 142º,\
+    \ 144º, 145º, 147º-A, 147º-B, 147º-C, 148º, 149º e 151º e revogados os art.s 19º e 21º, nº 2 do art 27º, art.s 30º e 32º,\
+    \ nºs 2, 3, 4, 5 e 8 do art. 42º, nº 4 do art. 43º, al.s d), e) e f) do nº 1 do art. 44º, nºs 2 e 3 do art. 48º, art.s\
+    \ 62º e 65º, al.s e) e o) do nº 1 do art 92º, art. 115º, nº 2 do art. 141º, nºs 3, 4 e 5 do art. 142º, art. 143º e art.\
+    \ 150º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente diploma, pelo DEC\
+    \ LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterados, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), os arts. 39º e 92º do Código do Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção constante\
+    \ do presente diploma, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterados os art.s 43º, 45º e 47º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06 -Jul, na redacção\
+    \ do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Altera o art. 110º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:259267:por
+  label: "Alterados, a partir de 02.09.2013, os art.s 39.º e 92.º na redação do presente diploma, pela LEI.23/2013.05.03.2013.AR,\
+    \ DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterados os arts. 31º, 42º, 44º, 101º, 108º, 132º, 140º, 141º e 145º do Código do Registo Predial aprovado pelo\
+    \ Dec Lei 224/84, de 06-jul, na redação do presente diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -116,16 +195,107 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:179344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667973:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:462381:por
+  label: "Rectificado pela DECL-RECT.5-A/2000.2000.02.29.PCM DR.IS-A [50]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-a-2000-462381
+  date: '2000-02-29'
+- type: repealed_by
+  target: pt:dre:456492:por
+  label: "Revogado o art. 28º-A do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
 article_structure:
-  article_count: 233
-  section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 171
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:48Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +394,9 @@ x) ...
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +412,9 @@ c) ...
 
 4 - Terceiros, para efeitos de registo, são aqueles que tenham adquirido de um autor comum direitos incompatíveis entre si.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +424,9 @@ c) ...
 
 4 - Em caso de recusa, o registo feito na sequência de recurso julgado procedente conserva a prioridade correspondente à apresentação do acto recusado.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -264,7 +440,9 @@ c) ...
 
 3 - Tratando-se de prédio situado em área onde não tenha vigorado o registo obrigatório, o primeiro acto de transmissão posterior a 1 de Outubro de 1984 pode ser titulado sem a exigência prevista no n.º 1, se for exibido documento comprovativo, ou feita justificação simultânea, do direito da pessoa de quem se adquire.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Caducam decorridos 10 anos sobre a sua data os registos de hipoteca judicial, arresto ou penhora, de qualquer valor, os registos de hipoteca voluntária ou legal, de penhor e de consignação de rendimentos, de valor não superior a 500000$00, e os registos de apreensão, arrolamento e outras providências cautelares.
 
@@ -276,7 +454,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +466,9 @@ c) ...
 
 4 - Tratando-se de concessões em vias de comunicação, a conservatória competente é a correspondente ao ponto inicial, indicado pelo ministério competente.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -294,7 +476,9 @@ c) ...
 
 3 - As certidões e fotocópias referidas nos números anteriores são requisitadas e passadas gratuitamente, com indicação do fim a que se destinam.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -304,13 +488,17 @@ c) ...
 
 4 - (Actual n.º 3.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Os documentos respeitantes a actos recusados ou efectuados em termos diversos do pedido permanecem na conservatória quando tenha sido interposto recurso hierárquico ou contencioso, ou enquanto o prazo para a sua interposição não tiver expirado, salvo, no último caso, se o interessado pedir a sua devolução.
 
 2 - O pedido de devolução dos documentos só equivale à renúncia de recurso hierárquico ou contencioso se o interessado o declarar, por escrito.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os prédios rústicos situados nos concelhos onde vigore o cadastro geométrico não podem ser descritos, nem actualizadas as respectivas descrições, quanto à localização, área e artigo da matriz, em contradição com a correspondente inscrição matricial ou com o pedido da sua rectificação ou alteração.
 
@@ -318,7 +506,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -328,7 +518,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Para a realização de qualquer acto de registo devem ser comprovados os elementos da inscrição matricial exigidos pelo artigo 28.º por documento emitido, ou revalidado, há menos de um ano.
 
@@ -336,7 +528,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Se o prédio estiver omisso na matriz, a declaração para a inscrição, quando devida, deve ser comprovada por duplicado ou certidão da declaração emitidos há menos de um ano.
 
@@ -346,13 +540,17 @@ c) ...
 
 4 - Se a declaração para a inscrição na matriz ou o pedido da sua alteração ou rectificação não tiverem sido feitos pelo proprietário ou possuidor, deve o interessado, sendo terceiro, fazer prova de que deu conhecimento à repartição de finanças da omissão ou alteração ou do erro existente.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - (Actual corpo do artigo.)
 
 2 - Qualquer comproprietário ou compossuidor pode pedir, a favor de qualquer dos demais titulares, o registo de aquisição dos respectivos bens ou direitos.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O registo pode ser pedido por mandatário com procuração que lhe confira poderes especiais para o acto.
 
@@ -366,7 +564,9 @@ b) Os advogados e solicitadores.
 
 4 - A representação abrange sempre a faculdade de requerer urgência na realização do registo, subsiste até à feitura do registo e implica a responsabilidade solidária do representante no pagamento dos respectivos encargos.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -384,7 +584,9 @@ b) Os advogados e solicitadores.
 
 8 - (Actual n.º 7.)
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -394,7 +596,9 @@ b) Os advogados e solicitadores.
 
 4 - Em serviços anexados, os documentos existentes nos diversos arquivos podem ser utilizados para a realização de registos, desde que referenciados na requisição.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -416,11 +620,15 @@ f) ...
 
 4 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Salvo disposição em contrário, as declarações para registo, principais ou complementares, devem ser assinadas e conter a indicação, feita pelo signatário, do número, data e entidade emitente do respectivo bilhete de identidade ou documento de identificação equivalente.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -428,27 +636,37 @@ Salvo disposição em contrário, as declarações para registo, principais ou c
 
 3 - O registo provisório de aquisição pode também ser feito com base em contrato-promessa de alienação.
 
-###### Artigo 48.º — Aquisição por venda judicial
+Artigo 48.º
+
+Aquisição por venda judicial
 
 Nos casos de venda judicial em que a lei dispense o adquirente do depósito da totalidade do preço, o registo provisório de aquisição é feito com base em certidão comprovativa da identificação do adquirente, do objecto e do depósito da parte do preço exigida.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 O registo de aquisição em comum e sem determinação de parte ou direito é feito com base em documento comprovativo da habilitação e em declaração que identifique os bens a registar como fazendo parte da herança.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - O cancelamento dos registos de penhora, arresto e outras providências cautelares, nos casos em que a acção já não esteja pendente, faz-se com base na certidão passada pelo tribunal competente que comprove essa circunstância e a causa, ou ainda, nos processos de execução fiscal, a extinção ou não existência da dívida à Fazenda Pública.
 
 2 - No caso de venda judicial em processo de execução de bens penhorados ou arrestados, só após o registo daquela se podem efectuar os cancelamentos referidos no número anterior.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Feita a apresentação, será lançada nota do correspondente número de ordem e data na requisição e em cada um dos documentos apresentados, à excepção das cadernetas prediais.
 
 2 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -458,13 +676,17 @@ O registo de aquisição em comum e sem determinação de parte ou direito é fe
 
 4 - No prazo de cinco dias após a feitura do registo, os documentos que serviram de base à sua realização são devolvidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Os despachos de recusa e de provisoriedade por dúvidas devem ser lavrados no impresso-requisição pela ordem de anotação no Diário e são notificados aos interessados nos cinco dias seguintes.
 
 2 - Salvo nos casos previstos nas alíneas a), g) e i) do n.º 1 do artigo 92.º, a qualificação dos registos como provisórios por natureza é notificada aos interessados no prazo previsto no número anterior.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -474,7 +696,9 @@ O registo de aquisição em comum e sem determinação de parte ou direito é fe
 
 4 - Presume-se assegurado o pagamento dos direitos correspondentes às transmissões operadas em inventário judicial, partilha extrajudicial e escritura de doação, bem como relativamente a qualquer outra transmissão, desde que tenham decorrido os prazos de caducidade da liquidação ou de prescrição previstos nas leis fiscais.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -482,7 +706,9 @@ O registo de aquisição em comum e sem determinação de parte ou direito é fe
 
 3 - Se se concluir que podia ser lavrado, o registo é assinado, anotando-se o suprimento da irregularidade com menção da data ou, caso contrário, consignar-se-á sob a mesma forma que a falta é insuprível, notificando-se do facto o respectivo titular para efeitos de recurso.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -500,7 +726,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -516,13 +744,17 @@ e) ...
 
 2 - As inscrições vigentes sobre as descrições total ou parcialmente anexadas são mencionadas na ficha da nova descrição e nela reproduzidas.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - Quando se reconheça a duplicação de descrições, reproduzir-se-ão na ficha de uma delas os registos em vigor nas restantes fichas, cujas descrições se consideram inutilizadas.
 
 2 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -576,7 +808,9 @@ d) As inscrições efectuadas na pendência de recurso hierárquico ou contencio
 
 8 - As inscrições referidas na alínea c) do n.º 1 são convertidas oficiosamente na dependência do registo definitivo da constituição da propriedade horizontal.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -628,7 +862,9 @@ z) ...
 
 2 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -638,7 +874,9 @@ z) ...
 
 4 - Os recibos de quitação assinados pelo credor com menção do número, data e entidade emitente do respectivo bilhete de identidade ou documento equivalente são formalmente suficientes para comprovar a extinção das dívidas de tornas ou de legados.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -686,21 +924,31 @@ f) ...
 
 5 - A inscrição de aquisição, em processo de execução, de bens penhorados determina o averbamento oficioso de cancelamento dos registos que forem judicialmente mandados cancelar.
 
-### CAPÍTULO II — Protecção de dados pessoais
+CAPÍTULO II
 
-#### SECÇÃO I — Bases de dados
+Protecção de dados pessoais
 
-###### Artigo 106.º — Finalidade das bases de dados
+SECÇÃO I
+
+Bases de dados
+
+Artigo 106.º
+
+Finalidade das bases de dados
 
 As bases de dados do registo predial têm por finalidade organizar e manter actualizada a informação respeitante à situação jurídica dos prédios, com vista à segurança do comércio jurídico, nos termos e para os efeitos previstos na lei, não podendo ser utilizada para qualquer outra finalidade com aquela incompatível.
 
-###### Artigo 107.º — Entidade responsável pelo tratamento das bases de dados
+Artigo 107.º
+
+Entidade responsável pelo tratamento das bases de dados
 
 1 - O director-geral dos Registos e do Notariado é o responsável pelo tratamento das bases de dados, nos termos e para os efeitos definidos na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores.
 
 2 - Cabe ao director-geral dos Registos e do Notariado assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões e a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou comunicação da informação.
 
-###### Artigo 108.º — Dados recolhidos
+Artigo 108.º
+
+Dados recolhidos
 
 1 - São recolhidos para tratamento automatizado os seguintes dados pessoais:
 
@@ -714,25 +962,35 @@ d) Residência habitual.
 
 2 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica dos prédios.
 
-###### Artigo 109.º — Modo de recolha
+Artigo 109.º
+
+Modo de recolha
 
 1 - Os dados pessoais constantes das bases de dados têm por suporte a identificação dos sujeitos activos e passivos dos factos sujeitos a registo e são recolhidos dos documentos apresentados pelos interessados.
 
 2 - Dos impressos destinados ao pedido de registo devem constar as informações previstas no n.º 1 do artigo 10.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
-### CAPÍTULO III — Meios de prova
+CAPÍTULO III
 
-###### Artigo 110.º — Espécies
+Meios de prova
+
+Artigo 110.º
+
+Espécies
 
 1 - O registo prova-se por meio de certidões e fotocópias.
 
 2 - O período de validade exigido para os documentos referidos no número anterior pode ser prorrogado por períodos sucessivos de igual duração, através de confirmação da conservatória.
 
-###### Artigo 115.º — Fotocópia dos registos lavrados
+Artigo 115.º
+
+Fotocópia dos registos lavrados
 
 Por cada pedido de registo é gratuitamente enviada ou entregue aos interessados uma fotocópia não certificada dos actos lavrados.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - Havendo registo provisório de arresto, penhora ou apreensão em falência de bens inscritos a favor de pessoa diversa do requerido ou executado, o juiz deve ordenar a citação do titular inscrito para declarar, no prazo de 10 dias, se o prédio ou o direito lhe pertence.
 
@@ -746,33 +1004,45 @@ Por cada pedido de registo é gratuitamente enviada ou entregue aos interessados
 
 6 - No caso de procedência da acção, deve o interessado pedir a conversão do registo no prazo de 10 dias a contar do trânsito em julgado.
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - Os processos de rectificação estão isentos de custas e de quaisquer outros encargos legais quando o pedido for julgado procedente ou a rectificação for promovida pelo conservador.
 
 2 - ...
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - ...
 
 2 - Deverão ser requisitados às repartições competentes os documentos que se mostrem necessários à reelaboração do registo, os quais são isentos de emolumentos e de quaisquer outros encargos legais.
 
-## TÍTULO VII — Da impugnação das decisões do conservador
+TÍTULO VII
 
-###### Artigo 140.º — Admissibilidade do recurso
+Da impugnação das decisões do conservador
+
+Artigo 140.º
+
+Admissibilidade do recurso
 
 1 - A decisão do conservador que recuse a prática do acto nos termos requeridos pode ser impugnada por recurso hierárquico para o director-geral dos Registos e do Notariado ou por recurso contencioso para o tribunal da comarca a que pertence a sede da conservatória.
 
 2 - ...
 
-###### Artigo 141.º — Prazo do recurso
+Artigo 141.º
+
+Prazo do recurso
 
 1 - O prazo para a interposição do recurso hierárquico ou contencioso é de 30 dias a contar da notificação a que se refere o artigo 71.º
 
 2 - A interposição de recurso contencioso faz precludir o direito de interpor recurso hierárquico e equivale a desistência deste quando já interposto.
 
-###### Artigo 142.º — Interposição do recurso
+Artigo 142.º
+
+Interposição do recurso
 
 1 - O recurso hierárquico ou contencioso interpõe-se por meio de requerimento em que são expostos os fundamentos do recurso.
 
@@ -784,11 +1054,15 @@ Por cada pedido de registo é gratuitamente enviada ou entregue aos interessados
 
 5 - A notificação referida no n.º 3 deve ser acompanhada do envio ou entrega ao notificando de fotocópia dos documentos juntos ao processo pelo conservador.
 
-###### Artigo 143.º — Audição do notário
+Artigo 143.º
+
+Audição do notário
 
 No caso de ser interposto recurso hierárquico da qualificação do conservador que se fundamente em vício de que alegadamente enferme título lavrado por notário, este deve ser ouvido, sempre que possível, pela Direcção-Geral dos Registos e do Notariado.
 
-###### Artigo 144.º — Apreciação do recurso hierárquico
+Artigo 144.º
+
+Apreciação do recurso hierárquico
 
 1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo director-geral dos Registos e do Notariado, que pode determinar que seja previamente ouvido o conselho técnico.
 
@@ -796,7 +1070,9 @@ No caso de ser interposto recurso hierárquico da qualificação do conservador 
 
 3 - Sendo o recurso hierárquico deferido, deve o conservador, no prazo de quarenta e oito horas, dar cumprimento à decisão.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda interpor recurso contencioso da decisão do conservador.
 
@@ -804,7 +1080,9 @@ No caso de ser interposto recurso hierárquico da qualificação do conservador 
 
 3 - O processo é remetido a juízo, no prazo de cinco dias, instruído com o de recurso hierárquico.
 
-###### Artigo 148.º — Efeitos da impugnação
+Artigo 148.º
+
+Efeitos da impugnação
 
 1 - A interposição de recurso hierárquico ou de recurso contencioso deve ser imediatamente anotada na ficha respectiva a seguir à anotação da recusa ou ao registo provisório.
 
@@ -814,19 +1092,25 @@ No caso de ser interposto recurso hierárquico da qualificação do conservador 
 
 4 - Proferida decisão final que julgue insubsistente a recusa da prática do acto nos termos requeridos, o conservador deve lavrar o registo recusado, com base na apresentação correspondente, ou converter oficiosamente o registo provisório.
 
-###### Artigo 149.º — Registos dependentes
+Artigo 149.º
+
+Registos dependentes
 
 1 - No caso de recusa, julgado procedente o recurso hierárquico ou o recurso contencioso, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converterem-se oficiosamente os registos dependentes.
 
 2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo anterior, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - Pelos actos praticados nos serviços de registo predial são cobrados os emolumentos constantes da respectiva tabela, salvo nos casos de isenção previstos na lei.
 
 2 - ...
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - ...
 
@@ -852,9 +1136,13 @@ Apresentação por notário
 
 4 - No prazo de cinco dias após a feitura do registo, os documentos que serviram de base à sua realização são devolvidos aos interessados, por meio de carta registada, juntamente com fotocópia dos registos efectuados e o excesso de preparo, se o houver.
 
-#### SECÇÃO II — Comunicação e acesso aos dados
+SECÇÃO II
 
-###### Artigo 109.º-A — Comunicação de dados
+Comunicação e acesso aos dados
+
+Artigo 109.º-A
+
+Comunicação de dados
 
 1 - Os dados referentes à situação jurídica de qualquer prédio constantes das bases de dados podem ser comunicados a qualquer pessoa que o solicite, nos termos previstos neste Código.
 
@@ -866,7 +1154,9 @@ Apresentação por notário
 
 5 - A informação pode ser divulgada para fins de investigação científica ou de estatística, desde que não possam ser identificáveis as pessoas a que respeita.
 
-###### Artigo 109.º-B — Condições da comunicação de dados
+Artigo 109.º-B
+
+Condições da comunicação de dados
 
 1 - A comunicação de dados deve obedecer às disposições gerais de protecção de dados pessoais constantes da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, designadamente respeitar as finalidades para as quais foi autorizada a consulta, limitando o acesso ao estritamente necessário e não utilizando a informação para outros fins.
 
@@ -876,7 +1166,9 @@ Apresentação por notário
 
 4 - A comunicação de dados está sujeita ao pagamento dos encargos que foram devidos, nos termos de tabela a aprovar por despacho do Ministro da Justiça.
 
-###### Artigo 109.º-C — Acesso directo aos dados
+Artigo 109.º-C
+
+Acesso directo aos dados
 
 1 - Podem aceder directamente aos dados referidos nos n.os 1 e 2 do artigo 109.º-A:
 
@@ -892,13 +1184,17 @@ c) As entidades com competência legal para garantir a segurança interna e prev
 
 4 - As entidades referidas na alínea a) do n.º 1 podem fazer-se substituir por funcionários por si designados.
 
-###### Artigo 109.º-D — Direito à informação
+Artigo 109.º-D
+
+Direito à informação
 
 1 - Qualquer pessoa tem o direito de ser informada sobre os dados pessoais que lhe respeitem e a respectiva finalidade, bem como sobre a identidade e o endereço do responsável pela base de dados.
 
 2 - A actualização e a correcção de eventuais inexactidões realiza-se nos termos e pela forma previstos neste Código, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 11.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
-###### Artigo 109.º-E — Segurança da informação
+Artigo 109.º-E
+
+Segurança da informação
 
 1 - O director-geral dos Registos e do Notariado e as entidades referidas no n.º 2 do artigo 109.º-A devem adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
@@ -908,23 +1204,31 @@ c) As entidades com competência legal para garantir a segurança interna e prev
 
 4 - As entidades referidas no n.º 1 obrigam-se a manter uma lista actualizada das pessoas autorizadas a aceder às bases de dados.
 
-###### Artigo 109.º-F — Sigilo
+Artigo 109.º-F
+
+Sigilo
 
 1 - A comunicação ou a revelação dos dados pessoais registados nas bases de dados só podem ser efectuadas nos termos previstos neste Código.
 
 2 - Os funcionários dos registos e do notariado, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados nas bases de dados do registo predial, ficam obrigados a sigilo profissional, nos termos do n.º 1 do artigo 17.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
-###### Artigo 147.º-A — Valor do recurso e isenção
+Artigo 147.º-A
+
+Valor do recurso e isenção
 
 1 - O valor do recurso contencioso é o do facto cujo registo foi recusado ou feito provisoriamente.
 
 2 - O conservador recorrido está isento de custas, ainda que os motivos da recusa ou da provisoriedade sejam julgados improcedentes, salvo se tiver agido com dolo.
 
-###### Artigo 147.º-B — Direito subsidiário
+Artigo 147.º-B
+
+Direito subsidiário
 
 À impugnação das decisões do conservador, a que se referem os artigos anteriores, é aplicável, subsidiariamente e com as necessárias adaptações, o disposto no Código de Processo Civil.
 
-###### Artigo 147.º-C — Impugnação da conta dos actos e da recusa de passagem de certidões
+Artigo 147.º-C
+
+Impugnação da conta dos actos e da recusa de passagem de certidões
 
 1 - Assiste ao interessado o direito de interpor recurso contencioso contra erros que entenda ter havido na liquidação da conta dos actos ou na aplicação da tabela emolumentar, bem como contra a recusa do conservador em passar qualquer certidão, depois de desatendido o recurso hierárquico.
 
@@ -970,15 +1274,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 4 de Novembro de 1999.**
+Promulgado em 4 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1999.**
+Referendado em 11 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CÓDIGO DO REGISTO PREDIAL
 

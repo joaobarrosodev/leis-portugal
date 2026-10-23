@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2021/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2021-154356478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42322cbedfbab43f8ebba4266d7bc3c595f65b4f6d1fd6786d5c9c8c605a23b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64d7f56ba7f7e2e016c05ed1d9c2116dd5199a30e3d756ce37db199f61defd17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Sistema Retributivo
-- Graduação Militar
-- GNR
-- Orgânica
-- Remuneração
-- Militar
 - Estatuto Remuneratório
+- GNR
+- Graduação Militar
+- Militar
+- Orgânica
+- Pessoal Dirigente
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2018/12/18/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/19/2008/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/19/2008/11/27/p/dre
+- type: cites
+  target: pt:dre:117428716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572122:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:16Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +197,9 @@ g) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os departamentos previstos no presente decreto regulamentar são chefiados por oficiais com o posto de brigadeiro-general.
 
@@ -255,7 +273,9 @@ l) [Anterior alínea g) do proémio do artigo 6.º]
 
 m) [Anterior alínea h) do proémio do artigo 6.º]
 
-###### Artigo 11.º-A — Departamento de Recursos Humanos
+Artigo 11.º-A
+
+Departamento de Recursos Humanos
 
 1 - O Departamento de Recursos Humanos assegura a coordenação e controlo das atividades da Guarda no domínio do apoio à administração e gestão estratégica dos recursos humanos, de acordo com os planos e as diretivas superiores.
 
@@ -297,7 +317,9 @@ j) Participar na elaboração da doutrina relativa às suas competências;
 
 k) [Anterior alínea j) do proémio do artigo 11.º]
 
-###### Artigo 12.º-A — Departamento de Recursos Financeiros
+Artigo 12.º-A
+
+Departamento de Recursos Financeiros
 
 1 - O Departamento de Recursos Financeiros assegura as atividades da Guarda no domínio do apoio à administração estratégica dos recursos financeiros, de acordo com os planos e as diretivas superiores.
 
@@ -349,20 +371,22 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 4 de janeiro de 2021.**
+Promulgado em 4 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de janeiro de 2021.**
+Referendado em 12 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf)
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf))](https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/01/01100/0000300008.pdf)
+
+113884854

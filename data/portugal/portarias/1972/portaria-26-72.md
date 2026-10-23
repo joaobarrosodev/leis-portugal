@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-1972-400045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ca6a17b85e2dc457b72c374144da84a45b2988f4d0010f61eeeee3ee5765af8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 608d7c144910fc4c5f83850675856d66913eda668c02979f6dc72d99a51d2bdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:14Z'
   warnings: []
   errors: []
 ---
@@ -91,4 +91,4 @@ Verificando-se a necessidade de proceder a uma revisão do convénio celebrado e
 
 Manda o Governo da República Portuguesa, pelo Ministro do Interior, conceder ao general comandante-geral da Guarda Nacional Republicana a necessária delegação para o representar nas negociações a efectuar com a Companhia dos Caminhos de Ferro Portugueses, podendo nomear para tal efeito representantes seus.
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

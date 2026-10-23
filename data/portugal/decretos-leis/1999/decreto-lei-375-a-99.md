@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 220/1999, 1º Suplemento, Série I-A de 1999-09-20
   number: '220'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6526-(2) a 6526-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/220a01/00020005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/375-a/1999/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-a-1999-508858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1a540a2e04b9dc889758da0261e3d970f860771a7831956b82a07232fca165b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52d5a4db681849616a555ea8011fc010d2684408da19e60a50848d1605918d08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Declarativo
 - Código da Propriedade Industrial
 - Código do Notariado
 - Código do Processo Civil
 - Código do Registo Civil
 - Código do Registo Comercial
 - Código do Registo Predial
+- Processo Declarativo
+- Recurso
 - Tribunal da Relação
 relationships:
 - type: amended_by
   target: pt:dre:499550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 646.º e 796.º, do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961, na\
+    \ redacção do presente diploma, pelo DEC LEI.183/2000.2000.08.10.MJ\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterado o art. 131º do Código de Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jun, alterado pelo presente\
+    \ diploma, pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterado o art. 512.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 92º e 106º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigo 11.º, e 12.º, o artigo 712.º, do\
+    \ Código de Processo Civil, a provado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterados, sem prejuízo do disposto nos arts. 24º e 25º, os artigos 240.º, 251.º e 291.º do Código do Registo Civil,\
+    \ aprovado pelo Dec Lei 131/95 de 06-Jun, na redacção do presente diploma, republicado em anexo com a redacção actual,\
+    \ pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 131º e 147º e revogado o nº 2 do art. 147º do Código do Registo Predial aprovado pelo Dec Lei\
+    \ 224/84, de 06-Jul, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterado, a partir de 31.03.2009, o art. 861º-A, do Código do Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez,\
+    \ 1961, na redacção do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterados os arts. 131º e 147º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-jul, na redação\
+    \ do presente diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
   label: null
@@ -104,16 +161,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329-a/1995/12/12/p/dre
+- type: cites
+  target: pt:dre:139270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220563:por
+  label: "Revogado o Dec Lei 16/95 de 24-Jan, com a redacção dada pelo art. 7º deste diploma, pelo DEC LEI.36/2003.2003.03.05.MECO\
+    \ DR.IS-A [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2003-220563
+  date: '2003-03-05'
 article_structure:
-  article_count: 23
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:22Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +251,9 @@ Os artigos 462.º, 508.º-A, 512.º, 646.º, 712.º, 754.º, 787.º, 795.º, 796
 
 Se o valor da causa exceder a alçada da Relação, empregar-se-á o processo ordinário; se a não exceder, empregar-se-á o processo sumário, excepto se não ultrapassar o valor fixado para a alçada do tribunal de comarca e a acção se destinar ao cumprimento de obrigações pecuniárias, à indemnização por dano e à entrega de coisas móveis, porque nestes casos, não havendo procedimento especial, o processo adequado é o sumaríssimo.
 
-###### Artigo 508.º-A — [...]
+Artigo 508.º-A
+
+[...]
 
 1 - ...
 
@@ -172,13 +269,17 @@ c) Requerer a gravação da audiência final ou a intervenção do colectivo.
 
 4 - Não constitui motivo de adiamento a falta das partes ou dos seus mandatários; se algum destes não houver comparecido, pode ainda apresentar o respectivo requerimento probatório nos cinco dias subsequentes àquele em que se realizou a audiência preliminar, bem como, no mesmo prazo, requerer a gravação da audiência final ou a intervenção do colectivo.
 
-###### Artigo 512.º — [...]
+Artigo 512.º
+
+[...]
 
 1 - Quando o processo houver de prosseguir e se não tiver realizado a audiência preliminar, a secretaria notifica as partes do despacho saneador e para, em 15 dias, apresentarem o rol de testemunhas, requererem outras provas ou alterarem os requerimentos probatórios que hajam feito nos articulados e requererem a gravação da audiência final ou a intervenção do colectivo.
 
 2 - ...
 
-###### Artigo 646.º — [...]
+Artigo 646.º
+
+[...]
 
 1 - A discussão e julgamento da causa são feitos com intervenção do tribunal colectivo, se alguma das partes a tiver requerido.
 
@@ -196,7 +297,9 @@ c) ...
 
 5 - Quando não tenha lugar a intervenção do colectivo, o julgamento da matéria de facto e a prolação da sentença final incumbem ao juiz que a ele deveria presidir, se a sua intervenção tivesse tido lugar.
 
-###### Artigo 712.º — [...]
+Artigo 712.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +313,9 @@ c) ...
 
 6 - Das decisões da Relação previstas nos números anteriores não cabe recurso para o Supremo Tribunal de Justiça.
 
-###### Artigo 754.º — [...]
+Artigo 754.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +323,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 787.º — Termos posteriores aos articulados
+Artigo 787.º
+
+Termos posteriores aos articulados
 
 1 - Findos os articulados, observar-se-á o disposto nos artigos 508.º a 512.º-A, mas a audiência preliminar só se realiza quando a complexidade da causa ou a necessidade de actuar o princípio do contraditório o determinem; se a selecção da matéria de facto controvertida se revestir de simplicidade, o juiz pode abster-se de fixar a base instrutória.
 
@@ -226,13 +333,17 @@ c) ...
 
 3 - No caso de não ter havido saneamento e condensação do processo, o juiz ordena a notificação das partes para o efeito do disposto no n.º 1 do artigo 512.º
 
-###### Artigo 795.º — [...]
+Artigo 795.º
+
+[...]
 
 1 - ...
 
 2 - Se a acção tiver de prosseguir, é logo marcado dia para a audiência final, que deve efectuar-se dentro de 30 dias, não sendo aplicável o disposto nos n.os 1 a 3 do artigo 155.º
 
-###### Artigo 796.º — [...]
+Artigo 796.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +359,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 861.º-A — [...]
+Artigo 861.º-A
+
+[...]
 
 1 - ...
 
@@ -274,7 +387,9 @@ Recurso
 
 Das decisões proferidas nos procedimentos cautelares não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 848.º-A — Cooperação do exequente na realização da penhora
+Artigo 848.º-A
+
+Cooperação do exequente na realização da penhora
 
 1 - O exequente pode cooperar com o tribunal na realização da penhora, facultando os meios necessários à apreensão de bens móveis e ao seu adequado depósito.
 
@@ -296,7 +411,9 @@ Os artigos 131.º e 147.º do Código do Registo Predial, aprovado pelo [Decreto
 
 4 - Do acórdão da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - ...
 
@@ -322,7 +439,9 @@ Os artigos 92.º e 106.º do Código do Registo Comercial, aprovado pelo [Decret
 
 4 - Do acórdão da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - ...
 
@@ -346,13 +465,17 @@ Os artigos 240.º, 251.º e 291.º do Código do Registo Civil, aprovado pelo [D
 
 3 - Do acórdão da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 251.º — [...]
+Artigo 251.º
+
+[...]
 
 1 - Da sentença proferida podem os interessados interpor sempre recurso para a Relação, o qual é processado e julgado como o de agravo em matéria cível.
 
 2 - Do acórdão da Relação não cabe recurso para o Supremo Tribunal de Justiça, sem prejuízo dos casos em que o recurso é sempre admissível.
 
-###### Artigo 291.º — [...]
+Artigo 291.º
+
+[...]
 
 1 - ...
 
@@ -394,12 +517,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 17 de Setembro de 1999.**
+Promulgado em 17 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 1999.**
+Referendado em 20 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

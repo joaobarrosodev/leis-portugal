@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/803-1972-665137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:58:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 305362a6d968e61fc26f3f9472b22c49a1651fb149164278aaba655fa615d12f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b370c9f038e15781b41fcf08e35bb25053c99a0f1921ba38a5e9ecde3569a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509658:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:58:10Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +135,7 @@ d) Proceder à instrução preliminar dos processos referentes às infracções 
 
 ...
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. Pertence à inspecção em matéria de fiscalização e sem prejuízo das funções cometidas a outros serviços ou organismos:
 
@@ -135,11 +143,11 @@ a) Velar pelo cumprimento das leis, regulamentos, instruções, despachos e dema
 
 ...
 
-###### Art. 14.º - 1. No exercício de vigilância a que se refere o n.º 3 do artigo 13.º incumbe designadamente à inspecção a fiscalização dos estabelecimentos produtores de bens de consumo ou de matérias-primas, bem como, de um modo geral, de quaisquer locais onde se transaccionem mercadorias ou se exerça qualquer outra actividade económica e ainda daquelas actividades que forem superiormente determinadas.
+Art. 14.º - 1. No exercício de vigilância a que se refere o n.º 3 do artigo 13.º incumbe designadamente à inspecção a fiscalização dos estabelecimentos produtores de bens de consumo ou de matérias-primas, bem como, de um modo geral, de quaisquer locais onde se transaccionem mercadorias ou se exerça qualquer outra actividade económica e ainda daquelas actividades que forem superiormente determinadas.
 
 ...
 
-###### Art. 16.º - 1. ...
+Art. 16.º - 1. ...
 
 ...
 
@@ -147,7 +155,7 @@ a) Velar pelo cumprimento das leis, regulamentos, instruções, despachos e dema
 
 ...
 
-###### Art. 26.º - 1. Ao pessoal dos Serviços de Economia com curso superior e aos diplomados com cursos técnicos médios, quando trabalhem em regime de ocupação exclusiva, poderão ser atribuídas gratificações mensais cujo montante máximo é o fixado no mapa III anexo a este diploma.
+Art. 26.º - 1. Ao pessoal dos Serviços de Economia com curso superior e aos diplomados com cursos técnicos médios, quando trabalhem em regime de ocupação exclusiva, poderão ser atribuídas gratificações mensais cujo montante máximo é o fixado no mapa III anexo a este diploma.
 
 2. Consideram-se em regime de ocupação exclusiva os funcionários que não desempenham qualquer actividade remunerada estranha aos serviços públicos. Não deixam de estar em regime de ocupação exclusiva os funcionários nomeados pelos governos provinciais como representantes especiais em empresas concessionárias do Estado.
 
@@ -157,11 +165,11 @@ a) Velar pelo cumprimento das leis, regulamentos, instruções, despachos e dema
 
 ...
 
-###### Art. 36.º A inspecção enviará directamente ao agente do Ministério Público, quando necessário, cópia de autos ou denúncias.
+Art. 36.º A inspecção enviará directamente ao agente do Ministério Público, quando necessário, cópia de autos ou denúncias.
 
 ...
 
-###### Art. 40.º Concluída a instrução preparatória dos processos, ao inspector cabe enviá-los ao chefe de serviço.
+Art. 40.º Concluída a instrução preparatória dos processos, ao inspector cabe enviá-los ao chefe de serviço.
 
 3.º Não são aplicáveis à província de Macau a alínea r) do n.º 6 do artigo 1.º, as alíneas a) a g) do n.º 7 do artigo 9.º, bem como os artigos 41.º, 42.º, n.º 2, e 49.º do [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro.
 
@@ -169,7 +177,7 @@ a) Velar pelo cumprimento das leis, regulamentos, instruções, despachos e dema
 
 5.º O quadro comum dos serviços de economia do ultramar, fixado no mapa I anexo ao [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro, passa a ter, para a províncias de Macau, a seguinte constituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/30200/21412142.pdf))](https://files.diariodarepublica.pt/1s/1972/12/30200/21412142.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30200/21412142.pdf)
 
 6.º O mapa IV anexo ao [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro, para a província de Macau, tem a seguinte constituição:
 

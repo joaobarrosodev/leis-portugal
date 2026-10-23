@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/21800/0785907860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2008/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2008-439380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3410be8692e9acdf11e870b6d0cffdd59a1868bfef1b571c2fc19879cf4c5b7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b422dfa569828dfb1a80ebc0cdec8cf30b0c14a3f96404f84a5e0f737aaca876
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Radioprotecção
 - Direção Geral da Saúde
+- Empresa
 - Licenciamento
 - Prestação de Serviços
 - Radiologia
+- Radioprotecção
 - Radioterapia
 - TAXA de Prestação de Serviços
 relationships:
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70139964:por
+  label: Alterado o art. 5.º-A do Dec Lei 167/2002, de 18-jul, aditado pelo presente diploma pelo(a) Decreto-Lei n.º 184/2015
+    - Diário da República n.º 169/2015, Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-2015-70139964
+  date: '2015-08-31'
 - type: cites
   target: celex:31997L0043
   label: null
@@ -96,16 +102,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/180/2002/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/180/2002/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o Dec Lei 165/2002 de 17-jul, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:50Z'
   warnings: []
   errors: []
 ---
@@ -180,12 +192,12 @@ Taxas
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 21 de Outubro de 2008.**
+Promulgado em 21 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Outubro de 2008.**
+Referendado em 23 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/257a00/74127420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/277/2003/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-2003-468403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3668e1e7f652853a70238d3a4ff5891dd73da7d2ad9cf2724ab1e94de37635f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa5cb867f36b8a3e08eb6a3ccdac783ddde394dc959793011b885ee37b96e465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa Geral de Aposentações
 - Casa do Douro
-- Vinho
+- Comércio
 - Conselho Interprofissional
 - Estatuto
-- Caixa Geral de Aposentações
 - Pensão de Aposentação
 - Regulamento Eleitoral
-- Comércio
 - Transferência de Competências
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:853867964:por
@@ -89,16 +89,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2003/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:224070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58325220:por
+  label: Revogado, com efeitos a partir de 31.12.2014, o presente diploma; assim como é dada nova redação aos arts. 3.º, 4.º,
+    12.º, 19.º, 24.º, 25.º e 28.º, e revogados, com efeitos 16.10.2014, as als. a) e i) do n.º 1 do art. 3º, a al. d) do n.º
+    1 do art. 7.º, o n.º 7 do art. 9.º, as als. f) e r) do n.º 1 do art. 12.º e a al. b) do art. 19.º, todos dos Estatutos
+    da Casa do Douro, aprovados por este mesmo diploma. pelo(a) Decreto-Lei n.º 152/2014 - Diário da República n.º 199/2014,
+    Série I de 2014-10-15, nos termos do disposto no seu art. 21.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2014-58325220
+  date: '2014-10-15'
+- type: repealed_by
+  target: pt:dre:853867964:por
+  label: Revogado, a partir de 28 de abril de 2024, pelo(a) Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de
+    2024-02-28 nos termos do artigo 9.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2024-853867964
+  date: '2024-02-28'
 article_structure:
   article_count: 51
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:28Z'
   warnings: []
   errors: []
 ---
@@ -149,15 +180,15 @@ O presente diploma entra em vigor no 20.º dia após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 20 de Outubro de 2003.**
+Promulgado em 20 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 2003.**
+Referendado em 23 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — ESTATUTOS DA CASA DO DOURO
 

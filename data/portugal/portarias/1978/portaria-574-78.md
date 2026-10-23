@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-1978-329438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:44:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f33b9e85398211d9643b4491dd92428318cbb563a387da57ae2d6dfa0482c28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36007898681ee9c8acba627308ccef87f7789e8e36b7f4bd2dc7931f3b715d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:44:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Registos e do Notariado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:394090:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459894:por
+  label: "Aumentados lugares ao quadro de pessoal da Direcção-Geral dos Registos e do Notariado, aprovado pelo Dec Lei 523/72,\
+    \ de 19-Dez, na redacção do presente diploma, pela Port.1064/80.15.12.1980.PCM, DR.IS [288] de 15.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1064-1980-459894
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:564039:por
+  label: "Substituído o quadro de pessoal constante do anexo IV do Decreto-Lei n.º 523/72, de 19 de Dezembro, com a redacção\
+    \ conferida no presente diploma, pela PORT.890/81.06.10.1981.MJ, DR.IS [229] de 06.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-1981-564039
+  date: '1981-10-06'
+- type: amended_by
+  target: pt:dre:394090:por
+  label: "Alterado o mapa anexo ao Dec Lei 523/72, de 19-Dez, na redacção do presente diploma, pela PORT.720/82.23.07.1982.MFP,\
+    \ DR.IS [168] de 23.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1982-394090
+  date: '1982-07-23'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:44:31Z'
   warnings: []
   errors: []
 ---

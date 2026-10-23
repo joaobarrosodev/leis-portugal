@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/211b00/57485749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/24/1995/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1995-562210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71dd769799d1f2889fc2266dc091b1d00f71149518729fe96e727c11dabf43ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b41fd1f78e5d38ca8e207f43a86bdb5a318365af8810b7c6efa14efc806f06a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/38/1991/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/38/1991/07/29/p/dre
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685261:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346481:por
+  label: "Revogado pelo DR.12/99.1999.07.30.MEPAT DR.IS-B [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1999-346481
+  date: '1999-07-30'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:09Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +120,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 30.º do [Decreto-Lei n.º 102/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1990-333343), de 21 de Março, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto Regulamentar n.º 38/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1991-685261), de 29 de Julho, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto Regulamentar n.º 38/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1991-685261), de 29 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — Definições
 
@@ -143,12 +156,12 @@ Presidência do Conselho de Ministros, 17 de Julho de 1995.
 
 Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

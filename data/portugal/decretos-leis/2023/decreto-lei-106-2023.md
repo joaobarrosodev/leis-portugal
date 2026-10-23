@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22300/0001100022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2023/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2023-224427488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7445e34417b46414f6306a0aabb39dbf7db655a8b34801c3de5f212adc68f3e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a137ac5d3b497b6b2e4e7522790a9d7b177671b5cb787b45d1b0d785ffcd4111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
-- Contra-ordenação
 - Chumbo
+- Contra-ordenação
+- Eliminação de Resíduos
 - Embalagem
 - Equipamento de Veículo
+- Fruticultura
+- Multa
+- Produção Vegetal
 - Produto Agro-alimentar
 - Proteção Fitossanitária
-- Produção Vegetal
-- Fruticultura
-- Eliminação de Resíduos
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:237/2000
+  label: Altera, a partir de 18.11.2023, nos termos dos artigos 7.º e 8.º do presente diploma, os artigos 1.º, 5.º, 21.º e
+    23.º e revoga o n.º 6 do artigo 23.º e o anexo do Decreto-Lei n.º 237/2000 de 26 de setembro, Diário da República n.º
+    223/2000, Série I-A
+  source: null
+  date: '2000-09-26'
+- type: amends
+  target: pt:numero:decreto-lei:79/2013
+  label: Altera, a partir de 18.11.2023, os anexos i e ii do Decreto-Lei n.º 79/2013 de 11 de junho, Diário da República n.º
+    111/2013, Série I
+  source: null
+  date: '2013-06-11'
+- type: amends
+  target: pt:numero:decreto-lei:82/2017
+  label: Altera, a partir de 18.11.2023, nos termos dos artigos 7.º e 8.º do presente diploma, o artigo 41.º e revoga os anexos
+    i, ii e iii do Decreto-Lei n.º 82/2017 de 18 de julho, Diário da República n.º 137/2017, Série I
+  source: null
+  date: '2017-07-18'
+- type: amends
+  target: pt:numero:decreto-lei:152-D/2017
+  label: Altera, a partir de 18.11.2023, o anexo xvi do Decreto-Lei n.º 152-D/2017 de 11 de dezembro, Diário da República
+    n.º 236/2017, 2º Suplemento, Série I
+  source: null
+  date: '2017-12-11'
 - type: cites
   target: celex:31993L0049
   label: null
@@ -186,6 +211,46 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: cites
+  target: pt:dre:107703391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142870334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144010960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682210:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31993L0049
   label: null
@@ -203,15 +268,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 13
+  article_count: 8
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:35Z'
   warnings: []
   errors: []
 ---
@@ -296,13 +361,17 @@ Os artigos 1.º, 5.º, 21.º e 23.º do [Decreto-Lei n.º 237/2000](https://diar
 
 4 - Ao disposto no presente diploma é aplicável subsidiariamente o [Decreto-Lei n.º 67/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2020-142870334), de 15 de setembro, na sua redação atual, que assegura a execução e garante o cumprimento das obrigações decorrentes do [Regulamento (UE) 2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais [[Regulamento (UE) n.º 2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt)] e do [Regulamento (UE) 2017/625](http://data.europa.eu/eli/reg/2017/625/oj?locale=pt), do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais, no domínio das medidas de proteção contra pragas dos vegetais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para além do definido no presente diploma, os materiais de propagação devem apresentar-se isentos de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União, e estão sujeitos a requisitos especiais fitossanitários definidos no [Regulamento (UE) 2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt).
 
 2 - Os materiais de propagação devem ainda, ao abrigo do [Regulamento (UE) 2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), apresentar-se isentos de pragas regulamentadas não sujeitas a quarentena, ou abaixo dos limiares definidos, ficando sujeitos às medidas adotadas para prevenir a presença dessas pragas, sem prejuízo da adoção de outras previstas no presente diploma.
 
-###### Artigo 21.º — Contraordenações
+Artigo 21.º
+
+Contraordenações
 
 1 - Constituem contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas, aprovado em anexo ao [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro (RJCE), as seguintes infrações:
 
@@ -328,7 +397,9 @@ b) A não conservação pelos fornecedores, durante 12 meses, dos registos relat
 
 4 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -382,7 +453,9 @@ c) O «Regulamento técnico da produção de plantas hortícolas de «qualidade 
 
 d) O «Regulamento técnico das etiquetas de certificação e dos documentos de acompanhamento para materiais frutícolas e plantas hortícolas», a que se referem a alínea bb) do artigo 3.º, o n.º 1 do artigo 14.º, os n.os 2, 4 e 8 do artigo 28.º, o n.º 2 do artigo 30.º, a alínea f) do n.º 1 do artigo 37.º e as alíneas b) dos n.os 2 e 3 do artigo 41.º do [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), de 18 de julho, na sua redação atual.
 
-###### Artigo 7.º — Referências legais
+Artigo 7.º
+
+Referências legais
 
 1 - As referências feitas em qualquer diploma legal ao anexo do [Decreto-Lei n.º 237/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2000-560267), de 26 de setembro, na sua redação atual, consideram-se feitas aos aspetos correspondentes da portaria a que se refere a alínea a) do artigo anterior.
 
@@ -392,7 +465,9 @@ d) O «Regulamento técnico das etiquetas de certificação e dos documentos de 
 
 4 - As referências feitas em qualquer diploma legal ao anexo iii do [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), de 18 de julho, na sua redação atual, consideram-se feitas aos aspetos correspondentes da portaria a que se refere a alínea d) do artigo anterior.
 
-###### Artigo 8.º — Norma transitória
+Artigo 8.º
+
+Norma transitória
 
 Até à publicação das portarias a que se refere o artigo 6.º mantêm-se em vigor o anexo do [Decreto-Lei n.º 237/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2000-560267), de 26 de setembro, na sua redação atual, e os anexos i, ii e iii do [Decreto-Lei n.º 82/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2017-107703391), de 18 de julho, na sua redação atual»
 
@@ -410,15 +485,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Jorge Albino Alves Costa - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 3 de novembro de 2023.**
+Promulgado em 3 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de novembro de 2023.**
+Referendado em 7 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -426,9 +501,9 @@ Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Gu
 
 [...]
 
-|  |  |  |
-| --- | --- | --- |
 |  | [...] | [...] |
+| --- | --- | --- |
+|  |  |  |
 | 1 | [...] | [...] |
 | 1(a) | [...] | [...] |
 | 1(b) | [...] | [...] |
@@ -542,7 +617,7 @@ Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Gu
 | 43 | [...] | [...] |
 | 44 | [...] | [...] |
 | 45 | [...] | [...] |
-| [...]» | [...]» | [...]» |
+| [...]» |  |  |
 
 ## ANEXO II — (a que se refere o artigo 4.º)
 
@@ -660,9 +735,9 @@ Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.»
 
 [...]
 
-|  |  |  |
-| --- | --- | --- |
 | [...] | [...] | [...] |
+| --- | --- | --- |
+|  |  |  |
 | [...] |  |  |
 | 1.a) [...] |  |  |
 | 1. b) [...] | [...] |  |
@@ -675,7 +750,7 @@ Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.»
 | 4. b) [...] | [...] |  |
 | [...] |  |  |
 | 5. a) Chumbo em baterias de sistemas de alta tensão (4) utilizados unicamente para fins de propulsão em veículos M1 e N1 | [...] | [...] |
-| 5. b) i) Chumbo em baterias: 1) Utilizadas em aplicações de 12 V 2) Utilizadas em aplicações de 24 V em veículos para fins especiais, de acordo com a definição constante do artigo 3.º do [Regulamento (UE) 2018/858](http://data.europa.eu/eli/reg/2018/858/oj?locale=pt) do Parlamento Europeu e do Conselho (*) | (3) | X |
+| 5. b) i) Chumbo em baterias:<br>1) Utilizadas em aplicações de 12 V<br>2) Utilizadas em aplicações de 24 V em veículos para fins especiais, de acordo com a definição constante do artigo 3.º do [Regulamento (UE) 2018/858](http://data.europa.eu/eli/reg/2018/858/oj?locale=pt) do Parlamento Europeu e do Conselho (*) | (3) | X |
 | 5. b) ii) Chumbo em baterias utilizadas em aplicações não incluídas nas entradas 5 a) e 5 b) i) | Veículos homologados antes de 1 de janeiro de 2024 e peças sobresselentes destinadas a esses veículos | X |
 | 6. [...] | [...] | [...] |
 | 7. a) [...] | [...] |  |
@@ -689,13 +764,13 @@ Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.»
 | 8. f) i) [...] | [...] | [...] (5) |
 | 8. f) ii) [...] | [...] | [...] (5) |
 | 8. g) i) [...] | [...] | [...] (5) |
-| 8. g) ii) [...]: 1) [...] 2) [...] 3) [...] | (1) [...] | [...] (5) |
+| 8. g) ii) [...]:<br>1) [...]<br>2) [...]<br>3) [...] | (1) [...] | [...] (5) |
 | 8. h) [...] | Veículos homologados antes de 1 de janeiro de 2016 e peças sobresselentes destinadas a esses veículos | [...] (5) |
 | 8. i) [...] | Veículos homologados antes de 1 de janeiro de 2016 e peças sobresselentes destinadas a esses veículos | [...] (5) |
 | 8. j) [...] | Veículos homologados antes de 1 de janeiro de 2020 e peças sobresselentes destinadas a esses veículos | [...] (5) |
 | 8. k) [...] | [...] | [...] (5) |
 | 9. [...] | [...] |  |
-| 10. a) [...] i) [...] ii) [...] |  | X (6) ([...]) |
+| 10. a) [...]<br>i) [...]<br>ii) [...] |  | X (6) ([...]) |
 | 10. b) [...] |  |  |
 | 10. c) [...] | [...] |  |
 | 10. d) [...] | Veículos homologados antes de 1 de janeiro de 2017 e peças sobresselentes destinadas a esses veículos |  |
@@ -704,7 +779,7 @@ Aplica-se à categoria 9 e caduca em 31 de dezembro de 2025.»
 | [...] |  |  |
 | 13. a) [...] | [...] |  |
 | 13. b) [...] | [...] |  |
-| 14. Crómio hexavalente utilizado como agente anticorrosivo em sistemas de refrigeração de aço-carbono de frigoríficos de absorção (teor não superior a 0,75 % em massa, na solução refrigerante): a) [...] b) [...] c) [...] | Para a): Veículos homologados até 1 de janeiro de 2020 e peças sobresselentes destinadas a esses veículos Para b): Veículos homologados até 1 de janeiro de 2026 e peças sobresselentes destinadas a esses veículos | [...] |
+| 14. Crómio hexavalente utilizado como agente anticorrosivo em sistemas de refrigeração de aço-carbono de frigoríficos de absorção (teor não superior a 0,75 % em massa, na solução refrigerante):<br>a) [...]<br>b) [...]<br>c) [...] | Para a): Veículos homologados até 1 de janeiro de 2020 e peças sobresselentes destinadas a esses veículos<br>Para b): Veículos homologados até 1 de janeiro de 2026 e peças sobresselentes destinadas a esses veículos | [...] |
 | [...] |  |  |
 | 15. a) ...[...] | Veículos homologados até 1 de julho de 2012 e peças sobresselentes destinadas a esses veículos | [...] |
 | 15. b) ...[...] | Veículos homologados até 1 de julho de 2012 e peças sobresselentes destinadas a esses veículos | [...] |
@@ -726,3 +801,5 @@ Notas sobre o quadro:
 (5) A desmantelar, se, em associação com a entrada 10. a), for excedido o limite médio de 60 gramas por veículo. Para os fins desta nota, não são tidos em conta os dispositivos eletrónicos não instalados pelo fabricante na linha de produção.
 
 (6) A desmantelar se, em associação com as entradas 8. a) a 8. k), for excedido o limite médio de 60 gramas por veículo. Para os fins desta nota, não são tidos em conta os dispositivos eletrónicos não instalados pelo fabricante na linha de produção».
+
+117035307

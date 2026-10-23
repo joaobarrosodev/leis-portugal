@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2005/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2005-246139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cc89c76781dbc1569c8d3cd6735b7a9fbc4d982d83a5a358cc760fb55440c83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f0ef7868fbb1061da50f078dfd961f428aebf2b633cbaed447ecf438da57a9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Produto Químico
 - Aproximação das Legislações
-- INEM
+- Atividade Industrial
 - Código da Publicidade
-- Multa
-- Infarmed
+- Comércio
+- Comissão CE
 - Comissão Técnico-científica de Cosmetologia
+- Confidencialidade
 - Contra-ordenação
 - Controlo de Qualidade
-- Saúde Pública
 - Etiquetagem
 - Experimentação nos Animais
 - Fiscalização
-- Comissão CE
 - Higiene Corporal
+- INEM
+- Infarmed
 - Informação
 - Informação do Consumidor
-- Produtor
-- Qualificação Profissional
-- Confidencialidade
-- Proteção do Consumidor
-- Regime Jurídico
-- Comércio
+- Multa
 - Normalização
+- Produto Químico
+- Produtor
+- Proteção do Consumidor
+- Qualificação Profissional
+- Regime Jurídico
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:452215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655570:por
+  label: "Alterados os anexos II, III, IV e VI do presente diploma, pelo DEC LEI.84/2006.11.05.2006.MS, DR.IS-A [91] de 11.05.2006\0\
+    06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2006-655570
+  date: '2006-05-11'
+- type: amended_by
+  target: pt:dre:518204:por
+  label: "Alterados os anexos II e III do presente diploma, na redacção do Dec Lei 84/2006 de 11-Mai, pelo DEC LEI.27/2007.08.02.2007.MS,\
+    \ DR.IS [28] de 08.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2007-518204
+  date: '2007-02-08'
+- type: amended_by
+  target: pt:dre:520840:por
+  label: "Alterado o anexo VIII-B do presente diploma pelo DEC LEI.179/2007.08.05.2007.MS, DR.IS [88] de 08.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2007-520840
+  date: '2007-05-08'
+- type: amended_by
+  target: pt:dre:386603:por
+  label: "Alterados os arts. 8.º, 9.º e 36.º, o anexo i, o n.º 663 do anexo ii e o anexo iii (ambos na redacção dada pelo\
+    \ Dec Lei 84/2006, de 11-Maio e pelo Dec Lei 27/2007, de 8-Fev), o anexo iv e o anexo vi (na redacção dada Dec Lei 84/2006,\
+    \ de 11-Maio), aditados os n.os 1234 a 1243 e revogado o n.º 1182 do anexo ii (na redacção dada pelos Dec Lei 84/2006,\
+    \ de 11-Maio e 27/2007, de 8-Fev) do presente diploma, recitificado pela Decl-Rect 73/2005, de 12-Out, pelo DEC LEI.8/2008.11.01.2008.MS,\
+    \ DR.IS [8] de 11.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2008-386603
+  date: '2008-01-11'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -145,6 +171,16 @@ relationships:
   target: celex:32005L0009
   label: null
   source: http://data.europa.eu/eli/dir/2005/9/oj
+- type: corrected_by
+  target: pt:dre:594756:por
+  label: "Rectificado pela DECL-RECT.73/2005.12.10.2005.PCM, DR.IS-A [202] de 20.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-2005-594756
+  date: '2005-10-12'
+- type: repealed_by
+  target: pt:dre:452215:por
+  label: "Revogado pelo DEC LEI.189/2008.24.09.2008.MS, DR.IS [185] de 24.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2008-452215
+  date: '2008-09-24'
 - type: transposes
   target: celex:31996L0029
   label: null
@@ -152,13 +188,13 @@ relationships:
 article_structure:
   article_count: 46
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:20Z'
   warnings: []
   errors: []
 ---
@@ -927,15 +963,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Manuel Mendonça de Oliveira Neves - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
 
-**Promulgado em 15 de Julho de 2005.**
+Promulgado em 15 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2005.**
+Referendado em 22 de Julho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Lista indicativa por categorias de produtos cosméticos
 
@@ -3281,13 +3317,13 @@ e) 0,0002% noutros produtos não destinados a serem removidos e em produtos de h
 
 Lista das substâncias que os produtos cosméticos não podem conter fora das restrições e condições previstas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Segunda parte
 
 Lista de substâncias provisoriamente admitidas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 ## ANEXO IV — Primeira parte
 
@@ -3303,11 +3339,11 @@ Coluna 3 - corantes admitidos unicamente para os produtos cosméticos que não s
 
 Coluna 4 - corantes admitidos unicamente para os produtos cosméticos que se destinam a entrar apenas em breve contacto com a pele.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 (nota 1) São igualmente admitidas as lacas ou sais destes corantes que contêm substâncias cuja utilização não está proibida no anexo II ou que não estão excluídas do campo de aplicação do presente diploma nos termos do anexo V.
 
-[(ver notas referentes à lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[(ver notas referentes à lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Segunda parte
 
@@ -3323,11 +3359,11 @@ Coluna 3 - corantes admitidos unicamente para os produtos cosméticos que não s
 
 Coluna 4 - corantes admitidos unicamente para os produtos cosméticos que se destinam a entrar apenas em breve contacto com a pele.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 (nota 1) São igualmente admitidas as lacas ou sais destes corantes que contêm substâncias cuja utilização não está proibida no anexo II ou que não estão excluídas do campo de aplicação do presente diploma nos termos do anexo V.
 
-[(ver notas referentes à lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[(ver notas referentes à lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Nota. - Presentemente não existe qualquer corante inscrito nesta lista.
 
@@ -3355,13 +3391,13 @@ Primeira parte
 
 Lista dos conservantes admitidos
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Segunda parte
 
 Lista dos conservantes admitidos provisoriamente
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Nota. - Presentemente não existe qualquer conservante inscrito nesta lista.
 
@@ -3377,19 +3413,19 @@ Primeira parte
 
 Lista dos filtros ultravioletas que os produtos cosméticos podem conter
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Segunda parte
 
 Lista dos filtros ultravioletas que os produtos cosméticos podem conter provisoriamente
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 Nota. - Presentemente não existe qualquer filtro ultravioleta inscrito nesta lista.
 
-## ANEXO VIII — [(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+## ANEXO VIII — [[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
-## ANEXO VIII-A — [(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+## ANEXO VIII-A — [[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
 
 ## ANEXO VIII-B
 
@@ -3451,4 +3487,4 @@ Nota. - Presentemente não existe qualquer filtro ultravioleta inscrito nesta li
 
 O presente anexo enuncia os métodos alternativos validados pelo Centro Europeu de Validação de Métodos Alternativos (CEVMA) do Centro Comum de Investigação existentes que cumprem os requisitos impostos pela legislação relativa aos produtos cosméticos e não constam do anexo V da Directiva n.º [67/548/CEE](https://data.europa.eu/eli/dir/1967/548/oj?locale=pt), do Conselho, de 27 de Junho, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros respeitantes à classificação, embalagem e rotulagem de substâncias perigosas. Dado que a experimentação animal pode não ser integralmente substituída por um método alternativo, deve referir-se no presente anexo se o método alternativo substitui integral ou parcialmente a experimentação animal.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)
+[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)](https://files.diariodarepublica.pt/1s/2005/08/162a00/49044969.pdf)

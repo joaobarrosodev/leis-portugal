@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1983-312448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa8fd5673e848ffcea95efdd2e02a616588d8fb140f08b6b92af280268f01c40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 819bb08250d22892b4fea74f8271e6eed7acf58024184f8da59c42fb2475bd2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Documentação
+- Comissão de Coordenação Regional
+- Pessoal Dirigente
+relationships:
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:19Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +97,18 @@ Tal facto aconselha a redefinição do respectivo estatuto e a introdução de u
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O centro de documentação e informação de cada comissão de coordenação regional, com a competência que lhe é atribuída pelo artigo 36.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, é equiparado a divisão.
+Artigo 1.º O centro de documentação e informação de cada comissão de coordenação regional, com a competência que lhe é atribuída pelo artigo 36.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, é equiparado a divisão.
 
-###### Art. 2.º O quadro de pessoal de cada comissão de coordenação regional é acrescentado de 1 lugar de chefe de divisão.
+Art. 2.º O quadro de pessoal de cada comissão de coordenação regional é acrescentado de 1 lugar de chefe de divisão.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 14 de Março de 1983.**
+Promulgado em 14 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 17 de Março de 1983.**
+Referendado em 17 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

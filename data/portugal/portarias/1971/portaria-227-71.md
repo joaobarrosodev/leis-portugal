@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-1971-644287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37cdac56b1126e8714d3b4decc9876d79572a20f0759a2a476b5e7acb120c8e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8c3784534c5af8a8880432ff879a1f43a006303df694b7db1764102f0c2184
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:56Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Pelo Ministro da Educação Nacional, Justino Mendes de Almeida, Subsecretário 
 
 REGULAMENTO DO PRÉMIO DR. JOAQUIM DE ASSUNÇÃO FERRAZ
 
-###### Artigo 1.º O Prémio Dr. Joaquim da Assunção Ferraz destina-se a galardoar o aluno ou aluna com melhor média final no curso de formação, ou formação em regime de aperfeiçoamento, industrial de electromecânico.
+Artigo 1.º O Prémio Dr. Joaquim da Assunção Ferraz destina-se a galardoar o aluno ou aluna com melhor média final no curso de formação, ou formação em regime de aperfeiçoamento, industrial de electromecânico.
 
-###### Art. 2.º O aluno a premiar será o de melhor classificação final no último ano, desde que:
+Art. 2.º O aluno a premiar será o de melhor classificação final no último ano, desde que:
 
 a) Tenha classificação mínima de 14 valores;
 
@@ -102,7 +106,7 @@ b) Tenha sido durante todo o curso aluno interno da Escola Industrial e Comercia
 
 c) Tenha obtido aprovação em todas as disciplinas do último ano do curso em um único ano lectivo.
 
-###### Art. 3.º Se houver igualdade nos requisitos indicados no artigo 2.º, considerar-se-ão sucessivamente as seguintes condições de preferência:
+Art. 3.º Se houver igualdade nos requisitos indicados no artigo 2.º, considerar-se-ão sucessivamente as seguintes condições de preferência:
 
 a) O que for natural de Lamego;
 
@@ -110,14 +114,14 @@ b) O que tiver média mais elevada no penúltimo ano do curso;
 
 c) O que se tiver distinguido por melhor comportamento.
 
-###### Art. 4.º Se a aplicação das preferências enunciadas nas alíneas a), b) e c) do artigo 3.º não resolver a questão da atribuição, optar-se-á pela divisão do mesmo em partes iguais.
+Art. 4.º Se a aplicação das preferências enunciadas nas alíneas a), b) e c) do artigo 3.º não resolver a questão da atribuição, optar-se-á pela divisão do mesmo em partes iguais.
 
-###### Art. 5.º Se em algum ano não houver aluno que possa ser premiado por não satisfazer as condições deste Regulamento, haverá dois prémios no ano seguinte para os dois melhores alunos, sem quebra dos princípios aqui estabelecidos.
+Art. 5.º Se em algum ano não houver aluno que possa ser premiado por não satisfazer as condições deste Regulamento, haverá dois prémios no ano seguinte para os dois melhores alunos, sem quebra dos princípios aqui estabelecidos.
 
-###### Art. 6.º Concluídos os exames, o director da Escola comunicará, por escrito, ao aluno ou alunos premiados a data da respectiva entrega, que se verificará em sessão solene no 1.º período do ano lectivo seguinte, presidida pelo director da Escola ou seu legítimo representante.
+Art. 6.º Concluídos os exames, o director da Escola comunicará, por escrito, ao aluno ou alunos premiados a data da respectiva entrega, que se verificará em sessão solene no 1.º período do ano lectivo seguinte, presidida pelo director da Escola ou seu legítimo representante.
 
-###### Art. 7.º O Prémio será o rendimento líquido de 17 obrigações do Metropolitano e 13 obrigações do Fomento de Turismo, III Plano de Fomento.
+Art. 7.º O Prémio será o rendimento líquido de 17 obrigações do Metropolitano e 13 obrigações do Fomento de Turismo, III Plano de Fomento.
 
-###### Art. 8.º Desde a data da constituição do Prémio até ao primeiro ano da sua distribuição todo o rendimento das referidas acções integrar-se-á no capital.
+Art. 8.º Desde a data da constituição do Prémio até ao primeiro ano da sua distribuição todo o rendimento das referidas acções integrar-se-á no capital.
 
 Direcção-Geral do Ensino Técnico Profissional, 22 de Abril de 1971. - Pelo Director-Geral, Leopoldino Augusto de Almeida.

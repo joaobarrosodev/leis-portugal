@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/317/1999/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1999-423062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a46795c5f1ecaf45e5d02a58f43c9f4cf2a0cb88dc88a9b732e6c6bda3df8788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea5b64c9cab1c182cb3b498064df27dcabd5cdc50a625c8747b9327598550404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Gavião
-- Região Agrária
 - Autarquia Local
+- Gavião
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Região Agrária
 relationships:
 - type: amended_by
   target: pt:dre:3054075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343580:por
+  label: "Alterado, no que diz respeito às unidades territoriais do Pinhal Interior Sul e do Médio Tejo, o anexo II do Dec\
+    \ Lei 46/89, de 15-Fev, na redacção do presente diploma, pela LEI.21/2010.23.08.2010.AR, DR.IS [163] de 23.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2010-343580
+  date: '2010-08-23'
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141844:por
+  label: "Rectificado pela DECL-RECT.13-B/99.1999.08.31.PCM, DR.IS-A [203]2º SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-b-1999-141844
+  date: '1999-08-31'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:16Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +136,11 @@ Os anexos I, II, III e IV ao [Decreto-Lei n.º 46/89](https://diariodarepublica.
 
 ...
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/08/186a00/52385239.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/08/186a00/52385239.pdf)](https://files.diariodarepublica.pt/1s/1999/08/186a00/52385239.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Norte
 
@@ -153,13 +170,17 @@ Algarve
 
 ...
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 ...
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/08/186a00/52385239.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/08/186a00/52385239.pdf)](https://files.diariodarepublica.pt/1s/1999/08/186a00/52385239.pdf)
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 I - Região Agrária de Entre Douro e Minho; sede - Braga
 
@@ -197,12 +218,12 @@ VII - Região Agrária do Algarve; sede - Faro
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos.
 
-**Promulgado em 28 de Julho de 1999.**
+Promulgado em 28 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

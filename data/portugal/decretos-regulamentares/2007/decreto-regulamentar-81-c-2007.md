@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 168/2007, 2º Suplemento, Série I de 2007-08-31
   number: '168'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6100-(6) a 6100-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16802/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/81-c/2007/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/81-c-2007-230944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 466bfd2ca277bfc75a6bb4756c56f64d4a798b252449c878a26d16698600217e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b397c271bc5be1a19f1f1d226a7fdf806a07711bab6142bb32180db11ecc1a4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Inspecção Geral
 - Inspetor Geral
-- Orgânica
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Orgânica
+- Pessoal Dirigente
 - Subinspector Geral
 relationships:
 - type: amended_by
   target: pt:dre:543879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinta, sendo objecto de fusão, a Inspecção-Geral do Ministério da Ciência, Tecnologia e Ensino Superior e integradas\
+    \ suas atribuições na Inspecção-Geral da Educação e Ciência, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543879:por
+  label: "Determinada a sucessão pela Inspeção-Geral da Educação e Ciência das atribuições da ex-Inspeção-Geral do Ministério\
+    \ da Ciência, Tecnologia, e Ensino Superior, constantes do presente diploma, que é revogado, a partir de 01.02.2012 pelo\
+    \ DR.15/2012.27.01.2012.MECI, DR.IS [20] de 27.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-2012-543879
+  date: '2012-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/2003/07/11/p/dre
   label: null
@@ -97,16 +111,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667551:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:213/2006
+  label: "Revoga, a partir de 01.09.2007, e nos termos do art. 4.º do Decreto-Lei n.º 213/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 149/2003, de 11 de Julho, DR.IS-A [158], com excepção do art. 24.º.\0\0"
+  source: null
+  date: '2003-07-11'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:37Z'
   warnings: []
   errors: []
 ---
@@ -245,16 +285,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16802/0000600007.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16802/0000600007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16802/0000600007.pdf)

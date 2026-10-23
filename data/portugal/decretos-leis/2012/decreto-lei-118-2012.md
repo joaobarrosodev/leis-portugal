@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2012/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2012-178813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94fd40a57323a094eff6f4ebc9be2d542b02aafabee66d08ef43f8faee2a6f00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9782ce43a5d1fe0fa4731f704464dd000bd95817d9fe4ca658e15b64608788f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Camões - Instituto da Cooperação e da Língua
 - Conselheiro Técnico
-- Eurojust
 - Definição de Competências
 - Despesas de Representação
-- Profissão Diplomática
+- Eurojust
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Camões - Instituto da Cooperação e da Língua
-- Pessoal Especializado
-- Quadro de Pessoal
-- Regime Jurídico
-- Subsídio de Renda de CASA
-- Representação Permanente de Portugal Junto das Comunidades Europeias
 - Ministério dos Negócios Estrangeiros
+- Pessoal Especializado
+- Profissão Diplomática
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Representação Permanente de Portugal Junto das Comunidades Europeias
+- Subsídio de Renda de CASA
 relationships:
 - type: amended_by
   target: pt:dre:224081984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67541741:por
+  label: Alterados os arts. 8.º, 9.º e 11.º do Dec Lei 127/2010 de 30-nov, alterado e republicado pelo presente, pelo(a) Decreto-Lei
+    n.º 116/2015 - Diário da República n.º 120/2015, Série I de 2015-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2015-67541741
+  date: '2015-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2010/11/30/p/dre
   label: null
@@ -119,16 +125,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669516:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:37Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +217,9 @@ Os artigos 1.º, 4.º, 6.º, 7.º, 9.º, 11.º, 15.º e 16.º do [Decreto-Lei n.
 
 2 - Sem prejuízo da manutenção de regimes específicos de designação de elementos para colocação no exterior, designadamente para colocação na Representação Permanente de Portugal junto da União Europeia em Bruxelas ou, ainda, para colocação de pessoal na área da defesa ou da segurança em que exerce a sua atividade em articulação com a missão diplomática ou posto consular respetivo, o presente decreto-lei é-lhes subsidiariamente aplicável.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +265,9 @@ k) Eclesiástica;
 
 l) Assuntos regionais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +275,9 @@ l) Assuntos regionais.
 
 3 - O recrutamento para a área referida na alínea l) do n.º 4 do artigo 4.º é feito após audição dos órgãos de governo próprio das Regiões Autónomas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O recrutamento para provimento dos cargos referidos nas alíneas a) a e) do n.º 3 do artigo 4.º é feito de entre indivíduos licenciados, detentores de adequado currículo para a área de exercício de funções respetiva e com experiência profissional não inferior a:
 
@@ -243,13 +299,17 @@ e) Dois anos para o cargo de adido especializado.
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O provimento é feito por um período até três anos, a fixar no despacho de designação, renovável uma única vez e por um novo período com duração máxima de três anos.
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +325,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -273,7 +335,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -293,7 +357,9 @@ Remuneração base
 
 2 - O pessoal especializado do Ministério dos Negócios Estrangeiros que seja proveniente dos ramos das Forças Armadas e das forças e serviços de segurança mantém o direito de opção pela remuneração de origem, nos termos previstos nos respetivos regimes remuneratórios.
 
-###### Artigo 14.º-B — Abonos
+Artigo 14.º-B
+
+Abonos
 
 1 - O pessoal especializado colocado nos serviços externos tem direito a receber os seguintes abonos mensais correspondentes ao cargo para o qual for designado, de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças:
 
@@ -381,15 +447,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 5 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão.
 
-**Promulgado em 4 de junho de 2012.**
+Promulgado em 4 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de junho de 2012.**
+Referendado em 6 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -397,23 +463,31 @@ Visto e aprovado em Conselho de Ministros de 5 de abril de 2012. - Pedro Passos 
 
 (a que se refere o n.º 1 do artigo 14.º-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11500/0300303009.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11500/0300303009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11500/0300303009.pdf)
 
-## ANEXO II — (a que se refere o artigo 8.º)
+ANEXO II
+
+(a que se refere o artigo 8.º)
 
 Republicação do [Decreto-Lei n.º 127/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2010-306877), de 30 de novembro
 
-###### Artigo 1.º — Objeto e âmbito
+Artigo 1.º
+
+Objeto e âmbito
 
 1 - O presente decreto-lei estabelece o regime jurídico de emprego aplicável ao pessoal especializado do Ministério dos Negócios Estrangeiros.
 
 2 - Sem prejuízo da manutenção de regimes específicos de designação de elementos para colocação no exterior, designadamente para colocação na Representação Permanente de Portugal junto da União Europeia em Bruxelas ou, ainda, para colocação de pessoal na área da defesa ou da segurança em que exerce a sua atividade em articulação com a missão diplomática ou posto consular respetivo, o presente decreto-lei é-lhes subsidiariamente aplicável.
 
-###### Artigo 2.º — Pessoal especializado do Ministério dos Negócios Estrangeiros
+Artigo 2.º
+
+Pessoal especializado do Ministério dos Negócios Estrangeiros
 
 Para efeitos do presente decreto-lei entende-se por pessoal especializado do Ministério dos Negócios Estrangeiros aquele que é colocado pelo Governo Português no exterior para, na dependência hierárquica do respetivo chefe de missão ou do posto consular, acompanhar as atividades inerentes a uma área específica, defendendo as políticas nacionais assumidas para a área respetiva, tratando a informação nesse âmbito e articulando a sua execução com as entidades sectoriais nacionais e com as autoridades locais.
 
-###### Artigo 3.º — Funções do pessoal especializado
+Artigo 3.º
+
+Funções do pessoal especializado
 
 Compete ao pessoal especializado do Ministério dos Negócios Estrangeiros:
 
@@ -429,7 +503,9 @@ e) Elaborar relatórios da atividade desenvolvida para conhecimento das autorida
 
 f) Desenvolver, sob direção do chefe da missão diplomática ou posto consular respetivo, as ações específicas inerentes à área em que exerce funções visando os objetivos anualmente fixados para o posto e para a área de atividade respetiva.
 
-###### Artigo 4.º — Cargos
+Artigo 4.º
+
+Cargos
 
 1 - As funções do pessoal especializado do Ministério dos Negócios Estrangeiros são diferenciadas de acordo com a complexidade da atividade inerente a cada cargo, requisitos exigidos para o provimento e respetiva área de competências, conforme disposto no presente decreto-lei.
 
@@ -475,13 +551,17 @@ k) Eclesiástica;
 
 l) Assuntos regionais.
 
-###### Artigo 5.º — Postos de trabalho e mapa de pessoal
+Artigo 5.º
+
+Postos de trabalho e mapa de pessoal
 
 1 - Os postos de trabalho previstos para cada um dos cargos mencionados no n.º 3 do artigo anterior constam do mapa de pessoal relativo ao pessoal especializado do Ministério dos Negócios Estrangeiros.
 
 2 - O mapa de pessoal é aprovado e alterado nos termos previstos para os serviços da Administração Central, competindo a sua gestão à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 6.º — Recrutamento
+Artigo 6.º
+
+Recrutamento
 
 1 - O recrutamento de pessoal especializado é feito por escolha de entre indivíduos que preencham os requisitos gerais e particulares referidos no presente decreto-lei e que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, independentemente de deterem ou não relação jurídica de emprego público.
 
@@ -489,7 +569,9 @@ l) Assuntos regionais.
 
 3 - O recrutamento para a área referida na alínea l) do n.º 4 do artigo 4.º é feito após audição dos órgãos de governo próprio das Regiões Autónomas.
 
-###### Artigo 7.º — Requisitos
+Artigo 7.º
+
+Requisitos
 
 1 - O recrutamento para provimento dos cargos referidos nas alíneas a) a e) do n.º 3 do artigo 4.º é feito de entre indivíduos licenciados, detentores de adequado currículo para a área de exercício de funções respetiva e com experiência profissional não inferior a:
 
@@ -511,7 +593,9 @@ e) Dois anos para o cargo de adido especializado.
 
 5 - O recrutamento para provimento do cargo de tradutor/intérprete é feito de entre indivíduos habilitados com o nível de escolaridade obrigatória e comprovado domínio escrito e falado da língua do país de colocação.
 
-###### Artigo 8.º — Provimento
+Artigo 8.º
+
+Provimento
 
 1 - Os postos de trabalho relativos aos cargos de pessoal especializado do Ministério dos Negócios Estrangeiros são providos em regime de comissão de serviço, por despacho do Ministro dos Negócios Estrangeiros publicado no Diário da República.
 
@@ -523,17 +607,23 @@ e) Dois anos para o cargo de adido especializado.
 
 5 - O provimento de trabalhador em funções públicas depende sempre de autorização prévia do membro do Governo que tutela ou superintende o organismo ou serviço de que aquele dependa.
 
-###### Artigo 9.º — Duração da comissão de serviço
+Artigo 9.º
+
+Duração da comissão de serviço
 
 1 - O provimento é feito por um período até três anos, a fixar no despacho de designação, renovável uma única vez e por um novo período com duração máxima de três anos.
 
 2 - Exceciona-se do disposto no número anterior a comissão de serviço no cargo de tradutor/intérprete.
 
-###### Artigo 10.º — Renovação
+Artigo 10.º
+
+Renovação
 
 A renovação da comissão de serviço depende de despacho do Ministro dos Negócios Estrangeiros e ou, nos casos referidos nos n.os 2 e 3 do artigo 8.º, de despacho dos ministros aí identificados.
 
-###### Artigo 11.º — Cessação
+Artigo 11.º
+
+Cessação
 
 1 - A comissão de serviço cessa:
 
@@ -549,7 +639,9 @@ d) A pedido do interessado, com antecedência mínima de 90 dias e desde que aco
 
 3 - Pode ser acordada a data da efetiva saída do titular do cargo, tendo em conta, designadamente, razões atinentes à finalização do ano letivo de descendentes ou menores a cargo, não podendo a manutenção em funções, quando fundada noutras razões, ultrapassar um período de seis meses contados da data em que terminou a comissão de serviço.
 
-###### Artigo 12.º — Direitos e deveres
+Artigo 12.º
+
+Direitos e deveres
 
 1 - Os trabalhadores em funções públicas providos como pessoal especializado têm direito, findas as respetivas funções, a reocupar posto de trabalho adequado no organismo de que dependiam à data do seu provimento.
 
@@ -559,23 +651,31 @@ d) A pedido do interessado, com antecedência mínima de 90 dias e desde que aco
 
 4 - No exercício das suas funções o pessoal especializado depende hierarquicamente do funcionário diplomático que chefia a missão ou o posto consular respetivo.
 
-###### Artigo 13.º — Avaliação do desempenho
+Artigo 13.º
+
+Avaliação do desempenho
 
 1 - O pessoal especializado do Ministério dos Negócios Estrangeiros encontra-se sujeito ao sistema de avaliação dos trabalhadores da Administração Pública com exceção daquele que, nos termos de estatuto profissional próprio aplicável, seja objeto de regime especial de avaliação de desempenho.
 
 2 - A avaliação de desempenho obtida no desempenho de funções como pessoal especializado repercute-se, para os trabalhadores com relação jurídica de emprego público, na sua situação de origem.
 
-###### Artigo 14.º — Procedimento disciplinar
+Artigo 14.º
+
+Procedimento disciplinar
 
 O pessoal especializado do Ministério dos Negócios Estrangeiros encontra-se sujeito ao quadro legal disciplinar aplicável aos trabalhadores em funções públicas quando, nos termos de estatuto profissional próprio, não se encontre sujeito a um regime disciplinar especial.
 
-###### Artigo 14.º-A — Remuneração base
+Artigo 14.º-A
+
+Remuneração base
 
 1 - A remuneração base dos cargos de pessoal especializado é fixada no anexo ao presente diploma, do qual faz parte integrante, com referência aos níveis remuneratórios fixados na tabela remuneratória única.
 
 2 - O pessoal especializado do Ministério dos Negócios Estrangeiros que seja proveniente dos ramos das Forças Armadas e das forças e serviços de segurança mantém o direito de opção pela remuneração de origem, nos termos previstos nos respetivos regimes remuneratórios.
 
-###### Artigo 14.º-B — Abonos
+Artigo 14.º-B
+
+Abonos
 
 1 - O pessoal especializado colocado nos serviços externos tem direito a receber os seguintes abonos mensais correspondentes ao cargo para o qual for designado, de montante a fixar por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças:
 
@@ -607,7 +707,9 @@ d) Quando a especificidade das funções a exercer e as necessidades de represen
 
 9 - O pessoal especializado tem direito a um seguro de saúde nos termos previstos na Portaria n.º 305/2011, de 20 de dezembro.
 
-###### Artigo 15.º — Encargos
+Artigo 15.º
+
+Encargos
 
 1 - Os encargos com o pagamento de despesas relativas ao pessoal especializado são suportados pelo Ministério dos Negócios Estrangeiros, com exceção dos casos previstos nas alíneas a), c), d), e), i) e j) do n.º 4 do artigo 4.º, que são suportados pelo respetivo ministério proponente.
 
@@ -615,7 +717,9 @@ d) Quando a especificidade das funções a exercer e as necessidades de represen
 
 3 - Excetuam-se do número anterior os encargos com o pagamento de despesas do pessoal a que se refere o n.º 2 do artigo 8.º, os quais são suportados pelo Ministério da Justiça.
 
-###### Artigo 16.º — Legislação subsidiária
+Artigo 16.º
+
+Legislação subsidiária
 
 1 - (Revogado.)
 
@@ -623,11 +727,15 @@ d) Quando a especificidade das funções a exercer e as necessidades de represen
 
 3 - O presente decreto-lei não prejudica a aplicação ao pessoal especializado do Ministério dos Negócios Estrangeiros dos respetivos estatutos profissionais específicos, designadamente da magistratura ou da carreira militar, em tudo o que não contrarie o que neste diploma se encontre disposto.
 
-###### Artigo 17.º — Disposições transitórias
+Artigo 17.º
+
+Disposições transitórias
 
 (Revogado.)
 
-###### Artigo 18.º — Norma revogatória
+Artigo 18.º
+
+Norma revogatória
 
 São revogados os seguintes diplomas:
 
@@ -641,10 +749,14 @@ d) O [Decreto-Lei n.º 146/2001](https://diariodarepublica.pt/dr/detalhe/decreto
 
 e) O [Decreto-Lei n.º 29/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2004-582016), de 6 de fevereiro.
 
-###### Artigo 19.º — Entrada em vigor
+Artigo 19.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-## ANEXO — (a que se refere o n.º 1 do artigo 14.º-A)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/06/11500/0300303009.pdf))](https://files.diariodarepublica.pt/1s/2012/06/11500/0300303009.pdf)
+(a que se refere o n.º 1 do artigo 14.º-A)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/06/11500/0300303009.pdf)

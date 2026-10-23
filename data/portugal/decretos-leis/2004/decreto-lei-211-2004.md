@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/196a00/55255539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2004/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e6fdbb5acfac2226b3356dac806922e1c9f5c7238a37e705af83f0c29afe333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de628bbad5f092bd4436f09755469ac3c1db9222ab3867fa203a0db010cb0dd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
+- Contra-ordenação
 - Contrato de Seguro
 - Crime
-- Livro de Reclamações
-- Multa
-- Contra-ordenação
 - Definição de Competências
 - Fiscalização
-- Impresso
-- Seguro
-- Incompatibilidades
 - Imoppi
+- Impresso
+- Incompatibilidades
 - Licenciamento
+- Livro de Reclamações
 - Mediação de Imóveis
 - Mercado Imobiliário
+- Multa
 - Propriedade Imobiliária
 - Regime Jurídico
 - Responsabilidade Civil
+- Seguro
 - Taxa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:257806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670018:por
+  label: "Alterados, a partir de 01.07.2011, os arts. 1.º, 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10º, 15º, 16º, 19º, 20º, 21º, 23º,\
+    \ 24º, 25º, 26º, 28º, 29º, 32º,36º, 42º, 44º, 51º e 52º, bem como a alteração sistemática [ no presente diploma e sua\
+    \ alteração, assim como nos respectivos diplomas regulamentares, onde se lê «Instituto dos Mercados de Obras Públicas\
+    \ e Particulares e do Imobiliário (IMOPPI)» deve ler - se «Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.)»\
+    \ e onde se lê «conselho de administração» e «presidente do conselho de administração» deve ler -se «conselho directivo»\
+    \ e «presidente do conselho directivo», respectivamente], aditados os arts. 4º-A e 37º-A e revogados os nºs. 2 e 3 do\
+    \ art. 3º, os nºs. 2 e 4 do art. 4º, a al. g) do nº1 do art. 6º, os nºs. 6 e 7 do art. 10º, os nºs. 2 a 6 do art. 20º,\
+    \ os nºs. 4 a 7 do art. 29º, os nºs. 1 e 2 do art. 52º e o art. 53º pelo DEC LEI.69/2011.15.06.2011.MOPTC, DR.IS [114]\
+    \ de 15.06.2011, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2011-670018
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:671007:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma contida no n.º 2 do art. 4.º e, na parte\
+    \ em que se reportam à violação e aos efeitos da condenação na sequência da violação do preceituado naquela norma, das\
+    \ normas constantes da al. c) do nº 4 do art. 6º, da al. b) do nº 2 do art. 25º e da al. d) do nº 1 do art. 44º, todos\
+    \ presente diploma, alterado pelo Dec Lei 69/2011 de 15-Jun, pelo AC.362/2011.14.09.2011.TCS, DR.IS [177] de 14.09.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/362-2011-671007
+  date: '2011-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/285/1992/12/19/p/dre
   label: null
@@ -122,16 +144,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/957/1999/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/957/1999/10/30/p/dre
+- type: cites
+  target: pt:dre:144988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692179:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257806:por
+  label: "Revogado, a partir de 01.03.2013, o presente diploma, na redação do Dec Lei 69/2011, de 15-jun, e com a alteração\
+    \ decorrente da inconstitucionalidade de algumas normas declarada pelo AC 362/2011, de 14-set, pela LEI.15/2013.08.02.2013.AR,\
+    \ DR.IS [28] de 08.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2013-257806
+  date: '2013-02-08'
 article_structure:
   article_count: 58
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:18Z'
   warnings: []
   errors: []
 ---
@@ -492,7 +553,9 @@ d) A identificação do seguro de responsabilidade civil previsto na alínea e) 
 
 8 - O incumprimento do disposto nos n.os 1, 2 e 7 do presente artigo gera a nulidade do contrato, não podendo esta, contudo, ser invocada pela empresa de mediação.
 
-###### Artigo 20.º — Livro de reclamações
+###### Artigo 20.º
+
+## Livro de reclamações
 
 1 - Em cada estabelecimento deve existir um livro de reclamações destinado aos utentes, para que estes possam formular reclamações sobre a qualidade dos serviços e o modo como foram prestados.
 
@@ -1006,12 +1069,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Maria da Graça Martins da Silva Carvalho - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues - Arlindo Marques da Cunha.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

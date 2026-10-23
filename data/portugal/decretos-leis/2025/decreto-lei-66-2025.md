@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07100/0030900310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2025/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2025-914597188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87dc671cd1de41cb8450f93da6de086380ef77b50dba813e88efd5656f4b2868
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 037de79fc229843cf5cd200600c9dacd3c43b905e815c3076e38459bb3fb462a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato
 - Código dos Contratos Públicos
-- Transmissão de Contrato
 - Contratação Pública
+- Contrato
+- Transmissão de Contrato
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:18/2008
+  label: Altera, a partir de 15 de abril de 2025, o artigo 318.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei
+    n.º 18/2008, de 29 de janeiro, Diário da República n.º 20/2008, Série I
+  source: null
+  date: '2008-01-29'
 - type: cites
   target: celex:32014L0024
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/2023/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/2023/07/14/p/dre
+- type: cites
+  target: pt:dre:215647905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:48Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +119,7 @@ A [Diretiva 2014/24/UE](http://data.europa.eu/eli/dir/2014/24/oj?locale=pt) do P
 
 O Tribunal de Justiça da União Europeia tem vindo a sustentar o entendimento de que o referido limite à subcontratação não pode ser definido através da fixação, em abstrato, de uma percentagem máxima do preço contratual que pode ser objeto subcontratação.
 
-Assim, o [Decreto-Lei n.º 54/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), de 14 de julho, veio proceder à revogação dos n.<sup>os</sup>2 e 3 do artigo 383.º do Código dos Contratos Públicos (CCP), os quais fixavam limites percentuais máximos no âmbito da subempreitada, não tendo, contudo, procedido ao ajustamento da redação do n.º 4 do artigo 318.º, no qual permaneceu a possibilidade de o contrato poder proibir a subcontratação de prestações cujo valor acumulado exceda uma percentagem do preço contratual, uma vez que as autoridades nacionais entendiam que a referida norma não limitava a subcontratação. Não obstante, e por forma a dissipar quaisquer potenciais dúvidas quanto a esta disposição legal controvertida, importa clarificar esta situação.
+Assim, o [Decreto-Lei n.º 54/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), de 14 de julho, veio proceder à revogação dos n.os2 e 3 do artigo 383.º do Código dos Contratos Públicos (CCP), os quais fixavam limites percentuais máximos no âmbito da subempreitada, não tendo, contudo, procedido ao ajustamento da redação do n.º 4 do artigo 318.º, no qual permaneceu a possibilidade de o contrato poder proibir a subcontratação de prestações cujo valor acumulado exceda uma percentagem do preço contratual, uma vez que as autoridades nacionais entendiam que a referida norma não limitava a subcontratação. Não obstante, e por forma a dissipar quaisquer potenciais dúvidas quanto a esta disposição legal controvertida, importa clarificar esta situação.
 
 Neste contexto, a aprovação do presente decreto-lei revela-se urgente e inadiável porquanto se encontra em curso procedimento de infração da Comissão Europeia contra Portugal, em fase avançada, decorrente do entendimento de que a redação da disposição do n.º 4 do artigo 318.º do CCP não é compatível com o disposto no n.º 2 do artigo 63.º da [Diretiva 2014/24/UE](http://data.europa.eu/eli/dir/2014/24/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, sendo, pois, necessário conformar a legislação nacional à legislação da União Europeia.
 
@@ -139,12 +153,14 @@ O artigo 318.º do Código dos Contratos Públicos, aprovado em anexo ao [Decret
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2025. - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 1 de abril de 2025.**
+Promulgado em 1 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de abril de 2025.**
+Referendado em 4 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118925387

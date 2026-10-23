@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-1973-421427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a047c6e204fb7aec6559c94a54e87cf724a6e9823cd062fec4eb6739d4a50f36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 399e19a9bc3d90373016683d1e3f862b7bd0b21f683ef7207de36918e7baa5c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:07:44Z'
   warnings: []
   errors: []
 ---
@@ -99,6 +99,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças:
 
 Ministério das Finanças, 29 de Junho de 1973. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/16300/12161217.pdf))](https://files.diariodarepublica.pt/1s/1973/07/16300/12161217.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/16300/12161217.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

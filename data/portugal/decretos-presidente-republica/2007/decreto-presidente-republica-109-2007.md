@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/109/2007/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/109-2007-641433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69e21b145c9f9f35ad9ba27280df687db3396c8bd7ee6cf9aabdf8e6f70de93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 528faf8e9320db90a33b4c2825f9f2f3449d255697674a1fa2c7dd04318eac1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACP Países
-- Financiamento
+- Bruxelas
 - CE Países
 - Convenção
-- Portugal
+- Financiamento
 - Países e Territórios Ultramarinos
+- Portugal
 - Tratado CEE
-- Bruxelas
 relationships:
 - type: cites
   target: eli:/application/external/tratado
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:56:48Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +99,16 @@ validation:
 
 de 15 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Interno entre os Representantes dos Governos dos Estados Membros, Reunidos no Conselho, Relativo ao Financiamento da Ajuda Concedida pela Comunidade no Âmbito do Quadro Financeiro Plurianual para o período 2008-2013, em conformidade com o Acordo de Parceria ACP-CE, bem como à Concessão de Assistência Financeira aos Países e Territórios Ultramarinos aos Quais se Aplica a Parte IV do [Tratado CE](https://diariodarepublica.pt/application/external/tratado), assinado em Bruxelas em 17 de Julho de 2006, aprovado pela Resolução da Assembleia da República n.º 52/2007, em 19 de Julho de 2007.
 
-**Assinado em 13 de Setembro de 2007.**
+Assinado em 13 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Outubro de 2007.**
+Referendado em 4 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

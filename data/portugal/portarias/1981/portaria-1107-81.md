@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1107-1981-567017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b35bb22c16c56aa96a06bef18dcc910502e91a7dcf7f69d192f33b04a808a22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7e7edb6607a094d5efc94bb4c5c6dd0a49ef129f3c24183f6b48221b831c882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Hospital Distrital
+- Quadro de Pessoal
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:580984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318293:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Vila Real na parte referente ao pessoal de enfermagem aprovado\
+    \ pela Port 796/80, de 07-Out DR.IS [232] alterada pelo presente diploma, pela Port.1239/82.31.12.1982.MFP, DR.IS [301]\
+    \ de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1239-1982-318293
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:386659:por
+  label: "Alterado o quadro aprovado pela Port 796/80, de 07-Out DR.IS [232] na parte referente ao pessoal técnico superior\
+    \ (pessoal médico) alterado pela Port 1239/82, de 31-Dez DR.IS [301] e pelo presente diploma, pela Port.375/84.15.06.1984.PCM,\
+    \ DR.IS [138] de 15.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-1984-386659
+  date: '1984-06-15'
+- type: amended_by
+  target: pt:dre:381735:por
+  label: "Alterado, o quadro de pessoal aprovado pela Port 796/80, de 07-Out DR.IS [232], alterado pelo presente diploma,\
+    \ pela Port 1239/82, de 31-Dez DR.IS [301] e Port 375/84, de 15-Jun DR.IS [138] na parte referente ao pessoal técnico\
+    \ superior, pessoal operário e auxiliar e outro pessoal, pela Port.543/84.01.08.1984.PCM, DR.IS [177] de 01.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/543-1984-381735
+  date: '1984-08-01'
+- type: amended_by
+  target: pt:dre:396329:por
+  label: "Alargado o quadro de pessoal do Hospital Distrital de Vila Real, aprovado pela Port 796/80, de 07-Out DR.IS [232],\
+    \ alterado pelo presente diploma, pela Port 1239/82, de 31-Dez DR.IS [301], Port 375/84, de 15-Jun DR.IS [138] e Port\
+    \ 543/84, de 01-Ago DR.IS [177], pela PORT.929/84.18.12.1984.PCM, DR.IS [291] de 18.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/929-1984-396329
+  date: '1984-12-18'
+- type: amended_by
+  target: pt:dre:180624:por
+  label: "Alargado o quadro de pessoal do Hospital Distrital de Vila Real, aprovado pela Portaria n.º 796/80, de 7 de Outubro\
+    \ DR.IS 9232], alterado pelo presente diploma, pela Port 1239/82, de 31-Dez DR.IS [301], Port 375/84, de 15-Jun DR.IS\
+    \ [138], Port 543/84, de 01-Ago DR.IS [177] e Port 929/84, de 18-Dez DR.IS [291], pela Port.574/85.10.08.1985.PCM, DR.IS\
+    \ [183] de 10.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-1985-180624
+  date: '1985-08-10'
+- type: amended_by
+  target: pt:dre:178098:por
+  label: "Alargado o quadro de pessoal do na parte referente ao pessoal dos serviços gerais - pessoal operário e auxiliar,\
+    \ aprovado pela Portaria n.º 796/80, de 7 de Outubro DR.IS [232], alterado pelo presente diploma, pela Port 1239/82, de\
+    \ 31-Dez, Port 375/84, de 15-Jun, Port 543/84, de 01-Ago, Port 929/84, de 18-Dez e 574/85, de 10-Ago, pela Port.799/85.23.10.1985.PCM,\
+    \ DR.IS [244] de 23.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-1985-178098
+  date: '1985-10-23'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:53Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +167,6 @@ Atento o exposto e em conformidade com as disposições legais invocadas:
 
 Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que sejam introduzidas no quadro de pessoal do Hospital Distrital de Vila Real as alterações que a seguir se mencionam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29800/33863386.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29800/33863386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29800/33863386.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 7 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/21300/0767907688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2008/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2008-439138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1cf4b18706da2f5537a0b1007aa3b45532edc3bdb6be9156650003bc66eab4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39d6e52303ddd5ef088cc68ac64efbb5a8815464bbc6e28fcf6108f155da4e04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Administração de Portos
+- Administração do Porto de Viana do Castelo
 - Capital Social
-- Gestão Financeira
 - Criação de Empresas
 - Definição de Competências
 - Domínio Público Marítimo
 - Estatuto
-- Administração de Portos
-- Setor Empresarial do Estado
-- Gestão do Património
-- Orgânica
-- Administração do Porto de Viana do Castelo
-- Receita Própria
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Orgânica
+- Receita Própria
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:67250267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498769:por
+  label: "Dada nova redação ao art. 12º e aditados os anexos VI e VII pelo DEC LEI.98/2013.24.07.2013.MDN, DR.IS [141] de\
+    \ 24.07.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2013-498769
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:67250267:por
+  label: Determinada a extinção da APVC - Administração do Porto de Viana do Castelo, S. A. (APVC, S. A.), através de fusão
+    por incorporação na redenominada APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A. (APDL, S.
+    A.), e revogado o presente diploma, na redação do Dec. Lei 98/2013 de 24-jul, pelo(a) Decreto-Lei n.º 83/2015 - Diário
+    da República n.º 98/2015, Série I de 2015-05-21 nos termos do art. 18.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2015-67250267
+  date: '2015-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2007/04/27/p/dre
   label: null
@@ -109,16 +123,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:440546:por
+  label: "Rectificado pela DECL-RECT.76/2008.09.12.2008.PCM, DR.IS [237] de 09.12.2008, e publicado o anexo V, que por lapso\
+    \ foi omitido \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/76-2008-440546
+  date: '2008-12-09'
 article_structure:
   article_count: 53
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:46Z'
   warnings: []
   errors: []
 ---
@@ -375,15 +423,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 8 de Outubro de 2008.**
+Promulgado em 8 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Outubro de 2008.**
+Referendado em 13 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 

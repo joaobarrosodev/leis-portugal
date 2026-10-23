@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14500/0508105091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2015/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2015-69879425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71367d767227b9a296a06b55c75c4bc9b090cd54fdead3d9c238fe0ae3d83a20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db975ef7b76e8580522b305882282d2a994860df765a30d848c85b2086904e3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Internamento Hospitalar
-- Unidade de Cuidados Continuados Integrados de Saúde Mental
-- Administração Regional de Saúde
 - Acompanhamento Familiar
-- Pessoa em Situação de Dependência
-- Entidade Reguladora da Saúde
-- Saúde Pública
-- Política de Saúde
-- Plano Nacional de Saúde Mental
-- Saúde Mental
-- Plano Nacional de Saúde
-- Cuidados Médicos
+- Administração Regional de Saúde
 - Apoio Domiciliário
-- Ministério da Saúde
+- Cuidados Médicos
+- Entidade Reguladora da Saúde
 - Estabelecimento Hospitalar
+- Internamento Hospitalar
+- Ministério da Saúde
+- Pessoa em Situação de Dependência
+- Plano Nacional de Saúde
+- Plano Nacional de Saúde Mental
+- Política de Saúde
+- Rede
+- Saúde Mental
+- Saúde Pública
 - Serviço Local de Saúde Mental
 - Serviço Local de Segurança Social
+- Unidade de Cuidados Continuados Integrados de Saúde Mental
 - Unidade de Cuidados na Comunidade
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterado o art. 46.º do Dec Lei 101/2006 de 06-jun, na versão republicada pelo presente, pelo(a) Lei n.º 114/2017
+    - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:175923961:por
+  label: Alterado, a partir de 16.12.2021, o art. 27.º do Dec Lei 101/2006 de 06-jun, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 116/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15 nos termos do art.
+    4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2021-175923961
+  date: '2021-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -131,16 +144,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsm
   label: null
   source: http://data.dre.pt/eli/resolconsm
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58940164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616776:por
+  label: null
+  source: null
 article_structure:
-  article_count: 67
+  article_count: 57
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:55Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +240,9 @@ Os artigos 2.º, 3.º, 5.º, 12.º, 27.º, 31.º, 32.º, 34.º, 44.º, 47.º do 
 
 4 - [Anterior n.º 2].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -215,13 +274,17 @@ n) [...];
 
 o) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
 2 - As unidades da Rede podem coexistir com as unidades de cuidados paliativos previstas na Base XVI da [Lei n.º 52/2012](https://diariodarepublica.pt/dr/detalhe/lei/52-2012-174841), de 5 de setembro.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -241,7 +304,9 @@ d) [Revogada].
 
 5 - São equipas domiciliárias as equipas de cuidados continuados integrados.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -253,13 +318,17 @@ d) [Revogada].
 
 5 - As equipas de cuidados continuados integrados podem integrar as equipas comunitárias de suporte em cuidados paliativos previstas na Base XVIII da [Lei n.º 52/2012](https://diariodarepublica.pt/dr/detalhe/lei/52-2012-174841), de 5 de setembro.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - A existência de comorbilidade de foro mental ou a deficiência mental não são fatores de exclusão para admissão nas tipologias de resposta da Rede que se afigurem mais adequadas às necessidades de reabilitação motora ou outras ações que possam ser prestadas na Rede.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -281,7 +350,9 @@ d) [Revogada].
 
 10 - As regras de referenciação na Rede e de admissão nas unidades e equipas são definidas por portaria dos membros do Governo responsáveis pelas áreas da saúde e da segurança social.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -295,7 +366,9 @@ d) [Revogada].
 
 6 - Para além das unidades e equipas previstas no n.º 2 do artigo 2.º, os serviços da Rede podem também diferenciar-se para dar outras respostas específicas na área da saúde mental nomeadamente dirigidas a demências e deficiência mental.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Compete à Entidade Reguladora da Saúde promover a publicação, nos órgãos da imprensa de maior expansão na localidade da sede da unidade ou equipa da Rede, dos seguintes atos:
 
@@ -307,7 +380,9 @@ b) Decisão do encerramento da unidade ou fim da atividade da equipa.
 
 3 - [Anterior n.º 2].
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]:
 
@@ -335,7 +410,9 @@ Os artigos 1.º e 6.º do [Decreto-Lei n.º 8/2010](https://diariodarepublica.pt
 
 2 - O conjunto de unidades e equipas de cuidados continuados integrados de saúde mental, inclui unidades residenciais, unidades sócio ocupacionais e equipas de apoio domiciliário, que estão integradas na Rede Nacional de Cuidados Continuados Integrados (RNCCI) e articulam-se com os serviços locais de saúde mental (SLSM).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A coordenação das unidades e equipas de cuidados continuados integrados de saúde mental é assegurada a nível nacional e regional pela coordenação a nível nacional, e a nível regional e local, da RNCCI.
 
@@ -371,15 +448,15 @@ O presente decreto-lei entra em vigor no prazo de 30 dias após a sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 10 de julho de 2015.**
+Promulgado em 10 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de julho de 2015.**
+Referendado em 14 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1982-396555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bec5e47fc93d78c4dda4f05df6e3bb05844e698934f1e1784bb39283cb8c74d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34b8c7a0e0b98f282421dd5bcba773ac6435d4ef1e90635747922e2246d6befb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:634689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462427:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:42Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +104,7 @@ Considerando que a regulamentação jurídico-fiscal, objecto do presente diplom
 
 Assim, no cumprimento do disposto no artigo 3.º do [Decreto-Lei n.º 500/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1980-462427), de 20 de Outubro, e com o parecer favorável do Governo Regional da Madeira, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Entende-se por zona franca um enclave territorial onde as mercadorias que nele se encontrem são consideradas como não estando no território aduaneiro para efeito da aplicação de direitos aduaneiros, de restrições quantitativas e de demais imposições ou medidas de efeito equivalente, sem prejuízo da aplicação de disposições que venham a ser tomadas em casos excepcionais.
+Artigo 1.º - 1 - Entende-se por zona franca um enclave territorial onde as mercadorias que nele se encontrem são consideradas como não estando no território aduaneiro para efeito da aplicação de direitos aduaneiros, de restrições quantitativas e de demais imposições ou medidas de efeito equivalente, sem prejuízo da aplicação de disposições que venham a ser tomadas em casos excepcionais.
 
 2 - A zona será exteriormente resguardada por uma vedação, em conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, fazendo-se todo o movimento de entrada e de saída por um portão devidamente fiscalizado, nas condições que vierem a ser aprovadas pela Direcção-Geral das Alfândegas.
 
@@ -240,8 +250,8 @@ Art.º 10.º Tudo o que não estiver previsto no presente regulamento será reso
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 29 de Julho de 1982.**
+Promulgado em 29 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

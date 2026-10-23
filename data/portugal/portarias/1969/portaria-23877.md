@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/01/02200/01000102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23877-1969-526838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58da9bc2b064d018fc7c7aea51270def0e44d0591d245e9358180db561d4bf26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b78da7837bd835b11d4a0207f84b97592db75f55dbfa998890e65d70eb047c5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:397102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446767:por
+  label: "Alterado o § 3º do art. 152º do Estatuto, aprovado pelo Dec 44884, de 18-Fev de 1963, na redacção do presente diploma,\
+    \ pela PORT.95/71.17.02.1971.MMAR, DG.IS [40] de 17.02.1971\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1971-446767
+  date: '1971-02-17'
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397102:por
+  label: "Revogada pela PORT.219/72.1972.04.21.MMAR DG.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1972-397102
+  date: '1972-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:22Z'
   warnings: []
   errors: []
 ---
@@ -112,23 +131,23 @@ b) Voluntários, cujo ingresso nas classes se realize em posto superior ao de se
 
 5.º O artigo 60.º do E. S. P. A. passa a ter a seguinte redacção:
 
-###### Art. 60.º A recondução é concedida automàticamente pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal aos sargentos e praças do Q. P. que, três meses antes do final dos períodos de serviço obrigatório ou de recondução, não tenham pedido baixa e satisfaçam às condições estabelecidas no artigo 61.º; realiza-se por períodos sucessivos de três anos e começa imediatamente após a conclusão do tempo obrigatório de serviço.
+Art. 60.º A recondução é concedida automàticamente pelo chefe da 2.ª Repartição da Direcção do Serviço do Pessoal aos sargentos e praças do Q. P. que, três meses antes do final dos períodos de serviço obrigatório ou de recondução, não tenham pedido baixa e satisfaçam às condições estabelecidas no artigo 61.º; realiza-se por períodos sucessivos de três anos e começa imediatamente após a conclusão do tempo obrigatório de serviço.
 
 6.º O artigo 63.º do E. S. P. A. passa a ter a seguinte redacção:
 
-###### Art. 63.º Os sargentos e praças dos Q. P. que desejem deixar o serviço activo ao terminar os períodos de serviço obrigatório ou de recondução devem fazer declaração para baixa com, pelo menos, três meses de antecedência, a qual deve ser submetida à apreciação do chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
+Art. 63.º Os sargentos e praças dos Q. P. que desejem deixar o serviço activo ao terminar os períodos de serviço obrigatório ou de recondução devem fazer declaração para baixa com, pelo menos, três meses de antecedência, a qual deve ser submetida à apreciação do chefe da 2.ª Repartição da Direcção do Serviço do Pessoal.
 
 § único. Os grumetes que não logrem promoção a marinheiro e os marinheiros não pertencentes aos Q. P. têm baixa do serviço activo no termo da prestação de serviço obrigatório (quatro ou seis anos). Os marinheiros atrás referidos devem ser passados à disponibilidade antes da conclusão daquela prestação de serviço, se essa passagem for indispensável para que grumetes de incorporações mais modernas possam vir a ingressar nos Q. P.
 
 7.º O artigo 64.º do E. S. P. A. e o seu § único passam a ter a seguinte redacção:
 
-###### Art. 64.º A continuação no activo, em caso de guerra ou emergência ou quando circunstâncias extraordinárias o exijam, pode, por despacho ministerial, ser determinada, para além do tempo de recondução, para os sargentos e praças dos Q. P.
+Art. 64.º A continuação no activo, em caso de guerra ou emergência ou quando circunstâncias extraordinárias o exijam, pode, por despacho ministerial, ser determinada, para além do tempo de recondução, para os sargentos e praças dos Q. P.
 
 § único. Esta continuação verifica-se, independentemente de determinação especial, e mesmo para as praças que não pertençam aos Q. P., sempre que o sargento ou praça esteja prestando serviço fora dos portos do continente, mas ùnicamente durante o tempo necessário para o seu regresso.
 
 8.º O artigo 122.º do E. S. P. A. passa a ter a seguinte redacção:
 
-###### Art. 122.º Os cursos do 1.º grau são frequentados por grumetes das respectivas classes, nomeados pela 2.ª Repartição da Direcção do Serviço do Pessoal, tendo em conta os seguintes factores relativos a cada praça, dentro de cada incorporação:
+Art. 122.º Os cursos do 1.º grau são frequentados por grumetes das respectivas classes, nomeados pela 2.ª Repartição da Direcção do Serviço do Pessoal, tendo em conta os seguintes factores relativos a cada praça, dentro de cada incorporação:
 
 a) Classificação de Bom ou superior na I. T. E.;
 
@@ -138,7 +157,7 @@ b) Classificação de comportamento não inferior à 2.ª classe, sem faltas de 
 
 9.º O artigo 123.º do E. S. P. A. passa a ter a seguinte redacção, eliminando-se o § único:
 
-###### Art. 123.º O curso do 1.º grau das várias classes será ministrado seguidamente à I. T. E., devendo os planos de curso ser elaborados tendo em conta esta circunstância.
+Art. 123.º O curso do 1.º grau das várias classes será ministrado seguidamente à I. T. E., devendo os planos de curso ser elaborados tendo em conta esta circunstância.
 
 10.º No artigo 125.º do E. S. P. A. é eliminada a expressão «ou por falta de aproveitamento».
 

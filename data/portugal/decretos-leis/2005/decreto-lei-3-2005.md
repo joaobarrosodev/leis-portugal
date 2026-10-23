@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2005/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2005-457203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d185e0f501ceab0bf2476546f23c351d9fdb7650c64f6913d1cfb84baf2867c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85b71d2253cf1ff613af9263cba9a37acaba11393cd9afc13d705d1e0530509c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,46 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento CE
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
 - Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e seus Reboques
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520818:por
+  label: "Alterados os anexos I e XI do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, na redacção do presente diploma, pelo DEC LEI.198/2007.16.05.2007.MAI,\
+    \ DR.IS [94] de 16.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2007-520818
+  date: '2007-05-16'
+- type: amended_by
+  target: pt:dre:456780:por
+  label: "Alterado o anexo X do Regulamento Relativo aos Sistemas de Aquecimento dos Automóvies e Seus Reboques aprovado pelo\
+    \ Dec Lei 311/2003 de 12-Dez, com redacção conferida no presente diploma, pelo DEC LEI.134/2008.21.07.2008.MOPTC, DR.IS\
+    \ [139] de 21.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2008-456780
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:456786:por
+  label: "Alterado o anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes\
+    \ e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, com as alterações constantes do presente diploma, pelo\
+    \ DEC LEI.135/2008.21.07.2008.MOPTC, DR.IS [139] de 21.07.2008 \08 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2008-456786
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo V do Regulamento Relativo aos Sistemas de Aquecimento dos Automóveis e seus Reboques,\
+    \ aprovado pelo Dec Lei 311/2003 de 12-dez, alterado pelo presente diploma, pelo DEC LEI.148/2013.24.10.2013.MECO, DR.IS\
+    \ [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0157
   label: null
@@ -110,16 +138,23 @@ relationships:
   target: celex:32004L0078
   label: null
   source: http://data.europa.eu/eli/dir/2004/78/oj
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:21Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +189,9 @@ O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [20
 
 Dos requisitos de segurança aplicáveis aos sistemas de aquecimento a gás de petróleo liquefeito (GPL)
 
-###### Artigo 26.º — Requisitos de segurança
+Artigo 26.º
+
+Requisitos de segurança
 
 Os requisitos de segurança aplicáveis aos aquecedores de combustão a GPL e aos sistemas de aquecimento a GPL para utilização rodoviária ou para uso exclusivamente estacionário constam do anexo X do presente Regulamento.»
 
@@ -194,15 +231,15 @@ b) Recusar a matrícula, a venda ou a entrada em circulação de veículos novos
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Daniel Viegas Sanches - José Pedro Aguiar Branco.
 
-**Promulgado em 14 de Dezembro de 2004.**
+Promulgado em 14 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Dezembro de 2004.**
+Referendado em 17 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — (referente ao artigo 3.º)
 
@@ -370,7 +407,7 @@ Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Mig
 
 2 - No quadro seguinte indicam-se os anexos que são aplicáveis a cada tipo de sistema de aquecimento, em função da categoria do veículo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
 
 2 - O capítulo IV do presente Regulamento contém outros requisitos relativos aos aquecedores de combustão e sua instalação nos veículos.
 
@@ -468,23 +505,31 @@ E/ECE/TRANS/505 - rev. 1/add. 66/rev. 1/amend. 2.
 
 Natureza dos veículos para fins especiais e disposições aplicáveis
 
-# PARTE I — Autocaravanas, ambulâncias e carros funerários
+PARTE I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
+Autocaravanas, ambulâncias e carros funerários
 
-# PARTE II — Veículos blindados
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
+PARTE II
 
-# PARTE III — Outros veículos para fins específicos (incluindo caravanas)
+Veículos blindados
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
+
+PARTE III
+
+Outros veículos para fins específicos (incluindo caravanas)
 
 A aplicação das isenções só é autorizada se o fabricante conseguir demonstrar, a contento da entidade de homologação, que o veículo não pode cumprir os requisitos devido ao fim específico a que se destina.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
 
-# PARTE IV — Gruas móveis
+PARTE IV
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
+Gruas móveis
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
 
 Significado das letras:
 

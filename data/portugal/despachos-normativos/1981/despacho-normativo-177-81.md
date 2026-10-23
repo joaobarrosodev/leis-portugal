@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/177-1981-580091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a68dd283b8db20a1e1db34e483bdaad9b2b707ef010aaefa13fc1ade843c041b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20e0dbe1a25fdafc32320638ad2749eb45c9e7b7b6d288d5155c023c9cd4ca48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cereal
+- EPAC
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:311784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682014:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:45Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +123,7 @@ A - Trigo, centeio, triticale, cevada forrageira e aveia
 
 1.º Os preços de intervenção para o trigo, centeio, triticale, cevada forrageira e aveia para a campanha de produção de 1980-1981 a praticar pela EPAC são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf)
 
 2.º O trigo rijo de grão claro da classe C e o trigo rijo de grão escuro serão pagos ao mesmo preço do trigo mole.
 
@@ -112,7 +131,7 @@ A - Trigo, centeio, triticale, cevada forrageira e aveia
 
 4.º As qualidades tipo correspondentes aos preços de intervenção aplicam-se aos cereais isentos de cheiros estranhos, de depredadores vivos, com coloração própria e as seguintes características:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf)
 
 5.º As bonificações e depreciações a aplicar aos cereais cuja qualidade se afaste da qualidade tipo definida no n.º 4.º são as seguintes:
 
@@ -142,7 +161,7 @@ e) Aveia: superior a 49 kg/hl até 62 kg/hl.
 
 6.º Todo o cereal da produção nacional que não apresente uma qualidade mínima não terá acesso ao regime dos preços de intervenção. As características definidas para a qualidade mínima são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16000/17151717.pdf)
 
 7.º Os cereais cujas características excedam as tolerâncias estabelecidas para a «qualidade mínima» serão classificados de «qualidade inferior», podendo ser recebidos pela EPAC segundo condições a fixar.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/05/13000/08460846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23413-1968-272463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6156b5a890002054903d0de82ceec38dbfd7673ff9375c68420a27a210ccf9c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56af2e34e063845eef9eb55a96280f5e60f777479433f3c4957d06ace4976681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:286736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411318:por
+  label: "Extinta a subclasse de oficiais t&#233;cnicos fixada pelo presente diploma e revogada, pela PORT.282/74.17.04.1974.MMAR,\
+    \ DG.IS [90] de 17.04.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1974-411318
+  date: '1974-04-17'
+- type: amended_by
+  target: pt:dre:286736:por
+  label: "Extinta a subclasse de oficiais fuzileiros, pela PORT.128/88.26.02.1988.MDN, DR.IS [47] de 26.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1988-286736
+  date: '1988-02-26'
+- type: cites
+  target: pt:dre:234698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:27Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +113,6 @@ Tendo em conta o disposto no § único do artigo 3.º do Estatuto do Oficial da 
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, fixar os seguintes efectivos para as subclasses dos oficiais técnicos e dos oficiais fuzileiros da classe do serviço especial:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/13000/08460846.pdf))](https://files.diariodarepublica.pt/1s/1968/05/13000/08460846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/13000/08460846.pdf)
 
 Ministério da Marinha, 31 de Maio de 1968. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

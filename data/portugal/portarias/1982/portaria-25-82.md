@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1982-553009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2813d9ffc5784065fb6c4f735d5a8442729197b40f18cbd4bc87952cfde38820
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3d2d44fecfe5bd8740e6aa08102808189d070101f753a023c8fd028a396cc72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Procuradoria Geral da República
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELA PORTARIA NUMERO 124/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 28, DE 3/2/83.\0/2/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:308281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:11:57Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +122,4 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 20 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/00900/00400040.pdf))](https://files.diariodarepublica.pt/1s/1982/01/00900/00400040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/00900/00400040.pdf)

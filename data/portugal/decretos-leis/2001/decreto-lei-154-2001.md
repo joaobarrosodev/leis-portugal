@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/2001/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2001-316082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1066df5e9c88aff94b4d791d390832521e445ced059895685f0081fcc0569a6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ca84ee88dcb14384732386fb0003202bc012b264dcc078c9a8dff84c70e6918
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Inspecção Geral da Administração Pública
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:520464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520464:por
+  label: "Determinada a sucessão da Inspecção-Geral de Finanças (IGF) nas atribuições da Inspecção Geral da Administração\
+    \ Pública (IGAP) - já extinta - cuja orgânica e atribuições constam do presente diploma, pelo DEC LEI.79/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2007-520464
+  date: '2007-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1996/08/13/p/dre
   label: null
@@ -100,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1010/2000/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1010/2000/10/20/p/dre
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621721:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:54Z'
   warnings: []
   errors: []
 ---
@@ -280,15 +311,21 @@ e) Proceder a todas as demais diligências processuais, nomeadamente no âmbito 
 
 4 - Os coordenadores designados nos termos do número anterior têm direito a um acréscimo de 30 pontos em relação ao índice que detêm.
 
-###### Artigo 10.º — Divisão de Gestão de Recursos Humanos e de Formação
+###### Artigo 10.º
+
+##### Divisão de Gestão de Recursos Humanos e de Formação
 
 À Divisão de Gestão de Recursos Humanos e de Formação compete, designadamente, conceber, promover e executar todas as acções necessárias à gestão dos recursos humanos, bem como planear e promover a formação interna e externa do pessoal.
 
-###### Artigo 11.º — Divisão de Gestão Financeira e Patrimonial
+###### Artigo 11.º
+
+##### Divisão de Gestão Financeira e Patrimonial
 
 À Divisão de Gestão Financeira e Patrimonial compete, nomeadamente, elaborar e executar o orçamento da IGAP, promover e executar a aquisição de bens e serviços e manter actualizado o cadastro patrimonial, bem como assegurar a gestão, conservação, reparação, limpeza e segurança das suas instalações e viaturas.
 
-###### Artigo 12.º — Divisão de Informação e Gestão Informática
+###### Artigo 12.º
+
+##### Divisão de Informação e Gestão Informática
 
 À Divisão de Informação e Gestão Informática compete, designadamente, o planeamento e a gestão dos sistemas integrados das tecnologias de informação da IGAP.
 
@@ -486,15 +523,15 @@ O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 20 de Abril de 2001.**
+Promulgado em 20 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Abril de 2001.**
+Referendado em 26 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 MAPA I
 

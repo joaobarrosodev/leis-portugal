@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/328/1995/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1995-631865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f4fb5c8dbfd560018051739850c7a62f505122498b7713db18e2a6151e360c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf40871a32b2cd97c7560407c16cee5db9e9917d0b22e9f921fff91106757fb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,111 @@ reuse:
 subjects:
 - Acção Financeira
 - Aproximação das Legislações
-- Sociedade Anónima
-- Empresa
-- Sociedade Comercial
 - Capital Social
 - Código das Sociedades Comerciais
-- Contabilidade
 - Código do Registo Comercial
-- Multa
+- Contabilidade
 - Contrato
 - Controlo Financeiro
 - Depósito Legal
-- Sociedade de Responsabilidade Limitada
-- Ilícito de MERA Ordenação Social
 - Direito Comercial
+- Empresa
+- Ilícito de MERA Ordenação Social
+- Multa
 - Plano Oficial de Contabilidade
 - Prestação de Contas
+- Registo Comercial
 - Responsabilidade Civil
+- Sociedade Anónima
+- Sociedade Comercial
+- Sociedade de Responsabilidade Limitada
 - Sociedade em Comandita
 - Sociedade por Quotas
-- Registo Comercial
 relationships:
 - type: amended_by
   target: pt:dre:107773645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492203:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec-Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.257/96.31.12.1996.MJ, DR.IS-A [302] de 31.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1996-492203
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:323701:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.172/99.20.05.1999.MF, DR.IS-A [117] de 20.05.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1999-323701
+  date: '1999-05-20'
+- type: amended_by
+  target: pt:dre:553421:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.107/2003.2003.06.04.MF DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2003-553421
+  date: '2003-06-04'
+- type: amended_by
+  target: pt:dre:211031:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.70/2004.25.03.2004.MF, DR.IS-A [72] de 25.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2004-211031
+  date: '2004-03-25'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterados os arts. 451.º, 453.º e 508.º-D do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de\
+    \ 02-Set, na redacção do presente diploma, pelo DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterado, a partir de 30.03.2006, o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 65º, 70º-A, 289º, 376º, 451º, 452.º, 453.º, 455.º e 508º-A do Código das Sociedades Comerciais,\
+    \ aprovado pelo Dec Lei 262/86 de 02-Set, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A\
+    \ [63-Supl] de 29.03.2006\006"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 3º do Código Registo Comercial aprovado pelo Dec Lei 403/86 de 03-Dez, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:608246:por
+  label: "Alterado o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pela LEI.19/2009.12.05.2009.AR, DR.IS [91] de 12.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2009-608246
+  date: '2009-05-12'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterados os art.s 70º e 451º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009, com produção de efeitos nos termos\
+    \ do art. 14º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterado, a partir de 24.05.2010, o art. 325º-A do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86,\
+    \ de 02-Set, na redacção do presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:107773645:por
+  label: Alterados, os arts. 65.º, 451.º e 528.º do Código das Sociedades Comerciais, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 89/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28, nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2017-107773645
+  date: '2017-07-28'
 - type: cites
   target: celex:31990L0605
   label: null
@@ -108,13 +188,13 @@ relationships:
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:26Z'
   warnings: []
   errors: []
 ---
@@ -411,12 +491,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

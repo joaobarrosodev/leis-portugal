@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-1979-364165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1256f027aca1c2a44343a8275b7b2d8ca2d92506eac4f5febd8b984139485fa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52212482c41a71394d2b46a1d0b6c8079d0216995ce56e9f77c51a7fc3fbf3b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituições de Previdência Social
+- Remuneração
+- Trabalhador das Instituições de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:315160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:34Z'
   warnings: []
   errors: []
 ---
@@ -109,21 +128,21 @@ Em execução do disposto no artigo 174.º da portaria n.º 193/79, de 21 de Abr
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado da Administração Pública, do Orçamento, do Trabalho e da Segurança Social:
 
-###### Artigo 1.º - 1 - Em conformidade com as actualizações dos vencimentos dos funcionários públicos, previstas no [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, são aprovadas as retribuições mensais do pessoal dirigente abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, para os períodos de 1 de Julho a 30 de Setembro e de 1 de Outubro a 31 de Dezembro do corrente ano.
+Artigo 1.º - 1 - Em conformidade com as actualizações dos vencimentos dos funcionários públicos, previstas no [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, são aprovadas as retribuições mensais do pessoal dirigente abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, para os períodos de 1 de Julho a 30 de Setembro e de 1 de Outubro a 31 de Dezembro do corrente ano.
 
 2 - Estas retribuições constam da tabela A do anexo I à presente portaria.
 
-###### Art. 2.º - 1 - Nos termos do artigo anterior, são aprovadas as retribuições mensais dos restantes elementos do pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621) para os períodos de 1 de Janeiro a 30 de Junho, de 1 de Julho a 30 de Setembro e de 1 de Outubro a 31 de Dezembro do corrente ano.
+Art. 2.º - 1 - Nos termos do artigo anterior, são aprovadas as retribuições mensais dos restantes elementos do pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621) para os períodos de 1 de Janeiro a 30 de Junho, de 1 de Julho a 30 de Setembro e de 1 de Outubro a 31 de Dezembro do corrente ano.
 
 2 - As retribuições a perceber pelos trabalhadores nos três períodos mencionados no número anterior constam, respectivamente, dos n.os 1, 2 e 3 da tabela B do anexo I à presente portaria.
 
-###### Art. 3.º - 1 - As gratificações de chefia referentes ao período de 1 de Janeiro a 30 de Junho do corrente ano a pagar aos trabalhadores que a elas tivessem direito, nos termos do artigo 124.º da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), são actualizadas para os valores constantes do mapa também anexo à presente portaria.
+Art. 3.º - 1 - As gratificações de chefia referentes ao período de 1 de Janeiro a 30 de Junho do corrente ano a pagar aos trabalhadores que a elas tivessem direito, nos termos do artigo 124.º da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), são actualizadas para os valores constantes do mapa também anexo à presente portaria.
 
 2 - É revogado o artigo 124.º da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), com efeitos a partir de 1 de Julho de 1979.
 
-###### Art. 4.º As diuturnidades em vigor para os funcionários públicos, acrescidas da correspondente carga fiscal, passam a integrar, com efeitos desde 1 de Janeiro do corrente ano, as retribuições mensais do pessoal da Previdência, a que se referem os artigos anteriores da presente portaria.
+Art. 4.º As diuturnidades em vigor para os funcionários públicos, acrescidas da correspondente carga fiscal, passam a integrar, com efeitos desde 1 de Janeiro do corrente ano, as retribuições mensais do pessoal da Previdência, a que se referem os artigos anteriores da presente portaria.
 
-###### Art. 5.º Nas tabelas do anexo II da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621) deixam de figurar as categorias de director de serviços e chefe de divisão, por constarem da tabela autónoma do pessoal dirigente (tabela A do anexo I da presente portaria).
+Art. 5.º Nas tabelas do anexo II da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621) deixam de figurar as categorias de director de serviços e chefe de divisão, por constarem da tabela autónoma do pessoal dirigente (tabela A do anexo I da presente portaria).
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, dos Assuntos Sociais e do Trabalho, 17 de Outubro de 1979. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Trabalho, Vasco Ribeiro Ferreira. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira.
 
@@ -133,30 +152,30 @@ Retribuições mensais do pessoal dirigente
 
 1) Director de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
 
 2) Chefe de divisão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
 
 TABELA B
 
 1) Retribuições mensais no 1.º semestre de 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
 
 2) Retribuições mensais no 3.º trimestre de 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
 
 3) Retribuições mensais no 4.º trimestre de 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
 
 Mapa de gratificações de chefia
 
 (1.º semestre de 1979)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24600/27382741.pdf)
 
-**O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Trabalho, Vasco Ribeiro Ferreira. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira.**
+O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Trabalho, Vasco Ribeiro Ferreira. - O Secretário de Estado da Segurança Social, Coriolano Albino Ferreira.

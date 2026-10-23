@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 134/2018, 1º Suplemento, Série I de 2018-07-13
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3180-(2) a 3180-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13401/0000200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57-a/2018/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-a-2018-115698415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1365475d9674856ebad40e992f93a64b976ac79745a1cca8f479270e33e3a01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0173082c902985c7790e765a64a6af035acf7ff565cbed78692abe5c27f6dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
-- Energia Elétrica
+- Combustível
+- Conselho para os Combustíveis
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Direção Geral de Energia e Geologia
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
+- Estatuto
+- Fiscalização
+- Gás
+- Gás Natural
 - Petróleo
 - Política Energética
-- Reservas de Combustível
-- Estatuto
-- Combustível
-- Fiscalização
-- Direção Geral de Energia e Geologia
-- Gás
-- Entidade Reguladora dos Serviços Energéticos
 - Proteção do Consumidor
 - Rede Nacional de Transporte de Energia Elétrica
+- Regulamentação de Atos Legislativos
+- Reservas de Combustível
 - Sistema Elétrico Nacional
 - Sistema Nacional de Gás Natural
 - Sistema Petrolífero Nacional
-- Conselho para os Combustíveis
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122476954:por
+  label: Alterados os arts. 46.º e 47.º e revogadas as als. z) e aa) do n.º 2 do art. 3.º dos Estatutos da ERSE, aprovados
+    em anexo ao Dec Lei 97/2002 de 12-abr, na versão alterada e republicada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    76/2019 - Diário da República n.º 106/2019, Série I de 2019-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2019-122476954
+  date: '2019-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2001/04/07/p/dre
   label: null
@@ -130,16 +137,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 article_structure:
-  article_count: 100
+  article_count: 80
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:45Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +257,9 @@ Os artigos 1.º, 2.º, 3.º, 8.º, 9.º, 10.º, 16.º, 19.º, 26.º, 28.º, 33.�
 
 5 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -190,7 +267,9 @@ Os artigos 1.º, 2.º, 3.º, 8.º, 9.º, 10.º, 16.º, 19.º, 26.º, 28.º, 33.�
 
 3 - Compete ao Governo, nos termos constitucionais e legais, fixar as orientações gerais de política energética, designadamente em matérias relacionadas com segurança de abastecimento, proteção dos direitos dos consumidores, negociação e celebração de acordos internacionais na área da energia, eficiência energética, sustentabilidade ambiental e sustentabilidade dos setores regulados, sem prejuízo do disposto no n.º 1 do artigo 58.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A regulação exercida pela ERSE tem por finalidade promover a eficiência e a racionalidade das atividades dos setores regulados, em termos objetivos, transparentes, não discriminatórios e concorrenciais, através da sua contínua supervisão e acompanhamento, integrados nos objetivos do mercado interno e dos mercados ibéricos.
 
@@ -310,13 +389,17 @@ h) [Anterior alínea h) do n.º 4];
 
 i) [Anterior alínea i) do n.º 4].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A ERSE dispõe das competências necessárias à prossecução da sua finalidade e das atribuições estabelecidas nos presentes Estatutos e na legislação que regula o Sistema Elétrico Nacional (SEN), o Sistema Nacional de Gás Natural (SNGN) e o Sistema Petrolífero Nacional (SPN), no âmbito dos setores do GPL, dos combustíveis derivados do petróleo e dos biocombustíveis.
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A ERSE dispõe de competência para a elaboração e aprovação de regulamentos que sejam necessários ao desempenho das suas atribuições e que sejam destinados à aplicação da legislação que disciplina a organização e o funcionamento dos setores que integram o âmbito da regulação a seu cargo.
 
@@ -326,7 +409,9 @@ i) [Anterior alínea i) do n.º 4].
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Antes da aprovação ou alteração de qualquer regulamento cuja emissão seja da sua competência, e sem prejuízo da consulta ao conselho consultivo, ao conselho tarifário ou ao conselho para os combustíveis, em razão das matérias da competência de cada um destes conselhos, a ERSE deve comunicar o procedimento em curso ao membro do Governo responsável pela área da energia e à DGEG, bem como às entidades concessionárias, licenciadas, aos comercializadores e demais agentes dos setores regulados registados para o efeito na ERSE, em razão da matéria, e às associações de consumidores de interesse genérico e ao público em geral, facultando-lhes o acesso aos textos respetivos e disponibilizando-os na sua página na Internet.
 
@@ -340,17 +425,23 @@ i) [Anterior alínea i) do n.º 4].
 
 6 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Incumbe à ERSE pronunciar-se, a pedido da Assembleia da República e do Governo, sobre iniciativas legislativas ou outras respeitantes às suas atribuições no âmbito dos setores regulados.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Estão sujeitos ao poder sancionatório da ERSE todas as entidades intervenientes no SEN, SNGN e no SPN, no âmbito dos setores do GPL e dos combustíveis derivados do petróleo e dos biocombustíveis, cujas atividades estejam sujeitas à regulação da ERSE, nos termos da legislação que estabelece as bases dos setores, da legislação complementar, destes Estatutos e dos regulamentos identificados no n.º 2 do artigo 9.º ou dos regulamentos cuja aprovação, aplicação ou supervisão sejam da competência da ERSE.
 
 2 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 [...]:
 
@@ -364,7 +455,9 @@ d) [...];
 
 e) O conselho para os combustíveis.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -382,7 +475,9 @@ e) O conselho para os combustíveis.
 
 8 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -392,7 +487,9 @@ e) O conselho para os combustíveis.
 
 4 - Sem prejuízo do disposto no Código do Procedimento Administrativo, o presidente ou o seu substituto legal podem opor o seu veto a deliberações que reputem contrárias à lei, aos presentes Estatutos e aos regulamentos.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]:
 
@@ -466,7 +563,9 @@ z) [Anterior alínea y)].
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]:
 
@@ -476,7 +575,9 @@ b) A secção do setor do gás natural, composta pelos representantes mencionado
 
 2 - [...].
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]:
 
@@ -508,7 +609,9 @@ c) [Anterior alínea c) do n.º 3].
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]:
 
@@ -570,7 +673,9 @@ u) Um representante dos pequenos comercializadores da energia.
 
 9 - [...].
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]:
 
@@ -580,7 +685,9 @@ b) A secção do setor do gás natural, composta pelos representantes mencionado
 
 2 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...].
 
@@ -616,7 +723,9 @@ Função
 
 O conselho para os combustíveis é o órgão consultivo específico para o exercício das funções da ERSE no âmbito dos setores do GPL em todas as suas categorias, nomeadamente engarrafado, canalizado e a granel, dos combustíveis derivados do petróleo e dos biocombustíveis.
 
-###### Artigo 44.º-B — Composição e designação
+Artigo 44.º-B
+
+Composição e designação
 
 1 - O conselho para os combustíveis tem a seguinte composição:
 
@@ -672,7 +781,9 @@ t) Um representante da Confederação da Indústria Portuguesa (CIP), para o set
 
 7 - A designação dos membros do conselho para os combustíveis é feita por um período de três anos, renovável, sem prejuízo de os referidos membros poderem ser substituídos a qualquer momento pelas entidades que os designam.
 
-###### Artigo 44.º-C — Organização
+Artigo 44.º-C
+
+Organização
 
 1 - O conselho para os combustíveis compreende duas secções:
 
@@ -682,7 +793,9 @@ b) A secção do setor do gás de petróleo liquefeito, composta pelos represent
 
 2 - O plenário e as secções do conselho para os combustíveis são presididos pela personalidade designada pelo membro do Governo responsável pela área da energia.
 
-###### Artigo 44.º-D — Competência
+Artigo 44.º-D
+
+Competência
 
 1 - Compete ao conselho para os combustíveis, reunido em plenário, pronunciar-se sobre matérias comuns aos setores do GPL, dos combustíveis derivados do petróleo e dos biocombustíveis, nomeadamente de natureza regulamentar, que lhe sejam submetidas pelo conselho de administração.
 
@@ -706,7 +819,9 @@ c) Outras matérias relacionadas com o setor do GPL que lhe sejam submetidas pel
 
 5 - Os pareceres do conselho para os combustíveis são publicitados pela ERSE e disponibilizados para consulta na sua página na Internet, bem como por outros meios considerados adequados.
 
-###### Artigo 44.º-E — Funcionamento
+Artigo 44.º-E
+
+Funcionamento
 
 1 - O conselho para os combustíveis reúne ordinariamente, pelo menos, uma vez por ano, por convocação do seu presidente.
 
@@ -750,15 +865,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de julho de 2018. - Maria Manuel de Lemos Leitão Marques - Maria de Fátima de Jesus Fonseca - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 12 de julho de 2018.**
+Promulgado em 12 de julho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de julho de 2018.**
+Referendado em 12 de julho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -1961,3 +2076,5 @@ c) A criação de delegações territorialmente desconcentradas.
 ###### Artigo 62.º — Fiscalização do Tribunal de Contas
 
 A ERSE está sujeita à jurisdição do Tribunal de Contas, nos termos da legislação competente.
+
+111505989

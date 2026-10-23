@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2013/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2013-256986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a72fd0359c352330018d3f453303547754ffe3c89281940b8b50e812278f6559
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db132547daa7037da8ad3ab2edc24657b5877ddde033088a9064d633649d4750
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,45 +68,87 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Beneficiário
+- Cessação do Contrato de Trabalho
 - Complemento Extraordinario de Solidariedade
 - Complemento por Dependência
-- Sistema de Verificação de Incapacidades
+- Complemento Solidário para Idosos
 - Contra-ordenação
+- Contrato de Trabalho
 - Desempregado
+- Desemprego
 - Documento Eletrónico
+- Doença Profissional
+- Emprego
+- Incapacidade Permanente
+- Internet
 - Pensão de Invalidez
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Doença Profissional
 - Pensão por Morte
 - Pensionista
-- Internet
-- Prazo de Garantia
 - Pensões
+- Prazo de Garantia
 - Prestações da Segurança Social
 - Prestações de Desemprego
-- Desemprego
-- Rendimento Social de Inserção
-- Emprego
 - Proteção no Desemprego
 - Proteção Social
 - Reembolso
-- Contrato de Trabalho
 - Regime Geral da Segurança Social
 - Regime Jurídico
-- Cessação do Contrato de Trabalho
+- Rendimento Social de Inserção
 - Segurança Social
+- Sistema de Verificação de Incapacidades
 - Subsídio de Funeral
+- SUBSÍDIO POR CESSAÇÃO DE ATIVIDADE
 - Subsídio por Morte
 - Subsídio Social de Desemprego
-- Incapacidade Permanente
-- Complemento Solidário para Idosos
-- SUBSÍDIO POR CESSAÇÃO DE ATIVIDADE
 relationships:
 - type: amended_by
   target: pt:dre:125417313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70748601:por
+  label: Alterado, a partir de 01.01.2016, o art. 6.º do Dec Lei 265/99 de 14-jul, com a redação dada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2015-70748601
+  date: '2015-10-20'
+- type: amended_by
+  target: pt:dre:73017523:por
+  label: Alterado, a partir de 01.03.2016, o art 31.º da Port 257/2012 de 27-ago, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 1/2016 - Diário da República n.º 3/2016, Série I de 2016-01-06 e nos termos do art. 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2016-73017523
+  date: '2016-01-06'
+- type: amended_by
+  target: pt:dre:75194223:por
+  label: Alterado a partir de 01.10.2016 o art. 70.º do Dec Lei 220/2006,de 03-nov, na redação do presente diploma pelo(a)
+    Lei n.º 34/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2016-75194223
+  date: '2016-08-24'
+- type: amended_by
+  target: pt:dre:105687068:por
+  label: Alterado o art. 31.º da Port 257/2012 de 27-ago, com a redação dada pelo presente diploma, pelo(a) Portaria n.º 5/2017
+    - Diário da República n.º 2/2017, Série I de 2017-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-2017-105687068
+  date: '2017-01-03'
+- type: amended_by
+  target: pt:dre:114738297:por
+  label: Alterado o art. 31.º da Port 257/2012, de 27-ago, na redação do presente diploma pelo(a) Portaria n.º 52/2018 - Diário
+    da República n.º 37/2018, Série I de 2018-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-2018-114738297
+  date: '2018-02-21'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Alterado, a partir de 01.07.2018, o art. 6.º, na redação do presente diploma, do Dec Lei 65/2012 de 15-mar pelo(a)
+    Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02 nos termos do seu art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:122572388:por
+  label: Alterados os arts. 32.º e 54.º, na redação do presente diploma, do Dec Lei 322/90 de 18-out, pelo(a) Decreto-Lei
+    n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14 nos termos do n.º 2 do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2019-122572388
+  date: '2019-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2012/06/27/p/dre
   label: null
@@ -147,16 +189,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2010/
   label: null
   source: http://data.dre.pt/eli/lei/5/2010/
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:72997147:por
+  label: Revogado, com efeitos a partir de 01.01.2016, o art 9.º pelo(a) Decreto-Lei n.º 254-B/2015 - Diário da República
+    n.º 255/2015, 1º Suplemento, Série I de 2015-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-b-2015-72997147
+  date: '2015-12-31'
 article_structure:
-  article_count: 17
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:51Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +335,9 @@ Os artigos 32.º e 54.º do [Decreto-Lei n.º 322/90](https://diariodarepublica.
 
 O montante do subsídio por morte é igual a três vezes o valor do indexante dos apoios sociais (IAS).
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -359,7 +477,9 @@ Cessação por acordo para reforço da qualificação e capacidade técnica das 
 
 6 - Nas situações de cessação do contrato de trabalho por acordo, em violação dolosa do disposto nos n.os 1, 2 e 3, o trabalhador mantém o direito às prestações de desemprego, ficando o empregador obrigado perante a segurança social ao pagamento do montante correspondente à totalidade do período de concessão da prestação inicial de desemprego.
 
-###### Artigo 6.º — Alteração ao [Decreto-Lei n.º 65/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2012-553471), de 15 de março
+Artigo 6.º
+
+Alteração ao [Decreto-Lei n.º 65/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2012-553471), de 15 de março
 
 O artigo 6.º do [Decreto-Lei n.º 65/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2012-553471), de 15 de março, passa a ter a seguinte redação:
 
@@ -381,7 +501,9 @@ e) [...].
 
 2 - [...].»
 
-###### Artigo 7.º — Alteração à Portaria n.º 257/2012, de 27 de agosto
+Artigo 7.º
+
+Alteração à Portaria n.º 257/2012, de 27 de agosto
 
 O artigo 31.º da Portaria n.º 257/2012, de 27 de agosto, passa a ter a seguinte redação:
 
@@ -391,7 +513,9 @@ O artigo 31.º da Portaria n.º 257/2012, de 27 de agosto, passa a ter a seguint
 
 O valor do rendimento social de inserção corresponde a 42,495 % do valor do indexante dos apoios sociais.»
 
-###### Artigo 8.º — Complemento por cônjuge a cargo
+Artigo 8.º
+
+Complemento por cônjuge a cargo
 
 1 - A atribuição do complemento por cônjuge a cargo depende de o valor das pensões recebidas pelo pensionista não poder ser superior a (euro) 600.
 
@@ -401,17 +525,23 @@ O valor do rendimento social de inserção corresponde a 42,495 % do valor do in
 
 4 - As pensões por incapacidade permanente para o trabalho e por morte, decorrentes de acidente de trabalho ou doença profissional, bem como outras pensões de natureza indemnizatória não relevam para os efeitos do disposto nos números anteriores.
 
-###### Artigo 9.º — Complemento solidário para idosos
+Artigo 9.º
+
+Complemento solidário para idosos
 
 O valor de referência do complemento solidário para idosos, previsto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de dezembro, é fixado em (euro) 4 909.
 
-###### Artigo 10.º — Norma revogatória
+Artigo 10.º
+
+Norma revogatória
 
 1 - É revogado o artigo 33.º do [Decreto-Lei n.º 322/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1990-565458), de 18 de outubro, alterado pelos Decretos-Leis n.os [141/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263), de 10 de abril, e [265/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), de 14 de julho, pela [Lei n.º 23/2010](https://diariodarepublica.pt/dr/detalhe/lei/23-2010-343919), de 30 de agosto, e pelo [Decreto-Lei n.º 133/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), de 27 de junho.
 
 2 - É revogada a [Portaria n.º 1457/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1457-2009-482393), de 31 de dezembro.
 
-###### Artigo 11.º — Âmbito de aplicação e produção de efeitos
+Artigo 11.º
+
+Âmbito de aplicação e produção de efeitos
 
 1 - O disposto no artigo 2.º aplica-se às situações decorrentes de óbitos de beneficiários ocorridos após a data da sua entrada em vigor.
 
@@ -421,18 +551,20 @@ O valor de referência do complemento solidário para idosos, previsto no n.º 1
 
 4 - O disposto no artigo 6.º produz efeitos na data da entrada em vigor do [Decreto-Lei n.º 65/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2012-553471), de 15 de março.
 
-###### Artigo 12.º — Entrada em vigor
+Artigo 12.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no primeiro dia útil do mês subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 23 de janeiro de 2013.**
+Promulgado em 23 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de janeiro de 2013.**
+Referendado em 24 de janeiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

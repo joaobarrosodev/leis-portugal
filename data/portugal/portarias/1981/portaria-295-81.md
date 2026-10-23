@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07100/07800780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/295-1981-389613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d1950d7be41a0e3efb1842f396be5854ce541d12ebaa7c153e6b3a69f53164f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2af746186c6bdd8c45100ad9f501299f17dd24b443e3b5e8c4ba6fe5d6aa9c68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:42:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Alimentação Animal
+- Produto Animal
+- Produto Químico
+- Ruminante
 relationships:
 - type: amended_by
   target: pt:dre:392005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:413060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473275:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:392005:por
+  label: "Revogada pela PORT.540/82.1982.05.29.MACP, DR.IS [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/540-1982-392005
+  date: '1982-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:42:26Z'
   warnings: []
   errors: []
 ---

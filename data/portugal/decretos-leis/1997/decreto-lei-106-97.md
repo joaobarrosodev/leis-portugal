@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/1997/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1997-381752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d6e8f31f7501f43ed9660fe8edd43018c5534fad9b85e7588729af2b2eb1202
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c79c8e3ff166d9c333477258d0016f9006f3362710035ed12d75e244efab4312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Sanitária Veterinária Nacional
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Corpo Nacional de Inspecção Sanitária
 - Direção Geral de Veterinária
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Saúde Animal
 relationships:
@@ -78,20 +78,56 @@ relationships:
   target: pt:dre:518855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632398:por
+  label: "Alterados os arts. 2.º, 6.º, 8.º, 10.º, 11.º, 14.º, 18.º, 42.º e 44.º, alterado o mapa anexo e aditados os arts.\
+    \ 34.º-A, 34.º-B e 34.º-C, pelo DEC LEI.526/99.1999.12.10.MADRP DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1999-632398
+  date: '1999-12-10'
+- type: amended_by
+  target: pt:dre:518852:por
+  label: "Determinada a sucessão do GPP relativamente às atribuições da DGV, no domínio da área alimentar pelo DR.6/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2007-518852
+  date: '2007-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498102:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335901:por
+  label: "Revogado o art. 6º pelo DEC LEI.166/2000.2000.08.05.MADRP, DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2000-335901
+  date: '2000-08-05'
+- type: repealed_by
+  target: pt:dre:473500:por
+  label: "Revogado o art. 26º pelo DEC LEI.237/2005.30.12.2005.MEI, DR.IS-A [250] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2005-473500
+  date: '2005-12-30'
+- type: repealed_by
+  target: pt:dre:518855:por
+  label: "Revogado o presente diploma, com excepção do art. 45º, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out , pelo\
+    \ DR.11/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007, a partir de 01.03.2007.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2007-518855
+  date: '2007-02-27'
 article_structure:
   article_count: 46
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:49Z'
   warnings: []
   errors: []
 ---
@@ -328,7 +364,9 @@ b) Divisão de Gestão Financeira e Controlo Orçamental;
 
 c) Repartição de Administração Geral.
 
-###### Artigo 10.º — Divisão de Formação e Gestão de Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Formação e Gestão de Recursos Humanos
 
 À Divisão de Formação e Gestão de Recursos Humanos compete:
 
@@ -356,7 +394,9 @@ k) Assegurar o processamento dos vencimentos do pessoal e demais abonos a que ti
 
 l) Instruir os processos relativos a prestações sociais dos funcionários da DGV e dos seus familiares e a acidentes em serviço.
 
-###### Artigo 11.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 11.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -436,7 +476,9 @@ b) Divisão de Estatística e Processamento de Dados;
 
 c) Divisão de Formação, Informação e Documentação.
 
-###### Artigo 14.º — Divisão de Programação, Estudos e Gestão
+###### Artigo 14.º
+
+##### Divisão de Programação, Estudos e Gestão
 
 À Divisão de Programação, Estudos e Gestão compete:
 
@@ -454,7 +496,9 @@ f) Exercer o controlo orçamental e a avaliação das actividades desenvolvidas 
 
 g) Assegurar a gestão integrada dos recursos financeiros, tendo em conta a sua conformidade legal e regularidade financeira, bem como a eficácia técnico-económica.
 
-###### Artigo 15.º — Divisão de Estatística e Processamento de Dados
+###### Artigo 15.º
+
+##### Divisão de Estatística e Processamento de Dados
 
 À Divisão de Estatística e Processamento de Dados compete:
 
@@ -468,7 +512,9 @@ d) Assegurar uma correcta gestão dos meios informáticos e o desenvolvimento de
 
 e) Promover uma adequada automatização dos serviços da Direcção-Geral.
 
-###### Artigo 16.º — Divisão de Formação, Informação e Documentação
+###### Artigo 16.º
+
+##### Divisão de Formação, Informação e Documentação
 
 À Divisão de Formação, Informação e Documentação compete:
 
@@ -526,7 +572,9 @@ b) Divisão de Profilaxia e Polícia Sanitária;
 
 c) Divisão de Identificação Animal e Registo das Explorações.
 
-###### Artigo 20.º — Divisão de Epidemiologia
+###### Artigo 20.º
+
+##### Divisão de Epidemiologia
 
 À Divisão de Epidemiologia compete:
 
@@ -542,7 +590,9 @@ e) Organizar e manter actualizada a lista das doenças de declaração obrigató
 
 f) Organizar e tratar a informação relativa à saúde animal, através de uma base de dados nacional (PISA - Programa Informativo de Saúde Animal).
 
-###### Artigo 21.º — Divisão de Profilaxia e Polícia Sanitária
+###### Artigo 21.º
+
+##### Divisão de Profilaxia e Polícia Sanitária
 
 À Divisão de Profilaxia e Polícia Sanitária compete:
 
@@ -556,7 +606,9 @@ d) Desenvolver e coordenar acções de educação sanitária veterinária;
 
 e) Definir as regras de acreditação dos médicos veterinários que actuam no âmbito do Plano Nacional de Saúde Animal.
 
-###### Artigo 22.º — Divisão de Identificação Animal e Registo das Explorações
+###### Artigo 22.º
+
+##### Divisão de Identificação Animal e Registo das Explorações
 
 À Divisão de Identificação Animal e Registo das Explorações compete:
 
@@ -586,7 +638,9 @@ b) Divisão de Bem-Estar Animal;
 
 c) Divisão de Alimentação Animal.
 
-###### Artigo 24.º — Divisão de Meios de Defesa da Saúde Animal
+###### Artigo 24.º
+
+##### Divisão de Meios de Defesa da Saúde Animal
 
 À Divisão de Meios de Defesa da Saúde Animal compete:
 
@@ -602,7 +656,9 @@ e) Manter actualizada a lista das entidades que se dedicam à produção, import
 
 f) Assegurar o funcionamento do sistema nacional de farmacovigilância e toxicologia veterinária, em colaboração com o INFARMED.
 
-###### Artigo 25.º — Divisão de Bem-Estar Animal
+###### Artigo 25.º
+
+##### Divisão de Bem-Estar Animal
 
 À Divisão de Bem-Estar Animal compete:
 
@@ -614,7 +670,9 @@ c) Promover com quaisquer entidades, públicas ou privadas, nomeadamente com as 
 
 d) Colaborar com outras entidades na defesa e protecção do meio ambiente.
 
-###### Artigo 26.º — Divisão de Alimentação Animal
+###### Artigo 26.º
+
+##### Divisão de Alimentação Animal
 
 À Divisão de Alimentação Animal compete:
 
@@ -656,7 +714,9 @@ c) Divisão de Inspecção Hígio-Sanitária dos Produtos da Pesca e Aquicultura
 
 d) Divisão de Saúde Pública Veterinária.
 
-###### Artigo 28.º — Divisão de Estruturas
+###### Artigo 28.º
+
+##### Divisão de Estruturas
 
 À Divisão de Estruturas compete:
 
@@ -668,7 +728,9 @@ c) Proceder à aprovação e registo oficial dos estabelecimentos referidos nas 
 
 d) Colaborar com outras entidades nas acções conducentes à protecção do meio ambiente relativamente às agressões resultantes do funcionamento das instalações de produção e transformação e no controlo das condições ambientais no âmbito das suas atribuições.
 
-###### Artigo 29.º — Divisão de Inspecção Hígio-Sanitária dos Produtos Frescos de Origem Animal
+###### Artigo 29.º
+
+##### Divisão de Inspecção Hígio-Sanitária dos Produtos Frescos de Origem Animal
 
 1 - À Divisão de Inspecção Hígio-Sanitária dos Produtos Frescos de Origem Animal compete:
 
@@ -698,7 +760,9 @@ d) Colaborar na execução do Plano Nacional da Pesquisa de Resíduos e no contr
 
 2 - Quando os estabelecimentos referidos na alínea b) estiverem integrados em unidades de transformação, a atribuição do número de controlo veterinário deverá ser precedida do parecer da Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, no âmbito da sua competência.
 
-###### Artigo 31.º — Divisão de Saúde Pública Veterinária
+###### Artigo 31.º
+
+##### Divisão de Saúde Pública Veterinária
 
 À Divisão de Saúde Pública Veterinária compete:
 
@@ -744,7 +808,9 @@ a) Divisão de Mercado Interno;
 
 b) Divisão de Postos Fronteiriços Comunitários.
 
-###### Artigo 33.º — Divisão de Mercado Interno
+###### Artigo 33.º
+
+##### Divisão de Mercado Interno
 
 À Divisão de Mercado Interno compete:
 
@@ -752,7 +818,9 @@ a) Manter em funcionamento a rede informatizada de ligação entre as autoridade
 
 b) Garantir a uniformidade de realização dos controlos veterinários oficiais aleatórios nos animais e produtos frescos de origem animal, incluindo os da pesca e da aquicultura oriundos de países da União Europeia.
 
-###### Artigo 34.º — Divisão de Postos Fronteiriços Comunitários
+###### Artigo 34.º
+
+##### Divisão de Postos Fronteiriços Comunitários
 
 À Divisão de Postos Fronteiriços Comunitários compete:
 
@@ -904,16 +972,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 1997.**
+Referendado em 14 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O N.º 2 DO ARTIGO 41.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101a00/20002010.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101a00/20002010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101a00/20002010.pdf)

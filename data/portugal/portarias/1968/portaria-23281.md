@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23281-1968-234896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d55ea0ca1b254e3e67d7177c07235d3fd22050fa1338dc9129124e3cd3bc15c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55a90ae7a1aab04610e5f919ce6b31a3698ecfefbd82a2794051b7559eb4e7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:631665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469850:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:36Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 1.º O quadro da Brigada de Estudo e Construção de Obras Hidráulicas de Cabo Verde, a que se refere o n.º 3.º da [Portaria n.º 20392](https://diariodarepublica.pt/dr/detalhe/portaria/20392-1964-469850), de 25 de Fevereiro de 1964, e que foi alterado pela [Portaria n.º 22756](https://diariodarepublica.pt/dr/detalhe/portaria/22756-1967-311783), de 28 de Junho de 1967, passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/06900/03830383.pdf))](https://files.diariodarepublica.pt/1s/1968/03/06900/03830383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/06900/03830383.pdf)
 
 2.º Independentemente das unidades e respectivas designações funcionais constantes do quadro do artigo anterior, poderá ser contratado ou assalariado, nos termos legais, o pessoal técnico e administrativo que ocasionalmente se verifique necessário à execução dos trabalhos a cargo do mesma Brigada.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/16200/21382138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/457-1984-386008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:05:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7c67b6edf798bbf755d94204e9b17f96cd55dea884454724d60c4925ccd9719
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a78c2f22557ad1d9bd7fb9374bd009694f7ed79288e9b36d39d4f3e69d09d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:05:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Fertilizante
+- Fundo de Abastecimento
+- Preço
+- Preço Máximo
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:228240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162786:por
+  label: "Revogada pela PORT.31-L/85.1985.01.12.MFP, DR.IS [10]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-l-1985-162786
+  date: '1985-01-12'
+- type: repealed_by
+  target: pt:dre:228240:por
+  label: "Revogados os n.ºs 2.º, 3.º, 4.º e 5.º do presente diploma, pela PORT.347/86.07.07.1986.MF, DR.IS [153] de 07.07.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-1986-228240
+  date: '1986-07-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:05:14Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +122,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 2 - Os preços máximos de venda ao consumidor daqueles adubos, no continente, bem como as respectivas margens de comercialização globais atribuídas aos revendedores (grossistas e retalhistas), no continente, incluídas nos preços máximos, constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/16200/21382138.pdf))](https://files.diariodarepublica.pt/1s/1984/07/16200/21382138.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/16200/21382138.pdf)
 
 3 - Os preços máximos fixados referem-se a adubo destinado ao consumo, no continente, colocado na estação de destino, quando transportado por caminho de ferro, ou no depósito do revendedor, quando transportado por camionagem.
 
@@ -123,6 +148,6 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçam
 
 Secretarias de Estado do Orçamento, da Agricultura, da Indústria, do Comércio Interno e dos Transportes.
 
-**Assinada em 11 de Junho de 1984.**
+Assinada em 11 de Junho de 1984.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe. - O Secretário de Estado dos Transportes, Francisco Luís Murteira Nabo.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe. - O Secretário de Estado dos Transportes, Francisco Luís Murteira Nabo.

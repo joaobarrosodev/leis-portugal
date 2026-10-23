@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-1982-601096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78fd054a0d98aca685704f0f2848ae6e30e8151e7b5558d2e978711f31c7bf34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 082a7b73fa4869b4f8d1b81d33769f5cb522e2253c08297cd3ac457d02e51dd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Gabinete da Área de Sines
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:375226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375226:por
+  label: "Alterado o quadro de pessoal do gabinete da Área de Sines, aprovado pelo Dec Lei 513-D1/79 de 27-Dez, e alterado\
+    \ pelo presente diploma, pela PORT.890/82.22.09.1982.MFP, DR.IS [220] de 22.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-1982-375226
+  date: '1982-09-22'
+- type: cites
+  target: pt:dre:147406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1596104:por
+  label: Rectificada pela DECL.DD3173.1982.04.29.SG-PCM, DR.IIS [106] de 1982/MAI/08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-1596104
+  date: '1982-04-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:39Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +153,4 @@ Ministérios das Finanças e do Plano e da Reforma Administrativa, 5 de Janeiro 
 
 Mapa anexo a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/02800/02720273.pdf))](https://files.diariodarepublica.pt/1s/1982/02/02800/02720273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/02800/02720273.pdf)

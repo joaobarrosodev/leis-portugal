@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-1980-472116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4872051aeb48e55a0fb74b31d282b6130986b43f9025dddc8ba9e3aee12da640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eb86cf52f01df5bf5df497b856e452f36e36525b5c66a4ab3445fbc65356663
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Força Aérea
+- Forças Armadas
+- Formação Profissional
+- Militar
+- Oficial Miliciano
 relationships:
 - type: amended_by
   target: pt:dre:451668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451668:por
+  label: "Dada nova redacção ao n.º 10.º da Port 319/80, de 07-Jun, alterada pelo presente diploma, pela PORT.628/83.31.05.1983.MDN,\
+    \ DR.IS [125] de 31.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-1983-451668
+  date: '1983-05-31'
+- type: cites
+  target: pt:dre:473107:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:30Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +112,6 @@ O n.º 10.º da [Portaria n.º 319/80](https://diariodarepublica.pt/dr/detalhe/p
 
 10.º O limite de idade referido na alínea c) do n.º 2.º é, a título transitório, ampliado da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17000/18551855.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17000/18551855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17000/18551855.pdf)
 
 Estado-Maior da Força Aérea, 7 de Julho de 1980. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

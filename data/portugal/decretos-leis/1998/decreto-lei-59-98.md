@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/1998/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1998-197526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 154ba64b2fa09ffed1ff3cc3eeebd6aca215d7ab20f1c61523a04a58082a7f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f986c756db400cf633b88d3429857e63dbbf04dd20740df4d08cdb448fdbbb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,39 @@ subjects:
 - Definição de Competências
 - História Militar
 - Investigação
-- Orgânica
 - Militar
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:655675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655675:por
+  label: "Integrada, no Instituto da Defesa Nacional, cujas competências foram definidas no Decreto-Lei n.º 261/79, de 1 de\
+    \ Agosto, a Comissão Portuguesa de História Militar, criada pela Portaria n.º 247/89, de 4 de Abril, cuja orgânica foi\
+    \ aprovada no presente diploma, pelo DEC LEI.154-A/2009.06.07.2009.MDN, DR.IS [128]2ºSupl de 06.07.2009, nos termos do\
+    \ n.º 5 do artigo 30.º e do n.º 1 do artigo 32.º do citado Decreto-Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
+- type: cites
+  target: pt:dre:575754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614609:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:13Z'
   warnings: []
   errors: []
 ---
@@ -236,9 +252,9 @@ O conselho científico é constituído por um número máximo de 62 elementos, a
 
 a) Membros por inerência de funções:
 
-**O presidente;**
+O presidente;
 
-**O secretário-geral;**
+O secretário-geral;
 
 b) Membros efectivos:
 
@@ -326,12 +342,12 @@ São revogados os n.os 2.º a 16.º da [Portaria n.º 247/89](https://diariodare
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1998. - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 1998.**
+Referendado em 5 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

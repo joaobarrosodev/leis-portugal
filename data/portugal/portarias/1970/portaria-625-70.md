@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/625-1970-146485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45ea8a2de4faac32815ed57c996400b847f6037c5c4c976a60972a5015095455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c959f01959b273163f4ee13ba0c7c1c4b7b188596c02e1da9453a145d13349e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:28Z'
   warnings: []
   errors: []
 ---
@@ -93,27 +97,27 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 5) «Eventual (pessoal dos serviços de enfermagem, de laboratórios e gerais)» ... 114000$00
 
-###### Artigo 2.º «Remunerações acidentais»:
+Artigo 2.º «Remunerações acidentais»:
 
 N.º 1), alínea a) «Remunerações ao pessoal menor pelos serviços extraordinários prestados fora das horas regulamentares» ... 6000$00
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisições de utilização permanente»:
+Artigo 5.º «Aquisições de utilização permanente»:
 
 N.º 2), alínea b) «Máquinas, aparelhos, instrumentos e utensílios» ... 20000$00
 
 N.º 2), alínea e) «Assinaturas de publicações oficiais» ... 60$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3), alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 100000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 1) «Artigos de expediente, impressos, livros para escrituração, etc.» ... 15000$00
 
@@ -123,11 +127,11 @@ N.º 6) «Diversos não especificados, incluindo desenho, fotografia e filmagem 
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Aquisição, conserto e lavagem de roupas» ... 100000$00
 
-###### Artigo 9.º «Despesas de comunicações»:
+Artigo 9.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 10000$00
 
@@ -135,7 +139,7 @@ N.º 3) «Transportes de pessoal e material» ... 5000$00
 
 Diversos encargos:
 
-###### Artigo 11.º «Abono de família» ... 15000$00
+Artigo 11.º «Abono de família» ... 15000$00
 
 ... 400060$00
 
@@ -145,7 +149,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 265060$00
 
@@ -157,11 +161,11 @@ N.º 3) «Pessoal assalariado» ... 10000$00
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisições de utilização permanente»:
+Artigo 5.º «Aquisições de utilização permanente»:
 
 N.º 2), alínea c) «De mobiliário» ... 15000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3), alínea b) «De mobiliário» ... 15000$00
 
@@ -173,35 +177,35 @@ N.º 3), alínea b) «De mobiliário» ... 15000$00
 
 Diversos encargos:
 
-###### Artigo 2.º «Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 150000$00
+Artigo 2.º «Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 150000$00
 
 ### CAPÍTULO II — Serviços próprios do Conselho Ultramarino
 
 Despesas com o pessoal:
 
-###### Artigo 4.º «Remunerações acidentais»:
+Artigo 4.º «Remunerações acidentais»:
 
 N.º 1), alínea e) «Gratificações - Compensação de trabalhos a prestar acidentalmente por taquígrafos e pessoal destinado a serviços especiais» ... 60000$00
 
 Despesas com o material:
 
-###### Artigo 7.º «Despesas de conservação e aproveitamento do material»:
+Artigo 7.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 2), alínea a) «De móveis - Máquinas, aparelhos, instrumentos e utensílios» ... 3750$00
 
-###### Artigo 8.º «Material de consumo corrente»:
+Artigo 8.º «Material de consumo corrente»:
 
 N.º 3) «Diversos não especificados, incluindo artigos de expediente e encadernações, assinatura do Diário do Governo, jornais e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.» ... 10000$00
 
 Pagamento de serviços:
 
-###### Artigo 9.º «Despesas de higiene, saúde e conforto»:
+Artigo 9.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 7943$00
 
 Diversos encargos:
 
-###### Artigo 13.º «Abono de família» ... 400$00
+Artigo 13.º «Abono de família» ... 400$00
 
 ... 232093$00
 
@@ -211,11 +215,11 @@ Diversos encargos:
 
 Pagamento de serviços:
 
-###### Artigo 7.º «Despesas de higiene, saúde e conforto»:
+Artigo 7.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 45000$00
 
-###### Artigo 9.º «Diversos serviços»:
+Artigo 9.º «Diversos serviços»:
 
 N.º 1), alínea b) «Publicidade - Publicação de relatórios e outros trabalhos» ... 150000$00
 

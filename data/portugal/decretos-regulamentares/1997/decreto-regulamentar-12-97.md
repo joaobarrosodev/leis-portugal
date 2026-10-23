@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/101b00/20222031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/1997/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 974942eceb9778ca6cfdd8a4445f8eb2e507eed8094196ca622ce9ef7099aee9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6207fa09b9c4fdbe82e99b42f4da674aa83616d11109c2305cf2b8d52c1af9b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Direcção Geral das Pescas e Aquicultura
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional
 relationships:
@@ -93,16 +93,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/15/1994/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/15/1994/01/06/p/dre
+- type: cites
+  target: pt:dre:286536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335901:por
+  label: "Revogada a al. b) do nº 1 do art. 3º e o art. 5º pelo DEC LEI.166/2000.2000.08.05.MADRP, DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2000-335901
+  date: '2000-08-05'
+- type: repealed_by
+  target: pt:dre:602483:por
+  label: "Revogado pelo DEC LEI.14/2004.13.01.2004.MADRP, DR.IS-A [10] de 13.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2004-602483
+  date: '2004-01-13'
 article_structure:
   article_count: 33
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:56Z'
   warnings: []
   errors: []
 ---
@@ -307,7 +337,9 @@ c) Repartição Financeira (RF);
 
 d) Repartição de Administração Geral (RAG).
 
-###### Artigo 8.º — Divisão de Formação c Gestão de Recursos Humanos
+###### Artigo 8.º
+
+##### Divisão de Formação c Gestão de Recursos Humanos
 
 À DFGRH compete:
 
@@ -335,7 +367,9 @@ l) Assegurar o processamento dos vencimentos do pessoal e demais abonos a que ti
 
 m) Instruir os processos relativos a prestações sociais dos funcionários da DGPA e dos seus familiares e a acidentes em serviço.
 
-###### Artigo 9.º — Divisão de Organização e Informática
+###### Artigo 9.º
+
+##### Divisão de Organização e Informática
 
 A DOI é o serviço que visa assegurar a gestão e coordenação dos meios informáticos, estudar a racionalização dos métodos de tratamento, manutenção e disponibilização da informação e prestar o apoio técnico informático aos demais serviços da Direcção-Geral, incumbindo-lhe:
 
@@ -447,7 +481,9 @@ d) Proceder ao tratamento da legislação e à sua divulgação pelos serviços 
 
 5 - As equipas de projectos e respectivos chefes são designados pelo director-geral.
 
-###### Artigo 14.º — Divisão de Documentação, Informação e Relações Públicas
+###### Artigo 14.º
+
+##### Divisão de Documentação, Informação e Relações Públicas
 
 A DGPA dispõe da DIRP, à qual incumbe:
 
@@ -739,18 +775,18 @@ Presidência do Conselho de Ministros, 20 de Fevereiro de 1997.
 
 António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 1997.**
+Referendado em 14 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
 Quadro de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/101b00/20222031.pdf))](https://files.diariodarepublica.pt/1s/1997/05/101b00/20222031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/101b00/20222031.pdf)

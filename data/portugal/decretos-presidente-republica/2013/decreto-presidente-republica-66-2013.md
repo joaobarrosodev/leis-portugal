@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/66/2013/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-2013-497415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2f83cff4b0e72b6de7a510b8fd48fc5f88fb61db9da24cdaa355131eb10ad41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88aff7c7e31cbe2cfe10354bd0fc8f98611761587722fc43a4c5900721e89b9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,27 @@ subjects:
 - Carreira Militar
 - Exército
 - Forças Armadas
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:01Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +97,12 @@ validation:
 
 de 25 de junho
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, o seguinte:
 
 É confirmada a promoção ao posto de Tenente-General do Major-General Manuel Mateus Costa da Silva Couto, efetuada por deliberação de 07 de junho de 2013 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 15 do mesmo mês.
 
-**Assinado em 20 de junho de 2013.**
+Assinado em 20 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

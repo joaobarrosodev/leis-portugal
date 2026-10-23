@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/2010/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2010-306437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d51884329395a5cd906246d00710dd617c4c69659f0d353ada673c0fab2956fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0ca482af0b4bdd3db6c8363d974c99beaa8c753f4310e2ad8965a4434185e17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- ASAE
 - Atribuição de Verba
-- Gestão de Resíduos
-- Multa
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
+- Embalagem
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
 - Fundo de Intervenção Ambiental
-- Comissão de Coordenação e Desenvolvimento Regional
+- Gestão de Resíduos
 - Indústria Electrónica
-- ASAE
-- Embalagem
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
-- Inspecção Geral do Ambiente e do Ordenamento do Território
 - Informação do Consumidor
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Multa
 - Proteção do Consumidor
 - Receita Própria
 - Regime Jurídico
@@ -119,16 +119,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/230/2004/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/230/2004/12/10/p/dre
+- type: repealed_by
+  target: pt:dre:496704:por
+  label: "Revogado o art 6.º, a al. e) do n.º 1 do art. 32.º, este na redação presente diploma, e o anexo V do Dec Lei 230/2004,\
+    \ de 10-dez, pelo DEC LEI.79/2013.11.06.2013.MAMAOT, DR.IS [111] de 11.06.2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2013-496704
+  date: '2013-06-11'
+- type: repealed_by
+  target: pt:dre:25343745:por
+  label: "Revogado o Dec Lei 230/2004, de 10-dez, na redação do presente diploma, pelo DEC LEI.67/2014.07.05.2014.MAOTE, DR.IS\
+    \ [87] de 07.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2014-25343745
+  date: '2014-05-07'
 article_structure:
-  article_count: 20
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:13Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +237,9 @@ o) ...
 
 p) 'Acordo de financiamento' qualquer acordo ou disposição relativa ao empréstimo, locação ou venda diferida que se reporte a qualquer equipamento, independentemente de os termos desse acordo ou disposição preverem a transferência da propriedade desse equipamento ou a possibilidade de tal transferência.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os EEE pertencentes às categorias indicadas no anexo i devem ser concebidos de forma a limitar a utilização de substâncias ou misturas perigosas, reduzindo o carácter nocivo e a quantidade dos resíduos a eliminar.
 
@@ -235,13 +249,17 @@ p) 'Acordo de financiamento' qualquer acordo ou disposição relativa ao emprés
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - Para efeitos de cálculo dos objectivos constantes no número anterior, os produtores, individualmente ou através da entidade gestora referida no artigo 17.º, devem manter registos da quantidade de REEE, dos respectivos componentes, materiais e substâncias que entrem ou saiam da instalação de tratamento e ou que entrem na instalação de valorização ou reciclagem.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +283,9 @@ p) 'Acordo de financiamento' qualquer acordo ou disposição relativa ao emprés
 
 11 - Os produtores que forneçam EEE através da venda por comunicação à distância, a utilizadores sedeados em território nacional, estão igualmente obrigados ao cumprimento dos requisitos previstos no presente artigo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +301,9 @@ p) 'Acordo de financiamento' qualquer acordo ou disposição relativa ao emprés
 
 7 - Os produtores que forneçam EEE através da venda por comunicação à distância, a utilizadores sedeados em território nacional, estão igualmente obrigados ao cumprimento dos requisitos previstos no presente artigo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +317,9 @@ p) 'Acordo de financiamento' qualquer acordo ou disposição relativa ao emprés
 
 6 - Os produtores, individualmente ou através da entidade gestora referida no artigo 17.º, devem recolher informações, incluindo estimativas fundamentadas, numa base anual, sobre as quantidades e categorias de REEE recolhidos, reutilizados, reciclados e valorizados, bem como exportados.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +335,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -329,7 +355,9 @@ e) ...
 
 8 - As substâncias, as misturas e os componentes obtidos no tratamento dos REEE são valorizados ou eliminados em conformidade com o disposto no Decreto-Lei n.º 178/2006, de 5 de Setembro, e demais legislação aplicável.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +369,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -371,13 +401,17 @@ g) ...
 
 7 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os produtores devem fornecer aos diversos operadores de REEE informações sobre a reutilização e o tratamento de cada novo tipo de EEE colocado no mercado, incluindo, na medida do necessário, os diversos componentes e materiais, bem como a localização das substâncias e misturas perigosas.
 
 2 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A fiscalização do cumprimento do presente decreto-lei compete à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), à Autoridade de Segurança Alimentar e Económica (ASAE), às comissões de coordenação e desenvolvimento regional (CCDR) e às autoridades policiais.
 
@@ -387,7 +421,9 @@ g) ...
 
 4 - No caso de processos de contra-ordenação instruídos pela ASAE compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade a aplicação das respectivas coimas e sanções acessórias.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a prática dos seguintes actos:
 
@@ -455,13 +491,17 @@ g) A indicação aos utilizadores, durante os períodos transitórios estabeleci
 
 5 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a condenação pela prática das infracções muito graves e graves previstas nos n.os 1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
 
-###### Artigo 33.º — Sanções acessórias e apreensão cautelar
+Artigo 33.º
+
+Sanções acessórias e apreensão cautelar
 
 1 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, consoante o tipo de contra-ordenação aplicável.
 
 2 - As entidades referidas no artigo 31.º podem ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 Nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, a afectação do produto das coimas resultante da aplicação das contra-ordenações previstas no presente decreto-lei, é realizada da seguinte forma:
 
@@ -503,15 +543,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 27 de Novembro de 2010.**
+Promulgado em 27 de Novembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Novembro de 2010.**
+Referendado em 30 de Novembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

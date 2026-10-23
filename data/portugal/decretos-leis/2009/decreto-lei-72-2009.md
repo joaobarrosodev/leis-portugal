@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/06300/0197401988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2009/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2009-603205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 250b08184ef2e01b825f87838fb2ab59daf8694bf62cf6122fc9a982d97206f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 219dc1158bc992b4e14f9f6ec4adff0a901341ca606ed2b5fc39532d6c18eeef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Localização de Empresas
+- ASAE
 - Comissão de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
+- Contrato de Seguro
 - Definição de Competências
 - Direcção Regional de Economia
 - Fiscalização
 - Gestor
-- ASAE
 - Licenciamento
+- Localização de Empresas
 - Produção de Energia Elétrica
 - Regime Jurídico
 - Responsabilidade Civil
@@ -98,16 +98,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/2003/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2003/04/10/p/dre
+- type: repealed_by
+  target: pt:dre:179275:por
+  label: "Revogado, a partir de 03.09.2012, pelo DEC LEI.169/2012.01.08.2012.MEE, DR.IS [148] de 01.08.2012, sem prejuízo\
+    \ do disposto no seu art. 9º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2012-179275
+  date: '2012-08-01'
 article_structure:
   article_count: 58
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:13Z'
   warnings: []
   errors: []
 ---
@@ -876,15 +882,15 @@ O presente decreto-lei entra em vigor no prazo de 60 dias a contar da sua public
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 19 de Março de 2009.**
+Promulgado em 19 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Março de 2009.**
+Referendado em 20 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Requisitos formais e elementos instrutórios do pedido de autorização de instalação de áreas de localização empresarial (ALE)
 
@@ -992,7 +998,7 @@ e) Proposta de regulamento interno, nos termos do preceituado no artigo 5.º do 
 
 Factores de serviço (Fs) a aplicar para efeitos de cálculo das taxas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/06300/0197401988.pdf))](https://files.diariodarepublica.pt/1s/2009/03/06300/0197401988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/06300/0197401988.pdf)
 
 2 - O valor da taxa base (Tb) é de (euro) 89, sendo automaticamente actualizada, a partir de 1 de Março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, e publicado pelo Instituto Nacional de Estatística.
 

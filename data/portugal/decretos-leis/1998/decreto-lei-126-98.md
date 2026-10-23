@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/1998/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1998-516743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fa2dc8d6320e82bdbd92d3d69496ecb554bfa302fe295d6297bf04a8bc9f6ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fe73f3434c323d966ff102bcc0c37d6f85507b558222bdd3dc429f6c089c829
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bebida Alcoólica
-- Espetáculos e Divertimentos Públicos
-- Turismo
-- Higiene do Trabalho
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Câmara Municipal
+- Conselho Coordenador
 - Controlo de Qualidade
 - Controlo Sanitário
-- Região de Turismo
-- Saúde Pública
+- Espetáculos e Divertimentos Públicos
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
-- Fiscalização
-- Lisboa
-- Inspecção Geral das Actividades Económicas
 - Exposição Internacional de Lisboa de 1998
+- Fiscalização
+- Higiene do Trabalho
+- Inspecção Geral das Actividades Económicas
 - Inspecção Geral do Trabalho
-- Conselho Coordenador
+- Lisboa
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Preço
 - Prestação de Serviços
 - Proteção do Consumidor
 - Qualidade do Produto
-- Câmara Municipal
+- Região de Turismo
 - Regime Jurídico
+- Saúde Pública
+- Turismo
 - Unidade de Coordenação da LUTA contra a Evasão e Fraude Fiscal e Aduaneira
 relationships:
 - type: cites
@@ -111,16 +111,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:58Z'
   warnings: []
   errors: []
 ---
@@ -177,12 +197,12 @@ O regime constante do presente decreto-lei aplica-se aos estabelecimentos de res
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos da Costa.
 
-**Promulgado em 30 de Abril de 1998.**
+Promulgado em 30 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1998.**
+Referendado em 4 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

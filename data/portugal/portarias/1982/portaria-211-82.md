@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-1982-600145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:11:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b0613f1bfa4b276c538df6d0f10ff7648d6de22cc910b95db4b63ab89bab7a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 518d7db6120ba0c3a46deb3eefeee9db51e5f980b0d17fe9b559d7212ce9b016
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:11:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Quadro de Pessoal
+- Serviços de LUTA Antituberculosa
 relationships:
 - type: amended_by
   target: pt:dre:373432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377110:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal, pela PORT.1050/82.13.11.1982.MFP, DR.IS\
+    \ [263] de 13.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1050-1982-377110
+  date: '1982-11-13'
+- type: amended_by
+  target: pt:dre:661115:por
+  label: "Alterado o quadro de pessoal anexo pela PORT.141/84.1984.03.07.PCM DR.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/141-1984-661115
+  date: '1984-03-07'
+- type: amended_by
+  target: pt:dre:373432:por
+  label: "Alterado, na parte referente ao pessoal técnico superior (pessoal médico), do quadro de pessoal aprovado pelo presente\
+    \ diploma, pela PORT.692/84.07.09.1984.PCM, DR.IS [208] de 07.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1984-373432
+  date: '1984-09-07'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:11:04Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +132,7 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal dos Serviços de Luta Antituberculosa do Distrito de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/04200/03780379.pdf))](https://files.diariodarepublica.pt/1s/1982/02/04200/03780379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/04200/03780379.pdf)
 
 Notas
 

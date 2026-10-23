@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21758-1965-508407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c151f0ada8e4e17bc938fc0bba6d4a23b0096d799f185501f225b7a55739e16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c735f544b5150313f48f152bd9ab5aad52e98632606d4ecf1c1f74916f09745
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:02Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 3300$00
+Artigo 5.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 3300$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 8000$00
+Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 8000$00
 
-###### Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 10000$00
+Artigo 9.º, n.º 3) «Despesas de comunicações - Transportes» ... 10000$00
 
 ... 21300$00
 
@@ -103,11 +107,11 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública - Armamento, pára-quedas e equipamento individual e colectivo de pessoal navegante e terrestre, incluindo sobresselentes» ... 8000$00
+Artigo 6.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública - Armamento, pára-quedas e equipamento individual e colectivo de pessoal navegante e terrestre, incluindo sobresselentes» ... 8000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 13300$00
+Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 13300$00
 
 ... 21300$00
 

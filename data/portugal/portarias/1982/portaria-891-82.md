@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/891-1982-375239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76dcc124040e201b0d64a750a869613df97b7928cf9d4b47905f7ae3e1180fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e74108d58b7f1fb572939a8442278a4f8faa8cc107fbbca0a27864908476d296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Carreira Militar
+- Licenciatura
+- Militar
+- Reserva
+relationships:
+- type: cites
+  target: pt:dre:396883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:34Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ Considerando o disposto no n.º 1 do artigo 211.º do citado EOFAP:
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, que o artigo 72.º do EOFAP passe a ter a seguinte redacção:
 
-###### Art. 72.º - 1 - ...
+Art. 72.º - 1 - ...
 
 2 - Os oficiais da reserva licenciados só podem ser convocados para:
 

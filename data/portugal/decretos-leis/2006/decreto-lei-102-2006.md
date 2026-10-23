@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2006/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2006-345540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56c90c19cd1a558e1df25dd66740cd5247aa428645e1e44a2f948dbe71b65fcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b54ab7c9358f314c2ebfb130dce020720b661c0ecab7b8a65b1fba7237b4887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2005/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2005/01/10/p/dre
+- type: cites
+  target: pt:dre:457047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692850:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:49Z'
   warnings: []
   errors: []
 ---
@@ -125,16 +133,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 28 de Abril de 2006.**
+Promulgado em 28 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 4 de Maio de 2006.**
+Referendado em 4 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/110a00/40284028.pdf))](https://files.diariodarepublica.pt/1s/2006/06/110a00/40284028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/110a00/40284028.pdf)

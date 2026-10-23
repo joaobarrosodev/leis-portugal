@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21143-1965-238214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc19864147b63c8e8d6a55f77174d33bf5746d42a25ce1072638195f37af00ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84f9486adb5e62b99128530c40afb1fd6d1dadf52f3cf91c0491b330ceb48dbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:08Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +88,20 @@ Ministério da Educação Nacional, 4 de Março de 1965. - Pelo Ministro da Educ
 
 REGULAMENTO DO PRÉMIO PROF. DOUTOR TEIXEIRA BASTOS
 
-###### Artigo 1.º É instituído, em homenagem à memória do professor da Faculdade de Medicina da Universidade do Porto Doutor Álvaro Teixeira Bastos, um prémio com a designação de Prémio Prof. Doutor Teixeira Bastos, o qual será constituído pelo rendimento anual da importância de 10000$00.
+Artigo 1.º É instituído, em homenagem à memória do professor da Faculdade de Medicina da Universidade do Porto Doutor Álvaro Teixeira Bastos, um prémio com a designação de Prémio Prof. Doutor Teixeira Bastos, o qual será constituído pelo rendimento anual da importância de 10000$00.
 
-###### Art. 2.º A importância do prémio será convertida em certificado de renda perpétua, assentado à Faculdade de Medicina.
+Art. 2.º A importância do prémio será convertida em certificado de renda perpétua, assentado à Faculdade de Medicina.
 
-###### Art. 3.º O prémio será atribuído anualmente ao aluno mais classificado, de entre os que tiverem obtido a classificação mínima de Muito bom, na cadeira de Propedêutica Cirúrgica.
+Art. 3.º O prémio será atribuído anualmente ao aluno mais classificado, de entre os que tiverem obtido a classificação mínima de Muito bom, na cadeira de Propedêutica Cirúrgica.
 
 § 1.º Em igualdade de classificação, a atribuição será feita ao aluno com média geral mais alta.
 
 § 2.º Se ainda se verificar igualdade, será o prémio atribuído por sorteio entre os alunos qualificados.
 
-###### Art. 4.º No ano em que não haja aluno com a classificação de Muito bom, será a importância do prémio entregue ao serviço de propedêutica cirúrgica para compra de livros.
+Art. 4.º No ano em que não haja aluno com a classificação de Muito bom, será a importância do prémio entregue ao serviço de propedêutica cirúrgica para compra de livros.
 
-###### Art. 5.º A designação do aluno a quem deve ser atribuído o prémio será feita pelo conselho escolar da Faculdade de Medicina e transmitida ao reitor da Universidade.
+Art. 5.º A designação do aluno a quem deve ser atribuído o prémio será feita pelo conselho escolar da Faculdade de Medicina e transmitida ao reitor da Universidade.
 
-###### Art. 6.º A entrega do prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do conselho escolar da Faculdade de Medicina.
+Art. 6.º A entrega do prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do conselho escolar da Faculdade de Medicina.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 4 de Março de 1965. - O Director-Geral, João Alexandre Ferreira de Almeida.

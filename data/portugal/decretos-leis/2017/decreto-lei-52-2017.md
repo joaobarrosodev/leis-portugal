@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/10200/0256702568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2017/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2017-107090962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe79d5084557baf28161629818e20e31fcfbebc92cc09ae4cdd53c47e0953255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf5a54ba65457dda6e6ebadedca57c9cc73ff83f46df188952394f404ea48d62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Pescador
 - Compensação Remuneratória
 - Contribuições da Segurança Social
 - Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Docapesca-sociedade Concessionária da DOCA de Pesca
+- Embarcação de Pesca
+- Financiamento
 - Fundo de Compensação Salarial
 - Fundo de Compensação Salarial dos Profissionais da Pesca
 - Pesca
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Embarcação de Pesca
+- Pescador
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/311/1999/08/10/p/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/61/2014/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/2014/04/23/p/dre
+- type: cites
+  target: pt:dre:25344003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:52Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +144,9 @@ Os artigos 2.º e 4.º do [Decreto-Lei n.º 311/99](https://diariodarepublica.pt
 
 Constitui atribuição do Fundo prestar apoio financeiro, de natureza social, aos profissionais da pesca, quando estejam temporariamente impedidos de exercer a respetiva atividade nos termos previstos no presente diploma.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A imobilização total das embarcações acompanhada da impossibilidade do inscrito marítimo exercer a sua atividade, de que decorra ausência de retribuição, constitui fundamento da atribuição de uma compensação salarial, desde que aquela se deva a:
 
@@ -182,12 +192,12 @@ O presente decreto-lei entra em vigor no dia seguinte à data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 30 de março de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Maria Isabel Solnado Porto Oneto - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Ana Paula Mendes Vitorino.
 
-**Promulgado em 27 de abril de 2017.**
+Promulgado em 27 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de maio de 2017.**
+Referendado em 3 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

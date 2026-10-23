@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/216a00/50725079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/1997/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1997-652773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f33d43736c8b4b3e4d5803df7fa8f68fcdd49fe15fca4e2414227e2faa1c8fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8969ca8cda6d1b5b7b61ac85eda0870cca4cd8c1825ad2342d812fe81c2ae10a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bailado
-- Director Artístico
-- Ministro da Cultura
-- Instituto Português do Bailado e da Dança
 - Companhia Nacional de Bailado
+- Director Artístico
+- Instituto Português do Bailado e da Dança
+- Ministro da Cultura
 - Orgânica
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -78,6 +78,24 @@ relationships:
   target: pt:dre:521010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358171:por
+  label: "Alterado o art. 30.º, pelo DEC LEI.269/99.1999.07.15.MC DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1999-358171
+  date: '1999-07-15'
+- type: amended_by
+  target: pt:dre:232556:por
+  label: "Integrado o Teatro Luís de Camões na Companhia Nacional de Bailado cuja lei orgânica foi aprovada pelo presente\
+    \ diploma, pelo DEC LEI.61/2003.2003.04.02.MC DR.IS-A [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2003-232556
+  date: '2003-04-02'
+- type: amended_by
+  target: pt:dre:521010:por
+  label: "Determinada a sucessão, nos termos do artigo 10.º, da OPART relativamente às atribuições da Companhia Nacional de\
+    \ Bailado, cuja orgânica foi aprovada pelo presente diploma e revoga o mesmo pelo DEC LEI.160/2007.27.04.2007.MC, DR.IS\
+    \ [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2007-521010
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
   label: null
@@ -94,16 +112,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639336:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:00Z'
   warnings: []
   errors: []
 ---
@@ -528,12 +578,12 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Julho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco Manuel Maria Ferreira Carrilho - António José Martins Seguro.
 
-**Promulgado em 27 de Agosto de 1997.**
+Promulgado em 27 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Setembro de 1997.**
+Referendado em 2 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

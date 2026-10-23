@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/52/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/52-2008-454815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1acde76f4c37f4ffe2e12e7f3ec5a94c770406a005e2955d20f63e771d2da78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef0177c42684404fea33e85f60ce5b685b79029f868366af537107ebe6100cc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,28 @@ reuse:
 subjects:
 - Acordo Ortográfico da Língua Portuguesa
 - Convenção
-- Portugal
 - CPLP
+- Portugal
 - São Tomé
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/35/2008/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/35/2008/07/29/p/dre
+- type: cites
+  target: pt:dre:454814:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:09Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ validation:
 
 de 29 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b, da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b, da Constituição, o seguinte:
 
 ###### Artigo 1.º — Aprovação
 
@@ -109,12 +113,12 @@ de 29 de Julho
 
 3 - O Estado Português adoptará as medidas adequadas a salvaguardar uma transição sem rupturas, nomeadamente no que se refere ao sistema educativo em geral e, em particular, ao ensino da língua portuguesa, com incidência no currículo nacional, programas e orientações curriculares e pedagógicas.
 
-**Assinado em 21 de Julho de 2008.**
+Assinado em 21 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Julho de 2008.**
+Referendado em 22 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

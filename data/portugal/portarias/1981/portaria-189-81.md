@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-1981-390993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cac933c19077497eef28c0d772464e5672acdfa3789d9cbc29f4ceb634d4a0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efcb1af3ac8e976e865fc46b30d028e3e0c0e5184fa0cc89daaada1e8e1ed471
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social
+- Exército
+- Forças Armadas
+- Manutenção Militar
+- Pessoal Civil
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:154471:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:39:49Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +102,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, o segu
 
 Ao artigo 3.º da [Portaria n.º 681/70](https://diariodarepublica.pt/dr/detalhe/portaria/681-1970-154471), de 31 de Dezembro, são aditados os n.os 5 e 6, com as seguintes redacções:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 5 - Para efeitos dos benefícios concedidos nesta portaria são consideradas como familiares do servidor as pessoas que vivam maritalmente com este, desde que sejam observadas as seguintes condições:
 

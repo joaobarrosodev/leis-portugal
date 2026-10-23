@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2001-315154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5a84af446d35c006297968174696d027072f8aaf1f29f1f1762f7871b3f3814
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f1b63a81349c4179ae46c9e8974ca40f71d8272632d867c653d9004c1e14c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/335/1999/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/335/1999/08/20/p/dre
+- type: cites
+  target: pt:dre:434001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:39Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +118,9 @@ Os artigos 6.º, 18.º, 19.º e o mapa a que se refere o artigo 11.º do [Decret
 
 3 - Nas cooperativas polivalentes o membro é obrigado a subscrever tantas entradas mínimas de capital quantas as secções em que pretenda inscrever-se.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -126,7 +132,9 @@ Os artigos 6.º, 18.º, 19.º e o mapa a que se refere o artigo 11.º do [Decret
 
 5 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -148,12 +156,12 @@ Número de trabalhadores empregados, em média, durante o exercício - 50.»
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

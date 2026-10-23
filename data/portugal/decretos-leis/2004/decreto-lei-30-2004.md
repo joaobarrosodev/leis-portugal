@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/031a00/07350736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2004/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2004-582013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d3ae8c247b3d81adfa5ca16890e9b523edf67476cad911d4f864a2cdd3a247c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a67008004c070cdc844b763b213ac924948f9b6c82030e7cc359e671986df5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade da Concorrência
-- Instituto Nacional de Aviação Civil
 - Concorrência
-- Instituto de Seguros de Portugal
+- Entidade Reguladora dos Serviços Energéticos
 - Imoppi
+- Instituto de Seguros de Portugal
+- Instituto Nacional de Aviação Civil
 - Instituto Nacional do Transporte Ferroviário
 - Instituto Regulador de Águas e Resíduos
-- Entidade Reguladora dos Serviços Energéticos
 - Receita Própria
 - Taxa
 relationships:
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/2003/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/2003/06/11/p/dre
+- type: cites
+  target: pt:dre:176336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56152680:por
+  label: Revogado, a partir de 01.01.2015, pelo(a) Decreto-Lei n.º 125/2014 - Diário da República n.º 157/2014, Série I de
+    2014-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2014-56152680
+  date: '2014-08-18'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:16Z'
   warnings: []
   errors: []
 ---
@@ -153,12 +167,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 28 de Janeiro de 2004.**
+Promulgado em 28 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 2004.**
+Referendado em 29 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

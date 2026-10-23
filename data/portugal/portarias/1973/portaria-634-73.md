@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/634-1973-412815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4d5b8f8044b79e84b1ab3940ff2282ea0fe7df496771fe623804e59a2c40b31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93d837322c2707dd9ef54af09a4c6180e23c1cef5cbf4fcdd05cea86e7a33f89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140101:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:26Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +104,6 @@ Mapa do pessoal civil do Comando Territorial Independente de Macau
 
 Pessoal contratado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/09/22400/16561656.pdf))](https://files.diariodarepublica.pt/1s/1973/09/22400/16561656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/09/22400/16561656.pdf)
 
-**O Ministro da Defesa Nacional e do Exército, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro da Defesa Nacional e do Exército, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

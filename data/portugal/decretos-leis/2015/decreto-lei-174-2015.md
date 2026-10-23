@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16500/0630706327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/174/2015/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 424e8b732201a4c1685c4d9ed2a6d4556b25ba3b4223c760c27c53ebe4e90eb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2ab2a7bebccdcfe091cc85d844ac3a6db4ea0ac9eaf3224b88de1bf3a0aeb3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gado Caprino
+- Comércio
 - Controlo Sanitário
+- Documento Eletrónico
 - Exploração Pecuária
 - Gado Bovino
-- Gado Suíno
-- Documento Eletrónico
+- Gado Caprino
 - Gado Ovino
+- Gado Suíno
+- Plataforma Eletrónica
 - Regime Jurídico
 - Registo de Animais
 - Regulamento CE
+- Saúde Animal
 - Sirca
 - Snira
-- Comércio
 - Transporte de Animais
-- Saúde Animal
-- Plataforma Eletrónica
 relationships:
 - type: amended_by
   target: pt:dre:106647822:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106647822:por
+  label: Alterados os arts. 2.º, 3.º, 4.º, 4.º-A, 5.º, 9.º, 15.º, 16.º, 18.º, 20.º, 23.º, 24.º, 29.º, os anexos I, II e III
+    e a epígrafe do cap. IV (que passa a ser «Meios de identificação»), aditado o art. 4.º-B e revogados o n.º 2 do art. 1.º,
+    as als. a), f), j), l), p), v), ee) e ii) do art. 2.º, o art. 11.º, os n.ºs 2 e 3 do art. 16.º, o art. 21.º, a al. d)
+    do n.º 1 do art. 23.º, a al. b) do n.º 5 e as als. i) e j) do n.º 7 do art. 24.º e o n.º 3 do art. 30.º, bem como o art.
+    8.º do anexo I e o n.º 2 do art. 1.º do anexo II, todos do Dec Lei 142/2006 de 27-jul, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23 nos termos do seu art.
+    7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2017-106647822
+  date: '2017-03-23'
+- type: amends
+  target: pt:numero:decreto-lei:214/2008
+  label: 'Altera os arts. 1.º, 2.º (ambos com a redação dada pelo Dec Lei 214/2008 de 10-nov), 4.º (a alteração introduzida
+    ao n.º 1 deste art. produz efeitos na data em que se encontrar em aplicação o sistema de referência geográfica das explorações,
+    publicitada através de despacho do diretor-geral de Alimentação e Veterinária), 7.º (com a alteração dada pelo Dec 214/2008
+    de 10-nov e 316/2009 de 19-out), 12.º, 13.º, 15.º, 21.º, 23.º (a alteração introduzida na alínea d) do n.º 1 deste art.
+    produz efeitos a partir de 01.01.2015) e 24.º (com a redação dada pelo Dec Lei 214/2008 de 10-nov, pelo Dec Lei 316/2009
+    de 29-out e pelo Dec Lei 260/2012 de 12-dez), assim como os anexos I, II e III (o último com a redação dada pelo Dec Lei
+    85/2012 de 05-abr); adita o art. 4.º-A; altera sistemática referente ao cap. II, que passa a denominar-se «Comerciantes
+    e transportadores»; revoga a al. n) do art. 2.º, a al. b) do n.º 6 do art. 24.º; bem como revoga o n.º 7 do art. 7.º do
+    anexo I; a al. c) do n.º 1 do art. 1.º (a revogação desta al. produz efeitos a partir de 01.01.2015), o n.º 2 do art.
+    2.º, o art. 4.º e o art. 8.º do anexo II; [e o n.º 1 do art. 1.º do anexo III (esta revogação produz efeitos com a publicação
+    do despacho a que se refere o artigo 4.º-A ora aditado, mantendo-se, até a essa data, a redação atualmente vigente, nos
+    termos do disposto no n.º 4 do art. 9.º do presente diploma)], todos do Dec Lei 142/2006 de 27-jul DR.IS [144]; determina
+    a remissão das seguintes referências dele constantes: à «Direção-Geral de Veterinária» ou à «DGV», para a «Direção-Geral
+    de Alimentação e Veterinária» ou «DGAV»;ao «diretor-geral de Veterinária», para o «diretor-geral de Alimentação e Veterinária»;
+    ao «Instituto Nacional de Intervenção e Garantia Agrícola» ou «INGA», para o «Instituto de Financiamento da Agricultura
+    e Pescas, I. P.» ou «IFAP, I. P.»; ao «Instituto da Conservação da Natureza e da Biodiversidade» ou «ICNB», para o «Instituto
+    da Conservação da Natureza e das Florestas, I. P.» ou «ICNF, I. P.»; e ao Decreto-Lei n.º 214/2008, de 10 de novembro
+    (alterado pelos Decretos-Leis n.ºs 316/2009, de 29 de outubro, 78/2010, de 25 de junho, 45/2011, de 25 de março, 107/2011,
+    de 16 de novembro, e 59/2013, de 8 de maio), para o Decreto-Lei n.º 81/2013, de 14 de junho (alterado pelo Decreto-Lei
+    n.º 165/2014, de 5 de novembro); e republica em anexo o citado Dec Lei 142/2006, de 27-jul, com a redação atual'
+  source: null
+  date: '2006-07-27'
 - type: cites
   target: celex:31992R3508
   label: null
@@ -153,16 +188,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/2/2013/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/2/2013/01/17/p/dre
+- type: cites
+  target: pt:dre:146214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636746:por
+  label: null
+  source: null
 article_structure:
-  article_count: 83
+  article_count: 67
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:43Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +362,9 @@ Os artigos 1.º, 2.º, 4.º, 7.º, 12.º, 13.º, 15.º, 21.º, 23.º e 24.º do 
 
 2 - O presente decreto-lei estabelece ainda o regime jurídico dos comerciantes e transportadores e as normas de funcionamento do sistema de recolha de cadáveres de animais mortos na exploração (SIRCA).
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -283,13 +432,17 @@ hh) [Anterior alínea gg)];
 
 ii) [Anterior alínea hh)].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As explorações, centros de agrupamento e outros estabelecimentos equiparados são identificados pela marca e pela referenciação geográfica.
 
 2 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +466,9 @@ ii) [Anterior alínea hh)].
 
 11 - [Anterior n.º 9].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os transportadores, para além das condições estabelecidas no [Decreto-Lei n.º 265/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2007-636746), de 24 de julho, alterado pelo [Decreto-Lei n.º 158/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2008-455123), de 8 de agosto, devem ainda obedecer aos seguintes requisitos:
 
@@ -349,7 +504,9 @@ e) [Anterior alínea e) do n.º 2].
 
 8 - [Anterior n.º 5].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Todas as movimentações ou transferências de animais entre detentores devem ser acompanhadas por uma declaração de deslocação, guia de circulação ou guia sanitária de circulação, consoante os casos, com exceção das movimentações de aves e leporídeos quando destinados à venda direta, em mercado local de produtores, ao consumidor final.
 
@@ -357,7 +514,9 @@ e) [Anterior alínea e) do n.º 2].
 
 3 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os modelos de documentos previstos no presente decreto-lei são aprovados por despacho do diretor-geral de Alimentação e Veterinária.
 
@@ -369,7 +528,9 @@ e) [Anterior alínea e) do n.º 2].
 
 5 - Aos documentos a que se refere o presente decreto-lei aplicam-se as normas previstas no [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, [72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio, designadamente a possibilidade, prevista no artigo 28.º-A, de o requerente pedir a dispensa de apresentação de documentos ou informação já detidos por qualquer serviço ou organismo da Administração Pública.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -377,7 +538,9 @@ e) [Anterior alínea e) do n.º 2].
 
 3 - O pagamento das taxas a que se refere o presente artigo, quando o serviço seja prestado de forma eletrónica, pode ser efetuado preferencialmente através da Plataforma de Pagamentos da Administração Pública, sempre que existam condições para o efeito.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - É imposta uma limitação aos movimentos de todos os animais para ou a partir da exploração ou centro de agrupamento em causa sempre que um ou mais animais não reúnam concomitantemente os seguintes requisitos:
 
@@ -401,7 +564,9 @@ d) Possuir, por espécie animal, um RED atualizado e mantido na exploração, ex
 
 7 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -545,13 +710,13 @@ b) O Despacho n.º 1877/2014, de 31 de janeiro de 2014, publicado no Diário da 
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 12 de agosto de 2015.**
+Promulgado em 12 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de agosto de 2015.**
+Referendado em 17 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -561,7 +726,9 @@ Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
 [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -575,9 +742,13 @@ Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
 6 - [Anterior n.º 5].
 
-## ANEXO II — [...]
+ANEXO II
 
-###### Artigo 1.º — [...]
+[...]
+
+Artigo 1.º
+
+[...]
 
 1 - [...]:
 
@@ -613,7 +784,9 @@ a) No caso de animais que deixam a exploração, o código de identificação in
 
 b) No caso dos animais que cheguem à exploração, o código de identificação individual de cada animal, código de identificação da exploração de que provêm e a data de chegada.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Todos os ovinos e caprinos de uma exploração nascidos após 31 de dezembro de 2009 devem ser identificados por uma marca auricular aprovada pela DGAV, bem como por um segundo meio de identificação eletrónico.
 
@@ -625,7 +798,9 @@ b) No caso dos animais que cheguem à exploração, o código de identificação
 
 5 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Em derrogação do disposto no artigo 2.º, os ovinos e caprinos destinados ao abate antes da idade de 12 meses e que não se destinem a trocas comerciais intracomunitárias ou com países terceiros são marcados apenas com uma marca auricular aplicada no pavilhão auricular esquerdo.
 
@@ -635,13 +810,17 @@ b) No caso dos animais que cheguem à exploração, o código de identificação
 
 4 - Para efeitos do disposto no n.º 1 são considerados apenas os ovinos e caprinos que, até aos 12 meses, sigam diretamente para abate ou para um centro de agrupamento que os conduza igualmente para abate, sem passarem por outra exploração em vida.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
 2 - Sempre que uma marca auricular ou um meio de identificação eletrónica se tenham tornado ilegíveis ou se tenham perdido deve-se proceder à sua substituição ou à reidentificação do animal, no mais curto espaço de tempo e sempre antes do animal deixar a exploração.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -651,9 +830,13 @@ b) No caso dos animais que cheguem à exploração, o código de identificação
 
 4 - A identificação nos termos do n.º 2 não é aplicável quando se trate de animal destinado a abate se este for transportado diretamente do PIF para um matadouro situado no território nacional onde sejam efetuados os controlos referidos no n.º 1, desde que o animal seja abatido no prazo de cinco dias após esses controlos.
 
-## ANEXO III — [...]
+ANEXO III
 
-###### Artigo 1.º — [...]
+[...]
+
+Artigo 1.º
+
+[...]
 
 1 - [Revogado].
 

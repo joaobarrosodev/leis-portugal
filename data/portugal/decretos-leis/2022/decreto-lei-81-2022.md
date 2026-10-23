@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2022/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2022-204379871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5585db70236b491d1845ea1bdec81fa31d6e1635788909d0bed7a4be8b411bfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4905334b826d80e560ad4150e1f2db91c15df2ee7e747abbcc00bfd33fe83768
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,45 +67,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente Nuclear
-- Região Autónoma
-- Gestão de Resíduos
-- Multa
-- Radiactividade
-- Radioprotecção
-- Segurança Nuclear
-- Sistema de Monitorização Ambiental
+- Açores
+- Agência Portuguesa do Ambiente
+- ASAE
+- Autoridade Competente
+- Autoridade Nacional de Protecção Civil
+- Autoridade para as Condições do Trabalho
+- Avaliação de Impacte Ambiental
+- Catástrofe
+- Central Nuclear
 - Contra-ordenação
+- Contraordenação Económica
 - Contra-ordenação Laboral
 - Definição de Competências
-- Parque de Sucata
-- Equipamento Eléctrico
-- Central Nuclear
-- Segurança Pública
-- Fiscalização
-- Catástrofe
-- Avaliação de Impacte Ambiental
-- Incompatibilidades
-- Inspecção Geral das Actividades em Saúde
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- ASAE
-- Proteção do Ambiente
-- Irradiação dos Alimentos
-- Produto Cosmetico
-- Qualificação Profissional
-- Madeira.região Autónoma
-- Radiologia
 - Detrito Metálico
-- Resíduo Radioactivo
-- Autoridade Nacional de Protecção Civil
-- Sinalização de Segurança
-- Açores
 - Eliminação de Resíduos
+- Equipamento Eléctrico
+- Fiscalização
+- Gestão de Resíduos
+- Incompatibilidades
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Inspecção Geral das Actividades em Saúde
+- Irradiação dos Alimentos
+- Madeira.região Autónoma
+- Multa
+- Parque de Sucata
+- Produto Cosmetico
+- Proteção do Ambiente
+- Qualificação Profissional
+- Radiactividade
+- Radiologia
+- Radioprotecção
+- Região Autónoma
+- Resíduo Radioactivo
+- Segurança Nuclear
+- Segurança Pública
+- Sinalização de Segurança
+- Sistema de Monitorização Ambiental
 - Substância Perigosa
 - Tecnologia Alimentar
-- Autoridade Competente
-- Autoridade para as Condições do Trabalho
-- Contraordenação Económica
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -175,6 +175,202 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:108021179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108113697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114969817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75207498:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0071
   label: null
@@ -188,15 +384,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 236
+  article_count: 221
   section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:06Z'
   warnings: []
   errors: []
 ---
@@ -249,7 +445,9 @@ c) [...]
 
 4 - [...]
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +455,9 @@ c) [...]
 
 3 - Ao disposto no presente artigo é aplicável o disposto no artigo 46.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual.
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - As entidades prestadoras de serviços de proteção radiológica devem assegurar internamente uma separação organizacional que garanta que o pessoal envolvido na prestação dos serviços no âmbito das alíneas a), b) ou c) do n.º 2 do artigo 163.º seja distinto do envolvido nos serviços previstos na alínea e) do mesmo artigo, quando prestados ao mesmo destinatário.
 
@@ -265,7 +465,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - Sem prejuízo das competências legalmente atribuídas a outras entidades em razão da matéria, e do disposto nos n.os 2 e 3, compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT), enquanto autoridade inspetiva, a inspeção do cumprimento do presente decreto-lei, de forma independente, nomeadamente através do planeamento e realização de ações de inspeção ordinárias ou extraordinárias, para o que deve:
 
@@ -289,7 +491,9 @@ d) [...]
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 184.º — Contraordenações ambientais
+Artigo 184.º
+
+Contraordenações ambientais
 
 1 - [...]
 
@@ -511,13 +715,17 @@ ll) A violação da obrigação de constituição de seguro de responsabilidade 
 
 8 - [...]
 
-###### Artigo 185.º — Instrução e decisão dos processos de contraordenações ambientais
+Artigo 185.º
+
+Instrução e decisão dos processos de contraordenações ambientais
 
 1 - A instauração e a instrução dos processos relativos às contraordenações referidas no artigo 184.º é da competência da IGAMAOT.
 
 2 - [...]
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 [...]
 
@@ -527,7 +735,9 @@ b) 30 % para a entidade que aplica a coima;
 
 c) [...]
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - [...]
 
@@ -545,7 +755,9 @@ Princípio da abordagem proporcional
 
 O controlo regulador das práticas e atividades abrangidas pelo presente decreto-lei deve respeitar uma abordagem gradual e proporcional face à magnitude e à probabilidade de ocorrência de exposições resultantes das mesmas, bem como ao impacto que o referido controlo pode ter na redução de tais exposições ou na melhoria da segurança das instalações.
 
-###### Artigo 184.º-A — Contraordenações simples
+Artigo 184.º-A
+
+Contraordenações simples
 
 1 - Constitui contraordenação punível, nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual, com coima de (euro) 200 a 2000 (euro), no caso de pessoas singulares, e de (euro) 2500 a (euro) 25 000, no caso de pessoas coletivas:
 
@@ -563,7 +775,9 @@ f) A utilização de equipamento em violação dos requisitos específicos previ
 
 2 - Em caso de negligência, os montantes das coimas previstos nos números anteriores são reduzidos para metade.
 
-###### Artigo 184.º-B — Contraordenações laborais
+Artigo 184.º-B
+
+Contraordenações laborais
 
 1 - Constitui contraordenação laboral grave, punível nos termos do disposto no n.º 3 do artigo 554.º do Código do Trabalho, aprovado em anexo à [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual:
 
@@ -609,7 +823,9 @@ g) A violação dos deveres de proteção nos locais de trabalho relativos à ex
 
 3 - Em caso de negligência, os montantes das coimas previstos nos números anteriores são reduzidos para metade.
 
-###### Artigo 184.º-C — Contraordenações económicas
+Artigo 184.º-C
+
+Contraordenações económicas
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), a prestação dos serviços de proteção radiológica elencados no artigo 163.º, sem o reconhecimento prévio referido no n.º 1 do artigo 164.º
 
@@ -627,25 +843,33 @@ e) A violação do disposto no n.º 1 do artigo 172.º;
 
 f) O incumprimento pelas entidades prestadoras de serviços do disposto no artigo 174.º
 
-###### Artigo 185.º-A — Instrução e decisão dos processos de contraordenações simples
+Artigo 185.º-A
+
+Instrução e decisão dos processos de contraordenações simples
 
 1 - A instauração e a instrução dos processos relativos às contraordenações referidas no artigo 184.º-A é da competência da IGAS.
 
 2 - Compete ao inspetor-geral das Atividades em Saúde a decisão sobre a aplicação das coimas previstas no número anterior.
 
-###### Artigo 185.º-B — Instrução e decisão dos processos de contraordenações laborais
+Artigo 185.º-B
+
+Instrução e decisão dos processos de contraordenações laborais
 
 1 - A instauração e a instrução dos processos relativos às contraordenações referidas no artigo 184.º-B é da competência da ACT.
 
 2 - Compete ao inspetor-geral do Trabalho a decisão sobre a aplicação das coimas previstas no número anterior.
 
-###### Artigo 185.º-C — Instrução e decisão dos processos de contraordenações económicas
+Artigo 185.º-C
+
+Instrução e decisão dos processos de contraordenações económicas
 
 1 - A instauração e a instrução dos processos relativos às contraordenações referidas no artigo 184.º-C é da competência da IGAS, quando relativas a pessoas singulares ou coletivas que atuam nos domínios da atividade e da prestação dos cuidados de saúde, no setor público e privado, cabendo, nos demais casos, à ASAE, nos termos do RJCE.
 
 2 - Compete ao inspetor-geral das Atividades em Saúde ou ao inspetor-geral da ASAE, consoante os casos, a decisão sobre a aplicação das coimas e de sanções acessórias relativas às contraordenações referidas no número anterior.
 
-###### Artigo 206.º-A — Regiões autónomas
+Artigo 206.º-A
+
+Regiões autónomas
 
 1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, nos termos da Constituição e dos respetivos estatutos político-administrativos, cabendo a sua execução administrativa aos órgãos e serviços das respetivas administrações regionais, ressalvada a gestão a nível nacional.
 
@@ -665,15 +889,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 10 de novembro de 2022. - António Luís Santos da Costa - José Luís Pereira Carneiro - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Elvira Maria Correia Fortunato - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - João Saldanha de Azevedo Galamba - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 22 de novembro de 2022.**
+Promulgado em 22 de novembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de novembro de 2022.**
+Referendado em 22 de novembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -779,25 +1003,25 @@ t) «Detentor», qualquer pessoa, singular ou coletiva, que esteja na posse de u
 
 u) «Dose absorvida» (D), a energia absorvida por unidade de massa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 A expressão «dose absorvida» designa a dose média num tecido ou num órgão. A unidade de dose absorvida é o gray (Gy);
 
 v) «Dose efetiva» (E), a soma das doses equivalentes ponderadas em todos os tecidos e órgãos do corpo e resultantes de exposição interna e externa. É definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 w) «Dose efetiva comprometida» [E(tau)], a soma das doses equivalentes comprometidas nos diversos tecidos ou órgãos H(índice T)(tau) na sequência de uma incorporação, sendo cada uma delas multiplicada pelo fator de ponderação tecidular w(índice T) adequado. É definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 x) «Dose equivalente» (H(índice T)), a dose absorvida no tecido ou órgão T, ponderada em função do tipo e qualidade da radiação R. É definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 y) «Dose equivalente comprometida» [H(índice T)(tau)], a integral, em função do tempo (t) do débito de dose equivalente (no tecido ou órgão T) que é recebida por um indivíduo, em resultado de uma incorporação. É definida pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 z) «Emergência», uma situação ou evento não habitual envolvendo uma fonte de radiação ou fonte radioativa que requer uma ação rápida a fim de atenuar as consequências adversas graves para a segurança e a saúde humanas, para a qualidade de vida, os bens ou o ambiente, ou um perigo suscetível de provocar tais consequências adversas;
 
@@ -4241,7 +4465,9 @@ q) [...]
 
 r) Proceder a ações de inspeção a entidades públicas e privadas de modo a acompanhar e a avaliar o cumprimento de normas de proteção radiológica e de segurança nuclear, bem como, nesse âmbito, de instaurar, instruir e decidir processos de contraordenação, nos termos da lei-quadro das contraordenações ambientais, e levantar autos de notícias relativos às restantes infrações.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -4373,7 +4599,7 @@ Valores de atividade que definem as fontes radioativas seladas de atividade elev
 
 No que diz respeito aos radionuclídeos que não se encontram enumerados no quadro abaixo, a atividade relevante é igual ao valor-D definido na publicação da AIEA Dangerous quantities of radioative material (D-values) [Quantidades perigosas de material radioativo (valores-D)], (EPR-D-VALUES 2006).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4 do artigo 123.º)
 
@@ -4539,7 +4765,7 @@ O cálculo da dose deve ter em conta outros fatores como a densidade, a espessur
 
 Folha de registo normalizada para fontes radioativas seladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf))](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/12/23400/0000200108.pdf)
 
 ## ANEXO V — (a que se referem o n.º 3 do artigo 130.º e o n.º 2 do artigo 131.º)
 
@@ -4652,3 +4878,5 @@ o) Disposições destinadas a prestar ao público informações específicas rel
 p) Disposições para a verificação e revisão do plano de resposta a emergências de modo a ter em conta as alterações ou os ensinamentos obtidos dos exercícios e eventos passados;
 
 q) Disposições para a revisão dos elementos relevantes constantes no plano de emergência, se necessário, durante uma situação de exposição de emergência, por forma a ter em conta a evolução das condições ao longo da resposta.
+
+115915483

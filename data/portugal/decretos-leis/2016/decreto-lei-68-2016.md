@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21100/0388803889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2016/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2016-75644169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d19da08ff7318cd54e50d7d9c3d63777ee94af24a95a3b32dc0740f40bfbd28e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7259ec710dcf1cb2a879fd01136149b3d6e8eb9e5eeba61c218af547c4fa47d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,31 +71,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acolhimento Familiar
-- Instituto da Segurança Social
-- Financiamento
-- Gestão Financeira
+- Apoio Domiciliário
 - Comissão Permanente
 - Conselho de Gestão
 - Cooperação
 - Definição de Competências
-- Entidade sem FINS Lucrativos
-- Gestão Administrativa
-- Equipamento Social
-- Lisboa
-- IPSS
-- Santa Casa da Misericórdia
 - Economia Social
-- Apoio Domiciliário
+- Entidade sem FINS Lucrativos
+- Equipamento Social
+- Financiamento
+- Fundo de Reestruturação do Setor Solidário
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto da Segurança Social
+- IPSS
+- Lisboa
 - Regulamento Interno
+- Santa Casa da Misericórdia
 - Segurança Social
 - Transferência de Competências
 - Transferência Patrimonial
-- Fundo de Reestruturação do Setor Solidário
 relationships:
 - type: amended_by
   target: pt:dre:901661923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114276583:por
+  label: Alterado o art. 13.º do Dec Lei 120/2015 de 30-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 143/2017
+    - Diário da República n.º 230/2017, Série I de 2017-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2017-114276583
+  date: '2017-11-29'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterados, a partir de 29.06.2019 e nos termos do art. 210.º, os arts. 6.º, 8.º, 11.º e 16.º do Dec Lei 165-A/2013
+    de 23-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I
+    de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
   label: null
@@ -120,16 +133,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+- type: cites
+  target: pt:dre:260892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66895092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686134:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:39Z'
   warnings: []
   errors: []
 ---
@@ -186,13 +223,17 @@ Os artigos 6.º, 8.º, 11.º e 16.º do [Decreto-Lei n.º 165-A/2013](https://di
 
 4 - Do acordo a que se refere o número anterior pode resultar uma atualização de 0,00 %, não sendo nesse caso necessária a publicação da respetiva portaria.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Constituem despesas de funcionamento do FRSS as despesas de administração e gestão e outras previstas em sede de regulamento interno, nomeadamente as despesas suportadas pelas entidades identificadas nas alíneas d) a f) do n.º 2 do artigo 11.º com as atividades previstas no artigo 16.º
 
 2 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O FRSS é gerido por um conselho de gestão, de composição paritária, composto por um presidente, um vice-presidente e 4 vogais.
 
@@ -226,7 +267,9 @@ f) [Anterior alínea d)].
 
 10 - O apoio técnico e administrativo ao FRSS e ao conselho de gestão é prestado diretamente pelas entidades identificadas nas alíneas d) a f) do n.º 2, nos termos a definir no regulamento interno.
 
-###### Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas
+Artigo 16.º
+
+Acompanhamento das candidaturas e entidades apoiadas
 
 1 - As entidades identificadas nas alíneas d) a f) do n.º 2 do artigo 11.º, prestam apoio técnico:
 
@@ -268,7 +311,9 @@ g) [Anterior alínea f)];
 
 h) Um representante da Santa Casa da Misericórdia de Lisboa.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -324,12 +369,12 @@ São revogados os n.os 4 a 6 do artigo 14.º do [Decreto-Lei n.º 120/2015](http
 
 Visto e aprovado em Conselho de Ministros de 22 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes.
 
-**Promulgado em 24 de outubro de 2016.**
+Promulgado em 24 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2016.**
+Referendado em 27 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

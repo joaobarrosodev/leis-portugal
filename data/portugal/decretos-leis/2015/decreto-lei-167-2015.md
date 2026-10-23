@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16300/0623106235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/2015/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2015-70064733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd8d9bedcd6208c0b7313bb3e2b75c42d5a57e9aa0d8bcd13ff90a9bfa278bac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 304b26fb3961a6898c717728aa48d0ffc7e077ad75da657d6f73180e09178e15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carta de Caçador
+- Autoridade Florestal Nacional
 - CAÇA
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Carta de Caçador
 - Direcção Geral dos Recursos Florestais
+- Documento Eletrónico
 - Instituto da Conservação da Natureza
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Instituto da Conservação da Natureza e das Florestas
 - Instituto Florestal
 - Licenciamento
-- Documento Eletrónico
-- Instituto da Conservação da Natureza e das Florestas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério das Cidades Ordenamento do Território e Ambiente
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Página na Internet
-- Autoridade Florestal Nacional
-- Instituto da Conservação da Natureza e da Biodiversidade
+- Plataforma Eletrónica
 - Regime Jurídico
 - Transferência de Competências
 - Uso e porte de arma
-- Plataforma Eletrónica
 relationships:
 - type: amended_by
   target: pt:dre:115012859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115012859:por
+  label: Alterados os arts. 19.º, 65.º, 79.º e 137.º do Dec Lei 202/2004, de 18-ago, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 24/2018 - Diário da República n.º 71/2018, Série I de 2018-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2018-115012859
+  date: '2018-04-11'
 - type: cites
   target: eli:http://
   label: null
@@ -135,16 +141,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/7/2010/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/7/2010/01/05/p/dre
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:33Z'
   warnings: []
   errors: []
 ---
@@ -211,13 +289,17 @@ i) [...];
 
 j) [...].
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, salvo nos casos previstos na lei, só é permitido o exercício da caça aos titulares de carta de caçador, da respetiva licença de caça, de seguro de responsabilidade civil, e dos demais documentos legalmente exigidos.
 
 2 - É ainda requisito do exercício da caça com utilização de arma de fogo, a licença de uso e porte de arma de classe prevista na lei para atos venatórios.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]:
 
@@ -239,7 +321,9 @@ h) O registo nacional CITES, regulado na [Portaria n.º 7/2010](https://diarioda
 
 2 - [...].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...].
 
@@ -251,7 +335,9 @@ h) O registo nacional CITES, regulado na [Portaria n.º 7/2010](https://diarioda
 
 5 - [Revogado].
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - A obtenção de carta de caçador depende da realização, com aproveitamento, de exame constituído por uma prova teórica.
 
@@ -265,7 +351,9 @@ h) O registo nacional CITES, regulado na [Portaria n.º 7/2010](https://diarioda
 
 6 - Os conteúdos programáticos das ações de formação a que se refere o número anterior são definidos pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.).
 
-###### Artigo 69.º — Emissão de carta de caçador
+Artigo 69.º
+
+Emissão de carta de caçador
 
 1 - A carta de caçador é emitida após o pagamento da taxa devida, com a aprovação no exame a que se refere o artigo 67.º
 
@@ -295,7 +383,9 @@ b) Os modelos da carta de caçador, da guia de substituição e do recibo a que 
 
 c) Os prazos de validade e as condições de renovação da guia de substituição e do recibo a que se refere a alínea anterior.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Os portugueses e os estrangeiros residentes em território português que são titulares da carta de caçador ou de documento equivalente válido, emitido por outro Estado-Membro da União Europeia, após aprovação em exame destinado a apurar a sua aptidão e conhecimento necessários ao exercício da caça, podem requerer ao ICNF, I. P., a emissão de carta de caçador portuguesa, desde que reúnam as condições exigidas no n.º 2 do artigo 21.º da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de setembro, alterado pelos [Decretos-Leis n.os 159/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), de 8 de agosto, e [2/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), de 6 de janeiro.
 
@@ -305,7 +395,9 @@ c) Os prazos de validade e as condições de renovação da guia de substituiç�
 
 4 - [...].
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -315,13 +407,17 @@ c) Os prazos de validade e as condições de renovação da guia de substituiç�
 
 4 - À renovação de carta de caçador é aplicável o disposto nas alíneas b) e c) do n.º 1 do artigo 66.º e no n.º 3 do artigo 67.º, com as devidas adaptações.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...].
 
 2 - Na sequência do exame médico a que se refere o número anterior, a carta de caçador pode ser mantida ou revogada.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - [...].
 
@@ -339,7 +435,9 @@ d) Documento equivalente à carta de caçador ou licença comprovativa de habili
 
 4 - Estão dispensados da apresentação dos documentos referidos nas alíneas c) e d) do número anterior os membros do corpo diplomático ou consular acreditados em Portugal.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - Para o exercício da caça, os caçadores devem celebrar um contrato de seguro de responsabilidade civil destinado a cobrir eventuais danos causados a terceiros, no montante mínimo de (euro) 100 000.
 
@@ -347,7 +445,9 @@ d) Documento equivalente à carta de caçador ou licença comprovativa de habili
 
 3 - [...].
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - [...].
 
@@ -371,7 +471,9 @@ d) Cartuchos carregados com múltiplos projéteis de chumbo, nas zonas húmidas 
 
 7 - [...].
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - [...]:
 
@@ -465,7 +567,9 @@ tt) [...].
 
 4 - [...].
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - [...]:
 
@@ -537,12 +641,12 @@ O disposto nos artigos 3.º e 4.º do presente decreto-lei, e nos artigos 66.º,
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Jorge Manuel Lopes Moreira da Silva - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 15 de agosto de 2015.**
+Promulgado em 15 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de agosto de 2015.**
+Referendado em 18 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

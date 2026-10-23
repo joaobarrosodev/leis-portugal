@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-1979-393185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b668f1cc8f044e1a966a1c63f125b7a2c721f93695c5e0c078678a2d083789a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aafd52686bf221d1915fe056ad84703a68e0f3b4b6cf6e6d0e20f94d64ebbbe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Acção Regional e Local
+- Integração de Trabalhadores
+- Ministério da Administração Interna
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:365743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421074:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:02Z'
   warnings: []
   errors: []
 ---
@@ -148,12 +165,12 @@ Secretaria-Geral
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/02/03200/01820183.pdf))](https://files.diariodarepublica.pt/1s/1979/02/03200/01820183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03200/01820183.pdf)
 
 Direcção-Geral da Acção Regional e Local
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/02/03200/01820183.pdf))](https://files.diariodarepublica.pt/1s/1979/02/03200/01820183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03200/01820183.pdf)
 
-**O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Orçamento, João Pinto Ribeiro.**
+O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Orçamento, João Pinto Ribeiro.

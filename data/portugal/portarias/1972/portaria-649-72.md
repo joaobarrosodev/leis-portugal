@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1972-690603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cca3429791d41b93b4046a99e4d7c5e3ce145a1957b64d99d88955442f86049
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55a37a90b9db1755cae7edbd8cf3262a52788fca0d00da952803cfb53e240e94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:54:28Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Tornando-se necessário reajustar as funções que o Estatuto dos Sargentos e Pr
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do disposto no artigo 231.º do Estatuto dos Sargentos e Praças da Armada, aprovado e posto em execução pelo [Decreto n.º 44884](https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429), de 18 de Fevereiro de 1963, que a alínea g) do n.º 8 do artigo 15.º do mesmo Estatuto passe a ter a redacção seguinte:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 ...
 

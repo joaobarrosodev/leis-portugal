@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2013/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2013-500052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d8dbcabb08ecdbee0491dce547e6ace3506bfda68e312d18dda2604d725975
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 185a451ee6e135cff9c1ed1eae09d608ca617328420ea0e4e65549a4a390ec31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,106 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACES
 - Acordo
-- Contrato
-- Administração Regional de Saúde
-- Contrato de Adesão
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Centro de Saúde
 - Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
+- Administração Regional de Saúde
+- Centro de Saúde
+- Contrato
+- Contrato de Adesão
+- Cuidados Médicos
+- Política de Saúde
 - Preço
 - Preço de Referência
 - Prestação de Serviços
-- Cuidados Médicos
-- ACES
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
 relationships:
+- type: amended_by
+  target: pt:dre:55460428:por
+  label: Prorrogado até 31.10.2015 o prazo de vigência dos contratos a que se refere o n.º 3 do art.16.º do presente diploma
+    pelo(a) Despacho n.º 10219/2014 - Diário da República n.º 152/2014, Série II de 2014-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/10219-2014-55460428
+  date: '2014-08-08'
+- type: amended_by
+  target: pt:dre:70041220:por
+  label: Prorrogado até 31.10.2016 o prazo da vigência dos contratos a que se refere o n.º 3 do art. 16.º do presente diploma,
+    sem prejuízo da aplicação do disposto nos n.ºs 5 e 6 do mesmo art. pelo(a) Despacho n.º 9354/2015 - Diário da República
+    n.º 160/2015, Série II de 2015-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9354-2015-70041220
+  date: '2015-08-18'
+- type: amended_by
+  target: pt:dre:75588669:por
+  label: Prorrogado até 31.10.2017 o prazo da vigência dos contratos a que se referem os n.ºs 1, 2 e 3 do artigo 16.º do presente
+    diploma, sem prejuízo da aplicação do disposto no n.º 5 do mesmo art. pelo(a) Despacho n.º 12799-A/2016 - Diário da República
+    n.º 204/2016, 1º Suplemento, Série II de 2016-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12799-a-2016-75588669
+  date: '2016-10-24'
+- type: amended_by
+  target: pt:dre:108332845:por
+  label: Prorrogado, até 31.10.2018, o prazo da vigência dos contratos a que se referem os n.ºs 1, 2 e 3 do artigo 16.º do
+    presente diploma, pelo(a) Despacho n.º 9214/2017 - Diário da República n.º 202/2017, Série II de 2017-10-19, sem prejuízo
+    do disposto no seu n.º 4
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9214-2017-108332845
+  date: '2017-10-19'
+- type: amended_by
+  target: pt:dre:116852283:por
+  label: Prorrogado, até 31-10-2019, o prazo de vigência dos contratos a que se referem os n.ºs 1, 2 e 3 do art 16.º do presente
+    diploma, pelo(a) Despacho n.º 10145-A/2018 - Diário da República n.º 210/2018, 2º Suplemento, Série II de 2018-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/10145-a-2018-116852283
+  date: '2018-10-31'
+- type: amended_by
+  target: pt:dre:125830412:por
+  label: Prorrogado até 31-10-2020 o prazo de vigência dos contratos a que se referem os n.ºs 1, 2 e 3 do art 16.º pelo(a)
+    Despacho n.º 9881/2019 - Diário da República n.º 209/2019, Série II de 2019-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9881-2019-125830412
+  date: '2019-10-30'
+- type: amended_by
+  target: pt:dre:147528336:por
+  label: Prorrogado, com efeitos desde 25.09.2020, o prazo de vigência dos contratos a que se referem os n.ºs 1, 2 e 3 do
+    art. 16.º do presente diploma e o prazo de vigência das convenções em vigor na área da endoscopia gastrenterológica, na
+    modalidade de contratação, ao abrigo da al. a) do n.º 1 do art. 4.º do presente diploma e, ainda, aquelas que foram celebradas
+    antes da entrada em vigor do mesmo diploma, pelo(a) Despacho n.º 10832/2020 - Diário da República n.º 215/2020, Série
+    II de 2020-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/10832-2020-147528336
+  date: '2020-11-04'
+- type: amended_by
+  target: pt:dre:161058248:por
+  label: Prorrogado, com efeitos desde 01.04.2021, o prazo de vigência das convenções em vigor na área da endoscopia gastrenterológica,
+    celebrados ao abrigo da al. a) do n.º 1 do art. 4.º do presente diploma, incluindo aquelas cujo estabelecimento se localize
+    no âmbito territorial do ACES Dão-Lafões, pelo(a) Despacho n.º 3659/2021 - Diário da República n.º 69/2021, Série II de
+    2021-04-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3659-2021-161058248
+  date: '2021-04-09'
+- type: amended_by
+  target: pt:dre:173785029:por
+  label: Prorrogados, com efeitos desde 01.11.2021, até 31.10.2022 o prazo de vigência dos contratos a que se referem os n.ºs
+    1, 2 e 3 do art. 16.º do presente diploma, bem como, até 31.12.2021, o prazo de vigência das convenções em vigor na área
+    da endoscopia gastrenterológica, na modalidade de contratação, ao abrigo da al. a) do n.º 1 do art. 4.º do mesmo diploma,
+    pelo(a) Despacho n.º 10756/2021 - Diário da República n.º 213/2021, Série II de 2021-11-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/10756-2021-173785029
+  date: '2021-11-03'
+- type: amended_by
+  target: pt:dre:202959153:por
+  label: Prorrogado, com efeitos a 01.11.2022 e até 31.10.2023, o prazo de vigência dos contratos a que se referem os n.os
+    1, 2 e 3 do art. 16.º do presente diploma pelo(a) Despacho n.º 12709-A/2022 - Diário da República n.º 211/2022, 1º Suplemento,
+    Série II de 2022-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12709-a-2022-202959153
+  date: '2022-11-02'
+- type: amended_by
+  target: pt:dre:223826104:por
+  label: Prorrogado, com efeitos a 01 de novembro de 2023, e até 31 de outubro de 2024, o prazo de vigência dos contratos
+    a que se referem os n.ºs 1, 2 e 3 do artigo 16.º, pelo(a) Despacho n.º 11267/2023 - Diário da República n.º 214/2023,
+    Série II de 2023-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/11267-2023-223826104
+  date: '2023-11-06'
+- type: amended_by
+  target: pt:dre:893982660:por
+  label: Prorrogado até 31 de dezembro de 2026, com efeitos a partir de 1 de novembro de 2024, o prazo de vigência dos contratos
+    a que se referem os n.ºs 1, 2 e 3 do artigo 16.º pelo(a) Despacho n.º 12876-C/2024 - Diário da República n.º 210/2024,
+    Suplemento, Série II de 2024-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12876-c-2024-893982660
+  date: '2024-10-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
   label: null
@@ -97,16 +182,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:174849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:59Z'
   warnings: []
   errors: []
 ---
@@ -349,12 +454,12 @@ c) O abandono da prestação de serviços ou a sua suspensão injustificada.
 
 Visto e aprovado em Conselho de Ministros de 14 de agosto de 2013. - Pedro Passos Coelho - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 4 de outubro de 2013.**
+Promulgado em 4 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de outubro de 2013.**
+Referendado em 7 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

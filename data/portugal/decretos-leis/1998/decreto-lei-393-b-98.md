@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 280/1998, 3º Suplemento, Série I-A de 1998-12-04
   number: '280'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6708-(52) a 6708-(55)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/280a03/00520055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/393-b/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1998-468979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dd4aac6489441e55598884fe2da32da9843d60a1f3aa72a35e39e2db17cec61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b565a00e65e37d86fde70cf1755a1144c832a9f602a3255562b2c56e819cc25c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,51 +67,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Doença Animal
-- Gado Caprino
+- Alimento para Animais
+- Aquicultura
+- Ave de Capoeira
+- BSE
 - Coelho
-- Multa
 - Contra-ordenação
 - Controlo de Qualidade
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- BSE
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
+- Doença Animal
 - Fabrico Industrial
 - Fiscalização
 - Gado Bovino
-- Ave de Capoeira
-- Inspecção Geral das Actividades Económicas
-- Pagamento
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Indemnização
-- Aquicultura
+- Gado Caprino
 - Gado Ovino
-- Alimento para Animais
+- Indemnização
+- Inspecção Geral das Actividades Económicas
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Multa
+- Pagamento
 - Pecuária
+- Produção Animal
 - Sanção
 relationships:
 - type: amended_by
   target: pt:dre:239616:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345534:por
+  label: "Alterado o art. 3º pelo DEC LEI.288/99.1999.07.28.MADRP, DR.IS-A [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1999-345534
+  date: '1999-07-28'
+- type: amended_by
+  target: pt:dre:580783:por
+  label: "Alterado o nº 4 do art. 3º, aditadas as als. o) e p) ao art. 2º e aditado o artº 3º-A, pelo DEC LEI.211/2000.2000.09.02.MADRP,\
+    \ DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2000-580783
+  date: '2000-09-02'
+- type: amended_by
+  target: pt:dre:319734:por
+  label: "Alterados os arts. 2º e 3º, com a redacção conferida pelo Dec Lei 288/99 de 28-Jul, pelo DEC LEI.61/2001.2001.02.19.MADRP\
+    \ DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2001-319734
+  date: '2001-02-19'
 - type: cites
   target: celex:31992D0562
   label: null
   source: http://data.europa.eu/eli/dec/1992/562/oj
+- type: corrected_by
+  target: pt:dre:570514:por
+  label: "Rectificado pela DECL-RECT.22-I/98.1998.12.29.PCM, DR.IS-A [301]7ºSupl de 31/Dez/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-i-1998-570514
+  date: '1998-12-29'
+- type: repealed_by
+  target: pt:dre:239616:por
+  label: "Revogado pelo DEC LEI.76/2003.2003.04.19.MADRP, DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2003-239616
+  date: '2003-04-19'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:17Z'
   warnings: []
   errors: []
 ---
@@ -260,15 +287,15 @@ As medidas previstas no presente diploma poderão ser revistas logo que a evolu�
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 25 de Novembro de 1998.**
+Promulgado em 25 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Dezembro de 1998.**
+Referendado em 3 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 

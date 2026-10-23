@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/235a00/69926996.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/212/2005/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2005-491205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cfa8ef151ef705322a4019dfe03564c449f65860c642c8d92e9dd944ab961d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede77a888d024680df459de69bbde0b2a76677910069ab3f9b697fa55261e02f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,35 @@ subjects:
 - ADSE
 - Beneficiário
 - Cartão de Identificação
-- Serviço de Saúde
-- Delegado
 - Contrato de Adesão
+- Cuidados Médicos
+- Delegado
 - Ministério da Justiça
 - Pagamento
-- Cuidados Médicos
 - Protecção na Doença
 - Regime Jurídico
+- Serviço de Saúde
 - Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:280923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197491:por
+  label: "Alterado o artigo 7.º e aditado o artigo 4.º-A pela LEI.53-D/2006.29.12.2006.AR, DR.IS [249]4ºSupl de 29.12.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-d-2006-197491
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:280923:por
+  label: "Extinto, a partir de 01.02.2011, o subsistema de saúde da Justiça, (criado pelo Dec Lei 47210 de 22-Set de 1966),\
+    \ e regulado pelo presente diploma, que é revogado, a partir da referida data pelo DEC LEI.11/2011.21.01.2011.MJ, DR.IS\
+    \ [15] de 21.01.2011, que determinou ficassem abrangidos, a partir da referida data, os seus beneficiários pelo sistema\
+    \ de benefícios de saúde gerido pela Direcção-Geral da Protecção Social aos Funcionários e Agentes da Administração Pública\
+    \ (ADSE), regulado pelo Dec Lei 118/83 de 25-Fev, posteriormente alterado\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2011-280923
+  date: '2011-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/2001/04/18/p/dre
   label: null
@@ -94,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
+- type: cites
+  target: pt:dre:163641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574507:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:51Z'
   warnings: []
   errors: []
 ---
@@ -404,12 +443,12 @@ O Ministério das Finanças e da Administração Pública procede à avaliação
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado - Alberto Bernardes Costa - José António Fonseca Vieira da Silva.
 
-**Promulgado em 28 de Novembro de 2005.**
+Promulgado em 28 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Novembro de 2005.**
+Referendado em 29 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

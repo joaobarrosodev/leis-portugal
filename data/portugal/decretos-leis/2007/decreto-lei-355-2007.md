@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/355/2007/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-2007-628856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccd787b7757b4d61acb7654609e901f91580a4c83686c65a356f7609c0c73e50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd675a6775abf48cd25ee9a7c1584623d1606fc155eb76e8e96b1b7bfc031333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Energia
+- Agência Portuguesa do Ambiente
 - Alienação de Participação Social
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
+- Conselho Técnico-científico
 - Criação de Serviços
 - Definição de Competências
 - Fiscalização
+- Fundação para a Ciência e a Tecnologia
+- Gestão de Recursos Humanos
+- IAPMEI
 - Ineti
 - Instituto de Meteorologia
 - Instituto Nacional de Recursos Biológicos
-- Instituto Tecnológico e Nuclear
-- Conselho Técnico-científico
-- Laboratório Nacional de Energia e Geologia
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Instituto Português da Qualidade
+- Instituto Tecnológico e Nuclear
+- Investigação Científica e Tecnológica
+- Laboratório Nacional de Energia e Geologia
+- Mobilidade de Pessoal
 - Parque de Inovação e Competitividade Empresarial
 - Presidente
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Mobilidade de Pessoal
-- Gestão de Recursos Humanos
-- IAPMEI
 - Transferência de Competências
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:456799:por
@@ -109,16 +109,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:520986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456799:por
+  label: "Revogada a al. b) do nº 5 do art. 2º pelo DEC LEI.139/2008.21.07.2008.MCTES, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2008-456799
+  date: '2008-07-21'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:46Z'
   warnings: []
   errors: []
 ---
@@ -303,7 +324,7 @@ c) Instalação de entidades que visem a produção de serviços com vista à in
 
 d) Instalação de entidades que visem a realização de actividades de investigação e desenvolvimento científico e, ainda, de serviços e organismos públicos que visem a gestão e a modernização do sistema científico e tecnológico nacional;
 
-e) Espaço de acolhimento de programas europeus de I&D;
+e) Espaço de acolhimento de programas europeus de I&D
 
 f) Afectação a projectos de desenvolvimento específico, nomeadamente a unidades de inovação empresarial, de desenvolvimento industrial ou tecnológico, e exposições tecnológicas com carácter ocasional ou permanente.
 
@@ -423,12 +444,12 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Luís Medeiros Vieira - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 22 de Agosto de 2007.**
+Promulgado em 22 de Agosto de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Agosto de 2007.**
+Referendado em 22 de Agosto de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2023/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2023-206618939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d4a0ee96ae781a41ae443fc4a584de99df1c4ffb717603b79fe528b3648ab52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7d190b80a92b78949f5cb55f3dd7358768b83d7e32a7ce83111627b8308d3dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,37 @@ reuse:
 subjects:
 - Conselho de Ministros
 - Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Escola Náutica Infante Dom Henrique
 - Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica
-- Secretário de Estado dos Assuntos Fiscais
-- Ministro da Cultura
-- Ministro das Finanças
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
+- Governo XXIII
 - Instituto da Mobilidade e dos Transportes
 - Laboratório Nacional de Engenharia Civil
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Secretário de Estado do Tesouro
-- Secretário de Estado do Ambiente
 - Ministro Adjunto e dos Assuntos Parlamentares
+- Ministro da Administração Interna
+- Ministro da Agricultura e da Alimentação
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Coesão Territorial
+- Ministro da Cultura
+- Ministro da Economia e do Mar
+- Ministro da Habitação
+- Ministro da Presidência
+- Ministro das Finanças
+- Ministro das Infraestruturas
+- Ministro do Ambiente e da Ação Climática
 - Orgânica
 - Presidência do Conselho de Ministros
-- Ministro da Presidência
-- Secretário de Estado da Habitação
-- Secretário de Estado das Finanças
-- Secretário de Estado do Orçamento
-- Ministro da Administração Interna
-- Secretário de Estado das Infraestruturas
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
-- Ministro do Ambiente e da Ação Climática
-- Ministro da Coesão Territorial
-- Governo XXIII
-- Ministro da Economia e do Mar
-- Ministro da Agricultura e da Alimentação
 - Secretário de Estado da Conservação da Natureza e Florestas
-- Secretário de Estado da Mobilidade Urbana
-- Ministro das Infraestruturas
-- Ministro da Habitação
 - Secretário de Estado da Energia e Clima
+- Secretário de Estado da Habitação
+- Secretário de Estado da Mobilidade Urbana
+- Secretário de Estado das Finanças
+- Secretário de Estado das Infraestruturas
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro
+- Secretário de Estado dos Assuntos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:223765534:por
@@ -123,16 +123,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/1-e/2023/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/1-e/2023/01/04/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205199886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205748423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205748425:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:38Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +219,9 @@ q) [Anterior alínea p).]
 
 r) [Anterior alínea q).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +261,9 @@ r) [Anterior alínea q).]
 
 19 - A Ministra da Agricultura e da Alimentação é coadjuvada no exercício das suas funções pela Secretária de Estado das Pescas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +277,9 @@ r) [Anterior alínea q).]
 
 6 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes da Ministra da Presidência, da Ministra Adjunta e dos Assuntos Parlamentares, do Ministro da Cultura, do Ministro das Infraestruturas, da Ministra da Habitação e da Ministra da Coesão Territorial.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -265,7 +291,9 @@ r) [Anterior alínea q).]
 
 5 - O Ministro da Administração Interna exerce ainda os poderes que lhe são conferidos pelo n.º 8 do artigo 15.º, pelos n.os 9 e 10 do artigo 19.º e pela alínea b) do n.º 4 do artigo 27.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -311,7 +339,9 @@ r) [Anterior alínea q).]
 
 22 - O Ministro da Economia e do Mar exerce ainda os poderes que lhe são conferidos pelos n.os 5 e 6 do artigo 14.º, pelo n.º 7 do artigo 15.º, pelo n.º 5 do artigo 17.º, pelos n.os 10 e 13 do artigo 22.º, pelo n.º 6 do artigo 23.º, pelos n.os 6 e 7 do artigo 24.º, pela alínea b) do n.º 4 e pelo n.º 6 do artigo 27.º e pelo n.º 3 do artigo 29.º
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -335,7 +365,9 @@ r) [Anterior alínea q).]
 
 11 - O Ministro do Ambiente e da Ação Climática exerce ainda os poderes que lhe são conferidos pelo n.º 6 do artigo 14.º, pelos n.os 11 e 16 do artigo 20.º, pela alínea b) do n.º 4 do artigo 27.º, pelos n.os 4 e 7 do artigo 28.º e pelos n.os 7 e 12 do artigo 29.º
 
-###### Artigo 27.º — Infraestruturas
+Artigo 27.º
+
+Infraestruturas
 
 1 - O Ministro das Infraestruturas tem por missão formular, conduzir, executar e avaliar as políticas de infraestruturas na área dos transportes, incluindo a segurança dos mesmos, e das comunicações, bem como as políticas dos transportes marítimos e dos portos, incluindo a segurança dos mesmos.
 
@@ -355,7 +387,9 @@ b) O Instituto da Mobilidade e dos Transportes, I. P., em coordenação com o Mi
 
 7 - O Ministro das Infraestruturas exerce ainda os poderes que lhe são conferidos pelos n.os 5 e 12 do artigo 20.º
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -413,12 +447,14 @@ O presente decreto-lei produz efeitos, nas partes relativas aos membros do Gover
 
 Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho - Maria Helena Chaves Carreiras - José Luís Pereira Carneiro - Pedro Luís Ferrão Tavares - Fernando Medina Maciel Almeida Correia - Ana Catarina Veiga dos Santos Mendonça Mendes - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - Elvira Maria Correia Fortunato - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - João Saldanha de Azevedo Galamba - Marina Sola Gonçalves - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 25 de janeiro de 2023.**
+Promulgado em 25 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de janeiro de 2023.**
+Referendado em 26 de janeiro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116107371

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1973-683659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5be851e9a1ae581bda9b1672f8a72933242d6b5488b7ca4455018483bc1c13c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a47d40607c325827e478c73e75ab7c9ff00de620afa6d200277d8fa692052f19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:432829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:02:17Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +103,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Diversos encargos:
 
-###### Artigo 2.º «Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 63680$00
+Artigo 2.º «Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 63680$00
 
 ### CAPÍTULO II — Serviços próprios do Conselho Ultramarino
 
 Despesas com o pessoal:
 
-###### Artigo 4.º, n.º 1, alínea b) «Remunerações acidentais - Gratificações - Para pagamento de gratificações a um magistrado encarregado de sumariar e anotar remissivamente os acórdãos dados pela secção do contencioso, nos termos do [Decreto n.º 42383](https://diariodarepublica.pt/dr/detalhe/decreto/42383-1959-432829), de 13 de Julho de 1959» ... 18000$00
+Artigo 4.º, n.º 1, alínea b) «Remunerações acidentais - Gratificações - Para pagamento de gratificações a um magistrado encarregado de sumariar e anotar remissivamente os acórdãos dados pela secção do contencioso, nos termos do [Decreto n.º 42383](https://diariodarepublica.pt/dr/detalhe/decreto/42383-1959-432829), de 13 de Julho de 1959» ... 18000$00
 
 Diversos encargos:
 
-###### Artigo 16.º «Despesas de anos económicos findos» ... 334866$50
+Artigo 16.º «Despesas de anos económicos findos» ... 334866$50
 
 ... 416546$50
 
@@ -111,13 +123,13 @@ tomando como contrapartida as seguintes disponibilidades do mesmo orçamento:
 
 Pagamento de serviços:
 
-###### Artigo 1.º, n.º 1 «Despesas de comunicações - Transportes aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 334866$50
+Artigo 1.º, n.º 1 «Despesas de comunicações - Transportes aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 334866$50
 
 ### CAPÍTULO II — Serviços próprios do Conselho Ultramarino
 
 Despesas com o pessoal:
 
-###### Artigo 4.º, n.º 1, alínea a) «Remunerações acidentais - Gratificações - A catorze vogais» ... 20000$00
+Artigo 4.º, n.º 1, alínea a) «Remunerações acidentais - Gratificações - A catorze vogais» ... 20000$00
 
 ###### Artigo 5.º: — N.º 1 «Outras despesas com o pessoal - Compensação de vencimentos aos sete vogais da secção do contencioso» ... 9600$00
 
@@ -135,7 +147,7 @@ Alínea b) «Mobiliário» ... 2080$00
 
 Diversos encargos:
 
-###### Artigo 17.º «Duplicação de vencimentos, nos termos do § 2.º do artigo 59.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966» ... 18000$00
+Artigo 17.º «Duplicação de vencimentos, nos termos do § 2.º do artigo 59.º do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966» ... 18000$00
 
 ... 416546$50
 

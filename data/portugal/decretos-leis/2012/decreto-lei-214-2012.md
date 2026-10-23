@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/2012/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fccc15c9cd9d9284499566e78abe8ae802af846a908e0b219a8c7dc791f88dd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebc24e5cb70d44427dbc27f2fc37acd770fce0b516d658082930bd233182a868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Estágios Profissionais na Administração Pública
+- Administração Pública
 - Bolsa de Estágio
-- Formação Profissional
 - Contrato
 - Definição de Competências
-- Administração Pública
-- Recrutamento de Pessoal
-- Faltas
-- Limite de Idade
 - Direcção Geral da Qualificação dos Trabalhadores em Funções Públicas
 - Estágio de Formação
+- Faltas
+- Formação Profissional
+- Limite de Idade
+- Programa Estágios Profissionais na Administração Pública
 - Proteção Social
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Subsídio de Refeição
 relationships:
@@ -85,6 +85,12 @@ relationships:
   target: pt:dre:56479730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56479730:por
+  label: Dada nova redação, a partir de 01.10.2014, aos arts. 8.º, 9.º, 14.º, 16.º, 17.º e 20.º do Dec Lei 18/2010 de 19-mar,
+    alterados pelo presente diploma, pelo(a) Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2014-56479730
+  date: '2014-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2010/03/19/p/dre
   label: null
@@ -97,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:04Z'
   warnings: []
   errors: []
 ---
@@ -159,13 +177,17 @@ d) ...
 
 3 - No caso de pessoas com deficiência e ou incapacidade o limite de idade estabelecido na alínea b) do n.º 1 é de 35 anos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O lançamento dos estágios é publicitado na bolsa de emprego público (BEP) e em, pelo menos, dois órgãos de comunicação social de expansão nacional, sendo ainda comunicado, para efeitos de divulgação, ao Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.).
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +197,9 @@ d) ...
 
 4 - Não podem apresentar candidatura os interessados que se encontrem a frequentar ou tenham frequentado programas de estágios profissionais financiados, total ou parcialmente, pelo Estado, nomeadamente estágios integrados em edições do Programa de Estágios Profissionais na Administração Pública Central (PEPAC), Programa de Estágios Profissionais na Administração Local (PEPAL) e os promovidos pelo IEFP, I. P.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -187,13 +211,17 @@ d) ...
 
 5 - ...
 
-###### Artigo 11.º — Contrato de estágio
+Artigo 11.º
+
+Contrato de estágio
 
 1 - A entidade promotora celebra com o estagiário um contrato de estágio, sujeito à forma escrita.
 
 2 - ...
 
-###### Artigo 14.º — Bolsa de estágio e outros apoios
+Artigo 14.º
+
+Bolsa de estágio e outros apoios
 
 1 - Aos estagiários é concedida, por cada um dos meses de duração do estágio, uma bolsa de estágio de montante fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
 
@@ -209,7 +237,9 @@ b) Pelas faltas injustificadas;
 
 c) Pelas faltas justificadas por motivo de acidente, desde que a responsabilidade civil daí decorrente se encontre coberta pelo contrato de seguro previsto no número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -217,13 +247,17 @@ c) Pelas faltas justificadas por motivo de acidente, desde que a responsabilidad
 
 3 - Para efeitos do disposto na alínea d) do número anterior é aplicável ao estagiário, com as devidas adaptações, o regime de faltas e de descanso diário e semanal dos trabalhadores vinculados por contrato de trabalho em funções públicas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - No fim do estágio é efetuada uma avaliação do estagiário tendo em conta o cumprimento dos objetivos e do plano de estágio, de acordo com as regras e critérios estabelecidos pelo INA, nos termos da alínea e) do n.º 1 do artigo seguinte.
 
 2 - A avaliação prevista no número anterior é sempre fundamentada e compete ao dirigente máximo da entidade promotora, mediante proposta do orientador de estágio, obedecendo a uma escala de 0 a 20 valores.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Enquanto responsável pela gestão do Programa, compete ao INA, designadamente:
 
@@ -243,7 +277,9 @@ g) ...
 
 2 - Para efeitos das competências previstas na alínea c) do número anterior, o INA pode solicitar a colaboração do IEFP, I. P.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +295,9 @@ g) ...
 
 7 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O presente decreto-lei é regulamentado através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública, da economia e do emprego, da solidariedade e da segurança social, designadamente em matérias de criação de programas específicos de estágio, acesso ao Programa de estágios e respetivos termos de execução.»
 
@@ -281,7 +319,9 @@ b) Por facto relativo ao estagiário, nomeadamente doença, maternidade, paterni
 
 3 - No dia imediato à cessação do impedimento por facto relativo ao estagiário, este deve apresentar-se à entidade promotora para retomar a atividade.
 
-###### Artigo 11.º-B — Cessação do contrato de estágio
+Artigo 11.º-B
+
+Cessação do contrato de estágio
 
 1 - O contrato de estágio cessa por caducidade, por acordo das partes e por resolução por alguma das partes, nos termos dos números seguintes.
 
@@ -309,7 +349,9 @@ a) Pagamento do montante correspondente aos dias em falta caso o incumprimento s
 
 b) Reposição dos montantes pagos ou pagamento dos dias em falta, caso o incumprimento seja do estagiário.
 
-###### Artigo 14.º-A — Efeitos do contrato de estágio
+Artigo 14.º-A
+
+Efeitos do contrato de estágio
 
 A relação jurídica decorrente da celebração de um contrato de estágio ao abrigo do presente decreto-lei é equiparada, para efeitos de segurança social, a trabalho por conta de outrem, observando-se ainda o disposto no Código do Imposto sobre o Rendimentos das Pessoas Singulares.»
 
@@ -323,12 +365,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de julho de 2012. - Vítor Louçã Rabaça Gaspar - Vítor Louçã Rabaça Gaspar - Feliciano José Barreiras Duarte - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 20 de setembro de 2012.**
+Promulgado em 20 de setembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de setembro de 2012.**
+Referendado em 21 de setembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

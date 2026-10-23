@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-1981-563412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8578f9796bda2b466f5b6cdeefc65b642cf54394d29e12e962e1c97676354493
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb76c89dadc60c5f8cdae758432168803fc36cc7099849a6aaf9c5ba819ac92f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Produção Agrícola
+- Regulamento
+- Semente
+relationships:
+- type: cites
+  target: pt:dre:563409:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:55:16Z'
   warnings: []
   errors: []
 ---
@@ -428,13 +437,13 @@ Aveia, triticale e arroz - 5 ha.
 
 5 - O número mínimo e oportunidade das inspecções de campo são apresentados no quadro que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 6 - O agricultor-multiplicador deverá justificar a origem da semente utilizada pela apresentação aos inspectores das etiquetas das embalagens das sementes a multiplicar.
 
 7 - As distâncias de isolamento a observar nos campos de multiplicação são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 Sendo a classificação a atribuir:
 
@@ -456,15 +465,15 @@ Sendo a classificação a atribuir:
 
 9 - Para assegurar a pureza varietal da semente a produzir os limites máximos de impurezas permitidos na multiplicação são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 10 - A classificação a atribuir ao campo de multiplicação quanto à pureza parietal será:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 11 - À presença de plantas de outras espécies nos campos de multiplicação em que as sementes são difíceis de separar nas operações de limpeza e calibragem deverá ser dada especial atenção, pelo que será anotada a presença das seguintes impurezas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 12 - A classificação a atribuir aos campos de multiplicação quanto à pureza específica será:
 
@@ -494,7 +503,7 @@ Morrão coberto - Cevada.
 
 15 - A classificação a atribuir ao estado sanitário dos campos de multiplicação de trigo, cevada, aveia, triticale e arroz será:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 ### CAPÍTULO IV — Controle dos lotes de sementes produzidas
 
@@ -518,6 +527,6 @@ c) Desde que na inspecção de campo a pureza varietal tenha a classificação m
 
 19 - Para os lotes apresentados à certificação só serão emitidos certificados que satisfizerem a todas as prescrições regulamentares e tiverem características que são definidas no quadro que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21400/24762482.pdf)
 
 Ministério da Agricultura e Pescas, 11 de Agosto de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

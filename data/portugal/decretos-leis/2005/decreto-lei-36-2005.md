@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/034a00/12001208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2005-605323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0452c3287c7a854f750be8d34a68311cfb37f40a2a3ccc5ebc161510a8657e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17b1d26f622679942b08b58e3dbad6e73983f451aaaf9113a481e6939636c194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Centro de Estudos e Formação Autárquica
+- Comissão de Coordenação e Desenvolvimento Regional
 - Costagest
+- Departamento de Prospectiva e Planeamento
 - Direção Geral das Autarquias Locais
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Direcção Geral dos Edifícios e Monumentos Nacionais
 - EDIA
 - Fundo de Coesão
-- Secretaria Geral
 - Fundo Remanescente de Reconstrução do Chiado
 - Gabinete de Estudos
-- Ministério das Cidades Administração Local Habitação e Desenvolvimento Regional
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro das Cidades Administração Local Habitação e Desenvolvimento Regional
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Inspecção Geral da Administração do Território
-- Instituto Nacional de Habitação
 - Imoppi
-- QCA
-- Departamento de Prospectiva e Planeamento
-- Direcção Geral do Desenvolvimento Regional
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Centro de Estudos e Formação Autárquica
+- Inspecção Geral da Administração do Território
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Instituto Geográfico Português
+- Instituto Nacional de Habitação
+- Ministério das Cidades Administração Local Habitação e Desenvolvimento Regional
+- Ministro das Cidades Administração Local Habitação e Desenvolvimento Regional
+- Ministro das Obras Públicas Transportes e Comunicações
 - Orgânica
 - Parque EXPO 98
+- Pessoal Dirigente
 - Piddac
+- QCA
 - Quadro de Pessoal
-- Ministro das Obras Públicas Transportes e Comunicações
-- Instituto Geográfico Português
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:545642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional,\
+    \ dos serviços, organismos e entidades compreendidos no ora extinto Ministério da Cidades, Administração Local, Habitação\
+    \ e Desenvolvimento Regional, cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005, com excepção dos referidos no seu n.º 5 do artigo 10.º e n.º 2 do artigo 18.º, e determinado também\
+    \ que a competência do Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional sobre o Departamento\
+    \ de Prospectiva e Planeamento seja exercida sem prejuízo dos poderes conferidos ao Ministro de Estado e das Finanças\
+    \ pelos n.ºs 2 e 3 do artigo 13.º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amends
+  target: pt:numero:decreto-lei:321/2002
+  label: "Determina que compete ao Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, definir\
+    \ as orientações quanto à gestão operacional do Fundo Remanescente de Reconstrução do Chiado, criado pelo Decreto-Lei\
+    \ n.º 321/2002, de 31 de Dezembro, DR.IS-A [302], de acordo com o disposto no seu artigo 20.º, e sem prejuízo das competências\
+    \ conferidas por lei ao Ministro das Finanças e da Administração Pública\0\0"
+  source: null
+  date: '2002-12-31'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -137,16 +156,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/45-a/2000/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/45-a/2000/12/21/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545642:por
+  label: "Revogado o presente diploma pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, que determinou,\
+    \ de acordo ao preceituado no respectivo art. 29º: - a extinção, com fusão, dos seguintes organismos: do Departamento\
+    \ de Prospectiva e Planeamento, do Gabinete de Estudos, da Direcção-Geral dos Edifícios e Monumentos Nacionais e do Instituto\
+    \ de Gestão e Alienação do Património Habitacional do Estado (IGAPHE), sendo as suas atribuições integradas: na Agência\
+    \ Portuguesa do Ambiente, no Departamento de Prospectiva e Planeamento e Relações Internacionais, na Direcção-Geral do\
+    \ Orçamento, no Instituto da Habitação e Reabilitação Urbana, e no Instituto de Gestão do Património Arquitectónico e\
+    \ Arqueológico; - e a reestruturação: do Instituto Nacional de Habitação (INH) e da Direcção-Geral do Desenvolvimento\
+    \ Regional, que passam a denominar-se, respectivamente: Instituto da Habitação e da Reabilitação Urbana e Instituto Financeiro\
+    \ para o Desenvolvimento Regional, e dos demais serviços, organismos e estruturas referidos nos arts. 4º, 5º e 6º do citado\
+    \ diploma. \0a. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: repeals
+  target: pt:numero:decreto-lei:97/2003
+  label: "Revoga o Decreto-Lei n.º 97/2003, de 7 de Maio, DR.IS-A [105]\0\0"
+  source: null
+  date: '2003-05-07'
+- type: repeals
+  target: pt:numero:decreto-lei:316/2003
+  label: "Revoga o Decreto-Lei n.º 316/2003, de 17 de Dezembro, DR.IS-A [290]\0\0"
+  source: null
+  date: '2003-12-17'
 article_structure:
   article_count: 26
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:30Z'
   warnings: []
   errors: []
 ---
@@ -421,15 +524,15 @@ São revogados o [Decreto-Lei n.º 97/2003](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - José Luís Fazenda Arnaut Duarte - Carlos Henrique da Costa Neves - António Luís Guerra Nunes Mexia - Maria João Espírito Santo Bustorff Silva - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 28 de Janeiro de 2005.**
+Promulgado em 28 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 2005.**
+Referendado em 2 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — (matérias a que se refere o n.º 5 do artigo 3.º do presente diploma)
 

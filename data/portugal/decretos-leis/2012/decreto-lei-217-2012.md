@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/2012/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5e5ac6d91167aea4db51cf1ab43cde073967ea94db0ae1113c89728094d4082
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d49270327340c239a89993e8b7cbcb3575bf5c32a572d178fdc273baf226a28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Contra-ordenação
-- Produto Petrolífero
-- Combustível
-- Fiscalização
-- Direção Geral de Energia e Geologia
-- Licenciamento
 - Câmara Municipal
+- Combustível
+- Contra-ordenação
+- Direção Geral de Energia e Geologia
+- Fiscalização
+- Licenciamento
+- Produto Petrolífero
 - Regime Jurídico
 - TAXA de Prestação de Serviços
 - Transferência de Competências
@@ -94,15 +94,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/267/2002/11/26/p/dre
 article_structure:
-  article_count: 54
+  article_count: 46
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:08Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +143,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 4 - O alvará de autorização de utilização, a que se refere o n.º 3 do artigo 74.º do regime jurídico da urbanização e da edificação, emitido no âmbito do procedimento de controlo prévio e nos termos dos artigos 62.º e seguintes do mesmo regime, constitui título bastante de exploração das instalações a que se refere o n.º 1, sem prejuízo do disposto na alínea c) do artigo 111.º do regime jurídico da urbanização e da edificação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O pedido de licenciamento deve conter os elementos exigidos pela portaria prevista no n.º 2 do artigo 4.º
 
@@ -155,7 +157,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -163,7 +167,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +195,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 12 - A guia para pagamento da taxa devida pela vistoria prevista no n.º 5 é emitida no prazo de 10 dias a contar da data em que é requerida a vistoria, e a vistoria é convocada no prazo de 20 dias a contar do pagamento.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - No prazo de 15 dias após a realização da vistoria inicial, a entidade licenciadora profere uma decisão devidamente fundamentada de aprovação, imposição de alterações ou rejeição do projeto, disso notificando o requerente.
 
@@ -209,7 +217,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 9 - A declaração da caducidade prevista no número anterior deve ser precedida de audiência do interessado, nos termos dos artigos 100.º e seguintes do CPA.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +239,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 9 - A formação de deferimento tácito nos termos previstos no n.º 7 não impede a realização da vistoria final pela entidade licenciadora, nas situações em que essa vistoria não tenha sido previamente realizada, com vista à verificação da conformidade da instalação com o projeto aprovado.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, as licenças de exploração das instalações a que este diploma respeita, incluindo as autorizações de utilização referidas no n.º 4 do artigo 5.º, não caducam com o decurso do tempo.
 
@@ -243,7 +255,9 @@ Os artigos 5.º, 8.º, 11.º, 12.º, 13.º, 14.º, 15.º, 20.º e 30.º do Decre
 
 6 - Para além das situações previstas nos termos gerais da lei, a entidade licenciadora pode revogar as licenças de exploração quando sejam falsos os dados ou as informações que integram ou acompanham o pedido de licenciamento, quando deixem de verificar-se os factos que justificaram a sua emissão ou quando o respetivo titular viole gravemente normas legais ou regulamentares aplicáveis.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Sem prejuízo do disposto na lei sobre responsabilidade por danos ambientais, sempre que seja detetada uma situação de perigo grave para a saúde, a segurança de pessoas e bens, a higiene e a segurança dos locais de trabalho e o ambiente, a entidade licenciadora e as demais entidades fiscalizadoras, por si ou em colaboração, devem tomar imediatamente as providências que em cada caso se justifiquem para prevenir ou eliminar a situação de perigo, podendo vir a ser determinado:
 
@@ -253,7 +267,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Sem prejuízo do disposto na lei sobre responsabilidade por danos ambientais, os acidentes ocorridos em instalações abrangidas pelo artigo 1.º são obrigatoriamente comunicados, no prazo de 24 horas, pelo titular da licença de exploração da instalação à entidade licenciadora, que deve proceder ao respetivo inquérito e manter o registo correspondente.
 
@@ -345,15 +361,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de setembro de 2012.**
+Promulgado em 27 de setembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de outubro de 2012.**
+Referendado em 1 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

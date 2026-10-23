@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/152a00/32643280.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e10c6a86048dd8f6b509b3193f6d03b4649e6781b6c1193f8f2fd216e94b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22a41ea07e3e0245e8732088273ebdfab8a1a34c43990f27e629458cb9a17e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
-- Modernização Administrativa
-- Turismo
-- Multa
-- Propriedade Horizontal
+- Autarquia Local
+- Câmara Municipal
 - Contra-ordenação
 - Definição de Competências
 - Descentralização
 - Direcção Geral do Turismo
-- Região de Turismo
-- Saúde Pública
 - Estabelecimento Hoteleiro
 - Fiscalização
 - Indústria Hoteleira
 - Licenciamento
+- Madeira.região Autónoma
+- Modernização Administrativa
+- Multa
 - Parecer
 - Parque de Campismo
 - Prazo
-- Madeira.região Autónoma
+- Propriedade Horizontal
 - Proteção do Consumidor
 - Qualidade do Produto
-- Câmara Municipal
+- Região de Turismo
+- Saúde Pública
 - Segurança dos Edifícios
 - Serviço Nacional de Bombeiros
-- Açores
 - Taxa
 - Transferência de Competências
-- Autarquia Local
+- Turismo
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:439866:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426157:por
+  label: "Alterados os arts. 7.º, 17.º, 26.º, 30.º, 34.º, 35.º, 38.º, 42.º, 44.º, 46.º a 49.º, 58.º, 59.º, 61.º, 62.º, 65.º,\
+    \ 69.º, 70.º, e 77.º, do presente diploma o qual é republicado na íntegra com as alterações ora introduzidas, pelo DEC\
+    \ LEI.305/99.1999.08.06.MECO DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1999-426157
+  date: '1999-08-06'
+- type: amended_by
+  target: pt:dre:250607:por
+  label: "Alterados os arts. 1º, 4º, 6º a 10º, 12º, 14º, 15º, 19º a 34º, 36º, 38º, 42º a 56º, 58º, 59º, 61º, 62º, 64º, 67º,\
+    \ 71º, 72º, 74º e 76º pelo DEC LEI.55/2002.2002.03.11.MECO DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2002-250607
+  date: '2002-03-11'
+- type: amended_by
+  target: pt:dre:546014:por
+  label: "Alterados os arts. 25.º a 30.º, 32.º 33.º, 34.º, 61.º, 62.º e 72.º (na redacção dos Decs-Leis 305/99, de 06-Ago\
+    \ e 55/2002, de 11-Mar) e aditado o art. 30.º-A pelo DEC LEI.217/2006.31.10.2006.MEI, DR.IS [210] de 31.10.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2006-546014
+  date: '2006-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/1991/06/27/p/dre
   label: null
@@ -123,16 +142,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/247/1996/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/247/1996/07/08/p/dre
+- type: cites
+  target: pt:dre:146879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado a partir de 06.04.2008, com as alterações introduzidas pelos Dec Lei 55/2002 de 11-Mar e 217/2006 de 31-Out,\
+    \ (revogados a partir da mesma data), pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
+- type: repealed_by
+  target: pt:dre:439866:por
+  label: "Revogado, a partir de 01.01.2009, o nº3 do art. 10º pelo DEC LEI.220/2008.12.11.2008.MAI, DR.IS [220] de 12.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2008-439866
+  date: '2008-11-12'
 article_structure:
   article_count: 83
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:10Z'
   warnings: []
   errors: []
 ---
@@ -891,7 +998,9 @@ c) Proceder à organização e instrução dos processos referentes às contra-o
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos turísticos.
 
-###### Artigo 60.º — Livro de reclamações
+###### Artigo 60.º
+
+## Livro de reclamações
 
 1 - Em todos os empreendimentos turísticos deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 
@@ -1167,12 +1276,12 @@ O presente diploma entra em vigor em 1 de Julho de 1997.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 6 de Junho de 1997.**
+Promulgado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Junho de 1997.**
+Referendado em 12 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

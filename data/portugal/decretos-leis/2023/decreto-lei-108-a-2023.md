@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 227/2023, 1º Suplemento, Série I de 2023-11-23
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 71-(2) a 71-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22701/0000200004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108-a/2023/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-a-2023-224661323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a0b58a666e1049b28af4d8a742e220ad91b65a16ba0a1844124ad399af59fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90a6102747cccdc5cdc660ffb5db17c37c32421399374e012d7c52ea6eef0ec0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado do Mar
-- Primeiro-ministro
-- Orgânica
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Secretário de Estado dos Assuntos Europeus
 - Governo XXIII
 - Ministro da Economia e do Mar
-- Secretário de Estado da Digitalização e da Modernização Administrativa
-- Secretário de Estado do Turismo Comércio e Serviços
+- Orgânica
+- Primeiro-ministro
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado Adjunto e das Infraestruturas
+- Secretário de Estado da Digitalização e da Modernização Administrativa
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado do Mar
+- Secretário de Estado do Turismo Comércio e Serviços
+- Secretário de Estado dos Assuntos Europeus
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/102-b/2023/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/102-b/2023/11/15/p/dre
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224164166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224328707:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:38Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +177,9 @@ Os artigos 3.º, 4.º, 5.º, 12.º e 86.º do [Decreto-Lei n.º 32/2022](https:/
 
 19 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -179,7 +193,9 @@ Os artigos 3.º, 4.º, 5.º, 12.º e 86.º do [Decreto-Lei n.º 32/2022](https:/
 
 6 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -203,7 +219,9 @@ f) [Anterior alínea e).]
 
 5 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -237,7 +255,7 @@ j) [Anterior alínea i).]
 
 6 - [...]
 
-###### Artigo 86.º
+Artigo 86.º
 
 Gabinetes do Secretário de Estado da Digitalização e da Modernização Administrativa, do Secretário de Estado dos Assuntos Europeus, do Secretário de Estado Adjunto e das Infraestruturas e do Secretário de Estado da Presidência do Conselho de Ministros
 
@@ -249,12 +267,14 @@ O presente decreto-lei produz efeitos, nas partes relativas aos membros do Gover
 
 Visto e aprovado em Conselho de Ministros de 16 de novembro de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Paulo Alexandre Nascimento Cafôfo - Maria Helena Chaves Carreiras - José Luís Pereira Carneiro - Catarina Teresa Rola Sarmento e Castro - Nuno Miguel Bernardes Coelho Santos Félix - Ana Catarina Veiga dos Santos Mendonça Mendes - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - Elvira Maria Correia Fortunato - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - Marina Sola Gonçalves - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 21 de novembro de 2023.**
+Promulgado em 21 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de novembro de 2023.**
+Referendado em 21 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117092591

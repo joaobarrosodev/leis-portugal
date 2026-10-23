@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13300/0315303153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/43/2018/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-2018-115685473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c94e12b553c3c2f807b606b7f17dd9411b9bb760ee1311d5072eec36f98e83b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6287255fc909a6e93b67e178303c6402d12d9ab0f5322c8941393053f3b41ccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Comandante
-- Lisboa
-- Nomeação
 - Forças Armadas
+- Lisboa
+- NATO
+- Nomeação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/52/2009/07/20/p/dre
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:48Z'
   warnings: []
   errors: []
 ---
@@ -99,12 +99,14 @@ validation:
 
 de 12 de julho
 
-**O Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/492378/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384876/details/normal?l=1), de 29 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/492378/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384876/details/normal?l=1), de 29 de agosto, o seguinte:
 
 É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas, o Brigadeiro-General António Carlos da Costa Nascimento para o cargo de Comandante do Joint Analysis and Lessons Learned Centre (JALLC), em Lisboa, com efeitos à data de tomada de posse.
 
-**Assinado em 10 de julho de 2018.**
+Assinado em 10 de julho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+111500211

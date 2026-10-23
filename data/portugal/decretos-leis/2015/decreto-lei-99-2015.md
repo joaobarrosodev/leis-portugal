@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10600/0349303499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2015/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d6f293dc5307c90f7b13f6525b52d79e14442494367acdcbbc069ab00fbce84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7286e968aa0e9be88ad84420ebc9d1298bf8158028cbb6156172ad2b08180261
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Administração Central do Sistema de Saúde
+- Administração Pública
 - Autoridade Tributária e Aduaneira
 - Contrato
 - Despesas Públicas
 - Direção Geral das Autarquias Locais
+- Direção Geral do Orçamento
 - Direcção Regional de Finanças
-- Administração Pública
-- Pagamento
 - Liquidação de Despesas
 - Liquidação de Pagamentos
-- Pagamento em Atraso
-- Administração Central do Sistema de Saúde
-- Direção Geral do Orçamento
+- Madeira.região Autónoma
 - Orçamento
 - Organismo do Estado
+- Pagamento
+- Pagamento em Atraso
 - Prazo
-- Madeira.região Autónoma
 - Receita Pública
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:1155718888:por
@@ -119,16 +119,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 29
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:34Z'
   warnings: []
   errors: []
 ---
@@ -179,19 +207,25 @@ c) A receita relativa a ativos financeiros e a outros passivos financeiros.
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
 2 - Independentemente da duração do respetivo contrato, se o montante efetivamente a pagar não puder ser determinado no momento da celebração do contrato, nomeadamente, por depender dos consumos a efetuar pela entidade adjudicante, a assunção do compromisso é efetuada aquando da emissão da nota de encomenda se for o caso ou pelo valor estimado de encargos relativos ao período temporal de apuramento dos fundos disponíveis.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Nas despesas urgentes e inadiáveis, devidamente fundamentadas, do mesmo tipo ou natureza cujo valor, isolada ou conjuntamente, não exceda o montante de (euro) 10 000, por mês, a assunção do compromisso é efetuada até ao 5.º dia útil após a realização da despesa.
 
 2 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -211,13 +245,17 @@ c) A receita relativa a ativos financeiros e a outros passivos financeiros.
 
 9 - [Anterior n.º 8].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Para efeitos de aplicação da alínea c) do n.º 1 do artigo 6.º da LCPA, a autorização prévia para a assunção de compromissos plurianuais ou a sua reprogramação pelo órgão deliberativo competente pode ser conferida aquando da aprovação das Grandes Opções do Plano.
 
 2 - Excetuam-se do disposto no número anterior os casos em que a reprogramação dos compromissos plurianuais implique aumento de despesa.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As entidades referidas no n.º 1 do artigo 2.º da LCPA procedem, mensalmente, ao registo no suporte informático das instituições referidas no n.º 5 do artigo 7.º, até à data definida para o efeito no decreto-lei de execução orçamental:
 
@@ -235,7 +273,9 @@ b) Dos fundos disponíveis, compromissos assumidos, saldo inicial das contas a p
 
 6 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A adesão a programa de assistência económica suspende, até à conclusão da utilização do financiamento destinado a reduzir os pagamentos em atraso, a aplicação à entidade beneficiária do disposto no artigo 8.º da LCPA.
 
@@ -249,7 +289,9 @@ b) Dos fundos disponíveis, compromissos assumidos, saldo inicial das contas a p
 
 6 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -279,15 +321,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 25 de maio de 2015.**
+Promulgado em 25 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de maio de 2015.**
+Referendado em 26 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 128/1976, 2º Suplemento, Série I de 1976-06-01
   number: '128'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1232-(5) a 1232-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/12802/00050005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/327-b-1976-310620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 897d6ea3a339404bf31f716a876f31592d4aea66c0b16b2128a32c23fce096e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfa1c645294682c1e39e063b68a6832a74cf0bc52a610da081e2b87d5a4b783c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comércio a Retalho
+- Comércio por Grosso
+- OVO
+- Preço
+- Preço de Venda
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:431031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:295653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:431031:por
+  label: Revogada pelo(a) Portaria n.º 371/76 - Diário da República n.º 140/1976, Série I de 1976-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-1976-431031
+  date: '1976-06-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:56Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +130,6 @@ Ministério do Comércio Interno, 17 de Fevereiro de 1976. - O Ministro do Comé
 
 Tabela a que se refere o n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/12802/00050005.pdf))](https://files.diariodarepublica.pt/1s/1976/06/12802/00050005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/12802/00050005.pdf)
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

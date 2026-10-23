@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/23000/0544405448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2018/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2018-117142872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3de0a912fbc0ec6fc2d9da6cc97c02412d44a93198d2f85af5220368795a574a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53bac2c2b24b061425240bc42a525b6d7d15863fa5dda9af91d258b279fe4c84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Alienação de BENS
 - Associação Nacional de Municípios Portugueses
+- Autarquia Local
 - Benfeitoria
+- BENS Imóveis do Estado
+- Câmara Municipal
 - Definição de Competências
 - Descentralização
 - Direção Geral das Autarquias Locais
 - Direção Geral do Tesouro e Finanças
-- Propriedade do Estado
 - Fiscalização
-- BENS Imóveis do Estado
 - Gestão do Património
 - Património do Estado
 - Prédio Rústico
-- Administração Local
-- Câmara Municipal
-- Registo Predial
 - Prédio Urbano
+- Propriedade do Estado
+- Registo Predial
 - Transferência de Competências
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2007/08/07/p/dre
@@ -114,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/6/2015/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/6/2015/05/18/p/dre
+- type: cites
+  target: pt:dre:106549657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107078023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67232586:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:47Z'
   warnings: []
   errors: []
 ---
@@ -320,12 +348,14 @@ O município que assuma a gestão de um imóvel do domínio privado do Estado se
 
 Visto e aprovado em Conselho de Ministros de 27 de setembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 7 de novembro de 2018.**
+Promulgado em 7 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de novembro de 2018.**
+Referendado em 12 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111819742

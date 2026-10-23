@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 211/2017, 2º Suplemento, Série I de 2017-11-02
   number: '211'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5866-(10) a 5866-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21102/0001000011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135-a/2017/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-2017-114145441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeace65cc482f0c00c416c7cfa80e3e0854fa5067e86ca70191675d87c8db4aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf7214fa1d86c8902fe24d4a74ba564d7702534f96c8793809c7901470507e74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Aveiro
 - Braga
+- Bragança
+- Castelo Branco
+- Coimbra
 - Contrato
 - Definição de Competências
 - Empreitada de Obras Públicas
-- Lisboa
-- Setor Empresarial do Estado
+- Guarda
 - Leiria
+- Lisboa
 - Obras Públicas
-- Castelo Branco
-- Vila Real
-- Coimbra
-- Administração Local
+- Porto
 - Regime Jurídico
 - Santarém
-- Bragança
-- Porto
-- Guarda
+- Setor Empresarial do Estado
 - Viana do Castelo
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:130893436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Mantidos em vigor, até 31.12.2019, os arts. 1.º, 2.º, 3.º e 6.º pelo(a) Lei n.º 71/2018 - Diário da República n.º
+    251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Mantidos em vigor, até 31.12.2020, os arts. 1.º, 2.º, 3.º e 6.º do presente diploma, pelo(a) Lei n.º 2/2020 - Diário
+    da República n.º 64/2020, Série I de 2020-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
 - type: cites
   target: celex:32014L0024
   label: null
@@ -111,16 +123,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:47Z'
   warnings: []
   errors: []
 ---
@@ -203,12 +227,12 @@ O presente decreto-lei produz efeitos no dia seguinte ao da sua publicação e v
 
 Visto e aprovado em Conselho de Ministros de 21 de outubro de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 30 de outubro de 2017.**
+Promulgado em 30 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de novembro de 2017.**
+Referendado em 2 de novembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

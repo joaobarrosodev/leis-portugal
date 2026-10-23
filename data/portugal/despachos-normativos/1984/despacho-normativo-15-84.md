@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-1984-660896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e2a341755318d454ed2c03f8f82d3661626f2e20a2968eaa31bb50a44ec500a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36602c79e760e5e170e7a1ae21dee2a53832737313a779263abff7a58283c9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Técnico Profissional
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:300576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificação DR.IS [77]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-31'
+- type: amended_by
+  target: pt:dre:227188:por
+  label: "Alterado pelo DN.39/86.1986.04.23.MEC, DR.IS [113] de 17.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/39-1986-227188
+  date: '1986-05-17'
+- type: amended_by
+  target: pt:dre:300576:por
+  label: "Alterado pelo DN.89/92.1992.05.19.ME, DR.IS-B [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/89-1992-300576
+  date: '1992-05-19'
+- type: cites
+  target: pt:dre:398556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631586:por
+  label: Rectificado pela DECL.DD2410.1984.03.15.PCM DR.IS [77]2ºSupl de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631586
+  date: '1984-03-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:28:25Z'
   warnings: []
   errors: []
 ---
@@ -149,8 +183,8 @@ f) Emissão de diplomas e certificados de matrícula, de aproveitamento e de hab
 
 Ministério da Educação, 13 de Janeiro de 1984. - O Ministro da Educação, José Augusto Seabra.
 
-## Anexo ao Despacho Normativo n.º 15/84
+Anexo ao Despacho Normativo n.º 15/84
 
 Curso complementar técnico-profissional de Contabilidade e Administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02300/03130315.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02300/03130315.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02300/03130315.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/2000/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2000-541811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6366ec7a84d0c507c625506ddd798fa2e98b9706d2d2755cbdf0c7a15ff5969f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce102129b9aeb753deeb16a3d42a8a6fa3bfc29a0e772572bf80d2235a215e80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Combustível
 - Direcção Geral de Viação
 - Especificação Técnica
-- Combustível
 - Homologação
-- Veículo
-- Proteção do Ambiente
 - Poluição
+- Proteção do Ambiente
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:589559:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589559:por
+  label: "Alterados os arts. 1º, 2º, 5º e 13º, aditados os arts. 3º-A e 5º-A e alterada a parte II do anexo IV todos do Regulamento\
+    \ das Emissões de Dióxido de Carbono e Consumo de Combustível dos Automóveis, aprovado pelo presente diploma, pelo DEC\
+    \ LEI.178/2005.28.10.2005.MAI, DR.IS-A [208] de 28.10.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2005-589559
+  date: '2005-10-28'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -105,14 +112,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1999/100/oj
 article_structure:
   article_count: 36
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:52Z'
   warnings: []
   errors: []
 ---
@@ -163,15 +170,15 @@ b) A Direcção-Geral de Viação recusará a matrícula a automóveis novos nã
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 29 de Setembro de 2000.**
+Promulgado em 29 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2000.**
+Referendado em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DAS EMISSÕES DE DIÓXIDO DE CARBONO E CONSUMO DE COMBUSTÍVEL DOS AUTOMÓVEIS
 
@@ -407,7 +414,7 @@ C(índice CO)= concentração do CO nos gases de escape diluídos contidos no sa
 
 A concentração média de HC usada para determinar as emissões mássicas de HC provenientes de motores de ignição por compressão é calculada com a ajuda da seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 ##### SUBSECÇÃO III — Interpretação dos resultados
 
@@ -549,7 +556,7 @@ n = o tamanho da amostra.
 
 3 - Calcular para a amostra o valor estatístico do ensaio quantificando a soma dos desvios reduzidos ao valor limite e definido como:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 ###### Artigo 30.º — Resultado
 
@@ -575,13 +582,13 @@ O procedimento a utilizar para verificar a conformidade da produção no que diz
 
 3 - Se os logaritmos naturais dos valores medidos da série forem x(índice 1), x(índice 2), ..., x(índice j) e L for o logaritmo natural do valor de CO(índice 2) de homologação, calcula-se:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 4 - O quadro II ao presente Regulamento mostra os valores dos números correspondentes à decisão positiva (A(índice n)) e negativa (B(índice n)) em relação ao tamanho da amostra, sendo o valor estatístico do ensaio a relação d(índice n)/V(índice n), que deve ser utilizado para determinar se a série foi aprovada ou rejeitada do seguinte modo:
 
 Para m(índice 0) =< n =< m:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 ##### SUBSECÇÃO III — Observações
 
@@ -589,7 +596,7 @@ Para m(índice 0) =< n =< m:
 
 As fórmulas recorrentes a seguir indicadas são úteis para calcular os valores sucessivos da estatística de ensaio:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 ## ANEXO I — Exemplo
 
@@ -605,19 +612,19 @@ b) Volume medido e reduzido às condições normais: V = 51961 l;
 
 c) Leituras no analisador:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 2 - Cálculo:
 
 a) Factor de diluição (DF) [v. fórmula (5)]:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 b) Cálculo da concentração corrigida dos poluentes no saco de recolha:
 
 HC, emissão mássica [v. fórmulas (4) e (1)]:
 
-[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[[[(ver fórmulas no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 ## ANEXO II — Figura I
 
@@ -625,13 +632,15 @@ HC, emissão mássica [v. fórmulas (4) e (1)]:
 
 ## ANEXO III — QUADRO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 QUADRO II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
-## ANEXO IV — PARTE I
+## ANEXO IV
+
+## PARTE I
 
 Modelo
 
@@ -639,7 +648,7 @@ Modelo
 
 Certificado de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf))](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2000/10/239a00/57665775.pdf)
 
 Comunicação relativa à:
 
@@ -695,9 +704,9 @@ Razão da extensão: ...
 
 9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.
 
-# PARTE II
+## PARTE II
 
-## Anexo ao certificado de homologação CE n.º ... relativo à homologação CE de um modelo de veículo no que diz respeito à Directiva n.º [80/1268/CEE](http://data.europa.eu/eli/dir/1980/1268/oj?locale=pt) (emissões de CO(índice 2) e consumo de combustível), com a última redacção que lhe foi dada pela Directiva n.º [93/116/CE](http://data.europa.eu/eli/dir/1993/116/oj?locale=pt)).
+Anexo ao certificado de homologação CE n.º ... relativo à homologação CE de um modelo de veículo no que diz respeito à Directiva n.º [80/1268/CEE](http://data.europa.eu/eli/dir/1980/1268/oj?locale=pt) (emissões de CO(índice 2) e consumo de combustível), com a última redacção que lhe foi dada pela Directiva n.º [93/116/CE](http://data.europa.eu/eli/dir/1993/116/oj?locale=pt)).
 
 1 - Informações adicionais:
 

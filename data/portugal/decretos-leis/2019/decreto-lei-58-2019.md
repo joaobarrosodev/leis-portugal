@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/08300/0228702289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2019/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2019-122195231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acaee568bdb9418e030e2677b260fb784b886904ffb3dcce046359113dcc3ac3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 775b45d22bd01cad9dbf89326c142d3aaab3b99a7bdca13a2904d7e219346fa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,50 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Local
+- Administração Pública
 - ÁREA Metropolitana
-- Associação de Municípios
-- Comunidade Urbana
 - Assembleia Municipal
+- Associação de Municípios
+- Autarquia Local
+- Autoridade Marítima Nacional
 - Autoridade Metropolitana de Transportes
-- Titulo de Transporte
+- Câmara Municipal
+- Cedência de Interesse Público
 - Cedência de Pessoal
-- Transporte Marítimo
 - Comunidade Intermunicipal
+- Comunidade Urbana
 - Conselho Administrativo
 - Contrato
 - Contrato de Concessão
 - Definição de Competências
 - Delegação de Competências
 - Descentralização
-- Regulamentação de Atos Legislativos
-- Autoridade Marítima Nacional
-- Administração Pública
-- Lisboa
+- Função Pública
+- Fundo para o Serviço Público de Transportes
 - Instituto da Mobilidade e dos Transportes
 - Integração de Trabalhadores
-- Política de Transportes
+- Lisboa
 - Modernização dos Transportes
-- Serviço Público
+- Política de Transportes
 - Recursos Humanos
-- Administração Local
-- Câmara Municipal
+- Regime do Contrato de Trabalho em Funções Públicas
 - Regime Jurídico
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Cedência de Interesse Público
+- Serviço Público
 - Tarifa Geral de Transportes
+- Titulo de Transporte
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Transferência de Competências
 - Transferência de Pessoal
 - Transporte
 - Transporte de Passageiros
 - Transporte Escolar
 - Transporte Fluvial
+- Transporte Marítimo
 - Transporte Público
 - Transporte Urbano
-- Autarquia Local
-- Fundo para o Serviço Público de Transportes
-- Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
   target: celex:31991R3921
@@ -151,16 +151,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/359-a/2017/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/359-a/2017/11/20/p/dre
+- type: cites
+  target: pt:dre:114223842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58248462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:28Z'
   warnings: []
   errors: []
 ---
@@ -271,12 +299,14 @@ Em tudo o que não se encontre estabelecido no presente decreto-lei em matéria 
 
 Visto e aprovado em Conselho de Ministros de 14 de março de 2019. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - Pedro Nuno de Oliveira Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 11 de abril de 2019.**
+Promulgado em 11 de abril de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de abril de 2019.**
+Referendado em 15 de abril de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112256534

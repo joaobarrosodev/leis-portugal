@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/025a00/08320837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2002/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2002-276215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ee2ed1131318fff9f577795f9269e7426697c5fa5e89ce4f4531bd1198b8dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeae7f96e7e50b2605147dc835e0e4d36d47525507579133e9dd585ded392906
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Multa
 - Comissão de Acompanhamento
 - Contra-ordenação
 - Definição de Competências
@@ -74,10 +72,12 @@ subjects:
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Fiscalização
+- Gestão de Resíduos
 - Inspecção Geral das Actividades Económicas
 - Inspecção Geral do Ambiente
-- Licenciamento
 - Instituto dos Resíduos
+- Licenciamento
+- Multa
 - Regime Jurídico
 - Sanção
 relationships:
@@ -97,16 +97,21 @@ relationships:
   target: celex:32000R2037
   label: null
   source: http://data.europa.eu/eli/reg/2000/2037/oj
+- type: repealed_by
+  target: pt:dre:213408:por
+  label: "Revogado pelo DEC LEI.230/2004.10.12.2004.MAOT, DR.IS-A [288] de 10.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2004-213408
+  date: '2004-12-10'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:50Z'
   warnings: []
   errors: []
 ---
@@ -373,15 +378,15 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 9 de Janeiro de 2002.**
+Promulgado em 9 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Janeiro de 2002.**
+Referendado em 14 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Lista de REEE abrangidos por este diploma
 

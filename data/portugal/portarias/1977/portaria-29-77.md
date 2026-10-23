@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/29-1977-138157
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 511ae09fdc916d63e3ef6d3f3fd121b51d93c46bda1e31ab0e16d6118a23e74e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 440db241045d702b6d187ea86be0de42136c8f0fb19c2dad80bd4cd1fbd5fea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior da Armada
+- Comunicações Eletrónicas
+- Conselho da Revolução
+- Criação de Serviços
+- Direcção do Serviço de Electricidade e Comunicações
+- Estado Maior da Armada
+- Marinha
+relationships:
+- type: cites
+  target: pt:dre:408551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:50Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +118,7 @@ d) As cinco divisões do Estado-Maior da Armada, assim designadas:
 
 3.º Ao Regulamento referido no número anterior é acrescentado o artigo 16.º-A, com a seguinte redacção:
 
-###### Art. 16.º-A. Compete, especialmente, à 6.ª Divisão - Comunicações e Electrónica:
+Art. 16.º-A. Compete, especialmente, à 6.ª Divisão - Comunicações e Electrónica:
 
 a) Estudar e planear todos os assuntos que se refiram à política, organização e utilização militar das comunicações, na parte que interesse à Marinha, tanto no âmbito nacional como internacional, com vista à definição da doutrina e requisitos operacionais a que devam satisfazer;
 
@@ -119,11 +134,11 @@ f) Superintender no Serviço de Cifra do Estado-Maior da Armada.
 
 4.º O artigo 18.º do Regulamento já referido passa a ter a seguinte redacção:
 
-###### Art. 18.º O chefe da 2.ª Divisão desempenha as funções de oficial de segurança do Estado-Maior da Armada.
+Art. 18.º O chefe da 2.ª Divisão desempenha as funções de oficial de segurança do Estado-Maior da Armada.
 
 5.º O artigo 23.º do mesmo Regulamento passa a ter a seguinte redacção:
 
-###### Art. 23.º Ao Serviço de Cifra, que funciona na dependência da 6.ª Divisão, compete:
+Art. 23.º Ao Serviço de Cifra, que funciona na dependência da 6.ª Divisão, compete:
 
 a) Adquirir e gerir o material e sobressalentes criptográficos;
 

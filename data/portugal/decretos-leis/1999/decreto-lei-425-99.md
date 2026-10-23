@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/246a00/70467052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/425/1999/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1999-667358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cffed4220a00b2622a2cdb9c48ce5af59f23bea2e3c356815c4366aad1319816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a2bbd844945381e7c450717a70fbd2293e69b2fe6c952d61a8a15d5d5d658c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Açúcar
 - Agente Económico
 - Aproximação das Legislações
-- Transporte Marítimo
 - Contentor
 - Controlo de Qualidade
-- Saúde Pública
 - Fiscalização
 - Higiene Alimentar
 - Livre Circulação de Mercadorias
-- Açúcar
 - Proteção do Consumidor
 - Regulamento
-- Abastecimento de Água
+- Saúde Pública
 - Transporte
 - Transporte de Carga
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:507229:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507229:por
+  label: "Substituída a tabela anexa ao Regulamento aprovado pelo Dec Lei 67/98 de 18-Mar, alterado e republicado pelo presente\
+    \ diploma, pelo DEC LEI.179/2004.27.07.2004.MADRP, DR.IS-A [175] de 27.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2004-507229
+  date: '2004-07-27'
 - type: cites
   target: celex:31993L0043
   label: null
@@ -98,15 +104,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/67/1998/03/18/p/dre
 article_structure:
-  article_count: 27
+  article_count: 25
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:32Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +163,9 @@ a) Previamente ao carregamento do açúcar bruto, devem ser limpos com a eficiê
 
 b) A carga imediatamente anterior ao açúcar bruto não deve ter sido um líquido a granel.
 
-###### Artigo 11.º — Verificação do transporte do açúcar bruto
+Artigo 11.º
+
+Verificação do transporte do açúcar bruto
 
 1 - O agente económico do ramo alimentar responsável pelo transporte marítimo de açúcar bruto deve conservar os documentos que descrevam, rigorosamente e em pormenor, a carga imediatamente anterior da caixa de carga ou do contentor-cisterna em causa, bem como o tipo e a eficácia das operações de limpeza efectuadas antes do transporte do referido açúcar bruto.
 
@@ -167,7 +175,9 @@ b) A carga imediatamente anterior ao açúcar bruto não deve ter sido um líqui
 
 4 - O agente económico do ramo alimentar responsável pelo transporte do açúcar bruto ou pelo processo de refinação deve, sempre que solicitado, facultar os documentos referidos nos números anteriores às autoridades responsáveis pelo controlo oficial.
 
-###### Artigo 12.º — Refinação do açúcar bruto
+Artigo 12.º
+
+Refinação do açúcar bruto
 
 1 - O açúcar bruto que tiver sido transportado por via marítima em caixas de carga ou em contentores-cisternas não reservados exclusivamente ao transporte de géneros alimentícios é obrigatoriamente submetido a um processo de refinação completo e eficaz antes de poder ser considerado adequado para utilização como género alimentício ou como ingrediente de géneros alimentícios.
 
@@ -179,15 +189,15 @@ O Regulamento da Higiene dos Géneros Alimentícios, aprovado pelo Decreto-Lei n
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 30 de Setembro de 1999.**
+Promulgado em 30 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 1999.**
+Referendado em 13 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Regulamento da Higiene dos Géneros Alimentícios
 

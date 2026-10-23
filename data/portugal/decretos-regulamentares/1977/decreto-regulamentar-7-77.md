@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01700/01180123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1977-138153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dbeef56e58025e1e20de61e002afd388dae17c8318cac9dae7a2da04b809ef5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e45a5fbea0e79041b45ec37276d334a2ac0dcd04d61af6644ed9cf7e739b0719
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério do Comércio e Turismo
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:222211:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461660:por
+  label: Alterado o quadro de pessoal do mapa a que se refere o art. 17.º pelo(a) Portaria n.º 745/80 - Diário da República
+    n.º 224/1980, Série I de 1980-09-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-1980-461660
+  date: '1980-09-27'
+- type: amended_by
+  target: pt:dre:457454:por
+  label: Alterado o quadro de pessoal aprovado pelo n.º 1 do art. 17.º do presente diploma, com as alterações introduzidas
+    pelo art. 1.º do DR 50/78, de 15-dez, pelo(a) Portaria n.º 923/80 - Diário da República n.º 255/1980, Série I de 1980-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/923-1980-457454
+  date: '1980-11-04'
+- type: amended_by
+  target: pt:dre:457418:por
+  label: Alterado o quadro de pessoal do mapa anexo ao presente, pelo(a) Portaria n.º 955/80 - Diário da República n.º 260/1980,
+    Série I de 1980-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/955-1980-457418
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:459876:por
+  label: "Alterado o quadro de pessoal do Ministério do Comércio e Turismo, constante do presente diploma, pela PORT.1050/80.11.12.1980.PCM,\
+    \ DR.IS [285] de 11.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1050-1980-459876
+  date: '1980-12-11'
+- type: amended_by
+  target: pt:dre:576351:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pela PORT.688/81.12.08.1981.MFP, DR.IS [184] de 12.08.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/688-1981-576351
+  date: '1981-08-12'
+- type: amended_by
+  target: pt:dre:395348:por
+  label: "Alterado o quadro de pessoal pela PORT.641/82.1982.06.26.MACP DR.IS [145]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/641-1982-395348
+  date: '1982-06-26'
+- type: cites
+  target: pt:dre:408949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324891:por
+  label: Revogado o art. 25º do presente diploma, e aumentado, no referente ao pessoal de inspecção, o quadro de pessoal anexo
+    ao mesmo, pelo(a) Decreto Regulamentar n.º 50/78 - Diário da República n.º 287/1978, Série I de 1978-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-1978-324891
+  date: '1978-12-15'
+- type: repealed_by
+  target: pt:dre:222211:por
+  label: Revogado pelo(a) Decreto-Lei n.º 356/86 - Diário da República n.º 246/1986, Série I de 1986-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1986-222211
+  date: '1986-10-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:43Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +156,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e
 
 ### CAPÍTULO I — Introdução
 
-###### Artigo 1.º - 1. Constituem órgãos de concepção, coordenação e apoio das actividades do Ministério do Comércio e Turismo na dependência directa do Ministro:
+Artigo 1.º - 1. Constituem órgãos de concepção, coordenação e apoio das actividades do Ministério do Comércio e Turismo na dependência directa do Ministro:
 
 a) A Secretaria-Geral;
 
@@ -108,7 +172,7 @@ c) O Gabinete de Relações Públicas.
 
 ##### SUBSECÇÃO I — Competências da Secretaria-Geral
 
-###### Art. 2.º - 1. A Secretaria-Geral é um órgão de coordenação e apoio técnico-administrativo e compreende serviços de interesse comum a todo o Ministério.
+Art. 2.º - 1. A Secretaria-Geral é um órgão de coordenação e apoio técnico-administrativo e compreende serviços de interesse comum a todo o Ministério.
 
 2. À Secretaria-Geral incumbe especialmente:
 
@@ -130,7 +194,7 @@ g) Velar pela segurança e conservação dos edifícios, viaturas, mobiliário e
 
 ##### SUBSECÇÃO II — Organização da Secretaria-Geral
 
-###### Art. 3.º A Secretaria-Geral é constituída pelos seguintes departamentos:
+Art. 3.º A Secretaria-Geral é constituída pelos seguintes departamentos:
 
 a) Pessoal;
 
@@ -142,11 +206,11 @@ d) Documentação, Informação e Estatística;
 
 e) Administração das Delegações do Ministério.
 
-###### Art. 4.º - 1. Compete ao Departamento de Pessoal realizar a gestão corrente do pessoal do Ministério, nomeadamente quanto a recrutamento, provimento, colocação, transferência, exoneração, disciplina e quaisquer outros assuntos relativos à citada gestão.
+Art. 4.º - 1. Compete ao Departamento de Pessoal realizar a gestão corrente do pessoal do Ministério, nomeadamente quanto a recrutamento, provimento, colocação, transferência, exoneração, disciplina e quaisquer outros assuntos relativos à citada gestão.
 
 2. A competência enunciada no número anterior será exercida, para já e até que possa ser alargada aos restantes trabalhadores do Ministério, quanto ao pessoal dos órgãos referidos no artigo 1.º
 
-###### Art. 5.º - 1. Compete ao Departamento de Secretariado e Património:
+Art. 5.º - 1. Compete ao Departamento de Secretariado e Património:
 
 a) Assegurar o registo, encaminhamento e arquivo do expediente dos Gabinetes, da Secretaria-Geral e dos órgãos de apoio directo do Ministro que não disponham de secretaria própria, prestando-lhes o apoio administrativo necessário;
 
@@ -170,7 +234,7 @@ b) Economato e Património;
 
 c) Actividades Auxiliares.
 
-###### Art. 6.º Compete ao Departamento de Contabilidade:
+Art. 6.º Compete ao Departamento de Contabilidade:
 
 a) Preparar o orçamento anual dos Gabinetes e dos órgãos referidos no artigo 1.º e propor as alterações que se mostrarem necessárias;
 
@@ -180,7 +244,7 @@ c) Organizar os processos de liquidação de receitas e despesas resultantes da 
 
 d) Exercer as demais funções de contabilidade e tesouraria que se contenham no âmbito da Secretaria-Geral.
 
-###### Art. 7.º Compete ao Departamento de Documentação, Informação e Estatística:
+Art. 7.º Compete ao Departamento de Documentação, Informação e Estatística:
 
 a) Organizar e garantir a recolha e fornecimento da documentação necessária ao exercício das actividades dos diversos serviços do Ministério, em particular nos aspectos que se prendam ao comércio e ao turismo;
 
@@ -194,17 +258,17 @@ e) Compilar, tabular e fornecer séries de dados estatísticos necessários aos 
 
 f) Cooperar no estabelecimento de programas destinados a melhorar os sistemas de informação e estatística.
 
-###### Art. 8.º Compete ao Departamento de Administração das Delegações do Ministério exercer de um modo geral a administração das delegações do Ministério no País e no estrangeiro, quando constituídas, sendo as normas respeitantes ao seu funcionamento fixadas em regulamento aprovado por portaria conjunta dos Ministros do Comércio e Turismo e da Administração Interna, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
+Art. 8.º Compete ao Departamento de Administração das Delegações do Ministério exercer de um modo geral a administração das delegações do Ministério no País e no estrangeiro, quando constituídas, sendo as normas respeitantes ao seu funcionamento fixadas em regulamento aprovado por portaria conjunta dos Ministros do Comércio e Turismo e da Administração Interna, nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
 #### SECÇÃO II — Gabinete de Organização e Métodos
 
-###### Art. 9.º O Gabinete de Organização e Métodos compreende os seguintes departamentos:
+Art. 9.º O Gabinete de Organização e Métodos compreende os seguintes departamentos:
 
 a) Organização;
 
 b) Quadros e Carreiras de Pessoal.
 
-###### Art. 10.º Compete ao Departamento de Organização:
+Art. 10.º Compete ao Departamento de Organização:
 
 a) Estudar e propor medidas tendentes ao aperfeiçoamento da orgânica do Ministério e dos respectivos serviços e coordenar e acompanhar a execução das mesmas;
 
@@ -214,7 +278,7 @@ c) Colaborar nos estudos de racionalização do trabalho em geral, em particular
 
 d) Estudar, divulgar e implementar no Ministério os princípios e técnicas inovatórios de organização.
 
-###### Art. 11.º Compete ao Departamento de Quadros e Carreiras de Pessoal:
+Art. 11.º Compete ao Departamento de Quadros e Carreiras de Pessoal:
 
 a) Estudar os regimes de pessoal, definir critérios de admissão, promoção e recompensa dos trabalhadores, em colaboração com o Ministério da Administração Interna, propor medidas para melhorar as condições de trabalho e resolver os problemas de relações humanas;
 
@@ -224,7 +288,7 @@ c) Colaborar com os Ministérios competentes no estudo e resolução dos problem
 
 #### SECÇÃO III — Gabinete de Relações Públicas
 
-###### Art. 12.º - 1. Ao Gabinete de Relações Públicas compete coordenar e assegurar a política geral de relações públicas do Ministério, nomeadamente:
+Art. 12.º - 1. Ao Gabinete de Relações Públicas compete coordenar e assegurar a política geral de relações públicas do Ministério, nomeadamente:
 
 a) Elaborar e propor, em colaboração com os serviços interessados do Ministério, o programa anual de informação relativamente às políticas do consumo e do comércio e turismo;
 
@@ -236,7 +300,7 @@ a) Atendimento, Imprensa e Protocolo;
 
 b) Divulgação.
 
-###### Art. 13.º Ao Departamento de Atendimento, Imprensa e Protocolo compete:
+Art. 13.º Ao Departamento de Atendimento, Imprensa e Protocolo compete:
 
 a) Atender e receber sugestões, pedidos e reclamações destinados aos diversos serviços do Ministério, prestando os esclarecimentos que estiverem ao seu alcance e estabelecendo, sempre que necessário, os contactos com os departamentos responsáveis pelo andamento dos respectivos processos;
 
@@ -258,7 +322,7 @@ i) Preparar e organizar a recepção e estada de missões estrangeiras em visita
 
 j) Superintender de um modo geral em todos os assuntos de protocolo a cargo do Ministério.
 
-###### Art. 14.º Ao Departamento de Divulgação compete:
+Art. 14.º Ao Departamento de Divulgação compete:
 
 a) Levar a efeito junto da opinião pública, designadamente nos principais meios de comunicação social, campanhas de esclarecimento e outras acções afins, tendo em vista a orientação de consumos e a educação e defesa do consumidor, propondo a estratégia destes vários tipos de informação, em colaboração com os serviços do Ministério responsáveis pelas diferentes matérias;
 
@@ -270,11 +334,11 @@ d) Exercer, por iniciativa própria ou dos Ministros e Secretários de Estado, o
 
 ### CAPÍTULO III — Auditoria Jurídica
 
-###### Art. 15.º - 1. A Auditoria Jurídica é dirigida por um auditor jurídico, com o modo de designação e a dependência hierárquica que resultam do Estatuto Judiciário.
+Art. 15.º - 1. A Auditoria Jurídica é dirigida por um auditor jurídico, com o modo de designação e a dependência hierárquica que resultam do Estatuto Judiciário.
 
 2. Os vencimentos do auditor jurídico serão suportados por verbas inscritas no orçamento do Ministério do Comércio e Turismo.
 
-###### Art. 16.º À Auditoria Jurídica compete ocupar-se dos assuntos de natureza jurídica que lhe sejam submetidos pelo Ministro ou Secretários de Estado, designadamente:
+Art. 16.º À Auditoria Jurídica compete ocupar-se dos assuntos de natureza jurídica que lhe sejam submetidos pelo Ministro ou Secretários de Estado, designadamente:
 
 a) Elaborar pareceres, informações, projectos legislativos e estudos jurídicos;
 
@@ -294,23 +358,23 @@ h) Elaborar um boletim contendo os diplomas legais, despachos, pareceres, inform
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 17.º - 1. O quadro único do pessoal dos órgãos referidos no artigo 1.º é o constante do mapa anexo ao presente diploma.
+Art. 17.º - 1. O quadro único do pessoal dos órgãos referidos no artigo 1.º é o constante do mapa anexo ao presente diploma.
 
 2. Os dirigentes dos órgãos a que alude o número anterior constituem um corpo de gestão do quadro único do pessoal.
 
 3. O pessoal será distribuído pelos respectivos serviços, mediante despacho do Ministro do Comércio e Turismo ou por sua delegação nos termos do n.º 1 do artigo 26.º
 
-###### Art. 18.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 18.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. Quando o provimento dos lugares recair em funcionários provenientes de outros serviços do Estado ou de institutos públicos, o tempo de serviço neles prestado contará para efeitos de nomeação definitiva, desde que tenham exercido funções da mesma natureza, e quando assim não for, o prazo de nomeação provisória será de um ano. Durante o período da nomeação provisória as funções serão exercidas em comissão de serviço.
 
-###### Art. 19.º - 1. O secretário-geral será nomeado em comissão de serviço, por tempo indeterminado, pelo Ministro do Comércio e Turismo de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
+Art. 19.º - 1. O secretário-geral será nomeado em comissão de serviço, por tempo indeterminado, pelo Ministro do Comércio e Turismo de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
 2. Os adjuntos do secretário-geral, os directores dos Gabinetes de Organização e Métodos e de Relações Públicas, os directores de serviço e os chefes de repartição e de divisão serão nomeados pelo Ministro do Comércio e Turismo de entre indivíduos com curso superior adequado ao desempenho das respectivas funções e a conveniente especialização, podendo o provimento dos lugares de chefe de repartição fazer-se também entre chefes de secção com três anos de bom e efectivo serviço.
 
-###### Art. 20.º - 1. Por despacho do Ministro do Comércio e Turismo, sob proposta do corpo de gestão referido no n.º 2 do artigo 17.º, serão providos os restantes lugares do quadro de harmonia com as condições seguintes:
+Art. 20.º - 1. Por despacho do Ministro do Comércio e Turismo, sob proposta do corpo de gestão referido no n.º 2 do artigo 17.º, serão providos os restantes lugares do quadro de harmonia com as condições seguintes:
 
 a) Técnicos principais e técnicos de 1.ª classe, por promoção, respectivamente, de técnicos de 1.ª classe e técnicos de 2.ª classe com boas informações de serviço e as habilitações legais;
 
@@ -332,19 +396,19 @@ h) Escriturários-dactilógrafos, por concurso de prestação de provas de entre
 
 3. O Ministro poderá condicionar o provimento dos lugares do quadro à realização de concursos ou de cursos de promoção, de harmonia com as condições julgadas convenientes.
 
-###### Art. 21.º - 1. Quando se mostre indispensável, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço nos órgãos referidos no artigo 1.º, fixando-lhe a respectiva remuneração, a pagar por dotação especial para esse efeito inscrita no orçamento da Secretaria-Geral, e com o acordo do Ministério requisitando, se for esse o caso.
+Art. 21.º - 1. Quando se mostre indispensável, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço nos órgãos referidos no artigo 1.º, fixando-lhe a respectiva remuneração, a pagar por dotação especial para esse efeito inscrita no orçamento da Secretaria-Geral, e com o acordo do Ministério requisitando, se for esse o caso.
 
 2. O pessoal requisitado ao abrigo do número anterior abre vaga no serviço de origem, a qual não poderá, no entanto, ser preenchida senão interinamente.
 
 3. O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos, como se tivesse sido prestado nos quadros a que pertencem, mantendo os mesmos durante esse tempo os respectivos direitos, incluindo os relativos à promoção.
 
-###### Art. 22.º - 1. Os funcionários do quadro referido no artigo 17.º poderão desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços ou institutos públicos ou nas delegações do Ministério.
+Art. 22.º - 1. Os funcionários do quadro referido no artigo 17.º poderão desempenhar, em comissão de serviço, por tempo indeterminado, funções correspondentes à sua categoria e especialidade noutros serviços ou institutos públicos ou nas delegações do Ministério.
 
 2. O tempo de serviço prestado nestas condições contará, para todos os efeitos, como se tivesse sido prestado no quadro.
 
-###### Art. 23.º O Ministro poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços nas condições que forem fixadas com o acordo do Ministro das Finanças e com respeito da regulamentação relativa a excedentes de pessoal na função pública.
+Art. 23.º O Ministro poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços nas condições que forem fixadas com o acordo do Ministro das Finanças e com respeito da regulamentação relativa a excedentes de pessoal na função pública.
 
-###### Art. 24.º - 1. O primeiro provimento dos lugares do quadro será feito prioritariamente com pessoal vinculado à função pública a prestar serviço de apoio técnico ou administrativo aos Gabinetes do Ministro do Comércio e Turismo e dos respectivos Secretários de Estado que tenha exercido funções nos Gabinetes dos ex-Ministérios do Comércio Externo e do Comércio Interno pelo período mínimo de seis meses, desde que vinculado à função pública, que provenha de serviços e organismos do ex-Ministério da Economia e com outro pessoal que preste serviço, a qualquer título, em serviços ou organismos do Ministério do Comércio e Turismo.
+Art. 24.º - 1. O primeiro provimento dos lugares do quadro será feito prioritariamente com pessoal vinculado à função pública a prestar serviço de apoio técnico ou administrativo aos Gabinetes do Ministro do Comércio e Turismo e dos respectivos Secretários de Estado que tenha exercido funções nos Gabinetes dos ex-Ministérios do Comércio Externo e do Comércio Interno pelo período mínimo de seis meses, desde que vinculado à função pública, que provenha de serviços e organismos do ex-Ministério da Economia e com outro pessoal que preste serviço, a qualquer título, em serviços ou organismos do Ministério do Comércio e Turismo.
 
 2. O pessoal do quadro paralelo da AGAA (Administração-Geral do Açúcar e do Álcool) que se encontra a prestar serviço de apoio administrativo aos Gabinetes do Ministro do Comércio e Turismo e dos respectivos Secretários de Estado ingressará no quadro, pelo menos, com a categoria que tiver à data da publicação deste diploma.
 
@@ -358,7 +422,7 @@ h) Escriturários-dactilógrafos, por concurso de prestação de provas de entre
 
 7. É mantida, em relação à Secretaria-Geral do Ministério do Comércio e Turismo, a situação referida no artigo 2.º, n.º 4, do [Decreto-Lei n.º 92/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1976-507025), de 29 de Janeiro.
 
-###### Art. 25.º - 1. O pessoal referido no artigo 3.º do [Decreto-Lei n.º 92/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1976-507025), de 29 de Janeiro, transita para a Direcção-Geral de Fiscalização Económica na condição de supranumerário permanente ao quadro, nos termos do artigo 13.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e através de lista nominativa aprovada pelo Ministro do Comércio e Turismo, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 25.º - 1. O pessoal referido no artigo 3.º do [Decreto-Lei n.º 92/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1976-507025), de 29 de Janeiro, transita para a Direcção-Geral de Fiscalização Económica na condição de supranumerário permanente ao quadro, nos termos do artigo 13.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e através de lista nominativa aprovada pelo Ministro do Comércio e Turismo, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
 2. Para os efeitos do número anterior, são criados os seguintes lugares de supranumerário permanente ao quadro da Direcção-Geral de Fiscalização Económica:
 
@@ -368,28 +432,28 @@ Seis inspectores de 1.ª classe, com a letra F;
 
 Três inspectores de 2.ª classe, com a letra H.
 
-###### Art. 26.º Os funcionários da extinta Comissão de Coordenação Económica que se encontrem requisitados e cuja requisição venha a cessar e os que se encontrem na situação de licença ilimitada poderão ingressar no quadro a que se refere o artigo 17.º em vaga da respectiva categoria ou, quando tal não aconteça, em vaga de categoria equivalente, considerando-se neste caso o quadro acrescentado em conformidade.
+Art. 26.º Os funcionários da extinta Comissão de Coordenação Económica que se encontrem requisitados e cuja requisição venha a cessar e os que se encontrem na situação de licença ilimitada poderão ingressar no quadro a que se refere o artigo 17.º em vaga da respectiva categoria ou, quando tal não aconteça, em vaga de categoria equivalente, considerando-se neste caso o quadro acrescentado em conformidade.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 27.º - 1. O secretário-geral poderá receber do Ministro delegação de competência para despachar assuntos relativos à função geral de administração que pertence à Secretaria-Geral ou a outros serviços do Ministério, nomeadamente os que respeitem à gestão do pessoal, do material, dos recursos orçamentais e outros que constituam simples meio de permitir o exercício da sua competência.
+Art. 27.º - 1. O secretário-geral poderá receber do Ministro delegação de competência para despachar assuntos relativos à função geral de administração que pertence à Secretaria-Geral ou a outros serviços do Ministério, nomeadamente os que respeitem à gestão do pessoal, do material, dos recursos orçamentais e outros que constituam simples meio de permitir o exercício da sua competência.
 
 2. O secretário-geral poderá ser coadjuvado por adjuntos, cuja competência será fixada pelo Ministro, sob proposta do secretário-geral.
 
-###### Art. 28.º O património e quaisquer direitos, incluindo os emergentes de contratos de arrendamento, afectos aos serviços que se extinguem com a entrada em funcionamento dos órgãos referidos no artigo 1.º transitam para serviços dependentes do Ministério do Comércio e Turismo, mediante despacho do Ministro.
+Art. 28.º O património e quaisquer direitos, incluindo os emergentes de contratos de arrendamento, afectos aos serviços que se extinguem com a entrada em funcionamento dos órgãos referidos no artigo 1.º transitam para serviços dependentes do Ministério do Comércio e Turismo, mediante despacho do Ministro.
 
-###### Art. 29.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Ministro do Comércio e Turismo, com o acordo do Ministro das Finanças quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
+Art. 29.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Ministro do Comércio e Turismo, com o acordo do Ministro das Finanças quando estiverem em causa matérias de carácter financeiro ou regras de contabilidade pública.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 6 de Janeiro de 1977.**
+Promulgado em 6 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro de pessoal a que se refere o artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01700/01180123.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01700/01180123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01700/01180123.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

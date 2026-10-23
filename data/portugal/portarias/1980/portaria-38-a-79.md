@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 36/1980, 1º Suplemento, Série I de 1980-02-12
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 152-(1) a 152-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf
 entry_into_force_dates: []
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-a-1980-315160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d6b729e366f54d5937e27a659b1c35dc580cecaf34f39434beb662b7faafb60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa85f87b62ab33d3cd57a5dbb5f702737c3bad57a4fa15731c135f2ee654c969
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituições de Previdência Social
+- Rectificação de Numero de Diploma
+- Regime Jurídico
+- Trabalhador das Instituições de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:332267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576367:por
+  label: "Alterados os artigos 23.º e 98.º-A da Portaria n.º 193/79, de 21 de Abril, na redacção do presente diploma, pela\
+    \ PORT.703/81.17.08.1981.MFP, DR.IS [187] de 17.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/703-1981-576367
+  date: '1981-08-17'
+- type: amended_by
+  target: pt:dre:332267:por
+  label: "Determinada a transição para a carreira de técnico superior do regime geral da função pública, dos funcionários\
+    \ da carreira de tradução e correspondência estrangeira oriundos da ex-Caixa de Previdência e Abono de Família do Distrito\
+    \ do Funchal, que foram integrados no quadro de pessoal da Direcção Regional de Saúde Pública - então Centro Regional\
+    \ de Saúde Pública em 1 de Janeiro de 1979, por força de extensão do âmbito de aplicação da Port. 193/79, de 21-Abr, na\
+    \ redacção do presente diploma, pelo DLR.8/90/M.19.04.1990.ALR-RAM, DR.IS [91] de 19.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1990-332267
+  date: '1990-04-19'
+- type: cites
+  target: pt:dre:251463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:05Z'
   warnings: []
   errors: []
 ---
@@ -873,12 +920,12 @@ b) Na categoria da respectiva carreira, o tempo de serviço prestado em funçõe
 
 ## ANEXO I — Retribuições mensais do 3.º trimestre de 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf)
 
 Retribuições mensais do 4.º trimestre de 1979
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03601/00010012.pdf)
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano, do Trabalho e dos Assuntos Sociais, 4 de Fevereiro de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Trabalho, José Queirós Lopes Raimundo. - O Secretário de Estado da Segurança Social, António José de Castro Bogão Félix.

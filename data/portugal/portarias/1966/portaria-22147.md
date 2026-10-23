@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22147-1966-474502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60ef78c1a3341ffadd09bf3f9c7bc54ed45e62a7814bfd2eb1eb0bb63ecd0d33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03438dda91ad8f6148f92da322414aa6bde919cd73fcd817c16977cb67f337ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:25Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 2), alínea d) «Aquisições de utilização permanente - Aquisição de móveis - Outros móveis» ... 30000$00
+Artigo 5.º, n.º 2), alínea d) «Aquisições de utilização permanente - Aquisição de móveis - Outros móveis» ... 30000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1), alínea a) «De imóveis - Prédios rústicos (reparações, arborizações e aquisição de adubos e sementes)» ... 10000$00
 
@@ -103,7 +107,7 @@ N.º 3), alínea a) «De móveis - conserto de máquinas, móveis, aparelhos, in
 
 N.º 3), alínea b) «De móveis - Mobiliário» ... 10000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 1) «Artigos de expediente, impressos, livros para escrituração, etc.» ... 10000$00
 
@@ -115,17 +119,17 @@ N.º 6) «Diversos não especificados, incluindo desenho, fotografia e filmagem 
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 2) «Dietas, combustível e utensílios de cozinha» ... 60000$00
 
 N.º 3) «Luz, aquecimento, água, lavagem e outras despesas» ... 50000$00
 
-###### Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 10000$00
+Artigo 9.º, n.º 2) «Despesas de comunicações - Telefones» ... 10000$00
 
-###### Artigo 15.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 10000$00
+Artigo 15.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 10000$00
 
-###### Artigo 16.º «Despesas de anos económicas findos» ... 10000$00
+Artigo 16.º «Despesas de anos económicas findos» ... 10000$00
 
 ... 350000$00
 
@@ -133,7 +137,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 ### CAPÍTULO ÚNICO
 
-###### Artigo 1.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 250000$00
 

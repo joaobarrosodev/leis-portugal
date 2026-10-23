@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2007/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2007-520470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15e58dfca3560ad5d74dc0b93a937c28f6b7c662005706cad7ea6e48f1654e6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65645bf66585c7bd8062cae57de627b15f4588a4661387374596cf1d2526537e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Administração Pública
-- Remuneração Acessória
 - Contribuições e Impostos
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Funcionário Público
 - Prestação de Serviços
 - Reforma Aduaneira
-- Funcionário Público
+- Remuneração Acessória
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179786:por
+  label: "Alterado o art. 4º do Dec Lei 274/90, de 07-set, na redação do presente diploma, pelo DEC LEI.142/2012.11.07.2012.MF,\
+    \ DR.IS [133] de 11.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2012-179786
+  date: '2012-07-11'
 - type: cites
   target: celex:31992R2913
   label: null
@@ -88,16 +94,23 @@ relationships:
   target: celex:31993R2454
   label: null
   source: http://data.europa.eu/eli/reg/1993/2454/oj
+- type: repealed_by
+  target: pt:dre:114425586:por
+  label: Revogado o art. 5.º da Tabela de taxas relativas a serviços requeridos à Direcção-Geral das Alfândegas e dos Impostos
+    Especiais sobre o Consumo (DGAIEC), anexa à Reforma Aduaneira, aprovada pelo Dec Lei 46311 de 27-abr 1965 e aditada pelo
+    presente diploma, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 article_structure:
-  article_count: 19
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:13Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +157,9 @@ O artigo 180.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 2
 
 «Tabela de taxas relativas a serviços requeridos à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), a que se refere o n.º 1 do artigo 180.º
 
-###### Artigo 1.º — Disposições gerais
+Artigo 1.º
+
+Disposições gerais
 
 1 - As taxas previstas nesta tabela são devidas quando os serviços forem prestados fora das estâncias aduaneiras ou fora das horas normais de expediente.
 
@@ -160,23 +175,27 @@ O artigo 180.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 2
 
 7 - Quando, por motivos não imputáveis aos serviços aduaneiros e, não obstante a comparência dos funcionários incumbidos de desempenhar os serviços constantes desta tabela, estes não puderem ser executados, cobra-se metade das taxas que forem devidas, bem como, por inteiro, os respectivos transportes, subsídios de deslocação e ajudas de custo.
 
-###### Artigo 2.º — Assistência
+Artigo 2.º
+
+Assistência
 
 1 - Assistência de qualquer funcionário como auxiliar dos serviços prestados pela DGAIEC, por cada hora de serviço - (euro) 2.
 
 2 - Fora do perímetro da estância aduaneira, até 40 km, e a bordo de quaisquer barcos fundeados ao largo estas taxas serão aumentadas em 50%; quando os serviços forem prestados além de 40 km serão aumentadas em 100%.
 
-###### Artigo 3.º
+Artigo 3.º
 
 Pesagem efectiva ou medição de mercadorias fora das estâncias aduaneiras - (euro) 0,10 por tonelada.
 
-###### Artigo 4.º — Selagem
+Artigo 4.º
+
+Selagem
 
 1 - Selagem de meios de transporte - (euro) 1,40 cada um.
 
 2 - Selagem de volumes - (euro) 0,25 cada um.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Todo o movimento de mercadorias que são despachadas nas estâncias aduaneiras postais:
 
@@ -184,7 +203,7 @@ Todo o movimento de mercadorias que são despachadas nas estâncias aduaneiras p
 
 2 - Volumes de peso bruto superior a 500 g - (euro) 0,20.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Pelos serviços de assistência relativos:
 
@@ -200,15 +219,15 @@ a) Fora das horas normais de expediente - (euro) 4,20;
 
 b) Fora do perímetro da estância aduaneira - (euro) 9,50.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Pelo fecho do processo do navio, fora das horas normais de expediente, por cada funcionário - (euro) 4,50.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Por cada funcionário que proceder à assistência a naufrágios ou outros sinistros, por cada dia ou fracção - (euro) 11,50.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Verificações, assistência e conferência de volumes em reexportação, trânsito, transbordo e baldeação, por cada funcionário:
 
@@ -222,7 +241,9 @@ Verificações, assistência e conferência de volumes em reexportação, trâns
 
 5 - As taxas a cobrar por cada funcionário não podem ser inferiores a (euro) 23 por dia quando os serviços forem prestados a mais de 40 km da localidade onde funciona a estância aduaneira.
 
-###### Artigo 10.º — Outros serviços a requerimento de partes
+Artigo 10.º
+
+Outros serviços a requerimento de partes
 
 1 - Vistorias e auditorias prévias para avaliação dos condicionalismos legais previstos para a concessão e funcionamento dos depósitos aduaneiros e dos armazéns de exportação, dos entrepostos fiscais, dos regimes aduaneiros e fiscais, do destino especial e outras:
 
@@ -248,13 +269,15 @@ b) Pela abertura da estância aduaneira - (euro) 16.
 
 8 - Fora do perímetro da estância aduaneira, as taxas indicadas neste artigo são cobradas em dobro, sem prejuízo de, nos serviços prestados a mais de 40 km, as taxas a cobrar por cada funcionário não poderem ser inferiores a (euro) 23 por dia.
 
-###### Artigo 11.º — Emissão de cédulas e cartões de identificação
+Artigo 11.º
+
+Emissão de cédulas e cartões de identificação
 
 1 - Pela emissão de cédulas a donos ou consignatários das mercadorias e a representantes indirectos - (euro) 25.
 
 2 - Pela emissão de cartões de identificação aos empregados dos titulares de cédulas emitidas nos termos do número anterior - (euro) 7,50.
 
-###### Artigo 12.º
+Artigo 12.º
 
 Pelas certidões:
 
@@ -264,13 +287,17 @@ Pelas certidões:
 
 3 - Sempre que o documento do qual é extraída a certidão tiver mais de três anos, as taxas previstas nos n.os 1 e 2 deste artigo são agravadas em 50%; se, porém, o documento tiver mais de cinco anos, as mesmas taxas são agravadas para o seu dobro.
 
-###### Artigo 13.º — Serviços não especificados
+Artigo 13.º
+
+Serviços não especificados
 
 1 - Por quaisquer outros serviços não especificados serão cobrados montantes com base nas taxas previstas, correspondentes a operações similares, por acordo entre o director da alfândega e o interessado, atendendo-se às despesas decorrentes do serviço.
 
 2 - Nos casos de discordância cabe recurso para o director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
 
-###### Artigo 14.º — Subsídios de deslocação, transportes e ajudas de custo
+Artigo 14.º
+
+Subsídios de deslocação, transportes e ajudas de custo
 
 1 - Pela prestação dos serviços previstos nesta tabela deverá ser observado, adicionalmente, o seguinte:
 
@@ -342,12 +369,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte à data
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Março de 2007.**
+Referendado em 8 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

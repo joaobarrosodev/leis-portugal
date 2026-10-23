@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15200/0532905331.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/2008/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2008-455106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed4114ee1b61182f9871c658922b5899dccf5d16cb65b250e2114ddf276ed398
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 204e48e454b49fbdf1a38428258d9f545569144e8e284633eace95870a3ce9d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Publicidade
-- Controlo de Qualidade
-- Etiquetagem
-- Embalagem
-- Informação do Consumidor
-- Proteção do Consumidor
 - Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Informação do Consumidor
+- Produto Alimentar
+- Proteção do Consumidor
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:74661197:por
@@ -90,16 +90,30 @@ relationships:
   target: celex:32007L0068
   label: null
   source: http://data.europa.eu/eli/dir/2007/68/oj
+- type: repealed_by
+  target: pt:dre:74661197:por
+  label: Revogado, a partir de 10.06.2016, o Dec Lei 560/99 de 18-dez, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 26/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09, sem prejuízo do disposto transitoriamente no seu
+    art. 15.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2016-74661197
+  date: '2016-06-09'
+- type: repeals
+  target: pt:numero:decreto-lei:195/2005
+  label: "Revoga, a partir de 12.08.2008, e sem prejuízo do disposto no artigo 3.º, o Decreto-Lei n.º 195/2005, de 7 de Novembro,\
+    \ DR.IS-A [213], na redacção dada pelos Decretos-Leis n.ºs 37/2006, de 20 de Fevereiro, e 365/2007, de 2 de Novembro\0\
+    \0"
+  source: null
+  date: '2005-11-07'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:48Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +168,15 @@ O disposto no presente decreto-lei produz efeitos desde 31 de Maio de 2008, send
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - João Manuel Machado Ferrão - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 22 de Julho de 2008.**
+Promulgado em 22 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Julho de 2008.**
+Referendado em 24 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

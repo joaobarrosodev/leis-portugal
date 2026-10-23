@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22800/0956809568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/129/2015/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/129-2015-71054025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13d1b99b47177b9d8c5ffe11197d4d66e58637b96da9994c3a89bccb04559ffc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6e1b7dbb87ee11a9787d3617be2b2d1e65fb37b2223abc4a9dce57531cb276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:18Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +95,12 @@ validation:
 
 de 20 de novembro
 
-**O Presidente da República decreta, nos termos dos artigos 133.º, alínea b), e 125.º da Constituição e de harmonia com o disposto no artigo 11.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dre/detalhe/decreto-lei/319-a-1976-655916), de 3 de maio, na redação dada pela [Lei n.º 3/2000](https://diariodarepublica.pt/dre/detalhe/lei/3-2000-514813), de 24 de agosto, e pela [Lei Orgânica n.º 4/2005](https://diariodarepublica.pt/dre/detalhe/lei-organica/4-2005-142522), de 8 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos dos artigos 133.º, alínea b), e 125.º da Constituição e de harmonia com o disposto no artigo 11.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dre/detalhe/decreto-lei/319-a-1976-655916), de 3 de maio, na redação dada pela [Lei n.º 3/2000](https://diariodarepublica.pt/dre/detalhe/lei/3-2000-514813), de 24 de agosto, e pela [Lei Orgânica n.º 4/2005](https://diariodarepublica.pt/dre/detalhe/lei-organica/4-2005-142522), de 8 de setembro, o seguinte:
 
 É fixado o dia 24 de janeiro de 2016 para a eleição do Presidente da República.
 
-**Assinado em 19 de novembro de 2015.**
+Assinado em 19 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

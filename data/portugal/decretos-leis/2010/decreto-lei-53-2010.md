@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2010/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2010-332697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6c167b81197a87a8acf6f3746d2eb8e8049505348c37180208ab30d9724e507
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a748a48b53d6af6038add2e9b1154d88d7997ca5c0594bb8b190851f9e7fd858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Catálogo Nacional de Variedades
-- Licenciamento
+- Comércio
+- Fruticultura
 - Internet
+- Licenciamento
 - Produto Hortícola
 - Produtor
-- Fruticultura
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107703391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572154:por
+  label: "Dada nova redação ao art. 2.º do Dec Lei 329/2007 de 08-out, alterado pelo presente diploma, pelo DEC LEI.34/2014.05.03.2014.MAGM,\
+    \ DR.IS [45] de 05.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2014-572154
+  date: '2014-03-05'
 - type: cites
   target: celex:31992L0034
   label: null
@@ -100,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/329/2007/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/329/2007/10/08/p/dre
+- type: corrected_by
+  target: pt:dre:334092:por
+  label: "Rectificado o art. 2º [na redacção que conferiu ao art. 3º do Dec Lei 329/2007 de 08-Out] pela DECL-RECT.23/2010.26.07.2010.PCM,\
+    \ DR.IS [143] de 26.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-2010-334092
+  date: '2010-07-26'
+- type: repealed_by
+  target: pt:dre:107703391:por
+  label: Revogado o Dec Lei 329/2007, de 08-out, na redação do presente diploma pelo(a) Decreto-Lei n.º 82/2017 - Diário da
+    República n.º 137/2017, Série I de 2017-07-18, nos termos do n.º 2 do art. 47.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2017-107703391
+  date: '2017-07-18'
 article_structure:
-  article_count: 13
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:27Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +176,9 @@ iii)...
 
 iv)...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do presente decreto-lei, entende-se por:
 
@@ -212,7 +232,9 @@ aa)...
 
 bb)...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -238,7 +260,9 @@ g) No caso de material proveniente de uma variedade que se destine a ser utiliza
 
 5 - Cada variedade deve, na medida do possível, ter a mesma designação que noutros Estados membros, em conformidade com directrizes aceites internacionalmente.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A inscrição das variedades e clones no CNV é feita pela DGADR através da publicação no sítio da Internet da DGADR, acessível através do Portal da Empresa, contendo as seguintes informações:
 
@@ -252,7 +276,9 @@ c)...
 
 3 - A DGADR edita anualmente o CNV, que disponibiliza as informações relativas às variedades e clones de fruteiras inscritos, publicitando-o no sítio da Internet referido no n.º 1.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +294,9 @@ c)...
 
 7 - Na medida em que sejam ultrapassados todos os impedimentos referidos no n.º 2, pode o produtor de materiais frutícolas, se o desejar, solicitar novo licenciamento, devendo cumprir o determinado no artigo 11.º, podendo, após obtenção da nova licença, retomar a produção e comercialização do material de propagação nos termos previstos no presente decreto-lei.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +316,9 @@ ii) Estejam protegidas por direitos de obtentor ou se encontrem em avaliação n
 
 iii) Cuja comercialização tenha sido iniciada antes de 30 de Setembro de 2012, e desde que tenham uma descrição oficialmente reconhecida.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -302,7 +332,9 @@ iii) Cuja comercialização tenha sido iniciada antes de 30 de Setembro de 2012,
 
 6 - Na medida em que sejam ultrapassados todos os impedimentos referidos no n.º 2, pode o fornecedor de materiais frutícolas, se o desejar, solicitar novo licenciamento, devendo cumprir o determinado no artigo 29.º e podendo, após obtenção da nova licença, retomar a comercialização do material de propagação nos termos previstos no presente decreto-lei.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -338,15 +370,15 @@ São revogadas as alíneas o) e p) do artigo 3.º e o n.º 2 do artigo 14.º do 
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Santos de Magalhães - Fernando Medina Maciel Almeida Correia - Rui Pedro de Sousa Barreiro - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 17 de Maio de 2010.**
+Promulgado em 17 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Maio de 2010.**
+Referendado em 18 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -354,7 +386,9 @@ Visto e aprovado em Conselho de Ministros de 25 de Março de 2010. - José Sócr
 
 [...]
 
-# PARTE A — [...]
+PARTE A
+
+[...]
 
 1 - ...
 
@@ -372,15 +406,21 @@ c) Certificado.
 
 3.2 - ...
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 ...
 
-# PARTE C — [...]
+PARTE C
+
+[...]
 
 ...
 
-# PARTE D — [...]
+PARTE D
+
+[...]
 
 1 - ...
 
@@ -400,7 +440,9 @@ c) Certificado.
 
 2.4 - ...
 
-# PARTE E — [...]
+PARTE E
+
+[...]
 
 1 - ...
 
@@ -426,11 +468,15 @@ c) Certificado.
 
 3.3 - ...
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 ...
 
-# PARTE A — [...]
+PARTE A
+
+[...]
 
 1 - ...
 
@@ -478,6 +524,8 @@ p)...
 
 3.3 - ...
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 ...»

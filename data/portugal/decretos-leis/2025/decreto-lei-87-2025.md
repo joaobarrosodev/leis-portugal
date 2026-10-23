@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2025/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2025-926311141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7461153088cc0f587caf24a8a911a4150eab5cabd1f2165feb9ead4f0f7959d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b1ff99c6c95f783d8d1984a0994cd07f97e85ebd1a0854eb07e33b48b92327
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Criação de Serviços
 - Definição de Competências
 - Despesas Públicas
-- Administração Pública
-- Ministério das Finanças
 - Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
+- Ministério das Finanças
 - Orçamento Geral do Estado
 relationships:
 - type: amended_by
@@ -97,16 +97,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2020/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2020/08/18/p/dre
+- type: cites
+  target: pt:dre:114582931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115933862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216140781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho:7690/2023
+  label: Revoga, a partir de 30 de julho de 2025, nos termos do artigo 17.º do presente diploma, o Despacho n.º 7690/2023,
+    de 25 de julho, Diário da República n.º 143/2023, Série II
+  source: null
+  date: '2023-07-25'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:26Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +151,7 @@ A revisão de despesa pública é um importante instrumento da gestão financeir
 
 Compete às entidades do Ministério das Finanças, nos termos das respetivas atribuições e competências legalmente previstas, promover o desenvolvimento de instrumentos de apoio à formulação de políticas e ao planeamento estratégico e operacional, bem como acompanhar e avaliar a execução de políticas, mas também assegurar o envolvimento e a participação ativa dos interlocutores chave das áreas setoriais relevantes neste âmbito. A disponibilização pública dos relatórios de revisão de despesa, com linguagem acessível e visualização de dados, contribui para a confiança dos cidadãos na gestão das finanças públicas e no valor das políticas públicas.
 
-Estes objetivos são igualmente essenciais para o cumprimento dos princípios orçamentais, designadamente o da sustentabilidade das finanças públicas e o da economia, eficiência e eficácia, tal como referenciado nos artigos 11.º e 18.º da [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, alterada pelas Leis n.<sup>os</sup>[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, que aprova a Lei de Enquadramento Orçamental.
+Estes objetivos são igualmente essenciais para o cumprimento dos princípios orçamentais, designadamente o da sustentabilidade das finanças públicas e o da economia, eficiência e eficácia, tal como referenciado nos artigos 11.º e 18.º da [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, alterada pelas Leis n.os[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, que aprova a Lei de Enquadramento Orçamental.
 
 É esta articulação, essencial para o sucesso do exercício da revisão de despesa pública, que importa assegurar, desenvolvendo um quadro estrutural e institucional para as revisões de despesa, a fim de as integrar plenamente no processo orçamental anual e no quadro orçamental nacional de médio prazo, de modo a garantir o seu funcionamento de forma sistemática e continuada, à luz das melhores práticas internacionais nesta matéria. O presente decreto-lei incorpora orientações e recomendações internacionais, nomeadamente da OCDE, assegurando a convergência com padrões exigentes de qualidade na gestão da despesa pública.
 
@@ -151,7 +181,7 @@ O presente decreto-lei estabelece regras e procedimentos para um processo contí
 
 Para efeitos do presente decreto-lei, entende-se por:
 
-a) «Área de despesa», o universo dentro da despesa pública sobre o qual incide a revisão de despesa, podendo corresponder a uma missão de base orgânica, conforme definida na Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, alterada pelas Leis n.<sup>os</sup>[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, a um agrupamento de despesa transversal a várias missões de base orgânica, a uma entidade, ou a uma área temática;
+a) «Área de despesa», o universo dentro da despesa pública sobre o qual incide a revisão de despesa, podendo corresponder a uma missão de base orgânica, conforme definida na Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, alterada pelas Leis n.os[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, a um agrupamento de despesa transversal a várias missões de base orgânica, a uma entidade, ou a uma área temática;
 
 b) «Tópico», despesa específica objeto das medidas de revisão, identificada ao nível do subagrupamento, rubrica ou alínea de despesa;
 
@@ -163,7 +193,7 @@ e) «Relatório de avaliação ex post», o documento de publicação anual onde
 
 ###### Artigo 4.º — Princípios de revisão de despesa
 
-1 - A revisão de despesa pública obedece aos princípios orçamentais consagrados na Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, alterada pelas Leis n.<sup>os</sup>[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril.
+1 - A revisão de despesa pública obedece aos princípios orçamentais consagrados na Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, alterada pelas Leis n.os[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril.
 
 2 - Sem prejuízo do disposto no número anterior, a revisão de despesa pública rege-se, em especial, pelos seguintes princípios:
 
@@ -423,12 +453,14 @@ As equipas previstas no n.º 2 do artigo 8.º devem ser constituídas no prazo d
 
 Visto e aprovado em Conselho de Ministros de 3 de julho de 2025. - Luís Montenegro - Joaquim Miranda Sarmento.
 
-**Promulgado em 16 de julho de 2025.**
+Promulgado em 16 de julho de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de julho de 2025.**
+Referendado em 18 de julho de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119340113

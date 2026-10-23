@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2002/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2002-288442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b742914431e695f0cfdf33a6464130ed28daff4dcf2ffc08367131e3ccc9b3d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8be8f304aadee33a1f3a146682e634dc688a13805c444c554d98fdd9156907d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,27 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Especificação Técnica
 - Combustível
-- Veículo
+- Especificação Técnica
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456790:por
+  label: "Alterado o art. 26.º e aditados os arts. 21.º-A e 26.º-A ao Regulamento aprovado pelo presente diploma, pelo DEC\
+    \ LEI.133/2008.21.07.2008.MOPTC, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2008-456790
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo X do Regulamento Relativo aos Reservatórios de Combustível Líquido e à Proteção à Retaguarda\
+    \ contra o Encaixe dos Automóveis e Seus Reboques pelo DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -93,13 +105,13 @@ relationships:
 article_structure:
   article_count: 32
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:04Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +166,15 @@ b) Deve recusar a matrícula ou entrada em circulação de novos veículos que n
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 2002. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Diogo Campos Barradas de Lacerda Machado - Luís Garcia Braga da Cruz - Rui Nobre Gonçalves.
 
-**Promulgado em 3 de Abril de 2002.**
+Promulgado em 3 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Abril de 2002.**
+Referendado em 4 de Abril de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -552,7 +564,7 @@ Ensaio de resistência ao fogo
 
 Dimensões e dados técnicos dos tijolos refractários
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39663978.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39663978.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39663978.pdf)
 
 ## ANEXO III — (referente ao capítulo I)
 
@@ -994,7 +1006,7 @@ Adenda à ficha de homologação CE n.º ..., relativa à homologação como uni
 
 Modelo da marca de homologação CE
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39663978.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39663978.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39663978.pdf)
 
 O dispositivo de protecção à retaguarda contra o encaixe portador da marca de homologação CE acima ilustrada é um dispositivo homologado em Espanha (e9) com base no presente Regulamento (00) sob o número de homologação de base 0148.
 

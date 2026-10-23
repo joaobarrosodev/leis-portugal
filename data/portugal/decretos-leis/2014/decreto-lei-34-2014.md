@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2014/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2014-572154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d2d9ced3113cdc5af89b3da3714898dda9991c323a97f7cf4590953cd2a98f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 015ceb79209e7b10495d6681eaacf6aa21925d29384785eb084ce3a830e5d591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
+- Certificado de Qualidade
 - Certificado Fitossanitário
 - Citrinos
-- Tomate
+- Comércio
 - Controlo Sanitário
 - Forragem
-- Legume de Fruto
-- Certificado de Qualidade
-- Produto Hortícola
-- Produção Vegetal
 - Fruticultura
-- Agricultura
+- Legume de Fruto
+- Produção Vegetal
+- Produto Hortícola
 - Semente
-- Comércio
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:107703391:por
@@ -119,16 +119,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2010/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2010/07/20/p/dre
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o art. 5.º do presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série
+    I de 2017-04-06, sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
+- type: repealed_by
+  target: pt:dre:107703391:por
+  label: Revogados a al. a) do n.º 2 do art. 1.º e os arts. 2.º, 3.º e 6.º pelo(a) Decreto-Lei n.º 82/2017 - Diário da República
+    n.º 137/2017, Série I de 2017-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2017-107703391
+  date: '2017-07-18'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:08Z'
   warnings: []
   errors: []
 ---
@@ -215,15 +227,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 21 de fevereiro de 2014.**
+Promulgado em 21 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de fevereiro de 2014.**
+Referendado em 25 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -231,7 +243,9 @@ Visto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Pass
 
 [...]
 
-# PARTE A — [...]
+PARTE A
+
+[...]
 
 1 - [...]
 
@@ -239,7 +253,7 @@ Visto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Pass
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 1.2 - [...]
 
@@ -249,7 +263,9 @@ QUADRO I
 
 2.2 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -261,21 +277,27 @@ QUADRO I
 
 3 - [...]
 
-# PARTE C — [...]
+PARTE C
+
+[...]
 
 1 - [...]
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
-# PARTE D — [...]
+PARTE D
+
+[...]
 
 1 - [...]
 
 2 - [...]
 
-## ANEXO II — (a que se refere o artigo 4.º)
+ANEXO II
+
+(a que se refere o artigo 4.º)
 
 «ANEXO I
 
@@ -283,21 +305,27 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
-## ANEXO II — [...]
+ANEXO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[...]
 
-## ANEXO III — (a que se refere o artigo 5.º)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+
+ANEXO III
+
+(a que se refere o artigo 5.º)
 
 «ANEXO II
 
 [...]
 
-# PARTE A — [...]
+PARTE A
+
+[...]
 
 1 - [...]
 
@@ -305,13 +333,15 @@ QUADRO I
 
 1.2 - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 2 - [...]
 
 3 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -355,7 +385,9 @@ QUADRO I
 
 10.2 - [...]
 
-# PARTE C — [...]
+PARTE C
+
+[...]
 
 1 - [...]
 
@@ -367,7 +399,7 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 (a) [...]
 
@@ -409,7 +441,7 @@ QUADRO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 (a) [...]
 
@@ -443,13 +475,15 @@ QUADRO III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 (*) [...]
 
 [...]
 
-# PARTE D — [...]
+PARTE D
+
+[...]
 
 1 - [...]
 
@@ -463,27 +497,35 @@ QUADRO III
 
 6 - [...]
 
-# PARTE E — [...]
+PARTE E
+
+[...]
 
 1 - [...]
 
 2 - [...]
 
-## ANEXO IV — [...]
+ANEXO IV
 
-# PARTE A — [...]
+[...]
+
+PARTE A
+
+[...]
 
 1 - [...]
 
 1.1 - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 1.2 - [...]
 
 2 - [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 1 - [...]
 
@@ -509,7 +551,9 @@ QUADRO III
 
 7.2 - [...]
 
-# PARTE C — [...]
+PARTE C
+
+[...]
 
 1 - [...]
 
@@ -527,7 +571,7 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 (a) [...]
 
@@ -537,11 +581,13 @@ QUADRO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf))](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/04500/0171901729.pdf)
 
 7.1 - [...]
 
-# PARTE D — [...]
+PARTE D
+
+[...]
 
 1 - [...]
 

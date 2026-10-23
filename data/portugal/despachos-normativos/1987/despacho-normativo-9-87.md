@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1987-663172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T07:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 129287bb9d9076857ff6d926f046e8c00471d91c383192ced3c0945efc60d251
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d21e035d08484478db9c5e3c088222e3d1fe96188c618115eb55a45db7aa20ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Ensino Superior
+- Pessoal Docente
+- Quota de Descongelamento
 relationships:
 - type: amended_by
   target: pt:dre:419636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419636:por
+  label: Revogado, na parte respeitante à Universidade do Minho, o mapa intitulado "Universidades e Outros" anexo pelo(a)
+    Despacho Normativo n.º 53/87 - Diário da República n.º 143/1987, Série I de 1987-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-1987-419636
+  date: '1987-06-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:38:59Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +119,7 @@ Colhidas dos estabelecimentos de ensino superior interessados as indicações re
 
 Ouvido o Ministro da Educação e Cultura:
 
-**O Ministro das Finanças determina, ao abrigo do disposto no artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:**
+O Ministro das Finanças determina, ao abrigo do disposto no artigo 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no artigo 1.º do [Decreto-Lei n.º 192/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1985-182227), de 24 de Junho, o seguinte:
 
 1 - Consideram-se descongeladas, para o ano lectivo de 1986-1987, as admissões de pessoal docente para os estabelecimentos de ensino superior até ao número de unidades e nas categorias constantes dos mapas anexos ao presente despacho normativo.
 
@@ -117,19 +139,19 @@ Ministério das Finanças, 7 de Janeiro de 1987. - O Ministro das Finanças, Mig
 
 Universidades e outros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
 
 Institutos politécnicos e escolas superiores não integradas em institutos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
 
 Institutos superiores de contabilidade e administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
 
 Outros estabelecimentos de ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02900/04260427.pdf)
 
 Escola Técnica de Enfermagem (IPO)
 

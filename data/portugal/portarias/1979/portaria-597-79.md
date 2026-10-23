@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/597-1979-367808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a5d9b377acf45508123480f2a25e0a87f51198268972382c361c64a32b1bdd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d53c7417d2305b0c3686abc8fb968444d22ce70cd384ea9fe28eb0180578d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Hidrográfico
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:276658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:31Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +116,7 @@ Não especificado.
 
 No grupo de pessoal técnico superior são criadas as designações, número de lugares e categorias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) As designações «Técnico superior principal» e «Técnico superior de 1.ª classe» substituem, respectivamente, as anteriores designações «Investigador-chefe» e «Investigador de 1.ª classe»;
 
@@ -120,7 +126,7 @@ c) A designação «Técnico superior de 2.ª classe» substitui as anteriores d
 
 a) No grupo de pessoal técnico são criadas as designações, número de lugares e categorias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) As designações «Técnico de 1.ª classe» e «Técnico de 2.ª classe» substituem a anterior designação «Agente técnico de 1.ª classe», consoante os funcionários em causa estejam habilitados com o curso de Engenharia Técnica ou o curso de técnicos auxiliares de oceanografia;
 
@@ -132,31 +138,31 @@ a) No grupo de pessoal técnico auxiliar é mantida a designação «Chefe de se
 
 Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Oceanografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Hidrografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Desenho cartográfico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Fotografia cartográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Laboratório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Electrotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) Subgrupo de oceanografia. - As designações «Técnico auxiliar de oceanografia de 1.ª classe» e «Técnico auxiliar de oceanografia de 2.ª classe» substituem, respectivamente, as anteriores designações «Auxiliar técnico de oceanografia de 1.ª classe» e «Auxiliar técnico de oceanografia de 2.ª classe»;
 
@@ -184,7 +190,7 @@ a) No grupo de pessoal auxiliar técnico são criadas as designações, número 
 
 Auxiliares técnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) A designação «Auxiliar técnico de 2.ª classe» substitui as anteriores designações «Auxiliar de campo de 2.ª classe», «Ajudante de desenhador», «Ajudante de preparador» e «Aprendiz de fotógrafo».
 
@@ -192,13 +198,13 @@ b) A designação «Auxiliar técnico de 2.ª classe» substitui as anteriores d
 
 O grupo de pessoal administrativo passa a ter as designações, número de lugares e categorias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 7 - Grupo de pessoal de documentação:
 
 No grupo de pessoal de documentação são criadas as designações, número de lugares e categorias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 8 - Grupo de pessoal de artes gráficas:
 
@@ -206,15 +212,15 @@ a) No grupo de pessoal de artes gráficas são criados três subgrupos - tipogra
 
 Tipografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Litografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 Encadernação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) Subgrupo de tipografia:
 
@@ -236,7 +242,7 @@ d) Subgrupo de encadernação. - A designação «Mestre» substitui a anterior 
 
 a) No grupo de pessoal oficinal são criadas as designações, número de lugares e categorias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) A designação «Mestre» substitui a anterior designação «Mestre de 1.ª classe»;
 
@@ -250,7 +256,7 @@ e) Dos sete ajudantes existentes serão extintos cinco à medida que vagarem, fi
 
 a) No grupo de pessoal não especificado são criadas as designações, número de lugares e categorias seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf))](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/26600/29552958.pdf)
 
 b) É eliminada a designação «Tradutora», quando vagar;
 

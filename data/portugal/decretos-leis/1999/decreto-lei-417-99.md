@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/417/1999/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/417-1999-667354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 382d7b35e7e0bcc31ddd1ce29b7bfa38063b4d8c62e1ef93fc110c637d7785d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3480a951c7c7cc783dd893b98ffa75031ce04e5dd98e5fa623a4bce294d381a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Ministério da Defesa Nacional
 - Concurso
-- Ministério da Educação
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
-- Nomeação
-- Forças Armadas
-- Pessoal Civil
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Estabelecimento de Ensino
+- Forças Armadas
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Mobilidade de Pessoal
+- Nomeação
+- Pessoal Civil
+- Pessoal Docente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Requisição de Pessoal
-- Mobilidade de Pessoal
-- Gestão de Recursos Humanos
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673872:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:22Z'
   warnings: []
   errors: []
 ---
@@ -162,12 +174,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 1 de Outubro de 1999.**
+Promulgado em 1 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 1999.**
+Referendado em 13 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

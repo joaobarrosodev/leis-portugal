@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/2012/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff9cf1153a948c9d94f982126a4f6391a7fd997e43f49cdddc46837e9d218373
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f66a840e8b2404bfb18c84031aad7eedc6f660dfe14f413b6c2139483189f2b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Sistema de Autoridade Marítima
-- Ministério da Defesa Nacional
+- ÁREA de Jurisdição
+- Autoridade Marítima Nacional
 - Chefe do Estado Maior da Armada
 - Comandante
 - Comando Geral da Polícia Marítima
 - Definição de Competências
-- Autoridade Marítima Nacional
-- Marinha
-- Estatuto
-- ÁREA de Jurisdição
-- Orgânica
 - Descrição de Funções
+- Direcção Geral da Autoridade Marítima
+- Estatuto
+- Marinha
+- Militar
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
+- Orgânica
 - Pessoal Militarizado
 - Polícia Marítima
-- Militar
-- Ministro da Defesa Nacional
-- Direcção Geral da Autoridade Marítima
+- Recurso
+- Sistema de Autoridade Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/220/2005/12/23/p/dre
@@ -106,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
+- type: cites
+  target: pt:dre:251976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566656:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:25Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +222,9 @@ Os artigos 1.º, 2.º, 3.º, 7.º e 15.º do [Decreto-Lei n.º 44/2002](https://
 
 2 - (Revogado.)
 
-###### Artigo 2.º — Atribuições e competências
+Artigo 2.º
+
+Atribuições e competências
 
 1 - A AMN é a entidade responsável pela coordenação das atividades, de âmbito nacional, a executar pela Armada, pela Direção-Geral da Autoridade Marítima (DGAM) e pelo Comando-Geral da Polícia Marítima (CGPM), nos espaços de jurisdição e no quadro de atribuições definidas no Sistema de Autoridade Marítima, com observância das orientações definidas pelo Ministro da Defesa Nacional, que aprova o orçamento destinado à AMN.
 
@@ -210,7 +232,9 @@ Os artigos 1.º, 2.º, 3.º, 7.º e 15.º do [Decreto-Lei n.º 44/2002](https://
 
 3 - Nos processos jurisdicionais que tenham por objeto a ação ou omissão da AMN ou dos órgãos e serviços nela compreendidos, a parte demandada é a AMN, sendo representada em juízo por advogado ou por licenciado em Direito com funções de apoio jurídico, constituído ou designado pela AMN.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A AMN compreende os seguintes órgãos e serviços:
 
@@ -226,11 +250,15 @@ d) Polícia Marítima.
 
 3 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A DGAM é o serviço, integrado no Ministério da Defesa Nacional através da Marinha para efeitos da gestão de recursos humanos e materiais, dotado de autonomia administrativa, responsável pela direção, coordenação e controlo das atividades exercidas pelos seus órgãos e serviços no âmbito da AMN.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A PM é uma força policial armada e uniformizada, dotada de competência especializada nas áreas e matérias legalmente atribuídas ao SAM e à AMN, composta por militares da Armada e agentes militarizados.
 
@@ -252,12 +280,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de setembro de 2012. - Pedro Passos Coelho - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 24 de outubro de 2012.**
+Promulgado em 24 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de outubro de 2012.**
+Referendado em 25 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

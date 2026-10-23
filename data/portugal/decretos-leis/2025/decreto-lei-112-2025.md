@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2025/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2025-941702850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b0b500de288ac9af102fd7681fc8d2130758ab0e8d72dcfd2d3375eec78137d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b489e165d8a84eabfd781dd82478c678ff206b00c8019938e3828f6197a21636
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caderno de Encargos
+- Código dos Contratos Públicos
+- Construção Pública
+- Contratação Pública
 - Contrato Administrativo
 - Empreitada de Obras Públicas
-- Política de Habitação
-- Código dos Contratos Públicos
 - Habitação
-- Contratação Pública
-- Construção Pública
+- Política de Habitação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:18/2008
+  label: Altera, a partir de 28 de outubro de 2025, aplicando-se aos procedimentos de formação de contratos públicos iniciados
+    após esta data, o artigo 43.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de
+    janeiro, Diário da República n.º 20/2008, Série I
+  source: null
+  date: '2008-01-29'
+- type: amends
+  target: pt:numero:lei:30/2021
+  label: Altera, a partir de 28 de outubro de 2025, aplicando-se aos procedimentos de formação de contratos públicos iniciados
+    após esta data, o artigo 3.º e revoga o artigo 2.º-A da Lei n.º 30/2021, de 21 de maio, Diário da República n.º 99/2021,
+    Série I
+  source: null
+  date: '2021-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -90,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/43/2024/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/43/2024/12/02/p/dre
+- type: cites
+  target: pt:dre:163728569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203083713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898553932:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:54Z'
   warnings: []
   errors: []
 ---
@@ -174,9 +204,9 @@ O artigo 3.º da [Lei n.º 30/2021](https://diariodarepublica.pt/dr/detalhe/lei/
 
 1 - Até 31 de dezembro de 2026, para a celebração de quaisquer contratos que se destinem à promoção de habitação pública ou de custos controlados, as entidades adjudicantes podem:
 
-a) Adotar o procedimento de concurso público ou concurso limitado por prévia qualificação simplificados nos termos da presente lei, quando o valor do contrato for inferior aos limiares referidos nos n.<sup>os</sup>2, 3 ou 4 do artigo 474.º do Código dos Contratos Públicos, consoante o caso;
+a) Adotar o procedimento de concurso público ou concurso limitado por prévia qualificação simplificados nos termos da presente lei, quando o valor do contrato for inferior aos limiares referidos nos n.os2, 3 ou 4 do artigo 474.º do Código dos Contratos Públicos, consoante o caso;
 
-b) Adotar o procedimento de consulta prévia simplificada, com convite a pelo menos cinco entidades, nos termos da presente lei, quando o valor do contrato for, simultaneamente, inferior aos limiares referidos nos n.<sup>os</sup>2, 3 ou 4 do artigo 474.º do Código dos Contratos Públicos, consoante o caso, e inferior a € 1 000 000;
+b) Adotar o procedimento de consulta prévia simplificada, com convite a pelo menos cinco entidades, nos termos da presente lei, quando o valor do contrato for, simultaneamente, inferior aos limiares referidos nos n.os2, 3 ou 4 do artigo 474.º do Código dos Contratos Públicos, consoante o caso, e inferior a € 1 000 000;
 
 c) Adotar o procedimento de ajuste direto simplificado nos termos do artigo 128.º do Código dos Contratos Públicos, quando o valor do contrato for igual ou inferior a € 15 000.
 
@@ -200,12 +230,14 @@ O presente decreto-lei é aplicável aos procedimentos de formação de contrato
 
 Visto e aprovado em Conselho de Ministros de 18 de setembro de 2025. - Luís Montenegro - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 14 de outubro de 2025.**
+Promulgado em 14 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de outubro de 2025.**
+Referendado em 16 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119682591

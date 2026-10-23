@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/189a00/25522553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/1996/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1996-405911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04633924cf536e10e4442a32de66b09729ee92d2cd5c44cf3f2f8e6c1d4b393e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e5dbd67503f091b1ebc0e2b58221fd4866d39539cb178a1b0026bcd989dd30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Controlo de Qualidade
 - Certificado de Qualidade
-- Instituto Português da Qualidade
 - Cimento
 - Comércio
+- Controlo de Qualidade
+- Instituto Português da Qualidade
 - Normalização
 relationships:
 - type: amended_by
@@ -80,16 +80,21 @@ relationships:
   target: celex:31989L0106
   label: null
   source: http://data.europa.eu/eli/dir/1989/106/oj
+- type: repealed_by
+  target: pt:dre:143341:por
+  label: "Revogado pelo DEC LEI.159/2002.2002.07.03.MOPTH DR.IS-A [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2002-143341
+  date: '2002-07-03'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:02Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +157,12 @@ São revogados os Decretos-Leis n.os 208/85, de 26 de Junho, e 85/92, de 7 de Ma
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1996. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 2 de Julho de 1996.**
+Promulgado em 2 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Julho de 1996.**
+Referendado em 3 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

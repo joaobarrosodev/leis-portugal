@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/261/1995/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1995-575133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15b37512722b08da0a3f48ea406077478b9cc97e02c1ac15f18a46328b9f8834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df6b34e83c75924946a0734b66212599cf47546c87bfb79ff86d81724d7e75e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Sociedade Comercial
 - Bolsa de Valores
+- CMVM
 - Código das Sociedades Comerciais
 - Código do Mercado de Valores Mobiliários
 - Mercado de Capitais
-- CMVM
+- Sociedade Comercial
 - Sociedade Corretora
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:522813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:149010:por
+  label: "Alterados os art 100º, 341º, 342º, 528º-A e 531º-A do Código do Mercado de Valores Mobiliários, na redacção do presente\
+    \ diploma, pelo DEC LEI.178/97.1997.07.24.MF, DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1997-149010
+  date: '1997-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142-a/1991/04/10/p/dre
   label: null
@@ -94,16 +100,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/1995/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/1995/04/19/p/dre
+- type: cites
+  target: pt:dre:218362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:682983:por
+  label: "Revogado, com a entrada em vigor do Código aprovado pelo presente diploma e com excepção da redacção conferida aos\
+    \ arts. 209.º e 250.º do Código aprovado pelo Dec Lei 142-A/91, de 10-Abr, pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A [265]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
 article_structure:
-  article_count: 98
+  article_count: 97
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:51Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +187,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 14.º, 16.º, 17.º, 40.º, 43.º, 44.º, 46.º, 59.º, 71.º, 94.º, 100.º, 116.º, 125.º, 130.º, 133.º a 135.º, 146.º, 157.º, 177.º, 209.º, 250.º, 267.º, 296.º a 299.º, 304.º, 305.º, 310.º, 312.º, 313.º, 315.º, 316.º, 318.º a 325.º, 330.º, 334.º, 341.º, 342.º, 345.º a 347.º, 352.º, 354.º, 356.º, 360.º, 363.º, 364.º, 366.º, 369.º, 379.º, 384.º a 387.º, 390.º, 425.º, 426.º, 443.º, 447.º, 458.º, 523.º, 525.º, 527.º a 532.º, 534.º, 540.º, 542.º, 546.º, 550.º, 553.º, 558.º, 561.º, 564.º, 567.º, 568.º, 575.º, 581.º, 595.º, 597.º, 598.º e 608.º do Código do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 14.º, 16.º, 17.º, 40.º, 43.º, 44.º, 46.º, 59.º, 71.º, 94.º, 100.º, 116.º, 125.º, 130.º, 133.º a 135.º, 146.º, 157.º, 177.º, 209.º, 250.º, 267.º, 296.º a 299.º, 304.º, 305.º, 310.º, 312.º, 313.º, 315.º, 316.º, 318.º a 325.º, 330.º, 334.º, 341.º, 342.º, 345.º a 347.º, 352.º, 354.º, 356.º, 360.º, 363.º, 364.º, 366.º, 369.º, 379.º, 384.º a 387.º, 390.º, 425.º, 426.º, 443.º, 447.º, 458.º, 523.º, 525.º, 527.º a 532.º, 534.º, 540.º, 542.º, 546.º, 550.º, 553.º, 558.º, 561.º, 564.º, 567.º, 568.º, 575.º, 581.º, 595.º, 597.º, 598.º e 608.º do Código do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -1506,7 +1535,7 @@ l) ...
 
 m) ...
 
-###### Art. 2.º Ao Código do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, são aditados os artigos 528.º-A, 531.º-A e 595.º-A, com a seguinte redacção:
+Art. 2.º Ao Código do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril, são aditados os artigos 528.º-A, 531.º-A e 595.º-A, com a seguinte redacção:
 
 ###### Artigo 528.º-A — Derrogações
 
@@ -1564,7 +1593,7 @@ e) Tanto nos casos da alínea a) como nos da alínea b), qualquer ou quaisquer d
 
 Quando a oferta pública de venda, pela sua dimensão, condições de colocação ou características internacionais, o justificar, a CMVM poderá autorizar, em termos a fixar por regulamento, que o oferente publique, antes do lançamento definitivo da oferta, um anúncio e prospecto preliminares, e inicie as actividades promocionais e publicitárias a que se refere o artigo 600.º com vista ao desenvolvimento de acções de prospecções e sensibilização do mercado que lhe permitam verificar a viabilidade da oferta e as condições em que pode ser lançada.
 
-###### Art. 3.º - 1 - São revogadas as seguintes disposições do Código do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril:
+Art. 3.º - 1 - São revogadas as seguintes disposições do Código do Mercado de Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 142-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-a-1991-322323), de 10 de Abril:
 
 a) A alínea d) do n.º 4 do artigo 116.º;
 
@@ -1598,18 +1627,18 @@ p) O n.º 2 do artigo 598.º
 
 2 - São igualmente revogados os artigos 306.º e 308.º a 315.º do Código das Sociedades Comerciais.
 
-###### Art. 4.º - 1 - As pessoas, singulares ou colectivas, que detenham em sociedades com acções admitidas à cotação em bolsa, antes da data de entrada em vigor do presente diploma, 10% ou mais de 10% dos direitos de voto correspondentes ao respectivo capital social, calculadas essas participações nos termos do n.º 2 do artigo 345.º do Código do Mercado de Valores Mobiliários, na redacção que lhe é dada pelo presente decreto-lei, deverão comunicá-las à sociedade emitente e, simultaneamente, à Comissão do Mercado de Valores Mobiliários e à Associação de Bolsa de Valores de Lisboa, no prazo máximo de 90 dias a contar da data acima referida e com observância do disposto no n.º 2 do artigo 347.º do mesmo Código, na redacção que lhe é dada por este diploma.
+Art. 4.º - 1 - As pessoas, singulares ou colectivas, que detenham em sociedades com acções admitidas à cotação em bolsa, antes da data de entrada em vigor do presente diploma, 10% ou mais de 10% dos direitos de voto correspondentes ao respectivo capital social, calculadas essas participações nos termos do n.º 2 do artigo 345.º do Código do Mercado de Valores Mobiliários, na redacção que lhe é dada pelo presente decreto-lei, deverão comunicá-las à sociedade emitente e, simultaneamente, à Comissão do Mercado de Valores Mobiliários e à Associação de Bolsa de Valores de Lisboa, no prazo máximo de 90 dias a contar da data acima referida e com observância do disposto no n.º 2 do artigo 347.º do mesmo Código, na redacção que lhe é dada por este diploma.
 
 2 - Não se aplica o disposto no número anterior quando as comunicações nele referidas já tenham sido efectuadas ao abrigo do n.º 1 do artigo 347.º do Código do Mercado de Valores Mobiliários na redacção anterior à que lhe é dada pelo presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga.
 
-**Promulgado em 15 de Setembro de 1995.**
+Promulgado em 15 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Setembro de 1995.**
+Referendado em 19 de Setembro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

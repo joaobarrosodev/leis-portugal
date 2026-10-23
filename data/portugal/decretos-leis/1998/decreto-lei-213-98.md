@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/162a00/34253426.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/1998/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1998-423251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ded2ea443e0da82396cfa42f02e876f942a67429a638b2f80e54f18eaa852836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 291a735107d56fd33b8b58171996892618fee2e426dcf66352db7c2041b1b97f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral dos Serviços Prisionais
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
-- Subsídio de Risco
+- Direcção Geral dos Serviços Prisionais
 - Guarda Prisional
 - Pessoal de Chefia
 - Política Salarial
 - Regime Jurídico
 - Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:606115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540216:por
+  label: "Alterado o art. 4º pelo DEC LEI.323/2001.2001.12.17.MJ DR.IS-A [290]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-2001-540216
+  date: '2001-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1996/07/23/p/dre
   label: null
@@ -89,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/174/1993/05/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/174/1993/05/12/p/dre
+- type: cites
+  target: pt:dre:275603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417038:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606115:por
+  label: "Revogado, a partir de 01.02.2014, o presente diploma, na redacção do Dec Lei 323/2001, de 17-dez., pelo DEC LEI.3/2014.09.01.2014.MJ,\
+    \ DR.IS [7] de 09.01.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2014-606115
+  date: '2014-01-09'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:46Z'
   warnings: []
   errors: []
 ---
@@ -163,12 +186,12 @@ O presente diploma produz efeitos a partir de 1 de Dezembro de 1998.
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 6 de Julho de 1998.**
+Promulgado em 6 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Julho de 1998.**
+Referendado em 9 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

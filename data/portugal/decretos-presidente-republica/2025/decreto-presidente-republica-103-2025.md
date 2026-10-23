@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/103/2025/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/103-2025-942401297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3a0dd238388b843a11a43ef5a41295812aa1bc9489b3e2c8c40833d666f2050
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 271d2517473f41127de26bc3bf645aaa6767313f95f66d1e327baec4c2f01af9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,36 @@ reuse:
 subjects:
 - África do Sul
 - Convenção
-- Política de Cooperação
-- Portugal
-- Política de Defesa
-- Pretória
 - Cooperação Militar
+- Política de Cooperação
+- Política de Defesa
+- Portugal
+- Pretória
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:169/2025
+  label: Ratifica o Acordo aprovado pela Resolução da Assembleia da República n.º 169/2025, de 27 de outubro, Diário da República
+    n.º 207/2025, Série I
+  source: null
+  date: '2025-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/169/2025/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/169/2025/10/27/p/dre
+- type: cites
+  target: pt:dre:942401302:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:18Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +106,18 @@ validation:
 
 de 27 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e a República da África do Sul sobre Cooperação no Domínio da Defesa, assinado em Pretória, a 6 de junho de 2023, aprovado pela [Resolução da Assembleia da República n.º 169/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/169-2025-942401302), em 30 de setembro de 2025.
 
-**Assinado em 13 de outubro de 2025.**
+Assinado em 13 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de outubro de 2025.**
+Referendado em 22 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119691071

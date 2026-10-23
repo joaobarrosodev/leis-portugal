@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2009/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2009-602570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92879924c6a5dda9137e39e1c04822e9923e610d94abae2903ae307ed35a498e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62b25b166f7f5df2d77006c5013c6e9fe74429d7be5438f3b9509191145c61dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Aproximação das Legislações
+- Confidencialidade
+- Distribuição de Energia Elétrica
 - Energia Elétrica
 - Normas de Segurança
-- Confidencialidade
 - Sistema Elétrico Nacional
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:588861:por
+  label: "Alterados, a partir de 07.11.2012, e sem prejuízo do disposto no art. 15º e no nº2 do art. 17º, os arts. 2º, 32º-A\
+    \ , 33º-B e 36º do Dec Lei 172/2006, de 23-ago, na redação do presente diploma, pelo DEC LEI.215-B/2012.08.10.2012.MEE,\
+    \ DR.IS [194-Supl] de 08.10.2012\0012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-b-2012-588861
+  date: '2012-10-08'
+- type: amends
+  target: pt:numero:decreto-lei:172/2006
+  label: "Altera os arts. 2.º e 36.º e adita os arts. 32.º-A e 33.º-B ao Decreto-Lei n.º 172/2006, de 23 de Agosto, DR.IS\
+    \ [162]\0\0"
+  source: null
+  date: '2006-08-23'
 - type: cites
   target: celex:32003R1228
   label: null
@@ -95,15 +108,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:55Z'
   warnings: []
   errors: []
 ---
@@ -262,7 +275,9 @@ mmm) [Anterior alínea jjj).]
 
 nnn) [Anterior alínea lll).]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -310,7 +325,9 @@ d) Os objectivos nacionais, regionais e europeus de desenvolvimento sustentável
 
 4 - Os agentes do sector eléctrico têm o dever de prestar à DGEG e ao operador da rede de transporte a informação relevante do relatório referido no n.º 1, devendo estas entidades assegurar a preservação da confidencialidade dos dados utilizados.
 
-###### Artigo 33.º-B — Medidas de emergência
+Artigo 33.º-B
+
+Medidas de emergência
 
 1 - Em caso de crise ou de ameaça à segurança e integridade física de pessoas, equipamentos, instalações e redes, designadamente devido a acidente grave ou por outra razão de força maior, o ministro responsável pela área da energia pode tomar, a título transitório e temporariamente, as medidas de salvaguarda necessárias.
 
@@ -326,12 +343,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Rui Nuno Garcia de Pina Neves Baleiras - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 8 de Janeiro de 2009.**
+Promulgado em 8 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Janeiro de 2009.**
+Referendado em 9 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

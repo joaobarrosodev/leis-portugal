@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-1984-399420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4b22db47d8e06328d4ab0135f97ad819211aefac437119fd2b9d4181cec33c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57b66ac9fd65185b9fac97594e63112d81baeb387390c8d978b035279168063a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ADSE
+- Criação de Lugares
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:311413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:27Z'
   warnings: []
   errors: []
 ---
@@ -99,10 +118,10 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano.
 
-**Assinada em 30 de Agosto de 1984.**
+Assinada em 30 de Agosto de 1984.
 
 Pelo Ministro das Finanças e do Plano, Rui Jorge Martins dos Santos, Secretário de Estado das Finanças. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21500/28612862.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21500/28612862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21500/28612862.pdf)

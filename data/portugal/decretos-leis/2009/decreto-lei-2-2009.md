@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2009/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2009-396962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7bd93dfbd4a5ecbba09627e847585a0210ce9a89219b6c9a8559994356dc0ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f9b5300547e92aa5a4ea82b74bf04d134a0c45bfb299c6bac2edec2a9fe969c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
 - Alienação de Participação Social
-- Contrato de Seguro
 - Aproximação das Legislações
-- Crime
-- Garantia
-- Sociedade Anónima
+- Atividade Seguradora
 - Capital Social
 - CE Países
-- Co-seguro
-- Multa
+- Companhia de Seguros
 - Companhia Portuguesa de Resseguros
 - Comunidade Europeia
-- Contra-ordenação
 - Concorrência
+- Contra-ordenação
+- Contrato de Seguro
+- Co-seguro
+- Crime
+- Direito de Estabelecimento
+- Direito Penal
+- Empresa Estrangeira
 - Empresa Europeia
 - Fundo de Pensões
 - Fundos Autónomos
-- Seguro
+- Garantia
 - Ilícito de MERA Ordenação Social
 - Instituto de Seguros de Portugal
-- Direito de Estabelecimento
 - Livre Prestação de Serviços
 - Mediação de Seguros
+- Multa
 - Mútua de Seguros
-- Zona Tributária Privilegiada
 - Participação Qualificada
-- Sanção Penal
 - Prémio de Seguro
 - Processo de Ilícito de MERA Ordenação Social
-- Recuperação de Empresas
+- Profissional de Seguros
 - Provisão Técnica
-- Direito Penal
 - RAMO não VIDA
 - RAMO VIDA
+- Recuperação de Empresas
 - Regime Fiscal
 - Regime Jurídico
 - Responsabilidade Civil
@@ -111,17 +110,31 @@ subjects:
 - Responsabilidade pelo Risco
 - Resseguro
 - Sanção
+- Sanção Penal
 - Segredo Profissional
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
+- Sociedade Anónima
 - Sucursal
-- Empresa Estrangeira
-- Profissional de Seguros
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:25676934:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332702:por
+  label: "Alterados os arts. 14.º e 159.º do Dec Lei 94-B/98, de 17-Abr, na redacção do presente diploma, pelo DEC LEI.52/2010.26.05.2010.MFAP,\
+    \ DR.IS [102] de 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:25676934:por
+  label: "Alterados os arts. 156º, 172º-A, 172º-B e 172º-G do Regime Jurídico do Acesso e Exercício da Atividade Seguradora\
+    \ e Resseguradora, aprovado pelo Dec Lei 94-B/98 de 17-abr, na redação do presente diploma, pelo DEC LEI.91/2014.20.06.2014.MF,\
+    \ DR.IS [117] de 20.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2014-25676934
+  date: '2014-06-20'
 - type: cites
   target: celex:31964L0225
   label: null
@@ -154,16 +167,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: corrected_by
+  target: pt:dre:604670:por
+  label: "Rectificado o presente diploma que altera o Decreto-Lei nº 94-B/98, de 17 de Abril, bem como a republicação do mesmo,\
+    \ pela DECL-RECT.17/2009.03.03.2009.PCM, DR.IS [43] de 03.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-2009-604670
+  date: '2009-03-03'
 article_structure:
-  article_count: 404
-  section_count: 70
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 233
+  section_count: 51
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:26Z'
   warnings: []
   errors: []
 ---
@@ -246,7 +265,9 @@ Os artigos 1.º, 2.º, 4.º a 8.º, 10.º, 14.º, 15.º, 35.º, 37.º, 44.º, 51
 
 4 - O presente diploma aplica-se ainda ao acesso e exercício da actividade seguradora e resseguradora no território de Estados não membros da União Europeia por sucursais de empresas de seguros ou de resseguros com sede em Portugal.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Para efeitos do presente diploma, considera-se:
 
@@ -308,7 +329,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -316,7 +339,9 @@ d) [...]
 
 3 - O presente diploma não é ainda aplicável à actividade de resseguro exercida ou integralmente garantida pelo Governo Português ou pelo Governo de outro Estado membro quando actue, por razões de interesse público relevante, na qualidade de segurador de último recurso, designadamente quando tal intervenção é exigida face a uma situação do mercado em que é inviável a obtenção de uma cobertura comercial adequada.
 
-###### Artigo 5.º — Exercício do resseguro e entidades com objecto específico de titularização de riscos de seguros
+Artigo 5.º
+
+Exercício do resseguro e entidades com objecto específico de titularização de riscos de seguros
 
 1 - Sem prejuízo do disposto no artigo 7.º, a actividade de resseguro em Portugal pode ser exercida por empresas de seguros ou de resseguros com sede em território fora da União Europeia que não se encontrando estabelecidas em Portugal, estejam, no respectivo país de origem, autorizadas a exercer a actividade de resseguro.
 
@@ -334,13 +359,17 @@ b) Requisitos em matéria de contabilidade e informação relativa a actividades
 
 6 - As condições de acesso e de exercício de uma entidade com objecto específico de titularização de riscos de seguros que se pretenda estabelecer em Portugal são estabelecidas em regime especial.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O exercício da actividade seguradora e resseguradora pelas empresas de seguros ou de resseguros referidas no artigo 1.º e equiparadas fica sujeito à supervisão do Instituto de Seguros de Portugal, nos termos legal e regulamentares fixados.
 
 2 - [...]
 
-###### Artigo 7.º — Entidades que podem exercer a actividade seguradora ou resseguradora
+Artigo 7.º
+
+Entidades que podem exercer a actividade seguradora ou resseguradora
 
 1 - Sem prejuízo do artigo 5.º, a actividade seguradora ou resseguradora em Portugal só pode ser exercida por:
 
@@ -358,7 +387,9 @@ e) Empresas de seguros ou empresas de resseguros públicas ou de capitais públi
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As empresas de seguros referidas nos n.os 1 e 2 do artigo anterior são instituições financeiras que têm por objecto exclusivo o exercício da actividade de seguro directo e de resseguro, podendo ainda exercer actividades conexas ou complementares da de seguro ou resseguro, nomeadamente no que respeita a actos e contratos relativos a salvados, à reedificação e reparação de prédios, à reparação de veículos, à manutenção de postos clínicos e à aplicação de provisões, reservas e capitais.
 
@@ -368,7 +399,9 @@ e) Empresas de seguros ou empresas de resseguros públicas ou de capitais públi
 
 4 - As empresas de resseguros referidas nos n.os 1 e 2 do artigo anterior são instituições financeiras que têm por objecto exclusivo o exercício da actividade de resseguro e actividades conexas, nomeadamente a prestação aos clientes de serviços de consultoria em matéria estatística ou actuarial, a análise ou pesquisa de riscos, o exercício de funções de gestão de participações sociais e actividades relacionadas com actividades do sector financeiro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A autorização para o exercício da actividade seguradora e resseguradora é concedida, em relação às empresas referidas nas alíneas a), b) e e) do n.º 1 do artigo 7.º, para todo o território da União Europeia.
 
@@ -380,7 +413,9 @@ e) Empresas de seguros ou empresas de resseguros públicas ou de capitais públi
 
 5 - [Anterior n.º 4]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -400,7 +435,9 @@ e) Empresas de seguros ou empresas de resseguros públicas ou de capitais públi
 
 9 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -424,7 +461,9 @@ c) Controlada pela mesma pessoa singular ou colectiva que controla uma empresa d
 
 8 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -434,7 +473,9 @@ c) Controlada pela mesma pessoa singular ou colectiva que controla uma empresa d
 
 4 - À instrução do pedido de autorização é aplicável, com as necessárias adaptações, o disposto nos n.os 4 e 6 a 9 do artigo 14.º
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -452,7 +493,9 @@ c) [Revogada]
 
 5 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -466,7 +509,9 @@ c) [Revogada]
 
 6 - [...]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - Os membros dos órgãos de administração e fiscalização das sociedades anónimas e das mútuas de seguros, incluindo os que integrem o conselho geral e de supervisão e os administradores não executivos, devem preencher os seguintes requisitos:
 
@@ -494,7 +539,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 8 - No caso de serem eleitos ou designados para os órgãos de administração ou de fiscalização pessoas colectivas, as pessoas por estas designadas para o exercício da função devem cumprir o disposto no presente artigo.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - As seguintes alterações aos estatutos das empresas de seguros carecem de autorização prévia do Instituto de Seguros de Portugal, aplicando-se, com as necessárias adaptações, o estabelecido no artigo 15.º
 
@@ -514,7 +561,9 @@ g) Dissolução.
 
 2 - As restantes alterações estatutárias não carecem de autorização prévia, devendo, porém, ser comunicadas ao Instituto de Seguros de Portugal no prazo de cinco dias, após a respectiva aprovação.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - O registo dos membros dos órgãos de administração e fiscalização, incluindo os que integrem o conselho geral e de supervisão e os administradores não executivos, deve ser solicitado ao Instituto de Seguros de Portugal, no prazo de 15 dias após a designação, mediante requerimento da sociedade ou dos interessados, juntamente com as provas de que se encontram preenchidos os requisitos definidos no artigo 51.º e, caso aplicável, no artigo 51.º-A.
 
@@ -536,7 +585,9 @@ g) Dissolução.
 
 10 - A falta superveniente de preenchimento de um dos requisitos definidos nos artigos 51.º e 51.ºA constitui fundamento de cancelamento do registo.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - [...]
 
@@ -548,7 +599,9 @@ g) Dissolução.
 
 5 - Para efeitos da supervisão das respectivas garantias financeiras, não pode ser recusado um contrato de resseguro celebrado por uma empresa de seguros sediada em Portugal com uma empresa de seguros referida na alínea b) do n.º 1 do artigo 2.º ou com uma empresa de resseguros referida na alínea c) do n.º 1 do artigo 2.º, por razões directamente relacionadas com a solidez financeira dessa empresa de seguros ou de resseguros.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -564,7 +617,9 @@ b) Os prémios de resseguro aceite serem superiores a (euro) 50 000 000;
 
 c) As provisões técnicas resultantes do resseguro aceite serem superiores a 10 % das provisões técnicas totais.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - [...]
 
@@ -574,7 +629,9 @@ c) As provisões técnicas resultantes do resseguro aceite serem superiores a 10
 
 4 - Para as actividades de resseguro aceite do ramo «Vida», a margem de solvência é determinada de acordo com o regime fixado nos n.os 4 a 6 do artigo 122.º-H e no artigo 122.º-I, desde que a sucursal preencha uma das condições previstas no n.º 4 do artigo anterior.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - [...]
 
@@ -622,7 +679,9 @@ g) [...]
 
 11 - [...]
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - [...]
 
@@ -644,7 +703,9 @@ g) [...]
 
 10 - [Anterior n.º 9]
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...]
 
@@ -692,7 +753,9 @@ g) [...]
 
 11 - [...]
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - [...]
 
@@ -704,7 +767,9 @@ g) [...]
 
 5 - Mediante pedido fundamentado da empresa de seguros, o Instituto de Seguros de Portugal pode autorizar que os montantes recuperáveis de entidades com objecto específico de titularização de riscos de seguros sejam igualmente deduzidos a título de resseguro para efeitos dos cálculos previstos nas alíneas a) e b) do n.º 1.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - [...]
 
@@ -716,13 +781,17 @@ g) [...]
 
 5 - Relativamente aos ramos «Não vida», se estiver preenchida uma das condições previstas no n.º 4 do artigo 93.º, o limite mínimo do fundo de garantia de empresas de seguros com sede em Portugal e de sucursais de empresas de seguros com sede fora do território da União Europeia, em relação ao conjunto das suas actividades, corresponde ao fixado no n.º 1 do artigo 122.º-J.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - [...]
 
 2 - Para efeitos de constituição do fundo de garantia mínimo das sucursais de empresas de seguros com sede fora do território da União Europeia, relativamente à actividade de seguros «Não vida» e «Vida», consideram-se, respectivamente, os elementos previstos no n.º 10 do artigo 96.º, com excepção da alínea e), e no n.º 10 do artigo 98.º, com excepção da remissão para o n.º 3 do mesmo artigo, aplicando-se igualmente as deduções previstas no n.º 11 do artigo 96.º e no n.º 11 do artigo 98.º
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - [...]
 
@@ -738,13 +807,17 @@ g) [...]
 
 7 - As informações a prestar pelos revisores oficiais de contas referentes à certificação dos elementos relativos ao encerramento do exercício são elaboradas em conformidade com o estabelecido por norma regulamentar do Instituto de Seguros de Portugal, ouvida a Ordem dos Revisores Oficiais de Contas.
 
-###### Artigo 105.º-A — [...]
+Artigo 105.º-A
+
+[...]
 
 1 - [...]
 
 2 - A informação relativa à situação a 31 de Dezembro deve ser certificada por um revisor oficial de contas.
 
-###### Artigo 106.º — Empresas de seguros com sede no território de outros Estados membros
+Artigo 106.º
+
+Empresas de seguros com sede no território de outros Estados membros
 
 1 - O Instituto de Seguros de Portugal, caso tenha conhecimento de elementos que permitam considerar que as actividades em Portugal de uma empresa de seguros com sede no território de outro Estado membro colocam em risco a solidez financeira da empresa, deve comunicar esse facto às autoridades competentes do Estado membro de origem, para que estas verifiquem se a referida empresa cumpre as regras prudenciais aplicáveis.
 
@@ -752,11 +825,15 @@ g) [...]
 
 3 - [...]
 
-###### Artigo 120.º-I — [...]
+Artigo 120.º-I
+
+[...]
 
 Ao Instituto de Seguros de Portugal é aplicável a secção II do capítulo VI do título III do presente diploma relativamente à informação que receba das autoridades de supervisão de seguros dos demais Estados membros sobre o saneamento de empresas de seguros com sede nos respectivos Estados.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 O ramo «Vida» inclui os seguintes seguros e operações:
 
@@ -778,19 +855,25 @@ c) Seguros complementares dos seguros de vida, nomeadamente, os relativos a dano
 
 6) [...]
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - [...]
 
 2 - As autorizações para transferências de carteira concedidas pelas autoridades competentes dos Estados membros de origem e que abranjam contratos cobrindo riscos situados em território português ou em que Portugal seja o Estado membro do compromisso devem ser devidamente redigidas e publicadas em língua portuguesa no sítio na Internet do Instituto de Seguros de Portugal e em dois jornais diários de ampla difusão.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, as transferências de carteiras autorizadas pelo Instituto de Seguros de Portugal ou pelas restantes autoridades competentes dos Estados membros de origem são oponíveis aos tomadores, segurados e a quaisquer outras pessoas titulares de direitos ou obrigações emergentes dos correspondentes contratos de seguro, a partir da respectiva autorização.
 
 2 - Quando as transferências de carteira abranjam contratos cobrindo riscos situados em território português ou em que Portugal seja o Estado membro do compromisso, os segurados e tomadores dispõem de um prazo de 30 dias contados a partir da publicação no sítio na Internet do Instituto de Seguros de Portugal, referida no n.º 2 do artigo anterior, para a resolução dos respectivos contratos, prazo durante o qual a transferência não lhes é oponível.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - [...]
 
@@ -802,7 +885,9 @@ c) Seguros complementares dos seguros de vida, nomeadamente, os relativos a dano
 
 5 - O disposto no presente artigo não é aplicável se for reconhecido pelo Instituto de Seguros de Portugal que a transferência de carteira se insere num processo de saneamento de uma situação de insuficiência financeira, de fusão ou de dissolução de uma empresa de seguros.
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - O Instituto de Seguros de Portugal é, nos termos legais e regulamentares, a autoridade competente para o exercício da supervisão não só das actividades das empresas de seguros e de resseguros com sede em Portugal, incluindo a actividade exercida no território de outros Estados membros pelas respectivas sucursais ou a aí exercida em livre prestação de serviços, como também das actividades exercidas em território português por sucursais de empresas de seguros ou de resseguros com sede fora da União Europeia.
 
@@ -812,7 +897,9 @@ c) Seguros complementares dos seguros de vida, nomeadamente, os relativos a dano
 
 4 - Caso a empresa de seguros ou de resseguros sujeita à supervisão prevista no número anterior tenha como empresa mãe uma sociedade gestora de participações no sector dos seguros, uma empresa de seguros ou de resseguros de um país terceiro ou uma sociedade gestora de participações mista de seguros, que seja também empresa mãe de outra empresa de seguros ou de resseguros autorizada noutro Estado membro da União Europeia, o Instituto de Seguros de Portugal deve chegar a acordo com a autoridade de supervisão congénere do Estado membro em questão para a designação daquela a quem cabe a responsabilidade pelo exercício da supervisão complementar.
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - [...]
 
@@ -842,13 +929,17 @@ f) [...]
 
 8 - [...]
 
-###### Artigo 157.º-A — [...]
+Artigo 157.º-A
+
+[...]
 
 1 - Caso uma empresa de seguros ou de resseguros e quer uma instituição de crédito ou uma empresa de investimento, quer ambas, se encontrem em relação de participação, ou tenham uma empresa participante comum, o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários fornecem ao Instituto de Seguros de Portugal todas as informações necessárias ao exercício por este das suas funções de supervisão.
 
 2 - [...]
 
-###### Artigo 157.º-B — [...]
+Artigo 157.º-B
+
+[...]
 
 1 - As sociedades gestoras de participações sociais ficam sujeitas à supervisão do Instituto de Seguros de Portugal sempre que o valor total, directa ou indirectamente detido, das suas participações em empresas de seguros ou de resseguros, em sociedades gestoras de fundos de pensões e em sociedades de mediação de seguros ou de resseguros, represente pelo menos 50 % do montante global das participações que detiverem e, bem assim, sempre que se encontrem, em relação a uma ou mais empresas de seguros ou de resseguros, sociedades gestoras de fundos de pensões e sociedades de mediação de seguros ou de resseguros, em alguma das situações previstas no n.º 1) do artigo 3.º, exceptuando-se, porém, as que estiverem sujeitas por outra legislação à supervisão do Banco de Portugal.
 
@@ -864,7 +955,9 @@ f) [...]
 
 7 - [...]
 
-###### Artigo 157.º-C — [...]
+Artigo 157.º-C
+
+[...]
 
 1 - Sem prejuízo da aplicação do artigo 157.º à supervisão complementar, no respeitante às informações relativas às empresas participadas, às empresas participantes e às empresas participadas de uma empresa participante de uma empresa de seguros ou de resseguros, o Instituto de Seguros de Portugal solicita-as directamente a estas empresas no caso de a empresa de seguros ou de resseguros sujeita à supervisão complementar as não ter prestado.
 
@@ -876,13 +969,17 @@ f) [...]
 
 5 - [...]
 
-###### Artigo 157.º-D — [...]
+Artigo 157.º-D
+
+[...]
 
 1 - No caso de uma empresa de seguros ou de resseguros estabelecida em Portugal estar em relação de participação com uma empresa de seguros ou de resseguros estabelecida noutro Estado membro da União Europeia, ou de ambas as empresas terem uma empresa participante comum, o Instituto de Seguros de Portugal comunica à autoridade de supervisão congénere, a pedido, as informações úteis susceptíveis de permitir ou facilitar o exercício da supervisão complementar, bem como, por iniciativa própria, as informações que entenda essenciais para as autoridades congéneres.
 
 2 - No caso de uma empresa de seguros ou de resseguros estabelecida em Portugal estar em relação de participação com uma empresa de seguros ou de resseguros estabelecida num país terceiro e seja pela União Europeia negociado um acordo com esse país relativamente às modalidades de exercício da supervisão complementar, o Instituto de Seguros de Portugal pode trocar com as autoridades de supervisão desse país informações necessárias à supervisão complementar.
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - [...]
 
@@ -890,7 +987,9 @@ f) [...]
 
 3 - Sempre que uma empresa de seguros ou de resseguros seja declarada em estado de insolvência ou que tenha sido decidida judicialmente a sua liquidação, as informações confidenciais que não digam respeito a terceiros implicados nas tentativas de recuperação da seguradora ou resseguradora podem ser divulgadas no âmbito do processo.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - O dever de sigilo profissional não impede que o Instituto de Seguros de Portugal proceda à troca de informações necessárias ao exercício da supervisão da actividade seguradora ou resseguradora com as autoridades competentes dos outros Estados membros, sem prejuízo da sujeição dessas informações ao dever de sigilo profissional.
 
@@ -916,7 +1015,9 @@ b) Actuários responsáveis que exerçam, nos termos da lei, uma função de con
 
 5 - A troca de informações necessárias ao exercício da supervisão da actividade seguradora ou resseguradora com autoridades competentes de países não membros da União Europeia ou com autoridades ou organismos destes países, definidos nas alíneas a), b) e d) dos n.os 2 e 3, está sujeita às garantias de sigilo profissional previstas na presente secção, estabelecidas e aceites reciprocamente, sendo-lhes aplicável o previsto no número anterior.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 [...]
 
@@ -926,7 +1027,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - O Instituto de Seguros de Portugal pode, se tal se justificar por razões de supervisão prudencial, comunicar as informações para o efeito necessárias às entidades nacionais responsáveis pela legislação em matéria de supervisão das instituições de crédito, serviços de investimento, empresas de seguros ou de resseguros e demais instituições financeiras, bem como aos inspectores mandatados por estas entidades.
 
@@ -944,11 +1047,15 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 As empresas de seguros ou de resseguros com sede no território de outros Estados membros que operem em Portugal através de sucursais ou em livre prestação de serviços devem, no âmbito dessa actividade, apresentar ao Instituto de Seguros de Portugal os documentos que por este lhes forem solicitados no exercício dos seus poderes de supervisão.
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 1 - Se o Instituto de Seguros de Portugal verificar que uma empresa de seguros ou de resseguros com sede no território de outro Estado membro que opera em Portugal através de uma sucursal ou em livre prestação de serviços não respeita as normas legais e regulamentares em vigor que lhe são aplicáveis, notificá-la-á para que ponha fim a essa situação irregular.
 
@@ -956,11 +1063,15 @@ As empresas de seguros ou de resseguros com sede no território de outros Estado
 
 3 - Se, apesar das medidas tomadas ao abrigo do número anterior, a empresa persistir na situação irregular, o Instituto de Seguros de Portugal, após ter informado as autoridades competentes do Estado membro de origem, adoptará as medidas legalmente previstas para evitar ou reprimir as irregularidades cometidas ou novas situações irregulares, podendo, se necessário, impedir a empresa de continuar a celebrar novos contratos de seguro ou de resseguro em território português.
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 As sanções ou restrições ao exercício da actividade seguradora ou resseguradora previstas nos artigos anteriores devem ser devidamente fundamentadas e notificadas à empresa interessada, delas cabendo recurso nos termos gerais.
 
-###### Artigo 172.º-A — [...]
+Artigo 172.º-A
+
+[...]
 
 Para os efeitos da supervisão complementar de empresas de seguros e de resseguros que fazem parte de um grupo segurador, considera-se:
 
@@ -986,7 +1097,9 @@ j) «Sociedade gestora de participações no sector dos seguros» uma empresa m�
 
 l) «Sociedade gestora de participações mista de seguros» uma empresa mãe que não seja uma empresa de seguros, uma empresa de resseguros, uma empresa de seguros ou de resseguros de um país terceiro, uma sociedade gestora de participações no sector dos seguros ou uma companhia financeira mista na acepção da alínea l) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de Julho, sendo pelo menos uma das suas filiais uma empresa de seguros ou uma empresa de resseguros.
 
-###### Artigo 172.º-B — [...]
+Artigo 172.º-B
+
+[...]
 
 1 - Sem prejuízo da respectiva supervisão individual, estão sujeitas à supervisão complementar prevista na presente secção as empresas de seguros e as empresas de resseguros com sede em Portugal:
 
@@ -1006,7 +1119,9 @@ c) As empresas participadas de uma empresa participante da empresa de seguros ou
 
 3 - O exercício da supervisão complementar não implica que o Instituto de Seguros de Portugal supervisione as empresas de seguros ou de resseguros de um país terceiro, as sociedades gestoras de participações no sector dos seguros ou as sociedades gestoras de participações mistas de seguros, individualmente consideradas.
 
-###### Artigo 172.º-C — [...]
+Artigo 172.º-C
+
+[...]
 
 1 - [...]
 
@@ -1018,13 +1133,17 @@ a) Quando a empresa a incluir apresentar um interesse pouco significativo, atend
 
 b) Quando a inclusão da situação financeira da empresa for inadequada ou susceptível de induzir em erro, atendendo aos objectivos da supervisão complementar das empresas de seguros ou de resseguros.
 
-###### Artigo 172.º-D — [...]
+Artigo 172.º-D
+
+[...]
 
 1 - As empresas de seguros ou de resseguros sujeitas à supervisão complementar devem dispor de procedimentos de controlo interno adequados à produção de dados e informação úteis ao exercício dessa supervisão, nos termos a fixar por norma regulamentar do Instituto de Seguros de Portugal.
 
 2 - As empresas de seguros ou de resseguros sujeitas à supervisão complementar e as respectivas empresas participantes ou participadas devem trocar entre si todas as informações consideradas úteis para efeitos do exercício dessa supervisão.
 
-###### Artigo 172.º-E — [...]
+Artigo 172.º-E
+
+[...]
 
 1 - [...]
 
@@ -1040,7 +1159,9 @@ b) Uma empresa de seguros ou de resseguros e uma pessoa singular detentora de um
 
 5 - Se, com base nas informações prestadas pela empresa de seguros ou de resseguros, o Instituto de Seguros de Portugal entender que a sua solvência está ou pode vir a estar em risco, cabe-lhe determinar o que for adequado à correcção dessa situação ao nível da empresa de seguros ou de resseguros.
 
-###### Artigo 172.º-F — [...]
+Artigo 172.º-F
+
+[...]
 
 1 - [...]
 
@@ -1050,7 +1171,7 @@ b) Uma empresa de seguros ou de resseguros e uma pessoa singular detentora de um
 
 4 - [...]
 
-###### Artigo 172.º-G
+Artigo 172.º-G
 
 Supervisão complementar de empresas de seguros ou de resseguros que sejam filiais de uma sociedade gestora de participações no sector dos seguros ou de uma empresa de seguros ou de resseguros de um país terceiro.
 
@@ -1060,11 +1181,15 @@ Supervisão complementar de empresas de seguros ou de resseguros que sejam filia
 
 3 - Se o cálculo previsto no n.º 1 revelar que a solvência da empresa de seguros ou de resseguros filial da sociedade gestora de participações no sector dos seguros, da empresa de seguros ou de resseguros de país terceiro está ou pode vir a estar em risco, o Instituto de Seguros de Portugal determina o que for adequado à correcção dessa situação ao nível da empresa de seguros ou de resseguros.
 
-###### Artigo 172.º-H — [...]
+Artigo 172.º-H
+
+[...]
 
 Aos membros dos órgãos de administração e de fiscalização de uma sociedade gestora de participações no sector dos seguros são aplicáveis os requisitos de qualificação e idoneidade previstos no artigo 51.º e o regime previsto no artigo 54.º
 
-###### Artigo 173.º — [...]
+Artigo 173.º
+
+[...]
 
 1 - Os prémios dos contratos de seguro que cubram riscos situados em território português na acepção da alínea j) do n.º 1 do artigo 2.º ou em que Portugal seja o Estado-Membro do compromisso na acepção da alínea l) do n.º 1 do mesmo artigo estão sujeitos aos impostos indirectos e taxas previstos na lei portuguesa, independentemente da lei que vier a ser aplicada ao contrato e sem prejuízo da legislação especial aplicável ao exercício da actividade seguradora no âmbito institucional das zonas francas.
 
@@ -1074,13 +1199,17 @@ Aos membros dos órgãos de administração e de fiscalização de uma sociedade
 
 4 - [...]
 
-###### Artigo 201.º — [...]
+Artigo 201.º
+
+[...]
 
 1 - Sem prejuízo do presente diploma e respectivas normas de execução, a emissão de títulos de dívida a curto prazo pelas empresas de seguros regula-se pelo disposto no Decreto-Lei n.º 69/2004, de 25 de Março.
 
 2 - [Revogado]
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 [...]
 
@@ -1088,7 +1217,9 @@ a) [...]
 
 b) De qualquer tomada de participação de uma empresa mãe sujeita à lei nacional de um país terceiro numa empresa de seguros ou de resseguros com sede em Portugal e que tenha por efeito transformar esta última numa filial da referida empresa-mãe.
 
-###### Artigo 237.º — [...]
+Artigo 237.º
+
+[...]
 
 1 - O Instituto de Seguros de Portugal informa a Comissão Europeia sobre quaisquer dificuldades de ordem geral com que as empresas de seguros ou de resseguros com sede em Portugal deparem para se estabelecerem ou exercerem as suas actividades em países terceiros.
 
@@ -1098,11 +1229,15 @@ b) De qualquer tomada de participação de uma empresa mãe sujeita à lei nacio
 
 4 - [...]
 
-###### Artigo 238.º — Fusão ou cisão de empresas de seguros ou de resseguros
+Artigo 238.º
+
+Fusão ou cisão de empresas de seguros ou de resseguros
 
 Pode ser autorizada pelo Instituto de Seguros de Portugal, em casos devidamente justificados, a fusão ou cisão de empresas de seguros ou de resseguros.
 
-###### Artigo 242.º — Normas de contabilidade
+Artigo 242.º
+
+Normas de contabilidade
 
 Compete ao Instituto de Seguros de Portugal, sem prejuízo das atribuições da Comissão de Normalização Contabilística, estabelecer as regras de contabilidade aplicáveis às empresas de seguros ou de resseguros sujeitas à sua supervisão, bem como definir os elementos que as referidas empresas lhe devem remeter e os que devem obrigatoriamente publicar, mantendo-se em vigor, até à sua publicação, as regras actualmente existentes em matéria de contabilidade, apresentação e publicação de contas.»
 
@@ -1136,13 +1271,17 @@ d) Dispõe dos meios financeiros para fazer face às despesas de instalação de
 
 7 - No que não estiver regulado especialmente é aplicável o regime geral, com exclusão do disposto no n.º 6 do artigo 34.º
 
-###### Artigo 51.º-A — Acumulação de cargos
+Artigo 51.º-A
+
+Acumulação de cargos
 
 1 - O Instituto de Seguros de Portugal pode opor-se a que os membros dos órgãos de administração das sociedades anónimas e das mútuas de seguros exerçam funções de administração noutras sociedades, caso entenda que a acumulação é susceptível de prejudicar o exercício das funções que o interessado já desempenhe, nomeadamente por existirem riscos graves de conflito de interesses, ou, tratando-se de pessoas que exerçam funções executivas, por não se verificar disponibilidade suficiente para o exercício do cargo.
 
 2 - O disposto no número anterior não se aplica ao exercício cumulativo de funções de administração em sociedades que se encontrem em relação de domínio ou de grupo.
 
-###### Artigo 58.º-A — Estabelecimento de empresas de resseguros
+Artigo 58.º-A
+
+Estabelecimento de empresas de resseguros
 
 1 - Ao estabelecimento em território português de empresas de resseguros com sede em Portugal é aplicável, com as devidas adaptações e com as especificidade dos n.os 2 a 5, o regime previsto nos artigos 11.º e 12.º, nos n.º 1 e alíneas a) a e) do n.º 2 do artigo 13.º, nos n.os 1, 2, e 5 a 9 do artigo 14.º, nos artigos 15.º a 23.º e nos artigos 41.º e 42.º
 
@@ -1192,29 +1331,41 @@ e) Previsão da margem de solvência e dos meios financeiros necessários à sua
 
 7 - Ao estabelecimento no território português de sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável, com as devidas adaptações, o regime previsto nos n.os 1 a 3, 5 e 6 do artigo 34.º, no n.º 1, na alínea i) do n.º 2 e no n.º 4 do artigo 35.º, nos artigos 36.º a 39.º, bem como nos n.os 3 a 5.
 
-###### Artigo 58.º-B — Controlo dos detentores de participações qualificadas em empresas de resseguros
+Artigo 58.º-B
+
+Controlo dos detentores de participações qualificadas em empresas de resseguros
 
 Ao controlo dos detentores de participações qualificadas em empresas de resseguros é aplicável, com as devidas adaptações, o regime previsto nos artigos 43.º a 50.º
 
-###### Artigo 58.º-C — Administração e fiscalização de empresas de resseguros
+Artigo 58.º-C
+
+Administração e fiscalização de empresas de resseguros
 
 Aos membros dos órgãos de administração e fiscalização de empresas de resseguros é aplicável, com as devidas adaptações, o regime previsto no artigo 51.º e 51.º-A.
 
-###### Artigo 58.º-D — Comunicações subsequentes e registo
+Artigo 58.º-D
+
+Comunicações subsequentes e registo
 
 São aplicáveis às empresas de resseguros, com as devidas adaptações, as disposições sobre comunicações subsequentes e registo previstas nos artigos 52.º a 57.º
 
-###### Artigo 58.º-E — Uso ilegal de denominação no âmbito da actividade resseguradora
+Artigo 58.º-E
+
+Uso ilegal de denominação no âmbito da actividade resseguradora
 
 1 - É vedado a qualquer entidade não autorizada para o exercício exclusivo da actividade resseguradora, quer a inclusão na respectiva denominação, quer o simples uso no exercício da sua actividade, do título ou das palavras «empresa de resseguros», «resseguradora», «ressegurador», «companhia de resseguros», «sociedade de resseguros» ou outros que sugiram a ideia do exercício da actividade resseguradora.
 
 2 - É aplicável o disposto no n.º 2 do artigo 58.º
 
-###### Artigo 67.º-A — Notificação de livre prestação de serviços por empresas de resseguros
+Artigo 67.º-A
+
+Notificação de livre prestação de serviços por empresas de resseguros
 
 As empresas de resseguros com sede em Portugal que pretendam iniciar o exercício das suas actividades em livre prestação de serviços no território de outro ou outros Estados membros é aplicável, com as devidas adaptações, o regime previsto no artigo 59.º
 
-###### Artigo 122.º-D — Directores de topo
+Artigo 122.º-D
+
+Directores de topo
 
 1 - As empresas de seguros devem assegurar que os respectivos directores de topo preenchem os requisitos previstos nos n.os 1, 2 e 4 do artigo 51.º
 
@@ -1222,7 +1373,9 @@ As empresas de resseguros com sede em Portugal que pretendam iniciar o exercíci
 
 3 - Caso o Instituto de Seguros de Portugal verifique que o disposto no n.º 1 não se encontra cumprido pode recomendar à empresa de seguros a substituição do director de topo em causa.
 
-###### Artigo 122.º-E — Códigos de conduta
+Artigo 122.º-E
+
+Códigos de conduta
 
 1 - As empresas de seguros devem estabelecer e monitorizar o cumprimento de códigos de conduta que estabeleçam linhas de orientação em matéria de ética profissional, incluindo princípios para a gestão de conflitos de interesses, aplicáveis aos membros dos órgãos de administração e aos respectivos trabalhadores e colaboradores.
 
@@ -1230,13 +1383,17 @@ As empresas de resseguros com sede em Portugal que pretendam iniciar o exercíci
 
 3 - As empresas de seguros podem elaborar ou adoptar, por adesão, os códigos de conduta elaborados pelas respectivas associações representativas.
 
-###### Artigo 122.º-F — Garantias financeiras das empresas de resseguros
+Artigo 122.º-F
+
+Garantias financeiras das empresas de resseguros
 
 1 - As empresas de resseguros e as sucursais de empresas de resseguros com sede fora do território da União Europeia devem dispor, nos termos dos artigos seguintes, de provisões técnicas, margem de solvência e fundo de garantia.
 
 2 - Para efeitos da supervisão das respectivas garantias financeiras, não pode ser recusado um contrato de retrocessão celebrado por uma empresa de resseguros sediada em Portugal ou por uma sucursal de empresa de resseguros com sede fora do território da União Europeia com uma empresa de seguros referida na alínea b) do n.º 1 do artigo 2.º ou com uma empresa de resseguros referida na alínea c) do n.º 1 do artigo 2.º, por razões directamente relacionadas com a solidez financeira dessa empresa de seguros ou de resseguros.
 
-###### Artigo 122.º-G — Provisões técnicas das empresas de resseguros
+Artigo 122.º-G
+
+Provisões técnicas das empresas de resseguros
 
 1 - Às provisões técnicas das empresas de resseguros com sede em Portugal e das sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável, com as devidas adaptações, o regime previsto nos artigos 69.º a 86.º
 
@@ -1262,7 +1419,9 @@ c) São fixados os critérios de valorimetria dos activos representativos das pr
 
 4 - É aplicável às sucursais de empresas de resseguros com sede fora do território da União Europeia o disposto no artigo 92.º
 
-###### Artigo 122.º-H — Margem de solvência disponível das empresas de resseguros
+Artigo 122.º-H
+
+Margem de solvência disponível das empresas de resseguros
 
 1 - As empresas de resseguros com sede em Portugal devem dispor, em permanência, de uma margem de solvência disponível suficiente em relação ao conjunto das suas actividades, correspondente ao património da empresa livre de qualquer obrigação previsível e deduzido dos elementos incorpóreos incluindo, com as devidas adaptações, os elementos previstos nas alíneas a) a c) do n.º 1 e no n.º 2 do artigo 96.º, e, mediante pedido devidamente fundamentado da empresa de resseguros e autorização do Instituto de Seguros de Portugal os elementos referidos no n.º 3 do mesmo artigo, sendo aplicáveis as deduções previstas nos termos dos n.os 4 a 9 do artigo 96.º
 
@@ -1276,7 +1435,9 @@ c) São fixados os critérios de valorimetria dos activos representativos das pr
 
 6 - É aplicável à avaliação dos elementos elegíveis para efeitos de margem de solvência disponível o disposto no n.º 2 do artigo 95.º
 
-###### Artigo 122.º-I — Margem de solvência exigida das empresas de resseguros
+Artigo 122.º-I
+
+Margem de solvência exigida das empresas de resseguros
 
 1 - A margem de solvência exigida das empresas de resseguros com sede em Portugal e das sucursais de empresas de resseguros com sede fora do território da União Europeia é calculada mediante aplicação, com as devidas adaptações, do regime previsto nos n.os 1 a 9 do artigo 97.º, sem prejuízo do disposto nos número seguintes.
 
@@ -1286,7 +1447,9 @@ c) São fixados os critérios de valorimetria dos activos representativos das pr
 
 4 - No caso de exercício simultâneo de actividades de resseguro de «Vida» e «Não vida», a margem de solvência disponível deve cobrir o montante total das margens de solvências exigidas determinadas nos termos dos números anteriores.
 
-###### Artigo 122.º-J — Fundo de garantia das empresas de resseguros
+Artigo 122.º-J
+
+Fundo de garantia das empresas de resseguros
 
 1 - As empresas de resseguros com sede em Portugal e as sucursais de empresas de resseguros com sede fora do território da União Europeia devem, desde o momento em que são autorizadas, dispor e manter um fundo de garantia, que faz parte integrante da margem de solvência e que corresponde a um terço da margem de solvência exigida, com o limite mínimo de (euro) 3 000 000.
 
@@ -1298,7 +1461,9 @@ c) São fixados os critérios de valorimetria dos activos representativos das pr
 
 5 - Aos montantes previstos nos n.os 1 e 2 é aplicável o disposto no n.º 4 do artigo 102.º
 
-###### Artigo 122.º-L — Fiscalização das garantias financeiras das empresas de resseguros
+Artigo 122.º-L
+
+Fiscalização das garantias financeiras das empresas de resseguros
 
 1 - Às empresas de resseguros com sede em Portugal é aplicável, com as devidas adaptações, o regime previsto nos artigos 105.º e 105.º-A.
 
@@ -1306,7 +1471,9 @@ c) São fixados os critérios de valorimetria dos activos representativos das pr
 
 3 - Às sucursais de empresas de resseguros com sede fora do território da União Europeia é aplicável, com as devidas adaptações, o regime previsto no artigo 107.º
 
-###### Artigo 122.º-M — Risco de insuficiência das garantias financeiras das empresas de resseguros
+Artigo 122.º-M
+
+Risco de insuficiência das garantias financeiras das empresas de resseguros
 
 1 - Quando o Instituto de Seguros de Portugal verificar que uma empresa de resseguros se encontra em risco de ficar numa situação financeira insuficiente, colocando em causa as obrigações decorrentes dos contratos de resseguro, deve esta empresa, a solicitação e no prazo que lhe vier a ser fixado, submeter à apreciação desse Instituto um plano de reequilíbrio da situação financeira, fundado num adequado plano de actividades.
 
@@ -1314,17 +1481,23 @@ c) São fixados os critérios de valorimetria dos activos representativos das pr
 
 3 - Sempre que as obrigações decorrentes dos contratos de resseguro estiverem em risco em virtude da deterioração da situação financeira de uma empresa de resseguros, o Instituto de Seguros de Portugal pode determinar que essa empresa de resseguros tenha uma margem de solvência exigida superior à que resultaria da aplicação do artigo 122.º-I, e cujo nível é estabelecido em articulação com o plano de reequilíbrio.
 
-###### Artigo 122.º-N — Insuficiência das garantias financeiras das empresas de resseguros
+Artigo 122.º-N
+
+Insuficiência das garantias financeiras das empresas de resseguros
 
 1 - Se a empresa de resseguros não apresentar garantias financeiras suficientes nos termos legais e regulamentares, é aplicável, com as devidas adaptações, o regime previsto nos artigos 109.º a 120.º
 
 2 - No caso de liquidação de uma empresa de resseguros, as obrigações decorrentes dos contratos celebrados através de sucursais ou em regime de livre prestação de serviços são cumpridas do mesmo modo que as obrigações decorrentes de outros contratos de resseguro da mesma empresa, sendo aplicável, com as devidas adaptações, o regime previsto para as empresas de seguros que não dependa de procedimentos comunitários harmonizados.
 
-###### Artigo 122.º-O — Sistema de governo das empresas de resseguros
+Artigo 122.º-O
+
+Sistema de governo das empresas de resseguros
 
 As empresas de resseguros com sede em Portugal e as sucursais de empresas de resseguros com sede fora do território da União Europeia devem dispor das estruturas e mecanismos de governo constantes dos artigos 122.º-A a 122.º-E.
 
-###### Artigo 131.º-C — Princípios gerais de conduta de mercado
+Artigo 131.º-C
+
+Princípios gerais de conduta de mercado
 
 1 - As empresas de seguros devem actuar de forma diligente, equitativa e transparente no seu relacionamento com os tomadores de seguros, segurados, beneficiários ou terceiros lesados.
 
@@ -1332,7 +1505,9 @@ As empresas de resseguros com sede em Portugal e as sucursais de empresas de res
 
 3 - O Instituto de Seguros de Portugal pode estabelecer, por norma regulamentar, princípios gerais a respeitar pelas empresas de seguros no cumprimento dos deveres previstos nos números anteriores.
 
-###### Artigo 131.º-D — Gestão de reclamações
+Artigo 131.º-D
+
+Gestão de reclamações
 
 1 - As empresas de seguros devem instituir uma função autónoma responsável pela gestão das reclamações dos tomadores de seguros, segurados, beneficiários ou terceiros lesados relativas aos respectivos actos ou omissões, que seja desempenhada por pessoas idóneas que detenham qualificação profissional adequada.
 
@@ -1342,7 +1517,9 @@ As empresas de resseguros com sede em Portugal e as sucursais de empresas de res
 
 4 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, princípios gerais a respeitar no cumprimento dos deveres previstos nos números anteriores.
 
-###### Artigo 131.º-E — Provedor do cliente
+Artigo 131.º-E
+
+Provedor do cliente
 
 1 - As empresas de seguros designam, de entre entidades ou peritos independentes de reconhecido prestígio e idoneidade, o provedor dos clientes, ao qual os tomadores de seguros, segurados, beneficiários ou terceiros lesados podem apresentar reclamações relativas a actos ou omissões daquelas empresas, desde que as mesmas não tenham sido resolvidas no âmbito da gestão das reclamações prevista no artigo anterior.
 
@@ -1362,17 +1539,23 @@ As empresas de resseguros com sede em Portugal e as sucursais de empresas de res
 
 9 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, princípios gerais a respeitar no cumprimento dos deveres previstos nos números anteriores.
 
-###### Artigo 131.º-F — Política antifraude
+Artigo 131.º-F
+
+Política antifraude
 
 1 - As empresas de seguros devem definir uma política de prevenção, detecção e reporte de situações de fraude nos seguros.
 
 2 - O Instituto de Seguros de Portugal estabelece, por norma regulamentar, princípios gerais a respeitar pelas empresas de seguros no cumprimento do dever previsto no número anterior.
 
-###### Artigo 151.º A — Cedente com sede em Portugal ou sucursal com sede fora da União Europeia e cessionária sucursal com sede na Suíça
+Artigo 151.º A
+
+Cedente com sede em Portugal ou sucursal com sede fora da União Europeia e cessionária sucursal com sede na Suíça
 
 As empresas de seguros com sede em território português e as sucursais de empresas de seguros cuja sede se situe fora do território da União Europeia e estabelecidas em território português podem, mediante autorização do Instituto de Seguros de Portugal, transferir a totalidade ou parte dos contratos da respectiva carteira para sucursais de empresas de seguros que explorem seguros dos ramos «Não vida» cuja sede se situe na Suíça e estabelecidas em território português, desde que a autoridade competente do país da empresa cessionária ateste que esta possui, atendendo a essa mesma transferência, a margem de solvência necessária para o efeito.
 
-###### Artigo 155.º-A — Transferências de carteira de resseguros
+Artigo 155.º-A
+
+Transferências de carteira de resseguros
 
 1 - À transferência, total ou parcial, de carteira de resseguros, subscritos em regime de estabelecimento ou em regime de livre prestação de serviços, entre cedente com sede em Portugal e cessionária estabelecida na União Europeia é aplicável, com as devidas adaptações, o regime previsto no n.º 1 e na alínea a) do n.º 2 do artigo 148.º
 
@@ -1452,15 +1635,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, co
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 21 de Outubro de 2008.**
+Promulgado em 21 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Outubro de 2008.**
+Referendado em 23 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 94-B/98, de 17 de Abril
 
@@ -4348,7 +4531,9 @@ j) «Sociedade gestora de participações no sector dos seguros» uma empresa m�
 
 l) «Sociedade gestora de participações mista de seguros» uma empresa mãe que não seja uma empresa de seguros, uma empresa de resseguros, uma empresa de seguros ou de resseguros de um país terceiro, uma sociedade gestora de participações no sector dos seguros ou uma companhia financeira mista na acepção da alínea l) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de Julho, sendo pelo menos uma das suas filiais uma empresa de seguros ou uma empresa de resseguros.
 
-###### Artigo 172.º-B — Âmbito positivo
+Artigo 172.º-B
+
+Âmbito positivo
 
 1 - Sem prejuízo da respectiva supervisão individual, estão sujeitas à supervisão complementar prevista na presente secção as empresas de seguros e as empresas de resseguros com sede em Portugal:
 
@@ -4368,7 +4553,9 @@ c) As empresas participadas de uma empresa participante da empresa de seguros ou
 
 3 - O exercício da supervisão complementar não implica que o Instituto de Seguros de Portugal supervisione as empresas de seguros ou de resseguros de um país terceiro, as sociedades gestoras de participações no sector dos seguros ou as sociedades gestoras de participações mistas de seguros, individualmente consideradas.
 
-###### Artigo 172.º-C — Âmbito negativo
+Artigo 172.º-C
+
+Âmbito negativo
 
 1 - O Instituto de Seguros de Portugal pode não ter em conta, na supervisão complementar, empresas cuja sede se situe num país terceiro em que existam obstáculos jurídicos à transferência da informação necessária.
 
@@ -4380,13 +4567,17 @@ a) Quando a empresa a incluir apresentar um interesse pouco significativo, atend
 
 b) Quando a inclusão da situação financeira da empresa for inadequada ou susceptível de induzir em erro, atendendo aos objectivos da supervisão complementar das empresas de seguros ou de resseguros.
 
-###### Artigo 172.º-D — Disponibilidade e qualidade da informação
+Artigo 172.º-D
+
+Disponibilidade e qualidade da informação
 
 1 - As empresas de seguros ou de resseguros sujeitas à supervisão complementar devem dispor de procedimentos de controlo interno adequados à produção de dados e informação úteis ao exercício dessa supervisão, nos termos a fixar por norma regulamentar do Instituto de Seguros de Portugal.
 
 2 - As empresas de seguros ou de resseguros sujeitas à supervisão complementar e as respectivas empresas participantes ou participadas devem trocar entre si todas as informações consideradas úteis para efeitos do exercício dessa supervisão.
 
-###### Artigo 172.º-E — Operações intragrupo
+Artigo 172.º-E
+
+Operações intragrupo
 
 1 - O Instituto de Seguros de Portugal exercerá uma supervisão geral das operações entre:
 
@@ -4402,7 +4593,9 @@ b) Uma empresa de seguros ou de resseguros e uma pessoa singular detentora de um
 
 5 - Se, com base nas informações prestadas pela empresa de seguros ou de resseguros, o Instituto de Seguros de Portugal entender que a sua solvência está ou pode vir a estar em risco, cabe-lhe determinar o que for adequado à correcção dessa situação ao nível da empresa de seguros ou de resseguros.
 
-###### Artigo 172.º-F — Requisito de solvência corrigido
+Artigo 172.º-F
+
+Requisito de solvência corrigido
 
 1 - No caso previsto na alínea a) do n.º 1 do artigo 172.º-B será efectuado um cálculo de solvência corrigida, nos termos de norma do Instituto de Seguros de Portugal, a qual proverá nomeadamente à eliminação, quer da dupla utilização dos elementos da margem de solvência disponível, quer da criação intragrupo de capital.
 
@@ -4412,7 +4605,7 @@ b) Uma empresa de seguros ou de resseguros e uma pessoa singular detentora de um
 
 4 - Se o cálculo previsto no n.º 1 revelar que a solvência corrigida é negativa, o Instituto de Seguros de Portugal determinará o que for adequado à correcção dessa situação.
 
-###### Artigo 172.º-G
+Artigo 172.º-G
 
 Supervisão complementar de empresas de seguros ou de resseguros que sejam filiais de uma sociedade gestora de participações no sector dos seguros ou de uma empresa de seguros ou de resseguros de um país terceiro.
 
@@ -4422,17 +4615,25 @@ Supervisão complementar de empresas de seguros ou de resseguros que sejam filia
 
 3 - Se o cálculo previsto no n.º 1 revelar que a solvência da empresa de seguros ou de resseguros filial da sociedade gestora de participações no sector dos seguros, da empresa de seguros ou de resseguros de país terceiro está ou pode vir a estar em risco, o Instituto de Seguros de Portugal determina o que for adequado à correcção dessa situação ao nível da empresa de seguros ou de resseguros.
 
-###### Artigo 172.º-H — Órgãos de administração e de fiscalização das sociedades gestoras de participações no sector dos seguros
+Artigo 172.º-H
+
+Órgãos de administração e de fiscalização das sociedades gestoras de participações no sector dos seguros
 
 Aos membros dos órgãos de administração e de fiscalização de uma sociedade gestora de participações no sector dos seguros são aplicáveis os requisitos de qualificação e idoneidade previstos no artigo 51.º e o regime previsto no artigo 54.º
 
-###### Artigo 172.º-I — Supervisão complementar de empresas de seguros que sejam filiais de uma companhia financeira mista
+Artigo 172.º-I
+
+Supervisão complementar de empresas de seguros que sejam filiais de uma companhia financeira mista
 
 Sem prejuízo da aplicação das disposições relativas à supervisão complementar ao nível do conglomerado financeiro, nos casos em que a empresa-mãe de uma empresa de seguros seja uma companhia financeira mista, o Instituto de Seguros de Portugal pode continuar a aplicar as disposições relativas à supervisão complementar ao nível do grupo de seguros na mesma medida em que tais disposições seriam aplicadas caso não existisse a supervisão complementar ao nível do conglomerado financeiro.
 
-### CAPÍTULO VII — Regime fiscal
+CAPÍTULO VII
 
-###### Artigo 173.º — Regime fiscal
+Regime fiscal
+
+Artigo 173.º
+
+Regime fiscal
 
 1 - Os prémios dos contratos de seguro que cubram riscos situados em território português na acepção da alínea j) do n.º 1 do artigo 2.º ou em que Portugal seja o Estado membro do compromisso na acepção da alínea l) do n.º 1 do mesmo artigo estão sujeitos aos impostos indirectos e taxas previstos na lei portuguesa, independentemente da lei que vier a ser aplicada ao contrato e sem prejuízo da legislação especial aplicável ao exercício da actividade seguradora no âmbito institucional das zonas francas.
 
@@ -4442,11 +4643,15 @@ Sem prejuízo da aplicação das disposições relativas à supervisão compleme
 
 4 - O estabelecido nos n.os 1 e 2 é aplicável sem prejuízo do disposto no Código do Imposto sobre o Valor Acrescentado e legislação complementar.
 
-###### Artigo 174.º — Cobrança
+Artigo 174.º
+
+Cobrança
 
 As sucursais estabelecidas em Portugal são responsáveis pelo pagamento dos impostos indirectos e taxas que incidam sobre os prémios dos contratos que celebrarem nas condições previstas no presente diploma.
 
-###### Artigo 175.º — Representante fiscal
+Artigo 175.º
+
+Representante fiscal
 
 1 - As empresas de seguros que operem em Portugal, em livre prestação de serviços, devem, antes do início da sua actividade, designar um representante, munido de procuração com poderes bastantes, residente habitualmente em território português, solidariamente responsável pelo pagamento dos impostos indirectos e taxas que incidam sobre os prémios dos contratos que a empresa celebrar nas condições previstas no presente diploma.
 
@@ -4462,9 +4667,13 @@ d) Montante do prémio devido pelo tomador de seguro e sobre o qual incidem os i
 
 e) Discriminação dos impostos indirectos e taxas pagos pela empresa.
 
-### CAPÍTULO VIII — Concorrência
+CAPÍTULO VIII
 
-###### Artigo 175.º-A — Defesa da concorrência
+Concorrência
+
+Artigo 175.º-A
+
+Defesa da concorrência
 
 1 - A actividade das empresas de seguros, bem como a das suas associações empresariais, está sujeita à legislação da defesa da concorrência.
 
@@ -4476,41 +4685,55 @@ b) Estabelecimento de condições tipo de apólices.
 
 3 - Na aplicação da legislação de defesa da concorrência às empresas de seguros e suas associações empresariais ter-se-ão sempre em conta os bons usos da respectiva actividade, nomeadamente no que respeite às circunstâncias de risco ou solvabilidade.
 
-###### Artigo 175.º-B — Colaboração do Instituto de Seguros de Portugal
+Artigo 175.º-B
+
+Colaboração do Instituto de Seguros de Portugal
 
 Nos processos instaurados por práticas restritivas da concorrência imputáveis a empresas de seguros ou suas associações empresariais será obrigatoriamente solicitado e enviado ao Conselho da Concorrência o parecer do Instituto de Seguros de Portugal, sem prejuízo de outras formas de cooperação, nas matérias relevantes, com as autoridades nacionais de concorrência.
 
-## TÍTULO IV — Disposições aplicáveis ao contrato de seguro
+TÍTULO IV
 
-### CAPÍTULO I
+Disposições aplicáveis ao contrato de seguro
+
+CAPÍTULO I
 
 Ramos «Não vida»
 
-###### Artigo 176.º — Dever de informação
+Artigo 176.º
+
+Dever de informação
 
 1 - As empresas de seguros que se proponham cobrir riscos de massa situados em território português, em regime de estabelecimento ou em regime de livre prestação de serviços, devem informar o tomador de seguro, antes de este assumir qualquer obrigação ou compromisso, do nome do Estado membro onde se situa a sede social e, se for caso disso, a sucursal com a qual o contrato será celebrado.
 
 2 - A informação a que se refere o número anterior deve constar também de quaisquer documentos a serem fornecidos ao tomador de seguro.
 
-###### Artigo 177.º — Informação ao tomador do seguro sobre a lei aplicável ao contrato e reclamações
+Artigo 177.º
+
+Informação ao tomador do seguro sobre a lei aplicável ao contrato e reclamações
 
 1 - As empresas de seguros que se proponham cobrir riscos situados em território português, em regime de estabelecimento ou em regime de livre prestação de serviços, devem, antes da celebração do contrato de seguro, informar o respectivo tomador, caso se trate de uma pessoa singular, de que as partes têm, nos termos dos artigos 188.º a 193.º e sem prejuízo do disposto no artigo 193.º, liberdade para escolher a lei aplicável ao contrato e indicar qual a lei que a empresa propõe que seja escolhida.
 
 2 - O dever de informação referido no número anterior deverá também incluir as disposições respeitantes à apresentação e exame das reclamações relativas ao contrato de seguro por parte dos respectivos tomadores, incluindo a referência à possibilidade de intervenção do Instituto de Seguros de Portugal, sem prejuízo do recurso aos tribunais.
 
-###### Artigo 178.º — Menções especiais
+Artigo 178.º
+
+Menções especiais
 
 1 - O contrato ou qualquer outro documento que assegure a cobertura de riscos situados em Portugal, bem como a proposta de seguro, devem indicar o endereço da sede social e, se for caso disso, da sucursal que presta a cobertura.
 
 2 - Os documentos referidos no número anterior devem também indicar, se for caso disso, o nome e o endereço do representante referido no artigo 66.º
 
-### CAPÍTULO II
+CAPÍTULO II
 
 Ramo «Vida»
 
-#### SECÇÃO I — Transparência
+SECÇÃO I
 
-###### Artigo 179.º — Dever de informação antes da celebração do contrato de seguro ou operação
+Transparência
+
+Artigo 179.º
+
+Dever de informação antes da celebração do contrato de seguro ou operação
 
 1 - As empresas de seguros que se proponham celebrar contratos de seguro ou operações do ramo «Vida» previstos nos n.os 1) a 4) do artigo 124.º e em que Portugal seja o Estado membro do compromisso devem, antes da respectiva celebração, fornecer ao tomador, de forma clara, por escrito e redigidas em língua portuguesa, as seguintes informações:
 
@@ -4548,7 +4771,9 @@ q) Liberdade das partes, sem prejuízo do disposto no artigo 193.º, para escolh
 
 2 - A proposta deve conter uma menção comprovativa de que o tomador tomou conhecimento das informações referidas no número anterior, presumindo-se, na sua falta, que o mesmo não tomou conhecimento delas, assistindo-lhe, neste caso, o direito de resolver o contrato de seguro no prazo referido no artigo 182.º e de ser reembolsado da totalidade das importâncias pagas.
 
-###### Artigo 180.º — Dever de informação durante a vigência do contrato ou operação
+Artigo 180.º
+
+Dever de informação durante a vigência do contrato ou operação
 
 1 - Durante a vigência do contrato ou operação, para além das condições gerais, especiais e particulares que devem ser entregues ao tomador, as empresas de seguros referidas na presente secção devem também comunicar-lhe o seguinte:
 
@@ -4558,15 +4783,21 @@ b) Anualmente, informação relativa à atribuição da participação de result
 
 2 - Em caso de incumprimento do disposto no número anterior e sem prejuízo do direito de resolução do contrato ou operação que assiste ao tomador ou ao segurado, a empresa de seguros será responsável por perdas e danos.
 
-###### Artigo 181.º — Informações suplementares
+Artigo 181.º
+
+Informações suplementares
 
 1 - Para além das informações referidas nos artigos 179.º e 180.º, as empresas de seguros referidas na presente secção devem prestar ao tomador todas as informações suplementares necessárias para a efectiva compreensão do contrato ou operação.
 
 2 - Em caso de incumprimento do número anterior, é aplicável o disposto no n.º 2 do artigo 179.º ou no n.º 2 do artigo 180.º, consoante sejam informações suplementares às que devam ser prestadas antes da celebração do contrato ou operação ou durante a sua vigência.
 
-#### SECÇÃO II — Direito de renúncia
+SECÇÃO II
 
-###### Artigo 182.º — Direito de renúncia
+Direito de renúncia
+
+Artigo 182.º
+
+Direito de renúncia
 
 1 - O tomador de um contrato de seguro ou de qualquer operação do ramo «Vida» previstas no artigo 124.º dispõe de um prazo de 30 dias, a contar da recepção da apólice, para expedir a carta renunciando aos efeitos do contrato ou operação.
 
@@ -4574,7 +4805,9 @@ b) Anualmente, informação relativa à atribuição da participação de result
 
 3 - Sob pena de ineficácia, a comunicação da renúncia referida nos números anteriores deve ser notificada, por carta registada, enviada para o endereço da sede social ou da sucursal da empresa de seguros que celebrou o contrato.
 
-###### Artigo 183.º — Efeitos
+Artigo 183.º
+
+Efeitos
 
 1 - O exercício do direito de renúncia determina a resolução do contrato ou operação, extinguindo todas as obrigações deles decorrentes, com efeitos a partir da celebração dos mesmos, havendo lugar, nomeadamente, a devolução do prémio eventualmente já pago e cessando qualquer direito à percepção de comissões pelos respectivos mediadores, sem prejuízo do disposto nos números seguintes.
 
@@ -4584,13 +4817,19 @@ b) Anualmente, informação relativa à atribuição da participação de result
 
 4 - O exercício do direito de renúncia não dá lugar a qualquer indemnização para além do que é estabelecido nos números anteriores.
 
-###### Artigo 184.º — Exclusões
+Artigo 184.º
+
+Exclusões
 
 O direito de renúncia previsto na presente secção não pode ser exercido se o tomador for uma pessoa colectiva nem se aplica aos contratos de duração igual ou inferior a seis meses e aos seguros de grupo.
 
-#### SECÇÃO III — Seguros e operações do ramo «Vida» em moeda estrangeira
+SECÇÃO III
 
-###### Artigo 185.º — Objecto
+Seguros e operações do ramo «Vida» em moeda estrangeira
+
+Artigo 185.º
+
+Objecto
 
 1 - As empresas de seguros estabelecidas em Portugal que explorem o ramo «Vida» podem, nos termos das disposições da presente secção, celebrar contratos e operações com expressão em moeda estrangeira.
 
@@ -4600,17 +4839,25 @@ O direito de renúncia previsto na presente secção não pode ser exercido se o
 
 4 - Em relação aos contratos referidos no n.º 1, a taxa de câmbio do euro será a divulgada pelo Banco de Portugal, nos termos dos n.os 3 a 8 do seu Aviso n.º 1/99, de 4 de Janeiro, no dia anterior àquele em que é emitido o recibo para pagamento do prémio ou prestação ou àquele em que se vence a obrigação por parte da empresa de seguros.
 
-###### Artigo 186.º — Produção anual
+Artigo 186.º
+
+Produção anual
 
 Por norma do Instituto de Seguros de Portugal podem ser fixadas limitações ao montante anual global dos prémios e prestações convertidos em euros com referência aos contratos celebrados em moeda estrangeira, por cada empresa de seguros.
 
-###### Artigo 187.º — Princípio da congruência
+Artigo 187.º
+
+Princípio da congruência
 
 A aplicação do princípio da congruência aos activos representativos das provisões técnicas relativas aos contratos a que se refere a presente secção será objecto de norma do Instituto de Seguros de Portugal, não sendo aplicável o disposto no artigo 88.º em matéria de localização de activos.
 
-### CAPÍTULO III — Lei aplicável ao contrato
+CAPÍTULO III
 
-###### Artigo 188.º — Tomador do seguro residente
+Lei aplicável ao contrato
+
+Artigo 188.º
+
+Tomador do seguro residente
 
 1 - Os contratos de seguro que cubram riscos situados em território português ou em que Portugal seja o Estado membro do compromisso são regulados pela lei portuguesa quando o tomador de seguro tiver em Portugal a sua residência habitual ou a sua administração principal, consoante se trate de pessoa singular ou colectiva, respectivamente, sem prejuízo do disposto no número seguinte.
 
@@ -4618,19 +4865,25 @@ A aplicação do princípio da congruência aos activos representativos das prov
 
 3 - Sempre que um Estado integre diversas unidades territoriais e cada uma delas possua as suas próprias regras de direito em matéria de obrigações contratuais, cada unidade é considerada como um país para efeitos da determinação da lei aplicável ao contrato de seguro.
 
-###### Artigo 189.º — Tomador de seguro não residente
+Artigo 189.º
+
+Tomador de seguro não residente
 
 1 - Os contratos de seguro que cubram riscos situados em território português, quando o tomador do seguro não tiver em Portugal a sua residência habitual ou a sua administração principal, consoante se trate de pessoa singular ou colectiva, são regulados, atendendo à opção das partes contratantes, quer pela lei portuguesa quer pela lei do Estado membro onde o tomador tiver a sua residência habitual ou a sua administração principal, sem prejuízo do disposto no número seguinte.
 
 2 - As partes contratantes podem escolher a lei de qualquer outro país, nos termos previstos no artigo 191.º
 
-###### Artigo 190.º — Pluralidade de riscos
+Artigo 190.º
+
+Pluralidade de riscos
 
 1 - Os contratos de seguro que cubram dois ou mais riscos situados em Portugal e noutros Estados membros relativos às actividades do tomador do seguro e quando este exerça uma actividade comercial, industrial ou liberal são regulados, consoante a opção das partes contratantes, quer pela lei de qualquer dos Estados membros em que os riscos se situam quer pela lei do Estado membro onde o tomador tiver a sua residência habitual, sendo uma pessoa singular, ou a sua administração principal, tratando-se de uma pessoa colectiva, sem prejuízo do disposto no número seguinte.
 
 2 - Relativamente aos riscos situados em território português, as partes contratantes podem escolher a lei de qualquer outro país, nos termos previstos no artigo 191.º
 
-###### Artigo 191.º — Declaração expressa
+Artigo 191.º
+
+Declaração expressa
 
 1 - A escolha, pelas partes contratantes, da lei aplicável aos contratos de seguro que cubram riscos situados em território português ou em que Portugal seja o Estado membro do compromisso deve ser expressa no contrato ou resultar inequivocamente das suas cláusulas, só podendo recair sobre leis cuja aplicabilidade corresponda a um interesse sério dos declarantes ou esteja em conexão com alguns dos elementos do negócio jurídico atendíveis no domínio do direito internacional privado.
 
@@ -4640,7 +4893,9 @@ A aplicação do princípio da congruência aos activos representativos das prov
 
 4 - Presume-se que o contrato de seguro apresenta uma mais estreita conexão com a ordem jurídica do Estado membro onde o risco se situa.
 
-###### Artigo 192.º — Ordem pública
+Artigo 192.º
+
+Ordem pública
 
 1 - A lei aplicável aos contratos de seguro que cubram riscos situados em território português ou em que Portugal seja o Estado membro do compromisso não poderá envolver ofensa dos princípios fundamentais da ordem pública internacional do Estado Português.
 
@@ -4660,19 +4915,27 @@ e) Morte de crianças com idade inferior a 14 anos, com excepção das despesas 
 
 f) Com ressalva do disposto na alínea anterior, morte de incapazes, com excepção das despesas de funeral.
 
-###### Artigo 193.º — Seguros obrigatórios
+Artigo 193.º
+
+Seguros obrigatórios
 
 1 - Os contratos de seguros obrigatórios na ordem jurídica portuguesa regem-se pela lei portuguesa, sem prejuízo do disposto no n.º 2 do artigo anterior.
 
 2 - Os contratos de seguro obrigatório dos riscos classificados no ramo de responsabilidade civil de veículos terrestres propulsionados a motor cuja celebração seja recusada por três empresas de seguros encontram-se sujeitos à legislação nacional prevista para o seguro obrigatório de responsabilidade civil automóvel.
 
-## TÍTULO V — Endividamento
+TÍTULO V
 
-###### Artigo 194.º — Princípio
+Endividamento
+
+Artigo 194.º
+
+Princípio
 
 As empresas de seguros estão autorizadas a contrair ou emitir empréstimos nos termos do presente diploma.
 
-###### Artigo 195.º — Regime geral
+Artigo 195.º
+
+Regime geral
 
 1 - O montante dos empréstimos contraídos ou emitidos por uma empresa de seguros, independentemente da sua forma, mas com exclusão dos empréstimos subordinados aceites para constituição da margem de solvência disponível, não pode ultrapassar 50 % do seu património livre líquido.
 
@@ -4704,7 +4967,9 @@ b) O património livre líquido corresponde ao património, deduzido de toda e q
 
 7 - Ao aumento de capital social por novas entradas efectuado nos termos do n.º 5 não é aplicável a faculdade constante do n.º 2 do artigo 277.º do Código das Sociedades Comerciais.
 
-###### Artigo 196.º — Regime especial
+Artigo 196.º
+
+Regime especial
 
 1 - Para ultrapassar o limite fixado no n.º 1 do artigo anterior, mas só até 75 % do património livre líquido, a deliberação social de endividamento deverá ser tomada pela assembleia geral nos termos dos artigos 383.º, n.º 2, e 386.º, n.º 3, do Código das Sociedades Comerciais.
 
@@ -4712,41 +4977,57 @@ b) O património livre líquido corresponde ao património, deduzido de toda e q
 
 3 - À empresa que, após a contracção ou a emissão de um empréstimo, exceda a percentagem fixada no n.º 1 do presente artigo, é aplicável o regime previsto nos n.os 5 a 7 do artigo anterior.
 
-###### Artigo 197.º — Elementos documentais
+Artigo 197.º
+
+Elementos documentais
 
 O Instituto de Seguros de Portugal fixará por norma quais os elementos documentais das empresas de seguros, e respectivos termos, relevantes para aferir do cumprimento dos limites fixados nos n.os 1 e 4 do artigo 195.º e no n.º 1 do artigo anterior.
 
-###### Artigo 198.º — Empresas em situação financeira insuficiente
+Artigo 198.º
+
+Empresas em situação financeira insuficiente
 
 1 - Às empresas de seguros em situação financeira insuficiente, nos termos dos artigos 109.º e seguintes, é vedada a contracção ou emissão de empréstimos até que se mostrem acauteladas as suas responsabilidades para com os credores específicos de seguros, salvo se autorizadas previamente pelo Instituto de Seguros de Portugal.
 
 2 - O Instituto de Seguros de Portugal, quando tal se mostre indispensável para acautelar as responsabilidades para com os credores específicos de seguros de empresas na situação prevista no número anterior, poderá determinar a suspensão do cumprimento das obrigações dessas empresas decorrentes de quaisquer seus empréstimos, sem prejuízo das responsabilidades destas empresas para com os seus mutuantes.
 
-###### Artigo 199.º — Fundo de amortização
+Artigo 199.º
+
+Fundo de amortização
 
 O Instituto de Seguros de Portugal pode, se o considerar necessário, determinar a constituição de um fundo para amortização do empréstimo contraído ou emitido.
 
-###### Artigo 200.º — Publicidade
+Artigo 200.º
+
+Publicidade
 
 Nos prospectos, anúncios, títulos dos empréstimos e todos os documentos em geral relativos a quaisquer empréstimos contraídos ou emitidos pelas empresas de seguros, deve constar, de forma explicita, a preferência de que os credores específicos de seguros gozam sobre o seu património em caso de liquidação ou falência, assim como os poderes do Instituto de Seguros de Portugal decorrentes do n.º 2 do artigo 198.º
 
-###### Artigo 201.º — Títulos de dívida de curto prazo
+Artigo 201.º
+
+Títulos de dívida de curto prazo
 
 1 - Sem prejuízo do presente diploma e respectivas normas de execução, a emissão de títulos de dívida a curto prazo pelas empresas de seguros regula-se pelo disposto no Decreto-Lei n.º 69/2004, de 25 de Março.
 
 2 - [Revogado]
 
-###### Artigo 201.º-A — Aquisição de acções próprias
+Artigo 201.º-A
+
+Aquisição de acções próprias
 
 Sem prejuízo do regime geral, só podem adquirir acções próprias as empresas de seguros em que o património livre líquido não seja inferior nem a metade do capital social mínimo obrigatório nem ao valor necessário para a constituição da margem de solvência exigida.
 
-###### Artigo 201.º-B — Nulidade
+Artigo 201.º-B
+
+Nulidade
 
 1 - Sem prejuízo da aplicação do regime geral sancionatório da actividade seguradora, são nulos a aquisição de acções próprias e os empréstimos contraídos ou emitidos com violação do disposto no presente diploma.
 
 2 - O Instituto de Seguros de Portugal tem legitimidade para requerer a declaração de nulidade dessas aquisições e empréstimos, bem como as providências cautelares necessárias à garantia da sua eficácia.
 
-###### Artigo 201.º-C — Empresas com sede fora do território da União Europeia
+Artigo 201.º-C
+
+Empresas com sede fora do território da União Europeia
 
 1 - Às dívidas resultantes de empréstimos contraídos ou emitidos por empresas de seguros com sede fora do território da União Europeia cujo produto seja imputável à actividade das respectivas sucursais estabelecidas em Portugal, aplica-se, com as devidas adaptações e sem prejuízo do fixado nos números seguintes, o disposto nos artigos 195.º a 200.º
 
@@ -4754,27 +5035,43 @@ Sem prejuízo do regime geral, só podem adquirir acções próprias as empresas
 
 3 - Enquanto a situação não for reposta nos termos do número anterior, a sucursal não pode efectuar transferências de fundos para a sede social ou para qualquer sucursal ou filial localizada fora do território nacional, salvo se autorizada previamente pelo Instituto de Seguros de Portugal.
 
-## TÍTULO VI — Sanções
+TÍTULO VI
 
-### CAPÍTULO I — Ilícito penal
+Sanções
 
-###### Artigo 202.º — Prática ilícita de actos ou operações de seguros, de resseguros ou de gestão de fundos de pensões
+CAPÍTULO I
+
+Ilícito penal
+
+Artigo 202.º
+
+Prática ilícita de actos ou operações de seguros, de resseguros ou de gestão de fundos de pensões
 
 Quem praticar actos ou operações de seguros, de resseguros ou de gestão de fundos de pensões, por conta própria ou alheia, sem que para tal exista a necessária autorização é punido com pena de prisão até três anos.
 
-###### Artigo 203.º — Dever de colaboração
+Artigo 203.º
+
+Dever de colaboração
 
 As entidades suspeitas da prática de actos ou operações não autorizados devem facultar ao Instituto de Seguros de Portugal todos os documentos e informações que lhes sejam solicitados, no prazo para o efeito estabelecido.
 
-### CAPÍTULO II — Contra-ordenações
+CAPÍTULO II
 
-#### SECÇÃO I — Disposições gerais
+Contra-ordenações
 
-###### Artigo 204.º — Definições
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 204.º
+
+Definições
 
 Para os efeitos do presente capítulo, consideram-se entidades sujeitas à supervisão do Instituto de Seguros de Portugal as entidades autorizadas a exercer actividade sujeita à supervisão daquele Instituto, designadamente as empresas de seguros e de resseguros com sede em Portugal, as sucursais de empresas de seguros com sede na União Europeia, as sucursais de empresas de seguros com sede fora da União Europeia e as sociedades gestoras de fundos de pensões.
 
-###### Artigo 205.º — Aplicação no espaço
+Artigo 205.º
+
+Aplicação no espaço
 
 1 - O disposto no presente capítulo é aplicável, salvo tratado ou convenção em contrário, independentemente da nacionalidade do agente, aos factos praticados:
 
@@ -4786,7 +5083,9 @@ c) A bordo de navios ou aeronaves portugueses.
 
 2 - A aplicabilidade do disposto no presente capítulo aos factos praticados em território estrangeiro deverá respeitar, com as necessárias adaptações, os princípios enunciados nos n.os 1 e 2 do artigo 6.º do Código Penal.
 
-###### Artigo 206.º — Responsabilidade
+Artigo 206.º
+
+Responsabilidade
 
 1 - Pela prática das infracções a que se refere o presente capítulo, podem ser responsabilizadas, conjuntamente ou não, pessoas singulares ou colectivas, ainda que irregularmente constituídas, e associações sem personalidade jurídica.
 
@@ -4802,7 +5101,9 @@ c) A bordo de navios ou aeronaves portugueses.
 
 7 - Não obsta à responsabilidade dos agentes individuais que representem outrem a circunstância de a ilicitude ou o grau de ilicitude depender de certas qualidades ou relações especiais do agente e estas só se verificarem na pessoa do representado, ou de requerer que o agente pratique o acto no seu próprio interesse, tendo o representante actuado no interesse do representado.
 
-###### Artigo 207.º — Graduação da sanção
+Artigo 207.º
+
+Graduação da sanção
 
 1 - A medida da coima e as sanções acessórias aplicáveis serão determinadas em função da culpa, da situação económica do agente e da sua conduta anterior.
 
@@ -4826,33 +5127,45 @@ b) Benefício, ou intenção de o obter, do próprio, do cônjuge, de parente ou
 
 5 - A coima deve, sempre que possível, exceder o benefício económico que o agente ou a pessoa que fosse seu propósito beneficiar tenham retirado da prática da infracção.
 
-###### Artigo 208.º — Reincidência
+Artigo 208.º
+
+Reincidência
 
 1 - Será punido como reincidente quem praticar contra-ordenação prevista no presente diploma depois de ter sido condenado por decisão definitiva ou transitada em julgado pela prática anterior de contra-ordenação nele igualmente prevista, desde que não se tenham completado três anos sobre essa sua prática.
 
 2 - Em caso de reincidência, os limites mínimo e máximo da coima aplicável são elevados em um terço.
 
-###### Artigo 209.º — Cumprimento do dever omitido
+Artigo 209.º
+
+Cumprimento do dever omitido
 
 1 - Sempre que a contra-ordenação resulte de omissão de um dever, a aplicação das sanções e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível.
 
 2 - No caso previsto no número anterior, o tribunal poderá ordenar ao agente que adopte as providências legalmente exigidas.
 
-###### Artigo 210.º — Concurso de infracções
+Artigo 210.º
+
+Concurso de infracções
 
 1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, será o agente sempre punível por ambas as infracções, instaurando-se, para o efeito, processos distintos, a decidir pelas respectivas entidades competentes, sem prejuízo de, no processo contra-ordenacional, se o agente for o mesmo, apenas ficar sujeito às sanções acessórias eventualmente aplicáveis.
 
 2 - Quem tiver praticado várias contra-ordenações antes da aplicação da sanção por qualquer deles, a coima a aplicar será única e terá por limite superior o dobro do valor máximo aplicável, sem prejuízo do disposto no artigo 208.º
 
-###### Artigo 211.º — Prescrição
+Artigo 211.º
+
+Prescrição
 
 1 - O procedimento pelas contra-ordenações previstas neste diploma prescreve em dois anos contados nos termos previstos no artigo 119.º do Código Penal.
 
 2 - O prazo de prescrição das coimas e sanções acessórias é de dois anos a contar do dia em que a decisão administrativa se tornar definitiva ou do dia em que a decisão judicial transitar em julgado.
 
-#### SECÇÃO II — Ilícitos em especial
+SECÇÃO II
 
-###### Artigo 212.º — Contra-ordenações simples
+Ilícitos em especial
+
+Artigo 212.º
+
+Contra-ordenações simples
 
 São puníveis com coima de (euro) 249,40 a (euro) 14 963,94 ou de (euro) 748,20 a (euro) 74 819,68, consoante seja aplicada a pessoa singular ou colectiva, as infracções adiante referidas:
 
@@ -4872,7 +5185,9 @@ g) A violação de preceitos imperativos da legislação aplicável às entidade
 
 h) A exploração de ramos sujeitos, nos termos da lei, a autorização, sempre que não for precedida desta.
 
-###### Artigo 213.º — Contra-ordenações graves
+Artigo 213.º
+
+Contra-ordenações graves
 
 São puníveis com coima de (euro) 748,20 a (euro) 49 879,79 ou de (euro) 1496,39 a (euro) 249 398,95, consoante seja aplicada a pessoa singular ou colectiva, as infracções adiante referidas:
 
@@ -4902,7 +5217,9 @@ m) O incumprimento dos deveres que à entidade gestora de fundos de pensões inc
 
 n) A utilização de interpostas pessoas com a finalidade de atingir um resultado cuja obtenção directa implicaria a prática de contra-ordenação.
 
-###### Artigo 214.º — Contra-ordenações muito graves
+Artigo 214.º
+
+Contra-ordenações muito graves
 
 São puníveis com coima de (euro) 1496,39 a (euro) 149 639,37 ou de (euro) 2992,79 a (euro) 748 196,85, consoante seja aplicada a pessoa singular ou colectiva, as infracções adiante referidas, sem prejuízo da aplicação de sanções mais graves previstas na lei:
 
@@ -4920,7 +5237,9 @@ f) A prática, pelos detentores de participações qualificadas, de actos que im
 
 g) A utilização, pelas entidades gestoras dos fundos de pensões, dos bens dos fundos confiados à sua gestão para despesas ou operações não legalmente autorizadas ou especialmente vedadas.
 
-###### Artigo 215.º — Punibilidade da negligência e da tentativa
+Artigo 215.º
+
+Punibilidade da negligência e da tentativa
 
 1 - É punível a prática com negligência das infracções previstas nos artigos 213.º e 214.º
 
@@ -4932,7 +5251,9 @@ g) A utilização, pelas entidades gestoras dos fundos de pensões, dos bens dos
 
 5 - Em caso de negligência, os limites máximo e mínimo da coima são reduzidos a metade.
 
-###### Artigo 216.º — Sanções acessórias
+Artigo 216.º
+
+Sanções acessórias
 
 1 - Conjuntamente com as coimas previstas nos artigos anteriores, poderão ser aplicadas as seguintes sanções acessórias:
 
@@ -4954,9 +5275,13 @@ h) Publicação pelo Instituto de Seguros de Portugal da punição definitiva, n
 
 2 - As publicações referidas na alínea g) do número anterior serão feitas no Diário da República, 2.ª série, e num jornal de larga difusão na localidade da sede ou do estabelecimento permanente do agente ou, se este for uma pessoa singular, na da sua residência e, sempre que se justifique, no boletim de cotações das bolsas de valores, a expensas dos sancionados.
 
-#### SECÇÃO III — Processo
+SECÇÃO III
 
-###### Artigo 217.º — Competência
+Processo
+
+Artigo 217.º
+
+Competência
 
 1 - O processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias, salvo o disposto no n.º 3, competem ao Instituto de Seguros de Portugal.
 
@@ -4970,25 +5295,33 @@ h) Publicação pelo Instituto de Seguros de Portugal da punição definitiva, n
 
 6 - É correspondentemente aplicável o disposto no artigo 203.º
 
-###### Artigo 218.º — Suspensão do processo
+Artigo 218.º
+
+Suspensão do processo
 
 1 - Quando a infracção constitua irregularidade sanável, não lese significativamente nem ponha em perigo iminente e grave os interesses dos tomadores, segurados ou beneficiários das apólices, ou dos associados, participantes ou beneficiários de fundos de pensões, e nem cause prejuízos importantes ao sistema financeiro ou à economia nacional, o conselho directivo do Instituto de Seguros de Portugal poderá suspender o processo, notificando o infractor para, no prazo que lhe fixar, sanar a irregularidade em que incorreu.
 
 2 - A falta de sanação no prazo fixado determina o prosseguimento do processo.
 
-###### Artigo 219.º — Notificações
+Artigo 219.º
+
+Notificações
 
 1 - As notificações serão feitas por carta registada com aviso de recepção, endereçada à sede ou ao domicílio dos interessados ou, se necessário, através das autoridades policiais.
 
 2 - A notificação da acusação e da decisão condenatória é feita, na impossibilidade de se cumprir o número anterior, por anúncio publicado em jornal da localidade da sede ou da última residência conhecida no País ou, no caso de aí não haver jornal ou de não ser conhecida sede ou residência no País, em jornal diário de larga difusão nacional.
 
-###### Artigo 220.º — Dever de comparência
+Artigo 220.º
+
+Dever de comparência
 
 1 - Às testemunhas e aos peritos que não comparecerem no dia, hora e local designados para uma diligência do processo nem justificarem a falta nos cinco dias úteis imediatos, será aplicada, pelo Instituto de Seguros de Portugal, uma sanção pecuniária graduada entre um quinto e o salário mínimo nacional mensal mais elevado em vigor à data da prática do facto.
 
 2 - O pagamento será efectuado no prazo de 15 dias a contar da notificação, sob pena de execução.
 
-###### Artigo 221.º — Acusação e defesa
+Artigo 221.º
+
+Acusação e defesa
 
 1 - Concluída a instrução, será deduzida acusação ou, se não tiverem sido recolhidos indícios suficientes de ter sido cometida contra-ordenação, serão arquivados os autos.
 
@@ -4998,17 +5331,23 @@ h) Publicação pelo Instituto de Seguros de Portugal da punição definitiva, n
 
 4 - Cada uma das entidades referidas no número anterior não poderá arrolar mais de cinco testemunhas por cada infracção.
 
-###### Artigo 222.º — Revelia
+Artigo 222.º
+
+Revelia
 
 A falta de comparência do agente não obsta, em fase alguma do processo, a que este siga os seus termos e seja proferida decisão final.
 
-###### Artigo 223.º — Decisão
+Artigo 223.º
+
+Decisão
 
 1 - Realizadas, oficiosamente ou a requerimento, as diligências pertinentes em consequência da apresentação da defesa, o processo, acompanhado de parecer sobre a matéria de facto e de direito, é apresentado à entidade competente para a decisão.
 
 2 - A decisão é notificada ao agente e demais interessados, nos termos do artigo 219.º
 
-###### Artigo 224.º — Requisitos da decisão condenatória
+Artigo 224.º
+
+Requisitos da decisão condenatória
 
 1 - A decisão condenatória conterá:
 
@@ -5026,7 +5365,9 @@ f) A indicação de que vigora o princípio da proibição da reformado in pejus
 
 2 - A notificação conterá, além dos termos da decisão, a advertência de que a coima deverá ser paga no prazo de 15 dias após o termo do prazo para a impugnação judicial, sob pena de se proceder à sua execução.
 
-###### Artigo 225.º — Suspensão da execução da sanção
+Artigo 225.º
+
+Suspensão da execução da sanção
 
 1 - A autoridade administrativa pode, fundadamente, suspender, total ou parcialmente, a execução da sanção.
 
@@ -5034,45 +5375,63 @@ f) A indicação de que vigora o princípio da proibição da reformado in pejus
 
 3 - Se decorrer o tempo de suspensão sem que o agente tenha praticado infracção criminal ou ilícito de mera ordenação social previsto no presente diploma e sem ter violado as obrigações que lhe tenham sido impostas, ficará a condenação sem efeito, procedendo-se, no caso contrário, à execução imediata da sanção aplicada.
 
-###### Artigo 226.º — Pagamento das coimas
+Artigo 226.º
+
+Pagamento das coimas
 
 1 - O pagamento da coima e das custas será efectuado no prazo de 15 dias, nos termos do regime geral do ilícito de mera ordenação social.
 
 2 - O montante das coimas reverte integralmente para o Estado.
 
-###### Artigo 227.º — Responsabilidade pelo pagamento
+Artigo 227.º
+
+Responsabilidade pelo pagamento
 
 1 - As pessoas colectivas, ainda que irregularmente constituídas, e as associações sem personalidade jurídica respondem solidariamente pelo pagamento da coima e das custas em que forem condenados os seus dirigentes, empregados ou representantes pela prática de infracções puníveis nos termos do presente diploma.
 
 2 - Os titulares dos órgãos de administração das pessoas colectivas, ainda que irregularmente constituídas, e das associações sem personalidade jurídica, que, podendo fazê-lo, não se tenham oposto à prática da infracção respondem individual e subsidiariamente pelo pagamento da coima e das custas em que aquelas sejam condenadas, ainda que à data da condenação tenham sido dissolvidas ou entrado em liquidação, salvo se provarem que não foi por culpa sua que o património da pessoa colectiva ou equiparada se tomou insuficiente para a satisfação de tais créditos.
 
-###### Artigo 228.º — Exequibilidade da decisão
+Artigo 228.º
+
+Exequibilidade da decisão
 
 1 - Sem prejuízo do disposto no número seguinte, a decisão torna-se exequível se não for judicialmente impugnada.
 
 2 - A decisão que aplique alguma das sanções previstas nas alíneas b) a f) do artigo 216.º torna-se, quanto a ela, imediatamente exequível, sem prejuízo da suspensão jurisdicional da sua eficácia, nos termos aplicáveis da Lei de Processo nos Tribunais Administrativos.
 
-###### Artigo 229.º — Comunicação das sanções
+Artigo 229.º
+
+Comunicação das sanções
 
 As sanções aplicadas a empresas de seguros, ao abrigo do presente diploma devem ser comunicadas às autoridades de supervisão dos restantes Estados membros da União Europeia.
 
-#### SECÇÃO IV — Impugnação judicial
+SECÇÃO IV
 
-###### Artigo 230.º — Impugnação judicial
+Impugnação judicial
+
+Artigo 230.º
+
+Impugnação judicial
 
 1 - Recebido o requerimento de interposição de recurso da decisão que tenha aplicado uma sanção, o Instituto de Seguros de Portugal remete os autos, no prazo de 15 dias, ao magistrado do Ministério Público junto do tribunal referido no artigo seguinte.
 
 2 - O Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, pode juntar alegações ou informações que considere relevantes para a decisão da causa.
 
-###### Artigo 231.º — Tribunal competente
+Artigo 231.º
+
+Tribunal competente
 
 O Tribunal de Pequena Instância Criminal de Lisboa é o tribunal competente para conhecer do recurso das decisões, despachos e demais medidas tomadas pelas autoridades administrativas no decurso do processo, bem como para proceder à execução das decisões definitivas.
 
-###### Artigo 232.º — Decisão judicial por despacho
+Artigo 232.º
+
+Decisão judicial por despacho
 
 O juiz pode decidir por despacho quando não considere necessária a audiência de julgamento e o agente, o Ministério Público e o Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, não se oponham a esta forma de decisão.
 
-###### Artigo 233.º — Intervenção do Instituto de Seguros de Portugal na fase contenciosa
+Artigo 233.º
+
+Intervenção do Instituto de Seguros de Portugal na fase contenciosa
 
 1 - O Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, poderá participar, através de um representante, na audiência de julgamento, para a qual será notificado.
 
@@ -5080,21 +5439,31 @@ O juiz pode decidir por despacho quando não considere necessária a audiência 
 
 3 - O Instituto de Seguros de Portugal ou o Ministro das Finanças, quando for o caso, tem legitimidade para recorrer das decisões proferidas no processo de impugnação e que admitam recurso.
 
-#### SECÇÃO V — Disposições finais e transitórias
+SECÇÃO V
 
-###### Artigo 234.º — Direito subsidiário
+Disposições finais e transitórias
+
+Artigo 234.º
+
+Direito subsidiário
 
 Em tudo o que não estiver especialmente previsto no presente capítulo, aplicar-se-á o regime geral do ilícito de mera ordenação social.
 
-###### Artigo 235.º — Disposições transitórias
+Artigo 235.º
+
+Disposições transitórias
 
 1 - Aos factos previstos nos artigos 212.º a 214.º praticados antes da entrada em vigor do presente diploma e puníveis como transgressões, contravenções ou ilícitos de mera ordenação social nos termos da legislação agora revogada, em relação aos quais ainda não tenha sido instaurado qualquer processo, é aplicável o disposto no presente diploma, sem prejuízo da aplicação da lei mais favorável.
 
 2 - Nos processos pendentes na data referida no número anterior continuará a ser aplicada aos factos neles constantes a legislação substantiva e processual anterior, sem prejuízo da aplicação da lei mais favorável.
 
-## TÍTULO VII — Disposições finais e transitórias
+TÍTULO VII
 
-###### Artigo 236.º — Comunicações relativas ao acesso de empresas de países terceiros
+Disposições finais e transitórias
+
+Artigo 236.º
+
+Comunicações relativas ao acesso de empresas de países terceiros
 
 O Instituto de Seguros de Portugal informa a Comissão Europeia e as autoridades competentes dos outros Estados membros das seguintes situações:
 
@@ -5102,7 +5471,9 @@ a) De qualquer autorização concedida para a constituição de uma filial de um
 
 b) De qualquer tomada de participação de uma empresa mãe sujeita à lei nacional de um país terceiro numa empresa de seguros ou de resseguros com sede em Portugal e que tenha por efeito transformar esta última numa filial da referida empresa-mãe.
 
-###### Artigo 237.º — Dificuldades em países terceiros
+Artigo 237.º
+
+Dificuldades em países terceiros
 
 1 - O Instituto de Seguros de Portugal informa a Comissão Europeia sobre quaisquer dificuldades de ordem geral com que as empresas de seguros ou de resseguros com sede em Portugal deparem para se estabelecerem ou exercerem as suas actividades em países terceiros.
 
@@ -5116,49 +5487,67 @@ a) De qualquer pedido de autorização para a constituição de uma filial direc
 
 b) De qualquer projecto de tomada de participação de uma empresa mãe sujeita à lei nacional de um país terceiro numa empresa de seguros com sede em Portugal e que tenha por efeito transformar esta última numa filial da referida empresa mãe.
 
-###### Artigo 238.º — Fusão ou cisão de empresas de seguros ou de resseguros
+Artigo 238.º
+
+Fusão ou cisão de empresas de seguros ou de resseguros
 
 Pode ser autorizada pelo Instituto de Seguros de Portugal, em casos devidamente justificados, a fusão ou cisão de empresas de seguros ou de resseguros.
 
-###### Artigo 239.º — Liquidação de empresas de seguros
+Artigo 239.º
+
+Liquidação de empresas de seguros
 
 1 - Em caso de liquidação de uma empresa de seguros sediada em Portugal, os compromissos emergentes dos contratos celebrados através das respectivas sucursais ou em regime de livre prestação de serviços serão executados do mesmo modo que os compromissos emergentes de quaisquer outros contratos de seguros da mesma empresa, sem distinção de nacionalidade dos segurados e dos beneficiários.
 
 2 - Em caso de liquidação de uma empresa de seguros com sede em Portugal e que explore cumulativamente o ramo «Vida» e os ramos «Não vida» referidos nos n.os 1) e 2) do artigo 123.º, as actividades relativas a estes ramos regem-se pelas regras de liquidação aplicáveis às actividades do ramo «Vida».
 
-###### Artigo 240.º
+Artigo 240.º
 
 Exploração cumulativa dos ramos «Vida» e «Não vida»
 
 As empresas de seguros que, à data da publicação do presente diploma, se encontram autorizadas a explorar cumulativamente em Portugal a actividade de seguros dos ramos «Não vida» e a actividade de seguros do ramo «Vida» podem continuar essa exploração cumulativa, sem prejuízo do disposto no artigo 101.º
 
-###### Artigo 241.º — Livre prestação de serviços
+Artigo 241.º
+
+Livre prestação de serviços
 
 O regime previsto no presente diploma para o exercício da actividade seguradora em regime de livre prestação de serviços não prejudica os direitos adquiridos pelas empresas de seguros ao abrigo de legislação anteriormente em vigor para o efeito.
 
-###### Artigo 242.º — Normas de contabilidade
+Artigo 242.º
+
+Normas de contabilidade
 
 Compete ao Instituto de Seguros de Portugal, sem prejuízo das atribuições da Comissão de Normalização Contabilística, estabelecer as regras de contabilidade aplicáveis às empresas de seguros ou de resseguros sujeitas à sua supervisão, bem como definir os elementos que as referidas empresas lhe devem remeter e os que devem obrigatoriamente publicar, mantendo-se em vigor, até à sua publicação, as regras actualmente existentes em matéria de contabilidade, apresentação e publicação de contas.
 
-###### Artigo 243.º — Instruções
+Artigo 243.º
+
+Instruções
 
 1 - Compete ao Instituto de Seguros de Portugal emitir as instruções que considere necessárias para o cumprimento do disposto no presente diploma.
 
 2 - O disposto no número anterior não prejudica os poderes de regulação da Comissão do Mercado de Valores Mobiliários relativamente a contratos de seguro ligados a fundos de investimento.
 
-###### Artigo 244.º — Requerimentos de autorização pendentes
+Artigo 244.º
+
+Requerimentos de autorização pendentes
 
 [Revogado]
 
-###### Artigo 245.º — Contravalor do ecu em escudos
+Artigo 245.º
+
+Contravalor do ecu em escudos
 
 [Revogado]
 
-###### Artigo 246.º — Remissões
+Artigo 246.º
+
+Remissões
 
 As remissões constantes do Decreto-Lei n.º 176/95, de 26 de Julho, e de outros actos de conteúdo normativo ou regulamentar, para o Decreto-Lei n.º 102/94, de 20 de Abril, consideram-se feitas para as correspondentes disposições do presente diploma.
 
-###### Artigo 247.º — Legislação revogada
+Artigo 247.º
+
+Legislação revogada
 
 São revogados os seguintes diplomas:
 

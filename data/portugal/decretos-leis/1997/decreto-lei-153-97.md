@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/1997/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1997-164634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deba8d9754b6220de02686ebdda4362094282333b4581227dc56081d6ac71f9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4094dcf54cdcba2c21fb05f820734415ebad4d4219b671a87c932dad0726a8e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Castelo Branco
 - Curso de Contabilidade e Gestão de Pessoal
 - Curso de Contabilidade e Gestão Financeira
 - Curso de Engenharia Civil
@@ -79,13 +80,24 @@ subjects:
 - Escola Superior de Tecnologia e Gestão
 - Idanha-a-nova
 - Instituto Politécnico
-- Castelo Branco
 - Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:263686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:560269:por
+  label: "Prorrogado o prazo até 31 de Dezembro de 2001 do regime de Instalação da Escola Superior de Gestão de Idanha-a-Nova\
+    \ pelo DEC LEI.239/2000.2000.09.26.ME DR.IS [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-2000-560269
+  date: '2000-09-26'
+- type: amended_by
+  target: pt:dre:263686:por
+  label: "Prorrogado até 31 de Dezembro de 2002 o período de funcionamento em regime de instalação da Escola Superior de Gestão\
+    \ de Idanha-a-Nova, do Instituto Politécnico de Castelo Branco, pelo DEC LEI.66/2002.2002.03.20.ME DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2002-263686
+  date: '2002-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
   label: null
@@ -126,16 +138,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/877/1991/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/877/1991/08/24/p/dre
+- type: cites
+  target: pt:dre:172499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680059:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:50Z'
   warnings: []
   errors: []
 ---
@@ -208,12 +276,12 @@ O disposto no presente diploma entra em vigor 30 dias após a data da sua public
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.
 
-**Promulgado em 3 de Junho de 1997.**
+Promulgado em 3 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1997.**
+Referendado em 6 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

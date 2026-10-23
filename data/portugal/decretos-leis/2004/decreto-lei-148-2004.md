@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2004/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2004-272404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac4fde41e5a292258424385b2acd5cc143f8c7561d8ba3b5f1a60022cfc4fa9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88526169706b8f3c412d2da31dd9bb84970e8bb7b904d6110da2c779e60312d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
-- Lisboa
 - Guimarães
-- Tribunal de Comarca
 - Lei de Organização e Funcionamento dos Tribunais Judiciais
+- Lisboa
 - Loures
 - MAIA
-- Orgânica
-- Secretaria de Execução
-- Titulo Executivo
-- Regulamento
-- Processo de Execução
-- Secretaria Judicial
 - Oeiras
+- Orgânica
+- Porto
+- Processo de Execução
+- Regulamento
+- Secretaria de Execução
+- Secretaria Judicial
 - Sintra
+- Titulo Executivo
+- Tribunal de Comarca
 - Tribunal de Primeira Instancia
 - Tribunal Judicial
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:553633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:561977:por
+  label: "Alterado o mapa VI anexo ao Dec Lei 186-A/99, de 31-Mai, na redacção do presente diploma, pelo Dec Lei 219/2004,\
+    \ de 26-Out, DR.IS-A [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2004-561977
+  date: '2004-10-26'
+- type: amended_by
+  target: pt:dre:143326:por
+  label: "Declarados instalados, a partir de 15 de Setembro de 2005, o 3º Juízo de Execução da Comarca de Lisboa e o 2º Juízo\
+    \ de Execução da Comarca do Porto, criados pelo presente diploma, pela PORT.822/2005.14.09.2005.MJ, DR.IS-B [177] de 14.09.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/822-2005-143326
+  date: '2005-09-14'
+- type: amended_by
+  target: pt:dre:667297:por
+  label: "Declarados instalados, a partir de 20 de Março de 2006, o Juízo de Execução da Comarca de Guimarães e, a partir\
+    \ de 19 de Abril de 2006, o Juízo de Execução da Comarca de Oeiras, criados pelo presente diploma, pela PORT.262/2006.16.03.2006.MJ,\
+    \ DR.IS-B [54] de 16.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2006-667297
+  date: '2006-03-16'
+- type: amended_by
+  target: pt:dre:635828:por
+  label: "Revisto o Dec Lei 186-A/99 de 31-Mai e alterado o mapa VI anexo àquele diploma, com as alterações constantes do\
+    \ presente diploma, pelo DEC LEI.250/2007.29.06.2007.MJ, DR.IS [124] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2007-635828
+  date: '2007-06-29'
+- type: amended_by
+  target: pt:dre:670020:por
+  label: "Dada nova redacção ao mapa VI do Dec Lei 186-A/99 de 31-Mai, alterado pelo presente diploma, pelo DEC LEI.74/2011.20.06.2011.MJ,\
+    \ DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2011-670020
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:167413:por
+  label: "Alterado o mapa VI do Dec Lei 186-A/99, de 31-Maio, na redacção do presente diploma, pelo DEC LEI.113-A/2011.29.11.2011.MJ,\
+    \ DR.IS [229-Supl] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-a-2011-167413
+  date: '2011-11-29'
+- type: amended_by
+  target: pt:dre:553633:por
+  label: "Alterado o mapa VI do Regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais aprovado pelo Dec\
+    \ Lei 186-A/99, de 31-Maio, na redação do presente diploma, pelo DEC LEI.67/2012.20.03.2012.MJ, DR.IS [57] de 20.03.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2012-553633
+  date: '2012-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -129,16 +174,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
+- type: cites
+  target: pt:dre:157599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:52Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +280,9 @@ b) Secretarias ou secções destinadas a assegurar a tramitação do procediment
 
 c) Secretarias ou secções com funções de centralização do serviço externo.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Compete às secções de serviço externo:
 
@@ -245,15 +332,15 @@ Os juízos de execução criados pelo presente diploma entram em funcionamento n
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 7 de Junho de 2004.**
+Promulgado em 7 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Junho de 2004.**
+Referendado em 11 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — «MAPA VI
 

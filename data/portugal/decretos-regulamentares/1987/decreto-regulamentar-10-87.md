@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1987-663141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7479fc60edf89e0e22b552c1c2daa2bfe7eb9015618b373f8d60e62261a5044e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c8ccaffb5bdde39ba41568d28088a7908fb15749df3459e614b09d6cb2aa2a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Loures
+- Urbanização
+relationships:
+- type: cites
+  target: pt:dre:140291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:14Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +108,22 @@ Ao abrigo do disposto nos artigos 5.º do [Decreto-Lei n.º 804/76](https://diar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É declarada área crítica de recuperação e reconversão urbanística a zona do concelho de Loures figurada na planta anexa, com os seguintes limites: a norte, limite do concelho com o de Vila Franca de Xira; a nascente, limite do concelho com o de Vila Franca de Xira e linha do caminho de ferro do Norte; a sul, limite do terreno da Junta de Energia Nuclear, azinhaga de acesso ao Bairro da Figueira, limite norte de Bobadela, Terra do Barreto e Quinta do Prado, e a poente, limites das freguesias de Unhos e de Apelação, ribeira da Alpriate e limite do concelho com o de Vila Franca de Xira.
+Artigo 1.º - 1 - É declarada área crítica de recuperação e reconversão urbanística a zona do concelho de Loures figurada na planta anexa, com os seguintes limites: a norte, limite do concelho com o de Vila Franca de Xira; a nascente, limite do concelho com o de Vila Franca de Xira e linha do caminho de ferro do Norte; a sul, limite do terreno da Junta de Energia Nuclear, azinhaga de acesso ao Bairro da Figueira, limite norte de Bobadela, Terra do Barreto e Quinta do Prado, e a poente, limites das freguesias de Unhos e de Apelação, ribeira da Alpriate e limite do concelho com o de Vila Franca de Xira.
 
 2 - Na área delimitada nos termos do número anterior é aplicável o disposto no capítulo XI do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 2.º Cabe à Câmara Municipal de Loures promover, em colaboração com as demais entidades interessadas, o processo de recuperação e reconversão urbanística da referida área.
+Art. 2.º Cabe à Câmara Municipal de Loures promover, em colaboração com as demais entidades interessadas, o processo de recuperação e reconversão urbanística da referida área.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/02700/04040405.pdf))](https://files.diariodarepublica.pt/1s/1987/02/02700/04040405.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/02700/04040405.pdf)

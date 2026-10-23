@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2000/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 244ef876c6b00c4e9af4888df2d4f43a5da6783309946f60e1439116568dddfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ac04906dcbcbf01b583cb47b6076fd32da99dcc336d5478761c266d66696722
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Rendimento Mínimo Garantido
-- Pensão Social
 - Inserção Social
+- Pensão Social
+- Pobreza
 - Regime não Contributivo da Segurança Social
-- Subsídio de Renda de CASA
+- Rendimento Mínimo Garantido
 - Segurança Social
+- Subsídio de Renda de CASA
 relationships:
 - type: amended_by
   target: pt:dre:107773651:por
@@ -101,16 +101,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/764/1999/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/764/1999/08/27/p/dre
+- type: cites
+  target: pt:dre:142111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533792:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:541856:por
+  label: "Revogado, a partir de 20.06.2003, pela LEI.13/2003.2003.05.21.AR, DR.IS-A [117], mantendo-se contudo em vigor até\
+    \ à data de entrada em vigor da respectiva regulamentação, as disposições que não contrariem aquela Lei.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2003-541856
+  date: '2003-05-21'
 article_structure:
-  article_count: 86
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 60
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:19Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +197,9 @@ d) ...
 
 e) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -161,7 +209,9 @@ e) ...
 
 4 - Nos casos em que o requerente da prestação viva em economia comum com alguma das pessoas referidas nas alíneas do n.º 2 do artigo 6.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho, e na exclusiva dependência económica da mesma ou do respectivo agregado familiar, considera-se que, para efeitos do presente diploma, é este o agregado familiar do requerente desde que se verifique a situação referida na alínea c) do n.º 1.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +219,9 @@ e) ...
 
 3 - Quando a ausência do titular ou de algum dos membros do agregado familiar for devida a cumprimento de medida ou pena privativa de liberdade, considera-se que a situação de economia comum se mantém pelo prazo máximo de dois anos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -177,13 +229,17 @@ e) ...
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeitos da atribuição e do cálculo do montante da prestação, devem considerar-se os valores ilíquidos dos rendimentos referidos no n.º 1 do artigo 9.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho.
 
 2 - No âmbito do presente diploma considera-se equiparado às prestações familiares o complemento de dependência a que se refere o [Decreto-Lei n.º 265/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), de 14 de Julho, regulamentado pela [Portaria n.º 764/99](https://diariodarepublica.pt/dr/detalhe/portaria/764-1999-533792), de 27 de Agosto, do Ministério do Trabalho e da Solidariedade.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +249,9 @@ e) ...
 
 4 - Para efeitos do presente diploma considera-se equiparado a rendimentos de trabalho o subsídio mensal atribuído aos trabalhadores em situação de comprovada carência económica abrangidos pelos programas de actividade ocupacionais.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os rendimentos de trabalho dependente a declarar para efeitos da atribuição da prestação são os efectivamente auferidos no mês anterior ao da apresentação do requerimento, não podendo, no entanto, os mesmos ser inferiores aos declarados como base de incidência contributiva para o regime geral de segurança social dos trabalhadores por conta de outrem, mesmo que convencionais.
 
@@ -205,7 +263,9 @@ e) ...
 
 5 - Nos casos em que a remuneração auferida no mês anterior ao da apresentação do requerimento se reporte a mais de um mês de trabalho deve ser considerado o valor médio correspondente aos meses a que aquela remuneração se refere.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +273,9 @@ e) ...
 
 3 - O disposto no número anterior não se aplica aos imóveis destinados à habitação permanente do titular da prestação e do respectivo agregado familiar.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +283,9 @@ e) ...
 
 3 - Da verificação referida no n.º 1, bem como da existência de indícios objectivos e seguros de que o requerente dispõe de rendimentos suficientes para satisfazer as necessidades do seu agregado familiar, pode resultar a alteração dos montantes declarados e, consequentemente, a revisão do valor da prestação a atribuir, ou o seu indeferimento, sem prejuízo do disposto no artigo 14.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Sem prejuízo da averiguação oficiosa dos rendimentos declarados, devem os interessados apresentar a documentação que lhes for solicitada, nomeadamente os recibos comprovativos das remunerações auferidas no mês anterior ao do requerimento.
 
@@ -229,7 +293,9 @@ e) ...
 
 3 - Nos casos em que o interessado não possa apresentar parte ou a totalidade da documentação solicitada, devem as suas declarações ser aceites, sem prejuízo de os serviços competentes procederem, a todo o tempo, às diligências necessárias à verificação da sua veracidade.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -237,25 +303,33 @@ e) ...
 
 3 - ...
 
-###### Artigo 32.º — Remessa para elaboração de relatório social
+Artigo 32.º
+
+Remessa para elaboração de relatório social
 
 1 - Nas situações referidas no n.º 2 do artigo 30.º deve ser, de imediato, solicitada ao núcleo executivo da CLA competente a elaboração de relatório social a que se refere o n.º 2 do artigo 10.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho, sendo-lhe, na mesma altura, remetida fotocópia do requerimento, acompanhada da informação para despacho e de todos os elementos pertinentes de que os serviços disponham.
 
 2 - ...
 
-###### Artigo 35.º — Audição do requerente
+Artigo 35.º
+
+Audição do requerente
 
 1 - ...
 
 2 - Nos casos em que o requerente apresente elementos que ponham em causa a prevista decisão de indeferimento, devem os serviços competentes do centro regional de segurança social proceder às averiguações que sejam consideradas indispensáveis à respectiva confirmação, designando para tal fim técnicos que não tenham responsabilidades directas no acompanhamento dos programas de inserção.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Com vista ao aprofundamento da análise da situação do agregado familiar e à consequente elaboração do relatório social, logo que seja atribuída a prestação deve ser dado conhecimento desse facto ao núcleo executivo da CLA, bem como da data a partir da qual a prestação é devida, respectivo montante e data prevista para o primeiro pagamento.
 
 2 - Com base nos dados constantes do relatório social deve ser elaborado o programa de inserção em conjunto com o titular da prestação e com os restantes membros do agregado familiar que o devam subscrever.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +351,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Elaborado o projecto de programa de inserção, deve o mesmo ser remetido ao núcleo executivo da CLA, para aprovação, tendo em conta o disposto na alínea c) do artigo 2.º do presente diploma.
 
@@ -285,7 +361,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 41.º — Acompanhamento do programa de inserção
+Artigo 41.º
+
+Acompanhamento do programa de inserção
 
 1 - ...
 
@@ -297,7 +375,9 @@ h) ...
 
 5 - Durante o mês anterior àquele em que termine cada período de concessão deve o técnico elaborar relatório detalhado, do qual constará parecer fundamentado sobre eventuais prorrogações da concessão da prestação e respectiva duração, cada uma das quais não pode ser superior a 12 meses.
 
-###### Artigo 43.º — Não celebração ou incumprimento do acordo pelo titular
+Artigo 43.º
+
+Não celebração ou incumprimento do acordo pelo titular
 
 1 - O acordo de inserção deve ser apresentado ao titular no prazo máximo de 90 dias após a data da atribuição da prestação e deve ser subscrito nos 15 dias seguintes à sua apresentação.
 
@@ -311,19 +391,25 @@ h) ...
 
 6 - Se o titular referido no n.º 2 requerer, de novo, a prestação nos seis meses imediatamente a seguir à sua cessação, a mesma ser-lhe-á indeferida, não podendo, durante o referido período, ser o mesmo indivíduo considerado como membro do respectivo agregado familiar para efeitos da determinação do valor do rendimento mínimo correspondente, sem prejuízo de serem tidos em conta os rendimentos por si auferidos no cálculo do montante da prestação.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
 2 - Da revisão da prestação pode resultar o recálculo do seu montante, bem como a suspensão ou a cessação da mesma.
 
-###### Artigo 45.º — Excepção à revisão da prestação
+Artigo 45.º
+
+Excepção à revisão da prestação
 
 1 - A alteração da composição do agregado familiar não dá lugar à revisão da prestação nos casos em que aquela alteração seja temporária.
 
 2 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -335,13 +421,17 @@ b) Exercício de actividade profissional por período inferior a 180 dias ou fre
 
 3 - A suspensão prevista na alínea b) do n.º 1 tem duração igual à da situação que lhe deu origem.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Para além dos casos previstos nos n.os 1 e 2 do artigo 43.º e no n.º 2 do artigo 46.º, há lugar à cessação da prestação quando deixem de se verificar as condições previstas nas alíneas a) e b) do n.º 1 do artigo 5.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho.
 
 2 - Determina, igualmente, a cessação da prestação a recusa injustificada do fornecimento de meios de prova necessários à verificação da manutenção das condições de que depende a respectiva concessão.
 
-###### Artigo 48.º — Produção de efeitos da alteração da prestação
+Artigo 48.º
+
+Produção de efeitos da alteração da prestação
 
 1 - A alteração do montante da prestação e a respectiva suspensão ou cessação ocorrem no mês seguinte àquele em que se verifiquem as circunstâncias determinantes daquelas situações, com as excepções dos números seguintes.
 
@@ -359,13 +449,17 @@ Compensação
 
 As prestações de rendimento mínimo não podem ser objecto de compensação com quaisquer valores pecuniários devidos à segurança social pelo seu titular ou por membros do respectivo agregado familiar.
 
-###### Artigo 43.º-A — Não celebração ou incumprimento do acordo por membro do agregado familiar
+Artigo 43.º-A
+
+Não celebração ou incumprimento do acordo por membro do agregado familiar
 
 1 - Os membros do agregado familiar de um titular do direito à prestação que, tendo condições para subscrever o acordo de inserção, o não façam ou não o cumpram por motivos que lhes sejam imputáveis deixam de ser considerados para efeitos da determinação do valor do rendimento mínimo correspondente ao mesmo agregado, sem prejuízo de serem tidos em conta os rendimentos por si auferidos no cálculo do montante da prestação, não lhes podendo ser, igualmente, reconhecido o direito à prestação durante os seis meses imediatamente sequentes àquele em que ocorra a recusa de celebração do acordo ou em que se interrompa o cumprimento do mesmo.
 
 2 - Aplica-se aos indivíduos referidos no número anterior, com as devidas adaptações, o disposto nos n.os 3, 4 e 5 do artigo anterior.
 
-###### Artigo 43.º-B — Alteração da residência
+Artigo 43.º-B
+
+Alteração da residência
 
 1 - Os requerentes e os beneficiários da prestação são obrigados a comunicar, no prazo de 10 dias úteis, aos serviços competentes da zona de origem ou da nova zona residencial a mudança da respectiva residência.
 
@@ -377,11 +471,15 @@ As prestações de rendimento mínimo não podem ser objecto de compensação co
 
 5 - A transferência da residência de um beneficiário da prestação de rendimento mínimo e do respectivo agregado familiar da área geográfica de uma CLA para outra determina sempre a elaboração e o envio ao núcleo executivo da nova CLA competente da informação prevista no n.º 2.
 
-###### Artigo 47.º-A — Manutenção dos programas de inserção
+Artigo 47.º-A
+
+Manutenção dos programas de inserção
 
 A suspensão ou a cessação da prestação em virtude da alteração de rendimentos ou da composição do agregado familiar não prejudica a manutenção das acções de inserção em curso e das que tenham sido programadas no âmbito de acordo de inserção já formalizado, mantendo-se, igualmente, a concessão dos apoios que tenham sido aprovados no âmbito das acções de inserção em curso.
 
-###### Artigo 48.º-A — Restituição das prestações indevidamente pagas
+Artigo 48.º-A
+
+Restituição das prestações indevidamente pagas
 
 1 - As instituições de segurança social competentes podem autorizar, a requerimento do beneficiário e sob parecer favorável do núcleo executivo da CLA respectiva, que a restituição das prestações indevidamente pagas seja efectuada em prestações.
 
@@ -393,17 +491,19 @@ A suspensão ou a cessação da prestação em virtude da alteração de rendime
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - José Apolinário Nunes Portada - Guilherme d'Oliveira Martins - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 26 de Abril de 2000.**
+Promulgado em 26 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Maio de 2000.**
+Referendado em 3 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

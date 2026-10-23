@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/114a00/11501150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/1996/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1996-468776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc0e67e043514a24c590df03011ff8b2bbc686bd45beb91dba4cfec665751261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc090f46a28c8de32ea6310aa1df2829e3ebb7b5e78ea7f499b6d3d7accad14b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Segurança Interna
 - Definição de Competências
-- Orgânica
 - Gabinete Coordenador de Segurança
+- Orgânica
+- Segurança Interna
 relationships:
 - type: amended_by
   target: pt:dre:453479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286723:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453479:por
+  label: "Revogado, a partir de 28.09.2008, pela LEI.53/2008.29.08.2008.AR, DR.IS [167] de 29.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2008-453479
+  date: '2008-08-29'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:28Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +134,9 @@ e) ...
 
 f) Procedimentos de avaliação e planos de aperfeiçoamento, coordenação e modernização dos processos de formação inicial e contínua realizados no âmbito das forças e serviços de segurança, quer de carácter geral, quer visando a actuação em situações específicas.
 
-###### Artigo 5.º — Secretariado
+Artigo 5.º
+
+Secretariado
 
 1 - ...
 
@@ -135,12 +146,12 @@ f) Procedimentos de avaliação e planos de aperfeiçoamento, coordenação e mo
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 30 de Abril de 1996.**
+Promulgado em 30 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Maio de 1996.**
+Referendado em 6 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

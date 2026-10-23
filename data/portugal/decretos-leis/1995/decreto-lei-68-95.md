@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/1995/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1995-230567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 102addfda9251181c7f7afef0c698e93d687e2b0a17df0cf28c55f042f2744f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85dc2e9fcb326798caeda3a39730901045267e5e749a144436724018ad8b4323
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,44 @@ reuse:
 subjects:
 - Alienação de Acções
 - Alienação de Participação Social
-- Sociedade Anónima
-- Empresa
 - Capital Social
 - Concurso Público
+- Empresa
 - Privatização
 - Quimigal
 - Quimiparque
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1991/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/128/1991/03/22/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:22Z'
   warnings: []
   errors: []
 ---
@@ -114,19 +130,19 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovada a alienação, em duas fases, da totalidade das acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A. (QUIMIGAL), e da QUIMIPARQUE - Parques Industriais da Quimigal, S. A. (QUIMIPARQUE).
+Artigo 1.º É aprovada a alienação, em duas fases, da totalidade das acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A. (QUIMIGAL), e da QUIMIPARQUE - Parques Industriais da Quimigal, S. A. (QUIMIPARQUE).
 
-###### Art. 2.º - 1 - Na primeira fase, serão alienados, por concurso público, lotes indivisíveis de acções representativas de 90% do capital social da QUIMIGAL e da QUIMIPARQUE.
+Art. 2.º - 1 - Na primeira fase, serão alienados, por concurso público, lotes indivisíveis de acções representativas de 90% do capital social da QUIMIGAL e da QUIMIPARQUE.
 
 2 - O concurso público é aberto a entidades nacionais e estrangeiras, que poderão apresentar-se ao mesmo individualmente ou em agrupamento.
 
-###### Art. 3.º - 1 - Numa segunda fase, serão alienadas as acções correspondentes a 10% do capital social da QUIMIGAL e da QUIMIPARQUE, as quais são reservadas a trabalhadores, pequenos subscritores e emigrantes.
+Art. 3.º - 1 - Numa segunda fase, serão alienadas as acções correspondentes a 10% do capital social da QUIMIGAL e da QUIMIPARQUE, as quais são reservadas a trabalhadores, pequenos subscritores e emigrantes.
 
 2 - Para efeitos do disposto no número anterior, entendem-se por trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, bem como os trabalhadores das outras sociedades a alienar e os das sociedades do Grupo Quimigal entretanto alienadas que se encontravam ao seu serviço na data da respectiva venda.
 
 3 - Os vencedores do concurso a que se refere o artigo anterior obrigam-se a adquirir as correspondentes acções sobrantes da operação reservada a trabalhadores, pequenos subscritores e emigrantes, ao preço unitário por que tenham sido adquiridas as acções do respectivo lote.
 
-###### Art. 4.º - 1 - No âmbito do concurso referido no artigo 2.º, e para o caso de não se proceder à venda do lote de acções da QUIMIGAL, serão igualmente aceites propostas para alienação, numa primeira fase, de lotes indivisíveis:
+Art. 4.º - 1 - No âmbito do concurso referido no artigo 2.º, e para o caso de não se proceder à venda do lote de acções da QUIMIGAL, serão igualmente aceites propostas para alienação, numa primeira fase, de lotes indivisíveis:
 
 a) De 90% das acções representativas do capital social da AGROQUISA - Agroquímicos, S. A., da AP - Anilina de Portugal, S. A., da Quimigal Adubos, S. A., da ATM - Assistência Total em Manutenção, S. A., e da AQUATRO - Projectos e Engenharia, S. A.;
 
@@ -138,11 +154,11 @@ d) De até 100% das quotas representativas do capital social da ECE - Empresa de
 
 2 - Se a primeira fase da alienação se processar nos termos descritos no número anterior, é autorizada numa segunda fase a alienação das acções correspondentes a 10% do capital social das sociedades a que se refere a alínea a) do mesmo número reservada a trabalhadores, pequenos subscritores e emigrantes, aplicando-se o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Art. 5.º - 1 - No caso de as assembleias gerais de cada uma das sociedades referidas no n.º 1 do artigo 1.º e na alínea a) do n.º 1 do artigo anterior, após a conclusão do concurso público, deliberarem qualquer aumento de capital social, o Estado ou as entidades em que este participa, enquanto sócios daquelas sociedades, são autorizados a não exercer os respectivos direitos de subscrição.
+Art. 5.º - 1 - No caso de as assembleias gerais de cada uma das sociedades referidas no n.º 1 do artigo 1.º e na alínea a) do n.º 1 do artigo anterior, após a conclusão do concurso público, deliberarem qualquer aumento de capital social, o Estado ou as entidades em que este participa, enquanto sócios daquelas sociedades, são autorizados a não exercer os respectivos direitos de subscrição.
 
 2 - Na situação prevista no número anterior, os respectivos vencedores do concurso obrigam-se a adquirir os correspondentes direitos de subscrição, nos termos das disposições do caderno de encargos referido no n.º 2 do artigo seguinte.
 
-###### Art. 6.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
+Art. 6.º - 1 - Compete ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar em cada uma das fases para execução do presente diploma.
 
 2 - Os termos e condições do concurso público previsto no artigo 2.º constarão de um caderno de encargos a aprovar pela resolução relativa à primeira fase do processo de alienação.
 
@@ -158,13 +174,13 @@ d) A alienação das acções da QUIMIGAL e da QUIMIPARQUE seja efectuada a dife
 
 4 - A resolução ou resoluções do Conselho de Ministros, consoante o caso, relativas à segunda fase das operações de alienação fixarão os preços especiais e demais condições para a aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, podendo ainda prever que o pagamento das acções ou quotas adquiridas por trabalhadores seja fraccionado ao longo do período de indisponibilidade estabelecido no n.º 1 do artigo 9.º
 
-###### Art. 7.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar mediante resolução ou resoluções do Conselho de Ministros referidas no n.º 4 do artigo anterior.
+Art. 7.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar mediante resolução ou resoluções do Conselho de Ministros referidas no n.º 4 do artigo anterior.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a estabelecer nas referidas resoluções, que fixarão igualmente as condições de rateio.
 
 3 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas às quantidades máximas referidas nas resoluções referidas nos números anteriores se as excederem.
 
-###### Art. 8.º - 1 - Durante três anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do respectivo concurso público, as acções adquiridas ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social da QUIMIGAL, só serão disponíveis, exceptuadas as transmissões entre entidades que componham o agrupamento vencedor efectuadas de acordo com a estratégia apresentada no âmbito do concurso público, desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize a respectiva operação.
+Art. 8.º - 1 - Durante três anos, com início na data da publicação da resolução do Conselho de Ministros que determina o vencedor do respectivo concurso público, as acções adquiridas ao abrigo do n.º 1 do artigo 2.º, representativas de 51% do capital social da QUIMIGAL, só serão disponíveis, exceptuadas as transmissões entre entidades que componham o agrupamento vencedor efectuadas de acordo com a estratégia apresentada no âmbito do concurso público, desde que o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorize a respectiva operação.
 
 2 - Sem prejuízo do disposto no número anterior, as entidades que adquirirem, nos termos do n.º 1 do artigo 2.º, o lote indivisível de acções da QUIMIGAL deverão, em qualquer circunstância e durante o período de indisponibilidade fixado no número anterior, deter 51% do seu capital social com direito a voto, sob pena de nulidade dos respectivos actos, excepto se o Governo, mediante despacho conjunto dos Ministros das Finanças e da Indústria e Energia, autorizar a detenção de uma percentagem inferior.
 
@@ -176,7 +192,7 @@ d) A alienação das acções da QUIMIGAL e da QUIMIPARQUE seja efectuada a dife
 
 6 - São nulos os acordos pelos quais os titulares das acções a que se referem os n.os 1 e 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias gerais da QUIMIGAL realizadas durante o período de indisponibilidade a que aquelas estão sujeitas.
 
-###### Art. 9.º - 1 - As acções adquiridas por trabalhadores, pequenos subscritores e emigrantes não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
+Art. 9.º - 1 - As acções adquiridas por trabalhadores, pequenos subscritores e emigrantes não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da correspondente aquisição, sob pena de nulidade dos respectivos actos.
 
 2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas em condições especiais, por força da titularidade daquelas a que o mesmo número se refere.
 
@@ -188,38 +204,38 @@ d) A alienação das acções da QUIMIGAL e da QUIMIPARQUE seja efectuada a dife
 
 6 - As acções adquiridas por pequenos subscritores e emigrantes não conferem aos respectivos titulares o direito de voto nas assembleias gerais durante o período de indisponibilidade previsto no n.º 1.
 
-###### Art. 10.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 6.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas aos concorrentes vencedores.
+Art. 10.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 6.º poderá prever a prestação de garantias para assegurar o cumprimento de obrigações impostas aos concorrentes vencedores.
 
 2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos.
 
-###### Art. 11.º - 1 - Compete aos conselhos de administração da QUIMIGAL e da QUIMIPARQUE, consoante o caso, propor ao Ministro das Finanças o valor de cada uma das sociedades referidas no artigo 1.º e no n.º 1 do artigo 4.º com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+Art. 11.º - 1 - Compete aos conselhos de administração da QUIMIGAL e da QUIMIPARQUE, consoante o caso, propor ao Ministro das Finanças o valor de cada uma das sociedades referidas no artigo 1.º e no n.º 1 do artigo 4.º com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
 2 - Nos 15 dias subsequentes ao termo de cada fase do processo de alienação, cada sociedade anónima envolvida publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas com participação igual ou superior a 5% do respectivo capital social, indicando a quantidade de acções de que cada um é titular.
 
-###### Art. 12.º Nos 30 dias seguintes à alienação prevista no artigo 2.º e, se for caso disso, no n.º 1 do artigo 4.º, são convocadas, para se realizarem no prazo mínimo permitido por lei, as assembleias gerais das sociedades a que respeitam, a fim de serem eleitos os respectivos membros dos órgãos sociais.
+Art. 12.º Nos 30 dias seguintes à alienação prevista no artigo 2.º e, se for caso disso, no n.º 1 do artigo 4.º, são convocadas, para se realizarem no prazo mínimo permitido por lei, as assembleias gerais das sociedades a que respeitam, a fim de serem eleitos os respectivos membros dos órgãos sociais.
 
-###### Art. 13.º - 1 - Durante o processo de reestruturação empresarial e de reequilíbrio financeiro, a transferência de activos produtivos da QUIMIGAL, S. A., e, bem assim, a alienação da titularidade ou do direito de exploração de meios de produção nacionalizados integrados no seu património são feitas por acto unilateral celebrado na forma devida, com base apenas em simples comunicação subscrita por dois membros do conselho de administração da QUIMIGAL, S. A.
+Art. 13.º - 1 - Durante o processo de reestruturação empresarial e de reequilíbrio financeiro, a transferência de activos produtivos da QUIMIGAL, S. A., e, bem assim, a alienação da titularidade ou do direito de exploração de meios de produção nacionalizados integrados no seu património são feitas por acto unilateral celebrado na forma devida, com base apenas em simples comunicação subscrita por dois membros do conselho de administração da QUIMIGAL, S. A.
 
 2 - Se pela natureza do acto em causa ou pelos estatutos da QUIMIGAL, S. A., for exigida uma deliberação específica da assembleia geral desta sociedade, a comunicação prevista no número anterior deverá ser acompanhada por cópia da parte da acta da assembleia geral da QUIMIGAL, S. A., em que a deliberação requerida tenha sido aprovada.
 
 3 - No caso de as transferências e alienações referidas nos números anteriores deverem ser feitas por acto bilateral ou plurilateral, este será realizado na forma devida, observando-se, quanto à QUIMIGAL, S. A., apenas o disposto nos mesmos números, com dispensa das restantes formalidades legais.
 
-###### Art. 14.º - 1 - Os estatutos da QUIMIGAL devem ser alterados de modo a adequarem-se ao processo de alienação da empresa previsto neste diploma.
+Art. 14.º - 1 - Os estatutos da QUIMIGAL devem ser alterados de modo a adequarem-se ao processo de alienação da empresa previsto neste diploma.
 
 2 - As modificações aos estatutos para concretização do número anterior serão tituladas pela acta da respectiva assembleia geral, a qual constituirá título suficiente para efeitos de registo, com isenção de emolumentos.
 
-###### Art. 15.º Para realização das operações de alienação previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
+Art. 15.º Para realização das operações de alienação previstas e reguladas no presente diploma são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar a montagem e determinar as demais condições que se afigurem convenientes.
 
-###### Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Luís Fernando Mira Amaral.
 
-**Promulgado em 9 de Março de 1995.**
+Promulgado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

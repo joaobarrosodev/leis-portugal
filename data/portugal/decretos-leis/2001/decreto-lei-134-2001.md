@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/2001/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2001-165040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f79f1f00c9de62ad091f858a6b095265016f41522684f6ba572196cf304a5b3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d21364fba4c28dc6599b00e86329111d9a1ac97705bc3141bfb42db01c540e30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições e Impostos
-- IRS
 - IRC
+- IRS
 - Pensões
 - Rendimento
 - Retenção na Fonte
@@ -76,6 +76,48 @@ relationships:
   target: pt:dre:164404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:647502:por
+  label: "Alterados os arts.1º,2º-A,4º,6º,8º,9º,10º,11º,12º-A,14º,16º e 17º do Dec Lei 42/91 de 22-Jan alterado e republicado\
+    \ pelo presente diploma, pelo DEC LEI.194/2002.2002.09.25.MF, DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2002-647502
+  date: '2002-09-25'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterados os arts. 2.º e 7.º e aditados dois novos capítulos (Cap IV e Cap V) ao Dec Lei 42/91, de 22-Jan DR.IS-A\
+    \ [18], revisto pelo presente diploma, pelo DEC LEI.80/2003.2003.04.23.MF DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 18º do Dec Lei 42/91 de 22-Jan, revisto e republicado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR,\
+    \ DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 9.º do Dec Lei 42/91 de 22-Jan, revisto e republicado pelo presente diploma, pela LEI.3-B/2010.28.04.2010.AR,\
+    \ DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 3º e 8º do Dec Lei 42/91, de 22-Jan, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 6º do Dec Lei 42/91 de 22-jan, alterado e republicado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados os arts. 7º e 8º do Dec Lei 42/91 de 22-jan, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/1997/01/21/p/dre
   label: null
@@ -100,16 +142,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598158:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:24Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +232,9 @@ c) As deduções à colecta previstas no artigo 80.º-A do Código do IRS;
 
 d) Uma dedução por conta das deduções à colecta previstas nos artigos 80.º-E a 80.º-I do Código do IRS, variável em função, designadamente, dos valores do rendimento bruto e da taxa de inflação prevista.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +244,9 @@ d) Uma dedução por conta das deduções à colecta previstas nos artigos 80.º
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +258,9 @@ d) Uma dedução por conta das deduções à colecta previstas nos artigos 80.º
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +272,9 @@ d) Uma dedução por conta das deduções à colecta previstas nos artigos 80.º
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -198,11 +284,15 @@ d) Uma dedução por conta das deduções à colecta previstas nos artigos 80.º
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Quando forem pagos ou colocados à disposição do respectivo titular rendimentos das categorias A ou H em mês diferente daquele a que respeitem, recalcula-se o imposto e retem-se apenas a diferença entre a importância assim determinada e aquela que, com referência ao mesmo período, tenha eventualmente sido retida.
 
-###### Artigo 8.º — Retenção sobre rendimentos das categorias B, E e F
+Artigo 8.º
+
+Retenção sobre rendimentos das categorias B, E e F
 
 1 - Sem prejuízo do disposto no artigo 74.º do Código do IRS, as entidades que disponham ou devam dispor de contabilidade organizada são obrigadas a reter o imposto, mediante aplicação, aos rendimentos ilíquidos de que sejam devedoras, das taxas de 15%, tratando-se de rendimentos da categoria B referidos na alínea c) do n.º 1 do artigo 3.º ou de rendimentos das categorias E e F, ou de 20%, tratando-se de rendimentos da categoria B referidos na alínea b) do n.º 1 e nas alíneas g) e i) do n.º 2 do artigo 3.º do Código do IRS.
 
@@ -210,7 +300,9 @@ Quando forem pagos ou colocados à disposição do respectivo titular rendimento
 
 3 - A retenção que incide sobre os rendimentos das categorias B e F referidos no n.º 1 é efectuada no momento do respectivo pagamento ou colocação à disposição e a que incide sobre os rendimentos da categoria E em conformidade com o disposto no artigo 8.º do Código do IRS.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +320,9 @@ a) ...
 
 b) ...
 
-###### Artigo 10.º — Sujeição parcial a retenção sobre rendimentos da categoria B
+Artigo 10.º
+
+Sujeição parcial a retenção sobre rendimentos da categoria B
 
 1 - ...
 
@@ -242,17 +336,23 @@ c) ...
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Estão sujeitos a retenção, nos termos do n.º 1 do artigo 8.º, os rendimentos de capitais e prediais auferidos no âmbito do exercício de actividades empresariais e profissionais, sem prejuízo do disposto no número seguinte.
 
 2 - Quando os rendimentos referidos no número anterior se encontrem sujeitos a retenção nos termos do disposto no artigo 74.º do Código do IRS, o seu englobamento é sempre obrigatório, o imposto retido tem a natureza de pagamento por conta e as entidades devedoras estão obrigadas, quanto aos mesmos, a dar cumprimento ao disposto nos artigos 114.º e 114.º-A do mesmo Código.
 
-###### Artigo 12.º — Sujeição parcial a retenção sobre outros rendimentos
+Artigo 12.º
+
+Sujeição parcial a retenção sobre outros rendimentos
 
 ...
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - Os sujeitos passivos de IRC, ainda que isentos ou dispensados de retenção, residentes em território nacional ou com estabelecimento estável aqui situado, bem como os sujeitos passivos de IRS, excepto se se tratar de pessoas singulares agindo fora do âmbito do exercício de uma actividade empresarial e profissional, obrigados a efectuar a retenção sobre os rendimentos sujeitos a imposto nos termos da alínea c) do n.º 3 do artigo 8.º do Código do IRS, devem proceder ao registo individual, operação a operação, das transacções efectuadas que tenham por objecto títulos de dívida emitidos por entidades com residência, domicílio, sede ou direcção efectiva em território nacional ou que aqui possuam estabelecimento estável a que seja imputável o pagamento da respectiva remuneração, numa conta corrente com o Estado, em que releve:
 
@@ -280,15 +380,21 @@ c) ...
 
 6 - Os montantes compensados nos termos da alínea b) do n.º 3 são evidenciados na declaração a que se refere a alínea c) do n.º 1 do artigo 114.º do Código do IRS, em conformidade com o que as respectivas instruções de preenchimento determinarem.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 As quantias retidas nos termos dos artigos anteriores são entregues nos cofres do Estado pela entidade retentora, até ao dia 20 do mês seguinte àquele em que forem deduzidas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Verificando-se, na liquidação anual do IRS, que foi retido ou pago por conta imposto superior ao devido, determinado em função do rendimento líquido total e das deduções à colecta previstas no artigo 80.º-A do Código do IRS, os sujeitos passivos têm direito a uma remuneração sobre a diferença, a fixar anualmente por despacho do Ministro das Finanças.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A diferença entre o imposto devido a final e o que tiver sido entregue nos cofres do Estado em resultado de retenção na fonte ou de pagamento por conta, favorável ao sujeito passivo, deve ser restituída até ao fim do terceiro mês seguinte ao termo do prazo previsto no n.º 1 do artigo 90.º do Código do IRS.
 
@@ -302,7 +408,9 @@ Verificando-se, na liquidação anual do IRS, que foi retido ou pago por conta i
 
 6 - A taxa dos juros indemnizatórios é equivalente à taxa dos juros legais fixados nos termos do n.º 1 do artigo 559.º do Código Civil.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -330,15 +438,15 @@ O [Decreto-Lei n.º 42/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 11 de Abril de 2001.**
+Promulgado em 11 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Abril de 2001.**
+Referendado em 12 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — [Decreto-Lei n.º 42/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1991-496487), de 22 de Janeiro
 

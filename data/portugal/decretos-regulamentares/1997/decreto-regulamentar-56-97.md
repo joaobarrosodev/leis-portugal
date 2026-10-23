@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/301b00/68866891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/56/1997/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1997-321684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38521441772a25b5535eb791e0df596f758d0ed7f92ff979f43a44d30cc7f9be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94444febf8f736d9714508ecda8b248463f30f1ddd9ba1536676fe4c3c740890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Orgânica
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 relationships:
 - type: amended_by
   target: pt:dre:638537:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476916:por
+  label: "Determinado pelo DEC LEI.35/96.02.05.1996.MSSS, DR.IS-A [102] de 02.05.1996, nos termos dos arts. 22.º e 23.º, que\
+    \ as funções consultivas do extinto o Secretariado Nacional de Reabilitação, cuja orgânica foi aprovada pelo Dec Lei 184/92,\
+    \ de 22-Ago, passem a ser desempenhadas pelo Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência,\
+    \ transmitindo-se todas as suas outras competências, direitos e deveres para o Secretariado, cuja orgânica foi aprovada\
+    \ no presente diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-1996-476916
+  date: '1996-05-02'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Secretariado Nacional para a Reabilitação\
+    \ e Integração das Pessoas com Deficiência (integrado no agora extinto Ministério da Segurança Social e do Trabalho),\
+    \ pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Secretariado (integrado na Presidência\
+    \ do Conselho de Ministros), cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:638537:por
+  label: "Determinado que o Instituto Nacional para a Reabilitação, IP, suceda nas atribuições do Secretariado Nacional para\
+    \ a Reabilitação e Integração das Pessoas com Deficiência, cuja orgânica foi aprovada pelo presente diploma (ora revogado),\
+    \ pelo DEC LEI.217/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007, a partir de 01.06.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2007-638537
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611899:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:57Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +256,9 @@ a) A Divisão de Apoio Técnico;
 
 b) A Divisão de Estudos, Planeamento e de Estatística.
 
-###### Artigo 7.º — Divisão de Apoio Técnico
+###### Artigo 7.º
+
+##### Divisão de Apoio Técnico
 
 À Divisão de Apoio Técnico compete:
 
@@ -230,7 +270,9 @@ c) Propor medidas, analisar e emitir parecer sobre os apoios às ONG;
 
 d) Proceder ao atendimento, informação, encaminhamento e orientação das pessoas com deficiência e suas famílias.
 
-###### Artigo 8.º — Divisão de Estudos, Planeamento e de Estatística
+###### Artigo 8.º
+
+##### Divisão de Estudos, Planeamento e de Estatística
 
 À Divisão de Estudos, Planeamento e de Estatística compete:
 
@@ -318,7 +360,9 @@ a) Secção de Administração de Pessoal, à qual cabe executar as competência
 
 b) Secção de Património e Economato, à qual cabe executar as competências previstas nas alíneas j) a o).
 
-###### Artigo 11.º — Divisão de Gestão Financeira e Contabilidade
+###### Artigo 11.º
+
+##### Divisão de Gestão Financeira e Contabilidade
 
 1 - À Divisão de Gestão Financeira e Contabilidade compete:
 
@@ -558,12 +602,12 @@ Presidência do Conselho de Ministros, 30 de Outubro de 1997.
 
 António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 27 de Novembro de 1997.**
+Promulgado em 27 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/330/2000/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-2000-661519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfa39406959b2b3714ad7e1a4d13f144842dbddd8bf80a9ee5901676d1a74e7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b84162116451c62b86f831715b21575d54c60592af89e90d7ef72df62b271ad2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Polis
 - Contrato de Concessão
-- Renovação Urbana
-- Propriedade do Estado
 - Indemnização
+- Programa Polis
+- Propriedade do Estado
 - Proteção do Ambiente
+- Renovação Urbana
 - Transferência Patrimonial
 relationships:
 - type: cites
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:58Z'
   warnings: []
   errors: []
 ---
@@ -148,12 +160,12 @@ São desafectados do domínio público do Estado os bens imóveis referidos no n
 
 Visto e aprovado em Conselho de Ministros de 19 de Outubro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 12 de Dezembro de 2000.**
+Promulgado em 12 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Dezembro de 2000.**
+Referendado em 14 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

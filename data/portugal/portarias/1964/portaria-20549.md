@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20549-1964-582809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99dbd0f7e9b16f81df0b5121f2cbd8596ea0874778444b7d1125986b7ff075e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c96a1d266f9a773c3e1039311b7555d0dfaf6fdd58db4a7614a35f8e4276a6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:514838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Ministério das Corporações e Previdência Social, 30 de Abril de 1964. - O Mi
 
 REGULAMENTO DO PESSOAL DAS COMISSÕES CORPORATIVAS
 
-###### Artigo 1.º Os empregados das comissões corporativas terão as seguintes categorias:
+Artigo 1.º Os empregados das comissões corporativas terão as seguintes categorias:
 
 Pessoal maior:
 
@@ -116,7 +120,7 @@ Servente.
 
 Auxiliar de limpeza.
 
-###### Art. 2.º As habilitações para admissão em cada uma das categorias são as seguintes:
+Art. 2.º As habilitações para admissão em cada uma das categorias são as seguintes:
 
 Secretário-geral - licenciatura em Direito.
 
@@ -126,34 +130,34 @@ Amanuense - curso geral dos liceus ou equivalente e habilitações como dactiló
 
 Cartorário - instrução primária e conhecimentos de dactilografia.
 
-###### Art. 3.º Os lugares de secretário-geral e de secretário serão preenchidos por livre escolha da junta administrativa das comissões corporativas de cada distrito.
+Art. 3.º Os lugares de secretário-geral e de secretário serão preenchidos por livre escolha da junta administrativa das comissões corporativas de cada distrito.
 
 Os lugares de amanuense e de cartorário serão preenchidos por concurso de provas públicas anunciado nos jornais locais e à porta da sede das comissões corporativas. Do concurso constarão provas de dactilografia, e nenhum candidato pode ser aprovado sem satisfazer as normas mínimas. Se nenhum dos candidatos ficar aprovado, pode ser nomeado um de entre eles, como interino, por seis meses. Findo este prazo, será examinado novamente; se satisfizer, será nomeado definitivamente; se não satisfizer, será aberto concurso. Se neste concurso não se revelar nenhum candidato com as condições mínimas, o interino poderá continuar por mais seis meses. Findo esse prazo, será aberto novo concurso, e se nenhum candidato conseguir as normas mínimas, será nomeado outro, interinamente.
 
 O pessoal menor é de livre nomeação da junta administrativa.
 
-###### Art. 4.º Não poderão ser admitidos a concurso indivíduos com menos de 18 nem mais de 35 anos.
+Art. 4.º Não poderão ser admitidos a concurso indivíduos com menos de 18 nem mais de 35 anos.
 
-###### Art. 5.º Os secretários-gerais terão o vencimento igual ao dos chefes de secção dos serviços do Estado.
+Art. 5.º Os secretários-gerais terão o vencimento igual ao dos chefes de secção dos serviços do Estado.
 
 Os vencimentos dos secretários e dos amanuenses serão fixados em cada caso pelas juntas administrativas entre os mínimos e os máximos estabelecidos, respectivamente, para os oficiais e escriturários dos serviços do Estado, e o dos cartorários será fixado entre o ordenado dos serventes e o dos contínuos de 1.ª classe. Tomar-se-ão sempre em consideração o tempo de serviço, as qualidades do empregado, o serviço das comissões e as suas possibilidades financeiras.
 
-###### Art. 6.º O vencimento do pessoal menor será igual ao dos servidores do Estado da mesma categoria.
+Art. 6.º O vencimento do pessoal menor será igual ao dos servidores do Estado da mesma categoria.
 
-###### Art. 7.º O horário de trabalho e o regime de faltas e licenças será o que vigora para os funcionários civis do Estado.
+Art. 7.º O horário de trabalho e o regime de faltas e licenças será o que vigora para os funcionários civis do Estado.
 
-###### Art. 8.º Não será permitido o exercício cumulativo de funções nas comissões corporativos e em lugares do Estado, dos organismos corporativos ou instituições de previdência nem a acumulação com o exercício de qualquer profissão liberal. Podem, todavia, ser nomeados empregados das comissões corporativas indivíduos subsidiados pelo Fundo de Desemprego.
+Art. 8.º Não será permitido o exercício cumulativo de funções nas comissões corporativos e em lugares do Estado, dos organismos corporativos ou instituições de previdência nem a acumulação com o exercício de qualquer profissão liberal. Podem, todavia, ser nomeados empregados das comissões corporativas indivíduos subsidiados pelo Fundo de Desemprego.
 
-###### Art. 9.º Os empregados das comissões corporativas serão inscritos como beneficiários da Caixa de Previdência dos Empregados de Escritório e dos Organismos Corporativos.
+Art. 9.º Os empregados das comissões corporativas serão inscritos como beneficiários da Caixa de Previdência dos Empregados de Escritório e dos Organismos Corporativos.
 
-###### Art. 10.º Os quadros do pessoal das comissões serão aprovados pelo Instituto Nacional do Trabalho e Previdência, sob proposta da respectiva junta administrativa e ouvida a Inspecção-Geral dos Tribunais de Trabalho.
+Art. 10.º Os quadros do pessoal das comissões serão aprovados pelo Instituto Nacional do Trabalho e Previdência, sob proposta da respectiva junta administrativa e ouvida a Inspecção-Geral dos Tribunais de Trabalho.
 
-###### Art. 11.º Os empregados exercerão as suas funções na dependência dos presidentes das juntas administrativas das comissões, a cujo poder disciplinar ficam sujeitos nos mesmos termos que os funcionários civis do Estado. A aplicação da pena de demissão é da competência da junta administrativa.
+Art. 11.º Os empregados exercerão as suas funções na dependência dos presidentes das juntas administrativas das comissões, a cujo poder disciplinar ficam sujeitos nos mesmos termos que os funcionários civis do Estado. A aplicação da pena de demissão é da competência da junta administrativa.
 
-###### Art. 12.º As secretarias das comissões corporativas serão, em regra, chefiadas por um secretário, podendo, quando o movimento o venha a justificar, ser chefiadas por um secretário-geral. Transitòriamente, enquanto o movimento de algumas comissões o permita ou a escassez de recursos o imponha, pode a chefia ser confiada a um amanuense.
+Art. 12.º As secretarias das comissões corporativas serão, em regra, chefiadas por um secretário, podendo, quando o movimento o venha a justificar, ser chefiadas por um secretário-geral. Transitòriamente, enquanto o movimento de algumas comissões o permita ou a escassez de recursos o imponha, pode a chefia ser confiada a um amanuense.
 
-###### Art. 13.º Os empregados actualmente ao serviço das comissões corporativas serão integrados nas categorias previstas neste regulamento que correspondam às suas habilitações, sem prejuízo das situações existentes.
+Art. 13.º Os empregados actualmente ao serviço das comissões corporativas serão integrados nas categorias previstas neste regulamento que correspondam às suas habilitações, sem prejuízo das situações existentes.
 
-###### Art. 14.º Os empregados das comissões corporativas com boa informação de serviço podem concorrer aos concursos das caixas de previdência, contando-se, para esse efeito, o tempo de serviço nas comissões como se tivesse sido prestado a uma instituição de previdência.
+Art. 14.º Os empregados das comissões corporativas com boa informação de serviço podem concorrer aos concursos das caixas de previdência, contando-se, para esse efeito, o tempo de serviço nas comissões como se tivesse sido prestado a uma instituição de previdência.
 
 Ministério das Corporações e Previdência Social, 30 de Abril de 1964. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

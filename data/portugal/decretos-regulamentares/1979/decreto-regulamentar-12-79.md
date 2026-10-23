@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4ed75fd2bf62054754e0e5634c30f360b98e20ecbe31be97ab4a6dd964a69c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 597c15ae091980ac96728deaf28be6c6ddf18de0fb3bd5e78c6fa34dcdcac883
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:610043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365890:por
+  label: "Alterada a redacção da al. c) do n.º 1 do art. 63.º e o n.º 5 do art. 109.º, pelo DEC LEI.500/79.1979.12.22.MF DR.IS\
+    \ [294]I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/500-1979-365890
+  date: '1979-12-22'
+- type: amended_by
+  target: pt:dre:679070:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.98/80.11.03.1980.MFP, DR.IS [59] de 11.03.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-1980-679070
+  date: '1980-03-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 531/80 DE 20-AGO DR.IS [191]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-08-20'
+- type: amended_by
+  target: pt:dre:390022:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.108/81.24.01.1981.PCM, DR.IS [20] de 24.01.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-1981-390022
+  date: '1981-01-24'
+- type: amended_by
+  target: pt:dre:600089:por
+  label: "Alterado o quadro de pessoal pela PORT.263/82.1982.03.12.MFP, DR.IS [59] de 12/Mar/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1982-600089
+  date: '1982-03-12'
+- type: amended_by
+  target: pt:dre:610043:por
+  label: "Alterado o quadro de pessoal aprovado pelo p presente diploma, pela PORT.376/89.29.05.1989.MF, DR.IS [122] de 29.05.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-1989-610043
+  date: '1989-05-29'
+- type: cites
+  target: pt:dre:280241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:383832:por
+  label: Rectificado pela DECL.DD7391.02.06.1979.PCM, DR.IS [127] de 02.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383832
+  date: '1979-06-02'
 article_structure:
   article_count: 160
   section_count: 47
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:32Z'
   warnings: []
   errors: []
 ---
@@ -1926,21 +1988,21 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo 
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 28 de Março de 1979.**
+Promulgado em 28 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
 
 MAPA II
 
 Cursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
 
 MAPA III
 
@@ -1956,6 +2018,6 @@ Formação.
 
 Tabela de correspondência para efeitos de contagem de tempo nas novas categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

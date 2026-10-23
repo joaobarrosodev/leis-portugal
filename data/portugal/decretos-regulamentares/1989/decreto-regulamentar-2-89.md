@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1989-234483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2617a6334a5316991282b96230736ca30daa10a34f90d85bf306663bef3342b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f74143a3871e3c0be75b56daf80ab533c1b1a3c33c6759fdacefcf133f559a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Técnica dos Serviços de Saúde
+- Horário de Trabalho
+relationships:
+- type: cites
+  target: pt:dre:375620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406113:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:53Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +108,19 @@ Assim:
 
 Ao abrigo do disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 402/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1987-406113), de 31 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A direcção das escolas técnicas dos serviços de saúde é nomeada pelo Ministro da Saúde e tem a composição prevista no artigo 8.º do [Decreto-Lei n.º 371/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1982-375620), de 10 de Setembro.
+Artigo 1.º - 1 - A direcção das escolas técnicas dos serviços de saúde é nomeada pelo Ministro da Saúde e tem a composição prevista no artigo 8.º do [Decreto-Lei n.º 371/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1982-375620), de 10 de Setembro.
 
 2 - O mandato dos membros da direcção é de três anos, podendo ser renovado.
 
-###### Art. 2.º - 1 - Dois dos membros da direcção da escola, um dos quais o director ou o subdirector, exercerão funções em regime de tempo integral.
+Art. 2.º - 1 - Dois dos membros da direcção da escola, um dos quais o director ou o subdirector, exercerão funções em regime de tempo integral.
 
 2 - O regime de trabalho dos membros da direcção não previstos no número anterior é o de tempo parcial, com a duração a definir em regimento interno.
 
-###### Art. 3.º - 1 - Os membros da direcção continuam vinculados ao lugar de origem e serão dispensados do exercício normal das respectivas funções sempre que a sua presença se revele necessária na escola.
+Art. 3.º - 1 - Os membros da direcção continuam vinculados ao lugar de origem e serão dispensados do exercício normal das respectivas funções sempre que a sua presença se revele necessária na escola.
 
 2 - O tempo de serviço prestado à escola considera-se, para todos os efeitos, como prestado no lugar de origem.
 
-###### Art. 4.º - 1 - A direcção reúne ordinariamente uma vez por semana, e extraordinariamente, sempre que para tal seja convocada, nos termos que vierem a ser fixados no seu regimento interno.
+Art. 4.º - 1 - A direcção reúne ordinariamente uma vez por semana, e extraordinariamente, sempre que para tal seja convocada, nos termos que vierem a ser fixados no seu regimento interno.
 
 2 - Compete ao director a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
 
@@ -120,7 +130,7 @@ Ao abrigo do disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 402/87](http
 
 5 - Das reuniões da direcção devem ser elaboradas actas.
 
-###### Art. 5.º - 1 - As direcções das escolas elaborarão no prazo de 30 dias um regimento que, com observância do disposto no presente diploma, fixe, designadamente, o regime de trabalho de cada um dos seus membros e as regras da sua organização e funcionamento.
+Art. 5.º - 1 - As direcções das escolas elaborarão no prazo de 30 dias um regimento que, com observância do disposto no presente diploma, fixe, designadamente, o regime de trabalho de cada um dos seus membros e as regras da sua organização e funcionamento.
 
 2 - O prazo previsto no número anterior conta-se a partir do despacho de nomeação da direcção.
 
@@ -130,12 +140,12 @@ Presidência do Conselho de Ministros, 12 de Dezembro de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 22 de Dezembro de 1988.**
+Promulgado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Dezembro de 1988.**
+Referendado em 27 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

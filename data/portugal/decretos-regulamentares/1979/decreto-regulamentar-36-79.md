@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1979-381164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57582c7029ca3b1e83e905171a8b28d64a068f567a87fd0866da77dcb2d1d5e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fcf0b8db7353905a97b44e9c40b15298848595928ae37255574816615cd3ee8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditor Jurídico
+- Auditoria Jurídica
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:04Z'
   warnings: []
   errors: []
 ---
@@ -88,34 +101,34 @@ Considerando o disposto no artigo 12.º do [Decreto-Lei n.º 221/77](https://dia
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Auditoria Jurídica do Ministério da Agricultura e Pescas é um órgão de apoio jurídico aos respectivos membros do Governo.
+Artigo 1.º A Auditoria Jurídica do Ministério da Agricultura e Pescas é um órgão de apoio jurídico aos respectivos membros do Governo.
 
-###### Art. 2.º As atribuições da Auditoria Jurídica são as constantes do artigo 21.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 2.º As atribuições da Auditoria Jurídica são as constantes do artigo 21.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 3.º - 1 - A Auditoria Jurídica depende directamente do Ministro e é coordenada pelo procurador-geral adjunto que, no Ministério da Agricultura e Pescas, exerce as funções de auditor jurídico.
+Art. 3.º - 1 - A Auditoria Jurídica depende directamente do Ministro e é coordenada pelo procurador-geral adjunto que, no Ministério da Agricultura e Pescas, exerce as funções de auditor jurídico.
 
 2 - O exercício da competência da Auditoria Jurídica depende sempre de prévia solicitação dos membros do Governo do Ministério da Agricultura e Pescas.
 
-###### Art. 4.º A Auditoria Jurídica poderá corresponder-se directamente com quaisquer órgãos, serviços, organismos ou autoridades sobre assuntos de sua competência, solicitando deles as diligências e informações que forem julgadas necessárias ao desempenho das suas atribuições.
+Art. 4.º A Auditoria Jurídica poderá corresponder-se directamente com quaisquer órgãos, serviços, organismos ou autoridades sobre assuntos de sua competência, solicitando deles as diligências e informações que forem julgadas necessárias ao desempenho das suas atribuições.
 
-###### Art. 5.º - 1 - A Auditoria Jurídica dispõe do quadro de juristas constantes do mapa anexo a este diploma.
+Art. 5.º - 1 - A Auditoria Jurídica dispõe do quadro de juristas constantes do mapa anexo a este diploma.
 
 2 - O regime jurídico do pessoal da Auditoria Jurídica é o constante do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 27 de Novembro.
 
-###### Art. 6.º O exercício das funções de assessor ou consultor jurídico não depende de inscrições em associações de classe, ainda que não prejudique tal inscrição.
+Art. 6.º O exercício das funções de assessor ou consultor jurídico não depende de inscrições em associações de classe, ainda que não prejudique tal inscrição.
 
-###### Art. 7.º A Secretaria-Geral do Ministério da Agricultura e Pescas assegurará o apoio administrativo de que a Auditoria Jurídica carece, com vista à prossecução das respectivas atribuições.
+Art. 7.º A Secretaria-Geral do Ministério da Agricultura e Pescas assegurará o apoio administrativo de que a Auditoria Jurídica carece, com vista à prossecução das respectivas atribuições.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 4 de Junho de 1979.**
+Promulgado em 4 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 5.º deste diploma (contingente do pessoal da Auditoria Jurídica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14800/14071407.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14800/14071407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14800/14071407.pdf)
 
-**O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.**
+O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.

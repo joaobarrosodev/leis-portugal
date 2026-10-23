@@ -48,40 +48,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-1985-324935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53af26a2bc2e4106a64022eaa69541d3984e7cca87dc4742ff07e75064c1eecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a48090cae36c2d03296e16fd35b775095d4e54952266b0e964e4ff8e9bffb503
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:180779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444441:por
+  label: "Dada nova redacção ao art. 6.º, al. a) do art. 10.º, nº 3 do art. 12.º, nº 3 do art. 14.º, nº 5 do art. 17.º, nº\
+    \ 2 do art. 31.º, art. 32.º, nº 7 do art. 45.º, nº 3 do art. 48.º e art. 59.º, adita uma al. d) ao nº 1 do art. 55.º,dada\
+    \ nova redacção ao quadro 1.1 do anexo I e à col. 4 do anexo III, aditados os quadros 1..1, 1.4 e 1.5 do anexo I, o anexo\
+    \ II e o anexo III, e eliminada a linha referente ao curso de Relações Internacionais, e a nota (3) do anexo IV ao regulamento\
+    \ aprovado pelo presente diploma, pela PORT.352-B/85.08.06.1985.ME, DR.IS [131] de 08.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-b-1985-444441
+  date: '1985-06-08'
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654966:por
+  label: null
+  source: null
 article_structure:
   article_count: 69
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:00Z'
   warnings: []
   errors: []
 ---
@@ -136,9 +182,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação.
 
-**Assinada em 13 de Março de 1985.**
+Assinada em 13 de Março de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.
 
 Regulamento do Regime Geral de Candidatura à Matrícula e Inscrição em Estabelecimentos e Cursos de Ensino Superior no Ano Lectivo de 1985-1986.
 
@@ -966,4 +1012,4 @@ A Direcção-Geral do Ensino Superior, a Direcção-Geral do Ensino Secundário 
 
 Do ANEXO I ao ANEXO X
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07400/08210852.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07400/08210852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07400/08210852.pdf)

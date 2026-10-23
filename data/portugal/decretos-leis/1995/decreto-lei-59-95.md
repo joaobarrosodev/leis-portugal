@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/081a00/19491949.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/1995/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1995-231370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 501d869d940873c7560e4eaef8d669aeede04c6582a65865880feedfdcb07638
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 106d6dd8c0466eeeede4deda5f93deff8eab3ba4550310d0fd02075658d5ac0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Sociedade Comercial
 - Código das Sociedades Comerciais
 - Contabilidade
 - Controlo Financeiro
+- Empresa
 - Plano Oficial de Contabilidade
 - Prestação de Contas
 - Prorrogação de Prazo
 - Registo Comercial
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:631865:por
@@ -83,16 +83,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/238/1991/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/238/1991/07/02/p/dre
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:631865:por
+  label: "Revogado pelo DEC LEI.328/95.1995.12.09.MJ DR.IS-A [283]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1995-631865
+  date: '1995-12-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:11Z'
   warnings: []
   errors: []
 ---
@@ -113,16 +122,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. As empresas obrigadas por lei à consolidação de contas, nos termos do [Decreto-Lei n.º 238/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1991-649958), de 2 de Julho, e do Código das Sociedades Comerciais, poderão apresentar e apreciar, até 31 de Maio, os documentos respeitantes à prestação das contas consolidadas relativamente ao exercício social do ano anterior.
+Artigo único. As empresas obrigadas por lei à consolidação de contas, nos termos do [Decreto-Lei n.º 238/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1991-649958), de 2 de Julho, e do Código das Sociedades Comerciais, poderão apresentar e apreciar, até 31 de Maio, os documentos respeitantes à prestação das contas consolidadas relativamente ao exercício social do ano anterior.
 
 Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 4 de Março de 1995.**
+Promulgado em 4 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1995.**
+Referendado em 9 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

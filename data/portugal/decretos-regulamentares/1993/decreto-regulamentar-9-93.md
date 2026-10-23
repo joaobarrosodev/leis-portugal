@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/1993/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1993-637689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af428eaa4544809bbff5b1d0b3cb47fe11b422289c738b5b18474498a1a22671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c7c05376ed8cdd2b5ebb10dcee7c464cdd82dd3d763893c4f20e51d32a9dc33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Definição de Competências
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:157776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157776:por
+  label: "Alterada a redacção dos arts. 4.º, 5.º, 6.º, 9.º, 10.º, 13.º, 14.º e 15.º e revogados os art. 7.º e 8.º, pelo DR.34-A/95.1995.12.22.MF\
+    \ DR.IS-B [294]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-a-1995-157776
+  date: '1995-12-22'
+- type: cites
+  target: pt:dre:334646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614638:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:20Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +133,7 @@ Ao abrigo do n.º 1 do artigo 30.º do [Decreto-Lei n.º 282/88](https://diariod
 
 ### CAPÍTULO I — Legislação aplicável
 
-###### Artigo 1.º - 1 - O Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, rege-se, quanto ao seu objecto, atribuições, competências, orgânica e funcionamento, pelas disposições constantes do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 56/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1990-334646), de 13 de Fevereiro, bem como pelo disposto no presente diploma.
+Artigo 1.º - 1 - O Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, rege-se, quanto ao seu objecto, atribuições, competências, orgânica e funcionamento, pelas disposições constantes do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 56/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1990-334646), de 13 de Fevereiro, bem como pelo disposto no presente diploma.
 
 2 - Relativamente ao funcionamento e competências do conselho directivo e da comissão de fiscalização, o INGA, em tudo que não for especificamente regulado nos diplomas a que se refere o número anterior, rege-se subsidiariamente pelas disposições correspondentes do ordenamento jurídico das empresas públicas.
 
@@ -119,7 +141,7 @@ Ao abrigo do n.º 1 do artigo 30.º do [Decreto-Lei n.º 282/88](https://diariod
 
 #### SECÇÃO I — Conselho directivo
 
-###### Art. 2.º - 1 - O conselho directivo é o órgão de direcção do INGA e rege-se, quanto à sua composição, competências e funcionamento, pela legislação invocada no artigo 1.º
+Art. 2.º - 1 - O conselho directivo é o órgão de direcção do INGA e rege-se, quanto à sua composição, competências e funcionamento, pela legislação invocada no artigo 1.º
 
 2 - Os membros do conselho directivo do INGA estão sujeitos ao Estatuto do Gestor Público, nos termos do n.º 4 do artigo 8.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, auferem remuneração e têm regalias idênticas às dos membros dos conselhos de gestão ou das comissões executivas das empresas públicas do grupo B.
 
@@ -143,13 +165,13 @@ c) Compareçam às reuniões.
 
 #### SECÇÃO II — Comissão de fiscalização
 
-###### Art. 3.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, ou sempre que convocada pelo seu presidente ou a solicitação de qualquer dos seus membros.
+Art. 3.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, ou sempre que convocada pelo seu presidente ou a solicitação de qualquer dos seus membros.
 
 2 - Às reuniões da comissão de fiscalização é aplicável, com as necessárias adaptações, o disposto no artigo 2.º quanto ao funcionamento do conselho directivo.
 
 ### CAPÍTULO III — Dos serviços
 
-###### Art. 4.º São serviços do INGA:
+Art. 4.º São serviços do INGA:
 
 a) Direcção de Serviços Financeiros (DSF);
 
@@ -165,7 +187,7 @@ f) Departamento de Controlo e Apuramento de Contas FEOGA (DCA);
 
 g) Departamento de Apoio Informático (DAI).
 
-###### Art. 5.º - 1 - Compete à DSF:
+Art. 5.º - 1 - Compete à DSF:
 
 a) Assegurar os procedimentos técnico-administrativos respeitantes à gestão financeira do organismo e dos fundos provenientes do FEOGA - Secção Garantia;
 
@@ -191,7 +213,7 @@ d) Secção de Controlo de Documentação;
 
 e) Tesouraria.
 
-###### Art. 6.º - 1 - Compete à Divisão de Gestão Financeira:
+Art. 6.º - 1 - Compete à Divisão de Gestão Financeira:
 
 a) Estudar, propor e aplicar sistemas optimizados de gestão dos fluxos financeiros do INGA;
 
@@ -229,7 +251,7 @@ c) Efectuar os movimentos financeiros relacionados com o FEOGA - Secção Garant
 
 d) Manter à sua guarda os valores do INGA.
 
-###### Art. 7.º - 1 - Compete ao DGI:
+Art. 7.º - 1 - Compete ao DGI:
 
 a) Criar e manter actualizada uma base de dados, com a colaboração do DAI, que permita a identificação de todos os beneficiários das medidas e das ajudas pagas pelo INGA, bem como das suas explorações agrícolas e agro-industriais, respectivos pagamentos e resultados de controlo;
 
@@ -245,7 +267,7 @@ a) Divisão da Gestão Integrada da Base de Dados;
 
 b) Divisão de Verificação e de Normalização de Procedimentos Comuns de Intervenção.
 
-###### Art. 8.º - 1 - À Divisão de Gestão Integrada da Base de Dados compete:
+Art. 8.º - 1 - À Divisão de Gestão Integrada da Base de Dados compete:
 
 a) Criar e manter actualizada a base de dados, com a colaboração do DAI, de todos os beneficiários do INGA, das suas explorações agrícolas e agro-industriais e de todas as medidas de intervenção e ajudas pagas pelo INGA, bem como os consequentes pagamentos e resultados de controlo;
 
@@ -259,7 +281,7 @@ a) Realizar as verificações e controlos exigidos pela regulamentação aplicá
 
 b) Acompanhar de forma sistemática os procedimentos e metodologias de execução utilizados pelos serviços de intervenção no âmbito da aplicação dos mecanismos de intervenção e das ajudas, por forma a garantir a sua rigorosa compatibilização com os regulamentos nacionais e comunitários aplicáveis, estudando e propondo as adaptações e alterações que se mostrem necessárias.
 
-###### Art. 9.º - 1 - Compete à DIV:
+Art. 9.º - 1 - Compete à DIV:
 
 a) Assegurar a execução dos mecanismos de intervenção e de concessão de ajudas, previstos nas organizações nacionais e comuns de mercado, ou regulamentadas de forma avulsa, relativamente aos produtos agrícolas e agro-industriais de origem vegetal;
 
@@ -287,7 +309,7 @@ c) Preparar, em articulação com o departamento competente do INGA, as normas e
 
 d) Participar na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.
 
-###### Art. 10.º - 1 - Compete à DIA:
+Art. 10.º - 1 - Compete à DIA:
 
 a) Assegurar a execução dos mecanismos de intervenção e de concessão de ajudas, previstos nas organizações nacionais e comuns de mercado, ou regulamentados de forma avulsa, relativamente aos produtos agrícolas e agro-industriais de origem animal;
 
@@ -315,7 +337,7 @@ c) Preparar, em articulação com o departamento competente do INGA, as normas e
 
 d) Participar na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.
 
-###### Art. 11.º - 1 - Compete à DAT:
+Art. 11.º - 1 - Compete à DAT:
 
 a) Assegurar a assessoria jurídica directa ao conselho directivo e a todos os órgãos e serviços do INGA, mediante a elaboração de estudos, pareceres, informações e projectos de diplomas legais;
 
@@ -339,7 +361,7 @@ b) Divisão de Documentação;
 
 c) Repartição Administrativa.
 
-###### Art. 12.º - 1 - Compete à Divisão Jurídica:
+Art. 12.º - 1 - Compete à Divisão Jurídica:
 
 a) A prestação de consultadoria jurídica ao conselho directivo e, sempre que por este solicitado, a todos os serviços do INGA;
 
@@ -381,7 +403,7 @@ b) Secção Patrimonial e Economato, à qual compete assegurar todas as operaç�
 
 c) Secção de Arquivo Geral e Apoio Administrativo, à qual compete organizar, manter actualizado e de fácil utilização o arquivo de toda a documentação expedida e recebida no INGA, assim como assegurar a circulação e divulgação interna de todos os documentos e a expedição e recebimento de toda a correspondência.
 
-###### Art. 13.º - 1 - Compete ao DCA:
+Art. 13.º - 1 - Compete ao DCA:
 
 a) Proceder às acções de controlo e auditoria indispensáveis para assegurar que as medidas de intervenção e as ajudas executadas pelo INGA foram correctamente aplicadas, quer através de inspecções junto dos beneficiários, previstas na regulamentação específica, quer mediante a verificação dos procedimentos contabilísticos, orçamentais e administrativos seguidos pelos serviços do INGA e de outros organismos pagadores no âmbito do FEOGA - Garantia, propondo, se for caso disso, as adequadas correcções;
 
@@ -397,7 +419,7 @@ a) Divisão de Auditoria e Controlo;
 
 b) Divisão de Apuramento de Contas.
 
-###### Art. 14.º - 1 - À Divisão de Auditoria e Controlo compete:
+Art. 14.º - 1 - À Divisão de Auditoria e Controlo compete:
 
 a) Realizar auditorias periódicas ou inopinadas aos procedimentos contabilísticos, orçamentais e administrativos adoptadas pelos serviços competentes do INGA e de outros organismos que apliquem medidas financiadas pelo FEOGA - Garantia, elaborando os respectivos relatórios e propondo as adequadas modificações;
 
@@ -409,7 +431,7 @@ a) Centralizar os elementos a fornecer pelos serviços do INGA e por outros orga
 
 b) Elaborar o relatório anual de apuramento de contas para o FEOGA, bem como centralizar todos os contactos que tenham de ser efectuados com os serviços da Comunidade Europeia e fornecer-lhe o apoio e os elementos solicitados, no âmbito das atribuições do DCA.
 
-###### Art. 15.º - 1 - Ao DAI compete:
+Art. 15.º - 1 - Ao DAI compete:
 
 a) Colaborar com os utilizadores na concepção de sistemas de informação;
 
@@ -467,34 +489,34 @@ d) Avaliar a capacidade de resposta do sistema aferindo das condições da explo
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 16.º O quadro de pessoal do INGA é estabelecido por portaria conjunta dos Ministros das Finanças e da Agricultura.
+Art. 16.º O quadro de pessoal do INGA é estabelecido por portaria conjunta dos Ministros das Finanças e da Agricultura.
 
-###### Art. 17.º A transição do pessoal para o novo quadro do INGA é feita nos termos da lei geral.
+Art. 17.º A transição do pessoal para o novo quadro do INGA é feita nos termos da lei geral.
 
-###### Art. 18.º O quadro de pessoal dirigente é o constante do mapa anexo ao presente diploma.
+Art. 18.º O quadro de pessoal dirigente é o constante do mapa anexo ao presente diploma.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 19.º Com a entrada em vigor do presente diploma são revogados os Decretos Regulamentares n.os [9/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1989-614638), de 31 de Março, e [35/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1990-564443), de 14 de Novembro.
+Art. 19.º Com a entrada em vigor do presente diploma são revogados os Decretos Regulamentares n.os [9/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1989-614638), de 31 de Março, e [35/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1990-564443), de 14 de Novembro.
 
-###### Art. 20.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 20.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros, 17 de Dezembro de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 16 de Fevereiro de 1993.**
+Promulgado em 16 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Fevereiro de 1993.**
+Referendado em 18 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo referido no artigo 18.º
 
 Pessoal dirigente (directores de serviço, chefes de divisão e chefes de repartição)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/068b00/14271431.pdf))](https://files.diariodarepublica.pt/1s/1993/03/068b00/14271431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/068b00/14271431.pdf)

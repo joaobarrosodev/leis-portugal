@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 128/2009, 2º Suplemento, Série I de 2009-07-06
   number: '128'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4324-(4) a 4324-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12802/0000400011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154-a/2009/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-a-2009-655675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97837ad484959e4d4825aad27b98c9178bac8508e471e0fef1504f9c412d15dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0866515b5b95739dd1259c68e3e0902979c5d184bf3a48b249cb8fdd5eef67dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,47 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Sistema de Autoridade Marítima
-- Ministério da Defesa Nacional
-- Pessoal Dirigente
+- Autoridade Marítima Nacional
+- Busca e Salvamento
 - Comissão de Direito Marítimo Internacional
 - Comissão Portuguesa de História Militar
-- Direcção Geral de Pessoal e Recrutamento Militar
-- Ensino Superior Militar
 - Conselho da Saúde Militar
 - Conselho de Chefes de Estado Maior
+- Conselho do Ensino Superior Militar
 - Conselho Superior Militar
 - Cruz Vermelha Portuguesa
 - Definição de Competências
-- Autoridade Marítima Nacional
+- Direção Geral de Política de Defesa Nacional
 - Direcção Geral de Armamento e Equipamentos de Defesa
 - Direcção Geral de Armamento e Infra-estruturas de Defesa
 - Direcção Geral de Infra-estruturas
-- Direção Geral de Política de Defesa Nacional
-- Conselho do Ensino Superior Militar
+- Direcção Geral de Pessoal e Recrutamento Militar
+- Ensino Superior Militar
 - Extinção de Serviços
-- Instituto de Ação Social das Forças Armadas
-- Secretaria Geral
-- Instituto de Estudos Superiores Militares
 - Inspeção Geral da Defesa Nacional
+- Instituto de Ação Social das Forças Armadas
 - Instituto de Defesa Nacional
+- Instituto de Estudos Superiores Militares
 - Integração de Serviços
 - Liga dos Combatentes
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
 - Orgânica
+- Pessoal Dirigente
 - Polícia Judiciária Militar
 - Presidente
 - Quadro de Pessoal
-- Ministro da Defesa Nacional
+- Reestruturação de Serviços
+- Secretaria Geral
+- Sistema de Autoridade Marítima
 - Sistema Nacional para a Busca e Salvamento Aéreo
 - Sistema Nacional para a Busca e Salvamento Marítimo
 - Vogal
-- Busca e Salvamento
 relationships:
 - type: amended_by
   target: pt:dre:145184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Defesa Nacional dos serviços, organismos, entidades e estruturas identificados\
+    \ no presente diploma, com excepção da Estrutura de Missão para os Assuntos do Mar, que é transferida para o Ministério\
+    \ da Agricutura, do Mar, Ambiente e Ordenamento do Território, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl]\
+    \ de 12.07.2011, nos termos do seu art. 13º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amends
+  target: pt:numero:decreto-lei:161/2005
+  label: "Transfere, nos termos do n.º 6 do artigo 30.º e do n.º 1 do artigo 32.º, o Instituto de Estudos Superiores Militares,\
+    \ criado pelo Decreto-Lei n.º 161/2005, de 22 de Setembro, DR.IS-A [183], para a dependência do Chefe do Estado-Maior-General\
+    \ das Forças Armadas \0 \0"
+  source: null
+  date: '2005-09-22'
 - type: cites
   target: eli:http://data.dre.pt
   label: null
@@ -146,16 +161,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
+- type: cites
+  target: pt:dre:195802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145184:por
+  label: "Revogado, a partir de 03.01.2012, pelo DEC LEI.122/2011.29.12.2011.MDN, DR.IS [249] de 29.12.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2011-145184
+  date: '2011-12-29'
 article_structure:
   article_count: 35
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:39Z'
   warnings: []
   errors: []
 ---
@@ -652,15 +716,15 @@ O presente decreto-lei entra em vigor no 1.º dia após a sua publicação
 
 Visto e aprovado em Conselho de Ministros de 18 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 5 de Julho de 2009.**
+Promulgado em 5 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Julho de 2009.**
+Referendado em 5 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 

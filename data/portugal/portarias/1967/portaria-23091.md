@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23091-1967-401508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a872639f48dca3befacb6dfc277ed1040d66090e51922f483ac2e6475c48575
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 816d0ce57a757858e9840cea3e5a956f61b89d90dbd6bc8718a327ddaddadc5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:522022:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:34Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +98,15 @@ REGULAMENTO DA UTILIZAÇÃO, CONDUÇÃO E TRÂNSITO DAS VIATURAS DO EXÉRCITO
 
 ### CAPÍTULO I — Utilização das viaturas militares
 
-###### Artigo 1.º - 1. As viaturas militares, segundo a sua utilização, classificam-se em operacionais e não operacionais. Dentro de cada uma destas categorias distinguir-se-ão as viaturas de transporte de pessoal e as viaturas de transporte gerais.
+Artigo 1.º - 1. As viaturas militares, segundo a sua utilização, classificam-se em operacionais e não operacionais. Dentro de cada uma destas categorias distinguir-se-ão as viaturas de transporte de pessoal e as viaturas de transporte gerais.
 
 2. Consideram-se operacionais as viaturas distribuídas às unidades, formações ou estabelecimentos para serviço das tropas e dentro da missão que lhes é atribuída nos quadros orgânicos de campanha.
 
 3. Consideram-se não operacionais as restantes.
 
-###### Art. 2.º A qualificação das várias viaturas nos termos da classificação constante do artigo 1.º compete à Direcção do Serviço de Transportes e à Direcção do Serviço de Material.
+Art. 2.º A qualificação das várias viaturas nos termos da classificação constante do artigo 1.º compete à Direcção do Serviço de Transportes e à Direcção do Serviço de Material.
 
-###### Art. 3.º - 1. As viaturas automóveis militares são obrigatòriamente pintadas das seguintes cores:
+Art. 3.º - 1. As viaturas automóveis militares são obrigatòriamente pintadas das seguintes cores:
 
 a) Preta, as viaturas ligeiras, não operacionais, de transporte de pessoal atribuídas, para utilização individual, a determinadas entidades para serviço de direcção, inspecção, comando, chefia ou representação;
 
@@ -112,23 +116,23 @@ b) Verde-azeitona, fosca, vulgarmente conhecida por verde-de-artilharia, as rest
 
 3. As viaturas operacionais poderão ainda conservar o tipo de mascaramento que estiver determinado.
 
-###### Art. 4.º A entidade militar que determinar a pintura das viaturas automóveis sob sua jurisdição com cor diferente das indicadas no artigo 3.º constitui-se em responsabilidade disciplinar e obriga-se a suportar, por sua conta, o encargo com a restituição à viatura da pintura oficialmente aprovada.
+Art. 4.º A entidade militar que determinar a pintura das viaturas automóveis sob sua jurisdição com cor diferente das indicadas no artigo 3.º constitui-se em responsabilidade disciplinar e obriga-se a suportar, por sua conta, o encargo com a restituição à viatura da pintura oficialmente aprovada.
 
-###### Art. 5.º Em lugar bem visível de cada viatura, excepto nas abrangidas pelo disposto na alínea a) do n.º 1 e n.º 2 do artigo 3.º, deve indicar-se, a letras brancas, a velocidade máxima com que a mesma se pode deslocar em trânsito livre nas estradas ou dentro das localidades.
+Art. 5.º Em lugar bem visível de cada viatura, excepto nas abrangidas pelo disposto na alínea a) do n.º 1 e n.º 2 do artigo 3.º, deve indicar-se, a letras brancas, a velocidade máxima com que a mesma se pode deslocar em trânsito livre nas estradas ou dentro das localidades.
 
-###### Art. 6.º As viaturas militares devem sempre circular com a respectiva documentação, devidamente escriturada.
+Art. 6.º As viaturas militares devem sempre circular com a respectiva documentação, devidamente escriturada.
 
-###### Art. 7.º Nenhuma viatura poderá sair da unidade, estabelecimento militar, armazém de recolha ou local normal de estacionamento sem a prévia autorização do chefe de quem depende.
+Art. 7.º Nenhuma viatura poderá sair da unidade, estabelecimento militar, armazém de recolha ou local normal de estacionamento sem a prévia autorização do chefe de quem depende.
 
-###### Art. 8.º Salvo o caso de entidades a quem a lei atribui transporte automóvel privativo, as viaturas militares, mesmo as consideradas não operacionais, só podem ser utilizadas em serviço.
+Art. 8.º Salvo o caso de entidades a quem a lei atribui transporte automóvel privativo, as viaturas militares, mesmo as consideradas não operacionais, só podem ser utilizadas em serviço.
 
-###### Art. 9.º É rigorosamente proibida a utilização de viaturas especializadas em fins diferentes daqueles a que normalmente se destinam.
+Art. 9.º É rigorosamente proibida a utilização de viaturas especializadas em fins diferentes daqueles a que normalmente se destinam.
 
-###### Art. 10.º É proibido o transporte de civis em viaturas militares, excepto quando se trate de transporte prévio e superiormente autorizado.
+Art. 10.º É proibido o transporte de civis em viaturas militares, excepto quando se trate de transporte prévio e superiormente autorizado.
 
-###### Art. 11.º É igualmente proibido o transporte de militares que não constem do respectivo boletim de serviço, salvo em cumprimento de ordem expressa ou em comprovado estado de necessidade.
+Art. 11.º É igualmente proibido o transporte de militares que não constem do respectivo boletim de serviço, salvo em cumprimento de ordem expressa ou em comprovado estado de necessidade.
 
-###### Art. 12.º - 1. As viaturas operacionais só podem sair dos parques, onde devem manter-se em condições de imediata utilização, em serviço de tropas devidamente comandadas, quando a unidade ou formação se desloque, no todo ou em parte, para fora do respectivo aquartelamento.
+Art. 12.º - 1. As viaturas operacionais só podem sair dos parques, onde devem manter-se em condições de imediata utilização, em serviço de tropas devidamente comandadas, quando a unidade ou formação se desloque, no todo ou em parte, para fora do respectivo aquartelamento.
 
 2. Esta regra não se aplica:
 
@@ -138,9 +142,9 @@ b) Às viaturas afectas ao serviço de chamadas, nas unidades que o tenham a seu
 
 c) Às viaturas que pelo quartel-general de região militar ou comando territorial independente forem transitòriamente atribuídas à instrução ou transportes gerais de outras unidades.
 
-###### Art. 13.º O militar que utilize ou seja transportado em viatura classificada como operacional é obrigado a usar o uniforme adequado à natureza do serviço a desempenhar.
+Art. 13.º O militar que utilize ou seja transportado em viatura classificada como operacional é obrigado a usar o uniforme adequado à natureza do serviço a desempenhar.
 
-###### Art. 14.º - 1. É autorizado o uso de trajo civil na utilização das seguintes viaturas não operacionais ou funcionando como tal:
+Art. 14.º - 1. É autorizado o uso de trajo civil na utilização das seguintes viaturas não operacionais ou funcionando como tal:
 
 a) De tipo civil (pintadas de preto ou verde-azeitona) sempre que o serviço a desempenhar não exija o uso de uniforme;
 
@@ -154,15 +158,15 @@ Esta relação seguirá sempre junta ao boletim de serviço.
 
 3. Os casos excepcionais não previstos neste artigo devem ser submetidos à apreciação da Direcção do Serviço de Transportes para estudo e decisão.
 
-###### Art. 15.º - 1. As viaturas não operacionais de tipo civil adstritas a uma determinada direcção, comando ou unidade, só podem ser utilizadas pelos respectivos director, chefe ou comandante, ou qualquer subordinado com autorização sua, quando em serviço de representação, entendendo-se também como serviço o percurso a efectuar entre a residência e o local de trabalho.
+Art. 15.º - 1. As viaturas não operacionais de tipo civil adstritas a uma determinada direcção, comando ou unidade, só podem ser utilizadas pelos respectivos director, chefe ou comandante, ou qualquer subordinado com autorização sua, quando em serviço de representação, entendendo-se também como serviço o percurso a efectuar entre a residência e o local de trabalho.
 
 2. Podem, no entanto, as referidas viaturas ser utilizadas pelos familiares daquelas entidades quando em sua companhia ou no desempenho de funções sociais de representação para as quais se torne necessário o uso da viatura.
 
-###### Art. 16.º - 1. Apenas os generais comandantes de região ou entidades de categoria militar equivalente têm competência para decidir sobre quais as utilizações que, além da prevista no artigo antecedente, devam ou não ser consideradas como serviço.
+Art. 16.º - 1. Apenas os generais comandantes de região ou entidades de categoria militar equivalente têm competência para decidir sobre quais as utilizações que, além da prevista no artigo antecedente, devam ou não ser consideradas como serviço.
 
 2. As instruções complementares emanadas dos comandos das regiões militares ou equivalentes, regulando esta matéria, serão enviadas, por cópia, à Direcção do Serviço de Transportes, que intervirá com vista à uniformização de critérios ou à superior apreciação dos casos susceptíveis de dúvida.
 
-###### Art. 17.º No acto de saída para serviço é sempre entregue ao condutor da viatura um boletim em que, além de outros elementos considerados necessários, se mencionarão os seguintes:
+Art. 17.º No acto de saída para serviço é sempre entregue ao condutor da viatura um boletim em que, além de outros elementos considerados necessários, se mencionarão os seguintes:
 
 A identidade do condutor da viatura;
 
@@ -180,29 +184,29 @@ A identidade do chefe da viatura;
 
 A identidade do condutor de reserva, nos termos do n.º 3 do artigo 33.º do presente regulamento.
 
-###### Art. 18.º Tudo o que respeite a modelo, preenchimento e vistos do boletim, referidos no artigo anterior, será regulado, pormenorizadamente, por normas emanadas da Direcção do Serviço de Transportes e Direcção do Serviço de Material.
+Art. 18.º Tudo o que respeite a modelo, preenchimento e vistos do boletim, referidos no artigo anterior, será regulado, pormenorizadamente, por normas emanadas da Direcção do Serviço de Transportes e Direcção do Serviço de Material.
 
-###### Art. 19.º As faltas ou deficiências verificadas na escrituração dos boletins de serviço devem ser comunicadas superiormente para apreciação.
+Art. 19.º As faltas ou deficiências verificadas na escrituração dos boletins de serviço devem ser comunicadas superiormente para apreciação.
 
-###### Art. 20.º Sem prejuízo do disposto no artigo 23.º do Regulamento dos Processos Relativos à Circulação de Viaturas Automóveis do Exército, deve ser nomeado, sempre que as circunstâncias o permitam, um chefe de viatura, o qual seguirá na cabina, ao lado do condutor.
+Art. 20.º Sem prejuízo do disposto no artigo 23.º do Regulamento dos Processos Relativos à Circulação de Viaturas Automóveis do Exército, deve ser nomeado, sempre que as circunstâncias o permitam, um chefe de viatura, o qual seguirá na cabina, ao lado do condutor.
 
-###### Art. 21.º O itinerário escolhido para a deslocação deve ser sempre o da via mais curta e pelas estradas de maior categoria, salvo se o seu estado de conservação ou as dificuldades que ofereçam ao trânsito das viaturas determinem ou aconselhem solução diferente.
+Art. 21.º O itinerário escolhido para a deslocação deve ser sempre o da via mais curta e pelas estradas de maior categoria, salvo se o seu estado de conservação ou as dificuldades que ofereçam ao trânsito das viaturas determinem ou aconselhem solução diferente.
 
-###### Art. 22.º O comandante de um comboio, o chefe de uma viatura ou o condutor não podem alterar o itinerário, nem efectuar paragens não previstas no boletim, a não ser quando a isso sejam obrigados por imperiosas circunstâncias.
+Art. 22.º O comandante de um comboio, o chefe de uma viatura ou o condutor não podem alterar o itinerário, nem efectuar paragens não previstas no boletim, a não ser quando a isso sejam obrigados por imperiosas circunstâncias.
 
 Em tal caso, a alteração do itinerário, bem como a razão determinante, devem ser prontamente mencionadas no respectivo boletim de serviço.
 
-###### Art. 23.º As viaturas militares não podem ser abandonadas na via pública pelos seus condutores, salvo por razões de serviço ou, no caso das viaturas mencionadas na alínea a) do n.º 1 e n.º 2 do artigo 3.º, quando estacionadas em locais apropriados e devidamente fechadas.
+Art. 23.º As viaturas militares não podem ser abandonadas na via pública pelos seus condutores, salvo por razões de serviço ou, no caso das viaturas mencionadas na alínea a) do n.º 1 e n.º 2 do artigo 3.º, quando estacionadas em locais apropriados e devidamente fechadas.
 
-###### Art. 24.º É expressamente proibida a paragem de viaturas militares junto de tabernas, bares ou estabelecimentos semelhantes, bem como a entrada dos condutores em tais estabelecimentos.
+Art. 24.º É expressamente proibida a paragem de viaturas militares junto de tabernas, bares ou estabelecimentos semelhantes, bem como a entrada dos condutores em tais estabelecimentos.
 
-###### Art. 25.º - 1. O transporte colectivo de militares em viaturas automóveis está sujeito às regras de disciplina estabelecidas para as tropas em manobras ou em formaturas.
+Art. 25.º - 1. O transporte colectivo de militares em viaturas automóveis está sujeito às regras de disciplina estabelecidas para as tropas em manobras ou em formaturas.
 
 2. Junto das praças segue sempre um graduado, que responde directamente pela disciplina do pessoal durante a deslocação.
 
 3. A responsabilidade deste graduado é independente da do chefe de viatura, definida nos termos do artigo 23.º do Regulamento dos Processos Relativos a Circulação de Viaturas Automóveis do Exército.
 
-###### Art. 26.º - 1. Dentro dos aglomerados urbanos as praças seguem sentadas e em posição correcta, idêntica à regulamentar de «sentido».
+Art. 26.º - 1. Dentro dos aglomerados urbanos as praças seguem sentadas e em posição correcta, idêntica à regulamentar de «sentido».
 
 2. Em estrada livre e na passagem em localidades de pequena importância, podem as praças seguir na posição e atitude correspondentes à regulamentar de «à vontade», mas sempre devidamente sentadas.
 
@@ -210,27 +214,27 @@ Em tal caso, a alteração do itinerário, bem como a razão determinante, devem
 
 No entanto, em qualquer dos casos, para o condutor é exigido o aprumo correspondente à posição de «sentido», o que o proibirá evidentemente de fumar.
 
-###### Art. 27.º Todas as viaturas militares devem ser mantidas em perfeito estado de limpeza e conservação.
+Art. 27.º Todas as viaturas militares devem ser mantidas em perfeito estado de limpeza e conservação.
 
-###### Art. 28.º - 1. As viaturas designadas para o serviço corrente de saídas são diàriamente inspeccionadas.
+Art. 28.º - 1. As viaturas designadas para o serviço corrente de saídas são diàriamente inspeccionadas.
 
 2. O encarregado da vistoria rubricará o boletim de serviço, indicando a hora da inspecção, bem como qualquer circunstância extraordinária por ele notada.
 
-###### Art. 29.º As viaturas em parque, não afectadas ao serviço normal de saídas, devem ser inspeccionadas, pelo menos, uma vez em cada semana.
+Art. 29.º As viaturas em parque, não afectadas ao serviço normal de saídas, devem ser inspeccionadas, pelo menos, uma vez em cada semana.
 
-###### Art. 30.º - 1. No caso da saída para serviço, as viaturas devem ser inspeccionadas pelo graduado responsável, que verificará o seu estado de limpeza e funcionamento, anotando no boletim respectivo qualquer ocorrência extraordinária que tenha notado e impedindo a saída das que não julgar em condições.
+Art. 30.º - 1. No caso da saída para serviço, as viaturas devem ser inspeccionadas pelo graduado responsável, que verificará o seu estado de limpeza e funcionamento, anotando no boletim respectivo qualquer ocorrência extraordinária que tenha notado e impedindo a saída das que não julgar em condições.
 
 2. Em casos de reconhecida necessidade, as viaturas que apresentem deficiências não susceptíveis de comprometer a segurança dos utentes ou da circulação ou de causar prejuízos ao Estado ou a terceiros, podem ser autorizadas a sair da unidade ou estabelecimento pelos respectivos comandante ou chefe.
 
-###### Art. 31.º No acto da recolha todas as viaturas devem ser igualmente inspeccionadas.
+Art. 31.º No acto da recolha todas as viaturas devem ser igualmente inspeccionadas.
 
-###### Art. 32.º - 1. A falta de limpeza das viaturas ou a negligência no seu tratamento são sempre comunicadas superiormente, para devida apreciação.
+Art. 32.º - 1. A falta de limpeza das viaturas ou a negligência no seu tratamento são sempre comunicadas superiormente, para devida apreciação.
 
 2. O encarregado da inspecção que não comunicar superiormente as faltas encontradas assume delas inteira responsabilidade.
 
 ### CAPÍTULO II — Condução das viaturas militares
 
-###### Art. 33.º - 1. A condução de uma viatura militar apenas pode ser efectuada pelo condutor a quem a mesma esteja distribuída ou que para isso tenha sido expressa e devidamente nomeado.
+Art. 33.º - 1. A condução de uma viatura militar apenas pode ser efectuada pelo condutor a quem a mesma esteja distribuída ou que para isso tenha sido expressa e devidamente nomeado.
 
 2. A condução de viaturas pesadas, quando utilizadas em transporte de pessoal ou carga valiosa, só em casos excepcionais, justificados pelas necessidades de serviço, pode ser efectuada por condutores que não sejam aqueles a quem as mesmas estejam distribuídas, cabendo ao comandante de unidade ou chefe de estabelecimento a autorização para tal efeito.
 
@@ -238,15 +242,15 @@ No entanto, em qualquer dos casos, para o condutor é exigido o aprumo correspon
 
 Cabe ao comandante do comboio ou ao chefe de viatura isolada sancionar a utilização dos condutores de reserva.
 
-###### Art. 34.º - 1. Não havendo condutores de reserva, só por motivo de força maior, devidamente comprovado, se justificará, durante a execução do serviço, a substituição do condutor nomeado.
+Art. 34.º - 1. Não havendo condutores de reserva, só por motivo de força maior, devidamente comprovado, se justificará, durante a execução do serviço, a substituição do condutor nomeado.
 
 2. Verificada esta circunstância, será a mesma prontamente averbada no boletim de serviço, indicando-se o motivo, local e hora da substituição.
 
-###### Art. 35.º - 1. Constitui-se em responsabilidade disciplinar o superior que, sem outro motivo que não seja o prevalecer-se da sua autoridade, pretenda conduzir viatura distribuída a um seu subordinado ou para a condução da qual este tenha sido superiormente nomeado.
+Art. 35.º - 1. Constitui-se em responsabilidade disciplinar o superior que, sem outro motivo que não seja o prevalecer-se da sua autoridade, pretenda conduzir viatura distribuída a um seu subordinado ou para a condução da qual este tenha sido superiormente nomeado.
 
 2. Em tal circunstância compete ao subordinado dirigir respeitosamente ao superior as reflexões justificadas pela sua atitude, de harmonia com o disposto na parte final do artigo 3.º do Regulamento de Disciplina Militar.
 
-###### Art. 36.º - 1. O militar designado para a condução de uma viatura é por ela responsável e, em especial, deve:
+Art. 36.º - 1. O militar designado para a condução de uma viatura é por ela responsável e, em especial, deve:
 
 a) Pôr na condução as mais prudentes cautelas, evitando não só os seus próprios erros ou faltas de atenção, como ainda prevenir-se contra os dos outros utentes da via pública;
 
@@ -262,31 +266,31 @@ e) Não ceder a outrem a condução da sua viatura, salvo nas circunstâncias ex
 
 ### CAPÍTULO III — Circulação das viaturas militares
 
-###### Art. 37.º As viaturas automóveis militares, quer circulem isoladamente, quer em comboio devidamente comandado, não devem ultrapassar as seguintes velocidades:
+Art. 37.º As viaturas automóveis militares, quer circulem isoladamente, quer em comboio devidamente comandado, não devem ultrapassar as seguintes velocidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29900/25052509.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29900/25052509.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29900/25052509.pdf)
 
-###### Art. 38.º - 1. Só em casos excepcionais, de reconhecida e imperiosa urgência, derivada da natureza do serviço a desempenhar, se permitirá que, na proporção e durante o tempo mínimo indispensável, sejam excedidos os limites fixados no artigo anterior.
+Art. 38.º - 1. Só em casos excepcionais, de reconhecida e imperiosa urgência, derivada da natureza do serviço a desempenhar, se permitirá que, na proporção e durante o tempo mínimo indispensável, sejam excedidos os limites fixados no artigo anterior.
 
 2. Aquele que tomar tal iniciativa deve comunicá-la, logo que possível, ao chefe de quem depende.
 
-###### Art. 39.º - 1. Os limites de carga útil ou de lotação não podem ser excedidos sob qualquer pretexto.
+Art. 39.º - 1. Os limites de carga útil ou de lotação não podem ser excedidos sob qualquer pretexto.
 
 2. A responsabilidade do condutor é transferida para o superior que ordenar a ultrapassagem daqueles limites, embora ao condutor compita fazer, respeitosamente, a devida advertência.
 
-###### Art. 40.º - 1. Na marcha em comboio devem ser atentamente guardadas as distâncias entre as viaturas. Normalmente, a distância de uma viatura à outra que imediatamente a precede no comboio deve equivaler em metros à velocidade média em quilómetros com que o comboio se desloca.
+Art. 40.º - 1. Na marcha em comboio devem ser atentamente guardadas as distâncias entre as viaturas. Normalmente, a distância de uma viatura à outra que imediatamente a precede no comboio deve equivaler em metros à velocidade média em quilómetros com que o comboio se desloca.
 
 2. Tratando-se de viaturas pesadas, a distância mínima é, porém, de 50 m.
 
 3. Excepcionalmente, quando circunstâncias especiais relacionadas com a velocidade de escoamento, disciplina da marcha ou outras o aconselhem, o comandante do comboio pode, sob sua responsabilidade, reduzir a 15 m a distância mínima entre as viaturas.
 
-###### Art. 41.º - 1. Mesmo quando utilizadas no transporte de pessoal, as viaturas militares que, quando carregadas, excedam o peso total de 2 t não poderão circular, dentro das povoações, nas faixas de rodagem exclusivamente destinadas pelas regras particulares de trânsito à circulação de viaturas ligeiras ou de turismo.
+Art. 41.º - 1. Mesmo quando utilizadas no transporte de pessoal, as viaturas militares que, quando carregadas, excedam o peso total de 2 t não poderão circular, dentro das povoações, nas faixas de rodagem exclusivamente destinadas pelas regras particulares de trânsito à circulação de viaturas ligeiras ou de turismo.
 
 2. Esta disposição não tem, porém, aplicação nos desfiles realizados durante cerimónias oficiais ou quando superiores exigências de serviço público levem as autoridades militares a determinar o contrário.
 
 ### CAPÍTULO IV — Infracções disciplinares
 
-###### Art. 42.º - 1. A inobservância de qualquer das regras constantes do presente regulamento constitui infracção disciplinar e como tal será punida.
+Art. 42.º - 1. A inobservância de qualquer das regras constantes do presente regulamento constitui infracção disciplinar e como tal será punida.
 
 2. Tem carácter de infracção disciplinar excepcionalmente grave:
 
@@ -308,18 +312,18 @@ h) A falta de compostura por parte dos militares transportados em viaturas milit
 
 ### CAPÍTULO V — Fiscalização do trânsito das viaturas militares
 
-###### Art. 43.º - 1. Compete à Polícia Militar a fiscalização e vigilância do trânsito das viaturas automóveis do Exército, mesmo quando estas estejam afectas a outros serviços públicos.
+Art. 43.º - 1. Compete à Polícia Militar a fiscalização e vigilância do trânsito das viaturas automóveis do Exército, mesmo quando estas estejam afectas a outros serviços públicos.
 
 2. Esta disposição não prejudica, porém, a competência das autoridades encarregadas do policiamento do trânsito ou dos respectivos agentes que, no exercício normal da sua função, devem ter em atenção, para as fazer cumprir, todas as disposições que, em matéria de circulação, se estabelecem pelo presente regulamento.
 
-###### Art. 44.º A acção fiscalizadora deve ainda ser prosseguida por todo o militar, nos termos definidos pelo artigo 5.º do Regulamento dos Processos Relativos à Circulação de Viaturas Automóveis do Exército.
+Art. 44.º A acção fiscalizadora deve ainda ser prosseguida por todo o militar, nos termos definidos pelo artigo 5.º do Regulamento dos Processos Relativos à Circulação de Viaturas Automóveis do Exército.
 
-###### Art. 45.º - 1. As participações da Polícia Militar ou das autoridades encarregadas do policiamento do trânsito em assuntos da sua normal competência são enviadas à Repartição do Gabinete do Ministro do Exército, que lhes dará o devido destino.
+Art. 45.º - 1. As participações da Polícia Militar ou das autoridades encarregadas do policiamento do trânsito em assuntos da sua normal competência são enviadas à Repartição do Gabinete do Ministro do Exército, que lhes dará o devido destino.
 
 2. As participações elaboradas pelos militares nos termos do artigo anterior são por eles entregues nas unidades ou estabelecimentos militares a que pertençam, cabendo aos respectivos comandantes ou chefes enviá-las para os devidos efeitos aos Q. G. das R. M. ou C. T. I. onde as infracções foram praticadas.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 46.º O presente regulamento aplica-se a todo o território nacional e a partir do início da sua vigência fica revogada a [Portaria n.º 11072](https://diariodarepublica.pt/dr/detalhe/portaria/11072-1945-522022), de 28 de Agosto de 1945.
+Art. 46.º O presente regulamento aplica-se a todo o território nacional e a partir do início da sua vigência fica revogada a [Portaria n.º 11072](https://diariodarepublica.pt/dr/detalhe/portaria/11072-1945-522022), de 28 de Agosto de 1945.
 
 Ministério do Exército, 27 de Dezembro de 1967. - O Ministro do Exército, Joaquim da Luz Cunha.

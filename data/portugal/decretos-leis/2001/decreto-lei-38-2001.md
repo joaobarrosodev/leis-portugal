@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2001/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902a40446cf53cc96a7df4201c1f9ea5be03c34767abf900aae12f2012cf0088
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e831d5b9f6cfe758d6f7d1493a2000b32bb9479b6e3ad871319107855e22470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
-- Renovação Urbana
 - Estatuto
-- Urbanismo
 - Porto 2001
+- Renovação Urbana
+- Sociedade Anónima
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:2706664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158620:por
+  label: "Alterados os arts.1º, 3º do Dec Lei 418-B/98, de 31-Dez, na redacção do presente diploma e alterado o art. 3º dos\
+    \ Estatutos Anexos ao memo, na redacção do presente diploma, pelo DEC LEI.147/2002.2002.05.21.MC, DR.IS-A [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2002-158620
+  date: '2002-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/418-b/1998/12/31/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570507:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:15Z'
   warnings: []
   errors: []
 ---
@@ -120,13 +134,13 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 2 - A Porto 2001, S. A., rege-se pelo presente diploma, pelos estatutos publicados em anexo e, subsidiariamente, pela lei das sociedades comerciais.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - São accionistas fundadores da Porto 2001, S. A., o Estado e o município do Porto.
 
 2 - Podem ainda ser admitidas como accionistas da Porto 2001, S. A., outras pessoas colectivas de direito público.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -134,7 +148,7 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 3 - À Porto 2001, S. A., relativamente às zonas urbanas referidas no número anterior, são conferidas, com efeitos a retroagir à data da sua constituição, as competências, direitos e obrigações, quer do município do Porto, quer de organismos públicos da administração central do Estado, no âmbito do QCA III, em programas que se adeqúem à execução do seu objecto estatutário, mediante contrato-programa, já celebrado ou a celebrar entre o município do Porto, organismos públicos da administração central do Estado e a Porto 2001, S. A.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O capital social é de 41814996 euros, subscrito pelo Estado em 86,92%, o que corresponde ao valor de 36344996 euros, e pelo município do Porto em 13,08%, o que corresponde ao valor de 5470000 euros.
 
@@ -144,7 +158,7 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 4 - Os direitos do Estado como accionista serão exercidos por um representante designado por despacho conjunto dos Ministros das Finanças, do Planeamento e da Cultura.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Até à extinção da Porto 2001, S. A., e sempre que se verifiquem condições excepcionais de justificado interesse público, a sociedade não está sujeita ao regime do [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, no que respeita à obrigatoriedade de procedimentos de escolha do co-contratante particular.
 
@@ -156,7 +170,7 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 5 - ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Sem prejuízo do disposto na lei quanto às informações aos sócios, o conselho de administração enviará aos Ministros das Finanças, do Planeamento e da Cultura, pelo menos 30 dias antes da data da assembleia geral anual:
 
@@ -192,7 +206,7 @@ Os artigos 3.º, 4.º, 5.º e 18.º dos estatutos da Porto 2001, S. A., publicad
 
 3 - ...
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O capital social é de 41814996 euros, subscrito pelo Estado em 86,92%, o que corresponde ao valor de 36344996 euros, e pelo município do Porto em 13,08%, o que corresponde ao valor de 5470000 euros.
 
@@ -214,7 +228,9 @@ a) No ano de 2000:
 
 b) No ano de 2001, 1635598 euros, a realizar em duas prestações de igual valor.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O capital social é representado por 41814996 acções com o valor nominal de 1 euro cada.
 
@@ -226,7 +242,7 @@ b) No ano de 2001, 1635598 euros, a realizar em duas prestações de igual valor
 
 5 - ...
 
-###### Artigo 18.º
+Artigo 18.º
 
 Além das competências fixadas na lei, incumbe ainda ao fiscal único:
 
@@ -242,12 +258,12 @@ O presente diploma entra em vigor no dia imediato à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Novembro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

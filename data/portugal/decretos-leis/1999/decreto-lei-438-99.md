@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/438/1999/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e20ef41ae011da0c28a82e627a2035d706cc6f35223e5c17ad2b9bb6fff59e8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a78e750e3f4e79f06d82b04535cb7af082300b54ea132bcda54937e4603b0c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cálculo de Pensões
-- Serviço Militar
 - Pagamento
 - Pensão de Invalidez
 - Pensão de Velhice
 - Reembolso
 - Regime Contributivo da Segurança Social
 - Segurança Social
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:517417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517417:por
+  label: "Feito cessar o pagamento das contribuições em curso para os antigos combatentes abrangidos pela Lei 2/2002 de 11-Fev,\
+    \ ao abrigo do Dec Lei 311/97 de 13-Nov DR.IS-A [263], com a redacção dada pelo presente, a partir da entrada em vigor\
+    \ do DEC LEI.160/2004.02.07.2004.MDN, DR.IS-A [154] de 02.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2004-517417
+  date: '2004-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/311/1997/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/311/1997/11/13/p/dre
+- type: cites
+  target: pt:dre:687466:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:47Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +139,9 @@ Requerimento
 
 4 - Nos casos em que a morte do beneficiário ocorra antes do pedido de bonificação, o requerimento a que se refere o n.º 1 pode ser apresentado, a todo o tempo, pelo conjunto dos familiares sobrevivos com direito à pensão de sobrevivência.
 
-###### Artigo 13.º — Pagamento das contribuições
+Artigo 13.º
+
+Pagamento das contribuições
 
 1 - O pagamento das contribuições correspondentes aos períodos a considerar pode ser feito pelo interessado de uma só vez ou em prestações mensais de igual montante e em número não superior a 60.
 
@@ -144,7 +157,9 @@ Reembolso de contribuições
 
 Nos casos de desistência do pagamento de contribuições, ou de morte do beneficiário, devem as instituições de segurança social, mediante requerimento dos interessados, devolver as quantias correspondentes às contribuições pagas e proceder à anulação dos respectivos registos.
 
-###### Artigo 13.º-B — Pagamento em prestações
+Artigo 13.º-B
+
+Pagamento em prestações
 
 1 - Nos casos em que o interessado tenha optado pelo pagamento em prestações, a primeira destas vence-se no final do mês seguinte àquele em que tenha tido lugar a referida opção e as restantes vencem-se no final de cada um dos meses seguintes.
 
@@ -156,12 +171,12 @@ Nos casos de desistência do pagamento de contribuições, ou de morte do benefi
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 13 de Outubro de 1999.**
+Promulgado em 13 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

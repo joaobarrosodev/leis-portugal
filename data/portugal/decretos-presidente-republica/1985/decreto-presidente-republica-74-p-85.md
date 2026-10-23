@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 295/1985, 1º Suplemento, Série I de 1985-12-23
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4232-(4) a 4232-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/29501/00040004.pdf
 entry_into_force_dates: []
@@ -46,36 +46,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/74-p-1985-226259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f514a462dc789f62a3dcd8ec441184a0c2c1c3573dddd76b382561e0eb0a77ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8b014c318d68296afd07af49b21c6a752635d043cb541402c02d7d49c63d3c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Perdão da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:58:27Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +85,16 @@ validation:
 
 de 23 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Adolfo Ribeiro de Carvalho, de 67 anos de idade, no processo n.º 8/80 do Tribunal Judicial da Comarca de Sabrosa, é reduzida, por indulto, em 1 ano, 2 meses e 3 dias de prisão
 
-**Assinado em 21 de Dezembro de 1985.**
+Assinado em 21 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 1985.**
+Referendado em 23 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

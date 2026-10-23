@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/92/2010/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/92-2010-341441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:09:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a34e8130a19fd758f58cbfe12aa51916d8972f3f45a86c5ae3c8a0038aa0b17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 543372d4b42afa2cdd7eb15bef85e5fbc180260cb1966096af7c74ca99cc2138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:09:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,38 @@ reuse:
 subjects:
 - Carta de Condução
 - Circulação de GADO
-- Transporte Rodoviário
-- Convenção
-- Portugal
-- Veículo
-- Segurança Rodoviária
 - Condutor
-- Transporte de Mercadorias
+- Convenção
 - Equipamento de Veículo
+- Portugal
+- Segurança Rodoviária
 - Sinalização
 - Trânsito
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Internacional
+- Transporte Rodoviário
+- Veículo
 - Viena
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/107/2010/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/107/2010/09/13/p/dre
+- type: cites
+  target: pt:dre:341446:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:09:17Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +107,7 @@ validation:
 
 de 13 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º — Aprovação
 
@@ -115,12 +119,12 @@ Ao ratificar a Convenção sobre a Circulação Rodoviária, a República Portug
 
 «Considerando que a regra relativa à obrigação de cedência de passagem sobre os condutores que entrem numa rotunda não se encontra devidamente acautelada na Convenção, que não estabelece regra especial para este tipo de intersecções, a República Portuguesa declara que, nos termos do n.º 5 do artigo 54.º, formula reserva quanto ao disposto no artigo 18.º, ambos da Convenção sobre a circulação Rodoviária.»
 
-**Assinado em 2 de Setembro de 2010.**
+Assinado em 2 de Setembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Setembro de 2010.**
+Referendado em 6 de Setembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2013/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2013-257037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a09b43a31c7c3d13c23a1b6a248b59c554ec8dd0dde011507e17b91f2d903606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4093d31ddc8e109208deddca20a58805fd4a3d0c923e8628db7255952d6a8585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Comunicações
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização
-- Instituto das Comunicações de Portugal
 - Indicativo de Acesso
-- Mercado Interno CE
 - Informação do Consumidor
+- Instituto das Comunicações de Portugal
+- Mercado Interno CE
+- Modernização Administrativa
 - Preço
 - Prestação de Serviços
 - Proteção do Consumidor
-- Comunicações
 - Serviços de Audiotexto
 - Serviços de Valor Acrescentado
 - Taxa
@@ -106,15 +106,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
 article_structure:
-  article_count: 33
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:52Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +191,9 @@ d) A pessoas coletivas de que sejam sócios ou titulares de órgãos sociais pes
 
 8 - Aos prestadores de serviços de valor acrescentado baseados no envio de mensagem destinados ao território nacional que nele não se estabeleçam aplica-se exclusivamente o requisito constante do n.º 2 do artigo 8.º, por motivos de ordem pública e proteção do consumidor.
 
-###### Artigo 5.º — Início da prestação e informação ao consumidor
+Artigo 5.º
+
+Início da prestação e informação ao consumidor
 
 1 - As entidades que pretendam exercer as atividades referidas no artigo 3.º em território nacional devem informar previamente o ICP-ANACOM dos serviços cuja prestação pretendem iniciar, por mera comunicação, com o respetivo nome, morada e demais contactos físicos e eletrónicos do prestador de serviços, acompanhada das condições gerais de prestação dos serviços em causa.
 
@@ -219,7 +221,9 @@ b) Descrição detalhada dos serviços prestados;
 
 c) Condições gerais de prestação dos serviços.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -235,7 +239,9 @@ d) Facultar ao ICP-ANACOM a verificação dos equipamentos, permitindo o acesso 
 
 e) Disponibilizar informação destinada a fins estatísticos nos termos, prazo e periodicidade exigidos pelo ICP-ANACOM.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -245,7 +251,9 @@ e) Disponibilizar informação destinada a fins estatísticos nos termos, prazo 
 
 4 - O disposto no presente artigo é apenas aplicável a contratos regidos pela lei portuguesa.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -263,7 +271,9 @@ c) [...].
 
 5 - Sem prejuízo do disposto no n.º 2, é permitido o exercício da atividade de prestação de serviços de audiotexto e de serviços de valor acrescentado baseados no envio de mensagem em território nacional com recurso a indicativos de acesso pertencentes aos planos de numeração de outro Estado-membro da União Europeia ou do Espaço Económico Europeu onde o prestador esteja estabelecido, desde que cumpram os requisitos constantes dos artigos 9.º e 9.º-A em língua portuguesa ou, no caso de prestadores de serviços de valor acrescentado baseados no envio de mensagem destinados ao território nacional que nele não se estabeleçam, os requisitos constantes do artigo 10.º do Decreto-Lei n.º 7/2004, de 7 de janeiro.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -271,7 +281,9 @@ c) [...].
 
 3 - Os montantes das taxas referidas nos números anteriores, que constituem receita do ICP-ANACOM, são fixados por portaria do membro do Governo responsável pela área das comunicações, em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Quando se verifique a violação das obrigações previstas no n.º 2 do artigo 6.º, designadamente a violação das condições e limites inerentes ao respetivo indicativo de acesso, ou a inexistência da mensagem oral a que se refere o n.º 2 do artigo 9.º, deve o ICP-ANACOM suspender a utilização do indicativo de acesso atribuído ao prestador de serviços, indicando quais as medidas necessárias à correção da situação, fixando, ainda, um prazo não superior a 10 dias para que o prestador proceda à correção.
 
@@ -285,7 +297,9 @@ c) [...].
 
 6 - Em caso de incumprimento de medidas impostas a prestadores que não tenham sido registados pelo ICP-ANACOM e prestem serviços destinados ao território nacional com recurso a indicativos de acesso pertencentes aos planos de numeração de outros Estados-membros da União Europeia ou do Espaço Económico Europeu, deve o ICP-ANACOM recorrer à cooperação administrativa, nos termos do artigo 15.º-B, para que a autoridade competente no Estado-Membro de origem do prestador o fiscalize e sancione, nos termos da legislação aplicável, sem prejuízo do disposto na Lei n.º 99/2009, de 4 de setembro, alterada pela Lei n.º 46/2011, de 24 de junho, quanto ao incumprimento de medidas recomendadas pelo ICP-ANACOM.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contraordenação leve a violação do disposto no n.º 6 do artigo 9.º-A.
 
@@ -333,7 +347,9 @@ e) Se praticadas por grande empresa, de (euro) 50 000 a (euro) 200 000.
 
 8 - Às contraordenações previstas no presente diploma são aplicáveis os montantes das coimas e as sanções acessórias previstas, respetivamente, no n.º 5 do artigo 7.º e no artigo 11.º ambos da Lei n.º 99/2009, de 4 de setembro, alterada pela Lei n.º 46/2011, de 24 de junho.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Compete ao conselho de administração do ICP-ANACOM a aplicação das admoestações, coimas e sanções acessórias previstas no presente diploma, bem como as decisões de arquivamento dos processos de contraordenação.
 
@@ -355,7 +371,9 @@ Balcão único
 
 2 - Quando, por motivos de indisponibilidade do balcão único eletrónico dos serviços, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.
 
-###### Artigo 15.º-B — Cooperação administrativa
+Artigo 15.º-B
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito de procedimentos relativos a prestadores estabelecidos noutro Estado-membro da União Europeia ou do Espaço Económico Europeu, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.»
 
@@ -369,15 +387,15 @@ São revogados a alínea b) do n.º 2 do artigo 5.º e o n.º 4 do artigo 16.º 
 
 Visto e aprovado em Conselho de Ministros de 8 de novembro de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira.
 
-**Promulgado em 10 de janeiro de 2013.**
+Promulgado em 10 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de janeiro de 2013.**
+Referendado em 11 de janeiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

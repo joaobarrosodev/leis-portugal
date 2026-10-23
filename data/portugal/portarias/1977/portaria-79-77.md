@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-1977-141668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: faa11a1a5c24946b1bd231e88fe553893baf9334e55b4d5e34088b344144a6ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e38bde2809c647cfa56a8dc6af4a24c643da889a19d41baa3ba2c229b0af637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Estabelecimento Hospitalar
+- Hospital Central
+- Hospital Distrital
+- Médico
+- Quadro de Pessoal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:329465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139886:por
+  label: Alterado o art. 21.º pelo(a) Portaria n.º 212/77 - Diário da República n.º 92/1977, Série I de 1977-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1977-139886
+  date: '1977-04-20'
+- type: cites
+  target: pt:dre:309502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409485:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:11Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +127,9 @@ REGULAMENTO DOS CONCURSOS PARA OS LUGARES DOS QUADROS DO PESSOAL MÉDICO PERMANE
 
 ### CAPÍTULO I — Da abertura e prazos dos concursos
 
-###### Artigo 1.º Os concursos para os lugares dos quadros do pessoal médico permanente dos hospitais centrais e distritais regem-se pelo disposto nesta Portaria em tudo o que não estiver previsto no [Decreto-Lei n.º 674/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1975-309502), de 27 de Novembro.
+Artigo 1.º Os concursos para os lugares dos quadros do pessoal médico permanente dos hospitais centrais e distritais regem-se pelo disposto nesta Portaria em tudo o que não estiver previsto no [Decreto-Lei n.º 674/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1975-309502), de 27 de Novembro.
 
-###### Art. 2.º - 1. Os concursos para ocupação dos diferentes lugares em cada categoria dos quadros do pessoal médico permanente dos hospitais centrais serão realizados no estabelecimento hospitalar em que se verificarem as vagas a prover.
+Art. 2.º - 1. Os concursos para ocupação dos diferentes lugares em cada categoria dos quadros do pessoal médico permanente dos hospitais centrais serão realizados no estabelecimento hospitalar em que se verificarem as vagas a prover.
 
 2. Os concursos para ocupação dos diferentes lugares em cada categoria dos quadros do pessoal médico permanente dos hospitais distritais pertencentes a cada uma das zonas hospitalares serão realizados num hospital central da respectiva zona.
 
@@ -117,7 +137,7 @@ REGULAMENTO DOS CONCURSOS PARA OS LUGARES DOS QUADROS DO PESSOAL MÉDICO PERMANE
 
 4. O prazo da abertura dos concursos será de vinte dias a contar da data da publicação do aviso.
 
-###### Art. 3.º - 1. Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar de cada zona, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:
+Art. 3.º - 1. Dentro do prazo de abertura dos concursos, os candidatos entregarão na secretaria do respectivo hospital central ou na comissão inter-hospitalar de cada zona, conforme concorram às vagas de hospitais centrais ou distritais, os seguintes documentos:
 
 a) Requerimento, em papel selado, dirigido à comissão instaladora do hospital central ou ao presidente da comissão inter-hospitalar da respectiva zona, conforme as vagas a que concorram, solicitando a admissão ao concurso e onde conste a identificação completa do candidato, sua residência e indicação da especialidade, categoria e hospital a que pretende concorrer;
 
@@ -137,7 +157,7 @@ d) Certificado do registo criminal.
 
 3. Os documentos referidos no número anterior podem ser substituídos por certificados comprovativos da sua entrega, pelo candidato, no estabelecimento ou serviço a que estava vinculado.
 
-###### Art. 4.º - 1. Cinco dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada no respectivo hospital a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
+Art. 4.º - 1. Cinco dias após o encerramento do prazo de cada concurso para os hospitais centrais será afixada no respectivo hospital a lista dos concorrentes, agrupados por especialidades, com indicação das faltas verificadas nos documentos apresentados.
 
 2. No mesmo prazo e no referente aos concursos para os hospitais distritais será afixada na comissão inter-hospitalar respectiva a lista referida no número anterior.
 
@@ -157,7 +177,7 @@ d) Certificado do registo criminal.
 
 A) Concursos para os hospitais centrais
 
-###### Art. 5.º - 1. Os júris são constituídos por um presidente e quatro vogais, que deverão pertencer à especialidade a que respeitem as provas, sendo a sua nomeação da competência da comissão instaladora do hospital central em que se realize cada concurso.
+Art. 5.º - 1. Os júris são constituídos por um presidente e quatro vogais, que deverão pertencer à especialidade a que respeitem as provas, sendo a sua nomeação da competência da comissão instaladora do hospital central em que se realize cada concurso.
 
 2. Os presidentes dos júris e um vogal pertencerão aos quadros do hospital onde se realize o concurso, devendo os três vogais restantes ser provenientes dos quadros de outro ou outros hospitais centrais.
 
@@ -173,7 +193,7 @@ A) Concursos para os hospitais centrais
 
 B) Concursos para os hospitais distritais
 
-###### Art. 6.º - 1. Os júris são constituídos por um presidente e quatro vogais, que deverão pertencer à especialidade a que respeitem as provas, sendo a sua nomeação da competência da Direcção-Geral dos Hospitais.
+Art. 6.º - 1. Os júris são constituídos por um presidente e quatro vogais, que deverão pertencer à especialidade a que respeitem as provas, sendo a sua nomeação da competência da Direcção-Geral dos Hospitais.
 
 2. Os presidentes dos júris e dois vogais pertencerão aos quadros de um ou vários hospitais centrais situados na zona hospitalar onde se realize o concurso, devendo os dois restantes vogais ser provenientes de hospitais distritais da respectiva zona com carreira médica comprovada, em que o acesso aos vários graus se tenha feito por exame ou concursos, excluindo assim a simples nomeação ou integração.
 
@@ -187,11 +207,11 @@ B) Concursos para os hospitais distritais
 
 ### CAPÍTULO III — Dos concursos para especialistas
 
-###### Art. 7.º Podem concorrer a estes concursos os médicos habilitados com o internato de especialidade ou equiparado por despacho do Secretário de Estado da Saúde sob parecer da Direcção-Geral dos Hospitais, assim como os habilitados com o título de especialista pela Ordem dos Médicos.
+Art. 7.º Podem concorrer a estes concursos os médicos habilitados com o internato de especialidade ou equiparado por despacho do Secretário de Estado da Saúde sob parecer da Direcção-Geral dos Hospitais, assim como os habilitados com o título de especialista pela Ordem dos Médicos.
 
 A) Hospitais centrais
 
-###### Art. 8.º - 1. O concurso constará das seguintes provas públicas obrigatórias:
+Art. 8.º - 1. O concurso constará das seguintes provas públicas obrigatórias:
 
 a) Discussão do curriculum vitae;
 
@@ -223,7 +243,7 @@ b) Melhor classificação na prova curricular.
 
 12. No final do concurso será elaborada uma acta, onde conste obrigatoriamente a relação das classificações referidas no n.º 6, com indicação nominal dos respectivos proponentes.
 
-###### Art. 9.º - 1. Na apreciação do curriculum vitae serão obrigatoriamente considerados os seguintes elementos e valorizados segundo a ordem decrescente:
+Art. 9.º - 1. Na apreciação do curriculum vitae serão obrigatoriamente considerados os seguintes elementos e valorizados segundo a ordem decrescente:
 
 a) Aprovação em mérito absoluto em concurso de provas práticas e teóricas, públicas e eliminatórias, para lugares do quadro permanente dos hospitais centrais, segundo as respectivas classificações;
 
@@ -241,7 +261,7 @@ g) Outros títulos de valorização profissional;
 
 h) Classificação obtida na licenciatura médica.
 
-###### Art. 10.º - 1. A prova prática varia consoante o ramo clínico ou especialidade.
+Art. 10.º - 1. A prova prática varia consoante o ramo clínico ou especialidade.
 
 2. Quando se trate de concurso para especialista de medicina interna, de cirurgia geral ou de outras especialidades clínicas, médicas ou cirúrgicas, a prova prática consistirá em duas provas clínicas:
 
@@ -269,7 +289,7 @@ A terapêutica que julgar indicada em face das conclusões obtidas; e
 
 O prognóstico.
 
-###### Art. 11.º - 1. Quando se trate de concurso para especialista de radiologia, a prova prática consistirá no exame radiológico, segundo as normas abaixo indicadas, de dois doentes, sorteados pelo candidato de entre um mínimo de quatro escolhidos para o efeito pelo júri no próprio dia em que se realize a prova.
+Art. 11.º - 1. Quando se trate de concurso para especialista de radiologia, a prova prática consistirá no exame radiológico, segundo as normas abaixo indicadas, de dois doentes, sorteados pelo candidato de entre um mínimo de quatro escolhidos para o efeito pelo júri no próprio dia em que se realize a prova.
 
 2. Os doentes deverão ser convenientemente preparados para os exames que eventualmente venham a ser efectuados, com ou sem utilização de contrastes.
 
@@ -283,7 +303,7 @@ O prognóstico.
 
 7. Terminada a elaboração dos relatórios e após um intervalo máximo de meia hora, o candidato lerá os mesmos perante o júri.
 
-###### Art. 12.º - 1. Quando se trate de concurso para especialista de radioterapia e medicina nuclear, a prova prática consistirá no estudo de dois doentes em que esteja indicada a terapêutica por radiações, seguida da exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
+Art. 12.º - 1. Quando se trate de concurso para especialista de radioterapia e medicina nuclear, a prova prática consistirá no estudo de dois doentes em que esteja indicada a terapêutica por radiações, seguida da exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
 
 2. Os dois doentes serão sorteados pelo candidato de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.
 
@@ -299,7 +319,7 @@ O prognóstico.
 
 8. Finda a exposição do primeiro caso clínico, iniciará o candidato a exposição do segundo, de acordo com uma sequência idêntica à indicada nos números precedentes.
 
-###### Art. 13.º - 1. Quando se trate de concursos para especialista de análises clínicas, a prova prática compreenderá a montagem de uma técnica laboratorial e a execução de três outras técnicas laboratoriais, com interpretação dos resultados, seguida de elaboração do relatório no qual esses resultados sejam expressos e acompanhados de quaisquer comentários que o candidato considere pertinentes.
+Art. 13.º - 1. Quando se trate de concursos para especialista de análises clínicas, a prova prática compreenderá a montagem de uma técnica laboratorial e a execução de três outras técnicas laboratoriais, com interpretação dos resultados, seguida de elaboração do relatório no qual esses resultados sejam expressos e acompanhados de quaisquer comentários que o candidato considere pertinentes.
 
 2. A técnica laboratorial a montar será de bioquímica, microbiologia ou hematologia e será da livre escolha do candidato, de entre uma lista de dez técnicas para cada um dos sectores referidos elaborada pelo júri e apresentada ao candidato no dia da prova.
 
@@ -313,7 +333,7 @@ O prognóstico.
 
 7. Após um intervalo de trinta minutos, dispõe o candidato de mais uma hora para elaborar o relatório mencionado no n.º 1, que lerá perante o júri.
 
-###### Art. 14.º - 1. Quando se trate de concurso para especialista de medicina física e de reabilitação, a prova prática consistirá no estudo de dois doentes em que esteja indicado o recurso a medicina física e de reabilitação, seguido de exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
+Art. 14.º - 1. Quando se trate de concurso para especialista de medicina física e de reabilitação, a prova prática consistirá no estudo de dois doentes em que esteja indicado o recurso a medicina física e de reabilitação, seguido de exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
 
 2. Os dois doentes serão sorteados pelo candidato de entre um mínimo de quatro, escolhidos para o efeito pelo júri no próprio dia da prova.
 
@@ -329,7 +349,7 @@ O prognóstico.
 
 8. Finda a exposição do primeiro caso clínico, iniciará o candidato a exposição do segundo, de acordo com uma sequência idêntica à indicada nos números precedentes.
 
-###### Art. 15.º - 1. Quando se trate de concurso para especialista de hemoterapia, a prova prática consistirá de uma parte clínica e de uma parte de hematologia laboratorial, consistindo a primeira na observação de um doente em que se julgue indicado o recurso à hematologia, seguida de exposição em que se expressem as conclusões atingidas, os métodos terapêuticos considerados indicados e as respectivas técnicas de aplicação.
+Art. 15.º - 1. Quando se trate de concurso para especialista de hemoterapia, a prova prática consistirá de uma parte clínica e de uma parte de hematologia laboratorial, consistindo a primeira na observação de um doente em que se julgue indicado o recurso à hematologia, seguida de exposição em que se expressem as conclusões atingidas, os métodos terapêuticos considerados indicados e as respectivas técnicas de aplicação.
 
 2. O doente para a parte clínica será sorteado pelo candidato de entre um mínimo de dois escolhidos para o efeito pelo júri no próprio dia da prova.
 
@@ -347,7 +367,7 @@ O prognóstico.
 
 9. O candidato dispõe de uma hora para executar a prova e elaborar um relatório contendo os resultados obtidos, que lerá em seguida perante o júri.
 
-###### Art. 16.º - 1. Quando se trate de concurso para especialista de anatomia patológica, a prova constará da execução de uma autópsia, seguida da elaboração do respectivo relatório e da leitura de cinco preparações histológicas, seguida da indicação por escrito dos respectivos diagnósticos.
+Art. 16.º - 1. Quando se trate de concurso para especialista de anatomia patológica, a prova constará da execução de uma autópsia, seguida da elaboração do respectivo relatório e da leitura de cinco preparações histológicas, seguida da indicação por escrito dos respectivos diagnósticos.
 
 2. O candidato dispõe de duas horas para a execução da autópsia, sendo-lhe, no início da prova, facultados os elementos clínicos habituais relativos ao caso.
 
@@ -359,7 +379,7 @@ O prognóstico.
 
 6. Em seguida, o candidato lerá, perante o júri, o relatório da autópsia e a lista dos diagnósticos das preparações histológicas que examinou.
 
-###### Art. 17.º - 1. Quando se trate de concurso para especialista de anestesiologia, a prova prática consistirá na observação de um doente para operar, seguida de exposição oral sobre os resultados dessa observação, com indicação da técnica anestésica a seguir, e execução perante o júri da anestesia do doente observado.
+Art. 17.º - 1. Quando se trate de concurso para especialista de anestesiologia, a prova prática consistirá na observação de um doente para operar, seguida de exposição oral sobre os resultados dessa observação, com indicação da técnica anestésica a seguir, e execução perante o júri da anestesia do doente observado.
 
 2. O doente será sorteado pelo candidato de entre um mínimo de dois doentes escolhidos para o efeito pelo júri.
 
@@ -373,7 +393,7 @@ O prognóstico.
 
 B) Hospitais distritais
 
-###### Art. 18.º - 1. O concurso constará das seguintes provas públicas:
+Art. 18.º - 1. O concurso constará das seguintes provas públicas:
 
 a) Discussão do curriculum vitae;
 
@@ -399,17 +419,17 @@ b) Provas práticas, que poderão ser dispensadas pelo júri sempre que este as 
 
 11. No final do concurso será elaborada uma acta, onde conste obrigatoriamente a relação das classificações referidas no n.º 6, com indicação nominal dos respectivos proponentes.
 
-###### Art. 19.º Na apreciação do curriculum vitae serão obrigatoriamente considerados os elementos e respectiva valorização nos mesmos termos do preceituado para os hospitais centrais.
+Art. 19.º Na apreciação do curriculum vitae serão obrigatoriamente considerados os elementos e respectiva valorização nos mesmos termos do preceituado para os hospitais centrais.
 
-###### Art. 20.º As provas práticas ficam sujeitas às regras fixadas para os hospitais centrais.
+Art. 20.º As provas práticas ficam sujeitas às regras fixadas para os hospitais centrais.
 
 ### CAPÍTULO IV — Dos concursos para chefes de clínica
 
-###### Art. 21.º A estes concursos podem candidatar-se os médicos com o grau de especialista em que o tempo de exercício das respectivas funções, devidamente comprovado, não seja inferior a três anos, bem como aqueles que, não estando integrados como especialistas, tenham vindo a exercer durante três anos estas funções.
+Art. 21.º A estes concursos podem candidatar-se os médicos com o grau de especialista em que o tempo de exercício das respectivas funções, devidamente comprovado, não seja inferior a três anos, bem como aqueles que, não estando integrados como especialistas, tenham vindo a exercer durante três anos estas funções.
 
 Também se podem candidatar a estes concursos os médicos a quem seja dada equivalência de habilitações pelo Secretário de Estado da Saúde, sob parecer da Direcção-Geral dos Hospitais.
 
-###### Art. 22.º - 1. Este concurso consistirá exclusivamente numa prova de discussão do curriculum vitae.
+Art. 22.º - 1. Este concurso consistirá exclusivamente numa prova de discussão do curriculum vitae.
 
 2. Esta prova é eliminatória.
 
@@ -429,7 +449,7 @@ Também se podem candidatar a estes concursos os médicos a quem seja dada equiv
 
 10. No final do concurso será elaborada uma acta, onde conste obrigatoriamente a relação das classificações referidas no n.º 5, com indicação nominal dos respectivos proponentes.
 
-###### Art. 23.º Na apreciação do curriculum serão obrigatoriamente considerados os seguintes elementos e valorizados segundo a ordem decrescente:
+Art. 23.º Na apreciação do curriculum serão obrigatoriamente considerados os seguintes elementos e valorizados segundo a ordem decrescente:
 
 a) Classificações obtidas em exames e concursos e cursos da carreira médica, segundo a sua importância relativa;
 
@@ -445,6 +465,6 @@ f) Desempenho de funções ou cargos médicos, com reconhecido mérito;
 
 g) Outros títulos de valorização profissional.
 
-###### Art. 24.º As dúvidas sobre a matéria deste diploma serão resolvidas por despacho do Secretário de Estado da Saúde.
+Art. 24.º As dúvidas sobre a matéria deste diploma serão resolvidas por despacho do Secretário de Estado da Saúde.
 
 Secretaria de Estado da Saúde, 31 de Janeiro de 1977. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.

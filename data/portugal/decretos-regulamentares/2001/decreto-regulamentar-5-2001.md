@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/102b00/24692470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2001/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2001-315560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9627e7686f5d3266d6fab70bafdf3bf24d433acd4bc5433191d7e65be281474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 890fedf10dd3af3c505a5247abe6d67732483d9babe6c2dac89b55c9ebebbea6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/100/1997/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/100/1997/09/13/p/dre
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668527:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:119397719:por
+  label: Revogado pelo(a) Decreto Regulamentar n.º 3/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-2019-119397719
+  date: '2019-02-12'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:05Z'
   warnings: []
   errors: []
 ---
@@ -195,12 +212,12 @@ Os encargos decorrentes da aplicação deste diploma são suportados pelo orçam
 
 Visto e aprovado em Conselho de Ministros, em 1 de Março de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Mário Cristina de Sousa - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 9 de Abril de 2001.**
+Promulgado em 9 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Abril de 2001.**
+Referendado em 12 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

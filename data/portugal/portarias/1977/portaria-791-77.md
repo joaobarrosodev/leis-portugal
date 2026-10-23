@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-1977-280073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd387f1ba881b1741589184117072c192fef92e08b3ac3bc46b35f6dd26506cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28187a4c8c200c863d5a74016eaef5735593835a0b2b3f317bd325d10cb5db0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Exército
+- Pessoal Civil
+- Promoção Profissional
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:364726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329841:por
+  label: Alterado o art. 19.º das normas provisórias de admissão, promoção e transferência do pessoal civil do Exército, aprovadas
+    pela presente Portaria, pelo(a) Portaria n.º 532/78 - Diário da República n.º 208/1978, Série I de 1978-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-1978-329841
+  date: '1978-09-09'
+- type: amended_by
+  target: pt:dre:324519:por
+  label: Alterado o art. 3.º das normas provisórias de admissão, promoção e transferência do pessoal civil do Exército, aprovadas
+    pela presente Portaria, pelo(a) Portaria n.º 710/78 - Diário da República n.º 280/1978, Série I de 1978-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-1978-324519
+  date: '1978-12-06'
+- type: amended_by
+  target: pt:dre:364726:por
+  label: "Alterados os artigos 6.º e 19.º pela PORT.555/79.22.10.1979.CR, DR.IS [244] de 22.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/555-1979-364726
+  date: '1979-10-22'
+- type: cites
+  target: pt:dre:141024:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447771:por
+  label: Rectificada pela DECL.DD7525.19.01.1978.CR, DR.IS [16] de 19.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-447771
+  date: '1978-01-19'
+- type: corrected_by
+  target: pt:dre:448518:por
+  label: Rectificada pela DECL.DD8709.11.02.1978.CR, DR.IS [35] de 11.02.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-448518
+  date: '1978-02-11'
 article_structure:
   article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:15Z'
   warnings: []
   errors: []
 ---
@@ -432,4 +472,4 @@ Quando o preenchimento de vagas for susceptível de ser efectuado por concurso d
 
 As dúvidas que se suscitarem na aplicação das presentes normas são resolvidas por despacho do ajudante-general do Exército.
 
-**O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general.**
+O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general.

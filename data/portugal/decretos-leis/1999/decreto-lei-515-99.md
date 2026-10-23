@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/515/1999/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1999-643091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b612cb51b6c3c0a2ef64aca226c5dfa8722b664b7d43159a2fe9c04a7e6d17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 647f58e108795f2e50309e4cefdbc3ff90a3b8b7a7338973b2d4e0c5f236151a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
-- Ensino não Superior
-- Formação Profissional
-- Pessoal Dirigente
-- Higiene do Trabalho
-- Ministério da Educação
+- Avaliação do Pessoal
+- Carreira Profissional
+- Descrição de Funções
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação do Alentejo
 - Direcção Regional de Educação do Algarve
 - Direcção Regional de Educação do Centro
 - Direcção Regional de Educação do Norte
+- Direito à Informação
+- Educação Pré-escolar
+- Ensino não Superior
 - Ensino Oficial
 - Ensino Preparatório
-- Segurança no Trabalho
-- Carreira Profissional
-- Pessoal Operário
-- Formas de Provimento
-- Gestão Escolar
-- Recrutamento de Pessoal
-- Ministro das Finanças
 - Ensino Primário
-- Direito à Informação
-- Descrição de Funções
+- Estabelecimento de Ensino
+- Formação Profissional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Gestão Escolar
+- Higiene do Trabalho
+- Ministério da Educação
+- Ministério da Saúde
+- Ministro da Educação
+- Ministro das Finanças
+- Mobilidade de Pessoal
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Apoio Educativo
+- Pessoal Dirigente
 - Pessoal não Docente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
-- Estabelecimento de Ensino
 - Quadro de Pessoal
-- Ministério da Saúde
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
-- Mobilidade de Pessoal
 - Saúde no Trabalho
-- Ministro da Educação
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
-- Educação Pré-escolar
+- Segurança no Trabalho
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:502396:por
@@ -153,16 +153,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53-a/1998/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53-a/1998/03/11/p/dre
+- type: cites
+  target: pt:dre:230075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674472:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502396:por
+  label: "Revogado, sem prejuízo do disposto no art. 53.º, pelo DEC LEI.184/2004.29.07.2004.ME, DR.IS-A [177] de 29.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-2004-502396
+  date: '2004-07-29'
 article_structure:
   article_count: 73
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:23Z'
   warnings: []
   errors: []
 ---
@@ -579,7 +649,7 @@ O regime previsto no artigo anterior aplica-se aos encarregados de assistente de
 
 ###### Artigo 44.º — Isenção de horário de trabalho
 
-**O chefe de serviços de administração escolar goza de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário normal.**
+O chefe de serviços de administração escolar goza de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário normal.
 
 ###### Artigo 45.º — Férias, faltas e licenças
 
@@ -813,26 +883,26 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 8 de Novembro de 1999.**
+Promulgado em 8 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1999.**
+Referendado em 11 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)
 
 MAPA II
 
 Correspondência entre os quadros distritais e os criados quadros regionais de vinculação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)
 
 MAPA III
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)](https://files.diariodarepublica.pt/1s/1999/11/274a00/83468359.pdf)

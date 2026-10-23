@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02200/0063400641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2015/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2015-66384002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6db6be384334d3f011bc885fa849d046191d7d19d36c61b24ebc434bbc9372c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7467c656fa5f7b9475c9dea80a8f288d679c94c9fbef9f1dae2167e3c33368d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Doação
 - Estatuto
+- Fundação Museu do Douro
 - Fundação Pública
 - Órgãos Sociais
-- Fundação Museu do Douro
-- Benefícios Fiscais
 - Trabalhador por Conta de Outrem
 - Utilidade Pública
 relationships:
@@ -92,15 +92,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
 article_structure:
-  article_count: 55
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:24Z'
   warnings: []
   errors: []
 ---
@@ -137,11 +137,15 @@ Os artigos 2.º,4.º e 7.º do [Decreto-Lei n.º 70/2006](https://diariodarepubl
 
 3 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O património da FMD, F.P., é constituído pelos bens e valores constantes do artigo 5.º dos respetivos estatutos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -169,15 +173,15 @@ O anexo I ao [Decreto-Lei n.º 70/2006](https://diariodarepublica.pt/web/guest/p
 
 Visto e aprovado em Conselho de Ministros de 31 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Maria de Barros Serra Marques Guedes - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 23 de janeiro de 2015.**
+Promulgado em 23 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de janeiro de 2015.**
+Referendado em 27 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -185,7 +189,9 @@ Visto e aprovado em Conselho de Ministros de 31 de dezembro de 2014. - Pedro Pas
 
 ESTATUTOS DA FUNDAÇÃO MUSEU DO DOURO, F.P.
 
-###### Artigo 1.º — Denominação, sede e tutela
+Artigo 1.º
+
+Denominação, sede e tutela
 
 1 - A Fundação Museu do Douro, F.P., adiante designada por FMD, F.P., é uma fundação pública de direito privado, dotada de órgãos e património próprio e de autonomia administrativa e financeira.
 
@@ -195,21 +201,29 @@ ESTATUTOS DA FUNDAÇÃO MUSEU DO DOURO, F.P.
 
 4 - Os municípios e as demais pessoas e entidades de natureza pública ou privada fundadores participam na gestão da FMD, F.P., nos termos e com as especificidades constantes dos presentes Estatutos.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 O âmbito de ação da FMD, F.P., é a Região do Douro, podendo, igualmente, desenvolver a sua ação em qualquer parte do País e do estrangeiro.
 
-###### Artigo 3.º — Objeto e beneficiários
+Artigo 3.º
+
+Objeto e beneficiários
 
 A FMD, F.P., prossegue fins culturais, nomeadamente museológicos, de promoção, de valorização e preservação do património material e imaterial do Douro Vinhateiro, tendo por beneficiários os cidadãos em geral.
 
-###### Artigo 4.º — Atribuições
+Artigo 4.º
+
+Atribuições
 
 1 - A FMD, F.P., tem como atribuições as atividades relacionadas com a prossecução dos seus fins, designadamente, a instalação, a manutenção e a gestão do Museu da Região do Douro, nos termos da [Lei n.º 125/97](https://diariodarepublica.pt/web/guest/pesquisa/-/search/406324/details/normal?l=1), de 2 de dezembro.
 
 2 - A FMD, F.P., desenvolve as atividades estabelecidas na [Lei n.º 125/97](https://diariodarepublica.pt/web/guest/pesquisa/-/search/406324/details/normal?l=1), de 2 de dezembro, bem como as que contribuam para a rentabilização do património de que é titular.
 
-###### Artigo 5.º — Património
+Artigo 5.º
+
+Património
 
 O património da FMD, F.P., é constituído:
 
@@ -239,7 +253,9 @@ i) Pelas dotações financeiras prestadas pelo Estado, para funcionamento da FMD
 
 j) Pelas dotações financeiras anuais das autarquias locais, nos termos do Acordo de Fundadores e dos restantes fundadores na proporção das respetivas entradas, sob proposta do conselho diretivo.
 
-###### Artigo 6.º — Autonomia financeira
+Artigo 6.º
+
+Autonomia financeira
 
 1 - A FMD, F.P., goza de autonomia financeira, devendo a sua ação estar subordinada às regras dos presentes Estatutos, da Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/179571/details/normal?l=1), de 9 de julho, e da demais legislação aplicável.
 
@@ -249,11 +265,13 @@ j) Pelas dotações financeiras anuais das autarquias locais, nos termos do Acor
 
 4 - A FMD, F.P., pode fazer investimentos, bem como participar no capital de sociedades comerciais ou criar sociedades, observados os requisitos legais, que sejam instrumento útil para a prossecução do objetivo de otimização da gestão do seu património, desde que necessárias ou úteis à prossecução dos seus fins estatutários, com prévia autorização dos membros do Governo responsáveis pelas áreas das finanças e da cultura, anualmente renovada, nos termos definidos nos presentes Estatutos, na Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/179571/details/normal?l=1), de 9 de julho, e na demais legislação aplicável.
 
-###### Artigo 7.º — Participação noutras entidades
+Artigo 7.º
+
+Participação noutras entidades
 
 A FMD, F.P., pode, por deliberação do conselho diretivo, filiar-se ou estabelecer acordos de cooperação com instituições nacionais ou estrangeiras.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Órgãos da Fundação Museu do Douro, F.P.
 
@@ -265,7 +283,9 @@ b) O fiscal único;
 
 c) O conselho consultivo.
 
-###### Artigo 9.º — Composição e remuneração do conselho diretivo
+Artigo 9.º
+
+Composição e remuneração do conselho diretivo
 
 1 - O conselho diretivo da FMD, F.P., é composto pelo presidente e por dois vogais.
 
@@ -277,7 +297,9 @@ c) O conselho consultivo.
 
 5 - O presidente e os vogais não são remunerados, nem auferem senhas de presença, sem prejuízo do direito ao pagamento de despesas com as deslocações, decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativos às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.
 
-###### Artigo 10.º — Competência do conselho diretivo
+Artigo 10.º
+
+Competência do conselho diretivo
 
 1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e da gestão da FMD, F.P.:
 
@@ -299,13 +321,17 @@ f) Elaborar o balanço anual e as contas de cada exercício, obtido o parecer do
 
 4 - O conselho diretivo pode delegar competências em qualquer dos seus membros.
 
-###### Artigo 11.º — Presidente do conselho diretivo
+Artigo 11.º
+
+Presidente do conselho diretivo
 
 1 - Sem prejuízo das competências que lhe são cometidas pela lei ou pelos presentes Estatutos, compete ao presidente convocar e presidir às reuniões do conselho diretivo.
 
 2 - O presidente indica o vogal do conselho diretivo que o substitui nas suas faltas e impedimentos.
 
-###### Artigo 12.º — Funcionamento do conselho diretivo
+Artigo 12.º
+
+Funcionamento do conselho diretivo
 
 1 - O quórum do conselho diretivo é de dois membros, sendo as suas deliberações tomadas por maioria.
 
@@ -313,13 +339,17 @@ f) Elaborar o balanço anual e as contas de cada exercício, obtido o parecer do
 
 3 - De todas as reuniões é lavrada ata em livro próprio, assinada pelos membros presentes.
 
-###### Artigo 13.º — Vinculação
+Artigo 13.º
+
+Vinculação
 
 1 - A FMD, F.P., obriga-se pela assinatura conjunta de dois membros do conselho diretivo, sendo um deles o presidente.
 
 2 - O conselho diretivo pode, em casos devidamente justificados, constituir mandatários, atribuindo-lhes competência para atos específicos previamente aprovados, podendo, nesse caso, a FMD, F.P., ficar obrigada pela sua assinatura.
 
-###### Artigo 14.º — Fiscal único
+Artigo 14.º
+
+Fiscal único
 
 1 - O fiscal único é designado e tem as competências previstas na Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/603478/details/normal?l=1), de 15 de janeiro, aplicável nos termos da Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/179571/details/normal?l=1), de 9 de julho, competindo-lhe ainda:
 
@@ -329,7 +359,9 @@ b) Elaborar o parecer sobre se a aplicação dos rendimentos se realiza em harmo
 
 2 - O fiscal único é remunerado nos termos definidos para os institutos públicos de regime comum pela Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/web/guest/pesquisa/-/search/603478/details/normal?l=1), de 15 de janeiro.
 
-###### Artigo 15.º — Composição do conselho consultivo
+Artigo 15.º
+
+Composição do conselho consultivo
 
 1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais da FMD, F.P.
 
@@ -349,7 +381,9 @@ b) Elaborar o parecer sobre se a aplicação dos rendimentos se realiza em harmo
 
 9 - O exercício de funções de membro do conselho consultivo não é remunerado.
 
-###### Artigo 16.º — Competência do conselho consultivo
+Artigo 16.º
+
+Competência do conselho consultivo
 
 Sem prejuízo das competências conferidas por lei, compete ao conselho consultivo pronunciar-se sobre:
 
@@ -365,7 +399,9 @@ e) A alienação ou oneração de bens que integrem o património privativo da F
 
 f) As questões, iniciativas, projetos e ou matérias que lhe forem colocadas pelo conselho diretivo.
 
-###### Artigo 17.º — Funcionamento
+Artigo 17.º
+
+Funcionamento
 
 1 - O conselho consultivo reúne, ordinariamente, em março e novembro, para dar parecer sobre o balanço anual e as contas de cada exercício, obtido o parecer do fiscal único, e sobre o plano de atividades e o orçamento da fundação, e, extraordinariamente, sempre que seja convocado pelo seu presidente, ou, pelo menos, por quatro dos seus membros.
 
@@ -375,11 +411,13 @@ f) As questões, iniciativas, projetos e ou matérias que lhe forem colocadas pe
 
 4 - O conselho consultivo emite a sua pronúncia em reunião convocada para o efeito ou mediante a emissão de pareceres individuais de cada uma das entidades que o compõem, no prazo de 20 dias a contar da solicitação para esse efeito formulada pelo seu presidente.
 
-###### Artigo 18.º — Modificação dos Estatutos
+Artigo 18.º
+
+Modificação dos Estatutos
 
 A alteração dos presentes Estatutos é efetuada por decreto-lei.
 
-###### Artigo 19.º
+Artigo 19.º
 
 Extinção da Fundação Museu do Douro, F.P.
 

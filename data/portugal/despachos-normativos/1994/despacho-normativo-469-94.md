@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/152b00/35253527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/469/1994/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/469-1994-291434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38d16ca400d79564ba74de31939f797a38380c55f651ddcf3a67cb5c3bee24ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28563e830361852b1a9177a0b5a8bcdcdc4a18554688d651d930e23924dee704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
 - Estabelecimento de Restauração
 - Estabelecimento Hoteleiro
-- Indústria Hoteleira
+- Financiamento
 - Fundo de Turismo
+- Indústria Hoteleira
+- Infraestrutura Turística
 - Linha de Crédito
 - TAXA de JURO
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:218342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517400:por
+  label: "Prorrogado, por um ano, o prazo referido no n.º 29 do anexo ao presente diploma, pelo DN.30/95.17.06.1995.MCT, DR.IS-B\
+    \ [138] de 17.06.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-1995-517400
+  date: '1995-06-17'
+- type: amended_by
+  target: pt:dre:571188:por
+  label: "Alterado o n.º 19 pelo DN.16/96.22.04.1996.MECO, DR.IS-B [95] de 22.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-1996-571188
+  date: '1996-04-22'
+- type: amended_by
+  target: pt:dre:187306:por
+  label: "Prorrogado o prazo a que alude o corpo do num 29 do anexo, na redacção dada pelo DN 30/95 de 30-Mai pelo DN.53/96.1996.11.15.MECO\
+    \ DR.IS-B [286] de 11/Dez/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/53-1996-187306
+  date: '1996-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/188/1992/10/12/p/dre
   label: null
@@ -96,16 +113,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/73/1992/05/19/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/73/1992/05/19/p/dre
+- type: cites
+  target: pt:dre:225996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218342:por
+  label: "Revogado, sem prejuízo da aplicação do mesmo aos financiamentos requeridos durante a sua vigência, salvo no tocante\
+    \ às taxas de juro, que passam a reger-se pelo regime anexo ao presente diploma, desde que compreendam financiamentos\
+    \ da mesma natureza pelo DN.15/98.1998.02.02.MECO, DR.IS-B ]55] de 06/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/15-1998-218342
+  date: '1998-02-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:39Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +184,7 @@ Assim, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 149/80](https://d
 
 Ministério do Comércio e Turismo, 23 de Junho de 1994. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
 
-## Anexo ao Despacho Normativo n.º 469/94
+Anexo ao Despacho Normativo n.º 469/94
 
 Regime dos Financiamentos Directos a Conceder pelo Fundo de Turismo
 

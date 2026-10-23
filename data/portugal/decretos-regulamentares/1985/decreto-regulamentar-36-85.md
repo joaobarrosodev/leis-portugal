@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/12400/14721476.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1985-151892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b90c0c60392b17039cd95d7fd7b22f2ac437960e115a3fba58ac822e7573b785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b412bf9a94a8f70de36423e761f900ca74ca34328c5cdd1ddb8c3ac2af9e5935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:665345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665345:por
+  label: "Revogado pelo DEC LEI.143/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1993-665345
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:22Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +132,9 @@ Ao abrigo do disposto no artigo 24.º do [Decreto-Lei n.º 49/83](https://diario
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Estádio Nacional é um organismo dotado de autonomia administrativa e financeira que funciona na dependência da Direcção-Geral dos Desportos.
+Artigo 1.º O Estádio Nacional é um organismo dotado de autonomia administrativa e financeira que funciona na dependência da Direcção-Geral dos Desportos.
 
-###### Art. 2.º São atribuições do Estádio Nacional:
+Art. 2.º São atribuições do Estádio Nacional:
 
 a) Proporcionar estruturas materiais de acolhimento à formação, estágio e aperfeiçoamento dos praticantes, técnicos e dirigentes desportivos, desde a aprendizagem até à alta competição;
 
@@ -116,13 +144,13 @@ c) Dinamizar actividades desportivas nas instalações do Estádio.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º São órgãos do Estádio Nacional:
+Art. 3.º São órgãos do Estádio Nacional:
 
 a) O director;
 
 b) O conselho administrativo.
 
-###### Art. 4.º - 1 - O Estádio Nacional dispõe dos Serviços Administrativos, os quais integram uma secção e os seguintes sectores:
+Art. 4.º - 1 - O Estádio Nacional dispõe dos Serviços Administrativos, os quais integram uma secção e os seguintes sectores:
 
 a) Sector de Instalações e Equipamento;
 
@@ -136,7 +164,7 @@ d) Secção de Contabilidade.
 
 3 - Os sectores serão chefiados por um funcionário com a categoria de encarregado de instalações desportivas.
 
-###### Art. 5.º - 1 - Compete ao director do Estádio Nacional:
+Art. 5.º - 1 - Compete ao director do Estádio Nacional:
 
 a) Dirigir, orientar e coordenar os serviços;
 
@@ -158,11 +186,11 @@ i) Autorizar aquisições e despesas até aos limites estabelecidos na lei geral
 
 2 - O director do Estádio Nacional é equiparado a director de serviços.
 
-###### Art. 6.º - 1 - O conselho administrativo é o órgão colegial fiscalizador da legalidade da gestão financeira e patrimonial do Estádio Nacional.
+Art. 6.º - 1 - O conselho administrativo é o órgão colegial fiscalizador da legalidade da gestão financeira e patrimonial do Estádio Nacional.
 
 2 - O conselho administrativo é composto pelo director do Estádio Nacional, que preside, pelo chefe dos Serviços Administrativos e por um representante da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 7.º Ao conselho administrativo compete:
+Art. 7.º Ao conselho administrativo compete:
 
 a) Promover a elaboração dos projectos de orçamento e dos subsequentes pedidos de alterações;
 
@@ -176,11 +204,11 @@ e) Proceder à verificação regular dos fundos em cofre e em depósito e fiscal
 
 f) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam submetidos pelo director do Estádio Nacional.
 
-###### Art. 8.º - 1 - O conselho administrativo reúne quinzenalmente com carácter ordinário e extraordinariamente quando o presidente o convocar.
+Art. 8.º - 1 - O conselho administrativo reúne quinzenalmente com carácter ordinário e extraordinariamente quando o presidente o convocar.
 
 2 - As restantes regras de funcionamento do conselho administrativo serão estabelecidas em regulamento interno.
 
-###### Art. 9.º Compete aos Serviços Administrativos:
+Art. 9.º Compete aos Serviços Administrativos:
 
 a) Executar todas as operações necessárias à administração do pessoal do Estádio Nacional;
 
@@ -198,7 +226,7 @@ g) Assegurar o expediente;
 
 h) Manter actualizado o cadastro dos bens do Estádio Nacional.
 
-###### Art. 10.º Compete ao Sector de Instalações e Equipamento:
+Art. 10.º Compete ao Sector de Instalações e Equipamento:
 
 a) Manter o estado de fruição das instalações e equipamento ou material desportivo;
 
@@ -208,7 +236,7 @@ c) Cobrar as taxas devidas pela fruição das instalações, equipamento ou mate
 
 d) Fiscalizar a correcta fruição das instalações, equipamento ou material desportivo.
 
-###### Art. 11.º Compete ao Sector de Manutenção:
+Art. 11.º Compete ao Sector de Manutenção:
 
 a) Efectuar as reparações ou os melhoramentos necessários nas instalações, desde que para tal disponha de meios necessários e sempre que por tal forma seja previsível uma economia de custos;
 
@@ -216,7 +244,7 @@ b) Efectuar os trabalhos para a manutenção do equipamento ou material desporti
 
 c) Assegurar a guarda das ferramentas e demais utensílios que lhe estejam atribuídos.
 
-###### Art. 12.º Compete ao Sector de Segurança:
+Art. 12.º Compete ao Sector de Segurança:
 
 a) Executar os serviços inerentes à segurança das instalações, equipamento ou material desportivo do Estádio Nacional;
 
@@ -226,9 +254,9 @@ c) Propor ao director, quando as circunstâncias o exigirem, a requisição de g
 
 d) Colaborar no controle das entradas aquando da realização de espectáculos.
 
-###### Art. 13.º A actividade dos serviços de instalações e equipamento, manutenção e segurança é coordenada por um funcionário com a categoria de encarregado, o qual fica directamente dependente do chefe de repartição responsável pelos Serviços Administrativos.
+Art. 13.º A actividade dos serviços de instalações e equipamento, manutenção e segurança é coordenada por um funcionário com a categoria de encarregado, o qual fica directamente dependente do chefe de repartição responsável pelos Serviços Administrativos.
 
-###### Art. 14.º - 1 - Compete à Secção de Contabilidade:
+Art. 14.º - 1 - Compete à Secção de Contabilidade:
 
 a) Assegurar a boa execução do orçamento do Estádio Nacional;
 
@@ -242,15 +270,15 @@ d) Assegurar a escrituração de todas as receitas e despesas do Estádio Nacion
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 15.º - 1 - O Estádio Nacional tem o pessoal constante do quadro anexo.
+Art. 15.º - 1 - O Estádio Nacional tem o pessoal constante do quadro anexo.
 
 2 - O regime jurídico do pessoal em serviço no Estádio Nacional e o seu recrutamento e selecção serão os constantes da lei geral e do disposto no presente diploma.
 
-###### Art. 16.º - 1 - O provimento do lugar de director do Estádio Nacional far-se-á nos termos do disposto na lei geral, podendo ainda ser provido de entre professores de Educação Física licenciados com a 3.ª fase ou 4.ª fase.
+Art. 16.º - 1 - O provimento do lugar de director do Estádio Nacional far-se-á nos termos do disposto na lei geral, podendo ainda ser provido de entre professores de Educação Física licenciados com a 3.ª fase ou 4.ª fase.
 
 2 - Os lugares de chefe de repartição e de chefe de secção serão providos nos termos em que o forem idênticos lugares da Direcção-Geral dos Desportos.
 
-###### Art. 17.º - 1 - A carreira de técnico adjunto de desporto desenvolve-se pelas categorias de técnico adjunto de desporto principal, de 1.ª classe e de 2.ª classe, de acordo com o disposto nos números seguintes.
+Art. 17.º - 1 - A carreira de técnico adjunto de desporto desenvolve-se pelas categorias de técnico adjunto de desporto principal, de 1.ª classe e de 2.ª classe, de acordo com o disposto nos números seguintes.
 
 2 - Os lugares de técnico adjunto de desporto principal e de 1.ª classe são providos de entre técnicos adjuntos de desporto de 1.ª classe e de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria e aproveitamento em curso de formação adequado.
 
@@ -258,7 +286,7 @@ d) Assegurar a escrituração de todas as receitas e despesas do Estádio Nacion
 
 4 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 18.º - 1 - A carreira de técnico auxiliar de desporto desenvolve-se pelas categorias de técnico auxiliar de desporto principal, de 1.ª classe e de 2.ª classe, de acordo com o disposto nos números seguintes.
+Art. 18.º - 1 - A carreira de técnico auxiliar de desporto desenvolve-se pelas categorias de técnico auxiliar de desporto principal, de 1.ª classe e de 2.ª classe, de acordo com o disposto nos números seguintes.
 
 2 - Os lugares de técnico auxiliar de desporto principal e de 1.ª classe são providos de entre técnicos auxiliares de desporto de 1.ª classe e de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria e aproveitamento em curso de formação adequado.
 
@@ -266,15 +294,15 @@ d) Assegurar a escrituração de todas as receitas e despesas do Estádio Nacion
 
 4 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 19.º - 1 - A categoria de encarregado de instalações desportivas, a que corresponde a letra N, será provida de entre indivíduos habilitados com a escolaridade obrigatória e aproveitamento em curso de formação profissional adequado.
+Art. 19.º - 1 - A categoria de encarregado de instalações desportivas, a que corresponde a letra N, será provida de entre indivíduos habilitados com a escolaridade obrigatória e aproveitamento em curso de formação profissional adequado.
 
 2 - O conteúdo funcional da categoria referida consta do anexo II ao presente diploma.
 
-###### Art. 20.º - 1 - A categoria de encarregado, a que corresponde a letra K, será provida de entre encarregados de instalações desportivas com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
+Art. 20.º - 1 - A categoria de encarregado, a que corresponde a letra K, será provida de entre encarregados de instalações desportivas com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
 2 - O conteúdo funcional da categoria referida consta do anexo II ao presente diploma.
 
-###### Art. 21.º - 1 - A carreira de guarda da natureza desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.
+Art. 21.º - 1 - A carreira de guarda da natureza desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.
 
 2 - A mudança de categoria verificar-se-á após a permanência de 5 anos na categoria anterior e com classificação de serviço não inferior a Bom.
 
@@ -282,11 +310,11 @@ d) Assegurar a escrituração de todas as receitas e despesas do Estádio Nacion
 
 4 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 22.º Os lugares da carreira de enfermeiro serão providos nos termos do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.
+Art. 22.º Os lugares da carreira de enfermeiro serão providos nos termos do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### Art. 23.º Constituem receitas próprias do Estádio Nacional:
+Art. 23.º Constituem receitas próprias do Estádio Nacional:
 
 a) As importâncias correspondentes às dotações que lhe sejam atribuídas pelo Orçamento do Estado;
 
@@ -302,7 +330,7 @@ f) As importâncias provenientes de coimas aplicadas por infracções cometidas 
 
 g) Outras receitas que lhe sejam atribuídas por lei, por contrato ou a qualquer outro título.
 
-###### Art. 24.º Nas receitas provenientes da exploração comercial do Estádio Nacional compreendem-se, designadamente, as seguintes:
+Art. 24.º Nas receitas provenientes da exploração comercial do Estádio Nacional compreendem-se, designadamente, as seguintes:
 
 a) Contrapartidas financeiras da concessão de autorização para a filmagem de espectáculos desportivos efectuados no Estádio Nacional;
 
@@ -312,21 +340,21 @@ c) Receitas provenientes da concessão de publicidade;
 
 d) Receitas provenientes da autorização para o exercício de outras actividades comerciais pelo director do Estádio Nacional.
 
-###### Art. 25.º - 1 - Em termos e condições a serem definidos por despacho do membro do Governo que tiver a seu cargo a área dos desportos, poderá ser autorizada a cedência, a título precário, de terrenos do Estádio Nacional para a exploração de actividades de natureza comercial.
+Art. 25.º - 1 - Em termos e condições a serem definidos por despacho do membro do Governo que tiver a seu cargo a área dos desportos, poderá ser autorizada a cedência, a título precário, de terrenos do Estádio Nacional para a exploração de actividades de natureza comercial.
 
 2 - As receitas provenientes da concessão referida no número precedente reverterão, como receitas próprias, para o Estádio Nacional.
 
-###### Art. 26.º Reverterão igualmente para o Estádio Nacional, como receitas próprias, as receitas provenientes do arrendamento, a funcionários do Estádio, das moradias a este pertencentes, a fim de aí residirem habitualmente.
+Art. 26.º Reverterão igualmente para o Estádio Nacional, como receitas próprias, as receitas provenientes do arrendamento, a funcionários do Estádio, das moradias a este pertencentes, a fim de aí residirem habitualmente.
 
-###### Art. 27.º Constituem despesas do Estádio Nacional:
+Art. 27.º Constituem despesas do Estádio Nacional:
 
 a) Despesas gerais de funcionamento e de manutenção e gestão das instalações, incluindo as despesas com pessoal;
 
 b) Aquisição de bens móveis e material desportivo e de outro equipamento para instalações.
 
-###### Art. 28.º O movimento e utilização das receitas próprias do Estádio Nacional, a organização dos seus orçamentos privativos e a prestação e publicidade das suas contas de gerência ficam sujeitos ao disposto nos Decretos-Leis n.os [264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, e [459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
+Art. 28.º O movimento e utilização das receitas próprias do Estádio Nacional, a organização dos seus orçamentos privativos e a prestação e publicidade das suas contas de gerência ficam sujeitos ao disposto nos Decretos-Leis n.os [264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, e [459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro.
 
-###### Art. 29.º - 1 - As receitas do Estádio Nacional serão depositadas, em conta própria, na Caixa Geral de Depósitos e a sua movimentação só poderá efectuar-se com a assinatura de 2 membros do conselho administrativo.
+Art. 29.º - 1 - As receitas do Estádio Nacional serão depositadas, em conta própria, na Caixa Geral de Depósitos e a sua movimentação só poderá efectuar-se com a assinatura de 2 membros do conselho administrativo.
 
 2 - As receitas referidas no número anterior serão entregues nos cofres do Estado e escrituradas como contas de ordem, até ao dia 10 do mês seguinte àquele em que entrarem na posse do serviço, mediante guias de receita pelo mesmo processadas, devendo um dos exemplares, averbado do pagamento, ser remetido à correspondente delegação da Direcção-Geral da Contabilidade Pública.
 
@@ -334,45 +362,45 @@ b) Aquisição de bens móveis e material desportivo e de outro equipamento para
 
 4 - O conselho administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar pelo membro do Governo que tiver a seu cargo a área dos desportos.
 
-###### Art. 30.º Por despacho do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a área dos desportos, o director do Estádio Nacional celebrará com as empresas portuguesas do sector contratos de seguro de pessoas e bens afectos ao Estádio Nacional.
+Art. 30.º Por despacho do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a área dos desportos, o director do Estádio Nacional celebrará com as empresas portuguesas do sector contratos de seguro de pessoas e bens afectos ao Estádio Nacional.
 
-###### Art. 31.º Para efeitos de cobrança coerciva de quaisquer rendimentos provenientes de exploração ou utilização do Estádio Nacional, terão força executiva, nos termos e para os efeitos do Código de Processo das Contribuições e Impostos, as certidões passadas pelo director donde constem a natureza e o montante da dívida exequenda.
+Art. 31.º Para efeitos de cobrança coerciva de quaisquer rendimentos provenientes de exploração ou utilização do Estádio Nacional, terão força executiva, nos termos e para os efeitos do Código de Processo das Contribuições e Impostos, as certidões passadas pelo director donde constem a natureza e o montante da dívida exequenda.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 32.º As condições de utilização e exploração das instalações do Estádio Nacional serão definidas por regulamento a aprovar por portaria do membro do Governo que tiver a seu cargo a área dos desportos.
+Art. 32.º As condições de utilização e exploração das instalações do Estádio Nacional serão definidas por regulamento a aprovar por portaria do membro do Governo que tiver a seu cargo a área dos desportos.
 
-###### Art. 33.º O primeiro preenchimento dos lugares de chefe de repartição e de chefe de secção do quadro anexo ao presente diploma far-se-á de acordo com as seguintes regras:
+Art. 33.º O primeiro preenchimento dos lugares de chefe de repartição e de chefe de secção do quadro anexo ao presente diploma far-se-á de acordo com as seguintes regras:
 
 a) Transita para o lugar de chefe de repartição o funcionário que actualmente desempenha as funções de chefe dos Serviços Administrativos do Estádio Nacional;
 
 b) Transita para o lugar de chefe de secção o primeiro-oficial que actualmente, no Estádio Nacional, desempenha as funções de chefe de secção.
 
-###### Art. 34.º - 1 - O restante pessoal que presta serviço no Estádio Nacional à data da publicação do presente diploma, bem como o pessoal aí requisitado ou destacado, será provido nos lugares do quadro a que se refere o artigo 15.º em categoria correspondente às funções que actualmente desempenha, remunerada pela mesma letra de vencimento ou pela letra de vencimento imediatamente superior quando não se verifique coincidência de remuneração, observados os requisitos habilitacionais.
+Art. 34.º - 1 - O restante pessoal que presta serviço no Estádio Nacional à data da publicação do presente diploma, bem como o pessoal aí requisitado ou destacado, será provido nos lugares do quadro a que se refere o artigo 15.º em categoria correspondente às funções que actualmente desempenha, remunerada pela mesma letra de vencimento ou pela letra de vencimento imediatamente superior quando não se verifique coincidência de remuneração, observados os requisitos habilitacionais.
 
 2 - O disposto no número anterior só é aplicável ao pessoal não funcionário que, prestando serviço em regime de subordinação à hierarquia, exerça funções que satisfaçam necessidades permanentes dos serviços e se encontre em efectividade de funções há, pelo menos, 3 anos, com carácter de continuidade.
 
-###### Art. 35.º - 1 - O provimento a que se referem os artigos anteriores far-se-á, a título definitivo, independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e da publicação no Diário da República.
+Art. 35.º - 1 - O provimento a que se referem os artigos anteriores far-se-á, a título definitivo, independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e da publicação no Diário da República.
 
 2 - Ao pessoal provido nos termos do número anterior será contado, para todos os efeitos legais, o tempo de serviço prestado no exercício de funções remuneradas pela letra de vencimento com base na qual se operou a determinação da nova categoria.
 
-###### Art. 36.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 36.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias - Júlio Miranda Calha.
 
-**Promulgado em 16 de Maio de 1985.**
+Promulgado em 16 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Maio de 1985.**
+Referendado em 21 de Maio de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Quadro do pessoal a que se refere o artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/12400/14721476.pdf))](https://files.diariodarepublica.pt/1s/1985/05/12400/14721476.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/12400/14721476.pdf)
 
 ## ANEXO II
 

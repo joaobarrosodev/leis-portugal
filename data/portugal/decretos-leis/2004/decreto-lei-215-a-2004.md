@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 208/2004, 1º Suplemento, Série I-A de 2004-09-03
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5912-(2) a 5912-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/208a01/00020009.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215-a/2004/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2004-551625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aac1bb19596962c74ec3defb0267c4c565d2bfc9ece30df8f7b1cf07c373548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30f31b4e02e42fef56132ca1d72526f9044caa5e8877d7799eac5184e82c236d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,147 +67,160 @@ reuse:
 subjects:
 - Agência de Inovação
 - Agência Europeia de Segurança Marítima
-- ICEP
-- Instituto da ÁGUA
-- Instituto do Emprego e Formação Profissional
-- Instituto de Formação Turística
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
-- Ministro da Saúde
+- Auditoria Jurídica
+- Centro de Estudos e Formação Autárquica
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comissão do Mercado Social de Emprego
+- Comissão Estratégica dos Oceanos
+- Comissão para a Delimitação da Plataforma Continental
 - Comissão Técnica
 - Competência Própria
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos Económicos
-- Instituto Portuário e dos Transportes Marítimos
-- Instituto António Sérgio do Sector Cooperativo
+- Conselho Nacional da ÁGUA
+- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
+- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
+- Conselho para a Dinamização do Turismo
 - Costagest
 - Delegação de Competências
 - Direção Geral das Autarquias Locais
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Emprego e das Relações de Trabalho
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Direcção Geral do Turismo
 - Direcção Geral dos Edifícios e Monumentos Nacionais
-- Comissão Estratégica dos Oceanos
 - EDIA
-- Ministro da Agricultura Pescas e Florestas
-- Região de Turismo
 - Escola Náutica Infante Dom Henrique
+- Escola Superior de Hotelaria e Turismo do Estoril
 - Estaleiros Navais de Viana do Castelo
-- Setor Empresarial do Estado
-- Secretaria Geral
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro da Justiça
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado da Administração Interna
+- Gabinete de Estudos e Planeamento
+- Gabinete de Relações Internacionais
 - Governo XVI
+- ICEP
+- Imoppi
+- Inatel
+- Ineti
+- Inofor
+- Inspecção Geral da Administração do Território
+- Inspecção Geral de Jogos
+- Inspecção Geral do Ambiente
+- Inspecção Geral do Trabalho
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto da ÁGUA
+- Instituto da Conservação da Natureza
+- Instituto das Comunicações de Portugal
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Instituto de Formação Turística
+- Instituto de Genética Médica Dr Jacinto de Magalhães
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Instituto de Turismo de Portugal
+- Instituto do Ambiente
+- Instituto do Emprego e Formação Profissional
+- Instituto dos Resíduos
+- Instituto Geográfico Português
+- Instituto Hidrográfico
+- Instituto Nacional da Propriedade Industrial
+- Instituto Nacional de Habitação
+- Instituto Nacional de Investigação Agrária e das Pescas
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto para a Qualidade na Formação
+- Instituto para a Segurança Higiene e Saúde no Trabalho
+- Instituto Portuário e dos Transportes Marítimos
+- Instituto Regulador de Águas e Resíduos
+- Instituto Tecnológico e Nuclear
+- Laboratório Nacional de Engenharia Civil
+- Laboratório Nacional de Investigação Veterinária
+- Ministério das Cidades Ordenamento do Território e Ambiente
 - Ministro Adjunto do Primeiro-ministro
+- Ministro da Administração Interna
+- Ministro da Agricultura Pescas e Florestas
 - Ministro da Ciência Inovação e Ensino Superior
+- Ministro da Cultura
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Saúde
 - Ministro da Segurança Social da Família e da Criança
 - Ministro das Cidades Administração Local Habitação e Desenvolvimento Regional
+- Ministro das Finanças e da Administração Pública
+- Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
 - Ministro de Estado das Actividades Económicas e do Trabalho
 - Ministro de Estado e da Presidência
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Turismo
+- Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
+- Ministro para os Assuntos Parlamentares
+- Observatório do Emprego e Formação Profissional
+- Orgânica
+- Parpública
+- Parque EXPO 98
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- Região de Turismo
+- Registo Internacional de Navios da Madeira
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro da Agricultura Pescas e Florestas
 - Secretário de Estado Adjunto do Ministro da Justiça
+- Secretário de Estado Adjunto do Ministro da Presidência
+- Secretário de Estado Adjunto do Ministro da Saúde
+- Secretário de Estado Adjunto do Ministro da Segurança Social da Família e da Criança
 - Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território
 - Secretário de Estado Adjunto do Ministro do Turismo
 - Secretário de Estado Adjunto e da Administração Educativa
 - Secretário de Estado Adjunto e das Obras Públicas
 - Secretário de Estado Adjunto e do Trabalho
-- Secretário de Estado da Ciência e Inovação
-- Secretário de Estado da Indústria Comércio e Serviços
-- Secretário de Estado das Florestas
-- Secretário de Estado do Desenvolvimento Económico
-- Secretário de Estado para os Assuntos do Mar
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministro da Cultura
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Saúde
-- Instituto das Comunicações de Portugal
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
-- Inspecção Geral da Administração do Território
-- Instituto de Gestão do Fundo Social Europeu
-- Ineti
-- Instituto Nacional de Habitação
-- Instituto Nacional da Propriedade Industrial
-- Inspecção Geral de Jogos
-- Inspecção Geral do Ambiente
-- Instituto da Conservação da Natureza
-- Instituto de Turismo de Portugal
-- Instituto de Genética Médica Dr Jacinto de Magalhães
-- Instituto do Ambiente
-- Imoppi
-- Instituto Hidrográfico
-- Instituto Nacional de Investigação Agrária e das Pescas
-- Inofor
-- Instituto para a Qualidade na Formação
-- Instituto para a Segurança Higiene e Saúde no Trabalho
-- Instituto Tecnológico e Nuclear
-- Laboratório Nacional de Investigação Veterinária
-- Laboratório Nacional de Engenharia Civil
-- Santa Casa da Misericórdia
-- Escola Superior de Hotelaria e Turismo do Estoril
-- Gabinete de Relações Internacionais
-- Conselho para a Dinamização do Turismo
-- Gabinete de Estudos e Planeamento
-- Auditoria Jurídica
-- Secretário de Estado da Justiça
-- Comissão do Mercado Social de Emprego
-- Conselho Nacional para a Segurança Higiene e Saúde no Trabalho
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Inspecção Geral do Trabalho
-- Ministério das Cidades Ordenamento do Território e Ambiente
-- Direcção Geral do Desenvolvimento Regional
-- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
-- Conselho Nacional da ÁGUA
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Instituto dos Resíduos
-- Instituto Regulador de Águas e Resíduos
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado do Desporto
-- Secretário de Estado Adjunto do Ministro da Presidência
-- Secretário de Estado Adjunto do Ministro da Segurança Social da Família e da Criança
-- Centro de Estudos e Formação Autárquica
-- Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
-- Observatório do Emprego e Formação Profissional
-- Orgânica
-- Parpública
-- Ministro das Finanças e da Administração Pública
-- Parque EXPO 98
-- UMIC
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Presidência do Conselho de Ministros
-- Registo Internacional de Navios da Madeira
-- Ministro da Presidência
+- Secretário de Estado da Administração Interna
 - Secretário de Estado da Administração Judiciária
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Pública
 - Secretário de Estado da Agricultura e Alimentação
+- Secretário de Estado da Ciência e Inovação
 - Secretário de Estado da Defesa e Antigos Combatentes
+- Secretário de Estado da Educação
+- Secretário de Estado da Indústria Comércio e Serviços
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
 - Secretário de Estado das Artes e Espectáculos
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Florestas
+- Secretário de Estado do Desenvolvimento Económico
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Desporto
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos BENS Culturais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Transportes e Comunicações
-- Ministro das Obras Públicas Transportes e Comunicações
-- Ministro da Administração Interna
-- Instituto Geográfico Português
-- Inatel
+- Secretário de Estado para os Assuntos do Mar
+- Setor Empresarial do Estado
 - Transferência de Competências
 - Transferência de Serviços
 - Tutela
-- Comissão para a Delimitação da Plataforma Continental
+- UMIC
 relationships:
 - type: amended_by
   target: pt:dre:619766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624975:por
+  label: "Alterados os arts. 2º, 7º, 12º, 27º, 28º e 33º do presente diploma, pelo DEC LEI.17/2005.18.01.2005.PCM, DR.IS-A\
+    \ [12] de 18.01.2005, que procede à sua republicação na íntegra, com as alterações introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2005-624975
+  date: '2005-01-18'
+- type: amended_by
+  target: pt:dre:619766:por
+  label: "Alterados os arts. 2º, 7º e 27º e revogado o art. 28º deste diploma, com a redacção dada pelo Dec Lei 17/2005 de\
+    \ 18-Jan, pelo DEC LEI.26/2005.02.02.2005.PCM, DR.IS-A [23] de 02.02.2005, que procede à sua republicação na íntegra com\
+    \ todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2005-619766
+  date: '2005-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
@@ -220,16 +233,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/171/2004/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/171/2004/07/17/p/dre
+- type: cites
+  target: pt:dre:276032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527834:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:576111:por
+  label: "Rectificado pela DECL-RECT.89/2004.27.09.2004.PCM, DR.IS-A [245] de 18.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/89-2004-576111
+  date: '2004-09-27'
 article_structure:
   article_count: 40
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:23Z'
   warnings: []
   errors: []
 ---
@@ -370,7 +400,7 @@ e) Secretário de Estado do Desporto.
 
 ###### Artigo 9.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 10.º
 
@@ -622,7 +652,7 @@ f) Regiões de turismo.
 
 ###### Artigo 27.º
 
-**O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto.**
+O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto.
 
 ###### Artigo 28.º
 
@@ -810,12 +840,12 @@ Até à entrada em vigor dos decretos-leis que aprovem as orgânicas dos minist�
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 2004. - O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro de Estado e das Actividades Económicas e do Trabalho, Álvaro Roque de Pinho Bissaya Barreto. - O Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar, Paulo Sacadura Cabral Portas. - O Ministro de Estado e da Presidência, Nuno Albuquerque Morais Sarmento. - O Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro. - O Ministro da Administração Interna, Daniel Viegas Sanches. - O Ministro da Justiça, José Pedro Correia de Aguiar Branco. - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, José Luís Fazenda Arnaut Duarte. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves. - A Ministra da Educação, Maria do Carmo Félix da Costa Seabra. - A Ministra da Ciência, Inovação e Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro da Saúde, Luís Filipe da Conceição Pereira. - O Ministro da Segurança Social, da Família e da Criança, Fernando Mimoso Negrão. - O Ministro das Obras Públicas, Transportes e Comunicações, António Luís Guerra Nunes Mexia. - A Ministra da Cultura, Maria João Espírito Santo Bustorff Silva. - O Ministro do Ambiente e do Ordenamento do Território, Luís José de Mello e Castro Guedes. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia. - O Ministro Adjunto do Primeiro-Ministro, Henrique José Monteiro Chaves. - O Ministro dos Assuntos Parlamentares, Rui Manuel Lobo Gomes da Silva.
 
-**Promulgado em 30 de Agosto de 2004.**
+Promulgado em 30 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Agosto de 2004.**
+Referendado em 31 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

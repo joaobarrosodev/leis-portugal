@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/1996/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1996-535011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f17da5aa9220dab7582a29c4b04c80cb492f18b0b76b3ef3524005cc589e46ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1177acc058bacddd0452a252e0004da8f3a7ab9b64b8d3982df7071743d4cd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Acumulação de Funções
 - Ajuda à Modernização
-- Modernização Administrativa
-- Pessoal de Justiça
-- Horas Extraordinárias
 - Base de Dados
+- Horas Extraordinárias
 - Informática Jurídica
 - Informatização
 - Magistrado do Ministério Público
+- Modernização Administrativa
 - Orgânica
+- Pessoal de Justiça
 - Processo Judicial
 - Projeto
 - Tribunal Judicial
@@ -83,6 +83,18 @@ relationships:
   target: pt:dre:169460:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:349503:por
+  label: "Alterada a redacção do artº 25º do Dec-Lei 214/88 de 17-Jun, na redacção dada pelo presente diploma, pelo DEC LEI.137/97.1997.06.03.MJ\
+    \ DR.IS-A [127]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1997-349503
+  date: '1997-06-03'
+- type: amended_by
+  target: pt:dre:169460:por
+  label: "Altera o art. 25.º do Dec Lei 214/88 de 17-Jun DR.IS [138]Supl, na redacção do presente diploma, pelo DEC LEI.39/99.1999.02.09.MJ\
+    \ DR.IS-A [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1999-169460
+  date: '1999-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29/1995/02/09/p/dre
   label: null
@@ -91,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1992/08/20/p/dre
+- type: cites
+  target: pt:dre:198728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:57Z'
   warnings: []
   errors: []
 ---
@@ -147,12 +179,12 @@ O disposto no artigo anterior produz os seus efeitos a partir de 1 de Janeiro de
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 6 de Março de 1996.**
+Promulgado em 6 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1996.**
+Referendado em 8 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

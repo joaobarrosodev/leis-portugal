@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1988-376822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 937d332f0473a3450834dba8d8d96fa284bc028163cedf1b19ef0a9c4214ccc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43cde8eabcc8a202350584a057a9036c04225a31901fec807733138e4f36cd2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Coordenador do Trabalho Portuário
+- Extinção de Serviços
+- Portegest
+relationships:
+- type: cites
+  target: pt:dre:392411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:09Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +113,11 @@ Assim:
 
 Ao abrigo do disposto nos n.os 2 e 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Centro Coordenador do Trabalho Portuário de Setúbal (CCTPS) é extinto e entra em liquidação a partir da data da publicação do presente diploma.
+Artigo 1.º O Centro Coordenador do Trabalho Portuário de Setúbal (CCTPS) é extinto e entra em liquidação a partir da data da publicação do presente diploma.
 
-###### Art. 2.º A PORTGEST (Setúbal), entidade criada ao abrigo do n.º 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, sucede nas atribuições do CCTPS, previstas naquela disposição legal.
+Art. 2.º A PORTGEST (Setúbal), entidade criada ao abrigo do n.º 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, sucede nas atribuições do CCTPS, previstas naquela disposição legal.
 
-###### Art. 3.º - 1 - O CCTPS, para efeito de liquidação, manterá a sua personalidade jurídica.
+Art. 3.º - 1 - O CCTPS, para efeito de liquidação, manterá a sua personalidade jurídica.
 
 2 - Os membros da direcção mantêm-se em funções até à aprovação das contas finais e efectiva liquidação do CCTPS.
 
@@ -118,28 +133,28 @@ d) Pagar as dívidas do Centro extinto até à efectiva transferência do seu pa
 
 e) Movimentar os depósitos em quaisquer instituições de crédito em nome do CCTPS.
 
-###### Art. 4.º - 1 - A direcção do CCTPS procederá ao encerramento das contas, reportado à data da extinção, e submetê-las-á, no prazo de 30 dias, à apreciação do Instituto do Trabalho Portuário (ITP).
+Art. 4.º - 1 - A direcção do CCTPS procederá ao encerramento das contas, reportado à data da extinção, e submetê-las-á, no prazo de 30 dias, à apreciação do Instituto do Trabalho Portuário (ITP).
 
 2 - O ITP procederá, no prazo de quinze dias contados a partir da recepção das contas, à elaboração de parecer e submetê-las-á à aprovação da tutela.
 
-###### Art. 5.º - 1 - O passivo do CCTPS, constituído pelas dívidas para a Segurança Social e ex-Fundo de Desemprego, pelas dívidas contraídas para com o extinto Fundo de Garantia Salarial Comum ao abrigo da [Portaria n.º 26-U1/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-u1-1980-508673), de 9 de Janeiro, e para com o ITP ao abrigo do [Decreto Regulamentar n.º 30/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1982-392411), de 21 de Maio, e pela dívida contraída para com o ex-Fundo de Desemprego, em 1982, para pagamento de salários, é transferido para o ITP.
+Art. 5.º - 1 - O passivo do CCTPS, constituído pelas dívidas para a Segurança Social e ex-Fundo de Desemprego, pelas dívidas contraídas para com o extinto Fundo de Garantia Salarial Comum ao abrigo da [Portaria n.º 26-U1/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-u1-1980-508673), de 9 de Janeiro, e para com o ITP ao abrigo do [Decreto Regulamentar n.º 30/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1982-392411), de 21 de Maio, e pela dívida contraída para com o ex-Fundo de Desemprego, em 1982, para pagamento de salários, é transferido para o ITP.
 
 2 - O ITP acordará com o Instituto de Gestão Financeira da Segurança Social a liquidação do passivo a que se refere o número anterior, devendo o acordo de pagamento ser sujeito a despacho homologatório dos ministros da tutela respectivos.
 
-###### Art. 6.º Os trabalhadores actualmente ao serviço do CCTPS devem gozar de preferência na constituição do quadro de pessoal da PORTGEST (Setúbal).
+Art. 6.º Os trabalhadores actualmente ao serviço do CCTPS devem gozar de preferência na constituição do quadro de pessoal da PORTGEST (Setúbal).
 
-###### Art. 7.º A PORTGEST (Setúbal) deverá prestar à direcção do CCTPS todo o apoio administrativo necessário até ao encerramento das contas.
+Art. 7.º A PORTGEST (Setúbal) deverá prestar à direcção do CCTPS todo o apoio administrativo necessário até ao encerramento das contas.
 
 Presidência do Conselho de Ministros, 27 de Junho de 1988.
 
 Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda.
 
-**Promulgado em 27 de Julho de 1988.**
+Promulgado em 27 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1988.**
+Referendado em 29 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1977-286090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0f908e9ebc2c56b9660cbd75e0de7441f6bea5a5a12f387b6dcb7a4d683963a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d0c88d65f85fe6aea241a3b5e550b69f6af09563696ef9a6e47c22bed32e290
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete para a Cooperação Económica Externa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:470659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377917:por
+  label: "Alterado o quadro de pessoal pela PORT.400/79.1979.08.07.PCM, DR.IS [181] de 7/AGO/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1979-377917
+  date: '1979-08-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELA PORTARIA 511/80, PUBLICADA NO DR.IS, 185.\0IS, 185."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-08-12'
+- type: cites
+  target: pt:dre:141790:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO PELO DECRETO-LEI 513-S/79, PUBLICADO NO DR.IS, 296, 3SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-12-26'
+- type: repealed_by
+  target: pt:dre:430024:por
+  label: "Revogado pelo DEC LEI.513-S/79.1979.12.26.MF,DR.IS [296]-3ºSupl.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-s-1979-430024
+  date: '1979-12-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:33Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +129,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e do artigo 13.º do [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), de 18 de Fevereiro, o seguinte:
 
-###### Artigo 1.º A organização e funcionameno do Gabinete para a Cooperação Económica Externa (GCEE), criado por força do disposto no artigo 7.º do [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), de 18 de Fevereiro, regem-se pelas normas contidas no presente decreto.
+Artigo 1.º A organização e funcionameno do Gabinete para a Cooperação Económica Externa (GCEE), criado por força do disposto no artigo 7.º do [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), de 18 de Fevereiro, regem-se pelas normas contidas no presente decreto.
 
-###### Art. 2.º Ao GCEE cabe assegurar a ligação permanente entre o Ministério do Plano e Coordenação Económica e os outros Ministérios no âmbito das acções sectoriais em que se desdobra a cooperação económica externa, suscitando, acompanhando e coordenando as acções interministeriais neste domínio, e assegurar a ligação entre o Ministério do Plano e Coordenação Económica e o Ministério dos Negócios Estrangeiros na mesma matéria.
+Art. 2.º Ao GCEE cabe assegurar a ligação permanente entre o Ministério do Plano e Coordenação Económica e os outros Ministérios no âmbito das acções sectoriais em que se desdobra a cooperação económica externa, suscitando, acompanhando e coordenando as acções interministeriais neste domínio, e assegurar a ligação entre o Ministério do Plano e Coordenação Económica e o Ministério dos Negócios Estrangeiros na mesma matéria.
 
-###### Art. 3.º Para o desempenho das suas funções compete ao GCEE:
+Art. 3.º Para o desempenho das suas funções compete ao GCEE:
 
 a) Promover e coordenar, em colaboração com os departamentos governamentais competentes e entidades públicas ou privadas interessadas, as acções de âmbito interno decorrentes dos programas de cooperação e assistência bilateral de carácter económico e o desenvolvimento das relações entre Portugal e as organizações internacionais que se ocupem de matérias de natureza económica;
 
@@ -121,7 +147,7 @@ e) Elaborar e conservar actualizado um inventário das potencialidades e necessi
 
 f) Recolher e divulgar informações de interesse para a cooperação económica com o estrangeiro, em colaboração com o Gabinete de Informação e Relações Públicas do Ministério, quando tal se revele necessário.
 
-###### Art. 4.º - 1. O GCEE compreende os seguintes serviços:
+Art. 4.º - 1. O GCEE compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Programas de Cooperação Bilateral e Assistência Técnica, Científica e Económica;
 
@@ -157,21 +183,21 @@ c) Velar pela segurança e conservação das instalações, viaturas, mobiliári
 
 d) Dar todo o apoio administrativo necessário ao bom funcionamento dos restantes serviços do GCEE.
 
-###### Art. 5.º - 1. O quadro de pessoal do GCEE é o que consta do mapa anexo a este decreto.
+Art. 5.º - 1. O quadro de pessoal do GCEE é o que consta do mapa anexo a este decreto.
 
 2. O pessoal do GCEE será distribuído pelos respectivos serviços, mediante decisão do director-geral.
 
-###### Art. 6.º - 1. O provimento do pessoal do quadro constante do mapa anexo a este decreto terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente se tiver revelado aptidão para o lugar, ou exonerado, caso contrário.
+Art. 6.º - 1. O provimento do pessoal do quadro constante do mapa anexo a este decreto terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente se tiver revelado aptidão para o lugar, ou exonerado, caso contrário.
 
 2. Quando o provimento dos lugares recair em funcionários permanentes de outros serviços do Estado ou de institutos públicos, o tempo de serviço neles prestado contará para efeitos de nomeação definitiva, desde que tenham exercido funções da mesma natureza, e, quando assim não for, o prazo de nomeação provisória será de um ano.
 
-###### Art. 7.º - 1. O director-geral será nomeado, em comissão de serviço por tempo indeterminado, pelo Ministro do Plano e Coordenação Económica de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
+Art. 7.º - 1. O director-geral será nomeado, em comissão de serviço por tempo indeterminado, pelo Ministro do Plano e Coordenação Económica de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
 2. Os directores de serviço serão nomeados pelo Ministro do Plano e Coordenação Económica de entre indivíduos com curso superior adequado ao desempenho das respectivas funções.
 
 3. O chefe de repartição será nomeado pelo Ministro do Plano e Coordenação Económica de entre indivíduos com curso superior adequado ao desempenho das suas funções ou de entre os chefes de secção com, pelo menos, três anos de bom e efectivo serviço.
 
-###### Art. 8.º - 1. Por despacho do Ministro do Plano e Coordenação Económica serão providos os restantes lugares dos quadros de harmonia com as condições seguintes:
+Art. 8.º - 1. Por despacho do Ministro do Plano e Coordenação Económica serão providos os restantes lugares dos quadros de harmonia com as condições seguintes:
 
 a) Técnicos principais e técnicos de 1.ª classe, respectivamente de entre técnicos de 1.ª classe e de 2.ª classe com mais de três anos de bom e efectivo serviço na categoria;
 
@@ -191,7 +217,7 @@ h) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 
 2. O Ministro do Plano e Coordenação Económica poderá condicionar o provimento dos lugares do quadro à realização de concursos ou cursos de promoção, de harmonia com as condições julgadas convenientes.
 
-###### Art. 9.º - 1. Quando se mostre indispensável, e com o acordo do Ministério requisitado, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no GCEE, fixando-lhes a respectiva remuneração, a pagar por dotação especial para esse efeito inscrita no orçamento do GCEE, sempre que, por força de requisição, não seja ocupado lugar previsto no quadro constante do mapa anexo a este decreto.
+Art. 9.º - 1. Quando se mostre indispensável, e com o acordo do Ministério requisitado, o Ministro poderá requisitar pessoal de outros serviços ou institutos públicos para prestar serviço no GCEE, fixando-lhes a respectiva remuneração, a pagar por dotação especial para esse efeito inscrita no orçamento do GCEE, sempre que, por força de requisição, não seja ocupado lugar previsto no quadro constante do mapa anexo a este decreto.
 
 2. A requisição a que se refere o número anterior tem como efeito a abertura de vaga no serviço de origem do funcionário requisitado, a qual não poderá ser preenchida senão interinamente.
 
@@ -199,26 +225,26 @@ h) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 
 4. Poderão os funcionários do quadro constante do mapa anexo ao presente diploma ser requisitados, nos termos dos números anteriores, para prestarem serviço noutros serviços ou institutos públicos, com o acordo do Ministro do Plano e Coordenação Económica.
 
-###### Art. 10.º O Ministro do Plano e Coordenação Económica poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, nas condições que forem fixadas com o acordo do Ministro das Finanças e com o respeito da regulamentação relativa a excedentes de pessoal da função pública.
+Art. 10.º O Ministro do Plano e Coordenação Económica poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, nas condições que forem fixadas com o acordo do Ministro das Finanças e com o respeito da regulamentação relativa a excedentes de pessoal da função pública.
 
-###### Art. 11.º - 1. A realização de estudos, inquéritos e outros trabalhos de carácter técnico e eventual poderá ser confiado, mediante contrato de prestação de serviços, a entidades estranhas aos serviços.
+Art. 11.º - 1. A realização de estudos, inquéritos e outros trabalhos de carácter técnico e eventual poderá ser confiado, mediante contrato de prestação de serviços, a entidades estranhas aos serviços.
 
 2. O contrato de prestação de serviços será obrigatoriamente reduzido a escrito, dele constando o prazo, a remuneração, as condições de rescisão e a menção de que não confere, em nenhum caso, a qualidade de trabalhador da função pública.
 
 3. As remunerações fixadas nos termos do número anterior serão pagas por força de verba ou verbas adequadas a inscrever para tal fim no orçamento do GCEE.
 
-###### Art. 12.º O primeiro provimento dos lugares do quadro constante do mapa anexo a este diploma será efectuado mediante lista ou listas nominativas aprovadas pelo Ministro do Plano e Coordenação Económica, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se o pessoal delas constante investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, salvo o respeitante às habilitações literárias.
+Art. 12.º O primeiro provimento dos lugares do quadro constante do mapa anexo a este diploma será efectuado mediante lista ou listas nominativas aprovadas pelo Ministro do Plano e Coordenação Económica, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se o pessoal delas constante investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades, salvo o respeitante às habilitações literárias.
 
-###### Art. 13.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro do Plano e Coordenação Económica, ouvido o Ministro interessado.
+Art. 13.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro do Plano e Coordenação Económica, ouvido o Ministro interessado.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 30 de Agosto de 1977.**
+Promulgado em 30 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/21400/22602262.pdf))](https://files.diariodarepublica.pt/1s/1977/09/21400/22602262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/21400/22602262.pdf)
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

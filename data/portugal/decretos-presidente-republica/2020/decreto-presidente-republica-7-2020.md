@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/00300/0000900009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/7/2020/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/7-2020-127764906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec46b5c07c5843fb63f9a7e05ca1fcc62d685224d2aa633ebd8c53d02242e63c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31f6b713d6fb37073f5771130c289a0209169f3c59ecea4000bb0914ad38691e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bélgica
-- Portugal
+- Bruxelas
 - Embaixador
 - Nomeação
-- Bruxelas
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:206297241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:206297241:por
+  label: Exonerado pelo(a) Decreto do Presidente da República n.º 14/2023 - Diário da República n.º 14/2023, Série I de 2023-01-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/14-2023-206297241
+  date: '2023-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:51Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,18 @@ validation:
 
 de 6 de janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Rui Alberto Manuppella Tereno para o cargo de Embaixador de Portugal em Bruxelas.
 
-**Assinado em 17 de dezembro de 2019.**
+Assinado em 17 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de dezembro de 2019.**
+Referendado em 27 de dezembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.**
+O Primeiro-Ministro, António Luís Santos da Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva.
+
+112892328

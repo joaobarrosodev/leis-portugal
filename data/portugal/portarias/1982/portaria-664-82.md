@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-1982-394694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:22:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 804a744a18d56aba14bbd3c7e354f25db87759e01ae05696480792b11ebf8d07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c989717cb2542cbb1e28ccf779c65642a433efcc3107d73f8e676bca75cfcbda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:22:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- PSP
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:400197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400197:por
+  label: "Transitado para o quadro de pessoal da Escola Prática de Polícia o pessoal do quadro anexo ao presente diploma,\
+    \ pelo DEC LEI.333/84.18.10.1984.PCM, DR.IS [242] de 18.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1984-400197
+  date: '1984-10-18'
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:22:05Z'
   warnings: []
   errors: []
 ---
@@ -105,4 +125,4 @@ Quadro anexo à portaria
 
 Quadro II a que se refere o artigo 2.º, n.º 2, do [Decreto-Lei n.º 145/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1978-295164), de 17 de Junho, tendo em atenção o [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e a [Portaria n.º 739/79](https://diariodarepublica.pt/dr/detalhe/portaria/739-1979-231330), de 31 de Dezembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/15100/19771977.pdf))](https://files.diariodarepublica.pt/1s/1982/07/15100/19771977.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15100/19771977.pdf)

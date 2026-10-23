@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2000/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2000-321337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3059cb350466edab43a401a109a9fa3b67a78798c4ec00c1011fc84927e62103
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4aa45e55294c4240868ac2837c55bfb8559154e8ace1a1e4d71cea378e44e0e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Sociedade Anónima
 - BASE Aérea
+- Beja
 - Capital Social
 - Definição de Competências
 - Edab-empresa de Desenvolvimento do Aeroporto de BEJA
 - Estatuto
-- Beja
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:539816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232887:por
+  label: "Alterados os arts. 5º e 6º deste diploma, assim como os arts. 2º, 4º a 7º e 10º a 18º dos Estatutos publicados em\
+    \ anexo, pelo DEC LEI.64/2003.2003.04.03.MOPTH DR.IS-A [79], que procede à republicação dos Estatutos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2003-232887
+  date: '2003-04-03'
+- type: amended_by
+  target: pt:dre:539816:por
+  label: "Alterado o artigo 2.º, e alterado o art. 3.º dos Estatutos da Sociedade Anónima publicados em anexo ao presente\
+    \ diploma, pelo DEC LEI.52/2004.16.03.2004.MOPTH, DR.IS-A [64] de 16.03.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2004-539816
+  date: '2004-03-16'
 article_structure:
   article_count: 24
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:40Z'
   warnings: []
   errors: []
 ---
@@ -162,15 +174,15 @@ São órgãos da sociedade a assembleia geral, a direcção, o conselho geral e 
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 11 de Julho de 2000.**
+Promulgado em 11 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Julho de 2000.**
+Referendado em 12 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos da sociedade anónima
 

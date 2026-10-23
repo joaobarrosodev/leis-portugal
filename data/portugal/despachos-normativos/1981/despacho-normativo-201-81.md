@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/201-1981-576354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:10:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48d35c5a0fc187aea322c04fb5b76027efb7436d65351e7bfd4694299f67ee1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04af22e2121dffa122daae0fa9282907e565f782191c7b0a881b1816ac8a6871
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:10:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- EPAL
+- Pisee
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573331:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:10:20Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +107,7 @@ Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Des
 
 2 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da empresa a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18400/20832083.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18400/20832083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18400/20832083.pdf)
 
 3 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no n.º 2.
 

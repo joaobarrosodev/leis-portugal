@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/067a00/26192620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2002/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2002-263687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee5053780dd83a6005bfd895ba9a45680344e96dd8a26f82a2bbb6a2154ded25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d8827585ebcb90cb82d7ad00e7924a1f450613f219debce29f8356e3a21fcf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
+- CMVM
 - Fundo de Investimento Mobiliário
 - Mercado de Valores
 - Regime Jurídico
-- CMVM
 - Sociedade Gestora de Fundos de Investimento Mobiliário
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/1994/11/02/p/dre
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/323/1999/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/323/1999/08/13/p/dre
+- type: cites
+  target: pt:dre:423199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621311:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476110:por
+  label: Revogado, a partir de 1 de Janeiro de 2004, pelo DEC LEI.252/2003.17.10.2003.MF, DR.IS-A [241] de 17.10.2003
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2003-476110
+  date: '2002-03-20'
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:09Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +142,9 @@ Os artigos 7.º, 8.º, 18.º e 35.º do [Decreto-Lei n.º 276/94](https://diario
 
 3 - Os membros dos órgãos de administração das entidades gestoras devem actuar de forma independente na prossecução do interesse dos participantes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -145,7 +160,9 @@ b) Seja exercido no sentido de apoiar a inclusão ou manutenção de cláusulas 
 
 c) Seja exercido com o objectivo principal de reforçar a influência societária por parte de pessoa ou entidade que com ela esteja em relação de domínio ou de grupo.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +210,9 @@ r) A política geral do fundo no tocante ao exercício dos direitos de voto iner
 
 6 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -207,12 +226,12 @@ r) A política geral do fundo no tocante ao exercício dos direitos de voto iner
 
 Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins.
 
-**Promulgado em 1 de Março de 2002.**
+Promulgado em 1 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Março de 2002.**
+Referendado em 7 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

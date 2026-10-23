@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/1998/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1998-517214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 591c4460233698c9c61e9b92a11c9b9427b93432219f7aad4e04899a16e87d13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c2b5ec389b93c26f936c21ffe5a26308c40ef6e69fc6d00de55ea43d1bc58ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,41 @@ subjects:
 - Adopção
 - Código Civil
 - Código do Registo Civil
-- Tutela de Menores
-- Regime Jurídico
 - Direito Civil
 - Direito de Família
+- Regime Jurídico
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:107061862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656109:por
+  label: "Alterados os arts. 1974º, 1978º, 1979º, 1980º, 1981º e 1992º do Código Civil, aprovado pelo Dec Lei 47344, de 25-Nov\
+    \ 1966, alterado pelo presente diploma, pela LEI.31/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2003-656109
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:636450:por
+  label: "Alterado o art. 15º do Dec Lei 185/93, de 22-Maio, na redacção do presente diploma, pela LEI.28/2007.02.08.2007.AR,\
+    \ DR.IS [148] de 02.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2007-636450
+  date: '2007-08-02'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado, sem prejuízo do disposto nos arts. 24º e 25º, o artigo 143.º do Código do Registo Civil, aprovado pelo\
+    \ Dec Lei 131/95 de 06-Jun, na redacção do presente diploma, republicado em anexo com a redacção actual, pelo DEC LEI.324/2007.28.09.2007.MJ,\
+    \ DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:70215247:por
+  label: Alterados (a partir de 07.12.2015), os arts. 1975.º, 1976.º, 1978.º, 1979.º, 1980.º e 1981.º do Código Civil, aprovado
+    pelo Dec Lei 47344 de 25-nov 1966 , na redação do presente diploma, pelo(a) Lei n.º 143/2015 - Diário da República n.º
+    175/2015, Série I de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/143-2015-70215247
+  date: '2015-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
   label: null
@@ -93,16 +119,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/1998/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/1998/02/18/p/dre
+- type: cites
+  target: pt:dre:209665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571071:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291196:por
+  label: Rectificados os arts. 1.º (na parte em que confere nova redacção aos n.ºs 1, 2, 3 e 4 do art. 1979.º, ao n.º 2 do
+    art. 1980.º, à al. a) do n.º 1 e al. c) do n.º 3 do art. 1981.º, à al. a) do art. 1984.º, aos n.º 1 e 2 do art. 1922.º
+    do Código Civil, aprovado pelo Dec Lei 47344, de 25-nov 1966] e art. 2.º (na parte que confere nova redacção ao n.º 2
+    do art. 167.º do Dec Lei 314/78, de 27-out) bem como o art. 3.º (na parte que confere nova redacção ao n.º 2 do art. 14.º
+    do Dec Lei 185/93, de 22-mai) do presente diploma, pela DECL-RECT.11-C/98.1998.06.30.PCM DR.IS-A [148]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-c-1998-291196
+  date: '1998-06-30'
 article_structure:
-  article_count: 57
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:52Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +236,9 @@ e) ...
 
 4 - Tem ainda legitimidade para requerer a confiança judicial do menor o candidato a adoptante seleccionado pelos serviços competentes quando, por virtude de anterior decisão judicial, tenha o menor a seu cargo e quando, reunidas as condições para a atribuição da confiança administrativa de menor a seu cargo, o organismo de segurança social não decida pela confirmação da permanência do menor, depois de efectuado o estudo da pretensão para adopção ou decorrido o prazo para esse efeito.
 
-###### Artigo 1979.º — [...]
+Artigo 1979.º
+
+[...]
 
 1 - Podem adoptar plenamente duas pessoas casadas há mais de 4 anos e não separadas judicialmente de pessoas e bens ou de facto, se ambas tiverem mais de 25 anos.
 
@@ -183,13 +248,17 @@ e) ...
 
 4 - Excepcionalmente, quando motivos ponderosos o justifiquem, pode adoptar plenamente quem tiver menos de 60 anos à data em que o menor lhe tenha sido confiado, desde que não seja superior a 50 anos a diferença de idades entre o adoptante e o adoptando ou, pelo menos, entre este e um dos cônjuges adoptantes.
 
-###### Artigo 1980.º — [...]
+Artigo 1980.º
+
+[...]
 
 1 - ...
 
 2 - O adoptando deve ter menos de 15 anos à data da petição judicial de adopção; poderá, no entanto, ser adoptado quem, a essa data, tenha menos de 18 anos e não se encontre emancipado quando, desde idade não superior a 15 anos, tenha sido confiado aos adoptantes ou a um deles ou quando for filho do cônjuge do adoptante.
 
-###### Artigo 1981.º — [...]
+Artigo 1981.º
+
+[...]
 
 1 - Para a adopção é necessário o consentimento:
 
@@ -211,7 +280,9 @@ b) Das pessoas referidas nas alíneas c) e d) do n.º 1 e no n.º 2, quando se v
 
 c) Dos pais do adoptando inibidos do exercício do poder paternal, quando, passados 18 ou 6 meses, respectivamente, sobre o trânsito em julgado da sentença de inibição ou da que houver desatendido outro pedido, o Ministério Público ou aqueles não tenham solicitado o levantamento da inibição decretada pelo tribunal, nos termos do disposto no n.º 2 do artigo 1916.º
 
-###### Artigo 1982.º — [...]
+Artigo 1982.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +290,9 @@ c) Dos pais do adoptando inibidos do exercício do poder paternal, quando, passa
 
 3 - ...
 
-###### Artigo 1984.º — [...]
+Artigo 1984.º
+
+[...]
 
 O juiz deverá ouvir:
 
@@ -227,7 +300,9 @@ a) Os filhos do adoptante maiores de 12 anos;
 
 b) ...
 
-###### Artigo 1992.º — [...]
+Artigo 1992.º
+
+[...]
 
 1 - Pode adoptar restritamente quem tiver mais de 25 anos.
 
@@ -241,7 +316,9 @@ A secção I do capítulo II do título III do [Decreto-Lei n.º 314/78](https:/
 
 Adopção
 
-###### Artigo 162.º — Consentimento prévio
+Artigo 162.º
+
+Consentimento prévio
 
 1 - O consentimento prévio para a adopção pode ser prestado em qualquer tribunal competente em matéria de família, independentemente da residência do menor ou das pessoas que o devam prestar.
 
@@ -251,7 +328,9 @@ Adopção
 
 4 - Requerida a adopção, o incidente é apensado ao respectivo processo.
 
-###### Artigo 163.º — Suprimento do exercício do poder paternal na confiança administrativa
+Artigo 163.º
+
+Suprimento do exercício do poder paternal na confiança administrativa
 
 1 - O candidato a adoptante que, mediante confiança administrativa, haja tomado o menor a seu cargo com vista a futura adopção pode requerer ao tribunal a sua designação como curador provisório do menor até ser decretada a adopção ou instituída a tutela.
 
@@ -259,7 +338,9 @@ Adopção
 
 3 - O processo é apensado ao de confiança judicial ou de adopção.
 
-###### Artigo 164.º — Requerimento inicial e citação no processo de confiança judicial
+Artigo 164.º
+
+Requerimento inicial e citação no processo de confiança judicial
 
 1 - Requerida a confiança judicial do menor, são citados para contestar, salvo se tiverem prestado consentimento prévio, os pais e, sendo caso disso, os parentes ou o tutor referidos no artigo 1981.º do Código Civil e o Ministério Público, quando não for o requerente.
 
@@ -271,7 +352,9 @@ Adopção
 
 5 - A citação deverá sempre salvaguardar o segredo de identidade previsto no artigo 1985.º do Código Civil, para o que serão feitas as adaptações adequadas ao caso.
 
-###### Artigo 165.º — Instrução e decisão no processo de confiança judicial
+Artigo 165.º
+
+Instrução e decisão no processo de confiança judicial
 
 1 - O juiz procede às diligências que considerar necessárias à decisão sobre a confiança judicial, designadamente à prévia audição do organismo de segurança social da área da residência do menor.
 
@@ -281,7 +364,9 @@ Adopção
 
 4 - O processo de confiança judicial é apensado ao de adopção.
 
-###### Artigo 166.º — Guarda provisória
+Artigo 166.º
+
+Guarda provisória
 
 1 - Requerida a confiança judicial, o tribunal, ouvido o Ministério Público e o organismo de segurança social da área da residência do menor, quando não forem requerentes, poderá atribuir a guarda provisória do menor ao candidato à adopção, sempre que, face aos elementos dos autos, for de concluir pela probabilidade séria de procedência da acção.
 
@@ -289,7 +374,9 @@ Adopção
 
 3 - Antes de proferir decisão, o tribunal ordena as diligências que entender por convenientes, devendo averiguar da existência de processo instaurado nos termos do artigo 19.º
 
-###### Artigo 167.º — Suprimento do exercício do poder paternal
+Artigo 167.º
+
+Suprimento do exercício do poder paternal
 
 1 - Na sentença que decida a confiança judicial, o tribunal designa curador provisório ao menor, o qual exercerá funções até ser decretada a adopção ou instituída a tutela.
 
@@ -297,17 +384,23 @@ Adopção
 
 3 - Se o menor for confiado a uma instituição, a curadoria provisória do menor pode, a requerimento do organismo de segurança social, ser transferida para o candidato a adoptante logo que seleccionado.
 
-###### Artigo 168.º — Petição inicial
+Artigo 168.º
+
+Petição inicial
 
 1 - Na petição para adopção, o requerente deve alegar os factos tendentes a demonstrar os requisitos gerais previstos no n.º 1 do artigo 1974.º do Código Civil, bem como as demais condições necessárias à constituição do vínculo.
 
 2 - Sem prejuízo do disposto no n.º 2 do artigo 1985.º do Código Civil, com a petição são oferecidos todos os meios de prova, nomeadamente certidões de cópia integral do registo de nascimento do adoptando e do adoptante e certificado comprovativo das diligências relativas à prévia intervenção dos organismos previstos na lei.
 
-###### Artigo 169.º — Inquérito
+Artigo 169.º
+
+Inquérito
 
 Se o inquérito previsto no n.º 2 do artigo 1973.º do Código Civil não acompanhar a petição, o tribunal solicita-o ao organismo de segurança social competente, que o deverá remeter no prazo máximo de 15 dias, prorrogável por igual período, em caso devidamente justificado.
 
-###### Artigo 170.º — Diligências subsequentes
+Artigo 170.º
+
+Diligências subsequentes
 
 1 - Junto o inquérito, o juiz, com a assistência do Ministério Público, ouve o adoptante e as pessoas cujo consentimento a lei exija e ainda o não tenham prestado.
 
@@ -317,23 +410,31 @@ Se o inquérito previsto no n.º 2 do artigo 1973.º do Código Civil não acomp
 
 4 - O juiz deve esclarecer as pessoas de cujo consentimento a adopção depende sobre o significado e os efeitos do acto.
 
-###### Artigo 171.º — Averiguação dos pressupostos da dispensa do consentimento
+Artigo 171.º
+
+Averiguação dos pressupostos da dispensa do consentimento
 
 1 - A verificação da situação prevista no n.º 2 do artigo 1978.º, para os efeitos do disposto no n.º 2 do artigo 1981.º, ambos do Código Civil, bem como a dispensa do consentimento nos termos do n.º 3 do artigo 1981.º do mesmo diploma, dependem da averiguação dos respectivos pressupostos pelo juiz, no próprio processo de adopção, oficiosamente ou a requerimento do Ministério Público ou dos adoptantes, ouvido o Ministério Público.
 
 2 - Para efeitos do disposto no número anterior, o juiz ordena as diligências necessárias e assegura o contraditório relativamente às pessoas cujo consentimento pode ser dispensado.
 
-###### Artigo 172.º — Sentença
+Artigo 172.º
+
+Sentença
 
 1 - Efectuadas as diligências requeridas e outras julgadas convenientes e ouvido o Ministério Público, será proferida sentença.
 
 2 - A decisão que decretar a adopção restrita fixa o montante dos rendimentos dos bens do adoptado que pode ser despendido com os seus alimentos, se for caso disso.
 
-###### Artigo 173.º — Conversão
+Artigo 173.º
+
+Conversão
 
 O disposto nos artigos anteriores é aplicável, com as necessárias adaptações, à conversão da adopção restrita em adopção plena.
 
-###### Artigo 173.º-A — Revogação e revisão
+Artigo 173.º-A
+
+Revogação e revisão
 
 1 - Nos incidentes de revogação ou de revisão, bem como no recurso extraordinário de revisão, o menor é representado pelo Ministério Público.
 
@@ -341,7 +442,9 @@ O disposto nos artigos anteriores é aplicável, com as necessárias adaptaçõe
 
 3 - Aos incidentes é aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 195.º e nos artigos 196.º a 198.º
 
-###### Artigo 173.º-B — Carácter secreto
+Artigo 173.º-B
+
+Carácter secreto
 
 1 - O processo de adopção e os respectivos procedimentos preliminares, incluindo os de natureza administrativa, têm carácter secreto.
 
@@ -349,19 +452,27 @@ O disposto nos artigos anteriores é aplicável, com as necessárias adaptaçõe
 
 3 - A violação do segredo dos processos referidos no n.º 1 e a utilização de certidões para fim diverso do expressamente alegado constituem crime a que corresponde pena de prisão até um ano ou multa até 120 dias.
 
-###### Artigo 173.º-C — Consulta e notificações no processo
+Artigo 173.º-C
+
+Consulta e notificações no processo
 
 No acesso aos autos e nas notificações a realizar no processo de adopção e nos respectivos procedimentos preliminares, incluindo os de natureza administrativa, deverá sempre ser preservado o segredo de identidade, nos termos previstos no artigo 1985.º do Código Civil.
 
-###### Artigo 173.º-D — Carácter urgente
+Artigo 173.º-D
+
+Carácter urgente
 
 Independentemente do disposto no artigo 160.º, os processos relativos ao consentimento prévio para adopção e à confiança judicial de menor têm carácter urgente.
 
-###### Artigo 173.º-E — Averbamento
+Artigo 173.º-E
+
+Averbamento
 
 Os requerimentos relativos ao consentimento prévio e à confiança judicial não dependem de distribuição, procedendo-se ao seu averbamento diário até às 12 horas.
 
-###### Artigo 173.º-F — Prejudicialidade
+Artigo 173.º-F
+
+Prejudicialidade
 
 Se, decorridos seis meses após o nascimento, continuar desconhecida a maternidade ou a paternidade do menor, os procedimentos legais visando a respectiva averiguação ou investigação não revestem carácter de prejudicialidade face ao processo de adopção e aos respectivos procedimentos preliminares.»
 
@@ -373,7 +484,9 @@ Os capítulos III, IV, V e VI do [Decreto-Lei n.º 185/93](https://diariodarepub
 
 Intervenção dos organismos de segurança social
 
-###### Artigo 3.º — Comunicação ao Ministério Público, às comissões de protecção de menores e aos organismos de segurança social
+Artigo 3.º
+
+Comunicação ao Ministério Público, às comissões de protecção de menores e aos organismos de segurança social
 
 1 - As instituições oficiais ou particulares que tenham conhecimento de menores em alguma das situações previstas no artigo 1978.º do Código Civil devem dar conhecimento desse facto ao organismo de segurança social da respectiva área, o qual procederá ao estudo da situação e tomará as providências adequadas.
 
@@ -385,7 +498,9 @@ Intervenção dos organismos de segurança social
 
 5 - As comunicações referidas nos n.os 1 e 2 deste artigo são feitas sem prejuízo do disposto no artigo 48.º do [Decreto-Lei n.º 314/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1978-327823), de 27 de Outubro.
 
-###### Artigo 4.º — Estudo da situação do menor
+Artigo 4.º
+
+Estudo da situação do menor
 
 1 - O estudo da situação do menor deverá incidir, nomeadamente, sobre a saúde, o desenvolvimento e a situação familiar e jurídica do adoptando.
 
@@ -393,13 +508,17 @@ Intervenção dos organismos de segurança social
 
 3 - Estando o menor em situação de ser adoptado e não se mostrando possível a sua adopção em Portugal em tempo útil, o organismo de segurança social informará a autoridade central, no prazo de 15 dias, para os fins previstos no capítulo IV deste diploma.
 
-###### Artigo 5.º — Candidato a adoptante
+Artigo 5.º
+
+Candidato a adoptante
 
 1 - Quem pretender adoptar deve comunicar essa intenção ao organismo de segurança social da área da sua residência.
 
 2 - O organismo de segurança social emite e entrega ao candidato a adoptante certificado da comunicação e do respectivo registo.
 
-###### Artigo 6.º — Estudo da pretensão e decisão
+Artigo 6.º
+
+Estudo da pretensão e decisão
 
 1 - Recebida a comunicação, o organismo de segurança social procede ao estudo da pretensão no prazo máximo de seis meses.
 
@@ -407,7 +526,9 @@ Intervenção dos organismos de segurança social
 
 3 - Concluído o estudo, o organismo de segurança social profere decisão sobre a pretensão e notifica-a ao interessado.
 
-###### Artigo 7.º — Recurso
+Artigo 7.º
+
+Recurso
 
 1 - Da decisão que rejeite a candidatura ou não confirme a permanência do menor cabe recurso, a interpor no prazo de 20 dias, para o tribunal competente em matéria de família da área da sede do organismo de segurança social.
 
@@ -419,7 +540,9 @@ Intervenção dos organismos de segurança social
 
 5 - Para o fim de interposição do recurso a que se refere o n.º 1, pode o requerente, por si ou por mandatário judicial, examinar o processo.
 
-###### Artigo 8.º — Confiança do menor
+Artigo 8.º
+
+Confiança do menor
 
 1 - O candidato a adoptante só pode tomar menor a seu cargo, com vista a futura adopção, mediante confiança judicial ou administrativa.
 
@@ -437,7 +560,9 @@ b) Efectuar as comunicações necessárias à conservatória do registo civil on
 
 c) Emitir e entregar ao candidato a adoptante certificado da data em que o menor lhe foi confiado.
 
-###### Artigo 9.º — Período de pré-adopção e realização de inquérito
+Artigo 9.º
+
+Período de pré-adopção e realização de inquérito
 
 1 - Estabelecida a confiança judicial ou administrativa, o organismo de segurança social procede ao acompanhamento da situação do menor durante um período de pré-adopção não superior a um ano e à realização do inquérito a que se refere o n.º 2 do artigo 1973.º do Código Civil.
 
@@ -445,37 +570,51 @@ c) Emitir e entregar ao candidato a adoptante certificado da data em que o menor
 
 3 - O organismo de segurança social notifica o candidato a adoptante do resultado do inquérito, fornecendo-lhe cópia do relatório.
 
-###### Artigo 10.º — Pedido de adopção
+Artigo 10.º
+
+Pedido de adopção
 
 1 - A adopção só pode ser requerida após a notificação prevista no artigo anterior ou decorrido o prazo de elaboração do relatório.
 
 2 - Caso a adopção não seja requerida dentro do prazo de um ano, o organismo de segurança social reapreciará obrigatoriamente a situação.
 
-###### Artigo 11.º — Pessoal com formação adequada
+Artigo 11.º
+
+Pessoal com formação adequada
 
 Os organismos de segurança social devem providenciar no sentido de o acompanhamento e apoio às situações de adopção serem assegurados por equipas interdisciplinares suficientemente dimensionadas e qualificadas em termos de recursos humanos.
 
-###### Artigo 12.º — Comunicações do tribunal
+Artigo 12.º
+
+Comunicações do tribunal
 
 O tribunal deve comunicar ao organismo de segurança social o consentimento prévio para adopção e remeter cópia das sentenças proferidas nos processos de confiança judicial do menor, de adopção e nos seus incidentes.
 
-###### Artigo 13.º — Adopção de filho do cônjuge do adoptante
+Artigo 13.º
+
+Adopção de filho do cônjuge do adoptante
 
 1 - Se o adoptando for filho do cônjuge do adoptante, à comunicação prevista no n.º 1 do artigo 6.º seguir-se-á o período de pré-adopção, que não excederá três meses, sendo correspondentemente aplicável o disposto no artigo 9.º
 
 2 - À adopção prevista no número anterior não é aplicável o disposto no n.º 2 do artigo 10.º
 
-### CAPÍTULO IV — Colocação no estrangeiro de menores residentes
+CAPÍTULO IV
+
+Colocação no estrangeiro de menores residentes
 
 em Portugal com vista à adopção
 
-###### Artigo 14.º — Necessidade de prévia decisão judicial
+Artigo 14.º
+
+Necessidade de prévia decisão judicial
 
 1 - A colocação no estrangeiro de menores residentes em Portugal com vista à adopção depende de prévia decisão de confiança judicial do menor.
 
 2 - À confiança judicial prevista no número anterior aplica-se, com as necessárias adaptações, o disposto no artigo 1978.º do Código Civil e nos artigos 164.º, 165.º, 166.º e 167.º do [Decreto-Lei n.º 314/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1978-327823), de 27 de Outubro.
 
-###### Artigo 15.º — Princípio da subsidiariedade
+Artigo 15.º
+
+Princípio da subsidiariedade
 
 1 - Quando se mostrar viável a adopção em Portugal, não é permitida a colocação de menor com vista à sua adopção no estrangeiro.
 
@@ -483,7 +622,9 @@ em Portugal com vista à adopção
 
 3 - Não é aplicável o disposto no n.º 1 se o menor for da nacionalidade do candidato a adoptante ou filho do cônjuge deste ou se o interesse do menor aconselhar a adopção no estrangeiro.
 
-###### Artigo 16.º — Requisitos da colocação
+Artigo 16.º
+
+Requisitos da colocação
 
 A colocação do menor no estrangeiro, nos termos e para os efeitos previstos no artigo 15.º, só poderá ser deferida:
 
@@ -495,7 +636,9 @@ c) Se estiver previsto um período de convivência entre o menor e o candidato a
 
 d) Se houver indícios de que a futura adopção apresenta vantagens reais para o adoptando e se funda em motivos legítimos e for razoável supor que entre adoptante e adoptando virá a estabelecer-se um vínculo semelhante ao da filiação.
 
-###### Artigo 17.º — Manifestação e apreciação da vontade de adoptar
+Artigo 17.º
+
+Manifestação e apreciação da vontade de adoptar
 
 1 - A manifestação da vontade de adoptar deve ser dirigida directamente à autoridade central portuguesa pela autoridade central ou outros serviços competentes do país de residência dos candidatos, ou ainda por intermédio de entidade autorizada, quer em Portugal, quer no país da residência dos candidatos, a exercer actividade mediadora nesta matéria.
 
@@ -503,7 +646,9 @@ d) Se houver indícios de que a futura adopção apresenta vantagens reais para 
 
 3 - A pretensão deve ser instruída com os documentos que forem necessários à demonstração de que os candidatos reúnem os requisitos previstos no artigo anterior.
 
-###### Artigo 18.º — Estudo da viabilidade
+Artigo 18.º
+
+Estudo da viabilidade
 
 1 - Na situação referida no n.º 3 do artigo 4.º, a viabilidade concreta da adopção pretendida será analisada conjuntamente pela autoridade central portuguesa e pelo organismo de segurança social da área de residência do menor, levando em conta o perfil dos candidatos e as características daquele.
 
@@ -511,13 +656,17 @@ d) Se houver indícios de que a futura adopção apresenta vantagens reais para 
 
 3 - O relatório será comunicado pela autoridade central à autoridade que apresentou a pretensão de adoptar.
 
-###### Artigo 19.º — Confiança judicial
+Artigo 19.º
+
+Confiança judicial
 
 1 - Caso se conclua pela viabilidade da adopção, o organismo de segurança social enviará cópia do relatório ao Ministério Público e providenciará para que seja requerida a confiança judicial.
 
 2 - Para efeitos do disposto no número anterior, as autoridades centrais dos dois Estados ou a autoridade central e a entidade competente que apresenta a pretensão deverão desenvolver as medidas necessárias com vista à obtenção de autorização de saída do Estado de origem e de entrada e permanência no Estado de acolhimento.
 
-###### Artigo 20.º — Acompanhamento e reapreciação da situação
+Artigo 20.º
+
+Acompanhamento e reapreciação da situação
 
 1 - Durante o período de pré-adopção, a autoridade central acompanhará a evolução da situação, através de contactos regulares com a autoridade central do país de residência dos candidatos ou com a entidade competente para o efeito.
 
@@ -525,11 +674,15 @@ d) Se houver indícios de que a futura adopção apresenta vantagens reais para 
 
 3 - A autoridade central remeterá cópia das informações prestadas ao organismo de segurança social e ao tribunal que tiver decidido a confiança judicial do menor.
 
-###### Artigo 21.º — Comunicação da decisão
+Artigo 21.º
+
+Comunicação da decisão
 
 A autoridade central providenciará para que, decretada a adopção no estrangeiro, lhe seja remetida cópia da decisão, que comunicará ao tribunal que tiver decidido a confiança judicial do menor.
 
-###### Artigo 22.º — Revisão da decisão
+Artigo 22.º
+
+Revisão da decisão
 
 1 - O Ministério Público tem legitimidade para requerer a revisão da decisão estrangeira que decrete a adopção de menor nacional, devendo fazê-lo sempre que esta não tenha sido requerida pelos adoptantes no prazo de três meses a contar da data do trânsito em julgado.
 
@@ -537,25 +690,35 @@ A autoridade central providenciará para que, decretada a adopção no estrangei
 
 3 - No processo de revisão de sentença estrangeira que haja decretado a adopção plena, na citação, nas notificações e no acesso aos autos deverá ser preservado o segredo de identidade, nos termos do artigo 1985.º do Código Civil.
 
-### CAPÍTULO V — Adopção por residentes em Portugal de menores residentes no estrangeiro
+CAPÍTULO V
 
-###### Artigo 23.º — Candidatura
+Adopção por residentes em Portugal de menores residentes no estrangeiro
+
+Artigo 23.º
+
+Candidatura
 
 1 - Quem, residindo habitualmente em Portugal, pretenda adoptar menor residente no estrangeiro deve apresentar a sua candidatura ao organismo de segurança social da área da sua residência, o qual procederá ao estudo da pretensão, com vista a concluir sobre a aptidão do requerente para a adopção internacional.
 
 2 - À candidatura e ao estudo referidos no número anterior aplica-se o disposto no n.º 2 do artigo 5.º e nos artigos 6.º e 7.º do presente diploma.
 
-###### Artigo 24.º — Transmissão da candidatura
+Artigo 24.º
+
+Transmissão da candidatura
 
 Se for reconhecida ao candidato aptidão para a adopção internacional, o organismo de segurança social transmite a candidatura e o estudo referidos no artigo anterior à autoridade central, que, por sua vez, os transmitirá à autoridade central ou a outros serviços competentes do país de residência do adoptando, ou ainda à entidade autorizada, quer em Portugal, quer no país de residência dos candidatos, a exercer actividade mediadora nesta matéria.
 
-###### Artigo 25.º — Estudo de viabilidade
+Artigo 25.º
+
+Estudo de viabilidade
 
 1 - A autoridade central analisará com o organismo de segurança social competente a viabilidade da adopção pretendida, tendo em conta o perfil do candidato e o relatório sobre a situação do menor elaborado pela autoridade central ou por outra entidade competente do seu país de residência.
 
 2 - Caso se conclua pela viabilidade da adopção, a autoridade central fará a respectiva comunicação à autoridade central ou à entidade competente do país de residência do menor, devendo assegurar-se os procedimentos previstos no artigo 19.º
 
-###### Artigo 26.º — Acompanhamento do processo
+Artigo 26.º
+
+Acompanhamento do processo
 
 1 - O organismo de segurança social da área de residência do candidato deverá acompanhar a situação do menor no período de pré-adopção, nos termos referidos no artigo 9.º, mantendo informada a autoridade central sobre a respectiva evolução.
 
@@ -563,13 +726,19 @@ Se for reconhecida ao candidato aptidão para a adopção internacional, o organ
 
 3 - Nas fases ulteriores do processo é aplicável, com as necessárias adaptações, o disposto nos artigos 9.º, 10.º e 20.º
 
-###### Artigo 27.º — Comunicação da decisão
+Artigo 27.º
+
+Comunicação da decisão
 
 O organismo de segurança social enviará cópia autenticada da decisão de adopção à autoridade central, que, por sua vez, a remeterá à autoridade central ou à entidade competente do país de residência do adoptando.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+CAPÍTULO VI
 
-###### Artigo 28.º — Atribuições da autoridade central
+Disposições finais e transitórias
+
+Artigo 28.º
+
+Atribuições da autoridade central
 
 À autoridade central compete, nomeadamente:
 
@@ -583,7 +752,9 @@ d) Proceder à recolha, tratamento e divulgação dos dados estatísticos relati
 
 e) Elaborar e publicar anualmente relatório de actividades, donde constem, designadamente, informações e conclusões sobre as atribuições referidas nas alíneas anteriores.
 
-###### Artigo 29.º — Entidades intervenientes
+Artigo 29.º
+
+Entidades intervenientes
 
 1 - Para os efeitos do presente diploma entende-se por:
 
@@ -625,12 +796,12 @@ O presente diploma entra em vigor um mês após a data da sua publicação, não
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 23 de Abril de 1998.**
+Promulgado em 23 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Abril de 1998.**
+Referendado em 27 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

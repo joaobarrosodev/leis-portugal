@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/337/1998/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1998-223019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d07093dc34bc6689152d92ceb214cdb6b6fb6065956f5731b6e1da833d32fb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17dbf11d3c7da28736525f0c56d1a37396faaf4673a793b9e83d94de3635565d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,46 +67,128 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
+- Administração de Portos
 - Administração do Porto de Sines
+- ÁREA de Jurisdição
 - Assembleia Geral
 - Autonomia Administrativa
 - Autonomia Financeira
-- Sociedade Anónima
 - Capital Social
+- Comissão
 - Conselho de Administração
 - Definição de Competências
-- Propriedade do Estado
 - Embargo
 - Estatuto
-- Administração de Portos
-- Comissão
 - Fiscalização
 - Instituto Público
-- ÁREA de Jurisdição
 - Licenciamento de Obras
 - Obras Públicas
 - Portos
+- Propriedade do Estado
 - Segurança Marítima
 - Sines
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocado na dependência do Ministro do Equipamento Social, a Administração do Porto de Sines, S.A., a que se refere\
+    \ o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:536639:por
+  label: "Alterado o art. 9.º dos Estatutos pelo DEC LEI.334/2001.2001.12.24.MES DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-2001-536639
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:251873:por
+  label: "Aditada a al. g) ao nº 2 do art. 3º e revogados os nºs 2 e 3 do art. 12º deste diploma pelo DEC LEI.46/2002.2002.03.02.MES\
+    \ DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2002-251873
+  date: '2002-03-02'
+- type: amended_by
+  target: pt:dre:333868:por
+  label: "Dada nova redacção ao art. 7º, substituído o anexo I, e revogados o nº 4 do art. 7º e o art. 8º, todos do presente\
+    \ diploma, pelo DEC LEI.95/2010.29.07.2010.MOPTC, DR.IS [146] de 29.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2010-333868
+  date: '2010-07-29'
+- type: amended_by
+  target: pt:dre:571959:por
+  label: "Alterados os arts. 3.º (na redação do Dec Lei 46/2002, de 02-mar) e 7.º (na redação do Dec Lei 95/2010, de 29-jul),\
+    \ bem como os arts. 1.º, 3.º e 10.º dos Estatutos da APS, S.A., constantes do anexo II, pelo DEC LEI.44/2014.20.03.2014.MECO,\
+    \ DR.IS [55] de 20.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2014-571959
+  date: '2014-03-20'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela sobre a administração do Porto de Sines seja exercida pela Ministra do
+    Mar em coordenação com o Ministro do Planeamento e das Infraestruturas, sem prejuízo dos poderes legalmente conferidos
+    ao Conselho de Ministros e ao Ministro das Finanças pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015,
+    1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro de Estado e das Finanças, que a superintendência e tutela sobre a Administração dos Portos de Sines e do Algarve,
+    prevista no presente diploma, seja exercida pelo Ministro das Infraestruturas e da Habitação, em coordenação com o Ministro
+    do Mar, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro das Finanças, o exercício da superintendência e tutela do Ministro das Infraestruturas e Habitação, em coordenação
+    com o Ministro da Economia e do Mar, sobre a Administração dos Portos de Sines e do Algarve, S.A. (APS, S.A.) pelo(a)
+    Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618109:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:02Z'
   warnings: []
   errors: []
 ---
@@ -377,15 +459,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 1 de Outubro de 1998.**
+Promulgado em 1 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Outubro de 1998.**
+Referendado em 16 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)
 

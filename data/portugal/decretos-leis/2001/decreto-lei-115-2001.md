@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2001/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2001-362688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98bed69e838daa879d06f35e819063bb3ea25d84d6ba14d35edec1d0a55f2699
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c77ed7c7ff7a0bc5c63e449c7c43a49e22eebfd13538d8a8d727f2d23771059b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,21 +71,21 @@ subjects:
 - Alienação de Fogos
 - Alvará
 - ÁREA Metropolitana
-- Ordenamento do Território
-- Plano Director Municipal
-- Realojamento
-- Planeamento Urbano
-- Lisboa
-- Habitação Social
-- Interpretação do Direito
-- Loteamento Urbano
-- Política de Solos
-- Plano de Urbanização
-- Urbanismo
-- Prazo
 - Arrendamento Urbano para Habitação
 - Autarquia Local
+- Habitação Social
+- Interpretação do Direito
+- Lisboa
+- Loteamento Urbano
+- Ordenamento do Território
+- Planeamento Urbano
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 - Porto
+- Prazo
+- Realojamento
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/1997/06/24/p/dre
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:164054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:58Z'
   warnings: []
   errors: []
 ---
@@ -161,12 +189,12 @@ As alterações aos alvarás de loteamento necessárias à execução dos empree
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2001. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Março de 2001.**
+Promulgado em 27 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Março de 2001.**
+Referendado em 30 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

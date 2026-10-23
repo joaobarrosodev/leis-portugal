@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/507/1999/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1999-642748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8611c31007718519b82f0e2be410ff6be7ad30884eb0be43f478255e674f9818
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 295df4f026c1a342321b87b2485f5163dff054c2febd5396862bdab813939cdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,23 +74,23 @@ subjects:
 - Contrato de Concessão
 - Definição de Competências
 - Embarcação de Recreio
+- Exploração Portuária
 - Marina
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Prazo
-- Serviço Público
-- Exploração Portuária
 - Ria de Aveiro
+- Serviço Público
 relationships: []
 article_structure:
   article_count: 4
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:08Z'
   warnings: []
   errors: []
 ---
@@ -133,29 +133,35 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Bases da concessão
 
 ### CAPÍTULO I — Objecto da concessão
 
-###### Base I — Âmbito
+Base I
+
+Âmbito
 
 A presente concessão tem por objecto a construção e exploração, em regime de serviço público, de uma marina para apoio à navegação e abrigo portuário de embarcações de recreio, bem como as instalações e serviços de natureza comercial e industrial operacionais, complementares e acessórios que possam contribuir para a melhor prossecução desse objectivo, denominando-se o complexo «Marina da Barra», adiante designado por Marina.
 
-###### Base II — Localização da Marina
+Base II
+
+Localização da Marina
 
 A área afecta à concessão é a que consta da planta anexa que define os pormenores de implantação e referências.
 
-###### Base III — Estabelecimento
+Base III
+
+Estabelecimento
 
 1 - Compreende-se no estabelecimento o conjunto dos bens que pelo Estado, pela APA, S. A., ou pela concessionária estão ou vierem a ser implantados nos terrenos da concessão ou a ser-lhes afectos, destinados à exploração da Marina, designadamente:
 
@@ -165,7 +171,9 @@ b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de r
 
 2 - Podem ainda ser integrados no estabelecimento, se nisso acordarem a APA, S. A., e a concessionária, determinados terrenos e instalações que interessem ao exercício de actividades directamente relacionadas com a exploração do porto de recreio.
 
-###### Base IV — Plano de obras, instalações e equipamentos
+Base IV
+
+Plano de obras, instalações e equipamentos
 
 1 - Compete à concessionária elaborar os projectos e executar as obras necessárias à realização do objecto do contrato, nomeadamente as relativas aos portos de recreio, respectivos serviços de apoio às instalações e equipamentos exigidos pelo seu funcionamento e operacionalidade, de acordo com as necessidades do turismo náutico e as especificações constantes da base V.
 
@@ -175,7 +183,9 @@ b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de r
 
 4 - O plano geral do estabelecimento e os prazos dentro dos quais deve ser executado constarão do contrato de concessão.
 
-###### Base V — Especificações obrigatórias
+Base V
+
+Especificações obrigatórias
 
 1 - Os projectos de obras devem ser elaborados tendo em atenção o seguinte:
 
@@ -249,13 +259,17 @@ Número de pisos: seis.
 
 6 - Os projectos a apresentar pela concessionária devem ser acompanhados de estudo de impacte ambiental, a submeter a avaliação de impacte ambiental, nos termos da legislação em vigor.
 
-###### Base VI — Aprovação dos projectos
+Base VI
+
+Aprovação dos projectos
 
 1 - As obras a realizar na zona dominial só podem ser iniciadas após aprovação dos respectivos projectos pela APA, S. A., e a emissão das licenças correspondentes.
 
 2 - A titularidade das licenças referidas no número anterior não dispensa a concessionária de obter das entidades competentes as restantes licenças, autorizações e pareceres legalmente exigidos.
 
-###### Base VII — Execução das obras
+Base VII
+
+Execução das obras
 
 1 - A concessionária pode contratar a execução das obras e a implantação ou montagem de instalações e equipamentos com empresas de reconhecida competência, devendo informar previamente a APA, S. A., da identidade do contraente.
 
@@ -265,19 +279,25 @@ Número de pisos: seis.
 
 ### CAPÍTULO II — Exploração
 
-###### Base VIII — Regime de exploração
+Base VIII
+
+Regime de exploração
 
 1 - O regime de exploração da Marina será o de serviço público, o que se traduzirá na total obrigatoriedade de prestação generalizada dos serviços a todos os potenciais utilizadores e no correspondente controlo por parte das entidades oficiais.
 
 2 - A concessionária obriga-se a explorar a Marina na óptica da valorização ambiental da ria, segundo métodos racionais de empresa industrial e comercial, conforme os processos técnicos adoptados em estabelecimentos similares.
 
-###### Base IX — Licenciamento da exploração
+Base IX
+
+Licenciamento da exploração
 
 1 - A exploração da Marina só poderá ter lugar quando à concessionária forem concedidas todas as licenças e autorizações exigidas por lei para o exercício das actividades nela compreendidas.
 
 2 - A concessionária dará conhecimento do início da exploração à APA, S. A., com, pelo menos, 30 dias de antecedência.
 
-###### Base X — Regulamentos de exploração
+Base X
+
+Regulamentos de exploração
 
 1 - Antes da entrada em funcionamento da Marina, a APA, S. A., aprovará, mediante proposta da concessionária, os regulamentos que estabeleçam as condições de prestação dos serviços a que a concessão der lugar.
 
@@ -285,13 +305,17 @@ Número de pisos: seis.
 
 3 - Os regulamentos de exploração, depois de aprovados, deverão ser facultados a todos os potenciais utentes, ficando a concessionária obrigada a publicitá-los e a afixá-los nas suas instalações.
 
-###### Base XI — Regulamento de tarifas
+Base XI
+
+Regulamento de tarifas
 
 1 - Os limites máximos das taxas a cobrar pela concessionária pelos serviços a prestar e pela utilização das instalações e equipamentos que apoiam a Marina, assim como as respectivas regras gerais de aplicação, são fixados em regulamento de tarifas aprovado pela APA, S. A., sob proposta da concessionária.
 
 2 - Na fixação dos limites tarifários máximos e na revisão dos mesmos deverá ter-se em conta a evolução previsível e normal do custo dos factores produtivos.
 
-###### Base XII — Conservação dos bens afectos à concessão
+Base XII
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, de sua conta e responsabilidade, todos os que se destruírem ou se mostrarem inadequados para os fins a que se destinam por desgaste físico, avaria, deterioração ou obsolescência.
 
@@ -311,27 +335,37 @@ Número de pisos: seis.
 
 9 - No caso de a concessionária não cumprir com os prazos fixados ou não proceder de acordo com as determinações da APA, S. A., esta poderá mandar executar as obras ou substituir os equipamentos, retirando do fundo de conservação e renovação e ou da caução as importâncias necessárias para o efeito.
 
-###### Base XIII — Fundo de conservação e renovação
+Base XIII
+
+Fundo de conservação e renovação
 
 1 - Para ocorrer aos encargos emergentes das obrigações de reparação, conservação e reapetrechamento, deverá a concessionária afectar parte dos lucros anuais à constituição de um fundo de conservação e renovação, nos termos a estabelecer pela APA, S. A., sob proposta da concessionária.
 
 2 - Com a autorização da APA, S. A., pode o fundo ser investido em novas aquisições ou ter outra aplicação considerada útil para a prossecução dos fins da concessão.
 
-###### Base XIV — Policiamento
+Base XIV
+
+Policiamento
 
 Compete à concessionária suportar os encargos com o policiamento da Marina e assegurar a observância pelos utentes dos regulamentos de exploração.
 
-###### Base XV — Fiscalização
+Base XV
+
+Fiscalização
 
 1 - As instalações da concessionária e as actividades por si exercidas no âmbito da concessão são fiscalizadas pelos serviços da APA, S. A., cujas instruções e directivas a concessionária se obriga a cumprir.
 
 2 - O pessoal incumbido da fiscalização, expressamente designado para o efeito e no exercício das suas funções, tem livre acesso a todas as instalações da área de concessão e fica obrigatoriamente ao abrigo de seguro a efectuar pela concessionária.
 
-###### Base XVI — Vistorias
+Base XVI
+
+Vistorias
 
 Constituem encargo da concessionária as despesas de vistorias extraordinárias, nomeadamente as que resultarem de reclamações de terceiros, desde que a vistoria conclua pela existência de irregularidades imputáveis à concessionária.
 
-###### Base XVII — Exploração por terceiros
+Base XVII
+
+Exploração por terceiros
 
 1 - A concessionária pode subconceder a entidades especializadas a exploração de serviços de apoio ao porto de recreio, devendo comunicar à APA, S. A., a identidade das subconcessionárias e as condições dos respectivos contratos.
 
@@ -341,11 +375,15 @@ Constituem encargo da concessionária as despesas de vistorias extraordinárias,
 
 ### CAPÍTULO III — Duração da concessão
 
-###### Base XVIII — Prazo
+Base XVIII
+
+Prazo
 
 O prazo da concessão é de 60 anos a contar da data de celebração do respectivo contrato, podendo ser prorrogado por períodos de 10 anos, desde que nisso acordem mutuamente concedente e concessionária até um ano antes do termo do prazo da concessão ou da sua última prorrogação.
 
-###### Base XIX — Termo da concessão
+Base XIX
+
+Termo da concessão
 
 1 - Finda a concessão pelo decurso do prazo, a APA, S. A., entra imediatamente na posse da área dominial, bem como as obras, edifícios, instalações, equipamentos, apetrechamentos e demais bens afectos à concessão, que para ela reverterão gratuitamente, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -369,7 +407,9 @@ O prazo da concessão é de 60 anos a contar da data de celebração do respecti
 
 11 - As condições de cedência referida no número anterior e a fixação do valor das instalações a que se refere o n.º 9 serão reguladas por acordo ou, na sua falta, nos termos do disposto na base XXX.
 
-###### Base XX — Resgate
+Base XX
+
+Resgate
 
 1 - A APA, S. A., pode resgatar a concessão quando motivos de interesse público o justifiquem, desde que decorrido metade do prazo, mediante aviso comunicado por escrito à concessionária, com pelo menos um ano de antecedência.
 
@@ -385,7 +425,9 @@ O prazo da concessão é de 60 anos a contar da data de celebração do respecti
 
 7 - A APA, S. A., pode suportar os encargos da aquisição a que se refere o n.º 4 desta base, por uma só vez ou em anuidades, até ao limite previsto para o termo do prazo da concessão, vencendo as importâncias em débito juros calculados a uma taxa igual à taxa básica de desconto do Banco de Portugal, adicionado de 1%.
 
-###### Base XXI — Rescisão
+Base XXI
+
+Rescisão
 
 1 - A APA, S. A., pode rescindir o contrato de concessão sempre que do não cumprimento das obrigações essenciais da concessionária resultem graves perturbações na organização e no funcionamento dos serviços concedidos.
 
@@ -417,7 +459,9 @@ g) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 ### CAPÍTULO IV — Suspensão excepcional da concessão
 
-###### Base XXII — Sequestro
+Base XXII
+
+Sequestro
 
 1 - A APA, S. A., pode assegurar a administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja iminente a sua cessação total ou parcial por causas imputáveis à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometerem a regularidade da exploração.
 
@@ -427,7 +471,9 @@ g) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 4 - Se a concessionária não quiser ou não puder retomar a exploração ou, quando o tiver feito, continuem a verificar-se graves deficiências na organização e no funcionamento dos serviços, poderá ser declarada pela APA, S. A., a rescisão da concessão.
 
-###### Base XXIII — Estado de sítio ou emergência
+Base XXIII
+
+Estado de sítio ou emergência
 
 1 - De acordo com o previsto na legislação especial aplicável, a APA, S. A., ou outra entidade para o efeito designada pode, em situação de estado de sítio ou de emergência formalmente declarado, ser investida na gestão e exploração dos serviços concedidos.
 
@@ -435,7 +481,9 @@ g) A verificação de situações repetidas de indisciplina do pessoal ou dos ut
 
 ### CAPÍTULO V — Obrigações especiais
 
-###### Base XXIV — Contrapartida pela concessão
+Base XXIV
+
+Contrapartida pela concessão
 
 1 - A concessionária pagará à APA, S. A., como contrapartida pela concessão, uma anuidade correspondente à soma das parcelas seguintes:
 
@@ -455,7 +503,7 @@ b) Mensalmente, após 60 dias depois do fim do mês a que respeita, pelo que se 
 
 5 - O atraso no pagamento constitui a concessionária em mora, sendo devidos juros à taxa legalmente fixada para as obrigações fiscais, por cada mês ou fracção.
 
-###### Base XXV
+Base XXV
 
 Deliberações a aprovar ou autorizar pela APA, S. A.
 
@@ -481,11 +529,15 @@ f) A cessação, temporária ou definitiva, total ou parcial, dos serviços conc
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Base XXVI — Direitos de terceiros
+Base XXVI
+
+Direitos de terceiros
 
 A concessionária é inteiramente responsável pelos prejuízos ou danos causados a terceiros em consequência dos poderes que lhe são conferidos pela concessão.
 
-###### Base XXVII — Caução
+Base XXVII
+
+Caução
 
 1 - A concessionária deve depositar em qualquer instituição de crédito, à ordem da APA, S. A., no prazo de seis meses a contar da data da assinatura do contrato, a importância de 10000 contos, que servirá de garantia ao efectivo cumprimento das obrigações emergentes da concessão e ao pagamento das multas que lhe forem impostas.
 
@@ -495,7 +547,9 @@ A concessionária é inteiramente responsável pelos prejuízos ou danos causado
 
 4 - O valor da caução deve ser actualizado de cinco em cinco anos, segundo a variação do índice de preços no consumidor, sem habitação, nesse período.
 
-###### Base XXVIII — Incumprimento das obrigações
+Base XXVIII
+
+Incumprimento das obrigações
 
 1 - O não cumprimento das obrigações assumidas pela concessionária, quando lhe não correspondam sanções mais graves nos termos das bases anteriores ou do regulamento de exploração, implica o pagamento da multa de 100 a 1000 contos, segundo a gravidade e a frequência da infracção, mediante deliberação da APA, S. A., a qual deve ser comunicada, por escrito, à concessionária e produzirá efeitos independentemente de qualquer outra formalidade.
 
@@ -505,15 +559,21 @@ A concessionária é inteiramente responsável pelos prejuízos ou danos causado
 
 4 - O pagamento das multas não isenta a concessionária da responsabilidade civil em que incorrer nem prejudica a competência de outras autoridades para julgamento das infracções em que lhes caiba intervir.
 
-###### Base XXIX — Elementos estatísticos
+Base XXIX
+
+Elementos estatísticos
 
 A concessionária obriga-se a fornecer à APA, S. A., até ao dia 15 do mês seguinte àquele a que digam respeito, os elementos estatísticos referentes ao movimento registado na Marina, bem como os elementos contabilísticos que traduzam o resultado da exploração.
 
-###### Base XXX — Arbitragem
+Base XXX
+
+Arbitragem
 
 As questões suscitadas entre a APA, S. A., e a concessionária sobre a interpretação, a execução e a rescisão do contrato de concessão podem ser resolvidas por arbitragem, mediante acordo entre as partes.
 
-###### Base XXXI — Tribunal competente
+Base XXXI
+
+Tribunal competente
 
 Os litígios emergentes da concessão serão resolvidos pelos tribunais competentes em razão da sede da APA - Administração do Porto de Aveiro, S. A., com exclusão de quaisquer outros, sem prejuízo do disposto na base anterior.
 

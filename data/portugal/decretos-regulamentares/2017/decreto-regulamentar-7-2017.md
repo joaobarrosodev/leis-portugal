@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/15100/0452004522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2017/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2017-107963497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ce7b83774fa8e2a27ec96d3c7f26872c14b434b833a06929ab28a887d7bb014
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91f8f594f9d1a937f0f65694f3163fc47f22f515dcf1300b4db34c0c85112d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Centro de Cooperação Policial e Aduaneira
-- Política de Cooperação
-- Segurança Interna
+- Confidencialidade
+- Cooperação Policial
 - Definição de Competências
 - Europol
-- Cooperação Policial
 - Gabinete Nacional da Interpol
-- GNR
-- Serviço de Estrangeiros e Fronteiras
-- Orgânica
-- Confidencialidade
-- Polícia Judiciária
-- Secretário Geral do Sistema de Segurança Interna
 - Gabinete Nacional Sirene
+- GNR
+- Orgânica
+- Polícia Judiciária
+- Política de Cooperação
 - Ponto Único de Contacto para a Cooperação Policial Internacional
+- PSP
+- Secretário Geral do Sistema de Segurança Interna
+- Segurança Interna
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:130114092:por
@@ -102,16 +102,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/2009/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/2009/08/12/p/dre
+- type: cites
+  target: pt:dre:107061863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67579526:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:130114092:por
+  label: Revogado, a partir de 16.03.2020, com efeitos ao dia 13.02.2020, o presente diploma, pelo(a) Decreto-Lei n.º 10/2020
+    - Diário da República n.º 50/2020, Série I de 2020-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2020-130114092
+  date: '2020-03-11'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:22Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +156,7 @@ Os elementos que integram o PUC-CPI são oriundos da Guarda Nacional Republicana
 
 Para assegurar a ligação a outros órgãos de polícia criminal de competência específica, como a Polícia Marítima ou a Autoridade Tributária e Aduaneira, estes podem colocar no PUC-CPI elementos de ligação. De igual forma, a necessária articulação com o Ministério Público, no âmbito das suas competências, é assegurada por um ponto de contacto a indicar pelo Procurador-Geral da República.
 
-**O Secretário-Geral do Sistema de Segurança Interna pode reforçar o pessoal afeto ao PUC-CPI quando as necessidades técnicas assim o exijam, com recurso às modalidades de mobilidade previstas para os trabalhadores em funções públicas ou através de recrutamento específico para o efeito.**
+O Secretário-Geral do Sistema de Segurança Interna pode reforçar o pessoal afeto ao PUC-CPI quando as necessidades técnicas assim o exijam, com recurso às modalidades de mobilidade previstas para os trabalhadores em funções públicas ou através de recrutamento específico para o efeito.
 
 Assim:
 
@@ -258,12 +280,12 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2017. - António Luís Santos da Costa - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 10 de julho de 2017.**
+Promulgado em 10 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de julho de 2017.**
+Referendado em 18 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02800/0094700954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2008/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2008-248229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b9d36ec5421834f5621873a569794388d722c7bd1fe4fbf806a998e7712a9a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cadb4d0a9895dd300e8cb793da201d5b8218c72bf5063a38ec682e34431badac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Património
+- Benefícios Fiscais
 - Conselho Científico
 - Conselho de Administração
-- Fundação
 - Conselho Fiscal
 - Definição de Competências
 - Diretor
 - Estatuto
+- Financiamento
+- Fundação
 - Fundação Martins Sarmento
-- Ministério da Cultura
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 - Instalação de Serviços
 - Isenção Fiscal
+- Ministério da Cultura
 - Nomeação
+- Património
 - Personalidade Jurídica
 - Pessoa Colectiva de Direito Privado sem FINS Lucrativos
 - Presidente
-- Benefícios Fiscais
 - Utilidade Pública
 - Vice-presidente
 - Vogal
@@ -92,16 +92,34 @@ relationships:
   target: pt:dre:167133019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167133019:por
+  label: Extinta a Fundação e revogado o presente diploma pelo(a) Decreto-Lei n.º 58/2021 - Diário da República n.º 134/2021,
+    Série I de 2021-07-13 nos termos do seu art. 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2021-167133019
+  date: '2021-07-13'
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528063:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:18Z'
   warnings: []
   errors: []
 ---
@@ -182,15 +200,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 28 de Janeiro de 2008.**
+Promulgado em 28 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Janeiro de 2008.**
+Referendado em 29 de Janeiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Estatutos da Fundação Martins Sarmento
 

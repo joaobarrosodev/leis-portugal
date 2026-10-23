@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 146/2007, 3º Suplemento, Série I de 2007-07-31
   number: '146'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4902-(21) a 4902-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14603/0002100023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/81-b/2007/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/81-b-2007-569552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4f4ccd2b8dc963445e7e71c0cfc73ee6f1df01b12f6b19a3a35e40d1bbfbadb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd767636791d489b5d0031c1f83890090802af99d2ee37698a3e0fad151b8de0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Conselho de Inspecção
 - Definição de Competências
 - Delegação Regional
 - Inspecção Geral da Educação
-- Conselho de Inspecção
 - Inspetor Geral
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Remuneração
 - Subinspector Geral
@@ -79,16 +79,29 @@ relationships:
   target: pt:dre:543879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489530:por
+  label: "Alterados os arts. 4.º, 5.º e 6.º, bem como o mapa a que se refere o artigo 11.º do presente diploma, pelo DR.16/2009.02.09.2009.ME,\
+    \ DR.IS [170] de 02.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-2009-489530
+  date: '2009-09-02'
+- type: amended_by
+  target: pt:dre:543879:por
+  label: "Determinada a sucessão pela Inspeção-Geral da Educação e Ciência das atribuições da ex-Inspeção-Geral da Educação,\
+    \ constantes do presente diploma, alterado pelo DR 16/2009 de 02-set, que é revogado, a partir de 01.02.2012 pelo DR.15/2012.27.01.2012.MECI,\
+    \ DR.IS [20] de 27.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-2012-543879
+  date: '2012-01-27'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:35Z'
   warnings: []
   errors: []
 ---
@@ -255,16 +268,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
 Publique se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
 O Primeiro Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14603/0002100023.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14603/0002100023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14603/0002100023.pdf)

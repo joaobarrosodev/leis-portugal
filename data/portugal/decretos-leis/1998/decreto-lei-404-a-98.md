@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 291/1998, 1º Suplemento, Série I-A de 1998-12-18
   number: '291'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6934-(2) a 6934-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/291a01/00020009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7ee276c631b6e01c22b320fba2ab7542fdd884e2b217c61ee02d5ce0337bacb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75b506c33506c1f76e8c1a69d32931c15378c61e07f57562526030626c588100
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,59 +66,142 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Tempo de Serviço
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Carreira Profissional
 - Concurso
 - Concurso de Habilitação
 - Criação de Lugares
 - Curso de Estudos Avançados em Gestão Pública
-- Administração Pública
-- Sistema Retributivo
-- Carreira Profissional
 - Extinção de Lugares
-- INA
-- Pessoal Operário
-- Recrutamento de Pessoal
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
 - Habilitações Literárias
+- INA
 - Instituto Público
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Chefia
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Política Salarial
-- Qualificação Profissional
 - Progressão na Carreira
 - Promoção Profissional
 - Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Administração Local
 - Regime de Pessoal
 - Remuneração
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
+- Sistema Retributivo
 - Tabela Salarial
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:124044665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308514:por
+  label: "Alterado o art. 18º e aditado um novo nº 3 para o art. 4º e um novo 35º e republicado na integra pela LEI.44/99.1999.06.11.AR,\
+    \ DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-1999-308514
+  date: '1999-06-11'
+- type: amended_by
+  target: pt:dre:371212:por
+  label: "Alterado o art. 13º pelo DEC LEI.77/2001.2001.03.05.MF DR.IS-A [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2001-371212
+  date: '2001-03-05'
+- type: amended_by
+  target: pt:dre:276450:por
+  label: "Alterado o art. 13º, com a redacção conferida pelo Dec Lei 77/2001 de 05-Mar, pelo DEC LEI.23/2002.2002.02.01.MF\
+    \ DR.IS-A [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2002-276450
+  date: '2002-02-01'
+- type: amended_by
+  target: pt:dre:158623:por
+  label: "Alterado o art. 16º e revogado o nº 1 do art. 14º, na redacção da Lei 44/99, de 11-Jun, pelo DEC LEI.149/2002.2002.05.21.MREAP,\
+    \ DR.IS-A [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2002-158623
+  date: '2002-05-21'
+- type: amended_by
+  target: pt:dre:233303:por
+  label: "Alterados os nºs. 6 e 7 do art 13 pelo DEC LEI.54/2003.2003.03.28.MF, DR.IS-A [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2003-233303
+  date: '2003-03-28'
+- type: amended_by
+  target: pt:dre:537844:por
+  label: "Alterados os n.ºs 6 e 7 (índices remuneratórios) do art. 13.º, pelo DEC LEI.57/2004.19.03.2004.MF, DR.IS-A [67]\
+    \ de 19.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2004-537844
+  date: '2004-03-19'
+- type: amended_by
+  target: pt:dre:245295:por
+  label: "Determinada a não contagem do tempo de serviço para efeitos de progressão nas carreiras e o congelamento do montante\
+    \ de todos os suplementos remuneratórios de todos os funcionários, agentes e demais servidores do Estado até 31 de Dezembro\
+    \ de 2006, nos termos do presente diploma, na redacção da Lei 44/99, de 11-Jun, pela LEI.43/2005.29.08.2005.AR, DR.IS-A\
+    \ [165] de 29.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2005-245295
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Mantidas suspensas, até 31.12.2007, excepto as decorrentes da Res 109/2005 de 30-Jun, e as que sejam indispensáveis\
+    \ para o cumprimento de lei ou para a execução de sentenças judiciais, as revisões de carreiras aprovadas pelo Dec Lei\
+    \ 248/85 de 15-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Suspensas, até 31 de Dezembro de 2008, e nos termos do art. 15.º, as revisões de carreiras e do regime e montantes\
+    \ dos suplementos remuneratórios, aprovadas pelo Dec Lei 248/85 de 15-Jul, alterado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR,\
+    \ DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as carreiras Gerais de Técnico Superior, bem como para as categorias de coordenador\
+    \ técnico, assistente técnico e assistente operacional, nos termos dos arts. 2º, 3º, 4º e 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:165049:por
+  label: "Revogada a al a) do nº 1 e nº 2 do art. 29º pelo DEC LEI.141/2001.2001.04.24.MREAP,DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2001-165049
+  date: '2001-04-24'
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
+- type: repealed_by
+  target: pt:dre:124044665:por
+  label: Revogada, a partir de 01.09.2019, a al. b) do n.º 1 do art. 10.º pelo(a) Decreto-Lei n.º 114/2019 - Diário da República
+    n.º 158/2019, Série I de 2019-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2019-124044665
+  date: '2019-08-20'
 article_structure:
-  article_count: 36
+  article_count: 35
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:32Z'
   warnings: []
   errors: []
 ---
@@ -459,7 +542,7 @@ b) ...
 
 3 - Se a remuneração, em caso de progressão, for superior à que resulta da aplicação dos números anteriores, a promoção faz-se para o escalão seguinte àquele que lhe corresponderia por força daquelas regras, excepto se o funcionário tiver mudado de escalão há menos de um ano.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - ...
 
@@ -573,14 +656,14 @@ e) Os n.os 1 a 5, 7 a 10, 13 e 14 do artigo 21.º e os n.os 1 a 7 do artigo 42.�
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1998. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 11 de Dezembro de 1998.**
+Promulgado em 11 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Dezembro de 1998.**
+Referendado em 16 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/12/291a01/00020009.pdf)

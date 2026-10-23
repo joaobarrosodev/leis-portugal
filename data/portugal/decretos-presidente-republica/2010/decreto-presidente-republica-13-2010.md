@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13/2010/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2010-617109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:07:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee31b49060f218bfaaf7ccfc251c69c7591987c4e7d0a7ef6f29db72fd58b2e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3688ec4bf4feb913c9e6a47a60feb1e281ed9f3edae14e6520971d89c64a1e25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:07:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Carreira Militar
 - Exército
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/8/2010/01/22/p/dre
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:07:03Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +104,12 @@ validation:
 
 de 4 de Fevereiro
 
-**O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:**
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de Julho, o seguinte:
 
 É alterada, sob proposta do Ministro da Defesa Nacional, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas, a identificação como «Coronel Tirocinado de Cavalaria Carlos José Filipe Antunes Calçada» prevista no [Decreto do Presidente da República n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/8-2010-616786), de 22 de Janeiro, que passa a ser «Coronel Tirocinado de Cavalaria José Carlos Filipe Antunes Calçada».
 
-**Assinado em 29 de Janeiro de 2010.**
+Assinado em 29 de Janeiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

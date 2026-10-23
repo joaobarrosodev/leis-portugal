@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/78/2025/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/78-2025-929044341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb8ec7457922bcceb5329815774cf69f2cf36569f9eea244ec733fedfd64feb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f94dd793437e233e5bbc414835d70a730bbd26038b8052f8d4665abc1015de3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direção de Saúde Militar
 - Exército
+- Forças Armadas
 - Graduação Militar
 - Homologação
-- Forças Armadas
 - Militar
-- Direção de Saúde Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/2022/01/24/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178080766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:55:47Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +106,14 @@ validation:
 
 de 18 de agosto
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:
 
 É homologada a graduação no posto de Brigadeiro-General do Coronel Tirocinado de Medicina Paulo José Amado de Campos, para efeitos de provimento do cargo de diretor da Unidade de Ensino, Formação e Investigação da Saúde Militar, previsto no n.º 4 do artigo 47.º do [Decreto-Lei n.º 19/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2022-178080766), de 24 de janeiro, na sua redação atual, efetuada por deliberação de 5 de agosto de 2025 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional, datado de 7 de agosto de 2025.
 
-**Assinado em 12 de agosto de 2025.**
+Assinado em 12 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+119434528

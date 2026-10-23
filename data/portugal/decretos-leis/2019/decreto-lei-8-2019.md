@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01000/0018400191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2019/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd4264b271b23a5335112c77089e219d92ff2a3a322002b8fe2ec15b75ec535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb396312ebc59ca64d1fd6d27bc3af998c65fd079e96e4b00300188c72cfadeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Farmacêutica
-- Publicidade
-- Infarmed
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Medicamento
-- Importação
-- Laboratório Militar de Produtos Químicos e Farmacêuticos
-- Licenciamento
 - Droga
 - Exportação
+- Importação
+- Indústria Farmacêutica
+- Infarmed
+- Laboratório Militar de Produtos Químicos e Farmacêuticos
+- Licenciamento
+- Medicamento
+- Política de Saúde
 - Produção
-- Produto Farmacêutico
-- Receita Médica
 - Produção Agrícola
+- Produto Farmacêutico
+- Publicidade
+- Receita Médica
+- Serviço Nacional de Saúde
 - Substância Estupefaciente ou Psicotrópica
 - Taxa
-- Comércio
 - Terapêutica
 relationships:
 - type: cites
@@ -135,16 +135,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/27
   label: null
   source: http://data.dre.pt/eli/port/27
+- type: cites
+  target: pt:dre:115712242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 27
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:49Z'
   warnings: []
   errors: []
 ---
@@ -473,7 +517,9 @@ Os artigos 13.º, 22.º e 43.º do [Decreto Regulamentar n.º 61/94](https://dia
 
 5 - O titular da autorização para o cultivo deve manter registos atualizados de todas as entradas e saídas das espécies vegetais incluídas nas tabelas i e ii, que garantam a rastreabilidade do produto resultante da atividade e o cumprimento do disposto nos artigos 31.º e seguintes.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -481,7 +527,9 @@ Os artigos 13.º, 22.º e 43.º do [Decreto Regulamentar n.º 61/94](https://dia
 
 3 - O INFARMED, I. P., por razões de saúde pública ou atendendo aos compromissos internacionais assumidos e de acordo com as regras decorrentes das convenções das Nações Unidas, pode fixar limites às quantidades de substâncias e preparações compreendidas nas tabelas i, ii e iv a serem objeto das atividades de cultivo, fabrico, comércio por grosso, importação ou exportação.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]:
 
@@ -515,7 +563,9 @@ Requisitos
 
 A instrução dos pedidos e procedimentos relativos à concessão de autorizações para o exercício das atividades relacionadas com o cultivo, fabrico, comércio por grosso, trânsito, importação e exportação de medicamentos, preparações e substâncias à base da planta da canábis para fins medicinais, médico-veterinários ou de investigação científica, bem como de autorizações para o exercício da atividade de cultivo da planta da canábis para outros fins, designadamente industriais, bem como as medidas de segurança a adotar, são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração interna, da justiça, da saúde, da economia e da agricultura.
 
-###### Artigo 36.º-A — Medidas de segurança
+Artigo 36.º-A
+
+Medidas de segurança
 
 1 - As medidas de segurança a estabelecer na portaria prevista no artigo 6.º-A observam as características técnicas consagradas na [Portaria n.º 273/2013](https://diariodarepublica.pt/dr/detalhe/portaria/273-2013-499243), de 20 de agosto, na sua redação atual.
 
@@ -559,15 +609,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte à sua pu
 
 Visto e aprovado em Conselho de Ministros de 13 de dezembro de 2018. - Augusto Ernesto Santos Silva - Ricardo Emanuel Martins Mourinho Félix - Helena Maria Mesquita Ribeiro - Pedro Gramaxo de Carvalho Siza Vieira - Marta Alexandra Fartura Braga Temido de Almeida Simões - Luís Manuel Capoulas Santos.
 
-**Promulgado em 26 de dezembro de 2018.**
+Promulgado em 26 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2019.**
+Referendado em 7 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 7.º)
 
@@ -638,3 +688,5 @@ Número de registo da autorização
 2 - As instruções de utilização em língua portuguesa devem conter a forma de preparação e/ou administração da preparação/substância à base da planta da canábis para fins medicinais, acompanhada de uma breve descrição clara e objetiva, em língua portuguesa e redigida de forma simples e acessível ao utente. As instruções de utilização que vierem a ser aprovadas para cada preparação deverão conter toda a informação necessária à sua correta utilização/prescrição, alertando para os possíveis efeitos secundários e para o risco de desenvolvimento de dependência, sendo também realçado que qualquer tratamento deve ser iniciado com doses mínimas a indicar pelo médico, devendo esta dose mínima ser ajustada em função dos efeitos farmacológicos obtidos e de eventuais efeitos secundários que possam ocorrer.
 
 3 - As instruções de utilização são aprovadas pelo INFARMED, I. P., e disponibilizadas, em local apropriado, no sítio eletrónico do INFARMED, I. P.
+
+111968978

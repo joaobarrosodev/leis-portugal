@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/053a00/11451153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2004-551646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fcffcf7bcf32328e14a5adc32628aa77836f6d7bebccd97cf2519fcac60b52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b69176fdb3f7f63114dcc5c84c83214b295293f2bfc019c946453fe617a924ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Gestão Financeira
 - Definição de Competências
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Ineti
 - Instituto Geológico e Mineiro
 - Integração de Trabalhadores
+- Investigador
 - Orgânica
-- Quadro de Pessoal
 - Proteção Social
+- Quadro de Pessoal
 - Regime de Pessoal
-- Gestão de Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:628851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério da Ciência, Inovação e Ensino Superior do Instituto Nacional de Engenharia,\
+    \ Tecnologia e Inovação (integrado no agora extinto Ministério da Economia), e sujeitado a superintendência conjunta cabendo\
+    \ a tutela funcional e patrimonial ao Ministro da Ciência, Inovação e Ensino Superior e sendo a definição das linhas de\
+    \ orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro de Estado e das Actividades\
+    \ Económicas e do Trabalho, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério da Economia e da Inovação do Instituto cuja orgânica foi aprovada no presente\
+    \ diploma (integrado no Ministério da Ciência, Inovação e Ensino Superior), sendo a competência para a definição das suas\
+    \ orientações estratégicas, bem como o acompanhamento da sua execução, exercida pelo Ministro da Economia e da Inovação\
+    \ em articulação com o Ministro da Ciência, Tecnologia e Ensino Superior, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:520992:por
+  label: "Determinado que o Instituto de Meteorologia, IP, suceda nas atribuições relativas ao domínio da detecção remota\
+    \ e monitorização do ar e da água, do Instituto Nacional de Engenharia, Tecnologias e Inovação (extinto nos termos da\
+    \ al. f) do nº 3 do art. 27º do Dec Lei 208/2006 de 27-Out) e cuja orgânica foi aprovada pelo presente diploma, pelo DEC\
+    \ LEI.157/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2007-520992
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:521006:por
+  label: "Determinada a sucessão do Instituto Português da Qualidade relativamente às atribuições, no domínio da metrologia,\
+    \ do Instituto Nacional de Engenharia, Tecnologia e Inovação, cuja orgânica foi aprovada pelo presente diploma, pelo DEC\
+    \ LEI.142/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2007-521006
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:636711:por
+  label: "Determinado que o INSA, I.P. suceda, nas atribuições no domínio das tecnologias e ciências da saúde, do Instituto\
+    \ cuja orgânica foi aprovada no presente diploma, pelo DEC LEI.271/2007.26.07.2007.MS, DR.IS [143] de 26.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/271-2007-636711
+  date: '2007-07-26'
+- type: amended_by
+  target: pt:dre:628851:por
+  label: "Determinado que o Instituto Nacional de Recursos Biológicos, I. P. suceda, nos termos do art. 19º, nas atribuições\
+    \ relacionadas com as tecnologias alimentares e da biotecnologia relevantes com aplicação nas indústrias alimentares do\
+    \ Instituo Nacional de Engenharia, Tecnologias e Inovação, pelo DEC LEI.356/2007.29.10.2007.MADRP, DR.IS [208] de 29.10.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-2007-628851
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transferidas as competências do INETI, I.P., cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.355/2007.29.10.2007.MEI,\
+    \ DR.IS [208] de 29.10.2007, de acordo com o disposto no art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -123,16 +176,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/592-b/1993/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/592-b/1993/06/15/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690983:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628860:por
+  label: "Revogados a partir de 01.11.2007 os preceitos do presente diploma, pelo DEC LEI.354/2007.29.10.2007.MEI, DR.IS [208]\
+    \ de 29.10.2007, respeitantes às atribuições que, irão ser prosseguidas pelo LNEG,I.P., e determinado que este instituto\
+    \ público suceda nas atrbuições do INETI, I.P., nas áreas científicas de energia e geologia\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-2007-628860
+  date: '2007-10-29'
 article_structure:
   article_count: 42
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:31Z'
   warnings: []
   errors: []
 ---
@@ -771,12 +875,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 18 de Fevereiro de 2004.**
+Promulgado em 18 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Fevereiro de 2004.**
+Referendado em 20 de Fevereiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

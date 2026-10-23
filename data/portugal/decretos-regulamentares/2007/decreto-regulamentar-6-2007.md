@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04100/13681370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2007/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2007-518852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30a3476858fbe5cc6224b38fa1cd0640023eeb9c7fe44002aa0ee2279fd5c840
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 321959eebbe7ea1577f3bb9a13edc9fa54e47ba726d3db0ad4942da985b197c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,45 @@ reuse:
 subjects:
 - Auditor de Ambiente
 - Comissão Consultiva
-- Gestão Financeira
 - Conselho de Coordenação Estratégica
-- Direção Geral de Veterinária
 - Definição de Competências
-- Secretaria Geral
+- Direção Geral de Veterinária
 - Gabinete de Planeamento e Política Agro-alimentar
 - Gabinete de Planeamento e Políticas
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Instituto de Desenvolvimento Rural e Hidráulica
-- Orgânica
-- Ifadap
 - Gestão de Recursos Humanos
+- Gestão Financeira
+- Ifadap
+- Instituto de Desenvolvimento Rural e Hidráulica
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Orgânica
+- Secretaria Geral
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:553933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247711:por
+  label: "Alterados os arts. 2º e 12º pelo DEC LEI.32/2008.25.02.2008.MADRP, DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2008-247711
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Determinada a reestruturação do Gabinete de Planeamento e Políticas, cujas orgânica, atribuições e competências\
+    \ constam do presente diploma, alterado pelo Dec Lei 32/2008 de 25-Fev, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12]\
+    \ de 17.01.2012, nos termos do disposto no nº 4 do seu art. 34º, sendo as suas atribuições no domínio da normalização\
+    \ e segurança alimentar integradas na Direcção-Geral de Alimentação e Veterinária e as suas atribuições no domínio do\
+    \ ordenamento rural integradas na Direcção-Geral de Agricultura e Desenvolvimento Rural. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:553438:por
+  label: "Determinada a sucessão pela Direção-Geral de Alimentação e Veterinária (DGVA) nas atribuições do Gabinete de Políticas\
+    \ e Planeamento, no domínio da normalização e segurança alimentar , constantes do presente diploma, pelo DR.31/2012.13.03.2012.MAMAOT,\
+    \ DR.IS [52] de 13.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-2012-553438
+  date: '2012-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
   label: null
@@ -101,16 +122,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:384601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553933:por
+  label: "Revogado a partir de 01.04.2012, pelo DR.34/2012.26.03.2012.MAMAOT, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2012-553933
+  date: '2012-03-26'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:03Z'
   warnings: []
   errors: []
 ---
@@ -277,16 +319,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Fevereiro de 2007.**
+Referendado em 5 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Mapa a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/04100/13681370.pdf))](https://files.diariodarepublica.pt/1s/2007/02/04100/13681370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/04100/13681370.pdf)

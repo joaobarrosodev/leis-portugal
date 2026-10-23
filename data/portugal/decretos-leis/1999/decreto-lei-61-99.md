@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/051a00/11651177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6feab62deee0f8f9bebffbb85aa4f0ee9619a31de2c1b62c25c701cc87446e99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 227e3c311c417e6ae72657afc21cee3e6252762a509c0bb5e50d524e66abd4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
 - Alvará
+- Atividade Industrial
 - Construção Civil
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Fiscalização
-- Industrial da Construção Civil
 - Imoppi
+- Industrial da Construção Civil
 - Obras Públicas
 - Prestação de Serviços
 - Sanção
@@ -83,6 +83,17 @@ relationships:
   target: pt:dre:592877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570570:por
+  label: "Alterados os arts. 17.º e 32.º, pela LEI.155/99.1999.09.14.AR DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/155-1999-570570
+  date: '1999-09-14'
+- type: amended_by
+  target: pt:dre:336152:por
+  label: "Prorrogado, excepcionalmente até 15 de Novembro posterior, o prazo previsto no nº 1 do art. 31º do presente diploma,\
+    \ pelo DEC LEI.171/2000.2000.08.08.MES DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2000-336152
+  date: '2000-08-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
   label: null
@@ -99,16 +110,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241183:por
+  label: "Revogado, bem como a respectiva legislação regulamentar, pelo DEC LEI.12/2004.09.01.2004.MOPTH, DR.IS-A [7] de 09.01.2004,\
+    \ sem prejuízo do disposto no seu art. 57º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2004-241183
+  date: '2004-01-09'
 article_structure:
   article_count: 61
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:39Z'
   warnings: []
   errors: []
 ---
@@ -853,12 +894,12 @@ O presente diploma entra em vigor três meses após a sua publicação e só ser
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 11 de Fevereiro de 1999.**
+Promulgado em 11 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Fevereiro de 1999.**
+Referendado em 19 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

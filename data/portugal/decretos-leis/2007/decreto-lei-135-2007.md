@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26682670.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2007-520983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa6968c7fb48236b4f2b53da97be8c2bdd080cb70d740f64280536ecb9caa5fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a35ce2d78fb20319ae694694807d9635053cf797b31b22c38809f257eb6fa0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto da ÁGUA
-- Pessoal Dirigente
 - Orgânica
+- Pessoal Dirigente
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:553603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto, sendo objecto de fusão, o Instituto da Água (criado no âmbito do então Ministério do Ambiente e Recursos\
+    \ Naturais pelo Dec Lei 187/93 de 24-Mai, já revogado), cujas atribuições e competências constam do presente diploma,\
+    \ pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo\
+    \ as suas atribuições integradas na Agência Portuguesa do Ambiente. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: celex:32000L0060
   label: null
   source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: repealed_by
+  target: pt:dre:553603:por
+  label: "Revogado, a partir de 01.04.2012, pelo DEC LEI.56/2012.12.03.2012.MAMAOT, DR.IS [51] de 12.03.2012, sucedendo a\
+    \ Agência Portuguesa do Ambiente, I.P., nas atribuições do Instituto da Água, I. P.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2012-553603
+  date: '2012-03-12'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:28Z'
   warnings: []
   errors: []
 ---
@@ -238,12 +252,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

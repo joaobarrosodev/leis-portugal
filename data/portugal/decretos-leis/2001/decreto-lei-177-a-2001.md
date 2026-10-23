@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 132/2001, 1º Suplemento, Série I-A de 2001-06-07
   number: '132'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3506-(2) a 3506-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/132a01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/177-a/2001/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-a-2001-517413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9354afd5e33ed21539f98e148a3b723ff27fee0329938daaf730cb7f2c30019d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db3d10c1cc0280565d5b735dcc26870aff526ab89e2a816aaf1364f5840586a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,16 +111,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
+- type: cites
+  target: pt:dre:214559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685660:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:25Z'
   warnings: []
   errors: []
 ---
@@ -267,12 +323,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 7 de Junho de 2001.**
+Promulgado em 7 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Junho de 2001.**
+Referendado em 7 de Junho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

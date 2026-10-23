@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/1997/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3cd5e757fd2506a3c8931962ee6d9ee1e729337887d74a6a4ab3f157040d0ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e8ebb1c6eb6423c388ad34c31d17fe2024ab7b1ca39c7304eae48e4f2cac19d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Convenção
 - Direito Marítimo
 - Embarcação
-- Garantia
-- Tráfego Marítimo
-- Convenção
 - Embarcação Estrangeira
+- Garantia
 - Interpretação do Direito
-- Zona Tributária Privilegiada
 - Madeira.região Autónoma
 - Registo de Hipotecas
 - Registo Internacional de Navios da Madeira
+- Tráfego Marítimo
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:70641450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70641450:por
+  label: Alterado, a partir de 14.10.2015, o art 14.º do Dec Lei 96/89 de 28-mar, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13 que republica o citado decreto-lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2015-70641450
+  date: '2015-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/393/1993/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/393/1993/11/23/p/dre
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674418:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:22Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +149,12 @@ O artigo 14.º do [Decreto-Lei n.º 96/89](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1996. - António Manuel de Oliveira Guterres - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Maria João Fernandes Rodrigues.
 
-**Promulgado em 19 de Dezembro de 1996.**
+Promulgado em 19 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Dezembro de 1996.**
+Referendado em 26 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

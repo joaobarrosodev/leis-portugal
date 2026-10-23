@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14100/0000400023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2020/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 795896a3c4b067aba6912a4930644bd66c2681398f4fee9aa97ab1e64c6e3cfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e61790ef3ded530f6d64e9a08315154e1af097689f7d11237b66319713fdbbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
-- Catálogo Nacional de Qualificações
-- Formação Profissional
-- Silvicultura
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Proteção da Floresta
-- Fundo Florestal Permanente
-- Sistema Nacional de Qualificações
-- Bombeiro
-- Contratação de Pessoal
-- Instituto da Conservação da Natureza e das Florestas
-- Proteção do Ambiente
-- Plano de Actividades
-- Prazo
-- Programa de Sapadores Florestais
-- Qualificação Profissional
-- Regime Jurídico
-- Política Florestal
-- Relatório de Actividade
-- Sapador Florestal
-- Plano Nacional de Gestão Integrada de Fogos Rurais
 - Autoridade Nacional de Emergência e Proteção Civil
-- Força de Sapadores Bombeiros Florestais
+- Bombeiro
+- Catálogo Nacional de Qualificações
+- Contratação de Pessoal
+- Definição de Competências
 - Equipamento de Proteção
 - Estratégia Nacional para as Florestas
+- Financiamento
+- Força de Sapadores Bombeiros Florestais
+- Formação Profissional
+- Fundo Florestal Permanente
+- Incêndio
+- Instituto da Conservação da Natureza e das Florestas
+- Plano de Actividades
+- Plano Nacional de Gestão Integrada de Fogos Rurais
+- Política Florestal
+- Prazo
+- Prevenção de Incêndios
+- Programa de Sapadores Florestais
+- Proteção Civil
+- Proteção da Floresta
+- Proteção do Ambiente
+- Qualificação Profissional
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Relatório de Actividade
+- Sapador Florestal
+- Silvicultura
+- Sistema Nacional de Qualificações
 relationships:
 - type: amended_by
   target: pt:dre:907934880:por
@@ -144,16 +144,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/90/2012/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90/2012/03/30/p/dre
+- type: cites
+  target: pt:dre:105727475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107507171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 51
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:39Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +262,9 @@ Os artigos 1.º a 8.º, 11.º, 12.º, 15.º a 19.º, 21.º e 22.º do [Decreto-L
 
 2 - A criação de equipas de sapadores florestais, e a respetiva atividade, desenvolvem-se no quadro de um programa nacional de sapadores florestais, orientado para a prossecução dos objetivos de proteção e defesa da floresta estabelecidos no Plano Nacional de Gestão Integrada de Fogos Rurais e na Estratégia Nacional para as Florestas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -232,7 +298,9 @@ n) 'Vigilância', observação dos espaços florestais e vigilância pós-rescal
 
 o) [Anterior alínea j).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -250,7 +318,9 @@ f) Vigilância, primeira intervenção e apoio ao combate a incêndios rurais, a
 
 g) Ações de estabilização de emergência que minimizem os danos resultantes de processo de erosão, desobstrução de rede viária e linhas de água que reduzem o impacto da perda de solo, promovendo a recuperação do potencial produtivo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A qualificação profissional de sapador florestal é obtida após conclusão com aproveitamento das unidades de formação de curta duração (UFCD) do Referencial de Formação de Sapador Florestal (RFSF) inserido no Catálogo Nacional de Qualificações, que conferem as competências necessárias ao exercício das funções definidas no artigo anterior e ministrado por entidade formadora acreditada e reconhecida pelo ICNF, I. P., que integre a rede de entidades formadoras no âmbito do Sistema Nacional de Qualificações (SNQ).
 
@@ -272,7 +342,9 @@ g) Ações de estabilização de emergência que minimizem os danos resultantes 
 
 10 - Os sapadores florestais, operadores de maquinaria, devem dispor de formação profissional adequada ao tipo de máquina, conforme estabelecido pelo Instituto da Mobilidade e dos Transportes, I. P.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -284,7 +356,9 @@ g) Ações de estabilização de emergência que minimizem os danos resultantes 
 
 5 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -296,7 +370,9 @@ g) Ações de estabilização de emergência que minimizem os danos resultantes 
 
 5 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +384,9 @@ g) Ações de estabilização de emergência que minimizem os danos resultantes 
 
 5 - A informação e os dados referidos no número anterior devem ser disponibilizados em formatos abertos, que permitam a leitura por máquina, nos termos da [Lei n.º 36/2011](https://diariodarepublica.pt/dr/detalhe/lei/36-2011-670285), de 21 de junho, na sua redação atual.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -322,7 +400,9 @@ g) Ações de estabilização de emergência que minimizem os danos resultantes 
 
 6 - Por razões de interesse público, as equipas e as brigadas de sapadores florestais podem atuar em locais situados fora da sua área de intervenção.
 
-###### Artigo 11.º — Criação de equipas e de brigadas de sapadores florestais
+Artigo 11.º
+
+Criação de equipas e de brigadas de sapadores florestais
 
 1 - O procedimento para a criação de equipas e de brigadas de sapadores florestais é estabelecido por despacho do membro do Governo responsável pela área das florestas, mediante proposta do ICNF, I. P.
 
@@ -330,13 +410,17 @@ g) Ações de estabilização de emergência que minimizem os danos resultantes 
 
 3 - As equipas e brigadas de sapadores florestais são criadas pelo ICNF, I. P.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
 2 - O reconhecimento, como equipas de sapadores florestais, de equipas que não tenham sido criadas ao abrigo do artigo anterior é da competência do ICNF, I. P.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A atividade desenvolvida pelas equipas e brigadas de sapadores florestais está sujeita a inscrição e registo obrigatório no SISF.
 
@@ -356,7 +440,9 @@ c) Até ao dia 31 de janeiro do ano seguinte ao que diz respeito, o relatório a
 
 6 - O ICNF, I. P., comprova a execução do serviço público e emite parecer sobre os relatórios de atividades, referidos no número anterior, no prazo de 60 dias seguidos após a sua apresentação, dando do mesmo conhecimento às entidades titulares das equipas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -382,7 +468,9 @@ c) Até ao dia 31 de janeiro do ano seguinte ao que diz respeito, o relatório a
 
 12 - Os valores de referência da rentabilidade das diferentes atividades de silvicultura preventiva, que servem de base para o plano de atividades, são estabelecidos em norma técnica do ICNF, I. P., a publicitar no seu sítio na Internet no prazo de 60 dias após a entrada em vigor do presente decreto-lei.
 
-###### Artigo 17.º — Vigilância, primeira intervenção em incêndios rurais, apoio ao combate, e vigilância ativa pós-rescaldo
+Artigo 17.º
+
+Vigilância, primeira intervenção em incêndios rurais, apoio ao combate, e vigilância ativa pós-rescaldo
 
 1 - Durante os períodos de maior suscetibilidade à ocorrência de incêndios rurais, as equipas de sapadores florestais, ainda que constituídas sobe a forma de brigada, estão sujeitas a uma área de atuação estabelecida no plano municipal de defesa da floresta.
 
@@ -396,7 +484,9 @@ c) Até ao dia 31 de janeiro do ano seguinte ao que diz respeito, o relatório a
 
 6 - As equipas de sapadores florestais têm a obrigação de reportar toda a atividade à ANEPC, indicando data e hora de início e de fim da operação.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 [...]
 
@@ -422,7 +512,9 @@ j) Reportar a atividade das equipas de sapadores florestais através dos relató
 
 k) Assegurar a utilização obrigatória do equipamento de proteção individual.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -442,7 +534,9 @@ a) 50 % sob a forma de adiantamento, entregue com a apresentação do relatório
 
 b) Os restantes pagamentos são efetuados em função da taxa de execução apresentada nos relatórios de atividades.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -462,7 +556,9 @@ c) A não realização dos trabalhos previstos no âmbito do serviço público, 
 
 6 - O incumprimento da atualização permanente do SISF, nos termos da alínea i) do artigo 18.º, constitui causa de suspensão dos apoios até à sua regularização.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -506,7 +602,9 @@ Brigada de sapadores florestais
 
 5 - As brigadas de sapadores florestais desenvolvem principalmente ações de silvicultura preventiva, ações de apoio ao combate, rescaldo e ações de estabilização de emergência.
 
-###### Artigo 6.º-B — Planeamento e orientação técnica das equipas, agrupamentos e brigadas de sapadores florestais
+Artigo 6.º-B
+
+Planeamento e orientação técnica das equipas, agrupamentos e brigadas de sapadores florestais
 
 1 - O planeamento do serviço público das equipas, dos agrupamentos e das brigadas de sapadores florestais é articulado entre o ICNF, I. P., e a entidade titular.
 
@@ -534,15 +632,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 10 de julho de 2020.**
+Promulgado em 10 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de julho de 2020.**
+Referendado em 15 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -935,3 +1033,5 @@ c) Os trabalhos aprovados no âmbito do serviço público mantêm-se para o ano 
 ###### Artigo 25.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+113411391

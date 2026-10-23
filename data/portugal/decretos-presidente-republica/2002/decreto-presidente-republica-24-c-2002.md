@@ -30,7 +30,7 @@ publication:
   reference: Diário da República n.º 81/2002, 1º Suplemento, Série I-A de 2002-04-06
   number: '81'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3284-(2) a 3284-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/081a01/00020003.pdf
 entry_into_force_dates: []
@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/24-c/2002/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/24-c-2002-164626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89b65ae3ec6378e7c12daa711a3fb490e51c7436a1987a7c41d58471318f92e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b3f303bb44d9348fdd75e6e0efdcf91f98ad54824c6a3446015eee17fc07974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,41 +76,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Saúde
-- Ministro da Economia
-- Ministro da Segurança Social e do Trabalho
-- Ministro da Justiça
+- Governo XV
 - Ministro Adjunto do Primeiro-ministro
-- Ministro da Cultura
-- Ministro para os Assuntos Parlamentares
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro da Ciência e do Ensino Superior
+- Ministro da Cultura
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro da Segurança Social e do Trabalho
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Ministro das Obras Públicas Transportes e Habitação
 - Ministro de Estado e da Defesa Nacional
+- Ministro de Estado e das Finanças
 - Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
+- Ministro para os Assuntos Parlamentares
 - Nomeação
 - Secretário de Estado da Presidência do Conselho de Ministros
-- Ministro de Estado e das Finanças
-- Ministro da Educação
-- Ministro da Presidência
-- Governo XV
-- Ministro da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:275828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389628:por
+  label: "Exonerado o Prof. Doutor Pedro Augusto Lynce de Faria pelo DEC.51-A/2003.06.10.2003.PR, DR.IS-A [231-Supl] de 06.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-a-2003-389628
+  date: '2002-04-06'
+- type: amended_by
+  target: pt:dre:552568:por
+  label: "Exonerado o embaixador António Manuel de Mendonça Martins da Cruz nomeado pelo presente diploma, pelo DEC.51-D/2003.09.10.2003.PR,\
+    \ DR.IS-A [234-Supl] de 09.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-d-2003-552568
+  date: '2002-04-06'
+- type: amended_by
+  target: pt:dre:668305:por
+  label: "Exonerados o Prof. Doutor Luís Francisco Valente de Oliveira e o Dr. Isaltino Afonso de Morais, respectivamente,\
+    \ dos cargos de Ministro das Obras Públicas, Transportes e Habitação e Ministro das Cidades, Ordenamento do Território\
+    \ e Ambiente, pelo DEC.23-A/2003.2003.04.05.PR DR.IS-A [81]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-a-2003-668305
+  date: '2003-04-05'
+- type: amended_by
+  target: pt:dre:275828:por
+  label: "Demitido o Governo, por efeito da aceitação do pedido de demissão do Primeiro-Ministro Dr. José Manuel Durão Barroso,\
+    \ pelo DEC.32-A/2004.06.07.2004.PR, DR.IS-A [157-Supl] de 06.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-a-2004-275828
+  date: '2004-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:19Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +144,7 @@ validation:
 
 de 6 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -159,12 +184,12 @@ O Dr. Isaltino Afonso de Morais Ministro das Cidades, Ordenamento do Território
 
 O Dr. Domingos Manuel Martins Jerónimo Secretário de Estado da Presidência do Conselho de Ministros.
 
-**Assinado em 6 de Abril de 2002.**
+Assinado em 6 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2002.**
+Referendado em 6 de Abril de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01400/0018300185.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2024/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2024-837135336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74637750ff62874b5ce8d6dca27fbd5ae6ed457cfa974da848271ee75fb442ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cad66a2efd49d31448c8d7e24887ab18e8b725fb435ac954c83b9aa3a415c046
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Municípios
+- Autarquia Local
 - Cartografia
 - Ordenamento do Território
+- Plano Director Intermunicipal
 - Plano Director Municipal
-- Sistema Nacional de Informação Geográfica
 - Política de Solos
 - Prorrogação de Prazo
 - Regime Jurídico
-- Autarquia Local
-- Plano Director Intermunicipal
+- Sistema Nacional de Informação Geográfica
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:80/2015
+  label: Altera, a partir de 20 de janeiro de 2024, o artigo 199.º (com efeitos a 31 de dezembro de 2023) do Decreto-Lei n.º
+    80/2015, de 14 de maio, Diário da República n.º 93/2015, Série I, e determina transitóriamente nos termos do disposto
+    do artigo 3.º, que o previsto no artigo 199.º, daquele diploma, na sua redacção atual, é aplicável aos procedimentos pendentes
+    de elaboração, alteração ou revisão de planos municipais ou intermunicipais
+  source: null
+  date: '2015-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/2021/03/29/p/dre
   label: null
@@ -101,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/277/2015/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/277/2015/09/10/p/dre
+- type: cites
+  target: pt:dre:144454578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160422285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185838982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241308:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:51Z'
   warnings: []
   errors: []
 ---
@@ -179,12 +211,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de dezembro de 2023. - António Luís Santos da Costa - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 12 de janeiro de 2024.**
+Promulgado em 12 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de janeiro de 2024.**
+Referendado em 15 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117253035

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2000/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2000-319932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f35da0d6fecf915d58418e0b466042457ec3d971379ce05f5e281750c61f2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74e00330292921c1b1d1edd3fb9548578ed9c8c62d67dc4b7f7701e46c930f1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,9 +72,9 @@ subjects:
 - Cremação de Cadáver
 - Exumação de Cadáver
 - Inumação de Cadáver
+- Óbito
 - Regime Jurídico
 - Remoção de Cadáver
-- Óbito
 - Transporte de Cadáver
 - Trasladação de Cadáver
 relationships:
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/2000/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2000/01/29/p/dre
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405936:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:19Z'
   warnings: []
   errors: []
 ---
@@ -132,12 +140,12 @@ Os n.os 1 e 5 do artigo 8.º do [Decreto-Lei n.º 411/98](https://diariodarepubl
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2000. - António Manuel de Oliveira Guterres. - Fernando Manuel dos Santos Gomes. - Jorge Paulo Sacadura Almeida Coelho. - Fernando Manuel dos Santos Gomes. - Joaquim Augusto Nunes Pina Moura. - António Luís Santos Costa. - Elisa Maria da Costa Guimarães Ferreira. - Maria Manuela de Brito Arcanjo Marques da Costa. - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 30 de Junho de 2000.**
+Promulgado em 30 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2000.**
+Referendado em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

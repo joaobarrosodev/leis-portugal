@@ -48,40 +48,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b5d2d53af1766a4fd934e6105848eb1c223d57993112f3af93b47f4336f5d51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45f8fdd396aa5213a6bf77057a0500c656983680428af5931780f78a487431f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Investigador
+- Ministério da Agricultura e Pescas
+- Pessoal Administrativo
+- Pessoal Agrícola
+- Pessoal Auxiliar
+- Pessoal de Informática
+- Pessoal de Inspecção
+- Pessoal Dirigente
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Auxiliar
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Rectificação de Numero de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:468672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365511:por
+  label: "Alterado o mapa anexo ao presente diploma pelo DR.57/79.24.09.1979.PCM, DR.IS [221] de 24.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/57-1979-365511
+  date: '1979-09-24'
+- type: amended_by
+  target: pt:dre:578294:por
+  label: "Alterado o quadro de pessoal do Ministério da Agricultura e Pescas e da Reforma Administrativa, constante do presente\
+    \ diploma, pela PORT.502/81.22.06.1981.MFP, DR.IS [140] de 22.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/502-1981-578294
+  date: '1981-06-22'
+- type: amended_by
+  target: pt:dre:580366:por
+  label: "Alterado o quadro de pessoal, constante do presente diploma pela PORT.554/81.04.07.1981.MFP, DR.IS [151] de 04.07.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1981-580366
+  date: '1981-07-04'
+- type: amended_by
+  target: pt:dre:580370:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pela PORT.553/81.04.07.1981.MFP, DR.IS [151] de 04.07.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1981-580370
+  date: '1981-07-04'
+- type: amended_by
+  target: pt:dre:580284:por
+  label: "Criado um lugar de engenheiro assessor no quadro de pessoal constante do presente diploma, pela PORT.577/81.09.07.1981.MFP,\
+    \ DR.IS [155] de 09.07.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-1981-580284
+  date: '1981-07-09'
+- type: amended_by
+  target: pt:dre:576350:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pela PORT.687/81.12.08.1981.MFP, DR.IS [184] de 12.08.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/687-1981-576350
+  date: '1981-08-12'
+- type: amended_by
+  target: pt:dre:575913:por
+  label: "Criado um lugar de engenheiro assessor no quadro de pessoal constante do presente diploma, pela PORT.713/81.21.08.1981.MFP,\
+    \ DR.IS [191] de 21.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/713-1981-575913
+  date: '1981-08-21'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447692:por
+  label: Rectificado pela DECL.DD7643.23.03.1978.PCM, DR.IS [69] de 23.03.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-447692
+  date: '1978-03-23'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:56Z'
   warnings: []
   errors: []
 ---
@@ -422,14 +486,14 @@ Este diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 15 de Novembro de 1977.**
+Promulgado em 15 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/27400/28202831.pdf))](https://files.diariodarepublica.pt/1s/1977/11/27400/28202831.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/27400/28202831.pdf)
 
-**O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.**
+O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.

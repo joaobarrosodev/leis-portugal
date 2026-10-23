@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(4) a 72-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-b-1985-162789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d22d8a51b46fad7683c1af8473f989c9238ea599237b8120fee553a6a9dbae15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec96bb17f8174d78c9fadd2b7141ee813f5f61dbe2de28ff3b9dcad61d160a0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:249494:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605807:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:144049:por
+  label: Rectificado pela DECL.DD4774.25.01.1985.PCM, DR.IS [26]2ºSupl de 31.01.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-144049
+  date: '1985-01-25'
+- type: repealed_by
+  target: pt:dre:249494:por
+  label: "Revogado pelo DN.113/85.23.11.1985.MIC, DR.IS [270]Supl de 23.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/113-1985-249494
+  date: '1985-11-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:36Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +118,7 @@ Ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 329-A/74](https://diar
 
 1.º Os preço máximos de venda ao público de pão de trigo fabricado com farinha dos tipos 75, 95 e 115, nos locais mencionados no artigo 1.º do Regulamento do Comércio do Pão e Produtos Afins, aprovado pelo [Decreto-Lei n.º 302/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1972-605807), de 14 de Agosto, com exclusão do domicílio, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf)
 
 2.º Na venda ao domicílio poderão acrescer aos preços máximos fixados no número anterior as seguintes importâncias:
 
@@ -122,7 +150,7 @@ Por cada unidade de 400 g e múltiplos de 400 g ... 1$50
 
 Preços máximos de venda ao público do pão de trigo do tipo 75 com o peso nominal de 45 g
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00040005.pdf)
 
 4.º O presente diploma aplica-se apenas no território do continente.
 

@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1984-660902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 067162b566e6af9351230baf6c12927e13387b517359c098f1b3311816947594
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18f5651fafc923caab4194f8fef6f707b2828ecf2cd4c485fb03a53bdcdfa006
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colégio Internato dos Carvalhos
+- Ensino Particular
+- Ensino Técnico Profissional
+- Pedagogia Moderna
+- Plano de Estudos
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 77, 2 SUPLEMENTO, DE 31/3/84. ALTERADOS OS PLANOS DE ESTUDOS,
+    PUBLICADOS EM ANEXO, PELO DESPACHO NORMATIVO 196/92, PUBLICADO NO DR.IS-B, 239, DE 921016.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:226437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221277:por
+  label: Alterados o plano curricular e respectiva carga horária dos cursos complementares técnico-profissionais de técnico
+    de electrónica, de técnico de electrotecnia pelo(a) Despacho Normativo n.º 107/86 - Diário da República n.º 282/1986,
+    Série I de 1986-12-09, confome o disposto nos seus anexos I e II, e mantidas em vigor as restantes disposições do presente
+    diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/107-1986-221277
+  date: '1986-12-09'
+- type: cites
+  target: pt:dre:398556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631472:por
+  label: Rectificado pela DECL.DD2364.1984.03.14.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631472
+  date: '1984-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:20Z'
   warnings: []
   errors: []
 ---
@@ -149,14 +184,14 @@ f) Emissão de diplomas e certificados de matrícula, de aproveitamento e de hab
 
 Ministério da Educação, 13 de Janeiro de 1984. - O Ministro da Educação, José Augusto Seabra.
 
-## Anexo I ao Despacho Normativo n.º 25/84
+Anexo I ao Despacho Normativo n.º 25/84
 
 Curso de técnico de electrotecnia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02500/03280330.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02500/03280330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02500/03280330.pdf)
 
-## Anexo II ao Despacho Normativo n.º 25/84
+Anexo II ao Despacho Normativo n.º 25/84
 
 Curso de técnico de electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02500/03280330.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02500/03280330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02500/03280330.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/238/2009/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2009-490254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32bd63a4c5a724a04a47691f36919626e05e3c72c7ecbd06ad44b5745593cfa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d5076a6d86dde2e01aff5bebf42087bbdbd86f5163b73820638c23b670d1322
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
 - Aposentação Voluntária
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Estatuto da Aposentação
-- Caixa Geral de Aposentações
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Reforma
 - Regime Geral da Segurança Social
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 43º do Estatuto da Aposentação, aprovado pelo Dec Lei 498/72 de 09-dez, alterado pelo\
+    \ presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterados, a partir de 29.06.2019 e nos termos do art. 210.º, os 34.º e 43.º do Estatuto da Aposentação, aprovado
+    pelo Dec Lei 498/72, de 09-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República
+    n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:123930786:por
+  label: Alterado, a partir de 18.08.2019 e com efeitos a 01.10.2019, o art. 39.º, na redação do presente diploma, do Estatuto
+    da Aposentação, aprovado pelo Dec Lei 498/72, de 9-dez, pelo(a) Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019,
+    Série I de 2019-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2019-123930786
+  date: '2019-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
@@ -91,16 +111,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52/2007/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52/2007/08/31/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:04Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +171,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +191,9 @@ c) ...
 
 8 - Se o despacho do pedido de aposentação não for proferido até à data indicada pelo subscritor como sendo aquela em que pretende aposentar-se, pode este solicitar à CGA que a situação a considerar na sua aposentação seja a existente à data desse despacho.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - O regime da aposentação voluntária que não dependa de verificação de incapacidade fixa-se com base:
 
@@ -185,12 +221,12 @@ c) Se profira decisão que imponha pena expulsiva ou se prefira condenação pen
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

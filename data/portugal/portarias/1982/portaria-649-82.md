@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/14700/19051906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1982-395511
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4da6541d8a7babffafbbdebcc3e5d5d2b9936e0995e29d1977fc109a1afdd0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bc73e7cdc1dff97b1f61e84afa756add9f179f3850c8ea068a435c9fb3ad4d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Náutica Infante Dom Henrique
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:322509:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401063:por
+  label: "Dada nova redacção ao n.º 20 da parte V do anexo Q do Regulamento aprovado pelo Dec 348/72, de 05-Set, substituído\
+    \ pelo presente diploma, pela PORT.875/84.24.11.1984.MM, DR.IS [273] de 24.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-1984-401063
+  date: '1984-11-24'
+- type: amended_by
+  target: pt:dre:180667:por
+  label: "Substituído o anexo Q do Regulamento aprovado pelo Dec 348/72, de 05-Set, na redacção do presente diploma, pela\
+    \ PORT.619/85.19.08.1985.MM, DR.IS [189] de 19.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-1985-180667
+  date: '1985-08-19'
+- type: cites
+  target: pt:dre:312408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322509:por
+  label: "Revogada pelo DEC LEI.458-A/85.31.10.1985.MM, DR.IS [251]Supl de 31.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-a-1985-322509
+  date: '1985-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:21:42Z'
   warnings: []
   errors: []
 ---
@@ -196,4 +227,4 @@ V - Vagas de ordenação dos candidatos
 
 21 - Podem igualmente ser admitidos extra numerus clausus inscritos marítimos da categoria da mestrança e marinhagem, com um mínimo de 24 meses de embarque, desde que satisfaçam às condições de admissão estabelecidas neste anexo.
 
-**O Secretário de Estado dos Transportes Exteriores e Comunicações, José da Silva Domingos.**
+O Secretário de Estado dos Transportes Exteriores e Comunicações, José da Silva Domingos.

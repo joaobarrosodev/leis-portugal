@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/01500/05530560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2007/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2007-522631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 072255980fb348758d24d3158172c731a51f1878d56ed0ac7a171c7b63bb30b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb82c3ad39c3b9a948000c90bfb476a697ae3cabec2b08613ebe1abd1eea02c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Turismo
-- Formação Profissional
-- Investigação Científica e Tecnológica
 - Contra-ordenação
 - Definição de Competências
 - Divulgação Cultural
 - Fiscalização
+- Formação Profissional
 - Instituto do Desporto de Portugal
+- Investigação Científica e Tecnológica
 - Licenciamento
 - Mergulhador
 - Mergulho
 - Prestação de Serviços
 - Regime Jurídico
 - Sanção
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:259882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643102:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:259882:por
+  label: "Revogado, a partir de 18.06.2013, pela LEI.24/2013.20.03.2013.AR, DR.IS [56] de 20.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-2013-259882
+  date: '2013-03-20'
 article_structure:
   article_count: 47
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:59Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +240,9 @@ d) Um instrumento que, durante a imersão, permita aos utilizadores verificar a 
 
 2 - Para efeitos de fiscalização, o mergulhador deve fazer-se acompanhar, até ao local onde se equipa, do documento referido no número anterior.
 
-###### Artigo 11.º — Título nacional de mergulho
+###### Artigo 11.º
+
+## Título nacional de mergulho
 
 1 - O título nacional de mergulho consiste num documento de identificação pessoal que contém a certificação para exercer o mergulho e as actividades associadas, de acordo com os níveis oficiais de mergulhador e instrutor.
 
@@ -649,12 +664,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 4 de Janeiro de 2007.**
+Promulgado em 4 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Janeiro de 2007.**
+Referendado em 8 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

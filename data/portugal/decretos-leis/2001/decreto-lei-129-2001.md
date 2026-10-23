@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/091a00/22722277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2001/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2001-163641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f653058d841b985edb69ca6d034d59cd1dae7a8de5d639d59805e0e9eed62d1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b00d308a45eb8e3dc4b29ccef05c4dc11cbb11bc5a3110e70b92541981cc6809
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,30 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Ministério da Justiça
 - Orgânica
-- Quadro de Pessoal
+- Pessoal Dirigente
 - Proteção Social
+- Quadro de Pessoal
 - Serviços Sociais
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:521014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521014:por
+  label: "Determinada a sucessão da Secretaria-Geral do MJ nas atribuições respeitantes ao subsistema de saúde da jutiça e\
+    \ à organização da acção social complementar para os beneficiários daquele subsistema dos Serviços Sociais do Ministério\
+    \ da Justiça (que se extingue), cujas atribuições constam do presente diploma, que é revogado, com excepção do disposto\
+    \ no seu art. 24º, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, a partir de 01.05.2007, pelo DR.50/2007.27.04.2007.MJ,\
+    \ DR.IS [82] de 27.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-2007-521014
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -106,16 +115,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/171/2000/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/171/2000/03/23/p/dre
+- type: cites
+  target: pt:dre:168055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491205:por
+  label: "Revogado o art. 3º e a al. b) do nº 1 do art. 20º(a revogação do nº 2 do art. 3º e a al. b) do nº 1 do art. 20º,\
+    \ só produz efeitos a partir de 01.07.2006), do presente diploma, pelo DEC LEI.212/2005.09.12.2005.MJ, DR.IS-A [235] de\
+    \ 09.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2005-491205
+  date: '2005-12-09'
+- type: repealed_by
+  target: pt:dre:520995:por
+  label: "Revogado, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, e determinado\
+    \ que os Serviços Sociais da Administração Pública sucedam nos termos do n.º 1 do artigo 12.º, nas atribuições dos Serviços\
+    \ Sociais do Ministério da Justiça, no tocante aos trabalhadores não abrangidos pelo sistema de saúde da Justiça, cuja\
+    \ orgânica foi aprovada pelo presente diploma, pelo DR.49/2007.27.04.2007.MFAP, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2007-520995
+  date: '2007-04-27'
 article_structure:
   article_count: 28
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:18Z'
   warnings: []
   errors: []
 ---
@@ -632,15 +696,15 @@ São revogados os Decretos-Leis n.os 47210, de 22 de Setembro de 1966, e 235-B/8
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 30 de Março de 2001.**
+Promulgado em 30 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2001.**
+Referendado em 5 de Abril de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro do pessoal dirigente
 

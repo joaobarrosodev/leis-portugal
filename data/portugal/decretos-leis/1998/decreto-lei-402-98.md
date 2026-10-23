@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/402/1998/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1998-191550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d1516a2adc957aa2fc664701bb5a0fcaf7b94c4b3916aeafa1eb8b0fa171bf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f82cb69fe1be4ad9cea869f3b133df35889b822d0a88d3e80118225c75a50529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/149/1998/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/149/1998/05/25/p/dre
+- type: cites
+  target: pt:dre:457224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:138784:por
+  label: "Revogado o art. 32º do Dec Lei 149/98 de 25-Mai na redacção do presente diploma, pelo DEC LEI.109/99.1999.03.31.MC,\
+    \ DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1999-138784
+  date: '1999-03-31'
+- type: repealed_by
+  target: pt:dre:660295:por
+  label: "Revogado pelo DEC LEI.181/2003.2003.08.16.MC DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2003-660295
+  date: '2003-08-16'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:28Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +138,9 @@ Os artigos 26.º e 32.º do [Decreto-Lei n.º 149/98](https://diariodarepublica.
 
 4 - Podem transitar, igualmente, para o quadro do pessoal do IPAE os funcionários do extinto IAC, bem como, precedendo requerimento, o pessoal nele requisitado ou destacado, que, em ambos os casos, nele desempenhavam funções no âmbito das artes do espectáculo.
 
-###### Artigo 32.º — Teatro Politeama
+Artigo 32.º
+
+Teatro Politeama
 
 O IPAE sucede ao IAC em todos os direitos e obrigações decorrentes do contrato atípico de fomento cultural para a disponibilização do Teatro Politeama, celebrado em 23 de Julho de 1992 entre o TNDM II e os proprietários daquele Teatro.»
 
@@ -133,12 +150,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 25 de Novembro de 1998.**
+Promulgado em 25 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Dezembro de 1998.**
+Referendado em 3 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

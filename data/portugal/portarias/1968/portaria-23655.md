@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23655-1968-264096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edf2497482c0f99017fcc57743c8fa5ccad5d6bbd52ceaeafe61ec1ae31b3c4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8545870284f47e6915e01ca3985eaa2e5e614a444e9a12caa22fa63122f645d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:40Z'
   warnings: []
   errors: []
 ---
@@ -88,22 +88,22 @@ Ministério da Educação Nacional, 14 de Outubro de 1968. - pelo Ministro da Ed
 
 Regulamento dos Prémios Universitários do Papa Paulo VI
 
-###### Artigo 1.º Os prémios universitários do papa Paulo VI são instituídos pela Cidla, Combustíveis Industriais e Domésticos, S. A. R. L., em recordação da visita a Fátima de Sua Santidade o Papa Paulo VI, e destinam-se a galardoar anualmente os melhores trabalhos escolares apresentados no Instituto Superior de Ciências Sociais e Política Ultramarina, da Universidade Técnica de Lisboa, sobre quaisquer temas de promoção social e de política missionária portuguesa no ultramar ou no estrangeiro.
+Artigo 1.º Os prémios universitários do papa Paulo VI são instituídos pela Cidla, Combustíveis Industriais e Domésticos, S. A. R. L., em recordação da visita a Fátima de Sua Santidade o Papa Paulo VI, e destinam-se a galardoar anualmente os melhores trabalhos escolares apresentados no Instituto Superior de Ciências Sociais e Política Ultramarina, da Universidade Técnica de Lisboa, sobre quaisquer temas de promoção social e de política missionária portuguesa no ultramar ou no estrangeiro.
 
 § 1.º A cada um dos dois assuntos indicados no corpo deste artigo corresponderá um prémio.
 
 § 2.º Os prémios são de 12500$00 cada um.
 
-###### Art. 2.º Para os fins do artigo anterior, o ano escolar considera-se findo depois de concluídos os exames da última época.
+Art. 2.º Para os fins do artigo anterior, o ano escolar considera-se findo depois de concluídos os exames da última época.
 
-###### Art. 3.º A instituidora dos prémios porá o montante anual dos mesmos à disposição do Instituto em Novembro de cada ano.
+Art. 3.º A instituidora dos prémios porá o montante anual dos mesmos à disposição do Instituto em Novembro de cada ano.
 
-###### Art. 4.º Os prémios serão atribuídos por maioria de votos dos professores catedráticos que tomarem parte em conselho escolar expressamente convocado para esse fim.
+Art. 4.º Os prémios serão atribuídos por maioria de votos dos professores catedráticos que tomarem parte em conselho escolar expressamente convocado para esse fim.
 
 § 1.º O conselho escolar deliberará com base em relatório apresentado por uma comissão de dois professores catedráticos que o conselho designará na primeira reunião que efectuar no mês de Novembro de cada ano.
 
 § 2.º O conselho escolar poderá decidir não atribuir os prémios, ou algum deles, por falta de suficiente mérito dos trabalhos apresentados. Neste caso, o montante do prémio ou prémios não atribuídos transitará para o ano seguinte, no qual poderão ser atribuídos tantos prémios quantas as fracções de 12500$00 disponíveis.
 
-###### Art. 5.º Os prémios serão entregues em sessão pública pelo reitor da Universidade Técnica ou por um seu representante expressamente nomeado para o efeito.
+Art. 5.º Os prémios serão entregues em sessão pública pelo reitor da Universidade Técnica ou por um seu representante expressamente nomeado para o efeito.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 14 de Outubro de 1968. - O Director-Geral, João Alexandre Ferreira de Almeida.

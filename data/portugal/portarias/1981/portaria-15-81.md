@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-1981-570320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1afc003d11ecd4f4d6022f3f043a503281157a5e8eb74ce68800d71b7c766b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18cdfeb86a1ce324add4a7649698e7b4ce0b3127efa8e804900869e59ae52687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Preparatório
+- Escola de Educadores de Infância
+- Pessoal Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:309887:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567888:por
+  label: "Integrados os contínuos, motoristas, pedreiros, carpinteiros, electricistas, cozinheiros e ajudantes de cozinha\
+    \ da Escola Secundária de D.Dinis (Paiã) no quadro de pessoal criado neste diploma pelo DEC LEI.327/81.04.12.1981.MAI,\
+    \ DR.IS [279] de 04.12.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1981-567888
+  date: '1981-12-04'
+- type: amended_by
+  target: pt:dre:309887:por
+  label: "Alterado o quadro de pessoal auxiliar pela PORT.257/83.1983.03.07.MFP DR.IS [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-1983-309887
+  date: '1983-03-07'
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:391176:por
+  label: Rectificada pela DECL.DD6340.04.02.1981.PCM, DR.IS [43] de 20.02.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-391176
+  date: '1981-02-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:49Z'
   warnings: []
   errors: []
 ---
@@ -101,16 +127,16 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 MAPA N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf))](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
 
 MAPA N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf))](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
 
 MAPA N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf))](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
 
 MAPA N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf))](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/00600/00290044.pdf)

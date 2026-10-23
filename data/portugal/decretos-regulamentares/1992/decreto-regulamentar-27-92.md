@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/27/1992/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1992-217694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 784dd6c0674573ef0195c81d90c82b31cb688ddc19a9cf872d6705c6d3d337dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8ab5c338dd2a67d57d3ea196ec44ed85e05d68a33ae8ec8ac2d6ed424bf31e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,33 @@ subjects:
 - Pessoal Auxiliar
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:04Z'
   warnings: []
   errors: []
 ---
@@ -102,30 +118,30 @@ Assim:
 
 Ao abrigo do disposto no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São extintos os lugares dos quadros de pessoal auxiliar dos serviços e estabelecimentos oficiais dependentes do membro do Governo responsável pela área da segurança social cujas designações não sejam enquadráveis no elenco das categorias de pessoal auxiliar constante do artigo 1.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro.
+Artigo 1.º - 1 - São extintos os lugares dos quadros de pessoal auxiliar dos serviços e estabelecimentos oficiais dependentes do membro do Governo responsável pela área da segurança social cujas designações não sejam enquadráveis no elenco das categorias de pessoal auxiliar constante do artigo 1.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro.
 
 2 - São automaticamente criados nos respectivos quadros de pessoal e nas categorias previstas no mencionado decreto regulamentar, com as adaptações constantes do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, os lugares necessários ao reposicionamento dos funcionários abrangidos pelo disposto no número anterior e os decorrentes dos lugares vagos na categoria de servente.
 
-###### Art. 2.º - 1 - Aos funcionários que não foram objecto da transição prevista no n.º 1 do artigo 14.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, e que transitarem para os lugares criados nos termos do artigo anterior conta-se todo o tempo de serviço prestado em instituições oficiais do Estado como prestado na carreira em que vão ser integrados, de acordo com o disposto na alínea c) do n.º 1 do artigo 14.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro.
+Art. 2.º - 1 - Aos funcionários que não foram objecto da transição prevista no n.º 1 do artigo 14.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, e que transitarem para os lugares criados nos termos do artigo anterior conta-se todo o tempo de serviço prestado em instituições oficiais do Estado como prestado na carreira em que vão ser integrados, de acordo com o disposto na alínea c) do n.º 1 do artigo 14.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro.
 
 2 - O tempo de serviço prestado na categoria de servente dos funcionários nomeados posteriormente à data da aplicação do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, é contado para todos os efeitos legais como prestado na carreira para que se operar a transição.
 
-###### Art. 3.º Os funcionários que beneficiarem na transição prevista no artigo 14.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, com restrição dos princípios nele consignados, são reposicionados, contando-se-lhes todo o tempo de serviço prestado em instituições oficiais do Estado como prestado na carreira em que foram integrados.
+Art. 3.º Os funcionários que beneficiarem na transição prevista no artigo 14.º do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, com restrição dos princípios nele consignados, são reposicionados, contando-se-lhes todo o tempo de serviço prestado em instituições oficiais do Estado como prestado na carreira em que foram integrados.
 
-###### Art. 4.º A alteração dos quadros de pessoal decorrente da aplicação do presente diploma efectua-se mediante portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
+Art. 4.º A alteração dos quadros de pessoal decorrente da aplicação do presente diploma efectua-se mediante portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
 
-###### Art. 5.º Os efeitos de natureza remuneratória decorrentes da aplicação deste diploma reportam-se a 14 de Fevereiro de 1983.
+Art. 5.º Os efeitos de natureza remuneratória decorrentes da aplicação deste diploma reportam-se a 14 de Fevereiro de 1983.
 
 Presidência do Conselho de Ministros, 27 de Julho de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Outubro de 1992.**
+Promulgado em 6 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Outubro de 1992.**
+Referendado em 9 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

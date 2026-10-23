@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 43/1980, 1º Suplemento, Série I de 1980-02-21
   number: '43'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 184-(2) a 184-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1980-628058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:06:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c6fc98b86598051b18b87fac95ec6a0d3b5eac90f1568207ad487292d68e533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 630216e073c6906d7c05c1b3c2a44e3fbc179c3e0a5bba5daa9c15659b4d209b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:06:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centeio
+- Cereal
+- Farinha
+- Fixação de Preços
+- Milho
+- Preço
+- Preço de Venda
+- Sorgo
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:275655:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275654:por
+  label: Revogados, a partir de 09.04.1981, os n.os 6.º e 7.º pelo(a) Despacho Normativo n.º 109-A/81 - Diário da República
+    n.º 80/1981, 1º Suplemento, Série I de 1981-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/109-a-1981-275654
+  date: '1981-04-06'
+- type: repealed_by
+  target: pt:dre:275655:por
+  label: Revogado, a partir de 09.04.1981, pelo(a) Despacho Normativo n.º 109-B/81 - Diário da República n.º 80/1981, 1º Suplemento,
+    Série I de 1981-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/109-b-1981-275655
+  date: '1981-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:06:17Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +136,7 @@ Trigo
 
 1.º Os preços de venda do trigo mole e rijo da classe C são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf))](https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf)
 
 2.º O preço da tonelada de trigo de peso inferior a 73 kg por hectolitro é reduzido de 27$30 por cada quilograma a menos.
 
@@ -107,7 +148,7 @@ Centeio
 
 4.º Os preços de venda do centeio destinado à produção de farinhas são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf))](https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/04301/00020003.pdf)
 
 5.º O preço da tonelada de centeio de peso inferior a 70 kg por hectolitro é reduzido de 24$00 por cada quilograma a menos.
 

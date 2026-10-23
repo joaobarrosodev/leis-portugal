@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2013/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2013-496766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 249788bbd0e8c974f53b0893b529334a01f6bbc1e28064fcf2f8250a6bf4677f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4f85aba8a98645473c728044a02b0057ad730037575072dfd901ba9d15a073b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Autoridade Tributária e Aduaneira
-- Investigação Científica e Tecnológica
-- Contabilidade
-- Código do IRC
-- Política Fiscal
-- Definição de Competências
-- Estatuto dos Benefícios Fiscais
 - Apoio ao Investimento
-- Ministério da Economia e do Emprego
-- Contribuições e Impostos
-- Incentivos Fiscais
-- Investimento
-- Lei Geral Tributária
-- Política de Investigação e Desenvolvimento
-- IRC
+- Autoridade Tributária e Aduaneira
+- Benefícios Fiscais
+- Código do IRC
 - Código Fiscal do Investimento
 - Conselho Interministerial de Coordenação dos Incentivos Fiscais ao Investimento
-- Benefícios Fiscais
+- Contabilidade
+- Contribuições e Impostos
+- Definição de Competências
+- Estatuto dos Benefícios Fiscais
+- Incentivos Fiscais
+- Investigação Científica e Tecnológica
+- Investimento
+- IRC
+- Lei Geral Tributária
+- Ministério da Economia e do Emprego
+- Política de Investigação e Desenvolvimento
+- Política Fiscal
 - Sifide
 relationships:
 - type: amended_by
   target: pt:dre:108051987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados os arts. 1.º, 33.º, 35.º, 36.º e 38.º e revogados o art. 22.º e os n.os 4 do art. 35.º e 6 do art. 36.º\
+    \ do Código Fiscal do Investimento aprovado em anexo ao Dec Lei 249/2009 de 23-set, republicado pelo presente diploma,\
+    \ pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 92.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:58683382:por
+  label: Alterado o art. 92.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas aprovado pelo Dec Lei 442-B/88
+    de 30-nov, na redação do presente diploma, pelo(a) Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série
+    I de 2014-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2014-58683382
+  date: '2014-10-31'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 68.º da Lei Geral Tributária (LGT), aprovada em anexo ao Dec Lei 398/98, de 17-dez na versão republicada
+    pela Lei 15/2001, de 05-jun, na redação do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016,
+    Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:108051987:por
+  label: Alterado, com efeitos a 01.01.2017, o art. 68.º da Lei Geral Tributária (LGT) aprovada pelo Dec Lei 398/98 de 17-dez,
+    na versão republicada da LGT pela Lei 15/2001 de 05-jun, na redação do presente diploma, pelo(a) Lei n.º 98/2017 - Diário
+    da República n.º 163/2017, Série I de 2017-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2017-108051987
+  date: '2017-08-24'
 - type: cites
   target: celex:32008R0800
   label: null
@@ -98,16 +132,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: repealed_by
+  target: pt:dre:58683382:por
+  label: Revogado, a partir de 05.11.2014, o Código Fiscal do Investimento aprovado pelo Dec Lei 249/2009 de 23-set, na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2014-58683382
+  date: '2014-10-31'
 article_structure:
-  article_count: 62
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:58Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +220,9 @@ d) [...];
 
 e) O regime fiscal de apoio ao investimento (RFAI), previsto no Código Fiscal do Investimento.
 
-###### Artigo 4.º — Alteração ao Código Fiscal do Investimento
+Artigo 4.º
+
+Alteração ao Código Fiscal do Investimento
 
 Os artigos 5.º e 9.º do Código Fiscal do Investimento, aprovado em anexo ao Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio, passam a ter a seguinte redação:
 
@@ -204,7 +246,9 @@ d) [Revogada].
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -216,7 +260,9 @@ d) [Revogada].
 
 5 - A aprovação dos contratos ou de aditamentos aos contratos, nos termos dos números anteriores, deve ocorrer no prazo de 60 dias úteis a contar da data da pronúncia prevista no n.º 6 do artigo anterior.»
 
-###### Artigo 5.º — Aditamento ao Código do Fiscal do Investimento
+Artigo 5.º
+
+Aditamento ao Código do Fiscal do Investimento
 
 São aditados ao Código Fiscal do Investimento, aprovado em anexo ao Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio, os artigos 26.º a 40.º, com a seguinte redação:
 
@@ -226,7 +272,9 @@ Regime Fiscal de Apoio ao Investimento
 
 O regime fiscal de apoio ao investimento (RFAI), que prevê um sistema específico de incentivos fiscais ao investimento em determinados sectores de atividade, respeita o Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto, que declara certas categorias de auxílios compatíveis com o mercado comum, em aplicação dos artigos 87.º e 88.º do Tratado ('Regulamento geral de isenção por categoria').
 
-###### Artigo 27.º — Âmbito de aplicação e definições
+Artigo 27.º
+
+Âmbito de aplicação e definições
 
 1 - O RFAI é aplicável aos sujeitos passivos de IRC que exerçam, a título principal, uma atividade nos sectores agrícola, florestal, agroindustrial e turístico e ainda da indústria extrativa ou transformadora, com exceção dos sectores siderúrgico, da construção naval e das fibras sintéticas, tal como definidos no artigo 2.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto.
 
@@ -268,7 +316,9 @@ f) Efetuem investimento relevante que proporcione a criação de postos de traba
 
 6 - Para efeitos do número anterior, não se consideram as adições de ativos fixos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.
 
-###### Artigo 28.º — Incentivos fiscais
+Artigo 28.º
+
+Incentivos fiscais
 
 1 - Aos sujeitos passivos de IRC residentes em território português ou que aí possuam estabelecimento estável, que exerçam a título principal uma atividade de natureza comercial, industrial ou agrícola abrangida pelo n.º 1 do artigo anterior que efetuem, nos exercícios de 2013 a 2017, investimentos considerados relevantes, são concedidos os seguintes benefícios fiscais:
 
@@ -292,7 +342,9 @@ d) Isenção de imposto do selo relativamente às aquisições de prédios que c
 
 5 - O montante global dos incentivos fiscais concedidos nos termos dos números anteriores não pode exceder o valor que resultar da aplicação dos limites máximos aplicáveis ao investimento com finalidade regional, em vigor na região na qual o investimento seja efetuado, constantes do artigo 32.º
 
-###### Artigo 29.º — Obrigações acessórias
+Artigo 29.º
+
+Obrigações acessórias
 
 1 - A dedução prevista na alínea a) do n.º 1 do artigo anterior é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente os investimentos relevantes, o respetivo montante e outros elementos considerados relevantes.
 
@@ -300,19 +352,25 @@ d) Isenção de imposto do selo relativamente às aquisições de prédios que c
 
 3 - A contabilidade dos sujeitos passivos de IRC beneficiários do regime previsto no presente decreto-lei deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo anterior, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
 
-###### Artigo 30.º — Incumprimento
+Artigo 30.º
+
+Incumprimento
 
 No caso de incumprimento do disposto na alínea c) do n.º 3 do artigo 27.º, é adicionado ao IRC relativo ao período de tributação em que o sujeito passivo alienou os bens objeto do investimento o imposto que deixou de ser liquidado em virtude do presente regime, acrescido dos correspondentes juros compensatórios majorados em 10 pontos percentuais.
 
-###### Artigo 31.º — Exclusividade dos incentivos fiscais
+Artigo 31.º
+
+Exclusividade dos incentivos fiscais
 
 Os incentivos fiscais previstos no presente capítulo não são cumuláveis, relativamente ao mesmo investimento, com quaisquer outros benefícios fiscais da mesma natureza, automáticos ou contratuais, previstos neste ou noutros diplomas legais.
 
-###### Artigo 32.º — Limites máximos aplicáveis aos auxílios ao investimento com finalidade regional
+Artigo 32.º
+
+Limites máximos aplicáveis aos auxílios ao investimento com finalidade regional
 
 1 - Em conformidade com o mapa nacional dos auxílios estatais com finalidade regional para o período até 31 de dezembro de 2013, aprovado pela Comissão Europeia em 7 de julho de 2007, os limites máximos aplicáveis aos benefícios fiscais concedidos no âmbito do RFAI são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf)
 
 2 - Os limites previstos no número anterior são majorados em 10 pontos percentuais para as médias empresas e em 20 pontos percentuais para as pequenas empresas tal como definidas na recomendação da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas, publicada no Jornal Oficial da União Europeia, n.º L 124, de 20 de maio de 2003.
 
@@ -320,11 +378,15 @@ Os incentivos fiscais previstos no presente capítulo não são cumuláveis, rel
 
 4 - Os limites máximos aplicáveis aos investimentos realizados após 31 de dezembro de 2013 são fixados por portaria do membro do Governo responsável pela área das finanças, em conformidade com o mapa nacional dos auxílios estatais com finalidade regional.
 
-###### Artigo 33.º — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
+Artigo 33.º
+
+Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
 
 O sistema de incentivos fiscais em investigação e desenvolvimento empresarial II (SIFIDE II), a vigorar nos períodos de tributação de 2013 a 2015, o qual se processa nos termos dos artigos seguintes.
 
-###### Artigo 34.º — Conceitos
+Artigo 34.º
+
+Conceitos
 
 Para efeitos do disposto no SIFIDE II, consideram-se:
 
@@ -332,15 +394,17 @@ a) «Despesas de investigação» as realizadas pelo sujeito passivo de IRC com 
 
 b) «Despesas de desenvolvimento» as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico.
 
-###### Artigo 35.º — Despesas elegíveis
+Artigo 35.º
+
+Despesas elegíveis
 
 1 - Consideram-se dedutíveis as seguintes categorias de despesas, desde que se refiram a atividades de investigação e desenvolvimento, tal como definidas no artigo anterior:
 
-a) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de I&D;
+a) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de I&D
 
-b) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de I&D;
+b) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de I&D
 
-c) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D;
+c) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D
 
 d) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações diretamente envolvido em tarefas de I&D contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício;
 
@@ -350,9 +414,9 @@ f) Participação no capital de instituições de I&D e contributos para fundos 
 
 g) Custos com registo e manutenção de patentes;
 
-h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de I&D;
+h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de I&D
 
-i) Despesas com auditorias à I&D;
+i) Despesas com auditorias à I&D
 
 j) Despesas com ações de demonstração que decorram de projetos de I&D apoiados.
 
@@ -364,7 +428,9 @@ j) Despesas com ações de demonstração que decorram de projetos de I&D apoiad
 
 5 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 38.º
 
-###### Artigo 36.º — Âmbito da dedução
+Artigo 36.º
+
+Âmbito da dedução
 
 1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2013 e 31 de dezembro de 2015, numa dupla percentagem:
 
@@ -384,7 +450,9 @@ b) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele períod
 
 7 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.
 
-###### Artigo 37.º — Condições
+Artigo 37.º
+
+Condições
 
 Apenas podem beneficiar da dedução a que se refere o artigo anterior os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:
 
@@ -392,7 +460,9 @@ a) O seu lucro tributável não seja determinado por métodos indiretos;
 
 b) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições, ou tenham o seu pagamento devidamente assegurado.
 
-###### Artigo 38.º — Obrigações acessórias
+Artigo 38.º
+
+Obrigações acessórias
 
 1 - A dedução a que se refere o artigo 36.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou prova da apresentação do pedido de emissão dessa declaração, de que as atividades exercidas ou a exercer correspondem efetivamente a ações de investigação ou desenvolvimento, dos respetivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida por entidade nomeada por despacho do membro do Governo responsável pelas áreas da economia e do emprego, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 130.º do Código do IRC.
 
@@ -404,15 +474,21 @@ b) Não sejam devedores ao Estado e à segurança social de quaisquer impostos o
 
 5 - O Ministério da Economia e do Emprego, através da entidade a que se refere o n.º 1, comunica por via eletrónica à Autoridade Tributária e Aduaneira, até ao fim do mês de fevereiro de cada ano, a identificação dos beneficiários e do montante das despesas consideradas elegíveis reportadas ao ano anterior ao da comunicação.
 
-###### Artigo 39.º — Obrigações contabilísticas
+Artigo 39.º
+
+Obrigações contabilísticas
 
 A contabilidade dos sujeitos passivos de IRC beneficiários deste regime deve dar expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 36.º mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
 
-###### Artigo 40.º — Exclusividade do benefício
+Artigo 40.º
+
+Exclusividade do benefício
 
 A dedução a que se refere o artigo 36.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza, previstos neste ou noutros diplomas legais.»
 
-###### Artigo 6.º — Alteração à Lei Geral Tributária
+Artigo 6.º
+
+Alteração à Lei Geral Tributária
 
 O artigo 68.º da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, passa a ter a seguinte redação:
 
@@ -458,7 +534,9 @@ O artigo 68.º da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, 
 
 19 - [...].»
 
-###### Artigo 7.º — Alterações sistemáticas
+Artigo 7.º
+
+Alterações sistemáticas
 
 É aditada uma parte IV ao Código Fiscal do Investimento, aprovado em anexo ao Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio, com a designação «Outros benefícios fiscais ao investimento» e que integra:
 
@@ -466,7 +544,9 @@ a) Um capítulo I, com a designação «Regime Fiscal de Apoio ao Investimento»
 
 b) Um capítulo II, com a designação «Sistema de incentivos fiscais em investigação e desenvolvimento empresarial» e que compreende os artigos 33.º a 40.º.
 
-###### Artigo 8.º — Norma revogatória
+Artigo 8.º
+
+Norma revogatória
 
 São revogados:
 
@@ -476,43 +556,59 @@ b) O artigo 133.º da Lei n.º 55-A/2010, de 31 de dezembro;
 
 c) A alínea d) do n.º 2 do artigo 5.º do Código Fiscal do Investimento, aprovado em anexo ao Decreto-Lei n.º 249/2009, de 23 de setembro, alterado pela Lei n.º 20/2012, de 14 de maio.
 
-###### Artigo 9.º — Republicação
+Artigo 9.º
+
+Republicação
 
 1 - É republicado, em anexo, que faz parte integrante ao presente decreto-lei, o Código Fiscal do Investimento, aprovado em anexo ao Decreto-Lei n.º 249/2009, de 23 de setembro, com a redação atual.
 
 2 - Para efeitos de republicação, onde se lê: «portaria conjunta», «despacho conjunto», «AICEP», «IAPMEI», «DGAIEC» e «DGCI», deve ler-se: «portaria», «despacho», «AICEP, E.P.E.», «IAPMEI, I.P.» e «AT».
 
-###### Artigo 10.º — Entrada em vigor
+Artigo 10.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de maio de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 13 de junho de 2013.**
+Promulgado em 13 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de junho de 2013.**
+Referendado em 14 de junho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO — (a que se refere o artigo 9.º)
+ANEXO
+
+(a que se refere o artigo 9.º)
 
 Republicação do Decreto-Lei n.º 249/2009, de 23 de setembro
 
-## ANEXO — CÓDIGO FISCAL DO INVESTIMENTO
+ANEXO
 
-# PARTE I — Disposições gerais e comuns
+CÓDIGO FISCAL DO INVESTIMENTO
 
-### CAPÍTULO I — Objeto e âmbito
+PARTE I
 
-###### Artigo 1.º — Objeto
+Disposições gerais e comuns
+
+CAPÍTULO I
+
+Objeto e âmbito
+
+Artigo 1.º
+
+Objeto
 
 O presente Código Fiscal do Investimento, doravante designado por Código, procede à regulamentação dos benefícios fiscais contratuais, condicionados e temporários, suscetíveis de concessão ao abrigo do disposto no artigo 41.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, estabelecendo ainda o estatuto do investidor no caso de este ser um residente não habitual em território português.
 
-###### Artigo 2.º — Âmbito objetivo e temporal
+Artigo 2.º
+
+Âmbito objetivo e temporal
 
 1 - O regime de benefícios fiscais referido no artigo anterior aplica-se a projetos de investimento produtivo, tal como são caracterizados no capítulo I da parte II deste Código, bem como a projetos de investimento com vista à internacionalização, tal como são caracterizados no capítulo II da parte II deste Código, realizados até 31 de dezembro de 2020.
 
@@ -534,9 +630,13 @@ g) Ambiente, energia e telecomunicações.
 
 3 - Por portaria dos membros do Governo responsáveis pelas áreas da economia e das finanças são definidos os códigos de atividade económica (CAE) correspondentes às atividades referidas no número anterior.
 
-### CAPÍTULO II — Condições de elegibilidade comuns
+CAPÍTULO II
 
-###### Artigo 3.º — Condições subjetivas
+Condições de elegibilidade comuns
+
+Artigo 3.º
+
+Condições subjetivas
 
 1 - Os projetos de investimento são elegíveis quando:
 
@@ -558,15 +658,21 @@ f) A contribuição financeira dos promotores corresponda, pelo menos, a 25 % do
 
 4 - Para efeitos do disposto no número anterior, podem ser considerados capitais próprios os montantes de suprimentos ou empréstimos de sócios, desde que os mesmos venham a ser incluídos no capital social antes da assinatura do contrato referido no artigo 9.º
 
-###### Artigo 4.º — Condições objetivas
+Artigo 4.º
+
+Condições objetivas
 
 1 - São elegíveis os projetos de investimento cuja realização não se tenha iniciado à data da notificação da avaliação prévia, excetuando-se as despesas relativas aos estudos diretamente relacionados com o investimento, desde que realizados há menos de um ano.
 
 2 - Para efeitos do disposto no número anterior, considera-se que o início da realização do projeto de investimento se reporta à data da primeira fatura emitida às empresas promotoras, relativa a débitos efetuados pelos fornecedores no âmbito do projeto.
 
-### CAPÍTULO III — Procedimento comum
+CAPÍTULO III
 
-###### Artigo 5.º — Conselho Interministerial de Coordenação dos Incentivos Fiscais ao Investimento a conceder até 2020
+Procedimento comum
+
+Artigo 5.º
+
+Conselho Interministerial de Coordenação dos Incentivos Fiscais ao Investimento a conceder até 2020
 
 1 - O Conselho Interministerial de Coordenação dos Incentivos Fiscais ao Investimento a conceder até 2020, abreviadamente designado por Conselho, tem as seguintes competências:
 
@@ -602,7 +708,9 @@ d) [Revogada].
 
 4 - O exercício de funções no Conselho nesta disposição não confere aos nomeados quaisquer abonos ou remunerações.
 
-###### Artigo 6.º — Avaliação prévia
+Artigo 6.º
+
+Avaliação prévia
 
 1 - A avaliação prévia corresponde a uma fase inicial do procedimento de candidatura aos benefícios fiscais, durante a qual é realizada uma análise sumária do projeto de investimento, com vista ao apuramento da respetiva elegibilidade no âmbito do sistema de incentivos.
 
@@ -614,13 +722,17 @@ d) [Revogada].
 
 5 - Caso o resultado da avaliação prévia seja positivo, o prazo referido no número anterior releva para o cômputo do prazo referido no n.º 5 do artigo 8.º
 
-###### Artigo 7.º — Declaração municipal
+Artigo 7.º
+
+Declaração municipal
 
 1 - Nos casos em que o promotor pretenda obter benefícios fiscais em sede de imposto municipal sobre imóveis (IMI) e ou de imposto municipal sobre as transmissões onerosas de bens imóveis (IMT), a atribuição destes benefícios fica condicionada à respetiva aceitação pelo órgão municipal competente nos termos da Lei n.º 169/99, de 18 de setembro, e demais legislação aplicável.
 
 2 - A prova da aceitação referida no número anterior é feita através da junção ao processo de candidatura previsto no artigo seguinte de uma declaração de aceitação dos benefícios em causa, emitida pelo órgão municipal competente.
 
-###### Artigo 8.º — Candidatura e apreciação dos processos
+Artigo 8.º
+
+Candidatura e apreciação dos processos
 
 1 - As empresas promotoras dos investimentos devem apresentar, devidamente caracterizado e fundamentado, o processo de candidatura aos benefícios fiscais junto das seguintes entidades:
 
@@ -640,7 +752,9 @@ b) IAPMEI, I.P., nos restantes casos.
 
 7 - O Conselho pode solicitar esclarecimentos adicionais às entidades referidas no n.º 1, caso em que o prazo previsto no número anterior se suspende.
 
-###### Artigo 9.º — Contrato de concessão dos benefícios fiscais
+Artigo 9.º
+
+Contrato de concessão dos benefícios fiscais
 
 1 - A concessão dos benefícios fiscais é objeto de contrato, aprovado por resolução do Conselho de Ministros, do qual constam, designadamente, os objetivos e as metas a cumprir pelo promotor e os benefícios fiscais concedidos, e que tem um período de vigência até 10 anos a contar da conclusão do projeto de investimento.
 
@@ -652,25 +766,33 @@ b) IAPMEI, I.P., nos restantes casos.
 
 5 - A aprovação dos contratos ou de aditamentos aos contratos, nos termos dos números anteriores, deve ocorrer no prazo de 60 dias úteis a contar da data da pronúncia prevista no n.º 6 do artigo anterior.
 
-###### Artigo 10.º — Fiscalização e acompanhamento
+Artigo 10.º
+
+Fiscalização e acompanhamento
 
 1 - Sem prejuízo das competências próprias da AT em matéria de fiscalização e acompanhamento, a verificação do cumprimento, pelos promotores, dos contratos de concessão de benefícios fiscais ao investimento, compete ao Conselho previsto no artigo 5.º
 
 2 - Para efeitos do cumprimento do artigo 7.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, a AICEP, E.P.E., e o IAPMEI, I.P., enviam anualmente à AT os relatórios de verificação do cumprimento dos objetivos previstos nos contratos de concessão de benefícios fiscais.
 
-###### Artigo 11.º — Direito de audição
+Artigo 11.º
+
+Direito de audição
 
 1 - Caso verifique alguma situação suscetível de conduzir à resolução do contrato, o Conselho comunica à entidade beneficiária do incentivo fiscal a sua intenção de propor a resolução do contrato, podendo esta responder, querendo, no prazo de 30 dias.
 
 2 - Analisada a resposta à comunicação, ou decorrido o prazo para a sua emissão, o Conselho emite um relatório fundamentado, no prazo de 60 dias, no qual elabora uma proposta fundamentada em que propõe, se for o caso, a resolução do contrato de concessão de incentivos fiscais.
 
-###### Artigo 12.º — Renegociação
+Artigo 12.º
+
+Renegociação
 
 1 - O contrato pode ser objeto de renegociação a pedido de qualquer das partes, caso ocorra algum evento que altere substancialmente as circunstâncias em que as partes fundaram a sua vontade de contratar.
 
 2 - Qualquer alteração contratual decorrente da renegociação referida no número anterior é submetida a aprovação nos termos do artigo 8.º
 
-###### Artigo 13.º — Resolução do contrato
+Artigo 13.º
+
+Resolução do contrato
 
 1 - A resolução do contrato é declarada por resolução do Conselho de Ministros nos seguintes casos:
 
@@ -682,17 +804,25 @@ c) Prestação de informações falsas sobre a situação da empresa ou viciaç�
 
 2 - Para efeitos da aferição do incumprimento nos termos previstos na alínea a) do número anterior, deve ter-se em atenção o grau de cumprimento dos objetivos contratuais (GCC) acordado contratualmente.
 
-###### Artigo 14.º — Efeitos da resolução do contrato
+Artigo 14.º
+
+Efeitos da resolução do contrato
 
 1 - A resolução do contrato nos termos do artigo anterior implica a perda total dos benefícios fiscais concedidos desde a data de aprovação do mesmo, e ainda a obrigação de, no prazo de 30 dias a contar da respetiva notificação, e independentemente do tempo entretanto decorrido desde a data da verificação dos respetivos factos geradores de imposto, pagar, nos termos da lei, as importâncias correspondentes às receitas fiscais não arrecadadas, acrescidas de juros compensatórios, nos termos do artigo 35.º da lei geral tributária.
 
 2 - Na falta de pagamento dentro do prazo de 30 dias referido no número anterior, há lugar a procedimento executivo.
 
-# PARTE II — Benefícios fiscais ao investimento produtivo e benefícios fiscais à internacionalização
+PARTE II
 
-### CAPÍTULO I — Benefícios fiscais contratuais ao investimento produtivo
+Benefícios fiscais ao investimento produtivo e benefícios fiscais à internacionalização
 
-###### Artigo 15.º — Condições de acesso dos projetos de investimento produtivo
+CAPÍTULO I
+
+Benefícios fiscais contratuais ao investimento produtivo
+
+Artigo 15.º
+
+Condições de acesso dos projetos de investimento produtivo
 
 Podem ter acesso a benefícios fiscais em regime contratual e condicionados os projetos de investimento inicial, nos termos definidos no n.º 34 das orientações relativas aos auxílios estatais com finalidade regional para o período de 2007-2013, publicadas no Jornal Oficial da União Europeia, C 54, de 4 de março de 2006, que demonstrem ter viabilidade técnica, económica e financeira e que preencham cumulativamente as seguintes condições:
 
@@ -704,7 +834,9 @@ c) Induzam a criação ou manutenção de postos de trabalho;
 
 d) Contribuam para impulsionar a inovação tecnológica e a investigação científica nacional.
 
-###### Artigo 16.º — Benefícios fiscais
+Artigo 16.º
+
+Benefícios fiscais
 
 1 - Aos projetos de investimento previstos no n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais podem ser concedidos, cumulativamente, os incentivos fiscais seguintes:
 
@@ -724,7 +856,9 @@ a) No caso de criação de empresas, a dedução anual pode corresponder ao tota
 
 b) No caso de projetos em sociedades já existentes, a dedução máxima anual não pode exceder o maior valor entre 25 % do total do benefício fiscal concedido ou 50 % da coleta apurada em cada exercício, exceto se um limite diferente ficar contratualmente consagrado.
 
-###### Artigo 17.º — Critérios de determinação dos benefícios fiscais
+Artigo 17.º
+
+Critérios de determinação dos benefícios fiscais
 
 1 - O benefício fiscal total a conceder aos projetos de investimento corresponde a 10 % das aplicações relevantes do projeto efetivamente realizadas.
 
@@ -752,7 +886,9 @@ c) Até 5 %, em caso de relevante contributo do projeto para a inovação tecnol
 
 5 - O benefício fiscal máximo corresponde à quantia resultante da aplicação das percentagens referidas neste artigo ao valor das aplicações relevantes efetivamente realizadas.
 
-###### Artigo 18.º — Aplicações relevantes
+Artigo 18.º
+
+Aplicações relevantes
 
 1 - Consideram-se aplicações relevantes, para efeitos de cálculo dos benefícios, as despesas associadas aos projetos e relativas a:
 
@@ -792,7 +928,9 @@ c) Ativo fixo incorpóreo constituído por despesas com transferência de tecnol
 
 7 - São elegíveis as despesas relativas aos estudos diretamente relacionados com o investimento, desde que realizados há menos de um ano da data de notificação da avaliação prévia de concessão de benefícios fiscais.
 
-###### Artigo 19.º — Simplificação de procedimentos aduaneiros
+Artigo 19.º
+
+Simplificação de procedimentos aduaneiros
 
 1 - Os promotores dos projetos de investimento produtivo beneficiam de dispensa de prestação de garantia dos direitos de importação e demais imposições eventualmente devidos pelas mercadorias não comunitárias sujeitas aos regimes de entreposto aduaneiro, aperfeiçoamento ativo em sistema suspensivo e destino especial, durante o período de vigência do contrato ou até à sua resolução, nos termos previstos, respetivamente, nos artigos 9.º e 13.º
 
@@ -800,17 +938,25 @@ c) Ativo fixo incorpóreo constituído por despesas com transferência de tecnol
 
 3 - A contagem do prazo referido no número anterior é suspensa quando forem requeridos esclarecimentos adicionais, os quais devem ser apresentados no prazo de 30 dias, findo o qual, na ausência de resposta imputável ao promotor, se considera haver desistência do pedido.
 
-###### Artigo 20.º — Benefícios não fiscais acessórios
+Artigo 20.º
+
+Benefícios não fiscais acessórios
 
 A atribuição dos benefícios fiscais constantes do n.º 1 do artigo 41.º do Estatuto dos Benefícios Fiscais e regulamentados neste Código implica, sempre que a entidade promotora o requeira, a celebração de um acordo prévio sobre preços de transferência, desde que o respetivo procedimento decorra nos prazos de apreciação constantes dos artigos 5.º a 14.º
 
-###### Artigo 21.º — Notificação à Comissão Europeia
+Artigo 21.º
+
+Notificação à Comissão Europeia
 
 Nos termos da legislação comunitária, é notificada à Comissão Europeia a concessão de benefícios fiscais que preencham as condições definidas nessa legislação.
 
-### CAPÍTULO II — Benefícios fiscais com vista à internacionalização
+CAPÍTULO II
 
-###### Artigo 22.º — Condições de acesso dos projetos com vista à internacionalização
+Benefícios fiscais com vista à internacionalização
+
+Artigo 22.º
+
+Condições de acesso dos projetos com vista à internacionalização
 
 1 - Podem ter acesso a benefícios fiscais em regime contratual e condicionados os projetos de investimento de montante igual ou superior a (euro) 250 000, em aplicações relevantes que preencham cumulativamente as seguintes condições:
 
@@ -824,17 +970,27 @@ d) Não impliquem a diminuição dos postos de trabalho em Portugal.
 
 2 - Os benefícios fiscais, os critérios de determinação do crédito fiscal e as aplicações relevantes relativos a projetos de internacionalização são definidos em diploma próprio.
 
-# PARTE III — [Revogada]
+PARTE III
 
-# PARTE IV — Outros benefícios fiscais ao investimento
+[Revogada]
 
-### CAPÍTULO I — Regime Fiscal de Apoio ao Investimento
+PARTE IV
 
-###### Artigo 26.º — Regime Fiscal de Apoio ao Investimento
+Outros benefícios fiscais ao investimento
+
+CAPÍTULO I
+
+Regime Fiscal de Apoio ao Investimento
+
+Artigo 26.º
+
+Regime Fiscal de Apoio ao Investimento
 
 O regime fiscal de apoio ao investimento (RFAI), que prevê um sistema específico de incentivos fiscais ao investimento em determinados setores de atividade, respeita o Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto, que declara certas categorias de auxílios compatíveis com o mercado comum, em aplicação dos artigos 87.º e 88.º do Tratado ('Regulamento geral de isenção por categoria').
 
-###### Artigo 27.º — Âmbito de aplicação e definições
+Artigo 27.º
+
+Âmbito de aplicação e definições
 
 1 - O RFAI é aplicável aos sujeitos passivos de IRC que exerçam, a título principal, uma atividade nos setores agrícola, florestal, agroindustrial e turístico e ainda da indústria extrativa ou transformadora, com exceção dos setores siderúrgico, da construção naval e das fibras sintéticas, tal como definidos no artigo 2.º do Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), da Comissão, de 6 de agosto.
 
@@ -876,7 +1032,9 @@ f) Efetuem investimento relevante que proporcione a criação de postos de traba
 
 6 - Para efeitos do número anterior, não se consideram as adições de ativos fixos que resultem de transferências de investimentos em curso transitado de períodos anteriores, exceto se forem adiantamentos.
 
-###### Artigo 28.º — Incentivos fiscais
+Artigo 28.º
+
+Incentivos fiscais
 
 1 - Aos sujeitos passivos de IRC residentes em território português ou que aí possuam estabelecimento estável, que exerçam a título principal uma atividade de natureza comercial, industrial ou agrícola abrangida pelo n.º 1 do artigo anterior que efetuem, nos exercícios de 2013 a 2017, investimentos considerados relevantes, são concedidos os seguintes benefícios fiscais:
 
@@ -900,7 +1058,9 @@ d) Isenção de imposto do selo relativamente às aquisições de prédios que c
 
 5 - O montante global dos incentivos fiscais concedidos nos termos dos números anteriores não pode exceder o valor que resultar da aplicação dos limites máximos aplicáveis ao investimento com finalidade regional, em vigor na região na qual o investimento seja efetuado, constantes do artigo 32.º
 
-###### Artigo 29.º — Obrigações acessórias
+Artigo 29.º
+
+Obrigações acessórias
 
 1 - A dedução prevista na alínea a) do n.º 1 do artigo anterior é justificada por documento a integrar o processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC, que identifique discriminadamente os investimentos relevantes, o respetivo montante e outros elementos considerados relevantes.
 
@@ -908,19 +1068,25 @@ d) Isenção de imposto do selo relativamente às aquisições de prédios que c
 
 3 - A contabilidade dos sujeitos passivos de IRC beneficiários do regime previsto na presente decreto-lei deve evidenciar o imposto que deixe de ser pago em resultado da dedução a que se refere o artigo anterior, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
 
-###### Artigo 30.º — Incumprimento
+Artigo 30.º
+
+Incumprimento
 
 No caso de incumprimento do disposto na alínea c) do n.º 3 do artigo 27.º, é adicionado ao IRC relativo ao período de tributação em que o sujeito passivo alienou os bens objeto do investimento o imposto que deixou de ser liquidado em virtude do presente regime, acrescido dos correspondentes juros compensatórios majorados em 10 pontos percentuais.
 
-###### Artigo 31.º — Exclusividade dos incentivos fiscais
+Artigo 31.º
+
+Exclusividade dos incentivos fiscais
 
 Os incentivos fiscais previstos no presente capítulo não são cumuláveis, relativamente ao mesmo investimento, com quaisquer outros benefícios fiscais da mesma natureza, automáticos ou contratuais, previstos neste ou noutros diplomas legais.
 
-###### Artigo 32.º — Limites máximos aplicáveis aos auxílios ao investimento com finalidade regional
+Artigo 32.º
+
+Limites máximos aplicáveis aos auxílios ao investimento com finalidade regional
 
 1 - Em conformidade com o mapa nacional dos auxílios estatais com finalidade regional para o período até 31 de dezembro de 2013, aprovado pela Comissão Europeia em 7 de julho de 2007, os limites máximos aplicáveis aos benefícios fiscais concedidos no âmbito do RFAI são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf))](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/06/11400/0333503350.pdf)
 
 2 - Os limites previstos no número anterior são majorados em 10 pontos percentuais para as médias empresas e em 20 pontos percentuais para as pequenas empresas tal como definidas na recomendação da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas, publicada no Jornal Oficial da União Europeia, n.º L 124, de 20 de maio de 2003.
 
@@ -928,13 +1094,19 @@ Os incentivos fiscais previstos no presente capítulo não são cumuláveis, rel
 
 4 - Os limites máximos aplicáveis aos investimentos realizados após 31 de dezembro de 2013 são fixados por portaria do membro do Governo responsável pela área das finanças, em conformidade com o mapa nacional dos auxílios estatais com finalidade regional.
 
-### CAPÍTULO II — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
+CAPÍTULO II
 
-###### Artigo 33.º — Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
+Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
+
+Artigo 33.º
+
+Sistema de incentivos fiscais em investigação e desenvolvimento empresarial
 
 O sistema de incentivos fiscais em investigação e desenvolvimento empresarial II (SIFIDE II), a vigorar nos períodos de tributação de 2013 a 2015, o qual se processa nos termos dos artigos seguintes.
 
-###### Artigo 34.º — Conceitos
+Artigo 34.º
+
+Conceitos
 
 Para efeitos do disposto no SIFIDE II, consideram-se:
 
@@ -942,15 +1114,17 @@ a) «Despesas de investigação» as realizadas pelo sujeito passivo de IRC com 
 
 b) «Despesas de desenvolvimento» as realizadas pelo sujeito passivo de IRC através da exploração de resultados de trabalhos de investigação ou de outros conhecimentos científicos ou técnicos com vista à descoberta ou melhoria substancial de matérias-primas, produtos, serviços ou processos de fabrico.
 
-###### Artigo 35.º — Despesas elegíveis
+Artigo 35.º
+
+Despesas elegíveis
 
 1 - Consideram-se dedutíveis as seguintes categorias de despesas, desde que se refiram a atividades de investigação e desenvolvimento, tal como definidas no artigo anterior:
 
-a) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de I&D;
+a) Aquisições de ativos fixos tangíveis, à exceção de edifícios e terrenos, desde que criados ou adquiridos em estado novo e na proporção da sua afetação à realização de atividades de I&D
 
-b) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de I&D;
+b) Despesas com pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações, diretamente envolvido em tarefas de I&D
 
-c) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D;
+c) Despesas com a participação de dirigentes e quadros na gestão de instituições de I&D
 
 d) Despesas de funcionamento, até ao máximo de 55 % das despesas com o pessoal com habilitações literárias mínimas do nível 4 do Quadro Nacional de Qualificações diretamente envolvido em tarefas de I&D contabilizadas a título de remunerações, ordenados ou salários, respeitantes ao exercício;
 
@@ -960,9 +1134,9 @@ f) Participação no capital de instituições de I&D e contributos para fundos 
 
 g) Custos com registo e manutenção de patentes;
 
-h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de I&D;
+h) Despesas com a aquisição de patentes que sejam predominantemente destinadas à realização de atividades de I&D
 
-i) Despesas com auditorias à I&D;
+i) Despesas com auditorias à I&D
 
 j) Despesas com ações de demonstração que decorram de projetos de I&D apoiados.
 
@@ -974,7 +1148,9 @@ j) Despesas com ações de demonstração que decorram de projetos de I&D apoiad
 
 5 - As despesas referidas na alínea j) do n.º 1 apenas são elegíveis quando tenham sido previamente comunicadas à entidade referida no n.º 1 do artigo 38.º
 
-###### Artigo 36.º — Âmbito da dedução
+Artigo 36.º
+
+Âmbito da dedução
 
 1 - Os sujeitos passivos de IRC residentes em território português que exerçam, a título principal, uma atividade de natureza agrícola, industrial, comercial e de serviços e os não residentes com estabelecimento estável nesse território podem deduzir ao montante apurado nos termos do artigo 90.º do Código do IRC, e até à sua concorrência, o valor correspondente às despesas com investigação e desenvolvimento, na parte que não tenha sido objeto de comparticipação financeira do Estado a fundo perdido, realizadas nos períodos de tributação com início entre 1 de janeiro de 2013 e 31 de dezembro de 2015, numa dupla percentagem:
 
@@ -994,7 +1170,9 @@ b) Taxa incremental - 50 % do acréscimo das despesas realizadas naquele períod
 
 7 - Aos sujeitos passivos que se reorganizem, em resultado de atos de concentração tal como definidos no artigo 73.º do Código do IRC, aplica-se o disposto no n.º 3 do artigo 15.º do Estatuto dos Benefícios Fiscais.
 
-###### Artigo 37.º — Condições
+Artigo 37.º
+
+Condições
 
 Apenas podem beneficiar da dedução a que se refere o artigo anterior os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:
 
@@ -1002,7 +1180,9 @@ a) O seu lucro tributável não seja determinado por métodos indiretos;
 
 b) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições, ou tenham o seu pagamento devidamente assegurado.
 
-###### Artigo 38.º — Obrigações acessórias
+Artigo 38.º
+
+Obrigações acessórias
 
 1 - A dedução a que se refere o artigo 36.º deve ser justificada por declaração comprovativa, a requerer pelas entidades interessadas, ou prova da apresentação do pedido de emissão dessa declaração, de que as atividades exercidas ou a exercer correspondem efetivamente a ações de investigação ou desenvolvimento, dos respetivos montantes envolvidos, do cálculo do acréscimo das despesas em relação à média dos dois exercícios anteriores e de outros elementos considerados pertinentes, emitida por entidade nomeada por despacho do membro do Governo responsável pelas áreas da economia e do emprego, a integrar no processo de documentação fiscal do sujeito passivo a que se refere o artigo 130.º do Código do IRC.
 
@@ -1014,10 +1194,14 @@ b) Não sejam devedores ao Estado e à segurança social de quaisquer impostos o
 
 5 - O Ministério da Economia e do Emprego, através da entidade a que se refere o n.º 1, comunica por via eletrónica à Autoridade Tributária e Aduaneira, até ao fim do mês de fevereiro de cada ano, a identificação dos beneficiários e do montante das despesas consideradas elegíveis reportadas ao ano anterior ao da comunicação.
 
-###### Artigo 39.º — Obrigações contabilísticas
+Artigo 39.º
+
+Obrigações contabilísticas
 
 A contabilidade dos sujeitos passivos de IRC beneficiários deste regime deve dar expressão ao imposto que deixe de ser pago em resultado da dedução a que se refere o artigo 36.º mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativa ao exercício em que se efetua a dedução.
 
-###### Artigo 40.º — Exclusividade do benefício
+Artigo 40.º
+
+Exclusividade do benefício
 
 A dedução a que se refere o artigo 36.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza, previstos neste ou noutros diplomas legais.

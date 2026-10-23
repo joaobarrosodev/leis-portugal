@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/260a00/63176319.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/286/2000/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-2000-614353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b849dae1b313136fc520861a6459d51e0deab619ff9810fb84f46f285064f93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d0be8f4fd475e82ead10853706c67002766381fd6bea577188c97583592684b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,26 @@ subjects:
 - Alimento para Crianças
 - Aproximação das Legislações
 - CEE
-- Direção Geral da Saúde
-- Definição de Competências
-- Saúde Pública
-- Preço
-- Proteção do Consumidor
-- Pesticida
-- Produto Fitofarmacêutico
 - Comércio
+- Definição de Competências
+- Direção Geral da Saúde
+- Pesticida
+- Preço
+- Produto Fitofarmacêutico
+- Proteção do Consumidor
+- Saúde Pública
 - Venda
 relationships:
 - type: amended_by
   target: pt:dre:439404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277851:por
+  label: "Alterados os arts. 4.º-A, 11.º e 13.º do Dec Lei 220/99, de 16-Jun, com a redacção do presente diploma, pelo DEC\
+    \ LEI.138/2004.05.06.2004.MS, DR.IS-A [132] de 05.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2004-277851
+  date: '2004-06-05'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -103,16 +109,21 @@ relationships:
   target: celex:31999L0050
   label: null
   source: http://data.europa.eu/eli/dir/1999/50/oj
+- type: repealed_by
+  target: pt:dre:439404:por
+  label: "Revogado pelo DEC LEI.217/2008.11.11.2008.MADRP, DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2008-439404
+  date: '2008-11-11'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:41Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +216,9 @@ c) A declaração médica de que o lactente necessita de ser alimentado através
 
 5 - As instituições ou organizações, a quem hajam sido cedidas a titulo gratuito ou vendidas a preço reduzido fórmulas para lactentes deverão remeter trimestralmente à DGS informação sobre as respectivas quantidades totais, bem como prestar as informações sobre os elementos constantes das alíneas b) e c) do n.º 3 do presente artigo, quando solicitadas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Tratando-se da primeira comercialização do produto no Espaço Económico Europeu, o fabricante, se o produto tiver origem num dos Estados Partes do respectivo Acordo, ou o importador, se o produto tiver origem em país terceiro, envia à DGS um modelo da rotulagem respectiva.
 
@@ -213,7 +226,9 @@ c) A declaração médica de que o lactente necessita de ser alimentado através
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -243,12 +258,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, sem pr
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Mário Cristina de Sousa - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 26 de Outubro de 2000.**
+Promulgado em 26 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Novembro de 2000.**
+Referendado em 2 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

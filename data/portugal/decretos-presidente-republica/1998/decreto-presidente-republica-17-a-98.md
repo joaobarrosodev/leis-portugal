@@ -24,7 +24,7 @@ publication:
   reference: Diário da República n.º 114/1998, 1º Suplemento, Série I-A de 1998-05-18
   number: '114'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2376-(2) a 2376-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/114a01/00020002.pdf
 entry_into_force_dates: []
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/17-a/1998/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-a-1998-620491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b67dc436fe72afd8c22ceb51e84e33d726cc619beba085310c33eebc3fc10c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 179439c95765722b33a2efe59c29cafdc43117c22f412908640d32920cd46c44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,31 +70,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
+- ACTO Constitutivo
 - Convenção
 - Portugal
-- ACTO Constitutivo
 - Regulamento
+- Serviço Postal
 - SEUL
 relationships:
 - type: amended_by
   target: pt:dre:632043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632043:por
+  label: "Estendida ao Território de Macau a Convenção ratificada pelo presente diploma, pelo DEC.233/99.1999.12.09.PR, DR.IS-A\
+    \ [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/233-1999-632043
+  date: '1999-12-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/24-a/1998/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/24-a/1998/05/18/p/dre
+- type: cites
+  target: pt:dre:620490:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:26Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +113,7 @@ validation:
 
 de 18 de Maio
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -113,12 +123,12 @@ São ratificados o Quinto Protocolo Adicional à Constituição da União Postal
 
 É reiterado o conteúdo da Declaração II das declarações feitas por ocasião da assinatura dos actos e das seguintes reservas: artigo VII, parágrafo 5, do Protocolo Final da Convenção Postal Universal, artigo XIV, parágrafo 1, do Protocolo Final do Acordo Relativo às Encomendas Postais e artigo XV, parágrafo 5, do mesmo Protocolo Final.
 
-**Assinado em 28 de Abril de 1998.**
+Assinado em 28 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Abril de 1998.**
+Referendado em 30 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

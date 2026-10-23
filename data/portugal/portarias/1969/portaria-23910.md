@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23910-1969-527806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 423aa060988c877864bc386d02bb85451fba22c9065f5a3b7c9da5760c56d706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a9368902b3e8273a889054a4e9dee125ee43643bd2a0e0bf7f9925af704f1be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:02Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +91,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, de acordo c
 
 1.º O artigo 1.º deve considerar-se com a seguinte redacção:
 
-###### Artigo 1.º Os militares do três ramos das forças armadas, do recrutamento ultramarino e nomeados para serviço noutra província ultramarina que não seja a da sua origem, podem deixar nesta uma pensão que não exceda 2/3 do total das remunerações que percebam, destinada a ser paga à pessoa ou pessoas de família indicadas pelos próprios ou à satisfação de compromissos que tenham contraído.
+Artigo 1.º Os militares do três ramos das forças armadas, do recrutamento ultramarino e nomeados para serviço noutra província ultramarina que não seja a da sua origem, podem deixar nesta uma pensão que não exceda 2/3 do total das remunerações que percebam, destinada a ser paga à pessoa ou pessoas de família indicadas pelos próprios ou à satisfação de compromissos que tenham contraído.
 
 2.º Não tem, para o presente efeito, aplicação o disposto no artigo 2.º
 

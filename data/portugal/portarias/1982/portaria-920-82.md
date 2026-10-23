@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 227/1982, 1º Suplemento, Série I de 1982-09-30
   number: '227'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3206-(32) a 3206-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf
 entry_into_force_dates: []
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/920-1982-643964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6294022791e58878722dc08fe065eb7a9b9d7576fa2ea9fd30502f680f071ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bfcb9dbd3eb5473216131c817fc10c8e5c985b14fa2580d04c999dc45dd091a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:28:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Embalagem
+- Indústria de Conservas
+- Instituto Português de Conservas de Peixe
+- Peixe
+- Regulamento
+- Seguro
+- Seguro contra Danos
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:28:15Z'
   warnings: []
   errors: []
 ---
@@ -100,23 +116,23 @@ I
 
 Dos serviços
 
-###### Artigo 1.º No Instituto Português de Conservas de Peixe, adiante designado por IPCP, funciona o Serviço de Armazéns Gerais Industriais para admissão de depósitos mercantins de conservas de peixe, bem como de matérias-primas destinadas ao seu fabrico, e emissão dos respectivos títulos de depósito.
+Artigo 1.º No Instituto Português de Conservas de Peixe, adiante designado por IPCP, funciona o Serviço de Armazéns Gerais Industriais para admissão de depósitos mercantins de conservas de peixe, bem como de matérias-primas destinadas ao seu fabrico, e emissão dos respectivos títulos de depósito.
 
-###### Art. 2.º - 1 - O Serviço de Armazéns Gerais Industriais funcionará na sede do IPCP e nos centros produtores das respectivas delegações: Póvoa de Varzim, Matosinhos, Peniche, Lisboa, Setúbal, Portimão/Lagos, Olhão, Vila Real de Santo António, Açores e Madeira.
+Art. 2.º - 1 - O Serviço de Armazéns Gerais Industriais funcionará na sede do IPCP e nos centros produtores das respectivas delegações: Póvoa de Varzim, Matosinhos, Peniche, Lisboa, Setúbal, Portimão/Lagos, Olhão, Vila Real de Santo António, Açores e Madeira.
 
 2 - Em caso de reconhecida necessidade, poderão ser criados postos de serviço noutros locais ou suprimidos quaisquer uns dos que funcionem, mediante despacho do Ministro da Agricultura, Comércio e Pescas.
 
-###### Art. 3.º O Serviço ficará centralizado em Lisboa, no Instituto Português de Conservas de Peixe, na Repartição de Armazéns Gerais Industriais.
+Art. 3.º O Serviço ficará centralizado em Lisboa, no Instituto Português de Conservas de Peixe, na Repartição de Armazéns Gerais Industriais.
 
 II
 
 Dos armazéns
 
-###### Art. 4.º - 1 - Em cada um dos locais referidos no artigo 2.º deverá existir, em princípio, um armazém, com as devidas condições de segurança e características apropriadas ao fim a que é destinado.
+Art. 4.º - 1 - Em cada um dos locais referidos no artigo 2.º deverá existir, em princípio, um armazém, com as devidas condições de segurança e características apropriadas ao fim a que é destinado.
 
 2 - Quando, por razões instransponíveis, em qualquer dos centros mencionados no artigo 2.º não existam armazéns do IPCP, funcionarão, nas mesmas condições, os que ficarem abrangidos pelo disposto no artigo 7.º do presente Regulamento.
 
-###### Art. 5.º - 1 - Os armazéns referidos no artigo 4.º deverão possuir os seguintes requisitos:
+Art. 5.º - 1 - Os armazéns referidos no artigo 4.º deverão possuir os seguintes requisitos:
 
 a) Construção em matérias incombustíveis;
 
@@ -150,9 +166,9 @@ O número da faixa longitudinal e a letra da faixa transversal, compreendidas no
 
 3 - É expressamente proibido exceder a capacidade normal dos armazéns, utilizá-los para quaisquer outros fins que não sejam os que se estabelecem neste Regulamento e arrecadar nos mesmos outros produtos além dos referidos no artigo 13.º
 
-###### Art. 6.º Os armazéns são designados pelo nome do centro onde se situem precedido de um número de ordem.
+Art. 6.º Os armazéns são designados pelo nome do centro onde se situem precedido de um número de ordem.
 
-###### Art. 7.º - 1 - Para além dos armazéns do IPCP é facultada a utilização de armazéns dos próprios depositantes, desde que os mesmos reúnam as condições e obedeçam aos requisitos e características regulamentares estabelecidos.
+Art. 7.º - 1 - Para além dos armazéns do IPCP é facultada a utilização de armazéns dos próprios depositantes, desde que os mesmos reúnam as condições e obedeçam aos requisitos e características regulamentares estabelecidos.
 
 2 - No caso do número anterior, a utilização dos armazéns poderá ser efectuada numa das seguintes condições:
 
@@ -168,11 +184,11 @@ III
 
 Do pessoal dos armazéns e suas atribuições
 
-###### Art. 8.º - 1 - Nas delegações do IPCP onde funcione o Serviço de Armazéns Gerais Industriais haverá um fiel de armazém e um funcionário destacado, para assegurar o respectivo expediente.
+Art. 8.º - 1 - Nas delegações do IPCP onde funcione o Serviço de Armazéns Gerais Industriais haverá um fiel de armazém e um funcionário destacado, para assegurar o respectivo expediente.
 
 2 - Na falta de fiel de armazém, as respectivas funções poderão ser desempenhadas por outro funcionário devidamente designado para esse fim.
 
-###### Art. 9.º Compete ao fiel de armazém:
+Art. 9.º Compete ao fiel de armazém:
 
 a) Responsabilizar-se pela guarda das mercadorias depositadas nos armazéns do IPCP e nos que funcionem no regime de comodato;
 
@@ -200,7 +216,7 @@ m) Substituir o funcionário designado para assegurar o expediente, no seu imped
 
 n) Cumprir e fazer cumprir o presente Regulamento.
 
-###### Art. 10.º Compete ao funcionário que assegure o expediente:
+Art. 10.º Compete ao funcionário que assegure o expediente:
 
 a) Constituir e instruir com a respectiva documentação os processos de todos os depósitos;
 
@@ -216,7 +232,7 @@ IV
 
 Da escrituração
 
-###### Art. 11.º - 1 - Na Repartição de Armazéns Gerais Industriais serão obrigatoriamente escriturados os seguintes registos e outros que as circunstâncias imponham:
+Art. 11.º - 1 - Na Repartição de Armazéns Gerais Industriais serão obrigatoriamente escriturados os seguintes registos e outros que as circunstâncias imponham:
 
 Geral de existências em depósito;
 
@@ -238,15 +254,15 @@ V
 
 Dos depósitos
 
-###### Art. 12.º Os armazéns gerais industriais só poderão ser utilizados, para os efeitos consignados no presente Regulamento, por industriais ou exportadores de conservas de peixe e cooperativas por eles constituídas, desde que devidamente inscritos no IPCP.
+Art. 12.º Os armazéns gerais industriais só poderão ser utilizados, para os efeitos consignados no presente Regulamento, por industriais ou exportadores de conservas de peixe e cooperativas por eles constituídas, desde que devidamente inscritos no IPCP.
 
-###### Art. 13.º Para efeitos de emissão dos respectivos títulos, só podem ser admitidas em depósito nos armazéns do IPCP ou nos que funcionem nos termos do artigo 7.º as mercadorias ou produtos indicados no quadro anexo ao presente Regulamento, devidamente acondicionados nas embalagens constantes das respectivas tabelas.
+Art. 13.º Para efeitos de emissão dos respectivos títulos, só podem ser admitidas em depósito nos armazéns do IPCP ou nos que funcionem nos termos do artigo 7.º as mercadorias ou produtos indicados no quadro anexo ao presente Regulamento, devidamente acondicionados nas embalagens constantes das respectivas tabelas.
 
-###### Art. 14.º - 1 - Os armazéns gerais industriais poderão constituir-se depositários de quaisquer produtos fabricados ou utilizados pela indústria de conservas de peixe que eventualmente sejam apreendidos ou retidos pelas entidades competentes, nos termos da alínea b) do artigo 28.º do [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro.
+Art. 14.º - 1 - Os armazéns gerais industriais poderão constituir-se depositários de quaisquer produtos fabricados ou utilizados pela indústria de conservas de peixe que eventualmente sejam apreendidos ou retidos pelas entidades competentes, nos termos da alínea b) do artigo 28.º do [Decreto Regulamentar n.º 80/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1980-459444), de 17 de Dezembro.
 
 2 - As mercadorias referidas no número anterior ficarão nos armazéns do IPCP em simples regime de arrecadação, sem prazo, e à ordem da entidade que tenha ordenado a sua apreensão, competindo ao fiel de armazém passar recibos de entrada e fazer assinar boletins de saída por esta mesma entidade, ou terceira por ela indicada, quando as mercadorias sejam retiradas.
 
-###### Art. 15.º - 1 - Aos depósitos de conservas de peixe e de vazio será atribuído o correspondente valor, de harmonia com as tabelas aprovadas e em vigor, tendo em conta o valor da comercialização e a necessária margem de garantia.
+Art. 15.º - 1 - Aos depósitos de conservas de peixe e de vazio será atribuído o correspondente valor, de harmonia com as tabelas aprovadas e em vigor, tendo em conta o valor da comercialização e a necessária margem de garantia.
 
 2 - O valor por caixa dos diversos formatos legais usados pela indústria de conservas de peixe será igual ao produto dos respectivos factores pelo valor atribuído ao formato base, 1/4 club 30 m/m com 100 latas por caixa, e devidamente arredondado para a dezena de escudos imediatamente inferior a qualquer fracção encontrada.
 
@@ -260,7 +276,7 @@ Dos depósitos
 
 7 - Não haverá qualquer impedimento a uma concessão de crédito para além das percentagens fixadas no número anterior, por parte das entidades que o concedam, desde que as mesmas assim o entendam, não derivando daí qualquer responsabilidade para o IPCP.
 
-###### Art. 16.º Compete ao depositante:
+Art. 16.º Compete ao depositante:
 
 a) Requerer, nos serviços da delegação do IPCP que deseje utilizar, através do impresso próprio (requisição de depósito), a constituição do depósito pretendido e exame da mercadoria;
 
@@ -270,7 +286,7 @@ c) Fornecer o pessoal necessário à descarga, arrumação e formalidades indisp
 
 d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea a) deste artigo, quando se trate de depósitos nas condições da alínea a) do n.º 2 do artigo 7.º, o «termo» referido no n.º 3 do mesmo artigo.
 
-###### Art. 17.º - 1 - Os depósitos serão ordenados numericamente, seja qual for a sua natureza, independentemente dos armazéns onde fiquem arrecadados.
+Art. 17.º - 1 - Os depósitos serão ordenados numericamente, seja qual for a sua natureza, independentemente dos armazéns onde fiquem arrecadados.
 
 2 - Esta numeração será antecedida do indicativo do centro produtor onde seja efectuado o depósito e separado desta por um traço (barra).
 
@@ -300,19 +316,19 @@ d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea
 
 4 - Estes números manter-se-ão inalteráveis em todos os depósitos e farão parte integrante da sua designação.
 
-###### Art. 18.º - 1 - O depósito só se considerará aceite depois de parecer favorável da Divisão de Controle de Qualidade do IPCP.2 - Só após a aceitação se procederá à emissão do título de depósito, constituído por um conhecimento de depósito (título de propriedade) e uma cautela de penhor (certificado de depósito).
+Art. 18.º - 1 - O depósito só se considerará aceite depois de parecer favorável da Divisão de Controle de Qualidade do IPCP.2 - Só após a aceitação se procederá à emissão do título de depósito, constituído por um conhecimento de depósito (título de propriedade) e uma cautela de penhor (certificado de depósito).
 
 3 - Este documento será entregue ao depositante, pelos serviços de armazéns gerais industriais da delegação a que pertença o armazém onde o depósito haja sido constituído, depois de pagos os encargos, quando devidos, e mediante devolução do «boletim de entrada», emitido em conformidade com a alínea f) do artigo 9.º, a servir de recibo.
 
 4 - A emissão do título referido no número anterior será feita pela Secção de Certificação e Crédito.
 
-###### Art. 1.º - 1 - Quando a Divisão de Controle de Qualidade do IPCP reprove a aceitação do depósito, desde que não seja determinada a sua apreensão, o depositante fica obrigado a retirar a mercadoria no prazo de 8 dias úteis após a recepção da notificação da Secção de Gestão de Armazéns.
+Art. 1.º - 1 - Quando a Divisão de Controle de Qualidade do IPCP reprove a aceitação do depósito, desde que não seja determinada a sua apreensão, o depositante fica obrigado a retirar a mercadoria no prazo de 8 dias úteis após a recepção da notificação da Secção de Gestão de Armazéns.
 
 2 - Decorrido o prazo estipulado no número anterior sem que a mercadoria tenha sido retirada, o depositante obriga-se ao pagamento de 1$00 por caixa e por dia que decorra para além dos 8 dias úteis fixados, independentemente dos encargos de armazenagem previstos no n.º 1 do artigo 26.º
 
 3 - Decorridos 15 dias úteis, após os 8 dias inicialmente estabelecidos para a retirada da mercadoria, sem que esta determinação tenha sido cumprida, a Repartição de Armazéns Gerais Industriais promoverá a sua venda em hasta pública, nos termos consignados no presente Regulamento e na legislação aplicável.
 
-###### Art. 20.º - 1 - Se pela Divisão de Controle de Qualidade do IPCP for ordenada a retenção, apreensão ou destruição de qualquer mercadoria recebida em depósito, cumprirá aos seus proprietários observarem rigorosamente o que lhes seja notificado sobre o destino da mesma pela Repartição de Armazéns Gerais Industriais, em conformidade com o que haja sido determinado pela referida Divisão.
+Art. 20.º - 1 - Se pela Divisão de Controle de Qualidade do IPCP for ordenada a retenção, apreensão ou destruição de qualquer mercadoria recebida em depósito, cumprirá aos seus proprietários observarem rigorosamente o que lhes seja notificado sobre o destino da mesma pela Repartição de Armazéns Gerais Industriais, em conformidade com o que haja sido determinado pela referida Divisão.
 
 2 - A falta de cumprimento da notificação referida no número anterior originará o levantamento de auto, para o respectivo procedimento.
 
@@ -324,9 +340,9 @@ d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea
 
 6 - A falta de presença do representante do proprietário da mercadoria, devidamente notificado para o efeito, não constituirá impedimento para a destruição, assinando o auto, em sua substituição, uma terceira testemunha idónea e devidamente identificada.
 
-###### Art. 21.º Os depósitos serão aceites por prazos variáveis, consoante o que for estabelecido no parecer da Divisão de Controle de Qualidade ou pedido pelo depositante, por períodos de 60 a 180 dias, exceptuando-se os depósitos de azeite ou óleos, para os quais é fixado um prazo máximo de 90 dias.
+Art. 21.º Os depósitos serão aceites por prazos variáveis, consoante o que for estabelecido no parecer da Divisão de Controle de Qualidade ou pedido pelo depositante, por períodos de 60 a 180 dias, exceptuando-se os depósitos de azeite ou óleos, para os quais é fixado um prazo máximo de 90 dias.
 
-###### Art. 22.º - 1 - Se o depositante o tiver requerido até 10 dias úteis antes do respectivo vencimento, poderá ser consentida a renovação de qualquer depósito por iguais períodos, com emissão de novo título de depósito, mediante parecer favorável da Divisão de Controle de Qualidade após exame tecnológico da mercadoria que constitui o depósito.
+Art. 22.º - 1 - Se o depositante o tiver requerido até 10 dias úteis antes do respectivo vencimento, poderá ser consentida a renovação de qualquer depósito por iguais períodos, com emissão de novo título de depósito, mediante parecer favorável da Divisão de Controle de Qualidade após exame tecnológico da mercadoria que constitui o depósito.
 
 2 - Só em casos de comprovada necessidade será admitida a existência de depósitos por períodos que, acumulados, excedam 1 ano.
 
@@ -334,7 +350,7 @@ d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea
 
 4 - Quando o estabelecido no número anterior não se mostre cumprido, os serviços promoverão a venda da mercadoria nos termos dos artigos 52.º e seguintes do presente Regulamento e da lei geral, sem prejuízo de recurso a outros meios legais para obtenção do reembolso de todos os valores em dívida, pelo depósito e pelas operações de crédito efectuadas com a garantia do mesmo.
 
-###### Art. 23.º - 1 - Pela aceitação dos depósitos nos armazéns do IPCP e dos que funcionarem de acordo com o disposto na alínea b) do n.º 2 do artigo 7.º, os armazéns gerais industriais assumem o encargo da conservação quantitativa das mercadorias e garantem, para com terceiros, durante o prazo de validade do depósito, a qualidade certificada.
+Art. 23.º - 1 - Pela aceitação dos depósitos nos armazéns do IPCP e dos que funcionarem de acordo com o disposto na alínea b) do n.º 2 do artigo 7.º, os armazéns gerais industriais assumem o encargo da conservação quantitativa das mercadorias e garantem, para com terceiros, durante o prazo de validade do depósito, a qualidade certificada.
 
 2 - A responsabilidade pelos depósitos constituídos nos termos da alínea a) do n.º 2 do artigo 7.º será assumida pelos depositantes em conformidade com o termo de responsabilidade referido no n.º 3 do artigo 7.º e na alínea d) do artigo 16.º
 
@@ -342,13 +358,13 @@ d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea
 
 4 - Pelas mercadorias em depósito segundo o regime de arrecadação referido no artigo 14.º os armazéns gerais industriais assumirão a responsabilidade pela sua guarda e conservação quantitativa.
 
-###### Art. 24.º Os armazéns gerais industriais não se responsabilizarão por quaisquer espécie de danos causados às mercadorias depositadas, em consequência de acções provenientes de fogo casual, acção de raio ou tempestades, greves e tumultos, inundações, desmoronamentos, aluições, alterações climáticas, ou outras acções estranhas e imprevisíveis.
+Art. 24.º Os armazéns gerais industriais não se responsabilizarão por quaisquer espécie de danos causados às mercadorias depositadas, em consequência de acções provenientes de fogo casual, acção de raio ou tempestades, greves e tumultos, inundações, desmoronamentos, aluições, alterações climáticas, ou outras acções estranhas e imprevisíveis.
 
-###### Art. 25.º - 1 - Os armazéns gerais industriais não responderão perante os depositantes nem pela qualidade nem pela deterioração dos produtos armazenados.
+Art. 25.º - 1 - Os armazéns gerais industriais não responderão perante os depositantes nem pela qualidade nem pela deterioração dos produtos armazenados.
 
 2 - Quando os armazéns gerais industriais hajam incorrido em responsabilidade para com terceiros, por desvalorização da mercadoria, em resultado de fabrico defeituoso, será exigida ao depositante a correspondente indemnização, não voltando a aceitar em depósito mercadorias produzidas pelo mesmo, sem que sejam dadas como removidas as deficiências de fabrico que originaram o prejuízo, pela Divisão de Controle de Qualidade do IPCP.
 
-###### Art. 26.º - 1 - Os depositantes ficarão obrigados, pelos depósitos efectuados nos armazéns do IPCP, ao pagamento de todos os encargos de armazenagem aprovados por despacho do Ministro da Agricultura, Comércio e Pescas.
+Art. 26.º - 1 - Os depositantes ficarão obrigados, pelos depósitos efectuados nos armazéns do IPCP, ao pagamento de todos os encargos de armazenagem aprovados por despacho do Ministro da Agricultura, Comércio e Pescas.
 
 2 - Os encargos referidos no número anterior serão cobrados antecipadamente, pelo prazo do depósito, sem direito a qualquer restituição, ainda que o mesmo seja retirado antes do vencimento.
 
@@ -356,9 +372,9 @@ d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea
 
 4 - Em períodos devidamente estabelecidos, quando seja julgado conveniente, poderá suspender-se o pagamento referido no n.º 1 ou limitar-se a sua incidência, em condições a determinar por despacho do Ministro da Agricultura, Comércio e Pescas.
 
-###### Art. 27.º Serão da responsabilidade dos depositantes todas as despesas efectuadas com o manejo dos lotes depositados, tais como transportes, encargos com o pessoal, colheita de amostras, impressos e outras que não sejam originadas pela própria necessidade dos serviços.
+Art. 27.º Serão da responsabilidade dos depositantes todas as despesas efectuadas com o manejo dos lotes depositados, tais como transportes, encargos com o pessoal, colheita de amostras, impressos e outras que não sejam originadas pela própria necessidade dos serviços.
 
-###### Art. 28.º - 1 - Aos depositantes será autorizado o manejo dos depósitos para revisão, marcação para exportação, limpeza, colocação de chaves nas caixas, colheita de amostras e outras operações que não alterem a sua constituição ou características certificadas, mediante prévio requerimento à Repartição de Armazéns Gerais Industriais e despacho respectivo.
+Art. 28.º - 1 - Aos depositantes será autorizado o manejo dos depósitos para revisão, marcação para exportação, limpeza, colocação de chaves nas caixas, colheita de amostras e outras operações que não alterem a sua constituição ou características certificadas, mediante prévio requerimento à Repartição de Armazéns Gerais Industriais e despacho respectivo.
 
 2 - O manejo referido no número anterior será sempre feito sob vigilância do fiel de armazém ou por quem o substitua e condicionado às possibilidades dos serviços e dos próprios armazéns.
 
@@ -378,17 +394,17 @@ d) Entregar, conjuntamente com a requisição de depósito mencionada na alínea
 
 10 - Do auto lavrado nos termos do número anterior será entregue cópia ao fiel de armazém.
 
-###### Art. 29.º O valor para responsabilidade dos armazéns gerais industriais pelas mercadorias depositadas será o que corresponder ao valor da mercadoria conforme as tabelas em vigor e da importância devida ao portador da cautela de penhor, caso esta se encontre descontada.
+Art. 29.º O valor para responsabilidade dos armazéns gerais industriais pelas mercadorias depositadas será o que corresponder ao valor da mercadoria conforme as tabelas em vigor e da importância devida ao portador da cautela de penhor, caso esta se encontre descontada.
 
 VI
 
 Condições para emissão dos títulos de depósito
 
-###### Art. 30.º Podem requerer a emissão de títulos de depósito nos armazéns gerais industriais e ao abrigo do disposto do artigo 7.º as entidades referidas no artigo 12.º deste Regulamento.
+Art. 30.º Podem requerer a emissão de títulos de depósito nos armazéns gerais industriais e ao abrigo do disposto do artigo 7.º as entidades referidas no artigo 12.º deste Regulamento.
 
-###### Art. 31.º Só podem ser objecto de títulos de depósito as mercadorias ou produtos a que se refere o artigo 13.º
+Art. 31.º Só podem ser objecto de títulos de depósito as mercadorias ou produtos a que se refere o artigo 13.º
 
-###### Art. 32.º Os depósitos relativos às mercadorias ou produtos referidos no artigo anterior deverão obedecer às seguintes características:
+Art. 32.º Os depósitos relativos às mercadorias ou produtos referidos no artigo anterior deverão obedecer às seguintes características:
 
 1) No que respeita a conservas de peixe:
 
@@ -424,7 +440,7 @@ VII
 
 Dos títulos de depósito e suas funções
 
-###### Art. 33.º - 1 - Pelos depósitos aceites ao abrigo do presente Regulamento serão emitidos títulos em nome do respectivo depositante ou de um terceiro por este indicado, títulos estes constituídos por um conhecimento de depósito e uma cautela de penhor (certificado de depósito).
+Art. 33.º - 1 - Pelos depósitos aceites ao abrigo do presente Regulamento serão emitidos títulos em nome do respectivo depositante ou de um terceiro por este indicado, títulos estes constituídos por um conhecimento de depósito e uma cautela de penhor (certificado de depósito).
 
 2 - Dos títulos referidos no número anterior constarão obrigatoriamente os seguintes elementos:
 
@@ -444,7 +460,7 @@ g) Percentagem de empréstimo a conceder sobre o valor da mercadoria, em caso de
 
 3 - Dos títulos, para além dos elementos indicados no número anterior, poderão constar todos os que forem considerados convenientes pelo IPCP.
 
-###### Art. 34.º - 1 - Se o portador de um conhecimento de depósito e da repectiva cautela de penhor o desejar, poderá requerer a divisão desse mesmo depósito.
+Art. 34.º - 1 - Se o portador de um conhecimento de depósito e da repectiva cautela de penhor o desejar, poderá requerer a divisão desse mesmo depósito.
 
 2 - A operação de divisão será efectuada nas condições seguintes:
 
@@ -460,11 +476,11 @@ e) Aos novos títulos será atribuída numeração de ordem de acordo com o esta
 
 f) Todas as despesas provenientes da divisão serão de conta do portador do título dividido.
 
-###### Art. 35.º O conhecimento de depósito confere ao portador o direito à propriedade da mercadoria, com ressalva dos direitos do portador da cautela de penhor.
+Art. 35.º O conhecimento de depósito confere ao portador o direito à propriedade da mercadoria, com ressalva dos direitos do portador da cautela de penhor.
 
-###### Art. 36.º O portador de uma cautela de penhor poderá negociá-la sem que por isso seja privado do seu direito de propriedade sobre a mercadoria titulada.
+Art. 36.º O portador de uma cautela de penhor poderá negociá-la sem que por isso seja privado do seu direito de propriedade sobre a mercadoria titulada.
 
-###### Art. 37.º - 1 - O conhecimento de depósito e a cautela de penhor são transmissíveis, juntos ou separados, por endosso.
+Art. 37.º - 1 - O conhecimento de depósito e a cautela de penhor são transmissíveis, juntos ou separados, por endosso.
 
 2 - O endosso produzirá os seguintes efeitos:
 
@@ -474,33 +490,33 @@ b) Sendo só da cautela de penhor, conferirá ao endossado o direito de penhor s
 
 c) Sendo só do conhecimento de depósito, transmitirá a propriedade da mercadoria depositada com ressalva dos direitos do portador da cautela de penhor.
 
-###### Art. 38.º - 1 - O primeiro endosso da cautela de penhor enunciará a importância do crédito e a data do seu vencimento.
+Art. 38.º - 1 - O primeiro endosso da cautela de penhor enunciará a importância do crédito e a data do seu vencimento.
 
 2 - Este endosso deverá ser registado no conhecimento de depósito, em local próprio, assinado pelo endossado e obrigatoriamente anotado na Repartição de Armazéns Gerais Industriais.
 
 3 - Não deve ser aceite o primeiro endosso de uma cautela de penhor já separada do conhecimento de depósito que lhe corresponda, só podendo fazer-se a separação após o primeiro endossado haver assinado o registo de endosso no conhecimento.
 
-###### Art. 39.º - 1 - O conhecimento de depósito e a cautela de penhor poderão ser conjuntamente endossados em branco, conferindo este endosso, ao portador, os mesmos direitos do endossante.
+Art. 39.º - 1 - O conhecimento de depósito e a cautela de penhor poderão ser conjuntamente endossados em branco, conferindo este endosso, ao portador, os mesmos direitos do endossante.
 
 2 - Os endossos dos documentos referidos não ficam sujeitos a nulidade alguma com fundamento na insolvência do endossante, salvo provando-se que o endossado tinha conhecimento desse estado ou presumindo-se que o tinha nos termos das disposições especiais da falência.
 
-###### Art. 40.º As mercadorias depositadas não podem ser penhoradas, arrestadas, dadas em penhor ou por outra forma obrigadas, a não ser nos casos de perda do conhecimento de depósito e da cautela de penhor, de contestação sobre os direitos de sucessão e de quebra.
+Art. 40.º As mercadorias depositadas não podem ser penhoradas, arrestadas, dadas em penhor ou por outra forma obrigadas, a não ser nos casos de perda do conhecimento de depósito e da cautela de penhor, de contestação sobre os direitos de sucessão e de quebra.
 
-###### Art. 41.º - 1 - O portador de uma cautela de penhor, cuja obrigação se não mostre paga na data do vencimento, poderá fazê-la protestar, como as letras, e 10 dias depois proceder à venda do penhor nos termos gerais de direito.
+Art. 41.º - 1 - O portador de uma cautela de penhor, cuja obrigação se não mostre paga na data do vencimento, poderá fazê-la protestar, como as letras, e 10 dias depois proceder à venda do penhor nos termos gerais de direito.
 
 2 - O endossante que pagar ao portador fica sub-rogado nos direitos deste e poderá fazer proceder à venda do penhor, nos termos referidos.
 
-###### Art. 42.º A venda, por falta de pagamento, não se suspende, nos termos do artigo 40.º, sendo, porém, depositado o respectivo valor até decisão final.
+Art. 42.º A venda, por falta de pagamento, não se suspende, nos termos do artigo 40.º, sendo, porém, depositado o respectivo valor até decisão final.
 
-###### Art. 43.º Quando se verifique abaixamento do valor da mercadoria cuja cautela de penhor haja sido descontada, o portador desta, se o entender conveniente, poderá tornar imediatamente exigível o crédito, caso o penhor não venha a ser reforçado, após a respectiva notificação, de forma a que se mantenha uma margem de garantia de 25% calculada sobre o valor atribuído a mercadoria de idênticas características, mas de inferior qualidade e cotação.
+Art. 43.º Quando se verifique abaixamento do valor da mercadoria cuja cautela de penhor haja sido descontada, o portador desta, se o entender conveniente, poderá tornar imediatamente exigível o crédito, caso o penhor não venha a ser reforçado, após a respectiva notificação, de forma a que se mantenha uma margem de garantia de 25% calculada sobre o valor atribuído a mercadoria de idênticas características, mas de inferior qualidade e cotação.
 
-###### Art. 44.º O portador da cautela de penhor, em caso de sinistro ocorrido à mercadoria, tem direito a pagar-se da importância correspondente ao empréstimo, pela entidade sobre quem recaia essa responsabilidade.
+Art. 44.º O portador da cautela de penhor, em caso de sinistro ocorrido à mercadoria, tem direito a pagar-se da importância correspondente ao empréstimo, pela entidade sobre quem recaia essa responsabilidade.
 
 VIII
 
 Do seguro das mercadorias depositadas
 
-###### Art. 45.º - 1 - O seguro de todas as mercadorias depositadas, cobrindo os riscos de fogo casual, acção de raio ou tempestade, greves e tumultos, inundações, desmoronamentos, aluições e outras acções estranhas que possam danificar, inutilizar ou prejudicar as mercadorias, diminuindo o seu valor, poderá ser contratado livremente pelos proprietários das mercadorias, pelo prazo do depósito e pelo valor titulado, sendo obrigatório sempre que se efectue o desconto da respectiva cautela de penhor.
+Art. 45.º - 1 - O seguro de todas as mercadorias depositadas, cobrindo os riscos de fogo casual, acção de raio ou tempestade, greves e tumultos, inundações, desmoronamentos, aluições e outras acções estranhas que possam danificar, inutilizar ou prejudicar as mercadorias, diminuindo o seu valor, poderá ser contratado livremente pelos proprietários das mercadorias, pelo prazo do depósito e pelo valor titulado, sendo obrigatório sempre que se efectue o desconto da respectiva cautela de penhor.
 
 2 - A apólice indicará como interessada no seguro a entidade que conceder o financiamento através do desconto da cautela de penhor e dela e do recibo relativo ao prémio respectivo serão entregues cópias ou fotocópias à mesma entidade, emitidas pela empresa seguradora.
 
@@ -512,7 +528,7 @@ IX
 
 Do levantamento das mercadorias depositadas
 
-###### Art. 46.º - 1 - Aos depositantes é permitido o levantamento parcial, ou total, dos seus depósitos, mediante prévia requisição ao IPCP e nas condições seguintes:
+Art. 46.º - 1 - Aos depositantes é permitido o levantamento parcial, ou total, dos seus depósitos, mediante prévia requisição ao IPCP e nas condições seguintes:
 
 a) Entrega do conhecimento de depósito, para prova da propriedade da mercadoria e averbamento da respectiva saída;
 
@@ -528,11 +544,11 @@ b) Prova de pagamento da importância correspondente ao valor do empréstimo que
 
 6 - As cautelas de penhor cujas obrigações se mostrem totalmente liquidadas, após registo na Repartição de Armazéns Gerais Industriais, serão restituídas aos respectivos endossantes, depois de devidamente canceladas e averbada a liquidação pela entidade descontante.
 
-###### Art. 47.º - 1 - As requisições de levantamento terão o prazo de execução de 48 horas, salvo se forem revalidadas.
+Art. 47.º - 1 - As requisições de levantamento terão o prazo de execução de 48 horas, salvo se forem revalidadas.
 
 2 - A revalidação do prazo indicado no número anterior só poderá ser concedida para dia e hora que os serviços entendam por conveniente para a sua normalidade e sem prejuízo de outros levantamentos marcados.
 
-###### Art. 48.º As quantidades mínimas permitidas para levantamentos parciais das mercadorias depositadas são as seguintes:
+Art. 48.º As quantidades mínimas permitidas para levantamentos parciais das mercadorias depositadas são as seguintes:
 
 a) Conservas de peixe: 5 caixas;
 
@@ -542,17 +558,17 @@ c) Folha-de-flandres ou de alumínio: 1 caixa ou 1 malote, conforme o tipo de ac
 
 d) Mercadorias de outra natureza: sem limite.
 
-###### Art. 49.º Para manter a continuidade dos depósitos de conservas de peixe, de azeite ou óleos será necessária a existência mínima de 5 caixas e 3 bidões, respectivamente.
+Art. 49.º Para manter a continuidade dos depósitos de conservas de peixe, de azeite ou óleos será necessária a existência mínima de 5 caixas e 3 bidões, respectivamente.
 
-###### Art. 50.º De todo o movimento de levantamentos será enviada a respectiva documentação, pelos serviços dos armazéns, à Repartição de Armazéns Gerais Industriais.
+Art. 50.º De todo o movimento de levantamentos será enviada a respectiva documentação, pelos serviços dos armazéns, à Repartição de Armazéns Gerais Industriais.
 
-###### Art. 51.º O levantamento das mercadorias depositadas nos termos do artigo 14.º só poderá ser consentido mediante autorização escrita da entidade ou entidades que hajam ordenado a apreensão das referidas mercadorias e sua recolha no armazém e mediante recibo assinado por quem as receba.
+Art. 51.º O levantamento das mercadorias depositadas nos termos do artigo 14.º só poderá ser consentido mediante autorização escrita da entidade ou entidades que hajam ordenado a apreensão das referidas mercadorias e sua recolha no armazém e mediante recibo assinado por quem as receba.
 
 X
 
 Da venda das mercadorias depositadas
 
-###### Art. 52.º - 1 - As mercadorias depositadas nos armazéns do IPCP ou nos armazéns abrangidos pelo disposto no artigo 7.º serão vendidas em leilão, quando se verificarem as seguintes circunstâncias:
+Art. 52.º - 1 - As mercadorias depositadas nos armazéns do IPCP ou nos armazéns abrangidos pelo disposto no artigo 7.º serão vendidas em leilão, quando se verificarem as seguintes circunstâncias:
 
 a) Falta de pagamento do valor obtido pelo desconto das respectivas cautelas de penhor;
 
@@ -564,23 +580,23 @@ b) Não terem sido retiradas ou desseladas na data do vencimento do depósito, d
 
 4 - Quando o IPCP receba o pedido de venda das mercadorias depositadas, por parte da entidade que haja concedido o crédito ao depositante através do desconto da cautela de penhor, actuará segundo o processo prescrito neste Regulamento, mas por conta daquela entidade, que assumirá a responsabilidade pelas despesas resultantes dos actos do leilão.
 
-###### Art. 53.º - 1 - O fiel de armazém, recebida ordem para proceder ao leilão ou à venda de qualquer depósito nos termos do estipulado no artigo anterior, procederá imediatamente, sob a direcção do funcionário referido no mesmo artigo, aos actos preparatórios e operações inerentes ao leilão, acautelado, devidamente, os interesses, do IPCP, dos portadores das cautelas de penhor, dos depositantes e de todas as entidades intervenientes em possíveis operações de crédito.
+Art. 53.º - 1 - O fiel de armazém, recebida ordem para proceder ao leilão ou à venda de qualquer depósito nos termos do estipulado no artigo anterior, procederá imediatamente, sob a direcção do funcionário referido no mesmo artigo, aos actos preparatórios e operações inerentes ao leilão, acautelado, devidamente, os interesses, do IPCP, dos portadores das cautelas de penhor, dos depositantes e de todas as entidades intervenientes em possíveis operações de crédito.
 
 2 - A mercadoria poderá ser dividida em lotes, se for julgado preferível para facilidade de venda, requisitando-se à Divisão de Controle de Qualidade o seu exame, com vista à apreciação do seu estado e respectiva qualificação.
 
 3 - Dar-se-á a conveniente publicidade ao futuro leilão, montando-se escrita privativa e procedendo-se a todos os demais actos que são de uso nas vendas em hasta pública.
 
-###### Art. 54.º - 1 - Quando a venda se processe através de propostas escritas, nos termos do n.º 3 do artigo 52.º, as referidas propostas deverão ser apresentadas, no prazo indicado no anúncio de venda, directamente à Repartição de Armazéns Gerais Industriais, em sobrescrito devidamente lacrado, contendo a indicação exterior do número do processo, do depósito, e a referência ao anúncio de venda.
+Art. 54.º - 1 - Quando a venda se processe através de propostas escritas, nos termos do n.º 3 do artigo 52.º, as referidas propostas deverão ser apresentadas, no prazo indicado no anúncio de venda, directamente à Repartição de Armazéns Gerais Industriais, em sobrescrito devidamente lacrado, contendo a indicação exterior do número do processo, do depósito, e a referência ao anúncio de venda.
 
 2 - As propostas referidas no número anterior deverão conter a indicação numérica e extensa do valor da oferta, a identificação do ofertante e seu endereço.
 
-###### Art. 55.º O funcionário designado para dirigir os trabalhos relativos ao leilão fiscalizará o acto e a escrita do mesmo e apresentará à Repartição de Armazéns Gerais Industriais o correspondente auto de notícia com a sua assinatura.
+Art. 55.º O funcionário designado para dirigir os trabalhos relativos ao leilão fiscalizará o acto e a escrita do mesmo e apresentará à Repartição de Armazéns Gerais Industriais o correspondente auto de notícia com a sua assinatura.
 
-###### Art. 56.º - 1 - A venda de mercadorias em leilão será anunciada nos jornais de maior publicidade da localidade do armazém onde estiver a mercadoria, dos centros produtores mais próximos deste e, eventualmente, num dos de Lisboa e Porto, e por meio de editais afixados nas portas das secretarias de todos os armazéns gerais industriais dos centros produtores de conservas de peixe.
+Art. 56.º - 1 - A venda de mercadorias em leilão será anunciada nos jornais de maior publicidade da localidade do armazém onde estiver a mercadoria, dos centros produtores mais próximos deste e, eventualmente, num dos de Lisboa e Porto, e por meio de editais afixados nas portas das secretarias de todos os armazéns gerais industriais dos centros produtores de conservas de peixe.
 
 2 - Será também anunciada por circular às associações de industriais e de comerciantes do sector e demais entidades a quem possa interessar, incluindo empresas produtoras e exportadoras de conservas de peixe, se for julgado conveniente.
 
-###### Art. 57.º - 1 - Nos anúncios, editais e outras comunicações mencionar-se-á:
+Art. 57.º - 1 - Nos anúncios, editais e outras comunicações mencionar-se-á:
 
 a) O dia, local e hora em que o leilão se realizará;
 
@@ -594,9 +610,9 @@ c) As possibilidades de comercialização da mercadoria.
 
 4 - Quando a venda se não efectue através de leilão público mas pela aceitação de propostas escritas, os anúncios referidos no n.º 1 deverão indicar o dia, a hora e o local em que, publicamente, será feita a abertura das propostas e as condições gerais de arrematação.
 
-###### Art. 58.º Os interessados poderão examinar, verificar e requisitar amostras (nunca em número superior a 3 por lote) das mercadorias a leiloar, ou a vender, mediante autorização do fiel de armazém, nos 5 dias que antecederem o leilão.
+Art. 58.º Os interessados poderão examinar, verificar e requisitar amostras (nunca em número superior a 3 por lote) das mercadorias a leiloar, ou a vender, mediante autorização do fiel de armazém, nos 5 dias que antecederem o leilão.
 
-###### Art. 59.º - 1 - Servirá de secretário, no acto do leilão, o funcionário encarregado do expediente do armazém onde a mercadoria se encontra depositada, o qual terá a seu cargo toda a escrituração do acto, lavrará o auto respectivo e arrecadará a receita, servindo de pregoeiro o fiel de armazém.
+Art. 59.º - 1 - Servirá de secretário, no acto do leilão, o funcionário encarregado do expediente do armazém onde a mercadoria se encontra depositada, o qual terá a seu cargo toda a escrituração do acto, lavrará o auto respectivo e arrecadará a receita, servindo de pregoeiro o fiel de armazém.
 
 2 - Do auto devem constar, especificadamente:
 
@@ -610,7 +626,7 @@ c) Os preços das arrematações.
 
 4 - O funcionário da Repartição de Armazéns Gerais Industriais ordenará que figure no auto tudo quanto julgue conveniente acerca do processo e as ocorrências do leilão e assiná-lo-á.
 
-###### Art. 60.º - 1 - Quando se trate de venda através de propostas escritas, estas serão abertas publicamente por um funcionário da Repartição de Armazéns Gerais Industriais designado para presidir ao acto, no local, dia e hora indicados no anúncio da venda, servindo de secretário outro funcionário da mesma Repartição, da livre escolha do primeiro, competindo a este a elaboração do auto respectivo e a organização do processo do acto.
+Art. 60.º - 1 - Quando se trate de venda através de propostas escritas, estas serão abertas publicamente por um funcionário da Repartição de Armazéns Gerais Industriais designado para presidir ao acto, no local, dia e hora indicados no anúncio da venda, servindo de secretário outro funcionário da mesma Repartição, da livre escolha do primeiro, competindo a este a elaboração do auto respectivo e a organização do processo do acto.
 
 2 - Do auto devem constar, especificamente:
 
@@ -632,9 +648,9 @@ h) Todas as indicações julgadas úteis à apreciação do acto.
 
 3 - Do processo devem figurar, além do auto, todas as propostas abertas e respectivos sobrescritos, devidamente rubricados pelo funcionário que presidir ao acto, e, bem assim, quaisquer documentos relacionados com o processo.
 
-###### Art. 61.º As mercadorias serão postas em praça, ou em venda, com ou sem base de licitação, conforme tenha sido determinado por quem ordenou o leilão ou a venda.
+Art. 61.º As mercadorias serão postas em praça, ou em venda, com ou sem base de licitação, conforme tenha sido determinado por quem ordenou o leilão ou a venda.
 
-###### Art. 62.º - 1 - Os arrematantes serão obrigados a pagar, no acto da arrematação, 20%, no mínimo, da totalidade da mesma, importância que será entregue ao funcionário que secretariará o acto e que este entregará no prazo de 24 horas na tesouraria do IPCP ou depositará à ordem deste organismo na dependência da Caixa Geral de Depósitos mais próxima da delegação onde se situe o armazém onde for efectuado o leilão.
+Art. 62.º - 1 - Os arrematantes serão obrigados a pagar, no acto da arrematação, 20%, no mínimo, da totalidade da mesma, importância que será entregue ao funcionário que secretariará o acto e que este entregará no prazo de 24 horas na tesouraria do IPCP ou depositará à ordem deste organismo na dependência da Caixa Geral de Depósitos mais próxima da delegação onde se situe o armazém onde for efectuado o leilão.
 
 2 - No caso de venda através de propostas, o adjudicatário será obrigado a pagar a quantia correspondente à percentagem indicada no número anterior, quantia que igualmente será entregue ao funcionário que secretariará o acto e que procederá, no resto, como se enuncia naquele número.3 - Não serão abertas as propostas dos concorrentes que não se façam representar no acto da abertura.
 
@@ -644,7 +660,7 @@ h) Todas as indicações julgadas úteis à apreciação do acto.
 
 6 - Quando não paga, a mercadoria voltará a leilão ou à venda, perdendo o arrematante ou o comprador, a favor da entidade promotora do leilão, a importância que já tiver pago.
 
-###### Art. 63.º - 1 - As mercadorias vendidas em leilão ou através de propostas escritas deverão ser levantadas pelos adjudicatários, no prazo de 8 dias após a data da adjudicação, durante as horas normais de expediente, e mediante assinatura de um boletim de saída emitido pelo fiel de armazém.
+Art. 63.º - 1 - As mercadorias vendidas em leilão ou através de propostas escritas deverão ser levantadas pelos adjudicatários, no prazo de 8 dias após a data da adjudicação, durante as horas normais de expediente, e mediante assinatura de um boletim de saída emitido pelo fiel de armazém.
 
 2 - Expirados os 8 dias estabelecidos no número anterior sem que a mercadoria haja sido levantada, se o adjudicatário for industrial ou exportador de conservas de peixe, será constituído depósito em seu nome nos termos regulamentares.
 
@@ -652,7 +668,7 @@ h) Todas as indicações julgadas úteis à apreciação do acto.
 
 4 - No caso de perda da mercadoria nos termos do número anterior, a mesma voltará a ser posta em venda nas condições regulamentares.
 
-###### Art. 64.º O rendimento bruto do leilão ou da venda terá a seguinte aplicação, por ordem de prioridade.
+Art. 64.º O rendimento bruto do leilão ou da venda terá a seguinte aplicação, por ordem de prioridade.
 
 a) Pagamento à entidade que haja concedido crédito ao proprietário da mercadoria através do desconto da cautela de penhor até ao limite desse crédito;
 
@@ -664,23 +680,23 @@ d) Pagamento das despesas extraordinárias do pessoal que tiver tido interferên
 
 e) O remanescente, se o houver, será entregue ao endossante da cautela de penhor ou a quem, em sua substituição, se apresente com esse direito.
 
-###### Art. 65.º - 1 - Quando, no leilão ou na venda, o valor da máxima oferta não produza rendimento bruto necessário para as aplicações enumeradas no artigo anterior, poderá a adjudicação não se efectuar, sendo a mercadoria retirada de praça ou de venda e anunciado novo leilão ou venda 15 dias úteis depois, nos termos e condições do anterior.
+Art. 65.º - 1 - Quando, no leilão ou na venda, o valor da máxima oferta não produza rendimento bruto necessário para as aplicações enumeradas no artigo anterior, poderá a adjudicação não se efectuar, sendo a mercadoria retirada de praça ou de venda e anunciado novo leilão ou venda 15 dias úteis depois, nos termos e condições do anterior.
 
 2 - Neste leilão ou venda, a mercadoria será adjudicada pela melhor oferta, desde que esta cubra as aplicações referidas nas alíneas a), b) e c) do artigo anterior, sendo o remanescente, se o houver, destinado aos encargos referidos na alínea d) do mesmo artigo e o possível saldo à entidade indicada na alínea e).
 
 3 - Quando em segundo leilão ou venda não se consiga obter valor suficiente para as aplicações consignadas no número anterior, poderá a mercadoria ser novamente retirada da praça ou da venda e do facto será lavrado auto para submeter a despacho do director do IPCP, que decidirá sobre o procedimento futuro.
 
-###### Art. 66.º - 1 - O auto do leilão ou de venda por propostas escritas deverá ser presente, no prazo de 8 dias depois do mesmo concluído, à Repartição de Armazéns Gerais Industriais, a qual determinará os pagamentos e distribuição da receita nos termos do artigo 64.º
+Art. 66.º - 1 - O auto do leilão ou de venda por propostas escritas deverá ser presente, no prazo de 8 dias depois do mesmo concluído, à Repartição de Armazéns Gerais Industriais, a qual determinará os pagamentos e distribuição da receita nos termos do artigo 64.º
 
 2 - Os recibos e mais documentos respeitantes ao leilão ou à venda ficarão arquivados no respectivo processo, podendo, se for julgado conveniente, ser extraídas cópias ou fotocópias para o processo do depósito existente na repartição indicada neste artigo.
 
-###### Art. 67.º Quando, no decurso do leilão ou da venda, se suscitarem dúvidas ou quaisquer ocorrências não previstas neste Regulamento, as mesmas serão submetidas ao director do IPCP, que, para efeito da decisão a tomar, poderá pedir o parecer do conselho administrativo ou de outra entidade que julgue conveniente.
+Art. 67.º Quando, no decurso do leilão ou da venda, se suscitarem dúvidas ou quaisquer ocorrências não previstas neste Regulamento, as mesmas serão submetidas ao director do IPCP, que, para efeito da decisão a tomar, poderá pedir o parecer do conselho administrativo ou de outra entidade que julgue conveniente.
 
 XI
 
 Da inspecção dos serviços
 
-###### Art. 68.º - 1 - Os serviços de armazéns gerais industriais das várias delegações do continente serão regularmente inspeccionados pelos funcionários da Repartição de Armazéns Gerais Industriais devidamente qualificados e designados para o efeito.
+Art. 68.º - 1 - Os serviços de armazéns gerais industriais das várias delegações do continente serão regularmente inspeccionados pelos funcionários da Repartição de Armazéns Gerais Industriais devidamente qualificados e designados para o efeito.
 
 2 - Os serviços de armazéns gerais industriais das delegações das Regiões Autónomas dos Açores e da Madeira serão inspeccionados sempre que as circunstâncias o aconselharem, sob proposta da Repartição de Armazéns Gerais Industriais e despacho nesse sentido do director do IPCP.
 
@@ -698,17 +714,17 @@ e) A maneira como decorrem e são executados os serviços;
 
 f) A assiduidade dos responsáveis pelos serviços.
 
-###### Art. 69.º - 1 - Das inspecções serão elaborados relatórios, que serão presentes à Repartição de Armazéns Gerais Industriais, que os submeterá a despacho com a conveniente informação.
+Art. 69.º - 1 - Das inspecções serão elaborados relatórios, que serão presentes à Repartição de Armazéns Gerais Industriais, que os submeterá a despacho com a conveniente informação.
 
 2 - Os relatórios deverão estar concluídos e entregues pelos relatores no prazo de 8 dias após a data do termo da inspecção.
 
-###### Art. 70.º Competirá aos funcionários encarregados das inspecções instruírem os processos que venham a ser determinados por despachos que recaiam sobre os seus relatórios.
+Art. 70.º Competirá aos funcionários encarregados das inspecções instruírem os processos que venham a ser determinados por despachos que recaiam sobre os seus relatórios.
 
 XII
 
 Das sanções
 
-###### Art. 71.º - 1 - As infracções do presente Regulamento serão punidas pela forma prescrita na lei para acções que revistam a mesma natureza.
+Art. 71.º - 1 - As infracções do presente Regulamento serão punidas pela forma prescrita na lei para acções que revistam a mesma natureza.
 
 2 - Independentemente das sanções a aplicar, na ordem penal ou administrativa, conforme a gravidade da falta cometida e mediante a instauração de processo de inquérito, o IPCP poderá suspender a utilização pelo infractor dos armazéns gerais industriais por um período de 3 meses a 2 anos.
 
@@ -716,9 +732,9 @@ XIII
 
 Disposições complementares
 
-###### Art. 72.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
+Art. 72.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
 
-###### Art. 73.º Este Regulamento anula todos os anteriores e entra em vigor no primeiro dia útil do mês seguinte ao da data da sua publicação.
+Art. 73.º Este Regulamento anula todos os anteriores e entra em vigor no primeiro dia útil do mês seguinte ao da data da sua publicação.
 
 Ministério da Agricultura, Comércio e Pescas, 11 de Agosto de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
 
@@ -730,13 +746,13 @@ Conservas - Semiconservas - Matérias-primas
 
 Conservas:
 
-a) De peixe ... [([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+a) De peixe ... [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
-b) De moluscos [([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+b) De moluscos [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 Semiconservas:
 
-a) Anchovados [([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+a) Anchovados [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 Matérias-primas:
 
@@ -746,29 +762,29 @@ Tipos de fabricos de conservas:
 
 a) Sardinha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 b) Atum e similares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 Ovas de atum - Em azeite ou óleo.
 
 c) Cavala:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 d) Sarda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 e) Carapau:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 f) Chicharro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 g) Brama-raye:
 
@@ -776,7 +792,7 @@ Posta - Azeite e óleos.
 
 h) Bacalhau:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 i) Moluscos:
 
@@ -796,7 +812,7 @@ j) Enguias - Em molho de escabeche.
 
 l) Semiconservas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 m) Matérias-primas
 
@@ -808,7 +824,7 @@ Estanho.
 
 Soldas ou chumbo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
 
 n) Outras - As utilizadas nas conservas de peixe.
 
@@ -848,4 +864,4 @@ Tabela de formatos, pesos e factores para as espécies admitidas a depósito em 
 
 [Alíneas f) e i) do n.º 1 e alínea b) do n.º 2 do artigo 32.º do Regulamento Geral]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22701/00320043.pdf)

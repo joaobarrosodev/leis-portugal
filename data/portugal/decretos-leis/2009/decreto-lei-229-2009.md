@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17800/0630906310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/2009/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2009-489763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b8a35b4a830889d1f7b65b10014ec77ff31681f00665bdc10723352910ca59f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecac6529f9bb1fc99eaf0a567efa3772751101448f3c6675fe96f9427bf4f23f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,73 +66,84 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Reestruturação de Serviços
-- Fundação Cartão do Idoso
-- Instituto do Emprego e Formação Profissional
+- Agência Nacional para a Qualificação
+- Autoridade para as Condições do Trabalho
+- Caixa de Previdência
+- CASA PIA de Lisboa
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Pessoal Dirigente
 - Comissão de Gestão
+- Comissão do Mercado Social de Emprego
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
 - Comissão Nacional do Rendimento Social de Inserção
 - Comissão Nacional para a Política de Terceira Idade
 - Comissão Nacional para a Promoção dos Ofícios e Microempresas Artesanais
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Conselho Nacional da Formação Profissional
-- Direcção Geral da Segurança Social
+- Comissão para a Promoção de Políticas de Família
+- Comissariado Nacional para os Assuntos da Família e da Criança
+- Conselho Consultivo das Famílias
 - Conselho Económico e Social
+- Conselho Nacional da Formação Profissional
 - Conselho Nacional de Higiene e Segurança do Trabalho
+- Conselho Nacional de Segurança Social
+- Conselho Nacional para a Família e Criança
 - Conselho Nacional para a Prevenção e Eliminação da Exploração do Trabalho Infantil
+- Conselho Nacional para a Promoção do Voluntariado
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
-- Departamento de Acordos Internacionais de Segurança Social
 - Definição de Competências
+- Departamento de Acordos Internacionais de Segurança Social
+- Direcção Geral da Segurança Social
 - Direcção Geral da Segurança Social da Família e da Criança
 - Direcção Geral de Estudos Estatística e Planeamento
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Extinção de Serviços
 - FAIA
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Fundação Cartão do Idoso
 - Gabinete para a Cooperação
 - Gabinete para os Assuntos Europeus e Relações Internacionais
-- Ministério do Trabalho e da Solidariedade Social
-- Instituto de Gestão do Fundo Social Europeu
-- Agência Nacional para a Qualificação
+- Inatel
 - Inspecção Geral
+- Inspecção Geral do Trabalho
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Fundo Social Europeu
 - Instituto de Gestão Financeira da Segurança Social
-- Instituto de Informática e Estatística da Segurança Social
 - Instituto de Informática
-- CASA PIA de Lisboa
+- Instituto de Informática e Estatística da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional para a Reabilitação
 - Instituto para a Qualidade na Formação
 - Instituto para a Segurança Higiene e Saúde no Trabalho
 - Instituto Público
-- Santa Casa da Misericórdia
-- Comissão do Mercado Social de Emprego
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Inspecção Geral do Trabalho
-- Caixa de Previdência
-- Comissariado Nacional para os Assuntos da Família e da Criança
-- Conselho Nacional de Segurança Social
-- Conselho Nacional para a Família e Criança
-- Conselho Nacional para a Promoção do Voluntariado
+- Ministério do Trabalho e da Solidariedade Social
 - Observatório do Emprego e Formação Profissional
 - Orgânica
-- Comissão para a Promoção de Políticas de Família
-- Conselho Consultivo das Famílias
+- Pessoal Dirigente
 - Programa de Apoio à Iniciativa Privada Social
 - Programa para a Prevenção e Eliminação da Exploração do Trabalho Infantil
 - Quadro de Pessoal
-- Instituto Nacional para a Reabilitação
+- Reestruturação de Serviços
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Serviços Sociais
-- Inatel
 - Transferência de Competências
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:145193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério do Trabalho e da Solidariedade Social, e determinada a transição para o Ministério da Solidariedade\
+    \ e Segurança Social dos serviços organismos e estuturas identificados no Dec Lei 211/2006 de 27-Out, alterado pelo presente\
+    \ diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 20º, e sem prejuízo\
+    \ das transferências para o Ministério da Economia e do Emprego referidas no nº 4 do seu art. 16º (relativamente à Autoridade\
+    \ para as Condições de Trabalho, Direcção-Geral do Emprego e das Relações de Trabalho, Instituto do Emprego e da Formação\
+    \ Profissional, Conselho Nacional da Formação Profissional, Conselho Nacional de Higiene e Segurança no Trabalho e Comissão\
+    \ para a Igualdade no Trabalho e no Emprego).\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
@@ -145,16 +156,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/37/2004/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/37/2004/03/20/p/dre
+- type: cites
+  target: pt:dre:398496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145193:por
+  label: "Revogado, a partir de 03.01.2012, o Dec Lei 211/2006 de 27-Out, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.126/2011.29.12.2011.MSSSOC, DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:54Z'
   warnings: []
   errors: []
 ---
@@ -221,12 +250,12 @@ As atribuições do Programa para a Prevenção e Eliminação da Exploração d
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

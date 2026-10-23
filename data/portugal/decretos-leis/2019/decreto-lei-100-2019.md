@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14800/0003500036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2019/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2019-123666147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dbbab8e1f22f6bdfcc98798097c3edcde7273454d744dc2ba00964149e22812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 595cd3ab0c6e873888e8402114a760c460e28752756b58cdece2a6755925fc12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Presidência Portuguesa
+- Bruxelas
 - Estrutura de Missão para a Presidência Portuguesa do Conselho da União Europeia
+- Ministério dos Negócios Estrangeiros
 - Ministro de Estado e dos Negócios Estrangeiros
 - Nomeação
 - Orgânica
+- Presidência Portuguesa
 - Quadro de Pessoal
 - Representação Permanente de Portugal Junto das Comunidades Europeias
-- Ministério dos Negócios Estrangeiros
-- Bruxelas
 - Suspensão de Prazo
 relationships:
 - type: cites
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2006/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2006/06/05/p/dre
+- type: cites
+  target: pt:dre:171362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67541741:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:38Z'
   warnings: []
   errors: []
 ---
@@ -159,12 +191,14 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2019. - António Luís Santos da Costa - José Luís Pereira Carneiro - Maria de Fátima de Jesus Fonseca.
 
-**Promulgado em 17 de julho de 2019.**
+Promulgado em 17 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de julho de 2019.**
+Referendado em 19 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112492528

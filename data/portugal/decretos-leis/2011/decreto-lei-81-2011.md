@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa53c9571eba32f8d24bcc89b5bde515882617a0d68bd411c985d577abb10440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9211c5bfc5d1adeb828753cb57631d62938e72c76c94969bb3986282ec3b33c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,31 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Definição de Competências
-- Poluição Atmosférica
+- Equipamento Agrícola
 - Fiscalização
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
-- Segurança Rodoviária
+- Poluição Atmosférica
 - Regulamento Respeitante as Medidas a Tomar contra as Emissões de Gases Poluentes e de Particulas Poluentes Provenientes
   dos Motores Destinados a Propulsão dos Tractores Agrícolas ou Florestais
-- Equipamento Agrícola
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:25345582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260417:por
+  label: "Dada nova redação ao art. 75º e ao anexo II pelo DEC LEI.53/2013.17.04.2013.MEE, DR.IS [75] de 17.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2013-260417
+  date: '2013-04-17'
+- type: amended_by
+  target: pt:dre:25345582:por
+  label: "Alterados os arts. 61.º, 62.º, 63.º, 64.º, 65.º e 66.º bem como os anexos XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV\
+    \ e XXXVI e revogado o nº 2 do art. 66º, pelo DEC LEI.97/2014.26.06.2014.MECO, DR.IS [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2014-25345582
+  date: '2014-06-26'
 - type: cites
   target: celex:31976L0432
   label: null
@@ -141,15 +152,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1
 article_structure:
-  article_count: 87
+  article_count: 86
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:57Z'
   warnings: []
   errors: []
 ---
@@ -1298,7 +1309,9 @@ Disposições específicas
 
 Devem ser aplicadas as definições e os requisitos disposições do n.º 1 do Código 7 da Decisão C (2008) 128 da OCDE, 16 de Outubro de 2008, à excepção do n.º 1.1, conforme o disposto no anexo xi do presente Regulamento.
 
-###### Artigo 16.º — Disposições específicas
+Artigo 16.º
+
+Disposições específicas
 
 Devem ser aplicadas as definições e os requisitos do n.º 1 do Código 6 da Decisão C (2008) 128 da OCDE, 16 de Outubro de 2008, à excepção do n.º 1.1, conforme o disposto no anexo xii do presente Regulamento.»
 
@@ -1334,23 +1347,23 @@ b) Recusar a matrícula, a venda ou a entrada em circulação desses veículos.
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - José Manuel Santos de Magalhães - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 3 de Junho de 2011.**
+Promulgado em 3 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2011.**
+Referendado em 6 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
 Ficha de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que respeita às dimensões e massas rebocáveis
+Anexo à ficha de homologação CE de um modelo de tractor no que respeita às dimensões e massas rebocáveis
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas.)
 
@@ -1420,7 +1433,7 @@ Figura 1
 
 (referente ao artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 2 - Protecção dos pontos perigosos no alcance para baixo
 
@@ -1438,11 +1451,11 @@ Figura 2
 
 (referente ao artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3 - Protecção dos pontos perigosos no alcance em torno de um ponto
 
@@ -1454,7 +1467,7 @@ QUADRO N.º 1
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 4 - Protecção dos pontos perigosos na penetração e alcance através de uma abertura
 
@@ -1472,7 +1485,7 @@ a é a largura mínima da abertura.
 
 b é a distância de segurança da parte perigosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 QUADRO N.º 4
 
@@ -1482,7 +1495,7 @@ a é o diâmetro da abertura ou comprimento lateral.
 
 b é a distância de segurança da parte perigosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Todas as dimensões são em milímetros.
 
@@ -1494,7 +1507,7 @@ Todas as dimensões são em milímetros.
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 6 - Engate traseiro em três pontos
 
@@ -1514,7 +1527,7 @@ QUADRO N.º 5
 
 Figura 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Chave:
 
@@ -1546,7 +1559,7 @@ F = espaço livre.
 
 Figura 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 8 - Banco do condutor e meio circundante
 
@@ -1572,7 +1585,7 @@ h) Não existe nenhuma parte perigosa entre o encosto do banco e as peças da es
 
 Figura 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 9 - Banco do passageiro (eventual)
 
@@ -1582,7 +1595,7 @@ Figura 5
 
 Figura 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 10 - Tractores de via estreita
 
@@ -1602,11 +1615,11 @@ Figura 6
 
 Figura 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 11 - Montagem e marcação das tubagens flexíveis dos circuitos hidráulicos
 
@@ -1646,11 +1659,11 @@ c) Máximo admissível de sobrepressão dinâmica de funcionamento.
 
 Figura 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 15 - Ponto índice do banco (SIP)
 
@@ -1690,7 +1703,7 @@ Figura 10
 
 Dispositivo de determinação do ponto índice do banco (SIP)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 18 - Regulação do banco para determinar o SIP
 
@@ -1726,7 +1739,7 @@ Determinação dos eixos de referência do SIP
 
 (eixo do furo de fixação paralelo ao eixo de articulação das costas/ancas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 12
 
@@ -1734,7 +1747,7 @@ Determinação dos três eixos de referência do SIP
 
 (eixo do furo de fixação paralelo ao plano vertical que passa pela linha média do banco)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 20 - Manual do utilizador
 
@@ -1860,9 +1873,9 @@ e) O nível das estruturas de protecção contra a queda de objectos, se as houv
 
 Ficha de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que respeita ao regulador de velocidade, à protecção dos elementos motores, das partes salientes e das rodas, prescrições de segurança adicionais para aplicações especiais e manual do utilizador
+Anexo à ficha de homologação CE de um modelo de tractor no que respeita ao regulador de velocidade, à protecção dos elementos motores, das partes salientes e das rodas, prescrições de segurança adicionais para aplicações especiais e manual do utilizador
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas.)
 
@@ -1954,11 +1967,11 @@ O coeficiente de transmissão regular da luz regular t(índice r) é igual a n/1
 
 1.1.3 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 (Pára-brisas laminados)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 As outras características secundárias não são tomadas em consideração.
 
@@ -1978,13 +1991,13 @@ Figura 1
 
 Representação esquemática da distorção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 2
 
 Disposição óptica do projector
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1.2.1.2.1 - Projector, de boa qualidade, com uma fonte luminosa pontual de forte intensidade, que tenha por exemplo as seguintes características:
 
@@ -2000,17 +2013,17 @@ Figura 3
 
 Porção ampliada do dispositivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 O dispositivo de projecção está representado esquematicamente na figura 2 ao presente anexo. Deve ser colocado um diafragma de 8 mm de diâmetro a cerca de 10 mm da lente da objectiva.
 
-1.2.1.2.2 - Diapositivos (miras) constituídos, por exemplo, por uma rede de círculos claros sobre fundo escuro (v. figura 3). Os diapositivos devem ser de grande qualidade e bem contrastados, para permitir efectuar medições com um erro inferior a 5 %. Na ausência da vidraça em ensaio, as dimensões dos círculos devem ser tais que, quando projectados, formem sobre a tela uma rede de círculos de diâmetros [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf) (v. figuras 1 e 4).
+1.2.1.2.2 - Diapositivos (miras) constituídos, por exemplo, por uma rede de círculos claros sobre fundo escuro (v. figura 3). Os diapositivos devem ser de grande qualidade e bem contrastados, para permitir efectuar medições com um erro inferior a 5 %. Na ausência da vidraça em ensaio, as dimensões dos círculos devem ser tais que, quando projectados, formem sobre a tela uma rede de círculos de diâmetros [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf) (v. figuras 1 e 4).
 
 Figura 4
 
 Disposição dos aparelhos para o ensaio de distorção óptica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1.2.1.2.3 - Suporte, de preferência de um tipo que permita varrimentos verticais e horizontais, bem como uma rotação da vidraça de segurança.
 
@@ -2020,7 +2033,7 @@ Figura 5
 
 Exemplo de gabarito de controlo apropriado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1.2.1.3 - Técnica:
 
@@ -2028,11 +2041,11 @@ Exemplo de gabarito de controlo apropriado
 
 1.2.1.3.2 - Estimativa empregando um gabarito de controlo. - Quando for suficiente uma estimativa rápida, com uma precisão que não pode ser melhor que 20 %, o valor A (v. figura 5) é calculado a partir do valor limite (Delta)a(índice L), para a mudança de desvio, e do valor R(índice 2), como sendo a distância entre a vidraça de segurança e a tela de projecção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A relação entre a mudança de diâmetro de imagem projectada, (Delta)d, e a mudança de desvio angular, (Delta)a é dada pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1.2.1.3.3 - Medição por dispositivo fotoeléctrico. - Quando for exigida uma medição precisa, com uma precisão superior a 10 % do valor limite, o valor (Delta)d é medido no eixo de projecção, sendo o valor da largura do ponto luminoso fixada no ponto em que a luminosidade for 0,5 vezes a luminosidade máxima do foco de luz.
 
@@ -2120,7 +2133,7 @@ x é a distância entre a vidraça de segurança e o alvo (não inferiora7m);
 
 D é dado(a) pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 O alvo iluminado compõe-se de uma caixa de luz, de cerca de 300 mmx300 mmx150 mm de volume, cuja parte frontal é realizada de modo mais cómodo por um vidro revestido de papel negro opaco ou de tinta preta mate. A caixa deve ser iluminada por uma fonte luminosa apropriada. O interior da caixa deve ser revestido de uma camada de tinta branca mate. Pode ser conveniente utilizar outras formas de alvos, tais como a apresentada na figura 9 ao presente anexo. É igualmente possível substituir o alvo por um dispositivo de projecção e examinar as imagens resultantes sobre uma tela.
 
@@ -2138,19 +2151,19 @@ Figura 6
 
 Dimensões dos alvos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7
 
 Disposição dos aparelhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 8
 
 Aparelhos para o ensaio com colimador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1 - Lâmpada.
 
@@ -2180,7 +2193,7 @@ Figura 9
 
 Exemplo de observação segundo o método de ensaio colimador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1.3.1.2.3 - Se for colocado entre o telescópio e o colimador um provete que apresente uma imagem secundária é visível um segundo ponto luminoso de menor intensidade a uma certa distância do centro do sistema de coordenadas polares. Pode-se considerar que a separação da imagem secundária é representada pela distância entre os dois pontos luminosos observados por meio do telescópio de observação (v. figura 9). (A distância entre o ponto negro e o ponto luminoso no centro do sistema de coordenadas polares representa o desvio óptico.)
 
@@ -2234,7 +2247,7 @@ Figura 1
 
 Determinação da altura do segmento h
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 No caso da vidraça de curvatura simples, a altura do segmento é igual a h(índice 1), no máximo.
 
@@ -2244,21 +2257,21 @@ Figura 2
 
 Pontos de impacto prescritos para os pára-brisas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figuras 3a), 3b) e 3c)
 
 Pontos de impacto prescritos para vidraças de vidro têmpera uniforme
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3a) Placa de vidro plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3b) Placa de vidro plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3c) Placa de vidro encurvado.
 
@@ -2268,61 +2281,61 @@ Pontos de impacto prescritos para vidraças de vidro têmpera uniforme
 
 Pára-brisas de vidro temperado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação CE acima, aposta sobre um pára-brisas de vidro temperado, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei e com o número de homologação 001247.
 
 Pára-brisas de vidro temperado revestido de matéria plástica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação CE acima, aposta sobre um pára-brisas de vidro temperado revestido de matéria plástica, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei e com o número de homologação 001247.
 
 Pára-brisas de vidro laminado vulgar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação acima, aposta sobre um pára-brisas de vidro laminado vulgar, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei e com o número de homologação 001247.
 
 Pára-brisas de vidro laminado vulgar revestido de matéria plástica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação CE acima, aposta sobre um pára-brisas de vidro laminado vulgar revestido de matéria plástica, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei e com o número de homologação 001247.
 
 Pára-brisas de vidro laminado tratado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação acima, aposta sobre um pára-brisas de vidro laminado tratado indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei e com o número de homologação 001247.
 
 Pára-brisas de vidro plástico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação CE acima, aposta sobre um pára-brisas de vidro plástico, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei e com o número de homologação 001247.
 
 Vidraças, com exclusão dos pára-brisas, com coeficiente de transmissão regular da luz inferior a 70 %:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação acima, aposta sobre uma vidraça que não um pára-brisas à qual se aplica o disposto no n.º 1.1.4.2 do anexo iv ao presente decreto-lei, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei, com o n.º 001247.
 
 Vidraça dupla com coeficiente de transmissão regular da luz inferior a 70 %:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação acima, aposta sobre uma vidraça dupla, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei, com o n.º 001247.
 
 Vidraças de vidro de têmpera uniforme utilizadas como pára-brisas nos tractores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação acima, aposta sobre uma vidraça, indica que o elemento em questão, destinado a ser utilizado como pára-brisas num tractor, foi homologado em Portugal (e21) nos termos do presente decreto-lei, com o n.º 001247.
 
 Vidraças, com exclusão dos pára-brisas, com coeficiente de transmissão regular da luz superior ou igual a 70 %:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A marca de homologação acima, aposta sobre uma vidraça que não um pára-brisas, à qual se aplica o disposto no n.º 1.1.4.1 do anexo iv ao presente decreto-lei, indica que o elemento em questão foi homologado em Portugal (e21) nos termos do presente decreto-lei, com o n.º 001247.
 
@@ -2442,7 +2455,7 @@ f) Ensaio de resistência aos agentes químicos, que tem por objectivo determina
 
 2 - Uma vidraça de segurança deve ser homologada se estiver em conformidade com todas as exigências prescritas nas disposições a elas relativas, e constantes do quadro seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Nota. - Uma referência como K 4/3 remete para a secção XII do capítulo IV e para o n.º 2 do anexo IX ao presente decreto-lei do qual consta a descrição do ensaio correspondente e as exigências de aceitação.
 
@@ -3070,7 +3083,7 @@ Figura 1
 
 Suporte para os ensaios com esfera
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 O quadro superior assenta numa caixa de aço de cerca de 150 mm de altura. A vidraça a ser ensaiada é mantida no seu lugar pelo quadro superior, cuja massa é de 3 kg. O suporte é soldado sobre uma placa de aço de cerca de 12 mm de espessura, que assenta no solo, com interposição de uma placa de borracha de cerca de 3 mm de espessura e 50 DIDC de dureza.
 
@@ -3078,13 +3091,13 @@ Figura 2
 
 Cabeça fictícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 3
 
 Suporte para os ensaios com cabeça factícia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Dimensões em milímetros
 
@@ -3094,17 +3107,17 @@ Figura 4
 
 Esquema do dispositivo de abrasão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 5
 
 Aparelho de medição da atenuação de visibilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1 - Repetir as leituras T(índice 1), T(índice 2), T(índice 3)e T(índice 4) com outras posições dadas do provete, para determinar a sua uniformidade.
 
@@ -3112,11 +3125,11 @@ QUADRO N.º 1
 
 3 - Calcular o factor de transmissão difusa, T(índice d), por meio da fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 4 - Calcular a percentagem de atenuação por difusão de visibilidade ou da luz, ou das duas, por meio da fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 5 - Medir, utilizando a fórmula acima, a atenuação de visibilidade inicial do provete em relação a pelo menos quatro pontos igualmente espaçados na área não submetida à abrasão.
 
@@ -3134,7 +3147,7 @@ QUADRO N.º 2
 
 Índices de dificuldade das características secundárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 As outras características secundárias não são tomadas em consideração.
 
@@ -3142,7 +3155,7 @@ QUADRO N.º 3
 
 Índices de dificuldade das características secundárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 As outras características secundárias não são consideradas.
 
@@ -3150,7 +3163,7 @@ QUADRO N.º 4
 
 Índices de dificuldade das características secundárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 As outras características secundárias são tomadas em consideração.
 
@@ -3158,7 +3171,7 @@ Figura 6
 
 Exemplo de câmara de combustão, com porta-amostras e bacia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7
 
@@ -3166,7 +3179,7 @@ Exemplo de combustão
 
 Dimensões em milímetros - Tolerâncias de acordo com ISO 2768
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 8
 
@@ -3174,7 +3187,7 @@ Exemplo de bacia
 
 Dimensões em milímetros - Tolerâncias de acordo com ISO 2768
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 9
 
@@ -3182,7 +3195,7 @@ Exemplo de porta-amostras
 
 Dimensões em milímetros - Tolerâncias de acordo com ISO 2768
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 10
 
@@ -3190,7 +3203,7 @@ Exemplo de secção do quadrado em forma de U, parte interior prevista para ser 
 
 Dimensões em milímetros - Tolerâncias de acordo com ISO 2768
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 11
 
@@ -3198,19 +3211,19 @@ Amostra
 
 Dimensões em milímetros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Quadro n.º 5
 
 Índices de dificuldade das características secundárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 As outras características secundárias não são tomadas em consideração.
 
 ## ANEXO IX — (a que se referem os artigos 31.º e 38.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 [Formato máximo: A4 (210 mmx297 mm)]
 
@@ -3472,7 +3485,7 @@ Faixas de obscurecimento incorporadas (sim/não): ...
 
 Observações: ...
 
-## Anexo: lista dos pára-brisas (v. anexo xvii ao presente decreto-lei).
+Anexo: lista dos pára-brisas (v. anexo xvii ao presente decreto-lei).
 
 ## ANEXO XV — (a que se referem os artigos 31.º e 53.º)
 
@@ -3568,15 +3581,15 @@ Coordenadas do ponto de referência (A, B, C) em relação ao centro do rebordo 
 
 Descrição do parâmetro F do pára-brisas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Posição relativa do pára-brisas em relação ao ponto de referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Descrição dos parâmetros c e h do pára-brisas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 (1) Esta lista deve ser acrescentada aos anexos x, xi (se for caso disso), xii e xiv ao presente decreto-lei.
 
@@ -3716,7 +3729,7 @@ Vidro de têmpera uniforme com exclusão dos pára-brisas, podendo igualmente se
 
 1.1 - Índice de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 As outras características secundárias não intervêm.
 
@@ -3746,7 +3759,7 @@ As outras características secundárias não intervêm.
 
 1.3 - Número de amostras por série. - O número de amostras que figura em cada grupo é determinado em função da categoria de forma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1.4 - Método de ensaio:
 
@@ -3810,7 +3823,7 @@ e é repetido com uma nova amostra conforme com as prescrições do n.º 1.6.1 o
 
 2.1.1 - Índices de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A outra característica secundária (presença ou ausência de condutores) não intervém.
 
@@ -3822,7 +3835,7 @@ A outra característica secundária (presença ou ausência de condutores) não 
 
 2.1.3.2 - A altura de queda (desde a parte inferior da esfera até à face superior do provete) é a altura indicada no quadro a seguir, em função da espessura da vidraça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 2.1.4 - Interpretação dos resultados:
 
@@ -3944,7 +3957,7 @@ Vidro laminado vulgar
 
 3.3.3.2 - A altura de queda para as diferentes categorias de espessura e a massa dos fragmentos destacados constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3.3.4 - Interpretação dos resultados:
 
@@ -4034,7 +4047,7 @@ Vidraças de vidro laminado com exclusão dos pára-brisas
 
 3.3.2 - A altura de queda (desde a parte inferior da esfera até à face superior do provete) está indicada no quadro a seguir, em função da espessura nominal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3.4 - Interpretação dos resultados:
 
@@ -4096,7 +4109,7 @@ Pára-brisas de vidro laminado tratado
 
 3.1 - Índice de dificuldade das características secundárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3.2 - Número de provetes ou de amostras. - Submeter a ensaio um provete de 1100 mm x 500 mm (+5 mm/-2 mm) ou uma amostra por ponto de impacto.
 
@@ -4290,7 +4303,7 @@ Vidraças em vidro plástico com exclusão dos pára-brisas
 
 3.1 - São aplicáveis as prescrições do n.º 3 do anexo xxi ao presente decreto-lei, com excepção do quadro do n.º 3.3.2, que deve ser substituído pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3.2 - Todavia, a prescrição do terceiro travessão do n.º 3.4.1 do anexo xxi ao presente decreto-lei fica, neste caso, sem efeito.
 
@@ -4560,7 +4573,7 @@ Controlo de conformidade da produção
 
 2.1.1.4 - No decurso da campanha de produção, os ensaios de controlo devem ser efectuados com a seguinte frequência mínima:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 2.1.1.5 - No final da campanha de produção, deve ser efectuado um ensaio de controlo com uma das últimas vidraças fabricadas.
 
@@ -4634,9 +4647,9 @@ Quer 1 % de toda a produção, devendo as amostras retiradas ser representativas
 
 Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que respeita ao pára-brisas e às outras vidraças
+Anexo à ficha de homologação CE de um modelo de tractor no que respeita ao pára-brisas e às outras vidraças
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas.)
 
@@ -4690,23 +4703,23 @@ Figura 1a
 
 Dispositivo de engate não automático, com cavilha cilíndrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 1b
 
 Dispositivo de engate automático, com cavilha cilíndrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 2
 
 Engate não automático à norma ISO 6489/II de Outubro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Entre os pontos X e Y nenhum ponto do gancho deve ficar fora do raio r.
 
@@ -4720,7 +4733,7 @@ Corresponde à norma ISO 6489/III
 
 Corresponde à norma ISO 6489/I de Outubro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ## ANEXO XXXI — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
 
@@ -4740,7 +4753,7 @@ A componente horizontal, segundo o eixo longitudinal do veículo, é representad
 
 Para a ligação mecânica vale a expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A componente vertical perpendicular ao plano da via é constituída pela carga vertical estática S.
 
@@ -4764,7 +4777,7 @@ Para peças de aço ou aço vazado, o número de ciclos de carga deve ser de 2.1
 
 Se as peças de ligação mecânica incluírem molas e ou amortecedores, estes não são desmontados durante o ensaio, podendo no entanto ser substituídos se se avariarem por terem sido expostos a solicitações que não sejam habituais durante o serviço (por exemplo, transmissão de calor). No protocolo de ensaio deve descrever-se o seu comportamento antes, durante e depois do ensaio.
 
-3.2 - Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf).
+3.2 - Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf).
 
 ## ANEXO XXXII — (a que se referem os artigos 62.º, 63.º, 64.º e 65.º)
 
@@ -4810,15 +4823,15 @@ A verificação efectuar-se-á depois de anulada a carga vertical e restabelecid
 
 Prescrições relativas à altura acima do solo do dispositivo de engate (h)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Qualquer tractor cuja massa em carga exceda 2,5 t deve estar equipado com um dispositivo de engate cuja altura acima do solo satisfaça uma das relações seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ou
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ## ANEXO XXXIV — (a que se refere o artigo 65.º)
 
@@ -4862,7 +4875,7 @@ Um número de homologação CE num ponto arbitrário sob o rectângulo, e na sua
 
 Exemplos de símbolos de homologação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Legenda:
 
@@ -4872,7 +4885,7 @@ O dispositivo de ligação a que correspondem os símbolos de homologação CE a
 
 Modelo de ficha de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Dados sobre a concessão, a recusa ou a suspensão da homologação CE ou sobre a extensão da homologação CE de um tipo determinado de dispositivo de ligação (gancho, engate de boca de lobo ou barra oscilante) no respeitante à sua resistência e dimensões e à carga vertical no ponto de engate.
 
@@ -4926,9 +4939,9 @@ Carga vertical no ponto de engate: ... (daN)
 
 Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à folha de homologação CE de um modelo de tractor no que respeita ao dispositivo de ligação mecânica e à sua fixação ao tractor
+Anexo à folha de homologação CE de um modelo de tractor no que respeita ao dispositivo de ligação mecânica e à sua fixação ao tractor
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação CE dos tractores agrícolas ou florestais com rodas.)
 
@@ -5028,15 +5041,15 @@ Exemplo de placa do fabricante
 
 O exemplo dado abaixo não prejudica as indicações que possam realmente figurar na placa do fabricante; é dado unicamente a título indicativo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ## ANEXO XXXVIII — (a que se refere o artigo 72.º)
 
 Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que respeita à localização e modo de colocação das placas e inscrições regulamentares no corpo do tractor
+Anexo à ficha de homologação CE de um modelo de tractor no que respeita à localização e modo de colocação das placas e inscrições regulamentares no corpo do tractor
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas.)
 
@@ -5082,9 +5095,9 @@ Estes dados são fornecidos às autoridades competentes dos outros Estados-Membr
 
 Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de um modelo de tractor no que respeita ao comando de travagem do reboque
+Anexo à ficha de homologação CE de um modelo de tractor no que respeita ao comando de travagem do reboque
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-Membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas.)
 
@@ -5128,7 +5141,7 @@ Estes dados são fornecidos às autoridades competentes dos outros Estados-Membr
 
 ## ANEXO XL — (a que se referem os artigos 75.º e 76.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ## ANEXO XLI — (a que se refere o artigo 75.º)
 
@@ -5156,15 +5169,15 @@ a) Não há possibilidades de definição da tangente à superfície mais baixa 
 
 b) Não há possibilidades de definição da tangente à superfície mais alta possível: A articulação (B) deve ser fixada a uma altura de 230 mm acima do ponto de referência do banco(S) se a parte mais baixa da prancha do encosto for vertical. Em seguida, os dois elementos da prancha do encosto, numa posição vertical, devem ser ligeira e tangencialmente pressionados contra o encosto estofado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ## ANEXO XLII — (a que se refere o artigo 78.º)
 
 Modelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de modelo de tractor no que respeita ao espaço de manobra, às facilidades de acesso ao lugar de condução (dispositivos de subida e de descida) assim como às portas e janelas.
+Anexo à ficha de homologação CE de modelo de tractor no que respeita ao espaço de manobra, às facilidades de acesso ao lugar de condução (dispositivos de subida e de descida) assim como às portas e janelas.
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva n.º [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à homologação CE dos tractores agrícolas ou florestais de rodas)
 
@@ -5310,39 +5323,39 @@ Símbolos
 
 1. Comando de arranque
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 O símbolo 8.18 da norma ISO 3767-1:1998 pode ser utilizado como alternativa
 
 2. Comando do regime de rotação do motor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3. Comando de paragem do motor
 
 (motor de ignição comandado e motor de ignição por compressão)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 O símbolo 8.19 da norma ISO 3767-1:1998 pode ser utilizado como alternativa
 
 4. Comando do travão de estacionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 5. Comando de bloqueio do diferencial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 6. Comando de embriagem da tomada de força
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 O símbolo 7.11 da norma ISO 3767-2:1991, combinado com os símbolos 7.1 a 7.5 da norma ISO 3767-1:1998, pode ser utilizado como alternativa.
 
 7. Comando do engrenamento da tomada de força e ou de selecção das velocidades de rotação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A representação do símbolo 7.12 da tomada de força da norma ISO 3767-2:1991, combinada com os símbolos 7.1 a 7.5 da norma ISO 3767-1:1991, pode ser utilizada como alternativa.
 
@@ -5350,65 +5363,65 @@ NB.: Os símbolos acima reproduzidos referem-se a um comando de engrenamento e d
 
 8. Comando do mecanismo de elevação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 9. Comando para o accionamento à distância dos acessórios externos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 10. Comando dos faróis (médios)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 11. Comando dos indicadores de mudança de direcção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 12. Comando do sinal de emergência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 13. Comando geral das luzes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 14. Comando das luzes de presença dianteiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 15. Comando dos faróis (máximos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 16. Comando dos faróis de nevoeiro dianteiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 17. Comando do(s) farol(óis) de nevoeiro da retaguarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 18. Comando da(s) luz(es) de estacionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 19. Comando do projector de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 20. Comando do limpa pára-brisas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 21. Comando da buzina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 ## ANEXO XLV — (a que se refere o artigo 79.º)
 
 Construção do modelo de base dos símbolos constantes do anexo xliv
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 1
 
@@ -5438,9 +5451,9 @@ Modelo
 
 Formato máximo: DIN A4 (210 mm x 297 mm)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
-## Anexo à ficha de homologação CE de um tipo de tractor no tocante à instalação, à colocação, ao funcionamento e à identificação dos comandos
+Anexo à ficha de homologação CE de um tipo de tractor no tocante à instalação, à colocação, ao funcionamento e à identificação dos comandos
 
 (n.º 2 do artigo 4.º e artigo 10.º da Directiva [74/150/CEE](https://data.europa.eu/eli/dir/1974/150/oj?locale=pt), do Conselho, de 4 de Março de 1974, relativa à aproximação das legislações dos Estados-membros respeitantes à homologação dos tractores agrícolas ou florestais de rodas)
 
@@ -5488,7 +5501,9 @@ Estes desenhos são fornecidos às autoridades competentes dos outros Estados-me
 
 Os bancos de passageiros, se os houver, devem estar em conformidade com a norma EN 15694:2009.
 
-## ANEXO II — (a que se refere o capítulo II)
+ANEXO II
+
+(a que se refere o capítulo II)
 
 Requisitos técnicos
 
@@ -6052,7 +6067,7 @@ QUADRO 7.1
 
 Nível mínimo de energia de impacto requerido no ensaio de impacto Charpy com entalhe em V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3.5.2.6 - Uma outra maneira de proceder consiste em utilizar aços calmados ou semicalmados, devendo ser fornecidas especificações adequadas. A qualidade e a classe do aço devem ser especificadas segundo a norma ISO 630:1995, Amd 1:2003.
 
@@ -6072,61 +6087,61 @@ Figura 7.1.b
 
 Vista da retaguarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.1.c
 
 Vista de cima
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.2.a
 
 Zona livre para tractores com posição de condução reversível: arco de segurança de dois montantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.2.b
 
 Zona livre para tractores com posição de condução reversível: outros tipos de ROPS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.3
 
 Bloco pendular e respectivas correntes ou cabos de suspensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.4
 
 Exemplo de fixação do tractor (impacto à retaguarda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.5
 
 Exemplo de fixação do tractor (impacto à frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.6
 
 Exemplo de fixação do tractor (impacto lateral)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.7
 
 Exemplo de dispositivo de esmagamento do tractor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 7.8
 
 Exemplo de um aparelho de medição das deformações elásticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1 - Deformação permanente
 
@@ -6140,7 +6155,7 @@ Curva Força/Deformação
 
 O ensaio de sobrecarga não é necessário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Notas:
 
@@ -6156,7 +6171,7 @@ Curva Força/Deformação
 
 O ensaio de sobrecarga deve ser prosseguido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Notas:
 
@@ -6176,7 +6191,9 @@ Notas:
 
 (*) Deformação permanente + elástica medidas no ponto em que o nível de energia exigido é obtido.
 
-## ANEXO VI — (a que se refere o Capítulo III, em conformidade com o anexo VI do Decreto-Lei n.º 3/2002, de 4 de Janeiro.)
+ANEXO VI
+
+(a que se refere o Capítulo III, em conformidade com o anexo VI do Decreto-Lei n.º 3/2002, de 4 de Janeiro.)
 
 Requisitos técnicos
 
@@ -6232,7 +6249,7 @@ B = 335 (mais ou menos) 20
 
 3.1.4.3.1 - Devem ser determinados os seguintes dados característicos relativos ao tractor, a fim de calcular os valores que permitam impedir a capotagem contínua (ver figura 6.5):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 A soma da via (S) e da largura dos pneus (B(índice 0) deve ser superior à largura B(índice 6) da estrutura de protecção.
 
@@ -6874,7 +6891,7 @@ QUADRO 6.1
 
 Nível mínimo de energia de impacto requerido no ensaio de impacto Charpy com entalhe em V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 3.7 - [não aplicável].
 
@@ -6886,19 +6903,19 @@ Figura 6.1.a
 
 Vista lateral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.1.b
 
 Vista da retaguarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.1.c
 
 Vista de cima
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1 - Linha de referência
 
@@ -6910,13 +6927,13 @@ Figura 6.2
 
 Zona livre para tractores com banco e volante reversíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.3
 
 Fluxograma destinado a determinar, em caso de tombamento lateral, as características de capotagem contínua de um tractor equipado com uma estrutura de protecção contra a capotagem (ROPS) montada à frente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Versão B1: Ponto de impacto da ROPS fixada atrás do ponto de equilíbrio longitudinal instável
 
@@ -6928,13 +6945,13 @@ Figura 6.4
 
 Dispositivo de ensaio das características anticapotagem contínua dos tractores num plano com uma inclinação de 1/1,5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.5
 
 Dados necessários para calcular o tombamento de um tractor com um comportamento de capotagem no espaço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Nota: D(índice 2) e D(índice 3) devem ser medidos a plena carga do eixo
 
@@ -6942,61 +6959,61 @@ Figura 6.6.a, 6.6.b e 6.6.c
 
 Distância horizontal entre o centro de gravidade e o ponto de intersecção anterior da estrutura de protecção (L(índice 6))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.7
 
 Determinação dos pontos de impacto para a medição da largura da estrutura de protecção (B(índice 6)) e da altura da capota do motor (H(índice 7))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.8
 
 Altura do ponto de articulação do eixo dianteiro (H(índice 0))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.9
 
 Via traseira (S) e largura dos pneus traseiros (B(índice 0))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.10
 
 Bloco pendular e respectivas correntes ou cabos de suspensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.11
 
 Exemplo de fixação do tractor (impacto à retaguarda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.12
 
 Exemplo de fixação do tractor (impacto à frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.13
 
 Exemplo de fixação do tractor (impacto lateral)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.14
 
 Exemplo de dispositivo de esmagamento do tractor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.15
 
 Exemplo de um aparelho de medição das deformações elásticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 1 - Deformação permanente
 
@@ -7008,13 +7025,13 @@ Figura 6.16
 
 Plano simulado do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.17
 
 Largura mínima do dispositivo rígido à retaguarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Figura 6.18
 
@@ -7022,7 +7039,7 @@ Curva Força/Deformação
 
 O ensaio de sobrecarga não é necessário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Notas
 
@@ -7036,7 +7053,7 @@ Curva Força/Deformação
 
 O ensaio de sobrecarga é necessário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Notas
 
@@ -7052,7 +7069,7 @@ Curva Força/Deformação
 
 O ensaio de sobrecarga deve ser prosseguido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0348303583.pdf)
 
 Notas
 
@@ -7292,7 +7309,9 @@ As dimensões críticas e a posição do banco e do volante em relação ao disp
 
 4.3 - As inscrições devem ser visíveis, legíveis e indeléveis.
 
-## ANEXO XII — (a que se refere o artigo 16.º)
+ANEXO XII
+
+(a que se refere o artigo 16.º)
 
 Disposições específicas
 

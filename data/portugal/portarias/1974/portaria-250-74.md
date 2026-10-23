@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-1974-411812
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc47971148d63c2630ce536b4ce47f973b0ecdb40e85e2e7c630aa271ae48cba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b70f3261a50b3ed7f82266081ba35fe410870193558fb9c52986297418cc0a50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:684231:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:52Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Que seja tornado extensivo às províncias ultramarinas o [Decreto-Lei n.º 102/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1973-684231), de 13 de Março, com a seguinte redacção:
 
-###### Artigo 1.º - 1. Nos estabelecimentos de ensino técnico médico e de ensino secundário poderão, por despacho do Governador, ser organizadas secções desde que se verifique um dos seguintes requisitos:
+Artigo 1.º - 1. Nos estabelecimentos de ensino técnico médico e de ensino secundário poderão, por despacho do Governador, ser organizadas secções desde que se verifique um dos seguintes requisitos:
 
 a) Existência de turmas em localidades diferentes da do estabelecimento sede;
 
@@ -102,25 +106,25 @@ d) Existência de turmas cujas actividades lectivas se iniciem depois das 17 hor
 
 3. As secções a que se refere o n.º 1 deste artigo serão orientadas por um subdirector ou por um vice-reitor.
 
-###### Art. 2.º O provimento nos cargos de director ou reitor dos estabelecimentos referidos no artigo anterior, bem como nos do ensino preparatório e do magistério primário, confere o direito ao abono do vencimento fixado, dentro do ramo de ensino a que pertençam, para os professores com a última diuturnidade.
+Art. 2.º O provimento nos cargos de director ou reitor dos estabelecimentos referidos no artigo anterior, bem como nos do ensino preparatório e do magistério primário, confere o direito ao abono do vencimento fixado, dentro do ramo de ensino a que pertençam, para os professores com a última diuturnidade.
 
-###### Art. 3.º O exercício da função de director ou reitor dos estabelecimentos de ensino técnico médio, secundário e preparatório, bem como das escolas do magistério primário, confere ainda o direito a uma gratificação a fixar pelos órgãos legislativos provinciais.
+Art. 3.º O exercício da função de director ou reitor dos estabelecimentos de ensino técnico médio, secundário e preparatório, bem como das escolas do magistério primário, confere ainda o direito a uma gratificação a fixar pelos órgãos legislativos provinciais.
 
-###### Art. 4.º - 1. O cargo de director de turma já existente no ensino preparatório é extensivo ao ensino secundário liceal e técnico.
+Art. 4.º - 1. O cargo de director de turma já existente no ensino preparatório é extensivo ao ensino secundário liceal e técnico.
 
 2. Compete ao director de turma presidir ao conselho de turma, apreciar os problemas educativos e disciplinares dos alunos e assegurar os contactos com as famílias.
 
-###### Art. 5.º - 1. É extensivo aos liceus e escolas preparatórias o cargo de professor-delegado já existente nas escolas técnicas secundárias.
+Art. 5.º - 1. É extensivo aos liceus e escolas preparatórias o cargo de professor-delegado já existente nas escolas técnicas secundárias.
 
 2. Compete ao professor-delegado orientar e coordenar o ensino de uma disciplina ou de um grupo de disciplinas.
 
-###### Art. 6.º - 1. O exercício das funções directivas nos estabelecimentos de ensino técnico médio, secundário liceal e técnico, bem como nas escolas do magistério primário e preparatórias, confere o direito às gratificações a fixar pelos órgãos legislativos provinciais.
+Art. 6.º - 1. O exercício das funções directivas nos estabelecimentos de ensino técnico médio, secundário liceal e técnico, bem como nas escolas do magistério primário e preparatórias, confere o direito às gratificações a fixar pelos órgãos legislativos provinciais.
 
 2. Os directores, subdirectores e professores-secretários dos estabelecimentos de ensino técnico médio e das escolas do magistério primário têm direito, além das gratificações, à redução constante da tabela I, no tempo de serviço docente que, na sua qualidade de professor, legalmente lhes compete.
 
 3. A tabela II anexa ao presente diploma é aplicável, nas condições referidas no número anterior, aos titulares dos cargos nela mencionados em exercício nos estabelecimentos de ensino secundário e preparatório.
 
-###### Art. 7.º - 1. As nomeações para as funções directivas mencionadas no presente diploma consideram-se sempre feitas por conveniência urgente de serviço.
+Art. 7.º - 1. As nomeações para as funções directivas mencionadas no presente diploma consideram-se sempre feitas por conveniência urgente de serviço.
 
 2. As gratificações e reduções de serviço por um cargo não são acumuláveis com quaisquer outras previstas neste diploma.
 
@@ -132,10 +136,10 @@ Tabelas anexas ao [Decreto-Lei n.º 102/73](https://diariodarepublica.pt/dr/deta
 
 Tabela I (n.º 2 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08100/04960497.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08100/04960497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08100/04960497.pdf)
 
 Tabela II (n.º 3 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08100/04960497.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08100/04960497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08100/04960497.pdf)
 
-**O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.

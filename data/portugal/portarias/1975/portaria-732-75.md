@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/732-1975-311266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 094ce8c3c5c056c39260687a39f0030c50807d1f173386150dfea7a2faee701b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abd17c6310fcf0f0c0baffe993c54610d41dd96140d05e0ddb489763475ba355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Regulamento
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:252002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado, no sentido de clarificar as als.a) e b) dos n.os 1.º e 2.º do art. 262.º do Regulamento da Inscrição
+    Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out
+    1964n na redação do presente diploma, pelo(a) Portaria n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:02Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +123,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 2. O corpo do artigo 3.º, o seu § 1.º, o corpo dos seus §§ 2.º e 3.º, o artigo 34.º, as alíneas a), b) e c) do corpo do artigo 36.º e as alíneas b) e c) do seu § único, as alíneas b), c) e d) do corpo do artigo 37.º e as alíneas a) e b) do seu § único, as alíneas b), c), d) e e) do corpo do artigo 38.º e seu § único, os artigos 43.º, 44.º, 45.º, 46.º e 47.º, as alíneas a) e b) do § 1.º do artigo 74.º, o corpo do artigo 76.º e as alíneas b) e c) do seu § 1.º, o corpo do artigo 77.º e as alíneas a) e b) do seu § único, o artigo 78.º, artigos 110.º, 111.º, 112.º, 113.º e 115.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 3.º O grupo tripulação divide-se nos seguintes escalões:
+Art. 3.º O grupo tripulação divide-se nos seguintes escalões:
 
 a) Oficiais;
 
@@ -162,7 +187,7 @@ c) Marinhagem.
 
 ...
 
-###### Art. 34.º Ao capitão da marinha mercante compete o comando de embarcações da marinha mercante de qualquer tonelagem.
+Art. 34.º Ao capitão da marinha mercante compete o comando de embarcações da marinha mercante de qualquer tonelagem.
 
 § 1.º A categoria de capitão da marinha mercante será atribuída ao piloto-chefe que prove ter:
 
@@ -174,7 +199,7 @@ b) 3600 horas de navegação como imediato ou comandante.
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 a) Primeiro-piloto em embarcações de qualquer tonelagem;
 
@@ -190,7 +215,7 @@ b) Dezoito meses de embarque como segundo-piloto ou em função superior, depois
 
 c) 2700 horas de navegação como segundo-piloto ou em função superior.
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 ...
 
@@ -208,7 +233,7 @@ a) Dezoito meses de embarque como terceiro-piloto ou em função superior, depoi
 
 b) 2700 horas de navegação como terceiro-piloto ou em função superior.
 
-###### Art. 38.º ...
+Art. 38.º ...
 
 ...
 
@@ -224,7 +249,7 @@ e) Comandante de embarcações com arqueação bruta máxima de 500 t.
 
 ...
 
-###### Art. 43.º Ao radiotécnico-chefe compete a chefia das estações de radiocomunicações de qualquer categoria e a responsabilidade pela assistência técnica e eficiência de toda a aparelhagem electrónica das embarcações da marinha mercante.
+Art. 43.º Ao radiotécnico-chefe compete a chefia das estações de radiocomunicações de qualquer categoria e a responsabilidade pela assistência técnica e eficiência de toda a aparelhagem electrónica das embarcações da marinha mercante.
 
 § 1.º A categoria de radiotécnico-chefe será atribuída ao radiotécnico de 1.ª classe que prove ter:
 
@@ -232,7 +257,7 @@ a) Dois anos de embarque como primeiro-radiotécnico ou chefe de radiotecnia, de
 
 b) 3600 horas de navegação como primeiro-radiotécnico ou chefe de radiotecnia.
 
-###### Art. 44.º Ao radiotécnico de 1.ª classe compete exercer as funções de:
+Art. 44.º Ao radiotécnico de 1.ª classe compete exercer as funções de:
 
 a) Primeiro-radiotécnico em embarcações com estações de radiocomunicações de qualquer categoria;
 
@@ -246,7 +271,7 @@ b) Dezoito meses de embarque como segundo-radiotécnico ou em função superior,
 
 c) 2700 horas de navegação como segundo-radiotécnico ou em função superior.
 
-###### Art. 45.º Ao radiotécnico de 2.ª classe compete exercer as funções de:
+Art. 45.º Ao radiotécnico de 2.ª classe compete exercer as funções de:
 
 a) Segundo-radiotécnico em embarcações com estações de radiocomunicações de qualquer categoria;
 
@@ -264,19 +289,19 @@ b) 2700 horas de navegação como terceiro-radiotécnico ou em função superior
 
 § 2.º A aprovação no curso complementar de radiotecnia da Escola Náutica confere ao respectivo titular o direito de requerer a passagem de um certificado de radiotelegrafista de 1.ª classe, nos termos do Regulamento de Radiocomunicações Anexo à Convenção Internacional de Telecomunicações.
 
-###### Art. 46.º Os praticantes de radiotécnico embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo serviços compatíveis com a sua categoria que lhes forem ordenados pelo chefe de radiotecnia.
+Art. 46.º Os praticantes de radiotécnico embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo serviços compatíveis com a sua categoria que lhes forem ordenados pelo chefe de radiotecnia.
 
 § 1.º A categoria de praticante de radiotécnico será atribuída ao indivíduo que prove estar habilitado com o curso geral de radiotecnia da Escola Náutica.
 
 § 2.º A aprovação no curso geral de radiotecnia da Escola Náutica confere ao respectivo titular o direito de requerer a passagem de um certificado de radiotelegrafista de 2.ª classe, nos termos do Regulamento de Radiocomunicações Anexo à Convenção Internacional de Telecomunicações.
 
-###### Art. 47.º Para o desempenho das funções de radiotelegrafista prático, dentro dos limites impostos pelo artigo 262.º, poderão ser matriculados, como pertencentes ao escalão da mestrança, indivíduos portadores de certificado de radiotelegrafista da classe A ou B, passado nas condições indicadas no artigo 50.º
+Art. 47.º Para o desempenho das funções de radiotelegrafista prático, dentro dos limites impostos pelo artigo 262.º, poderão ser matriculados, como pertencentes ao escalão da mestrança, indivíduos portadores de certificado de radiotelegrafista da classe A ou B, passado nas condições indicadas no artigo 50.º
 
 § único. As funções de operador radiotelefonista de estações radiotelefónicas não instaladas e não operadas de dentro das estações de radiocomunicações serão desempenhadas por indivíduos portadores de certificado geral ou restrito de radiotelefonista passado nas condições indicadas nos artigos 7.º e 8.º
 
 ...
 
-###### Art. 74.º ...
+Art. 74.º ...
 
 § 1.º ...
 
@@ -286,7 +311,7 @@ b) 3600 horas de navegação como primeiro-maquinista ou chefe de máquinas, em 
 
 ...
 
-###### Art. 76.º Ao maquinista de 1.ª classe compete exercer funções de:
+Art. 76.º Ao maquinista de 1.ª classe compete exercer funções de:
 
 a) Primeiro-maquinista em embarcações com máquinas propulsoras de qualquer potência;
 
@@ -302,7 +327,7 @@ c) 2700 horas de navegação como segundo-maquinista ou em função superior, em
 
 ...
 
-###### Art. 77.º Ao maquinista de 2.ª classe compete exercer as funções de:
+Art. 77.º Ao maquinista de 2.ª classe compete exercer as funções de:
 
 a) Segundo-maquinista em embarcações com máquinas propulsoras de qualquer potência;
 
@@ -318,7 +343,7 @@ a) Dezoito meses de embarque como terceiro-maquinista ou em função superior, d
 
 b) 2700 horas de navegação como terceiro-maquinista ou em função superior.
 
-###### Art. 78.º Ao maquinista de 3.ª classe compete exercer as funções de:
+Art. 78.º Ao maquinista de 3.ª classe compete exercer as funções de:
 
 a) Terceiro-maquinista em embarcações de qualquer potência;
 
@@ -332,7 +357,7 @@ d) Chefe de máquinas em embarcações com potência máxima de 600 cv e.
 
 ...
 
-###### Art. 110.º Ao comissário-chefe compete a chefia administrativa e financeira do serviço de passageiros, da tripulação e do abastecimento de embarcações da marinha mercante com qualquer número de passageiros.
+Art. 110.º Ao comissário-chefe compete a chefia administrativa e financeira do serviço de passageiros, da tripulação e do abastecimento de embarcações da marinha mercante com qualquer número de passageiros.
 
 § 1.º A categoria de comissário-chefe será atribuída ao comissário de 1.ª classe que prove ter:
 
@@ -340,7 +365,7 @@ a) Dois anos de embarque como primeiro-comissário ou em função superior, depo
 
 b) 3600 horas de navegação como primeiro-comissário ou em função superior.
 
-###### Art. 111.º Ao comissário de 1.ª classe compete exercer as funções de:
+Art. 111.º Ao comissário de 1.ª classe compete exercer as funções de:
 
 a) Primeiro-comissário em embarcações com qualquer número de passageiros;
 
@@ -354,7 +379,7 @@ b) Dezoito meses de embarque como segundo-comissário ou em função superior, d
 
 c) 2700 horas de navegação como segundo-comissário ou em função superior.
 
-###### Art. 112.º Ao comissário de 2.ª classe compete exercer as funções de:
+Art. 112.º Ao comissário de 2.ª classe compete exercer as funções de:
 
 a) Segundo-comissário em embarcações com qualquer número de passageiros;
 
@@ -368,7 +393,7 @@ a) Dezoito meses de embarque como terceiro-comissário ou em função superior, 
 
 b) 2700 horas de navegação como terceiro-comissário ou em função superior.
 
-###### Art. 113.º Ao comissário de 3.ª classe compete exercer as funções de:
+Art. 113.º Ao comissário de 3.ª classe compete exercer as funções de:
 
 a) Terceiro-comissário em embarcações com qualquer número de passageiros;
 
@@ -382,13 +407,13 @@ d) Chefe de comissariado em embarcações com uma lotação máxima de 50 passag
 
 ...
 
-###### Art. 115.º Os praticantes de comissário embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo os serviços compatíveis com a sua categoria que lhes forem ordenados pelo chefe de comissariado.
+Art. 115.º Os praticantes de comissário embarcam extralotação para preenchimento das condições de acesso à categoria superior e desempenham a bordo os serviços compatíveis com a sua categoria que lhes forem ordenados pelo chefe de comissariado.
 
 § único. A categoria de praticante de comissário será atribuída ao indivíduo que prove estar habilitado com o curso geral de comissariado da Escola Náutica.
 
 3. São acrescentados ao RIM o artigo 34.º-A e seus parágrafos, o artigo 46.º-A e seu § único e o artigo 79.º, com a seguinte redacção:
 
-###### Art. 34.º-A Ao piloto-chefe compete exercer as funções de:
+Art. 34.º-A Ao piloto-chefe compete exercer as funções de:
 
 a) Imediato em embarcações de qualquer tonelagem;
 
@@ -404,7 +429,7 @@ b) 3600 horas de navegação como primeiro-piloto ou em função superior.
 
 ...
 
-###### Art. 46.º-A Ao radiotécnico de 3.ª classe compete exercer as funções de:
+Art. 46.º-A Ao radiotécnico de 3.ª classe compete exercer as funções de:
 
 a) Terceiro-radiotécnico em embarcações com estações de radiocomunicações de qualquer categoria;
 
@@ -416,13 +441,13 @@ d) Chefe de radiotecnia em embarcações com estações de radiocomunicações d
 
 § único. A categoria de radiotécnico de 3.ª classe será atribuída ao praticante de radiotécnico que prove ter, nesta categoria, um ano de embarque e 5500 horas de navegação.
 
-###### Art. 79.º As potências necessárias à obtenção das cartas correspondentes às várias categorias de oficial maquinista ou indicadas como limite para o desempenho de funções de chefia, constantes do presente diploma, podem ser preteridas em favor de critérios de avaliação técnica por parte da Secretaria de Estado da Marinha Mercante e pelo sindicato respectivo, quando a complexidade técnica global das instalações o justificar, mediante solicitação dos interessados.
+Art. 79.º As potências necessárias à obtenção das cartas correspondentes às várias categorias de oficial maquinista ou indicadas como limite para o desempenho de funções de chefia, constantes do presente diploma, podem ser preteridas em favor de critérios de avaliação técnica por parte da Secretaria de Estado da Marinha Mercante e pelo sindicato respectivo, quando a complexidade técnica global das instalações o justificar, mediante solicitação dos interessados.
 
 4. Os oficiais da marinha mercante das especialidades de pilotagem, radiotecnia e comissariado com o curso complementar da Escola Náutica e a carta de oficial de 1.ª classe da respectiva especialidade à data da publicação deste diploma poderão desempenhar as funções de imediato, chefe de radiotecnia e chefe de comissariado de qualquer embarcação da marinha mercante, até à obtenção de carta superior dos referidos sectores, no prazo de cinco anos.
 
 5. São suprimidos os §§ 1.º e 2.º do artigo 35.º do RIM e incluído, em sua substituição neste artigo, um § único com a seguinte redacção:
 
-###### Art. 35.º ...
+Art. 35.º ...
 
 § único. As cartas de capitão pescador obtidas ao abrigo da lei anterior manter-se-ão em vigor, ficando suspensa, à data da publicação deste diploma, a concessão de novas cartas até à publicação de regulamentação sobre o assunto.
 

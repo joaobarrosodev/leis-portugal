@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2009/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2009-605542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5b935a3e148196b96d786884711027d8b1a9cffd86563e8f1ad67720c3830b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5943127304f3d4f8646fb9da5ef7dccd7d840d8a6c7b1d4f45984005c4a2de6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Financiamento
-- Empresa
-- Turismo
 - Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- Energia
-- Produção
 - Comércio
+- Empresa
+- Energia
+- Financiamento
+- Indústria
+- Produção
+- Projeto de Investimento
+- QREN
 - Transporte
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:164421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164421:por
+  label: "Alterado o art. 1.º do Dec Lei 287/2007, de 17-ago, na redacção do presente diploma, pelo DEC LEI.167-B/2013.31.12.2013.MECO,\
+    \ DR.IS [253-3ºSupl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-b-2013-164421
+  date: '2013-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2007/08/17/p/dre
   label: null
@@ -92,16 +98,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: corrected_by
+  target: pt:dre:608880:por
+  label: "Rectificado o presente diploma, que altera o Decreto-Lei n.º 287/2007, de 17 de Agosto, e o republica, pela DECL-RECT.33/2009.19.05.2009.PCM,\
+    \ DR.IS [96] de 19.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/33-2009-608880
+  date: '2009-05-19'
 article_structure:
-  article_count: 31
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:04Z'
   warnings: []
   errors: []
 ---
@@ -150,13 +162,17 @@ c) ...
 
 5 - Podem ainda ser susceptíveis de incentivos os investimentos considerados de interesse estratégico para a economia nacional ou de determinada região, como tal reconhecidos, a título excepcional, por despacho dos membros do Governo responsáveis pelas áreas do desenvolvimento regional e da economia, bem como do membro do Governo responsável pelas respectivas fontes de financiamento do projecto.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Podem beneficiar dos apoios previstos nos sistemas de incentivos as empresas de qualquer natureza e sob qualquer forma jurídica, incluindo, para além das sociedades comerciais, outro tipo de organização empresarial, como sejam, agrupamentos complementares de empresas e, ainda, entidades sem fins lucrativos que prestem serviços de carácter inovador, visando, nomeadamente a promoção e acompanhamento de projectos em PME nas diversas áreas que integram os sistemas de incentivos.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os sistemas de incentivos às empresas podem apoiar projectos de investimento nas seguintes actividades, de acordo com a Classificação Portuguesa das Actividades Económicas (CAE), Revisão 3, estabelecida pelo Decreto-Lei n.º 381/2007, de 14 de Novembro:
 
@@ -178,7 +194,9 @@ f) Serviços - actividades incluídas nas divisões 37 a 39, 58, 59, 62, 63, 69,
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +206,9 @@ f) Serviços - actividades incluídas nas divisões 37 a 39, 58, 59, 62, 63, 69,
 
 4 - As entidades beneficiárias ficam obrigadas a publicitar os apoios concedidos nos termos da respectiva regulamentação específica.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +220,9 @@ f) Serviços - actividades incluídas nas divisões 37 a 39, 58, 59, 62, 63, 69,
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -226,21 +248,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 13 de Março de 2009.**
+Promulgado em 13 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Março de 2009.**
+Referendado em 16 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — «ANEXO
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05600/0177701785.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05600/0177701785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05600/0177701785.pdf)
 
 [...].»
 
@@ -574,6 +596,6 @@ Limites máximos de incentivos às empresas
 
 [expressos em equivalente de subvenção bruta (1)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05600/0177701785.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05600/0177701785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05600/0177701785.pdf)
 
 (1) Taxa ESB - valor do incentivo (em percentagem do investimento elegível), convertido em subsídio não reembolsável, actualizado para o momento da concessão.

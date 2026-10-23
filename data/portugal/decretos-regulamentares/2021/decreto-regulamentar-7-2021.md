@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/12/23500/0001700040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2021/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8c99a208e5271b8ad83084eb8cbc28fa84491feb5a76625194a366c82da21f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fd4c2863575d5bf3aea638825cc431129eac9cacf5da1e51a74bfb04a00c22c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,28 @@ reuse:
 subjects:
 - Acreditação
 - Comunicação Social
-- ERC
 - Contra-ordenação
-- Regulamentação de Atos Legislativos
+- Dados Abertos
 - Edição de Publicações
 - Emolumento
+- ERC
 - Instituto Nacional da Propriedade Industrial
+- Internet
 - Operador de Audiovisual
 - Operador de Radiodifusão
-- Radiodifusão
 - Operador de Televisão
 - Página na Internet
-- Internet
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
+- Portal de Dados Abertos da Administração Pública
+- Portal ePortugal
+- Programa Audiovisual
+- Radiodifusão
 - Registo Obrigatório
+- Regulamentação de Atos Legislativos
 - Regulamento CE
 - Televisão
-- Programa Audiovisual
 - Videograma
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
-- Portal ePortugal
-- Portal de Dados Abertos da Administração Pública
-- Dados Abertos
 relationships:
 - type: cites
   target: celex:32014R0910
@@ -139,20 +139,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2015/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2015/07/29/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148963298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889523:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32018L1808
   label: null
   source: null
 article_structure:
-  article_count: 96
+  article_count: 65
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:00Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +247,9 @@ Os artigos 1.º, 2.º, 5.º-A, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 17.º, 18.
 
 2 - O registo tem por finalidades comprovar a situação jurídica dos órgãos de comunicação social, publicitar a sua propriedade, a sua organização, o seu funcionamento e as suas obrigações, bem como assegurar a proteção legal dos títulos de imprensa, da denominação dos operadores de rádio e serviços de programas radiofónicos, dos operadores de televisão e serviços de programas televisivos, dos serviços de programas de rádio e de televisão difundidos exclusivamente através da Internet, dos operadores de serviços audiovisuais a pedido e serviços audiovisuais a pedido e dos fornecedores de plataformas de partilha de vídeos e as plataformas de partilha de vídeos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -221,7 +271,9 @@ h) Os operadores de serviços audiovisuais a pedido e os serviços audiovisuais 
 
 i) Os fornecedores de plataformas de partilha de vídeos e as plataformas de partilha de vídeos.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - Para aferir dos motivos de recusa previstos na alínea b) do n.º 1 do artigo 19.º e na alínea d) do n.º 1 do artigo 26.º, bem como para aplicação do disposto no artigo 30.º, no artigo 36.º-E e nos artigos 36.º-I e 36.º-M, a ERC solicita ao Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.), a informação comprovativa de que não se encontram aí registados direitos anteriores que possam obstar ao registo dos órgãos de comunicação social, dos serviços audiovisuais a pedido ou das plataformas de partilha de vídeo a que se refere o presente decreto regulamentar.
 
@@ -231,13 +283,17 @@ i) Os fornecedores de plataformas de partilha de vídeos e as plataformas de par
 
 4 - A partilha de dados e ou documentos necessários à realização de atos de registo, desde que assegurado o cumprimento das regras relativas à proteção de dados pessoais, pode ser realizada através da Plataforma de Interoperabilidade da Administração Pública (iAP).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As inscrições iniciais e os averbamentos são requeridos pela entidade que pretenda promover a edição de publicações periódicas, pela entidade que pretenda desenvolver a atividade de empresa noticiosa, pela entidade que pretenda difundir serviços de programas exclusivamente através da Internet, pela entidade que pretenda prestar serviços audiovisuais a pedido e pela entidade que pretenda fornecer plataformas de partilha de vídeos e, quando aplicável, pelos operadores de rádio, pelos operadores de televisão e pelos operadores de distribuição.
 
 2 - [...].
 
-###### Artigo 7.º — Convite ao aperfeiçoamento e renovação do pedido
+Artigo 7.º
+
+Convite ao aperfeiçoamento e renovação do pedido
 
 1 - Se o requerimento de registo padecer de deficiência de instrução, os interessados são convidados a supri-la no prazo de 10 dias úteis, sob pena de recusa do registo.
 
@@ -245,7 +301,9 @@ i) Os fornecedores de plataformas de partilha de vídeos e as plataformas de par
 
 3 - O requerimento do registo recusado nos termos do n.º 1 pode ser renovado a todo o tempo a pedido dos interessados, desde que as deficiências verificadas sejam supridas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -271,7 +329,9 @@ j) Livro de registo dos fornecedores de plataformas de partilha de vídeos e res
 
 2 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -287,7 +347,9 @@ j) Livro de registo dos fornecedores de plataformas de partilha de vídeos e res
 
 7 - As notificações aos interessados, incluindo nos processos de contraordenação, podem ser feitas através do Serviço Público de Notificações Eletrónicas sempre que o notificando a ele tenha aderido, nos termos do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Pelos atos de registo previstos no presente decreto regulamentar são devidos os emolumentos constantes de tabela a publicar em portaria do membro do Governo responsável pela área da comunicação social.
 
@@ -295,7 +357,9 @@ j) Livro de registo dos fornecedores de plataformas de partilha de vídeos e res
 
 3 - Os pagamentos realizados por meios eletrónicos podem ser efetuados através da Plataforma de Pagamentos da Administração Pública.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +377,9 @@ f) As que não integrem o conceito de imprensa na aceção prevista na [Lei n.º
 
 2 - O registo das publicações previstas nas alíneas b) e e) do número anterior é opcional e da iniciativa do interessado, aplicando-se o regime previsto para as demais publicações periódicas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]:
 
@@ -339,7 +405,9 @@ c) (Revogada.)
 
 d) (Revogada.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -355,7 +423,9 @@ e) Declaração simples que ateste a relação contratual e os tipos de serviço
 
 2 - O requerimento para inscrição de empresas jornalísticas deve conter os elementos enunciados no n.º 2 do artigo anterior, acompanhado de instrumento de constituição e código de acesso à certidão permanente ou certidão do registo comercial atualizada, ou estatutos da requerente, consoante se trate de sociedade comercial ou pessoa coletiva sem fins lucrativos.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]:
 
@@ -373,7 +443,9 @@ f) Por deficiência de instrução, sem prejuízo do disposto no artigo 7.º
 
 2 - É igualmente recusado o registo de publicação periódica cujo título, pela sua semelhança gráfica, figurativa, fonética ou vocabular, seja suscetível de se confundir com outro, já registado ou que já tenha sido requerido.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -385,13 +457,17 @@ f) Por deficiência de instrução, sem prejuízo do disposto no artigo 7.º
 
 5 - As publicações previstas nas alíneas d) e e) do n.º 2 devem observar o prazo de três anos entre o reinício da edição e o novo pedido de suspensão.
 
-###### Artigo 23.º — Cancelamento oficioso do registo das publicações periódicas
+Artigo 23.º
+
+Cancelamento oficioso do registo das publicações periódicas
 
 1 - O registo das publicações periódicas é cancelado oficiosamente sempre que se verifique a inobservância do disposto no n.º 1 do artigo 21.º
 
 2 - (Revogado.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 [...]:
 
@@ -409,7 +485,9 @@ f) [...];
 
 g) Endereço de correio eletrónico.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -425,7 +503,9 @@ e) Por deficiência de instrução, sem prejuízo do disposto no artigo 7.º
 
 2 - É igualmente recusado o registo das empresas noticiosas cuja sigla seja suscetível de se confundir com outra já registada ou que já tenha sido requerida.
 
-###### Artigo 27.º-A — [...]
+Artigo 27.º-A
+
+[...]
 
 O registo das empresas noticiosas é cancelado oficiosamente pela ERC quando:
 
@@ -433,7 +513,9 @@ a) Não seja cumprida a obrigação de comunicação prevista no artigo anterior
 
 b) Cesse o exercício da sua atividade.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 [...]:
 
@@ -463,7 +545,9 @@ m) Cópia da carteira de jornalista ou cartão de equiparado do responsável de 
 
 n) Endereço de correio eletrónico.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 [...]:
 
@@ -487,7 +571,9 @@ i) Cópia da carteira de jornalista ou cartão de equiparado do responsável de 
 
 j) Endereço de correio eletrónico.
 
-###### Artigo 36.º-A — [...]
+Artigo 36.º-A
+
+[...]
 
 [...]:
 
@@ -503,7 +589,9 @@ e) [...];
 
 f) Endereço de correio eletrónico.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]:
 
@@ -525,7 +613,9 @@ Divulgação em dados abertos
 
 A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto regulamentar, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.
 
-###### Artigo 23.º-A — Cancelamento oficioso do registo das empresas jornalísticas
+Artigo 23.º-A
+
+Cancelamento oficioso do registo das empresas jornalísticas
 
 A inscrição das empresas jornalísticas é cancelada oficiosamente sempre que as mesmas:
 
@@ -533,7 +623,9 @@ a) Deixem de titular registos de publicações periódicas;
 
 b) Deixem de ter como atividade principal a edição de publicações periódicas.
 
-###### Artigo 36.º-C — Elementos do registo
+Artigo 36.º-C
+
+Elementos do registo
 
 São elementos do registo de serviço de programas, de rádio ou televisão, difundidos exclusivamente pela Internet:
 
@@ -549,19 +641,27 @@ e) Sítio na Internet;
 
 f) Endereço de correio eletrónico.
 
-###### Artigo 36.º-D — Início de emissão
+Artigo 36.º-D
+
+Início de emissão
 
 Os titulares de serviço de programas, de rádio ou televisão, difundidos exclusivamente pela Internet devem proceder ao registo na ERC nos 60 dias após o início da sua emissão.
 
-###### Artigo 36.º-E — Impedimento do registo
+Artigo 36.º-E
+
+Impedimento do registo
 
 O serviço de programas, de rádio ou televisão, difundidos exclusivamente através da Internet não é registado pela ERC quando a denominação do mesmo seja idêntica ou confundível com outra que já se encontre registada a favor de terceiro nesta entidade ou, nessa qualidade, a favor de terceiro no INPI, I. P.
 
-###### Artigo 36.º-F — Cancelamento oficioso
+Artigo 36.º-F
+
+Cancelamento oficioso
 
 O registo de serviço de programas, de rádio ou televisão, difundidos exclusivamente através da Internet é cancelado oficiosamente pela ERC quando o mesmo cessar a sua emissão.
 
-###### Artigo 36.º-G — Elementos do registo
+Artigo 36.º-G
+
+Elementos do registo
 
 São elementos do registo dos operadores de serviços audiovisuais a pedido e respetivos serviços de programas:
 
@@ -577,17 +677,23 @@ e) Identificação do responsável pela seleção e organização do catálogo d
 
 f) Endereço de correio eletrónico.
 
-###### Artigo 36.º-H — Início de atividade
+Artigo 36.º-H
+
+Início de atividade
 
 1 - As entidades proprietárias de serviços audiovisuais a pedido não podem iniciar a atividade antes de efetuar o registo.
 
 2 - As entidades previstas no número anterior dispõem de um prazo de três meses após a entrada em vigor do presente decreto regulamentar para efetuar o registo.
 
-###### Artigo 36.º-I — Normas aplicáveis
+Artigo 36.º-I
+
+Normas aplicáveis
 
 Ao registo dos operadores de serviços audiovisuais a pedido e aos respetivos serviços de programas é aplicável, com as necessárias adaptações, o disposto nos artigos 36.º-E e 36.º-F.
 
-###### Artigo 36.º-J — Elementos do registo
+Artigo 36.º-J
+
+Elementos do registo
 
 São elementos do registo dos fornecedores de plataformas de partilha de vídeos:
 
@@ -603,13 +709,17 @@ e) Sítio na Internet, quando aplicável;
 
 f) Endereço de correio eletrónico.
 
-###### Artigo 36.º-L — Início de atividade
+Artigo 36.º-L
+
+Início de atividade
 
 1 - Os fornecedores de plataformas de partilha de vídeos não podem iniciar a atividade antes de efetuar o registo.
 
 2 - As entidades previstas no número anterior dispõem de um prazo de três meses após a entrada em vigor do presente decreto regulamentar para efetuar o registo.
 
-###### Artigo 36.º-M — Normas aplicáveis
+Artigo 36.º-M
+
+Normas aplicáveis
 
 Ao registo dos fornecedores de plataformas de partilha de vídeos e plataformas fornecidas é aplicável, com as necessárias adaptações, o disposto nos artigos 36.º-E e 36.º-F.»
 
@@ -639,15 +749,15 @@ O presente decreto regulamentar entra em vigor no dia 1 de janeiro de 2022.
 
 Visto e aprovado em Conselho de Ministros de 11 de novembro de 2021. - António Luís Santos da Costa - Francisca Eugénia da Silva Dias Van Dunem - Nuno Artur Neves Melo da Silva.
 
-**Promulgado em 24 de novembro de 2021.**
+Promulgado em 24 de novembro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2021.**
+Referendado em 29 de novembro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1254,3 +1364,5 @@ c) De (euro) 2493,99 a (euro) 4987,97, a inobservância do disposto nos artigos 
 ###### Artigo 41.º — Norma revogatória
 
 É revogada a [Portaria n.º 640/76](https://diariodarepublica.pt/dr/detalhe/portaria/640-1976-409174), de 26 de outubro.
+
+114777806

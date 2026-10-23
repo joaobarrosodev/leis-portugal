@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/108a00/24202421.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/1999/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1999-331178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28d4f05affdac454c15ada33a2dcd45ff72f07192491130e1985e12d94e62671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0f993f9abac9561fbfe01727b69530e16eb15880e9efeb98b4e4a2a73d4ef53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação da Formação de Professores
-- Formação Profissional
-- Formação de Professores
-- Educador de Infância
-- Pessoal Docente
-- Ensino Básico
-- Regime Jurídico
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Formação de Professores
+- Formação Profissional
+- Pessoal Docente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:570766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterado o art 27º do Regime Jurídico da Formação Contínua de Professores, aprovado pelo Dec Lei 249/92 de 09-Nov,\
+    \ na redacção do presente diploma, pelo DEC LEI.15/2007.19.01.2007.ME, DR.IS [14] de 19.01.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:520607:por
+  label: "Repristinado desde a entrada em vigor do Dec Lei 15/2007 de 19-Jan (20.01.2007) o nº 4 do art. 27º do Regime Jurídico\
+    \ da Formação Contínua aprovado pelo Dec Lei 249/92 de 09-Nov, com a redacção conferida no presente diploma pelo DEC LEI.200/2007.22.05.2007.ME,\
+    \ DR.IS [98] de 22.05.2007 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2007-520607
+  date: '2007-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1996/11/02/p/dre
   label: null
@@ -95,16 +108,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:179307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:402711:por
+  label: "Alterado pelo DECL-RECT.10-BH/99.1999.07.30.PCM,DR.IS-A [177]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-bh-1999-402711
+  date: '1999-07-30'
+- type: repealed_by
+  target: pt:dre:570766:por
+  label: Revogado, a partir de 16.02.2014, o Dec Lei 249/92 de 09-nov, alterado pelo presente diploma, pelo DEC LEI.22/2014.11.02.2014.MECI,
+    DR.IS [29] de 11.02.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2014-570766
+  date: '2014-02-11'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:36Z'
   warnings: []
   errors: []
 ---
@@ -141,13 +189,17 @@ Os artigos 27.º, 27.º-A, 28.º e 39.º do regime jurídico da formação cont�
 
 5 - ...
 
-###### Artigo 27.º-A — [...]
+Artigo 27.º-A
+
+[...]
 
 1 - O apoio técnico ao director do centro é assegurado por um máximo de dois docentes, os quais exercerão tais funções em regime de acumulação, sendo-lhes devida uma remuneração, cujo valor hora é fixado nos termos do n.º 4 do artigo anterior.
 
 2 - O número efectivo de docentes para as funções previstas no número anterior, bem como de horas que a cada um é permitido acumular, é fixado pelo respectivo director regional de educação, tendo em conta o número de horas de formação ministrada pelo centro e ainda o disposto legalmente em matéria de acumulação de funções do pessoal docente.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -155,7 +207,9 @@ Os artigos 27.º, 27.º-A, 28.º e 39.º do regime jurídico da formação cont�
 
 3 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -175,12 +229,12 @@ O disposto no n.º 4 do artigo 39.º do regime jurídico da formação contínua
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

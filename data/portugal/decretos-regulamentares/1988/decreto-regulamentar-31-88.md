@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/19400/34903491.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1988-379949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7126aec39aab27957d18c12d54fcc382d085786122286dde067d9c2e2a02cea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f96422c5c64d13bec3f08543f69b43c0e25a65d7e6a2e2b5fd494e5ef16eaf4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Naval
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:612663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240785:por
+  label: "Alterado o art. 12.º do DR 22/86, de 11-Jul, na redacção dada pelo presente diploma, pelo DR.21/92.1992.09.02.MDN,\
+    \ DR.IS-B [202] de 02.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-1992-240785
+  date: '1992-09-02'
+- type: cites
+  target: pt:dre:196765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417827:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612663:por
+  label: "Revogado o DR 22/86, de 11-Jul, na redacção do presente diploma, pelo DEC LEI.27/2010.31.03.2010.MDN, DR.IS [63]\
+    \ de 31.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2010-612663
+  date: '2010-03-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:12Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +120,9 @@ Considerando ainda a responsabilidade do Ministério da Educação no que respei
 
 Ao abrigo do disposto no n.º 1 do artigo 7.º, do [Decreto-Lei n.º 48/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1986-196765), de 13 de Março, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 12.º do [Decreto Regulamentar n.º 22/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1986-228210), de 11 de Julho, com a redacção dada pelo [Decreto Regulamentar n.º 55/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1987-417827), de 8 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O artigo 12.º do [Decreto Regulamentar n.º 22/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1986-228210), de 11 de Julho, com a redacção dada pelo [Decreto Regulamentar n.º 55/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1987-417827), de 8 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 2 - ...
 
@@ -118,12 +144,12 @@ Presidência do Conselho de Ministros, 4 de Julho de 1988.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 8 de Agosto de 1988.**
+Promulgado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

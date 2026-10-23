@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2005/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2005-457048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c11f8d18c5e9864e6de0ed97ab227069f8e82bfc0740c334cac2e4d9d45ac481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 840544e80acda6696631b356635e08206d3098d525795cf6e745bb1b2168bd7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Automóvel
 - Direcção Geral de Viação
-- Poluição Atmosférica
-- Veículo
+- Indústria Automóvel
 - Poluição
+- Poluição Atmosférica
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:56819090:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456485:por
+  label: "Alterado o art. 157.º e o anexo 37-A, do Regulamento dos Elementos e Características dos Veículos a Motor de Duas\
+    \ e Três Rodas, aprovado pelo Dec Lei 267-B/2000, de 20-Out, na redacção do presente diploma, pelo DEC LEI.115/2008.03.07.2008.MOPTC,\
+    \ DR.IS [127] de 03.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2008-456485
+  date: '2008-07-03'
+- type: amended_by
+  target: pt:dre:56819090:por
+  label: Alterados de acordo com a redação constante do anexo III do presente diploma, o anexo VI-A, na redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 139/2014 - Diário da República n.º 177/2014, Série I de 2014-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2014-56819090
+  date: '2014-09-15'
 - type: cites
   target: celex:32003L0077
   label: null
   source: http://data.europa.eu/eli/dir/2003/77/oj
+- type: repealed_by
+  target: pt:dre:458194:por
+  label: "Revogado o Dec Lei 267-B/2000, de 20-Out, a partir de 20.07.2010, na redacção do presente diploma, pelo DEC LEI.86-A/2010.15.07.2010.MOPTC,\
+    \ DR.IS [136-Supl] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2010-458194
+  date: '2010-07-15'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:17Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +179,9 @@ b) Para modelos de veículos de cilindrada inferior a 150 cm3 testados em funç�
 
 12 - Os dados registados devem ser inscritos nas secções relevantes do documento, referidas no anexo VI-A do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, aprovado pelo Decreto-Lei n.º 30/2002, de 16 de Fevereiro.
 
-###### Artigo 158.º — Ensaio do tipo II
+Artigo 158.º
+
+Ensaio do tipo II
 
 1 - ...
 
@@ -204,15 +225,15 @@ Derrogação dos n.os 1 e 2 do artigo 18.º
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Daniel Viegas Sanches - José Pedro Aguiar Branco.
 
-**Promulgado em 14 de Dezembro de 2004.**
+Promulgado em 14 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Dezembro de 2004.**
+Referendado em 17 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — (referente aos artigos 2.º e 3.º)
 
@@ -224,7 +245,7 @@ Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2004. - Pedro Mig
 
 2 - O quadro constante do n.º 1 do anexo n.º 37-A do diploma referido supra passa a ter a seguinte redacção:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 3 - São aditados os anexos n.os 36-A e 36-B ao Regulamento dos Elementos e Características dos Veículos a Motor de Duas e Três Rodas, com a seguinte redacção:
 
@@ -500,7 +521,7 @@ QUADRO N.º 1
 
 Coeficiente para a precisão estatística
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 5.1.9.8 - Ao repetir o ensaio, deve procurar-se iniciar o movimento por inércia após observar as mesmas condições de aquecimento e à mesma velocidade inicial do movimento por inércia;
 
@@ -566,7 +587,7 @@ QUADRO N.º 2
 
 Precisão exigida para as medições
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 Os rolos do banco dinamométrico devem estar limpos, secos e desprovidos de qualquer elemento que possa causar o deslize do pneumático;
 
@@ -622,9 +643,9 @@ O método de medição do tempo de movimento por inércia é considerado um mét
 
 O movimento por inércia do motociclo deverá ser efectuado no banco dinamométrico segundo o procedimento descrito nos n.os 5.1.9.1 a 5.1.9.4, em condições de absorção zero do banco dinamométrico, devendo ser medido o tempo de movimento por inércia (Delta)t(índice i) correspondente à velocidade de referência v(índice 0).
 
-A medição deve efectuar-se, pelo menos, três vezes e o tempo médio de movimento por inércia [([ver documento original](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf))](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf) deve ser calculado a partir da fórmula:
+A medição deve efectuar-se, pelo menos, três vezes e o tempo médio de movimento por inércia [(ver documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf) deve ser calculado a partir da fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 A perda por atrito total F(índice f)(v(índice 0)), à velocidade de referência F(índice f)(v(índice 0)), é calculada como:
 
@@ -692,7 +713,7 @@ F(índice E) - força da resistência ao movimento regulada no banco dinamométr
 
 5.3.7.3 - O erro de regulação, (épsilo), é calculado da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 5.3.7.4 - Reajustar o banco dinamométrico caso o erro de regulação não respeite os seguintes critérios:
 
@@ -712,7 +733,7 @@ QUADRO N.º 3 (ver nota 1)
 
 Massa da inércia equivalente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 (nota 1) Caso a velocidade máxima do veículo declarada pelo fabricante seja inferior a 130 km/h e esta velocidade não puder ser atingida no banco dinamométrico, o coeficiente b deve ser ajustado de modo que a velocidade máxima possa ser atingida.
 
@@ -746,7 +767,7 @@ F(índice E)(v(índice j)) = (1/3,6)m(índice i)(2(Delta)v/(Delta)t(índice E))
 
 5.4.3.3 - O erro de regulação à velocidade especificada, (épsilo), é calculado da seguinte forma:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 5.4.3.4 - O banco dinamométrico deve ser reajustado caso o erro de regulação não respeite os seguintes critérios:
 
@@ -1026,7 +1047,7 @@ Ciclo de marcha do motor do ciclo urbano elementar para o ensaio do tipo I
 
 Ciclo de marcha do ciclo extra-urbano no banco dinamométrico
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)](https://files.diariodarepublica.pt/1s/2005/01/006a00/02080222.pdf)
 
 Ciclo de marcha do motor do ciclo extra-urbano para o ensaio de tipo I
 

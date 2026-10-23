@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/274-1982-379351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0defe51f3dd269f5fa68d7685ccadff572c3a12e359bf7ab3534b2cf287598c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2208108770279c71f509720cd0fd5a576e8bd9fa554b8f1cad130aaf33f23b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pisee
+- Sociedade Nacional dos Armadores de Bacalhau
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:19:44Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +89,7 @@ Dando cumprimento ao disposto na Resolução do Conselho de Ministros n.º 61-A/
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da SNAB - Sociedade Nacional dos Armadores de Bacalhau, S. A. R. L., a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/28400/40594060.pdf))](https://files.diariodarepublica.pt/1s/1982/12/28400/40594060.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/28400/40594060.pdf)
 
 2 - É atribuído à SNAB - Sociedade Nacional dos Armadores de Bacalhau, S. A. R. L., um subsídio não reembolsável no montante de 130 milhões de escudos, a realizar por conta da dotação de 11000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982, que se destina à prossecução do equilíbrio da exploração da empresa. Até Julho de 1982 serão atribuídos 6 duodécimos, ficando a restante verba suspensa até à demonstração da viabilidade económica da empresa e da sua reestruturação.
 

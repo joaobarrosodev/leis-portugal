@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/1997/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1997-581628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bfd59af57cff70fdad00ea92ca29e1c2296142620f5602e3818a14e8a95d123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c0cc6cb0f124cbcd98be77d166e997641fad483b15019b2072e14ffad31ecf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
 subjects:
 - Código do IRC
 - Código do IRS
-- Imposto sobre o Rendimento
-- IRS
-- IRC
 - Gratificação
+- Imposto sobre o Rendimento
+- IRC
+- IRS
 - Retenção na Fonte
 - Taxa
 - Trabalhador Independente
@@ -81,6 +81,109 @@ relationships:
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterado o art. 26.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.127-B/97.20.12.1997.AR, DR.IS-A [293-2ºSupl] de 20.12.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:218484:por
+  label: "Alterado o art. 114.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.45/98.03.03.1998.MF, DR.IS-A [52] de 03.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1998-218484
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterados os arts. 26.º e 94.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterado o art. 46º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.472/99.08.11.1999.MF, DR.IS-A [260] de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 26.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 114.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o art. 75.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-C/2000.29.12.2000.AR, DR.IS-A [299-2ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterado o art. 46º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:165040:por
+  label: "Alterados os arts. 1º, 2º, 3º, 5º, 6º, 7º, 8º, 9º, 10º, 11º, 12º, 12º-A, 13º, 14º, 16º e 17º do Dec Lei 42/91 de\
+    \ 22-Jan, com a redacção dada pelo presente diploma, pelo DEC LEI.134/2001.2001.04.24.MF,DR.IS-A [96]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2001-165040
+  date: '2001-04-24'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 46º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 46º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o art. 47º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 47º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 46.º do Código do IRC, aprovado pelo Dec Lei n.º 442-B/88, de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, e com a redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 8º do Dec Lei 42/91, de 22-Jan, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 8º do Dec Lei 42/91 de 22-jan, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 46.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/1991/01/22/p/dre
   label: null
@@ -89,16 +192,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:25Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +258,9 @@ Rendimentos do trabalho independente
 
 8 - As deduções previstas nos números anteriores, com excepção das constantes das alíneas a), b), c), m) e n) do n.º 1 e sem prejuízo dos limites neles estabelecidos, não poderão exceder, no seu conjunto, 32,5% do volume de negócios ou da prestação de serviços dos sujeitos passivos que não disponham de contabilidade organizada.
 
-###### Artigo 75.º — Taxas especiais
+Artigo 75.º
+
+Taxas especiais
 
 1 - ...
 
@@ -147,13 +268,17 @@ Rendimentos do trabalho independente
 
 3 - As gratificações auferidas pela prestação ou em razão da prestação de trabalho, quando não atribuídas pela entidade patronal nem por entidade que com esta mantenha relações de grupo, domínio ou simples participação, são tributadas autonomamente à taxa de 15%.
 
-###### Artigo 94.º — Retenção sobre rendimentos de outras categorias
+Artigo 94.º
+
+Retenção sobre rendimentos de outras categorias
 
 1 - As entidades que disponham ou devam dispor de contabilidade organizada são obrigadas a reter o imposto, mediante aplicação, aos rendimentos ilíquidos de que sejam devedoras, das taxas de 15%, tratando-se de rendimentos das categorias E e F, ou de 20%, tratando-se de rendimentos da categoria B ou de comissões pela intermediação na celebração de quaisquer contratos, sem prejuízo do disposto no número seguinte.
 
 2 - ...
 
-###### Artigo 114.º — Comunicação de rendimentos e retenções
+Artigo 114.º
+
+Comunicação de rendimentos e retenções
 
 1 - As entidades devedoras de rendimentos que estejam obrigadas a efectuar a retenção, total ou parcial, do imposto, com excepção dos casos previstos no artigo 74.º em que a retenção tenha natureza liberatória, bem como as entidades através das quais sejam processados os rendimentos sujeitos ao regime especial de tributação previsto no n.º 3 do artigo 75.º, são obrigadas a:
 
@@ -207,7 +332,9 @@ Dedução de prejuízos fiscais
 
 8 - ...
 
-###### Artigo 47.º — Determinação do rendimento global
+Artigo 47.º
+
+Determinação do rendimento global
 
 1 - ...
 
@@ -223,12 +350,12 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2024/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2024-901535571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95d50771d96ff7bc064b25f91b223f99b97fb1630052d172bd5a72c25cc08b3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4b9592649b30ca69ce705c0ec4a2876ee27fb1a33dc747d1595264df2dad595
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,12 @@ subjects:
 - Prorrogação de Prazo
 - Sistema Elétrico Nacional
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:30-A/2022
+  label: Altera, a partir de 31 de dezembro de 2024, o artigo 11.º do Decreto-Lei n.º 30-A/2022 - Diário da República n.º
+    75/2022, 2º Suplemento, Série I de 2022-04-18
+  source: null
+  date: '2022-04-18'
 - type: cites
   target: celex:32023L2413
   label: null
@@ -91,6 +97,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/2022/10/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/2022/10/19/p/dre
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202357817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:856211139:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32023L2413
   label: null
@@ -98,13 +120,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:38Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +151,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906), de 18 de abril, alterado pelo Decretos-Leis n.<sup>os</sup>[72/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2022-202357817), de 19 de outubro, [11/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), de 10 de fevereiro, e [22/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2024-856211139), de 19 de março, que aprova medidas excecionais que visam assegurar a simplificação dos procedimentos de produção de energia a partir de fontes renováveis.
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906), de 18 de abril, alterado pelo Decretos-Leis n.os[72/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2022-202357817), de 19 de outubro, [11/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), de 10 de fevereiro, e [22/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2024-856211139), de 19 de março, que aprova medidas excecionais que visam assegurar a simplificação dos procedimentos de produção de energia a partir de fontes renováveis.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906), de 18 de abril
 
@@ -147,12 +169,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de dezembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho.
 
-**Promulgado em 20 de dezembro de 2024.**
+Promulgado em 20 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de dezembro de 2024.**
+Referendado em 23 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118508269

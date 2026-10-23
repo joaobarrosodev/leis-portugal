@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 295/1979, 1º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3334-(2) a 3334-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29501/00020017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1979-393870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44865ead1e7f3ce244a9733156ccd019c42003904b7514409f3e25bfa30bd73b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 956b822b1941eae377c30abaef27b6119dd0b8f9cf24ae416db7ee4fc5569498
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Extensão Rural
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:153129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228246:por
+  label: "Criado um lugar no quadro de pessoal constante do presente diploma, pela PORT.340/86.05.07.1986.MF, DR.IS [152]\
+    \ de 05.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/340-1986-228246
+  date: '1986-07-05'
+- type: amended_by
+  target: pt:dre:228251:por
+  label: "Criado um lugar no quadro de pessoal constante, pelo PORT.342/86.05.07.1986.MF, DR.IS [152] de 05.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1986-228251
+  date: '1986-07-05'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153129:por
+  label: "Revogado, no que refere ao Laboratório Químico-Agrícola de Rebelo da Silva, pelo DEC LEI.5-A/88.14.01.1988.MAPA,\
+    \ DR.IS [11]2ºSupl de 14.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1988-153129
+  date: '1988-01-14'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:55Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +132,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral de Extensão Rural, do Ministério da Agricultura e Pescas, abreviadamente designada por DGER, criada pelo artigo 42.º e alínea g) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve no âmbito da extensão rural e do apoio à produção agro-pecuária em todo o território nacional.
+Artigo 1.º - 1 - A Direcção-Geral de Extensão Rural, do Ministério da Agricultura e Pescas, abreviadamente designada por DGER, criada pelo artigo 42.º e alínea g) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve no âmbito da extensão rural e do apoio à produção agro-pecuária em todo o território nacional.
 
 2 - As atribuições da DGER são as constantes do artigo 29.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 2.º - 1 - A DGER é um organismo dotado de autonomia administrativa.
+Art. 2.º - 1 - A DGER é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGER:
 
@@ -116,19 +154,19 @@ e) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 4 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º A DGER é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º A DGER é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos da DGER:
+Art. 4.º São órgãos da DGER:
 
 a) O conselho técnico;
 
 b) O conselho administrativo
 
-###### Art. 5.º - 1 - O conselho técnico é constituído pelos seguintes membros:
+Art. 5.º - 1 - O conselho técnico é constituído pelos seguintes membros:
 
 a) O director-geral da DGER, que presidirá;
 
@@ -158,7 +196,7 @@ j) Os directores de serviços da DGER.
 
 5 - As entidades estranhas ao MAP convidadas de conformidade com o número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de deslocação, nos termos legais.
 
-###### Art. 6.º - 1 - Ao conselho técnico compete emitir parecer sobre:
+Art. 6.º - 1 - Ao conselho técnico compete emitir parecer sobre:
 
 a) A definição da política de acção da DGER e as providências técnicas necessárias à sua consecução;
 
@@ -192,11 +230,11 @@ b) Elaborar as actas das reuniões a desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 7.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano, e extraordinariamente sempre que o presidente o convoque.
+Art. 7.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano, e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do conselho técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º - 1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 8.º - 1 - O conselho administrativo é um órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director-geral, que presidirá;
 
@@ -208,7 +246,7 @@ d) O director de Serviços de Administração.
 
 2 - Servirá de secretário o chefe da Repartição de Administração Financeira.
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento da Direcção-Geral de conta das dotações consignadas no OGE e propor as alterações orçamentais consideradas necessárias;
 
@@ -242,7 +280,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º A DGER dispõe dos seguintes serviços:
+Art. 10.º A DGER dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -272,17 +310,17 @@ f) Direcção de Serviços de Produção Animal.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 11.º - 1 - O Gabinete de Planeamento tem como atribuições a promoção e o apoio às medidas que assegurem a programação e a coordenação das actividades dos serviços da DGER e a participação na definição da política de desenvolvimento agrário nacional, no ordenamento do território e na coordenação das matérias relativas a crédito, seguros, preços, mercados, nutrição humana e defesa do ambiente.
+Art. 11.º - 1 - O Gabinete de Planeamento tem como atribuições a promoção e o apoio às medidas que assegurem a programação e a coordenação das actividades dos serviços da DGER e a participação na definição da política de desenvolvimento agrário nacional, no ordenamento do território e na coordenação das matérias relativas a crédito, seguros, preços, mercados, nutrição humana e defesa do ambiente.
 
 2 - O Gabinete de Planeamento assegura as ligações com outras unidades afins do MAP, nomeadamente com o Gabinete de Planeamento.
 
-###### Art. 12.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes Divisões:
+Art. 12.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes Divisões:
 
 a) Programação e Contrôle;
 
 b) Ordenamento.
 
-###### Art. 13.º À Divisão de Programação e Contrôle compete:
+Art. 13.º À Divisão de Programação e Contrôle compete:
 
 a) Elaborar os planos de acção global e os programas e projectos específicos, devidamente orçamentados, a realizar no âmbito das atribuições da DGER, acompanhando a sua execução e avaliação;
 
@@ -296,7 +334,7 @@ e) Assegurar a elaboração do relatório anual da actividade da Direcção-Gera
 
 f) Coordenar e compatibilizar, a nível nacional, os programas de índole regional inerentes às atribuições da DGER.
 
-###### Artigo 14.º À Divisão de Ordenamento compete:
+Artigo 14.º À Divisão de Ordenamento compete:
 
 a) Fornecer ao Gabinete de Planeamento do MAP os elementos de natureza económica e sociológica necessários à definição dos objectivos a atingir e das medidas de política económica a tomar para o sector da agricultura no âmbito da produção agrária, tendo em vista o ordenamento e equilíbrio dos sistemas ecológicos;
 
@@ -314,11 +352,11 @@ g) Colaborar com organismos especializados e com os serviços regionais de agric
 
 h) Participar em estudos necessários a planos de urbanização de ordenamento do território, em ligação com outros organismos, para preservação e valorização das actividades produtivas.
 
-###### Art. 15.º - 1 - O Laboratório Químico Agrícola Luís António Rebelo da Silva, abreviadamente designado por Laboratório Rebelo da Silva, tem como atribuições o diagnóstico das condições de fertilidade dos solos e do estado nutritivo das culturas, o estabelecimento de recomendações das tecnologias de correcção e de fertilização dos solos, a caracterização bromatológica de alimentos simples ou compostos utilizados ou utilizáveis em alimentação animal e ainda a avaliação agronómica de fertilizantes e correctivos.
+Art. 15.º - 1 - O Laboratório Químico Agrícola Luís António Rebelo da Silva, abreviadamente designado por Laboratório Rebelo da Silva, tem como atribuições o diagnóstico das condições de fertilidade dos solos e do estado nutritivo das culturas, o estabelecimento de recomendações das tecnologias de correcção e de fertilização dos solos, a caracterização bromatológica de alimentos simples ou compostos utilizados ou utilizáveis em alimentação animal e ainda a avaliação agronómica de fertilizantes e correctivos.
 
 2 - O Laboratório Rebelo da Silva assegura as ligações com outras unidades do MAP ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 16.º O Laboratório Rebelo da Silva é dirigido por um director de serviços e compreende as seguintes Divisões:
+Art. 16.º O Laboratório Rebelo da Silva é dirigido por um director de serviços e compreende as seguintes Divisões:
 
 a) Análises Agrícolas;
 
@@ -326,7 +364,7 @@ b) Fertilidade do Solo e Nutrição das Culturas;
 
 c) Alimentos e Alimentação Animal.
 
-###### Art. 17.º À Divisão de Análises Agrícolas compete:
+Art. 17.º À Divisão de Análises Agrícolas compete:
 
 a) Assegurar a análise laboratorial de terras, de plantas, de águas, de fertilizantes e correctivos, de modo a apoiar, nomeadamente por intermédio dos serviços regionais de agricultura, os agentes da produção agrária;
 
@@ -336,7 +374,7 @@ c) Colaborar na elaboração e actualização de normas de colheita e de prepara
 
 d) Colaborar com o Instituto Nacional de Investigação Agrária e outros organismos especializados no estudo dos métodos de análise de terras, de plantas, de fertilizantes e de correctivos.
 
-###### Art. 18.º À Divisão de Fertilidade do Solo e Nutrição das Culturas compete:
+Art. 18.º À Divisão de Fertilidade do Solo e Nutrição das Culturas compete:
 
 a) Cooperar com os sectores especializados do Instituto Nacional de Investigação Agrária (INIA) e outros serviços do Ministério da Agricultura e Pescas, designadamente com os serviços regionais de agricultura, no planeamento, instalação e condução de ensaios de campo enquadrados no estudo das tecnologias de correcção e de fertilização dos solos e de nutrição das culturas;
 
@@ -358,7 +396,7 @@ i) Colaborar na formação e aperfeiçoamento profissional dos agricultores e do
 
 j) Colaborar no estabelecimento, revisão e actualização da legislação referente a fertilizantes e correctivos.
 
-###### Art. 19.º À Divisão de Alimentos e Alimentação Animal compete:
+Art. 19.º À Divisão de Alimentos e Alimentação Animal compete:
 
 a) Proceder à caracterização bromatológica de alimentos simples ou compostos utilizados ou utilizáveis em alimentação animal e determinar o seu valor nutritivo;
 
@@ -370,11 +408,11 @@ d) Colaborar na divulgação de conhecimentos pelos meios e segundo as formas co
 
 e) Cooperar na formação e aperfeiçoamento profissional dos agricultores e dos técnicos dos serviços de extensão rural no domínio da alimentação animal.
 
-###### Art. 20.º - 1 - O Centro Nacional de Estudos e Fomento da Fruticultura Vieira Natividade, com sede em Alcobaça, tem como atribuições a coordenação da fruticultura a nível nacional, a recolha, reunião e adaptação de informações em fruticultura, a experimentação frutícola e a participação na formação de técnicos e agricultores no âmbito das suas atribuições.
+Art. 20.º - 1 - O Centro Nacional de Estudos e Fomento da Fruticultura Vieira Natividade, com sede em Alcobaça, tem como atribuições a coordenação da fruticultura a nível nacional, a recolha, reunião e adaptação de informações em fruticultura, a experimentação frutícola e a participação na formação de técnicos e agricultores no âmbito das suas atribuições.
 
 2 - O Centro Nacional de Estudos e Fomento da Fruticultura Vieira Natividade assegura as ligações com outras unidades do MAP ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 21.º O Centro Nacional de Estudo e Fomento da Fruticultura Vieira Natividade é dirigido por um director de serviços e compreende as seguintes Divisões:
+Art. 21.º O Centro Nacional de Estudo e Fomento da Fruticultura Vieira Natividade é dirigido por um director de serviços e compreende as seguintes Divisões:
 
 a) Coordenação e Planeamento da Fruticultura;
 
@@ -382,7 +420,7 @@ b) Pomologia;
 
 c) Apoio e Propedêutica Frutícola.
 
-###### Art. 22.º À Divisão de Coordenação e Planeamento da Fruticultura compete:
+Art. 22.º À Divisão de Coordenação e Planeamento da Fruticultura compete:
 
 a) Traçar e manter a nível nacional as linhas gerais do fomento frutícola e acompanhar a sua execução;
 
@@ -390,7 +428,7 @@ b) Caracterizar os aspectos ecológicos e biológicos necessários a um ordename
 
 c) Recolher e interpretar os elementos de natureza estatística e económica indispensáveis ao fomento da fruticultura.
 
-###### Art. 23.º À Divisão de Pomologia compete:
+Art. 23.º À Divisão de Pomologia compete:
 
 a) Caracterizar o potencial pomológico das variedades e porta-enxertos, nomeadamente das pomóideas, prunóideas e frutos secos;
 
@@ -400,7 +438,7 @@ c) Apoiar o fomento das culturas que cabem no âmbito da sua competência;
 
 d) Apoiar, no âmbito das suas atribuições, a formação profissional levada a efeito no quadro da Direcção-Geral.
 
-###### Art. 24.º À Divisão de Apoio e Propedêutica Frutícola compete:
+Art. 24.º À Divisão de Apoio e Propedêutica Frutícola compete:
 
 a) Colaborar, nomeadamente com o INIA e organismos especializados, nos estudos de base para fruticultura quer a nível de pesquisa, quer da adaptação de conhecimentos;
 
@@ -408,11 +446,11 @@ b) Reunir e adoptar os conhecimentos resultantes dos estudos produzidos no domí
 
 c) Assegurar a análise e diagnose de rotina para apoio à actividade frutícola.
 
-###### Art. 25.º - 1 - A Direcção de Serviços de Documentação e Divulgação Agrária tem como atribuições actuar nos domínios da documentação, divulgação e organização de certames.
+Art. 25.º - 1 - A Direcção de Serviços de Documentação e Divulgação Agrária tem como atribuições actuar nos domínios da documentação, divulgação e organização de certames.
 
 2 - A Direcção de Serviços de Documentação e Divulgação Agrária assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 26.º A Direcção de Serviços de Documentação e Divulgação Agrária é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 26.º A Direcção de Serviços de Documentação e Divulgação Agrária é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Documentação;
 
@@ -420,7 +458,7 @@ b) Divulgação;
 
 c) Organização de Certames.
 
-###### Art. 27.º À Divisão de Documentação compete:
+Art. 27.º À Divisão de Documentação compete:
 
 a) Organizar, actualizar, conservar e inventariar o património documental;
 
@@ -434,7 +472,7 @@ e) Planear, orientar e coordenar todos os processos de aquisição, permuta e of
 
 f) Assegurar o serviço de traduções no âmbito da DGER.
 
-###### Art. 28.º À Divisão de Divulgação compete:
+Art. 28.º À Divisão de Divulgação compete:
 
 a) Auscultar as necessidades dos diversos serviços da DGER e dos serviços regionais de agricultura no domínio da divulgação de documentação no âmbito da extensão rural;
 
@@ -450,7 +488,7 @@ f) Assegurar o funcionamento das oficinas gráficas e de encadernação;
 
 g) Assegurar o serviço de distribuição e expedição das publicações.
 
-###### Art. 29.º À Divisão de Organização de Certames compete:
+Art. 29.º À Divisão de Organização de Certames compete:
 
 a) Apoiar a participação dos serviços regionais de agricultura em feiras, exposições, colóquios e outras actividades afins;
 
@@ -462,11 +500,11 @@ d) Promover e programar a realização de exposições, colóquios, concursos e 
 
 e) Coordenar, orientar e apoiar outras unidades do MAP na organização e animação dos certames referidos na alínea anterior.
 
-###### Art. 30.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial, de pessoal, expediente e arquivo.
+Art. 30.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial, de pessoal, expediente e arquivo.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 31.º - 1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
+Art. 31.º - 1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
 
 a) Administração Patrimonial;
 
@@ -478,13 +516,13 @@ c) Pessoal e Expediente.
 
 3 - Às secções administrativas referidas no número anterior compete o apoio instrumental às acções desenvolvidas sob orientação do funcionário responsável pela gestão daqueles departamentos.
 
-###### Art. 32.º A Repartição de Administração Patrimonial é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 32.º A Repartição de Administração Patrimonial é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Património e Aprovisionamento;
 
 b) Instalações e Parque Automóvel.
 
-###### Art. 33.º À Secção de Património e Aprovisionamento compete:
+Art. 33.º À Secção de Património e Aprovisionamento compete:
 
 a) Organizar e manter actualizado o inventário da DGER respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -496,7 +534,7 @@ d) Promover todas as demais aquisições necessárias ao funcionamento dos servi
 
 e) Processar os documentos de despesa das aquisições referidas nas alíneas c) e d).
 
-###### Art. 34.º À Secção de Instalações e Parque Automóvel compete:
+Art. 34.º À Secção de Instalações e Parque Automóvel compete:
 
 a) Assegurar o aproveitamento racional e a utilização dos edifícios e outras instalações da DGER;
 
@@ -512,13 +550,13 @@ f) Assegurar a gestão do parque de viaturas automóveis em ligação com a Secr
 
 g) Assegurar a manutenção das oficinas de viaturas automóveis da DGER.
 
-###### Art. 35.º A Repartição de Administração Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 35.º A Repartição de Administração Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Orçamento e Conta;
 
 b) Contabilidade.
 
-###### Art. 36.º À Secção de Orçamento e Conta compete:
+Art. 36.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de despesa e receita indispensáveis à organização dos orçamentos da DGER;
 
@@ -538,7 +576,7 @@ h) Organizar a conta anual de gerência e preparar os elementos necessários à 
 
 i) Manter organizado o arquivo de toda a documentação da gerências findas.
 
-###### Art. 37.º À Secção de Contabilidade compete:
+Art. 37.º À Secção de Contabilidade compete:
 
 a) Verificar todos os documentos de despesa e receita remetidos pelos serviços;
 
@@ -554,7 +592,7 @@ f) Assegurar o cálculo e análise de custos em ligação com a Divisão de Prog
 
 g) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço.
 
-###### Art. 38.º Adstrita à Repartição de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 38.º Adstrita à Repartição de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à DGER;
 
@@ -562,13 +600,13 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 39.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 39.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Pessoal;
 
 b) Expediente e Arquivo.
 
-###### Art. 40.º À Secção de Pessoal compete:
+Art. 40.º À Secção de Pessoal compete:
 
 a) Processar as folhas de vencimentos e outros abonos do pessoal;
 
@@ -582,7 +620,7 @@ e) Superintender no pessoal auxiliar;
 
 f) Instruir processos de acidentes em serviço e dar-lhes o devido andamento.
 
-###### Art. 41.º À Secção de Expediente e Arquivo compete:
+Art. 41.º À Secção de Expediente e Arquivo compete:
 
 a) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente dos serviços centrais da DGER;
 
@@ -594,11 +632,11 @@ d) Assegurar uma adequada circulação de documentos e normas pelos diversos ser
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 42.º - 1 - A Direcção de Serviços de Associativismo Agrícola tem como atribuições o estudo, a planificação e o apoio à organização, estruturação e desenvolvimento das várias formas de associativismo agrícola, a coordenação da elaboração dos respectivos programas e projectos de acção e a avaliação dos resultados.
+Art. 42.º - 1 - A Direcção de Serviços de Associativismo Agrícola tem como atribuições o estudo, a planificação e o apoio à organização, estruturação e desenvolvimento das várias formas de associativismo agrícola, a coordenação da elaboração dos respectivos programas e projectos de acção e a avaliação dos resultados.
 
 2 - A Direcção de Serviços de Associativismo Agrícola assegura as ligações com outras unidades do MAP ou a ele estranhas, designadamente com os serviços regionais de agricultura, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 43.º A Direcção de Serviços de Associativismo Agrícola é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 43.º A Direcção de Serviços de Associativismo Agrícola é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Estudos e Assessoria;
 
@@ -608,7 +646,7 @@ c) Estruturação;
 
 d) Fomento.
 
-###### Art. 44.º À Divisão de Estudos e Assessoria compete:
+Art. 44.º À Divisão de Estudos e Assessoria compete:
 
 a) Estudar e propor a definição das diferentes formas de associativismo agrícola, suas normas e regulamentos;
 
@@ -622,7 +660,7 @@ e) Emitir parecer jurídico sobre matérias relacionadas com o associativismo ag
 
 f) Promover a recolha de dados no âmbito do associativismo agrícola e proceder ao seu tratamento.
 
-###### Art. 45.º À Divisão de Análise compete:
+Art. 45.º À Divisão de Análise compete:
 
 a) Analisar a viabilidade dos projectos de cooperativas agrícolas;
 
@@ -638,7 +676,7 @@ f) Participar na recolha e gestão dos dados relativos ao associativismo agríco
 
 g) Preparar e fornecer elementos que fundamentem as medidas de carácter legislativo, económico e financeiro e outras para apoio e fomento do associativismo agrícola, nomeadamente do movimento cooperativo agrícola.
 
-###### Art. 46.º À Divisão de Estruturação compete:
+Art. 46.º À Divisão de Estruturação compete:
 
 a) Colaborar na preparação, elaboração e execução do plano económico nacional, regional e sectorial, nas áreas que interessem ao associativismo agrícola;
 
@@ -652,7 +690,7 @@ e) Apoiar os serviços regionais de agricultura na implantação de medidas de c
 
 f) Participar na recolha e tratamento dos dados relativos ao associativismo agrícola.
 
-###### Art. 47.º À Divisão de Fomento compete:
+Art. 47.º À Divisão de Fomento compete:
 
 a) Estudar e apoiar o desenvolvimento de formas de associativismo comunitário agrário e de agricultura de grupo;
 
@@ -668,11 +706,11 @@ f) Colaborar na formação de dirigentes de associações agrícolas e dos respe
 
 g) Compilar e preparar os elementos relativos ao associativismo agrícola e colaborar na sua divulgação.
 
-###### Art. 48.º - 1 - A Direcção de Serviços de Formação Profissional Agrária tem como atribuições o estudo, definição e coordenação das acções de formação profissional de agricultores e trabalhadores rurais e a orientação e promoção da formação dos técnicos dos serviços de extensão rural nas matérias que se enquadram no âmbito da DGER, assegurando o funcionamento das infra-estruturas necessárias para o efeito.
+Art. 48.º - 1 - A Direcção de Serviços de Formação Profissional Agrária tem como atribuições o estudo, definição e coordenação das acções de formação profissional de agricultores e trabalhadores rurais e a orientação e promoção da formação dos técnicos dos serviços de extensão rural nas matérias que se enquadram no âmbito da DGER, assegurando o funcionamento das infra-estruturas necessárias para o efeito.
 
 2 - A Direcção de Serviços de Formação Profissional Agrária assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, nomeadamente com o Ministério da Educação e investigação Científica, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 49.º - 1 - A Direcção de Serviços de Formação Profissional é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 49.º - 1 - A Direcção de Serviços de Formação Profissional é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Estudos e Avaliação;
 
@@ -690,7 +728,7 @@ d) Formação de Pessoal em Extensão Rural.
 
 5 - Se a coordenação dos centros não puder ser assegurada por técnicos com a categoria referida no número anterior, o director de Serviços de Formação Profissional Agrária poderá designar em sua substituição funcionários do mesmo grupo, embora de categoria inferior, os quais terão direito ao vencimento correspondente à categoria dos funcionários substituídos.
 
-###### Art. 50.º À Divisão de Estudos e Avaliação compete:
+Art. 50.º À Divisão de Estudos e Avaliação compete:
 
 a) Estabelecer os métodos e técnicas pedagógicas mais apropriadas à prossecução dos objectivos da Direcção de Serviços de Formação Profissional Agrária e apoiar a sua aplicação;
 
@@ -706,7 +744,7 @@ f) Definir as normas de avaliação sistemática das actividades do serviço e r
 
 g) Promover a recolha e o tratamento dos resultados das actividades de formação e informar os órgãos de execução no âmbito da DGER e os serviços regionais de agricultura dos ensinamentos que a experiência for determinando.
 
-###### Art. 51.º À Divisão de Formação de Agricultores e Trabalhadores Rurais compete:
+Art. 51.º À Divisão de Formação de Agricultores e Trabalhadores Rurais compete:
 
 a) Coordenar e apoiar os serviços regionais de agricultura nas acções de formação técnico-profissional dos elementos da comunidade rural que exercem actividade na agricultura ou com ela directamente relacionada;
 
@@ -716,7 +754,7 @@ c) Apoiar os serviços regionais de agricultura no diagnóstico das necessidades
 
 d) Colaborar com os serviços regionais de agricultura no estudo da localização dos centros regionais de formação profissional na definição dos meios destinados a assegurar a sua instalação e no funcionamento das infra-estruturas necessárias para o efeito.
 
-###### Art. 52.º À Divisão de Formação de Gestores para Explorações Agrícolas compete:
+Art. 52.º À Divisão de Formação de Gestores para Explorações Agrícolas compete:
 
 a) Estudar e programar, em colaboração com outros serviços da DGER, serviços regionais de agricultura e outras entidades interessadas, as acções de formação profissional dos gestores das organizações associativas do meio rural;
 
@@ -724,7 +762,7 @@ b) Elaborar o material didáctico-pedagógico necessário ao desenvolvimento das
 
 c) Apoiar os serviços regionais de agricultura no levantamento e caracterização das necessidades de formação profissional das organizações agrícolas.
 
-###### Art. 53.º À Divisão de Formação de Pessoal em Extensão Rural compete:
+Art. 53.º À Divisão de Formação de Pessoal em Extensão Rural compete:
 
 a) Assegurar a preparação dos técnicos no domínio da filosofia e metodologia de actuação no meio rural e no planeamento das actividades a desenvolver pelas equipas locais de extensão rural;
 
@@ -736,11 +774,11 @@ d) Colaborar nas acções de formação e aperfeiçoamento técnico-profissional
 
 e) Apoiar a gestão técnico-pedagógica dos centros de formação e treinamento destinados à preparação dos quadros técnicos de extensão rural.
 
-###### Art. 54.º - 1 - A Direcção de Serviços de Gestão e Exploração Agrícola tem como atribuições o apoio nos domínios da economia, contabilidade, planeamento e gestão da exploração agrícola e a difusão das técnicas respeitantes às matérias que se encontram no seu âmbito de acção.
+Art. 54.º - 1 - A Direcção de Serviços de Gestão e Exploração Agrícola tem como atribuições o apoio nos domínios da economia, contabilidade, planeamento e gestão da exploração agrícola e a difusão das técnicas respeitantes às matérias que se encontram no seu âmbito de acção.
 
 2 - A Direcção de Serviços de Gestão da Exploração Agrícola assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 55.º A Direcção de serviços de Gestão da Exploração Agrícola é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 55.º A Direcção de serviços de Gestão da Exploração Agrícola é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Gestão e Contabilidade;
 
@@ -748,7 +786,7 @@ b) Análise de Projectos e Financiamento;
 
 c) Racionalização do Trabalho Agrícola.
 
-###### Art. 56.º À Divisão de Gestão e Contabilidade compete:
+Art. 56.º À Divisão de Gestão e Contabilidade compete:
 
 a) Definir, em colaboração com os serviços regionais de agricultura e organismos especializados, os sistemas e as normas de contabilidade a utilizar de acordo com o nível e a evolução dos conhecimentos dos utentes;
 
@@ -766,7 +804,7 @@ g) Colaborar no apoio ao planeamento e à gestão das explorações agrícolas a
 
 h) Colaborar com outros serviços e departamentos em assuntos de âmbito da economia agrária.
 
-###### Art. 57.º À Divisão de Análise de Projectos e Financiamento compete:
+Art. 57.º À Divisão de Análise de Projectos e Financiamento compete:
 
 a) Colaborar no estudo e definição das normas que devem orientar a análise de investimentos e financiamento a efectuar ao nível das explorações agrícolas e apoiar os serviços regionais de agricultura na sua aplicação;
 
@@ -784,7 +822,7 @@ g) Colaborar com os serviços especializados do MAP e com os serviços regionais
 
 h) Apoiar os serviços regionais de agricultura na utilização de modalidades de crédito supervisado e orientado e outras do tipo educativo.
 
-###### Art. 58.º À Divisão de Racionalização do Trabalho Agrícola compete:
+Art. 58.º À Divisão de Racionalização do Trabalho Agrícola compete:
 
 a) Estudar e apoiar, em colaboração com os serviços regionais de agricultura, a aplicação das normas de organização do trabalho nas explorações agrícolas;
 
@@ -802,11 +840,11 @@ g) Sistematizar os elementos necessários à elaboração de normas e tabelas t�
 
 h) Promover a recolha de informação necessária à efectivação dos estudos de planeamento e gestão das explorações agrícolas e do desenvolvimento económico, mantendo um banco de dados permanentemente actualizado.
 
-###### Art. 59.º - 1 - A Direcção de Serviços de Extensão tem como atribuições dinamizar e apoiar a implantação de uma estrutura e de uma estratégia de actuação junto do meio rural e acompanhar as acções de participação dos agricultores e dos seus agregados familiares na elaboração e execução dos seus programas de desenvolvimento a partir da análise dos seus problemas, e ainda colaborar no estudo, planificação e execução das actividades de formação e aperfeiçoamento dos técnicos de extensão rural.
+Art. 59.º - 1 - A Direcção de Serviços de Extensão tem como atribuições dinamizar e apoiar a implantação de uma estrutura e de uma estratégia de actuação junto do meio rural e acompanhar as acções de participação dos agricultores e dos seus agregados familiares na elaboração e execução dos seus programas de desenvolvimento a partir da análise dos seus problemas, e ainda colaborar no estudo, planificação e execução das actividades de formação e aperfeiçoamento dos técnicos de extensão rural.
 
 2 - A Direcção de Serviços de Extensão assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 60.º A Direcção de Serviços de Extensão é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 60.º A Direcção de Serviços de Extensão é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Diagnóstico e Projectos de Extensão;
 
@@ -814,7 +852,7 @@ b) Economia Familiar e Nutrição;
 
 c) Juventude Rural.
 
-###### Art. 61.º À Divisão de Diagnóstico e Projectos de Extensão compete:
+Art. 61.º À Divisão de Diagnóstico e Projectos de Extensão compete:
 
 a) Estudar e estabelecer, em colaboração com os serviços regionais de agricultura, as normas para o levantamento e análise das necessidades das populações rurais e, ainda, apoiar aqueles serviços na sua aplicação;
 
@@ -834,7 +872,7 @@ h) Colaborar intimamente com os serviços regionais de agricultura e, eventualme
 
 i) Promover o acompanhamento e avaliação das acções executadas no âmbito dos projectos referidos na alínea anterior, em colaboração com os serviços regionais de agricultura.
 
-###### Art. 62.º À Divisão de Economia Familiar e Nutrição compete:
+Art. 62.º À Divisão de Economia Familiar e Nutrição compete:
 
 a) Colaborar com os serviços regionais de agricultura na dinamização e apoio à família rural no campo das actividades sociais, culturais e das infra-estruturas básicas;
 
@@ -854,7 +892,7 @@ h) Participar com os organismos especializados no estudo dos problemas gerais de
 
 i) Coordenar e apoiar a execução de programas e de projectos de ajuda e cooperação internacional no âmbito da economia familiar e nutrição.
 
-###### Art. 63.º À Divisão de Juventude Rural compete:
+Art. 63.º À Divisão de Juventude Rural compete:
 
 a) Estudar e definir, em colaboração com os serviços regionais de agricultura e organismos especializados, a metodologia e as formas mais adequadas de actuação junto da juventude rural;
 
@@ -870,11 +908,11 @@ f) Colaborar com os serviços regionais de agricultura e organismos especializad
 
 g) Coordenar e apoiar a execução de programas e projectos com a juventude rural no âmbito da cooperação internacional.
 
-###### Art. 64.º - 1 - A Direcção de Serviços de Produção Vegetal tem como atribuições a definição e divulgação, a nível nacional, em colaboração com os serviços regionais de agricultura, Instituto Nacional de Investigação Agrária e outros serviços especializados, das espécies vegetais e respectivas variedades, dos sistemas técnico-económicos de exploração mais aconselháveis para as diferentes zonas agro-ecológicas e a promoção de medidas adequadas de fomento e apoio à produção incluídas em programas nacionais devidamente compatibilizados em ordem a assegurar o ordenamento do território.
+Art. 64.º - 1 - A Direcção de Serviços de Produção Vegetal tem como atribuições a definição e divulgação, a nível nacional, em colaboração com os serviços regionais de agricultura, Instituto Nacional de Investigação Agrária e outros serviços especializados, das espécies vegetais e respectivas variedades, dos sistemas técnico-económicos de exploração mais aconselháveis para as diferentes zonas agro-ecológicas e a promoção de medidas adequadas de fomento e apoio à produção incluídas em programas nacionais devidamente compatibilizados em ordem a assegurar o ordenamento do território.
 
 2 - A Direcção de Serviços de Produção Vegetal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, nomeadamente com a Direcção-Geral de Protecção da Produção Agrícola e os serviços regionais de agricultura, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 65.º - 1 - A Direcção de Serviços de Produção Vegetal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 65.º - 1 - A Direcção de Serviços de Produção Vegetal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Culturas Arvenses;
 
@@ -886,7 +924,7 @@ d) Vitivinicultura;
 
 e) Arboricultura.
 
-###### Art. 66.º À Divisão de Culturas Arvenses compete:
+Art. 66.º À Divisão de Culturas Arvenses compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição de medidas de política e de programas de fomento e colaborar na elaboração das leis e regulamentos sobre o condicionamento das culturas que cabem no seu âmbito de acção;
 
@@ -902,7 +940,7 @@ f) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 g) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis em colaboração com os serviços centrais e regionais do MAP e promover e apoiar a divulgação das normas técnicas e práticas culturais para a implantação e condução das culturas do seu âmbito de acção.
 
-###### Art. 67.º À Divisão de Horticultura e Floricultura compete:
+Art. 67.º À Divisão de Horticultura e Floricultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição de medidas de política e de programas de fomento e colaborar na elaboração das leis e regulamentos sobre o condicionamento das culturas que cabem no seu âmbito de acção;
 
@@ -918,7 +956,7 @@ f) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 g) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis em colaboração com os serviços centrais e regionais do MAP e promover e apoiar a divulgação das normas técnicas e práticas culturais para a implantação e condução das culturas do seu âmbito de acção.
 
-###### Art. 68.º À Divisão de Pastagens e Forragens compete:
+Art. 68.º À Divisão de Pastagens e Forragens compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição de medidas de política e de programas de fomento e colaborar na elaboração das leis e regulamentos sobre o condicionamento das culturas que cabem no seu âmbito de acção;
 
@@ -934,7 +972,7 @@ f) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 g) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis em colaboração com os serviços centrais e regionais do MAP e promover e apoiar a divulgação das normas técnicas e práticas culturais para a implantação e condução das culturas no seu âmbito de acção.
 
-###### Art. 69.º À Divisão de Vitivinicultura compete:
+Art. 69.º À Divisão de Vitivinicultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição de medidas de política e de programas de fomento e colaborar na elaboração das leis e regulamentos sobre o condicionamento das culturas que cabem no seu âmbito de acção;
 
@@ -948,7 +986,7 @@ e) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 f) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis em colaboração com os serviços centrais e regionais do MAP e promover e apoiar a divulgação das normas técnicas e práticas culturais para a implantação e condução das culturas no seu âmbito de acção.
 
-###### Art. 70.º À Divisão de Arboricultura compete:
+Art. 70.º À Divisão de Arboricultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição de medidas de política e de programas de fomento e colaborar na elaboração das leis e regulamentos sobre o condicionamento das culturas que cabem no seu âmbito de acção;
 
@@ -962,11 +1000,11 @@ e) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 f) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis, em colaboração com os serviços centrais e regionais do MAP, e promover e apoiar a divulgação das normas técnicas e práticas culturais para a implantação e condução das culturas no seu âmbito de acção.
 
-###### Art. 71.º - 1 - A Direcção de Serviços de Produção Animal tem como atribuições a definição e divulgação, a nível nacional e em colaboração com os serviços centrais, regionais e organismos especializados, das normas técnicas e dos sistemas técnico-económicos mais adequados à criação e exploração animal e das etnias ou tipos mais aconselháveis para as diferentes zonas agro-ecológicas, e a promoção de medidas adequadas de fomento e de apoio à produção incluídas em programas nacionais devidamente compatibilizados, em ordem a assegurar o ordenamento do território.
+Art. 71.º - 1 - A Direcção de Serviços de Produção Animal tem como atribuições a definição e divulgação, a nível nacional e em colaboração com os serviços centrais, regionais e organismos especializados, das normas técnicas e dos sistemas técnico-económicos mais adequados à criação e exploração animal e das etnias ou tipos mais aconselháveis para as diferentes zonas agro-ecológicas, e a promoção de medidas adequadas de fomento e de apoio à produção incluídas em programas nacionais devidamente compatibilizados, em ordem a assegurar o ordenamento do território.
 
 2 - A Direcção de Serviços de Produção Animal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, ou a ele estranhas, nomeadamente com a Direcção-Geral dos Serviços Veterinários e serviços regionais de agricultura, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 72.º A Direcção de Serviços de Produção Animal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 72.º A Direcção de Serviços de Produção Animal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Bovinicultura;
 
@@ -976,7 +1014,7 @@ c) Suinicultura;
 
 d) Avicultura e Cunicultura.
 
-###### Art. 73.º À Divisão de Bovinicultura compete:
+Art. 73.º À Divisão de Bovinicultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição das medidas e programas de fomento da produção da espécie;
 
@@ -994,7 +1032,7 @@ g) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 h) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis em colaboração com os serviços centrais e regionais do Ministério da Agricultura e Pescas e promover e apoiar a divulgação e a informação das normas e práticas dirigidas à eficiência da produção animal.
 
-###### Art. 74.º À Divisão de Ovinicultura e Caprinicultura compete:
+Art. 74.º À Divisão de Ovinicultura e Caprinicultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição das medidas e programas de fomento da produção das espécies ovina e caprina;
 
@@ -1012,7 +1050,7 @@ g) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 h) Assegurar, em colaboração com os serviços centrais e regionais do Ministério da Agricultura e Pescas, a sistematização dos conhecimentos técnico-económicos disponíveis e promover e apoiar a divulgação e a informação das normas e práticas dirigidas à eficiência da produção animal.
 
-###### Art. 75.º À Divisão de Suinicultura compete:
+Art. 75.º À Divisão de Suinicultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e definição das medidas e programas de fomento da produção da espécie suína;
 
@@ -1028,7 +1066,7 @@ f) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 g) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis em colaboração com os serviços centrais e regionais do Ministério da Agricultura e Pescas e promover e apoiar a divulgação e a informação das normas e práticas dirigidas à eficiência da produção animal.
 
-###### Art. 76.º À Divisão de Avicultura e Cunicultura compete:
+Art. 76.º À Divisão de Avicultura e Cunicultura compete:
 
 a) Promover, em colaboração com os organismos especializados e os serviços regionais de agricultura, o estudo e a definição das medidas e programas de fomento da produção das espécies avícola e cunícola;
 
@@ -1044,9 +1082,9 @@ f) Apoiar e acompanhar os serviços regionais de agricultura nas acções de ada
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Art. 77.º Para a realização dos seus fins, a DGER administrará os bens a seu cargo de acordo com as boas regras de gestão.
+Art. 77.º Para a realização dos seus fins, a DGER administrará os bens a seu cargo de acordo com as boas regras de gestão.
 
-###### Art. 78.º A gestão da DGER é disciplinada pelos seguintes instrumentos de previsão:
+Art. 78.º A gestão da DGER é disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano de actividade plurianual;
 
@@ -1054,63 +1092,63 @@ b) Programa anual de trabalho;
 
 c) Orçamento privativo anual e suas actualizações.
 
-###### Art. 79.º Os planos plurianuais serão ajustados ou actualizados anualmente por forma que as acções a executar e as medidas de política a empreender se integrem na estratégia de desenvolvimento a médio prazo que for definida para o sector agrário.
+Art. 79.º Os planos plurianuais serão ajustados ou actualizados anualmente por forma que as acções a executar e as medidas de política a empreender se integrem na estratégia de desenvolvimento a médio prazo que for definida para o sector agrário.
 
-###### Art. 80.º O programa anual de trabalho deverá concretizar os projectos e planos a realizar no decurso do ano pelos diversos serviços da DGER, definindo as respectivas prioridades e áreas de manutenção.
+Art. 80.º O programa anual de trabalho deverá concretizar os projectos e planos a realizar no decurso do ano pelos diversos serviços da DGER, definindo as respectivas prioridades e áreas de manutenção.
 
-###### Art. 81.º - 1 - O orçamento privativo será elaborado anualmente com base no programa anual de trabalho para cada ano económico, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
+Art. 81.º - 1 - O orçamento privativo será elaborado anualmente com base no programa anual de trabalho para cada ano económico, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
 
 2 - O orçamento será submetido à aprovação do Ministro da Agricultura e Pescas nos prazos legais.
 
-###### Art. 82.º O conselho administrativo administrará autonomamente as dotações que anualmente lhe forem concedidas para execução dos programas e projectos de investimento, bem como as suas receitas próprias.
+Art. 82.º O conselho administrativo administrará autonomamente as dotações que anualmente lhe forem concedidas para execução dos programas e projectos de investimento, bem como as suas receitas próprias.
 
-###### Art. 83.º - 1 - O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas à DGER no Orçamento Geral do Estado.
+Art. 83.º - 1 - O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas à DGER no Orçamento Geral do Estado.
 
 2 - As importâncias correspondentes às requisições serão levantadas pela DGER e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
 
 3 - Poderá, no entanto, ser constituído, à responsabilidade do tesoureiro, um fundo de maneio para ocorrer ao pagamento de pequenas despesas de carácter corrente.
 
-###### Art. 84.º Todos os documentos relativos a recebimentos serão assinados ou visados pelo presidente do conselho administrativo, ou pelo seu substituto legal, e pelo director de Serviços de Administração ou pelo chefe da Repartição de Administração Financeira.
+Art. 84.º Todos os documentos relativos a recebimentos serão assinados ou visados pelo presidente do conselho administrativo, ou pelo seu substituto legal, e pelo director de Serviços de Administração ou pelo chefe da Repartição de Administração Financeira.
 
-###### Art. 85.º As normas internas de contabilidade serão definidas em regulamento de gestão interna a aprovar por despacho do Ministro da Agricultura e Pescas.
+Art. 85.º As normas internas de contabilidade serão definidas em regulamento de gestão interna a aprovar por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 86.º A prestação de contas será feita nos termos da lei geral aplicável.
+Art. 86.º A prestação de contas será feita nos termos da lei geral aplicável.
 
 ### CAPÍTULO IV — Pessoal
 
 #### SECÇÃO I — Dos quadros de pessoal
 
-###### Art. 87.º A DGER disporá para o desempenho das suas atribuições do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 87.º A DGER disporá para o desempenho das suas atribuições do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 88.º Os lugares dos quadros únicos do Ministério da Agricultura e Pescas cujos titulares foram providos em lugares de pessoal dirigente só poderão ser preenchidos interinamente e com observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 88.º Os lugares dos quadros únicos do Ministério da Agricultura e Pescas cujos titulares foram providos em lugares de pessoal dirigente só poderão ser preenchidos interinamente e com observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
-###### Art. 89.º O tesoureiro terá direito a um abono para falhas, de acordo com a lei geral.
+Art. 89.º O tesoureiro terá direito a um abono para falhas, de acordo com a lei geral.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 90.º O suprimento temporário de cargos dirigentes referenciados no mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, por vacatura de lugar ou ausência ou impedimento dos respectivos titulares, efectuar-se-á nos termos do artigo 11.º daquele diploma.
+Art. 90.º O suprimento temporário de cargos dirigentes referenciados no mapa anexo ao [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, por vacatura de lugar ou ausência ou impedimento dos respectivos titulares, efectuar-se-á nos termos do artigo 11.º daquele diploma.
 
-###### Art. 91.º Os chefes de repartição são substituídos, no caso de vacatura do cargo, ausência ou impedimento do respectivo titular, pelo chefe de secção que for designado por despacho do director, sob proposta do respectivo director de serviços.
+Art. 91.º Os chefes de repartição são substituídos, no caso de vacatura do cargo, ausência ou impedimento do respectivo titular, pelo chefe de secção que for designado por despacho do director, sob proposta do respectivo director de serviços.
 
-###### Art. 92.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta, for designado por despacho do director-geral.
+Art. 92.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta, for designado por despacho do director-geral.
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 93.º A DGER poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que no âmbito das suas atribuições lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 93.º A DGER poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que no âmbito das suas atribuições lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
-###### Art. 94.º - 1 - Mediante autorização ministerial e sob proposta fundamentada do director-geral, a DGER poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 94.º - 1 - Mediante autorização ministerial e sob proposta fundamentada do director-geral, a DGER poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 95.º A DGER poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 95.º A DGER poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 96.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá a DGER estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o Gabinete de Informação e Cooperação Internacional.
+Art. 96.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá a DGER estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o Gabinete de Informação e Cooperação Internacional.
 
-###### Art. 97.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos da DGER incluídos no Plano, serão pagos de conta das dotações consignadas a esses objectivos.
+Art. 97.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos da DGER incluídos no Plano, serão pagos de conta das dotações consignadas a esses objectivos.
 
-###### Art. 98.º A DGER poderá conceder subsídios de quantitativos a fixar por despacho ministerial, sob proposta do director-geral, para a instalação de jovens agricultores, nomeadamente na empresa agrícola, na sequência das acções de formação profissional agrária, ouvidos os serviços regionais de agricultura.
+Art. 98.º A DGER poderá conceder subsídios de quantitativos a fixar por despacho ministerial, sob proposta do director-geral, para a instalação de jovens agricultores, nomeadamente na empresa agrícola, na sequência das acções de formação profissional agrária, ouvidos os serviços regionais de agricultura.
 
-###### Art. 99.º - 1 - A cobrança coerciva de dívidas à DGER, provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 99.º - 1 - A cobrança coerciva de dívidas à DGER, provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -1124,26 +1162,26 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para pagamento.
 
-###### Art. 100.º A DGER, precedendo despacho ministerial de autorização e sob proposta devidamente fundamentada, poderá subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com as actividades da direcção-geral.
+Art. 100.º A DGER, precedendo despacho ministerial de autorização e sob proposta devidamente fundamentada, poderá subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com as actividades da direcção-geral.
 
-###### Art. 101.º A DGER poderá, por despacho ministerial e sob proposta fundamentada do director-geral, contribuir para as despesas de instalação e funcionamento de exposições, feiras e concursos agrícolas considerados de interesse para o desenvolvimento da agricultura.
+Art. 101.º A DGER poderá, por despacho ministerial e sob proposta fundamentada do director-geral, contribuir para as despesas de instalação e funcionamento de exposições, feiras e concursos agrícolas considerados de interesse para o desenvolvimento da agricultura.
 
-###### Art. 102.º As atribuições, competências e direitos conferidos por lei aos organismos e órgãos integrados na DGER pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
+Art. 102.º As atribuições, competências e direitos conferidos por lei aos organismos e órgãos integrados na DGER pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
 
-###### Art. 103.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
+Art. 103.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 104.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 104.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 87.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29501/00020017.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29501/00020017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29501/00020017.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

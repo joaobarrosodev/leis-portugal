@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-1976-427090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0336719dacc77cbdf4f188ab45229e6e7e2fa11985dbb4c7a35fcc53c426882
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bb4b7d2d97ccb68dc809bff54143c566303ec351a891985f9142769e29d3433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁGIO
+- Câmbio Médio
+- Contribuições e Impostos
+- Liquidação de Pagamentos
+- OURO
+- TAXA de Câmbio
+relationships:
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:48Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +97,6 @@ de 14 de Junho
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, e nos termos do disposto no único do artigo 59.º da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria e que tenham por base o ouro ou moeda estrangeira sejam adoptados o ágio e o câmbio médios seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/13800/13311331.pdf))](https://files.diariodarepublica.pt/1s/1976/06/13800/13311331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/13800/13311331.pdf)
 
 Secretaria de Estado do Orçamento, 25 de Maio de 1976. - O Secretário de Estado do Orçamento, Vítor Manuel Ribeiro Constâncio.

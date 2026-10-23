@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08800/07300732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-1978-425301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:35:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3346b3afd1f2b2650fe20204e472d3617c075bba5f67cfe2478fd5cb7e50b52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd8a7d11207d7f7de4ae559601e013bca07635db9a19d8f1fb3b5d2394da9c21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:35:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Educação
+- ANO Propedêutico
+- Avaliação de Conhecimentos
+- Ensino Secundário
+- Ensino Superior
+- Estabelecimento de Ensino
+- Estudante
+- Exame
+- Matrícula
 relationships:
 - type: amended_by
   target: pt:dre:393216:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297580:por
+  label: Acrescentados os arts. 1.º-A e 18.º-A e alterados os pontos 9.º e 12.º pelo(a) Portaria n.º 400/78 - Diário da República
+    n.º 166/1978, Série I de 1978-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1978-297580
+  date: '1978-07-21'
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393216:por
+  label: "Revogado integralmente o disposto no presente diploma, pela PORT.71/79.08.02.1979.MEIC, DR.IS [33] de 08.02.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/71-1979-393216
+  date: '1979-02-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:35:34Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +257,7 @@ Remessa das provas para classificar
 
 Remessa das provas classificadas
 
-**O presidente do conselho directivo de cada estabelecimento onde tenham sido designados docentes para a classificação de provas remeterá ao SAAP, de acordo com as instruções deste, os pontos classificados, bem como as pautas contendo as classificações.**
+O presidente do conselho directivo de cada estabelecimento onde tenham sido designados docentes para a classificação de provas remeterá ao SAAP, de acordo com as instruções deste, os pontos classificados, bem como as pautas contendo as classificações.
 
 16.º
 

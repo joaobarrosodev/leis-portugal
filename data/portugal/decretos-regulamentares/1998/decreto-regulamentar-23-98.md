@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/23/1998/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1998-234913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e8f26ca233f7b11eebc18681aa13daf1724ba59b565af3cb12ce6bb84868311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c2a0b38fa391c8122313a2aee3177e47e1f3c3f7c0302fd6b5b79c430845f35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Comissão Directiva
-- CAÇA
-- Contra-ordenação
-- Fiscalização
-- Pesca
-- Conselho Consultivo
-- Licenciamento
 - Aquicultura
-- Parque Natural da Arrábida
-- Proteção do Ambiente
+- CAÇA
+- Comissão Directiva
+- Conselho Consultivo
+- Contra-ordenação
 - Diversidade Biológica
+- Fiscalização
+- Licenciamento
+- Ordenamento do Território
+- Parque Natural da Arrábida
+- Pesca
 - Política de Solos
+- Proteção do Ambiente
 - Proteção Fitossanitária
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:67198365:por
@@ -105,16 +105,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/833/1993/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/833/1993/09/08/p/dre
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626989:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:169008:por
+  label: "Rectificado pela DECL-RECT.22-D/98.1998.11.30.PCM DR.IS-B [277]2.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-d-1998-169008
+  date: '1998-11-30'
+- type: repealed_by
+  target: pt:dre:580615:por
+  label: "Revogados os anexos I e III, alterado o anexo II e alterados os limites do Parque Natural da Arrábida, todos constantes\
+    \ no DR.11/2003.2003.05.08.MCOTA, DR.IS-B [106] de 8/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2003-580615
+  date: '2003-05-08'
+- type: repealed_by
+  target: pt:dre:246128:por
+  label: "Revogados os arts. 10º, 11º, 12º e 15º do presente diploma, pela RES.141/2005.23.06.2005.PCM, DR.IS-B [161] de 23.08.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/141-2005-246128
+  date: '2005-06-23'
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:21Z'
   warnings: []
   errors: []
 ---
@@ -429,15 +484,15 @@ Presidência do Conselho de Ministros, 23 de Julho de 1998.
 
 António Manuel de Oliveira Guterres - José Veiga Simão - Fernando Teixeira dos Santos - Fausto de Sousa Correia - Emanuel José Leandro Maranha das Neves - José Manuel de Matos Fernandes - Vítor Manuel Sampaio Caetano Ramalho - Manuel Maria Cardoso Leal - Guilherme d'Oliveira Martins - António Ricardo Rocha de Magalhães - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 18 de Setembro de 1998.**
+Promulgado em 18 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Setembro de 1998.**
+Referendado em 21 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites do Parque Natural
 

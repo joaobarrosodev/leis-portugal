@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1981-389626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ac5f3ab8c060794467b987216b3ce88ad8e661d4e146a94aabda883ef57f84e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbb4ca8c873dbfcebdd722a9beac62be78f759d26be37f5d4eb8f7706ff89d26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Braga
+- Normas de Segurança
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:31Z'
   warnings: []
   errors: []
 ---
@@ -98,27 +110,27 @@ Tendo em consideração o disposto no n.º 4 do artigo 30.º do Regulamento para
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas na linha do Minho serão consideradas áreas non aedificandi as faixas de terreno confinantes com esta linha férrea, à esquerda e à direita, entre os quilómetros 16,000 e 40,000 e, no ramal de Braga, entre os quilómetros 39,000 e 40,000 (estação de Nine - início do ramal de Bragal, bem como na curva de concordância entre o ramal de Braga e a linha do Minho, entre os quilómetros 39,300 (ramal de Braga) e 39,350 (linha do Minho), conforme os limites e distâncias expressos nos desenhos V-003726, V-003727, V-003728, V-003729, V-003730, V-003731, V-003732, V-003733, V-003734, V-003735, V-003736, V-003737, V-003738, V-003739, V-003740, V-003741, V-003742, V-003743, V-003744, V-003745, V-003746, V-003747, V-003748, V-003749 e V-003750, anexos a este diploma e referidos ao eixo da via actual, também descritos no quadro anexo.
+Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas na linha do Minho serão consideradas áreas non aedificandi as faixas de terreno confinantes com esta linha férrea, à esquerda e à direita, entre os quilómetros 16,000 e 40,000 e, no ramal de Braga, entre os quilómetros 39,000 e 40,000 (estação de Nine - início do ramal de Bragal, bem como na curva de concordância entre o ramal de Braga e a linha do Minho, entre os quilómetros 39,300 (ramal de Braga) e 39,350 (linha do Minho), conforme os limites e distâncias expressos nos desenhos V-003726, V-003727, V-003728, V-003729, V-003730, V-003731, V-003732, V-003733, V-003734, V-003735, V-003736, V-003737, V-003738, V-003739, V-003740, V-003741, V-003742, V-003743, V-003744, V-003745, V-003746, V-003747, V-003748, V-003749 e V-003750, anexos a este diploma e referidos ao eixo da via actual, também descritos no quadro anexo.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do Ministro dos Transportes e Comunicações, sob proposta dos Caminhos de Ferro Portugueses, E. P.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação especial do Ministro dos Transportes e Comunicações, sob proposta dos Caminhos de Ferro Portugueses, E. P.
 
-###### Art. 3.º Os limites e distâncias das áreas non aedificandi, definidos no artigo 1.º, serão revistos decorridos cinco anos, para o que se tomará em consideração a evolução dos estudos das ampliações em causa.
+Art. 3.º Os limites e distâncias das áreas non aedificandi, definidos no artigo 1.º, serão revistos decorridos cinco anos, para o que se tomará em consideração a evolução dos estudos das ampliações em causa.
 
-###### Art. 4.º Este diploma entra em vigor na data da sua publicação.
+Art. 4.º Este diploma entra em vigor na data da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 6 de Março de 1981.**
+Promulgado em 6 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o artigo 1.º
 
 Linha do Minho entre S. Romão e Nine
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf))](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf)
 
 Quadro a que se refere o artigo 1.º
 
@@ -126,8 +138,8 @@ Ramal de Braga
 
 I - Estação de Nine-início do ramal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf))](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf)
 
 II - Curva de concordância entre o ramal de Braga e a linha do Minho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf))](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/07000/07610776.pdf)

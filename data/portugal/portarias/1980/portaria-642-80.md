@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/642-1980-460871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90a4324d7bd877031fe259926a8e04655898581b9aafbfe5ad16e9a6bd9ed0ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbe5c2783b0374caf81342aa6ffb486fad736b21e39fe1f7e23d84607049aac4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:321941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309707:por
+  label: "Alterado o quadro de pessoal pela PORT.234/83.1983.03.02.MFP DR.IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/234-1983-309707
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:386623:por
+  label: "Alterado, na parte referente ao pessoal técnico superior (pessoal médico), o quadro de pessoal aprovado pelo presente\
+    \ diploma, pela PORT.352/84.09.06.1984.PCM, DR.IS [134] de 09.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-1984-386623
+  date: '1984-06-09'
+- type: amended_by
+  target: pt:dre:386054:por
+  label: "Alterada, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar, o quadro de pessoal anexo\
+    \ ao presente diploma, pela PORT.485/84.21.07.1984.PCM, DR.IS [168] de 21.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/485-1984-386054
+  date: '1984-07-21'
+- type: amended_by
+  target: pt:dre:180431:por
+  label: "Aumentado um lugar ao mapa de pessoal aprovado pelo presente diploma, pela PORT.600/85.14.08.1985.PCM, DR.IS [186]\
+    \ de 14.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/600-1985-180431
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:419869:por
+  label: "Alterado, na parte referente ao pessoal técnico de diagnóstico e terapêutica pela PORT.557/87.1987.07.06.MF, DR.IS\
+    \ [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/557-1987-419869
+  date: '1987-07-06'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico da Maternidade de Júlio Dinis pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORTARIA 1070/91, PUBLICADA NO DR.IS-B, 244.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-23'
+- type: amended_by
+  target: pt:dre:585058:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 1051/92, PUBLICADA NO DR.IS-B, 260.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-1992-585058
+  date: '1992-11-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL, PELA PORTARIA 132/93, PUBLICADA NO DR.IS-B, 31, NA PARTE RELATIVA AS CARREIRAS TÉCNICA
+    SUPERIOR DE SERVIÇO SOCIAL E TÉCNICA SUPERIOR DE SAÚDE.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-01-06'
+- type: amended_by
+  target: pt:dre:321941:por
+  label: "Substituído o quadro de pessoal pela PORT.313/99.1999.05.12.PCM DR.IS-B [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1999-321941
+  date: '1999-05-12'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:37Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +169,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal da Maternidade de Júlio Dinis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/26872688.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/26872688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26872688.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

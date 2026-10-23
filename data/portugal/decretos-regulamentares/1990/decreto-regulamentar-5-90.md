@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 45/1990, 1º Suplemento, Série I de 1990-02-22
   number: '45'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 760-(2) a 760-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1990-308148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca97598e7d4d4ad30c96b26d7fe0caa03263bd60d27c716f52b6d91883f569e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 927d03f49f062f5b7cb31b9912be1ccd41dd41bbf499d24b8a34868feba4183d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IRS
+- Contribuições e Impostos
+- IRS
+- Retenção na Fonte
+- Tabela de Retenção
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:239796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:346710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182443:por
+  label: Rectificado pela DECL.DD873.1990.04.11.PCM, DR.IS [99]2ºSupl de 30.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182443
+  date: '1990-04-11'
+- type: repealed_by
+  target: pt:dre:298192:por
+  label: "Revogados os arts. 4º, 6º e 10º pelo DR.18/90.1990.07.13.MF, DR.IS [160]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1990-298192
+  date: '1990-07-13'
+- type: repealed_by
+  target: pt:dre:496487:por
+  label: "Revogado pelo DEC LEI.42/91.22.01.1991.MF, DR.IS-A [18] de 22.01.1991, sem prejuízo da aplicação aos rendimentos\
+    \ pagos ou colocados à disposição dos respectivos titulares até 31 de Dezembro de 1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1991-496487
+  date: '1991-01-22'
 article_structure:
   article_count: 14
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:10Z'
   warnings: []
   errors: []
 ---
@@ -329,7 +359,7 @@ b) Por cada dependente deficiente com grau de invalidez permanente igual ou supe
 
 As taxas a aplicar ao rendimento colectável e as respectivas parcelas a abater, referidas nos artigos 5.º e 6.º, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf)
 
 ### CAPÍTULO II — Retenções de IRS sobre rendimentos de outras categorias
 
@@ -365,14 +395,14 @@ Presidência do Conselho de Ministros, 22 de Janeiro de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 1 de Fevereiro de 1990.**
+Promulgado em 1 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Fevereiro de 1990.**
+Referendado em 5 de Fevereiro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04501/00020015.pdf)

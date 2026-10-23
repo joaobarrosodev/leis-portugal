@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2011/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2011-145061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac71e5dcae70ddcee9075d1a29834bbe0ecc11fbd9962b32f329f153e2103258
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be01fd831e35bf329bd805074d390d25d867228e542dc20a74cc48b4893240c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Garantia
-- Instituição de Crédito
+- Atividade Bancária
 - Depósito Bancário
 - Fundo de Garantia de Depósitos
 - Fundo de Garantia do Crédito Agrícola Mútuo
+- Garantia
 - Garantia Bancária
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
 - Reembolso
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:66868336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação ao art. 166º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo\
+    \ Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF, DR.IS [30-Supl] de 10.02.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado, a partir de 31.03.2015, o art. 12.º do Dec. Lei 345/98 de 09-nov, na redação do presente diploma, pelo(a)
+    Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26 que procedeu à sua republicação
+    no anexo II
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
 - type: cites
   target: celex:31994L0019
   label: null
@@ -95,13 +109,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:41Z'
   warnings: []
   errors: []
 ---
@@ -200,12 +214,12 @@ O presente decreto-lei produz efeitos a partir de 1 de Janeiro de 2012.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 22 de Dezembro de 2011.**
+Promulgado em 22 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Dezembro de 2011.**
+Referendado em 23 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

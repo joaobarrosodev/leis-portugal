@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16800/18351836.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/215-1980-472549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93f277738eb0b729fd971553f4bc846df80f8927257e9e72d39ca4f757055bc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb0221e2a4c0469905698ac6f164808fdef36a2e19dca45b9305cb6ce3b0883b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formação Profissional
+- Política de Emprego
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:180626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:457444:por
+  label: Rectificado pela DECL.DD6697.04.11.1980.PCM, DR.IS [255] de 04.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-457444
+  date: '1980-11-04'
+- type: repealed_by
+  target: pt:dre:180626:por
+  label: "Revogado pelo DN.73/85.19.07.1985.MTSS, DR.IS [183] de 10.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/73-1985-180626
+  date: '1985-07-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:01:25Z'
   warnings: []
   errors: []
 ---

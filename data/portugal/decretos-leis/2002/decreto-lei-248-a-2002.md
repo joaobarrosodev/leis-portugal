@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 263/2002, 1º Suplemento, Série I-A de 2002-11-14
   number: '263'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7260-(2) a 7260-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/263a01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248-a/2002/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-a-2002-585065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44c2be4f908dff523754f4706c27c48569047f55b39780ce8548a051f66d9e9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95d9faff5dc4d1b0b434ab8139ecb09bc4763605c0a4f006919b7ec3d5450794
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Cobrança de Dívidas
+- Contribuições e Impostos
 - Dívidas ao Estado
 - Execução Fiscal
-- Contribuições e Impostos
-- IRS
 - Infracção Fiscal
-- Prazo
 - IRC
+- IRS
+- Multa
+- Prazo
 - Processo Tributário
-- Cobrança de Dívidas
 relationships:
+- type: amended_by
+  target: pt:dre:2894997:por
+  label: "Mantidos até 3 de Janeiro de 2003 os benefícios previstos no presente diploma, pelo DESP.27384-B/2002(2ªSÉRIE).2002.12.30.MF,\
+    \ DR.IIS [301]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/27384-b-2002-2894997
+  date: '2002-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:58Z'
   warnings: []
   errors: []
 ---
@@ -182,12 +192,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 13 de Novembro de 2002.**
+Promulgado em 13 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Novembro de 2002.**
+Referendado em 14 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/2003/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2003-493703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7c7ac301591be6f86ad709dfb03121b1e3f1a05b04f5f88be0a7bd83aba175b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e24628e7d010c74cbecc4b7abdcc52e0fe966af38f78a789c47b9de42c17a0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - AVAL do Estado
+- Cascais
 - Contrato de Concessão
 - Enatur
 - Instituto de Financiamento e Apoio ao Turismo
 - Marina
-- Cascais
 - Transferência de Competências
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1994/01/20/p/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/335/1991/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/335/1991/09/07/p/dre
+- type: cites
+  target: pt:dre:304330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510801:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:30Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +138,12 @@ Todas as referências feitas à ENATUR no [Decreto-Lei n.º 335/91](https://diar
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 11 de Setembro de 2003.**
+Promulgado em 11 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2003.**
+Referendado em 15 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

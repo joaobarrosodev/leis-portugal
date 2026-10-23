@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/744-1971-165987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4aa5780cba8f8122306ce799c2e2970f13b3f7627e66f3b341d6a074e0ea30a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1def1d2a965cd0d5bd81c73f086b6ed57446559b6e78dfd3a5d088f5f5c2055e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:683604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:18Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +113,6 @@ Manda o Governo da República Portuguesa, pelos Ministros do Ultramar e da Saúd
 
 4.º As faltas, mesmo justificadas, implicam um desconto equivalente a 20 por cento ou a 5 por cento da remuneração, consoante os funcionários constem ou não das escalas publicadas. Em caso de doença comprovada, o desconto é sempre de 5 por cento.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.
 
 Para ser publicada nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

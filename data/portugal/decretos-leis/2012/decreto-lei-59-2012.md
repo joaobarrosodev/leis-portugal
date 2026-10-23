@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2012/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 900d07d7e173fe5adb9b27b61f9c47694eb03c610f7216e0ea7374c467cb2ba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30a6d88fca250dcb36ee8b7f764326ed5d26c652d764f617d14194ff3a3ca0e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Gestão Financeira
 - Conselho de Administração
 - CP
-- Transporte Ferroviário
 - Empresa Pública
 - Estatuto
-- Transporte de Mercadorias
-- Serviço Público
+- Gestão Financeira
 - Prestação de Contas
 - Regime Jurídico
+- Serviço Público
+- Transporte de Mercadorias
 - Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:120454103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537589:por
+  label: Alterado o art. 3.º do Dec Lei 137-A/2009 de 12-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 124-A/2018
+    - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-a-2018-117537589
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro das Infraestruturas e da Habitação, sem prejuízo dos poderes legalmente conferidos
+    ao Conselho de Ministros e ao Ministro das Finanças, das competências legais relativas à CP-Comboios de Portugal, E.P.E.,
+    cujos Estatutos constam do Dec Lei 137-A/2009 de 12-jun, na versão alterada e republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
 - type: cites
   target: celex:31991L0440
   label: null
@@ -93,15 +107,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/137-a/2009/06/12/p/dre
 article_structure:
-  article_count: 39
+  article_count: 37
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:40Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +154,9 @@ Os artigos 3.º e 15.º do Decreto-Lei n.º 137-A/2009, de 12 de junho, passam a
 
 A CP, E. P. E., rege-se pelo disposto no Decreto-Lei n.º 558/99, de 17 de dezembro, alterado Decreto-Lei n.º 300/2007, de 23 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pela Lei n.º 55-A/2010, de 31 de dezembro, com exceção do previsto no artigo 37.º, bem como pelo disposto no presente decreto-lei e estatutos anexos, que dele fazem parte integrante, e pela demais legislação aplicável.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +192,9 @@ Os artigos 9.º e 15.º dos estatutos da CP, E. P. E., aprovados no anexo i do D
 
 9 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -218,15 +236,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Fernando Ferreira Santo - Álvaro Santos Pereira.
 
-**Promulgado em 1 de março de 2012.**
+Promulgado em 1 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de março de 2012.**
+Referendado em 5 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/145a00/31193127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/1997/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1997-163201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1036cdde0b621bc84e762c1a43c81127a116ffbd63b35a3017bc35eb2440e4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11289231b92180cdfc6f17e9d355431a24f505c3eaf03f10b1d04447194bfd03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Obra de Arte
 - CASA Museu de Almeida Moreira
 - CASA Museu de Férnando de Castro
 - CASA Museu Doutor Anastácio Gonçalves
 - Casa Museu Fernando de Castro
 - CASA Museu Manuel Mendes
-- Pessoal Dirigente
-- Definição de Competências
-- Património Cultural
-- Ministro da Cultura
-- Museu Nacional da Ciência e da Técnica
 - Conselho Consultivo
+- Conservação e Restauro
+- Definição de Competências
+- Exportação
 - Instituto de JOSÉ de Figueiredo
 - Instituto Português de Museus
+- Ministro da Cultura
 - Museologia
 - Museu da Cerâmica
 - Museu da Guarda
@@ -95,6 +93,7 @@ subjects:
 - Museu do Chiado
 - Museu dos Biscainhos
 - Museu Monográfico de Conimbriga
+- Museu Nacional da Ciência e da Técnica
 - Museu Nacional de Arqueologia do Dr Leite de Vasconcelos
 - Museu Nacional de Arte Antiga
 - Museu Nacional de Etnologia
@@ -105,9 +104,10 @@ subjects:
 - Museu Nacional do Traje
 - Museu Nacional dos Coches
 - Museu Regional de Arqueologia D. Diogo de Sousa
+- Obra de Arte
 - Orgânica
-- Exportação
-- Conservação e Restauro
+- Património Cultural
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Rede Portuguesa de Museus
 relationships:
@@ -119,16 +119,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/278/1991/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/278/1991/08/09/p/dre
+- type: cites
+  target: pt:dre:140564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679835:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662122:por
+  label: "Revogado pelo DEC LEI.398/99.1999.10.13.MC DR.IS-A [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1999-662122
+  date: '1999-10-13'
 article_structure:
   article_count: 30
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:04Z'
   warnings: []
   errors: []
 ---
@@ -463,7 +488,9 @@ a) Secção de Pessoal;
 
 b) Secção de Expediente Geral.
 
-###### Artigo 15.º — Secção de Pessoal
+###### Artigo 15.º
+
+#### Secção de Pessoal
 
 Compete à Repartição de Pessoal e Administração Geral, através da Secção de Pessoal:
 
@@ -477,7 +504,9 @@ d) Instruir os processos relativos aos benefícios sociais do pessoal e seus fam
 
 e) Assegurar o controlo de pontualidade e assiduidade do pessoal.
 
-###### Artigo 16.º — Secção de Expediente Geral
+###### Artigo 16.º
+
+#### Secção de Expediente Geral
 
 Compete à Repartição de Pessoal e Administração Geral, através da Secção de Expediente Geral:
 
@@ -495,7 +524,9 @@ a) Secção de Contabilidade;
 
 b) Secção de Património.
 
-###### Artigo 18.º — Secção de Contabilidade
+###### Artigo 18.º
+
+#### Secção de Contabilidade
 
 Compete à Repartição de Contabilidade e Património, através da Secção de Contabilidade:
 
@@ -521,7 +552,9 @@ j) Colaborar na elaboração dos planos de actividades e respectivos orçamentos
 
 l) Proceder ao acompanhamento, avaliação e controlo material e financeiro do plano e elaborar o respectivo relatório de execução.
 
-###### Artigo 19.º — Secção de Património
+###### Artigo 19.º
+
+#### Secção de Património
 
 Compete à Repartição de Contabilidade e Património, através da Secção de Património:
 
@@ -651,15 +684,15 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - João Cardona Gomes Cravinho - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 28 de Maio de 1997.**
+Promulgado em 28 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1997.**
+Referendado em 6 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I A QUE SE REFERE O ARTIGO 5.º
 
@@ -729,7 +762,7 @@ Museu da Terra de Miranda.
 
 MAPA II A QUE SE REFERE O ARTIGO 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/145a00/31193127.pdf))](https://files.diariodarepublica.pt/1s/1997/06/145a00/31193127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/145a00/31193127.pdf)
 
 MAPA III A QUE SE REFERE O ARTIGO 28.º
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11600/38963898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/2007/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2007-639280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 577faa972063103f909b86c427187e907179a52b94f3deb956d599e12f54c92f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1618df76fd33ebddcd070c010c7a252214fad7505e2aa8825739a6d293ce37c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Autoridade para as Condições do Trabalho
+- Condições de Higiene e Segurança no Trabalho
+- Condutor
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização
-- Inspecção Geral do Trabalho
-- Condutor
-- Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
 - Horário de Trabalho
+- Inspecção Geral do Trabalho
+- Multa
+- Regime Jurídico
 - Regulamento CE
 - Transporte Internacional
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: celex:31985R3820
@@ -100,16 +100,22 @@ relationships:
   target: celex:32006R0561
   label: null
   source: http://data.europa.eu/eli/reg/2006/561/oj
+- type: repealed_by
+  target: pt:dre:1084345987:por
+  label: Revogado, a partir de 12 de julho de 2026, pelo(a) Decreto-Lei n.º 84/2026 - Diário da República n.º 71/2026, Série
+    I de 2026-04-13 nos termos da alínea b) do artigo 65.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2026-1084345987
+  date: '2026-04-12'
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:27Z'
   warnings: []
   errors: []
 ---
@@ -282,12 +288,12 @@ Até à entrada em vigor do diploma orgânico da Autoridade para as Condições 
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Paulo Jorge Oliveira Ribeiro de Campos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 9 de Maio de 2007.**
+Promulgado em 9 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 11 de Maio de 2007.**
+Referendado em 11 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

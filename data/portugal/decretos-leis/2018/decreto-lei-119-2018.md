@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24900/0594705951.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2018/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2018-117503935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03d60fcc9310dcdea706a686ce0b003ea5ddf748c0b5930b5219399eff1a0cc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87a5f824472dd52a4987e9706fbf50d7fc2b1c5f2a8173aa6bee55a658b04add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,36 @@ reuse:
 subjects:
 - Acumulação de Pensões
 - Acumulação de Pensões e Remunerações
-- Tempo de Serviço
-- Financiamento
 - Beneficiário
 - Bonificação de Pensões
 - Cálculo de Pensões
 - Centro Nacional de Pensões
+- Desemprego
 - Desemprego de Longa Duração
+- Financiamento
 - Idade de Reforma
-- Reforma Antecipada
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Velhice
 - Pensão por Desgaste Físico
-- Pensão de Reforma
 - Pensionista
 - Pensões
 - Prestações da Segurança Social
-- Desemprego
+- Reforma Antecipada
 - Segurança Social
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122572388:por
+  label: Alterados os arts. 20.º, 21.º, 36.º, 44.º, 62.º e 79.º, na redação do presente diploma, do Dec Lei 187/2007 de 10-mai,
+    pelo(a) Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14 nos termos do n.º 2 do seu art.
+    9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2019-122572388
+  date: '2019-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2016/03/08/p/dre
   label: null
@@ -126,16 +133,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:108269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116417932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66147743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73803671:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:02Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +259,9 @@ e) [Anterior alínea d)].
 
 9 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A flexibilização da idade de acesso à pensão de velhice, prevista na alínea a) do n.º 1 do artigo anterior, consiste no direito de requerer a pensão em idade inferior ou superior à idade pessoal ou à idade normal de acesso à pensão de velhice vigente no ano de início da pensão de velhice antecipada ou bonificada.
 
@@ -226,19 +271,27 @@ e) [Anterior alínea d)].
 
 4 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A antecipação da idade de pensão de velhice, prevista na alínea c) do n.º 1 do artigo 20.º, é estabelecida por lei que defina as respetivas condições de atribuição, designadamente a natureza especialmente penosa ou desgastante da atividade profissional exercida pelo beneficiário e as particularidades específicas relevantes no seu exercício.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 A antecipação da idade de pensão de velhice, no âmbito das medidas temporárias de proteção específica previstas na alínea d) do n.º 1 do artigo 20.º, é estabelecida por lei e tem como limite os 55 anos de idade do beneficiário.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 A antecipação da idade de pensão de velhice nas situações de desemprego involuntário de longa duração previstas na alínea e) do n.º 1 do artigo 20.º é estabelecida por lei e tem como limite os 57 anos de idade do beneficiário.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -246,13 +299,17 @@ A antecipação da idade de pensão de velhice nas situações de desemprego inv
 
 3 - Nos restantes regimes e medidas de antecipação da idade de pensão de velhice, previstos nas alíneas c), d) e e) do n.º 1 do artigo 20.º, o suporte financeiro da antecipação da pensão de velhice é previsto em lei especial que estabeleça o respetivo financiamento.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
 2 - O montante mensal da pensão estatutária é igual ao produto da remuneração de referência pela taxa global de formação da pensão e pelo fator de sustentabilidade, quando aplicável, nos termos previstos na presente secção.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - No momento do cálculo da pensão de velhice, ao montante da pensão estatutária é aplicável o fator de sustentabilidade correspondente ao ano de início da pensão, sem prejuízo do disposto no n.º 5.
 
@@ -278,7 +335,9 @@ e) Pensões de velhice do regime de antecipação por carreiras contributivas mu
 
 7 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -296,7 +355,9 @@ e) Pensões de velhice do regime de antecipação por carreiras contributivas mu
 
 8 - O montante da pensão antecipada atribuída ao abrigo dos regimes especiais previstos nas alíneas c), d) e e) do n.º 1 do artigo 20.º é calculado nos termos gerais, com as particularidades previstas na lei especial que se lhes aplique.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O montante da pensão estatutária de velhice atribuída a beneficiário com idade superior à idade pessoal ou à idade normal de acesso à pensão em vigor e, pelo menos, 15 anos com registo de remunerações relevantes para efeitos da taxa de formação da pensão é calculado nos termos gerais e bonificado pela aplicação do fator definido no número seguinte.
 
@@ -312,7 +373,9 @@ e) Pensões de velhice do regime de antecipação por carreiras contributivas mu
 
 7 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -320,7 +383,9 @@ e) Pensões de velhice do regime de antecipação por carreiras contributivas mu
 
 3 - O valor mínimo de pensão previsto no n.º 1 não é aplicável às pensões antecipadas atribuídas ao abrigo dos regimes previstos nas alíneas a) e b) do n.º 1 do artigo 20.º
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]:
 
@@ -336,13 +401,17 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
 2 - As contagens especiais de períodos de atividade referidas no número anterior não relevam para efeitos do cômputo dos anos civis com registo de remunerações para efeitos do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas, previsto no artigo 21.º-A.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...].
 
@@ -352,7 +421,9 @@ a) No início da acumulação, ao valor da remuneração declarada pelo pensioni
 
 b) [...].
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...].
 
@@ -364,7 +435,9 @@ b) [...].
 
 5 - [...].
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 Os pensionistas que acedam à pensão de velhice, no âmbito do regime de flexibilização da idade de pensão de velhice e do regime de antecipação da idade de pensão de velhice por carreiras contributivas muito longas devem, para os efeitos previstos no n.º 3 do artigo 62.º, comunicar ao Centro Nacional de Pensões:
 
@@ -420,12 +493,14 @@ b) A partir de 1 de outubro de 2019, aplicam-se aos beneficiários cujas pensõe
 
 Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 21 de dezembro de 2018.**
+Promulgado em 21 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de dezembro de 2018.**
+Referendado em 21 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111940261

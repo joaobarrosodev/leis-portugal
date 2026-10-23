@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1980-469784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 903e9e49f04bbb45a11e767e4b9935b4fbefc9019dbde5437b4906bc276498a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eba3e7526c0032ee91a277e56b928d665d1d48347b1960a73b103b95a5fcb755
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministério da Administração Interna
+- Orgânica
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:666153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376469:por
+  label: "Alterado o quadro de pessoal do STAPE constante do anexo ao presente diploma, pela PORT.941/82.07.10.1982.MFP, DR.IS\
+    \ [232] de 07.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/941-1982-376469
+  date: '1982-10-07'
+- type: amended_by
+  target: pt:dre:666153:por
+  label: Alterado o quadro de pessoal pelo(a) Portaria n.º 290/87 - Diário da República n.º 82/1987, Série I de 1987-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1987-666153
+  date: '1987-04-08'
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:30Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +122,7 @@ Note-se que a modificação do quadro de pessoal afecto ao Secretariado e impost
 
 Nestes termos, o Governo decreta, de acordo com a alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A secção IV do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, referente ao Secretariado Técnico dos Assuntos para o Processo Eleitoral, passa a ter a seguinte redacção:
+Artigo 1.º A secção IV do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, referente ao Secretariado Técnico dos Assuntos para o Processo Eleitoral, passa a ter a seguinte redacção:
 
 ###### ARTIGO 9.º — (Estrutura)
 
@@ -239,26 +258,26 @@ p) Preparar e organizar para publicação os elementos de trabalho no âmbito da
 
 q) Pronunciar-se em matéria da sua compepetência sobre as consultas que lhe sejam formuladas.
 
-###### Art. 2.º O quadro IV do pessoal do STAPE, anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, é alterado de acordo com o quadro anexo.
+Art. 2.º O quadro IV do pessoal do STAPE, anexo ao [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, é alterado de acordo com o quadro anexo.
 
-###### Art. 3.º - 1 - O actual chefe de repartição do STAPE, de provimento definitivo e habilitado com licenciatura, transita para um dos lugares de técnico superior principal.
+Art. 3.º - 1 - O actual chefe de repartição do STAPE, de provimento definitivo e habilitado com licenciatura, transita para um dos lugares de técnico superior principal.
 
 2 - O tempo de serviço prestado como chefe de repartição é contado como tempo de serviço na carreira de técnico superior.
 
-###### Art. 4.º O pessoal actualmente provido no quadro IV, aprovado pelo [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, transita automaticamente para os lugares do novo quadro com dispensa de quaisquer formalidades, desde que não haja modificação de situação funcional e vinculação jurídica.
+Art. 4.º O pessoal actualmente provido no quadro IV, aprovado pelo [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, transita automaticamente para os lugares do novo quadro com dispensa de quaisquer formalidades, desde que não haja modificação de situação funcional e vinculação jurídica.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Eurico de Melo - Aníbal António Cavaco Silva.
 
-**Promulgado em 8 de Agosto de 1980.**
+Promulgado em 8 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 STAPE
 
 QUADRO DE PESSOAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19700/23822385.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19700/23822385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19700/23822385.pdf)

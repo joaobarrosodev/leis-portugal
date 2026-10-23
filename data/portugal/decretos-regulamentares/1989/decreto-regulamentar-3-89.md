@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8b89275357eed4b499eb3a362766e769728ea12d0085da9e86225e6757b00fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d573eddb49108461b3675848b237966f3d125355a645c33a55663cf05608e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Albufeiras
+- Artes de Pesca
+- Embarcação
+- Gestão dos Recursos
+- Jurisdição
+- Licenciamento
+- Mar Territorial
+- Pesca
+- Proteção do Ambiente
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:70309904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:557856:por
+  label: "Altera os arts. 19º, 34º, 52º, e substituídos os anexos I, IV e V do DR 43/87, de 17-Jul, com a redacção constante\
+    \ do presente diploma, pelo DR.28/90.11.09.1990.MAPA, DR.IS [210] de 11.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1990-557856
+  date: '1990-09-11'
+- type: amended_by
+  target: pt:dre:292958:por
+  label: "Alterados os arts. 3º, 5º, 8º, 48º, 52º, 53º, 56º, 63º, 64º, 67º, 68º, 75º, 76º e 77º do DR 43/87 de 17-Jul, com\
+    \ a redacção conferida no presente diploma, pelo DR.7/2000.30.05.2000.MADRP, DR.IS-B [125] de 30.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2000-292958
+  date: '2000-05-30'
+- type: amended_by
+  target: pt:dre:520253:por
+  label: "Alterados os arts. 75º e 77º do DR 43/87 de 17-Jul, com a redacção conferida no presente diploma. pelo DR.15/2007.28.03.2007.MADRP,\
+    \ DR.IS [62] de 28.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-2007-520253
+  date: '2007-03-28'
+- type: amended_by
+  target: pt:dre:70309904:por
+  label: Alterados os arts. 64.º, 67.º, 68.º e 75.º do DR 43/87 de 17-jul, com a redação do presente diploma, pelo(a) Decreto
+    Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-2015-70309904
+  date: '2015-09-16'
+- type: corrected_by
+  target: pt:dre:244900:por
+  label: Rectificado pela DECL.DD3817.1989.02.16.PCM DR.IS [49]SUPL DE 28/FEV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-244900
+  date: '1989-02-16'
 article_structure:
-  article_count: 36
+  article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:07Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +141,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 2 do artigo 3.º e no artigo 4.º do Decreto-Lei n.º 278/87, de 7 e Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 5.º, 8.º, 12.º, 13.º, 16.º, 17.º, 19.º, 20.º, 27.º, 28.º, 29.º, 31.º, 32.º, 34.º, 39.º, 40.º, 48.º, 52.º, 53.º, 56.º, 59.º, 63.º, 64.º, 65.º, 67.º, 68.º, 70.º, 75.º, 76.º, 77.º, 79.º e 83.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 5.º, 8.º, 12.º, 13.º, 16.º, 17.º, 19.º, 20.º, 27.º, 28.º, 29.º, 31.º, 32.º, 34.º, 39.º, 40.º, 48.º, 52.º, 53.º, 56.º, 59.º, 63.º, 64.º, 65.º, 67.º, 68.º, 70.º, 75.º, 76.º, 77.º, 79.º e 83.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Tipos de artes de pesca
 
@@ -207,7 +247,7 @@ c) ...
 
 ###### Artigo 20.º — Entralhação das redes
 
-**O Ministro da Agricultura, Pescas e Alimentação poderá estabelecer, mediante portaria, a sujeição da utilização de redes de emalhar a sistemas de entralhação com fio biodegradável.**
+O Ministro da Agricultura, Pescas e Alimentação poderá estabelecer, mediante portaria, a sujeição da utilização de redes de emalhar a sistemas de entralhação com fio biodegradável.
 
 ###### Artigo 27.º — Definição da arte
 
@@ -521,7 +561,7 @@ d) ...
 
 8 - As competências que neste artigo são atribuídas à DGP e ao director-geral das Pescas são exercidas nas regiões autónomas pelos correspondentes órgãos de governo próprio.
 
-###### Art. 2.º São aditados ao Decreto Regulamentar n.º 43/87, de 17 de Julho, os artigos 85.º-A e 85.º-B, com a seguinte redacção:
+Art. 2.º São aditados ao Decreto Regulamentar n.º 43/87, de 17 de Julho, os artigos 85.º-A e 85.º-B, com a seguinte redacção:
 
 ###### Artigo 85.º-A — Apanha de espécies marinhas
 
@@ -533,42 +573,42 @@ A apanha de espécies marinhas em áreas não especialmente concessionadas para 
 
 2 - Enquanto não forem publicados os regulamentos a que se refere o artigo anterior, são mantidas, em relação às respectivas matérias, as disposições legais em vigor.
 
-###### Art. 3.º Os anexos I, II, IV, V e VII ao Decreto Regulamentar n.º 43/87, de 17 de Julho, são substituídos pelos anexos ao presente diploma, com a mesma numeração, que dele fazem parte integrante.
+Art. 3.º Os anexos I, II, IV, V e VII ao Decreto Regulamentar n.º 43/87, de 17 de Julho, são substituídos pelos anexos ao presente diploma, com a mesma numeração, que dele fazem parte integrante.
 
-###### Art. 4.º Nos termos do Regulamento do Conselho (CEE) n.º [1555/88](http://data.europa.eu/eli/reg/1988/1555/oj?locale=pt), de 31 de Maio, é permitida a detenção a bordo de exemplares das espécies carapau/chicharro (Trachurus trachurus) e carapau-negrão ou chicharro (Trachurus picturatus), com tamanhos inferiores aos estabelecidos no anexo V ao Decreto Regulamentar n.º 43/87, de 17 de Julho, desde que exclusivamente destinados à utilização como isco vivo.
+Art. 4.º Nos termos do Regulamento do Conselho (CEE) n.º [1555/88](http://data.europa.eu/eli/reg/1988/1555/oj?locale=pt), de 31 de Maio, é permitida a detenção a bordo de exemplares das espécies carapau/chicharro (Trachurus trachurus) e carapau-negrão ou chicharro (Trachurus picturatus), com tamanhos inferiores aos estabelecidos no anexo V ao Decreto Regulamentar n.º 43/87, de 17 de Julho, desde que exclusivamente destinados à utilização como isco vivo.
 
-###### Art. 5.º Excepcionalmente, e no que concerne às licenças de pesca para o ano de 1989, os prazos referidos no n.º 3 do artigo 75.º, no corpo do artigo 76.º e na alínea b) do n.º 2 e no n.º 4 do artigo 77.º, todos do Decreto Regulamentar n.º 43/87, de 17 de Julho, são 31 de Outubro de 1988, 31 de Março de 1989, 31 de Março de 1989 e 30 de Abril de 1989, respectivamente.
+Art. 5.º Excepcionalmente, e no que concerne às licenças de pesca para o ano de 1989, os prazos referidos no n.º 3 do artigo 75.º, no corpo do artigo 76.º e na alínea b) do n.º 2 e no n.º 4 do artigo 77.º, todos do Decreto Regulamentar n.º 43/87, de 17 de Julho, são 31 de Outubro de 1988, 31 de Março de 1989, 31 de Março de 1989 e 30 de Abril de 1989, respectivamente.
 
 Presidência do Conselho de Ministros, 28 de Novembro de 1988.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 5 de Janeiro de 1989.**
+Promulgado em 5 de Janeiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1989.**
+Referendado em 9 de Janeiro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Malhagens mínimas na pesca com redes de arrastar (referidas no artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
 
 ## ANEXO II — Malhagems mínimas das redes de emalhar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
 
 ## ANEXO IV — Tamanho mínimo (em centímetros) de espécies protegidas a que se refere o artigo 48.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
 
 ## ANEXO V — Tamanhos mínimos de outras espécies de acordo com a legislação da CEE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
 
 ## ANEXO VII — Processo para determinar o tamanho dos crustáceos e moluscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf))](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/01/02400/03600367.pdf)

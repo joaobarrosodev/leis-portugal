@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 293/1974, 1º Suplemento, Série I de 1974-12-17
   number: '293'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1580-(2) a 1580-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/819-1974-298228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92c4138c365bd825a775cb89ea7a89ba9683134134ce8dbff9783887fa194b4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8dabc714eba4f9f904d73b45c41aa3240b7303f47295d35a09d401124378258
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Lisboa
+- Quadro de Pessoal
+- Regulamentação de Atos Legislativos
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:40Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +124,7 @@ Alterar o quadro aprovado pela [Portaria n.º 690/74](https://diariodarepublica.
 
 1. O grupo 1.3 «De acção médica» passa a ter a seguinte composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf)
 
 2. No grupo 1.4.1 «Carreira farmacêutica» é criado um lugar de director de serviço, exercido em regime de ocupação completa, com vencimento correspondente à letra D da escala de vencimentos prevista no [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688).
 
@@ -112,7 +132,7 @@ Alterar o quadro aprovado pela [Portaria n.º 690/74](https://diariodarepublica.
 
 4. O grupo 1.15 «De inspecção de agências» passa a ter a composição seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf)
 
 5. As gratificações previstas no grupo 1.17 «Outro pessoal» passam a ser as seguintes:
 
@@ -136,7 +156,7 @@ Solicitador ... 4400$00
 
 11. O grupo 4 «Lugares a extinguir quando vagarem» passa a ter a seguinte composição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf))](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/29301/00020004.pdf)
 
 12. São acrescentadas as seguintes alíneas:
 

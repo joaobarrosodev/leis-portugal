@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23223-1968-233569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47dc6f9d72e404b313b53e9ffd38ebb81ec593f512e6a459bb79375e58682ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b1b4d86a8131e291fbd72e3637437ec31ca1ec3f14b70378391d3c7447c9f4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:411818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:680604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:26Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +99,12 @@ Ministério da Educação Nacional, 14 de Fevereiro de 1968. - Pelo Ministro da 
 
 REGULAMENTO DO PRÉMIO DE PEDRO ÁLVARES CABRAL
 
-###### Artigo 1.º É instituído pela T. A. P. - Transportes Aéreos Portugueses, o Prémio de Pedro Álvares Cabral, destinado a recompensar anualmente os dois melhores alunos (um de cada sexo) das escolas primárias de Belmonte.
+Artigo 1.º É instituído pela T. A. P. - Transportes Aéreos Portugueses, o Prémio de Pedro Álvares Cabral, destinado a recompensar anualmente os dois melhores alunos (um de cada sexo) das escolas primárias de Belmonte.
 
-###### Art. 2.º O Prémio é constituído por uma viagem de avião ao Brasil (ida e volta), por conta daquela sociedade, de forma que aqueles alunos possam visitar Porto Seguro e outras localidades a indicar oportunamente, cimentando, assim, no espírito desses jovens, a força e a realidade da amizade luso-brasileira e perpetuando a memória do grande navegador.
+Art. 2.º O Prémio é constituído por uma viagem de avião ao Brasil (ida e volta), por conta daquela sociedade, de forma que aqueles alunos possam visitar Porto Seguro e outras localidades a indicar oportunamente, cimentando, assim, no espírito desses jovens, a força e a realidade da amizade luso-brasileira e perpetuando a memória do grande navegador.
 
-###### Art. 3.º As crianças premiadas serão acompanhadas por uma pessoa idónea durante a sua visita ao Brasil e a concessão do Prémio inclui as despesas de estada das crianças, bem como da pessoa que as acompanha, designada pelos Transportes Aéreos Portugueses.
+Art. 3.º As crianças premiadas serão acompanhadas por uma pessoa idónea durante a sua visita ao Brasil e a concessão do Prémio inclui as despesas de estada das crianças, bem como da pessoa que as acompanha, designada pelos Transportes Aéreos Portugueses.
 
-###### Art. 4.º A Direcção do Distrito Escolar de Castelo Branco deverá indicar a esta Direcção-Geral, depois da realização dos exames da 4.ª classe da instrução primária, os nomes do aluno e da aluna das escolas primárias de Belmonte aprovados no exame da 4.ª classe que mais se houverem distinguido pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar, com a indicação das suas moradas.
+Art. 4.º A Direcção do Distrito Escolar de Castelo Branco deverá indicar a esta Direcção-Geral, depois da realização dos exames da 4.ª classe da instrução primária, os nomes do aluno e da aluna das escolas primárias de Belmonte aprovados no exame da 4.ª classe que mais se houverem distinguido pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar, com a indicação das suas moradas.
 
 Direcção-Geral do Ensino Primário, 14 de Fevereiro de 1968. - O Director-Geral, José Gomes Branco.

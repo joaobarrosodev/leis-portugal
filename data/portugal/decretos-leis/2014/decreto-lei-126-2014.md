@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/16100/0440004416.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2014/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2014-56304800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a1a8777e7cafe107235ececb886b8fef07141c305a61786be32df8745d72f1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2b0f63cc4d408f88a100edc24dcc17cfb69a86703d0d6653836693eb701f518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Saúde
+- Cuidados Médicos
 - Definição de Competências
 - Entidade Reguladora da Saúde
+- Estabelecimento Hospitalar
 - Estatuto
-- Política de Saúde
 - Fiscalização
 - Lei Quadro
 - Licenciamento
 - Mandato
+- Ministério da Saúde
 - Orgânica
 - Pessoa Colectiva de Direito Público
-- Cuidados Médicos
+- Política de Saúde
 - Proteção do Consumidor
-- Ministério da Saúde
 - Regime Jurídico
-- Estabelecimento Hospitalar
 - Regulamento Interno
+- Saúde
 - Taxa
 - Utente
 relationships:
@@ -92,6 +92,17 @@ relationships:
   target: pt:dre:120672709:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120672709:por
+  label: Declarada inconstitucional, com força obrigatória geral, a norma do n.º 5 do art. 67.º dos Estatutos da Entidade
+    Reguladora da Saúde, aprovados pelo presente diploma, no sentido em que determina que o recurso de impugnação das decisões
+    finais condenatórias da ERS, que imponham uma coima, tem, por regra, efeito meramente devolutivo, ficando a atribuição
+    de efeito suspensivo sujeita à prestação de caução e alegação de prejuízo considerável, para o recorrente, decorrente
+    da execução da decisão, por violação da reserva de competência legislativa da Assembleia da República, constante das als.
+    b) e d) n.º 1 do art. 165.º, em conjugação com os n.ºs 2 e 10 do art. 32.º ambos da CRP, pelo(a) Acórdão do Tribunal Constitucional
+    n.º 74/2019 - Diário da República n.º 47/2019, Série I de 2019-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/74-2019-120672709
+  date: '2019-03-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
   label: null
@@ -124,16 +135,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
 article_structure:
   article_count: 78
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:51Z'
   warnings: []
   errors: []
 ---
@@ -202,15 +253,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 21 de maio de 2014.**
+Promulgado em 21 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de maio de 2014.**
+Referendado em 22 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

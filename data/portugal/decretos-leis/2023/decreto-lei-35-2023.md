@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10200/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2023/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2023-213558632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 420f108e196790027d1c1cc84c74f6a625c95729ab3718ac85377cb9971020de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b8a9a05231979e7a90c7bdcaf9301a025b9ef5e1ad0cb0077652a42072aa206
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Organização Territorial
+- Administração Local
+- Administração Regional
 - Anafre
 - Apoio Administrativo
 - ÁREA Metropolitana
 - Associação Nacional de Municípios Portugueses
-- Governo Regional
+- Comissão de Coordenação e Desenvolvimento Regional
+- Conselho de Acompanhamento das Políticas Financeiras
+- Conselho de Concertação Territorial
+- Conselho de Coordenação Financeira
 - Contrato Programa
 - Criação de Serviços
 - Definição de Competências
-- Conselho de Coordenação Financeira
 - Freguesia
-- Comissão de Coordenação e Desenvolvimento Regional
-- Conselho de Acompanhamento das Políticas Financeiras
-- Presidente
-- Madeira.região Autónoma
-- Administração Local
-- Administração Regional
 - Governo
-- Conselho de Concertação Territorial
+- Governo Regional
+- Madeira.região Autónoma
+- Organização Territorial
+- Presidente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
@@ -101,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/2014/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/2014/03/05/p/dre
+- type: cites
+  target: pt:dre:204721519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572153:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:57Z'
   warnings: []
   errors: []
 ---
@@ -243,12 +259,14 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 30 de março de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - João Miguel Marques da Costa - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - João Saldanha de Azevedo Galamba - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 19 de maio de 2023.**
+Promulgado em 19 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de maio de 2023.**
+Referendado em 23 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116507317

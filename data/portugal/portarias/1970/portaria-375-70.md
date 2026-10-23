@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-1970-141624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 831eb7107b83ac1185dcb87e37880f8db3cc77060d0c2311fedf90dc9803a9b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2f92539466fcc502be36ddb71ea1dfd66f4751c96c733512ea8e56f4a3af165
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282553:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:31Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +102,11 @@ I
 
 Dos fins
 
-###### Artigo 1.º Nos termos da legislação em vigor, compete à Direcção-Geral dos Serviços Pecuários, por intermédio dos Serviços de Melhoramento Animal, a organização e orientação do Livro Genealógico da Raça Bovina Alentejana.
+Artigo 1.º Nos termos da legislação em vigor, compete à Direcção-Geral dos Serviços Pecuários, por intermédio dos Serviços de Melhoramento Animal, a organização e orientação do Livro Genealógico da Raça Bovina Alentejana.
 
-###### Art. 2.º O Livro Genealógico tem por fim assegurar a pureza desta raça e concorrer para o seu progresso zootécnico, assim como favorecer a difusão de bons reprodutores.
+Art. 2.º O Livro Genealógico tem por fim assegurar a pureza desta raça e concorrer para o seu progresso zootécnico, assim como favorecer a difusão de bons reprodutores.
 
-###### Art. 3.º Para atingir a sua finalidade, o Livro promove:
+Art. 3.º Para atingir a sua finalidade, o Livro promove:
 
 1) A inscrição dos animais, mencionando para cada um deles:
 
@@ -118,15 +126,15 @@ II
 
 Da organização e funcionamento
 
-###### Art. 4.º A direcção do Livro Genealógico, nomeada pelo director-geral dos Serviços Pecuários, será constituída por um técnico dos Serviços de Melhoramento Animal, que servirá de presidente, por um secretário técnico - perito na raça - e ainda por um delegado dos criadores aderentes ao Livro, indicado por estes últimos.
+Art. 4.º A direcção do Livro Genealógico, nomeada pelo director-geral dos Serviços Pecuários, será constituída por um técnico dos Serviços de Melhoramento Animal, que servirá de presidente, por um secretário técnico - perito na raça - e ainda por um delegado dos criadores aderentes ao Livro, indicado por estes últimos.
 
 § 1.º O tempo de exercício da direcção é de dois anos.
 
 § 2.º As despesas que o delegado dos criadores venha a realizar sempre que os trabalhos de direcção o exijam deverão ser liquidadas pela Direcção-Geral dos Serviços Pecuários, por conta de verbas inscritas no Orçamento Geral do Estado.
 
-###### Art. 5.º Ao abrigo do disposto no § único do artigo 53.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, a sede do Livro é fixada na Estação de Fomento Pecuário do Alto Alentejo, onde funcionarão os serviços de secretaria.
+Art. 5.º Ao abrigo do disposto no § único do artigo 53.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, a sede do Livro é fixada na Estação de Fomento Pecuário do Alto Alentejo, onde funcionarão os serviços de secretaria.
 
-###### Art. 6.º A Direcção-Geral dos Serviços Pecuários poderá confiar, de acordo com o estabelecido no artigo 56.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, a pessoas colectivas de direito público a administração do Livro, desde que a sua organização e funcionamento venham a reger-se por regulamento aprovado pela mesma Direcção-Geral.
+Art. 6.º A Direcção-Geral dos Serviços Pecuários poderá confiar, de acordo com o estabelecido no artigo 56.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, a pessoas colectivas de direito público a administração do Livro, desde que a sua organização e funcionamento venham a reger-se por regulamento aprovado pela mesma Direcção-Geral.
 
 Nestas condições:
 
@@ -138,13 +146,13 @@ Art.º 7.º A actividade do Livro ficará sujeita a uma inspecção periódica d
 
 Art.º 8.º A marca do Livro Genealógico terá a seguinte configuração:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/07/17100/09880990.pdf))](https://files.diariodarepublica.pt/1s/1970/07/17100/09880990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/07/17100/09880990.pdf)
 
 III
 
 Da adesão dos criadores e do registo da marca
 
-###### Art. 9.º Os criadores de bovinos de raça alentejana que desejem aderir ao Livro Genealógico deverão apresentar o respectivo pedido à direcção do mesmo.
+Art. 9.º Os criadores de bovinos de raça alentejana que desejem aderir ao Livro Genealógico deverão apresentar o respectivo pedido à direcção do mesmo.
 
 § 1.º Em nota anexa, o criador deverá referenciar cada um dos animais que deseja inscrever.
 
@@ -156,7 +164,7 @@ Da identificação dos animais
 
 Art.º 10.º Nenhum animal poderá ser inscrito no Livro Genealógico antes de identificado.
 
-###### Art. 11.º Dentro dos primeiros oito dias de vida, os animais serão identificados pelo criador provisòriamente na orelha esquerda com um brinco, a fornecer pela secretaria do Livro.
+Art. 11.º Dentro dos primeiros oito dias de vida, os animais serão identificados pelo criador provisòriamente na orelha esquerda com um brinco, a fornecer pela secretaria do Livro.
 
 § único. Os brincos a utilizar por cada criador, numerados a partir de 1, serão aplicados pela ordem dos nascimentos.
 
@@ -168,21 +176,21 @@ Braço esquerdo. - O algarismo das unidades do ano do nascimento;
 
 Perna direita. - A marca do criador.
 
-###### Art. 13.º Qualquer remarcação que se torne necessária só poderá efectuar-se na presença de um delegado de secretaria do Livro.
+Art. 13.º Qualquer remarcação que se torne necessária só poderá efectuar-se na presença de um delegado de secretaria do Livro.
 
 V
 
 Da inscrição dos animais
 
-###### Art. 14.º O Livro Genealógico consta essencialmente de livro de nascimentos, livro de adultos e livro de mérito.
+Art. 14.º O Livro Genealógico consta essencialmente de livro de nascimentos, livro de adultos e livro de mérito.
 
-###### Art. 15.º O livro de nascimentos é reservado exclusivamente aos descendentes dos reprodutores inscritos no livro de adultos.
+Art. 15.º O livro de nascimentos é reservado exclusivamente aos descendentes dos reprodutores inscritos no livro de adultos.
 
-###### Art. 16.º Para efeito de inscrição naquele livro, a declaração de nascimento, a que se refere a alínea c) do n.º 7 do artigo 26.º deste Regulamento, será considerada como o pedido de inscrição referido na alínea a) do n.º 1 do artigo 50.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957.
+Art. 16.º Para efeito de inscrição naquele livro, a declaração de nascimento, a que se refere a alínea c) do n.º 7 do artigo 26.º deste Regulamento, será considerada como o pedido de inscrição referido na alínea a) do n.º 1 do artigo 50.º do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957.
 
 § único. Os animais que apresentem taras ou defeitos somáticos que constituam por si só impedimento decisivo de inscrição no livro de adultos não serão inscritos no livro de nascimentos.
 
-###### Art. 17.º A inscrição no livro de adultos poderá ser a título definitivo ou a título inicial e será efectuada pela comissão de exame a que se refere o artigo 21.º
+Art. 17.º A inscrição no livro de adultos poderá ser a título definitivo ou a título inicial e será efectuada pela comissão de exame a que se refere o artigo 21.º
 
 § 1.º Para a inscrição a título definitivo são condições:
 
@@ -202,9 +210,9 @@ Da inscrição dos animais
 
 § 2.º Para a inscrição a título inicial será suficiente a observância das últimas seis alíneas do parágrafo anterior.
 
-###### Art. 18.º O livro de adultos manter-se-á aberto durante um período de cinco anos, prorrogável, no entanto, se as circunstâncias o aconselharem.
+Art. 18.º O livro de adultos manter-se-á aberto durante um período de cinco anos, prorrogável, no entanto, se as circunstâncias o aconselharem.
 
-###### Art. 19.º No livro de mérito serão admitidos, a pedido dos interessados:
+Art. 19.º No livro de mérito serão admitidos, a pedido dos interessados:
 
 1) As fêmeas inscritas no livro de adultos quando, de sementais diferentes, tiverem dois descendentes directos inscritos neste último livro com a classificação mínima de 80 pontos;
 
@@ -212,7 +220,7 @@ Da inscrição dos animais
 
 § único. Para esta admissão, a direcção do Livro poderá considerar a necessidade de realização de contrastes funcionais da descendência, que se executarão em condições a fixar pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 20.º Pela inscrição de cada animal serão cobradas as seguintes taxas:
+Art. 20.º Pela inscrição de cada animal serão cobradas as seguintes taxas:
 
 a) No livro de adultos (mesmo a título inicial) ... 10$00
 
@@ -222,7 +230,7 @@ VI
 
 Do exame dos animais
 
-###### Art. 21.º O exame será efectuado por uma comissão de admissão, constituída, pelo menos, por três membros:
+Art. 21.º O exame será efectuado por uma comissão de admissão, constituída, pelo menos, por três membros:
 
 1) O secretário técnico, que servirá de presidente;
 
@@ -234,17 +242,17 @@ Do exame dos animais
 
 § 2.º Os serviços prestados pelos representantes dos criadores na comissão de admissão poderão ser remunerados pela Direcção-Geral dos Serviços Pecuários, por conta de verbas inscritas no Orçamento Geral do Estado.
 
-###### Art. 22.º A classificação dos animais far-se-á pelo método dos pontos, segundo a tabela anexa a este Regulamento.
+Art. 22.º A classificação dos animais far-se-á pelo método dos pontos, segundo a tabela anexa a este Regulamento.
 
 § único. Quando os animais não se encontrem em perfeito estado de saúde e apresentação, o seu exame poderá ser adiado.
 
-###### Art. 23.º Após o exame, o secretário técnico fará apor nos animais aprovados as marcas referidas no artigo 12.º deste Regulamento, enviando ao proprietário ulteriormente a nota do resultado do exame e o boletim de inscrição.
+Art. 23.º Após o exame, o secretário técnico fará apor nos animais aprovados as marcas referidas no artigo 12.º deste Regulamento, enviando ao proprietário ulteriormente a nota do resultado do exame e o boletim de inscrição.
 
 VII
 
 Da passagem de certificados e exportação de animais
 
-###### Art. 24.º O Livro Genealógico passará, a pedido dos criadores, certificados relativos à inscrição de animais, mediante o pagamento das seguintes taxas:
+Art. 24.º O Livro Genealógico passará, a pedido dos criadores, certificados relativos à inscrição de animais, mediante o pagamento das seguintes taxas:
 
 a) Para utilização no País ... 100$00
 
@@ -252,7 +260,7 @@ b) Para fins de exportação ... 250$00
 
 § único. Igualmente poderão ser passados certificados relativos a elementos de ordem funcional e prémios obtidos, mediante o pagamento da taxa de 50$00.
 
-###### Art. 25.º Não será permitida a exportação de animais com a designação de pertencerem à raça alentejana sem que estejam inscritos no respectivo Livro Genealógico.
+Art. 25.º Não será permitida a exportação de animais com a designação de pertencerem à raça alentejana sem que estejam inscritos no respectivo Livro Genealógico.
 
 Por isso, a Direcção-Geral dos Serviços Pecuários exigirá, para emitir o certificado de origem e sanidade, a apresentação por cada animal do certificado de inscrição.
 
@@ -264,7 +272,7 @@ VIII
 
 Das obrigações e regalias dos criadores
 
-###### Art. 26.º Os criadores aderentes obrigam-se a:
+Art. 26.º Os criadores aderentes obrigam-se a:
 
 1) Apresentar os seus animais nos locais, dias e horas indicados pela secretaria do Livro Genealógico;
 
@@ -290,7 +298,7 @@ d) No prazo de trinta dias, as participações de morte, castração ou alienaç
 
 8) Não utilizar sementais não inscritos no livro de adultos na cobrição ou inseminação artificial de fêmeas inscritas, sem prévia concordância da direcção do Livro.
 
-###### Art. 27.º Os criadores que aderirem ao Livro Genealógico poderão beneficiar de:
+Art. 27.º Os criadores que aderirem ao Livro Genealógico poderão beneficiar de:
 
 1) Acordos estabelecidos pelo livro no sentido de valorizar e facilitar a comercialização dos animais nele inscritos;
 
@@ -302,14 +310,14 @@ IX
 
 Das penalidades
 
-###### Art. 28.º As infracções ao preceituado nesta portaria serão punidas de acordo com o disposto nos artigos 60.º e seguintes do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, que regulamenta a aplicação do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954.
+Art. 28.º As infracções ao preceituado nesta portaria serão punidas de acordo com o disposto nos artigos 60.º e seguintes do [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, que regulamenta a aplicação do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954.
 
 X
 
 Disposições gerais e transitórias
 
-###### Art. 29.º Todas as taxas mencionadas nesta portaria são cobradas por força do artigo 14.º do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954, e têm a aplicação consignada no artigo 18.º do mesmo decreto-lei.
+Art. 29.º Todas as taxas mencionadas nesta portaria são cobradas por força do artigo 14.º do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954, e têm a aplicação consignada no artigo 18.º do mesmo decreto-lei.
 
-###### Art. 30.º O presente Regulamento entra em funcionamento a título provisório, pelo prazo de dois anos, a partir da data do início da actividade do Livro.
+Art. 30.º O presente Regulamento entra em funcionamento a título provisório, pelo prazo de dois anos, a partir da data do início da actividade do Livro.
 
 Secretaria de Estado da Agricultura, 24 de Julho de 1970. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

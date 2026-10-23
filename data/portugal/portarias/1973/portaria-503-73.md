@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-1973-421804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bca7a7d5ba811aaeeb9f9eba1a003d63dcc487455f7650c430087348592b952f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed85dd2787853199a04925eb4b81a6b34bb129bc6d3cf20927b50d766e5b64c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:428027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428027:por
+  label: Substituida a tabela B (1.ª fase) pelo(a) Portaria n.º 299/76 - Diário da República n.º 113/1976, Série I de 1976-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/299-1976-428027
+  date: '1976-05-14'
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:08:20Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +113,7 @@ Direcção-Geral de Saúde
 
 Tabela B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf))](https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf)
 
 Nota
 
@@ -118,7 +127,7 @@ Tabela B
 
 (1.ª fase)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf))](https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/07/17500/13321333.pdf)
 
 Nota
 
@@ -126,4 +135,4 @@ Os directores de saúde e os delegados de saúde que dirigirem centros de saúde
 
 Os funcionários que, nos centros de saúde distritais, desempenharem funções de tesoureiros terão um abono para falhas de 150$00 mensais.
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - Pelo Ministro da Saúde e Assistência, Alfredo Jorge Assis dos Santos, Secretário de Estado da Saúde e Assistência.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - Pelo Ministro da Saúde e Assistência, Alfredo Jorge Assis dos Santos, Secretário de Estado da Saúde e Assistência.

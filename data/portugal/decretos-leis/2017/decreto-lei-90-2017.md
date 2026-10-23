@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14500/0427504290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2017/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2017-107773651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ccbca1def3b3c48b53c1cb4488286e9fc2ceeb3659b5455268c6f242a033b99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 618734a4ea607af2454e82db413bd7914a24db28b0c810d5d6641b5575897e72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - Contrato
-- Portugal
 - Declaração de Rendimentos
-- Rendimento Mínimo Garantido
-- Residência
-- Prestação Compensatoria
+- Família
 - Pensões
+- Portugal
+- Prestação Compensatoria
 - Prestações da Segurança Social
 - Prestações Familiares
-- Rendimento Social de Inserção
 - Proteção Social
 - Rendimento
 - Rendimento de Referência
+- Rendimento Mínimo Garantido
+- Rendimento Social de Inserção
+- Residência
 - Segurança Social
 - Titulo de Residência
 relationships:
@@ -86,6 +86,26 @@ relationships:
   target: pt:dre:211340863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Alterado o art. 15.º da Lei 13/2003, de 21-mai, na versão republicada pelo Dec Lei 133/2012, de 27-jun e na redação
+    do presente diploma pelo(a) Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06,
+    nos termos do art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado a partir de 29.06.2019 e nos termos do art. 210.º, o art. 15.º da Lei 13/2003 de 21-mai, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:124500714:por
+  label: Alterados os arts. 6.º, 6.º-A e 18.º da Lei 13/2003 de 21-mai, na versão republicada pelo Dec Lei 133/2012 de 27-jun
+    e com a redação dada pelo preente diploma, pelo(a) Lei n.º 100/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06,
+    a partir de 07.09.2019 e com efeitos nos termos do disposto no n.º 1 do seu art. 16.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2019-124500714
+  date: '2019-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2016/01/06/p/dre
   label: null
@@ -126,16 +146,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+- type: cites
+  target: pt:dre:142111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73017523:por
+  label: null
+  source: null
 article_structure:
-  article_count: 93
+  article_count: 71
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:32Z'
   warnings: []
   errors: []
 ---
@@ -184,13 +260,17 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 6.º-A, 15.º, 16.º, 17.º, 18.º, 21.º, 21
 
 A presente lei institui o rendimento social de inserção, que consiste numa prestação incluída no subsistema de solidariedade e num programa de inserção por forma a assegurar às pessoas e seus agregados familiares recursos que contribuam para a satisfação das suas necessidades mínimas e para o favorecimento de uma progressiva inserção social, laboral e comunitária.
 
-###### Artigo 3.º — Programa de inserção
+Artigo 3.º
+
+Programa de inserção
 
 1 - O programa de inserção do rendimento social de inserção consubstancia-se num contrato de inserção que integra um conjunto articulado e coerente de ações, faseadas no tempo, estabelecido de acordo com as características e condições do agregado familiar do requerente da prestação, com vista à plena integração social dos seus membros.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - É aplicável o conceito de agregado familiar previsto no artigo 4.º do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, alterado pela [Lei n.º 15/2011](https://diariodarepublica.pt/dr/detalhe/lei/15-2011-287076), de 3 de maio, e pelos [Decretos-Leis n.os 113/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2011-146061), de 29 de novembro, e [133/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), de 27 de junho.
 
@@ -208,7 +288,9 @@ A presente lei institui o rendimento social de inserção, que consiste numa pre
 
 8 - (Revogado.)
 
-###### Artigo 6.º — Condições de atribuição
+Artigo 6.º
+
+Condições de atribuição
 
 1 - O reconhecimento do direito ao rendimento social de inserção depende da verificação cumulativa das seguintes condições:
 
@@ -246,7 +328,9 @@ m) Não se encontrar a beneficiar dos apoios sociais atribuídos no âmbito do r
 
 5 - (Revogado.)
 
-###### Artigo 6.º-A — Dispensa das condições de atribuição
+Artigo 6.º-A
+
+Dispensa das condições de atribuição
 
 1 - ...
 
@@ -272,7 +356,9 @@ e) [Anterior alínea c).]
 
 7 - O contrato de inserção deve identificar a pessoa que presta o apoio previsto na alínea e) do n.º 1, bem como os membros do agregado familiar a quem o apoio é prestado, assim como a natureza e previsão da sua duração.
 
-###### Artigo 15.º — Rendimentos a considerar no cálculo da prestação
+Artigo 15.º
+
+Rendimentos a considerar no cálculo da prestação
 
 1 - Para efeitos da determinação do montante da prestação do rendimento social de inserção nos termos do n.º 1 do artigo 10.º aplica-se o disposto no [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, alterado pela [Lei n.º 15/2011](https://diariodarepublica.pt/dr/detalhe/lei/15-2011-287076), de 3 de maio, e pelos [Decretos-Leis n.os 113/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2011-146061), de 29 de novembro, e [133/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), de 27 de junho, sem prejuízo do disposto nos números seguintes.
 
@@ -306,7 +392,9 @@ b) Rendimentos empresariais e profissionais, o rendimento a que se refere o arti
 
 14 - Os montantes das remunerações auferidas no mês anterior ao da apresentação do requerimento que se reportem a atividades exercidas em período anterior não são considerados no cálculo da prestação.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O titular deve manifestar disponibilidade para requerer outras prestações de segurança social que lhe sejam devidas e para exercer o direito de cobrança de eventuais créditos ou para reconhecimento do direito a alimentos.
 
@@ -316,7 +404,9 @@ b) Rendimentos empresariais e profissionais, o rendimento a que se refere o arti
 
 4 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -344,7 +434,9 @@ b) Rendimentos empresariais e profissionais, o rendimento a que se refere o arti
 
 13 - Após a decisão de deferimento da prestação, os serviços da entidade gestora competente devem comunicar ao núcleo local de inserção (NLI) a decisão de atribuição da prestação, a data a partir da qual é devida, respetivo montante e data prevista para o primeiro pagamento, para efeitos de celebração do contrato de inserção.
 
-###### Artigo 18.º — Contrato de inserção
+Artigo 18.º
+
+Contrato de inserção
 
 1 - O contrato de inserção deve ser celebrado pelo técnico gestor do processo, pelo titular e, se for caso disso, pelos restantes membros do agregado familiar que o devam cumprir, no prazo máximo de 45 dias após a atribuição da prestação do rendimento social de inserção.
 
@@ -362,7 +454,9 @@ b) Rendimentos empresariais e profissionais, o rendimento a que se refere o arti
 
 8 - ...
 
-###### Artigo 21.º — Duração da prestação
+Artigo 21.º
+
+Duração da prestação
 
 1 - O rendimento social de inserção é devido desde a data da apresentação do requerimento devidamente instruído e é atribuído pelo período de 12 meses, renovável.
 
@@ -374,7 +468,9 @@ b) Rendimentos empresariais e profissionais, o rendimento a que se refere o arti
 
 5 - O titular do direito ao rendimento social de inserção é obrigado a comunicar, no prazo de 10 dias úteis, à entidade gestora competente as alterações suscetíveis de influir na modificação, suspensão ou cessação do direito, bem como a alteração da residência.
 
-###### Artigo 21.º-A — [...]
+Artigo 21.º-A
+
+[...]
 
 1 - ...
 
@@ -388,7 +484,9 @@ c) Incumprimento injustificado do contrato de inserção, recusa de emprego conv
 
 3 - ...
 
-###### Artigo 21.º-B — [...]
+Artigo 21.º-B
+
+[...]
 
 1 - ...
 
@@ -398,7 +496,9 @@ c) Incumprimento injustificado do contrato de inserção, recusa de emprego conv
 
 4 - A renovação do direito à prestação produz efeitos à data de início do novo período de atribuição.
 
-###### Artigo 21.º-C — [...]
+Artigo 21.º-C
+
+[...]
 
 1 - O direito à prestação do rendimento social de inserção suspende-se quando se verifique uma das seguintes situações:
 
@@ -420,7 +520,9 @@ g) Institucionalização em equipamentos financiados pelo Estado, incluindo quan
 
 3 - Nas situações previstas na alínea g) do n.º 1, o início ou reinício do pagamento da prestação ocorre no mês da saída ou da alta.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ...
 
@@ -446,17 +548,23 @@ j) (Revogada.)
 
 k) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 A prestação inerente ao direito do rendimento social de inserção não é suscetível de penhora, salvo em situações de dívida por pagamentos indevidos na prestação de rendimento social de inserção.
 
-###### Artigo 25.º — Acompanhamento e fiscalização
+Artigo 25.º
+
+Acompanhamento e fiscalização
 
 1 - A entidade gestora competente, no âmbito da sua competência gestionária, acompanha a aplicação do rendimento social de inserção para efeitos de manutenção das condições de atribuição e de cumprimento do contrato de inserção.
 
 2 - Compete aos serviços de fiscalização da entidade gestora das prestações do sistema de segurança social e ao serviço inspetivo do ministério responsável pela área da solidariedade e segurança social, no âmbito das suas competências próprias, proceder à fiscalização da aplicação do rendimento social de inserção.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -486,7 +594,9 @@ c) [Anterior alínea c) do n.º 6.]
 
 d) [Anterior alínea d) do n.º 6.]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -514,11 +624,15 @@ a) Não reconhecimento do direito ao rendimento social de inserção durante um 
 
 b) Deixa de ser considerado para efeitos de determinação do rendimento social de inserção do agregado familiar que integra ou de agregado familiar que integre em posterior requerimento da prestação, sendo os respetivos rendimentos considerados no cálculo do montante da prestação.
 
-###### Artigo 31.º — Falsas declarações e prática de ameaças ou coação
+Artigo 31.º
+
+Falsas declarações e prática de ameaças ou coação
 
 A prestação de falsas declarações, bem como a prática de ameaças ou coação, devidamente comprovadas, sobre funcionário da entidade gestora competente ou de instituição com competência para a celebração e acompanhamento do contrato de inserção, determina a inibição do acesso ao rendimento social de inserção durante o período de 24 meses após o conhecimento do facto, sem prejuízo da restituição das prestações indevidamente pagas e da responsabilidade penal a que haja lugar.
 
-###### Artigo 31.º-A — Recusa da celebração do plano pessoal de emprego
+Artigo 31.º-A
+
+Recusa da celebração do plano pessoal de emprego
 
 A verificação de qualquer das causas de anulação da inscrição no centro de emprego, por facto imputável a elemento do agregado familiar do titular da prestação, beneficiário de rendimento social de inserção, tem por consequência que este deixe de ser considerado para efeitos de determinação do rendimento social de inserção do agregado familiar e que os rendimentos que aufira continuem a ser contemplados para efeitos de cálculo do montante da prestação.»
 
@@ -566,7 +680,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para além do titular, integram o respetivo agregado familiar as seguintes pessoas que com ele vivam em economia comum, sem prejuízo do disposto nos números seguintes:
 
@@ -594,11 +710,15 @@ e) ...
 
 8 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Consideram-se rendimentos empresariais e profissionais dos trabalhadores independentes o rendimento relevante apurado nos termos do disposto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -640,15 +760,15 @@ São revogados os n.os 2 a 8 do artigo 5.º, as alíneas b) e e) do n.º 1 e os 
 
 Visto e aprovado em Conselho de Ministros de 20 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 21 de julho de 2017.**
+Promulgado em 21 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de julho de 2017.**
+Referendado em 24 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 

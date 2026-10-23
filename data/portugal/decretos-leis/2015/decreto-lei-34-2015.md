@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04400/0131301334.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2015/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2015-66655595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64933e1dff17c89473963cac221895477b7192d7528e7b465641614574d9ed90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 875f34dbe3d4fc84e6d952d36df89181d69ed4f3c2b0686310a2556eebdc8018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- CE Países
-- Formação Profissional
 - Atestado Médico
+- Autoridade Marítima Nacional
+- Avaliação do Pessoal
+- CE Países
 - Certificação Profissional
-- Multa
-- Direção Geral da Saúde
+- Comissão CE
 - Contra-ordenação
 - Controlo de Qualidade
-- Regime Laboral
-- Autoridade Marítima Nacional
-- Fiscalização
-- Comissão CE
+- Direção Geral da Saúde
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direcção Geral da Autoridade Marítima
+- Embarcação
+- Fiscalização
+- Formação Profissional
+- Multa
 - Países Terceiros
 - Qualificação Profissional
+- Regime Laboral
 - Setor Marítimo-Portuário
-- Avaliação do Pessoal
-- Direcção Geral da Autoridade Marítima
 relationships:
 - type: amended_by
   target: pt:dre:125865390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75194226:por
+  label: Aditado o art. 56.º-A (que revoga a secção II e todos os modelos constantes da secção V que remetem para os artigos
+    da secção II, ambas do anexo IV do Dec. Lei 280/2001 de 23-out, na redação dos Decs. Leis 51/2005 de 25-fev, 206/2005
+    de 28-nov, 226/2007 de 31-mai, e 181/2014 de 24-dez) ao presente diploma, pelo(a) Decreto-Lei n.º 53/2016 - Diário da
+    República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2016-75194226
+  date: '2016-08-24'
 - type: cites
   target: celex:31994L0058
   label: null
@@ -168,6 +176,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/36/2011/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/36/2011/06/21/p/dre
+- type: cites
+  target: pt:dre:180583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:125865390:por
+  label: Revogado, com efeitos no dia 01.01.2020, o presente diploma, na redação do Dec Lei 53/2016 de 24-ago, pelo(a) Decreto-Lei
+    n.º 166/2019 - Diário da República n.º 210/2019, Série I de 2019-10-31 nos termos da al. b) do n.º 1 do art. 100.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2019-125865390
+  date: '2019-10-31'
 - type: transposes
   target: celex:32008L0106
   label: null
@@ -178,14 +272,14 @@ relationships:
   source: null
 article_structure:
   article_count: 56
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:34Z'
   warnings: []
   errors: []
 ---
@@ -970,15 +1064,15 @@ As certificações, as autenticações, as declarações e os reconhecimentos pr
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral - Sérgio Paulo Lopes da Silva Monteiro - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato - Agostinho Correia Branquinho.
 
-**Promulgado em 23 de fevereiro de 2015.**
+Promulgado em 23 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de fevereiro de 2015.**
+Referendado em 24 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 8.º)
 
@@ -1210,7 +1304,9 @@ Requisitos mínimos obrigatórios para a certificação como marítimos da mestr
 
 5 - Os Estados-Membros podem considerar que os marítimos satisfazem os requisitos da presente regra se tiverem exercido funções relevantes na secção de convés durante um período não inferior a 12 meses nos últimos 60 meses anteriores à data de entrada em vigor da [Diretiva n.º 2012/35/UE](https://data.europa.eu/eli/dir/2012/35/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de novembro de 2012.
 
-### CAPÍTULO III — Secção de máquinas
+### CAPÍTULO III
+
+#### Secção de máquinas
 
 Regra III/1
 

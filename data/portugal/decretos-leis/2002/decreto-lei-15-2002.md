@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2002/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2002-276036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fef009ef16e66c56b2876120326c6c07ba9a638cf7d3e2034d859c2d02254d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00ecc81977ccb32c86eeebdd6578504c80b513f80529d168d8e30b6bb06b6966
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Estatuto
-- Férias
 - Faltas
+- Férias
+- Gestão de Recursos Humanos
 - GNR
 - Orçamento
 - Orgânica
 - Pessoal Militarizado
 - Promoção Profissional
-- Avaliação de Conhecimentos
 - Receita Própria
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:482611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584865:por
+  label: "Alterado o art. 12º do Dec Lei 504/99 de 20-Nov, na redacção do presente diploma, pelo DEC LEI.181/2005.03.11.2005.MAI,\
+    \ DR.IS-A [211] de 03.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2005-584865
+  date: '2005-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/174/2000/08/09/p/dre
   label: null
@@ -98,16 +104,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:267033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
-  article_count: 15
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:41Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +180,9 @@ f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Os efectivos globais a atingir progressivamente são os seguintes:
 
@@ -258,7 +288,9 @@ f) [Anterior alínea d).]
 
 3 - Não tem direito ao previsto na alínea b) do número anterior o militar que tenha passado à situação de reforma compulsiva ou separação do serviço.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +310,9 @@ c) Os dias de ausência referidos nas alíneas anteriores não poderão exceder 
 
 6 - Para efeitos de aplicação do presente artigo, consideram-se provas de avaliação todas as provas escritas e orais, incluindo exames, bem como a apresentação de trabalhos, quando estes as substituam.
 
-###### Artigo 171.º — [...]
+Artigo 171.º
+
+[...]
 
 1 - Em cada ano civil, o militar tem direito a um período de licença de férias a gozar seguida ou interpoladamente, calculado de acordo com as seguintes regras:
 
@@ -320,7 +354,9 @@ g) A marcação das férias deve obedecer a um planeamento, tendo em vista asseg
 
 9 - O período de férias relevante, em cada ano civil, para efeitos do abono do subsídio respectivo não pode exceder 22 dias úteis.
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 Por ocasião do casamento, é concedida uma licença de 11 dias úteis seguidos, nos termos seguintes:
 
@@ -328,7 +364,9 @@ a) O pedido deve ser apresentado com uma antecedência mínima de 15 dias relati
 
 b) A confirmação do casamento é efectuada através de certidão destinada ao averbamento do processo individual.
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 1 - Os oficiais dos quadros da Guarda distribuem-se por armas ou serviços e ramos e são inscritos em quadros, de acordo com os seguintes postos:
 
@@ -336,7 +374,9 @@ b) A confirmação do casamento é efectuada através de certidão destinada ao 
 
 2 - ...
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +392,9 @@ b) A confirmação do casamento é efectuada através de certidão destinada ao 
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 As condições especiais de promoção a major são as seguintes:
 
@@ -364,7 +406,9 @@ c) Para capitães das armas, ter exercido, no posto de capitão, pelo menos dura
 
 d) ...
 
-###### Artigo 226.º — [...]
+Artigo 226.º
+
+[...]
 
 1 - ...
 
@@ -382,7 +426,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 266.º — [...]
+Artigo 266.º
+
+[...]
 
 São condições especiais de promoção ao posto de cabo:
 
@@ -400,7 +446,9 @@ b) Por excepção:
 
 c) ...
 
-###### Artigo 268.º — [...]
+Artigo 268.º
+
+[...]
 
 1 - A promoção ao posto de cabo dos soldados habilitados com o respectivo curso de promoção é feita pela classificação do curso, a qual serve de base à sua nova antiguidade.
 
@@ -462,12 +510,12 @@ d) 26, 27 e 28 dias úteis de férias a partir dos 59 anos de idade, respectivam
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - Alberto de Sousa Martins.
 
-**Promulgado em 11 de Janeiro de 2002.**
+Promulgado em 11 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Janeiro de 2002.**
+Referendado em 17 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

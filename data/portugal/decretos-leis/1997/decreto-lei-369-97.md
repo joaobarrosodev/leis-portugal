@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/369/1997/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1997-419396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0989a873832e92478d5054a824c347b8ba714535ae6e7e4adb7fdea9a65d403
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb5fe8fcf41c57096b2466f5c31124d75c484589a0bd6b79dbc7059ec4f9f179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Turismo
-- Desenvolvimento Regional
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Regional
 - Fundo de Turismo
-- QCA
-- Madeira.região Autónoma
-- Sistema de Incentivos Financeiros ao Investimento no Turismo
 - Infraestrutura Turística
+- Madeira.região Autónoma
+- Projeto de Investimento
+- QCA
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:321946:por
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/973/1992/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/973/1992/10/13/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357114:por
+  label: null
+  source: null
 article_structure:
-  article_count: 39
+  article_count: 27
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:41Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +203,9 @@ b) Forma mista de subvenção financeira a fundo perdido e de comparticipação 
 
 5 - O incentivo previsto na alínea a) do n.º 1, bem como a parcela do incentivo financeiro reembolsável prevista na alínea b) do mesmo número, consubstancia-se num contrato de mútuo não oneroso.
 
-###### Artigo 3.º — Projectos susceptíveis de acesso ao SIFIT III
+Artigo 3.º
+
+Projectos susceptíveis de acesso ao SIFIT III
 
 1 - São susceptíveis de apoio no âmbito do SIFIT III, nos termos dos números seguintes, os projectos de investimento, bem como as infra-estruturas e equipamentos complementares, relativos:
 
@@ -185,7 +219,9 @@ c) Aos estabelecimentos, iniciativas, projectos ou actividades de interesse para
 
 3 - Mediante despacho normativo, o membro do Governo responsável pela área do turismo especificará os projectos de investimento que beneficiarão de cada uma das formas de incentivos previstos no n.º 1 do artigo anterior, bem como as taxas de comparticipação correspondentes a cada tipo de projecto e de empreendimento, consoante a sua natureza e localização.
 
-###### Artigo 4.º — Despesas de investimento comparticipáveis
+Artigo 4.º
+
+Despesas de investimento comparticipáveis
 
 1 - ...
 
@@ -201,11 +237,15 @@ c) ...
 
 4 - ...
 
-###### Artigo 5.º — Condição geral de acesso
+Artigo 5.º
+
+Condição geral de acesso
 
 Os projectos susceptíveis de acesso ao SIFIT III, referidos nas alíneas a) e b) do n.º 1 do artigo 3.º, devem ser previamente aprovados pelas entidades competentes, de acordo com o estipulado, respectivamente, nos Decretos-Leis n.os [167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001) e [169/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1997-156003), ambos de 4 de Julho, e, no caso dos estabelecimentos, iniciativas, projectos ou actividades referidos na alínea c) do n.º 1 do artigo 3.º, devem ser previamente declarados de interesse para o turismo, nos termos do artigo 57.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-###### Artigo 6.º — Exclusão
+Artigo 6.º
+
+Exclusão
 
 Não podem beneficiar de apoio no âmbito do SIFIT III:
 
@@ -217,7 +257,9 @@ c) ...
 
 d) Os projectos relativos a empreendimentos turísticos que tenham beneficiado, há menos de três anos, contados do respectivo termo final de execução material, de incentivos atribuídos ao abrigo do [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), de 13 de Outubro, ou do presente diploma, salvo se o valor global dos incentivos a perceber ao abrigo daqueles diplomas não ultrapassar o montante máximo a que se refere o n.º 3 do artigo 2.º
 
-###### Artigo 7.º — Condições de acesso
+Artigo 7.º
+
+Condições de acesso
 
 1 - ...
 
@@ -251,7 +293,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 8.º — Apresentação da candidatura
+Artigo 8.º
+
+Apresentação da candidatura
 
 1 - Para um projecto de investimento poder beneficiar dos incentivos previstos no presente diploma, o processo de candidatura deverá ser apresentado no Fundo de Turismo, nos termos fixados na portaria a que se refere o artigo 17.º
 
@@ -265,7 +309,9 @@ d) ...
 
 6 - No caso de os projectos não serem comparticipados, os promotores podem apresentar novas candidaturas, nos termos do presente diploma e dos que o regulamentam.
 
-###### Artigo 9.º — Apreciação e decisão
+Artigo 9.º
+
+Apreciação e decisão
 
 1 - Compete ao Fundo de Turismo a apreciação do processo de candidatura, o cálculo do montante do incentivo a atribuir e a elaboração da proposta de decisão quanto ao pedido de concessão.
 
@@ -273,11 +319,15 @@ d) ...
 
 3 - O despacho governamental que decidir do pedido de concessão é comunicado ao promotor do projecto pelo Fundo de Turismo.
 
-###### Artigo 10.º — Informação
+Artigo 10.º
+
+Informação
 
 São publicados trimestralmente pelo Fundo de Turismo os valores dos incentivos concedidos.
 
-###### Artigo 11.º — Contrato de concessão de incentivos
+Artigo 11.º
+
+Contrato de concessão de incentivos
 
 1 - A concessão do incentivo, sob qualquer das formas previstas no presente diploma, é objecto de um contrato a celebrar entre o Fundo de Turismo e o promotor do projecto, por documento particular, devendo as assinaturas das partes promotoras ser reconhecidas notarialmente, salvo quando, tratando-se de promotor em nome individual, a garantia especial constituída para assegurar o reembolso não seja hipotecária.
 
@@ -287,7 +337,9 @@ São publicados trimestralmente pelo Fundo de Turismo os valores dos incentivos 
 
 4 - ...
 
-###### Artigo 12.º — Renegociação e cessão da posição contratual
+Artigo 12.º
+
+Renegociação e cessão da posição contratual
 
 1 - ...
 
@@ -297,7 +349,9 @@ São publicados trimestralmente pelo Fundo de Turismo os valores dos incentivos 
 
 4 - ...
 
-###### Artigo 13.º — Rescisão do contrato
+Artigo 13.º
+
+Rescisão do contrato
 
 1 - ...
 
@@ -321,7 +375,9 @@ i) Revogação, pela Direcção-Geral do Turismo, da declaração de interesse p
 
 2 - ...
 
-###### Artigo 20.º — Regiões Autónomas
+Artigo 20.º
+
+Regiões Autónomas
 
 1 - O artigo 9.º do [Decreto-Lei n.º 439/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1988-357114), de 30 de Novembro, na redacção dada pelo [Decreto-Lei n.º 178/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1994-238975), de 28 de Junho, passa a ter a seguinte redacção:
 
@@ -361,15 +417,15 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 2 de Dezembro de 1997.**
+Promulgado em 2 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Sistema de Incentivos Financeiros ao Investimento no Turismo (SIFIT III)
 

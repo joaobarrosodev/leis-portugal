@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1971-635468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31e100706a4b454521cd7909d90acb153510f65fab5ed50f49e06acc321f092f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88d0eb9c5365fc488e7c6ce45a0f3bae418231819fc07dac4eb2ce6c2aa0a951
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:43Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. O § 3.º do artigo 3.º, o artigo 43.º e seu § 1.º, os artigos 48.º, 49.º e 50.º, o n.º 2) da alínea b) do n.º 1.º e as alíneas a) e b) do n.º 2.º do artigo 262.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -149,21 +161,21 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 ...
 
-###### Art. 43.º Os oficiais radiotelegrafistas desempenham a bordo as funções da sua especialidade, nomeadamente as de operadores radiotelegrafistas e radiotelefonistas e as de chefes das estações radiotelegráficas dos navios, sendo responsáveis, perante o comandante, pelo cumprimento das leis e disposições regulamentares de radiocomunicações e pela conservação e eficiência do material radioeléctrico de comunicações e de radioajudas.
+Art. 43.º Os oficiais radiotelegrafistas desempenham a bordo as funções da sua especialidade, nomeadamente as de operadores radiotelegrafistas e radiotelefonistas e as de chefes das estações radiotelegráficas dos navios, sendo responsáveis, perante o comandante, pelo cumprimento das leis e disposições regulamentares de radiocomunicações e pela conservação e eficiência do material radioeléctrico de comunicações e de radioajudas.
 
 § 1.º Para o desempenho das funções de operador radiotelegrafista, dentro dos limites impostos pelo artigo 262.º, poderão ser matriculados como pertencentes à classe mestrança indivíduos portadores de certificado de radiotelegrafista da classe A ou B, passado nas condições indicadas no artigo 50.º
 
 ...
 
-###### Art. 48.º Os certificados gerais de radiotelegrafista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame efectuado nas condições estabelecidas por aquele serviço, provem satisfazer ao exigido, para o efeito pelo Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações.
+Art. 48.º Os certificados gerais de radiotelegrafista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame efectuado nas condições estabelecidas por aquele serviço, provem satisfazer ao exigido, para o efeito pelo Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações.
 
 § único. Este certificado habilita o titular a operar qualquer equipamento radiotelefónico e é tirado por uma só vez.
 
-###### Art. 49.º Os certificados restritos de radiotelefonista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame nas condições expressas no Regulamento do Serviço Radioeléctrico das Embarcações Mercantes, de Pesca e de Recreio Nacionais, provem satisfazer ao exigido, para o efeito, pelo Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações.
+Art. 49.º Os certificados restritos de radiotelefonista serão passados pela Direcção do Serviço de Electricidade e Comunicações aos indivíduos que, mediante exame nas condições expressas no Regulamento do Serviço Radioeléctrico das Embarcações Mercantes, de Pesca e de Recreio Nacionais, provem satisfazer ao exigido, para o efeito, pelo Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações.
 
 § único. O certificado restrito de radiotelefonista só será válido por um ano e para equipamentos do mesmo tipo.
 
-###### Art. 50.º A atribuição da categoria de radiotelegrafista prático depende da satisfação das condições estabelecidas no dois parágrafos seguintes:
+Art. 50.º A atribuição da categoria de radiotelegrafista prático depende da satisfação das condições estabelecidas no dois parágrafos seguintes:
 
 § 1.º Pertencem à classe A, sendo-lhes passado um certificado de radiotelegrafista da classe A, sem prazo de validade, que, para todos os efeitos, será considerado equivalente ao certificada de radiotelegrafista de 2.ª classe, consignado no Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações:
 
@@ -175,7 +187,7 @@ b) Os radiotelegrafistas práticos da classe B, aprovados no exame a que se refe
 
 ...
 
-###### Art. 262.º ...
+Art. 262.º ...
 
 1.º ...
 
@@ -195,19 +207,19 @@ b) Com menos de 300 t de arqueação bruta: um radiotelegrafista prático da cla
 
 2. São acrescentados aos artigos 45.º, 47.º e 141.º do referido Regulamento os seguintes parágrafos e número:
 
-###### Art. 45.º ...
+Art. 45.º ...
 
 § único. A aprovação no curso complementar de radiotelegrafista da Escola Náutica confere ao respectivo titular o direito de requerer a passagem de um certificado de radiotelegrafista de 1.ª classe, nos termos do Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações.
 
 ...
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 § único. A aprovação no curso geral de radiotelegrafista da Escola Náutica confere ao respectivo titular o direito de requerer a passagem de um certificado de radiotelegrafista de 2.ª classe, nos termos do Regulamento de Radiocomunicações, anexo à Convenção Internacional de Telecomunicações.
 
 ...
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 ...
 
@@ -215,7 +227,7 @@ b) Com menos de 300 t de arqueação bruta: um radiotelegrafista prático da cla
 
 3. É acrescentado ao mesmo Regulamento de Inscrição Marítima o artigo seguinte:
 
-###### Art. 157.º-A. Os programas dos exames para passagem dos certificados de radiotelegrafista prático constam das alíneas seguintes:
+Art. 157.º-A. Os programas dos exames para passagem dos certificados de radiotelegrafista prático constam das alíneas seguintes:
 
 a) O programa do exame para radiotelegrafista prático da classe A é o programa que estiver sendo ministrado no curso de aplicação do 2.º grau para os radiotelegrafistas da Armada, com excepção das matérias de índole especìficamente militar;
 
@@ -225,4 +237,4 @@ b) O programa do exame para radiotelegrafista prático da classe B será estabel
 
 5. As alterações introduzidas no Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca por este diploma vigorarão a título experimental e por um período de dois anos.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

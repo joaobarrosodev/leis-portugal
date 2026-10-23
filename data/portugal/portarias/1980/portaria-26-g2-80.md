@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 7/1980, 5º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 26-(81) a 26-(106)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf
 entry_into_force_dates: []
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-g2-1980-508607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d64c09ef8ce44b2681319d09d8733f4edf206e0fcd1eb53e69971a357065b97b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2ad58cceddbd7fa65a3779d2eb8e88f2507b2a7bd22ef3453dfbc2066b92500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Educador de Infância
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:156833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508615:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:08Z'
   warnings: []
   errors: []
 ---
@@ -1711,7 +1721,7 @@ Plano de estudos e actividades das escolas normais de educadores de infância
 
 Educação Física, 1.º ano - Proposta de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
 
 Expressão Plástica
 
@@ -1757,7 +1767,7 @@ Valor do gesto infantil.
 
 Esquema de actuação pedagógica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
 
 Algumas considerações
 
@@ -2843,7 +2853,7 @@ Subtracção;
 
 Multiplicação;
 
-##### Divisão.
+Divisão.
 
 2 - De ordem prática:
 
@@ -3421,7 +3431,7 @@ Enquanto complemento da sua acção-intervenção com e pela criança a favor da
 
 2 - Diversas formas de atendimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
 
 3 - O quotidiano na creche e no jardim-de-infância:
 
@@ -3429,7 +3439,7 @@ Enquanto complemento da sua acção-intervenção com e pela criança a favor da
 
 3.2 - Utilização do espaço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00705/00810106.pdf)
 
 3.3 - Refeições. Repouso. Entradas e saídas. Sua importância e objectivos.
 

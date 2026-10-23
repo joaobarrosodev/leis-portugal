@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/04100/07160730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1987-662573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb839a5c206eb6504fe999895c24f10aa77beaefa56620b704921c15b2b7483d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9772a309c219b97398a49f2ec069e2b94d0ce517f7dc50e4c3960d185629daa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:667361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421073:por
+  label: "Alterado o quadro de pessoal, a que se refere o n.º 1 do artigo 22.º, pela PORT.391/87.08.05.1987.MF, DR.IS [105]\
+    \ de 08.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-1987-421073
+  date: '1987-05-08'
+- type: amended_by
+  target: pt:dre:419606:por
+  label: "Aditado um lugar de operador principal e operador do grupo IV, pessoal técnico de informática aos quadro de pessoal,\
+    \ pela PORT.540/87.1987.07.01.MF, DR.IS [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/540-1987-419606
+  date: '1987-07-01'
+- type: amended_by
+  target: pt:dre:286932:por
+  label: "Alterado o quadro de pessoal, a que se refere o artigo 22.º, no que respeita à carreira de analista de sistemas,\
+    \ pela PORT.125/88.22.02.1988.MF, DR.IS [43] de 22.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-1988-286932
+  date: '1988-02-22'
+- type: amended_by
+  target: pt:dre:550054:por
+  label: "Alterado o quadro de pessoal, a que se refere o artigo 22.º, pela PORT.960/89.31.10.1989.MF, DR.IS [251] de 31.10.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-1989-550054
+  date: '1989-10-31'
+- type: amended_by
+  target: pt:dre:616431:por
+  label: "Alterado o quadro de pessoal, a que se refere o artigo 22.º, pela PORT.331/91.11.04.1991.MF, DR.IS-B [84] de 11.04.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-1991-616431
+  date: '1991-04-11'
+- type: amended_by
+  target: pt:dre:658724:por
+  label: "Alterado o quadro de pessoal, a que se refere o artigo 22.º, pela PORT.529/91.15.06.1991.MF, DR.IS-B [135] de 15.06.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/529-1991-658724
+  date: '1991-06-15'
+- type: amended_by
+  target: pt:dre:291917:por
+  label: "Substituído o quadro de pessoal, a que se refere o artigo 22.º, pela PORT.977/91.24.09.1991.MF, DR.IS-B [220] de\
+    \ 24.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1991-291917
+  date: '1991-09-24'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667361:por
+  label: "Revogado pelo DEC LEI.420/99.1999.10.21.MF, DR.IS-B [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1999-667361
+  date: '1999-10-21'
 article_structure:
-  article_count: 57
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 56
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:21Z'
   warnings: []
   errors: []
 ---
@@ -136,25 +218,25 @@ A DGCP é constituída por serviços centrais e por serviços delegados junto de
 
 a) Direcção dos Serviços Gerais do Orçamento (DSGO):
 
-##### Divisão do Orçamento do Estado;
+Divisão do Orçamento do Estado;
 
-##### Divisão dos Orçamentos Privativos;
+Divisão dos Orçamentos Privativos;
 
 b) Direcção dos Serviços Gerais da Conta (DSGC):
 
 ##### Divisão de Receitas;
 
-##### Divisão das Despesas e Operações de Tesouraria;
+Divisão das Despesas e Operações de Tesouraria;
 
-##### Divisão para as Relações Financeiras Comunitárias;
+Divisão para as Relações Financeiras Comunitárias;
 
 c) Direcção dos Serviços de Gestão Orçamental e Auditoria (DSGOA):
 
-##### Divisão de Análise de Diplomas;
+Divisão de Análise de Diplomas;
 
-##### Divisão de Balanço e Análise de Custos;
+Divisão de Balanço e Análise de Custos;
 
-##### Divisão de Execução Orçamental e Auditoria;
+Divisão de Execução Orçamental e Auditoria;
 
 d) Direcção dos Serviços de Gestão de Recursos Humanos e de Organização (DSGRHO);
 
@@ -162,9 +244,9 @@ e) Direcção dos Serviços de Administração Geral
 
 (DSAG):
 
-##### Divisão de Administração de Pessoal;
+Divisão de Administração de Pessoal;
 
-##### Divisão de Administração Financeira e de Material;
+Divisão de Administração Financeira e de Material;
 
 f) Serviço de Consultadoria Jurídica (SCJ);
 
@@ -748,7 +830,7 @@ c) O restante pessoal dirigente e de chefia, pelos funcionários que forem desig
 
 2 - O mesmo regime previsto no número anterior é aplicável aos chefes de divisão de contabilidade, desde que as respectivas divisões pertençam à mesma direcção de serviços ou delegação.
 
-###### Artigo 41.ºMovimento interno do pessoal
+Artigo 41.ºMovimento interno do pessoal
 
 A colocação e distribuição do pessoal pelos diferentes serviços será feita mediante despacho do director-geral.
 
@@ -876,18 +958,18 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1987.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Janeiro de 1987.**
+Promulgado em 30 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1987.**
+Referendado em 4 de Fevereiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal
 
 Mapa a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/04100/07160730.pdf))](https://files.diariodarepublica.pt/1s/1987/02/04100/07160730.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/04100/07160730.pdf)

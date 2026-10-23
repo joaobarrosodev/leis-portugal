@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/293/1997/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1997-671933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee8dece84ea13ab8d5577a9c4d54701600a3841732ec69a244afb72a97858bbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08defefd4fdd468a5a2088f21d9ea922c5d1df72dca9eddfbc63bab11c5dd0b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Definição de Competências
 - Instituto da Cooperação Portuguesa
-- Orgânica
 - Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/60/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515468:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:06Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +146,9 @@ j) Submeter a decisão superior os assuntos que dela careçam.
 
 2 - O presidente é equiparado, para todos os efeitos, a director-geral e coadjuvado no exercício das suas funções por três vice-presidentes, equiparados, para todos os efeitos, a subdirectores-gerais.
 
-###### Artigo 11.º — Serviços
+Artigo 11.º
+
+Serviços
 
 O Instituto compreende os seguintes serviços:
 
@@ -160,7 +170,9 @@ h) A Direcção de Serviços de Gestão;
 
 i) A Direcção de Serviços da Ajuda Humanitária e de Apoio às Organizações não Governamentais.
 
-###### Artigo 12.º — Direcção de Serviços de Programação, Avaliação e Documentação
+Artigo 12.º
+
+Direcção de Serviços de Programação, Avaliação e Documentação
 
 1 - A Direcção de Serviços de Programação, Avaliação e Documentação é um serviço de apoio que exerce as suas funções nas áreas do planeamento, programação, avaliação e documentação, competindo-lhe, em especial:
 
@@ -178,7 +190,9 @@ e) Criar e manter actualizado um banco de dados, com o objectivo de permitir a c
 
 3 - A Direcção de Serviços de Programação, Avaliação e Documentação compreende duas divisões e o Centro de Documentação.
 
-###### Artigo 13.º — Centro de Documentação
+Artigo 13.º
+
+Centro de Documentação
 
 1 - Ao Centro de Documentação compete promover a difusão de material de informação relevante, organizar conferências, seminários e outras iniciativas sobre os países em desenvolvimento e apoiar a edição de publicações na área da cooperação para o desenvolvimento e, em especial:
 
@@ -192,7 +206,9 @@ d) Assegurar a ligação com os serviços congéneres nacionais e estrangeiros.
 
 2 - O Centro de Documentação é chefiado por um chefe de divisão.
 
-###### Artigo 15.º — Direcção de Serviços dos Assuntos Comunitários para a Cooperação
+Artigo 15.º
+
+Direcção de Serviços dos Assuntos Comunitários para a Cooperação
 
 1 - A Direcção de Serviços dos Assuntos Comunitários para a Cooperação assegura a preparação e articulação da posição portuguesa em todos os assuntos relativos à política de cooperação para o desenvolvimento da Comunidade Europeia, competindo-lhe, em especial:
 
@@ -204,7 +220,9 @@ c) Assegurar o acompanhamento da política de cooperação para o desenvolviment
 
 2 - A Direcção de Serviços dos Assuntos Comunitários para a Cooperação compreende duas divisões.
 
-###### Artigo 19.º — Direcção de Serviços da Formação e dos Agentes da Cooperação
+Artigo 19.º
+
+Direcção de Serviços da Formação e dos Agentes da Cooperação
 
 1 - Compete à Direcção de Serviços da Formação e dos Agentes da Cooperação:
 
@@ -222,7 +240,9 @@ f) Promover a elaboração e coordenar a execução de programas de informação
 
 2 - A Direcção de Serviços da Formação e dos Agentes da Cooperação compreende duas divisões.
 
-###### Artigo 20.º — Direcção de Serviços de Gestão
+Artigo 20.º
+
+Direcção de Serviços de Gestão
 
 1 - A Direcção de Serviços de Gestão assegura o registo das organizações não governamentais de cooperação para o desenvolvimento, bem como as actividades de gestão dos recursos humanos do quadro de pessoal do Instituto e de gestão administrativa, financeira e patrimonial.
 
@@ -250,7 +270,9 @@ j) Assegurar a gestão de instalações e equipamentos do Instituto.
 
 3 - A Direcção de Serviços de Gestão compreende uma Divisão e duas Repartições: a Repartição de Administração de Pessoal e Expediente e a Repartição de Administração Financeira e Patrimonial.
 
-###### Artigo 22.º — Repartição de Administração Financeira e Patrimonial
+Artigo 22.º
+
+Repartição de Administração Financeira e Patrimonial
 
 1 - Compete à Repartição de Administração Financeira e Patrimonial:
 
@@ -270,7 +292,9 @@ g) Promover a venda em hasta pública do material considerado inservível ou dis
 
 2 - A Repartição de Administração Financeira e Patrimonial compreende as Secções de Contabilidade, de Economato e de Tesouraria.
 
-###### Artigo 23.º — Direcção de Serviços da Ajuda Humanitária e de Apoio às Organizações não Governamentais
+Artigo 23.º
+
+Direcção de Serviços da Ajuda Humanitária e de Apoio às Organizações não Governamentais
 
 1 - À Direcção de Serviços da Ajuda Humanitária e de Apoio às Organizações não Governamentais compete assegurar a promoção, coordenação, acompanhamento ou execução da prestação de ajuda de reabilitação, alimentar ou de emergência, no quadro das relações bilaterais, comunitárias ou multilaterais.
 
@@ -280,7 +304,9 @@ g) Promover a venda em hasta pública do material considerado inservível ou dis
 
 4 - A Direcção de Serviços da Ajuda Humanitária e de Apoio às Organizações não Governamentais compreende duas divisões.
 
-###### Artigo 24.º — Delegações locais
+Artigo 24.º
+
+Delegações locais
 
 Por decreto regulamentar podem ser criadas delegações locais do Instituto na directa dependência da missão diplomática portuguesa respectiva, competindo-lhes:
 
@@ -296,11 +322,15 @@ e) Proceder ao estudo comparativo da cooperação estrangeira;
 
 f) Acompanhar a actividade das empresas portuguesas e mistas sediadas localmente.
 
-###### Artigo 26.º — Conversão de dívidas
+Artigo 26.º
+
+Conversão de dívidas
 
 O Instituto assegura, em representação do Ministério dos Negócios Estrangeiros e conjuntamente com o Ministério das Finanças, o acompanhamento do processo conducente à conversão de dívidas externas de países em desenvolvimento e, na generalidade, de todas as questões financeiras relevantes para a política de cooperação.
 
-###### Artigo 27.º — Receitas
+Artigo 27.º
+
+Receitas
 
 Constituem receitas do Instituto:
 
@@ -316,12 +346,12 @@ e) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - José Alberto Rebelo dos Reis Lamego - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Outubro de 1997.**
+Promulgado em 6 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Outubro de 1997.**
+Referendado em 9 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

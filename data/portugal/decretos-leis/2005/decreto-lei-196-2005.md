@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2005/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2005-583426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cf5e5e9a55399a81e6dfff9d969ca0fb86e97aefae2c0b8666e87bdf815de8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0f7e7a871f8aff2d3df85d6581b9c5d8b67db88ab3e5520d9228dbe7b732a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
 - Cereal
 - Controlo de Qualidade
 - Controlo Sanitário
-- Saúde Pública
-- Produto Hortícola
-- Proteção do Consumidor
 - Pesticida
 - Produto Animal
+- Produto Hortícola
+- Produto Químico
+- Proteção do Consumidor
+- Saúde Pública
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633291:por
+  label: "Alterado o anexo II do Dec Lei 51/2004 de 10-Mar, com a redacção dada pelo presente diploma, pelo DEC LEI.86/2006.23.05.2006.MADRP,\
+    \ DR.IS-A [99] de 23.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2006-633291
+  date: '2006-05-23'
+- type: amended_by
+  target: pt:dre:520656:por
+  label: "Alterado o anexo II do Dec Lei 51/2004 de 10-Mar, com as alterações introduzidas pelo presente diploma, pelo DEC\
+    \ LEI.189/2007.11.05.2007.MADRP, DR.IS [91] de 11.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2007-520656
+  date: '2007-05-11'
+- type: amended_by
+  target: pt:dre:641677:por
+  label: "Alterado o anexo II do Dec Lei 51/2004 de 10-Mar, com a redacção conferida no presente diploma, pelo DEC LEI.337/2007.11.10.2007.MADRP,\
+    \ DR.IS [196] de 11.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/337-2007-641677
+  date: '2007-10-11'
+- type: amended_by
+  target: pt:dre:449691:por
+  label: "Alterado o anexo II do Dec Lei 51/2004 de 10-Mar, com a redacção conferida no presente diploma, pelo DEC LEI.98/2008.12.06.2008.MADRP,\
+    \ DR.IS [112] de 12.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2008-449691
+  date: '2008-06-12'
 - type: cites
   target: celex:31986L0363
   label: null
@@ -96,16 +120,21 @@ relationships:
   target: celex:32004L0061
   label: null
   source: http://data.europa.eu/eli/dir/2004/61/oj
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:28Z'
   warnings: []
   errors: []
 ---
@@ -138,26 +167,26 @@ O anexo II do Decreto-Lei n.º 51/2004, de 10 de Março, com a redacção que lh
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Luís Medeiros Vieira.
 
-**Promulgado em 21 de Outubro de 2005.**
+Promulgado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — «ANEXO II
 
 Teores máximos de resíduos de pesticidas
 
-# Parte A
+Parte A
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf)
 
-# Parte B
+Parte B
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf)](https://files.diariodarepublica.pt/1s/2005/11/213a00/63776385.pdf)
 
 Nota. - Os teores máximos de resíduos provisórios fixados para os seguintes pesticidas tornam-se definitivos nas datas seguintes: pimetrozina: 1 de Dezembro de 2005; 2,4 - D: 1 de Julho de 2007; famoxadona, sulfossulfão, fenehexamida, acibenzolar-S-metilo, diquato, isoproturão, etofumesato: em 14 de Julho de 2007.»

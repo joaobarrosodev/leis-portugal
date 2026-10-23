@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/28800/32713272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1061-1981-567271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87a9a086217585748276605fb28dc9fee313fd7134c30079be6f59f6710ba48d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfe623b398ea5bec769b691b836aac9ef8982d08afcda9f42953769bef1bfed9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:390655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI NUMERO 34-A/90, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 20, SUPLEMENTO, DE 24/1/90.\0\
+    /1/90.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:43Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +112,15 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o 
 
 1.º Os artigos 11.º, 15.º e 66.º do Estatuto do Oficial da Força Aérea passam a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - (Actual artigo 11.º, com a redacção dada pela [Portaria n.º 222/81](https://diariodarepublica.pt/dr/detalhe/portaria/222-1981-390655), de 27 de Fevereiro.)
+Art. 11.º - 1 - (Actual artigo 11.º, com a redacção dada pela [Portaria n.º 222/81](https://diariodarepublica.pt/dr/detalhe/portaria/222-1981-390655), de 27 de Fevereiro.)
 
 2 - Os oficiais dos quadros técnicos e do serviço geral pára-quedista a que se refere o número anterior poderão ter acesso ao posto de coronel para prover cargos de comando, direcção ou chefia, cujas funções não sejam consideradas obrigatoriamente privativas de certas especialidades; ocuparão vaga no efectivo de 6 coronéis estabelecido pelo [Decreto-Lei n.º 188-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-a-1981-516031), de 2 de Julho.
 
-###### Art. 15.º - 1 - A Direcção do Serviço de Pessoal da Força Aérea providenciará para que os quadros de oficiais estejam sempre preenchidos. Quando haja vacatura em qualquer dos quadros, deve promover-se o seu preenchimento imediato por oficiais que reúnam as necessárias condições legais de promoção.
+Art. 15.º - 1 - A Direcção do Serviço de Pessoal da Força Aérea providenciará para que os quadros de oficiais estejam sempre preenchidos. Quando haja vacatura em qualquer dos quadros, deve promover-se o seu preenchimento imediato por oficiais que reúnam as necessárias condições legais de promoção.
 
 2 - No que respeita ao quadro a que se refere o n.º 2 do artigo 11.º, o preenchimento das vagas nele verificadas depende de determinação expressa do Chefe do Estado-Maior da Força Aérea, em função das necessidades do serviço.
 
-###### Art. 66.º - 1 - ...
+Art. 66.º - 1 - ...
 
 a) ...
 

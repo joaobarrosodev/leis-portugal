@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/512-1975-314904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 710a709e2cd70a3796fddb1dbec228d4a96b03d728478d1799c6eb4d27c91ed2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3b8645c8523701438fdff68cfb51c3c5886939c65aa5c97607b1ce8c0f17071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Reclassificação de Sargentos
+- Forças Armadas
+- Militar
+- Reclassificação de Pessoal
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:426891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:411356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623067:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426891:por
+  label: "Revogada, na parte aplicável, pelo DEC LEI.402/76.27.05.1976.CR, DR.IS [124] de 27.05.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/402-1976-426891
+  date: '1976-05-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:48:31Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a00/32273229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2004-270804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c2546c7462a74f4cea9fb0044083d56a59efb506c7b31b5a6e559ec6f7acfae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 290666456cc2101e8cb44df6e283b4ae6bb08575a1b51de5fffc2d6797c44b63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Equipamento Desportivo
-- Multa
-- Manifestação Cultural
 - Contra-ordenação
 - Direcção Geral dos Transportes Terrestres
+- Equipamento Desportivo
 - EURO 2004
 - Fiscalização
 - Futebol
-- Inspecção Geral de Obras Públicas Transportes e Comunicações
 - GNR
+- Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Manifestação Cultural
+- Multa
+- PSP
 - Transporte de Passageiros
 - Transporte Público
 relationships: []
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:22Z'
   warnings: []
   errors: []
 ---
@@ -198,12 +198,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2004. - José Manuel Durão Barroso - António Jorge de Figueiredo Lopes - José Luís Fazenda Arnaut Duarte - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 10 de Maio de 2004.**
+Promulgado em 10 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2004.**
+Referendado em 12 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

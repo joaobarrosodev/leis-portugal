@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/125-1971-445538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0781cbce911d6731b6a30485e8fe0de1d02290ba2e1570b7f5a794d3574deaec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61937de25ed57eda4689900f8dc9a5827eec48d612a701aea9954f8090a39280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:30Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +117,4 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 10) Para os efeitos previstos na alínea h) do § 4.º do artigo 6.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), a concessionária fica obrigada a acatar as disposições que a Direcção-Geral dos Serviços Florestais e Aquícolas achar convenientes aconselhar para benefício da zona abrangida pela concessão, nomeadamente quanto à protecção da vegetação arbórea e arbustiva marginal, conservação da vegetação aquática dos leitos e correcção e construção, nas ribeiras tributárias, de pequenos açudes (30 cm de altura no coroamento), com vista à formação de pegos para criação natural de trutas.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

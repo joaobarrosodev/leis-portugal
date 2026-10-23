@@ -46,40 +46,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-1976-430850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b140ae1e95c21f0159ec4a51958e92eafd65e708f712d1b8a7753688ed2ef79e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e26856a032a7783d487ae03a3b9b45429a166ee088b266da6e4f584bed991008
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Estabelecimento Hoteleiro
+- Infraestrutura Turística
+- Política de Preços
+- Preço
+- Preço FIXO
+- Preço Máximo
+- Prestação de Serviços
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:443152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675061:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409550:por
+  label: Revogado o n.º 3.º pelo(a) Portaria n.º 606/76 - Diário da República n.º 241/1976, Série I de 1976-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1976-409550
+  date: '1976-10-14'
+- type: repealed_by
+  target: pt:dre:289213:por
+  label: Revogados os n.os 10.º a 18.º, inclusive, pelo(a) Portaria n.º 181-A/77 - Diário da República n.º 76/1977, 2º Suplemento,
+    Série I de 1977-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-a-1977-289213
+  date: '1977-03-31'
+- type: repealed_by
+  target: pt:dre:279184:por
+  label: Revogado, a partir de 01.11.1977, o n.º 3.º pelo(a) Portaria n.º 636/77 - Diário da República n.º 231/1977, Série
+    I de 1977-10-06, que manteve, contudo, transitoriamente em vigor, o regime de preços nele referido para as Regiões Autónomas
+    até que cada um dos respectivos Governos disponha diversamente.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1977-279184
+  date: '1977-10-06'
+- type: repealed_by
+  target: pt:dre:31007000:por
+  label: "Revogado o n.º 3 da presente portaria pela PORT.37/77.29.11.1977.SRCI-RAA, JOA-IS [17] de 29.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/37-1977-31007000
+  date: '1977-11-29'
+- type: repealed_by
+  target: pt:dre:443152:por
+  label: "Revogado o n.º 5.º pela PORT.1028/83.09.12.1983.MCT, DR.IS [282] de 09.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1028-1983-443152
+  date: '1983-12-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:23Z'
   warnings: []
   errors: []
 ---
@@ -188,6 +255,6 @@ Disposições finais
 
 Ministérios do Comércio Interno e do Comércio Externo, 8 de Julho de 1976. - O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota. - O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/17900/18541857.pdf))](https://files.diariodarepublica.pt/1s/1976/08/17900/18541857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/17900/18541857.pdf)
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota. - O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota. - O Ministro do Comércio Externo, Joaquim Jorge de Pinho Campinos.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09400/0251802521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2015/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2015-67212152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4df02982c02edf779fa01fe30c0edd4c603a3b2c75954615a74f4fd6dccd0f91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7fc8d1e6b40fe90392d78733dbf126089c45bb851d97112d14fd65e0b7bc331
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
 subjects:
 - ADM
 - ADSE
-- PSP
 - Assistência a Familiares
 - Assistência Médica
 - Beneficiário
 - Cônjuge
-- Deficiente das Forças Armadas
-- GNR
-- Forças Armadas
 - Cuidados Médicos
-- Protecção na Doença
-- Militar
+- Deficiente das Forças Armadas
 - Doença
+- Forças Armadas
+- GNR
+- Militar
+- Protecção na Doença
+- PSP
 - Subsistemas de Saúde
 - União de Facto
 relationships:
@@ -116,16 +116,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/20
   label: null
   source: http://data.dre.pt/eli/leiorg/3/20
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:19Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +212,9 @@ Os artigos 2.º, 3.º, 5.º e 13.º do [Decreto-Lei n.º 167/2005](https://diari
 
 7 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -184,7 +226,9 @@ c) Beneficiários extraordinários;
 
 d) Beneficiários associados.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, a elegibilidade para a inscrição como beneficiário familiar ou equiparado depende da verificação das condições previstas no regime da ADSE para a inscrição como beneficiários familiares ou equiparados, com as necessárias adaptações.
 
@@ -194,7 +238,9 @@ d) Beneficiários associados.
 
 4 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -254,7 +300,9 @@ c) Beneficiários extraordinários;
 
 d) Beneficiários associados.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, a elegibilidade para a inscrição como beneficiário familiar ou equiparado depende da verificação das condições previstas no regime da ADSE para a inscrição como beneficiário familiar ou equiparado, com as necessárias adaptações.
 
@@ -266,7 +314,9 @@ d) Beneficiários associados.
 
 5 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -326,12 +376,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues.
 
-**Promulgado em 28 de abril de 2015.**
+Promulgado em 28 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de maio de 2015.**
+Referendado em 11 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

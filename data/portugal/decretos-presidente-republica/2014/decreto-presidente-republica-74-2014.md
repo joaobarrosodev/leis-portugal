@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/18800/0510205102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/74/2014/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/74-2014-57695121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1adc10da23b3ba59170ded20b726b1a7e260c83bcd874014e7ab04e814fbebe0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d28432ad85bb2b9594d46cfee907f568843fea555f13ab7fe0f579720d91e19b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nomeação
 - Forças Armadas
+- Nomeação
 - Vice-chefe do Estado Maior da Força Aérea
 relationships:
+- type: amended_by
+  target: pt:dre:57689892:por
+  label: Confirmada a nomeação para o cargo de Vice-Chefe do Estado-Maior da Força Aérea do Tenente-General Piloto Aviador
+    Rui Mora de Oliveira pelo presente Decreto, pelo(a) Despacho n.º 12041/2014 - Diário da República n.º 188/2014, Série
+    II de 2014-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12041-2014-57689892
+  date: '2014-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
@@ -78,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/6/2014/09/01/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384929:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:54Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +111,12 @@ validation:
 
 de 30 de setembro
 
-**O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), de 1 de setembro, o seguinte:
 
 É confirmada a nomeação para o cargo de Vice-Chefe do Estado-Maior da Força Aérea do Tenente-General Piloto Aviador Rui Mora de Oliveira, efetuada por despacho do Ministro da Defesa Nacional de 16 de setembro de 2014.
 
-**Assinado em 24 de setembro de 2014.**
+Assinado em 24 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

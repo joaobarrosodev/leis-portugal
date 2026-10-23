@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/2003/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2003-468991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e888568dfe221651be22d2d442272fa25861db060230a7c9eb50fb24af28f249
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dbebef4844c247c5c12b78a9f9fb829f755efef208d759ea6ddc5c0183f98e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Direcção Geral do Tesouro
+- Base de Dados
 - Contrato de Mútuo
 - Crédito à Habitação
 - Crédito Bonificado
-- Base de Dados
+- Direcção Geral do Tesouro
 - Informação do Consumidor
+- Instituição de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:519977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519977:por
+  label: "Alterado o art. 5º pelo DEC LEI.107/2007.10.04.2007.MFAP, DR.IS [70] de 10.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2007-519977
+  date: '2007-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137-b/1999/04/22/p/dre
   label: null
@@ -99,16 +104,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693674:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:376234:por
+  label: "Revogado o nº 2 do art. 4º pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:31Z'
   warnings: []
   errors: []
 ---
@@ -215,12 +245,12 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 23 de Outubro de 2003.**
+Promulgado em 23 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 2003.**
+Referendado em 30 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

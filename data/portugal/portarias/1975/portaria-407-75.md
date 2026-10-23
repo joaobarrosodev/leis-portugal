@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1975-337201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39214da965e3035bb5e6454691f63b8758c234e60df2530b98fa3a1171ff52ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a6011a44adf462c418791c7272d22eea0cb4368b4d8b668074dec7ce16896f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ação Social
+- Aquisição de Imóveis
+- Funcionário Público
+- Habitação Social
+- Ministério do Ultramar
+- Pagamento
+- Reembolso
+relationships:
+- type: cites
+  target: pt:dre:262296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623394:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:55Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +106,9 @@ Tendo em atenção que essa definição é essencial ao prosseguimento, sem conv
 
 Manda o Governo da República Portuguesa, pelo Ministro da Coordenação Interterritorial, nos termos do artigo 1.º da [Lei n.º 2/74](https://diariodarepublica.pt/dr/detalhe/lei/2-1974-623394), de 14 de Maio:
 
-###### Artigo único. Os artigos 8.º, 14.º e 32.º do Regulamento de Casas Económicas da Obra Social, aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968, passam a ter a seguinte redacção:
+Artigo único. Os artigos 8.º, 14.º e 32.º do Regulamento de Casas Económicas da Obra Social, aprovado pela [Portaria n.º 23785](https://diariodarepublica.pt/dr/detalhe/portaria/23785-1968-262296), de 18 de Dezembro de 1968, passam a ter a seguinte redacção:
 
-###### Art. 8.º - 1 ...
+Art. 8.º - 1 ...
 
 2. ...
 
@@ -105,7 +120,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Coordenação Interte
 
 ...
 
-###### Art. 14.º - 1. As duas primeiras mensalidades serão pagas, contra recibo, no acto da assinatura do contrato. As mensalidades seguintes serão pagas, até ao dia 8 de cada mês, na tesouraria da Obra Social. As quotas referidas no artigo 7.º serão pagas:
+Art. 14.º - 1. As duas primeiras mensalidades serão pagas, contra recibo, no acto da assinatura do contrato. As mensalidades seguintes serão pagas, até ao dia 8 de cada mês, na tesouraria da Obra Social. As quotas referidas no artigo 7.º serão pagas:
 
 a) ...
 
@@ -119,6 +134,6 @@ b) ...
 
 ...
 
-###### Art. 32.º Se um beneficiário ao qual foi atribuído o direito a casa tiver de transitar para outro serviço público, deixando de obedecer às condições previstas no n.º 1 do artigo 4.º, sem culpa sua, mantém, todavia, aquela qualidade.
+Art. 32.º Se um beneficiário ao qual foi atribuído o direito a casa tiver de transitar para outro serviço público, deixando de obedecer às condições previstas no n.º 1 do artigo 4.º, sem culpa sua, mantém, todavia, aquela qualidade.
 
 Ministério da Coordenação Interterritorial, 11 de Junho de 1975. - O Ministro da Coordenação Interterritorial, António de Almeida Santos.

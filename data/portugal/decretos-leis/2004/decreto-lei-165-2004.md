@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2004/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2004-517375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f4c3191eee6b66f1af1a794d43a097da2f4fdca54c2585fcc62931fcdc41b8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 204be302bfa8749fa69d342a5c3e282ab6bdc5e20f674edfba12fbd91073a184
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Entidade Certificadora
-- Comunicações Eletrónicas
-- Mudança Tecnológica
-- Documento Eletrónico
-- Nova Tecnologia
 - Assinatura Digital
+- Comunicações Eletrónicas
+- Documento Eletrónico
+- Entidade Certificadora
+- Mudança Tecnológica
+- Nova Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:179293:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603950:por
+  label: "Alterado o art. 29.º do Dec Lei 290-D/99 de 02-Ago,na redacção do presente diploma, republicado pelo Dec Lei 62/2003\
+    \ de 03-Abr, pelo DEC LEI.88/2009.09.04.2009.PCM, DR.IS [70] de 09.04.2009, que o republica na redacção actual \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2009-603950
+  date: '2009-04-09'
 - type: cites
   target: celex:31999L0093
   label: null
@@ -92,13 +98,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:17Z'
   warnings: []
   errors: []
 ---
@@ -155,12 +161,12 @@ j) ...
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - José Luís Fazenda Arnaut Duarte - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 22 de Junho de 2004.**
+Promulgado em 22 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 2004.**
+Referendado em 24 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

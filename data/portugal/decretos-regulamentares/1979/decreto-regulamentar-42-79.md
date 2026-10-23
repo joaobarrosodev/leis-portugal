@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18900/19781979.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1979-377678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec631beb4f4a5d619dd8ae3b87fef96cae1184d7df390dec62728c72be8be2ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebc3c1d0761678d83bdfa22d63303eae53319e10af4bed2be4967ab27c8cfafc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Custas Judiciais
+- Pessoal de Justiça
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:375812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:375812:por
+  label: "Revogado pelo DEC LEI.386/82.16.09.1982.MJ, DR.IS [215] de 16.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/386-1982-375812
+  date: '1982-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:17Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +113,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos de participação em custas, os tribunais onde os funcionários de justiça prestam serviço distribuem-se por três grupos, conforme mapa anexo.
+Artigo 1.º Para efeitos de participação em custas, os tribunais onde os funcionários de justiça prestam serviço distribuem-se por três grupos, conforme mapa anexo.
 
-###### Art. 2.º A participação em custas dos oficiais de justiça é estabelecida da seguinte forma:
+Art. 2.º A participação em custas dos oficiais de justiça é estabelecida da seguinte forma:
 
 1) Nos tribunais do 1.º grupo, em 23%, 25%, 29%, 33% e 40% dos vencimentos, respectivamente, dos secretários dos tribunais superiores, secretários judiciais, escrivães de direito de 1.ª classe, escrivães-adjuntos e escriturários judiciais;
 
@@ -115,25 +127,25 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5) Os oficiais de diligências auferem a mesma participação em custas que os escriturários judiciais.
 
-###### Art. 3.º - 1 - O secretário da Procuradoria-Geral da República aufere idêntica participação em custas que os secretários dos tribunais superiores.
+Art. 3.º - 1 - O secretário da Procuradoria-Geral da República aufere idêntica participação em custas que os secretários dos tribunais superiores.
 
 2 - O seu vencimento global não poderá ser superior ao dos secretários dos tribunais superiores.
 
-###### Art. 4.º - 1 - Da aplicação destas percentagens não poderá resultar para qualquer funcionário diminuição da remuneração de exercício que presentemente aufere.
+Art. 4.º - 1 - Da aplicação destas percentagens não poderá resultar para qualquer funcionário diminuição da remuneração de exercício que presentemente aufere.
 
 2 - Os secretários judiciais e os escrivães de direito dos tribunais superiores têm remuneração de exercício igual, respectivamente, aos secretários judiciais e escrivães de direito dos tribunais de Lisboa e Porto.
 
-###### Art. 5.º - 1 - Mediante parecer favorável do Conselho Superior da Magistratura, o Ministro da Justiça e o Secretário de Estado da Administração Pública, por portaria, poderão atribuir aos funcionários que prestam serviço em tribunais onde se verifique excepcional produtividade um acréscimo de participação em custas até 6% dos respectivos vencimentos para os secretários dos tribunais superiores, secretário da Procuradoria-Geral da República, secretários judiciais e escrivães de direito e até 10% dos respectivos vencimentos para os restantes funcionários.
+Art. 5.º - 1 - Mediante parecer favorável do Conselho Superior da Magistratura, o Ministro da Justiça e o Secretário de Estado da Administração Pública, por portaria, poderão atribuir aos funcionários que prestam serviço em tribunais onde se verifique excepcional produtividade um acréscimo de participação em custas até 6% dos respectivos vencimentos para os secretários dos tribunais superiores, secretário da Procuradoria-Geral da República, secretários judiciais e escrivães de direito e até 10% dos respectivos vencimentos para os restantes funcionários.
 
 2 - O benefício referido no número anterior tem a duração de três anos, podendo ser renovado quando se verifique a excepcionalidade dos seus pressupostos.
 
 Carlos Alberto da Mota Pinto - Eduardo Henriques da Silva Correia - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 26 de Julho de 1979.**
+Promulgado em 26 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo a que se refere o artigo 1.º
 

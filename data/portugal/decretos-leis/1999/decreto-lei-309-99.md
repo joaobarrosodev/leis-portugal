@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/309/1999/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1999-426694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed57f31963f2016d19f468dfbf658d824a3d42ec768bffa50c15d84b20dc666
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ca299a464a9160d4825f7b961c815d108b0e05cd99b513467cd56f7f341059f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Electrotécnica
-- Energia Elétrica
-- Multa
+- Comércio
 - Comunidade Europeia
 - Consumo de Energia
 - Contra-ordenação
 - Direcção Geral de Energia
+- Energia Elétrica
 - Especificação Técnica
 - Etiquetagem
 - Fiscalização
 - Indústria Electrónica
+- Indústria Electrotécnica
 - Informação do Consumidor
-- Proteção do Consumidor
-- Comércio
+- Multa
 - Normalização
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:286756:por
@@ -103,16 +103,23 @@ relationships:
   target: celex:31999L0009
   label: null
   source: http://data.europa.eu/eli/dir/1999/9/oj
+- type: repealed_by
+  target: pt:dre:286756:por
+  label: "Revogado, a partir de 20.07.2011, com produção de efeitos a 20.12.2011 [data da revogação da Directiva n.º 97/17/CEE,\
+    \ da Comissão, de 16 de Abril, pelo Regulamento Delegado (UE) n.º 1059/2009, da Comissão, de 28 de Setembro de 2010],\
+    \ pelo DEC LEI.63/2011.09.05.2011.MEID, DR.IS [89] de 09.05.2011, nos termos do disposto no nº 1 do seu art. 24º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2011-286756
+  date: '2011-05-09'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:01Z'
   warnings: []
   errors: []
 ---
@@ -249,15 +256,15 @@ Em tudo quanto não esteja previsto no presente diploma aplica-se, subsidiariame
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Etiqueta
 
@@ -265,7 +272,7 @@ Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Man
 
 A etiqueta deve ser conforme com o modelo seguinte:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
 
 2 - Notas relativas à etiqueta
 
@@ -295,7 +302,7 @@ X) Nível de ruído durante o ciclo padrão, de acordo com os procedimentos de e
 
 Definição das características da etiqueta:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
 
 Cores na etiqueta:
 
@@ -405,19 +412,19 @@ A classe de eficiência energética de um aparelho é determinada de acordo com 
 
 QUADRO N.º 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
 
 2 - A classe de eficiência de lavagem de um aparelho é determinada de acordo com o quadro n.º 2:
 
 QUADRO N.º 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
 
 3 - A classe de eficiência de secagem de um aparelho é determinada de acordo com o quadro n.º 3:
 
 QUADRO N.º 3
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)](https://files.diariodarepublica.pt/1s/1999/08/185a00/51735178.pdf)
 
 19 de Maio de 1997, primeira versão.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/2004/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2004-213616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21b30e2a98fc9200bba1d40555002107daf86b0a200ba7338059f3d93ff43ddb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 785cc9710b955003f9d0dc3482e14f8aafaef34582775a2d63eacac0ec761fde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,33 @@ reuse:
 subjects:
 - Administração dos Portos de Setúbal e Sesimbra
 - Contrato de Concessão
+- Ministro das Obras Públicas Transportes e Comunicações
+- Navegação de Recreio
 - Rio Sado
 - Setúbal
-- Navegação de Recreio
-- Ministro das Obras Públicas Transportes e Comunicações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/273/2003/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/273/2003/10/29/p/dre
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:39Z'
   warnings: []
   errors: []
 ---
@@ -134,25 +142,29 @@ Ao contrato são aplicáveis as bases da concessão anexas ao presente diploma, 
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 17 de Novembro de 2004.**
+Promulgado em 17 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Novembro de 2004.**
+Referendado em 22 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Bases gerais da concessão do porto de recreio de Setúbal
 
 ### CAPÍTULO I — Da concessão
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 A presente concessão tem por objecto a construção e exploração, em regime de serviço público, de um porto destinado à navegação de recreio, incluindo as respectivas instalações de apoio e serviços operacionais a ele afectas, situado no município de Setúbal, na margem direita do rio Sado, adiante designado por Doca de Recreio das Fontainhas.
 
-###### Base II — Localização
+Base II
+
+Localização
 
 1 - A localização da Doca de Recreio das Fontainhas consta da planta anexa ao presente diploma e dele faz parte integrante, que define a área de terreno afecta a concessão, com as coordenadas de referência.
 
@@ -160,7 +172,9 @@ A presente concessão tem por objecto a construção e exploração, em regime d
 
 3 - Com o início da exploração da concessão, são incorporadas no domínio público do Estado, independentemente de qualquer formalidade e sem quaisquer encargos para o concedente, todas as obras e construções directamente afectas à exploração portuária referidas nos n.os 1 e 2 da base V, sem prejuízo do eventual direito a ser indemnizado por parte de terceiros.
 
-###### Base III — Estabelecimento
+Base III
+
+Estabelecimento
 
 1 - Compreende-se no estabelecimento o conjunto dos bens, móveis e imóveis, que pela APSS, S. A., ou pela concessionária estão ou venham a ser implantados na área da concessão ou a ser-lhes afectos, destinados à exploração do porto de recreio, nos seguintes termos:
 
@@ -172,7 +186,9 @@ b) Os edifícios, as instalações, os equipamentos, as ferramentas, os utensíl
 
 3 - A concessionária deve submeter à APSS, S. A., até 31 de Maio de cada ano, o inventário discriminativo do conjunto de bens afectos à concessão, referido a 31 de Dezembro do ano anterior, com a indicação dos correspondentes valores de aquisição.
 
-###### Base IV — Plano de obras, instalações e equipamentos
+Base IV
+
+Plano de obras, instalações e equipamentos
 
 1 - Compete à concessionária elaborar os estudos, planos e projectos e executar as obras necessárias à construção do porto de recreio e à instalação dos respectivos serviços de apoio, bem como adquirir os equipamentos exigidos pelo seu funcionamento e operacionalidade, de acordo com as necessidades do turismo náutico e o estabelecido na base V.
 
@@ -202,7 +218,9 @@ f) Obrigação de, no que respeita à exploração regular do serviço público 
 
 8 - Devem ainda ser previstas dragagens a cotas adequadas, devendo, contudo, ter-se em consideração no referido projecto a necessária banqueta de protecção junto da base de fundação, para evitar deslizamentos da superstrutura.
 
-###### Base V — Serviços e instalações obrigatórias
+Base V
+
+Serviços e instalações obrigatórias
 
 1 - A concessionária assegura, obrigatoriamente, de entre os serviços, instalações e equipamentos referidos no n.º 1 da base IV, os seguintes:
 
@@ -240,7 +258,9 @@ p) A grade de marés.
 
 3 - As instalações e equipamentos do porto de recreio devem respeitar todas as normas em vigor relativas à utilização por visitantes e utentes com mobilidade reduzida.
 
-###### Base VI — Segurança, qualidade e ambiente
+Base VI
+
+Segurança, qualidade e ambiente
 
 A concessionária fica obrigada a:
 
@@ -256,19 +276,25 @@ e) Participar no programa de monitorização da qualidade da água, a implementa
 
 f) Implementar um padrão de qualidade consentâneo com a imagem da APSS, S. A., assente num sistema de gestão da qualidade em conformidade com a norma ISO 9001:2000.
 
-###### Base VII — Aprovação de projectos
+Base VII
+
+Aprovação de projectos
 
 1 - As obras a realizar na zona dominial só podem ser iniciadas após a aprovação dos respectivos projectos pela APSS, S. A., e a emissão das licenças correspondentes.
 
 2 - A titularidade das licenças referidas no número anterior não dispensa a concessionária de obter das entidades competentes as restantes licenças e autorizações e os pareceres legalmente exigidos.
 
-###### Base VIII — Execução das obras
+Base VIII
+
+Execução das obras
 
 1 - A concessionária pode contratar a execução das obras e a implantação ou montagem de instalações e equipamentos com empresas de reconhecida competência, cuja identidade deve comunicar à APSS, S. A.
 
 2 - Todos os materiais provenientes de escavações e dragagens a efectuar na área da concessão são removidos e depositados nas condições que ficarem estabelecidas no contrato.
 
-###### Base IX — Constituição e transmissão de direitos reais
+Base IX
+
+Constituição e transmissão de direitos reais
 
 1 - A concessionária pode ser autorizada pela APSS, S. A., a transmitir o direito de propriedade de que é titular sobre as construções destinadas a serviços complementares de natureza comercial realizadas na zona dominial, nos termos dos n.os 1 e 2 do artigo 25.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
 
@@ -276,7 +302,9 @@ f) Implementar um padrão de qualidade consentâneo com a imagem da APSS, S. A.,
 
 ### CAPÍTULO II — Da exploração
 
-###### Base X — Regime de exploração
+Base X
+
+Regime de exploração
 
 1 - A Doca de Recreio das Fontainhas é explorada em regime de serviço público, de forma regular e contínua, nos termos fixados no contrato de concessão e em conformidade com o disposto no respectivo regulamento de exploração e utilização.
 
@@ -284,7 +312,9 @@ f) Implementar um padrão de qualidade consentâneo com a imagem da APSS, S. A.,
 
 3 - O estabelecido no número anterior não abrange o acesso nem a prestação de serviços a embarcações que não sejam de recreio.
 
-###### Base XI — Obrigações de serviço público
+Base XI
+
+Obrigações de serviço público
 
 A exploração da Doca de Recreio das Fontainhas, em regime de serviço público, obriga a concessionária a:
 
@@ -294,13 +324,17 @@ b) Prestar aos utentes os serviços que integram o objecto da concessão;
 
 c) Assegurar que os serviços sejam prestados com a maior segurança, eficiência e economia, segundo métodos racionais e técnicas actualizadas, por forma a garantir prestações de qualidade e de preço compatíveis com estabelecimentos similares.
 
-###### Base XII — Licenciamento da exploração
+Base XII
+
+Licenciamento da exploração
 
 1 - A efectiva exploração da Doca de Recreio das Fontainhas só pode iniciar-se quando a concessionária estiver munida das licenças e autorizações exigidas por lei para o exercício das actividades nela compreendidas.
 
 2 - A concessionária deve dar conhecimento à APSS, S. A., do início da exploração com, pelo menos, 30 dias de antecedência, remetendo cópia das licenças e autorizações a que se refere o número anterior.
 
-###### Base XIII — Regulamento de exploração
+Base XIII
+
+Regulamento de exploração
 
 1 - Antes da entrada em funcionamento da Doca de Recreio das Fontainhas, a APSS, S. A., aprova, mediante proposta da concessionária, o regulamento que estabelece as normas relativas às operações e condições de prestação dos serviços abrangidos pela concessão.
 
@@ -310,7 +344,9 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 4 - O regulamento de exploração referido no n.º 1 deve ser facultado a todos os potenciais utentes, ficando a concessionária obrigada a afixá-lo nas suas instalações em locais bem visíveis.
 
-###### Base XIV — Regulamento de tarifas
+Base XIV
+
+Regulamento de tarifas
 
 1 - Os limites máximos das taxas a cobrar pela concessionária pelos serviços que prestar, no âmbito da concessão, e pela utilização das instalações e equipamentos que apoiam a Doca de Recreio das Fontainhas, assim como as respectivas regras gerais de aplicação, são fixados em regulamento de tarifas a aprovar pela APSS, S. A., sob proposta da concessionária, considerando-se o mesmo aprovado se a APSS, S. A., não se pronunciar no prazo de 30 dias contados da data da sua apresentação.
 
@@ -318,7 +354,9 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 3 - A concessionária não pode cobrar taxas que não constem do regulamento de tarifas nem onerar, por qualquer forma, o preço dos serviços prestados ou das instalações e equipamentos utilizados.
 
-###### Base XV — Conservação dos bens afectos à concessão
+Base XV
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, por sua conta e responsabilidade, todos os que se destruírem ou se mostrarem inadequados para os fins a que se destinam por desgaste físico, avaria, deterioração ou obsolescência.
 
@@ -334,19 +372,25 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 7 - A APSS, S. A., pode determinar à concessionária a substituição de qualquer equipamento que se mostre inadequado à regular e eficiente exploração dos serviços concedidos, bem como determinar, no prazo que fixar, a execução das obras de reparação e beneficiação que se justificarem.
 
-###### Base XVI — Fundo de conservação e renovação
+Base XVI
+
+Fundo de conservação e renovação
 
 1 - Para acorrer aos encargos emergentes das obrigações de reparação e conservação, a concessionária afectará 5% dos proveitos operacionais anuais à constituição de um fundo de conservação e renovação, nos termos e condições que forem acordados e que constarão do contrato.
 
 2 - Com a autorização expressa da APSS, S. A., pode o fundo a que refere o número anterior ser utilizado em novas aquisições ou ter outra aplicação considerada útil para a prossecução dos fins da concessão.
 
-###### Base XVII — Vigilância das instalações
+Base XVII
+
+Vigilância das instalações
 
 1 - Compete à concessionária a guarda e a vigilância das instalações, serviços e equipamentos que integram o estabelecimento da concessão, bem como assegurar a observância, pelos utentes, das normas constantes do regulamento de exploração e utilização.
 
 2 - A concessionária deve participar às autoridades públicas competentes o incumprimento, designadamente por parte dos utentes, das normas legais e regulamentares de segurança, disciplina e conduta.
 
-###### Base XVIII — Fiscalização
+Base XVIII
+
+Fiscalização
 
 1 - O estabelecimento da concessão e as actividades nele exercidas são fiscalizados pelos serviços da APSS, S. A., cujas instruções e directivas a concessionária se obriga a cumprir, logo que lhes sejam comunicadas por escrito.
 
@@ -354,11 +398,15 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 3 - O disposto nos números anteriores não dispensa a concessionária de se subordinar à fiscalização de quaisquer outros serviços oficiais competentes.
 
-###### Base XIX — Vistorias
+Base XIX
+
+Vistorias
 
 Constituem encargos da concessionária as despesas com vistorias extraordinárias, nomeadamente as que resultarem de reclamações de terceiros, desde que a vistoria conclua pela existência de irregularidades imputáveis à concessionária.
 
-###### Base XX — Exploração por terceiros
+Base XX
+
+Exploração por terceiros
 
 1 - A concessionária pode ceder a terceiros que disponham de idoneidade pessoal, técnica e financeira os direitos de exploração de instalações e serviços de natureza comercial, considerando-se, porém, ineficazes perante o concedente as cláusulas dos contratos de cessão ou similares que confiram aos respectivos cessionários direitos ou faculdades que a concessionária não detinha ou que visem transferir ou diminuir a responsabilidade desta perante o concedente, mesmo que respeitante apenas à exploração cedida.
 
@@ -368,13 +416,17 @@ Constituem encargos da concessionária as despesas com vistorias extraordinária
 
 ### CAPÍTULO III — Da vigência e extinção da concessão
 
-###### Base XXI — Prazo
+Base XXI
+
+Prazo
 
 1 - O prazo da concessão não pode exceder 30 anos a contar da data da celebração do respectivo contrato.
 
 2 - O prazo da concessão e as condições de eventuais prorrogações são fixados no contrato de concessão.
 
-###### Base XXII — Decurso do prazo
+Base XXII
+
+Decurso do prazo
 
 1 - Finda a concessão pelo decurso do prazo, a APSS, S. A., entra imediatamente na posse de todos os bens que constituem o estabelecimento e que revertem gratuitamente para a APSS, S. A., livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -398,7 +450,9 @@ Constituem encargos da concessionária as despesas com vistorias extraordinária
 
 11 - As condições de cedência referidas no número anterior e a fixação do valor das instalações são reguladas por acordo ou, na sua falta, nos termos do disposto na base XXXV.
 
-###### Base XXIII — Resgate
+Base XXIII
+
+Resgate
 
 1 - A APSS, S. A., pode resgatar a concessão quando motivos de interesse público o justifiquem, após decorrida metade do respectivo prazo, o qual produz efeitos decorridos dois anos sobre a data da sua notificação à concessionária.
 
@@ -418,7 +472,9 @@ Constituem encargos da concessionária as despesas com vistorias extraordinária
 
 9 - A APSS, S. A., pode liquidar os encargos da aquisição e da indemnização a que se referem, respectivamente, os n.os 5 e 8 desta base, por uma só vez ou em anuidades, até ao limite previsto para o termo do prazo da concessão, vencendo as importâncias em débito juros calculados com base na indexante EURIBOR a 12 meses.
 
-###### Base XXIV — Rescisão
+Base XXIV
+
+Rescisão
 
 1 - A APSS, S. A., pode rescindir o contrato de concessão quando a concessionária viole gravemente as suas obrigações.
 
@@ -454,7 +510,9 @@ i) A interrupção injustificada da exploração do estabelecimento.
 
 ### CAPÍTULO IV — Suspensão excepcional da concessão
 
-###### Base XXV — Sequestro
+Base XXV
+
+Sequestro
 
 1 - A APSS, S. A., pode assegurar a administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja iminente a sua cessação total ou parcial por causa imputável à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometerem a regularidade da exploração.
 
@@ -466,7 +524,9 @@ i) A interrupção injustificada da exploração do estabelecimento.
 
 5 - A declaração da situação de sequestro da concessão, bem como a declaração imediata de rescisão prevista no número anterior, carece de homologação pelo ministro da tutela.
 
-###### Base XXVI — Estado de sítio ou de emergência
+Base XXVI
+
+Estado de sítio ou de emergência
 
 1 - De acordo com o previsto na legislação especial aplicável, a APSS, S. A., ou outra entidade para o efeito designada, pode, em situação de estado de sítio ou estado de emergência formalmente declarado, ser investida na gestão e exploração dos serviços concedidos.
 
@@ -474,7 +534,9 @@ i) A interrupção injustificada da exploração do estabelecimento.
 
 ### CAPÍTULO V — Obrigações especiais
 
-###### Base XXVII — Contrapartida pela concessão
+Base XXVII
+
+Contrapartida pela concessão
 
 1 - A concessionária paga à APSS, S. A., como contrapartida pela concessão, uma anuidade correspondente à soma das parcelas seguintes:
 
@@ -500,7 +562,9 @@ b) Mensalmente, até 60 dias após o fim do mês a que respeita, no que se refer
 
 5 - O atraso no pagamento constitui a concessionária em mora, sendo devidos juros à taxa legalmente fixada para as obrigações fiscais, por cada mês ou fracção, sem prejuízo do estabelecido na alínea c) do n.º 2 da base XXIV.
 
-###### Base XXVIII — Deliberações sujeitas a aprovação pela APSS, S. A.
+Base XXVIII
+
+Deliberações sujeitas a aprovação pela APSS, S. A.
 
 1 - Sem prejuízo do disposto nas presentes bases, carecem de aprovação pela APSS, S. A., as deliberações da concessionária que visem:
 
@@ -524,17 +588,23 @@ f) A cessação, temporária ou definitiva, total ou parcial, dos serviços conc
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Base XXIX — Responsabilidade civil
+Base XXIX
+
+Responsabilidade civil
 
 A concessionária é inteiramente responsável pelos prejuízos ou danos causados à concedente ou a terceiros em consequência dos poderes que lhe são conferidos pela concessão.
 
-###### Base XXX — Seguros
+Base XXX
+
+Seguros
 
 1 - A concessionária deve constituir antes do início da exploração da concessão e manter actualizados os contratos de seguro contra riscos inerentes ao exercício da sua actividade, assegurando, nomeadamente, a cobertura dos danos materiais sobre as instalações e equipamentos que integram o estabelecimento da concessão, bem como a responsabilidade civil da concessionária, sendo o capital mínimo anual para este último caso no valor que ficar estabelecido no contrato.
 
 2 - A concessionária deve fazer prova, perante a concedente, sempre que esta o solicitar, da vigência dos seguros constituídos.
 
-###### Base XXXI — Caução
+Base XXXI
+
+Caução
 
 1 - Como garantia do pontual cumprimento das obrigações assumidas, no âmbito do contrato de concessão, e do pagamento das multas que lhe forem aplicadas, a concessionária presta caução, a favor da APSS, S. A., no valor que ficar estabelecido no contrato.
 
@@ -550,7 +620,9 @@ a) Reforços realizados no fundo de conservação e renovação nos últimos tr�
 
 b) Saldo do referido fundo no final da concessão.
 
-###### Base XXXII — Incumprimento das obrigações
+Base XXXII
+
+Incumprimento das obrigações
 
 1 - O não cumprimento das obrigações assumidas pela concessionária, quando lhe não corresponda sanção mais grave, nos termos das bases anteriores ou do regulamento de exploração, implica o pagamento de multa contratual de (euro) 500 a (euro) 5000, segundo a gravidade e a frequência da infracção, mediante deliberação da APSS, S. A., a qual, notificada, por escrito, à concessionária, produz efeitos independentemente de qualquer outra formalidade.
 
@@ -560,17 +632,23 @@ b) Saldo do referido fundo no final da concessão.
 
 4 - O pagamento das multas não isenta a concessionária da responsabilidade civil em que incorrer nem prejudica a competência de outras autoridades para julgamento das infracções em que lhes caiba intervir.
 
-###### Base XXXIII — Contabilidade separada
+Base XXXIII
+
+Contabilidade separada
 
 Para efeitos do estabelecido nas presentes bases, a sociedade titular da concessão procede à elaboração de contabilidade separada para o conjunto dos bens e serviços que explora na área da concessão definida nas bases II e III, quando tal sociedade não seja uma entidade juridicamente constituída com a finalidade exclusiva de exploração do estabelecimento da concessão.
 
-###### Base XXXIV — Elementos estatísticos
+Base XXXIV
+
+Elementos estatísticos
 
 1 - A concessionária obriga-se a fornecer a APSS, S. A., os elementos estatísticos referentes ao movimento havido no porto de recreio, bem como os elementos contabilísticos que traduzam o resultado da exploração, nos prazos e condições que vierem a ficar estabelecidos no contrato de concessão.
 
 2 - Os elementos estatísticos e contabilísticos a fornecer devem ser os adequados à verificação e validação dos parâmetros necessários ao cálculo da renda variável.
 
-###### Base XXXV — Arbitragem
+Base XXXV
+
+Arbitragem
 
 As questões suscitadas entre a APSS, S. A., e a concessionária sobre a interpretação, a execução e a rescisão do contrato de concessão podem ser resolvidas, na falta de acordo, mediante a celebração de convenções de arbitragem.
 

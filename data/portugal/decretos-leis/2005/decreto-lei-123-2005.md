@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2005/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2005-240379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: debd44e6748cdc40abe06374f26d560f911b8ab2ddae014ea30a9d50bae6178a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e11f80e7419b5c86b76a69f4dafebb4cec01051cbafe60568bad1f1c92ac47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adido Técnico
+- Bruxelas
 - Comissão de Serviço
 - Conselheiro Técnico
+- Ministério dos Negócios Estrangeiros
 - Pessoal Contratado
 - Presidência da União Europeia
 - Quadro de Pessoal
 - Regime Jurídico
 - Representação Permanente de Portugal Junto das Comunidades Europeias
 - Requisição de Pessoal
-- Ministério dos Negócios Estrangeiros
-- Bruxelas
 relationships:
 - type: amended_by
   target: pt:dre:353966:por
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/234-b/1998/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234-b/1998/07/28/p/dre
+- type: cites
+  target: pt:dre:289610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372236:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:59Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +146,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Luís Manuel Moreira de Campos e Cunha.
 
-**Promulgado em 21 de Julho de 2005.**
+Promulgado em 21 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2005.**
+Referendado em 22 de Julho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

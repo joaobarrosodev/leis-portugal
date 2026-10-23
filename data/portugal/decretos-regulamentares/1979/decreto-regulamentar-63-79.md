@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1979-366642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f47cd9509ef134e2c750680e9aaec1d873297f5d913e5896c353ab59d707985
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6a953e0c45bbd25b041900cd42f39957617d3e39e20d36a6ece932b1b76bd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Função Pública
+- Inspeção Geral de Finanças
+- Progressão na Carreira
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:139725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:47Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +114,26 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As carreiras do pessoal técnico da Inspecção-Geral de Finanças (IGF) continuarão, até entrada em vigor da futura lei orgânica do serviço, a reger-se pelo [Decreto n.º 125/77](https://diariodarepublica.pt/dr/detalhe/decreto/125-1977-278224), de 24 de Setembro, com as alterações resultantes do presente diploma.
+Artigo 1.º As carreiras do pessoal técnico da Inspecção-Geral de Finanças (IGF) continuarão, até entrada em vigor da futura lei orgânica do serviço, a reger-se pelo [Decreto n.º 125/77](https://diariodarepublica.pt/dr/detalhe/decreto/125-1977-278224), de 24 de Setembro, com as alterações resultantes do presente diploma.
 
-###### Art. 2.º Os actuais inspectores superiores da IGF, que passam a designar-se subinspectores-gerais, são equiparados a subdirectores-gerais para efeitos de aplicação do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 2.º Os actuais inspectores superiores da IGF, que passam a designar-se subinspectores-gerais, são equiparados a subdirectores-gerais para efeitos de aplicação do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 3.º - 1 - A carreira dos inspectores da IGF desenvolve-se pelas categorias de inspector de finanças coordenador, inspector de finanças principal e inspector de finanças, a que são atribuídas, respectivamente, as letras D, E e F.
+Art. 3.º - 1 - A carreira dos inspectores da IGF desenvolve-se pelas categorias de inspector de finanças coordenador, inspector de finanças principal e inspector de finanças, a que são atribuídas, respectivamente, as letras D, E e F.
 
 2 - Os actuais inspectores técnicos principais, inspectores técnicos de 1.ª classe ou inspectores técnicos juristas e inspectores técnicos de 2.ª classe passam a designar-se, respectivamente, inspectores de finanças coordenadores, inspectores de finanças principais e inspectores de finanças, contando, para todos os efeitos, nestas categorias o tempo de serviço prestado nas categorias substituídas.
 
 3 - Os inspectores de finanças estagiários são remunerados, no período de estágio, com o vencimento correspondente à letra H.
 
-###### Art. 4.º Aos subchefes de delegação, chefes de posto, agentes fiscais de 1.ª e 2.ª classes e auxiliares de fiscalização das delegações ou postos da IGF junto das fábricas de tabaco e de fósforos passam a corresponder as letras J, K, O, P e S, respectivamente.
+Art. 4.º Aos subchefes de delegação, chefes de posto, agentes fiscais de 1.ª e 2.ª classes e auxiliares de fiscalização das delegações ou postos da IGF junto das fábricas de tabaco e de fósforos passam a corresponder as letras J, K, O, P e S, respectivamente.
 
-###### Art. 5.º Para os efeitos previstos no artigo 52.º do [Decreto n.º 125/77](https://diariodarepublica.pt/dr/detalhe/decreto/125-1977-278224), de 24 de Setembro, o período de dois anos aí estabelecido é prorrogado até à entrada em vigor da futura lei orgânica da IGF.
+Art. 5.º Para os efeitos previstos no artigo 52.º do [Decreto n.º 125/77](https://diariodarepublica.pt/dr/detalhe/decreto/125-1977-278224), de 24 de Setembro, o período de dois anos aí estabelecido é prorrogado até à entrada em vigor da futura lei orgânica da IGF.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde 1 de Agosto de 1979.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde 1 de Agosto de 1979.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Gabriela Guedes Salgueiro - Alberto José dos Santos Ramalheira.
 
-**Promulgado em 27 de Novembro de 1979.**
+Promulgado em 27 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

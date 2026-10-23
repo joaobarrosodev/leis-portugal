@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1977-252987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c42803c2b5eb2865087a6dec1ae82f4567b59af03f86b19dd0b4e982c24516f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4c8f1408d53a3da19f4694fa3b235231c83903a80b8f330ae219680e1730096
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Guarda Fiscal
+- Integração de Trabalhadores
+- Militar
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Região Militar
 relationships:
 - type: amended_by
   target: pt:dre:364728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:48Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +119,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O corpo de tropas da Guarda Fiscal passa a ser constituído por cinco batalhões e uma companhia independente, com as seguintes zonas de acção: Batalhão n.º 1, zona de acção da Região Militar de Lisboa; Batalhão n.º 2, zona de acção da Região Militar do Sul; Batalhão n.º 3, zona de acção da Região Militar do Norte; Batalhão n.º 4, zona de acção da Região Militar do Centro; Batalhão n.º 5, zona de acção do Comando Territorial Independente dos Açores; Companhia Independente da Madeira, zona de acção do Comando Territorial Independente da Madeira.
+Artigo 1.º O corpo de tropas da Guarda Fiscal passa a ser constituído por cinco batalhões e uma companhia independente, com as seguintes zonas de acção: Batalhão n.º 1, zona de acção da Região Militar de Lisboa; Batalhão n.º 2, zona de acção da Região Militar do Sul; Batalhão n.º 3, zona de acção da Região Militar do Norte; Batalhão n.º 4, zona de acção da Região Militar do Centro; Batalhão n.º 5, zona de acção do Comando Territorial Independente dos Açores; Companhia Independente da Madeira, zona de acção do Comando Territorial Independente da Madeira.
 
-###### Art. 2.º A composição dos comandos de batalhão e do comando da Companhia Independente da Madeira é a que consta dos quadros anexos a este decreto.
+Art. 2.º A composição dos comandos de batalhão e do comando da Companhia Independente da Madeira é a que consta dos quadros anexos a este decreto.
 
-###### Art. 3.º São integrados na composição dos comandos de batalhão e do comando da Companhia Independente da Madeira três tenentes-coronéis, três majores, nove capitães, três subalternos, três sargentos-ajudantes, trinta e quatro sargentos, sessenta e nove cabos e trezentos e trinta e sete soldados constantes do [Decreto-Lei n.º 45587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45587-1964-469991), de 3 de Março de 1964; três capitães, três sargentos e três cabos dos constantes do Decreto n.º 487/74, de 26 de Setembro, e três capitães constantes do [Decreto-Lei n.º 468/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1975-314954), de 28 de Agosto.
+Art. 3.º São integrados na composição dos comandos de batalhão e do comando da Companhia Independente da Madeira três tenentes-coronéis, três majores, nove capitães, três subalternos, três sargentos-ajudantes, trinta e quatro sargentos, sessenta e nove cabos e trezentos e trinta e sete soldados constantes do [Decreto-Lei n.º 45587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45587-1964-469991), de 3 de Março de 1964; três capitães, três sargentos e três cabos dos constantes do Decreto n.º 487/74, de 26 de Setembro, e três capitães constantes do [Decreto-Lei n.º 468/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1975-314954), de 28 de Agosto.
 
-###### Art. 4.º A reorganização total da Guarda Fiscal será objecto de novo diploma, donde constará o quadro geral de efectivos da corporação.
+Art. 4.º A reorganização total da Guarda Fiscal será objecto de novo diploma, donde constará o quadro geral de efectivos da corporação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 15 de Maio de 1977.**
+Promulgado em 15 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Composição do comando de batalhão da Guarda Fiscal
 
@@ -280,4 +299,4 @@ Soma total ... 62
 
 (nota g) Pode, eventualmente, ser major médico ou civil.
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira.

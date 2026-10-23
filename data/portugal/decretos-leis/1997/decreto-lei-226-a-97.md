@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 199/1997, 1º Suplemento, Série I-A de 1997-08-29
   number: '199'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4546-(2) a 4546-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/199a01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226-a/1997/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-1997-190408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1b6cb9d56dbc14cdcc315d08703791b07087b6cd02161cf7a0d4962bcbd1e5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c0ff32434a56f3bb031504d8ed8413e5755d042d4f7d51f4b1ae4dda50b44b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Bolsa de Valores
 - Capital Social
-- Portugal Telecom
 - OPV
 - Partest
+- Portugal Telecom
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:669513:por
@@ -114,16 +114,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
+- type: cites
+  target: pt:dre:141831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669513:por
+  label: "Revogado o nº 4 do art. 13º pelo DEC LEI.90/2011.25.07.2011.MF, DR.IS [141] de 25.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2011-669513
+  date: '2011-07-25'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:31Z'
   warnings: []
   errors: []
 ---
@@ -370,12 +423,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 25 de Agosto de 1997.**
+Promulgado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO**
+O Presidente da República, JORGE SAMPAIO
 
-**Referendado em 28 de Agosto de 1997.**
+Referendado em 28 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

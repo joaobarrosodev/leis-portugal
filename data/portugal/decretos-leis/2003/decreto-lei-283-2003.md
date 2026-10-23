@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/259a00/75027515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/283/2003/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2003-468986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4286d13cf42fd3caa7939240326647047da52ece85da84a9a69bfdcbab62510e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02c068ec4dc96b2b7c73c1912d3e729bae218fbcf6042cf17aba8645cd48efe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Fiscalização
 - Núcleo Local de Inserção
 - Programa de Inserção
-- Rendimento Social de Inserção
 - Regime Jurídico
+- Rendimento Social de Inserção
 - Segurança Social
 - VALE Social
 relationships:
@@ -77,6 +77,26 @@ relationships:
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676606:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 18.º, 21.º, 22.º, 38.º, 40.º, 42.º, 43.º, 46.º,\
+    \ 47.º, 49.º, 51.º, 52.º, 54.º, 59.º, 64.º, 70.º, 71.º, 73.º, 77.º, 79.º e 80.º, aditados os arts. 3º-A, 4º-A, 51º-A e\
+    \ 68º-A, revogado o art. 3º, o nº 6 do art. 5º, o nº 3 do art. 9º, o nº 4 do art. 11º, os arts. 19º, 32º, 33º, 34º e 35º,\
+    \ as als. f) e g) do nº 1 do art. 38º, a al. i) do nº 1 do art. 52º, os arts. 53º e 60º, a al. c) do nº 1 do art. 64º\
+    \ e a al. d) do art. 72º, e republicado em anexo o presente diploma, rectificado pela Decl Rect 3/2004 de 08-Jan, pelo\
+    \ DEC LEI.42/2006.23.02.2006.MTSSO, DR.IS-A [39] de 23.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2006-676606
+  date: '2006-02-23'
+- type: amended_by
+  target: pt:dre:335683:por
+  label: "Alterados, a partir de 01.08.2010, os arts. 6º (na redacção do Dec Lei 42/2006, de 23-Fev), 7º, 13º, 40º, 42º, 51º,\
+    \ (os três últimos na redacção do Dec Lei 42/2006, de 23-Fev), 61º, 64º (o último na redacção do Dec Lei 42/2006, de 23-Fev),\
+    \ 66º, 67º, 69º e 70º ( o último na redacção do Dec Lei 42/2006, de 23-Fev) e revogados, a partir da mesma data, o art.\
+    \ 5º, o nº1 do art. 6º, os arts. 9º, 15º, 18º, 20º, 21º, 22º, 23º, 24º, 25º e 39º, o nº3 do art. 40º, o art. 59º, a al.\
+    \ c) do nº1 do art. 61º e o nº6 do art. 70º, todos do presente diploma, pelo DEC LEI.70/2010.16.06.2010.MTSSO, DR.IS [115]\
+    \ de 16.06.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2010-335683
+  date: '2010-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1992/08/05/p/dre
   label: null
@@ -93,16 +113,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:240659:por
+  label: "Rectificado pela DECL-RECT.3/2004.19.12.2003.PCM, DR.IS-A [6] de 08.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-2004-240659
+  date: '2003-12-19'
+- type: repealed_by
+  target: pt:dre:178491:por
+  label: "Revogado, a partir de 01.07.2012, o presente diploma, alterado pelo Dec Lei 42/2006, de 23-fev, pelo DEC LEI.133/2012.27.06.2012.MSSSOC,\
+    \ DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2012-178491
+  date: '2012-06-27'
 article_structure:
   article_count: 82
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:37Z'
   warnings: []
   errors: []
 ---
@@ -893,12 +944,12 @@ Todas as referências legais ao rendimento mínimo garantido instituído pela [L
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - António José de Castro Bagão Félix.
 
-**Promulgado em 27 de Outubro de 2003.**
+Promulgado em 27 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 2003.**
+Referendado em 30 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

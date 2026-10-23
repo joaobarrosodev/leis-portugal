@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/293a00/67206723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/361/1997/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1997-420405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6675f9a115b524739e14459634634ddb6c1c8a779955cf5a1c45fed98095f39f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 368fe3dc91895fa8bfa87b664bf47d62a73ac682def8c90ccd4c09135c246376
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Fundo de Investimento Mobiliário
 - Privatização
 - Regime Jurídico
+- Sociedade Anónima
 - Sociedade Gestora de Fundos de Investimento
 - Trabalhador
 relationships:
@@ -89,16 +89,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649364:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:212379454:por
+  label: Revogado, a partir de 28.05.2023, o presente diploma, pelo(a) Decreto-Lei n.º 27/2023 - Diário da República n.º 83/2023,
+    Série I de 2023-04-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2023-212379454
+  date: '2023-04-28'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:31Z'
   warnings: []
   errors: []
 ---
@@ -245,7 +267,7 @@ Os trabalhadores ou a sociedade promotores da constituição de fundos poderão 
 
 ###### Artigo 11.º
 
-**O Ministro das Finanças, por portaria, depois de ouvida a Comissão do Mercado de Valores Mobiliários, poderá autorizar a constituição de fundos por trabalhadores de sociedades não abrangidas pelo n.º 1 do artigo 1.º, aplicando-se, com as necessárias adaptações, o disposto no presente diploma.**
+O Ministro das Finanças, por portaria, depois de ouvida a Comissão do Mercado de Valores Mobiliários, poderá autorizar a constituição de fundos por trabalhadores de sociedades não abrangidas pelo n.º 1 do artigo 1.º, aplicando-se, com as necessárias adaptações, o disposto no presente diploma.
 
 ###### Artigo 12.º
 
@@ -253,12 +275,12 @@ Os trabalhadores ou a sociedade promotores da constituição de fundos poderão 
 
 Visto e aprovado em Conselho de Ministro de 14 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 3 de Dezembro de 1997.**
+Promulgado em 3 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

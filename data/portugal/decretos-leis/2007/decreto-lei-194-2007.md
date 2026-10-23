@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2007/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2007-520649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb875eb42c0b48150aab3b85c020b02c192b5763863fcb622c8c1bf432c09e06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 811bd434004b5e2a55cc2a06c732fb833061ee83ef1752d45ba6431974bb5a3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
-- Indústria da Celulose e do Papel
 - Embalagem
+- Indústria da Celulose e do Papel
+- Produto Alimentar
 - Proteção do Consumidor
 relationships:
 - type: cites
@@ -94,13 +94,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:33Z'
   warnings: []
   errors: []
 ---
@@ -197,20 +197,20 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 23 de Abril de 2007.**
+Promulgado em 23 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Abril de 2007.**
+Referendado em 24 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Lista das substâncias autorizadas no fabrico de películas de celulose regenerada não revestidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf)
 
 ## ANEXO II — Lista das substâncias autorizadas no fabrico de películas de celulose regenerada revestidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09200/31553160.pdf)

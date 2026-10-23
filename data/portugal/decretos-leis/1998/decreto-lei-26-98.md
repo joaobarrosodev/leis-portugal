@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/1998/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1998-229285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1421b68fd586bd2828f12636b996cea0069e1534c4b659f15010d6e934aa289
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4827e4b03e03ef8502e90a99689d964d2cd602f974cfb0586121fa7a2c228c67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Financiamento
 - Chiado
-- Renovação Urbana
+- Financiamento
+- Incêndio
 - JURO Bonificado
 - Prazo
-- Prorrogação de Prazo
 - Prédio Urbano
+- Prorrogação de Prazo
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:414405:por
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:213800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:44Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +170,9 @@ Objecto e formas de apoio
 
 8 - ...
 
-###### Artigo 3.º — Beneficiários
+Artigo 3.º
+
+Beneficiários
 
 1 - Podem beneficiar dos apoios do FEARC os residentes, os proprietários de edifícios, as empresas com estabelecimentos nas áreas sinistrada e circundante, ou quaisquer associações por eles constituídas, bem como as entidades públicas que participem na reconstrução e reabilitação do Chiado.
 
@@ -160,7 +182,9 @@ Objecto e formas de apoio
 
 4 - As entidades públicas referidas no n.º 1 podem também receber apoio do FEARC para aquisição de imóveis na área sinistrada ou na área circundante.
 
-###### Artigo 12.º — Duração
+Artigo 12.º
+
+Duração
 
 1 - O FEARC extingue-se em 31 de Dezembro de 1999 e a sua liquidação, a cargo da comissão directiva, deverá estar encerrada no prazo de seis meses.
 
@@ -172,12 +196,12 @@ O disposto no presente diploma em matéria de bonificações aplica-se às opera
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 29 de Janeiro de 1998.**
+Promulgado em 29 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 1998.**
+Referendado em 2 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

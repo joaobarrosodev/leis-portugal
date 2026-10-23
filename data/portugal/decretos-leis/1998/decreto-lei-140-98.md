@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/1998/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9bcba02b3d62f2638834469c8af6700e21bf554d319d9702b242f72b236b11e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e68d69974632be8f81d565694deb0da144a333d10e8f2078638d7e78ce8aebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Comércio a Retalho
+- Concorrência
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Comércio e da Concorrência
-- Concorrência
+- Direito Comercial
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Direito Comercial
+- Multa
 - Prestação de Serviços
 - Proteção do Consumidor
 relationships:
@@ -94,16 +94,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/1994/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/1994/03/03/p/dre
+- type: cites
+  target: pt:dre:219123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176336:por
+  label: "Revogada a alteração produzida ao n.º 3 do art. 5.º ao art. 6.º (na parte respeitante às competências para instrução\
+    \ de processos e ao art. 7.º e determinado sem prejuízo do n.º 2 do art. 5.º que a autoridade passe a exercer as competências\
+    \ atribuídas à Direcção-geral do Comércio e da Concorrência, no Dec Lei 370/93, de 29-Out, pelo DEC LEI.10/2003.2003.01.18.MECO\
+    \ DR.IS-A [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2003-176336
+  date: '2003-01-18'
 article_structure:
-  article_count: 19
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:18Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +166,9 @@ Os artigos 1.º e 3.º a 7.º do [Decreto-Lei n.º 370/93](https://diariodarepub
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - É proibido oferecer para venda ou vender um bem a um agente económico ou a um consumidor por um preço inferior ao seu preço de compra efectivo, acrescido dos impostos aplicáveis a essa venda e, se for caso disso, dos encargos relacionados com o transporte.
 
@@ -164,7 +190,9 @@ e) Bens vendidos em saldo ou em liquidação.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - É proibido a um agente económico recusar a venda de bens ou a prestação de serviços a outro agente económico, segundo os usos normais da respectiva actividade ou de acordo com as disposições legais ou regulamentares aplicáveis, ainda que se trate de bens ou de serviços não essenciais e que da recusa não resulte prejuízo para o regular abastecimento do mercado.
 
@@ -188,7 +216,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Constituem contra-ordenações, quando cometidas por pessoa singular:
 
@@ -206,11 +236,15 @@ b) A infracção ao disposto nos n.os 1 e 3 do artigo 2.º, punível com coima d
 
 4 - A negligência é punível.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A fiscalização do cumprimento do disposto no presente diploma compete à Inspecção-Geral das Actividades Económicas e a instrução dos respectivos processos cabe à Direcção-Geral do Comércio e da Concorrência.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O produto das coimas cobradas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado, em 20% para a Inspecção-Geral das Actividades Económicas e em 20% para a Direcção-Geral do Comércio e da Concorrência.»
 
@@ -240,15 +274,15 @@ O presente diploma entra em vigor no dia 1 de Julho de 1998.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 5 de Maio de 1998.**
+Promulgado em 5 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Maio de 1998.**
+Referendado em 7 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [Decreto-Lei n.º 370/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1993-664318), de 29 de Outubro
 

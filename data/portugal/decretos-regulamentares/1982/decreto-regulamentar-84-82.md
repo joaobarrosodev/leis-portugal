@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d389c443051a814810f5d810f8503c27dbbd5cd4cf9e18b044504685bc47181d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d00bd8ebf42c7694921831570270807b535c1b68222ab55611fb48c365a6ba74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproveitamento Hidroagrícola
+- Associação de Beneficiários
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:405309:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663133:por
+  label: "Alterado o art. 55º do Regulamento aprovado pelo presente diploma, pelo DR.11/87.1987.02.02.MAPA, DR.IS [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-1987-663133
+  date: '1987-02-02'
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405309:por
+  label: "Revogado o art. 55º do Regulamento aprovado pelo presente diploma, pelo DR.6/96.1996.08.12.MADRP DR.IS-B [186],\
+    \ na redacção dada pelo DR 11/87 de 02-Fev\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-1996-405309
+  date: '1996-08-12'
 article_structure:
   article_count: 60
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:28Z'
   warnings: []
   errors: []
 ---
@@ -340,7 +370,7 @@ c) Conhecer as queixas ou participações contra a direcção da associação e 
 
 ###### Artigo 24.º — (Averiguações complementares)
 
-**O presidente pode, antes de convocar o júri e sempre que julgue conveniente, proceder às averiguações necessárias, de modo a que os processos sejam submetidos à apreciação do júri depois de convenientemente instruídos.**
+O presidente pode, antes de convocar o júri e sempre que julgue conveniente, proceder às averiguações necessárias, de modo a que os processos sejam submetidos à apreciação do júri depois de convenientemente instruídos.
 
 ###### Artigo 25.º — (Fundamento das decisões)
 
@@ -584,8 +614,8 @@ Até à implantação das estruturas criadas por este Regulamento, as obras cont
 
 Diogo Pinto de Freitas do Amaral - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 18 de Outubro de 1982.**
+Promulgado em 18 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

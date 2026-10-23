@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1988-357910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 661a3dd67d44dfd79893165312393856187c231caa3c2e514581da4826a766b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3dbe5fd52ec52e8ffb2a62c6c2132b43e11c0a6d9b17341532ab4e4144cbddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Regional de Segurança Social
+- Formas de Provimento
+- Recrutamento de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:180588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:22Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +110,11 @@ Assim:
 
 Ao abrigo do disposto no artigo 23.º do [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aplicável aos directores de estabelecimentos de infância e juventude integrados nos centros regionais de segurança social e desprovidos de autonomia administrativa e financeira o disposto no n.º 1 do artigo 1.º, nas alíneas a) e b) do n.º 1 e nos n.os 2, 3 e 4 do artigo 2.º e nos artigos 3.º e 4.º do [Decreto Regulamentar n.º 52/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1985-180588), de 8 de Agosto.
+Artigo 1.º É aplicável aos directores de estabelecimentos de infância e juventude integrados nos centros regionais de segurança social e desprovidos de autonomia administrativa e financeira o disposto no n.º 1 do artigo 1.º, nas alíneas a) e b) do n.º 1 e nos n.os 2, 3 e 4 do artigo 2.º e nos artigos 3.º e 4.º do [Decreto Regulamentar n.º 52/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1985-180588), de 8 de Agosto.
 
-###### Art. 2.º - 1 - A alínea b) do n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 52/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1985-180588), de 8 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º - 1 - A alínea b) do n.º 1 do artigo 2.º do [Decreto Regulamentar n.º 52/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1985-180588), de 8 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 a) ...
 
@@ -110,11 +122,11 @@ b) Técnico superior de 1.ª classe, os directores de estabelecimentos de tercei
 
 2 - O n.º 2 do artigo 4.º do [Decreto Regulamentar n.º 52/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1985-180588), de 8 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - Os cargos previstos no n.º 1 do artigo 2.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou curso superior adequado ou inseridos em carreira técnica superior, técnica, docente ou de enfermagem ou chefe de repartição com experiência profissional devidamente comprovada para o cargo a exercer.
 
-###### Art. 3.º - 1 - Nos casos em que, justapostas aos estabelecimentos de primeira e segunda infâncias, existam salas de actividades de tempos livres, a capacidade fixada para estas deve ser considerada conjuntamente com a capacidade daqueles estabelecimentos apenas em ordem à determinação do nível de remuneração do respectivo director.
+Art. 3.º - 1 - Nos casos em que, justapostas aos estabelecimentos de primeira e segunda infâncias, existam salas de actividades de tempos livres, a capacidade fixada para estas deve ser considerada conjuntamente com a capacidade daqueles estabelecimentos apenas em ordem à determinação do nível de remuneração do respectivo director.
 
 2 - A capacidade das salas de actividades de tempos livres será fixada por despacho do Ministro do Emprego e da Segurança Social e, para efeitos do número anterior, reporta-se à frequência média de crianças por cada turno de funcionamento.
 
@@ -122,12 +134,12 @@ Presidência do Conselho de Ministros, 17 de Outubro de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/1997/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1997-476919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d8c90dbc07c1cfe9ad556e1e501abe9be0d2ea462db212c1b4e342b36f93245
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70b0a10255dd8767e511ef83ab6bc68667b6210e6e9e2d04d17a58bab619b62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Carreira Profissional
 - Inspecção Geral das Pescas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:602483:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Extinta a Inspecção-Geral das Pescas pelo DEC LEI.246/2002.2002.11.08.MADRP,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
@@ -98,16 +103,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/762/1994/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/762/1994/08/23/p/dre
+- type: cites
+  target: pt:dre:218710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655518:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:602483:por
+  label: "Revogado pelo DEC LEI.14/2004.13.01.2004.MADRP, DR.IS-A [10] de 13.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2004-602483
+  date: '2004-01-13'
 article_structure:
   article_count: 33
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:17Z'
   warnings: []
   errors: []
 ---
@@ -624,15 +654,15 @@ O pessoal que, em regime de destacamento ou requisição, desempenhe funções i
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
@@ -640,7 +670,7 @@ Quadro do pessoal dirigente
 
 (artigo 15.º, n.º 3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf))](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
 
 MAPA II
 
@@ -648,7 +678,7 @@ Estruturas das carreiras de inspecção de pesca
 
 (artigo 15.º, n.º 4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf))](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
 
 MAPA III
 
@@ -656,7 +686,7 @@ Estruturas indiciárias das carreiras de inspecção de pesca
 
 (artigo 23.º, n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf))](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
 
 MAPA IV
 
@@ -664,4 +694,4 @@ Tabela de equivalências para transição do pessoal de inspecção
 
 [artigo 30.º, n.º 1, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf))](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/095a00/18081817.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12900/0000600029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2023/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2023-215210816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9cc924ab37cb747f67e0192208a9d41a84a1d4d011a921cba5de53f8af8ce11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f06b392cd48382b060763bd6cc50f5fd2ea48da2cc52bce88b58de46818c82d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Regulamentação de Atos Legislativos
-- Serviço Nacional de Saúde
+- Açores
+- Agenda do Trabalho Digno
+- Doença
+- Faltas
 - Férias
 - Licença Parental
-- Faltas
 - Licença por Paternidade
+- Madeira.região Autónoma
 - Maternidade
+- Parentalidade
 - Paternidade
 - Poder Paternal
 - Prestações da Segurança Social
-- Madeira.região Autónoma
-- Parentalidade
-- Prova
 - Proteção Social
-- Doença
-- Açores
+- Prova
+- Região Autónoma
+- Regulamentação de Atos Legislativos
+- Serviço Nacional de Saúde
 - Subsídio
 - Subsídio de Maternidade
 - Subsídio de Paternidade
 - Subsídio por Licença Parental
 - Trabalhador por Conta de Outrem
-- Agenda do Trabalho Digno
 relationships:
 - type: cites
   target: celex:32019L1158
@@ -137,20 +137,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211340863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L1158
   label: null
   source: null
 article_structure:
-  article_count: 78
+  article_count: 52
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:18Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +321,9 @@ Os artigos 6.º, 11.º, 12.º, 14.º, 15.º, 16.º, 23.º, 24.º, 25.º, 28.º e
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -291,11 +349,15 @@ Os artigos 6.º, 11.º, 12.º, 14.º, 15.º, 16.º, 23.º, 24.º, 25.º, 28.º e
 
 12 - (Anterior n.º 11.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O subsídio parental inicial exclusivo da mãe pode ser atribuído por um período facultativo até 30 dias antes do parto e, obrigatoriamente, por um período de 42 dias consecutivos após o parto, os quais se integram no período de atribuição de subsídio parental inicial.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O subsídio parental inicial exclusivo do pai é atribuído pelos períodos seguintes, sem prejuízo do disposto no n.º 4:
 
@@ -309,7 +371,9 @@ b) 7 dias de gozo facultativo, seguidos ou interpolados, desde que gozados em si
 
 4 - No caso de internamento hospitalar da criança durante o período após o parto, o período da licença referido na alínea a) do n.º 1 é suspenso a pedido do pai, pelo tempo de duração do internamento.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O subsídio por adoção é atribuído aos candidatos a adotantes nas situações de adoção de menores de 15 anos, devidamente comprovadas, exceto se se tratar de adoção de filho do cônjuge do beneficiário ou da pessoa com quem este viva em união de facto, e corresponde, com as devidas adaptações, ao subsídio parental inicial, ao subsídio parental inicial exclusivo do pai e ao subsídio parental alargado.
 
@@ -319,11 +383,15 @@ b) 7 dias de gozo facultativo, seguidos ou interpolados, desde que gozados em si
 
 4 - O disposto no presente artigo aplica-se, com as necessárias adaptações, às famílias de acolhimento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O subsídio parental alargado é concedido por um período até três meses a qualquer um ou a ambos os progenitores simultânea ou alternadamente, nas situações de exercício de licença parental complementar gozada nos termos previstos nas alíneas a), c) e d) do n.º 1 do artigo 51.º do Código do Trabalho.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -361,7 +429,9 @@ g) Subsídio parental alargado caso os progenitores gozem, cada um, a totalidade
 
 h) Nas situações em que o progenitor goze a licença parental complementar nos termos previstos na alínea c) do n.º 1 do artigo 51.º do Código do Trabalho, o montante diário do subsídio corresponde a 20 %.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -369,13 +439,17 @@ h) Nas situações em que o progenitor goze a licença parental complementar nos
 
 3 - O montante diário mínimo do subsídio parental inicial a tempo parcial corresponde a 50 % do valor calculado nos termos do n.º 1.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
 2 - A situação de suspensão da atribuição do subsídio parental inicial por internamento da criança prevista no n.º 1 não abrange as situações previstas nos n.os 5 e 6 do artigo 11.º
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -395,7 +469,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -421,7 +497,9 @@ Os artigos 7.º, 12.º, 13.º, 15.º, 16.º, 17.º, 30.º, 32.º, 33.º, 34.º, 
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -441,11 +519,15 @@ Os artigos 7.º, 12.º, 13.º, 15.º, 16.º, 17.º, 30.º, 32.º, 33.º, 34.º, 
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O subsídio parental inicial exclusivo da mãe é concedido por um período facultativo até 30 dias antes do parto e, obrigatoriamente, 42 dias consecutivos após o parto, os quais se integram no período de concessão correspondente ao subsídio parental inicial.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O subsídio parental inicial exclusivo do pai é concedido pelos períodos seguintes, sem prejuízo do disposto no n.º 4:
 
@@ -459,11 +541,15 @@ b) 7 dias de gozo facultativo, seguidos ou interpolados, desde que gozados em si
 
 4 - No caso de internamento hospitalar da criança durante o período após o parto, o período da licença referido na alínea a) do n.º 1 é suspenso a pedido do pai, pelo tempo de duração do internamento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O subsídio parental alargado é concedido por um período até três meses a qualquer um ou a ambos os progenitores simultânea ou alternadamente, nas situações de exercício de licença parental complementar gozada nos termos previstos nas alíneas a), c) e d) do n.º 1 do artigo 51.º do Código do Trabalho.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O subsídio por adoção é concedido aos candidatos a adotante nas situações de adoção de menor de 15 anos, impeditivas do exercício de atividade laboral, exceto se se tratar de adoção de filho do cônjuge do beneficiário ou da pessoa com quem o beneficiário viva em união de facto e corresponde, com as devidas adaptações, ao subsídio parental inicial, ao subsídio parental inicial exclusivo do pai e ao subsídio parental alargado.
 
@@ -473,7 +559,9 @@ O subsídio parental alargado é concedido por um período até três meses a qu
 
 4 - O disposto no presente artigo aplica-se, com as necessárias adaptações, às famílias de acolhimento.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - (Anterior proémio do corpo do artigo.)
 
@@ -489,11 +577,15 @@ e) No caso de opção pelo período de licença de 180 dias, nas situações em 
 
 2 - Nas situações em que o progenitor goze a licença nos termos dos n.os 4 e 5 do artigo 40.º do Código do Trabalho, o montante diário do subsídio corresponde a 50 % do montante apurado nos termos do número anterior.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 O montante diário dos subsídios devidos nos períodos de acréscimo à licença parental inicial pelo nascimento de gémeos, por internamento hospitalar e por prematuridade até às 33 semanas, previstos nos n.os 3, 5 e 6 do artigo 12.º, é igual a 100 % da remuneração de referência do beneficiário.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O montante diário do subsídio parental alargado é igual a 30 % da remuneração de referência do beneficiário.
 
@@ -501,11 +593,15 @@ O montante diário dos subsídios devidos nos períodos de acréscimo à licenç
 
 3 - Nas situações em que o progenitor goze a licença parental complementar nos termos previstos na alínea c) do n.º 1 do artigo 51.º do Código do Trabalho, o montante diário do subsídio corresponde a 20 % da remuneração de referência do beneficiário.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 O montante diário do subsídio por adoção é igual ao previsto em cada uma das alíneas do artigo 30.º, consoante a modalidade a que corresponda, no artigo 31.º em caso de subsídio parental exclusivo do pai, e no artigo 32.º em caso de adoções múltiplas.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -513,7 +609,9 @@ O montante diário do subsídio por adoção é igual ao previsto em cada uma da
 
 3 - O montante diário mínimo do subsídio parental inicial a tempo parcial corresponde a 50 % do valor calculado nos termos do n.º 1.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -521,7 +619,9 @@ O montante diário do subsídio por adoção é igual ao previsto em cada uma da
 
 3 - A suspensão da concessão do subsídio parental inicial por internamento da criança, prevista no n.º 2, não abrange as situações previstas nos n.os 5 e 6 do artigo 12.º
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 Os subsídios previstos no presente capítulo não são acumuláveis com rendimento de trabalho, com exceção das seguintes situações:
 
@@ -555,7 +655,9 @@ Os artigos 17.º e 18.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/d
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -615,11 +717,15 @@ o) [Anterior alínea m).]
 
 6 - [...]
 
-###### Artigo 16.º-A — [...]
+Artigo 16.º-A
+
+[...]
 
 Para efeitos do disposto na alínea l) do n.º 1 do artigo 4.º da presente lei, o regime jurídico da promoção da segurança e saúde no trabalho, constante da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, é aplicável aos empregadores públicos com as especificidades previstas no presente título.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - No caso de o trabalhador adoecer durante o período de férias, são as mesmas suspensas desde que o empregador público seja do facto informado, e cuja prova é feita nos termos da lei, prosseguindo, logo após a alta, o gozo dos dias de férias ainda compreendidos naquele período.
 
@@ -633,7 +739,9 @@ Para efeitos do disposto na alínea l) do n.º 1 do artigo 4.º da presente lei,
 
 6 - [...]
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - Para efeitos do disposto no n.º 4 do artigo 128.º, a reavaliação da situação de doença do trabalhador é feita por intervenção da comissão de reavaliação dos serviços da segurança social da sua área da residência habitual.
 
@@ -663,15 +771,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de maio de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 23 de junho de 2023.**
+Promulgado em 23 de junho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de junho de 2023.**
+Referendado em 28 de junho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
@@ -1132,3 +1240,5 @@ Em tudo o que não se encontre especificamente regulado no presente decreto-lei 
 ###### Artigo 39.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+116620393

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22875-1967-390264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 688772dea68507ef35686860a35cf0ceeac8705db74c26bcba2b3e572ed42ffb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 599500c92b26960b4c411138b099ccff4a4147388740bf80e0ae75fc20d2f43f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:57Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +102,13 @@ REGULAMENTO DAS CASAS DO SERVIÇO SOCIAL DO MINISTÉRIO DA JUSTIÇA
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. As casas adquiridas ou construídas pelo Serviço Social do Ministério da Justiça (S. S. M. J.) serão destinadas exclusivamente a habitação dos seus beneficiários em regime de propriedade resolúvel ou de arrendamento.
+Artigo 1.º - 1. As casas adquiridas ou construídas pelo Serviço Social do Ministério da Justiça (S. S. M. J.) serão destinadas exclusivamente a habitação dos seus beneficiários em regime de propriedade resolúvel ou de arrendamento.
 
 2. Se nos prédios houver também lojas susceptíveis de arrendamento comercial, o respectivo contrato poderá ser celebrado com estranhos aos serviços do Ministério, revertendo a renda a favor do Serviço Social.
 
-###### Art. 2.º A aquisição ou construção de casas a ceder em regime de propriedade horizontal ou de arrendamento será normalmente feita a pedido dos funcionários.
+Art. 2.º A aquisição ou construção de casas a ceder em regime de propriedade horizontal ou de arrendamento será normalmente feita a pedido dos funcionários.
 
-###### Art. 3.º - 1. A atribuição das casas em regime de propriedade resolúvel ou de arrendamento será precedida de um concurso anunciado com a antecedência mínima de quinze dias e far-se-á tendo em consideração, entre outras, as seguintes circunstâncias:
+Art. 3.º - 1. A atribuição das casas em regime de propriedade resolúvel ou de arrendamento será precedida de um concurso anunciado com a antecedência mínima de quinze dias e far-se-á tendo em consideração, entre outras, as seguintes circunstâncias:
 
 a) A qualidade de chefe de família;
 
@@ -122,47 +134,47 @@ i) Cessação do fornecimento de habitação pelo Estado.
 
 4. Na definição do agregado familiar observar-se-á o disposto no artigo 7.º do [Decreto-Lei n.º 47210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47210-1966-480172), de 22 de Setembro de 1966.
 
-###### Art. 4.º Só podem concorrer às casas do S. S. M. J. os beneficiários que prestem serviço na circunscrição judicial em cuja área se situem as habitações ou nas circunscrições vizinhas, no caso de estarem autorizados a residir fora da respectiva circunscrição e não disporem de casa própria ou de casa para habitação fornecida pelo Estado, ou por qualquer organismo oficial, em qualquer das referidas circunscrições.
+Art. 4.º Só podem concorrer às casas do S. S. M. J. os beneficiários que prestem serviço na circunscrição judicial em cuja área se situem as habitações ou nas circunscrições vizinhas, no caso de estarem autorizados a residir fora da respectiva circunscrição e não disporem de casa própria ou de casa para habitação fornecida pelo Estado, ou por qualquer organismo oficial, em qualquer das referidas circunscrições.
 
-###### Art. 5.º Na falta de concorrentes, o S. S. M. J. pode fazer livremente a atribuição a quaisquer beneficiários.
+Art. 5.º Na falta de concorrentes, o S. S. M. J. pode fazer livremente a atribuição a quaisquer beneficiários.
 
-###### Art. 6.º - 1. Os moradores em regime de propriedade resolúvel ou de arrendamento são obrigados a manter o prédio em bom estado de conservação, incumbindo-lhes fazer à sua custa todas as obras interiores de limpeza, reparação e conservação do imóvel, bem como as obras exteriores que por culpa sua se tornem necessárias.
+Art. 6.º - 1. Os moradores em regime de propriedade resolúvel ou de arrendamento são obrigados a manter o prédio em bom estado de conservação, incumbindo-lhes fazer à sua custa todas as obras interiores de limpeza, reparação e conservação do imóvel, bem como as obras exteriores que por culpa sua se tornem necessárias.
 
 2. Nas casas em regime de arrendamento pode o S. S. M. J. assumir, excepcionalmente, o encargo da realização das obras de conservação, quando as repute demasiado onerosas para os respectivos moradores.
 
 3. Se as habitações dispuserem de mobiliário ou outros utensílios, são os seus ocupantes responsáveis pela respectiva conservação.
 
-###### Art. 7.º A exoneração, demissão ou a colocação na situação de licença ilimitada do funcionário importa, no caso de regime de propriedade resolúvel, a imediata reversão do imóvel para o S. S. M. J., tendo, porém, o funcionário direito a receber a diferença entre a importância por ele paga, a título de amortização e juros, e a quantia que ele deveria ter pago, como arrendatário, na base de uma renda de 6 por cento do capital investido.
+Art. 7.º A exoneração, demissão ou a colocação na situação de licença ilimitada do funcionário importa, no caso de regime de propriedade resolúvel, a imediata reversão do imóvel para o S. S. M. J., tendo, porém, o funcionário direito a receber a diferença entre a importância por ele paga, a título de amortização e juros, e a quantia que ele deveria ter pago, como arrendatário, na base de uma renda de 6 por cento do capital investido.
 
-###### Art. 8.º - 1. Às casas destinadas a magistrados judiciais e do Ministério Público, nos termos do Estatuto Judiciário, é aplicável o regime fixado nesse diploma, ficando, porém, o S. S. M. J. constituído nas obrigações impostas às câmaras municipais quanto ao fornecimento do mobiliário.
+Art. 8.º - 1. Às casas destinadas a magistrados judiciais e do Ministério Público, nos termos do Estatuto Judiciário, é aplicável o regime fixado nesse diploma, ficando, porém, o S. S. M. J. constituído nas obrigações impostas às câmaras municipais quanto ao fornecimento do mobiliário.
 
 2. Os magistrados judiciais e do Ministério Público são responsáveis pelos estragos causados no interior da habitação durante a sua ocupação e pela conservação do mobiliário e outros utensílios.
 
-###### Art. 9.º Ficam sujeitas ao regime do presente regulamento as casas já distribuídas a funcionários do Ministério da Justiça.
+Art. 9.º Ficam sujeitas ao regime do presente regulamento as casas já distribuídas a funcionários do Ministério da Justiça.
 
-###### Art. 10.º Os casos omissos serão resolvidos definitivamente por despacho do Ministro da Justiça, sob informação do S. S. M. J.
+Art. 10.º Os casos omissos serão resolvidos definitivamente por despacho do Ministro da Justiça, sob informação do S. S. M. J.
 
 ### CAPÍTULO II — Casas em regime de arrendamento
 
-###### Art. 11.º - 1. O contrato de arrendamento será mensal e não carece de ser reduzido a escrito.
+Art. 11.º - 1. O contrato de arrendamento será mensal e não carece de ser reduzido a escrito.
 
 2. A não ocupação da casa, sem motivo justificado, no prazo que for designado pela direcção do S. S. M. J., é considerada desistência da atribuição.
 
-###### Art. 12.º Na fixação das rendas deverá considerar-se especialmente o interesse social da atribuição de habitações, a capacidade económica dos inquilinos, o custo da casa, a rentabilidade do capital investido, bem como o nível de rendas da localidade.
+Art. 12.º Na fixação das rendas deverá considerar-se especialmente o interesse social da atribuição de habitações, a capacidade económica dos inquilinos, o custo da casa, a rentabilidade do capital investido, bem como o nível de rendas da localidade.
 
-###### Art. 13.º A modificação do quantitativo das rendas apenas é permitida quando o beneficiário, pelo exercício das suas funções oficiais, passe a perceber remuneração diversa da que foi considerada no momento da cedência da casa.
+Art. 13.º A modificação do quantitativo das rendas apenas é permitida quando o beneficiário, pelo exercício das suas funções oficiais, passe a perceber remuneração diversa da que foi considerada no momento da cedência da casa.
 
-###### Art. 14.º - 1. Quando o S. S. M. J. pretenda exercer a faculdade prevista no artigo anterior, deve avisar o arrendatário, por carta registada com aviso de recepção, com, pelo menos, 60 dias de antecedência relativamente à data da entrada em vigor da nova renda.
+Art. 14.º - 1. Quando o S. S. M. J. pretenda exercer a faculdade prevista no artigo anterior, deve avisar o arrendatário, por carta registada com aviso de recepção, com, pelo menos, 60 dias de antecedência relativamente à data da entrada em vigor da nova renda.
 
 2. Se o arrendatário não quiser sujeitar-se ao aumento, deve entregar a casa até à data da entrada em vigor da nova renda, avisando, porém, da sua resolução O S. S. M. J., no prazo de 30 dias, a contar da recepção da carta registada.
 
-###### Art. 15.º - 1. A transmissão do arrendamento verifica-se nos casos admitidos na lei geral, mas apenas a favor do cônjuge não separado judicialmente de pessoas e bens, ou de descendentes menores, ou de descendentes maiores que sofram de incapacidade permanente e total, ou ainda a favor de descendentes estudantes que se encontrem nas condições e limites fixados para a concessão de abono de família.
+Art. 15.º - 1. A transmissão do arrendamento verifica-se nos casos admitidos na lei geral, mas apenas a favor do cônjuge não separado judicialmente de pessoas e bens, ou de descendentes menores, ou de descendentes maiores que sofram de incapacidade permanente e total, ou ainda a favor de descendentes estudantes que se encontrem nas condições e limites fixados para a concessão de abono de família.
 
 2. Quando o cônjuge sobrevivo for do sexo masculino, o benefício da transmissão só lhe será atribuído se demonstrar que estava a cargo do funcionário falecido e enquanto não possa prover à sua própria manutenção.
 
 3. Exceptuam-se do disposto no número anterior as casas cedidas aos magistrados, nos termos do Estatuto Judiciário, sem prejuízo de o S. S. M. J. poder atribuir qualquer casa aos sucessores que teriam direito à transmissão do arrendamento, nos termos do n.º 1, quando exista alguma habitação disponível e a situação económica dos sucessores o justifique.
 
-###### Art. 16.º - 1. Além das indicadas na lei geral, são causas de rescisão do contrato:
+Art. 16.º - 1. Além das indicadas na lei geral, são causas de rescisão do contrato:
 
 a) O facto de o inquilino perder a qualidade de beneficiário do S. S. M. J., por exoneração, demissão ou licença ilimitada ou por lhe ter sido aplicada a pena de aposentação compulsiva por incapacidade moral;
 
@@ -176,24 +188,24 @@ e) O mau comportamento civil ou social do funcionário ou de qualquer membro do 
 
 2. Serão mantidas sem alteração as condições de cedência das habitações que se encontrem arrendadas a beneficiários que passem entretanto à situação de aposentação, desde que esta não tenha resultado de incapacidade moral.
 
-###### Art. 17.º - 1. Verificando-se uma causa de resolução, ao S. S. M. J. incumbirá fixar a data em que o despejo se deve efectuar.
+Art. 17.º - 1. Verificando-se uma causa de resolução, ao S. S. M. J. incumbirá fixar a data em que o despejo se deve efectuar.
 
 2. Se o inquilino, depois de notificado, não despejar o prédio na data indicada, o despejo será executado pelo S. S. M. J., que poderá, para o efeito, requisitar a intervenção da força pública, independentemente do procedimento disciplinar em que incorra o beneficiário.
 
 3. Da deliberação do S. S. M. J. que decrete o despejo há apenas recurso para o Ministro da Justiça, o qual decidirá definitivamente; o recurso será interposto dentro do prazo de oito dias, a contar da notificação para o despejo.
 
-###### Art. 18.º - 1. As casas cedidas por arrendamento podem passar ao regime de propriedade resolúvel, desde que o interessado o solicite e a direcção do S. S. M. J. o aprove.
+Art. 18.º - 1. As casas cedidas por arrendamento podem passar ao regime de propriedade resolúvel, desde que o interessado o solicite e a direcção do S. S. M. J. o aprove.
 
 2. O valor do prédio corresponderá ao capital nele investido ou à despesa que teria de ser efectuada nesse momento para a construção ou aquisição no mesmo local de uma casa de igual tipo, se esta despesa for superior ao referido capital.
 
-###### Art. 19.º As rendas poderão ser pagas por desconto nos vencimentos dos funcionários.
+Art. 19.º As rendas poderão ser pagas por desconto nos vencimentos dos funcionários.
 
 ### CAPÍTULO III — Casas em regime do propriedade resolúvel
 
-###### Art. 20.º Na parte não directamente prevista nos artigos 1.º a 6.º, às casas cedidas sob a forma de propriedade resolúvel é aplicável, com as devidas adaptações, o disposto nos artigos 7.º a 23.º, no artigo 5.º e seu § 2.º do [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960.
+Art. 20.º Na parte não directamente prevista nos artigos 1.º a 6.º, às casas cedidas sob a forma de propriedade resolúvel é aplicável, com as devidas adaptações, o disposto nos artigos 7.º a 23.º, no artigo 5.º e seu § 2.º do [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960.
 
 ### CAPÍTULO IV — Disposições transitórias
 
-###### Art. 21.º A distribuição das casas construídas no Bairro dos Olivais para os magistrados do Ministério Público e para os funcionários de investigação da Polícia Judiciária será feita pela direcção do S. S. M. J., com dispensa do concurso exigido por este regulamento.
+Art. 21.º A distribuição das casas construídas no Bairro dos Olivais para os magistrados do Ministério Público e para os funcionários de investigação da Polícia Judiciária será feita pela direcção do S. S. M. J., com dispensa do concurso exigido por este regulamento.
 
 Ministério da Justiça, 7 de Setembro de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.

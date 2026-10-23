@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/1995/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1995-176554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e418e54813c5cc7d037e27df762787d81b1a4a38cfb5e1b08abf0843adc34d93
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f22ac97094387e66c50bf8608e4184b873442113656722cc27bb912aeb10f64c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:191558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 90º-A, 97º e 101º do Código de Processo Tributário, aprovado pelo Dec Lei 154/91, de 23-Abr,\
+    \ na redacção do presente diploma, pelo DEC LEI.7/96.07.02.1996.MF, DR.IS-A [32] de 07.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
@@ -88,16 +94,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191558:por
+  label: "Revogados os arts. 5º, 15º, 33º, 49º, 84º a 86º, 94º e 90º-A do Código de Processo Tributário aprovado pelo Dec\
+    \ Lei 154/91 de 23-Abr, na redacção do presente diploma, pelo DEC LEI.398/98.1998.12.17.MF, DR.IS-A [290] (sem prejuízo\
+    \ do disposto no nº 2 do art. 3º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1998-191558
+  date: '1998-12-17'
 article_structure:
-  article_count: 48
+  article_count: 47
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:56Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +141,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 47.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos das alíneas a) e b) do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, passa a ter a seguinte redacção:
 
 ###### Artigo 5.º — Regime de revisão da matéria tributável - Opção pelo regime de reclamação
 
@@ -126,7 +151,7 @@ No uso da autorização legislativa concedida pelo artigo 47.º da [Lei n.º 75/
 
 3 - (Anterior n.º 2.)
 
-###### Art. 2.º Os artigos 7.º, 15.º, 25.º, 27.º, 33.º, 49.º, 70.º, 76.º, 84.º a 86.º, 92.º, 94.º, 97.º a 99.º, 101.º, 109.º, 110.º, 130.º, 132.º, 136.º, 144.º, 151.º, 152.º, 166.º, 205.º, 213.º, 237.º, 242.º, 265.º, 266.º, 270.º, 282.º, 296.º, 312.º, 322.º a 327.º e 331.º a 333.º do Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 7.º, 15.º, 25.º, 27.º, 33.º, 49.º, 70.º, 76.º, 84.º a 86.º, 92.º, 94.º, 97.º a 99.º, 101.º, 109.º, 110.º, 130.º, 132.º, 136.º, 144.º, 151.º, 152.º, 166.º, 205.º, 213.º, 237.º, 242.º, 265.º, 266.º, 270.º, 282.º, 296.º, 312.º, 322.º a 327.º e 331.º a 333.º do Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 7.º — [...]
 
@@ -552,7 +577,7 @@ O representante da Fazenda Pública junto do tribunal tributário de 1.ª instâ
 
 2 - No caso de inexistência de anteriores reclamações e havendo mais de um juiz, as certidões de dívida a reclamar nos tribunais pelo representante da Fazenda Pública serão objecto de distribuição entre os juízes.
 
-###### Art. 3.º É aditado o artigo 90.º-A ao Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, com a seguinte redacção:
+Art. 3.º É aditado o artigo 90.º-A ao Código de Processo Tributário, aprovado pelo [Decreto-Lei n.º 154/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1991-594675), de 23 de Abril, com a seguinte redacção:
 
 ###### Artigo 90.º-A — Agravamento da colecta
 
@@ -560,7 +585,7 @@ O representante da Fazenda Pública junto do tribunal tributário de 1.ª instâ
 
 2 - O agravamento só será exigível se o reclamante não vier impugnar a liquidação com os fundamentos do n.º 1 do artigo 84.º, podendo ser objecto de impugnação autónoma nos termos do n.º 2 do artigo 101.º
 
-###### Art. 4.º Para efeitos da aplicação temporal, consideram-se as seguintes disposições especiais:
+Art. 4.º Para efeitos da aplicação temporal, consideram-se as seguintes disposições especiais:
 
 1 - A nova redacção do artigo 7.º do Código de Processo Tributário apenas se aplica aos processos instaurados após a entrada em vigor do presente diploma.
 
@@ -572,18 +597,18 @@ O representante da Fazenda Pública junto do tribunal tributário de 1.ª instâ
 
 5 - O novo prazo de reclamação graciosa previsto no artigo 152.º do Código de Processo Tributário é aplicável às retenções efectuadas antes da entrada em vigor do presente diploma.
 
-###### Art. 5.º O artigo 90.º-A, aditado pelo artigo 3.º do presente diploma, só se aplica às reclamações recebidas após a sua entrada em vigor.
+Art. 5.º O artigo 90.º-A, aditado pelo artigo 3.º do presente diploma, só se aplica às reclamações recebidas após a sua entrada em vigor.
 
-###### Art. 6.º O disposto no artigo 35.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho, não se aplica às matérias reguladas pelas normas do processo tributário.
+Art. 6.º O disposto no artigo 35.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho, não se aplica às matérias reguladas pelas normas do processo tributário.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1994. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 8 de Fevereiro de 1995.**
+Promulgado em 8 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1995.**
+Referendado em 14 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

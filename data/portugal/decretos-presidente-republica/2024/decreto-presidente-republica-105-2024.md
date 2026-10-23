@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/105/2024/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/105-2024-895836359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:49:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbac35f42b8af43fb274371b4e1c7b29175fd16c259a43332db82dd4ca5aaa79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 785e4d9997abc130f2d13399c2e514a75acfe2a6d110ad68d71f794eca26bcf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:49:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Chile
 - Embaixador
 - Nomeação
-- Chile
 - Santiago do Chile
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:49:55Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,18 @@ validation:
 
 de 7 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 2.ª classe Maria Helena de Oliveira Bicho para o cargo de Embaixadora de Portugal em Santiago do Chile.
 
-**Assinado em 2 de outubro de 2024.**
+Assinado em 2 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de outubro de 2024.**
+Referendado em 30 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.**
+O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.
+
+118307291

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24900/0628906290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2014/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2014-65990732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79cd6ba908580414af138c8a7c0fd4c9d5e11538ee4bfe79aeafc7498f17b698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4671b5dd3588b0891f0af2fc3257c4390c0cdf8bf6466e0c707b2110589cd57c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- ASAE
 - Comac
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
 - Definição de Competências
+- Estabelecimento Comercial
 - Fiscalização
-- Projeto de Investimento
 - Inspetor Geral
 - Instalação de Serviços
-- ASAE
+- Multa
 - Prazo
+- Projeto de Investimento
 - Prorrogação de Prazo
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:66229856:por
@@ -88,16 +88,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/21/2009/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/21/2009/01/19/p/dre
+- type: cites
+  target: pt:dre:602685:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66229856:por
+  label: Revogado, a partir de 01.03.2015, o Dec. Lei 21/2009 de 19-jan, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:44Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +158,9 @@ Os artigos 12.º, 16.º e 23.º do [Decreto-Lei n.º 21/2009](https://diariodare
 
 4 - É admitida a participação dos membros nas reuniões da COMAC por recurso a videoconferência ou teleconferência.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A autorização concedida caduca se, no prazo de seis ou oito anos a contar da data da sua emissão, não se verificar a entrada em funcionamento, respetivamente, do estabelecimento de comércio ou do conjunto comercial a que a mesma respeita.
 
@@ -158,7 +170,9 @@ Os artigos 12.º, 16.º e 23.º do [Decreto-Lei n.º 21/2009](https://diariodare
 
 4 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -206,12 +220,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 22 de dezembro de 2014.**
+Promulgado em 22 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de dezembro de 2014.**
+Referendado em 23 de dezembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

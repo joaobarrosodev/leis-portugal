@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/62/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-2007-638540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca8acf877ae63a05c5096e532058cff119db1b32c2a740ad6bb6a173e250c42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ac2cb426b80fffcf59c027050077569a20a55af6cf6b29770ae48f5a97d4d7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,32 @@ reuse:
 subjects:
 - Conselho Consultivo das Obras Públicas Transportes e Comunicações
 - Definição de Competências
-- Secretaria Geral
-- Ministério das Obras Públicas Transportes e Comunicações
 - Gabinete de Planeamento Estratégia e Relações Internacionais
 - Integração de Trabalhadores
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministro das Obras Públicas Transportes e Comunicações
 - Orgânica
 - Presidente
 - Quadro de Pessoal
+- Secretaria Geral
 - Secretário
-- Ministro das Obras Públicas Transportes e Comunicações
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:642012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492395:por
+  label: "Alterado o art. 3º, pelo DR.13/2009.17.07.2009.MOPTC, DR.IS [137] de 17.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2009-492395
+  date: '2009-07-17'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinto o Conselho Consultivo das Obras Públicas, Transportes e Comunicações pelo DEC LEI.126-C/2011.29.12.2011.MEE,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2006/10/27/p/dre
   label: null
@@ -102,16 +113,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/561/1996/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/561/1996/10/09/p/dre
+- type: cites
+  target: pt:dre:170310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677060:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), o artigo 12.º\
+    \ pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:08Z'
   warnings: []
   errors: []
 ---
@@ -304,12 +361,12 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Promulgado em 3 de Abril de 2007.**
+Promulgado em 3 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

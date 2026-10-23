@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12400/41554156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/73/2007/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/73-2007-635830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aa5442b4585142844498a8bb1d43ed32f020d0fdb6f5cbf7fff86804f0b8f9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b47b73a545d08b705f562798dc73985855ecb12f04e1213246597974c2375b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Chefe do Estado Maior do Exército
 - Conselho Superior de Disciplina do Exército
 - Conselho Superior do Exército
 - Definição de Competências
 - Junta Médica de Recurso do Exército
-- Chefe do Estado Maior do Exército
 - Orgânica
 relationships:
 - type: amended_by
@@ -85,16 +85,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/45/1994/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/45/1994/09/02/p/dre
+- type: cites
+  target: pt:dre:658438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667774:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920323:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 11/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/11-2015-69920323
+  date: '2015-07-31'
 article_structure:
   article_count: 7
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:24Z'
   warnings: []
   errors: []
 ---
@@ -201,12 +215,12 @@ A Junta Médica de Recurso do Exército (JMRE) é o órgão consultivo do CEME a
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 7 de Junho de 2007.**
+Promulgado em 7 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Junho de 2007.**
+Referendado em 8 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

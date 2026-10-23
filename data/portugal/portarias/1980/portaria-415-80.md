@@ -46,40 +46,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/415-1980-472337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f78deac6d53f52626b1276e8269dc9283c27d0d84f184d8b6198c140bdf83da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c21e250201d849de81c6c3bfcb0f3282b4b86b46e2af5ef7e82f5cfbf2afc2e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Conselho Superior de Obras Públicas e Transportes
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Gabinete de Organização e Pessoal
+- Gabinete de Planeamento e Controle
+- Ministério da Habitação e Obras Públicas
+- Ministério das Obras Públicas
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA NUMERO 948/80, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 259,\
+    \ DE 8/11/80.\08/11/80.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:622152:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2208278:por
+  label: "Alterado o anexo IV, pela PORT.25/81.1981.01.13.PCM DR.IS [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/25-1981-2208278
+  date: '1981-01-13'
+- type: amended_by
+  target: pt:dre:580317:por
+  label: "Substituído o quadro de pessoal do Gabinete de Planeamento e Controle, constante do anexo VII pela PORT.585/81.10.07.1981.MFP,\
+    \ DR.IS [156] de 10.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/585-1981-580317
+  date: '1981-07-10'
+- type: amended_by
+  target: pt:dre:568504:por
+  label: "Alterado o quadro de pessoal do Conselho Superior de Obras Públicas e Transportes, constante do anexo I, pela PORT.994/81.20.11.1981.MFP,\
+    \ DR.IS [268] de 20.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/994-1981-568504
+  date: '1981-11-20'
+- type: amended_by
+  target: pt:dre:622152:por
+  label: "Alterado o quadro de pessoal pela PORT.9/85.1985.01.04.PCM DR.IS [3] DE 04/JAN/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1985-622152
+  date: '1985-01-04'
+- type: cites
+  target: pt:dre:252196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:55Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +208,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Do ANEXO I ao ANEXO IX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16500/17341737.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16500/17341737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16500/17341737.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2002/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2002-278031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 266c853e6e078cbcc40d60b9c1d3fe0de3e36308826b41e6e93ddab8a776bb1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 457b7edc4c1c216d16a564971c15db53d1ea301cf412c898b49ecd3f5d6b169f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Medicina
-- Médico
-- Ministro da Saúde
-- Plano de Estudos
-- Ensino Médico
-- Faculdade de Medicina
 - Centro de Saúde
-- Licenciatura
 - Ensino
+- Ensino Médico
+- Ensino Superior
 - Estabelecimento de Ensino
 - Estabelecimento Hospitalar
-- Ensino Superior
-- Remuneração
+- Faculdade de Medicina
+- Licenciatura
+- Medicina
+- Médico
 - Ministro da Educação
+- Ministro da Saúde
+- Plano de Estudos
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:480522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480522:por
+  label: "Revogado o art. 3º do presente diploma pelo DEC LEI.206/2004.19.08.2004.MS, DR.IS-A [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2004-480522
+  date: '2004-08-19'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:29Z'
   warnings: []
   errors: []
 ---
@@ -161,12 +174,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Júlio Domingos Pedrosa da Luz de Jesus - António Fernando Correia de Campos - Alberto de Sousa Martins.
 
-**Promulgado em 31 de Janeiro de 2002.**
+Promulgado em 31 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2002.**
+Referendado em 7 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

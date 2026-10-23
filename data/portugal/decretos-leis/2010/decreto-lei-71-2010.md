@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2010/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2010-335466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 793cb31857671de26862e33bf986d86491b8c88d165c95b2e0df1ee7da155f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b713224574bdfb54b81c8c20e8dcbb71c7743c6ada59c9598ca74ff08906ae6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Património
 - Capital Social
+- CMVM
 - Constituição de Sociedade
 - Fundo de Investimento Imobiliário
 - Fundo de Investimento Mobiliário
 - Fundos Próprios
 - Organismo de Investimento Colectivo
+- Património
 - Regime Jurídico
-- CMVM
 - Sociedade de Gestão e Investimento Imobiliário
 - Sociedade Gestora de Fundos de Investimento Mobiliário
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:115740680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475919:por
+  label: "Alterado a partir de 07.09.2013 o art. 199º-L do Regime Geral das Instituições de Crédito e Sociedades Financeiras\
+    \ (RGICSF) aprovado pelo Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterado, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º o art.199.º -L,do Regime Geral
+    das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na
+    redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterado o art. 199.º-L do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec. Lei
+    298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de
+    2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterado o art. 293.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente
+    diploma pelo(a) Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -107,16 +134,41 @@ relationships:
   target: celex:32006L0049
   label: null
   source: http://data.europa.eu/eli/dir/2006/49/oj
+- type: corrected_by
+  target: pt:dre:342838:por
+  label: "Rectificado o nº4 do art. 31º do anexo II [republicação do regime jurídico dos fundos de investimento imobiliário]\
+    \ pela DECL-RECT.24/2010.17.08.2010.PCM, DR.IS [159] de 17.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/24-2010-342838
+  date: '2010-08-17'
+- type: repealed_by
+  target: pt:dre:475919:por
+  label: "Revogado a partir de 07.09.2013 o Dec Lei 252/2003, de 17-out, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: repealed_by
+  target: pt:dre:66581992:por
+  label: Revogado, a partir de 26.03.2015, o regime jurídico dos fundos de investimento imobiliário aprovado pelo Dec.Lei
+    60/2002 de 20-mar, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I
+    de 2015-02-24 sem prejuízo do disposto no n.º 10 do art. 5.º desta lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: repealed_by
+  target: pt:dre:70237676:por
+  label: Revogado, a partir de 01.01.2016 o Dec Lei 225/2008 de 20-nov, na redação do presente diploma, pelo(a) Lei n.º 148/2015
+    - Diário da República n.º 176/2015, Série I de 2015-09-09 sem prejuízo do disposto no n.º 3 do art. 12.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/148-2015-70237676
+  date: '2015-09-09'
 article_structure:
-  article_count: 224
-  section_count: 54
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 190
+  section_count: 52
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:47Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +223,9 @@ Os artigos 4.º, 14.º e 83.º do regime jurídico dos organismos de investiment
 
 3 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 A CMVM pode revogar a autorização do OIC:
 
@@ -185,7 +239,9 @@ d) Nos casos em que a essa autorização tenha sido obtida com recurso a falsas 
 
 e) Quando o OIC deixe de reunir as condições de concessão da autorização.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 Sem prejuízo das competências do Banco de Portugal, compete à CMVM regulamentar o disposto no presente diploma, nomeadamente quanto às seguintes matérias:
 
@@ -251,9 +307,13 @@ cc) Conteúdo do contrato de sociedade das SIM.»
 
 Sociedades de investimento mobiliário
 
-#### SECÇÃO I — Disposições gerais
+SECÇÃO I
 
-###### Artigo 81.º-A — Sociedades de investimento mobiliário
+Disposições gerais
+
+Artigo 81.º-A
+
+Sociedades de investimento mobiliário
 
 1 - A constituição e o funcionamento das instituições de investimento colectivo dotadas de personalidade jurídica a que se refere o n.º 2 do artigo 1.º, adiante designadas 'sociedades de investimento mobiliário', ou abreviadamente SIM, regem-se pelo presente decreto-lei, com as especificidades constantes do presente título.
 
@@ -273,13 +333,17 @@ f) Regime de aquisição tendente ao domínio total.
 
 3 - As SIM são intermediários financeiros, não lhes sendo todavia aplicável o regime consagrado no Código dos Valores Mobiliários para sociedades abertas.
 
-###### Artigo 81.º-B — Denominação e espécie
+Artigo 81.º-B
+
+Denominação e espécie
 
 1 - As SIM adoptam na sua denominação a designação de SICAF ou SICAV, consoante se constituam como SIM de capital fixo ou de capital variável.
 
 2 - Salvo disposição em contrário, as SICAF observam o regime dos fundos de investimento fechados e as SICAV o dos fundos de investimento abertos.
 
-###### Artigo 81.º-C — Acções
+Artigo 81.º-C
+
+Acções
 
 1 - As SIM são divididas em acções nominativas de conteúdo idêntico, representativas do seu capital social, sem valor nominal, sem prejuízo do disposto no artigo 81.º-N.
 
@@ -287,7 +351,9 @@ f) Regime de aquisição tendente ao domínio total.
 
 3 - Às acções das SIM é ainda aplicável, em tudo o que não se mostre incompatível com o regime das unidades de participação, o regime aplicável às acções previsto no Código das Sociedades Comerciais e demais legislação societária.
 
-###### Artigo 81.º-D — Capital social e património
+Artigo 81.º-D
+
+Capital social e património
 
 1 - O capital inicial mínimo das SIM é de (euro) 300 000, podendo ser diferida a realização de 50 % do capital pelo período de um ano desde a respectiva constituição.
 
@@ -301,23 +367,33 @@ f) Regime de aquisição tendente ao domínio total.
 
 6 - Se no prazo de seis meses a sociedade não regularizar a situação, deve proceder-se, caso isso viole o limite mínimo previsto nos n.os 1 e 2, à liquidação da sociedade.
 
-###### Artigo 81.º-E — Fundos próprios
+Artigo 81.º-E
+
+Fundos próprios
 
 Às SIM autogeridas aplica-se, com as devidas adaptações, o disposto no artigo 32.º
 
-#### SECÇÃO II — Acesso e exercício da actividade
+SECÇÃO II
 
-###### Artigo 81.º-F — Autorização e constituição
+Acesso e exercício da actividade
+
+Artigo 81.º-F
+
+Autorização e constituição
 
 1 - A constituição de SIM depende de autorização da CMVM nos termos previstos nos artigos 11.º a 14.º
 
 2 - As SIM consideram-se constituídas na data do registo do respectivo contrato de sociedade.
 
-###### Artigo 81.º-G — Caducidade da autorização
+Artigo 81.º-G
+
+Caducidade da autorização
 
 Sem prejuízo dos fundamentos de caducidade previstos no artigo 13.º, a autorização das SIM caduca se não for utilizada no prazo de 12 meses a contar da data da sua concessão.
 
-###### Artigo 81.º-H — Gestão
+Artigo 81.º-H
+
+Gestão
 
 1 - As SIM podem ser heterogeridas ou autogeridas consoante designem ou não uma terceira entidade para o exercício da respectiva gestão.
 
@@ -353,7 +429,9 @@ l) O prazo máximo em que se verifica o resgate; e
 
 m) As condições para a suspensão das operações de subscrição e resgate de acções.
 
-###### Artigo 81.º-I — Deveres e responsabilidades dos membros dos órgãos de administração e de fiscalização das SIM e das respectivas entidades gestoras
+Artigo 81.º-I
+
+Deveres e responsabilidades dos membros dos órgãos de administração e de fiscalização das SIM e das respectivas entidades gestoras
 
 1 - A gestão de uma SIM autogerida ou, no caso de uma SIM heterogerida, da entidade a quem a gestão haja sido confiada, é exercida no exclusivo interesse dos accionistas.
 
@@ -361,7 +439,9 @@ m) As condições para a suspensão das operações de subscrição e resgate de
 
 3 - No caso de uma SIM total ou parcialmente heterogerida, a entidade a quem tenha sido confiada a gestão bem como os membros dos respectivos órgãos de administração e fiscalização respondem solidariamente com os membros dos órgãos de administração e fiscalização da sociedade de investimento pelos actos mencionados no número anterior.
 
-###### Artigo 81.º-J — Depositário
+Artigo 81.º-J
+
+Depositário
 
 1 - A guarda dos activos de uma SIM deve ser confiada a um depositário, nos termos dos artigos 38.º a 40.º
 
@@ -373,7 +453,9 @@ b) Assegurar que os rendimentos da sociedade são aplicados em conformidade com 
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 38.º, os documentos constitutivos da SIM definem as regras aplicáveis à substituição do depositário, que devem assegurar a protecção dos accionistas.
 
-###### Artigo 81.º-L — Aquisições proibidas por conta das SIM
+Artigo 81.º-L
+
+Aquisições proibidas por conta das SIM
 
 1 - As entidades gestoras não podem, por conta da SIM que gerem, efectuar as seguintes aquisições:
 
@@ -401,11 +483,15 @@ b) Para os quais tenha sido solicitada a admissão à negociação num dos merca
 
 c) Desde que se encontrem já admitidos à negociação valores da mesma espécie, emitidos pela mesma entidade.
 
-###### Artigo 81.º-M — Regulamento de gestão
+Artigo 81.º-M
+
+Regulamento de gestão
 
 As SIM elaboram um regulamento de gestão, ao qual é aplicável, com as devidas adaptações, o disposto no artigo 65.º
 
-###### Artigo 81.º-N — Compartimentos patrimoniais autónomos
+Artigo 81.º-N
+
+Compartimentos patrimoniais autónomos
 
 1 - O contrato de sociedade das SIM pode prever a sua divisão em compartimentos patrimoniais autónomos, nos termos previstos neste decreto-lei e em regulamento a emitir pela CMVM.
 
@@ -419,15 +505,21 @@ As SIM elaboram um regulamento de gestão, ao qual é aplicável, com as devidas
 
 6 - A constituição dos compartimentos depende de autorização prévia simplificada da CMVM, nos termos do artigo 11.º, devendo o pedido de autorização, subscrito pelos promotores da SIM, ser instruído adicionalmente com o projecto de contrato de gestão a celebrar com a entidade gestora, caso aplicável.
 
-###### Artigo 81.º-O — Assembleia de accionistas
+Artigo 81.º-O
+
+Assembleia de accionistas
 
 O disposto nos artigos 23.º e 24.º é aplicável às SICAF, com as necessárias adaptações, sendo-lhes ainda aplicável o disposto no Código das Sociedades Comerciais no que respeita às competências da assembleia geral das sociedades anónimas, salvo quando tais regras se mostrem incompatíveis com a natureza das SIM ou com o disposto naqueles artigos.
 
-###### Artigo 81.º-P — Dissolução
+Artigo 81.º-P
+
+Dissolução
 
 Sem prejuízo do disposto no artigo 19.º, as SIM dissolvem-se ainda nas situações previstas no contrato de sociedade.
 
-###### Artigo 81.º-Q — Liquidação e partilha
+Artigo 81.º-Q
+
+Liquidação e partilha
 
 À liquidação e partilha do património das SIM aplica-se o disposto nos artigos 20.º e 28.º e subsidiariamente as regras de liquidação previstas no Código das Sociedades Comerciais.»
 
@@ -441,7 +533,9 @@ Os artigos 1.º e 60.º do regime jurídico dos fundos de investimento imobiliá
 
 A constituição e o funcionamento dos fundos de investimento imobiliário e das sociedades de investimento imobiliário, bem como a comercialização das respectivas unidades de participação e acções, obedecem ao disposto no presente decreto-lei e, subsidiariamente, ao disposto no Código dos Valores Mobiliários.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 Compete igualmente à CMVM a elaboração dos regulamentos necessários à concretização e ao desenvolvimento do disposto no presente decreto-lei, nomeadamente no que respeita às seguintes matérias:
 
@@ -519,17 +613,23 @@ f) Regime de aquisição tendente ao domínio total.
 
 3 - As SIIMO são intermediários financeiros, não lhes sendo todavia aplicável o regime consagrado no Código dos Valores Mobiliários para sociedades abertas.
 
-###### Artigo 58.º-B — Noção de SIIMO
+Artigo 58.º-B
+
+Noção de SIIMO
 
 As SIIMO são instituições de investimento colectivo dotadas de personalidade jurídica, que assumem a forma de sociedade anónima de capital variável ou fixo, e cujos activos são por elas detidos em regime de propriedade e geridos a título fiduciário, pelas próprias ou por terceira entidade contratada, de modo independente e no exclusivo interesse dos accionistas.
 
-###### Artigo 58.º-C — Denominação e espécie
+Artigo 58.º-C
+
+Denominação e espécie
 
 1 - As SIIMO adoptam na sua denominação a designação de SICAFI ou SICAVI, consoante se constituam como SIIMO de capital fixo ou de capital variável.
 
 2 - Salvo disposição em contrário, as SICAFI observam o regime dos fundos de investimento fechados e as SICAVI o dos fundos de investimento abertos.
 
-###### Artigo 58.º-D — Acções
+Artigo 58.º-D
+
+Acções
 
 1 - As SIIMO são divididas em acções nominativas de conteúdo idêntico, representativas do seu capital social, sem valor nominal.
 
@@ -537,7 +637,9 @@ As SIIMO são instituições de investimento colectivo dotadas de personalidade 
 
 3 - Às acções das SIIMO é ainda aplicável, em tudo o que não se mostre incompatível com o regime das unidades de participação, o regime aplicável às acções previsto no Código das Sociedades Comerciais e demais legislação societária.
 
-###### Artigo 58.º-E — Capital social e património
+Artigo 58.º-E
+
+Capital social e património
 
 1 - O capital inicial mínimo das SIIMO é de (euro) 375 000.
 
@@ -551,21 +653,29 @@ As SIIMO são instituições de investimento colectivo dotadas de personalidade 
 
 6 - Se no prazo de seis meses a sociedade não regularizar a situação, deve proceder-se, caso isso viole o limite mínimo previsto nos n.os 1 e 2, à liquidação da sociedade.
 
-###### Artigo 58.º-F — Fundos próprios
+Artigo 58.º-F
+
+Fundos próprios
 
 Às SIIMO autogeridas aplica-se, com as devidas adaptações, o disposto no artigo 10.º
 
-###### Artigo 58.º-G — Autorização
+Artigo 58.º-G
+
+Autorização
 
 1 - A constituição de SIIMO depende de autorização da CMVM nos termos previstos nos artigos 20.º a 21.º-A.
 
 2 - As SIIMO consideram-se constituídas na data do registo do respectivo contrato de sociedade.
 
-###### Artigo 58.º-H — Caducidade da autorização
+Artigo 58.º-H
+
+Caducidade da autorização
 
 Sem prejuízo do disposto no n.º 7 do artigo 20.º, a autorização das SIIMO caduca se não for utilizada no prazo de 12 meses a contar da data da sua concessão.
 
-###### Artigo 58.º-I — Gestão
+Artigo 58.º-I
+
+Gestão
 
 1 - As SIIMO podem ser heterogeridas ou autogeridas consoante designem ou não uma terceira entidade para o exercício da respectiva gestão.
 
@@ -601,7 +711,9 @@ l) O prazo máximo em que se verifica o resgate; e
 
 m) As condições para a suspensão das operações de subscrição e resgate de acções.
 
-###### Artigo 58.º-J — Deveres e responsabilidades dos membros dos órgãos de administração e de fiscalização das SIIMO e das respectivas entidades gestoras
+Artigo 58.º-J
+
+Deveres e responsabilidades dos membros dos órgãos de administração e de fiscalização das SIIMO e das respectivas entidades gestoras
 
 1 - A gestão de uma SIIMO autogerida ou, no caso de uma SIIMO heterogerida, da entidade a quem a gestão haja sido confiada, é exercida no exclusivo interesse dos accionistas.
 
@@ -609,7 +721,9 @@ m) As condições para a suspensão das operações de subscrição e resgate de
 
 3 - No caso de uma SIIMO total ou parcialmente heterogerida, a entidade a quem tenha sido confiada a gestão, bem como os membros dos respectivos órgãos de administração e fiscalização, respondem solidariamente com os membros dos órgãos de administração e fiscalização da sociedade de investimento pelos actos mencionados no número anterior.
 
-###### Artigo 58.º-L — Depositário
+Artigo 58.º-L
+
+Depositário
 
 1 - A guarda dos activos de uma SIIMO deve ser confiada a um depositário, nos termos dos artigos 12.º e 13.º
 
@@ -621,7 +735,9 @@ b) Assegurar que os rendimentos da sociedade são aplicados em conformidade com 
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 12.º, os documentos constitutivos das SIIMO definem as regras aplicáveis à substituição do depositário, que devem assegurar a protecção dos accionistas.
 
-###### Artigo 58.º-M — Aquisições proibidas por conta das SIIMO
+Artigo 58.º-M
+
+Aquisições proibidas por conta das SIIMO
 
 As entidades gestoras que exerçam a gestão de uma SIIMO não podem, por conta das SIIMO que gerem, efectuar as seguintes aquisições:
 
@@ -631,15 +747,21 @@ b) De quaisquer bens objecto de garantias reais, penhoras ou procedimentos caute
 
 c) De acções da própria SIIMO.
 
-###### Artigo 58.º-N — Regulamento de gestão
+Artigo 58.º-N
+
+Regulamento de gestão
 
 As SIIMO elaboram um regulamento de gestão, ao qual é aplicável, com as devidas adaptações, o disposto no artigo 22.º
 
-###### Artigo 58.º-O — Assembleia de accionistas
+Artigo 58.º-O
+
+Assembleia de accionistas
 
 O disposto no artigo 45.º relativamente às assembleias de participantes de fundos fechados é aplicável às SICAFI, com as necessárias adaptações, sendo-lhes ainda aplicável o disposto no Código das Sociedades Comerciais no que respeita às competências da assembleia geral das sociedades anónimas, salvo quando tais regras se mostrem incompatíveis com a natureza das SIIMO ou com o disposto naqueles regimes jurídicos.
 
-###### Artigo 58.º-P — Liquidação e partilha
+Artigo 58.º-P
+
+Liquidação e partilha
 
 À liquidação e partilha do património das SIIMO aplica-se o disposto nos artigos 33.º a 35.º e subsidiariamente as regras de liquidação previstas no Código das Sociedades Comerciais.»
 
@@ -733,7 +855,9 @@ j) ...
 
 l) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -765,15 +889,15 @@ c) As sociedades de investimento mobiliário e imobiliário.»
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 6 de Maio de 2010.**
+Promulgado em 6 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Maio de 2010.**
+Referendado em 10 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 11.º)
 

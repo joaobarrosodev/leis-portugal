@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09800/0247902485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2017/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65b8d868d7ed9fbb9122c490dca53fd785b6e12d055f8d5bbbba8f06cfe44976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30edb092872e8f510a2bf6b709cfdc642d22fe9e85b20a76f2aed3b50b023500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Família
-- Política de Família
+- Comissão
+- Comissão Executiva
 - Conselho Geral
 - Conselho Nacional para as Políticas de Solidariedade Voluntariado Família Reabilitação e Segurança Social
 - Criação de Serviços
+- Deficiente
 - Definição de Competências
-- Comissão
-- Voluntariado
+- Família
 - Ministério da Solidariedade e da Segurança Social
 - Orgânica
+- Política de Família
 - Segurança Social
-- Comissão Executiva
+- Voluntariado
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Repristinado, desde 23.05.2017, o Dec Lei 389/99 de 30-set DR.IS-A [229], alterado pelo Dec Lei 176/2005 de 25-out
+    e revogado pelo presente diploma, com exceção das normas relativas ao ex-Conselho Superior para a Promoção do Voluntariado,
+    pelo(a) Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da superintendência e tutela conjuntas da Ministra do Trabalho,
+    Solidariedade e Segurança Social e da Ministra Adjunta e dos Assuntos Parlamentares (anteriormente na tutela conjunta
+    com a Ministra de Estado e da Presidência), no que respeita às matérias de demografia e desigualdade, sobre o Conselho
+    Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social (CNPSSS) pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/2006/08/07/p/dre
   label: null
@@ -120,16 +136,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/2000/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/2000/06/23/p/dre
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:46Z'
   warnings: []
   errors: []
 ---
@@ -592,12 +640,12 @@ e) A [Resolução do Conselho de Ministros n.º 50/2000](https://diariodarepubli
 
 Visto e aprovado em Conselho de Ministros de 23 de fevereiro de 2017. - António Luís Santos da Costa - Fernando António Portela Rocha de Andrade - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Cláudia Sofia de Almeida Gaspar Joaquim - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 7 de abril de 2017.**
+Promulgado em 7 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de abril de 2017.**
+Referendado em 20 de abril de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2005/01/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2005-456834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7109effe54e4c07362bc05170714e33ffe6c0b6b785751065472e39743f0e009
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34e4c8a23f45cf4e05e507d58fc3eb6c54db632b669afb8b31d7d12b3726321c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,20 @@ relationships:
   target: pt:dre:66581992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 17º, 20º, 42º e 48º do regime jurídico dos fundos de investimento imobiliário anexo ao Dec Lei\
+    \ 60/2002 de 20-Mar, com as alterações constantes presente diploma, pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl]\
+    \ de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:335466:por
+  label: "Alterado, a partir de 23.06.2010, o art. 60º do regime jurídico dos fundos de investimento imobiliário, aprovado\
+    \ pelo Dec Lei 60/2002, de 20-Mar, na redacção do presente diploma, pelo DEC LEI.71/2010.18.06.2010.MFAP, DR.IS [117]\
+    \ de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2010-335466
+  date: '2010-06-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/252/2003/10/17/p/dre
   label: null
@@ -88,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/60/2002/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/2002/03/20/p/dre
+- type: cites
+  target: pt:dre:263679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:606306:por
+  label: "Rectificado pela DECL-RECT.8/2005.11.02.2005.PCM, DR.IS-A [37] de 22.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-2005-606306
+  date: '2005-02-11'
+- type: repealed_by
+  target: pt:dre:475919:por
+  label: "Revogado a partir de 07.09.2013 o Dec Lei 252/2003, de 17-out, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: repealed_by
+  target: pt:dre:66581992:por
+  label: Revogado, a partir de 26.03.2015, o regime jurídico dos fundos de investimento imobiliário aprovado pelo Dec.Lei
+    60/2002 de 20-mar, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I
+    de 2015-02-24 prejuízo do disposto no n.º 10 do art. 5.º desta lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
 article_structure:
-  article_count: 87
+  article_count: 65
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:05Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +186,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 4 - As sociedades de investimento imobiliário regem-se por legislação especial.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -150,7 +196,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - Sem prejuízo do disposto no artigo 51.º, podem ser previstas em regulamento da Comissão do Mercado de Valores Mobiliários (CMVM) unidades de participação com direitos ou características especiais, designadamente quanto ao grau de preferência no pagamento dos rendimentos periódicos, no reembolso do seu valor, ou no pagamento do saldo de liquidação do respectivo fundo.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -166,11 +214,15 @@ b) Proceder à gestão individual de patrimónios imobiliários em conformidade 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 É vedado aos trabalhadores e aos membros dos órgãos de administração da entidade gestora que exerçam funções de decisão e execução de investimentos exercer quaisquer funções noutra sociedade gestora de fundos de investimento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +244,9 @@ g) ...
 
 h) Controlar e supervisionar as actividades inerentes à gestão dos activos do fundo de investimento, nomeadamente o desenvolvimento dos projectos objecto de promoção imobiliária nas suas respectivas fases.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, os fundos próprios das sociedades gestoras não podem ser inferiores às seguintes percentagens do valor líquido global dos fundos de investimento que administrem:
 
@@ -202,7 +256,9 @@ b) No excedente - 0,1%.
 
 2 - As sociedades gestoras que exerçam a actividade referida na alínea b) do n.º 3 do artigo 6.º ficam ainda sujeitas, no que se refere à sua actividade, às normas prudenciais específicas aplicáveis às sociedades gestoras de patrimónios.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +266,9 @@ b) No excedente - 0,1%.
 
 3 - A CMVM pode regulamentar o disposto no presente artigo, designadamente quanto às condições em que são admitidas as comissões de desempenho e ao destino das receitas ou proveitos pagos à entidade gestora ou a entidades que com ela se encontrem em relação de domínio ou de grupo em consequência directa ou indirecta do exercício da sua actividade.
 
-###### Artigo 17.º — Entidades comercializadoras
+Artigo 17.º
+
+Entidades comercializadoras
 
 1 - As unidades de participação de fundos de investimento são colocadas pelas entidades comercializadoras.
 
@@ -228,7 +286,9 @@ d) Outras entidades como tal previstas em regulamento da CMVM.
 
 4 - As entidades comercializadoras respondem, solidariamente com a entidade gestora, perante os participantes, pelos danos causados no exercício da sua actividade.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A constituição de fundos de investimento está sujeita a autorização da CMVM e depende da apresentação de requerimento subscrito pela sociedade gestora, acompanhado dos projectos do regulamento de gestão, do prospecto e dos contratos a celebrar com o depositário, com as entidades comercializadoras e, sendo o caso, com as entidades referidas no artigo 18.º, bem como dos documentos comprovativos de aceitação de funções de todas as entidades envolvidas na actividade do fundo de investimento.
 
@@ -242,7 +302,9 @@ d) Outras entidades como tal previstas em regulamento da CMVM.
 
 6 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O activo de um fundo de investimento imobiliário pode ser constituído por imóveis e liquidez, sem prejuízo do disposto no n.º 3 e no artigo seguinte.
 
@@ -258,7 +320,9 @@ d) Outras entidades como tal previstas em regulamento da CMVM.
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -274,7 +338,9 @@ c) Aquisição de outros direitos sobre imóveis, nos termos previstos em regula
 
 4 - A CMVM pode definir, por regulamento, as condições e limites em que os fundos de investimento podem utilizar instrumentos financeiros derivados.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -296,7 +362,9 @@ e) Anexos aos documentos referidos nas alíneas b) a d).
 
 5 - (Anterior n.º 7.)
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Os relatórios e contas dos fundos de investimento e os respectivos relatórios do auditor são publicados e enviados à CMVM no prazo de:
 
@@ -318,11 +386,15 @@ b) Dois meses contados do termo do semestre do exercício, para os relatórios s
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 33.º — Fusão, cisão e transformação
+Artigo 33.º
+
+Fusão, cisão e transformação
 
 A CMVM define, por regulamento, as condições e o processo de fusão e cisão de fundos de investimento, bem como de transformação do respectivo tipo.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Quando, em virtude da violação do regulamento de gestão ou das disposições legais e regulamentares que regem os fundos de investimento, os interesses dos participantes e da defesa do mercado o justifiquem, a CMVM pode determinar a liquidação de um fundo de investimento.
 
@@ -330,7 +402,9 @@ A CMVM define, por regulamento, as condições e o processo de fusão e cisão d
 
 3 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -360,7 +434,9 @@ g) O endividamento não pode representar mais de 25% do activo total do fundo de
 
 7 - ...
 
-###### Artigo 42.º — Oferta pública ou particular
+Artigo 42.º
+
+Oferta pública ou particular
 
 1 - ...
 
@@ -372,7 +448,9 @@ g) O endividamento não pode representar mais de 25% do activo total do fundo de
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -394,7 +472,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -408,7 +488,9 @@ d) O endividamento não pode representar mais de 33% do activo total do fundo de
 
 2 - Em caso de aumento de capital do fundo de investimento, os limites definidos na alínea a) do n.º 1 do artigo 38.º devem ser respeitados no prazo de um ano a contar da data do aumento de capital relativamente ao montante do aumento.
 
-###### Artigo 48.º — Fundos de investimento fechados de subscrição particular
+Artigo 48.º
+
+Fundos de investimento fechados de subscrição particular
 
 1 - Aos fundos de investimento fechados objecto de oferta particular cujo número de participantes seja superior a cinco, não sendo estes exclusivamente investidores institucionais, são aplicáveis:
 
@@ -432,17 +514,23 @@ c) O n.º 2 do artigo 27.º e os n.os 3 e 6 do artigo 28.º, desde que obtido o 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 55.º — Composição do património dos fundos de investimento mistos
+Artigo 55.º
+
+Composição do património dos fundos de investimento mistos
 
 Aos fundos de investimento mistos é aplicável o disposto no artigo 38.º, não lhes sendo porém autorizado, sem prejuízo do disposto no artigo 50.º, o recurso ao endividamento.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - A comercialização em Portugal de participações em instituições de investimento colectivo em valores imobiliários com sede no estrangeiro, ou administradas por entidade gestora aí sediada, está sujeita a autorização da CMVM, nos termos definidos em regulamento.
 
 2 - A autorização referida no número anterior é concedida, nomeadamente, se as instituições de investimento colectivo e o modo previsto para a comercialização das respectivas participações conferirem aos participantes condições de segurança e protecção análogas às das instituições domiciliadas em Portugal, desde que verificada a existência de reciprocidade para a comercialização destas últimas no estrangeiro e de memorando de entendimento entre as autoridades de supervisão competentes.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 ...
 
@@ -532,15 +620,15 @@ O regime jurídico dos fundos de investimento imobiliário, aprovado pelo [Decre
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro.
 
-**Promulgado em 23 de Dezembro de 2004.**
+Promulgado em 23 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2004.**
+Referendado em 23 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Regime jurídico dos fundos de investimento imobiliário
 

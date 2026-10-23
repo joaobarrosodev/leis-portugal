@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0004300046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88ff2667401c737198b42f003b1a2e1bd0df1f7d63a560793c66d171cf803792
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ede96aac1a896d62cb5f2e67b55a59e0e88c41669c5f6945dcbbd78ac8e74802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Dívidas à Segurança Social
+- Execução por Dívidas
 - Prazo
 - Prestações da Segurança Social
-- Execução por Dívidas
 - Segurança Social
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:42/2001
+  label: Altera, a partir de 01.02.2024, o artigo 14.º-A do Decreto-Lei n.º 42/2001 de 9 de fevereiro, Diário da República
+    n.º 34/2001, Série I-A
+  source: null
+  date: '2001-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2004/05/13/p/dre
   label: null
@@ -111,16 +117,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122572388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220956295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74843539:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:08Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +257,9 @@ Os artigos 5.º, 7.º, 8.º, 11.º, 13.º, 15.º, 16.º e 17.º do [Decreto-Lei 
 
 7 - A suspensão não é aplicada caso o devedor pretenda proceder aos pagamentos ou caso o devedor tenha património superior ao que a segurança social tenha conhecimento, com exclusão da casa de morada de família.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +277,9 @@ Os artigos 5.º, 7.º, 8.º, 11.º, 13.º, 15.º, 16.º e 17.º do [Decreto-Lei 
 
 8 - A suspensão não é aplicada caso o devedor pretenda proceder aos pagamentos ou caso o devedor tenha património superior ao que a segurança social tenha conhecimento, com exclusão da casa de morada de família.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -217,7 +303,9 @@ b) Um montante mensal igual ao valor do Indexante dos Apoios Sociais (IAS), ou o
 
 9 - A compensação efetua-se nas prestações devidas no mês ou meses seguintes, pela totalidade do montante indevidamente pago, salvo se o remanescente da prestação a pagar for inferior aos montantes previstos nas alíneas a) e b) do n.º 3, consoante os casos, garantindo-se, nessa situação, aqueles montantes.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -225,7 +313,9 @@ b) Um montante mensal igual ao valor do Indexante dos Apoios Sociais (IAS), ou o
 
 3 - As dívidas referentes a prestações por encargos familiares e as prestações que garantam mínimos de subsistência não são passíveis de cobrança coerciva durante o período de concessão, salvo se a sua atribuição resultar de falsas declarações do interessado.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -237,13 +327,17 @@ b) Se verifique que o devedor tem rendimentos mensais inferiores aos montantes p
 
 3 - [...]
 
-###### Artigo 15.º — Anulabilidade dos atos de atribuição das prestações
+Artigo 15.º
+
+Anulabilidade dos atos de atribuição das prestações
 
 1 - Os atos administrativos de atribuição de prestações feridos de ilegalidade são anuláveis nos termos previstos para os atos administrativos constitutivos de direitos, sem prejuízo do disposto no artigo seguinte.
 
 2 - Sem prejuízo da realização de audiência de interessados, tratando-se de atos administrativos de atribuição de prestações continuadas, a verificação da respetiva ilegalidade após a expiração do prazo de anulação determina a imediata cessação da respetiva concessão.
 
-###### Artigo 16.º — Contagem dos prazos de anulação
+Artigo 16.º
+
+Contagem dos prazos de anulação
 
 1 - Os atos administrativos de atribuição de prestações feridos de ilegalidade são anuláveis dentro do prazo de um ano a contar da data da respetiva emissão, ainda que os seus efeitos se reportem a momentos anteriores, ou da data de decisão judicial de que resulte ilegalidade na atribuição da prestação, sem prejuízo do disposto no número seguinte.
 
@@ -255,7 +349,9 @@ b) Em caso de alteração dos elementos declarativos, no âmbito da relação ju
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 17.º — Efeitos da anulação
+Artigo 17.º
+
+Efeitos da anulação
 
 A anulação dos atos administrativos de atribuição de prestações tem como efeito a obrigação de repor, por parte dos beneficiários, os valores das prestações indevidamente recebidas.»
 
@@ -279,12 +375,14 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 23 de novembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 28 de dezembro de 2023.**
+Promulgado em 28 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2023.**
+Referendado em 29 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117211863

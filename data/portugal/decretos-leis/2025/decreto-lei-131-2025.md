@@ -27,9 +27,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce05c9afff58fdc857dab38e7ceb1e800ca2dc44be75b7f360a94a99e33bb2aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bbc61cf4e5ce0d603230f239e716c1e476aa182c4118dab4d52d0a5926e71e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Programa
-- Saúde
-- Saúde Pública
 - Comissão de Coordenação e Desenvolvimento Regional
 - Conselho Diretivo
-- Planeamento
-- Ministro da Economia e da Coesão Territorial
+- Contrato Programa
 - Governo XXV
+- Ministro da Economia e da Coesão Territorial
+- Planeamento
+- Saúde
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:1145969706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:36/2023
+  label: Altera, a partir de 29 de dezembro de 2025, os artigos 3.º, 4.º, 6.º, 8.º, 13.º e 18.º e revoga o n.º 3 do artigo
+    8.º do anexo ao Decreto-Lei n.º 36/2023, de 26 de maio, Diário da República n.º 102/2023, Série I
+  source: null
+  date: '2023-05-26'
+- type: amends
+  target: pt:numero:decreto-lei:87-A/2025
+  label: Altera, a partir de 29 de dezembro de 2025, o artigo 15.º do Decreto-Lei n.º 87-A/2025, de 25 de julho, Diário da
+    República n.º 142/2025, Suplemento, Série I
+  source: null
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2024/12/06/p/dre
   label: null
@@ -102,16 +112,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+- type: cites
+  target: pt:dre:213558633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887091776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899204480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:944410938:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:1005948604:por
+  label: Retificado o n.º 6 do artigo 13.º e a alínea f) do n.º 2 do artigo 18.º pelo(a) Declaração de Retificação n.º 1/2026/1
+    - Diário da República n.º 8/2026, Série I de 2026-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1-2026-1005948604
+  date: '2026-01-13'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:29Z'
   warnings: []
   errors: []
 ---
@@ -240,7 +276,9 @@ g) [...]
 
 h) Participar no planeamento das políticas públicas na área da saúde, nomeadamente no planeamento regional de programas e planos de saúde pública, dos grandes investimentos em infraestruturas e em equipamentos médicos pesados, e nas iniciativas transfronteiriças na área da saúde.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -316,7 +354,9 @@ hh) [Anterior alínea y).]
 
 3 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -330,7 +370,9 @@ hh) [Anterior alínea y).]
 
 6 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -338,7 +380,9 @@ hh) [Anterior alínea y).]
 
 3 - (Revogado.)
 
-###### Artigo 13.º — Designação dos membros do conselho diretivo
+Artigo 13.º
+
+Designação dos membros do conselho diretivo
 
 1 - [...]
 
@@ -358,7 +402,9 @@ hh) [Anterior alínea y).]
 
 9 - O presidente identifica qual o vice-presidente que o substitui nas suas faltas e impedimentos.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -402,12 +448,14 @@ e) A prática de comportamentos pessoais ou funcionais ofensivos da honra e da d
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2025. - Luís Montenegro - Hélder Manuel Gomes dos Reis - Fernando Alexandre - Ana Paula Martins - Maria da Graça Carvalho - Margarida Balseiro Lopes - Rui Miguel Ladeira Pereira.
 
-**Promulgado em 11 de dezembro de 2025.**
+Promulgado em 11 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de dezembro de 2025.**
+Referendado em 15 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119919792

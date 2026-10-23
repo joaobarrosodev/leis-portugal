@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/129/1999/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/129-1999-534595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a5c6c896c18d8dee242025e4116cfb2d1e5996506d06013882786b06da52177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c050b5d8a185c8ba6706004a6931ac41992d65d38eac3b6ce250dbd47c0cad84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Supervisora Comum
+- Bruxelas
 - CE Países
+- Comité para o Sistema de Informação Aduaneira
 - Comunidade Europeia
+- Confidencialidade
 - Controlo Aduaneiro
 - Convenção
 - Cooperação Aduaneira
-- Portugal
 - Informática
-- Segurança da Informação
 - Política Aduaneira
-- Confidencialidade
+- Portugal
+- Segurança da Informação
 - Sistema de Informação Aduaneira
-- Autoridade Supervisora Comum
-- Comité para o Sistema de Informação Aduaneira
 - Tratado da União Europeia
-- Bruxelas
 - Tribunal de Justiça CE
 relationships:
 - type: amended_by
   target: pt:dre:493977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493977:por
+  label: "Aprovado o Protocolo Estabelecido ao Abrigo do artigo 34.º do Tratado da União Europeia Que Altera, no Que Se Refere\
+    \ à Criação de Um Ficheiro de Identificação dos Processos de Inquérito Aduaneiro, a Convenção sobre a Utilização da Informática\
+    \ no Domínio Aduaneiro, aprovada para ratificação pela Res 32/99 de 21-Abr da AR, e ratificada no presente diploma, pela\
+    \ RES.67/2009.05.08.2009.AR, DR.IS [150] de 05.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/67-2009-493977
+  date: '2009-08-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/32/1999/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/32/1999/04/21/p/dre
+- type: cites
+  target: pt:dre:534591:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:42Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +121,7 @@ validation:
 
 de 21 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -123,12 +135,12 @@ de 21 de Abril
 
 Portugal, por ocasião da assinatura do Protocolo referido no artigo 2.º, declarou aceitar a competência do Tribunal de Justiça das Comunidades Europeias de acordo com as regras previstas na alínea a) do n.º 2 do artigo 2.º do Protocolo.
 
-**Assinado em 7 de Abril de 1999.**
+Assinado em 7 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

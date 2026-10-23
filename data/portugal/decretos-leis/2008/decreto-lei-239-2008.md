@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/2008/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2008-444196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dd4b566925656e713c67df4241ac6cbdc17eb8b74971260bd523dbe8e9d97f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11321566271290cfd54d2c80e823a1b0309519c11b7821e6635c0d65941032b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,32 @@ reuse:
 subjects:
 - Aeroporto
 - Aproximação das Legislações
-- Formação Profissional
+- Aviação Civil
 - Classificação de Aeroportos
 - Companhia Aérea
 - Contra-ordenação
-- Instituto Nacional de Aviação Civil
 - Fiscalização
+- Formação Profissional
 - Impresso
+- Instituto Nacional de Aviação Civil
+- Normalização
 - Normas de Segurança
 - Países Terceiros
 - Pessoal de Inspecção
-- Aviação Civil
 - Segurança Aérea
 - Tráfego Aéreo
-- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:179003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179003:por
+  label: "Dada nova redacção aos arts. 3º e 5º e alterados os anexos I, IV, V e VI (que passam a constituir, respectivamente,\
+    \ os anexos I, II, III, e IV) do Dec Lei 40/2006 de 21-fev, alterado pelo presente diploma, pelo DEC LEI.183/2012.07.08.2012.MEE,\
+    \ DR.IS [152] de 07.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2012-179003
+  date: '2012-08-07'
 - type: cites
   target: celex:32002R1592
   label: null
@@ -118,15 +125,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2008/351/oj
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:17Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +180,9 @@ c) 'Inspecção de placa' a inspecção das aeronaves de países terceiros nos t
 
 d) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +200,9 @@ d) ...
 
 8 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -199,7 +210,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +224,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 11.º — Processamento das contra-ordenações
+Artigo 11.º
+
+Processamento das contra-ordenações
 
 1 - Compete ao INAC, I. P., nos termos do Decreto-Lei n.º 145/2007, de 27 de Abril, instaurar e instruir os processos de contra-ordenação, bem como proceder à aplicação das coimas.
 
@@ -227,15 +242,15 @@ São revogados o artigo 9.º e os anexos ii e iii do Decreto-Lei n.º 40/2006, d
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 21 de Novembro de 2008.**
+Promulgado em 21 de Novembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Novembro de 2008.**
+Referendado em 26 de Novembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -377,8 +392,8 @@ d) Classe 3d - proibição imediata de operação: o Governo, através do minist
 
 ## ANEXO V — Relatório da inspecção de placa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0878508790.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0878508790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0878508790.pdf)
 
 ## ANEXO VI — Formulário do certificado de inspecção de placa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/24100/0878508790.pdf))](https://files.diariodarepublica.pt/1s/2008/12/24100/0878508790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/24100/0878508790.pdf)

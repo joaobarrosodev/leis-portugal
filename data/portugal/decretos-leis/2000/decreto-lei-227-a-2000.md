@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 209/2000, 1º Suplemento, Série I-A de 2000-09-09
   number: '209'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4802-(2) a 4802-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/209a01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227-a/2000/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-a-2000-153116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fb8e4357c5df6d86e2563012f54c5c63533b4f8b48303101312c7535ec0fbe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e60577d7f17b1e08b6ea9dcffdc1bee1ed1a448a7f86c8f25adb3219787eb542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Bolsa de Valores
 - Capital Social
 - Delegação de Competências
-- Portugal Telecom
 - Ministro das Finanças
 - OPV
 - Partest
 - Participação do Estado
+- Portugal Telecom
 - Privatização
 - Venda Directa
 relationships:
@@ -81,6 +81,11 @@ relationships:
   target: pt:dre:669513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508460:por
+  label: "Alterado o art. 2.º, pelo DEC LEI.268-A/2000.2000.10.26.MF DR.IS-A [248]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-a-2000-508460
+  date: '2000-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre
   label: null
@@ -117,16 +122,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/75-a/1996/05/24/p/dre
+- type: cites
+  target: pt:dre:188691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663970:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669513:por
+  label: "Revogado o nº 8 do art. 14º pelo DEC LEI.90/2011.25.07.2011.MF, DR.IS [141] de 25.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2011-669513
+  date: '2011-07-25'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:20Z'
   warnings: []
   errors: []
 ---
@@ -411,12 +485,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2000. - António Manuel de Oliveira Guterres - Luís Manuel Ferreira Parreirão Gonçalves - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
 
-**Promulgado em 6 de Setembro de 2000.**
+Promulgado em 6 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Setembro de 2000.**
+Referendado em 7 de Setembro de 2000.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro de Estado e dos Negócios Estrangeiros, Jaime José Matos da Gama.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00500/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2021/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c15001c716472d27944f0d13e7130ffcd398bb48e6ab0f9cffdd28d4b404437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cdba02e2c38cebde6eeb1629fc85a9f5de871335253d1aa6a18dd6747d49876
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - ADSE
 - Beneficiário
+- Casamento
 - Contrato de Trabalho a Termo
 - Contrato Individual de Trabalho
 - Empresa Pública
+- Ensino Superior
 - Pagamento de Contribuições
 - Pensão de Aposentação
 - Proteção Social
-- Ensino Superior
-- Casamento
-- União de Facto
 - Trabalhador com Contrato de Trabalho em Funções Públicas
+- União de Facto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2013/07
@@ -119,16 +119,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:31Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +271,9 @@ c) As instituições de ensino superior públicas, independentemente da sua form
 
 10 - As entidades de natureza jurídica pública a que se refere o n.º 3 são identificadas em lista elaborada pelo Conselho Diretivo da ADSE a publicar no respetivo sítio na Internet, homologada pelos membros do Governo responsáveis pela área das finanças e pela área que tutela a ADSE.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -213,7 +291,9 @@ e) Cessação do contrato individual de trabalho, sem prejuízo do disposto no n
 
 3 - [...]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - As pensões de aposentação e de reforma dos beneficiários titulares, quando o seu montante for superior a (euro) 635,00, ficam sujeitas ao desconto de 3,50 %.
 
@@ -251,12 +331,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 30 de dezembro de 2020.**
+Promulgado em 30 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de janeiro de 2021.**
+Referendado em 4 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113861136

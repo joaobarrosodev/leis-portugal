@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/1998/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1998-218954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4af6a8c0fde9ef54dcaf608ba7faaf8f7b6990025de6896bd66a7c7a85bb5ff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e86a3e537f4c233cce57edbdb76f53f80bd891fd88fb2d52644ecf7ba1e7ddf3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,51 @@ subjects:
 - Contrato de Trabalho a Termo
 - Estatuto
 - Política de Saúde
-- Serviço Nacional de Saúde
 - Recrutamento de Pessoal
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:569685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521598:por
+  label: "Alterados os arts. 18º e 18º-A do Estatuto aprovado pelo Dec Lei 11/93 de 15-Jan DR.IS-A [12] (na redacção do presente\
+    \ diploma), pelo DEC LEI.68/2000.2000.04.26.MS, DR.IS-A [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2000-521598
+  date: '2000-04-26'
+- type: amended_by
+  target: pt:dre:569685:por
+  label: "Alterado o artigo 18.º-A do Estatuto, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, com as alterações introduzidas\
+    \ no presente diploma, pelo DEC LEI.276-A/2007.31.07.2007.MS, DR.IS [146]Supl de 31.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-a-2007-569685
+  date: '2007-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:03Z'
   warnings: []
   errors: []
 ---
@@ -164,12 +188,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1998. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 19 de Fevereiro de 1998.**
+Promulgado em 19 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 1998.**
+Referendado em 3 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

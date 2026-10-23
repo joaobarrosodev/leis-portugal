@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-1981-394744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:44:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a709e35d1fd6f43e7c2512433e546e9d97c90bbbc8791217fe8e41625f84124f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6106c01dbaaa64160ae92e76cdedb33de7d4f0da0032c265a8cb2be8162afe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:44:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Bebidas
+- Margens de Comercialização
+- Política de Preços
+- Preço Livre
 relationships:
 - type: amended_by
   target: pt:dre:235350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:235350:por
+  label: "Revogada pela PORT.357-A/82.06.04.1982.MACP, DR.IS [80]Supl de 06.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-a-1982-235350
+  date: '1982-04-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:44:21Z'
   warnings: []
   errors: []
 ---
@@ -150,13 +183,13 @@ QUADRO II
 
 Serviços sujeitos ao regime de preços a que se refere o n.º 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf))](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf)
 
 QUADRO III
 
 Estabelecimentos a que se aplica o n.º 1.º e 2.º (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf))](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf)
 
 (nota a) Nos estabelecimentos em que funcionem unidades de diferente classificação serão aplicados os regimes de preços que correspondam à classificação ou categoria de cada uma dessas unidades.
 
@@ -164,6 +197,6 @@ QUADRO IV
 
 Estabelecimentos similares dos hoteleiros a que se refere a alínea a) do n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf))](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/09900/10161017.pdf)
 
-**O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.**
+O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 302/1977, 9º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 3178-(119) a 3178-(121)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30209/01190121.pdf
 entry_into_force_dates: []
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-1977-404549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6213695a4454632cebe9d42527b09c31cf2c7831170a15ded86cd941b38f872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef47c6354f9a496774196f20f3b4514b66e43e9a9cad9cf4bb9b19f5e420c67c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abastecimento
+- Direcção Geral do Comércio Externo
+- Importação
+- Mercadoria
+relationships:
+- type: cites
+  target: pt:dre:201864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509029:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:295817:por
+  label: Retificada a lista anexa pelo(a) Declaração - Diário da República n.º 105/1978, Série I de 1978-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-295817
+  date: '1978-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:41Z'
   warnings: []
   errors: []
 ---
@@ -211,4 +228,4 @@ Veículos de rodas para recreio de crianças, tais como velocípedes, trotinette
 
 Outros brinquedos; modelos reduzidos para recreio ... 22500
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

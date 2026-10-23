@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/043a00/09920994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/1999/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1999-158446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a647e40bf92e0d224660f6b790fb053c6055388819cc80d03fc260af0ff7454b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84620aa472595636fc7ba7d316cee259119decc99394c7e23ef7b726a0ca8f50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Técnico
+- Criação de Emprego
+- Desempregado
+- Desemprego
+- Estágio de Formação
 - Financiamento
 - Formação Profissional
-- Desempregado
 - Jovem
-- Criação de Emprego
 - Medida Rotação Emprego-formação
-- Desemprego
-- Qualificação Profissional
-- Estágio de Formação
 - Política de Emprego
+- Qualificação Profissional
 - Subsídio de Desemprego
 - Trabalhador Substituto
 relationships:
@@ -95,16 +95,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/247/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/247/1995/03/29/p/dre
+- type: cites
+  target: pt:dre:173696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325237:por
+  label: Revogado a partir de 31.01.2015 pelo(a) Decreto-Lei n.º 13/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2015-66325237
+  date: '2015-01-26'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:13Z'
   warnings: []
   errors: []
 ---
@@ -273,12 +294,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 10 de Fevereiro de 1999.**
+Promulgado em 10 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Fevereiro de 1999.**
+Referendado em 11 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

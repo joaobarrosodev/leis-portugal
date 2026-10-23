@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/2013/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2013-504161
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c819463962fbbbc478263d18e8d4b3184b70e65813b80b4a395cfaab174e9d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57c37dc182feaaedfbe065c7ee1a380c9f39dc12426220cc1e4c2894f1784a78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Concorrência
 - Contrato de Concessão
 - CTT
 - Definição de Competências
-- Concorrência
 - Instituto das Comunicações de Portugal
 - Preço
-- Serviço Público
 - REDE Postal
 - REDE Postal Pública
 - Serviço Postal Universal
+- Serviço Público
 relationships:
 - type: cites
   target: celex:31997L0067
@@ -96,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/17/2012/04/26/p/dre
 article_structure:
-  article_count: 10
+  article_count: 8
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:26Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +153,9 @@ Os artigos 13.º, 14.º e 35.º da Lei n.º 17/2012, de 26 de abril, passam a te
 
 6 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -179,7 +181,9 @@ c) [...];
 
 d) Determinar a alteração dos preços dos serviços postais que integram a oferta do serviço universal, bem como a alteração ou eliminação das condições associadas aos preços, devidamente fundamentada em termos do cumprimento dos princípios previstos no n.º 1, tendo em conta a qualidade do serviço prestado, na medida em que tal seja necessário para promover a concorrência ou defender os direitos e interesses dos utilizadores.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -217,7 +221,9 @@ j) Postos de correios, estabelecimentos de entidades públicas ou particulares o
 
 2 - São aplicáveis nas presentes bases as definições e classificações constantes da Lei n.º 17/2012, de 26 de abril.
 
-###### Base II — Objeto e âmbito da concessão
+Base II
+
+Objeto e âmbito da concessão
 
 1 - [...]:
 
@@ -237,7 +243,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 4 - Para além do disposto no n.º 1, pode o concedente, por razões de interesse público, cometer à concessionária a exploração de outros serviços, mediante condições a acordar entre ambas as partes, que ficam integrados em aditamento ao contrato de concessão, precedido da correspondente alteração às presentes bases da concessão.
 
-###### Base V — Rede postal afeta à concessão
+Base V
+
+Rede postal afeta à concessão
 
 1 - A concessionária obriga-se a afetar à concessão o conjunto de meios humanos e materiais necessários à prestação do serviço postal universal e dos demais serviços e atividades integrados no objeto da concessão, incluindo, designadamente, os existentes nas suas unidades operativas.
 
@@ -245,7 +253,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 3 - [Revogado].
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - O contrato de concessão é válido até 31 de dezembro de 2020.
 
@@ -261,7 +271,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 7 - [Revogado].
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 1 - Para além dos serviços concessionados, pode a concessionária, em Portugal e no estrangeiro, prestar outros serviços postais, nos termos do n.º 8 do artigo 57.º da Lei n.º 17/2012, de 26 de abril, bem como exercer quaisquer outras atividades, designadamente as que permitam a rentabilização da rede do serviço universal, diretamente ou através da constituição ou participação em sociedades ou em outras formas jurídicas de cooperação entre empresas.
 
@@ -269,7 +281,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 3 - A prestação dos serviços e o exercício das atividades a que se referem os números anteriores não podem afetar o cumprimento pela concessionária das obrigações constantes do contrato de concessão e, quando seja o caso, regem-se pelos respetivos títulos habilitantes e demais legislação e regulamentação aplicável aos serviços e atividades em questão.
 
-###### Base VIII — [...]
+Base VIII
+
+[...]
 
 1 - [...]:
 
@@ -305,7 +319,9 @@ n) Cumprir obrigações inerentes à prestação do serviço postal universal qu
 
 3 - Os trabalhadores e outros colaboradores da concessionária ficam obrigados a não revelar o conteúdo dos envios postais ou outras informações de que, por causa do exercício das suas funções, fiquem conhecedores, exceto nos casos legalmente admitidos.
 
-###### Base IX — Obrigações específicas no âmbito da rede postal
+Base IX
+
+Obrigações específicas no âmbito da rede postal
 
 1 - Constituem obrigações da concessionária no tocante à rede postal afeta à concessão:
 
@@ -321,7 +337,9 @@ a) Assegurar aos outros prestadores de serviços postais o acesso, em condiçõe
 
 b) Disponibilizar aos outros prestadores de serviços postais o acesso a elementos da sua infraestrutura postal ou a serviços por si prestados, nos termos do artigo 39.º da Lei n.º 17/2012, de 26 de abril.
 
-###### Base X — Obrigações específicas no âmbito dos serviços concessionados
+Base X
+
+Obrigações específicas no âmbito dos serviços concessionados
 
 1 - Constituem obrigações específicas da concessionária no domínio da prestação dos serviços de envios postais incluídos no âmbito do serviço postal universal, referido na alínea a) do n.º 1 da base II:
 
@@ -339,13 +357,17 @@ b) Devem respeitar as regras processuais relativas à citação e notificação 
 
 4 - [Revogado].
 
-###### Base XII — [...]
+Base XII
+
+[...]
 
 1 - A concessionária obriga-se a prestar os serviços que integram o serviço universal de acordo com os parâmetros de qualidade de serviço e os objetivos de desempenho fixados pelo ICP-ANACOM, nos termos do n.º 1 do artigo 13.º da Lei n.º 17/2012, de 26 de abril.
 
 2 - Sem prejuízo das sanções aplicáveis, em caso de incumprimento dos objetivos de desempenho fixados nos termos do n.º 1 do artigo 13.º da Lei n.º 17/2012, de 26 de abril, o ICP-ANACOM deve aplicar mecanismos de compensação destinados aos utilizadores do serviço universal, nos termos do artigo 47.º da Lei n.º 17/2012, de 26 de abril.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - A concessionária obriga-se a dispor de um sistema de contabilidade anual analítica, nos termos do disposto nos artigos 15.º e 16.º da Lei n.º 17/2012, de 26 de abril.
 
@@ -353,7 +375,9 @@ b) Devem respeitar as regras processuais relativas à citação e notificação 
 
 3 - [Revogado].
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - A concessionária obriga-se a elaborar e manter atualizado o inventário do património imobiliário e dos bens móveis afetos à concessão cujo valor de aquisição seja superior ao montante definido pelo ICP-ANACOM nos termos das regras referidas no n.º 4.
 
@@ -371,7 +395,9 @@ b) Devem respeitar as regras processuais relativas à citação e notificação 
 
 8 - Os bens do domínio público e privado do Estado afetos à concessão regem-se pela legislação que lhes é especificamente aplicável, nomeadamente pelo regime jurídico de gestão do património imobiliário do domínio público do Estado, das Regiões Autónomas e das autarquias locais e pelo regime jurídico da gestão dos bens imóveis do domínio privado do Estado e dos institutos públicos, previstos na lei, nomeadamente em matéria de inventário.
 
-###### Base XV — Objetivos de densidade da rede postal e de ofertas mínimas de serviços
+Base XV
+
+Objetivos de densidade da rede postal e de ofertas mínimas de serviços
 
 1 - Compete à concessionária comunicar ao ICP-ANACOM:
 
@@ -401,7 +427,9 @@ d) Evolução do tráfego e da procura.
 
 8 - Na fixação dos objetivos de densidade da rede postal e de ofertas mínimas de serviços devem ser tidos em consideração os princípios constantes da Lei n.º 17/2012, de 26 de abril, nomeadamente aqueles a que se referem as alíneas a) e b) do n.º 2 do artigo 2.º da referida lei, no sentido de assegurar a existência, disponibilidade, acessibilidade e qualidade da prestação do serviço universal, bem como a sua sustentabilidade e viabilidade económico-financeira.
 
-###### Base XVII — [...]
+Base XVII
+
+[...]
 
 1 - A fiscalização da concessão, incluindo a fiscalização da rede postal afeta à concessão, cabe ao membro do Governo responsável pela área das finanças, para as questões financeiras, e nas demais questões ao membro do Governo responsável pela área das comunicações, coadjuvado pelo ICP-ANACOM, e, individualmente, ao ICP-ANACOM, no âmbito das suas atribuições.
 
@@ -415,7 +443,9 @@ d) Evolução do tráfego e da procura.
 
 6 - Quando a concessionária não tenha respeitado determinações emitidas pelo ICP- ANACOM no âmbito dos seus poderes de fiscalização, assiste a este a faculdade de proceder à correção da situação, diretamente ou através de terceiro, correndo os correspondentes custos por conta da concessionária, sem prejuízo das sanções aplicáveis.
 
-###### Base XX — [...]
+Base XX
+
+[...]
 
 1 - A concessionária não pode, sem autorização do concedente, tomar qualquer deliberação social que, direta ou indiretamente, tenha por fim ou possa levar a uma das seguintes situações:
 
@@ -439,7 +469,9 @@ b) [...].
 
 4 - [Revogado].
 
-###### Base XXII — [...]
+Base XXII
+
+[...]
 
 1 - [...].
 
@@ -453,7 +485,9 @@ c) [...].
 
 3 - [...].
 
-###### Base XXIII — [...]
+Base XXIII
+
+[...]
 
 1 - [...].
 
@@ -467,7 +501,9 @@ c) Proceder, de acordo com a lei e nos termos do disposto no regime jurídico da
 
 d) Requerer ao membro do Governo responsável pela área das comunicações as expropriações por utilidade pública, requerer a constituição de servidões administrativas, estabelecer zonas de proteção e aceder a terrenos e edifícios públicos, sempre que tal se mostre necessário à exploração dos serviços concessionados e com observância da legislação em vigor.
 
-###### Base XXIV — Regime de preços do serviço universal
+Base XXIV
+
+Regime de preços do serviço universal
 
 1 - A concessionária obriga-se a fixar os preços dos serviços que integram o serviço universal de acordo com o disposto nos artigos 14.º e 14.º-A da Lei n.º 17/2012, de 26 de abril.
 
@@ -481,7 +517,9 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 6 - [Revogado].
 
-###### Base XXV — [...]
+Base XXV
+
+[...]
 
 1 - [...].
 
@@ -489,13 +527,17 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 3 - A concessionária deve comunicar ao ICP-ANACOM os acordos a que alude o número anterior no prazo de 30 dias úteis a contar da sua celebração.
 
-###### Base XXVI — Compensação e financiamento do serviço universal
+Base XXVI
+
+Compensação e financiamento do serviço universal
 
 1 - A concessionária tem direito à compensação do custo líquido do serviço universal nos termos do disposto nos artigos 18.º e 19.º da Lei n.º 17/2012, de 26 de abril.
 
 2 - Verificada a existência de um custo líquido do serviço universal que seja considerado um encargo financeiro não razoável pelo ICP-ANACOM, este é compensado através do fundo de compensação previsto nos artigos 20.º a 22.º da Lei n.º 17/2012, de 26 de abril.
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - Sem prejuízo das situações de incumprimento que podem dar origem a sequestro ou rescisão da concessão nos termos das bases XXIX e XXXIV, o incumprimento pela concessionária das obrigações emergentes da concessão, das determinações do concedente emitidas nos termos da lei ou do contrato de concessão e das determinações do ICP-ANACOM emitidas nos termos do n.º 4 da base XVII, determina a aplicação de multas contratuais até ao montante de (euro) 565 000, atualizado anualmente pelo índice de preços no consumidor, consoante a gravidade das infrações cometidas e dos prejuízos delas resultantes, bem como o grau de culpa da concessionária.
 
@@ -507,7 +549,9 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 5 - O pagamento das multas aplicadas nos termos da presente base não isenta a concessionária da responsabilidade civil por perdas e danos resultantes da infração.
 
-###### Base XXIX — [...]
+Base XXIX
+
+[...]
 
 1 - [...].
 
@@ -527,13 +571,17 @@ c) Deficiências no estado geral das instalações e equipamentos da rede postal
 
 6 - [...].
 
-###### Base XXXI — [...]
+Base XXXI
+
+[...]
 
 1 - Sem prejuízo do disposto na alínea k) do n.º 1 da base VIII e da base anterior, em caso de guerra ou de crise, o concedente, através do membro do Governo responsável pela área das comunicações, reserva-se o direito de gerir e explorar os serviços objeto de concessão.
 
 2 - [...].
 
-###### Base XXXIV — [...]
+Base XXXIV
+
+[...]
 
 1 - [...]:
 
@@ -559,7 +607,9 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 5 - [...].
 
-###### Base XXXV — [...]
+Base XXXV
+
+[...]
 
 1 - [...].
 
@@ -569,7 +619,9 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 4 - [Revogado].
 
-###### Base XXXVI — [...]
+Base XXXVI
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 5 da base XXXIV, em caso de extinção da concessão, por qualquer uma das formas previstas na lei, revertem gratuita e automaticamente para o concedente os bens dos domínios público e privado do Estado, obrigando-se a concessionária a entregá-los em perfeitas condições de funcionamento, conservação e segurança, sem prejuízo do normal desgaste resultante da sua utilização, e livres de quaisquer ónus ou encargos, não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
 
@@ -577,13 +629,17 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 3 - [...].
 
-###### Base XXXVII — Processo de resolução de litígios
+Base XXXVII
+
+Processo de resolução de litígios
 
 1 - Os eventuais litígios que possam surgir entre as partes em matéria de aplicação, interpretação ou integração de lacunas do contrato de concessão são resolvidos por recurso a um tribunal arbitral, nos termos previstos na base seguinte.
 
 2 - A submissão de qualquer questão ao processo de resolução de litígios não exonera a concessionária do pontual cumprimento das disposições das presentes bases e das determinações do concedente ou do ICP-ANACOM que no seu âmbito lhe sejam comunicadas, incluindo as emitidas após a data daquela submissão, nem permite qualquer interrupção do desenvolvimento das atividades objeto da concessão, que devem continuar a processar-se nos termos em vigor à data da submissão da questão, até que uma decisão final seja obtida no processo de resolução de litígios relativamente à matéria em causa.
 
-###### Base XXXVIII — [...]
+Base XXXVIII
+
+[...]
 
 1 - [...].
 
@@ -643,15 +699,15 @@ São republicadas no anexo ao presente decreto-lei, do qual fazem parte integran
 
 Visto e aprovado em Conselho de Ministros de 3 de outubro de 2013. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima.
 
-**Promulgado em 14 de novembro de 2013.**
+Promulgado em 14 de novembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de novembro de 2013.**
+Referendado em 15 de novembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -659,7 +715,9 @@ Republicação das Bases da concessão do serviço postal universal
 
 #### SECÇÃO I — Definições
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Para efeitos do disposto nas presentes bases, entende-se por:
 
@@ -687,7 +745,9 @@ j) Postos de correios, estabelecimentos de entidades públicas ou particulares o
 
 #### SECÇÃO II — Objeto e âmbito da concessão
 
-###### Base II — Objeto e âmbito da concessão
+Base II
+
+Objeto e âmbito da concessão
 
 1 - A concessão tem por objeto:
 
@@ -707,11 +767,17 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 4 - Para além do disposto no n.º 1, pode o concedente, por razões de interesse público, cometer à concessionária a exploração de outros serviços, mediante condições a acordar entre ambas as partes, que ficam integrados em aditamento ao contrato de concessão, precedido da correspondente alteração às presentes bases da concessão.
 
-###### Base III — [Revogada]
+Base III
 
-###### Base IV — [Revogada]
+[Revogada]
 
-###### Base V — Rede postal afeta à concessão
+Base IV
+
+[Revogada]
+
+Base V
+
+Rede postal afeta à concessão
 
 1 - A concessionária obriga-se a afetar à concessão o conjunto de meios humanos e materiais necessários à prestação do serviço postal universal e dos demais serviços e atividades integrados no objeto da concessão, incluindo, designadamente, os existentes nas suas unidades operativas.
 
@@ -719,7 +785,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 3 - [Revogado].
 
-###### Base VI — Prazo da concessão
+Base VI
+
+Prazo da concessão
 
 1 - O contrato de concessão é válido até 31 de dezembro de 2020.
 
@@ -735,7 +803,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 7 - [Revogado].
 
-###### Base VII — Outros serviços e atividades da concessionária
+Base VII
+
+Outros serviços e atividades da concessionária
 
 1 - Para além dos serviços concessionados, pode a concessionária, em Portugal e no estrangeiro, prestar outros serviços postais, nos termos do n.º 8 do artigo 57.º da Lei n.º 17/2012, de 26 de abril, bem como exercer quaisquer outras atividades, designadamente as que permitam a rentabilização da rede do serviço universal, diretamente ou através da constituição ou participação em sociedades ou em outras formas jurídicas de cooperação entre empresas.
 
@@ -745,7 +815,9 @@ e) A prestação do serviço de ordens de pagamento especiais que permite efetua
 
 #### SECÇÃO III — Obrigações da concessionária
 
-###### Base VIII — Obrigações genéricas da concessionária
+Base VIII
+
+Obrigações genéricas da concessionária
 
 1 - Pelo contrato de concessão fica a concessionária investida nas seguintes obrigações genéricas:
 
@@ -781,7 +853,9 @@ n) Cumprir obrigações inerentes à prestação do serviço postal universal qu
 
 3 - Os trabalhadores e outros colaboradores da concessionária ficam obrigados a não revelar o conteúdo dos envios postais ou outras informações de que, por causa do exercício das suas funções, fiquem conhecedores, exceto nos casos legalmente admitidos.
 
-###### Base IX — Obrigações específicas no âmbito da rede postal
+Base IX
+
+Obrigações específicas no âmbito da rede postal
 
 1 - Constituem obrigações da concessionária no tocante à rede postal afeta à concessão:
 
@@ -797,7 +871,9 @@ a) Assegurar aos outros prestadores de serviços postais o acesso, em condiçõe
 
 b) Disponibilizar aos outros prestadores de serviços postais o acesso a elementos da sua infraestrutura postal ou a serviços por si prestados, nos termos do artigo 39.º da Lei n.º 17/2012, de 26 de abril.
 
-###### Base X — Obrigações específicas no âmbito dos serviços concessionados
+Base X
+
+Obrigações específicas no âmbito dos serviços concessionados
 
 1 - Constituem obrigações específicas da concessionária no domínio da prestação dos serviços de envios postais incluídos no âmbito do serviço postal universal, referido na alínea a) do n.º 1 da base II:
 
@@ -815,15 +891,21 @@ b) Devem respeitar as regras processuais relativas à citação e notificação 
 
 4 - [Revogado].
 
-###### Base XI — [Revogada]
+Base XI
 
-###### Base XII — Qualidade dos serviços
+[Revogada]
+
+Base XII
+
+Qualidade dos serviços
 
 1 - A concessionária obriga-se a prestar os serviços que integram o serviço universal de acordo com os parâmetros de qualidade de serviço e os objetivos de desempenho fixados pelo ICP-ANACOM, nos termos do n.º 1 do artigo 13.º da Lei n.º 17/2012, de 26 de abril.
 
 2 - Sem prejuízo das sanções aplicáveis, em caso de incumprimento dos objetivos de desempenho fixados nos termos do n.º 1 do artigo 13.º da Lei n.º 17/2012, de 26 de abril, o ICP-ANACOM deve aplicar mecanismos de compensação destinados aos utilizadores do serviço universal, nos termos do artigo 47.º da Lei n.º 17/2012, de 26 de abril.
 
-###### Base XIII — Contabilidade analítica
+Base XIII
+
+Contabilidade analítica
 
 1 - A concessionária obriga-se a dispor de um sistema de contabilidade anual analítica, nos termos do disposto nos artigos 15.º e 16.º da Lei n.º 17/2012, de 26 de abril.
 
@@ -831,7 +913,9 @@ b) Devem respeitar as regras processuais relativas à citação e notificação 
 
 3 - [Revogado].
 
-###### Base XIV — Inventário da concessionária
+Base XIV
+
+Inventário da concessionária
 
 1 - A concessionária obriga-se a elaborar e manter atualizado o inventário do património imobiliário e dos bens móveis afetos à concessão cujo valor de aquisição seja superior ao montante definido pelo ICP-ANACOM nos termos das regras referidas no n.º 4.
 
@@ -849,7 +933,9 @@ b) Devem respeitar as regras processuais relativas à citação e notificação 
 
 8 - Os bens do domínio público e privado do Estado afetos à concessão regem-se pela legislação que lhes é especificamente aplicável, nomeadamente pelo regime jurídico de gestão do património imobiliário do domínio público do Estado, das Regiões Autónomas e das autarquias locais e pelo regime jurídico da gestão dos bens imóveis do domínio privado do Estado e dos institutos públicos, previstos na lei, nomeadamente em matéria de inventário.
 
-###### Base XV — Objetivos de densidade da rede postal e de ofertas mínimas de serviços
+Base XV
+
+Objetivos de densidade da rede postal e de ofertas mínimas de serviços
 
 1 - Compete à concessionária comunicar ao ICP-ANACOM:
 
@@ -879,9 +965,13 @@ d) Evolução do tráfego e da procura.
 
 8 - Na fixação dos objetivos de densidade da rede postal e de ofertas mínimas de serviços devem ser tidos em consideração os princípios constantes da Lei n.º 17/2012, de 26 de abril, nomeadamente aqueles a que se referem as alíneas a) e b) do n.º 2 do artigo 2.º da referida lei, no sentido de assegurar a existência, disponibilidade, acessibilidade e qualidade da prestação do serviço universal, bem como a sua sustentabilidade e viabilidade económico-financeira.
 
-###### Base XVI — [Revogada]
+Base XVI
 
-###### Base XVII — Fiscalização da concessão
+[Revogada]
+
+Base XVII
+
+Fiscalização da concessão
 
 1 - A fiscalização da concessão, incluindo a fiscalização da rede postal afeta à concessão, cabe ao membro do Governo responsável pela área das finanças, para as questões financeiras, e nas demais questões ao membro do Governo responsável pela área das comunicações, coadjuvado pelo ICP-ANACOM, e, individualmente, ao ICP-ANACOM, no âmbito das suas atribuições.
 
@@ -895,11 +985,17 @@ d) Evolução do tráfego e da procura.
 
 6 - Quando a concessionária não tenha respeitado determinações emitidas pelo ICP-ANACOM no âmbito dos seus poderes de fiscalização, assiste a este a faculdade de proceder à correção da situação, diretamente ou através de terceiro, correndo os correspondentes custos por conta da concessionária, sem prejuízo das sanções aplicáveis.
 
-###### Base XVIII — [Revogada]
+Base XVIII
 
-###### Base XIX — [Revogada]
+[Revogada]
 
-###### Base XX — Deliberações sujeitas a autorização
+Base XIX
+
+[Revogada]
+
+Base XX
+
+Deliberações sujeitas a autorização
 
 1 - A concessionária não pode, sem autorização do concedente, tomar qualquer deliberação social que, direta ou indiretamente, tenha por fim ou possa levar a uma das seguintes situações:
 
@@ -923,7 +1019,9 @@ b) A alteração do horário de funcionamento dos estabelecimentos postais, tend
 
 4 - [Revogado].
 
-###### Base XXI — Subconcessão
+Base XXI
+
+Subconcessão
 
 1 - É permitido à concessionária, mediante prévia autorização do concedente, subconceder, no todo ou em parte, a exploração de algum ou de alguns serviços objeto da concessão.
 
@@ -931,7 +1029,9 @@ b) A alteração do horário de funcionamento dos estabelecimentos postais, tend
 
 3 - Nos casos em que seja autorizada a subconcessão, a concessionária mantém os direitos e continua, direta e pessoalmente, sujeita às obrigações decorrentes do contrato de concessão.
 
-###### Base XXII — Participação de terceiros na atividade
+Base XXII
+
+Participação de terceiros na atividade
 
 1 - Sem prejuízo do disposto na base anterior, a concessionária fica desde já autorizada a subcontratar terceiros para efetuar trabalhos e ou prestar serviços que constituam ou que se relacionem com as obrigações assumidas pela concessionária ao abrigo do contrato de concessão.
 
@@ -947,7 +1047,9 @@ c) Outros serviços de terceiros complementares ou coadjuvantes da exploração 
 
 #### SECÇÃO IV — Direitos da concessionária
 
-###### Base XXIII — Direitos da concessionária
+Base XXIII
+
+Direitos da concessionária
 
 1 - O contrato de concessão constitui título bastante para a prestação de todos os serviços concessionados.
 
@@ -961,7 +1063,9 @@ c) Proceder, de acordo com a lei e nos termos do disposto no regime jurídico da
 
 d) Requerer ao membro do Governo responsável pela área das comunicações as expropriações por utilidade pública, requerer a constituição de servidões administrativas, estabelecer zonas de proteção e aceder a terrenos e edifícios públicos, sempre que tal se mostre necessário à exploração dos serviços concessionados e com observância da legislação em vigor.
 
-###### Base XXIV — Regime de preços do serviço universal
+Base XXIV
+
+Regime de preços do serviço universal
 
 1 - A concessionária obriga-se a fixar os preços dos serviços que integram o serviço universal de acordo com o disposto nos artigos 14.º e 14.º - A da Lei n.º 17/2012, de 26 de abril.
 
@@ -975,7 +1079,9 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 6 - [Revogado].
 
-###### Base XXV — Encargos terminais
+Base XXV
+
+Encargos terminais
 
 1 - Os encargos terminais devem ser transparentes e não discriminatórios, fixados em função dos custos resultantes para a concessionária pelo transporte, tratamento e distribuição do correio internacional de entrada e relacionados com a qualidade do serviço prestado.
 
@@ -983,7 +1089,9 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 3 - A concessionária deve comunicar ao ICP-ANACOM os acordos a que alude o número anterior no prazo de 30 dias úteis a contar da sua celebração.
 
-###### Base XXVI — Compensação e financiamento do serviço universal
+Base XXVI
+
+Compensação e financiamento do serviço universal
 
 1 - A concessionária tem direito à compensação do custo líquido do serviço universal nos termos do disposto nos artigos 18.º e 19.º da Lei n.º 17/2012, de 26 de abril.
 
@@ -991,7 +1099,9 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 #### SECÇÃO V — Incumprimento do contrato
 
-###### Base XXVII — Multas contratuais
+Base XXVII
+
+Multas contratuais
 
 1 - Sem prejuízo das situações de incumprimento que podem dar origem a sequestro ou rescisão da concessão nos termos das bases XXIX e XXXIV, o incumprimento pela concessionária das obrigações emergentes da concessão, das determinações do concedente emitidas nos termos da lei ou do contrato de concessão e das determinações do ICP-ANACOM emitidas nos termos do n.º 4 da base XVII, determina a aplicação de multas contratuais até ao montante de (euro) 565 000, atualizado anualmente pelo índice de preços no consumidor, consoante a gravidade das infrações cometidas e dos prejuízos delas resultantes, bem como o grau de culpa da concessionária.
 
@@ -1003,11 +1113,15 @@ d) Requerer ao membro do Governo responsável pela área das comunicações as e
 
 5 - O pagamento das multas aplicadas nos termos da presente base não isenta a concessionária da responsabilidade civil por perdas e danos resultantes da infração.
 
-###### Base XXVIII — Responsabilidade extracontratual
+Base XXVIII
+
+Responsabilidade extracontratual
 
 A concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das atividades que constituem o objeto da concessão, pela culpa ou pelo risco, não sendo assumido pelo concedente qualquer tipo de responsabilidade neste âmbito.
 
-###### Base XXIX — Sequestro
+Base XXIX
+
+Sequestro
 
 1 - Em caso de incumprimento grave pela concessionária das obrigações emergentes do contrato de concessão, pode o concedente, mediante sequestro, tomar a seu cargo o desenvolvimento das atividades e a exploração dos serviços objeto da concessão.
 
@@ -1027,7 +1141,9 @@ c) Deficiências no estado geral das instalações e equipamentos da rede postal
 
 6 - Se a concessionária não quiser ou não puder retomar a concessão ou, quando o tiver feito, continuarem a verificar-se graves deficiências na exploração das atividades e serviços objeto da concessão, poderá o concedente determinar a imediata rescisão do contrato.
 
-###### Base XXX — Força maior
+Base XXX
+
+Força maior
 
 1 - Verificando-se, durante a vigência do contrato de concessão, casos de força maior que impeçam o cumprimento das obrigações de quaisquer das partes ou obriguem à suspensão dos serviços concessionados, haverá lugar à suspensão, total ou parcial, das correspondentes obrigações ou do contrato, pelo período correspondente ao da duração do caso de força maior, ou à revisão, por acordo, do contrato, quando tal se justifique.
 
@@ -1035,7 +1151,9 @@ c) Deficiências no estado geral das instalações e equipamentos da rede postal
 
 3 - Sem prejuízo da possibilidade do acordo previsto no n.º 1, verificando-se caso de força maior, a concessionária deverá sempre acautelar o funcionamento e continuidade dos serviços postais, tomando as medidas que se mostrem necessárias e adequadas para o efeito, nomeadamente no domínio do planeamento, de prevenção de operação e de meios humanos.
 
-###### Base XXXI — Caso de guerra ou crise
+Base XXXI
+
+Caso de guerra ou crise
 
 1 - Sem prejuízo do disposto na alínea k) do n.º 1 da base VIII e da base anterior, em caso de guerra ou de crise, o concedente, através do membro do Governo responsável pela área das comunicações, reserva-se o direito de gerir e explorar os serviços objeto de concessão.
 
@@ -1043,17 +1161,23 @@ c) Deficiências no estado geral das instalações e equipamentos da rede postal
 
 #### SECÇÃO VI — Modificação e extinção do contrato
 
-###### Base XXXII — Modificação do contrato
+Base XXXII
+
+Modificação do contrato
 
 1 - Na eventualidade de, na vigência do contrato de concessão, ocorrerem circunstâncias que, pela sua importância e efeitos, devam ser consideradas como alteração anormal das circunstâncias, nos termos do artigo 437.º do Código Civil, as partes comprometem-se a rever o contrato de acordo com os princípios da boa-fé e da equidade.
 
 2 - Na falta de acordo entre as partes quanto à alteração do contrato prevista no número anterior, num prazo não superior a 90 dias a contar da comunicação de uma das partes à outra da alteração das circunstâncias, haverá recurso ao tribunal arbitral previsto na base XXXVIII.
 
-###### Base XXXIII — Extinção da concessão
+Base XXXIII
+
+Extinção da concessão
 
 A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respetivo prazo
 
-###### Base XXXIV — Rescisão da concessão
+Base XXXIV
+
+Rescisão da concessão
 
 1 - O concedente pode rescindir a concessão, sem prejuízo do disposto no n.º 2, em casos de violação grave, contínua e não sanada ou não sanável das obrigações da concessionária, nomeadamente por verificação dos seguintes factos:
 
@@ -1079,7 +1203,9 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 5 - Em caso de rescisão, a universalidade constituída por todos os bens e direitos afetos, de modo permanente e necessário, à concessão reverte a favor do Estado, sem qualquer indemnização e sem prejuízo da responsabilidade civil em que incorrer a concessionária e das sanções previstas na lei ou no contrato de concessão.
 
-###### Base XXXV — Resgate da concessão
+Base XXXV
+
+Resgate da concessão
 
 1 - O concedente pode resgatar a concessão sempre que motivos de interesse público o justifiquem, mediante notificação à concessionária com a antecedência mínima de 1 ano, decorridos que sejam pelo menos 15 anos a contar da data do início do respetivo prazo.
 
@@ -1089,7 +1215,9 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 4 - [Revogado].
 
-###### Base XXXVI — Reversão de bens e direitos no termo da concessão
+Base XXXVI
+
+Reversão de bens e direitos no termo da concessão
 
 1 - Sem prejuízo do disposto no n.º 5 da base XXXIV, em caso de extinção da concessão, por qualquer uma das formas previstas na lei, revertem gratuita e automaticamente para o concedente os bens dos domínios público e privado do Estado, obrigando-se a concessionária a entregá-los em perfeitas condições de funcionamento, conservação e segurança, sem prejuízo do normal desgaste resultante da sua utilização, e livres de quaisquer ónus ou encargos, não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
 
@@ -1099,13 +1227,17 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 #### SECÇÃO VII — Resolução de diferendos
 
-###### Base XXXVII — Processo de resolução de litígios
+Base XXXVII
+
+Processo de resolução de litígios
 
 1 - Os eventuais litígios que possam surgir entre as partes em matéria de aplicação, interpretação ou integração de lacunas do contrato de concessão são resolvidos por recurso a um tribunal arbitral, nos termos previstos na base seguinte.
 
 2 - A submissão de qualquer questão ao processo de resolução de litígios não exonera a concessionária do pontual cumprimento das disposições das presentes bases e das determinações do concedente ou do ICP-ANACOM que no seu âmbito lhe sejam comunicadas, incluindo as emitidas após a data daquela submissão, nem permite qualquer interrupção do desenvolvimento das atividades objeto da concessão, que devem continuar a processar-se nos termos em vigor à data da submissão da questão, até que uma decisão final seja obtida no processo de resolução de litígios relativamente à matéria em causa.
 
-###### Base XXXVIII — Tribunal arbitral
+Base XXXVIII
+
+Tribunal arbitral
 
 1 - Qualquer das partes pode submeter o litígio a um tribunal arbitral composto por três membros, um nomeado por cada uma das partes e o terceiro escolhido de comum acordo pelos árbitros que as partes tiverem designado.
 
@@ -1127,8 +1259,12 @@ g) Incumprimento culposo de decisões judiciais ou arbitrais transitadas em julg
 
 #### SECÇÃO VIII — Disposições transitórias
 
-###### Base XXXIX — [Revogada]
+Base XXXIX
 
-###### Base XL — Relações com terceiros
+[Revogada]
+
+Base XL
+
+Relações com terceiros
 
 A celebração do contrato de concessão não prejudica a vigência de todos os direitos e obrigações resultantes de contratos já celebrados, ou a celebrar, entre a concessionária e outras administrações postais ou organismos estrangeiros.

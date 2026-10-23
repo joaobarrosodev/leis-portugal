@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23200/0438204382.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/106/2016/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/106-2016-105300324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52ff95d637d258987938d4eaf239da7acce144d998a38c3038a4dd10d80fd799
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a57354e8ba8f7a035b55aafa9e407fcebf8e55797c2986efae363e3f92d96eb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Marítimo
-- Pessoal do MAR
-- Convenção
-- Londres
 - Condições de Higiene e Segurança no Trabalho
+- Convenção
+- Direito Marítimo
 - Embarcação de Pesca
+- Londres
+- Pessoal do MAR
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/233/2016/12/05/p/dre
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:54Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +95,16 @@ validation:
 
 de 5 de dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para Pessoal de Navios de Pesca, Convenção STCW F, adotada em Londres, em 7 de julho de 1995, aprovada, para adesão, pela [Resolução da Assembleia da República n.º 233/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105300325/details/normal?l=1), em 23 de junho de 2016.
 
-**Assinado em 14 de novembro de 2016**
+Assinado em 14 de novembro de 2016
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2016.**
+Referendado em 29 de novembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

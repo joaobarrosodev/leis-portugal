@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2004-517472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e437061e06f09964f18b9e199aa7e131f576e90f3111233b5f7ec97f5607999e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5513b867b88936a41d306905ebeb83aa59ad017d2331da359f518c0788beeb0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,9 +72,9 @@ subjects:
 - Definição de Competências
 - Estabelecimento Industrial
 - Fiscalização
+- Instituto Português de Acreditação
 - Licenciamento
 - Parque Industrial
-- Instituto Português de Acreditação
 - Sociedade Gestora de Empresas
 relationships:
 - type: amended_by
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/2003/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/2003/04/10/p/dre
+- type: cites
+  target: pt:dre:226804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179275:por
+  label: "Revogado, a partir de 03.09.2012, pelo DEC LEI.169/2012.01.08.2012.MEE, DR.IS [148] de 01.08.2012, sem prejuízo\
+    \ do disposto no seu art. 9º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2012-179275
+  date: '2012-08-01'
 article_structure:
   article_count: 16
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:58Z'
   warnings: []
   errors: []
 ---
@@ -315,12 +329,12 @@ A entidade acreditada presta a colaboração solicitada para a realização das 
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2004. - José Manuel Durão Barroso - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 15 de Junho de 2004.**
+Promulgado em 15 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2004.**
+Referendado em 21 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

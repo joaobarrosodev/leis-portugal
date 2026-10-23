@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/290a00/66676668.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/358/1997/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1997-417400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfc37b0f120ebff53ae211d75a7663c08d4b2ddcfb41a1d688821f91afa876ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d35190ee3739331a8caae913c489d2b8398bbc8e91a8b01c990725e2be29c35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Financiamento
-- Pessoal Dirigente
-- Juventude
 - Criação de Serviços
 - Destacamento de Pessoal
+- Financiamento
 - Gabinete de Apoio Estudos e Planeamento
 - Instituto Português da Juventude
+- Juventude
+- Pessoal Dirigente
 - Receita Própria
 - Regime de Pessoal
 - Requisição de Pessoal
@@ -84,16 +84,34 @@ relationships:
   target: pt:dre:170313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186545:por
+  label: "Aditado o art. 7-A e alterada a epígrafe do cap. III pelo DEC LEI.54/98.1998.03.16.PCM, DR.IS-A [63] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1998-186545
+  date: '1998-03-16'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:170313:por
+  label: "Revogado pelo DEC LEI.43/99.1999.02.12.PCM DR.IS-A [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1999-170313
+  date: '1999-02-12'
 article_structure:
-  article_count: 7
+  article_count: 8
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:27Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +134,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objecto
 
@@ -210,12 +230,12 @@ No prazo de quatro meses após o encerramento das Conferências, o Secretariado 
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - José Alberto Rebelo dos Reis Lamego - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 21 de Novembro de 1997.**
+Promulgado em 21 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Novembro de 1997.**
+Referendado em 28 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

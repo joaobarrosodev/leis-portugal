@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/586-1972-691814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 096e1af20edcd5c52fdfe8221d31e46703f1226ff6120afd336733e3284b642d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d33082fcd55d2f615756b51ce2d75cbbfedef5d4c4cee66db2ee3f961b6d95b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:244878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:54Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +103,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 Regulamento dos Concursos para Provimento de Lugares de Pessoal Técnico e Administrativo dos Quadros do Instituto Nacional de Saúde e das Suas Delegações.
 
-###### Artigo 1.º O presente Regulamento é elaborado de harmonia com as disposições constantes do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, do artigo 49.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), da mesma data, e do artigo 58.º do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
+Artigo 1.º O presente Regulamento é elaborado de harmonia com as disposições constantes do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, do artigo 49.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), da mesma data, e do artigo 58.º do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
 
-###### Art. 2.º - 1. Os concursos são abertos mediante autorização do Ministro da Saúde e Assistência, sob proposta do director do Instituto Nacional de Saúde (Insa).
+Art. 2.º - 1. Os concursos são abertos mediante autorização do Ministro da Saúde e Assistência, sob proposta do director do Instituto Nacional de Saúde (Insa).
 
 2. Todas as formalidades subsequentes ao despacho ministerial são consideradas como decorrentes do mesmo, mas carecem de autorização ou sanção do director do Insa.
 
-###### Art. 3.º Os concursos são válidos para as vagas existentes, ou para estas e para as que ocorrerem no prazo de dois anos, conforme constar do respectivo aviso de abertura, a contar da data da publicação no Diário do Governo da lista de classificação dos candidatos aprovados.
+Art. 3.º Os concursos são válidos para as vagas existentes, ou para estas e para as que ocorrerem no prazo de dois anos, conforme constar do respectivo aviso de abertura, a contar da data da publicação no Diário do Governo da lista de classificação dos candidatos aprovados.
 
-###### Art. 4.º - 1. Os concursos são de duas naturezas:
+Art. 4.º - 1. Os concursos são de duas naturezas:
 
 documentais e de prestação de provas.
 
@@ -109,7 +121,7 @@ documentais e de prestação de provas.
 
 4. Os avisos de abertura dos concursos indicarão a qualificação dos indivíduos que poderão candidatar-se.
 
-###### Art. 5.º - 1. Os concursos de acesso aos lugares de assistente de 2.ª classe constarão de provas escritas, práticas e orais.
+Art. 5.º - 1. Os concursos de acesso aos lugares de assistente de 2.ª classe constarão de provas escritas, práticas e orais.
 
 2. Os concursos de acesso aos lugares de assistente de 1.ª classe constarão de provas escritas e orais.
 
@@ -121,9 +133,9 @@ documentais e de prestação de provas.
 
 6. Os concursos de acesso aos lugares de técnico auxiliar de laboratório de 1.ª classe constarão de provas escritas e orais.
 
-###### Art. 6.º Os avisos de abertura de concursos para provimento de lugares de pessoal administrativo indicarão o programa das matérias respectivas.
+Art. 6.º Os avisos de abertura de concursos para provimento de lugares de pessoal administrativo indicarão o programa das matérias respectivas.
 
-###### Art. 7.º - 1. A abertura dos concursos será anunciada por aviso publicado no Diário do Governo, fixando-se em trinta dias, a contar da sua publicação, o prazo máximo para a apresentação dos requerimentos e documentos dos candidatos.
+Art. 7.º - 1. A abertura dos concursos será anunciada por aviso publicado no Diário do Governo, fixando-se em trinta dias, a contar da sua publicação, o prazo máximo para a apresentação dos requerimentos e documentos dos candidatos.
 
 2. Os avisos de abertura dos concursos indicarão os documentos cuja apresentação fica dispensada, bem como aqueles que se consideram necessários.
 
@@ -149,56 +161,56 @@ g) Número e data do bilhete de identidade e Arquivo de Identificação que o pa
 
 h) Residência.
 
-###### Art. 8.º - 1. Terminado o prazo fixado no n.º 1 do artigo anterior, a secretaria apreciará os documentos entrados e elaborará uma relação donde constem os candidatos que têm a documentação em ordem e os candidatos que não apresentarem todos os documentos exigidos ou os apresentarem em forma indevida.
+Art. 8.º - 1. Terminado o prazo fixado no n.º 1 do artigo anterior, a secretaria apreciará os documentos entrados e elaborará uma relação donde constem os candidatos que têm a documentação em ordem e os candidatos que não apresentarem todos os documentos exigidos ou os apresentarem em forma indevida.
 
 2. O director do Insa poderá conceder tolerância de prazo até quinze dias para junção de documentos que faltem ou outros e para legalização dos apresentados em forma indevida, ficando então a admissão dos candidatos condicionada ao suprimento, nesse prazo, das deficiências verificadas.
 
-###### Art. 9.º - 1. A lista definitiva, por ordem alfabética, dos candidatos admitidos e excluídos, será publicada no Diário do Governo, indicando-se, quanto a estes, o motivo da exclusão.
+Art. 9.º - 1. A lista definitiva, por ordem alfabética, dos candidatos admitidos e excluídos, será publicada no Diário do Governo, indicando-se, quanto a estes, o motivo da exclusão.
 
 2. A secretaria enviará o processo ao júri.
 
-###### Art. 10.º - 1. Os júris, com um mínimo de três membros, são nomeados por despacho do director do Insa, que designará também o presidente e o secretário.
+Art. 10.º - 1. Os júris, com um mínimo de três membros, são nomeados por despacho do director do Insa, que designará também o presidente e o secretário.
 
 2. O júri dos concursos para provimento dos lugares de investigador será presidido pelo director do Insa.
 
 3. Quando os elementos do júri não forem funcionários do Insa, a sua designação carece de autorização ministerial.
 
-###### Art. 11.º - 1. O júri só pode funcionar quando estiver reunida a maioria dos seus membros.
+Art. 11.º - 1. O júri só pode funcionar quando estiver reunida a maioria dos seus membros.
 
 2. No caso de impedimento do presidente, este será substituído pelo vogal de maior categoria e, entre os de igual categoria, pelo mais antigo.
 
 3. Das sessões do júri lavrar-se-ão actas, devendo delas constar todas as resoluções tomadas a os resultados das provas.
 
-###### Art. 12.º - 1. Compete ao júri elaborar os pontos, promover a sua afixação e a publicação dos avisos respectivos e marcar as datas para início das provas.
+Art. 12.º - 1. Compete ao júri elaborar os pontos, promover a sua afixação e a publicação dos avisos respectivos e marcar as datas para início das provas.
 
 2. Os pontos das provas dos concursos para provimento de lugares a que se refere o artigo 5.º, em número não inferior a dez, para cada uma das provas, serão elaborados dentro do prazo de vinte dias, a contar da data da nomeação do júri, e afixados no Insa a nas suas delegações.
 
 3. O júri fará publicar, com antecedência não inferior a trinta dias, aviso no Diário do Governo indicando o período de tempo de afixação dos pontos, a data e o local do início das provas, bem como a ordem de prestação e duração das mesmas.
 
-###### Art. 13.º O candidato que não comparecer à hora marcada para prestação de provas será eliminado do concurso.
+Art. 13.º O candidato que não comparecer à hora marcada para prestação de provas será eliminado do concurso.
 
-###### Art. 14.º - 1. Os pontos escritos serão tirados à sorte pelo candidato que figure em primeiro lugar ou, na sua falta, pelo que se lhe seguir.
+Art. 14.º - 1. Os pontos escritos serão tirados à sorte pelo candidato que figure em primeiro lugar ou, na sua falta, pelo que se lhe seguir.
 
 2. Os pontos das provas práticas e orais dos concursos a que se refere o artigo 5.º serão tirados à sorte individualmente.
 
 3. As provas orais serão públicas.
 
-###### Art. 15.º - 1. No fim de cada prova será marcada e afixada a data da prova que se lhe seguir.
+Art. 15.º - 1. No fim de cada prova será marcada e afixada a data da prova que se lhe seguir.
 
 2. No final de cada uma das provas, o júri fará a classificação dos candidatos em mérito absoluto.
 
 3. Só serão admitidos à prova seguinte os candidatos aprovados na prova anterior.
 
-###### Art. 16.º - 1. No final da última prova os candidatos serão apreciados em mérito absoluto e relativo.
+Art. 16.º - 1. No final da última prova os candidatos serão apreciados em mérito absoluto e relativo.
 
 2. A classificação em mérito relativo recairá, ùnicamente, nos candidatos não excluídos em mérito absoluto.
 
-###### Art. 17.º - 1. Cumpridas todas as formalidades, o presidente do júri enviará o processo do concurso ao director do Insa, para efeitos de homologação.
+Art. 17.º - 1. Cumpridas todas as formalidades, o presidente do júri enviará o processo do concurso ao director do Insa, para efeitos de homologação.
 
 2. O processo de concurso para investigadores será homologado pelo Ministro da Saúde e Assistência.
 
-###### Art. 18.º A lista de classificação, por ordem decrescente, será publicada no Diário do Governo.
+Art. 18.º A lista de classificação, por ordem decrescente, será publicada no Diário do Governo.
 
-###### Art. 19.º Os provimentos serão feitos pela ordem de classificação nos concursos.
+Art. 19.º Os provimentos serão feitos pela ordem de classificação nos concursos.
 
 Ministério da Saúde e Assistência, 26 de Setembro de 1972. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 105/2017, 1º Suplemento, Série I de 2017-05-31
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2692-(2) a 2692-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/10501/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53-a/2017/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-2017-107114288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1022553d9ec5381becc1d6fc50d2d8ea2fb862c38ff69070d07408f3aea1b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 191e07f3403e6098fcdbd01c1c508c2718253dba6b5d44cab0d67b0818963661
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desempregado
-- Prestações da Segurança Social
 - Desemprego
+- Prestações da Segurança Social
 - Regime Geral da Segurança Social
 - Segurança Social
 - Subsídio de Desemprego
@@ -118,16 +118,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+- type: repealed_by
+  target: pt:dre:114425586:por
+  label: Revogados os n.ºs 2 e 3 do art. 28.º do Dec Lei 220/2006 de 03-nov, com a redação dada pelo presente diploma, pelo(a)
+    Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:54Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +178,9 @@ Os artigos 28.º e 30.º do [Decreto-Lei n.º 220/2006](https://diariodarepublic
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -192,12 +200,12 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 6 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 26 de maio de 2017.**
+Promulgado em 26 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de maio de 2017.**
+Referendado em 30 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

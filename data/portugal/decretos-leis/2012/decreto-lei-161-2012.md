@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/14700/0393603940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/2012/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b51832f2fd301aaaa9491feb4be3299d56667f5dffae58d887af371446c94075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 662df00db2d5e0a46cd0b2891beb7433f91229eafb9b547521d5995e37db60b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Apoio Administrativo
-- Certificação Electrónica
-- Entidade Certificadora
-- Definição de Competências
 - Administração Pública
-- Gabinete Nacional de Segurança
-- Primeiro-ministro
-- Instituto das Comunicações de Portugal
-- Segurança da Informação
-- Entidade de Serviços Partilhados da Administração Pública
-- Ceger
-- Presidência do Conselho de Ministros
 - Agência para a Modernização Administrativa
+- Apoio Administrativo
 - Assinatura Digital
-- Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
+- Ceger
+- Certificação Electrónica
 - Conselho Gestor do Sistema de Certificação Eletrónica do Estado
+- Definição de Competências
+- Entidade Certificadora
+- Entidade de Serviços Partilhados da Administração Pública
+- Gabinete Nacional de Segurança
+- Instituto das Comunicações de Portugal
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- Segurança da Informação
+- Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 relationships:
 - type: cites
   target: eli:http://data.dre.p
@@ -125,16 +125,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
+- type: cites
+  target: pt:dre:232885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603950:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:16Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +241,9 @@ f) Um representante de cada entidade certificadora pública integrada no SCEE qu
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +259,9 @@ f) Um representante de cada entidade certificadora pública integrada no SCEE qu
 
 7 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A Entidade de Certificação Eletrónica do Estado é dirigida, por inerência, pelo diretor do CEGER.
 
@@ -227,7 +271,9 @@ f) Um representante de cada entidade certificadora pública integrada no SCEE qu
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A autoridade credenciadora competente para o registo, credenciação e fiscalização das entidades certificadoras compreendidas no SCEE, bem como das que emitam certificados qualificados no âmbito do regime jurídico dos documentos eletrónicos e da assinatura digital, é a Autoridade Nacional de Segurança.»
 
@@ -245,15 +291,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira.
 
-**Promulgado em 11 de julho de 2012.**
+Promulgado em 11 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de julho de 2012.**
+Referendado em 16 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

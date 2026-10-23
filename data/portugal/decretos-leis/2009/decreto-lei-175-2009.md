@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/175/2009/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2009-493013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc5fd3d5f62b4676ae24e89c2613209819e1585c376882a00eaf84cdb57c28b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9234b89e7c26c10ab3ad0ac887167f9625f6ae4b2e06984272ac753a53791f72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,106 @@ relationships:
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 71º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterado o art. 71.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.12-A/2010.30.06.2010.AR, DR.IS [125-Supl] de 30.06.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 7º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11-Set, na redacção do presente\
+    \ diploma, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 71º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl]\
+    \ de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterados, a partir de 30.10.2012, os arts. 2º, 3º e 7º do Código do Imposto do Selo, aprovado pela Lei 150/99,\
+    \ de 11-set , na redação do presente diploma, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 2º do Código do Imposto do Selo, aprovado pela Lei 150/99 de 11-set, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterados os arts 2.º e 3.º, do Código do Imposto do Selo, aprovado pela Lei 150/99, de 11-set, na redação do presente
+    diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 9.º e 71.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66145328:por
+  label: Alterados os arts. 2.º e 3.º do Código do Imposto do Selo aprovado pela Lei 150/99, de 11-set, alterado e republicado
+    pelo Dec Lei 287/2003, de 12-nov, na redação do presente diploma, pelo(a) Decreto-Lei n.º 7/2015 - Diário da República
+    n.º 8/2015, Série I de 2015-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2015-66145328
+  date: '2015-01-13'
+- type: amended_by
+  target: pt:dre:67098359:por
+  label: Alterada, a partir de 28.06.2015, a verba 11 da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo,
+    aprovados e publicados pela Lei 150/99 de 11-set, alterados e republicados pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2015-67098359
+  date: '2015-04-29'
+- type: amended_by
+  target: pt:dre:67098360:por
+  label: Alterada, a partir de 28.06.2015, a verba 11 da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo,
+    aprovados e publicados pela Lei 150/99 de 11-set, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 67/2015 - Diário
+    da República n.º 83/2015, Série I de 2015-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2015-67098360
+  date: '2015-04-29'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 2.º e 7.º do Código do Imposto do Selo, aprovado pela Lei 150/99 de 11-set, na versão republicada
+    do Código pelo Dec Lei 287/2003 de 12-nov retificado pela Decl-Ret. 4/2004 de 09-jan, na redação do presente diploma,
+    pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30 nos termos do seu art.
+    154.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 7.º do Código do Imposto do Selo aprovado em anexo à Lei 150/99, de 11-set, na versão republicada
+    do Código e da Tabela pelo Dec Lei 287/2003, de 12-nov (retificado pela Decl-Ret. 4/2004 de 09-jan), na redação do presente
+    diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:107061810:por
+  label: Alterado o art. 3.º do Código do Imposto de Selo aprovado em anexo à Lei 150/99 de 11-set na versão republicada pelo
+    Dec Lei 287/2003 de 12-nov e na redação do presente diploma, pelo(a) Lei n.º 22/2017 - Diário da República n.º 99/2017,
+    Série I de 2017-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2017-107061810
+  date: '2017-05-23'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 2.º e 3.º do Código do Imposto do Selo, aprovado em anexo à Lei 150/99 de 11-set DR.IS-A [213],
+    na versão republicada pelo Dec Lei 287/2003 de 12-nov, retificada pela Decl Ret 4/2004 de 09-jan, e com a redação dada
+    pelo presente diploma, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
   label: null
@@ -85,16 +185,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:03Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +251,9 @@ Os artigos 9.º e 71.º do Código do Imposto sobre o Rendimento das Pessoas Sin
 
 4 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +333,9 @@ o) A Santa Casa da Misericórdia de Lisboa, relativamente aos contratos de jogo 
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +381,9 @@ s) ...
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -353,12 +471,12 @@ O presente decreto-lei entra em vigor no dia 1 de Setembro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 28 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 28 de Julho de 2009.**
+Promulgado em 28 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Julho de 2009.**
+Referendado em 30 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

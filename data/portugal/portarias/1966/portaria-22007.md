@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22007-1966-472772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e598f65fb2f12fa22981f8a7c14ed3471603bc7bb2a9c63b9da9c43205d4160
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cc1dee69c3ec6aa6ce5932583a44c36bddd4d93bd6bfb75d5781976395a8672
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470018:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:24Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 1.º O n.º 4 do artigo 28.º e o artigo 31.º do Regulamento do Instituto de Estudos Sociais, aprovado pela [Portaria n.º 19470](https://diariodarepublica.pt/dr/detalhe/portaria/19470-1962-156245), de 30 de Outubro de 1962, passam a ter a seguinte redacção:
 
-###### Art. 28.º - 1. ...
+Art. 28.º - 1. ...
 
 2. ...
 
@@ -97,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 ...
 
-###### Art. 31.º Os alunos só poderão inscrever-se nas disciplinas que fazem parte de cada um dos anos dos cursos regulares (sistemáticos) desde que tenham obtido aprovação em todas as disciplinas do ano anterior menos em duas, sem prejuízo das precedências que vierem a ser estabelecidas pelo conselho directivo.
+Art. 31.º Os alunos só poderão inscrever-se nas disciplinas que fazem parte de cada um dos anos dos cursos regulares (sistemáticos) desde que tenham obtido aprovação em todas as disciplinas do ano anterior menos em duas, sem prejuízo das precedências que vierem a ser estabelecidas pelo conselho directivo.
 
 2. O artigo 29.º do Regulamento dos Exames, aprovado pela [Portaria n.º 20407](https://diariodarepublica.pt/dr/detalhe/portaria/20407-1964-470018), de 2 de Março de 1964, passa a ter a seguinte redacção:
 

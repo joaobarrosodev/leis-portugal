@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/2003/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2003-671041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64650aac368e2e9f87a8429fee008727d211041e152ddffcca55c26144107dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8d60690e564bd0706e32427d1936034ae0c81690d79f9ea52817ea0a0c2c000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,19 +71,39 @@ subjects:
 - Aproximação das Legislações
 - Cereal
 - Controlo Sanitário
-- Saúde Pública
-- Horticultura
-- Proteção do Consumidor
-- Produção Agrícola
-- Pesticida
-- Produto Fitofarmacêutico
 - Fruticultura
+- Horticultura
 - Limite Máximo de Resíduos
+- Pesticida
+- Produção Agrícola
+- Produto Fitofarmacêutico
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:440083:por
+  label: "Alterado o anexo da Port 649/96, de 12-Nov, na redacção da Port 102/97, de 14-Fev, da Port 1101/99, de 21-Dez, do\
+    \ Dec Lei 27/2000, de 03-Mar, do Dec Lei 215/2001, de 02-Ago, do Dec Lei 31/2002, de 19-Fev, do Dec Lei 245/2002, de 08-Nov,\
+    \ do Dec Lei 68/2003, de 08-Ago e do presente diploma, pelo DEC LEI.300/2003.04.12.2003.MADRP, DR.IS-A [280] de 04.12.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2003-440083
+  date: '2003-12-04'
+- type: amended_by
+  target: pt:dre:269642:por
+  label: "Suprimidas e alteradas as rubricas constantes do anexo à Port 1101/99, de 21-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2004.18.05.2004.MADRP, DR.IS-A [116] de 18.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2004-269642
+  date: '2004-05-18'
+- type: amended_by
+  target: pt:dre:358492:por
+  label: "Suprimida uma rubrica do anexo da Portaria 649/96, de 12 de Novembro, alterada pelo presente diploma, pelo DEC LEI.123/2006.28.06.2006.MADRP,\
+    \ DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2006-358492
+  date: '2006-06-28'
 - type: cites
   target: celex:32002L0097
   label: null
@@ -92,16 +112,27 @@ relationships:
   target: celex:32002L0100
   label: null
   source: http://data.europa.eu/eli/dir/2002/100/oj
+- type: repealed_by
+  target: pt:dre:480523:por
+  label: "Revogada a al. b) do nº 1 do art 2º do presente diploma, pelo DEC LEI.205/2004.19.08.2004.MADRP, DR.IS-A [195] de\
+    \ 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2004-480523
+  date: '2004-08-19'
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:54Z'
   warnings: []
   errors: []
 ---
@@ -184,15 +215,15 @@ O disposto no n.º 2 do artigo 2.º do presente diploma produz efeitos a partir 
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 4 de Julho de 2003.**
+Promulgado em 4 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Julho de 2003.**
+Referendado em 7 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Resíduos de produtos fitofarmacêuticos e LMR (miligramas/quilogramas)
 

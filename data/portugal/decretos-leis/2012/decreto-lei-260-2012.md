@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/260/2012/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c90e3d8bb618c2bf2bc24565357d78fa5dcaf98b02e9a1963fa5510bf1f3888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8893345d19baad8175c089a6d5320222b19fa559fec59f2740ff812aff02ac12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,30 +71,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
 - Animal Doméstico
 - Animal Perigoso
 - Animal Vadio
-- Espetáculos e Divertimentos Públicos
-- Doença Animal
 - Centro de Recolha de Animais
 - Circulação de GADO
-- Proteção dos Animais
-- Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
-- Segurança Pública
-- Exploração Pecuária
-- Abate de Animais
-- Licença de Utilização
-- Instituto da Conservação da Natureza e das Florestas
-- Registo de Animais
 - Cirurgia
-- Transporte de Animais
+- Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
+- Doença Animal
+- Espetáculos e Divertimentos Públicos
+- Exploração Pecuária
+- Instituto da Conservação da Natureza e das Florestas
+- Licença de Utilização
+- Proteção dos Animais
+- Registo de Animais
 - Saúde Animal
+- Segurança Pública
+- Transporte de Animais
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497605:por
+  label: "Alterado, a partir de 03.08.2013, o art. 38.º do Dec Lei 315/2009 de 29-out, na redação do presente diploma, pela\
+    \ LEI.46/2013.04.07.2013.AR, DR.IS [127] de 04.07.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2013-497605
+  date: '2013-07-04'
+- type: amended_by
+  target: pt:dre:70095700:por
+  label: Altera o art. 24.º do Dec Lei 142/2006 de 27-jul, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2015-70095700
+  date: '2015-08-25'
+- type: amended_by
+  target: pt:dre:108038374:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 53.º a 58.º, 68.º, 69.º, 70.º e 71.º bem como a epígrafe do cap. VII que abrange
+    os arts. 53.º a 58.º e aditado o art. 53.º-A ao Dec Lei 276/2001, de 17-out, na versão republicada pelo presente diploma
+    pelo(a) Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/95-2017-108038374
+  date: '2017-08-23'
+- type: amended_by
+  target: pt:dre:118748847:por
+  label: Alterados, com efeitos a 01.01.2019, e nos termos do disposto nos nºs. 1, 2 e 3 do art. 21.º do presente diploma,
+    os arts. 3.º-A, 3.º-B, 3.º-C, 3.º-D, 3.º-E, 3.º-F, 3.º-G, 3.º-H, 70.º, 71.º ( os dois últimos na redação da Lei 95/2017,
+    de 23-ago) e 73.º do Dec Lei n.º 276/2001, de 17-out , na versão republicada pelo Dec Lei 260/2012, de 12-dez pelo(a)
+    Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2019-118748847
+  date: '2019-01-30'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 68.º e 71.º e revogados os n.ºs 4 e 5 do art. 68.º do Dec Lei 276/2001
+    de 17-out, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021,
+    Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -140,15 +174,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
 article_structure:
-  article_count: 132
+  article_count: 97
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:59Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +237,9 @@ Os artigos 1.º, 2.º, 3.º, 3.º-A, 4.º, 5.º, 10.º, 11.º, 19.º, 24.º, 25.
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - (Anterior proémio do artigo.)
 
@@ -265,7 +301,9 @@ aa) (Revogada.)
 
 4 - Excetua-se do disposto no número anterior o acolhimento temporário de animais não pertencentes ao titular da exploração do alojamento, quando tenha por fim o acasalamento com animal aí alojado.
 
-###### Artigo 3.º — Procedimento para o exercício da atividade de exploração de alojamentos
+Artigo 3.º
+
+Procedimento para o exercício da atividade de exploração de alojamentos
 
 1 - Sem prejuízo do disposto no Decreto-Lei n.º 48/2011, de 1 de abril, alterado pelo Decreto-Lei n.º 141/2012, de 11 de julho, quanto aos estabelecimentos de comércio a retalho de animais de companhia, o exercício da atividade de exploração de alojamentos depende de:
 
@@ -291,7 +329,9 @@ b) Permissão administrativa, no caso dos alojamentos para hospedagem com fins l
 
 10 - (Revogado.)
 
-###### Artigo 3.º-A — Mera comunicação prévia
+Artigo 3.º-A
+
+Mera comunicação prévia
 
 1 - A mera comunicação prévia a que se refere a alínea a) do n.º 1 do artigo anterior é dirigida à DGAV e deve conter os seguintes elementos, quando aplicáveis:
 
@@ -319,7 +359,9 @@ j) Declaração de responsabilidade, subscrita pelo interessado, relativa ao cum
 
 3 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a mera comunicação prévia pode ser efetuada por qualquer outro meio previsto na lei.
 
-###### Artigo 4.º — Médico veterinário responsável pelo alojamento
+Artigo 4.º
+
+Médico veterinário responsável pelo alojamento
 
 1 - Os titulares da exploração de alojamentos para hospedagem sem fins lucrativos e com fins lucrativos de animais, com exceção dos alojamentos para hospedagem com fins higiénicos, devem ter ao seu serviço um médico veterinário que seja responsável pelo alojamento.
 
@@ -337,7 +379,9 @@ c) ...
 
 5 - Os médicos veterinários cidadãos de outros Estados membros da União Europeia ou do Espaço Económico Europeu, cujas qualificações tenham sido obtidas fora de Portugal e que pretendam prestar serviços ocasionais e esporádicos em território nacional ao abrigo do regime da livre prestação de serviços, devem efetuar declaração prévia perante a Ordem dos Médicos Veterinários portuguesa, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os titulares da exploração dos alojamentos para hospedagem de animais de companhia, com ou sem fins lucrativos, com fins médico-veterinários e os centros de recolha devem manter, pelo prazo de um ano, os seguintes registos:
 
@@ -353,7 +397,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -361,11 +407,15 @@ d) ...
 
 3 - Sem prejuízo do disposto nos números anteriores e em cumprimento do disposto no artigo 7.º da Lei n.º 92/95, de 12 de setembro, alterada pela Lei n.º 19/2002, de 31 de julho, a deslocação de animais de companhia, nomeadamente cães e gatos, em transportes públicos não pode ser recusada, desde que os mesmos sejam devidamente acompanhados, acondicionados e sujeitos a meios de contenção que não lhes permitam morder ou causar danos ou prejuízos a pessoas, outros animais ou bens, de acordo com as condições e normas técnicas a estabelecer por portaria conjunta dos membros do Governo responsáveis pelas áreas dos transportes e da agricultura.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 As instalações dos alojamentos referidos nas alíneas p) a t) do n.º 1 do artigo 2.º devem dispor de um sistema de proteção contra incêndios, de alarme para aviso de avarias deste sistema e, ainda, dos equipamentos referidos no artigo 8.º, quando se tratar de alojamentos em edifícios fechados.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -387,11 +437,15 @@ As instalações dos alojamentos referidos nas alíneas p) a t) do n.º 1 do art
 
 10 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Os detentores de animais de companhia que se dediquem à sua reprodução, criação, manutenção ou venda devem cumprir as condições previstas no presente capítulo, sem prejuízo das demais disposições aplicáveis, nomeadamente as constantes do Decreto-Lei n.º 315/2009, de 29 de outubro.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -405,11 +459,15 @@ Os detentores de animais de companhia que se dediquem à sua reprodução, cria�
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 Os alojamentos de reprodução ou criação de aves, peixes, répteis e mamíferos, com exceção dos cães, só funcionam como locais de venda desde que esta se efetue em instalações diferenciadas das anteriores, salvaguardando-se sempre as condições de bem-estar animal, de acordo com o disposto no presente diploma para os alojamentos de hospedagem com fins lucrativos.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A venda de animais de companhia em feiras e mercados só é permitida quando se encontrem asseguradas as condições de bem-estar animal e de segurança para as pessoas, outros animais e bens, designadamente:
 
@@ -441,17 +499,23 @@ b) Mera comunicação prévia à câmara, para que esta promova uma vistoria aos
 
 6 - Não é permitida a venda ambulante de animais de companhia.
 
-###### Artigo 38.º — Pessoal auxiliar e assistência médico-veterinária
+Artigo 38.º
+
+Pessoal auxiliar e assistência médico-veterinária
 
 1 - Os alojamentos devem dispor de pessoal auxiliar que possua os conhecimentos e a aptidão necessária para assegurar os cuidados adequados aos animais, o qual fica, contudo, sob a orientação do responsável técnico a que se refere o n.º 1 do artigo 4.º
 
 2 - As lojas de venda de animais devem assegurar a assistência aos animais, em caso de necessidade, por médico veterinário ou centro de atendimento médico-veterinário.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 Sem prejuízo das competências atribuídas por lei a outras entidades, compete, em especial, à DGAV, aos médicos veterinários municipais, à Autoridade de Segurança Alimentar e Económica, ao ICNF, I. P., às câmaras municipais, à PM, à GNR, à PSP e, em geral, a todas as autoridades policiais assegurar a fiscalização do cumprimento das normas constantes do presente diploma.
 
-###### Artigo 67.º — Plano de controlo
+Artigo 67.º
+
+Plano de controlo
 
 1 - A DGAV define e coordena o plano de controlo das normas de proteção dos animais de companhia, executando-o em colaboração com as autoridades referidas no artigo anterior, designadamente através de inspeções e de ações de controlo.
 
@@ -459,7 +523,9 @@ Sem prejuízo das competências atribuídas por lei a outras entidades, compete,
 
 3 - As autoridades administrativas, policiais e as pessoas singulares e coletivas devem prestar toda a colaboração necessária às inspeções e ações de controlo a efetuar no âmbito do presente diploma.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -511,13 +577,17 @@ g) [Anterior alínea f).]
 
 6 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Compete à DGAV a instrução dos processos de contraordenação.
 
 2 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 ...
 
@@ -529,11 +599,15 @@ c) (Revogada.)
 
 d) ...
 
-###### Artigo 72.º — Regiões Autónomas
+Artigo 72.º
+
+Regiões Autónomas
 
 Os atos e os procedimentos necessários à execução do presente diploma nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa, constituindo receita das mesmas o produto das coimas aí cobradas e o produto das taxas devidas pela aprovação dos alojamentos dos animais a que se refere o n.º 1 do artigo 3.º
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Pelos atos e serviços relativos a procedimentos previstos no presente diploma são devidas taxas, a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.
 
@@ -575,7 +649,9 @@ c) Descrição sumária dos alojamentos, com indicação do número de celas des
 
 4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, o pedido de permissão administrativa pode ser apresentado por qualquer outro meio previsto na lei.
 
-###### Artigo 3.º-C — Instrução do processo de permissão administrativa
+Artigo 3.º-C
+
+Instrução do processo de permissão administrativa
 
 1 - Compete à direção de serviços veterinários da região de localização do alojamento a instrução do processo de permissão administrativa.
 
@@ -587,17 +663,23 @@ c) Descrição sumária dos alojamentos, com indicação do número de celas des
 
 5 - No prazo de 15 dias a contar da data da visita de controlo, a direção de serviços veterinários da região conclui a instrução, elabora um relatório final com proposta de decisão e remete o processo, com os elementos dele constantes, ao diretor-geral de Alimentação e Veterinária, para decisão.
 
-###### Artigo 3.º-D — Decisão
+Artigo 3.º-D
+
+Decisão
 
 1 - O diretor-geral de Alimentação e Veterinária profere decisão no prazo de 15 dias a contar da remessa do processo a que se refere o n.º 5 do artigo anterior.
 
 2 - Caso não seja proferida a decisão referida no número anterior no prazo de 60 dias contados da data de receção do pedido de permissão administrativa devidamente instruído, independentemente da realização de visita de controlo, não há lugar a deferimento tácito, podendo o interessado obter a tutela adequada junto dos tribunais administrativos.
 
-###### Artigo 3.º-E — Divulgação dos alojamentos
+Artigo 3.º-E
+
+Divulgação dos alojamentos
 
 A DGAV publicita no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio na Internet a lista dos centros de recolha oficiais, bem como de todos os centros de hospedagem, com ou sem fins lucrativos, que haja permitido ou em relação aos quais tenha recebido mera comunicação prévia, nos termos do presente diploma.
 
-###### Artigo 3.º-F — Alteração de funcionamento dos alojamentos
+Artigo 3.º-F
+
+Alteração de funcionamento dos alojamentos
 
 1 - A alteração de funcionamento dos alojamentos, designadamente a modificação estrutural nos alojamentos, a transferência de titularidade, a cessão de exploração, a cessação da atividade e a alteração do médico veterinário responsável pelo alojamento, é comunicada à DGAV por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, no prazo de 15 dias contados da sua ocorrência.
 
@@ -607,7 +689,9 @@ A DGAV publicita no balcão único eletrónico de serviços, a que se refere o a
 
 4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, as comunicações aí referidas podem ser efetuadas por qualquer outro meio previsto na lei.
 
-###### Artigo 3.º-G — Suspensão de atividade e encerramento dos alojamentos
+Artigo 3.º-G
+
+Suspensão de atividade e encerramento dos alojamentos
 
 1 - O diretor-geral de Alimentação e Veterinária pode, mediante despacho, determinar a suspensão da atividade ou o encerramento do alojamento, designadamente quando se verifique uma das seguintes situações:
 
@@ -629,7 +713,9 @@ d) Falta de condições de segurança e de tranquilidade para as pessoas ou anim
 
 6 - Compete às câmaras municipais executar as medidas necessárias ao cumprimento da decisão a que se referem os n.os 3 e 4, nomeadamente proceder, quando necessário, à recolha dos animais.
 
-###### Artigo 3.º-H — Permissão de reabertura após suspensão da atividade
+Artigo 3.º-H
+
+Permissão de reabertura após suspensão da atividade
 
 1 - Após o decurso do prazo fixado nos termos do n.º 4 do artigo anterior, a direção de serviços veterinários da região onde se localiza o alojamento realiza visita de controlo no prazo de 20 dias, a fim de verificar se se encontram reunidas condições para o levantamento da suspensão, mediante decisão de permissão de reabertura a proferir pelo diretor-geral de Alimentação e Veterinária.
 
@@ -637,11 +723,15 @@ d) Falta de condições de segurança e de tranquilidade para as pessoas ou anim
 
 3 - A permissão de reabertura é publicitada pelos meios utilizados para a divulgação da suspensão da permissão.
 
-###### Artigo 3.º-I — Divulgação da suspensão de atividade, do encerramento e da reabertura de alojamento
+Artigo 3.º-I
+
+Divulgação da suspensão de atividade, do encerramento e da reabertura de alojamento
 
 As medidas previstas nos artigos 3.º-G e 3.º-H são publicitadas através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet da DGAV.
 
-###### Artigo 3.º-J — Reconhecimento mútuo
+Artigo 3.º-J
+
+Reconhecimento mútuo
 
 1 - Não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente diploma e os requisitos e os controlos equivalentes ou comparáveis, quanto à finalidade, a que o interessado já tenha sido submetido noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
 
@@ -649,13 +739,17 @@ As medidas previstas nos artigos 3.º-G e 3.º-H são publicitadas através do b
 
 3 - Sem prejuízo do disposto nos números anteriores, o reconhecimento mútuo de requisitos relativos a qualificações é regulado pela Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
 
-###### Artigo 67.º-A — Acesso ao alojamento
+Artigo 67.º-A
+
+Acesso ao alojamento
 
 1 - Para efeitos de controlo do cumprimento das normas aplicáveis, o titular da exploração do alojamento está obrigado a facultar às autoridades competentes o acesso ao alojamento.
 
 2 - Caso o titular da exploração do alojamento se recuse a facultar o acesso ao alojamento, pode ser solicitado mandado judicial para permitir às autoridades competentes o acesso aos locais onde os animais se encontrem, nomeadamente casas de habitação e terrenos privados.
 
-###### Artigo 71.º-A — Cooperação administrativa
+Artigo 71.º-A
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos do disposto nos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do Sistema de Informação do Mercado Interno.»
 
@@ -679,7 +773,9 @@ Os artigos 11.º, 24.º e 30.º do Decreto-Lei n.º 142/2006, de 27 de julho, al
 
 6 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, a comunicação prévia com prazo aí referida pode ser efetuada por qualquer outro meio previsto na lei.
 
-###### Artigo 24.º — Contraordenações
+Artigo 24.º
+
+Contraordenações
 
 1 - ...
 
@@ -761,7 +857,9 @@ jj)[Anterior alínea ii).]
 
 7 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -793,7 +891,9 @@ d) ...
 
 4 - Para efeito do disposto nos números anteriores, os promotores devem fazer constar da comunicação prévia a sua identificação, a indicação das espécies utilizadas nos espetáculos e a declaração, sob compromisso de honra, de que cumprem todas as condições de saúde, bem-estar e higiene vigentes.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -831,7 +931,9 @@ p) O não cumprimento das normas relativas ao transporte, carga e descarga dos a
 
 2 - ...
 
-###### Artigo 18.º — Desmaterialização de atos e procedimentos
+Artigo 18.º
+
+Desmaterialização de atos e procedimentos
 
 1 - Todos os pedidos, comunicações e requerimentos, bem como a apresentação de documentos e de informações, no âmbito dos procedimentos regulados pelo presente decreto-lei são realizados por via eletrónica, através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
 
@@ -839,7 +941,9 @@ p) O não cumprimento das normas relativas ao transporte, carga e descarga dos a
 
 3 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, os atos aí referidos podem ser praticados por qualquer outro meio previsto na lei.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -913,15 +1017,15 @@ c) Ao «Instituto de Conservação da Natureza e da Biodiversidade, I. P.» e ao
 
 Visto e aprovado em Conselho de Ministro de 13 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 29 de novembro de 2012.**
+Promulgado em 29 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de dezembro de 2012.**
+Referendado em 4 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 276/2001, de 17 de outubro
 
@@ -1807,7 +1911,7 @@ Os atos e os procedimentos necessários à execução do presente diploma nas Re
 
 Animais alojados em gaiolas ou jaulas ou em recintos interiores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Nota. - Em casos especiais, por exemplo, quando se albergam animais muito jovens ou sem pelo, podem ser necessárias temperaturas ambientais mais elevadas.
 
@@ -1817,19 +1921,19 @@ A humidade relativa (HR) deve ser adequada às espécies alojadas e normalmente 
 
 Caixas para animais detidos individualmente ou em grupo não aplicável a coelhos-bravos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 a) Caixas para outros pequenos roedores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 b) Caixas de pequenos roedores em reprodução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 c) Caixas de coelhos em reprodução não aplicável aos coelhos-bravos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Nota. - A superfície mínima do chão da gaiola para uma coelha e respetiva ninhada inclui a superfície do chão da caixa para o ninho.
 
@@ -1837,11 +1941,11 @@ Nota. - A superfície mínima do chão da gaiola para uma coelha e respetiva nin
 
 a) Alojamento de gatos em lojas de venda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 b) Alojamentos de gatos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Nota. - Para o cálculo da superfície mínima do chão pode incluir-se a superfície dos tabuleiros de repouso.
 
@@ -1851,29 +1955,29 @@ d) Alojamentos de cães:
 
 d.1) Individualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 d.2) Em grupo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 e) A superfície mínima do chão do recinto para uma cadela e respetiva ninhada deve estar compreendida entre 4 m2 e 6 m2.
 
 f) Alojamento de cães em locais de venda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 g) Alojamento de cães em centros de recolha oficiais e hospedagem sem fins lucrativos:
 
 g.1) Individualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Nota. - Os animais têm de ter, no mínimo, espaço suficiente para estarem de pé, deitados, para se virarem e sentarem normalmente.
 
 Os cães alojados em gaiolas devem ser exercitados em recintos de pelo menos 1,22 m x 3,04 m, duas vezes por dia, e caminharem à trela por um período mínimo de vinte minutos, duas vezes por dia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 g.2) Em grupo:
 
@@ -1885,7 +1989,7 @@ Um recinto com as dimensões 1,50 m x 3 m não pode alojar mais de dois cães de
 
 ## ANEXO IV — Dimensões mínimas para o alojamento de certas aves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Nota. - O alojamento, por seis semanas, de um casal de colibris e de aves pertencentes às famílias Nectariniidae e Meliphagidae tem de ser feito numa gaiola de, pelo menos, 80 cm de comprimento por 40 cm de largura e por 40 cm de altura, sendo que, em caso de detenção mais longa, é necessário uma gaiola de 1,500 m3 para quatro aves.
 
@@ -1893,13 +1997,13 @@ O alojamento de um casal e respetiva ninhada de codornizes-anãs-da-china tem de
 
 ## ANEXO V — Superfície e altura mínimas de terrários para alojamento de répteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Exemplos:
 
 20 tartarugas terrestres, cujo comprimento da carapaça dorsal é de 15 cm:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 Quatro serpentes que vivem no solo, cujo comprimento é de 90 cm:
 
@@ -1911,8 +2015,8 @@ Um casal de lagartos trepadores com o comprimento total de 20 cm:
 
 ## ANEXO VI — Dimensões mínimas de recipientes para alojamento de anfíbios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
 
 ## ANEXO VII — Dimensões mínimas de aquiterrários para alojamento de outros anfíbios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf))](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/24000/0697006994.pdf)

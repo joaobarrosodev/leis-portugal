@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24500/85378539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240/2006/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2006-552290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c5be9a5123af7c6c5e5a87cb72370e1642c9ad2d6cd893e6a23fe178aafe769
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 915d12a7ba272388c7a7b3a1b3060c7e73053fe1b072640419045cf83be221f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Instituição de Crédito
-- Publicidade
-- Multa
-- Obras Particulares
+- Banco de Portugal
 - Contra-ordenação
 - Contrato de Mútuo
 - Crédito à Habitação
 - Definição de Competências
 - Fiscalização
-- Banco de Portugal
-- Instituto do Consumidor
-- Informação do Consumidor
-- Receita Própria
 - Habitação
+- Informação do Consumidor
+- Instituição de Crédito
+- Instituto do Consumidor
+- Multa
+- Obras Particulares
+- Publicidade
+- Receita Própria
 - TAXA de JURO
 relationships:
 - type: amended_by
@@ -92,16 +92,22 @@ relationships:
   target: celex:31993L0013
   label: null
   source: http://data.europa.eu/eli/dir/1993/13/oj
+- type: repealed_by
+  target: pt:dre:107561581:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 240/2006, de 22-dez, pelo(a) Decreto-Lei n.º 74-A/2017 - Diário da República
+    n.º 120/2017, 1º Suplemento, Série I de 2017-06-23, e nos termos do seu art. 47.º,
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:22Z'
   warnings: []
   errors: []
 ---
@@ -202,12 +208,12 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 15 de Dezembro de 2006.**
+Promulgado em 15 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 18 de Dezembro de 2006.**
+Referendado em 18 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 275/1978, 2º Suplemento, Série I de 1978-11-29
   number: '275'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2526-(5) a 2526-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27502/00050005.pdf
 entry_into_force_dates: []
@@ -48,36 +48,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/310-h-1978-455947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c080bef8ace29c81a6bc6196326393fd8741db0538be3a2b0125fcb84821b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c7f953a03e48b705d93eb4f9021371ad27b91adfb69ca2f65ea01b44eeba2c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Governo IV
+- Ministro Adjunto do Primeiro-ministro
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:46:42Z'
   warnings: []
   errors: []
 ---

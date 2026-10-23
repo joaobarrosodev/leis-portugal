@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f84cd92cfe2b076778bd6e1f514b9f6485d9fcdf09f77058dff039f2f83199ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7841d023e1172a83597915b695bb62b8fcd0d058b076ac6e79059323b20ea13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,53 +66,84 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Reserva de CAÇA
-- Crime
+- Açores
+- ÁREA de Refúgio
 - Armas e Munições
+- CAÇA
 - Calendário Venatório
 - Carta de Caçador
-- Proteção dos Animais
-- CAÇA
 - Concurso Público
 - Conselho Cinegético
 - Conselho Nacional da CAÇA
 - Conselho Nacional da CAÇA e da Conservação da Fauna
 - Contrato de Concessão
 - Corpo Nacional da Guarda Florestal
+- Crime
 - Direcção Geral do Turismo
 - Direcção Geral dos Recursos Florestais
 - Direito à não CAÇA
 - Exploração Pecuária
 - Fiscalização
+- GNR
+- Guarda Florestal
 - Impresso
 - Instituto da Conservação da Natureza
 - JURI
 - Licença de Caça
-- GNR
+- Madeira.região Autónoma
 - Ordenamento Cinegético
 - Organizações do Sector da Caça
-- Proteção do Ambiente
-- Zona de Proteção
-- Guarda Florestal
 - Polícia Marítima
 - Polícia Municipal
 - Prazo
-- Madeira.região Autónoma
+- Proteção do Ambiente
+- Proteção dos Animais
+- PSP
 - Registo de Animais
-- ÁREA de Refúgio
+- Reserva de CAÇA
 - Seguro Obrigatório de Responsabilidade Civil
 - Sinalização
-- Açores
 - Taxa
 - Venda
 - ZONA de CAÇA
 - ZONA de CAÇA Municipal
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:115012859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439393:por
+  label: "Alterado, a partir de 08.02.2009, o art. 107º do Dec Lei 202/2004, de 18-Ago, na redacção do presente diploma, pelo\
+    \ DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterados os art.s 22º, 23º, 28º, 29º, 45º, 48º, 53º, 93º, 137º, 167º e 170º do Dec Lei 202/2004, de 18-Ago, na\
+    \ redacção do presente diploma, pelo DEC LEI.2/2011.06.01.2011.PCM, DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
+- type: amended_by
+  target: pt:dre:496729:por
+  label: "Alterado o art. 107º do Dec Lei 202/2004 de 18-ago, na redação do presente diploma, pelo DEC LEI.81/2013.14.06.2013.MAMAOT,\
+    \ DR.IS [113] de 14.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2013-496729
+  date: '2013-06-14'
+- type: amended_by
+  target: pt:dre:70064733:por
+  label: Alterados os arts. 19.º, 66.º, 70.º, 75.º, 76.º e 137.º do Dec Lei 202/2004 de 18-ago, com a redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 167/2015 - Diário da República n.º 163/2015, Série I de 2015-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-2015-70064733
+  date: '2015-08-21'
+- type: amended_by
+  target: pt:dre:115012859:por
+  label: Alterados os arts. 2.º, 19.º, 23.º, 27.º, 28.º, 48.º, 55.º, 84.º, 107.º, 137.º, 148.º e 168.º do Dec Lei 202/2004,
+    de 18-ago, na redação do presente diploma pelo(a) Decreto-Lei n.º 24/2018 - Diário da República n.º 71/2018, Série I de
+    2018-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2018-115012859
+  date: '2018-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -153,16 +184,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/173/1999/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/173/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:165180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683069:por
+  label: null
+  source: null
 article_structure:
-  article_count: 234
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 176
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:36Z'
   warnings: []
   errors: []
 ---
@@ -279,7 +470,9 @@ hh) ...
 
 ii) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +480,9 @@ ii) ...
 
 3 - As acções de repovoamento e de reforço cinegético em áreas classificadas carecem de parecer do ICN.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O ordenamento cinegético rege-se pelas normas constantes do presente diploma e sua regulamentação, por planos de ordenamento e exploração cinegética (POEC), por planos de gestão (PG) e por planos anuais de exploração (PAE), os quais são submetidos a aprovação da DGRF.
 
@@ -299,7 +494,9 @@ ii) ...
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -309,7 +506,9 @@ ii) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -339,7 +538,9 @@ i) ...
 
 j) ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A transferência de gestão prevista no artigo 14.º extingue-se:
 
@@ -353,7 +554,9 @@ d) Por decisão do Ministro da Agricultura, do Desenvolvimento Rural e das Pesca
 
 2 - A extinção da transferência prevista nas alíneas a), b) e d) do número anterior é objecto de portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +570,9 @@ d) Por decisão do Ministro da Agricultura, do Desenvolvimento Rural e das Pesca
 
 6 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -379,7 +584,9 @@ b) ...
 
 c) ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os proprietários ou usufrutuários e arrendatários, neste caso quando o contrato de arrendamento rural inclua a gestão cinegética, podem requerer a exclusão dos seus terrenos da ZCM, sem prejuízo das situações constituídas ao abrigo do direito anterior, desde que se verifiquem cumulativamente as seguintes condições:
 
@@ -393,7 +600,9 @@ b) ...
 
 4 - No caso de alteração dos titulares de direitos sobre os prédios, havendo acordo com o transmitente, não há lugar à exclusão de terrenos até ao termo da transferência de gestão.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -411,17 +620,23 @@ b) ...
 
 8 - Sempre que as entidades gestoras requeiram atempadamente a renovação e os processos não tenham ficado concluídos até ao termo da transferência de gestão, fica suspenso o exercício da caça até à publicação da portaria de renovação, pelo prazo máximo de seis meses.
 
-###### Artigo 33.º — Prazos de concessão
+Artigo 33.º
+
+Prazos de concessão
 
 A concessão de zonas de caça associativas e turísticas é efectuada pelos prazos mínimo de 6 anos e máximo de 12 anos, renováveis por iguais períodos.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Nas ZCA não pode ser exigido a caçadores convidados o pagamento de quaisquer quantias pelo exercício da caça ou de actividades de carácter venatório.
 
 2 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -443,7 +658,9 @@ iii) ...
 
 iv) Identificação do técnico responsável.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A mudança de concessionário de zona de caça é requerida junto da DGRF em simultâneo pelo interessado em aceder à concessão e pelo concessionário.
 
@@ -455,11 +672,15 @@ iv) Identificação do técnico responsável.
 
 5 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 Sem prejuízo dos direitos emergentes de denúncia unilateral de acordos, à desanexação de prédios de zonas de caça já constituídas e a pedido do concessionário é aplicável o definido nos artigos 35.º e 38.º a 40.º, com as devidas adaptações.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -481,7 +702,9 @@ Sem prejuízo dos direitos emergentes de denúncia unilateral de acordos, à des
 
 10 - (Revogado.)
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Sem prejuízo da aplicação de outras sanções previstas na lei, o incumprimento, por parte de entidades concessionárias de zonas de caça, de obrigações decorrentes da concessão constitui causa de suspensão do exercício da caça e das actividades de carácter venatório.
 
@@ -489,7 +712,9 @@ Sem prejuízo dos direitos emergentes de denúncia unilateral de acordos, à des
 
 3 - Nos casos previstos nos números anteriores a suspensão é determinada pela DGRF, que estabelece ainda o prazo para a supressão da falta que a determinou.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +724,9 @@ b) O titular da zona de caça não cumpra as obrigações a que está vinculado,
 
 2 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -531,7 +758,9 @@ m) Os terrenos situados entre o nível de água das albufeiras e o nível de ple
 
 3 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - (Anterior n.º 3.)
 
@@ -551,17 +780,23 @@ m) Os terrenos situados entre o nível de água das albufeiras e o nível de ple
 
 9 - A instalação de campos de treino de caça em áreas classificadas carece de parecer favorável do ICN.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O direito à não caça é a faculdade de os proprietários ou usufrutuários e arrendatários, neste caso quando o contrato de arrendamento inclua a gestão cinegética, requererem a proibição da caça nos seus terrenos, passando estes a constituir áreas de direito à não caça.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 O direito à não caça é concedido por um período de 6 anos e máximo de 12 anos, renovável automaticamente por iguais períodos.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -573,7 +808,9 @@ O direito à não caça é concedido por um período de 6 anos e máximo de 12 a
 
 5 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - O exame para obtenção de carta de caçador é efectuado perante um júri constituído por um representante da DGRF e por um representante das OSC representativas dos caçadores, podendo a DGRF solicitar à Guarda Nacional Republicana a nomeação de representantes para integrar o júri de exame.
 
@@ -587,7 +824,9 @@ O direito à não caça é concedido por um período de 6 anos e máximo de 12 a
 
 6 - Os critérios para a representação das OSC referidas no n.º 1 são definidos por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Os portugueses e os estrangeiros residentes em território português que sejam titulares da carta de caçador ou documento equivalente emitido por outro país da União Europeia, após aprovação em exame destinado a apurar a sua aptidão e conhecimento necessários ao exercício da caça, podem requerer ao director-geral dos Recursos Florestais a emissão de carta de caçador portuguesa com especificação correspondente, desde que o referido documento esteja válido e os interessados reúnam as demais condições exigidas no n.º 2 do artigo 21.º da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro.
 
@@ -597,7 +836,9 @@ O direito à não caça é concedido por um período de 6 anos e máximo de 12 a
 
 4 - Sempre que os interessados tenham sido condenados por crime de caça o exame a que se refere o número anterior deve ter ocorrido em data posterior à da condenação.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -605,7 +846,9 @@ O direito à não caça é concedido por um período de 6 anos e máximo de 12 a
 
 3 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -615,7 +858,9 @@ a) ...
 
 b) Documento equivalente à carta de caçador ou licença de caça que comprove estarem habilitados a caçar no país da sua nacionalidade ou residência.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -623,7 +868,9 @@ b) Documento equivalente à carta de caçador ou licença de caça que comprove 
 
 3 - ...
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +878,9 @@ b) Documento equivalente à carta de caçador ou licença de caça que comprove 
 
 3 - O ICN comunica periodicamente à DGRF a informação relativa ao registo das aves de presa referido no número anterior.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - ...
 
@@ -653,7 +902,9 @@ c) ...
 
 7 - (Revogado.)
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -661,7 +912,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -675,7 +928,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - ...
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -685,7 +940,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - No caso das espécies cinegéticas sedentárias, os limites referidos no número anterior só se aplicam aos terrenos não ordenados, aplicando-se nos terrenos ordenados os limites totais ou diários estabelecidos nos respectivos POEC ou PAE.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -695,7 +952,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - Nos meses de Janeiro e Fevereiro, a caça à lebre só pode ser permitida a corricão e apenas em zonas de caça.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -705,7 +964,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -715,7 +976,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -725,7 +988,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - Em terrenos cinegéticos não ordenados, nos meses de Agosto, Setembro, Janeiro e Fevereiro, a caça a estas espécies só é permitida à espera e de cetraria e apenas nos locais e nas condições estabelecidos por edital da DGRF.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -735,7 +1000,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 4 - Em terrenos cinegéticos não ordenados, nos meses de Agosto, Setembro e Janeiro, a caça aos patos, galinha-d'água e galeirão e, ainda, no mês de Fevereiro, no que respeita à galinha-d'água, só é permitida à espera e de cetraria e apenas nos locais e nas condições estabelecidos por edital da DGRF.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -743,7 +1010,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 3 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -751,7 +1020,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 3 - ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -765,7 +1036,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 6 - ...
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -773,7 +1046,9 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 3 - ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -787,13 +1062,17 @@ b) A caça de cetraria, a caça à raposa a corricão e a caça com arco ou best
 
 6 - A reprodução de pombo-da-rocha e de coelho-bravo prevista no n.º 3 não carece de alvará, obedecendo a captura dos reprodutores, no caso dos coelhos, ao disposto no n.º 2 do artigo 4.º
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - A detenção, o comércio, a cedência a título gratuito, o transporte e a exposição de exemplares vivos de espécies cinegéticas e seus produtos só são permitidos para os exemplares das espécies indicadas em portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ouvido o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, e desde que autorizados pela DGRF.
 
 2 - ...
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - ...
 
@@ -817,7 +1096,9 @@ b) Número de exemplares de cada espécie a abater, devendo, no caso de caça ma
 
 c) Número previsto de jornadas de caça e limite de peças a abater.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 ...
 
@@ -825,7 +1106,9 @@ a) ...
 
 b) Os locais definidos em portaria do Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, ouvido o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ponderados os interesses específicos de conservação da natureza.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -839,7 +1122,9 @@ b) Os locais definidos em portaria do Ministro do Ambiente, do Ordenamento do Te
 
 6 - A realização de montarias e batidas a espécies de caça maior carece de comunicação prévia ao ICN.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - As acções de correcção da densidade das espécies cinegéticas previstas no artigo 113.º carecem de parecer favorável do ICN a emitir no prazo de cinco dias, findo o qual pode o procedimento prosseguir e vir a ser decidido sem o parecer.
 
@@ -847,13 +1132,17 @@ b) Os locais definidos em portaria do Ministro do Ambiente, do Ordenamento do Te
 
 3 - ...
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - ...
 
 2 - A competência prevista no número anterior pode ser delegada em funcionário com categoria não inferior a director de serviços ou equiparado e, no das áreas classificadas, no presidente do ICN, que poderá subdelegar em funcionário com categoria não inferior a director de serviços ou equiparado.
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - ...
 
@@ -959,7 +1248,9 @@ f) De (euro) 500 a (euro) 3700, no caso das alíneas a), b), c), f), i), o), bb)
 
 4 - ...
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - ...
 
@@ -969,13 +1260,17 @@ f) De (euro) 500 a (euro) 3700, no caso das alíneas a), b), c), f), i), o), bb)
 
 4 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e do presente diploma são atribuídas à DGRF, sem prejuízo do disposto no número seguinte, as receitas previstas no Artigo 41.º da referida lei.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - ...
 
@@ -993,7 +1288,9 @@ e) [Anterior alínea f).]
 
 f) [Anterior alínea g).]
 
-###### Artigo 161.º — Cartas de caçador e licenças de caça
+Artigo 161.º
+
+Cartas de caçador e licenças de caça
 
 1 - ...
 
@@ -1001,7 +1298,9 @@ f) [Anterior alínea g).]
 
 3 - Até à publicação da portaria referida no artigo 73.º, mantém-se em vigor o disposto no artigo 69.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro.
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - Exceptuando o disposto no Artigo seguinte, as zonas de caça criadas ao abrigo dos diplomas que regularam a [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e ao abrigo do Decreto Lei n.º 227-B/2000, de 15 de Setembro, mantêm-se válidas até ao fim do respectivo período de vigência, ficando os respectivos titulares apenas sujeitos ao cumprimento das obrigações previstas no presente diploma.
 
@@ -1009,13 +1308,17 @@ f) [Anterior alínea g).]
 
 3 - (Revogado.)
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a exclusão dos terrenos referidos no n.º 1 do artigo 28.º pode ser requerida no prazo de um ano sobre a data de publicação da portaria de criação ou de renovação da zona de caça.
 
 2 - Às ZCM criadas ao abrigo do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, aplica-se o disposto no seu Artigo 26.º
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 1 - A DGRF fornece à Direcção-Geral do Turismo os elementos previstos na alínea a) do n.º 1 do artigo 43.º, nos termos previstos na alínea e) do n.º 1 do artigo 42.º
 
@@ -1023,7 +1326,9 @@ f) [Anterior alínea g).]
 
 3 - A DGRF pode solicitar informações às secretarias judiciais sobre o andamento dos processos relativos às infracções de caça a que se refere o número anterior.
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 Sem prejuízo do regime transitório previsto no artigo seguinte, são revogados:
 
@@ -1095,11 +1400,15 @@ jj) ...
 
 ll) ...
 
-###### Artigo 171.º — Regime transitório
+Artigo 171.º
+
+Regime transitório
 
 O disposto nas portarias e despachos revogados pelo artigo anterior, desde que não contrarie as normas constantes no presente diploma, mantém-se transitoriamente em vigor, com as devidas adaptações, até à publicação das portarias e despachos necessários à aplicação do presente diploma.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -1187,15 +1496,15 @@ As referências feitas no [Decreto-Lei n.º 202/2004](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - João José Amaral Tomaz - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 31 de Outubro de 2005.**
+Promulgado em 31 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Novembro de 2005.**
+Referendado em 2 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — ([Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto)
 
@@ -1387,7 +1696,7 @@ c) Em áreas superiores a 300 ha, nos processos de renovação que incluam terre
 
 #### SECÇÃO II — Zonas de caça nacionais e municipais
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -1433,7 +1742,7 @@ b) Propor ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas a cr
 
 ###### Artigo 18.º — Decisão final
 
-**O Ministro da Agricultura, Desenvolvimento Rural e das Pescas pode:**
+O Ministro da Agricultura, Desenvolvimento Rural e das Pescas pode:
 
 a) Conceder, por portaria, a respectiva transferência de gestão;
 
@@ -1491,7 +1800,7 @@ d) Por decisão do Ministro da Agricultura, do Desenvolvimento Rural e das Pesca
 
 2 - A extinção da transferência prevista nas alíneas a), b) e d) do número anterior é objecto de portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Zonas de caça nacionais
 
@@ -1521,7 +1830,7 @@ Zonas de caça nacionais
 
 2 - É proibido o exercício da caça em ZCN relativamente às quais não exista PAE aprovado.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Zonas de caça municipais
 
@@ -1605,7 +1914,7 @@ d) Verificar o cumprimento cabal das obrigações previstas no artigo 19.º
 
 #### SECÇÃO III — Zonas de caça associativas e turísticas
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -1635,7 +1944,7 @@ A concessão de zonas de caça associativas e turísticas é efectuada pelos pra
 
 2 - A área correspondente a cada associado não pode ser superior a 50 ha.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Procedimentos para a concessão das zonas de caça associativas e turísticas
 
@@ -1711,7 +2020,7 @@ b) Propor ao Ministro da Agricultura, do Desenvolvimento Rural e Pescas a conces
 
 ###### Artigo 40.º — Decisão final
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e Pescas decide:**
+O Ministro da Agricultura, do Desenvolvimento Rural e Pescas decide:
 
 a) Conceder, por portaria, a respectiva concessão;
 
@@ -1793,7 +2102,7 @@ Ocorrendo alteração na estrutura ou tipologia de uma ou várias zonas de caça
 
 Sem prejuízo dos direitos emergentes de denúncia unilateral de acordos, à desanexação de prédios de zonas de caça já constituídas e a pedido do concessionário é aplicável o definido nos artigos 35.º e 38.º a 40.º, com as devidas adaptações.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Renovação, suspensão e extinção de concessões
 
@@ -3083,7 +3392,7 @@ O Conselho Nacional da Caça e da Conservação da Fauna é presidido pelo Minis
 
 ###### Artigo 154.º — Funcionamento
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas pode convidar para participarem nas reuniões do Conselho Nacional da Caça e da Conservação da Fauna representantes de serviços públicos ou pessoas de reconhecida competência sobre as matérias a apreciar.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas pode convidar para participarem nas reuniões do Conselho Nacional da Caça e da Conservação da Fauna representantes de serviços públicos ou pessoas de reconhecida competência sobre as matérias a apreciar.
 
 ###### Artigo 155.º — Competências
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/202/2007/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2007-638574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fd072b24662635227b8d9f1d1661687b9497eb37654f98e52e8bcd0f8b496e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec18ee454771895f9cf27b9230989b5f24cdd3305d0e574dd2d336c02bdb4077
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Açores
 - Cartografia
 - Conselho Coordenador de Cartografia
 - Definição de Competências
-- Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Homologação
+- Instituto Geográfico Português
 - Instituto Hidrográfico
 - Madeira.região Autónoma
+- Ministro do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Modernização Administrativa
 - Regime Jurídico
-- Açores
-- Instituto Geográfico Português
 relationships:
 - type: amended_by
   target: pt:dre:124324702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494010:por
+  label: "Alterado o art. 3º do Dec Lei 193/95, de 28-Jul, na redacção do presente diploma, que o republicou, pelo DEC LEI.180/2009.07.08.2009.MAOTDR,\
+    \ DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2009-494010
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:670024:por
+  label: "Alterados os art.s 2º e 8º do Dec Lei 193/95, de 28-Jul, na redacção do presente diploma, pelo DEC LEI.84/2011.20.06.2011.MAOT,\
+    \ DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2011-670024
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:56941586:por
+  label: Alterados, a partir de 18.11.2014, os arts. 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 15.º, 16.º e 17.º do Dec Lei 193/95
+    de 28-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 141/2014 - Diário da República n.º 181/2014, Série
+    I de 2014-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2014-56941586
+  date: '2014-09-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/193/1995/07/28/p/dre
   label: null
@@ -94,16 +113,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/2002/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/2002/03/15/p/dre
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484653:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:45Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +189,9 @@ b) «Cartografia temática de base topográfica» a cartografia de finalidade si
 
 c) «Cartografia hidrográfica» a cartografia que tem como objecto a representação gráfica da morfologia e da natureza do fundo das zonas imersas e da região emersa adjacente.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - (Anterior n.º 2.)
 
@@ -172,7 +209,9 @@ c) «Cartografia hidrográfica» a cartografia que tem como objecto a representa
 
 8 - Para a produção da cartografia referida no n.º 1 podem os organismos e serviços públicos competentes recorrer à colaboração de entidades que satisfaçam as condições referidas nos números anteriores.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Entende-se por cartografia oficial, para efeitos do presente diploma, toda a cartografia produzida no âmbito do n.º 1 do artigo anterior.
 
@@ -184,13 +223,17 @@ c) «Cartografia hidrográfica» a cartografia que tem como objecto a representa
 
 5 - As entidades e os serviços públicos e as entidades concessionárias apenas podem utilizar cartografia oficial, desde que disponível.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O Conselho Coordenador de Cartografia depende do Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +275,9 @@ r) [Anterior alínea n).]
 
 3 - Por convite do presidente do Conselho Coordenador de Cartografia e sempre que tal se justifique em função da agenda de trabalhos, podem ainda participar no Conselho, sem direito a voto, as entidades referidas no n.º 2 do artigo 5.º ou outras entidades de reconhecido mérito.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -246,7 +291,9 @@ r) [Anterior alínea n).]
 
 6 - O estatuto remuneratório dos membros que integram a comissão permanente referida no número anterior é fixado por despacho conjunto dos Ministros das Finanças e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.
 
-###### Artigo 8.º — Regime de declaração prévia
+Artigo 8.º
+
+Regime de declaração prévia
 
 1 - Com excepção dos organismos produtores de cartografia oficial, encontra-se sujeito a declaração prévia ao IGP o exercício de actividades no domínio da produção de cartografia topográfica ou temática de base topográfica.
 
@@ -266,7 +313,9 @@ b) [Anterior alínea b) do n.º 4.]
 
 7 - A cessação do exercício de actividades no domínio da produção de cartografia topográfica ou temática de base topográfica e de actividades no domínio da produção de cartografia hidrográfica deve ser comunicada, respectivamente, ao IGP e ao IH, que procedem à actualização das listagens referidas no número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As actividades previstas no n.º 2 do artigo 1.º, exercidas por qualquer entidade sujeita ao regime constante do artigo 8.º, podem ser inspeccionadas, respectivamente, pelo IGP e pelo IH, que, a qualquer momento, podem solicitar e consultar toda a documentação técnica relativa aos trabalhos realizados.
 
@@ -276,7 +325,9 @@ b) [Anterior alínea b) do n.º 4.]
 
 4 - No exercício das competências previstas no n.º 1 por parte do IH, deve esta entidade remeter ao IGP os relatórios das acções efectuadas, para conhecimento.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Para fins de utilização pública, a produção cartográfica das entidades referidas nos n.os 1 e 2 do artigo 8.º encontra-se sujeita a homologação.
 
@@ -292,7 +343,9 @@ b) [Anterior alínea b) do n.º 4.]
 
 7 - O IGP e o IH divulgam nas respectivas páginas da Internet listagem com os resultados dos processos de homologação de produção cartográfica que lhes tenham sido submetidos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Compete ao IGP e ao IH a fiscalização do cumprimento do presente diploma, nas respectivas áreas de competência.
 
@@ -300,7 +353,9 @@ b) [Anterior alínea b) do n.º 4.]
 
 3 - Para os efeitos do disposto no n.º 1, o Instituto Geográfico do Exército colabora com o IGP nas acções de fiscalização, prestando apoio técnico sempre que necessário.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -350,15 +405,15 @@ O presente decreto-lei entra em vigor no 1.º dia útil após a sua publicação
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 9 de Maio de 2007.**
+Promulgado em 9 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 11 de Maio de 2007.**
+Referendado em 11 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Republicação do [Decreto-Lei n.º 193/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1995-484653), de 28 de Julho
 

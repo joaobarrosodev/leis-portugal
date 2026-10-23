@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02300/0064800651.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2015/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2015-66414231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23b9b41c0aeab2929741fe0cc29e8570d8813f8b5d4bc1bf2ad92b2b94fddca9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de053bd1740667f702461b89dd97e9377e29bb2ba1c594452d3683ba92e2f472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ficheiro Informático
+- Base de Dados
 - Cartão de Identificação
 - Comissão Nacional de Protecção de Dados
-- Instituto dos Registos e do Notariado
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
 - Emolumento
-- Registos e Notariado
-- Conselho Diretivo
-- Base de Dados
+- Ficheiro Informático
+- Instituto dos Registos e do Notariado
 - Pessoa Coletiva
 - Presidente
 - Registo Nacional de Pessoas Coletivas
+- Registos e Notariado
 - Regulamento Emolumentar dos Registos e Notariado
 relationships:
 - type: amended_by
@@ -97,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:59Z'
   warnings: []
   errors: []
 ---
@@ -365,12 +377,12 @@ O presente decreto-lei entra em vigor no prazo de 120 dias a contar da sua publi
 
 Visto e aprovado em Conselho de Ministros de 31 de dezembro de 2014. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 23 de janeiro de 2015.**
+Promulgado em 23 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de janeiro de 2015.**
+Referendado em 27 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

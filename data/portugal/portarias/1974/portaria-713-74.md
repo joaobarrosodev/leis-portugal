@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/713-1974-471507
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:34:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 267f190d5250e2d124aa21697a5964c58155b3d358faa6140a6a424e4926de2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e03b918e3b3d43a4674fcfeccbabf565ddf1f5629c58ae6671dc7e7d3576f41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:34:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:34:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 ### CAPÍTULO III — Ocupação de terrenos marginais
 
-###### Art. 67.º Pela ocupação de terrenos marginais com edificações, vedações ou depósitos de qualquer natureza cobra-se:
+Art. 67.º Pela ocupação de terrenos marginais com edificações, vedações ou depósitos de qualquer natureza cobra-se:
 
 a) Destinados a instalações ligadas a actividades portuárias:
 
@@ -118,7 +130,7 @@ Por metro quadrado e por ano ... 8$00
 
 ...
 
-###### Art. 71.º Pela utilização de guindastes, transportadores ou outros aparelhos de carga ou descarga da Junta, não incluindo a lingagem, são cobradas as seguintes taxas:
+Art. 71.º Pela utilização de guindastes, transportadores ou outros aparelhos de carga ou descarga da Junta, não incluindo a lingagem, são cobradas as seguintes taxas:
 
 a) Guindastes manuais:
 
@@ -154,7 +166,7 @@ Zorras (atrelados) - Por hora ... 7$50
 
 ### CAPÍTULO IV — Fornecimento de pessoal
 
-###### Art. 120.º ...
+Art. 120.º ...
 
 1.ª categoria. - Encarregados de tráfego e armazéns, mestres marítimos de 1.ª classe, motoristas marítimos de 1.ª classe, manobradores de guindaste de 1.ª classe, motoristas de tráfego de 1.ª classe, encarregados de obras de 1.ª classe, mestres de oficinas e agentes de cais de 1.ª classe ... 40$00
 
@@ -174,7 +186,7 @@ Zorras (atrelados) - Por hora ... 7$50
 
 ...
 
-###### Art. 149.º As licenças indicadas sob os n.os 1, 2, 5, 7, 8, 11, 12, 17, 19, 20 e 24 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, nas zonas sob jurisdição da Junta Antónoma dos Portos de Sotavento do Algarve, são conferidas e cobradas por esta Junta.
+Art. 149.º As licenças indicadas sob os n.os 1, 2, 5, 7, 8, 11, 12, 17, 19, 20 e 24 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, nas zonas sob jurisdição da Junta Antónoma dos Portos de Sotavento do Algarve, são conferidas e cobradas por esta Junta.
 
 § 1.º Até à revisão do Regulamento Geral das Capitanias, as actividades indicadas sob o n.º 20 da alínea ss) referida neste artigo, quando requeridas para praias de banhos, serão licenciadas pelas autoridades marítimas, sob parecer das autoridades portuárias.
 

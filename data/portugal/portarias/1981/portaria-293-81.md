@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/03/07100/07780778.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-1981-389616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c3453a0df3705f0c500dccabfd1686908b4b99e8577d7a2ea17af70e30f5fdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed9dd74ec8f881b56dcf0e68d63184fdb348e702577f03f665e4cb0441df4d13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Naval
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:170142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 471/86, DE 28 DE AGOSTO, PUBLICADA NO DR.IS, 197.\0197."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:42:25Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 O n.º 2 do artigo 113.º do Regulamento da Escola Naval, aprovado e posto em execução pela [Portaria n.º 313-A/78](https://diariodarepublica.pt/dr/detalhe/portaria/313-a-1978-170142), de 9 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 113.º - 1 - ...
+Art. 113.º - 1 - ...
 
 2 - No âmbito dos cursos poderão, por despacho do Chefe do Estado-Maior da Armada, ser organizados currículos diferenciados, por forma a fornecer uma cobertura alargada em campos de especial interesse da Marinha.
 

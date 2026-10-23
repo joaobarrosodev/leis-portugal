@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/501-1971-630615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4f80af02bd0c7005ce906c2ea6d6e50888af03e08d5b675173b3578b8e46f6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47fe727a20369a5164c9ef42ce0368da8ccbdef315da26bdc36bf51192eed3be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146259:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:31Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e p�
 
 REGULAMENTO DE UNIFORMES DO PESSOAL DO TROÇO DO MAR
 
-###### Artigo 1.º - 1. Os artigos de uniforme para uso do pessoal do troço do mar compreendem:
+Artigo 1.º - 1. Os artigos de uniforme para uso do pessoal do troço do mar compreendem:
 
 a) Artigos pertencentes ao pessoal;
 
@@ -96,13 +100,13 @@ b) Artigos pertencentes às unidades e serviços.
 
 2. Os artigos referidos na alínea b) do número anterior apenas são usados quando as necessidades do serviço o justifiquem.
 
-###### Art. 2.º - 1. Os artigos da alínea a) do n.º 1 do artigo anterior são fornecidos pelas unidades ou serviços e requisitados pelos respectivos conselhos administrativos ao Depósito de Fardamento.
+Art. 2.º - 1. Os artigos da alínea a) do n.º 1 do artigo anterior são fornecidos pelas unidades ou serviços e requisitados pelos respectivos conselhos administrativos ao Depósito de Fardamento.
 
 2. Estes artigos são pagos pelo pessoal através do auxílio para fardamento a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), de 14 de Dezembro, e, em caso de dívida elevada, através de descontos nos seus vencimentos.
 
-###### Art. 3.º Os artigos da alínea b) do n.º 1 do artigo 1.º são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga.
+Art. 3.º Os artigos da alínea b) do n.º 1 do artigo 1.º são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga.
 
-###### Art. 4.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
+Art. 4.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Boné;
 
@@ -148,7 +152,7 @@ v) Sapatos pretos;
 
 x) Tranqueta para a gravata.
 
-###### Art. 5.º Os artigos da alínea b) do n.º 1 do artigo 1.º são os seguintes:
+Art. 5.º Os artigos da alínea b) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Botas de água;
 
@@ -164,21 +168,21 @@ f) Meias;
 
 g) Sueste.
 
-###### Art. 6.º - 1. O boné é idêntico ao usado pelos sargentos da Armada.
+Art. 6.º - 1. O boné é idêntico ao usado pelos sargentos da Armada.
 
 2. O emblema (fig. 1) é constituído por uma roda do leme, com 0,02 m de diâmetro entre as extremidades das malaguetas, bordada a fio de ouro sobre pano azul-ferrete, dentro de uma elipse de 0,035 m de altura por 0,025 m de largura, formada por duas serrilhas de ouro, encimada por um escudo nacional assente sobre uma esfera armilar com 0,02 m de diâmetro, tudo bordado a ouro e com o fundo do escudo de prata.
 
 3. No boné dos cabos da ponte e maquinistas-chefes a elipse é circundada por um silvado com um ramo de loureiro e outro de carvalho, bordado a ouro, tendo o emblema exteriormente 0,07 m x 0,07 m e sendo tudo bordado sobre pano azul-ferrete.
 
-###### Art. 7.º As botas de água são do modelo em uso na Armada.
+Art. 7.º As botas de água são do modelo em uso na Armada.
 
-###### Art. 8.º Os botões de metal são idênticos e dos mesmos padrões que os usados:
+Art. 8.º Os botões de metal são idênticos e dos mesmos padrões que os usados:
 
 a) Pelos oficiais da Armada, para os cabos da ponte e maquinistas-chefes;
 
 b) Pelos sargentos da Armada, para os patrões e sota-patrões de costa e maquinistas de 1.ª e 2.ª classes.
 
-###### Art. 9.º Os botões de massa são redondos, lisos, com quatro orifícios ao centro, de cor branca, preta ou cinzenta-azulada e são de três padrões:
+Art. 9.º Os botões de massa são redondos, lisos, com quatro orifícios ao centro, de cor branca, preta ou cinzenta-azulada e são de três padrões:
 
 a) N.º 3, com 0,02 m de diâmetro;
 
@@ -186,39 +190,39 @@ b) N.º 4, com 0,015 m de diâmetro;
 
 c) N.º 5, com 0,01 m de diâmetro.
 
-###### Art. 10.º As calças azuis são idênticas, no tecido e modelo, às calças azuis do padrão n.º 2 dos sargentos da Armada, mas os botões são pretos, do padrão n.º 4.
+Art. 10.º As calças azuis são idênticas, no tecido e modelo, às calças azuis do padrão n.º 2 dos sargentos da Armada, mas os botões são pretos, do padrão n.º 4.
 
-###### Art. 11.º As calças brancas são idênticas, no tecido e talhe, às usadas pelos sargentos da Armada, mas os botões são brancos, do padrão n.º 4.
+Art. 11.º As calças brancas são idênticas, no tecido e talhe, às usadas pelos sargentos da Armada, mas os botões são brancos, do padrão n.º 4.
 
-###### Art. 12.º As calças de zuarte são de tecido de zuarte azul-ferrete e com o mesmo talhe das calças brancas e os botões são pretos, do padrão n.º 4.
+Art. 12.º As calças de zuarte são de tecido de zuarte azul-ferrete e com o mesmo talhe das calças brancas e os botões são pretos, do padrão n.º 4.
 
-###### Art. 13.º As calças impermeáveis são do modelo em uso na Armada.
+Art. 13.º As calças impermeáveis são do modelo em uso na Armada.
 
-###### Art. 14.º - 1. A camisa azul e a camisa branca são idênticas nos tecidos e modelos, respectivamente, à camisa azul e camisa branca (padrão n.º 3) dos sargentos da Armada.
+Art. 14.º - 1. A camisa azul e a camisa branca são idênticas nos tecidos e modelos, respectivamente, à camisa azul e camisa branca (padrão n.º 3) dos sargentos da Armada.
 
 2. Os botões da camisa azul são cinzento-azulados, do padrão n.º 4, e os da camisa branca são brancos, do padrão n.º 5.
 
-###### Art. 15.º - 1. A camisola de lã é do tipo Jersey, de malha de lã azul-escura, do modelo usado pelas praças da Armada.
+Art. 15.º - 1. A camisola de lã é do tipo Jersey, de malha de lã azul-escura, do modelo usado pelas praças da Armada.
 
 2. A camisola de lã é usada por debaixo da camisa azul.
 
-###### Art. 16.º A capa branca para boné é de tecido e talhe idênticos à usada pelos sargentos da Armada.
+Art. 16.º A capa branca para boné é de tecido e talhe idênticos à usada pelos sargentos da Armada.
 
-###### Art. 17.º O capote de abafo é do modelo em uso na Armada.
+Art. 17.º O capote de abafo é do modelo em uso na Armada.
 
-###### Art. 18.º O casaco impermeável é do modelo em uso na Armada.
+Art. 18.º O casaco impermeável é do modelo em uso na Armada.
 
-###### Art. 19.º O chapéu é do tecido e modelo usados pelas praças da Armada.
+Art. 19.º O chapéu é do tecido e modelo usados pelas praças da Armada.
 
-###### Art. 20.º O cinto azul e o cinto branco são dos modelos usados pelos sargentos da Armada.
+Art. 20.º O cinto azul e o cinto branco são dos modelos usados pelos sargentos da Armada.
 
-###### Art. 21.º Os distintivos a usar pelo pessoal compreendem:
+Art. 21.º Os distintivos a usar pelo pessoal compreendem:
 
 a) Distintivo do pessoal do troço do mar;
 
 b) Distintivos da categoria.
 
-###### Art. 22.º - 1. O distintivo do pessoal do troço do mar, bordado a fio de ouro, é constituído por uma roda do leme, com seis malaguetas, com as seguintes dimensões:
+Art. 22.º - 1. O distintivo do pessoal do troço do mar, bordado a fio de ouro, é constituído por uma roda do leme, com seis malaguetas, com as seguintes dimensões:
 
 a) 0,04 m de diâmetro entre as extremidades das malaguetas opostas;
 
@@ -232,7 +236,7 @@ c) 0,02 m de diâmetro interior da roda.
 
 4. Para os marinheiros, electricistas e ajudantes de maquinista o distintivo é bordado sobre fundo de pano azul-ferrete nas passadeiras (figs. 15, 16 e 17).
 
-###### Art. 23.º - 1. Os distintivos da categoria do pessoal, bordados a fio de ouro, são:
+Art. 23.º - 1. Os distintivos da categoria do pessoal, bordados a fio de ouro, são:
 
 a) Âncora, para os cabos da ponte, patrões e sota-patrões de costa e marinheiros;
 
@@ -258,19 +262,19 @@ e) Losango referido no n.º 2 do artigo anterior, para os cabos da ponte e maqui
 
 8. O losango é usado como foi descrito no n.º 2 do artigo anterior (figs. 2, 3, 4 e 5).
 
-###### Art. 24.º O fato de zuarte é do modelo em uso na Armada.
+Art. 24.º O fato de zuarte é do modelo em uso na Armada.
 
-###### Art. 25.º A gravata de lã é preta e idêntica à usada pelos sargentos da Armada.
+Art. 25.º A gravata de lã é preta e idêntica à usada pelos sargentos da Armada.
 
-###### Art. 26.º - 1. O jaquetão azul é de tecido igual ao do blusão azul dos sargentos da Armada e de modelo igual ao do jaquetão azul dos mesmos sargentos.
+Art. 26.º - 1. O jaquetão azul é de tecido igual ao do blusão azul dos sargentos da Armada e de modelo igual ao do jaquetão azul dos mesmos sargentos.
 
 2. Na parte posterior da extremidade de cada manga, junto à costura, leva dois botões de metal do padrão n.º 2, distanciados entre si de 0,05 m, ficando o inferior a 0,04 m da extremidade da manga.
 
 3. Em cada ombro tem duas pequenas passadeiras fixas do mesmo tecido para colocação das platinas rígidas.
 
-###### Art. 27.º As meias são de lã branca, de altura até ao joelho.
+Art. 27.º As meias são de lã branca, de altura até ao joelho.
 
-###### Art. 28.º - 1. As passadeiras são de modelo idêntico às usadas pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes nas camisas azul e branca.
+Art. 28.º - 1. As passadeiras são de modelo idêntico às usadas pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes nas camisas azul e branca.
 
 2. São guarnecidas na face superior com os distintivos do pessoal do troço do mar e da respectiva categoria.
 
@@ -282,9 +286,9 @@ e) Losango referido no n.º 2 do artigo anterior, para os cabos da ponte e maqui
 
 6. Os distintivos do pessoal do troço do mar ficam centrados em relação à face superior da passadeira, para os marinheiros, electricistas e ajudantes de maquinista (figs. 15, 16 e 17).
 
-###### Art. 29.º As peúgas pretas são de algodão, lisas e sem enfeites.
+Art. 29.º As peúgas pretas são de algodão, lisas e sem enfeites.
 
-###### Art. 30.º - 1. As platinas são de modelo idêntico às usadas pelos oficiais da Armada e são colocadas em pequenas passadeiras fixas existentes nos ombros do jaquetão azul.
+Art. 30.º - 1. As platinas são de modelo idêntico às usadas pelos oficiais da Armada e são colocadas em pequenas passadeiras fixas existentes nos ombros do jaquetão azul.
 
 2. As platinas são guarnecidas na face superior com os distintivos do pessoal do troço do mar e da respectiva categoria.
 
@@ -294,36 +298,36 @@ e) Losango referido no n.º 2 do artigo anterior, para os cabos da ponte e maqui
 
 5. A extremidade da malagueta inferior do distintivo do pessoal do troço de mar é colocada à distância de 0,015 m da linha dos centros dos emblemas nacionais, para os patrões e sota-patrões de costa e maquinistas de 1.ª e 2.ª classes (figs. 7, 9, 11 e 13).
 
-###### Art. 31.º As rodas do leme metálicas são de metal dourado, com 0,015 m de diâmetro entre as extremidades das malaguetas, e colocadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,05 m dos vértices exteriores e na linha de bissectriz dos bicos.
+Art. 31.º As rodas do leme metálicas são de metal dourado, com 0,015 m de diâmetro entre as extremidades das malaguetas, e colocadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,05 m dos vértices exteriores e na linha de bissectriz dos bicos.
 
-###### Art. 32.º Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
+Art. 32.º Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
 
-###### Art. 33.º O sueste é do modelo em uso na Armada.
+Art. 33.º O sueste é do modelo em uso na Armada.
 
-###### Art. 34.º A tranqueta para a gravata é igual à usada pelos sargentos da Armada.
+Art. 34.º A tranqueta para a gravata é igual à usada pelos sargentos da Armada.
 
-###### Art. 35.º - 1. Os uniformes do pessoal do troço do mar, bem como as ocasiões e serviços em que devem ser usados, são estabelecidos na tabela anexa a este Regulamento.
+Art. 35.º - 1. Os uniformes do pessoal do troço do mar, bem como as ocasiões e serviços em que devem ser usados, são estabelecidos na tabela anexa a este Regulamento.
 
 2. O uso do uniforme é obrigatório em serviço ou quando determinado superiormente.
 
 3. O uso do uniforme no exterior dos estabelecimentos e embarcações do Ministério da Marinha só é permitido em serviço, desde que determinado superiormente.
 
-###### Art. 36.º As disposições do Regulamento de Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada, desde que não colidam com o presente diploma e sejam aplicáveis, são extensivas ao pessoal do troço do mar em tudo o que este Regulamento for omisso, nomeadamente no que se refere a auxílio e descontos para fardamento e fornecimento, extravio e deterioração de artigos
+Art. 36.º As disposições do Regulamento de Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada, desde que não colidam com o presente diploma e sejam aplicáveis, são extensivas ao pessoal do troço do mar em tudo o que este Regulamento for omisso, nomeadamente no que se refere a auxílio e descontos para fardamento e fornecimento, extravio e deterioração de artigos
 
-###### Art. 37.º A substituição dos artigos de uniforme presentemente em vigor pelos aprovados por este Regulamento será regulada pelos chefes de quem o pessoal depende, de forma que a referida substituição se processe, na medida do possível, com brevidade.
+Art. 37.º A substituição dos artigos de uniforme presentemente em vigor pelos aprovados por este Regulamento será regulada pelos chefes de quem o pessoal depende, de forma que a referida substituição se processe, na medida do possível, com brevidade.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 TABELA
 
 Uniformes do pessoal do troço do mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/21700/13111321.pdf))](https://files.diariodarepublica.pt/1s/1971/09/21700/13111321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/21700/13111321.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Da FIG. 1 à FIG. 17
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/21700/13111321.pdf))](https://files.diariodarepublica.pt/1s/1971/09/21700/13111321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/21700/13111321.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

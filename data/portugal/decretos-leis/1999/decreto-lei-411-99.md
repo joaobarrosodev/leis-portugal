@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/411/1999/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1999-667135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 369e6c7d678242458e68874c98e76d491b9607074de0b92330d06a2890fd3ba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aeb8573ecf251880b31ae310185c3afc047873f0b920d90b41fdb80edb881b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
+- Administração Pública
+- Carreira Profissional
 - Concurso
 - Estatuto
-- Administração Pública
-- Sistema Retributivo
-- Carreira Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Função Pública
+- Funcionário Público
 - Pessoal de Enfermagem
 - Política Salarial
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Remuneração
-- Funcionário Público
+- Sistema Retributivo
 - Tabela Salarial
 relationships:
 - type: amended_by
   target: pt:dre:1268300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693065:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma da al. b) do art. 12º in fine, do Dec Lei\
+    \ 437/91, de 08-Nov, em conjugação com a tabela constante do anexo I do presente diploma, pelo AC.682/2005.06.12.2005.TCS,\
+    \ DR.IS-A [45] de 03.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/682-2005-693065
+  date: '2005-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -103,16 +110,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:286105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:249985:por
+  label: "Rectificado pela DECL-RECT.23-B/99.1999.12.31.PCM DR.IS-A [303]2º Supl de 31/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-b-1999-249985
+  date: '1999-12-31'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:12Z'
   warnings: []
   errors: []
 ---
@@ -175,34 +207,34 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, sem pr
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Francisco Ventura Ramos.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Tabela
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
 
 ## ANEXO II — MAPA II
 
 Tabela a aplicar entre 1 de Julho de 1999 e 30 de Junho de 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
 
 MAPA III
 
 Tabela a aplicar entre 1 de Julho e 30 de Novembro de 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
 
 MAPA IV
 
 Tabela a aplicar a partir de 1 de Dezembro de 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69596960.pdf)

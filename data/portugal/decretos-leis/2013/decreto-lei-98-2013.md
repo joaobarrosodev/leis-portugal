@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2013/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2013-498769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b58ddc1ab1949688385c96759d6585a76305b066ee0967e1a6f04ef83632e89a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d062ee57418124de9bd95f9c8f5f9d6f4b423c2ba6bc0515b75ebb99727133b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Sociedade Anónima
+- Administração do Porto de Viana do Castelo
 - Cessão de Imóveis
 - Construção Naval
 - Contrapartida
 - Contrato de Concessão
 - Estaleiros Navais de Viana do Castelo
-- Interesse Público
-- Património do Estado
-- Administração do Porto de Viana do Castelo
 - Indústria Metalúrgica
+- Interesse Público
+- Jurisdição
+- Património do Estado
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:67250267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67250267:por
+  label: Determinada a extinção da APVC - Administração do Porto de Viana do Castelo, S. A. (APVC, S. A.), através de fusão
+    por incorporação na redenominada APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A. (APDL, S.
+    A.), e revogado o Dec. Lei 211/2008 de 03-nov, na redação do presente diploma, pelo(a) Decreto-Lei n.º 83/2015 - Diário
+    da República n.º 98/2015, Série I de 2015-05-21 nos termos do art. 18.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2015-67250267
+  date: '2015-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/2005/08/26/p/dre
   label: null
@@ -96,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/297/2007/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/297/2007/08/22/p/dre
+- type: cites
+  target: pt:dre:151692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:16Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +214,7 @@ Os artigos 2.º, 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 35.570, de 1 de abr
 
 § único. Esta parcela de terreno destinar-se-á ao exercício da indústria de construção e reparação de navios podendo, ainda, ser utilizada para a instalação de indústria de fabricação de componentes para aerogeradores eólicos e para o exercício da indústria metalomecânica, assim como de atividades complementares ou conexas a todas estas.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - [Anterior corpo do artigo].
 
@@ -194,15 +222,15 @@ Os artigos 2.º, 4.º, 5.º, 6.º e 7.º do Decreto-Lei n.º 35.570, de 1 de abr
 
 3 - Os contratos de subconcessão a celebrar nos termos definidos no número anterior são previamente submetidos a aprovação dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, e devem regular, designadamente, as consequências para as subconcessões em caso de eventual dissolução e liquidação da concessionária.
 
-###### Artigo 5.º
+Artigo 5.º
 
 O prazo das subconcessões previstas no artigo anterior não pode exceder o prazo da concessão.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Os projetos referentes a obras de infraestruturas e a equipamentos fixos e os projetos de exploração de novas atividades a efetivar dentro das áreas a subconcessionar referidas no artigo 4.º, deverão ser submetidos, pelo subconcessionário, à aprovação das entidades competentes para o efeito.
 
-###### Artigo 7.º
+Artigo 7.º
 
 A execução das obras e a instalação do equipamento fixo, conforme previsto no artigo anterior, estão sujeitos à fiscalização do concedente.»
 
@@ -240,42 +268,44 @@ O presente decreto-lei entra em vigor no dia seguinte à data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 27 de junho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Álvaro Santos Pereira.
 
-**Promulgado em 22 de julho de 2013.**
+Promulgado em 22 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de julho de 2013.**
+Referendado em 22 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
-## ANEXO V — Anexo VII ao Decreto-Lei nº 211/2008 de 03/11 - Artigo 12º, Nº 3
+## ANEXO V
+
+## Anexo VII ao Decreto-Lei nº 211/2008 de 03/11 - Artigo 12º, Nº 3
 
 A - Redes de Fluidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
 B - Redes de Drenagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
 C - Redes de Eletricidade e Telefones
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
 D - Vedações e Captações de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
 
 E - Edifícios, áreas tratadas e equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14100/0433604342.pdf)

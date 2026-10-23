@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05500/07470747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-1984-661107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a25f06c134fb9b8a1be495e2e275cce2edd72d0b16de7484ea7c33f21875ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd54a9d89a8628ae5e362c73d8a7d443795c35012e7b51c3e90b96537cacfee9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Fogos
+- CASA do Estado
+- Custo da Construção
+- Habitação Social
 relationships:
 - type: amended_by
   target: pt:dre:327127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600961:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:631589:por
+  label: Rectificada pela DECL.DD2398.1984.03.26.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631589
+  date: '1984-03-26'
+- type: repealed_by
+  target: pt:dre:327127:por
+  label: "Revogada pela PORT.114/85.1985.02.21.MES DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-1985-327127
+  date: '1985-02-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:17Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +137,6 @@ tendo os parâmetros o mesmo significado da alínea anterior.
 
 Ministério do Equipamento Social.
 
-**Assinada em 15 de Fevereiro de 1984.**
+Assinada em 15 de Fevereiro de 1984.
 
-**O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Equipamento Social, João Rosado Correia.

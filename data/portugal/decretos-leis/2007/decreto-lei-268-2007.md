@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14300/0476104771.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/2007/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2007-636707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b15cbcd51afe4350cfa63edcbc41ca0a66bf4ea4d07a8aafd247b209ac034d45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feba520cb5551dcb225be0d29b5a923a491276cdb6c5462a0f1569bfbf7b70b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aeroporto
-- Instituto Nacional de Aviação Civil
-- Domínio Público Aeroportuário
-- Licenciamento
 - Administração de Aeroportos
+- Aeroporto
 - ANA
+- Domínio Público Aeroportuário
+- Instituto Nacional de Aviação Civil
+- Licenciamento
 - Taxa
 - Taxa Aeroportuária
 relationships:
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:190615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489496:por
+  label: "Alterados os arts. 2º, 16º, 21º, 26º e revogados os arts. 18º e 19º do Dec Lei 102/90 de 21-Mar, com a redacção\
+    \ constante do presente diploma, pelo DEC LEI.216/2009.04.09.2009.MOPTC, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2009-489496
+  date: '2009-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -96,16 +102,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/11/2007/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/11/2007/03/06/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o Dec Lei 102/90, de 21-mar, na redação do presente diploma e dos Dec Lei 280/99, de 26-jul e 216/2009,\
+    \ de 04-set , pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
-  article_count: 57
+  article_count: 36
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:00Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +224,7 @@ d) Se trate de licenciamento de locais ou espaços de área igual ou inferior a 
 
 6 - Os procedimentos de selecção referidos no presente artigo regem-se, com as devidas adaptações, pelo disposto no [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, em tudo o que não estiver especialmente regulado neste diploma.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Compete às entidades licenciadoras a fixação das condições de admissão, das regras processuais e dos critérios de selecção aplicáveis nos procedimentos de selecção que forem adoptados no licenciamento da ocupação e do exercício de actividades na área dos aeroportos e aeródromos públicos.
 
@@ -194,7 +234,7 @@ d) Se trate de licenciamento de locais ou espaços de área igual ou inferior a 
 
 4 - Nos casos em que o licenciamento se processe por concurso público, as respectivas condições de admissão, regras processuais e critérios de selecção devem constar do aviso de lançamento do concurso, a publicar num jornal diário de circulação nacional.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - As licenças são outorgadas por prazo certo até ao limite de cinco anos, podendo ser sucessivamente prorrogadas, por períodos inferiores ou superiores àquele limite, consoante os casos, desde que a prorrogação seja requerida pelos respectivos titulares com a antecedência mínima de 90 dias relativamente ao termo do período em vigor da mesma.
 
@@ -206,11 +246,11 @@ d) Se trate de licenciamento de locais ou espaços de área igual ou inferior a 
 
 5 - As prorrogações das licenças referidas nos n.os 1 e 4 dependem sempre de autorização expressa da entidade licenciadora.
 
-###### Artigo 7.º
+Artigo 7.º
 
 Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vigência destas, em prejuízo das leis e regulamentos em vigor ou das determinações dos órgãos de polícia, regulação e fiscalização das actividades exercidas nos aeroportos e aeródromos públicos, no exercício das competências que lhes estão cometidas por lei.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os titulares de licenças podem construir, reconstruir, demolir, ampliar, alterar, modificar ou remodelar os terrenos, construções e instalações objecto das mesmas desde que previamente autorizados por escrito pelas entidades referidas no artigo 1.º, sem prejuízo de outros requisitos e do regime fixados por lei ou regulamento, bem como da intervenção de outras autoridades ou entidades no âmbito da legislação específica aplicável ao tipo e natureza da obra ou da actividade a realizar.
 
@@ -220,7 +260,7 @@ Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vig�
 
 4 - Sem prejuízo dos eventuais poderes de fiscalização e vistoria legalmente atribuídos a outras entidades, compete às entidades referidas no artigo 1.º fiscalizar a conformidade da execução da obra autorizada com o respectivo projecto final.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Os titulares das licenças são responsáveis pela manutenção, reparação, conservação e segurança dos terrenos, construções e instalações licenciados e dos demais bens que lhes forem confiados pelas entidades licenciadoras, bem como por todos os danos e modificações causados nos mesmos que não possam imputar-se ao desgaste provocado pelo seu uso normal.
 
@@ -228,7 +268,7 @@ Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vig�
 
 3 - ...
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - ...
 
@@ -236,7 +276,7 @@ Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vig�
 
 3 - Os titulares das licenças e o respectivo pessoal estão ainda sujeitos, na área dos aeroportos e aeródromos públicos, a todas as regras, controlos de identidade e demais procedimentos de segurança determinados pelas entidades competentes.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Os direitos e deveres cometidos aos titulares das licenças, bem como as construções e edificações que estes tenham suportado ou custeado, podem ser objecto de transmissão, sob qualquer forma, desde que previamente autorizada por escrito pelas entidades licenciadoras.
 
@@ -248,7 +288,7 @@ Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vig�
 
 5 - A violação do disposto no presente artigo determina a nulidade do acto de transmissão, substituição ou constituição de hipoteca ou de qualquer outra garantia real ou de oneração de bens ou direitos, sem prejuízo das outras sanções que ao caso couberem.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - As licenças podem ser revogadas em qualquer momento, no todo ou em parte, por incumprimento pelos seus titulares de qualquer das obrigações nelas previstas, bem como com fundamento no interesse público da exploração ou segurança aeroportuária.
 
@@ -258,13 +298,13 @@ Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vig�
 
 4 - A prorrogação do prazo das licenças faz cessar o dever de indemnização referido no número anterior relativamente a todos os investimentos realizados durante o período terminado, salvo disposição em sentido diverso expressa na lei, na licença ou em acordo escrito entre as partes.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Sempre que o interesse público da exploração ou da segurança aeroportuária o exija, pode ser determinada a redução da área dos terrenos e instalações objecto de licenciamento ou a mudança da sua localização, podendo, contudo, os respectivos titulares, no prazo de 15 dias contados da comunicação da entidade licenciadora, renunciar aos seus direitos ou continuar a exercê-los mediante a nova taxa a que eventualmente haja lugar.
 
 2 - Em qualquer dos casos referidos no número anterior, os titulares das licenças têm direito a ser indemnizados nos termos do n.º 3 do artigo anterior.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Sem prejuízo do disposto no artigo 12.º, no caso de não cumprimento de qualquer das condições das licenças por parte dos seus titulares, as entidades licenciadoras podem determinar a suspensão, no todo ou em parte, das mesmas.
 
@@ -276,19 +316,19 @@ Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vig�
 
 5 - A licença pode ainda cessar os seus efeitos se as entidades licenciadoras o entenderem mais adequado aos interesses da exploração aeroportuária, sendo neste caso aplicável o disposto no n.º 3 do artigo 12.º
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Decorrido o prazo das licenças, as entidades licenciadoras entram na titularidade imediata de todos os bens insusceptíveis de serem separados das instalações e terrenos ocupados, sem prejuízo da obrigação de os titulares das licenças caducadas mandarem repor estes no estado em que se encontravam quando os receberam.
 
 2 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
 2 - Não são exigíveis quaisquer taxas às Forças Armadas e forças e serviços de segurança, bem como ao Serviço Nacional de Bombeiros e Protecção Civil e outras corporações de bombeiros, quando no exercício de competências e ou funções legais e em relação às áreas mínimas e meios de transporte oficiais ou de serviço necessários para o exercício das suas atribuições nos aeroportos.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - ...
 
@@ -316,7 +356,7 @@ b) ...
 
 8 - Consideram-se associações representativas para efeitos do número anterior, e sem prejuízo de consulta facultativa a outras entidades reconhecidas pela entidade exploradora do aeroporto, o comité de utilizadores do aeroporto, constituído nos termos do [Decreto-Lei n.º 275/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1999-352525), de 23 de Julho, bem como outras associações, legalmente constituídas, de transportadores aéreos ou de utilizadores ou prestadores de assistência em escala, e cujos associados, no seu conjunto, demonstrem representar, pelo menos, 25 % do tráfego anual movimentado ou assistido no aeroporto ou do montante de taxas cobradas pelo aeroporto.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - ...
 
@@ -328,13 +368,13 @@ b) ...
 
 5 - Não sendo emitido parecer ou aprovação pelo Instituto Nacional de Aviação Civil nos termos e prazos estipulados no n.º 3 do presente artigo, as propostas apresentadas consideram-se aprovadas.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - ...
 
 2 - Sem prejuízo do que estiver especialmente regulado, a liquidação e a cobrança das taxas referidas no número anterior regem-se pelas disposições legais e regulamentares aplicáveis à generalidade dos serviços públicos, nomeadamente pelo disposto na legislação tributária em vigor.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - As taxas devidas pela ocupação de terrenos, instalações e locais na área dos aeroportos e aeródromos públicos vencem-se no dia 1 do mês anterior àquele a que respeitam e são pagas até ao dia 8 desse mês.
 
@@ -342,31 +382,31 @@ b) ...
 
 3 - ...
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - A falta de pagamento das taxas e demais importâncias no respectivo prazo faz incorrer o devedor no pagamento de juros de mora, nos termos estabelecidos para a falta de pagamento de taxas devidas ao Estado, sem prejuízo da faculdade de a entidade licenciadora poder revogar a respectiva licença.
 
 2 - A falta de pagamento das taxas no prazo legal dá lugar à sua cobrança coerciva, acrescida dos respectivos juros de mora, em processo de execução fiscal.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - ...
 
 2 - O indeferimento é susceptível de reacção contenciosa, nos termos da lei.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - Pelas taxas e juros de mora em dívida ao abrigo do presente decreto-lei, o Estado e demais entidades a quem estiver cometida a gestão e exploração dos aeroportos ou aeródromos públicos gozam de privilégio creditório sobre os bens dos devedores que se encontrem na área dos aeroportos ou aeródromos públicos, podendo os mesmos ser objecto de retenção, até integral pagamento das quantias em dívida ou até decisão judicial.
 
 2 - No caso de bens perecíveis ou que representem comprovadamente risco para a saúde ou para a integridade física dos utentes dos aeroportos, as entidades licenciadoras podem promover a respectiva destruição ou abate ou então, se possível, a sua alienação, deduzindo, neste último caso, o valor obtido ao montante da dívida existente.
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - Os titulares das licenças, o seu pessoal, bem como os comandantes das aeronaves ou os seus representantes, devem prestar às entidades que explorem os aeroportos ou aeródromos públicos todos os esclarecimentos necessários ao processamento e cobrança das taxas, sob a forma que lhes for indicada.
 
 2 - ...
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - O disposto no presente diploma não se aplica aos aeroportos e aeródromos públicos regionais das Regiões Autónomas dos Açores e da Madeira.
 
@@ -386,15 +426,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - João António da Costa Mira Gomes - Mário Lino Soares Correia.
 
-**Promulgado em 5 de Julho de 2007.**
+Promulgado em 5 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Julho de 2007.**
+Referendado em 10 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

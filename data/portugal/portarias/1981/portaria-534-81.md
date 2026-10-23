@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-1981-578518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6739e574ee65aee187f2f9f14565cfd580f6aa0d6ab546bf035355cf50da02e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98642974eeecd24ad68609ad156faab9dfae5357b282c2871393bb675313cc82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Ministério da Saúde e Assistência
+- Orgânica
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SAO ACRESCENTADOS DOIS ANEXOS, ANTERIORMENTE OMISSOS, PELA RECTIFICAÇÃO, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 154, DE 8/7/81. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 682/82, PUBLICADA NO DIÁRIO DA\
+    \ REPÚBLICA, I SÉRIE, NUMERO 156, DE 9/7/82. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 247/84, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 92, DE 18/4/84. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO\
+    \ 463/84, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 163, DE 16/7/84. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I,\
+    \ PELA PORTARIA NUMERO 242/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 75, DE 31/3/87. ALTERADO O QUADRO DE\
+    \ PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 243/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 75, DE 31/3/87.\
+    \ ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 789/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO\
+    \ 211, DE 14/9/87. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 147/88, PUBLICADA NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 57, DE 9/3/88. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 428/88, PUBLICADA NO DIÁRIO\
+    \ DA REPÚBLICA, I SÉRIE, NUMERO 154, DE 6/7/88. ALTERADO O QUADRO DE PESSOAL, DO ANEXO I, PELA PORTARIA NUMERO 755/89,\
+    \ PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 201, DE 1/9/89. ALTERADO O QUADRO DE PESSOAL, DO ANEXO II, PELA PORTARIA\
+    \ NUMERO 247/84, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 92, DE 18/4/84. ALTERADO O QUADRO DE PESSOAL, DO ANEXO\
+    \ II, PELA PORTARIA NUMERO 243/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 75, DE 31/3/87. ALTERADO O QUADRO\
+    \ DE PESSOAL, DO ANEXO II, PELA PORTARIA NUMERO 372/87, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 101, DE 4/5/87.\
+    \ ALTERADO O QUADRO DE PESSOAL, DO ANEXO II, PELA PORTARIA NUMERO 147/88, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO\
+    \ 57, DE 9/3/88. ALTERADO O QUADRO DE PESSOAL, DO ANEXO II, PELA PORTARIA NUMERO 428/88, PUBLICADA NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 154, DE 6/7/88. ALTERADO O QUADRO DE PESSOAL DO ANEXO II, PELA PORTARIA NUMERO 755/89, PUBLICADA NO\
+    \ DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 201, DE 1/9/89. ALTERADO OS QUADROS DE PESSOAL PELA PORTARIA 446/92, PUBLICADA\
+    \ NO DR.IS-B, 124, DE 920529. ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 139/92, PUBLICADO NO DR.IS-B, 186,\
+    \ DE 920813. SUBSTITUÍDO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE SAÚDE DR RICARDO JORGE, PELA 1224/92, PUBLICADA\
+    \ NO DR.IS-B, 299, DE 921229, NA PARTE REFERENTE AS ÁREAS FUNCIONAIS DE BIBLIOTECA E DOCUMENTAÇÃO E DE ARQUIVO E CARREIRA\
+    \ TÉCNICA SUPERIOR DE SAÚDE.\0E.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:621730:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:394572:por
+  label: "Aumentado lugares ao quadro de pessoal aprovado pelo presente diploma, pela PORT.682/82.09.07.1982.MFP, DR.IS [156]\
+    \ de 09.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/682-1982-394572
+  date: '1982-07-09'
+- type: amended_by
+  target: pt:dre:311605:por
+  label: "Alterada a letra de vencimento do lugar de Secretário, constante do quadro anexo do presente diploma, pelo DEC.26/83.13.04.1983.MFP,\
+    \ DR.IS [98] de 29.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/26-1983-311605
+  date: '1983-04-13'
+- type: amended_by
+  target: pt:dre:421218:por
+  label: "Alterado o quadro de pessoal aprovado pelo anexo II pela PORT.372/87.04.05.1987.MF, DR.IS [101] de 04.05.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-1987-421218
+  date: '1987-05-04'
+- type: amended_by
+  target: pt:dre:287382:por
+  label: Alterado o quadro de pessoal do Instituto Nacional de Saúde Dr. Ricardo Jorge (sede e delegação do Porto), aprovado
+    pela presente e alterado pelas Ports 683/82, de 09-jul, 247/84, de 18-abr, 463/84, de 16-jul, 242/87, de 31-mar, 372/87,
+    de 04-mai, e 789/87, de 14-set, pelo(a) Portaria n.º 147/88 - Diário da República n.º 57/1988, Série I de 1988-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-1988-287382
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:556838:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional de Saúde Dr. Ricardo Jorge (Delegação do Porto), pela PORT.783/90.03.09.1990.MF,\
+    \ DR.IS [203] de 03.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/783-1990-556838
+  date: '1990-09-03'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580347:por
+  label: Rectificada pela DECL.DD6526.30.06.1981.PCM, DR.IS [154] de 08.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-580347
+  date: '1981-06-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:48:24Z'
   warnings: []
   errors: []
 ---

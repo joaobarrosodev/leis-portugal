@@ -56,7 +56,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/206a00/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -78,18 +78,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/62/2019/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-2019-125754985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff60ef7ef7b8c8b52d3cbd6c46537ce556441ed5873b5895364770cf4482f6dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bd15757625bf67d47ecf1aa5f32fb40ffb6b4501a8ece52025c7fa35074adfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -97,90 +97,118 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado da Administração Interna
-- Ministro de Estado e da Presidência
-- Secretário de Estado Adjunto e da Educação
-- Secretário de Estado da Educação
-- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Primeiro-ministro
-- Secretário de Estado da Saúde
+- Governo
+- Governo XXII
 - Membros do Governo
-- Secretário de Estado Adjunto e da Administração Interna
-- Secretário de Estado da Ciência Tecnologia e Ensino Superior
-- Secretário de Estado da Justiça
-- Secretário de Estado do Tesouro
-- Secretário de Estado do Ambiente
-- Secretário de Estado das Comunidades Portuguesas
+- Ministro de Estado e da Presidência
 - Nomeação
-- Presidente do Conselho de Ministros
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
 - Presidência do Conselho de Ministros
+- Presidente do Conselho de Ministros
+- Primeiro-ministro
 - Secretaria de Estado do Turismo
+- Secretário de Estado Adjunto da Defesa Nacional
+- Secretário de Estado Adjunto da Saúde
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto do Trabalho e da Formação Profissional
+- Secretário de Estado Adjunto e da Administração Interna
 - Secretário de Estado Adjunto e da Economia
+- Secretário de Estado Adjunto e da Educação
+- Secretário de Estado Adjunto e da Energia
 - Secretário de Estado Adjunto e da Justiça
 - Secretário de Estado Adjunto e das Comunicações
 - Secretário de Estado Adjunto e das Finanças
 - Secretário de Estado Adjunto e do Desenvolvimento Regional
+- Secretário de Estado Adjunto e do Património Cultural
+- Secretário de Estado da Ação Social
+- Secretário de Estado da Administração Interna
 - Secretário de Estado da Administração Pública
 - Secretário de Estado da Agricultura e do Desenvolvimento Rural
+- Secretário de Estado da Ciência Tecnologia e Ensino Superior
+- Secretário de Estado da Conservação da Natureza das Florestas e do Ordenamento do Território
+- Secretário de Estado da Descentralização e da Administração Local
+- Secretário de Estado da Educação
 - Secretário de Estado da Habitação
+- Secretário de Estado da Inclusão das Pessoas com Deficiência
+- Secretário de Estado da Inovação e da Modernização Administrativa
+- Secretário de Estado da Internacionalização
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude e Desportos
+- Secretário de Estado da Mobilidade
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado da Valorização do Interior
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Infraestruturas
 - Secretário de Estado das Pescas
+- Secretário de Estado de Recursos Humanos e Antigos Combatentes
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Cinema Audiovisual e Media
+- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
 - Secretário de Estado do Orçamento
 - Secretário de Estado do Planeamento
+- Secretário de Estado do Tesouro
 - Secretário de Estado dos Assuntos Europeus
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
-- Governo
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado para a Cidadania e a Igualdade
-- Secretário de Estado da Inclusão das Pessoas com Deficiência
-- Secretário de Estado Adjunto da Saúde
-- Secretário de Estado das Infraestruturas
-- Secretário de Estado da Internacionalização
-- Secretário de Estado da Valorização do Interior
-- Governo XXII
-- Secretário de Estado para a Transição Digital
 - Secretário de Estado para a Integração e as Migrações
-- Secretário de Estado Adjunto da Defesa Nacional
-- Secretário de Estado de Recursos Humanos e Antigos Combatentes
-- Secretário de Estado da Inovação e da Modernização Administrativa
-- Secretário de Estado da Descentralização e da Administração Local
-- Secretário de Estado Adjunto e do Património Cultural
-- Secretário de Estado do Cinema Audiovisual e Media
-- Secretário de Estado Adjunto do Trabalho e da Formação Profissional
-- Secretário de Estado da Ação Social
-- Secretário de Estado Adjunto e da Energia
-- Secretário de Estado da Conservação da Natureza das Florestas e do Ordenamento do Território
-- Secretário de Estado da Mobilidade
+- Secretário de Estado para a Transição Digital
 relationships:
 - type: amended_by
   target: pt:dre:151194542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:143170406:por
+  label: Exonerados Susana de Fátima Carvalho Amador, Secretária de Estado da Educação, Jamila Bárbara Madeira e Madeira,
+    Secretária de Estado Adjunta e da Saúde, António Lacerda Sales, Secretário de Estado da Saúde, Alberto Afonso Souto de
+    Miranda, Secretário de Estado Adjunto e das Comunicações, Ana Cláudia da Costa Pinho, Secretária de Estado da Habitação,
+    e José Apolinário Nunes Portada, Secretário de Estado das Pescas, pelo(a) Decreto do Presidente da República n.º 39-A/2020
+    - Diário da República n.º 182/2020, 1º Suplemento, Série I de 2020-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/39-a-2020-143170406
+  date: '2020-09-17'
+- type: amended_by
+  target: pt:dre:147814638:por
+  label: Exonerado José Fernando Gomes Mendes do cargo de Secretário de Estado do Planeamento pelo(a) Decreto do Presidente
+    da República n.º 51-V/2020 - Diário da República n.º 217/2020, 2º Suplemento, Série I de 2020-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/51-v-2020-147814638
+  date: '2020-11-06'
+- type: amended_by
+  target: pt:dre:151194542:por
+  label: Exonerados Maria Teresa Gonçalves Ribeiro, do cargo de Secretária de Estado dos Negócios Estrangeiros e da Cooperação,
+    e Nuno Tiago dos Santos Russo, do cargo de Secretário de Estado da Agricultura e do Desenvolvimento Rural pelo(a) Decreto
+    do Presidente da República n.º 61-B/2020 - Diário da República n.º 242/2020, 1º Suplemento, Série I de 2020-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/61-b-2020-151194542
+  date: '2020-12-15'
+- type: corrected_by
+  target: pt:dre:126813914:por
+  label: Retificados os nomes José Duarte Silvestre Cordeiro e Catarina Teresa Rola Sarmento Castro pelo(a) Declaração de
+    Retificação n.º 58/2019 - Diário da República n.º 232/2019, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/58-2019-126813914
+  date: '2019-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:37:28Z'
   warnings: []
   errors: []
 ---
 
 # Decreto do Presidente da República n.º 62/2019
 
-Decreto do Presidente da República n.º 62/2019
+Decreto do Presidente da República n.º 62/2019
 
 de 26 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -284,12 +312,14 @@ Nuno Tiago dos Santos Russo Secretário de Estado da Agricultura e do Desenvolvi
 
 José Apolinário Nunes Portada Secretário de Estado das Pescas.
 
-**Assinado em 26 de outubro de 2019.**
+Assinado em 26 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de outubro de 2019.**
+Referendado em 26 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112707859

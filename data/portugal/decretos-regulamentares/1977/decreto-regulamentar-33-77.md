@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1977-252869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a23e8c1c16e85f6c3c56cba3946c13181c6748e5001691327cca42cc2dadd72f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bb734d62f238a427e9f440dc2c1afa4f676d745803cdc474c229718e3694527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Superior da Magistratura
+- Delegação de Competências
+- Gestão Administrativa
+- Orgânica
+- Regulamento
+- Substituição de Funções
+relationships:
+- type: cites
+  target: pt:dre:289219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:48Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +97,7 @@ de 28 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto Regulamentar n.º 23-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-a-1977-289219), de 31 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto Regulamentar n.º 23-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-a-1977-289219), de 31 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — (Delegação de poderes)
 
@@ -101,18 +111,18 @@ c) Autorizar que magistrados ou funcionários se ausentem do serviço por motivo
 
 d) Indicar magistrados e funcionários para participarem em grupos de trabalho.
 
-###### Art. 2.º Entre os artigos 10.º e 12.º do decreto regulamentar referido no artigo anterior inscreve-se o artigo 11.º, com a seguinte redacção:
+Art. 2.º Entre os artigos 10.º e 12.º do decreto regulamentar referido no artigo anterior inscreve-se o artigo 11.º, com a seguinte redacção:
 
 ###### Artigo 11.º — (Secretário do Conselho Superior da Magistratura)
 
 Nas suas faltas e impedimentos, o secretário do Conselho Superior da Magistratura é substituído pelo secretário do Supremo Tribunal de Justiça.
 
-###### Art. 3.º Entre os artigos 11.º e 12.º do mesmo decreto regulamentar inscreve-se o capítulo II, subordinado à seguinte epígrafe: «Secretaria».
+Art. 3.º Entre os artigos 11.º e 12.º do mesmo decreto regulamentar inscreve-se o capítulo II, subordinado à seguinte epígrafe: «Secretaria».
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António de Almeida Santos.
 
-**Promulgado em 19 de Maio de 1977.**
+Promulgado em 19 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

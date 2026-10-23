@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/215b00/49334936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/203/1991/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/203-1991-301420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ec78e9d1eb7c65c774af91564fdc6255e34e811907d18d3b8e683bd129e6664
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9220f156d880c47bb09446b3d3bfc73acc53597af09019d09f549db7169b9106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Estágio de Formação
 - Investigador
 - Ministério da Administração Interna
 - Serviço de Estrangeiros e Fronteiras
-- Estágio de Formação
 relationships:
 - type: amended_by
   target: pt:dre:244929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614668:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406729:por
+  label: "Recificado o n.º 4 do artigo 10.º, alínea c) do n.º 1 do artigo 11.º, o n.º 1 do artigo 13.º e alínea a) do n.º\
+    \ 1 do artigo 17.º, pela DECL-RECT.243/91.31.10.1991.PCM, DR.IS-B [251]5ºSupl de 31.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/243-1991-406729
+  date: '1991-10-31'
+- type: repealed_by
+  target: pt:dre:244929:por
+  label: "Revogado pelo DN.27-A/2000.2000.06.27.MAI DR.IS-B [147] de 28/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/27-a-2000-244929
+  date: '2000-06-27'
 article_structure:
   article_count: 22
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:49Z'
   warnings: []
   errors: []
 ---
@@ -317,4 +340,4 @@ Da homologação das listas de classificação do curso de formação e da class
 
 O estágio é válido pelo prazo de dois anos a contar da data da publicação da lista de classificação final.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/215b00/49334936.pdf))](https://files.diariodarepublica.pt/1s/1991/09/215b00/49334936.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/215b00/49334936.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2004/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2004-220754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d4c335cf6cb49bedf1d38a095ff19917bccd62fabe99c884192def6bb199829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cbb1c41c3ea595ff1cda054929971f9a4362d1d79c54f97a473465d4ba75ff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Região Autónoma
-- Recursos Hídricos
+- Autarquia Local
+- Conselho Nacional da ÁGUA
 - Definição de Competências
 - Gestão dos Recursos
-- Conselho Nacional da ÁGUA
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Orgânica
+- Recursos Hídricos
+- Região Autónoma
 - Secretário Geral
-- Autarquia Local
 - Vogal
 relationships:
 - type: amended_by
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2003/05/07/p/dre
+- type: cites
+  target: pt:dre:157639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:12Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +162,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 9.º, 11.º e 13.º do [Decreto-L
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O CNA, presidido pelo Ministro das Cidades, Ordenamento do Território e Ambiente, integra ainda um secretário-geral e os vogais indicados no número seguinte.
 
@@ -208,7 +226,9 @@ x) [Anterior alínea v).]
 
 8 - O mandato do secretário-geral e dos vogais previstos nas alíneas p) a x) do n.º 2 é de cinco anos, renovável por iguais períodos, mediante acto expresso do Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +250,9 @@ f) ...
 
 4 - Compete ao Ministro das Cidades, Ordenamento do Território e Ambiente, por sua iniciativa ou a solicitação do departamento governamental competente, remeter ao CNA os planos e projectos referidos no número anterior.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Compete ao presidente do CNA:
 
@@ -248,7 +270,9 @@ f) ...
 
 g) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Compete ao secretário-geral do CNA:
 
@@ -270,7 +294,9 @@ h) Elaborar, até ao final de cada ano, o programa de actividades para o ano seg
 
 i) Representar o CNA, quando tal lhe for determinado, e substituir o presidente nas suas faltas e impedimentos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -292,15 +318,21 @@ i) Representar o CNA, quando tal lhe for determinado, e substituir o presidente 
 
 10 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Podem participar nas reuniões do CNA, sem direito a voto e em número não superior a um terço dos vogais do Conselho, representantes de entidades públicas ou privadas, bem como personalidades de reconhecido mérito, convidadas pelo presidente, por um período de cinco anos, renovável.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O apoio logístico ao Conselho e aos respectivos grupos de trabalho será prestado pela Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente, com excepção das situações em que haja necessidade de realização de acções periféricas, caso em que aquele apoio será prestado pela entidade ou entidades nelas envolvidas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os encargos financeiros resultantes do funcionamento do CNA são suportados por orçamento afecto ao Conselho e por transferência de verbas provenientes da receita prevista no n.º 2 do artigo 15.º do [Decreto-Lei n.º 47/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1994-515807), de 22 de Fevereiro.»
 
@@ -314,15 +346,15 @@ O [Decreto-Lei n.º 166/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Maria da Graça Martins da Silva Carvalho - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 25 de Março de 2004.**
+Promulgado em 25 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Março de 2004.**
+Referendado em 31 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 166/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1997-157639), de 2 de Julho
 

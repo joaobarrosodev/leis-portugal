@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2009/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2009-603210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0102b731ad354926c6dbb9e848e2635aba20ce3a96ad489e95fa00624566aa41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38e330662a45153d8e9b2fdf21e19415faf90722ea5e00b7621fe5f484151459
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Administração do Porto de Lisboa
+- Autarquia Local
+- Domínio Público do Estado
+- Domínio Público Marítimo
+- Interesse Público
+- Lisboa
+- Propriedade do Estado
 - Recursos Hídricos
 - Renovação Urbana
-- Domínio Público Marítimo
-- Propriedade do Estado
-- Domínio Público do Estado
-- Administração de Portos
-- Lisboa
 - RIO TEJO
-- Interesse Público
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/2008/06/16/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:449418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:16Z'
   warnings: []
   errors: []
 ---
@@ -185,14 +201,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Henrique Nuno Pires Severiano Teixeira - Mário Lino Soares Correia - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 18 de Março de 2009.**
+Promulgado em 18 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Março de 2009.**
+Referendado em 20 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/06300/0200402013.pdf))](https://files.diariodarepublica.pt/1s/2009/03/06300/0200402013.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/06300/0200402013.pdf)

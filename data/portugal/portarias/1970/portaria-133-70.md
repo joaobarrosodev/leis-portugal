@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/03/05600/02740274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/133-1970-228396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08991fcc11442d0188115ec92fb45f05b0d1eec03c6b1f5b38f365288b9ef357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b0637ceba875002175a351dade5472fdb4a45ca009fe6fdc3d1aad92891e637
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,30 @@ relationships:
   target: pt:dre:335721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335721:por
+  label: Revogada, com efeitos a partir de 01.01.1976, pelo(a) Portaria n.º 368/75 - Diário do Governo n.º 137/1975, Série
+    I de 1975-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-1975-335721
+  date: '1975-06-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:53Z'
   warnings: []
   errors: []
 ---

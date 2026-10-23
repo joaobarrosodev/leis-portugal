@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2013/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2013-259898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9734a6bfdfefe420f55a146dcf4add426ab4982c01f645d08f600f79be457423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6784bbae3fc8936269666aee061a7933b22910e7f55bd1d5775bac3eb509604
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Energia não Poluente
 - CE Países
-- Energia Elétrica
-- Entidade Emissora de Garantias de Origem
-- Garantia de Origem
-- Definição de Competências
-- Energia Hidroelétrica
-- Energia Térmica
-- Estratégia Nacional para a Energia
 - Combustível
 - Comissão CE
+- Definição de Competências
+- Energia
+- Energia Elétrica
+- Energia Hidroelétrica
+- Energia não Poluente
+- Energia Térmica
+- Entidade Emissora de Garantias de Origem
+- Entidade Reguladora dos Serviços Energéticos
+- Estratégia Nacional para a Energia
+- Garantia de Origem
 - Laboratório Nacional de Energia e Geologia
 - Países Terceiros
-- Entidade Reguladora dos Serviços Energéticos
-- Energia
 - Produção de Energia Elétrica
 - Rede Nacional de Transporte de Energia Elétrica
 - Transferência de Competências
@@ -91,6 +91,37 @@ relationships:
   target: pt:dre:117537583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:67123272:por
+  label: Alterado o art. 2.º [transferindo para a Direção-Geral de Energia e Geologia - DGEG, as competências do Laboratório
+    Nacional de Energia e Geologia, I.P. enquanto entidade responsável pela emissão das garantias de origem -EEGO] pelo(a)
+    Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-a-2015-67123272
+  date: '2015-04-30'
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Alterado, a partir de 01.01.2018, o art. 5.º do Dec Lei 141/2010 de 31-dez, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterados os arts. 11.º e 13.º (ambos na redação do Dec Lei 68-A/2015 de 30-abr) e revogados o n.º 4 do art. 11.º
+    e o n.º 1 do art. 13.º do Dec Lei 141/2010 de 31-dez, na versão republicada pelo presente diploma, pelo(a) Lei n.º 71/2018
+    - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amends
+  target: pt:numero:lei:141/2010
+  label: "Transfere as competências do Laboratório Nacional de Energia e Geologia, I.P., enquanto entidade responsável pela\
+    \ emissão das garantias de origem (EEGO), para a concessionária da Rede Nacional de Transporte de eletricidade (RNT),\
+    \ altera os arts. 5.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º, adita os arts. 1.º-A, 8.º -A a 8.º -L e o art. 9.º -A bem como\
+    \ o cap. III com a designação «Transferências estatísticas e projetos conjuntos», que inclui os arts 8.º -A a 8.º -G,\
+    \ e o cap. IV com a designação «Promoção da utilização de energia proveniente de fontes renováveis», que inclui os arts\
+    \ 8.º -H a 8.º -L, renumera-os como capítulos V e VI e revoga os n.ºs 2 e 3 do art. 4.º, todos do Dec--Lei n.º 141/2010,\
+    \ de 31-dez, DR IS [253] e procede à respetiva republicação\0licação\0"
+  source: null
+  date: '2010-12-31'
 - type: cites
   target: celex:32001L0077
   label: null
@@ -120,15 +151,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/141/2010/12/31/p/dre
 article_structure:
-  article_count: 56
+  article_count: 37
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:06Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +220,9 @@ Os artigos 5.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n.º 14
 
 5 - As estações de serviço e postos de abastecimento de combustíveis devem indicar as percentagens de biocombustíveis incorporados em derivados do petróleo, quando excedam 10 % em volume, sem prejuízo do cumprimento da obrigação prevista no n.º 4 do artigo 10.º do Decreto-Lei n.º 89/2008, de 30 de maio, alterado pelo Decreto-Lei n.º 142/2010, de 31 de dezembro, sempre que aplicável.
 
-###### Artigo 9.º — Garantia de origem da produção de eletricidade a partir de fontes renováveis
+Artigo 9.º
+
+Garantia de origem da produção de eletricidade a partir de fontes renováveis
 
 1 - Os produtores de eletricidade a partir de fontes de energia renováveis devem solicitar à entidade emissora de garantias de origem a emissão de garantias de origem referentes à energia por si produzida, nos termos do presente decreto-lei.
 
@@ -207,7 +240,9 @@ Os artigos 5.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n.º 14
 
 8 - O membro do Governo responsável pela área da energia aprova, mediante portaria, as regras relativas ao fornecimento, pelos comercializadores aos clientes finais, de informação relativa a garantias de origem utilizadas ao abrigo do n.º 2, incluindo a forma de acesso às mesmas garantias de origem.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A garantia de origem é emitida através de um documento eletrónico que atesta ao cliente final que uma quantidade correspondente a 1 MWh de energia foi produzida a partir de fontes renováveis.
 
@@ -227,7 +262,9 @@ Os artigos 5.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n.º 14
 
 9 - O membro do Governo responsável pela área da energia aprova, mediante portaria, as regras aplicáveis à emissão das garantias de origem pela EEGO e à entrega das referidas garantias de origem à DGEG, para os efeitos previstos nos n.os 6 e 7 do artigo 9.º e no n.º 1 do artigo 9.º-A, bem como à disponibilização ao público em geral da informação que sustenta a emissão das referidas garantias de origem.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Ficam cometidas à concessionária da rede nacional de transporte as competências de EEGO relativas à produção de eletricidade e de energia para aquecimento e arrefecimento a partir de fontes de energia renováveis.
 
@@ -237,7 +274,9 @@ Os artigos 5.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n.º 14
 
 4 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -245,7 +284,9 @@ Os artigos 5.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n.º 14
 
 3 - O membro do Governo responsável pela área da energia define, mediante portaria, o procedimento aplicável ao registo, junto da EEGO, dos produtores de eletricidade a partir de fontes de energia renováveis e dos produtores de energia de aquecimento e arrefecimento a partir de fontes de energia renováveis previstos no artigo 9.º-A.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os registos contabilísticos respeitantes à atividade de emissão das garantias de origem previstas no presente decreto-lei são objeto de individualização e separação relativamente aos registos contabilísticos de outras atividades, reguladas ou não, desempenhadas pela EEGO.
 
@@ -259,7 +300,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -301,7 +344,9 @@ j) «Regime de apoio» qualquer instrumento, sistema ou mecanismo aplicado por u
 
 k) «Sistemas de aquecimento urbano» ou «sistemas de arrefecimento urbano» a distribuição de energia térmica sob a forma de vapor, de água quente ou de líquidos refrigerados a partir de uma fonte de produção central através de um sistema de transporte e distribuição a múltiplos edifícios ou locais, para o aquecimento ou arrefecimento de espaços ou processos.
 
-###### Artigo 8.º-A — Transferências estatísticas entre Estados-Membros
+Artigo 8.º-A
+
+Transferências estatísticas entre Estados-Membros
 
 1 - O Governo pode, na sequência de proposta do membro do Governo responsável pela área da energia, ouvida a Entidade Reguladora dos Serviços Energéticos (ERSE), acordar com outro Estado-Membro a transferência estatística de energia produzida em território nacional a partir de fontes renováveis para esse Estado-Membro, devendo a quantidade de energia transferida ser deduzida da quantidade de energia proveniente de fontes renováveis considerada para as metas nacionais previstas no artigo 2.º
 
@@ -313,7 +358,9 @@ k) «Sistemas de aquecimento urbano» ou «sistemas de arrefecimento urbano» a 
 
 5 - As medidas previstas nos n.os 1 e 2 apenas são consideradas para os efeitos previstos nos mesmos números depois de os Estados-Membros envolvidos procederem à notificação prevista no número anterior.
 
-###### Artigo 8.º-B — Projetos conjuntos entre Portugal e outro Estado-Membro
+Artigo 8.º-B
+
+Projetos conjuntos entre Portugal e outro Estado-Membro
 
 1 - O Governo pode, na sequência de proposta do membro do Governo responsável pela área da energia, ouvida a ERSE, acordar com outro Estado-Membro o desenvolvimento de um projeto conjunto relacionado com a produção de eletricidade, aquecimento ou arrefecimento a partir de fontes de energia renováveis.
 
@@ -333,7 +380,9 @@ k) «Sistemas de aquecimento urbano» ou «sistemas de arrefecimento urbano» a 
 
 9 - Para os efeitos do disposto nos n.os 7 e 8, as receitas geradas pela contabilização da energia produzida para as metas nacionais de outros Estados-Membros revertem, líquidas dos custos incorridos pelo Estado português com a transação, a favor dos promotores dos projetos conjuntos, exceto se os referidos projetos beneficiarem de um regime de apoio atribuído em território nacional ao abrigo da lei ou regulamentos em vigor, caso em que as receitas líquidas devem reverter em benefício do SEN, no montante correspondente ao valor do referido regime de apoio concedido ou na proporção da participação do SEN no regime de apoio direto ao preço atribuído à energia produzida.
 
-###### Artigo 8.º-C — Pedido de apreciação prévia de projetos conjuntos realizados em território nacional
+Artigo 8.º-C
+
+Pedido de apreciação prévia de projetos conjuntos realizados em território nacional
 
 1 - Os operadores privados que pretendam realizar projetos conjuntos em território nacional devem formular junto da Direção-Geral de Energia e Geologia (DGEG), antes da apresentação do pedido de licenciamento ou da comunicação prévia do referido projeto, um pedido de apreciação prévia quanto à viabilidade de a energia produzida ser parcial ou totalmente considerada para a contabilização da meta nacional do outro Estado-Membro.
 
@@ -361,7 +410,9 @@ e) Especificação do período, em anos civis completos, durante o qual a energi
 
 8 - Caso a pronúncia proferida ao abrigo do número anterior seja favorável à contabilização da energia produzida para a meta nacional do outro Estado-Membro, os interessados devem juntar, no pedido de atribuição de licença de produção ou na comunicação prévia, documentos comprovativos do acordo do referido Estado-Membro a esse respeito.
 
-###### Artigo 8.º-D — Notificação de projetos conjuntos à Comissão Europeia
+Artigo 8.º-D
+
+Notificação de projetos conjuntos à Comissão Europeia
 
 1 - No prazo máximo de três meses a contar da emissão da licença de produção ou da aceitação da comunicação prévia de um projeto conjunto realizado em território nacional ao abrigo de um acordo com outro Estado-Membro nos termos do n.º 1 do artigo 8.º-B ou que tenha merecido uma pronúncia favorável ao abrigo do artigo anterior, o membro do Governo responsável pela área da energia notifica a Comissão Europeia da realização, no território nacional, do referido projeto conjunto.
 
@@ -387,11 +438,15 @@ b) A quantidade total de eletricidade, aquecimento ou arrefecimento produzida du
 
 5 - Os promotores de projetos conjuntos devem fornecer à DGEG a informação prevista no n.º 3, no prazo máximo de um mês a contar do final de cada ano compreendido no período previsto na alínea d) do n.º 2.
 
-###### Artigo 8.º-E — Projetos conjuntos realizados no território de outros Estados-Membros
+Artigo 8.º-E
+
+Projetos conjuntos realizados no território de outros Estados-Membros
 
 A participação de Portugal em projetos conjuntos realizados no território de outros Estados-Membros para os efeitos do disposto neste capítulo depende de um acordo com o referido Estado-Membro, no qual são estabelecidas as obrigações de cada uma das partes, o regime de controlo prévio aplicável ao projeto, os regimes de apoio atribuídos e a percentagem de eletricidade, aquecimento ou arrefecimento produzidos a partir de fontes de energia renováveis a considerar na aferição do cumprimento das metas nacionais previstas no artigo 2.º
 
-###### Artigo 8.º-F — Projetos conjuntos entre Portugal, outros Estados-Membros e países terceiros
+Artigo 8.º-F
+
+Projetos conjuntos entre Portugal, outros Estados-Membros e países terceiros
 
 1 - O Governo pode, na sequência de proposta do membro do Governo responsável pela área da energia, ouvida a ERSE, acordar com outros Estados-Membros e com países terceiros à União Europeia o desenvolvimento de um projeto conjunto relacionado com a produção de eletricidade a partir de fontes de energia renováveis, podendo a referida colaboração envolver operadores privados.
 
@@ -425,7 +480,9 @@ c) A interligação ser utilizada para a exportação para a União Europeia de 
 
 d) O pedido ser relativo a um projeto conjunto que preencha os critérios das alíneas b) e c) do número anterior e que venha a utilizar a interligação quando esta entrar em funcionamento, devendo o pedido reportar-se uma quantidade de eletricidade que não exceda a quantidade exportada para a União Europeia através da referida interligação.
 
-###### Artigo 8.º-G — Notificação de projetos conjuntos realizados em países terceiros
+Artigo 8.º-G
+
+Notificação de projetos conjuntos realizados em países terceiros
 
 1 - Na sequência da celebração de um acordo ao abrigo do disposto nos n.os 1 e 2 do artigo anterior, o membro do Governo responsável pela área da energia remete à Comissão Europeia uma notificação com os seguintes elementos:
 
@@ -451,7 +508,9 @@ c) Elementos comprovativos do cumprimento do disposto no n.º 5 do artigo anteri
 
 4 - Os operadores privados que promovam projetos conjuntos previstos neste artigo devem fornecer à DGEG a informação prevista no n.º 2, no prazo máximo de um mês a contar do final de cada ano compreendido no período previsto na alínea d) do n.º 1
 
-###### Artigo 8.º-H — Procedimentos administrativos
+Artigo 8.º-H
+
+Procedimentos administrativos
 
 1 - Os procedimentos de controlo prévio a aplicar à produção de eletricidade, aquecimento ou arrefecimento a partir de fontes de energia renováveis e à construção e utilização de infraestruturas de rede que lhe estejam associadas, bem como ao processo de transformação de biomassa em biocombustíveis ou outros produtos energéticos, constam de legislação complementar.
 
@@ -467,13 +526,17 @@ c) A adoção de procedimentos administrativos mais expeditos, relativamente a p
 
 d) Transparência e proporcionalidade na fixação das taxas e demais custos administrativos a suportar pelos consumidores, urbanistas, arquitetos, construtores, instaladores e fornecedores de equipamento e sistemas.
 
-###### Artigo 8.º-I — Equipamentos e sistemas de energias renováveis
+Artigo 8.º-I
+
+Equipamentos e sistemas de energias renováveis
 
 1 - Os equipamentos e sistemas de energias renováveis que beneficiem de regimes de apoio nos termos da lei devem cumprir as especificações técnicas definidas em legislação complementar, as quais devem ter por referência as normas europeias relativas a rótulos ecológicos, rótulos energéticos e outros sistemas de referência técnica estabelecidos por organismos de normalização europeus, sempre que aplicáveis.
 
 2 - A definição das especificações técnicas dos equipamentos e sistemas ao abrigo do número anterior não pode incluir qualquer imposição relativamente ao local de certificação dos equipamentos e dos sistemas ou que afete negativamente o funcionamento do mercado interno.
 
-###### Artigo 8.º-J — Utilização de equipamentos e sistemas de energias renováveis na urbanização e edificação
+Artigo 8.º-J
+
+Utilização de equipamentos e sistemas de energias renováveis na urbanização e edificação
 
 1 - No planeamento, projeto, construção e reabilitação de zonas industriais, residenciais ou de serviços, e, bem assim, no planeamento da infraestrutura urbana por parte da administração, central, autónoma e local, deve ser privilegiada a instalação de equipamentos e sistemas de utilização de eletricidade, aquecimento e arrefecimento, incluindo sistemas de aquecimento e arrefecimento urbano, que utilizem fontes de energia renováveis, sempre que tal se justifique do ponto de vista técnico e financeiro.
 
@@ -497,17 +560,23 @@ d) No caso da energia solar térmica, de equipamentos e sistemas certificados, b
 
 7 - Os edifícios públicos novos e os edifícios públicos existentes que sejam sujeitos a obras de alteração profundas devem contribuir para o cumprimento dos objetivos do presente decreto-lei, estabelecendo o Governo as medidas a adotar para esse efeito, mediante legislação complementar a aprovar no âmbito da revisão do regime jurídico da certificação energética e da qualidade do ar interior.
 
-###### Artigo 8.º-K — Divulgação de medidas de apoio e programas de informação
+Artigo 8.º-K
+
+Divulgação de medidas de apoio e programas de informação
 
 1 - Os fornecedores de equipamentos ou sistemas de aquecimento, arrefecimento e produção de eletricidade a partir de fontes de energia renováveis devem obrigatoriamente prestar aos respetivos clientes a adequada informação relativa às características, ao custo, à contribuição para uma maior eficiência energética e aos benefícios em termos líquidos dos referidos equipamentos e sistemas.
 
 2 - Compete à DGEG, em articulação com os órgãos próprios das autarquias locais e das Regiões Autónomas, promover a realização de campanhas de sensibilização relativamente aos benefícios da utilização da energia proveniente de fontes renováveis, bem como de ações de informação e esclarecimento especificamente destinadas aos profissionais do setor da construção no que respeita à utilização, no projeto e construção de zonas industriais e residenciais, de fontes de energia renováveis e de tecnologias de elevada eficiência, designadamente no que respeita ao aquecimento e arrefecimento urbano.
 
-###### Artigo 8.º-L — Instaladores e respetivas entidades formadoras
+Artigo 8.º-L
+
+Instaladores e respetivas entidades formadoras
 
 O regime de acesso e exercício da atividade dos instaladores de caldeiras e fornos de biomassa, de bombas de calor, de sistemas fotovoltaicos e de sistemas solares térmicos, incluindo dos profissionais provenientes de outro Estado-Membro da União Europeia, ou do espaço económico europeu, e das respetivas entidades formadoras, consta de lei.
 
-###### Artigo 9.º-A — Garantia de origem da produção de energia de aquecimento e arrefecimento a partir de fontes renováveis
+Artigo 9.º-A
+
+Garantia de origem da produção de energia de aquecimento e arrefecimento a partir de fontes renováveis
 
 1 - Os produtores de energia de aquecimento e arrefecimento a partir de fontes de energia renováveis com capacidade instalada superior a 5 MW(índice t) podem solicitar à EEGO, diretamente ou através de um terceiro, a emissão de garantias de origem referentes à energia por si produzida, nos termos do presente decreto-lei.
 
@@ -543,15 +612,15 @@ c) No prazo de nove meses a contar da data prevista no n.º 1, para as restantes
 
 Visto e aprovado em Conselho de Ministros de 27 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de fevereiro de 2013.**
+Promulgado em 27 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de fevereiro de 2013.**
+Referendado em 28 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -1027,11 +1096,11 @@ Fórmula de normalização para a contabilização da eletricidade gerada a part
 
 1 - Para a contabilização da eletricidade gerada a partir da energia hídrica, aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf)
 
 2 - Para a contabilização da eletricidade gerada a partir da energia eólica, aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 7.º)
 
@@ -1055,4 +1124,4 @@ Até 31 de janeiro de 2013, o diretor-geral de Energia e Geologia emite, por des
 
 Teor energético dos combustíveis para transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05400/0169101709.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09200/0246202464.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2015/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2015-67198365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa83369d44f1a5b717d1c2ebdce6783add5dffb8ed78467e3ee324ef033f2342
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17f0e4be26bbfd9de771374d986e6ddf037ecd43f535dbbcb43d1a89ebaa51b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,16 +110,126 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:178537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694208:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:121712773:por
+  label: Revogado o Dec Lei 135/2012 de 29 de jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 43/2019 - Diário
+    da República n.º 63/2019, Série I de 2019-03-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2019-121712773
+  date: '2019-03-29'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:16Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +316,9 @@ l) [Anterior alínea g).]
 
 8 - Os membros do conselho consultivo não têm, pelo exercício destas funções, direito a receber qualquer remuneração ou abono.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -266,12 +378,12 @@ p) A alínea b) do artigo 5.º e os artigos 8.º e 9.º do [Decreto Regulamentar
 
 Visto e aprovado em Conselho de Ministros de 5 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 29 de abril de 2015.**
+Promulgado em 29 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de maio de 2015.**
+Referendado em 4 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

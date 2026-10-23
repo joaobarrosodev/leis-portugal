@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/1999/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1999-158596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6097dc75c20889a4067eb2cc3ebad3ba6792dde49173ad13fbbf7786ceb38e07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54354d2222054426df0193f6481381ed48299cf2d417027f5f5fe32e1682f8b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
 - CASA da Natureza
 - Casa-abrigo
 - Casa-retiro
-- Turismo
-- Multa
+- Centro de Acolhimento
 - Contra-ordenação
 - Definição de Competências
-- Turismo de Natureza
 - Direcção Geral do Turismo
-- Património Cultural
+- Infraestrutura Turística
 - Instituto da Conservação da Natureza
-- Centro de Acolhimento
-- Proteção do Ambiente
+- Livro de Reclamações
+- Multa
+- Património Cultural
 - Património Histórico
+- Património Natural
 - Preço
 - Prestação de Serviços
+- Proteção do Ambiente
 - Proteção do Consumidor
-- Património Natural
 - Sinalização
+- Turismo
+- Turismo de Natureza
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
@@ -104,16 +104,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/112/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672137:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele\
+    \ previstas \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
   article_count: 36
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:56Z'
   warnings: []
   errors: []
 ---
@@ -460,12 +486,12 @@ Presidência do Conselho de Ministros, 10 Dezembro de 1998.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 28 de Janeiro de 1999.**
+Promulgado em 28 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Fevereiro de 1999.**
+Referendado em 8 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

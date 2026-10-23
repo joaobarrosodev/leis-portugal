@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/231b00/61036103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/60/1994/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1994-620174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bc1766ec701911fbfd0f554305df23c61f0a30167a4578c7f867fb33838ba12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e589a6be73aea6d8976adb74164d58677c703fbc92e34bab46cdd306eeffeff4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Concurso de Ingresso
 - Carreira Profissional
+- Concurso de Ingresso
 - Formas de Provimento
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:147234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354089:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:147234:por
+  label: "Revogado pelo DR.17/96.1996.12.20.MAI DR.IS-B [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1996-147234
+  date: '1996-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:31Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +119,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único - 1 - Nos concursos externos de ingresso para a carreira policial abertos há menos de dois anos podem ser preenchidos lugares vagos dos quadros em número superior aos inicialmente postos a concurso, desde que cumulativamente se verifiquem as seguintes condições:
+Artigo único - 1 - Nos concursos externos de ingresso para a carreira policial abertos há menos de dois anos podem ser preenchidos lugares vagos dos quadros em número superior aos inicialmente postos a concurso, desde que cumulativamente se verifiquem as seguintes condições:
 
 a) O número de candidatos admitidos seja superior ao quíntuplo das vagas postas a concurso;
 
@@ -116,12 +133,12 @@ Presidência do Conselho de Ministros, 19 de Julho de 1994.
 
 Aníbal António Cavaco Silva - Carlos Manuel Sousa Encarnação - Eduardo de Almeida Catroga.
 
-**Promulgado em 22 de Setembro de 1994.**
+Promulgado em 22 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1994.**
+Referendado em 26 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/288a00/87958801.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/537/1999/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1999-632932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 237a60c60145faa19512a3c38ec02dd0c90a31fb6040d57e1effb5b70ae84b4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a37d28a11097e52d9eab9f9d40574cdb3d22773be5415c977ade204e25a78b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Ministério das Finanças
 - Integração de Trabalhadores
+- Ministério das Finanças
 - Orgânica
 - Quadro de Pessoal
 - Serviços Sociais
@@ -80,16 +80,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:221300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520995:por
+  label: "Revogado, a partir de 01.05.2007, e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o presente\
+    \ diploma, e determinado que os Serviços Sociais da Administração Pública sucedam nos termos do n.º 1 do artigo 12.º nas\
+    \ atribuições dos Serviços Sociais do Ministério das Finanças e da Administração Pública, cuja orgânica foi aprovada pelo\
+    \ citado diploma, pelo DR.49/2007.27.04.2007.MFAP, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2007-520995
+  date: '2007-04-27'
 article_structure:
   article_count: 35
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:53Z'
   warnings: []
   errors: []
 ---
@@ -386,7 +418,9 @@ g) Proceder à inscrição dos beneficiários e manter actualizados os respectiv
 
 3 - O Gabinete de Apoio Técnico integra a Secção de Beneficiários.
 
-###### Artigo 20.º — Divisão de Acção Social
+###### Artigo 20.º
+
+##### Divisão de Acção Social
 
 1 - À Divisão de Acção Social incumbe:
 
@@ -410,7 +444,9 @@ a) A Secção de Prestações Pecuniárias;
 
 b) O Posto de Saúde.
 
-###### Artigo 21.º — Divisão de Equipamentos Sociais
+###### Artigo 21.º
+
+##### Divisão de Equipamentos Sociais
 
 À Divisão de Equipamentos Sociais incumbe:
 
@@ -430,7 +466,9 @@ g) Efectuar estudos e propor medidas que visem o fornecimento adequado de refei�
 
 h) Promover periodicamente inquéritos aos utentes sobre o fornecimento de refeições e providenciar pela efectivação de análises qualitativas aos produtos utilizados.
 
-###### Artigo 22.º — Divisão Administrativa, Financeira e Patrimonial
+###### Artigo 22.º
+
+##### Divisão Administrativa, Financeira e Patrimonial
 
 1 - À Divisão Administrativa, Financeira e Patrimonial incumbe:
 
@@ -600,15 +638,15 @@ As secções criadas pelo presente diploma, no âmbito das divisões, executarã
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro do pessoal dirigente
 

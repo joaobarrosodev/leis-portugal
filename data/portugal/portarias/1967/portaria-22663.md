@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22663-1967-310249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa63c2b37dea113dd41aefd311543e81338e47313934196a9b5f5e7ba0ca719d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdc359b0b76486c6a561b4adae1bf196142106d1110254638f526228966bad51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:239451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:25Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Nos termos do artigo 159.º do Regulamento da Escola Naval, aprovado e posto em 
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que as alíneas a) e b) do artigo 137.º do referido regulamento tomem a seguinte redacção:
 
-###### Art. 137.º ...
+Art. 137.º ...
 
 a) Três professores licenciados em Ciências Matemáticas, aos quais competirá a regência das cadeiras e aulas práticas do 1.º grupo;
 

@@ -46,40 +46,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/410-1981-573566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:45:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a1e86986e0bd4e500f2baf3cca6d009a710050360b965114df1be0a3dc6eb26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c089549391a9bc80b1f9975c665b7f09dff01cf97e8b22273a3dc1bb1b7803a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Concelhio
+- Lisboa
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:389834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435658:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio da Ericeira, aprovado\
+    \ pelo presente diploma, pela PORT.807-A1/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-a1-1983-435658
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435669:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio da Azambuja, pela\
+    \ PORT.807-R/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-r-1983-435669
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435671:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio da Lourinha, aprovado\
+    \ pelo presente diploma, pela PORT.807-S/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-s-1983-435671
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435673:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Arruda, aprovado\
+    \ pelo presente diploma, pela PORT.807-T/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-t-1983-435673
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435674:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital concelhio do Cadaval, aprovado\
+    \ pelo presente diploma, pela PORT.807-U/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-u-1983-435674
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435775:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Mafra, aprovado\
+    \ pelo presente diploma, pela PORT.807-V/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-v-1983-435775
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435776:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Sintra, aprovado\
+    \ pelo presente diploma, pela PORT.807-X/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-x-1983-435776
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435777:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Sobral de Monte\
+    \ Agraço, aprovado pelo presente diploma, pela PORT.807-Z/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-z-1983-435777
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:399657:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar, o quadro de pessoal dos\
+    \ hospitais concelhios de Arruda dos Vinhos, Azambuja, Cadaval, Ericeira, Lourinhã, Mafra, Sintra, e Sobral de Monte Agraço,\
+    \ aprovados pelo presente diploma, pela PORT.758/84.26.09.1984.PCM, DR.IS [224] de 26.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-1984-399657
+  date: '1984-09-26'
+- type: amended_by
+  target: pt:dre:389834:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem e pessoal auxiliar, o quadro de pessoal aprovado pelo presente\
+    \ diploma, na redacção da Port 758/84, de 26-Set, pela PORT.989/84.29.12.1984.PCM, DR.IS [300] de 29.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-1984-389834
+  date: '1984-12-29'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:45:32Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +174,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal dos hospitais concelhios do distrito de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/11600/11631164.pdf))](https://files.diariodarepublica.pt/1s/1981/05/11600/11631164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11600/11631164.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá o abono mensal de 200$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos previstos na lei geral.

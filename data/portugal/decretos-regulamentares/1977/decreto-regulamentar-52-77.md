@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 195/1977, 1º Suplemento, Série I de 1977-08-24
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2040-(9) a 2040-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19501/00090013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1977-659720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 642897ab749d29acaa54ec8cbfe8ceef6fcd988befec47e387fef8908ce99ffa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28dac402a1f072a6f0b41bc50ac20ca7cc18313d5dd78dcc2dda91d0c9f21243
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Consultivo
+- Conselho Diretivo
+- Definição de Competências
+- Estatuto
+- Incompatibilidades
+- Instituto de Investimento Estrangeiro
+- Investimento Estrangeiro
+- Ministério do Plano e Coordenação Económica
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:625610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297833:por
+  label: "Alterados os nºs. 2, 3, 4 e 5 do art 17.º do Estatuto, pelo DR.21/78.1978.07.08.MFP DR.IS [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-1978-297833
+  date: '1978-07-08'
+- type: amended_by
+  target: pt:dre:375622:por
+  label: "Dada nova redacção ao art. 7º pelo DR.58/82.1982.09.10.MFP DR.IS [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/58-1982-375622
+  date: '1982-09-10'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterado o art. 7º, nº 2, pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:625610:por
+  label: "Extinto o Instituto do Investimento Estrangeiro (IIE) - criado pelo Dec Lei 348/77 de 24-Ago (já revogado) - e cujo\
+    \ Estatuto consta do presente diploma, que é revogado, a partir de 04.05.1989, e determinada a transferência das suas\
+    \ atribuições e competências para o Instituto do Comércio Externo de Portugal (ICEP), cujo Estatuto consta do Dec Lei\
+    \ 388/86 de 18-Nov, assim como para o Banco de Portugal, cuja orgânica consta do Dec Lei 644/75 de 15-Nov, pelo DEC LEI.143/89.29.04.1989.MF,\
+    \ DR.IS [99] de 29.04.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1989-625610
+  date: '1989-04-29'
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:13Z'
   warnings: []
   errors: []
 ---
@@ -92,31 +129,31 @@ Tendo em atenção o disposto nos artigos 29.º a 31.º do [Decreto-Lei n.º 348
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É aprovado o Estatuto do Instituto do Investimento Estrangeiro, criado pelo artigo 29.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, anexo ao presente decreto e que dele é parte integrante.
+Artigo 1.º - 1. É aprovado o Estatuto do Instituto do Investimento Estrangeiro, criado pelo artigo 29.º do [Decreto-Lei n.º 348/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1977-659717), de 24 de Agosto, anexo ao presente decreto e que dele é parte integrante.
 
 2. A data de entrada em funcionamento do Instituto será fixada por despacho do Ministro do Plano e Coordenação Económica.
 
-###### Art. 2.º O disposto neste decreto entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O disposto neste decreto entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DO INSTITUTO DO INVESTIMENTO ESTRANGEIRO
 
 ### CAPÍTULO I — Denominação, natureza, regime e sede
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Denominação e natureza)
 
 O Instituto do Investimento Estrangeiro, abreviadamente designado por IIE, é um instituto público dotado de personalidade jurídica de direito público, com autonomia administrativa e financeira e património próprio.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Regime)
 
@@ -124,7 +161,7 @@ O Instituto do Investimento Estrangeiro, abreviadamente designado por IIE, é um
 
 2. O IIE fica sujeito à tutela do Ministério do Plano e Coordenação Económica.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Duração e sede)
 
@@ -134,7 +171,7 @@ O Instituto do Investimento Estrangeiro, abreviadamente designado por IIE, é um
 
 ### CAPÍTULO II — Atribuições e competência
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Atribuições)
 
@@ -146,7 +183,7 @@ São atribuições do IIE:
 
 3) Assegurar a execução da política governamental em matéria de investimentos directos estrangeiros e de transferência de tecnologia.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Competência)
 
@@ -182,7 +219,9 @@ m) Exercer as demais funções que lhe sejam cometidas por lei ou por despacho d
 
 ### CAPÍTULO III — Órgãos do Instituto
 
-#### SECÇÃO I — ARTIGO 6.º
+#### SECÇÃO I
+
+###### ARTIGO 6.º
 
 (Enunciação)
 
@@ -190,7 +229,7 @@ São órgãos do IIE o conselho directivo e o conselho consultivo.
 
 #### SECÇÃO II — Conselho directivo
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Composição)
 
@@ -200,7 +239,7 @@ São órgãos do IIE o conselho directivo e o conselho consultivo.
 
 3. No despacho de nomeação indicar-se-á qual, de entre os membros, exercerá as funções de presidente do conselho directivo.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Estatuto)
 
@@ -208,7 +247,7 @@ São órgãos do IIE o conselho directivo e o conselho consultivo.
 
 2. O Ministro da tutela fixará, por despacho, o regime dos membros do conselho directivo na parte em que não lhes seja aplicável o Estatuto referido no número anterior, nomeadamente em matéria de vencimentos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Competência)
 
@@ -236,7 +275,7 @@ j) Gerir o património do IIE, podendo comprar e vender bens, dar ou tomar de ar
 
 l) Tomar todas as deliberações compreendidas na competência do IIE, por lei ou pelo presente Estatuto, nomeadamente pelo anterior artigo 5.º, e praticar todos os demais actos necessários ao cumprimento integral e eficiente das atribuições do IIE.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Funcionamento)
 
@@ -248,7 +287,7 @@ l) Tomar todas as deliberações compreendidas na competência do IIE, por lei o
 
 4. Quando o impedimento de qualquer membro do conselho se prolongar em termos de prejudicar o normal funcionamento do mesmo conselho, declarar-se-á aberta vaga, que será suprida pela nomeação de um novo membro.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Vinculação)
 
@@ -256,7 +295,7 @@ Para obrigar o IIE será necessária a assinatura de dois membros do conselho di
 
 #### SECÇÃO III — Conselho consultivo
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. O conselho consultivo do Instituto será constituído pelo presidente do conselho directivo, que presidirá, e pelos seguintes vogais:
 
@@ -292,13 +331,13 @@ m) Um representante do Banco de Portugal.
 
 5. Em caso de impedimento de qualquer membro, o Ministro ou entidade representada promoverá a nomeação de substituto que assumirá imediatamente a efectividade das funções. Não poderá haver lugar a substituições ocasionais, salvo motivo excepcional e justificado.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Estatuto)
 
-**O Ministro do Plano e Coordenação Económica fixará, por despacho, o estatuto que regerá a actuação dos membros do conselho consultivo, incluindo as condições e o quantitativo da sua remuneração.**
+O Ministro do Plano e Coordenação Económica fixará, por despacho, o estatuto que regerá a actuação dos membros do conselho consultivo, incluindo as condições e o quantitativo da sua remuneração.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Competência)
 
@@ -312,7 +351,7 @@ c) Assegurar as relações entre o IIE e os diversos organismos do Estado e outr
 
 d) Pronunciar-se sobre quaisquer assuntos que o conselho directivo entenda submeter à sua apreciação e acompanhar a actividade do IIE, formulando as propostas e sugestões que considere úteis ao cumprimento das suas atribuições.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Funcionamento)
 
@@ -334,13 +373,13 @@ d) Pronunciar-se sobre quaisquer assuntos que o conselho directivo entenda subme
 
 ### CAPÍTULO IV — Pessoal
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Quadro)
 
 O quadro de pessoal do IIE será aprovado por despacho do Ministro da tutela, a publicar na 2.ª série do Diário da República.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Estatuto)
 
@@ -352,13 +391,13 @@ O quadro de pessoal do IIE será aprovado por despacho do Ministro da tutela, a 
 
 ### CAPÍTULO V — Património, receitas e despesas
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Património)
 
 Constitui património do IIE a universalidade dos bens, direitos e obrigações que adquira ou contraia no exercício das suas funções.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Receitas e despesas)
 
@@ -380,14 +419,14 @@ b) Os custos de aquisição, manutenção e conservação de bens ou serviços q
 
 ### CAPÍTULO VI — Gestão patrimonial e financeira
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 A gestão patrimonial e financeira do Instituto, incluindo a organização e execução da sua contabilidade, regula-se pelas normas aplicáveis às empresas públicas.
 
 ### CAPÍTULO VII — Disposições transitórias
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 O corrente ano não contará para o período do primeiro mandato dos membros do conselho directivo e do conselho consultivo.
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/246a00/59795984.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/2000/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2000-531450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1037c0fdc4835a3e0f34963cffcf8bf77d120003bf227ba6ccd154ec85546a2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b5368eb98d2f97801a8e23ce41b3d499624ff16e388de35c95d72d58ab4acab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,18 +73,24 @@ subjects:
 - Biotecnologia
 - Catálogo Nacional de Variedades
 - Catálogo Nacional de Variedades de Batata
-- Organismo Geneticamente Modificado
+- Comércio
 - Direcção Geral de Protecção das Culturas
-- Saúde Pública
 - Notificação
+- Organismo Geneticamente Modificado
 - Proteção do Ambiente
 - Sanção
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:517474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:188877:por
+  label: "Alterada a redacção dos arts 5º e 16º e aditados um art 15º-A e os Anexos I e II, pelo Dec Lei 168/2002.2002.07.23.MADRP\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-2002-188877
+  date: '2002-07-23'
 - type: cites
   target: celex:31970L0457
   label: null
@@ -117,16 +123,21 @@ relationships:
   target: celex:32000R0930
   label: null
   source: http://data.europa.eu/eli/reg/2000/930/oj
+- type: repealed_by
+  target: pt:dre:517474:por
+  label: "Revogado pelo DEC LEI.154/2004.30.06.2004.MADRP, DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2004-517474
+  date: '2004-06-30'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:16Z'
   warnings: []
   errors: []
 ---
@@ -421,12 +432,12 @@ c) 60% para os cofres do Estado.
 
 Visto e aprovado no Conselho de Ministros de 8 de Setembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 4 de Outubro de 2000.**
+Promulgado em 4 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 2000.**
+Referendado em 10 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

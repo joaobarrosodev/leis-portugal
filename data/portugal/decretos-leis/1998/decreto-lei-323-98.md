@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/1998/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1998-229103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e3e3c02992dc4c348d2b05886fb162f77e7e7a2aed5b75bf758c2f0cb0ed1b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7e57373e7e26322dc92f04a7a3312a6051f2081e4b7815133e191b14ff9cb1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,161 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Código do IVA
-- Mercado Cambial
 - Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Banco de Portugal
+- Código do IVA
+- Combustível
 - Direcção Geral dos Impostos
 - Dívidas ao Estado
 - Divisa
-- Combustível
 - Fazenda Pública
-- Banco de Portugal
 - Gasóleo
 - Isenção Fiscal
 - Juros
+- Mercado Cambial
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
 - TAXA de Câmbio
 relationships:
 - type: amended_by
   target: pt:dre:73000149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570511:por
+  label: "Alterada para 31 de Dezembro de 1999 a entrada em vigor dos arts. 4º e 5º pelo DEC LEI.418-A/98.1998.12.31.MF DR.IS-A\
+    \ [301]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-a-1998-570511
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os arts. 4º e 5º pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:335904:por
+  label: "Reposto em vigor, a partir de 1 de Julho de 2000, o Dec Lei 521/85 de 31-Dez e o art. 6º do Dec Lei 185/86 de 14-Jul,\
+    \ na repristinação pelo DEC LEI.164/2000.2000.08.05.MF, DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2000-335904
+  date: '2000-08-05'
+- type: amended_by
+  target: pt:dre:476751:por
+  label: "Alterado o art. 19.º do Código do IVA aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.256/2003.21.10.2003.MF, DR.IS-A [244] de 21.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2003-476751
+  date: '2003-10-21'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 21.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:492261:por
+  label: "Alterado o art. 21º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.57/2005.13.12.2005.AR, DR.IS-A [237] de 13.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/57-2005-492261
+  date: '2005-12-13'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterado o art. 28º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterados os arts. 3º e 5º do Dec Lei 20/90 de 13-Jan, com a redacção conferida no presente diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP,\
+    \ DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 27º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:518046:por
+  label: "Alterado o art. 12º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2007-518046
+  date: '2007-01-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os artigos 16.º, 23.º e 27.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do\
+    \ presente diploma, republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pelaLEI.67-A/2007.31.12.2007.AR, DR.IS\
+    \ [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:628016:por
+  label: "Alterado o art. 16º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.393/2007.31.12.2007.MFAP, DR.IS [251] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/393-2007-628016
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 12º, 16º, 21º, 23º, 27º, 28º, 82º, 87º e 89º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterado a partir de 01.01.2010, o artigo 27.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de 26 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 28º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 89.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    10\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterado, a partir de 01.01.2011, o art. 27º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 3º do Dec Lei 20/90, de 13-Jan, na redacção do presente diploma, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 9º, 16º e 27º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente\
+    \ diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 16.º e 27.º do Código do Imposto sobre o Valor Acrescentado, aprovado\
+    \ pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de\
+    \ 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts.12º e 21º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Dada nova redação ao art. 21.º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo Dec Lei 394-B/84
+    de 26-dez, alterado pelo presente diploma, pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
   label: null
@@ -95,16 +230,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
+- type: cites
+  target: pt:dre:228204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:46Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +326,7 @@ c) ...
 
 7 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -181,7 +348,7 @@ c) ...
 
 10 - ...
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - ...
 
@@ -207,7 +374,7 @@ e) ...
 
 3 - ...
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - ...
 
@@ -227,7 +394,7 @@ e) ...
 
 9 - ...
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - Sempre que se proceda à liquidação do imposto ou de juros compensatórios por iniciativa dos serviços, sem prejuízo do disposto no artigo 83.º, será o contribuinte notificado para efectuar o respectivo pagamento na tesouraria da Fazenda Pública competente, no prazo referido na notificação, não podendo este ser inferior a 30 dias a contar dessa notificação.
 
@@ -239,7 +406,7 @@ e) ...
 
 5 - ...
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - ...
 
@@ -269,7 +436,7 @@ e) ...
 
 14 - (Anterior n.º 16.)
 
-###### Artigo 82.º
+Artigo 82.º
 
 1 - ...
 
@@ -283,11 +450,11 @@ e) ...
 
 6 - ...
 
-###### Artigo 87.º
+Artigo 87.º
 
 Nos casos previstos no artigo 82.º, a Direcção de Serviços de Cobrança do IVA, quando disponha de todos os elementos necessários ao apuramento do imposto ou dos juros compensatórios, procederá à notificação dos sujeitos passivos, por carta registada, com aviso de recepção, comunicando o facto à repartição de finanças competente, que dará continuidade ao processo de cobrança.
 
-###### Artigo 89.º
+Artigo 89.º
 
 1 - ...
 
@@ -317,7 +484,7 @@ Os artigos 3.º e 5.º do [Decreto-Lei n.º 20/90](https://diariodarepublica.pt/
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 5.º
+Artigo 5.º
 
 Deferido o pedido, o Serviço de Administração do IVA remeterá à entidade requerente o respectivo cheque, no termo dos três meses seguintes à recepção do pedido, excepto no caso dos pedidos referidos no n.º 3 do artigo 3.º, em que será remetido até ao final do mês de Junho seguinte, ou, nos mesmos prazos, creditará na sua conta bancária o montante da restituição, comunicando-lhe o facto.»
 
@@ -365,7 +532,7 @@ l) Os bens provenientes de transacções intracomunitárias a que se refere o [D
 
 8 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -419,12 +586,12 @@ São revogados, a partir do dia 1 de Janeiro de 1999, o [Decreto-Lei n.º 521/85
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 13 de Outubro de 1998.**
+Promulgado em 13 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Outubro de 1998.**
+Referendado em 16 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

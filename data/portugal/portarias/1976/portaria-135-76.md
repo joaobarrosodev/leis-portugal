@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-1976-501588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81d86ddc01f7a2903765bdd25c7397e2997efe89be954946e0fddfb94ba9cb08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ab3d798f8ce27693fc6621af35c7ab86ec27b768176715ee0927746a2dac89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimentos Fabris do Exército
+- Exército
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265113:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:426919:por
+  label: Rectificada pela DECL.DD8894.29.05.1976.EMGFA, DR.IS [126] de 29.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426919
+  date: '1976-05-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:05Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +111,6 @@ Conselho da Revolução e Ministério das Finanças, 31 de Dezembro de 1975. - O
 
 Mapa anexo à Portaria n.º 135/76
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06000/04960496.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06000/04960496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06000/04960496.pdf)
 
-**O Chefe do Estado-Maior do Exército, António dos Santos Ramalho Eanes. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado adjunto do Ministro das Finanças.**
+O Chefe do Estado-Maior do Exército, António dos Santos Ramalho Eanes. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado adjunto do Ministro das Finanças.

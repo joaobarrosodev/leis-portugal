@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/21000/21162124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1976-408695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aca373576a44150015e20fba28fb0c47ba7c68a4a8b9374279132b5591bcd1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1268e90eaf4b4bdc0f3610298a3f1ce5fe0aef6f8e4a55cda0a252eb9bd07494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo Sanitário
+- Embalagem
+- Inspecção dos Alimentos
+- Pescado
+- Regulamento
+- Saúde Pública
 relationships:
+- type: amended_by
+  target: pt:dre:281441:por
+  label: "ATERADO O ARTIGO 20 DO REGULAMENTO PUBLICADO EM ANEXO PELA PORTARIA 534/93, PUBLICADA NO DR.IS-B, 118, DE 930521.\0\
+    30521.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/534-1993-281441
 - type: amended_by
   target: pt:dre:439843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604245:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439843:por
+  label: "Revogada pelo DEC LEI.223/2008.18.11.2008.MADRP, DR.IS [224] de 18.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2008-439843
+  date: '2008-11-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:07:30Z'
   warnings: []
   errors: []
 ---
@@ -104,17 +141,17 @@ REGULAMENTO DE INSPECÇÃO E FISCALIZAÇÃO HÍGIO-SANITÁRIAS DO PESCADO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. No território do continente e dos arquipélagos dos Açores e da Madeira é obrigatória a inspecção e fiscalização hígio-sanitárias do pescado e seus subprodutos frescos, preparados ou por qualquer forma conservados, que se destinem ao consumo público.
+Artigo 1.º - 1. No território do continente e dos arquipélagos dos Açores e da Madeira é obrigatória a inspecção e fiscalização hígio-sanitárias do pescado e seus subprodutos frescos, preparados ou por qualquer forma conservados, que se destinem ao consumo público.
 
 2. A inspecção e a fiscalização hígio-sanitárias far-se-ão nas embarcações de pesca ou transporte de pescado, no acto de descarga, e nos portos de pesca, locais de desembarque, cais, praias, lotas, postos aduaneiros, meios de transporte, armazéns ou depósitos, câmaras frigoríficas, locais de venda (compreendendo os mercados e as feiras), estabelecimentos de seca, preparação, fabrico de conservas e sobre a venda ambulante.
 
 3. As referidas actividades incidirão sobre as condições higiénicas do pescado e forma do seu acondicionamento, e bem assim sobre o pessoal empregado nas referidas actividades.
 
-###### Art. 2.º Tanto a inspecção como a fiscalização hígio-sanitárias do pescado e seus subprodutos regem-se pelas normas constantes deste Regulamento.
+Art. 2.º Tanto a inspecção como a fiscalização hígio-sanitárias do pescado e seus subprodutos regem-se pelas normas constantes deste Regulamento.
 
-###### Art. 3.º Sem prejuízo das atribuições de outros serviços e organismos do Estado, são normalmente competentes para realizar a inspecção hígio-sanitária do pescado e seus subprodutos os médicos veterinários da Direcção-Geral dos Serviços Pecuários, das intendências de pecuária dos arquipélagos dos Açores e da Madeira e das câmaras municipais.
+Art. 3.º Sem prejuízo das atribuições de outros serviços e organismos do Estado, são normalmente competentes para realizar a inspecção hígio-sanitária do pescado e seus subprodutos os médicos veterinários da Direcção-Geral dos Serviços Pecuários, das intendências de pecuária dos arquipélagos dos Açores e da Madeira e das câmaras municipais.
 
-###### Art. 4.º - 1. Neste Regulamento entende-se por:
+Art. 4.º - 1. Neste Regulamento entende-se por:
 
 a) Pescado - os animais subaquáticos (crustáceos, moluscos, equinodermes, ciclóstomos, peixes, batráquios, répteis e mamíferos), suas partes ou produtos, preparados ou não, com destino à alimentação humana;
 
@@ -138,15 +175,15 @@ j) Subprodutos - os derivados do pescado que, com ou sem preparação prévia, p
 
 2. As demais designações específicas que venham a ser atribuídas a outras formas de preparação ou apresentação do pescado ficarão igualmente submetidas às disposições deste Regulamento, sendo convenientemente interpretadas e definidas pela Direcção-Geral dos Serviços Pecuários aquelas acerca das quais possa haver dúvidas.
 
-###### Art. 5.º Na inspecção e fiscalização do pescado e seus subprodutos, bem como na sua preparação e embalagem, quando se destinem à exportação, além das normas prescritas neste Regulamento, serão observados, sempre que possível, os requisitos legais do país importador.
+Art. 5.º Na inspecção e fiscalização do pescado e seus subprodutos, bem como na sua preparação e embalagem, quando se destinem à exportação, além das normas prescritas neste Regulamento, serão observados, sempre que possível, os requisitos legais do país importador.
 
-###### Art. 6.º Nos casos omissos neste Regulamento e naqueles em que não é possível formular disposições para bem se determinar o grau de insalubridade, fica ao prudente critério do inspector autorizar o destino a dar ao pescado ou seus subprodutos.
+Art. 6.º Nos casos omissos neste Regulamento e naqueles em que não é possível formular disposições para bem se determinar o grau de insalubridade, fica ao prudente critério do inspector autorizar o destino a dar ao pescado ou seus subprodutos.
 
 ### CAPÍTULO II — Da inspecção hígio-sanitária
 
 #### SECÇÃO I — Fins da inspecção
 
-###### Art. 7.º A inspecção hígio-sanitária tem por objectivo verificar o estado de higiene e salubridade do pescado e seus subprodutos e retirá-los do consumo público sempre que:
+Art. 7.º A inspecção hígio-sanitária tem por objectivo verificar o estado de higiene e salubridade do pescado e seus subprodutos e retirá-los do consumo público sempre que:
 
 a) Estejam alterados (falsificados, avariados ou corruptos);
 
@@ -158,7 +195,7 @@ d) Sejam fundadamente suspeitos de veicular microrganismos patogéneos ou subst�
 
 #### SECÇÃO II — Estados de salubridade do pescado
 
-###### Art. 8.º Para os efeitos deste Regulamento, e enquanto os resultados da investigação laboratorial sobre o comportamento bioquímico dos tecidos do pescado, depois da captura, não fornecerem índices simples e suficientemente probatórios do estado de salubridade e frescura, relativamente às várias espécies da fauna subaquática aproveitadas na alimentação humana, são adoptados os seguintes critérios para definir os estados de salubridade do pescado:
+Art. 8.º Para os efeitos deste Regulamento, e enquanto os resultados da investigação laboratorial sobre o comportamento bioquímico dos tecidos do pescado, depois da captura, não fornecerem índices simples e suficientemente probatórios do estado de salubridade e frescura, relativamente às várias espécies da fauna subaquática aproveitadas na alimentação humana, são adoptados os seguintes critérios para definir os estados de salubridade do pescado:
 
 a) Óptimo estado de frescura - para todo o pescado vivo ou no estado de rigidez cadavérica, sem cheiro anormal nem lesões ou defeitos;
 
@@ -168,7 +205,7 @@ c) Estado de frescura satisfatório - para todo o pescado que, não obstante a f
 
 #### SECÇÃO III — Princípios gerais da inspecção
 
-###### Art. 9.º - 1. Na observação do pescado os inspectores deverão proceder de modo que, sendo o exame suficientemente elucidativo, se evitem quanto possível prejuízos escusados, tanto para o dono da mercadoria como para o público.
+Art. 9.º - 1. Na observação do pescado os inspectores deverão proceder de modo que, sendo o exame suficientemente elucidativo, se evitem quanto possível prejuízos escusados, tanto para o dono da mercadoria como para o público.
 
 2. No exame do pescado fresco, preparado ou conservado, recorrer-se-á, desde que necessário e possível, à análise laboratorial.
 
@@ -176,7 +213,7 @@ c) Estado de frescura satisfatório - para todo o pescado que, não obstante a f
 
 4. A inspecção do peixe miúdo, bem como de todo o pescado com peso unitário ou por peça inferior a 500 g, poderá fazer-se por lotes, mas será efectuada parcelarmente logo que em alguns dos mesmos se encontre motivo de rejeição.
 
-###### Art. 10.º A inspecção sanitária merecerá cuidado especial sempre que se apresentem os seguintes casos:
+Art. 10.º A inspecção sanitária merecerá cuidado especial sempre que se apresentem os seguintes casos:
 
 1.º Quanto ao pescado fresco ou refrigerado:
 
@@ -318,7 +355,7 @@ e) Se suspeitar não conterem o óleo de cobertura que a lei permita.
 
 #### SECÇÃO IV — Regras técnicas e efeitos da inspecção
 
-###### Art. 11.º - 1. Será totalmente reprovado, por impróprio para consumo público, o pescado que:
+Art. 11.º - 1. Será totalmente reprovado, por impróprio para consumo público, o pescado que:
 
 1.º Se verifique estar em qualquer das condições referidas no artigo 7.º;
 
@@ -338,7 +375,7 @@ e) Se suspeitar não conterem o óleo de cobertura que a lei permita.
 
 5. O pescado de qualidade deficiente e aquele cuja decomposição se encontre em início poderão ser utilizados, respectivamente, na preparação de iscos e farinhas para rações de animais ou em guanos ou fertilizantes agrícolas, desde que o interessado o solicite.
 
-###### Art. 12.º Será ainda objecto de reprovação total o pescado que, especialmente de entre os casos previstos na secção III deste capítulo, se apresente nas condições seguintes:
+Art. 12.º Será ainda objecto de reprovação total o pescado que, especialmente de entre os casos previstos na secção III deste capítulo, se apresente nas condições seguintes:
 
 a) Nos casos previstos na alínea a) do n.º 4.º do artigo 10.º, quando exceda de 30% o número de moluscos que se achem nas condições de insalubridade referidas;
 
@@ -352,7 +389,7 @@ e) Nos casos previstos nas alíneas a) a g) do n.º 7.º do artigo 10.º, sempre
 
 f) Nos casos previstos na alínea b) do n.º 8.º do artigo 10.º, sempre que, após exame, uma por uma, das latas do mesmo lote, seja superior a 30% o somatório das avariadas ou alteradas ou, sendo inferior a esta percentagem, a causa da alteração se revele de natureza tóxica ou infecciosa.
 
-###### Art. 13.º - 1. Serão objecto de reprovação parcial os lotes ou partidas de pescado em que seja possível fazer-se o expurgo das partes ou porções afectadas ou alteradas e ainda como nos casos previstos nas alíneas b) a e) do n.º 6.º do artigo 10.º, quando possa efectuar-se a limpeza, o tratamento ou a lavagem conveniente da parte restante expurgada.
+Art. 13.º - 1. Serão objecto de reprovação parcial os lotes ou partidas de pescado em que seja possível fazer-se o expurgo das partes ou porções afectadas ou alteradas e ainda como nos casos previstos nas alíneas b) a e) do n.º 6.º do artigo 10.º, quando possa efectuar-se a limpeza, o tratamento ou a lavagem conveniente da parte restante expurgada.
 
 2. Deve considerar-se insusceptível de beneficiação, por impróprio para consumo público, o bacalhau ou outro peixe salgado seco que se apresente:
 
@@ -362,7 +399,7 @@ b) Com «alteração vermelha», desde que o pigmento cromogénio, cobrindo tota
 
 c) Com «empoado» negro penetrando na intimidade dos tecidos e estendendo-se a distância, quando o produto tenha pronunciado cheiro a bafio, misturado com o amoniacal, ou quando a análise laboratorial revele a associação de fungos com bactérias putrificantes.
 
-###### Art. 14.º Serão também retirados da alimentação pública, por expressa proibição de venda para tal fim:
+Art. 14.º Serão também retirados da alimentação pública, por expressa proibição de venda para tal fim:
 
 a) As ostras que não provenham de postos de depuração autorizados e, bem assim, outros moluscos testáceos vivos procedentes de viveiros ou locais declarados insalubres, a menos que se prove terem sido submetidos a técnicas de depuração aprovadas oficialmente;
 
@@ -380,57 +417,57 @@ g) As conservas cujos recipientes não estejam convenientemente fechados, aprese
 
 #### SECÇÃO V — Destino do pescado rejeitado
 
-###### Art. 15.º - 1. O pescado ou seus subprodutos dados como impróprios para consumo público serão objecto de desnaturação imediata, por meio de adição de substâncias que os tornem irrecuperáveis para a alimentação humana, mas que não prejudiquem o aproveitamento que deles possa fazer-se na preparação ou fabrico de iscos ou rações para animais, e na preparação de guanos ou fertilizantes agrícolas, conforme for autorizado.
+Art. 15.º - 1. O pescado ou seus subprodutos dados como impróprios para consumo público serão objecto de desnaturação imediata, por meio de adição de substâncias que os tornem irrecuperáveis para a alimentação humana, mas que não prejudiquem o aproveitamento que deles possa fazer-se na preparação ou fabrico de iscos ou rações para animais, e na preparação de guanos ou fertilizantes agrícolas, conforme for autorizado.
 
 2. Como desnaturantes estão indicadas as substâncias de fraca ou nula toxicidade (soluto de azul-de-metileno medicinal, leite de cal, etc.) e proibidas matérias e produtos tais como o petróleo, os ácidos cresílicos e outros derivados fenólicos, o óleo queimado de motores e o sal marinho sujo, quando prejudiquem o ulterior aproveitamento do produto rejeitado.
 
 3. Quando o pescado seja aproveitado na preparação de rações para animais, observar-se-á o que dispõe o Decreto-Lei n.º 37753, de 20 de Fevereiro de 1950.
 
-###### Art. 16.º - 1. Nas localidades onde não seja possível o aproveitamento industrial do pescado reprovado ou rejeitado deverá este, depois de desnaturado ou inutilizado, ser enterrado nos campos ou nas lixeiras municipais, por forma a não prejudicar a salubridade pública.
+Art. 16.º - 1. Nas localidades onde não seja possível o aproveitamento industrial do pescado reprovado ou rejeitado deverá este, depois de desnaturado ou inutilizado, ser enterrado nos campos ou nas lixeiras municipais, por forma a não prejudicar a salubridade pública.
 
 2. Tratando-se de conservas, serão enterradas nas condições acima referidas, ou lançadas ao mar, uma vez retiradas dos recipientes e inutilizadas.
 
-###### Art. 17.º O pescado ou seu subprodutos alterados (falsificados, avariados ou corruptos) serão, mediante o levantamento do respectivo auto de notícia, inutilizados ou desnaturados, conforme os casos, na presença do dono ou seu representante e sob a vigilância do agente da fiscalização.
+Art. 17.º O pescado ou seu subprodutos alterados (falsificados, avariados ou corruptos) serão, mediante o levantamento do respectivo auto de notícia, inutilizados ou desnaturados, conforme os casos, na presença do dono ou seu representante e sob a vigilância do agente da fiscalização.
 
 ### CAPÍTULO III — Da elaboração, embalagem, conservação, venda e transportes do pescado
 
-###### Art. 18.º Na elaboração e transporte do pescado fresco, bem como nos estabelecimentos destinados à sua conservação, depósito ou venda, serão observadas as normas higiénicas constantes das secções seguintes, por cujo cumprimento compete às autoridades sanitárias zelar.
+Art. 18.º Na elaboração e transporte do pescado fresco, bem como nos estabelecimentos destinados à sua conservação, depósito ou venda, serão observadas as normas higiénicas constantes das secções seguintes, por cujo cumprimento compete às autoridades sanitárias zelar.
 
 #### SECÇÃO I — Elaboração
 
-###### Art. 19.º - 1. A lavagem do pescado far-se-á exclusivamente com água fria, potável ou preferentemente salgada que, sob o ponto de vista bacteriológico, satisfaça às condições da água potável.
+Art. 19.º - 1. A lavagem do pescado far-se-á exclusivamente com água fria, potável ou preferentemente salgada que, sob o ponto de vista bacteriológico, satisfaça às condições da água potável.
 
 2. Para a execução deste preceito nas lotas e mercados de peixe, as autoridades sanitárias solicitarão das câmaras municipais e outros organismos públicos interessados, quando for caso disso, o abastecimento de água nas condições indicadas.
 
-###### Art. 20.º - 1. Os lotes de peixe destinados ao consumo público no estado fresco e constituídos por espécies de peso unitário aproximado ou superior a 500 g somente poderão ser apresentados à venda a retalho depois da remoção das vísceras abdominais, seguida de lavagem e escorrimento.
+Art. 20.º - 1. Os lotes de peixe destinados ao consumo público no estado fresco e constituídos por espécies de peso unitário aproximado ou superior a 500 g somente poderão ser apresentados à venda a retalho depois da remoção das vísceras abdominais, seguida de lavagem e escorrimento.
 
 2. O descabeçamento total ou o desguelramento é operação complementar a efectuar, sempre que conveniente, em todos os peixes com peso unitário aproximado ou superior a 1 kg, sobretudo se estiverem conservados a temperatura superior a 5ºC.
 
-###### Art. 21.º - 1. Os lotes de peixe eviscerado, com ou sem desguelramento, serão acondicionados nas embalagens de transporte ou durante a sua armazenagem e ainda nos locais de venda ao público, de modo que o escorrimento dos líquidos intersticiais seja permanente e fácil.
+Art. 21.º - 1. Os lotes de peixe eviscerado, com ou sem desguelramento, serão acondicionados nas embalagens de transporte ou durante a sua armazenagem e ainda nos locais de venda ao público, de modo que o escorrimento dos líquidos intersticiais seja permanente e fácil.
 
 2. Sem prejuízo de outro processo que corresponda àquele objectivo, é recomendável acamar os peixes paralelamente, com os golpes dos ventres voltados para baixo, sempre que a conformação das espécies o permita.
 
 #### SECÇÃO II — Embalagens e transportes
 
-###### Art. 22.º - 1. A partir das lotas e mercados abastecedores, o transporte em terra do pescado destinado ao consumo no estado fresco será efectuado em embalagens fechadas, providas de tampa, com capacidade unitária não superior a 50 kg, e sempre ao abrigo de causas externas de alteração ou conspurcação, tais como poeiras, chuva, raios solares directos, gases industriais, fumos, ratos, insectos, etc.
+Art. 22.º - 1. A partir das lotas e mercados abastecedores, o transporte em terra do pescado destinado ao consumo no estado fresco será efectuado em embalagens fechadas, providas de tampa, com capacidade unitária não superior a 50 kg, e sempre ao abrigo de causas externas de alteração ou conspurcação, tais como poeiras, chuva, raios solares directos, gases industriais, fumos, ratos, insectos, etc.
 
 2. Exceptuam-se do condicionalismo indicado no número anterior as embalagens das espécies de peso individual médio superiores a 20 kg (tunídeos, corvinas, alabotes, grandes seláceos, etc.).
 
-###### Art. 23.º As embalagens utilizadas no transporte de peixe fresco destinado ao consumo serão constituídas por material rígido, quanto possível isolante, não deteriorável, pouco absorvente da humidade e com as superfícies internas duras e lisas.
+Art. 23.º As embalagens utilizadas no transporte de peixe fresco destinado ao consumo serão constituídas por material rígido, quanto possível isolante, não deteriorável, pouco absorvente da humidade e com as superfícies internas duras e lisas.
 
-###### Art. 24.º - 1. Sempre que seja viável a sua reutilização, as embalagens ou recipientes de pescado serão submetidas a lavagem com água sob pressão, não contaminada, seguida de escorrimento. Quando o movimento dos portos de pesca ou das estações de embalagem e expedição o permita e justifique, aquela lavagem será seguida de outra efectuada com água fervente ou vapor de água sob pressão.
+Art. 24.º - 1. Sempre que seja viável a sua reutilização, as embalagens ou recipientes de pescado serão submetidas a lavagem com água sob pressão, não contaminada, seguida de escorrimento. Quando o movimento dos portos de pesca ou das estações de embalagem e expedição o permita e justifique, aquela lavagem será seguida de outra efectuada com água fervente ou vapor de água sob pressão.
 
 2. Se as embalagens apresentarem manchas, perdas de substância ou as juntas tomadas por indutos aderentes, o escorrimento será precedido de nova lavagem com água fervente, sob pressão, ou com água fria contendo substâncias anti-sépticas, tais como o cloro, o formaldeído, a soda ou outros produtos químicos cujo emprego seja autorizado.
 
-###### Art. 25.º As embalagens para transporte de pescado a partir das lotas ou mercados abastecedores terão dispositivos para drenagem permanente dos líquidos e estarão guarnecidas com coberturas de superfície unida que impeça a entrada dos líquidos escoados de outras embalagens colocadas por cima.
+Art. 25.º As embalagens para transporte de pescado a partir das lotas ou mercados abastecedores terão dispositivos para drenagem permanente dos líquidos e estarão guarnecidas com coberturas de superfície unida que impeça a entrada dos líquidos escoados de outras embalagens colocadas por cima.
 
-###### Art. 26.º As embalagens utilizadas no transporte em terra, fora dos locais de venda, de partes de pescado ou produtos derivados, no estado fresco ou frigorificado, tais como postas, filetes, ovas, etc., serão revestidas interiormente com material impermeável à humidade e às gorduras, como seja papel inpermeável, limpo e não usado.
+Art. 26.º As embalagens utilizadas no transporte em terra, fora dos locais de venda, de partes de pescado ou produtos derivados, no estado fresco ou frigorificado, tais como postas, filetes, ovas, etc., serão revestidas interiormente com material impermeável à humidade e às gorduras, como seja papel inpermeável, limpo e não usado.
 
-###### Art. 27.º - 1. Os veículos utilizados exclusivamente no transporte em terra do pescado fresco, salgado ou por qualquer forma preparado ou conservado, com exclusão das conservas, bem como os veículos que se prestem ocasionalmente a tal fim, serão providos de meios que assegurem a conservação e a qualidade dos produtos, devendo o acondicionamento destes fazer-se por forma que não sofram esmagamento, não sejam conspurcados nem estejam sujeitos a poluição.
+Art. 27.º - 1. Os veículos utilizados exclusivamente no transporte em terra do pescado fresco, salgado ou por qualquer forma preparado ou conservado, com exclusão das conservas, bem como os veículos que se prestem ocasionalmente a tal fim, serão providos de meios que assegurem a conservação e a qualidade dos produtos, devendo o acondicionamento destes fazer-se por forma que não sofram esmagamento, não sejam conspurcados nem estejam sujeitos a poluição.
 
 2. Os referidos veículos e as caixas ou recipientes utilizados no transporte do pescado conterão dispositivos que permitam o seu arejamento adequado e garantam a drenagem permanente e fácil limpeza e desinfecção.
 
-###### Art. 28.º No tempo quente o transporte por terra do pescado fresco destinado ao consumo público, para lotes ou carregamentos superiores a 200 kg, será obrigatoriamente efectuado nas seguintes condições:
+Art. 28.º No tempo quente o transporte por terra do pescado fresco destinado ao consumo público, para lotes ou carregamentos superiores a 200 kg, será obrigatoriamente efectuado nas seguintes condições:
 
 a) Para localidades que distem mais de 50 km ou cujo percurso exceda uma hora a contar do ponto de expedição, utilizando veículos ou caixas isotérmicos, ou frigoríficos, e adicionando ao pescado cerca de metade do seu peso em gelo, com ou sem mistura com sal marinho, limpos;
 
@@ -438,15 +475,15 @@ b) Para localidades que distem menos de 50 km ou cujo trajecto não exceda uma h
 
 c) Para qualquer distância e tempo de percurso a temperatura do pescado não poderá exceder 2ºC.
 
-###### Art. 29.º Durante o tempo fresco o transporte por terra do pescado fresco destinado ao consumo público poderá ser efectuado com simples adição de gelo, sempre que o trajecto até às localidades de destino não seja superior a cinco horas, não podendo também a temperatura do pescado exceder 2ºC.
+Art. 29.º Durante o tempo fresco o transporte por terra do pescado fresco destinado ao consumo público poderá ser efectuado com simples adição de gelo, sempre que o trajecto até às localidades de destino não seja superior a cinco horas, não podendo também a temperatura do pescado exceder 2ºC.
 
-###### Art. 30.º - 1. Na venda ambulante do pescado aprovado pela inspecção oficial fora ou dentro das localidades, quando consentida, serão observadas as normas contidas neste Regulamento quanto ao acondicionamento, conservação e transporte, bem como as condições particulares que forem estabelecidas, por postura ou regulamento municipal, para cada localidade.
+Art. 30.º - 1. Na venda ambulante do pescado aprovado pela inspecção oficial fora ou dentro das localidades, quando consentida, serão observadas as normas contidas neste Regulamento quanto ao acondicionamento, conservação e transporte, bem como as condições particulares que forem estabelecidas, por postura ou regulamento municipal, para cada localidade.
 
 2. Na venda ambulante do pescado não será permitido o seu amanho ou quaisquer operações relativas à sua elaboração nos locais de venda, quando esta não seja efectuada em veículo com condições para tal.
 
 #### SECÇÃO III — Estabelecimentos de depósito e venda
 
-###### Art. 31.º - 1. São requisitos a observar na instalação dos estabelecimentos ou locais de retém, exposição ou venda, inclusive lotas e mercados abastecedores de pescado fresco, frigorificado ou por qualquer forma elaborado ou conservado, com exclusão das conservas:
+Art. 31.º - 1. São requisitos a observar na instalação dos estabelecimentos ou locais de retém, exposição ou venda, inclusive lotas e mercados abastecedores de pescado fresco, frigorificado ou por qualquer forma elaborado ou conservado, com exclusão das conservas:
 
 1.º Não estarem em comunicação directa com habitações ou na contiguidade de alojamentos de animais, estrumeiras ou quaisquer outras instalações ou locais de onde se libertem cheiros, poeiras, fumos ou gases susceptíveis de conspurcar ou alterar o pescado;
 
@@ -470,7 +507,7 @@ c) Para qualquer distância e tempo de percurso a temperatura do pescado não po
 
 2. Os requisitos de instalação enunciados aplicam-se a todas as dependências e anexos dos estabelecimentos destinados ao depósito ou conservação do pescado ou a operações de elaboração ou embalagem.
 
-###### Art. 32.º No funcionamento dos referidos estabelecimentos ou locais observar-se-á o seguinte:
+Art. 32.º No funcionamento dos referidos estabelecimentos ou locais observar-se-á o seguinte:
 
 1.º O pescado ou suas partes não devem estar submetidos à incidência directa dos raios solares, nem à chuva, e estarão sempre acondicionados ou expostos por forma a não sofrerem o contacto de poeiras, gases industriais, fumos, insectos e ratos;
 
@@ -484,36 +521,36 @@ c) Para qualquer distância e tempo de percurso a temperatura do pescado não po
 
 ### CAPÍTULO VII — Disposições finais e penais
 
-###### Art. 33.º Todo o pessoal que manipula o pescado na sua elaboração, acondicionamento, conservação, fabrico, transporte, distribuição e venda é obrigado a ser portador do boletim de sanidade passado nos termos da [Portaria n.º 17512](https://diariodarepublica.pt/dr/detalhe/portaria/17512-1959-441966), de 29 de Dezembro de 1959.
+Art. 33.º Todo o pessoal que manipula o pescado na sua elaboração, acondicionamento, conservação, fabrico, transporte, distribuição e venda é obrigado a ser portador do boletim de sanidade passado nos termos da [Portaria n.º 17512](https://diariodarepublica.pt/dr/detalhe/portaria/17512-1959-441966), de 29 de Dezembro de 1959.
 
-###### Art. 34.º A fiscalização verificará se as condições técnicas e higiénicas relativas à apresentação, ao acondicionamento, à conservação, à embalagem e ao transporte do pescado, bem como as que respeitam aos estabelecimentos e locais de elaboração, armazenagem ou venda estão conforme com as disposições deste Regulamento.
+Art. 34.º A fiscalização verificará se as condições técnicas e higiénicas relativas à apresentação, ao acondicionamento, à conservação, à embalagem e ao transporte do pescado, bem como as que respeitam aos estabelecimentos e locais de elaboração, armazenagem ou venda estão conforme com as disposições deste Regulamento.
 
-###### Art. 35.º Sempre que aos agentes das competentes entidades de fiscalização se torne suspeita a qualidade ou a salubridade de qualquer lote, partida ou peça de pescado, ou de seus subprodutos, e ainda quando se verifique que os mesmos não foram inspeccionados antes da sua colocação em venda, deverão proceder à sua retenção, até que pela inspecção sanitária competente, que será imediatamente reclamada, seja feito o necessário exame e confirmada ou infirmada a suspeita, depois do que actuarão em conformidade.
+Art. 35.º Sempre que aos agentes das competentes entidades de fiscalização se torne suspeita a qualidade ou a salubridade de qualquer lote, partida ou peça de pescado, ou de seus subprodutos, e ainda quando se verifique que os mesmos não foram inspeccionados antes da sua colocação em venda, deverão proceder à sua retenção, até que pela inspecção sanitária competente, que será imediatamente reclamada, seja feito o necessário exame e confirmada ou infirmada a suspeita, depois do que actuarão em conformidade.
 
-###### Art. 36.º As contravenções ao presente Regulamento e, de modo geral, às determinações hígio-sanitárias sobre o pescado e seus subprodutos dimanadas da Direcção-Geral dos Serviços Pecuários, são punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e demais legislação que introduz alterações a este diploma, designadamente o [Decreto-Lei n.º 340/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1973-421273), de 6 de Julho.
+Art. 36.º As contravenções ao presente Regulamento e, de modo geral, às determinações hígio-sanitárias sobre o pescado e seus subprodutos dimanadas da Direcção-Geral dos Serviços Pecuários, são punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e demais legislação que introduz alterações a este diploma, designadamente o [Decreto-Lei n.º 340/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1973-421273), de 6 de Julho.
 
-###### Art. 37.º Os autos que forem levantados por virtude deste Regulamento serão remetidos à Direcção-Geral da Fiscalização Económica, para efeito do disposto no artigo 37.º do supracitado [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
+Art. 37.º Os autos que forem levantados por virtude deste Regulamento serão remetidos à Direcção-Geral da Fiscalização Económica, para efeito do disposto no artigo 37.º do supracitado [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-###### Art. 38.º - 1. Em conformidade com as disposições constantes do n.º 10 do artigo 7.º, do n.º 20 do artigo 12.º, e § único do artigo 27.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, dos actos de conteúdo técnico sob responsabilidade dos inspectores médicos veterinários relativos às disposições deste Regulamento cabe recurso, mediante requerimento, para a Direcção-Geral dos Serviços Pecuários, por intermédio dos Serviços Veterinários dos Portos de Pesca, ou dos serviços regionais da Direcção-Geral dos Serviços Pecuários, no prazo de três horas.
+Art. 38.º - 1. Em conformidade com as disposições constantes do n.º 10 do artigo 7.º, do n.º 20 do artigo 12.º, e § único do artigo 27.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957, dos actos de conteúdo técnico sob responsabilidade dos inspectores médicos veterinários relativos às disposições deste Regulamento cabe recurso, mediante requerimento, para a Direcção-Geral dos Serviços Pecuários, por intermédio dos Serviços Veterinários dos Portos de Pesca, ou dos serviços regionais da Direcção-Geral dos Serviços Pecuários, no prazo de três horas.
 
 2. Para que o recurso seja admitido deve o recorrente ou o seu legítimo representante manifestar ao inspector médico veterinário a sua intenção de recorrer, logo que tome conhecimento da decisão deste, para que o pescado em causa seja desde logo mantido nas condições do primeiro exame sanitário e convenientemente conservado.
 
-###### Art. 39.º - 1. A junta de recurso será constituída por três médicos veterinários, sendo um nomeado pelo serviço ou organismo a que pertença o inspector cuja decisão é contestada, outro pelo requerente e o terceiro pelos Serviços Veterinários dos Portos de Pesca ou serviços regionais da Direcção-Geral dos Serviços Pecuários, que actuará como perito de desempate.
+Art. 39.º - 1. A junta de recurso será constituída por três médicos veterinários, sendo um nomeado pelo serviço ou organismo a que pertença o inspector cuja decisão é contestada, outro pelo requerente e o terceiro pelos Serviços Veterinários dos Portos de Pesca ou serviços regionais da Direcção-Geral dos Serviços Pecuários, que actuará como perito de desempate.
 
 2. O inspector contra cuja decisão é interposto o recurso não pode fazer parte da junta, mas deve estar presente para prestar os esclarecimentos necessários.
 
-###### Art. 40.º A junta reunir-se-á no prazo de vinte e quatro horas após a entrada do requerimento de interposição de recurso.
+Art. 40.º A junta reunir-se-á no prazo de vinte e quatro horas após a entrada do requerimento de interposição de recurso.
 
-###### Art. 41.º Da decisão da junta lavrar-se-á acta que será assinada por todos os intervenientes.
+Art. 41.º Da decisão da junta lavrar-se-á acta que será assinada por todos os intervenientes.
 
-###### Art. 42.º Da decisão da junta não cabe novo recurso.
+Art. 42.º Da decisão da junta não cabe novo recurso.
 
-###### Art. 43.º A despesa que o processo de recurso ocasionar, incluindo a importância gasta com os transportes e os honorários dos peritos da parte recorrida, correrá por conta do recorrente que, no acto de entrega do requerimento de recurso, depositará, contra recibo, a importância estabelecida para o efeito pela Direcção-Geral dos Serviços Pecuários.
+Art. 43.º A despesa que o processo de recurso ocasionar, incluindo a importância gasta com os transportes e os honorários dos peritos da parte recorrida, correrá por conta do recorrente que, no acto de entrega do requerimento de recurso, depositará, contra recibo, a importância estabelecida para o efeito pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 44.º A importância do depósito será restituída ao recorrente se o resultado da junta de peritos lhe for favorável, mas tal não acontecerá em caso contrário e se, por sua própria culpa ou do seu perito, a junta não se realizar ou não tiver seguimento.
+Art. 44.º A importância do depósito será restituída ao recorrente se o resultado da junta de peritos lhe for favorável, mas tal não acontecerá em caso contrário e se, por sua própria culpa ou do seu perito, a junta não se realizar ou não tiver seguimento.
 
-###### Art. 45.º A Direcção-Geral dos Serviços Pecuários expedirá as instruções técnicas que julgar convenientes para a melhor execução das disposições constantes deste Regulamento, competindo-lhe esclarecer quaisquer dúvidas resultantes da interpretação das mesmas.
+Art. 45.º A Direcção-Geral dos Serviços Pecuários expedirá as instruções técnicas que julgar convenientes para a melhor execução das disposições constantes deste Regulamento, competindo-lhe esclarecer quaisquer dúvidas resultantes da interpretação das mesmas.
 
-###### Art. 46.º Este Regulamento entra em vigor, a título experimental, após noventa dias da sua publicação, prevendo-se a sua revisão passados que sejam três anos sobre a sua vigência.
+Art. 46.º Este Regulamento entra em vigor, a título experimental, após noventa dias da sua publicação, prevendo-se a sua revisão passados que sejam três anos sobre a sua vigência.
 
-**O Secretário de Estado do Fomento Agrário, Reinaldo Vital Rodrigues.**
+O Secretário de Estado do Fomento Agrário, Reinaldo Vital Rodrigues.

@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/738-1984-399630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677f4464fe3b29964bfe73fe2a6c0c3d5d52e841b8ece30a9ba8b0b881ba8c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbf991b792982775a446d955acffa1bbfea9f53e4bf6b89d8e9c8a9daa230192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Pessoal Civil
+- Regime Ambulatório
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:400445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400445:por
+  label: "Alteradas as normas aprovadas pelo presente diploma, pela PORT.854/84.08.11.1984.MDN, DR.IS [259] de 08.11.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-1984-400445
+  date: '1984-11-08'
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:12:02Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +114,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, apro
 
 Ministério da Defesa Nacional.
 
-**Assinada em 5 de Setembro de 1984.**
+Assinada em 5 de Setembro de 1984.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
 
 Normas sobre o tratamento ambulatório do pessoal civil dos serviços departamentais das Forças Armadas.
 

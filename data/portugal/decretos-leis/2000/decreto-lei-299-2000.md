@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299/2000/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2000-616577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b5408294f120c86352d03ff416471b538043c52ba87e73685c8b7dc278c348c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2439ea502b77b1d5abcbae6d849a0ebedf40bd4c1ada89d1f18f0a247e00fbed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
 subjects:
 - Descobrimentos Portugueses
 - Moeda Comemorativa
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587615:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:57Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +185,12 @@ As moedas cunhadas ao abrigo deste diploma têm curso legal, mas ninguém pode s
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 2 de Novembro de 2000.**
+Promulgado em 2 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Novembro de 2000.**
+Referendado em 3 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.

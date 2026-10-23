@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1988-378497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d9efcf50f33b6cece4f1da3e014bac480faa895c1f4d0fdb3ee96b53f471b6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c122751056dfee60bc8e3e5c8d43c752d666cd9698125a35dcf261fcb6123529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Equivalência de Categorias
+- Formas de Provimento
+- Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:620319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A NORMA 8 PELO DESPACHO NORMATIVO NUMERO 48/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 138,\
+    \ DE 7/6/89.\0/6/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:620319:por
+  label: "Revogada a norma 8 do presente diploma, pelo DN.48/89.07.06.1989.MF, DR.IS [130] de 07.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1989-620319
+  date: '1989-06-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:40Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +117,13 @@ Considerando ser necessário estabelecer o dispositivo regulador do primeiro pre
 
 3.ª A determinação do grau de integração nas carreiras dos novos quadros, observadas as normas anteriores, regula-se, genericamente, pelas seguintes equivalências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
 
 em que os símbolos C identificam as categorias nas actuais carreiras e os números dígitos representam os graus de desenvolvimento das carreiras nos novos quadros, num e noutro caso com ordenação do topo para a base.
 
 4.ª Os titulares das categorias C2, C3, C4, ..., que nelas contem mais de seis anos de serviço prestado aos organismos portuários, em conformidade com a alínea c) do n.º 1 do artigo 81.º do Estatuto do Pessoal das Administrações dos Portos (EPAP), e possuam a respectiva habilitação profissional são integrados no grau imediatamente superior ao fixado pela norma antecedente, ou seja:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
 
 5.ª O disposto na norma anterior não é aplicável aos funcionários que estejam nas seguintes situações na data de entrada em vigor do EPAP:
 
@@ -125,7 +147,7 @@ em que a categoria de assessor B corresponde a igual categoria atribuída por de
 
 a2) São estabelecidas as seguintes equivalências, para efeitos de integração nos novos quadros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
 
 a3) Os titulares da categoria de assessor, de qualquer letra, contando mais de quatro anos nessa categoria e que estejam investidos há mais de quatro anos em cargos de pessoal dirigente das administrações são integrados no grau imediatamente superior ao determinado nos termos da subalínea a2) anterior, salvo se beneficiarem da aplicação da regra dos seis anos, em qualquer caso mesmo com prejuízo da norma 2.ª;
 
@@ -133,7 +155,7 @@ b) Técnico superior:
 
 b1) Os titulares das restantes categorias das carreiras do grupo do pessoal técnico superior são integrados nos novos quadros de acordo com as seguintes equivalências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
 
 b2) Os titulares da carreira de técnico superior contando mais de quatro anos na respectiva categoria e que estejam investidos há mais de quatro anos em cargos de pessoal dirigente das administrações são integrados no grau imediatamente superior ao determinado nos termos da subalínea b1) anterior, salvo se beneficiarem da aplicação da regra dos seis anos, em qualquer caso mesmo com prejuízo da norma 2.ª
 
@@ -147,7 +169,7 @@ Técnico de exploração - técnico superior de 1.ª classe.
 
 8.ª A determinação do grau de integração dos actuais maquinistas marítimos faz-se a partir das seguintes equivalências, com base na correspondência estabelecida no anexo referido na norma 1.ª:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
 
 9.ª Os chefes de secção, encarregados gerais, chefes oficinais, manobradores-chefes de guindastes e manobradores-chefes de motorizados de tráfego são integrados no grupo profissional 3, ocupando o grau imediatamente inferior ao grau final da carreira de assistente administrativo, no caso dos chefes de secção, e da carreira de adjunto técnico, nos outros.
 
@@ -217,4 +239,4 @@ Ministérios das Finanças e das Obras Públicas Transportes e Comunicações, 1
 
 ## ANEXO — (Às normas de primeiro preenchimento de lugares nos novos quadros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17200/30963100.pdf)

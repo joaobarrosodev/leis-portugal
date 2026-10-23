@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-1984-400205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:14:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 993e190a454e37a1c79ec5ef29ccea747501c771acfa9907c44c9d94e04379b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2148321da6c143155b5c9b3c32b4576b86e4e16ec538ca64b6dd360fa34e896b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:14:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:305641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:380931:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:380330:por
+  label: Rectificada pela DECL.DD5286.28.11.1984.PCM, DR.IS [278]2ºSupl de 30.11.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-380330
+  date: '1984-11-28'
+- type: repealed_by
+  target: pt:dre:305641:por
+  label: "Revogada, a partir de 17.12.1986, pelo DEC LEI.404-A/86.04.12.1986.MIC, DR.IS [279-2ºSupl] de 04.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-a-1986-305641
+  date: '1986-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:14:06Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +125,13 @@ Verificação do peso nominal
 
 3.º Para verificação do peso nominal do pão constituem-se os grupos de pães a seguir indicados, retirados ao acaso de diferentes locais do lote, em função do efectivo do lote e do peso nominal do pão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf))](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf)
 
 4.º Os pães de cada grupo serão pesados em conjunto, sendo o respectivo peso médio arredondado ao grama.
 
 5.º O lote será considerado normal quando se verificar o seguinte número mínimo de grupos de pães com peso igual ou superior a 0,93 x m (tolerância de 7%).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf))](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf)
 
 6.º:
 
@@ -129,7 +145,7 @@ Colheita de amostras para análise
 
 8.º Na colheita de amostras para análise constituem-se os grupos de pães a seguir indicados, retirados ao acaso de diferentes locais do lote, em função do efectivo do lote e do peso nominal do pão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf))](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/24800/32913292.pdf)
 
 9.º Para constituição da amostra será retirado um pão de cada um dos grupos.
 
@@ -143,6 +159,6 @@ Colheita de amostras para análise
 
 Secretarias de Estado da Alimentação e do Comércio Interno.
 
-**Assinada em 8 de Outubro de 1984.**
+Assinada em 8 de Outubro de 1984.
 
-**O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

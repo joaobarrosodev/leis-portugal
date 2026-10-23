@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11900/10801081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/27-1979-382788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cadda39a60818e2b72b6cf5c4accfc0c6d4ff844bfaffd5e1bdbf349ac30421c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6483f57acb0afcf8bcf136028ae4f174164b0ae21d4a6013334b2928f2f10d9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ordem da Liberdade
 relationships:
 - type: amended_by
   target: pt:dre:372798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:226996:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372798:por
+  label: "Revogado pelo DEC LEI.414-A/86.1986.12.15.PCM, DR.IS [287]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-a-1986-372798
+  date: '1986-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:52Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +100,7 @@ de 24 de Maio
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O distintivo da Ordem da Liberdade, criada pelo [Decreto-Lei n.º 709-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/709-a-1976-226996), de 4 de Outubro, e um medalhão constituído por um círculo central de esmalte branco com uma cruz grega de esmalte azul, perfilada de ouro, envolvido por coroa circular de ouro, lavrada em forma de raios divergentes do centro, circundada por outra coroa circular de esmalte azul-ferrete, filetada de ouro pelo exterior, tudo envolvido por onze voos estilizados de esmalte branco, perfilados de ouro e sobrepostos alternadamente, e encimado por uma chama esmaltada de vermelho, realçada de ouro, contida numa capela de loureiro de esmalte verde com as folhas perfiladas de ouro. Fita amarela com uma lista central branca.
+Artigo 1.º - 1 - O distintivo da Ordem da Liberdade, criada pelo [Decreto-Lei n.º 709-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/709-a-1976-226996), de 4 de Outubro, e um medalhão constituído por um círculo central de esmalte branco com uma cruz grega de esmalte azul, perfilada de ouro, envolvido por coroa circular de ouro, lavrada em forma de raios divergentes do centro, circundada por outra coroa circular de esmalte azul-ferrete, filetada de ouro pelo exterior, tudo envolvido por onze voos estilizados de esmalte branco, perfilados de ouro e sobrepostos alternadamente, e encimado por uma chama esmaltada de vermelho, realçada de ouro, contida numa capela de loureiro de esmalte verde com as folhas perfiladas de ouro. Fita amarela com uma lista central branca.
 
 2 - As insígnias desta Ordem são:
 
@@ -108,18 +118,18 @@ Grã-cruz: banda de seda das cores da Ordem e nas mesmas proporções, posta a t
 
 c) Grande-colar: formado, alternadamente, pelos seguintes elementos do distintivo da Ordem: cruz assente num círculo de 20 mm de diâmetro e chama numa capela de loureiro, com 25 mm x 38 mm, ligadas por argolas, e tendo pendente o distintivo da Ordem, com 65 mm de diâmetro. Com estas insígnias serão também usadas a banda da grã-cruz e a placa correspondente.
 
-###### Art. 2.º Os modelos das insígnias das medalhas e dos diferentes graus da Ordem são publicados em anexo a este diploma.
+Art. 2.º Os modelos das insígnias das medalhas e dos diferentes graus da Ordem são publicados em anexo a este diploma.
 
-###### Art. 3.º São aplicáveis à Ordem da Liberdade as disposições comuns constantes da parte do Regulamento das Ordens Honoríficas Portuguesas.
+Art. 3.º São aplicáveis à Ordem da Liberdade as disposições comuns constantes da parte do Regulamento das Ordens Honoríficas Portuguesas.
 
 Carlos Alberto da Mota Pinto.
 
-**Promulgado em 23 de Abril de 1979.**
+Promulgado em 23 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11900/10801081.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11900/10801081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11900/10801081.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

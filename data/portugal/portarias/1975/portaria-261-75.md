@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-1975-161964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a63e7a6fd1d15975b431bc5d7d499b41cf5f62fade59ff236642a3661ebbca0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d52a4d2447a11f1b476a506e204b8278de1864e942b45da6cfd05aa0bbf8a333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,31 @@ relationships:
   target: pt:dre:408134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337209:por
+  label: Aditado o Centro de Instrução n.º 10 ao corpo do n.º 2.º pelo(a) Portaria n.º 400/75 - Diário do Governo n.º 148/1975,
+    Série I de 1975-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1975-337209
+  date: '1975-06-30'
+- type: cites
+  target: pt:dre:469641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408134:por
+  label: Revogado o art. 2.º pelo(a) Portaria n.º 730/76 - Diário da República n.º 284/1976, Série I de 1976-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-1976-408134
+  date: '1976-12-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:18Z'
   warnings: []
   errors: []
 ---

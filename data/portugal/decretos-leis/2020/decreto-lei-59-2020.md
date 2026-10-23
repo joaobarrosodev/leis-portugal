@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15900/0000700015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2020/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a620a55ebb011afd78abb179f2c9abdb6cb81c66c6cb121448044390ced6592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a51e8f49dfd3afbaf56f6fcd7969782cc1b7f3aac56834eb3504d841ecf2b2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Segurança Rodoviária
+- Balcão do Empreendedor
 - Certificação Electrónica
-- Multa
 - Contra-ordenação
 - Definição de Competências
+- Desporto
+- Documentos do Veículo
+- Equipamento de Veículo
 - Inspecção de Veículos
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Documentos do Veículo
-- Autoridade Nacional de Segurança Rodoviária
+- Matrícula
+- Multa
 - Normas de Segurança
 - Organização Desportiva
-- Equipamento de Veículo
-- Desporto
-- Matrícula
-- Balcão do Empreendedor
+- Veículo
 - Veículo Histórico
 relationships:
 - type: cites
@@ -99,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/11/2011/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/11/2011/04/26/p/dre
+- type: cites
+  target: pt:dre:258531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983230:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:00Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +161,9 @@ Os artigos 1.º, 3.º, 4.º, 8.º, 10.º, 14.º, 17.º e 18.º do [Decreto-Lei n
 
 O presente decreto-lei estabelece o regime jurídico de aprovação, atribuição de matrícula, alteração de características e inspeção de automóveis, ciclomotores, motociclos, triciclos e quadriciclos participantes em competição desportiva, para efeitos de circulação na via pública.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -165,7 +183,9 @@ g) ...
 
 h) «Veículo histórico», o veículo concebido ou alterado com vista a participar em competição desportiva que tenha mais de 30 anos a contar da data do fabrico ou da primeira matrícula e se encontre em condições de circulação e manutenção adequadas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +193,9 @@ h) «Veículo histórico», o veículo concebido ou alterado com vista a partici
 
 3 - São autorizadas as transformações dos veículos históricos para adaptação à competição desportiva estabelecidas em deliberação do IMT, I. P.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O número e o modelo da matrícula, bem como a colocação da respetiva chapa no veículo participante em competição desportiva observam o disposto no Regulamento do Número e Chapa de Matrícula dos Automóveis, seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao [Decreto-Lei n.º 54/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2005-589934), de 3 de março, na sua redação atual, com as especificidades constantes dos números seguintes.
 
@@ -183,19 +205,25 @@ h) «Veículo histórico», o veículo concebido ou alterado com vista a partici
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A classificação de um veículo como sendo participante em competição desportiva é averbada em anotações especiais do certificado de matrícula, através da inscrição «veículo participante em competição desportiva» ou, quando se trate de veículo histórico, «veículo histórico participante em competição desportiva».
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A entidade desportiva nacional emite, em cada inspeção periódica, um certificado que é entregue ao apresentante do veículo a inspeção.
 
 2 - O modelo de certificado de inspeção é aprovado pelo IMT, I. P.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +259,9 @@ i) ...
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -267,13 +297,13 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Tiago Brandão Rodrigues - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 3 de agosto de 2020.**
+Promulgado em 3 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de agosto de 2020.**
+Referendado em 4 de agosto de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
 
@@ -504,3 +534,5 @@ d) 10 % para a entidade desportiva nacional respetiva.
 1 - Os procedimentos de requerimento e atribuição de matrícula, bem como os pedidos de aprovação de alteração de características do veículo são tramitados preferencialmente por via eletrónica através do Balcão do Empreendedor.
 
 2 - Quando seja adotada a forma de tramitação por via eletrónica referida no número anterior, o passaporte técnico previsto na alínea g) do artigo 3.º, o certificado de aprovação previsto no artigo 5.º e o relatório de inspeção periódica previsto no artigo 14.º são disponibilizados em formato eletrónico no Balcão do Empreendedor, podendo ser consultados pelas entidades públicas responsáveis pela fiscalização do regime estabelecido no presente decreto-lei.
+
+113472611

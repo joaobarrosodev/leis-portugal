@@ -46,40 +46,146 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1986-221573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 171e945ca480b8db05e3fd3d1348b661e5c7314a57ea8dfb9e50c5ed14b8292e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 452a60ab9682a9ae335f68ea7429d15bd3f128ed25bda3e60a61986f9b4db58f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:692859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599754:por
+  label: "Acrescentado um lugar ao quadro a que se refere o n.º 1 do art. 9.º do presente diploma, pela PORT.9/87.1987.01.06.MF\
+    \ DR.IS [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/9-1987-599754
+  date: '1987-01-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO PELA PORT 235/87 DE 30-MAR DR.IS [74]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-03-30'
+- type: amended_by
+  target: pt:dre:420589:por
+  label: "Alterado o quadro de pessoal pela PORT.625/87.20.07.1987.MF, DR.IS [164] de 20.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/625-1987-420589
+  date: '1987-07-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA ANEXO PELA PORT 132/88 DE 29-FEV DR.IS [49]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-02-29'
+- type: amended_by
+  target: pt:dre:370247:por
+  label: "Aumentadom lugar ao quadro de pessoal aprovado pelo presente diploma, pela PORT.625/88.09.09.1988.MF, DR.IS [209]\
+    \ de 09.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/625-1988-370247
+  date: '1988-09-09'
+- type: amended_by
+  target: pt:dre:333554:por
+  label: "Alterado o quadro de pessoal, no que se refere à carreira de operador, pela PORT.35/90.16.01.1990.MF, DR.IS [13]\
+    \ de 16.01.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-1990-333554
+  date: '1990-01-16'
+- type: amended_by
+  target: pt:dre:556609:por
+  label: "Criado um lugar de assessor principal na carreira de técnico superior no quadro de pessoal da Secretaria-Geral do\
+    \ Ministério da Agricultura, Pescas e Alimentação, pelo DN.97/90.05.09.1990.MF, DR.IS [205] de 05.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/97-1990-556609
+  date: '1990-09-05'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado, no referente ao pessoal técnico-profissional, o quadro de pessoal da Secretaria-Geral do Ministério da\
+    \ Agricultura, Pescas e Alimentação pelo DR.43/90.19.12.1990.MAPA, DR.IS [291] de 19.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:693431:por
+  label: "Alterado o quadro de pessoal, constante do presente diploma, pelo DN.1/91.09.01.1991.SEO-MF, DR.IS-B [7] de 09.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-1991-693431
+  date: '1991-01-09'
+- type: amended_by
+  target: pt:dre:622140:por
+  label: "Alterado o quadro pela PORT.267/91.04.04.1991.MF, DR.IS-B [78] de 04.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/267-1991-622140
+  date: '1991-04-04'
+- type: amended_by
+  target: pt:dre:331578:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de informática, pela PORT.1147/91.07.11.1991.MF, DR.IS-B\
+    \ [256] de 07.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1147-1991-331578
+  date: '1991-11-07'
+- type: amended_by
+  target: pt:dre:216492:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de biblioteca e documentação, arquivo, técnico auxiliar\
+    \ contabilista e telefonista, pela PORT.361/92.24.04.1992.MF, DR.IS-B [96] de 24.04.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/361-1992-216492
+  date: '1992-04-24'
+- type: amended_by
+  target: pt:dre:692859:por
+  label: "Alterado o quadro de pessoal pela PORT.421/93.21.04.1993.MF, DR.IS-B [93] de 21.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/421-1993-692859
+  date: '1993-04-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578312:por
+  label: Rectificado pela DECL.DD1149.1986.11.03.PCM, DR.IS [276]SUPL de 29/Nov/1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-578312
+  date: '1986-11-03'
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:23Z'
   warnings: []
   errors: []
 ---
@@ -396,16 +502,16 @@ O pessoal do quadro da extinta Direcção-Geral dos Serviços Centrais transita 
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 11 de Setembro de 1986.**
+Promulgado em 11 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro de pessoal proposto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/22200/27552762.pdf))](https://files.diariodarepublica.pt/1s/1986/09/22200/27552762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/22200/27552762.pdf)

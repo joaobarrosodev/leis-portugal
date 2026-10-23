@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 128/2009, 1º Suplemento, Série I de 2009-07-06
   number: '128'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4324-(2) a 4324-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12801/0000200002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/55-c/2009/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/55-c-2009-655679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b4ad6fdc9e080345158b4bbb926436c16d5a42c7347bd5bcc31d50a2fa4df7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e29d48662870eb63563926a811ea72b8e4b05fb34bbf8e5bda4b58a71f9db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado do Turismo
-- Secretário de Estado Adjunto da Indústria e da Inovação
-- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
 - Governo XVII
 - Nomeação
+- Secretário de Estado Adjunto da Indústria e da Inovação
+- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
+- Secretário de Estado do Turismo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:10Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +91,7 @@ validation:
 
 de 6 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -101,12 +101,12 @@ O Dr. Fernando Pereira Serrasqueiro, Secretário de Estado do Comércio, Serviç
 
 O Dr. Bernardo Luís Amador Trindade, Secretário de Estado do Turismo.
 
-**Assinado em 6 de Julho de 2009.**
+Assinado em 6 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Julho de 2009.**
+Referendado em 6 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

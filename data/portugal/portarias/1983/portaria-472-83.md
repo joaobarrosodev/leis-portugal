@@ -46,40 +46,142 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-1983-311835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bb6e4a01e80b1d82251a018b2b67a8cd38aa481e3ce1d959a6f5a44af9decaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 499b41b5b271a16dd381eac89ae18bb2705d63f4093975421a8fcf9c622c19f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Águeda
+- Alcobaça
+- Barcelos
+- Braga
+- Câmara de Lobos
+- Castelo Branco
+- Coimbra
+- Covilhã
+- Criação de Serviços
+- Évora
+- Faro
+- Fazenda Pública
+- Feira.povoação
+- Figueira da Foz
+- Funchal
+- Gondomar
+- Lagoa.Açores
+- Lajes do Pico
+- Lourinhã
+- Machico
+- Madalena.Açores
+- Marco de Canaveses
+- Matosinhos
+- Miranda do Corvo
+- Mogadouro
+- Moimenta da Beira
+- Moita
+- Montemor-o-Velho
+- Odemira
+- Oliveira de Azeméis
+- Ovar
+- Palmela
+- Paredes
+- Pombal
+- Ponta Delgada
+- Ponta do SOL
+- Portimão
+- Porto Santo
+- Póvoação
+- Quadro de Pessoal
+- Ribeira Brava
+- Santa CRUZ
+- Santa CRUZ das Flores
+- Santana
+- Santarém
+- são Roque do PICO
+- Seixal
+- Setúbal
+- Tesouraria da Fazenda Pública
+- Torres Vedras
+- Velas
+- Viana do Castelo
+- VILA do Conde
+- VILA do Porto
+- Vila Franca de Xira
+- VILA Franca do Campo
+- VILA Verde
 relationships:
 - type: amended_by
   target: pt:dre:303230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620774:por
+  label: "Extintas as tesourarias da Fazenda Pública de Braga (3.ª), Coimbra (3.ª), Funchal (1.ª), Funchal (3.ª), Loures (5.ª),\
+    \ Vila França de Xira (3.ª), Matosinhos (3.ª), Vila Nova de Gaia (5.ª) e Seixal (3.ª), criadas no presente diploma, pela\
+    \ PORT.744-A/93.18.08.1993.MF, DR.IS-B [193]Supl de 18.08.1993\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-a-1993-620774
+  date: '1993-08-18'
+- type: amended_by
+  target: pt:dre:303230:por
+  label: "Extinta, a partir de 01.01.1995, a 3.ª Tesouraria da Fazenda Pública do Concelho de Setúbal, criada no presente\
+    \ diploma, pela PORT.1152-B/94.27.12.1994.MF, DR.IS-B [298]3ºSupl de 27.12.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1152-b-1994-303230
+  date: '1994-12-27'
+- type: cites
+  target: pt:dre:157034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564861:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316335:por
+  label: Rectificada pela DECL.DD5799.24.06.1983.PCM, DR.IS [148]2ºSupl de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316335
+  date: '1983-06-24'
+- type: repealed_by
+  target: pt:dre:302560:por
+  label: "Revogada, no que respeita ao desdobramento das Tesourarias da Fazenda Pública dos Concelhos de Águeda, Alcobaça,\
+    \ Barcelos, Évora, Faro, Moita, Palmela, Paredes, Ponta Delgada, Portimão, Santarém, Viana do Castelo e Vila do Conde,\
+    \ pela PORT.896/91.02.09.1991.MF, DR.IS-B [201] de 02.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/896-1991-302560
+  date: '1991-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:09Z'
   warnings: []
   errors: []
 ---
@@ -194,18 +296,18 @@ Lajes do Pico, Miranda do Corvo, Mogadouro, Moimenta da Beira, Ponta do Sol, Por
 
 Secretaria de Estado do Tesouro.
 
-**Assinada em 5 de Abril de 1983.**
+Assinada em 5 de Abril de 1983.
 
-**O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.**
+O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09300/14331438.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09300/14331438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09300/14331438.pdf)
 
 MAPA II
 
 Alterações ao quadro geral de pessoal das tesourarias da Fazenda Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09300/14331438.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09300/14331438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09300/14331438.pdf)

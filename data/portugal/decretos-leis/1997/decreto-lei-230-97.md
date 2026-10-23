@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/200a00/45564561.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/1997/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1997-641998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efbda44c45fdb1502e175414187d8a1a1c2cd0d39b9e8c1810233c9b4af2f9f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b08ef62e2a9776ddccb207bcbd59b1ee8a471f4a1be113f624c9bdccd750f0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Pessoal Dirigente
+- Conselho Nacional da ÁGUA
 - Conselho Nacional do Consumo
 - Criação de Serviços
 - Direcção Geral do Ambiente
@@ -77,25 +76,60 @@ subjects:
 - Direcção Regional do Ambiente do Centro
 - Direcção Regional do Ambiente do Norte
 - Extinção de Serviços
-- Secretaria Geral
+- Gabinete de Relações Internacionais
 - Gabinete Jurídico
 - Inspecção Geral do Ambiente
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
+- Instituto de Meteorologia
 - Instituto de Promoção Ambiental
 - Instituto do Consumidor
-- Instituto de Meteorologia
-- Gabinete de Relações Internacionais
-- Ministério do Ambiente
-- Conselho Nacional da ÁGUA
 - Instituto dos Resíduos
 - Instituto Regulador de Águas e Resíduos
+- Ministério do Ambiente
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Transitado o Instituto do Consumidor para a Presidência do Conselho de Ministros, pelo DEC LEI.55/98.1998.03.16.PCM\
+    \ DR.IS-A [63]p\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:424690:por
+  label: "Transitam para a DGA as competências relativas à qualidade do ar estabelecidas pelo presente diploma, pelo DEC LEI.226/98.1998.07.17.MAM,\
+    \ DR.IS-A [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-1998-424690
+  date: '1998-07-17'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrados no Ministério do Ambiente e do Ordenamento do Território, os serviços e organismos compreendidos no Ministério\
+    \ do Ambiente, cuja Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Extinto o Gabinete de Relações Internacionais criado no presente diploma (posteriormente integrado no MAOT pelo\
+    \ Dec Lei 53/2005 de 25-Fev) pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do respectivo\
+    \ art. 29º, sendo as suas atribuições integradas no Departamento de Prospectiva e Planeamento e Relações Internacionais\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta a Inspeção-Geral do Ambiente e do Ordenamento do Território, criada no presente diploma como Inspecção-Geral\
+    \ do Ambiente, e posteriormente redenominada pelo Dec Lei 53/2005 de 25-Fev, DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12]\
+    \ de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
@@ -104,16 +138,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/189/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/189/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283523:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300841:por
+  label: "Revogado pelo DEC LEI.120/2000.2000.07.04.MAOT,DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2000-300841
+  date: '2000-07-04'
 article_structure:
   article_count: 34
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:40Z'
   warnings: []
   errors: []
 ---
@@ -468,16 +515,16 @@ Os funcionários e agentes do MA continuam abrangidos pela Obra Social do Minist
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Sócrates Carvalho Pinto de Sousa - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 28 de Julho de 1997.**
+Promulgado em 28 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Julho de 1997.**
+Referendado em 30 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Mapa a que se refere o artigo 29.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/200a00/45564561.pdf))](https://files.diariodarepublica.pt/1s/1997/08/200a00/45564561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/200a00/45564561.pdf)

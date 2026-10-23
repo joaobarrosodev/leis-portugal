@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2007/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2007-519409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb050f7e2e70c60ca9ed470ec001c05837c9f37a832084360c3920c88e7a581f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c22ef61b767e78ad3113d2410f7a5a867a84fb33b3aea8acd9b227add8c719ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços Prisionais
-- Guarda Prisional
 - Estabelecimento Prisional
+- Força Paramilitar
+- Guarda Prisional
 - Quadro de Pessoal
 - Santarém
-- Força Paramilitar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/174/1993/05/12/p/dre
@@ -101,16 +101,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:275603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:59Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +189,7 @@ Os artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 416/98](https://diariodarepubl
 
 2 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O ingresso nas carreiras e categorias do quadro de pessoal da Direcção-Geral dos Serviços Prisionais do pessoal que transitou para o exercício de funções no Estabelecimento Prisional de Santarém depende da aprovação em concurso interno de ingresso.
 
@@ -171,7 +207,7 @@ Os artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 416/98](https://diariodarepubl
 
 8 - Os concursos, em tudo o que não contrarie o presente diploma, regem-se pelo disposto no [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os candidatos aprovados no concurso para guarda são nomeados para os lugares aditados ao quadro de pessoal do corpo da guarda prisional.
 
@@ -185,7 +221,7 @@ O mapa I publicado em anexo ao [Decreto-Lei n.º 416/98](https://diariodarepubli
 
 Lugares aditados ao quadro de pessoal do corpo da guarda prisional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf)
 
 ###### Artigo 3.º — Republicação
 
@@ -197,15 +233,15 @@ O presente decreto-lei produz efeitos à data de entrada em vigor do [Decreto-Le
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 3 de Abril de 2007.**
+Promulgado em 3 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 416/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1998-285561), de 31 de Dezembro
 
@@ -269,10 +305,10 @@ MAPA I
 
 Lugares aditados ao quadro de pessoal do corpo da guarda prisional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf)
 
 MAPA II
 
 Tabela de correspondências entre postos do Exército e categorias de transição da carreira do pessoal do corpo da guarda prisional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07700/24782480.pdf)

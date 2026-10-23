@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/079a00/31293131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2002/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2002-301260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20cb33e200883c11f5971c7852ad98d8c5dc18966cb1a6932bb1a0ee56ba00aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 343b0978860754edf523b5913681c1e2d322af64ae57baecabbdac05db9530c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
-- Multa
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Ministério da Economia
+- Multa
 - Orgânica
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:521007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473500:por
+  label: "Determinado que transite para a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade, cuja orgânica\
+    \ foi aprovada pelo presente diploma, a competência para a aplicação das coimas e sanções acessórias, que incumbia aos\
+    \ serviços e organismos ora extintos pelo DEC LEI.237/2005.30.12.2005.MEI, DR.IS-A [250] de 30.12.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2005-473500
+  date: '2005-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
   label: null
@@ -107,16 +114,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
+- type: cites
+  target: pt:dre:146566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521007:por
+  label: "Revogado pelo DEC LEI.143/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2007-521007
+  date: '2007-04-27'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:31Z'
   warnings: []
   errors: []
 ---
@@ -225,12 +289,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - José Manuel Simões de Almeida - José Manuel Conde Rodrigues - Alberto de Sousa Martins - António José Martins Seguro.
 
-**Promulgado em 13 de Março de 2002.**
+Promulgado em 13 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Março de 2002.**
+Referendado em 21 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

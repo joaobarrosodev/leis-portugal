@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/276b00/74387448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/76/1995/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/76-1995-627206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 334d5d56260bb6fec0703067401f961a407019d6ec910c4647215dea174b05ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9c117ba3296176c1bc81719b81c23a0528e55d1eb6de8aad7fcd6992a7496e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,52 @@ subjects:
 - Ensino Superior Politécnico
 - Estatuto
 - Instituto Politécnico
-- Quadro de Pessoal
 - Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:2021988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683670:por
+  label: "Homologada a alteração dos arts. 14º, 15º, 33º, 38º, 67º e 68º dos Estatutos do Instituto Politécnico do Porto pelo\
+    \ DN.10/2006.28.01.2006.MCTES, DR.IS-B [34] de 16.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/10-2006-683670
+  date: '2006-01-28'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2021988:por
+  label: "Revogados, a partir de 16.02.2009, com as alterações introduzidas pelo DN 10/2006, de 16-Fev, os Estatutos do Instituto\
+    \ Politécnico do Porto, publicados pelo presente diploma, pelo DN.5/2009.02.02.2009.MCTES, DR.IIS [22] de 02.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2009-2021988
+  date: '2009-02-02'
 article_structure:
   article_count: 75
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:25Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +271,7 @@ c) O conselho administrativo.
 
 ###### Artigo 13.º — Presidente
 
-**O presidente é o órgão que superiormente representa e dirige o Instituto.**
+O presidente é o órgão que superiormente representa e dirige o Instituto.
 
 ###### Artigo 14.º — Eleição
 

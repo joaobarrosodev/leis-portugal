@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/1999/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1999-423179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e7227b73e601baa75e74b3b3b8ed2580a7d59585058ed8eb34964d40c66badc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e087bb9aad213322f5f2d9c0cd3cc701b938a5c41c8c4434122ef1eb508be993
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aldeamento Turístico
 - Apartamento Turístico
 - Classificação dos Empreendimentos Turísticos
-- Propriedade Horizontal
 - Contra-ordenação
 - Direcção Geral do Turismo
 - Indústria Hoteleira
 - Moradia Turística
-- Aldeamento Turístico
+- Propriedade Horizontal
 - Proteção do Consumidor
 - Segurança das Instalações
 - Vistoria
@@ -110,16 +110,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649482:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado o DR 34/97 de 25-Set, com as alterações introduzidas pelo presente diploma (revogado nos mesmos termos),\
+    \ pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\
+    s \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 88
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:49Z'
   warnings: []
   errors: []
 ---
@@ -154,17 +193,23 @@ Apartamentos turísticos
 
 São apartamentos turísticos os estabelecimentos constituídos por fracções de edifícios independentes, mobiladas e equipadas, que se destinem habitualmente a proporcionar, mediante remuneração, alojamento e outros serviços complementares e de apoio a turistas.
 
-###### Artigo 4.º — Moradias turísticas
+Artigo 4.º
+
+Moradias turísticas
 
 São moradias turísticas os estabelecimentos constituídos por um edifício autónomo, de carácter unifamiliar, mobilado e equipado, que se destinem habitualmente a proporcionar, mediante remuneração, alojamento e outros serviços complementares e de apoio a turistas.
 
-###### Artigo 9.º — Piscinas
+Artigo 9.º
+
+Piscinas
 
 1 - As piscinas devem ter equipamentos que garantam que as características das águas obedecem aos parâmetros definidos pelo [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, e pelo [Decreto Regulamentar n.º 5/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1997-527662), de 31 de Março.
 
 2 - ...
 
-###### Artigo 11.º — Unidades de alojamento dos aldeamentos turísticos
+Artigo 11.º
+
+Unidades de alojamento dos aldeamentos turísticos
 
 1 - ...
 
@@ -194,11 +239,15 @@ São moradias turísticas os estabelecimentos constituídos por um edifício aut
 
 14 - Os estúdios podem ter uma zona de dormir composta por duas camas fixas individuais ou uma cama fixa dupla, quando estas estiverem separadas esteticamente da zona de estar e da pequena cozinha (kitchenette), e duas camas convertíveis individuais ou uma cama convertível dupla, situadas na zona de estar.
 
-###### Artigo 15.º — Responsável pelo funcionamento dos estabelecimentos
+Artigo 15.º
+
+Responsável pelo funcionamento dos estabelecimentos
 
 Nos aldeamentos turísticos que disponham de 75 ou mais unidades de alojamento afectas à exploração turística, o lugar de responsável pelo seu funcionamento é obrigatoriamente exercido por pessoa com qualificação profissional ou habilitação académica adequada, nos termos previstos no artigo 4.º do [Decreto-Lei n.º 271/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1982-394769), de 13 de Julho.
 
-###### Artigo 17.º — Serviços de recepção/portaria
+Artigo 17.º
+
+Serviços de recepção/portaria
 
 1 - A recepção/portaria deve prestar durante o período de estada dos utentes, pelo menos, os seguintes serviços:
 
@@ -218,7 +267,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 18.º — Informações
+Artigo 18.º
+
+Informações
 
 1 - ...
 
@@ -236,7 +287,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 23.º — Instalações e equipamentos de uso comum
+Artigo 23.º
+
+Instalações e equipamentos de uso comum
 
 1 - As instalações e os equipamentos de uso comum dos aldeamentos turísticos são os seguintes:
 
@@ -272,7 +325,9 @@ p) ...
 
 2 - Das instalações e dos equipamentos previstos nas alíneas c), d), e) e g) do número anterior, são necessariamente considerados de uso comum os que se destinem a cumprir os requisitos mínimos exigidos para a categoria do aldeamento.
 
-###### Artigo 26.º — Instalações e equipamentos de exploração turística
+Artigo 26.º
+
+Instalações e equipamentos de exploração turística
 
 1 - As instalações e os equipamentos de exploração turística dos aldeamentos turísticos são, nomeadamente, os seguintes:
 
@@ -290,7 +345,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 27.º — Afectação à utilização turística
+Artigo 27.º
+
+Afectação à utilização turística
 
 1 - ...
 
@@ -298,7 +355,9 @@ e) ...
 
 3 - As unidades de alojamento não se consideram retiradas da exploração turística pelo facto de ter sido reservado aos respectivos proprietários o direito de as utilizarem em proveito próprio por um período não superior a 90 dias em cada ano, nos termos estabelecidos em contrato celebrado entre estes e a entidade exploradora do aldeamento turístico.
 
-###### Artigo 33.º — Comparticipação nas despesas comuns
+Artigo 33.º
+
+Comparticipação nas despesas comuns
 
 1 - A comparticipação do proprietário de cada fracção imobiliária nas despesas de conservação, fruição e funcionamento relativas às instalações e aos equipamentos de uso comum, bem como aos serviços de utilização turística de uso comum, é determinada pela aplicação da fórmula seguinte:
 
@@ -328,13 +387,17 @@ c) Se no lote existirem instalações ou equipamentos de exploração turística
 
 6 - Sempre que no mesmo lote existirem várias fracções imobiliárias, o valor convencional de cada uma delas corresponde ao valor do lote calculado nos termos do número anterior dividido pelo número de fracções imobiliárias existentes, salvo se no título constitutivo estiver estipulado diferentemente.
 
-###### Artigo 34.º — Alteração dos valores relativos das fracções imobiliárias
+Artigo 34.º
+
+Alteração dos valores relativos das fracções imobiliárias
 
 1 - O valor relativo das fracções imobiliárias onde não exista qualquer unidade de alojamento, instalação ou equipamentos afectos à exploração turística deve ser revisto logo que tais unidades, instalações ou equipamentos sejam construídos.
 
 2 - ...
 
-###### Artigo 35.º — Orçamento e contas
+Artigo 35.º
+
+Orçamento e contas
 
 1 - ...
 
@@ -358,13 +421,17 @@ f) O valor imputado a cada tipo de fracção imobiliária, de acordo com o estab
 
 5 - ...
 
-###### Artigo 37.º — Habitualidade
+Artigo 37.º
+
+Habitualidade
 
 1 - Presume-se que as fracções dos edifícios se destinam a ser exploradas como apartamentos turísticos quando, por qualquer meio, sejam anunciadas ao público no País ou no estrangeiro, directamente ou através dos meios de comunicação social, para serem locadas a turistas dia a dia, até ao máximo de um mês, e, bem assim, quando a sua locação aos turistas seja feita através de intermediário ou de uma agência de viagens.
 
 2 - O disposto no número anterior é aplicável às instalações utilizadas como alojamento turístico, ainda que se trate de construções amovíveis ou pré-fabricadas e mesmo que não possam ser juridicamente consideradas como imóveis ou fracções destes.
 
-###### Artigo 46.º — Escritório de atendimento
+Artigo 46.º
+
+Escritório de atendimento
 
 1 - ...
 
@@ -374,7 +441,9 @@ f) O valor imputado a cada tipo de fracção imobiliária, de acordo com o estab
 
 4 - ...
 
-###### Artigo 51.º — Classificação
+Artigo 51.º
+
+Classificação
 
 1 - Os apartamentos turísticos classificam-se, atendendo à sua localização, à qualidade das suas instalações, dos seus equipamentos e mobiliário e dos serviços que ofereçam, nas categorias de 5, 4, 3 e 2 estrelas, de acordo com o estabelecido na tabela que constitui o anexo II ao presente regulamento e que dele faz parte integrante.
 
@@ -384,11 +453,15 @@ f) O valor imputado a cada tipo de fracção imobiliária, de acordo com o estab
 
 4 - Se as instalações a que se refere o n.º 2 não preencherem os requisitos mínimos previstos para os apartamentos turísticos de 2 estrelas, a Direcção-Geral do Turismo deve determinar o seu encerramento de acordo com o estabelecido no artigo 67.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-###### Artigo 59.º — Funcionamento e serviços
+Artigo 59.º
+
+Funcionamento e serviços
 
 É aplicável às moradias turísticas, com as necessárias adaptações, o disposto nos artigos 20.º a 22.º e nos artigos 47.º e 48.º
 
-###### Artigo 61.º — Contra-ordenações
+Artigo 61.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -408,49 +481,65 @@ d) ...
 
 5 - ...
 
-## ANEXO I — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos aldeamentos turísticos
+ANEXO I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos aldeamentos turísticos
 
-## ANEXO II — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos apartamentos turísticos
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+ANEXO II
 
-## ANEXO III — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das moradias turísticas
+Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos apartamentos turísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
 
-###### Artigo 2.º — Republicação
+ANEXO III
+
+Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das moradias turísticas
+
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+
+Artigo 2.º
+
+Republicação
 
 O [Decreto Regulamentar n.º 34/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1997-649482), de 17 de Setembro, é republicado em anexo com as devidas alterações.
 
-###### Artigo 3.º — Disposições transitórias
+Artigo 3.º
+
+Disposições transitórias
 
 1 - O disposto no presente diploma aplica-se a todos os meios complementares de alojamento existentes à data da sua entrada em vigor, sem prejuízo do disposto no número seguinte.
 
 2 - Os meios complementares de alojamento existentes à data da entrada em vigor do presente diploma devem preencher os requisitos nele previstos, para o respectivo tipo, devendo as suas entidades exploradoras proceder à realização das obras e à instalação dos equipamentos necessários para esse efeito no prazo de seis meses a contar daquela data.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO PREVISTO NO ARTIGO 2.º — CAPÍTULO I
+ANEXO PREVISTO NO ARTIGO 2.º
+
+CAPÍTULO I
 
 Âmbito
 
-###### Artigo 1.º — Tipos
+Artigo 1.º
+
+Tipos
 
 Os meios complementares de alojamento turístico classificam-se nos seguintes tipos:
 
@@ -460,33 +549,51 @@ b) Apartamentos turísticos;
 
 c) Moradias turísticas.
 
-###### Artigo 2.º — Aldeamentos turísticos
+Artigo 2.º
+
+Aldeamentos turísticos
 
 São aldeamentos turísticos os estabelecimentos de alojamento turístico constituídos por um conjunto de instalações funcionalmente interdependentes com expressão arquitectónica homogénea, situadas num espaço delimitado e sem soluções de continuidade, que se destinem a proporcionar, mediante remuneração, alojamento e outros serviços complementares e de apoio a turistas.
 
-###### Artigo 3.º — Apartamentos turísticos
+Artigo 3.º
+
+Apartamentos turísticos
 
 São apartamentos turísticos os estabelecimentos constituídos por fracções de edifícios independentes, mobiladas e equipadas, que se destinem habitualmente a proporcionar, mediante remuneração, alojamento e outros serviços complementares e de apoio a turistas.
 
-###### Artigo 4.º — Moradias turísticas
+Artigo 4.º
+
+Moradias turísticas
 
 São moradias turísticas os estabelecimentos constituídos por um edifício autónomo, de carácter unifamiliar, mobilado e equipado, que se destinem habitualmente a proporcionar, mediante remuneração, alojamento e outros serviços complementares e de apoio a turistas.
 
-### CAPÍTULO II — Dos aldeamentos turísticos
+CAPÍTULO II
 
-#### SECÇÃO I — Dos requisitos gerais
+Dos aldeamentos turísticos
 
-###### Artigo 5.º — Delimitação
+SECÇÃO I
+
+Dos requisitos gerais
+
+Artigo 5.º
+
+Delimitação
 
 O terreno onde esteja instalado o aldeamento turístico deve ser devidamente delimitado na sua totalidade por meios naturais ou artificiais, por forma a autonomizar o conjunto e a assegurar a privacidade do estabelecimento.
 
-###### Artigo 6.º — Infra-estruturas urbanísticas
+Artigo 6.º
+
+Infra-estruturas urbanísticas
 
 Os aldeamentos turísticos devem ser dotados de todas as necessárias infra-estruturas urbanísticas, nomeadamente as referidas na alínea b) do artigo 3.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro.
 
-#### SECÇÃO II — Dos requisitos das instalações
+SECÇÃO II
 
-###### Artigo 7.º — Condição geral de instalação
+Dos requisitos das instalações
+
+Artigo 7.º
+
+Condição geral de instalação
 
 1 - A instalação das infra-estruturas e todo o equipamento necessário ao funcionamento dos aldeamentos turísticos devem efectuar-se de modo que não se produzam ruídos, vibrações, fumos ou cheiros susceptíveis de perturbar ou, de qualquer modo, afectar o ambiente, a comodidade e a qualidade dos mesmos.
 
@@ -496,17 +603,23 @@ Os aldeamentos turísticos devem ser dotados de todas as necessárias infra-estr
 
 4 - Para efeitos do disposto no número anterior, a captação de água deve possuir as adequadas condições de protecção sanitária e o sistema ser dotado dos processos de tratamento requeridos para potabilização da água ou para a manutenção dessa potabilização, de acordo com as normas de qualidade da água em vigor, devendo para o efeito ser efectuadas análises físico-químicas e ou microbiológicas.
 
-###### Artigo 8.º — Altura dos edifícios
+Artigo 8.º
+
+Altura dos edifícios
 
 Os edifícios que integram os aldeamentos turísticos não podem exceder três pisos, incluindo o rés-do-chão, sem prejuízo do disposto em plano director municipal, plano de pormenor ou alvará de loteamento, válidos e eficazes nos termos da lei, quando estes estipularem número inferior de pisos.
 
-###### Artigo 9.º — Piscinas
+Artigo 9.º
+
+Piscinas
 
 1 - As piscinas devem ter equipamentos que garantam que as características das águas obedecem aos parâmetros definidos pelo [Decreto-Lei n.º 236/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1998-430457), de 1 de Agosto, e pelo [Decreto Regulamentar n.º 5/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1997-527662), de 31 de Março.
 
 2 - Nas piscinas devem existir balneários, com separação por sexos, dotados de chuveiros e retretes em cabinas separadas e lavatórios, sempre que estejam afastadas dos alojamentos que servem.
 
-###### Artigo 10.º — Instalações sanitárias comuns
+Artigo 10.º
+
+Instalações sanitárias comuns
 
 1 - Nos aldeamentos turísticos deve haver instalações sanitárias comuns na zona da recepção/portaria e nas proximidades do campo de jogos e do parque infantil.
 
@@ -514,7 +627,9 @@ Os edifícios que integram os aldeamentos turísticos não podem exceder três p
 
 3 - Sem prejuízo do disposto na lei geral, os aldeamentos turísticos, sempre que possível, devem possuir algumas instalações sanitárias dotadas de equipamentos destinados aos utentes com deficiências motoras.
 
-###### Artigo 11.º — Unidades de alojamento dos aldeamentos turísticos
+Artigo 11.º
+
+Unidades de alojamento dos aldeamentos turísticos
 
 1 - As unidades de alojamento dos aldeamentos turísticos podem ser constituídas por moradias e apartamentos que, além de constituírem unidades independentes, sejam distintos e isolados entre si, com saída própria para o exterior ou para uma parte comum do edifício em que se integram.
 
@@ -544,31 +659,45 @@ Os edifícios que integram os aldeamentos turísticos não podem exceder três p
 
 14 - Os estúdios podem ter uma zona de dormir composta por duas camas fixas individuais ou uma cama fixa dupla, quando estas estiverem separadas esteticamente da zona de estar e da pequena cozinha (kitchenette), e duas camas convertíveis individuais ou uma cama convertível dupla, situadas na zona de estar.
 
-###### Artigo 12.º — Capacidade das unidades de alojamento
+Artigo 12.º
+
+Capacidade das unidades de alojamento
 
 1 - Para os únicos efeitos de exploração turística, a capacidade das unidades de alojamento é determinada pelo correspondente número e tipo de camas instaladas nos quartos, sem prejuízo do disposto no número seguinte.
 
 2 - As camas convertíveis instaladas nas salas dos apartamentos e moradias contam para a determinação da respectiva capacidade.
 
-###### Artigo 13.º — Instalações sanitárias privativas
+Artigo 13.º
+
+Instalações sanitárias privativas
 
 As instalações sanitárias consideram-se privativas quando estiverem ao serviço exclusivo de uma unidade de alojamento e podem ser casas de banho simples ou completas.
 
-###### Artigo 14.º — Instalações de serviço
+Artigo 14.º
+
+Instalações de serviço
 
 Nos aldeamentos turísticos as instalações de serviço devem situar-se por forma que se obtenha o seu conveniente isolamento das outras dependências do estabelecimento.
 
-#### SECÇÃO III — Dos requisitos de funcionamento
+SECÇÃO III
 
-###### Artigo 15.º — Responsável pelo funcionamento dos estabelecimentos
+Dos requisitos de funcionamento
+
+Artigo 15.º
+
+Responsável pelo funcionamento dos estabelecimentos
 
 Nos aldeamentos turísticos que disponham de 75 ou mais unidades de alojamento afectas à exploração turística, o lugar de responsável pelo seu funcionamento é obrigatoriamente exercido por pessoa com qualificação profissional ou habilitação académica adequada, nos termos previstos no artigo 4.º do [Decreto-Lei n.º 271/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1982-394769), de 13 de Julho.
 
-###### Artigo 16.º — Placa identificativa da classificação
+Artigo 16.º
+
+Placa identificativa da classificação
 
 Em todos os aldeamentos turísticos é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa da classificação do estabelecimento, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 17.º — Serviços de recepção/portaria
+Artigo 17.º
+
+Serviços de recepção/portaria
 
 1 - A recepção/portaria deve prestar durante o período de estada dos utentes, pelo menos, os seguintes serviços:
 
@@ -588,7 +717,9 @@ g) Prestar um serviço de guarda de valores.
 
 2 - Na recepção/portaria devem ser colocadas em locais bem visíveis as informações respeitantes ao funcionamento do estabelecimento, designadamente sobre os serviços que o mesmo preste e os respectivos preços.
 
-###### Artigo 18.º — Informações
+Artigo 18.º
+
+Informações
 
 1 - É obrigatório entregar ao utente, no momento do seu registo no estabelecimento, um cartão redigido em português e inglês, com as seguintes indicações:
 
@@ -620,29 +751,41 @@ e) A existência de livro de reclamações.
 
 3 - Nas indicações destinadas a dar a conhecer aos utentes, quer os serviços que o estabelecimento oferece, quer outras informações de carácter geral, devem ser usados os sinais normalizados constantes da tabela aprovada pela portaria a que se refere o artigo 56.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-###### Artigo 19.º — Arrumação e limpeza
+Artigo 19.º
+
+Arrumação e limpeza
 
 1 - As unidades de alojamento dos aldeamentos turísticos de 5 estrelas devem ser arrumadas e limpas diariamente e os de 4 e 3 estrelas pelo menos duas vezes por semana e, em qualquer caso, antes de serem ocupadas pelos seus utentes.
 
 2 - Em todos os aldeamentos turísticos as roupas de cama e de mesa, as toalhas das casas de banho e os panos e toalhas de cozinha das unidades de alojamento devem ser substituídos, pelo menos, uma vez por semana e sempre que mude o utente.
 
-###### Artigo 20.º — Renovação de estada
+Artigo 20.º
+
+Renovação de estada
 
 1 - O utente deve deixar a unidade de alojamento livre até às 12 horas do dia de saída, ou até à hora convencionada, entendendo-se que, se o não fizer, renova a sua estada por mais um dia.
 
 2 - O responsável pelo estabelecimento não é obrigado a aceitar o prolongamento da estada do utente para além do dia previsto para a sua saída.
 
-###### Artigo 21.º — Fornecimentos incluídos no preço da unidade de alojamento
+Artigo 21.º
+
+Fornecimentos incluídos no preço da unidade de alojamento
 
 No preço diário das unidades de alojamento está incluído obrigatoriamente o consumo, sem limitações, de água e electricidade.
 
-###### Artigo 22.º — Pessoal de serviço
+Artigo 22.º
+
+Pessoal de serviço
 
 Todo o pessoal de serviço dos aldeamentos turísticos deve possuir habilitações adequadas ao tipo de serviço que presta, usar o uniforme correspondente e estar devidamente identificado.
 
-#### SECÇÃO IV — Da exploração dos aldeamentos turísticos
+SECÇÃO IV
 
-###### Artigo 23.º — Instalações e equipamentos de uso comum
+Da exploração dos aldeamentos turísticos
+
+Artigo 23.º
+
+Instalações e equipamentos de uso comum
 
 1 - As instalações e os equipamentos de uso comum dos aldeamentos turísticos são os seguintes:
 
@@ -678,7 +821,9 @@ p) Redes internas de esgotos e respectiva ligação às redes gerais, bem como e
 
 2 - Das instalações e dos equipamentos previstos nas alíneas c), d), e) e g) do número anterior, são necessariamente considerados de uso comum os que se destinem a cumprir os requisitos mínimos exigidos para a categoria do aldeamento.
 
-###### Artigo 24.º — Serviços de utilização turística de uso comum
+Artigo 24.º
+
+Serviços de utilização turística de uso comum
 
 Os serviços de utilização turística de uso comum são os seguintes:
 
@@ -690,11 +835,15 @@ c) Serviço de conservação e manutenção das instalações e equipamentos com
 
 d) Serviço de segurança e vigilância.
 
-###### Artigo 25.º — Acesso e utilização
+Artigo 25.º
+
+Acesso e utilização
 
 As entidades exploradoras dos aldeamentos turísticos não podem estabelecer quaisquer limitações ou condicionamentos ao acesso e à utilização, pelos utentes, das instalações, equipamentos e serviços referidos nos artigos anteriores, salvo os que resultem da própria natureza do seu funcionamento.
 
-###### Artigo 26.º — Instalações e equipamentos de exploração turística
+Artigo 26.º
+
+Instalações e equipamentos de exploração turística
 
 1 - As instalações e os equipamentos de exploração turística dos aldeamentos turísticos são, nomeadamente, os seguintes:
 
@@ -712,7 +861,9 @@ e) Campos de golfe.
 
 3 - A exploração do aldeamento turístico deve ser assegurada por uma única entidade, sem prejuízo de esta poder contratar com outras entidades os serviços que entenda.
 
-###### Artigo 27.º — Afectação à utilização turística
+Artigo 27.º
+
+Afectação à utilização turística
 
 1 - Nos aldeamentos turísticos, pelo menos 50% das unidades de alojamento devem ser afectas à exploração turística do empreendimento.
 
@@ -720,31 +871,47 @@ e) Campos de golfe.
 
 3 - As unidades de alojamento não se consideram retiradas da exploração turística pelo facto de ter sido reservado aos respectivos proprietários o direito de as utilizarem em proveito próprio por um período não superior a 90 dias em cada ano, nos termos estabelecidos em contrato celebrado entre estes e a entidade exploradora do aldeamento turístico.
 
-#### SECÇÃO V — Da classificação dos aldeamentos turísticos
+SECÇÃO V
 
-###### Artigo 28.º — Classificação
+Da classificação dos aldeamentos turísticos
+
+Artigo 28.º
+
+Classificação
 
 Os aldeamentos turísticos classificam-se, atendendo à sua localização, ao índice de ocupação das unidades de alojamento em relação à totalidade da área do aldeamento, à relação entre a área total ocupada pelo aldeamento e a capacidade do mesmo, bem como à qualidade das unidades de alojamento e à capacidade e diversidade das instalações acessórias que possuam e dos serviços que ofereçam, nas categorias de 5, 4 e 3 estrelas, de acordo com o estabelecido na tabela que constitui o anexo I ao presente regulamento e que dele faz parte integrante.
 
-#### SECÇÃO VI — Dos aldeamentos turísticos com pluralidade de proprietários
+SECÇÃO VI
 
-###### Artigo 29.º — Âmbito
+Dos aldeamentos turísticos com pluralidade de proprietários
+
+Artigo 29.º
+
+Âmbito
 
 As disposições do presente capítulo são aplicáveis aos aldeamentos turísticos cujas fracções imobiliárias sejam propriedade de pessoas diversas.
 
-###### Artigo 30.º — Título constitutivo
+Artigo 30.º
+
+Título constitutivo
 
 No caso dos aldeamentos referidos no artigo anterior, deve ser elaborado um título constitutivo da sua composição.
 
-###### Artigo 31.º — Fracções imobiliárias
+Artigo 31.º
+
+Fracções imobiliárias
 
 A descrição das fracções imobiliárias deve conter a enumeração de todos os elementos que a compõem, incluindo as áreas dos respectivos logradouros, acessos privativos e quaisquer outras zonas que a elas estejam afectas exclusivamente.
 
-###### Artigo 32.º — Identificação das fracções imobiliárias
+Artigo 32.º
+
+Identificação das fracções imobiliárias
 
 Todas as fracções imobiliárias que compõem o aldeamento turístico devem ser identificadas com números seguidos, começando pelo n.º 1, independentemente de se destinarem a venda.
 
-###### Artigo 33.º — Comparticipação nas despesas comuns
+Artigo 33.º
+
+Comparticipação nas despesas comuns
 
 1 - A comparticipação do proprietário de cada fracção imobiliária nas despesas de conservação, fruição e funcionamento relativas às instalações e aos equipamentos de uso comum, bem como aos serviços de utilização turística de uso comum, é determinada pela aplicação da fórmula seguinte:
 
@@ -782,13 +949,17 @@ c) Se no lote existirem instalações ou equipamentos de exploração turística
 
 6 - Sempre que no mesmo lote existirem várias fracções imobiliárias, o valor convencional de cada uma delas corresponde ao valor do lote calculado nos termos do número anterior dividido pelo número de fracções imobiliárias existentes, salvo se no título constitutivo estiver estipulado diferentemente.
 
-###### Artigo 34.º — Alteração dos valores relativos das fracções imobiliárias
+Artigo 34.º
+
+Alteração dos valores relativos das fracções imobiliárias
 
 1 - O valor relativo das fracções imobiliárias onde não exista qualquer unidade de alojamento, instalação ou equipamentos afectos à exploração turística deve ser revisto logo que tais unidades, instalações ou equipamentos sejam construídos.
 
 2 - A entidade administradora do aldeamento turístico deve, até ao final do semestre em que se verifique a situação referida no número anterior, proceder à revisão do valor da comparticipação de cada proprietário.
 
-###### Artigo 35.º — Orçamento e contas
+Artigo 35.º
+
+Orçamento e contas
 
 1 - A entidade administradora do aldeamento turístico apresenta anualmente à assembleia de proprietários um orçamento das despesas respeitantes à conservação e fruição de todas as instalações e equipamentos comuns e às do funcionamento dos serviços de utilização turística de uso comum.
 
@@ -812,23 +983,35 @@ f) O valor imputado a cada tipo de fracção imobiliária, de acordo com o estab
 
 5 - A convocatória da reunião da assembleia de proprietários destinada a apreciar as contas é acompanhada de um exemplar das contas e do parecer referidos no número anterior.
 
-### CAPÍTULO III — Dos apartamentos turísticos
+CAPÍTULO III
 
-#### SECÇÃO I — Dos requisitos gerais
+Dos apartamentos turísticos
 
-###### Artigo 36.º — Unidades de alojamento
+SECÇÃO I
+
+Dos requisitos gerais
+
+Artigo 36.º
+
+Unidades de alojamento
 
 Cada apartamento turístico corresponde a uma unidade de alojamento.
 
-###### Artigo 37.º — Habitualidade
+Artigo 37.º
+
+Habitualidade
 
 1 - Presume-se que as fracções dos edifícios se destinam a ser exploradas como apartamentos turísticos quando, por qualquer meio, sejam anunciadas ao público no País ou no estrangeiro, directamente ou através dos meios de comunicação social, para serem locadas a turistas dia a dia, até ao máximo de um mês, e, bem assim, quando a sua locação aos turistas seja feita através de intermediário ou de uma agência de viagens.
 
 2 - O disposto no número anterior é aplicável às instalações utilizadas como alojamento turístico, ainda que se trate de construções amovíveis ou pré-fabricadas e mesmo que não possam ser juridicamente consideradas como imóveis ou fracções destes.
 
-#### SECÇÃO II — Dos requisitos das instalações
+SECÇÃO II
 
-###### Artigo 38.º — Características específicas dos apartamentos turísticos
+Dos requisitos das instalações
+
+Artigo 38.º
+
+Características específicas dos apartamentos turísticos
 
 1 - As fracções que constituem apartamentos turísticos, além de constituírem unidades independentes, devem ser distintas e isoladas entre si, com saída própria para o exterior ou para uma parte comum do edifício em que se integram.
 
@@ -842,7 +1025,9 @@ c) Integrar apartamentos dispersos em vários edifícios.
 
 3 - A exploração de apartamentos turísticos referidos na alínea c) do n.º 2 não pode ser autorizada em edifícios onde já funcione uma exploração de apartamentos turísticos nos termos da alínea b) do mesmo número.
 
-###### Artigo 39.º — Recepção/portaria
+Artigo 39.º
+
+Recepção/portaria
 
 1 - Os apartamentos turísticos definidos nos termos das alíneas a) e b) do n.º 2 do artigo 38.º devem dispor de uma única recepção/portaria, independentemente de ocuparem vários edifícios.
 
@@ -850,15 +1035,21 @@ c) Integrar apartamentos dispersos em vários edifícios.
 
 3 - A zona de recepção/portaria situa-se em ponto acessível e claramente assinalado.
 
-###### Artigo 40.º — Requisitos das unidades de alojamento
+Artigo 40.º
+
+Requisitos das unidades de alojamento
 
 É aplicável aos apartamentos turísticos o disposto nos n.os 2, 3 e 4 do artigo 7.º, nos n.os 2 a 13 do artigo 11.º e nos artigos 12.º e 13.º
 
-###### Artigo 41.º — Piscinas
+Artigo 41.º
+
+Piscinas
 
 É aplicável às piscinas dos apartamentos turísticos o disposto no n.º 1 do artigo 9.º
 
-###### Artigo 42.º — Acessos verticais
+Artigo 42.º
+
+Acessos verticais
 
 1 - Os acessos verticais dos edifícios ocupados por apartamentos turísticos são constituídos pelas escadas para os utentes, ascensores e monta-cargas.
 
@@ -868,21 +1059,31 @@ c) Integrar apartamentos dispersos em vários edifícios.
 
 4 - Aplica-se aos monta-cargas, com as necessárias adaptações, o disposto nos números anteriores.
 
-#### SECÇÃO III — Dos requisitos de funcionamento
+SECÇÃO III
 
-###### Artigo 43.º — Responsável pelo funcionamento dos apartamentos turísticos
+Dos requisitos de funcionamento
+
+Artigo 43.º
+
+Responsável pelo funcionamento dos apartamentos turísticos
 
 Quando uma entidade explorar 75 ou mais apartamentos turísticos, o lugar de responsável pelo seu funcionamento é obrigatoriamente exercido por pessoa com qualificação profissional ou habilitação académica adequada, nos termos previstos no artigo 4.º do [Decreto-Lei n.º 271/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1982-394769), de 13 de Julho.
 
-###### Artigo 44.º — Placa identificativa da classificação
+Artigo 44.º
+
+Placa identificativa da classificação
 
 Em todos os edifícios onde estejam instalados apartamentos turísticos, a respectiva entidade exploradora deve afixar no exterior, junto à entrada principal, uma placa identificativa da classificação dos mesmos, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 45.º — Funcionamento da recepção/portaria
+Artigo 45.º
+
+Funcionamento da recepção/portaria
 
 É aplicável à recepção/portaria dos apartamentos turísticos, com as necessárias adaptações, o disposto no artigo 17.º
 
-###### Artigo 46.º — Escritório de atendimento
+Artigo 46.º
+
+Escritório de atendimento
 
 1 - Sem prejuízo do disposto no artigo 39.º, sempre que a mesma entidade explore apartamentos turísticos definidos nos termos da alínea c) do n.º 2 do artigo 38.º deve possuir obrigatoriamente, em local da freguesia onde os mesmos se situam, um escritório destinado exclusivamente ao atendimento e informação dos seus utentes, salvo o disposto no número seguinte.
 
@@ -892,27 +1093,41 @@ Em todos os edifícios onde estejam instalados apartamentos turísticos, a respe
 
 4 - O serviço de atendimento dos utentes deve ser assegurado por pessoal que fale, para além do português, o inglês.
 
-###### Artigo 47.º — Informações
+Artigo 47.º
+
+Informações
 
 É aplicável às informações dos apartamentos turísticos, com as necessárias adaptações, o disposto no artigo 18.º
 
-###### Artigo 48.º — Arrumação e limpeza
+Artigo 48.º
+
+Arrumação e limpeza
 
 Aos serviços de arrumação e limpeza dos apartamentos turísticos é aplicável o disposto no artigo 19.º
 
-###### Artigo 49.º — Funcionamento e serviços
+Artigo 49.º
+
+Funcionamento e serviços
 
 É aplicável aos apartamentos turísticos, com as necessárias adaptações, o disposto nos artigos 20.º a 22.º
 
-#### SECÇÃO IV — Dos apartamentos turísticos com pluralidade de proprietários
+SECÇÃO IV
 
-###### Artigo 50.º — Âmbito
+Dos apartamentos turísticos com pluralidade de proprietários
+
+Artigo 50.º
+
+Âmbito
 
 Aos apartamentos turísticos pertencentes a uma pluralidade de proprietários aplica-se, com as devidas adaptações, o disposto nos artigos 29.º a 35.º
 
-#### SECÇÃO V — Da classificação dos apartamentos turísticos
+SECÇÃO V
 
-###### Artigo 51.º — Classificação
+Da classificação dos apartamentos turísticos
+
+Artigo 51.º
+
+Classificação
 
 1 - Os apartamentos turísticos classificam-se, atendendo à sua localização, à qualidade das suas instalações, dos seus equipamentos e mobiliário e dos serviços que ofereçam, nas categorias de 5, 4, 3 e 2 estrelas, de acordo com o estabelecido na tabela que constitui o anexo II ao presente regulamento e que dele faz parte integrante.
 
@@ -922,53 +1137,81 @@ Aos apartamentos turísticos pertencentes a uma pluralidade de proprietários ap
 
 4 - Se as instalações a que se refere o n.º 2 não preencherem os requisitos mínimos previstos para os apartamentos turísticos de 2 estrelas, a Direcção-Geral do Turismo deve determinar o seu encerramento de acordo com o estabelecido no artigo 67.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-### CAPÍTULO IV — Das moradias turísticas
+CAPÍTULO IV
 
-#### SECÇÃO I — Dos requisitos das instalações e do funcionamento
+Das moradias turísticas
 
-###### Artigo 52.º — Requisitos mínimos
+SECÇÃO I
+
+Dos requisitos das instalações e do funcionamento
+
+Artigo 52.º
+
+Requisitos mínimos
 
 As moradias turísticas devem preencher os requisitos mínimos das instalações, do equipamento e do serviço fixados na tabela que constitui o anexo III ao presente regulamento e que dele faz parte integrante.
 
-###### Artigo 53.º — Unidades de alojamento
+Artigo 53.º
+
+Unidades de alojamento
 
 1 - Cada moradia turística corresponde a uma unidade de alojamento.
 
 2 - É aplicável às moradias turísticas o disposto no artigo 37.º, com as necessárias adaptações.
 
-###### Artigo 54.º — Requisitos das unidades de alojamento
+Artigo 54.º
+
+Requisitos das unidades de alojamento
 
 É aplicável às moradias turísticas o disposto nos n.os 2, 3 e 4 do artigo 7.º, nos n.os 2 a 11 do artigo 11.º e nos artigos 12.º e 13.º
 
-###### Artigo 55.º — Piscinas
+Artigo 55.º
+
+Piscinas
 
 É aplicável às piscinas das moradias turísticas o disposto no n.º 1 do artigo 9.º
 
-###### Artigo 56.º — Responsável pelo funcionamento das moradias turísticas
+Artigo 56.º
+
+Responsável pelo funcionamento das moradias turísticas
 
 É aplicável às moradias turísticas o disposto no artigo 43.º
 
-###### Artigo 57.º — Placa identificativa
+Artigo 57.º
+
+Placa identificativa
 
 Em todas as moradias turísticas, a respectiva entidade exploradora deve afixar no exterior, junto à entrada principal, uma placa identificativa, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 58.º — Escritório de atendimento
+Artigo 58.º
+
+Escritório de atendimento
 
 É aplicável às moradias turísticas o disposto nos n.os 1, 3 e 4 do artigo 46.º, com as necessárias adaptações.
 
-###### Artigo 59.º — Funcionamento e serviços
+Artigo 59.º
+
+Funcionamento e serviços
 
 É aplicável às moradias turísticas, com as necessárias adaptações, o disposto nos artigos 20.º a 22.º e nos artigos 47.º e 48.º
 
-#### SECÇÃO II — Da classificação
+SECÇÃO II
 
-###### Artigo 60.º — Classificação
+Da classificação
+
+Artigo 60.º
+
+Classificação
 
 As moradias turísticas classificam-se, atendendo à sua localização, à qualidade das unidades de alojamento e à capacidade e diversidade das instalações acessórias que possuam e dos serviços que ofereçam, nas categorias de 1.ª e 2.ª, de acordo com o estabelecido na tabela que constitui o anexo II ao presente regulamento e que dele faz parte integrante.
 
-### CAPÍTULO V — Das contra-ordenações
+CAPÍTULO V
 
-###### Artigo 61.º — Contra-ordenações
+Das contra-ordenações
+
+Artigo 61.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -988,7 +1231,9 @@ d) A inexistência ou a não prestação dos serviços exigidos no n.º 7 («Ser
 
 5 - A tentativa e a negligência são puníveis.
 
-###### Artigo 62.º — Sanções acessórias
+Artigo 62.º
+
+Sanções acessórias
 
 1 - O encerramento do estabelecimento e a suspensão do respectivo alvará de licença de utilização turística só podem ser determinados como sanção acessória:
 
@@ -1010,9 +1255,13 @@ e) No caso de violação do n.º 1.3 do anexo II, o prazo é de 90 dias;
 
 f) No caso de violação do n.º 1.3 do anexo III, o prazo é de 120 dias.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+CAPÍTULO VI
 
-###### Artigo 63.º — Aldeamentos e apartamentos turísticos existentes
+Disposições finais e transitórias
+
+Artigo 63.º
+
+Aldeamentos e apartamentos turísticos existentes
 
 1 - Os aldeamentos e apartamentos turísticos existentes à data da entrada em vigor do presente diploma devem satisfazer os requisitos nele previstos para a respectiva categoria, devendo as suas entidades exploradoras proceder à realização das obras e à instalação dos equipamentos necessários para esse efeito, no prazo de dois anos a contar daquela data.
 
@@ -1020,13 +1269,17 @@ f) No caso de violação do n.º 1.3 do anexo III, o prazo é de 120 dias.
 
 3 - O não cumprimento do disposto no n.º 1 implica a revisão da classificação do estabelecimento para a categoria que corresponder ao seu estado, salvo quando se verifique que o empreendimento não reúne os requisitos mínimos para poder ser classificado em qualquer grupo e categoria, caso em que deve ser determinado o seu encerramento e apreendido o respectivo alvará.
 
-###### Artigo 64.º — Reclassificação dos aldeamentos turísticos
+Artigo 64.º
+
+Reclassificação dos aldeamentos turísticos
 
 1 - Os aldeamentos turísticos existentes à data da entrada em vigor do presente diploma que estejam classificados como aldeamentos turísticos de luxo, de 1.ª e de 2.ª categorias consideram-se classificados, independentemente de quaisquer formalidades, nas categorias de 5, 4 e 3 estrelas, respectivamente.
 
 2 - As entidades exploradoras dos aldeamentos turísticos referidos no número anterior devem, no prazo de seis meses a contar da data da entrada em vigor do presente diploma, alterar a placa identificativa da respectiva classificação, bem como a documentação utilizada em toda a actividade externa, designadamente na publicidade e na correspondência.
 
-###### Artigo 65.º — Reclassificação dos apartamentos turísticos
+Artigo 65.º
+
+Reclassificação dos apartamentos turísticos
 
 1 - Os apartamentos turísticos existentes à data da entrada em vigor do presente diploma consideram-se classificados, independentemente de quaisquer formalidades, como meios complementares de alojamento.
 
@@ -1034,7 +1287,9 @@ f) No caso de violação do n.º 1.3 do anexo III, o prazo é de 120 dias.
 
 3 - Aplica-se aos apartamentos turísticos referidos no número anterior o disposto no n.º 2 do artigo anterior.
 
-###### Artigo 66.º — Reclassificação dos alojamentos particulares
+Artigo 66.º
+
+Reclassificação dos alojamentos particulares
 
 1 - Todos os apartamentos e moradias que, à data da entrada em vigor do presente diploma, estejam inscritos nos registos da Direcção-Geral do Turismo e dos órgãos regionais e locais de turismo como alojamentos particulares consideram-se classificados, independentemente de quaisquer formalidades, como apartamentos turísticos de 2 estrelas e como moradias turísticas de 2.ª
 
@@ -1046,18 +1301,26 @@ f) No caso de violação do n.º 1.3 do anexo III, o prazo é de 120 dias.
 
 5 - Para efeito do disposto no número anterior, os interessados devem requerer à Direcção-Geral do Turismo a realização de uma vistoria nos termos dos artigos 35.º a 37.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
-###### Artigo 67.º — Entrada em vigor
+Artigo 67.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia imediatamente a seguir à sua publicação.
 
-## ANEXO I — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos aldeamentos turísticos
+ANEXO I
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos aldeamentos turísticos
 
-## ANEXO II — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos apartamentos turísticos
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+ANEXO II
 
-## ANEXO III — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das moradias turísticas
+Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos apartamentos turísticos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)
+
+ANEXO III
+
+Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das moradias turísticas
+
+[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)](https://files.diariodarepublica.pt/1s/1999/08/189b00/53735396.pdf)

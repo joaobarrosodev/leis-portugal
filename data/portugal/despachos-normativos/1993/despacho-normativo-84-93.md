@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/84/1993/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1993-283549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 077c977e8a53af81afe786fc3b12222a8a19f9a57f595fc8b4d2d2e2b6ac63d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f96dd82531965633831b43bca1ce43a28a84628308b40a1df111f681bc1e6def
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/293/1992/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/293/1992/04/03/p/dre
+- type: cites
+  target: pt:dre:158633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663500:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:10:26Z'
   warnings: []
   errors: []
 ---

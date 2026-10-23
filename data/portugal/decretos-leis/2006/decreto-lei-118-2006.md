@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2006/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2006-371037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 700b533e49a55a834bbec642b0641e0d60363cdf91da03a3c604285d67ef3c73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a72fdd8d2da0ad4858ba85c2854f15be2a7b3e414b399a00335ed87e91d0378
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Águas Residuais
 - Aproximação das Legislações
-- Financiamento
 - Contra-ordenação
-- Saúde Pública
+- Fertilizante
+- Financiamento
 - Fiscalização
 - Licenciamento
 - Proteção do Ambiente
-- Águas Residuais
-- Fertilizante
-- Tratamento de Resíduos
 - Regime Jurídico
-- Agricultura
+- Saúde Pública
 - Tratamento de ÁGUA
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:490974:por
@@ -89,16 +89,26 @@ relationships:
   target: celex:31986L0278
   label: null
   source: http://data.europa.eu/eli/dir/1986/278/oj
+- type: corrected_by
+  target: pt:dre:538796:por
+  label: "Rectificado pela Decl-Rect.53/2006.14.08.2006.PCM, DR.IS [159] de 18.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/53-2006-538796
+  date: '2006-08-14'
+- type: repealed_by
+  target: pt:dre:490974:por
+  label: "Revogado pelo DEC LEI.276/2009.02.10.2009.MAOTDR, DR.IS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-2009-490974
+  date: '2009-10-02'
 article_structure:
-  article_count: 24
+  article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:07Z'
   warnings: []
   errors: []
 ---
@@ -221,9 +231,7 @@ c) 200 m, relativamente a aglomerados populacionais, escolas ou zonas de interes
 
 8 - Por motivos de saúde pública ou de preservação do ambiente, pode ser determinada a realização de análises com maior frequência ou com outros parâmetros, designadamente incidindo sobre microrganismos patogénicos, em conformidade com o disposto no n.º 1.4 do anexo II.
 
-Artigo Artigo 9.º
-
-Dever de informação
+###### Artigo Artigo 9.º — Dever de informação
 
 Os produtores de lamas de depuração e os operadores de gestão de resíduos abrangidos pelo presente decreto-lei fornecem ao utilizador de lamas em solos agrícolas as seguintes informações:
 
@@ -407,15 +415,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 7 de Junho de 2006.**
+Promulgado em 7 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Junho de 2006.**
+Referendado em 8 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I
 
@@ -423,7 +431,7 @@ Valores limite para a concentração de metais pesados nos solos receptores de l
 
 Do QUADRO N.º 1 ao QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
 
 ## ANEXO II
 
@@ -529,10 +537,10 @@ c) O limite de detecção para cada metal não deve exceder 10% do respectivo va
 
 3.1 - Análise das lamas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
 
 3.2 - Análise dos solos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43804388.pdf)

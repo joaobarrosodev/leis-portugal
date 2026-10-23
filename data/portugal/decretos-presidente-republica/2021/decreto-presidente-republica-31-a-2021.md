@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 59/2021, 1º Suplemento, Série I de 2021-03-25
   number: '59'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 39-(2) a 39-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05901/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/31-a/2021/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/31-a-2021-160316741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5afb9cea2e3695cc737831b73e75702d2a7043edf9c4f242d2f6928681c1e496
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a36fea33fec80b4c6b9774c18535eda7acc234bcc17408c1804a909c8bcc53f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,41 @@ reuse:
 subjects:
 - Abastecimento de BENS Essenciais
 - Acesso à Informação
-- Crime
-- Pessoal de Saúde
-- Circulação de Pessoas
-- Estabelecimento Comercial
-- Cuidados de Enfermagem
-- Definição de Competências
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Fiscalização
-- IPSS
-- Catástrofe
-- Horário de Funcionamento
-- Forças Armadas
-- Circulação de Mercadorias
-- Doença Infecciosa
-- Epidemia
-- Prazo
-- Ensino
-- Estabelecimento de Ensino
-- Cuidados Médicos
-- Madeira.região Autónoma
-- Teletrabalho
-- Poluição Sonora
-- Funcionário Público
 - Açores
+- Catástrofe
+- Circulação de Mercadorias
+- Circulação de Pessoas
+- Controlo Sanitário
+- Crime
+- Cuidados de Enfermagem
+- Cuidados Médicos
 - Dados Pessoais
+- Definição de Competências
+- Doença Infecciosa
+- Ensino
+- Epidemia
+- Equipamento de Proteção
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
+- Estado de Emergência
+- Fiscalização
+- Forças Armadas
+- Funcionário Público
+- Horário de Funcionamento
+- IPSS
+- Madeira.região Autónoma
+- Pessoal de Saúde
+- Poluição Sonora
+- Prazo
+- Saúde Pública
+- Serviço Nacional de Saúde
+- Situação de Calamidade
+- Teletrabalho
 - Trabalhador
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Trabalhador por Conta de Outrem
 - Vacinação
-- Equipamento de Proteção
-- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Vigilância Epidemiológica
-- Situação de Calamidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
@@ -115,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/90-a/2021/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/90-a/2021/03/25/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160316742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:46Z'
   warnings: []
   errors: []
 ---
@@ -221,12 +237,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 25 de março de 2021.**
+Assinado em 25 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de março de 2021.**
+Referendado em 25 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114105334

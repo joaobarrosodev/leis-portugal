@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05400/0140401417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2017/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 696281470c4db14f3fe689c372d93b64c8c323180efefc4a7ed1f44951071a91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e1e1b31aac5a109e908cb0c928daa0f08a6d36c16c251af570af10f2e38d9a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Cartografia
-- Ordenamento do Território
 - Definição de Competências
+- Gestor de Dados
 - Informação Geográfica
 - Inspire
-- Sistema Nacional de Informação Geográfica
-- Regime Jurídico
-- Gestor de Dados
 - Instituto Geográfico Português
+- Modernização Administrativa
+- Ordenamento do Território
 - Perfil Nacional de Metadados
+- Regime Jurídico
 - Registo Nacional de Dados Geográficos
+- Sistema Nacional de Informação Geográfica
 relationships:
 - type: amended_by
   target: pt:dre:222645050:por
@@ -140,15 +140,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 44
+  article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:31Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +209,9 @@ d) Respeitem às categorias temáticas enumeradas nos anexos I, II e III ao pres
 
 8 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -245,7 +247,9 @@ p) [...].
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -347,7 +351,9 @@ ll) Outras autoridades públicas portuguesas da administração central direta e
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -355,7 +361,9 @@ ll) Outras autoridades públicas portuguesas da administração central direta e
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]:
 
@@ -369,7 +377,9 @@ c) A produção de cartografia homologada topográfica e temática.
 
 3 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O acesso aos serviços de dados geográficos realiza-se através da Internet ou por qualquer outro meio de telecomunicação adequado, devendo ser de fácil utilização e ter em consideração os requisitos dos utilizadores.
 
@@ -377,7 +387,9 @@ c) A produção de cartografia homologada topográfica e temática.
 
 3 - As entidades responsáveis devem identificar e garantir as características técnicas que permitem a interoperabilidade de outras infraestruturas de informação geográfica com o SNIG.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -405,7 +417,9 @@ Articulação do Sistema Nacional de Informação Geográfica com outras infraes
 
 5 - Em caso de dúvida na aplicação do disposto nos números anteriores, deve ser solicitado um parecer técnico ao Conselho de Orientação do SNIG, o qual possui caráter vinculativo.
 
-###### Artigo 12.º-A — Características dos metadados
+Artigo 12.º-A
+
+Características dos metadados
 
 1 - A Administração Pública assegura a criação e a atualização de metadados para os conjuntos e serviços de dados geográficos referentes às categorias temáticas constantes dos anexos I, II e III ao presente decreto-lei.
 
@@ -449,15 +463,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Alexandra Ludomila Ribeiro Fernandes Leitão - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 15 de fevereiro de 2017.**
+Promulgado em 15 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de fevereiro de 2017.**
+Referendado em 16 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -503,7 +517,9 @@ Elementos hidrográficos, incluindo as zonas marinhas e todas as outras massas d
 
 Zonas designadas ou geridas no âmbito de legislação internacional, europeia, nacional ou regional para a prossecução de objetivos específicos de gestão e de conservação, incluindo as áreas protegidas no solo e subsolo marinho e na coluna e superfície de água.
 
-## ANEXO II — [a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
+ANEXO II
+
+[a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
 
 Categorias temáticas de dados geográficos a que se refere o Anexo II da Diretiva INSPIRE
 
@@ -523,7 +539,9 @@ Imagens georreferenciadas da superfície terrestre recolhidas por satélite ou s
 
 Geologia caracterizada de acordo com a composição e a estrutura, incluindo o substrato rochoso e sedimentar, os aquíferos e a geomorfologia.
 
-## ANEXO III — [a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
+ANEXO III
+
+[a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
 
 Categorias temáticas de dados geográficos a que se refere o Anexo III da Diretiva INSPIRE
 

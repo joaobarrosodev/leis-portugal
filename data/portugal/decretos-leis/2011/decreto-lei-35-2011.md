@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2011/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2011-279426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8585acd9e096d914b2b717523b209b02e84271be39b83131ba25dc3055a244ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e507888641f41e41ab97b608587a749a41da3aed122f1bc56161b44b657e459
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Municípios
+- ARH do Norte
 - ARTE Rupestre
-- Fundação Côa Parque
-- Fundação
-- Igespar
-- Património Arqueológico
+- Associação de Municípios
+- Autarquia Local
 - Estatuto
 - Extinção de Serviços
+- Fundação
+- Fundação Côa Parque
+- Igespar
 - Integração de Trabalhadores
-- ARH do Norte
 - Museu
+- Património Arqueológico
 - Quadro de Pessoal
 - Transferência de Competências
-- Autarquia Local
 - Turismo do Douro
 - Vale do Rio Côa
 relationships:
@@ -86,6 +86,23 @@ relationships:
   target: pt:dre:107535174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinto, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, o Instituto de Gestão do Património Arquitectónico\
+    \ e Arqueológico, I. P, cuja orgânica foi aprovada pelo Dec Lei 96/2007 de 29-Mar, alterado pelo presente diploma, pelo\
+    \ DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:107535174:por
+  label: Alterados, a partir de 25.06.2017, os arts. 2.º, 4.º, 5.º e 6.º e revogados os n.ºs 1, 3 e 4 do art. 6.º e os arts.
+    8.º e 9.º do presente diploma, bem como alterados os arts. 1.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º,
+    19.º, 21.º, 22.º, 23.º e 25.º e revogados o art. 5.º, os n.ºs 2, 3 4 e 5 do art. 6.º, o n.º 1 do art. 14.º, a sec. III
+    do cap. III, que compreende os arts. 15.º, 16.º, 17.º e 18.º, o n.º 2 do art. 22.º e os arts. 24.º, 26.º e 27.º dos estatutos
+    aprovados em anexo I ao presente diploma, que é republicado, pelo(a) Decreto-Lei n.º 70/2017 - Diário da República n.º
+    117/2017, Série I de 2017-06-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2017-107535174
+  date: '2017-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/2006/03/23/p/dre
   label: null
@@ -118,16 +135,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667533:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179365:por
+  label: "Revogada a Port 376/2007, de 30-mar, na redação do presente diploma, pela PORT.223/2012.24.07.2012.PCM, DR.IS [142]\
+    \ de 24.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2012-179365
+  date: '2012-07-24'
 article_structure:
   article_count: 41
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:08Z'
   warnings: []
   errors: []
 ---
@@ -288,15 +343,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Elísio Costa Santos Summavielle.
 
-**Promulgado em 23 de Fevereiro de 2011.**
+Promulgado em 23 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Fevereiro de 2011.**
+Referendado em 28 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — ESTATUTOS DA CÔA PARQUE - FUNDAÇÃO PARA A SALVAGUARDA E VALORIZAÇÃO DO VALE DO CÔA
 
@@ -776,4 +831,4 @@ e) Pelo Douro, no limite do concelho de Vila Nova de Foz Côa, até à foz do C�
 
 ## ANEXO III — Mapa com a delimitação da área incluída na gestão da Côa Parque - Fundação para a Salvaguarda e Valorização do Vale do Côa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/04700/0132601333.pdf))](https://files.diariodarepublica.pt/1s/2011/03/04700/0132601333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/04700/0132601333.pdf)

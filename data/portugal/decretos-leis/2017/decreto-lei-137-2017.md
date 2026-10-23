@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21500/0590205967.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2017/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2017-114163923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 430b910dffe94fa9c5800a468768e65f8308960cb6f5b718ccb26f086933d9bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceac2c13d135555b6080147beb2c679fc69dc334910ad022fb6d8ad92fc56650
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,59 +67,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Aerosol
-- Produto Químico
+- Agência Portuguesa do Ambiente
+- Alimentação
 - Aproximação das Legislações
-- Gestão de Resíduos
+- ASAE
 - Cádmio
 - Certificado Fitossanitário
-- Multa
-- Mar
-- Doença Vegetal
+- Chumbo
+- Comércio
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
-- Direção Geral das Atividades Económicas
-- Direcção Geral dos Recursos Florestais
 - Controlo Sanitário
+- Direção Geral das Atividades Económicas
+- Direcção Geral da Autoridade Marítima
+- Direcção Geral dos Recursos Florestais
+- Doença Vegetal
+- Embalagem
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
+- Espaço Marítimo
+- Estratégia Nacional para a Gestão Integrada da Zona Costeira
+- Estratégia Nacional para o MAR
 - Etiquetagem
 - Fiscalização
-- Chumbo
+- Gestão de Resíduos
+- IAPMEI
+- Indústria Alimentar
 - Indústria de Brinquedos
 - Instituto de Turismo de Portugal
-- ASAE
 - Licenciamento
-- Espaço Marítimo
-- Estratégia Nacional para o MAR
-- Embalagem
+- Mar
 - Meio Marinho
-- Resíduo
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Multa
 - Normas de Segurança
-- Estratégia Nacional para a Gestão Integrada da Zona Costeira
+- Produto Agrícola
+- Produto Alimentar
+- Produto Químico
 - Proteção do Ambiente
-- Aditivo Alimentar
-- Alimentação
-- Proteção Fitossanitária
 - Proteção do Consumidor
-- Indústria Alimentar
+- Proteção Fitossanitária
+- Resíduo
 - Resíduo Industrial
-- Direcção Geral da Autoridade Marítima
-- IAPMEI
+- Saúde Pública
 - Solvente
 - Substância Perigosa
-- Comércio
-- Produto Agrícola
 - Tecnologia Alimentar
 - Vegetais
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:125468544:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:122242530:por
+  label: Alterado, a partir de 01.07.2019, o anexo ii ao Dec Lei 43/2011 de 24-mar, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2019-122242530
+  date: '2019-05-08'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos i, ii, iii, iv e v ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:31975L0324
   label: null
@@ -208,20 +226,124 @@ relationships:
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: cites
+  target: pt:dre:107495706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55076558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58801094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74788785:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31975L0324
   label: null
   source: null
 article_structure:
-  article_count: 18
+  article_count: 16
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:50Z'
   warnings: []
   errors: []
 ---
@@ -334,7 +456,9 @@ Os artigos 7.º, 12.º e 13.º do [Decreto-Lei n.º 61/2010](https://diariodarep
 
 6 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]:
 
@@ -348,7 +472,9 @@ d) [...];
 
 e) 10 % para o IAPMEI, I. P.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O acompanhamento da aplicação do presente decreto-lei, bem como as propostas das medidas necessárias à prossecução dos seus objetivos e das que se destinam a assegurar a ligação com a Comissão Europeia e com os outros Estados-Membros, é promovida pelo IAPMEI, I. P., em articulação com a Direção-Geral das Atividades Económicas.»
 
@@ -426,14 +552,14 @@ f) O n.º 11 da alínea c) da secção I da parte A do anexo II.
 
 Visto e aprovado em Conselho de Ministros de 28 de setembro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 2 de novembro de 2017.**
+Promulgado em 2 de novembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de novembro de 2017.**
+Referendado em 6 de novembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21500/0590205967.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21500/0590205967.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21500/0590205967.pdf)

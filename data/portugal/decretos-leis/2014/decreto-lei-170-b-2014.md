@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07
   number: '216'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5714-(145) a 5714-(158)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170-b/2014/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df55f962daf5ac78ca8219bb2c231b50f892fcb2781c4bdd60814c728871db41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c527780e6fe62abf99db953f1d1018d0b82cd65732fb266fc2a2532f1b2b1a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
+- Combustível
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Embarcação
-- Produto Petrolífero
 - Enxofre
 - Especificação Técnica
-- Combustível
 - Fuelóleo
 - Gasóleo
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Proteção do Ambiente
 - Poluição pelos Navios
+- Produto Petrolífero
+- Proteção do Ambiente
 - Transferência de Competências
-- Agência Portuguesa do Ambiente
 relationships:
+- type: amended_by
+  target: pt:dre:175336200:por
+  label: Alterados, a partir de 04.12.2021, os arts. 4.º-A, 4.º-C, 4.º-D, 6.º, 7.º e 9.º a 12.º e revogados, com efeitos a
+    01.01.2025, a al. d) do n.º 4 do art. 1.º e a al. r) do n.º 1 do art. 2.º todos do Dec Lei 281/2000 de 10-nov,, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03,
+    que determinou, nos termos do seu art. 3.º, a remissão das referências neles feitas à Entidade Nacional para o Mercado
+    de Combustíveis, E. P. E., para a Entidade Nacional para o Setor Energético, E. P. E.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2021-175336200
+  date: '2021-12-03'
 - type: cites
   target: celex:31994L0025
   label: null
@@ -130,15 +139,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 42
+  article_count: 27
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:33Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +206,9 @@ h) [...];
 
 i) Sem prejuízo do artigo 3.º-A, aos combustíveis utilizados a bordo de navios que utilizem métodos de redução de emissões nos termos dos artigos 4.º-C e 4.º-E.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -257,7 +268,9 @@ a) O combustível para motores diesel, tal como definido na alínea g) do artigo
 
 b) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Não podem ser utilizados em território nacional, fuelóleos pesados cujo teor de enxofre exceda 1 %, em massa.
 
@@ -277,7 +290,9 @@ c) Para combustão em refinarias, na condição de a média mensal global das em
 
 6 - [Revogado].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Não podem ser utilizados em território nacional gasóleos cujo teor de enxofre exceda 0,10 %, em massa.
 
@@ -285,7 +300,7 @@ c) Para combustão em refinarias, na condição de a média mensal global das em
 
 3 - [Revogado].
 
-###### Artigo 4.º-A
+Artigo 4.º-A
 
 Teor de enxofre máximo nos combustíveis navais utilizados em mares territoriais, zonas económicas exclusivas e zonas de controlo da poluição, incluindo zonas de controlo das emissões de SO(índice x) e pelos navios de passageiros que efetuam serviços regulares com partida ou destino em portos da União Europeia.
 
@@ -353,7 +368,9 @@ b) Forneça provas de que tentou adquirir combustível naval que respeite o disp
 
 17 - [Anterior n.º 10].
 
-###### Artigo 4.º-B — Teor de enxofre máximo nos combustíveis navais utilizados pelos navios em portos nacionais
+Artigo 4.º-B
+
+Teor de enxofre máximo nos combustíveis navais utilizados pelos navios em portos nacionais
 
 1 - Os navios em portos nacionais não podem utilizar combustíveis navais cujo teor de enxofre seja superior a 0,10 % em massa, dando à tripulação tempo suficiente para terminar uma eventual operação de substituição do combustível o mais depressa possível depois de atracados ou fundeados e o mais tarde possível antes da partida.
 
@@ -369,7 +386,9 @@ c) [...].
 
 4 - Não pode ser colocado no mercado nacional gasóleo naval cujo teor de enxofre seja superior a 0,10 % em massa.
 
-###### Artigo 4.º-C — Métodos de redução de emissões
+Artigo 4.º-C
+
+Métodos de redução de emissões
 
 1 - É autorizada, pela DGRM, mediante parecer favorável da APA, I.P., a utilização de métodos de redução de emissões nos portos nacionais, mar territorial, zona económica exclusiva e zonas de controlo da poluição, independentemente de estarem situadas dentro ou fora de zonas de controlo das emissões de SO(índice x), aos navios que arvorem todos os pavilhões, como alternativa à utilização de combustíveis navais que respeitem os requisitos dos artigos 4.º-A e 4.º-B, sem prejuízo do disposto nos n.os 2, 3 e 5 do presente artigo.
 
@@ -383,7 +402,9 @@ c) [...].
 
 6 - Os procedimentos a aplicar para a aprovação da utilização dos métodos de redução referidos no n.º 1 são publicados na página eletrónica da DGRM e da APA, I.P., sendo que esta última verifica se os métodos utilizados previstos no n.º 1 são equivalentes à utilização de combustíveis que cumpram os requisitos dos artigos 4.º-A e 4.º-B.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os limites máximos de teor de enxofre estabelecidos nos artigos 3.º, 3.º-A, 4.º, 4.º-A e 4.º-B podem não ter aplicação em situações de crise de abastecimento de combustíveis ocasionadas pela ocorrência de alterações imprevistas no abastecimento de petróleo bruto, produtos petrolíferos ou outros hidrocarbonetos.
 
@@ -391,7 +412,9 @@ c) [...].
 
 3 - A aplicação do disposto no número anterior carece da aprovação da Comissão Europeia para a alteração do limite máximo de teor de enxofre para o combustível em causa, devendo o respetivo pedido ser instruído com o parecer favorável do membro do Governo responsável pela área do ambiente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A verificação de que o teor de enxofre dos combustíveis utilizados satisfaz o disposto nos artigos 3.º, 3.º-A, 4.º, 4.º-A e 4.º-B a efetuar por amostragem, a qual deve ser realizada sem demora injustificada, deve iniciar-se na data de entrada em vigor do limite pertinente para o teor de enxofre máximo do combustível em causa e ser realizada periodicamente com a frequência e quantidades necessárias, de modo a que as amostras sejam representativas do combustível analisado, e, no caso do combustível naval, do combustível que os navios estejam a utilizar nas zonas marítimas e portos nacionais.
 
@@ -415,7 +438,9 @@ b) Amostragem e análise do teor de enxofre do combustível naval para queima a 
 
 9 - A interpretação estatística dos resultados da verificação do teor de enxofre é feita de acordo com a norma ISO 4259.
 
-###### Artigo 7.º — Coordenação
+Artigo 7.º
+
+Coordenação
 
 1 - As entidades com competência para fiscalizar o cumprimento do presente diploma, nomeadamente, a Autoridade de Segurança Alimentar e Económica (ASAE), a DGRM, as administrações portuárias, a Docapesca, e a ENMC, E.P.E., devem, até ao final de março de cada ano civil, enviar à DGEG os dados informativos recolhidos nas ações de verificação do cumprimento dos limites máximos de teor de enxofre referentes ao ano anterior, designadamente o número de infrações detetadas.
 
@@ -433,13 +458,17 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo das competências próprias de outras entidades, nomeadamente da ENMC, E.P.E., das comissões de coordenação e desenvolvimento regional do ambiente, da Inspeção-Geral dos Ministérios do Ambiente, Ordenamento do Território e Energia e da Agricultura e do Mar (IGAMAOT), da DGRM, das administrações portuárias e da Docapesca, a fiscalização do cumprimento do disposto no presente diploma cabe à ASAE, ou à DGRM, quando se tratar de combustível naval.
 
 2 - Sempre que uma entidade competente tome conhecimento de situações que indiciem a prática de uma contraordenação prevista no presente diploma deve dar notícia à ASAE, ou à DGRM, quando se tratar de combustível naval, para efeito da instauração e instrução do correspondente processo de contraordenação e consequente decisão.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -457,7 +486,9 @@ d) De (euro) 1250 a (euro) 30 000, a recusa da prestação de informações soli
 
 4 - Às contraordenações previstas no presente diploma aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 setembro, e 323/2001 de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro, podendo consoante a gravidade da infração e a culpa do agente, ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do referido decreto-lei.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A instrução dos processos de contraordenação compete à ASAE, ou à DGRM, se se tratar de combustível naval, cabendo ao inspetor-geral da ASAE e ao diretor-geral da DGRM, respetivamente, a aplicação das coimas e sanções acessórias.
 
@@ -483,7 +514,9 @@ Teor máximo de enxofre do combustível naval
 
 Não podem ser utilizados em território nacional combustíveis navais cujo teor de enxofre exceda 3,50 %, em massa, com exceção dos combustíveis fornecidos a navios que utilizem os métodos de redução de emissões sujeitos ao artigo 4.º-C em sistemas fechados.
 
-###### Artigo 4.º-D — Aprovação de métodos de redução de emissões destinados a ser utilizados a bordo de navios que arvorem pavilhão de um Estado Membro
+Artigo 4.º-D
+
+Aprovação de métodos de redução de emissões destinados a ser utilizados a bordo de navios que arvorem pavilhão de um Estado Membro
 
 1 - Os métodos de redução de emissões abrangidos pela [Diretiva n.º 96/98/CE](https://data.europa.eu/eli/dir/1996/98/oj?locale=pt), do Conselho, de 20 de dezembro de 1996, são aprovados nos termos dessa diretiva.
 
@@ -497,7 +530,9 @@ c) Os efeitos no ambiente, incluindo as reduções de emissões alcançáveis, e
 
 d) A viabilidade da sua monitorização e verificação.
 
-###### Artigo 4.º-E — Ensaios de novos métodos de redução de emissões
+Artigo 4.º-E
+
+Ensaios de novos métodos de redução de emissões
 
 1 - Podem ser aprovadas pela DGRM, mediante parecer favorável da APA, I.P., e de um organismo reconhecido ao abrigo do Decreto-Lei n.º 13/2012, de 20 de janeiro, ensaios de métodos de redução de emissões, em colaboração com outros Estados membros, se for caso disso, em navios que arvorem o respetivo pavilhão ou em zonas marítimas sob a sua jurisdição.
 
@@ -517,7 +552,9 @@ f) Seja avaliado o impacto no meio marinho, designadamente nos ecossistemas em p
 
 g) Sejam fornecidos pela DGRM à Comissão Europeia os resultados completos e tornados públicos, no prazo de seis meses a contar do termo dos ensaios.
 
-###### Artigo 4.º-F — Medidas financeiras
+Artigo 4.º-F
+
+Medidas financeiras
 
 Podem ser adotadas medidas financeiras em benefício dos operadores afetados pelo presente diploma, se essas medidas financeiras forem conformes com as normas aplicáveis aos auxílios estatais e se destinarem a ser utilizadas nesta área.»
 
@@ -535,15 +572,15 @@ São revogados o n.º 6 do artigo 3.º, o n.º 2 do artigo 8.º, a alínea b) do
 
 Visto e aprovado em Conselho de Ministros de 23 de outubro de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 5 de novembro de 2014.**
+Promulgado em 5 de novembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de novembro de 2014.**
+Referendado em 6 de novembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -551,7 +588,7 @@ Visto e aprovado em Conselho de Ministros de 23 de outubro de 2014. - Pedro Pass
 
 1 - Os limites máximos de teor de enxofre dos combustíveis navais referidos nos artigos 4.º-A e 4.º-B e nas regras 14.1 e 14.4 do anexo VI da Convenção MARPOL e limites de emissão correspondentes referidos nos n.os 2 e 3 do artigo 4.º-C, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
 
 2 - Os limites estabelecidos para as razões de emissões só são aplicáveis quando se utilizam fuelóleos residuais ou destilados de petróleo.
 
@@ -561,7 +598,7 @@ Visto e aprovado em Conselho de Ministros de 23 de outubro de 2014. - Pedro Pass
 
 Os métodos de redução de emissões referidos no artigo 4.º-C devem cumprir, pelo menos, os critérios especificados nos seguintes instrumentos, consoante o caso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -1003,7 +1040,7 @@ Data: ...
 
 1 - Os limites máximos de teor de enxofre dos combustíveis navais referidos nos artigos 4.º-A e 4.º-B e nas regras 14.1 e 14.4 do anexo VI da Convenção MARPOL e limites de emissão correspondentes referidos nos n.os 2 e 3 do artigo 4.º-C, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
 
 2 - Os limites estabelecidos para as razões de emissões só são aplicáveis quando se utilizam fuelóleos residuais ou destilados de petróleo.
 
@@ -1013,4 +1050,4 @@ Data: ...
 
 Os métodos de redução de emissões referidos no artigo 4.º-C devem cumprir, pelo menos, os critérios especificados nos seguintes instrumentos, consoante o caso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21601/0014500158.pdf)

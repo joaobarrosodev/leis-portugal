@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/756-1975-311012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8634476d1c8122d1524e9eaaf04d38c0adb00ccc287be73149b5aed8096af07b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af4a91134032eae097633309eaf4b8d974dd9d26684d853e76c40a9e1b265635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400210:por
+  label: "Alterado o art. 31.º do Estatuto aprovado pelo Decreto 46960, de 14-Abr 1966, na redacção do presente diploma, pelo\
+    \ DEC LEI.340/84.22.10.1984.MDN, DR.IS [245] de 22.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1984-400210
+  date: '1984-10-22'
+- type: amended_by
+  target: pt:dre:396311:por
+  label: "Substituídos os limites de idade das classes de médicos navais e farmacêuticos navais incluídos nos mapas 1 e 4\
+    \ do Estatuto do Oficial da Armada, aprovado pelo Dec 46960, de 14-Abr, com a redacção constante do presente diploma,\
+    \ pela PORT.940/84.19.12.1984.MDN, DR.IS [292] de 19.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1984-396311
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:220924:por
+  label: "Alterado o mapa nº. 3 anexo ao Estatuto do Oficial da Armada, pela PORT.696/86.21.11.1986.MDN, DR.IS [269] de 21.11.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/696-1986-220924
+  date: '1986-11-21'
+- type: cites
+  target: pt:dre:234082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476369:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:502233:por
+  label: Retificada a pág. 2069 pelo(a) Declaração - Diário da República n.º 90/1976, Série I de 1976-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502233
+  date: '1976-04-15'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:33Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +142,9 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 1.º O corpo e o § 2.º do artigo 1.º, o artigo 5.º, o corpo do artigo 7.º, o § 2.º do artigo 11.º, o corpo do artigo 19.º, o § 2.º do artigo 20.º, a alínea d) do § 1.º do artigo 28.º, o corpo do artigo 31.º, a alínea b) do corpo do artigo 56.º, o corpo e o § 4.º do artigo 58.º, a condição 2) da alínea p) do artigo 70.º, as condições 8) e 9) da alínea a) do artigo 78.º, as alíneas c) e d) do corpo do artigo 80.º, o § 2.º do artigo 122.º, o corpo do artigo 124.º, o corpo do artigo 126.º, o corpo do artigo 130.º, o § 3.º do artigo 150.º, o artigo 231.º e o artigo 234.º, todos do Estatuto do Oficial da Armada, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Na corporação dos oficiais da Armada existem os seguintes quadros de oficiais:
+Artigo 1.º Na corporação dos oficiais da Armada existem os seguintes quadros de oficiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
 
 § 1.º ...
 
@@ -112,13 +156,13 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 ...
 
-###### Art. 5.º Os quadros de oficiais das reservas da Armada, da reserva naval, da reserva marítima, dos reformados e dos separados do serviço não têm efectivos fixos.
+Art. 5.º Os quadros de oficiais das reservas da Armada, da reserva naval, da reserva marítima, dos reformados e dos separados do serviço não têm efectivos fixos.
 
 ...
 
-###### Art. 7.º As categorias e os postos dos oficiais da Armada, por ordem decrescente, e a correspondência dos postos com os do Exército e da Força Aérea são os seguintes:
+Art. 7.º As categorias e os postos dos oficiais da Armada, por ordem decrescente, e a correspondência dos postos com os do Exército e da Força Aérea são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
 
 § 1.º ...
 
@@ -128,7 +172,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 § 1.º ...
 
@@ -136,7 +180,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 ...
 
-###### Art. 19.º Na designação dos oficiais que não pertencem ao quadro de oficiais do activo serão usadas regras idênticas às expressas no artigo anterior, mas seguidamente ao posto, na classe de marinha, ou à designação da classe, nas outras classes, são dadas, conforme os casos, as indicações seguintes:
+Art. 19.º Na designação dos oficiais que não pertencem ao quadro de oficiais do activo serão usadas regras idênticas às expressas no artigo anterior, mas seguidamente ao posto, na classe de marinha, ou à designação da classe, nas outras classes, são dadas, conforme os casos, as indicações seguintes:
 
 a) Da reserva da Armada;
 
@@ -150,19 +194,19 @@ e) Separado do serviço.
 
 § único. ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § 1.º ...
 
 § 2.º A indicação a que se refere a alínea d) do corpo deste artigo é dada pelas abreviaturas que a seguir se estabelecem, colocadas entre parêntesis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
 
 § 3.º ...
 
 ...
 
-###### Art. 28.º ...
+Art. 28.º ...
 
 § 1.º ...
 
@@ -176,13 +220,13 @@ d) Superintendência dos Serviços Financeiros, todos os cargos, com excepção 
 
 ...
 
-###### Art. 31.º O ingresso nas classes de marinha, dos engenheiros maquinistas navais e de administração naval, do quadro de oficiais do activo, é feito no posto de guarda-marinha, por promoção dos aspirantes que tenham completado, respectivamente, os cursos de marinha, de engenheiro maquinista naval e de administração naval, da Escola Naval.
+Art. 31.º O ingresso nas classes de marinha, dos engenheiros maquinistas navais e de administração naval, do quadro de oficiais do activo, é feito no posto de guarda-marinha, por promoção dos aspirantes que tenham completado, respectivamente, os cursos de marinha, de engenheiro maquinista naval e de administração naval, da Escola Naval.
 
 § único. ...
 
 ...
 
-###### Art. 56.º ...
+Art. 56.º ...
 
 a) ...
 
@@ -192,7 +236,7 @@ c) ...
 
 ...
 
-###### Art. 58.º Ao concurso a que se refere a alínea b) do artigo 56.º são admitidos todos os sargentos-ajudantes e primeiros-sargentos músicos da Armada que satisfaçam às seguintes condições:
+Art. 58.º Ao concurso a que se refere a alínea b) do artigo 56.º são admitidos todos os sargentos-ajudantes e primeiros-sargentos músicos da Armada que satisfaçam às seguintes condições:
 
 a) ...
 
@@ -210,7 +254,7 @@ c) ...
 
 ...
 
-###### Art. 70.º ...
+Art. 70.º ...
 
 a) ...
 
@@ -226,7 +270,7 @@ p) ...
 
 ...
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 a) ...
 
@@ -238,7 +282,7 @@ a) ...
 
 ...
 
-###### Art. 80.º ...
+Art. 80.º ...
 
 a) ...
 
@@ -256,7 +300,7 @@ d) Requeiram a passagem à reserva da Armada com direito a pensão e esta lhes s
 
 ...
 
-###### Art. 122.º ...
+Art. 122.º ...
 
 ...
 
@@ -266,7 +310,7 @@ d) Requeiram a passagem à reserva da Armada com direito a pensão e esta lhes s
 
 ...
 
-###### Art. 124.º Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros dos oficiais do activo e não tenham sido abrangidos pela condição 19) da alínea a) do artigo 78.º deste Estatuto. Constituem excepções ao atrás referido as seguintes:
+Art. 124.º Os oficiais apenas podem ser promovidos enquanto se mantiverem nos quadros dos oficiais do activo e não tenham sido abrangidos pela condição 19) da alínea a) do artigo 78.º deste Estatuto. Constituem excepções ao atrás referido as seguintes:
 
 a) Ao posto de almirante também podem ser promovidos os vice-almirantes e os contra-almirantes dos quadros de oficiais da reserva da Armada com direito a pensão e reformados;
 
@@ -278,7 +322,7 @@ c) As promoções que se verifiquem ao abrigo da legislação a que se refere o 
 
 ...
 
-###### Art. 126.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerários e adidos, excepto, neste último caso, quando tenham sido abrangidos pela condição 19) da alínea a) do artigo 78.º deste Estatuto].
+Art. 126.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro [no quadro, supranumerários e adidos, excepto, neste último caso, quando tenham sido abrangidos pela condição 19) da alínea a) do artigo 78.º deste Estatuto].
 
 § 1.º ...
 
@@ -288,13 +332,13 @@ c) As promoções que se verifiquem ao abrigo da legislação a que se refere o 
 
 ...
 
-###### Art. 130.º São promovidos a vice-almirante os contra-almirantes que forem nomeados para exercer os cargos de Chefe ou Vice-Chefe do Estado-Maior-General das Forças Armadas, de presidente do Supremo Tribunal Militar e de Chefe do Estado-Maior da Armada, sendo o diploma de nomeação simultaneamente o de promoção.
+Art. 130.º São promovidos a vice-almirante os contra-almirantes que forem nomeados para exercer os cargos de Chefe ou Vice-Chefe do Estado-Maior-General das Forças Armadas, de presidente do Supremo Tribunal Militar e de Chefe do Estado-Maior da Armada, sendo o diploma de nomeação simultaneamente o de promoção.
 
 § único. ...
 
 ...
 
-###### Art. 150.º ...
+Art. 150.º ...
 
 § 1.º ...
 
@@ -304,11 +348,11 @@ c) As promoções que se verifiquem ao abrigo da legislação a que se refere o 
 
 ...
 
-###### Art. 231.º O casamento dos oficiais da Armada regula-se pela lei civil.
+Art. 231.º O casamento dos oficiais da Armada regula-se pela lei civil.
 
 ...
 
-###### Art. 234.º Para efeito do cálculo de pensões de reserva e reforma será contado como tempo de serviço, se os interessados assim o requererem e mediante a indemnização que for devida à Caixa Geral de Aposentações:
+Art. 234.º Para efeito do cálculo de pensões de reserva e reforma será contado como tempo de serviço, se os interessados assim o requererem e mediante a indemnização que for devida à Caixa Geral de Aposentações:
 
 a) O tempo de frequência da Escola Naval que não tenha sido objecto de aplicação do disposto no § 1.º do artigo 88.º e o tempo de frequência da Academia Militar, ou escola sua antecessora, necessário à obtenção das condições de ingresso na primeira das escolas referidas;
 
@@ -316,7 +360,7 @@ b) O tempo de serviço prestado pelos restantes oficiais dos quadros permanentes
 
 2.º É acrescentado um § único ao artigo 29.º do Estatuto do Oficial da Armada, com a redacção seguinte:
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 § único. Os oficiais que hajam transitado para situação de adidos aos quadros nas condições referidas na condição 19) da alínea a) do artigo 78.º não serão, em princípio, nomeados para funções de comando.
 
@@ -324,7 +368,7 @@ b) O tempo de serviço prestado pelos restantes oficiais dos quadros permanentes
 
 4.º É acrescentada uma condição 19) à alínea a) do artigo 78.º do Estatuto do Oficial da Armada, com a seguinte redacção:
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 a) ...
 
@@ -352,7 +396,7 @@ MAPA N.º 1
 
 Limites de idade para passagem ao quadro de oficiais da reserva da Armada com direito a pensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
 
 MAPA N.º 3
 
@@ -360,7 +404,7 @@ MAPA N.º 3
 
 Condições especiais de promoção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
 
 Notas
 
@@ -374,6 +418,6 @@ MAPA N.º 4
 
 Limites de idade para passagem à situação de adido ao quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf))](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/29100/20662072.pdf)
 
 Pelo Chefe do Estado-Maior da Armada, Armando Eugénio de Castro Rodrigues Filgueiras Soares, contra-almirante.

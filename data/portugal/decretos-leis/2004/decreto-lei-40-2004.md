@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2004/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2004-568316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dab89b6e4e51cb2621ef553f3cb3858c1b60d99da2c8893765be811d5294b8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32c644336c79d6be1bdf6e185645db06bc8d15d43f5370ea6ddc427f5e820946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Saúde Pública
 - Aditivo Alimentar
+- Aproximação das Legislações
+- Produto Alimentar
 - Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604193:por
+  label: "Alterados, a partir de 27 de Julho de 2005, os arts. 2º e 7º e os anexos do Dec Lei 121/98 de 08-Mai, com a redacção\
+    \ do presente diploma, pelo DEC LEI.33/2005.15.02.2005.MAPF, DR.IS-A [32] de 15.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2005-604193
+  date: '2005-02-15'
+- type: amended_by
+  target: pt:dre:247718:por
+  label: "Alterado o anexo IV do Dec Lei 121/98 de 08-Mai, na redacção do presente diploma, pelo DEC LEI.33/2008.25.02.2008.MADRP,\
+    \ DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2008-247718
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterado o anexo VI do Dec Lei 121/98, de 08-Mai, na redacção do presente diploma, pelo DEC LEI.64/2011.09.05.2011.MADRP,\
+    \ DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31995L0002
   label: null
@@ -99,13 +117,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:24Z'
   warnings: []
   errors: []
 ---
@@ -146,14 +164,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 12 de Fevereiro de 2004.**
+Promulgado em 12 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Fevereiro de 2004.**
+Referendado em 17 de Fevereiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/049a00/10371037.pdf)

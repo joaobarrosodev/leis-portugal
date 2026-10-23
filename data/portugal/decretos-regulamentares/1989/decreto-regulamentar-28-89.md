@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1989-548408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75521ed0feee7108de877013fa3f585d6c918c2635963907b074db55634d2841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 024765d1898775a56b2f154bfb795fc498383b5a2c3184fb92f7747ffc7a6f74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Nacional de Cartografia
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287606:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:05Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +109,9 @@ Assim:
 
 Ao abrigo do disposto no artigo 75.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º e 6.º do [Decreto Regulamentar n.º 10/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1988-287606), de 5 de Março, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º e 6.º do [Decreto Regulamentar n.º 10/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1988-287606), de 5 de Março, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Compete ao Conselho Nacional de Cartografia:
+Art. 2.º - 1 - Compete ao Conselho Nacional de Cartografia:
 
 a) Pronunciar-se obrigatoriamente e apresentar propostas sobre a definição e a execução da política nacional de cartografia, tendo em vista as necessidades de desenvolvimento social, económico, regional e de defesa do País, tendo em conta os pareceres de cada instituição nele representada;
 
@@ -129,7 +139,7 @@ m) Fomentar a preparação e aperfeiçoamento dos técnicos das várias especial
 
 2 - Consideram-se actividades cartográficas todas aquelas que tenham como resultado a elaboração de cartas, mapas ou planos.
 
-###### Art. 6.º - 1 - O apoio ao Conselho Nacional de Cartografia é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
+Art. 6.º - 1 - O apoio ao Conselho Nacional de Cartografia é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
 
 2 - ...
 
@@ -137,12 +147,12 @@ Presidência do Conselho de Ministros, 31 de Julho de 1989.
 
 Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Fernando Manuel Barbosa Faria de Oliveira - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Arlindo Marques Cunha - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 20 de Setembro de 1989.**
+Promulgado em 20 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Setembro de 1989.**
+Referendado em 22 de Setembro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

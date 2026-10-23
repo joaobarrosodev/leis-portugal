@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15000/24092410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1983-453188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32648fe3c14319f3971763fd83862b9877b99375f2f282f3c2cf694b22fdb98e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbba7ca9db8612e54e230fd3be619937038462fb829ad5aa44653b24d8246c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bélgica
+- Centro de Turismo de Portugal no Estrangeiro
+- Luxemburgo
+- Países Baixos
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:344886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344886:por
+  label: Extinto o Centro de Turismo de Portugal no BENELUX pelo(a) Portaria n.º 1078/91 - Diário da República n.º 245/1991,
+    Série I-B de 1991-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-1991-344886
+  date: '1991-10-24'
+- type: cites
+  target: pt:dre:472152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650291:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:04Z'
   warnings: []
   errors: []
 ---
@@ -101,28 +120,28 @@ Ao abrigo do disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 545/74](http
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o Centro de Turismo de Portugal no Benelux, cuja acção abrangerá a Bélgica, os Países Baixos e o Grão-Ducado do Luxemburgo.
+Artigo 1.º - 1 - É criado o Centro de Turismo de Portugal no Benelux, cuja acção abrangerá a Bélgica, os Países Baixos e o Grão-Ducado do Luxemburgo.
 
 2 - O Centro tem a sua sede na Bélgica, na cidade de Bruxelas, e uma subdelegação nos Países Baixos, em local a designar por despacho do membro do Governo responsável pelo sector do turismo.
 
-###### Art. 2.º São transferidos para o Centro de Turismo de Portugal no Benelux os saldos das dotações orçamentais atribuídas aos Centros de Turismo de Portugal na Bélgica e nos Países Baixos e, bem assim, todos os demais direitos e responsabilidades pertencentes aos mesmos Centros.
+Art. 2.º São transferidos para o Centro de Turismo de Portugal no Benelux os saldos das dotações orçamentais atribuídas aos Centros de Turismo de Portugal na Bélgica e nos Países Baixos e, bem assim, todos os demais direitos e responsabilidades pertencentes aos mesmos Centros.
 
-###### Art. 3.º - 1 - Aplica-se ao Centro o regime legal em vigor para os serviços no estrangeiro da Direcção-Geral do Turismo.
+Art. 3.º - 1 - Aplica-se ao Centro o regime legal em vigor para os serviços no estrangeiro da Direcção-Geral do Turismo.
 
 2 - Sem prejuízo do disposto no número anterior, as dotações do Orçamento do Estado atribuídas ao Centro de Turismo de Portugal no Benelux serão transferidos para o respectivo destino, na parte correspondente à subdelegação nos Países Baixos, já convertidas na moeda deste país.
 
-###### Art. 4.º São extintos os Centros de Turismo de Portugal na Bélgica e nos Países Baixos.
+Art. 4.º São extintos os Centros de Turismo de Portugal na Bélgica e nos Países Baixos.
 
-###### Art. 5.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do membro do Governo responsável pelo sector do turismo ou do Ministro de Estado, das Finanças e do Plano, conforme estiverem em causa matérias das respectivas competências.
+Art. 5.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do membro do Governo responsável pelo sector do turismo ou do Ministro de Estado, das Finanças e do Plano, conforme estiverem em causa matérias das respectivas competências.
 
 Francisco José Pereira Pinto Balsemão - Luís Fernando Cardoso Nandim de Carvalho - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Junho de 1983.**
+Referendado em 23 de Junho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

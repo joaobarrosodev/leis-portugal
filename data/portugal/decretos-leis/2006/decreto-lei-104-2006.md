@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/110a00/40374043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2006/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2006-345539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21ab91cd7275566706993abf52d3cb8aae9760bf2bf8ecb4ad498eca9633bfe5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657e9f8283bf10819f2b2b12ac55b206f57a8eabbee03a0cddc03122ad252f49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Pessoal Dirigente
+- Administração Local
+- Câmara Municipal
 - Definição de Competências
 - Delegação de Competências
 - Estatuto
-- Recrutamento de Pessoal
+- Formação Profissional
+- Pessoal Dirigente
 - Qualificação Profissional
-- Administração Local
-- Câmara Municipal
+- Recrutamento de Pessoal
 - Serviços Municipalizados
 - Substituição de Funções
 relationships:
@@ -115,16 +115,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643089:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174801:por
+  label: "Revogado o Dec Lei 93/2004, de 20-abr, na redação do presente diploma e do Dec Lei 305/2009, de 23-out , pela LEI.49/2012.29.08.2012.AR,\
+    \ DR.IS [167] de 29.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2012-174801
+  date: '2012-08-29'
 article_structure:
-  article_count: 33
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:51Z'
   warnings: []
   errors: []
 ---
@@ -169,13 +211,17 @@ Os artigos 7.º, 8.º, 9.º e 15.º do [Decreto-Lei n.º 93/2004](https://diario
 
 7 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O recrutamento para os cargos de direcção superior do 1.º grau é feito nos termos previstos no n.º 1 do artigo 18.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O recrutamento para os cargos de direcção intermédia dos 1.º e 2.º graus é feito nos termos previstos nos n.os 1 e 2 do artigo 20.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
 
@@ -191,7 +237,9 @@ Os artigos 7.º, 8.º, 9.º e 15.º do [Decreto-Lei n.º 93/2004](https://diario
 
 7 - Nos casos em que o procedimento concursal fique deserto ou em que nenhum dos candidatos reúna condições para ser nomeado, nos termos do n.º 6 do artigo 21.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, os titulares dos cargos de direcção intermédia podem igualmente ser recrutados, em subsequente procedimento concursal, de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no n.º 1, encontrando-se a sua abertura sujeita a aprovação prévia da câmara municipal, sob proposta do respectivo presidente.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Consideram-se reportadas ao presidente da câmara municipal ou ao conselho de administração dos serviços municipalizados as referências feitas aos membros do Governo e aos dirigentes máximos nos artigos 3.º, 16.º, 19.º-A, 21.º, 22.º, 23.º e 30.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.»
 
@@ -215,7 +263,9 @@ Provimento nos cargos de direcção superior
 
 6 - Exceptuam-se do disposto no número anterior as nomeações em regime de substituição, nos termos do artigo 27.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
 
-###### Artigo 9.º-A — Composição do júri de recrutamento
+Artigo 9.º-A
+
+Composição do júri de recrutamento
 
 1 - O júri de recrutamento é composto por:
 
@@ -235,19 +285,25 @@ c) Por pessoa de reconhecida competência na área funcional respectiva, designa
 
 4 - A pedido da câmara municipal ou do serviço municipalizado interessado, o procedimento concursal é assegurado por entidade pública competente, não integrada nos serviços do município, com dispensa de constituição de júri, mas com intervenção da pessoa prevista na alínea c) do n.º 1, sendo, nesse caso, aplicável, com as devidas adaptações, o disposto nos n.os 1, 2, 5 e 6 do artigo 21.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
 
-###### Artigo 9.º-B — Decisão da renovação da comissão de serviço
+Artigo 9.º-B
+
+Decisão da renovação da comissão de serviço
 
 1 - A decisão sobre a renovação da comissão de serviço a que se referem os artigos 22.º e 23.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, é feita nos termos do seu artigo 24.º
 
 2 - A renovação da comissão de serviço dos titulares dos cargos de direcção superior que cesse automaticamente, na sequência de eleições gerais ou intercalares para o órgão executivo das autarquias locais, tem lugar, por confirmação, no prazo máximo de 45 dias após a instalação do referido órgão e faz-se pelo período de tempo que faltar para o cumprimento do triénio que se encontre a decorrer.
 
-###### Artigo 9.º-C — Cessação da comissão de serviço
+Artigo 9.º-C
+
+Cessação da comissão de serviço
 
 1 - A comissão de serviço dos titulares dos cargos dirigentes das câmaras municipais e dos serviços municipalizados cessa nos termos do disposto no artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, com excepção do disposto na subalínea ii) da alínea e) do seu n.º 1.
 
 2 - A referência à mudança de governo feita na alínea h) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, considera-se reportada à instalação do órgão executivo, na sequência de eleições gerais ou intercalares para o órgão executivo das autarquias locais.
 
-###### Artigo 15.º-A — Despesas de representação
+Artigo 15.º-A
+
+Despesas de representação
 
 1 - Ao pessoal dirigente da administração local são abonadas despesas de representação no montante fixado para o pessoal dirigente da administração central, através do despacho conjunto a que se refere o n.º 2 do artigo 31.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
 
@@ -263,15 +319,15 @@ São revogados o artigo 6.º, os n.os 6 e 7 do artigo 7.º, o n.º 3 do artigo 9
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos.
 
-**Promulgado em 22 de Maio de 2006.**
+Promulgado em 22 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Maio de 2006.**
+Referendado em 24 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 93/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426), de 20 de Abril
 

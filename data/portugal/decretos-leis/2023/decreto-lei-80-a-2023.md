@@ -20,15 +20,13 @@ publication:
   reference: Diário da República n.º 173/2023, 1º Suplemento, Série I de 2023-09-06
   number: '173'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 25-(2) a 25-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/17301/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,26 +47,41 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80-a/2023/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2023-221331371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddb56096f3ae6f12ae61c4e8b932d5ab6b62ad53b545beaa4b4545c5ab41882f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e81e903b2adfd312fbccb11272d44336efd89892986516407a2c6b2023aab33f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação de Docentes
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Habilitações Literárias
+- Pessoal Docente
+- Qualificação Profissional
+- Recrutamento de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1166155908:por
+  label: Alterado, a partir de 1 de setembro de 2026, o artigo 2.º pelo(a) Decreto-Lei n.º 175/2026 - Diário da República
+    n.º 171/2026, Série I de 2026-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2026-1166155908
+  date: '2026-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
   label: null
@@ -97,16 +110,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200860982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:54Z'
   warnings: []
   errors: []
 ---
@@ -161,21 +206,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - João Nuno Marques de Carvalho Mendes - João Miguel Marques da Costa.
 
-**Promulgado em 5 de setembro de 2023.**
+Promulgado em 5 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de setembro de 2023.**
+Referendado em 6 de setembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
 ## ANEXO — [a que se referem as alíneas a) e b) do n.º 1 do artigo 2.º]
 
-|  |  |
-| --- | --- |
 | Grupo de recrutamento | Requisitos de formação |
+| --- | --- |
+|  |  |
 | 120 - Inglês... | 80 créditos em Inglês. |
 | 200 - Português e Estudos Sociais/História... | Licenciatura em Educação Básica ou 80 créditos em Português ou 80 créditos em História. |
 | 210 - Português e Francês ... | 120 créditos (60 créditos em Português e 60 créditos em Francês). |
@@ -204,3 +249,5 @@ Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidê
 | 560 - Ciências Agropecuárias... | 90 créditos em Ciências Agropecuárias. |
 | 600 - Artes Visuais... | 90 créditos em Artes Visuais. |
 | 620 - Educação Física... | 120 créditos em Educação Física e Desporto. |
+
+116832419

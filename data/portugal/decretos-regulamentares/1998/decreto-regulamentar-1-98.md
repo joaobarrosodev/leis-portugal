@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/1998/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1998-239457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b6d2473d6a3e7c7d8d26c026e39f0d3e0a46e66f75bd438ab52465d33972236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3415a8334a1812755551a4c69f397dd24c6594f5ff0e21949393cd961a02018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/17/1992/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/17/1992/07/22/p/dre
+- type: cites
+  target: pt:dre:240017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523408:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:04Z'
   warnings: []
   errors: []
 ---
@@ -141,11 +153,15 @@ l) Direcção de Serviços de Auditoria;
 
 m) ...
 
-###### Artigo 9.º — Direcção de Serviços Financeiros e Contabilidade
+Artigo 9.º
+
+Direcção de Serviços Financeiros e Contabilidade
 
 A Direcção de Serviços Financeiros e Contabilidade compreende a Divisão de Gestão e Controlo Orçamental, a Divisão de Contabilidade e os Serviços de Tesouraria.
 
-###### Artigo 10.º — Divisão de Gestão e Controlo Orçamental
+Artigo 10.º
+
+Divisão de Gestão e Controlo Orçamental
 
 Compete à Divisão de Gestão e Controlo Orçamental:
 
@@ -165,7 +181,9 @@ g) Assegurar as ligações com as instituições bancárias;
 
 h) Elaborar e analisar indicadores financeiros.
 
-###### Artigo 11.º — Divisão de Contabilidade
+Artigo 11.º
+
+Divisão de Contabilidade
 
 Compete à Divisão de Contabilidade:
 
@@ -189,7 +207,9 @@ i) Promover e controlar a recuperação de débitos, em colaboração com os dem
 
 j) Emitir certidões de dívida para efeitos judiciais.
 
-###### Artigo 12.º — Serviços de Tesouraria
+Artigo 12.º
+
+Serviços de Tesouraria
 
 Compete aos Serviços de Tesouraria:
 
@@ -205,11 +225,15 @@ e) Controlar o movimento de valores;
 
 f) Elaborar a folha de caixa.
 
-###### Artigo 17.º — Direcção de Serviços de Informática
+Artigo 17.º
+
+Direcção de Serviços de Informática
 
 A Direcção de Serviços de Informática compreende a Divisão de Análise de Sistemas de Informação, a Divisão de Análise e Desenvolvimento de Aplicações, a Divisão de Apoio e Exploração e a Secção de Apoio Documental.
 
-###### Artigo 19.º — Divisão de Apoio e Exploração
+Artigo 19.º
+
+Divisão de Apoio e Exploração
 
 Compete à Divisão de Apoio e Exploração:
 
@@ -227,11 +251,15 @@ f) ...
 
 g) Colaborar na gestão da rede informática da segurança social e assegurar a gestão da rede interna do CNP.
 
-###### Artigo 21.º — Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações
+Artigo 21.º
+
+Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações
 
 A Direcção de Serviços Jurídicos, Contencioso e de Contra-Ordenações compreende a Divisão de Assuntos Jurídicos e Contencioso e o Serviço de Contra-Ordenações.
 
-###### Artigo 22.º — Divisão de Assuntos Jurídicos e Contencioso
+Artigo 22.º
+
+Divisão de Assuntos Jurídicos e Contencioso
 
 Compete à Divisão de Assuntos Jurídicos e Contencioso:
 
@@ -253,7 +281,7 @@ f) ...»
 
 «Artigo 17.º-A
 
-##### Divisão de Análise de Sistemas de Informação
+Divisão de Análise de Sistemas de Informação
 
 Compete à Divisão de Análise de Sistemas de Informação:
 
@@ -277,12 +305,12 @@ Presidência do Conselho de Ministros, 27 de Novembro de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Dezembro de 1997.**
+Promulgado em 22 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1997.**
+Referendado em 30 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

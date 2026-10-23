@@ -46,40 +46,174 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1980-463975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f6e5362f6a77db0645b18479eec5ba1d65c039a8f9896c849909b70e329d227
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b44310c60f49c0369cde4a04ac29c06dccdd89295fd63ee048ad613a39c43d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Património do Estado
+- Gestão de Recursos Humanos
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462254:por
+  label: "Extinto o Gabinete de Gestão dos Veículos do Estado, criado pelo Dec Lei 49/78 de 23-Mar, e determinada a transferência\
+    \ das suas atribuições e competências para a Direcção-Geral do Património do Estado, cuja orgânica e atribuições constam\
+    \ do presente diploma, pelo DR.59/80.10.10.1980.MFP, DR.IS [235] de 10.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-1980-462254
+  date: '1980-10-10'
+- type: amended_by
+  target: pt:dre:457470:por
+  label: "Alterado o nº 3 do art. 34º pelo DR.69/80.1980.11.05.MFP.DR.IS [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/69-1980-457470
+  date: '1980-11-05'
+- type: amended_by
+  target: pt:dre:390211:por
+  label: "Alargada a área de recrutamento para os lugares de director de serviços e de chefe de divisão da Direcção-Geral\
+    \ do Património do Estado pela PORT.79/81.19.01.1981.PCM, DR.IS [15] de 19.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/79-1981-390211
+  date: '1981-01-19'
+- type: amended_by
+  target: pt:dre:450847:por
+  label: "Alterado os arts. 2º e 3º e o quadro de pessoal anexo, aditados os nºs 9, 10, 11 ao art. 5º, e o art. 10º-A, e revogado\
+    \ o nº 3 do art. 14º pelo DR.40/83.1983.05.10.MFP, DR.IS [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/40-1983-450847
+  date: '1983-05-10'
+- type: amended_by
+  target: pt:dre:401280:por
+  label: "Alargado o quadro de pessoal da Direcção-Geral do Património do Estado, aprovado pelo presente diploma, com a redacção\
+    \ constante do DR 40/83 de 10-Mai, pelo PORT.869/84.23.11.1984.PCM, DR.IS [272] de 23.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/869-1984-401280
+  date: '1984-11-23'
+- type: amended_by
+  target: pt:dre:327784:por
+  label: "Alterado o quadro de pessoal, com a redacção constante do DR 40/83 de 10-Mai e da Port 869/84 de 23-Nov, pela PORT.101/85.15.02.1985.PCM,\
+    \ DR.IS [39] de 15.02.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-1985-327784
+  date: '1985-02-15'
+- type: amended_by
+  target: pt:dre:327133:por
+  label: "Alterado, no referente ao pessoal de informática, o quadro de pessoal da Direcção-Geral do Património do Estado,\
+    \ aprovado pelo presente diploma, com a redacção constante do DR 40/83 de 10-Mai e das Port 869/84 de 23-Nov e 101/85\
+    \ de 15-Fev, pela PORT.116/85.22.02.1985.PCM, DR.IS [44] de 22.02.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-1985-327133
+  date: '1985-02-22'
+- type: amended_by
+  target: pt:dre:229077:por
+  label: "Alterado o quadro do pessoal da Direcção-Geral do Património do Estado, aprovado pelo presente diploma, com as alterações\
+    \ introduzidas pelo DR 40/83 de 10-Mai, e pelas Port 869/84 de 23-Nov, 101/85 de 15-Fev e 116/85 de 22-Fev, pela PORT.290/86.19.06.1986.MF,\
+    \ DR.IS [138] de 19.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1986-229077
+  date: '1986-06-19'
+- type: amended_by
+  target: pt:dre:663154:por
+  label: "Susbtituído o quadro de pessoal da Direcção-Geral do Património do Estado, aprovado neste diploma, com as alterações\
+    \ introduzidas pelo DR 40/83 de 10-Mai, e pelas Port 869/84 de 23-Nov, 101/85 de 15 de Fev, e 116/85 de 22-Fev, pela PORT.73/87.03.02.1987.MF,\
+    \ DR.IS [28] de 03.02.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/73-1987-663154
+  date: '1987-02-03'
+- type: amended_by
+  target: pt:dre:619564:por
+  label: "Alargada a área de recrutamento de pessoal para o cargo de chefe da Divisão de Gestão Técnica e Formação pela PORT.531/89.1989.07.12.MF\
+    \ DR.IS [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/531-1989-619564
+  date: '1989-07-12'
+- type: cites
+  target: pt:dre:144595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520429:por
+  label: "Revogado, a partir de 01.04.007 e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, com excepção\
+    \ do disposto no artigo 11.º, no n.º 3 do artigo 12.º e artigos 15.º a 17.º, pelo DR.21/2007.29.03.2007.MFAP, DR.IS [63]\
+    \ de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-2007-520429
+  date: '2007-03-29'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 11.º, n.º 3 do artigo 12.º e artigos 15.º a 17.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 39
-  section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 43
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:30Z'
   warnings: []
   errors: []
 ---
@@ -138,21 +272,21 @@ a) Direcção de Serviços de Cadastro e Inventário:
 
 ##### Divisão de Móveis;
 
-##### Divisão de Imóveis.
+Divisão de Imóveis.
 
 b) Direcção de Serviços de Gestão Patrimonial:
 
-##### Divisão de Aquisições e de Arrendamentos para o Estado;
+Divisão de Aquisições e de Arrendamentos para o Estado;
 
-##### Divisão de Administração Patrimonial;
+Divisão de Administração Patrimonial;
 
-##### Divisão de Alienação de Bens.
+Divisão de Alienação de Bens.
 
 c) Direcção de Serviços Especiais e de Inspecção Patrimonial:
 
-##### Divisão de Serviços Especiais;
+Divisão de Serviços Especiais;
 
-##### Divisão de Inspecção Patrimonial.
+Divisão de Inspecção Patrimonial.
 
 d) Direcção de Serviços de Gestão de Veículos do Estado.
 
@@ -230,9 +364,11 @@ b) Assegurar o processamento dos actos relacionados com um aproveitamento racion
 
 #### SECÇÃO II — Serviços de apoio técnico
 
-##### SUBSECÇÃO I — Artigo 6.º
+##### SUBSECÇÃO I
 
-##### Divisão de Estudos Patrimoniais
+###### Artigo 6.º
+
+Divisão de Estudos Patrimoniais
 
 A Divisão de Estudos Patrimoniais é um serviço de apoio técnico cuja acção se enquadra no âmbito da investigação e do estudo relacionados com a gestão patrimonial, ao qual incumbe:
 
@@ -248,7 +384,9 @@ e) Colaborar nos estudos e providências necessários à implementação de um p
 
 f) Manter actualizado um ficheiro geral de legislação onde se reúnam de forma sistematizada e de fácil consulta todos os elementos que contenham doutrina ou contribuam para a interpretação e esclarecimento dos preceitos legais.
 
-###### Artigo 7.º — Divisão Técnica de Obras e Avaliação
+###### Artigo 7.º
+
+##### Divisão Técnica de Obras e Avaliação
 
 À Divisão Técnica de Obras e Avaliação incumbe:
 
@@ -558,7 +696,9 @@ A avaliação de mérito será feita nos termos que vierem a ser definidos pela 
 
 #### SECÇÃO VI — Das competências
 
-##### SUBSECÇÃO I — Artigo 30.º
+##### SUBSECÇÃO I
+
+###### Artigo 30.º
 
 Pessoal técnico superior
 
@@ -588,7 +728,9 @@ O conteúdo funcional das categorias afectas à área da informática é o const
 
 Aos funcionários sem funções específicas estabelecidas no presente decreto compete executar os serviços correspondentes aos seus cargos de que sejam encarregados pelos respectivos superiores hierárquicos.
 
-#### SECÇÃO VII — Artigo 33.º
+#### SECÇÃO VII
+
+###### Artigo 33.º
 
 Incompatibilidades
 
@@ -596,7 +738,9 @@ Incompatibilidades
 
 2 - Em casos especiais, devidamente justificados, poderá o Ministro das Finanças e do Plano autorizar o desempenho de actividades estranhas à DGPE.
 
-### CAPÍTULO III — Artigo 34.º
+### CAPÍTULO III
+
+###### Artigo 34.º
 
 Prémio de gestão patrimonial
 
@@ -680,24 +824,24 @@ O presente decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 5 de Agosto de 1980.**
+Promulgado em 5 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)
 
 MAPA II
 
 Tabela de correspondência para efeito de contagem do tempo das novas categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)
 
 MAPA III
 
 Cursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf))](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/20000/24642473.pdf)

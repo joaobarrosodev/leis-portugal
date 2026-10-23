@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 193/2015, 2º Suplemento, Série I de 2015-10-02
   number: '193'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8588-(8) a 8588-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19302/0000800009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214-f/2015/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-f-2015-70437577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa6e31329a6913bf854d03fcf2509eee5c8d005745e3e883113cca887d80137
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99d923076d845438cdf1b363359ad4e29aa7fb7ee4628ebc3f858037ac16b326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Estatuto
 - Estatuto dos Militares da Guarda Nacional Republicana
-- Caixa Geral de Aposentações
+- Forças Armadas
+- GNR
 - Idade de Reforma
 - Interpretação do Direito
-- GNR
-- Forças Armadas
+- Militar
 - Pensão de Reforma
 - Reforma
 - Reserva
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:106642828:por
@@ -112,16 +112,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105711788:por
+  label: Revogado, nos termos do n.º 2 do art. 8.º, pelo(a) Decreto-Lei n.º 3/2017 - Diário da República n.º 5/2017, Série
+    I de 2017-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2017-105711788
+  date: '2017-01-06'
+- type: repealed_by
+  target: pt:dre:106642828:por
+  label: Revogado, a partir de 01.05.2017, o Dec Lei 297/2009 de 14-out, na redação do presente diploma, tendo sido mantidos
+    transitoriamente em vigor os arts. 214.º, 216.º, 242.º, 243.º, 264.º, 265.º, 297.º e 298.º do Estatuto por aquele aprovado
+    (por a modalidade de promoção por escolha só ser aplicada aos processos promocionais a iniciar no ano seguinte à entrada
+    em vigor de portarias a publicar), as condições especiais de promoção, designadamente os tempos mínimos de antiguidade,
+    ou os tempos de desempenho de determinados cargos ou de exercício de determinadas funções, previstos no referido Estatuto,
+    nos postos em que estes tempos foram aumentados (até à primeira promoção do militar ocorrida na vigência do Dec Lei 30/2017),
+    e os limites de idade definidos pelos arts. 203.º, 233.º, 257.º e 286.º do referido Estatuto (até 31.12.2018), pelo(a)
+    Decreto-Lei n.º 30/2017 - Diário da República n.º 58/2017, Série I de 2017-03-22 nos termos dos seus arts. 248.º e 249.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2017-106642828
+  date: '2017-03-22'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:35Z'
   warnings: []
   errors: []
 ---
@@ -182,12 +232,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 1 de outubro de 2015.**
+Promulgado em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de outubro de 2015.**
+Referendado em 2 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

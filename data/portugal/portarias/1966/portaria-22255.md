@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22255-1966-478396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb1368e45160fc10668847bd21f3e95c40950aa4f8fcfc051cd9d2ecd1a587ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc3b820945f5ee17666ea4448feb48d77a970b0b877e3433ac46abb17ac53fe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Marinha
+- Militar
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:397102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397102:por
+  label: "Revogada pela PORT.219/72.1972.04.21.MMAR DG.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1972-397102
+  date: '1972-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:41Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +110,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 1.º Que ao artigo 10.º do referido estatuto seja dada a seguinte redacção:
 
-###### Art. 10.º Para o desempenho de determinadas funções os sargentos e praças da Armada podem, mediante a frequência de cursos de especialização, obter as especializações indicadas no quadro seguinte:
+Art. 10.º Para o desempenho de determinadas funções os sargentos e praças da Armada podem, mediante a frequência de cursos de especialização, obter as especializações indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/24200/17071708.pdf))](https://files.diariodarepublica.pt/1s/1966/10/24200/17071708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/24200/17071708.pdf)
 
 § 1.º As especializações de soldador, torneiro mecânico, serralheiro mecânico e serralheiro montador também podem ser adquiridas mediante a prestação de provas em que os sargentos e as praças demonstrem conhecimentos profissionais e técnicos adequados.
 

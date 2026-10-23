@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2010/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2010-613403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eda760a4166066c2e605d3cf039ea6eecf47af506d2b3de208362d56c0e3bb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae8ca106fddca985a8a42dfdd4e4d3977ba76cb7f9e6ba76ab9bf57beca5d72c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,9 @@ subjects:
 - Análise Laboratorial
 - Aproximação das Legislações
 - Direção Geral da Agricultura e Desenvolvimento Rural
+- Embalagem
 - Fiscalização
 - Interesse Público
-- Embalagem
 - Pessoa Coletiva
 - Proteção Fitossanitária
 - Vegetais
@@ -82,6 +82,30 @@ relationships:
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58801094:por
+  label: Alterados os arts. 4º e 9º bem como os anexos II, III e IV do Dec Lei 154/2005, de 06-set, na redação do presente
+    diploma pelo(a) Decreto-Lei n.º 170/2014 - Diário da República n.º 216/2014, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2014-58801094
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados os anexos II, III e IV do Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos ii, iii e iv ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -98,16 +122,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15, sem prejuízo
+    do disposto no art. 28.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
-  article_count: 4
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:50Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +194,9 @@ b) Não tenham, nem os seus membros, qualquer interesse pessoal nos resultados d
 
 6 - Exceptua-se da alínea a) do número anterior a realização de análises laboratoriais, que pode ser delegada em pessoas colectivas, públicas ou privadas, que as efectuem fora do âmbito dos fins de interesse público que prosseguem, bem como em pessoas colectivas, públicas ou privadas, que não prossigam fins de interesse público, desde que, neste caso, haja garantia de imparcialidade, de qualidade e protecção das informações confidenciais e de inexistência de qualquer conflito de interesses entre o exercício das tarefas que lhes são delegadas e as suas outras actividades.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -190,25 +222,27 @@ Os anexos ii, iii e iv do Decreto-Lei n.º 154/2005, de 6 de Setembro, alterado 
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Carlos Manuel Costa Pina - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 29 de Março de 2010.**
+Promulgado em 29 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Março de 2010.**
+Referendado em 30 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
-## ANEXO II — PARTE A
+## ANEXO II
+
+## PARTE A
 
 [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
 a) [...]
 
@@ -216,7 +250,7 @@ a) [...]
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf)
 
 c) [...]
 
@@ -226,22 +260,26 @@ d) [...]
 
 [...]
 
-## ANEXO III — PARTE A
+## ANEXO III
+
+## PARTE A
 
 [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf)
 
-## ANEXO IV — PARTE A
+## ANEXO IV
+
+## PARTE A
 
 [...]
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07100/0118701191.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1980, 3º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4244-(63) a 4244-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30103/00630064.pdf
 entry_into_force_dates: []
@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1107-1980-226674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc6c47b4a60b5420a613afc234e028cf57bfecf8831a705198b1498a9847bca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5738604b7c8cf34080b2efe71697845fbedc3df97fa6c06311264067720b2e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Passe Social
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:402570:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:26Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +106,19 @@ a) LA - V. M. Carnaxide - 585$00.
 
 Válido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.
 
-## Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, nos percursos do passe de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente corresponde o preço de 340$00.
+Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, nos percursos do passe de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente corresponde o preço de 340$00.
 
 b) LC - V. M. Carnaxide - 730$00.
 
 Válido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.
 
-## Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos dos passes de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente correspondem os preços de 500$00 e de 625$00.
+Título mensal para um número ilimitado de viagens, válido em todos os percursos referidos na alínea anterior e ainda nos percursos dos passes de linha da V. M. Carnaxide que afluem a Lisboa a que actualmente correspondem os preços de 500$00 e de 625$00.
 
 c) LD - V. M. Carnaxide - 850$00.
 
 Válido na Carris, Metropolitano de Lisboa e Viação Mecânica de Carnaxide.
 
-## Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, na rede geral da V. M. Carnaxide.
+Título mensal para um número ilimitado de viagens, válido dentro da cidade de Lisboa para autocarros, eléctricos, elevadores e Metropolitano e, fora dela, na rede geral da V. M. Carnaxide.
 
 2.º Esta portaria entra imediatamente em vigor.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/036a00/12821289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2006/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2006-676840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96f5349f4a6a20f97bc3793183eb77ef5fc88afefce8f7429f075bf196e6ba7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62880cf3820c2c443c5fec9ab55c8235f92cc16ceb7356ff32834c960d65292c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Acreditação
 - Associação de Agricultores
-- Financiamento
-- Formação Profissional
+- Autarquia Local
 - Definição de Competências
-- Proteção da Floresta
-- Recrutamento de Pessoal
 - Descrição de Funções
 - Exploração Florestal
+- Financiamento
+- Formação Profissional
 - Política Florestal
+- Proteção da Floresta
+- Recrutamento de Pessoal
+- Rede Natura 2000
 - Sapador Florestal
 - Subsídio não Reembolsável
-- Autarquia Local
-- Rede Natura 2000
 relationships:
 - type: amended_by
   target: pt:dre:608708:por
@@ -97,16 +97,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:223254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608708:por
+  label: "Revogado o Dec Lei 179/99, de 21-Mai, na redacção do presente diploma, sem prejuízo de, no ano de 2009, os procedimentos\
+    \ relativos à candidatura se regerem pelo diploma ora revogado, pelo DEC LEI.109/2009.15.05.2009.MADRP, DR.IS [94] de\
+    \ 15.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2009-608708
+  date: '2009-05-15'
 article_structure:
-  article_count: 41
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:39Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +178,9 @@ e) ...
 
 f) ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O sapador florestal é um trabalhador especializado, com perfil e formação específica adequados ao exercício das funções de prevenção dos incêndios florestais através de acções de silvicultura, de gestão de combustíveis, de realização de fogos controlados, de realização de queimadas, de manutenção e beneficiação da rede divisional, de linhas quebra-fogo e de outras infra-estruturas.
 
@@ -171,7 +192,9 @@ b) De vigilância e de primeira intervenção das áreas a que se encontra adstr
 
 c) De combate aos incêndios florestais e às subsequentes operações de rescaldo e vigilância pós-incêndio, desde que requisitados e enquadrados no teatro de operações e dispondo de formação e equipamento adequado.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +224,9 @@ g) Quaisquer entidades privadas não incluídas nas alíneas anteriores e detent
 
 7 - Com ressalva das situações constituídas ao abrigo dos números anteriores, podem ser constituídas equipas de sapadores florestais reconhecidas nos termos do presente decreto-lei, ainda que as mesmas não beneficiem de apoios ao funcionamento.
 
-###### Artigo 3.º-A — [...]
+Artigo 3.º-A
+
+[...]
 
 1 - Para efeitos de maior operacionalidade e eficácia das acções de prevenção, vigilância, primeira intervenção, apoio ao combate e rescaldo e vigilância pós-incêndio, podem ser constituídas brigadas de sapadores florestais integradas por um mínimo de três equipas com áreas de intervenção vizinhas afectas a uma ou mais entidades que decidam planear as suas intervenções de forma coordenada.
 
@@ -211,7 +236,9 @@ g) Quaisquer entidades privadas não incluídas nas alíneas anteriores e detent
 
 4 - A movimentação das equipas pode ser proposta à DGRF ou decorrer do planeamento anual de defesa da floresta contra incêndios, no âmbito do programa anual de sapadores.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Podem ser candidatos a sapadores florestais os indivíduos com provas de aptidão física e psicológica para o exercício das funções e que no momento da candidatura possuam idade compreendida entre os 18 e os 50 anos.
 
@@ -219,7 +246,9 @@ g) Quaisquer entidades privadas não incluídas nas alíneas anteriores e detent
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os critérios de selecção dos sapadores florestais e o programa dos cursos de formação são aprovados por despacho do director-geral dos Recursos Florestais, podendo, para o efeito, ser obtida a participação ou parecer de outras entidades com actividades na área da educação, da gestão dos espaços florestais ou com competência em matéria de prevenção, detecção e combate aos incêndios florestais.
 
@@ -227,7 +256,9 @@ g) Quaisquer entidades privadas não incluídas nas alíneas anteriores e detent
 
 3 - ...
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - ...
 
@@ -245,7 +276,9 @@ d) Certidão que comprove que a situação contributiva com a segurança social 
 
 4 - O processo de reconhecimento de equipas de sapadores florestais já constituídas é obrigatório, dependendo unicamente da verificação dos requisitos necessários das candidaturas para a constituição de novas equipas de sapadores florestais.
 
-###### Artigo 5.º-B — [...]
+Artigo 5.º-B
+
+[...]
 
 1 - A aprovação de candidaturas obedece, nomeadamente, aos seguintes critérios de prioridade:
 
@@ -265,13 +298,17 @@ g) Área de intervenção proposta na candidatura.
 
 2 - Constitui critério de prioridade na constituição de equipas de sapadores florestais por parte das entidades referidas nas alíneas d), e) e f) do n.º 2 do artigo 3.º a utilização de pessoal dos seus quadros próprios, desde que se enquadre no perfil definido no artigo 4.º
 
-###### Artigo 7.º — Programa de prevenção
+Artigo 7.º
+
+Programa de prevenção
 
 1 - As entidades candidatas à constituição de equipas de sapadores florestais que o sejam também aos apoios ao equipamento e ao funcionamento devem elaborar um programa plurianual de prevenção, a submeter à apreciação da respectiva comissão municipal de defesa da floresta contra incêndios.
 
 2 - Os programas de prevenção de cada entidade devem enquadrar-se no plano municipal de defesa da floresta contra incêndios.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -289,13 +326,17 @@ a) Os estatutos em conformidade com o Código do Trabalho, nomeadamente no que r
 
 b) Cópia de certidões comprovativas da sua situação legal relativamente à segurança social, às obrigações tributárias e aos seguros obrigatórios.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O equipamento das equipas e brigadas de sapadores florestais é definido por despacho do director-geral dos Recursos Florestais e cedido em regime de comodato às entidades a quem for concedido o correspondente apoio.
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os apoios ao funcionamento das equipas assumem a forma de subsídio a fundo perdido por períodos de cinco anos.
 
@@ -307,7 +348,9 @@ b) Cópia de certidões comprovativas da sua situação legal relativamente à s
 
 5 - Os montantes anuais dos apoios indicados nos n.os 2 e 4 são actualizados com periodicidade não inferior a cinco anos, através de portaria conjunta dos Ministros da Administração Interna, das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A aprovação das candidaturas é da competência do director de circunscrição florestal, após parecer emitido pelo núcleo florestal onde se integra a área de intervenção da equipa e ouvida a respectiva comissão municipal de defesa da floresta contra incêndios.
 
@@ -317,7 +360,9 @@ b) Cópia de certidões comprovativas da sua situação legal relativamente à s
 
 4 - Sempre que não se encontre o consenso aludido no número anterior, a decisão sobre a redefinição das áreas de intervenção cabe ao director da circunscrição.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sempre que as equipas de sapadores detectem ou sejam alertadas para a existência de um fogo nascente na sua área de intervenção, compete-lhes desencadear de imediato a primeira intervenção, dando conhecimento ao respectivo centro de operações.
 
@@ -327,7 +372,9 @@ b) Cópia de certidões comprovativas da sua situação legal relativamente à s
 
 4 - A primeira intervenção cessa com a chegada ao local da corporação de bombeiros.
 
-###### Artigo 13.º-A — Apoio ao combate e rescaldo
+Artigo 13.º-A
+
+Apoio ao combate e rescaldo
 
 1 - O apoio ao combate aos incêndios florestais por parte das equipas de sapadores florestais e o rescaldo são sempre efectuados sob ordens directas do comando operacional que for constituído.
 
@@ -335,7 +382,9 @@ b) Cópia de certidões comprovativas da sua situação legal relativamente à s
 
 3 - Na situação descrita no número anterior os técnicos coordenadores da actuação das equipas de sapadores florestais agem no terreno sob as orientações do comando operacional que estiver constituído.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -353,7 +402,9 @@ b) Cópia de certidões comprovativas da sua situação legal relativamente à s
 
 8 - Sempre que tal se justifique, podem ser solicitadas pela DGRF a entidades externas que sejam efectuadas auditorias ao funcionamento das equipas de sapadores.
 
-###### Artigo 14.º-A — [...]
+Artigo 14.º-A
+
+[...]
 
 1 - O não cumprimento do disposto nos n.os 1 e 4 do artigo anterior, assim como a não apresentação de documentos exigidos no âmbito dos protocolos previstos nos n.os 2 e 4 do artigo 8.º, suspendem o pagamento dos apoios ao funcionamento até à sua apresentação, a qual deve ocorrer no prazo de 60 dias, findo o qual as entidades apoiadas perdem o direito aos apoios.
 
@@ -363,7 +414,9 @@ b) Cópia de certidões comprovativas da sua situação legal relativamente à s
 
 4 - O não cumprimento das obrigações laborais pelas entidades empregadoras das equipas, designadamente em matéria de salários, implica a perda dos apoios.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -387,15 +440,15 @@ O [Decreto-Lei n.º 179/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 6 de Fevereiro de 2006.**
+Promulgado em 6 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2006.**
+Referendado em 7 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (republicação do [Decreto-Lei n.º 179/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1999-321574), de 21 de Maio)
 

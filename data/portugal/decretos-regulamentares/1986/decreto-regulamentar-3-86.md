@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1986-616412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5862cd688ffbeb8621bbb9d2f9fd0c86b56a0780b5ff18e35692c12812002f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4af9c9b5a953c02745f3c5c9340015f3c0a0cb4804f5780bbe5675bd6d00810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+- Vigilante da Natureza
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234353:por
+  label: Alterado o art 16.º pelo(a) Portaria n.º 17/89 - Diário da República n.º 9/1989, Série I de 1989-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-1989-234353
+  date: '1989-01-11'
+- type: amended_by
+  target: pt:dre:615241:por
+  label: "Determinada a transmissão para o Estado da propriedade de diversos prédios rústicos e urbanos sitos na zona de actuação\
+    \ directa do Gabinete da Área de Sines (GAS), reestruturado pelo Dec Lei 487/80 de 17-Out, e afectados em parte ao Serviço\
+    \ Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN), cuja orgânica e atribuições constam do presente diploma,\
+    \ pelo DEC LEI.116/89.14.04.1989.MPLAT, DR.IS [87] de 14.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1989-615241
+  date: '1989-04-14'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogados, a partir da mesma data, os artigos 18.º a 20.º, 22.º\
+    \ e 24.º e anexo ii, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661708:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:555425:por
+  label: "Revogado o n.º 2 do art. 21º e os n.os 1, 2, 3 e 4 do art. 23º pelo DEC LEI.321/90.15.10.1990.MOPTC, DR.IS [238]\
+    \ de 15.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1990-555425
+  date: '1990-10-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:00Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +165,9 @@ Ao abrigo do artigo 24.º do [Decreto-Lei n.º 49/83](https://diariodarepublica.
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Serviço Nacional de Parques, Reservas e Conservação da Natureza, abreviadamente designado por SNPRCN, é um serviço de carácter operativo, dotado de autonomia administrativa e financeira e personalidade jurídica, que tem como objectivos desenvolver os estudos e propor as medidas adequadas à protecção da natureza.
+Artigo 1.º O Serviço Nacional de Parques, Reservas e Conservação da Natureza, abreviadamente designado por SNPRCN, é um serviço de carácter operativo, dotado de autonomia administrativa e financeira e personalidade jurídica, que tem como objectivos desenvolver os estudos e propor as medidas adequadas à protecção da natureza.
 
-###### Art. 2.º São atribuições do SNPRCN:
+Art. 2.º São atribuições do SNPRCN:
 
 a) Promover, a nível nacional, o plano de conservação da natureza;
 
@@ -127,13 +189,13 @@ i) Apoiar entidades privadas legalmente constituídas e cujas finalidades se inc
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 3.º São órgãos do SNPRCN:
+Art. 3.º São órgãos do SNPRCN:
 
 a) O presidente;
 
 b) O conselho administrativo.
 
-###### Art. 4.º - 1 - Para a prossecução das atribuições que lhe são cometidas, o SNPRCN será dirigido, coordenado e representado pelo seu presidente.
+Art. 4.º - 1 - Para a prossecução das atribuições que lhe são cometidas, o SNPRCN será dirigido, coordenado e representado pelo seu presidente.
 
 2 - O presidente é coadjuvado por um vice-presidente, que exercerá as funções que por aquele lhe foram confiadas, bem como as que lhe forem expressamente delegadas ou subdelegadas.
 
@@ -141,7 +203,7 @@ b) O conselho administrativo.
 
 4 - O presidente e o vice-presidente são equiparados, para todos os efeitos legais, respectivamente, a director-geral e subdirector-geral.
 
-###### Art. 5.º - 1 - O conselho administrativo do SNPRCN é o órgão deliberativo em matéria de administração financeira.
+Art. 5.º - 1 - O conselho administrativo do SNPRCN é o órgão deliberativo em matéria de administração financeira.
 
 2 - O conselho administrativo é constituído pelo presidente, que detém voto de qualidade, pelo vice-presidente, pelo chefe da Divisão de Apoio Técnico, pelo chefe da Repartição Administrativa e por um representante da Direcção-Geral da Contabilidade Pública.
 
@@ -155,7 +217,7 @@ c) As reuniões serão secretariadas pelo chefe da Repartição Administrativa, 
 
 d) O chefe da Repartição Administrativa elaborará as actas de cada uma das reuniões, que serão submetidas aos membros do conselho na sessão seguinte para aprovação e assinatura.
 
-###### Art. 6.º Compete ao conselho administrativo do SNPRCN:
+Art. 6.º Compete ao conselho administrativo do SNPRCN:
 
 a) Dar parecer sobre o lançamento do SNPRCN, aprovar o orçamento de funcionamento e propor as alterações necessárias;
 
@@ -175,7 +237,7 @@ h) Promover a requisição de fundos à Direcção-Geral da Contabilidade Públi
 
 i) Pronunciar-se sobre quaisquer outros assuntos que lhe sejam submetidos pelo presidente do SNPRCN.
 
-###### Art. 7.º - 1 - São serviços do SNPRCN:
+Art. 7.º - 1 - São serviços do SNPRCN:
 
 a) A Direcção de Serviços de Conservação da Natureza, que integra a Divisão de Conservação e a Divisão de Investigação e Estudos Ecológicos;
 
@@ -189,7 +251,7 @@ e) A Repartição Administrativa, que integra as secções de contabilidade, tes
 
 2 - Constituem serviços locais do SNPRCN todas as áreas protegidas em cujo diploma legal de criação ou reclassificação esteja prevista a existência de órgãos e serviços locais.
 
-###### Art. 8.º - 1 - A Direcção de Serviços de Conservação da Natureza é a direcção de serviços operacional do SNPRCN que tem como finalidade a inventariação e estudo da flora e fauna selvagens, bem como dos biótopos e ecossistemas, e o estabelecimento dos princípios e normas ecológicas com vista à sua salvaguarda e gestão racional, no sentido de promover e colaborar na elaboração do Plano Nacional de Conservação.
+Art. 8.º - 1 - A Direcção de Serviços de Conservação da Natureza é a direcção de serviços operacional do SNPRCN que tem como finalidade a inventariação e estudo da flora e fauna selvagens, bem como dos biótopos e ecossistemas, e o estabelecimento dos princípios e normas ecológicas com vista à sua salvaguarda e gestão racional, no sentido de promover e colaborar na elaboração do Plano Nacional de Conservação.
 
 2 - Na prossecução desta finalidade, a Direcção de Serviços de Conservação da Natureza (DSCN) tem por objectivos:
 
@@ -207,7 +269,7 @@ e) Assegurar os meios indispensáveis à aplicação em Portugal de todas as med
 
 4 - Considera-se desde já integrado nesta Direcção de Serviços o Centro de Estudos de Migração e Protecção das Aves (CEMPA).
 
-###### Art. 9.º - 1 - Compete à DSCN, através da Divisão de Investigação e Estudos Ecológicos:
+Art. 9.º - 1 - Compete à DSCN, através da Divisão de Investigação e Estudos Ecológicos:
 
 a) Proceder à recolha de informação de base referente às espécies da flora e vegetação para a identificação das espécies endémicas raras e ameaçadas de extinção, a fim de assegurar a salvaguarda do património genético, e propor medidas para a conservação;
 
@@ -243,7 +305,7 @@ g) Executar tarefas, pronunciar-se e emitir pareceres sobre assuntos que lhe sej
 
 h) Assegurar os meios necessários ao funcionamento dos órgãos de apoio científico da CITES.
 
-###### Art. 10.º - 1 - A Direcção de Serviços de Áreas Protegidas (DSAP) é a direcção de serviços operacional do SNPRCN que tem como finalidade a planificação, criação, ordenamento, implementação e gestão de áreas protegidas.
+Art. 10.º - 1 - A Direcção de Serviços de Áreas Protegidas (DSAP) é a direcção de serviços operacional do SNPRCN que tem como finalidade a planificação, criação, ordenamento, implementação e gestão de áreas protegidas.
 
 2 - Na prossecução dessa finalidade, a Direcção de Serviços de Áreas Protegidas tem por objectivos:
 
@@ -257,7 +319,7 @@ d) Assegurar a colaboração e representação em organismos nacionais e interna
 
 3 - Para o cumprimento dos objectivos atrás enunciados a DSAP compreenderá a Divisão de Ordenamento e Projectos e a Divisão de Gestão de Áreas Protegidas, podendo estas constituir centros especializados por áreas de competências.
 
-###### Art. 11.º - 1 - Compete à DSAP, através da Divisão de Ordenamento e Projectos:
+Art. 11.º - 1 - Compete à DSAP, através da Divisão de Ordenamento e Projectos:
 
 a) Elaborar e promover a elaboração de um sistema de classificação de regiões naturais e ecossistemas;
 
@@ -301,7 +363,7 @@ i) Pronunciar-se e ou assegurar o apoio a conceder a órgãos regionais, autarqu
 
 j) Executar as tarefas, emitir pareceres e pronunciar-se sobre os assuntos que lhe sejam submetidos superiormente.
 
-###### Art. 12.º - 1 - A Direcção de Serviços de Interpretação, Informação e Educação Ambientais (DSIIEA) é a direcção de serviços operacional do SNPRCN que tem como finalidade criar as formas de informação, divulgação e educação adequadas à realização dos objectivos de formação e consciencialização da população quanto à problemática da conservação da natureza e do ambiente.
+Art. 12.º - 1 - A Direcção de Serviços de Interpretação, Informação e Educação Ambientais (DSIIEA) é a direcção de serviços operacional do SNPRCN que tem como finalidade criar as formas de informação, divulgação e educação adequadas à realização dos objectivos de formação e consciencialização da população quanto à problemática da conservação da natureza e do ambiente.
 
 2 - Na prossecução desta finalidade, a DSIIEA tem por objectivos:
 
@@ -329,7 +391,7 @@ l) Assegurar a colaboração e representação em organismos nacionais e interna
 
 m) Executar tarefas, pronunciar-se e emitir pareceres sobre assuntos que lhe sejam submetidos no domínio das suas competências.
 
-###### Art. 13.º - 1 - A Divisão de Apoio Técnico (DAT) é o órgão do SNPRCN que assegura o apoio à presidência e a outros órgãos operativos do Serviço nos domínios da documentação, planeamento, controle e tratamento automático da informação.
+Art. 13.º - 1 - A Divisão de Apoio Técnico (DAT) é o órgão do SNPRCN que assegura o apoio à presidência e a outros órgãos operativos do Serviço nos domínios da documentação, planeamento, controle e tratamento automático da informação.
 
 2 - Compete à DAT, no domínio da documentação:
 
@@ -373,7 +435,7 @@ j) Elaborar o relatório anual do SNPRCN;
 
 l) Pronunciar-se, prestar apoio e emitir pareceres que lhe sejam superiormente solicitados.
 
-###### Art. 14.º - 1 - A Repartição Administrativa é o órgão de apoio ao SNPRCN que assegura a gestão administrativa financeira dos serviços centrais e locais e compreende as secções de contabilidade, tesouraria e economato e de expediente e pessoal.
+Art. 14.º - 1 - A Repartição Administrativa é o órgão de apoio ao SNPRCN que assegura a gestão administrativa financeira dos serviços centrais e locais e compreende as secções de contabilidade, tesouraria e economato e de expediente e pessoal.
 
 2 - À secção de contabilidade, tesouraria e economato compete:
 
@@ -425,11 +487,11 @@ m) Executar qualquer outra tarefa que lhe venha a ser solicitada superiormente.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 15.º - 1 - O SNPRCN tem o pessoal constante dos quadros anexos ao presente diploma.
+Art. 15.º - 1 - O SNPRCN tem o pessoal constante dos quadros anexos ao presente diploma.
 
 2 - O regime jurídico do pessoal em serviço no SNPRCN é o constante da lei geral e do disposto no presente diploma.
 
-###### Art. 16.º Para possibilitar uma maior eficácia na administração dos serviços locais referidos no artigo 7.º são aprovados os quadros de pessoal constantes do anexo III ao presente diploma e referentes às seguintes áreas classificadas, que, unicamente para este efeito, são agrupadas como se segue:
+Art. 16.º Para possibilitar uma maior eficácia na administração dos serviços locais referidos no artigo 7.º são aprovados os quadros de pessoal constantes do anexo III ao presente diploma e referentes às seguintes áreas classificadas, que, unicamente para este efeito, são agrupadas como se segue:
 
 Parque Nacional da Peneda-Gerês;
 
@@ -451,7 +513,7 @@ Parque Natural da Arrábida e Reserva Natural do Estuário do Sado;
 
 Parque Natural da Ria Formosa e Sapal de Castro Marim e Vila Real de Santo António.
 
-###### Art. 17.º - 1 - Aos lugares de presidente, vice-presidente, director de serviços e chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 17.º - 1 - Aos lugares de presidente, vice-presidente, director de serviços e chefe de divisão é aplicável o regime estabelecido no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - O lugar de chefe de repartição será provido de entre:
 
@@ -461,25 +523,25 @@ b) Indivíduos possuidores de curso superior e experiência adequada.
 
 3 - Os lugares de chefe de secção serão providos nos termos da lei geral.
 
-###### Art. 18.º - 1 - A carreira de técnico de ambiente integra-se no grupo de pessoal técnico-profissional, nível 4, e rege-se pela lei geral, sem prejuízo do disposto no número seguinte.
+Art. 18.º - 1 - A carreira de técnico de ambiente integra-se no grupo de pessoal técnico-profissional, nível 4, e rege-se pela lei geral, sem prejuízo do disposto no número seguinte.
 
 2 - Os lugares de técnico de ambiente de 2.ª classe serão providos de entre indivíduos habilitados com curso de formação técnico-profissional complementar adequado, sendo dada preferência aos habilitados com o curso de técnico do ambiente do 12.º ano, via profissionalizante.
 
 3 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 19.º O recrutamento para os lugares de ingresso da carreira de técnico auxiliar é feito nos termos da lei geral.
+Art. 19.º O recrutamento para os lugares de ingresso da carreira de técnico auxiliar é feito nos termos da lei geral.
 
-###### Art. 20.º - 1 - A carreira de operador de reprografia é considerada carreira horizontal e o seu desenvolvimento rege-se pelo disposto na lei geral.
+Art. 20.º - 1 - A carreira de operador de reprografia é considerada carreira horizontal e o seu desenvolvimento rege-se pelo disposto na lei geral.
 
 2 - Os lugares de ingresso na carreira de operador de reprografia são providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Art. 21.º - 1 - A carreira de vigilante da natureza integra-se no grupo de pessoal técnico-profissional, nível 3, e rege-se pela lei geral, sem prejuízo do disposto no número seguinte.
+Art. 21.º - 1 - A carreira de vigilante da natureza integra-se no grupo de pessoal técnico-profissional, nível 3, e rege-se pela lei geral, sem prejuízo do disposto no número seguinte.
 
 2 - Os lugares de vigilante da natureza de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral dos liceus ou habilitação equiparada e aproveitamento em curso de formação profissional adequado.
 
 3 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 22.º - 1 - A carreira de marinheiro desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L, N e P.
+Art. 22.º - 1 - A carreira de marinheiro desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L, N e P.
 
 2 - A mudança de categoria verificar-se-á após a permanência de 5 anos na categoria anterior com a classificação não inferior a Bom.
 
@@ -487,7 +549,7 @@ b) Indivíduos possuidores de curso superior e experiência adequada.
 
 4 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 23.º - 1 - A carreira de guarda da natureza desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.
+Art. 23.º - 1 - A carreira de guarda da natureza desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.
 
 2 - A mudança de categoria verificar-se-á após a permanência de 5 anos na categoria anterior com a classificação de serviço não inferior a Bom.
 
@@ -495,7 +557,7 @@ b) Indivíduos possuidores de curso superior e experiência adequada.
 
 4 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 24.º - 1 - A carreira de colector de amostras desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe, a que correspondem, respectivamente, as letras L, N, P e Q.
+Art. 24.º - 1 - A carreira de colector de amostras desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe, a que correspondem, respectivamente, as letras L, N, P e Q.
 
 2 - Os lugares de colector de amostras principal, de 1.ª classe e de 2.ª classe serão providos de entre, respectivamente, colector de amostras de 1.ª classe, de 2.ª classe e de 3.ª classe com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
@@ -503,7 +565,7 @@ b) Indivíduos possuidores de curso superior e experiência adequada.
 
 4 - O conteúdo funcional da carreira referida consta do anexo II ao presente diploma.
 
-###### Art. 25.º - 1 - Os funcionários dos quadros dos serviços integrados no ex-Ministério da Qualidade de Vida, o pessoal requisitado e destacado, bem como o restante pessoal não funcionário nas condições indicadas no número seguinte, que prestem serviço no SNPRCN à data da publicação do presente diploma serão providos nos lugares do quadro a que se refere o artigo 15.º, de acordo com as regras constantes das alíneas seguintes:
+Art. 25.º - 1 - Os funcionários dos quadros dos serviços integrados no ex-Ministério da Qualidade de Vida, o pessoal requisitado e destacado, bem como o restante pessoal não funcionário nas condições indicadas no número seguinte, que prestem serviço no SNPRCN à data da publicação do presente diploma serão providos nos lugares do quadro a que se refere o artigo 15.º, de acordo com as regras constantes das alíneas seguintes:
 
 a) Para categoria idêntica à que já possuem;
 
@@ -513,19 +575,19 @@ b) Para categoria correspondente às funções que actualmente desempenham, remu
 
 3 - Ao pessoal provido nos termos do presente artigo é contado, para todos os efeitos, o tempo de serviço prestado no exercício das funções com base nas quais se determinou a nova categoria.
 
-###### Art. 26.º - 1 - Em primeira nomeação subsequente à entrada em vigor do presente diploma, os cargos de director de serviços e chefe de divisão do SNPRCN poderão ser providos de entre os funcionários que vêm desempenhando informalmente essas funções.
+Art. 26.º - 1 - Em primeira nomeação subsequente à entrada em vigor do presente diploma, os cargos de director de serviços e chefe de divisão do SNPRCN poderão ser providos de entre os funcionários que vêm desempenhando informalmente essas funções.
 
 2 - As nomeações que se efectuarem ao abrigo do disposto no número anterior deverão ser acompanhadas, para publicação, do currículo do nomeado.
 
-###### Art. 27.º O provimento a que se refere o artigo 28.º far-se-á a título definitivo, independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e da publicação no Diário da República.
+Art. 27.º O provimento a que se refere o artigo 28.º far-se-á a título definitivo, independentemente de quaisquer formalidades legais, à excepção do visto do Tribunal de Contas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, e da publicação no Diário da República.
 
 ### CAPÍTULO IV — Administração financeira e patrimonial
 
-###### Art. 28.º - 1 - A administração financeira do SNPRCN será feita de acordo com o plano anual de actividades e o Orçamento do Estado.
+Art. 28.º - 1 - A administração financeira do SNPRCN será feita de acordo com o plano anual de actividades e o Orçamento do Estado.
 
 2 - Sempre que se mostre necessário poderão ser elaborados planos plurianuais de actividades e financeiros.
 
-###### Art. 29.º De acordo com o determinado no [Decreto-Lei n.º 107/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1984-661708), de 2 de Abril, constituem receitas do SNPRCN:
+Art. 29.º De acordo com o determinado no [Decreto-Lei n.º 107/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1984-661708), de 2 de Abril, constituem receitas do SNPRCN:
 
 a) As dotações que lhe sejam atribuídas no Orçamento do Estado;
 
@@ -553,31 +615,31 @@ m) Quaisquer outras receitas que lhe sejam atribuídas por lei ou por contrato o
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 30.º - 1 - O regime, a estrutura e o funcionamento dos órgãos e serviços de gestão próprios das áreas protegidas serão objecto de regulamentação, mediante diploma adequado.
+Art. 30.º - 1 - O regime, a estrutura e o funcionamento dos órgãos e serviços de gestão próprios das áreas protegidas serão objecto de regulamentação, mediante diploma adequado.
 
 2 - São transferidas para a dependência do SNPRCN, mantendo os estatutos legais vigentes, as áreas protegidas e o respectivo património anteriormente na dependência do extinto Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 31.º Para a prossecução dos seus objectivos, o SNPRCN estabelecerá com outras entidades públicas ou privadas, nacionais ou estrangeiras, as formas de colaboração que forem julgadas apropriadas, mantendo contacto com o GEP no que se refere a entidades estrangeiras.
+Art. 31.º Para a prossecução dos seus objectivos, o SNPRCN estabelecerá com outras entidades públicas ou privadas, nacionais ou estrangeiras, as formas de colaboração que forem julgadas apropriadas, mantendo contacto com o GEP no que se refere a entidades estrangeiras.
 
-###### Art. 32.º Consideram-se feitas ao SNPRCN todas as referências aos extintos Serviço Nacional de Parques, Reservas e Património Paisagístico e Serviço de Estudos do Ambiente constantes de diplomas legais em vigor, na área abrangida pelo presente diploma, designadamente dos Decretos-Leis n.os [613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Junho, [4/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838), de 11 de Janeiro, [37/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1984-660945), de 17 de Abril, [40/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1979-383656), de 5 de Março, e 264/76, de 1 de Setembro.
+Art. 32.º Consideram-se feitas ao SNPRCN todas as referências aos extintos Serviço Nacional de Parques, Reservas e Património Paisagístico e Serviço de Estudos do Ambiente constantes de diplomas legais em vigor, na área abrangida pelo presente diploma, designadamente dos Decretos-Leis n.os [613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Junho, [4/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838), de 11 de Janeiro, [37/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1984-660945), de 17 de Abril, [40/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1979-383656), de 5 de Março, e 264/76, de 1 de Setembro.
 
-###### Art. 33.º As disposições previstas no presente diploma não poderão afectar, em caso algum, quaisquer direitos e obrigações, incluindo os emergentes de contratos de arrendamento, bem como todos os valores patrimoniais existentes nos actuais serviços integrados no SNPRCN e no ex-Ministério da Qualidade de Vida.
+Art. 33.º As disposições previstas no presente diploma não poderão afectar, em caso algum, quaisquer direitos e obrigações, incluindo os emergentes de contratos de arrendamento, bem como todos os valores patrimoniais existentes nos actuais serviços integrados no SNPRCN e no ex-Ministério da Qualidade de Vida.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - José Manuel San-Bento de Menezes.
 
-**Promulgado em 4 de Novembro de 1985.**
+Promulgado em 4 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 13 de Dezembro de 1985.**
+Referendado em 13 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se refere o artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/00600/00370051.pdf))](https://files.diariodarepublica.pt/1s/1986/01/00600/00370051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/00600/00370051.pdf)
 
 ## ANEXO II
 
@@ -653,4 +715,4 @@ c) Proceder à catalogação e armazenamento das amostras recolhidas.
 
 ## ANEXO III — Quadro de pessoal a que se refere o artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/01/00600/00370051.pdf))](https://files.diariodarepublica.pt/1s/1986/01/00600/00370051.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/01/00600/00370051.pdf)

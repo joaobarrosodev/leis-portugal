@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2010/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d9aa8647e16741edb43b9477251277177443ffdcfe797c0d649a4f34bd7731e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c34065cbe0d5759dd38cec448fd2948aa589025baae15e9956616e52676f306b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Financiamento
-- Pesca
 - IFAP
 - IFOP
+- Intervenção Operacional Pescas
 - JURO Bonificado
+- Pesca
 - Plano Energético Nacional
 - Prémio
-- Intervenção Operacional Pescas
 relationships:
 - type: amended_by
   target: pt:dre:58763442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58763442:por
+  label: Alterados, a partir de 07.11.2014, os arts 4.º e 10.º do Dec Lei 81/2008 de 16-mai, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 168/2014 - Diário da República n.º 215/2014, Série I de 2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/168-2014-58763442
+  date: '2014-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2007/04/19/p/dre
   label: null
@@ -100,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-b/2008/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-b/2008/06/13/p/dre
+- type: cites
+  target: pt:dre:181388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551627:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:57Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +198,9 @@ i) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +220,9 @@ b) ...
 
 7 - No caso de existirem condições técnicas para o efeito, de acordo com parecer prévio a emitir pelo IFAP, I. P., a celebração formal do contrato, nos termos previstos nos números anteriores, pode ser dispensada por despacho do gestor, considerando-se o mesmo celebrado entre o promotor e o IFAP, I. P., com a simples comunicação da decisão de aprovação da candidatura, contados cinco dias da respectiva notificação.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +230,9 @@ b) ...
 
 3 - Sem prejuízo do disposto quanto às candidaturas a que se refere a alínea c) do n.º 2 do artigo 4.º e da autorização para a consulta por meios informáticos nos termos do [Decreto-Lei n.º 114/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2007-519402), de 19 de Abril, o promotor deve comprovar a regularidade da sua situação contributiva e fiscal com a apresentação dos pedidos de pagamento, sob pena de resolução do contrato de atribuição do apoio.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -220,12 +252,12 @@ As candidaturas apresentadas ao abrigo da [Portaria n.º 165-B/2009](https://dia
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins - António Manuel Soares Serrano.
 
-**Promulgado em 13 de Abril de 2010.**
+Promulgado em 13 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Abril de 2010.**
+Referendado em 14 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

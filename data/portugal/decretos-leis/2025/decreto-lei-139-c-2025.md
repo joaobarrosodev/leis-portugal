@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139-c/2025/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-c-2025-993315594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0b5c58702ffc434b6bf584e025657e5caba209b02daf50fc772578d3d12902e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5bbb532929cb92cea813444c7e975b4fdf80e0412cb16c4cbc0539001dccf3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Pública
+- Agência Nacional para a Gestão do Programa Erasmus+ Educação e Formação
 - Aposentação
 - Aposentado
 - Autonomia Administrativa
 - Autonomia Financeira
-- Financiamento
-- Médico
+- Caixa Geral de Aposentações
+- CIC Portugal 2030
 - Cooperação
 - Ensino Profissional
-- Administração Pública
-- Serviço Nacional de Saúde
-- Caixa Geral de Aposentações
+- Financiamento
 - Gestão Orçamental
 - Lei Geral do Trabalho em Funções Públicas
+- Médico
 - Notificação
 - Orçamento
+- Plataforma Eletrónica
 - Prorrogação de Prazo
 - Proteção Social
+- Regime da Administração Financeira do Estado
+- Regime do Contrato de Trabalho em Funções Públicas
 - Regulamento CE
 - Remuneração
 - Segurança Social
-- Plataforma Eletrónica
-- Agência Nacional para a Gestão do Programa Erasmus+ Educação e Formação
-- Regime da Administração Financeira do Estado
+- Serviço Nacional de Saúde
 - Trabalhador com Contrato de Trabalho em Funções Públicas
-- CIC Portugal 2030
 relationships:
 - type: amended_by
   target: pt:dre:1119817510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:89/2010
+  label: Prorroga, com efeitos a 1 de janeiro de 2026, o regime do período de vigência até 31 de dezembro de 2027, com excepção
+    do previsto no artigo 7.º do Decreto-Lei n.º 89/2010, de 21 de julho, Diário da República n.º 140/2010, Série I
+  source: null
+  date: '2010-07-21'
 - type: cites
   target: celex:32014R0468
   label: null
@@ -140,16 +146,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/15/2014/02/24/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115553662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123610180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169780052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206705211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223906279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66639546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897548402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:910323298:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:40Z'
   warnings: []
   errors: []
 ---
@@ -226,15 +336,15 @@ A Agência Nacional para a Gestão do Programa Erasmus+Juventude/Desporto e Corp
 
 4 - Para os efeitos do disposto no número anterior, se o período normal de trabalho não for igual em cada semana, é considerada a respetiva média no período de referência de um mês.
 
-5 - A lista de utentes a atribuir aos médicos aposentados de medicina geral e familiar ao abrigo do [Decreto-Lei n.º 89/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2010-334154), de 21 de julho, na sua redação atual, é proporcional ao período de trabalho semanal contratado, sendo aplicado, com as necessárias adaptações, o disposto no anexo i ao [Decreto-Lei n.º 103/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), de 7 de novembro, na sua redação atual, no [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[7-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-a-2023-206705211), de 30 de janeiro, [102/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), de 7 de novembro, pela [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, e pelo [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e no [Decreto-Lei n.º 266-D/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), de 31 de dezembro.
+5 - A lista de utentes a atribuir aos médicos aposentados de medicina geral e familiar ao abrigo do [Decreto-Lei n.º 89/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2010-334154), de 21 de julho, na sua redação atual, é proporcional ao período de trabalho semanal contratado, sendo aplicado, com as necessárias adaptações, o disposto no anexo i ao [Decreto-Lei n.º 103/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2023-223906279), de 7 de novembro, na sua redação atual, no [Decreto-Lei n.º 52/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2022-187049881), de 4 de agosto, alterado pelos Decretos-Leis n.os[7-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-a-2023-206705211), de 30 de janeiro, [102/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), de 7 de novembro, pela [Lei n.º 82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, e pelo [Decreto-Lei n.º 13-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), de 10 de março, e no [Decreto-Lei n.º 266-D/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-d-2012-632430), de 31 de dezembro.
 
 6 - A aplicação do disposto no presente artigo pressupõe a ocupação de vaga, sendo que a lista de utentes atribuída é considerada para efeitos dos mapas de vagas dos concursos de novos especialistas em medicina geral e familiar.
 
 7 - Os médicos aposentados, com ou sem recurso a mecanismos legais de antecipação, podem também exercer atividade destinada a assegurar o funcionamento das juntas médicas de avaliação das incapacidades das pessoas com deficiência, bem como no âmbito do sistema de verificação de incapacidades e do sistema de certificação e recuperação de incapacidades por doenças profissionais, ainda que não seja exercida em regime de exclusividade.
 
-8 - Para efeitos do procedimento previsto nos n.<sup>os</sup>1 e 2 do artigo 4.º do [Decreto-Lei n.º 89/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2010-334154), de 21 de julho, na sua redação atual, o exercício das funções previstas na parte final do número anterior depende da autorização do membro do Governo responsável pela área da segurança social, sob proposta do Instituto da Segurança Social, I. P.
+8 - Para efeitos do procedimento previsto nos n.os1 e 2 do artigo 4.º do [Decreto-Lei n.º 89/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2010-334154), de 21 de julho, na sua redação atual, o exercício das funções previstas na parte final do número anterior depende da autorização do membro do Governo responsável pela área da segurança social, sob proposta do Instituto da Segurança Social, I. P.
 
-9 - Sem prejuízo do que se encontre previsto em despacho autónomo no âmbito do sistema de certificação e recuperação de incapacidades por doenças profissionais para o contingente de médicos não aposentados, os termos e condições do exercício das funções de médicos aposentados no âmbito do sistema de verificação de incapacidades e do sistema de certificação e recuperação de incapacidades por doenças profissionais, bem como os médicos aposentados que podem ser contratados, são igualmente definidos no despacho a que se refere o n.º 1 do artigo 75.º do [Decreto-Lei n.º 360/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1997-417402), de 17 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[165/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1999-321720), de 13 de maio, [377/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), de 9 de novembro, [126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, pela [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, e pelo [Decreto-Lei n.º 8/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), de 5 de janeiro.
+9 - Sem prejuízo do que se encontre previsto em despacho autónomo no âmbito do sistema de certificação e recuperação de incapacidades por doenças profissionais para o contingente de médicos não aposentados, os termos e condições do exercício das funções de médicos aposentados no âmbito do sistema de verificação de incapacidades e do sistema de certificação e recuperação de incapacidades por doenças profissionais, bem como os médicos aposentados que podem ser contratados, são igualmente definidos no despacho a que se refere o n.º 1 do artigo 75.º do [Decreto-Lei n.º 360/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1997-417402), de 17 de dezembro, alterado pelos Decretos-Leis n.os[165/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1999-321720), de 13 de maio, [377/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-2007-629383), de 9 de novembro, [126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, pela [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, e pelo [Decreto-Lei n.º 8/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870), de 5 de janeiro.
 
 10 - O disposto no presente artigo é aplicável, com as necessárias adaptações, aos médicos aposentados ou reformados para o exercício de funções no Hospital das Forças Armadas, no Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., no Instituto de Proteção e Assistência na Doença, I. P., e no Instituto Nacional de Emergência Médica, I. P., nomeadamente nos centros de orientação de doentes urgentes.
 
@@ -284,12 +394,14 @@ O presente decreto-lei produz efeitos a partir de 1 de janeiro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Fernando Alexandre - Ana Paula Martins - Rosário Palma Ramalho - José Manuel Fernandes.
 
-**Promulgado em 23 de dezembro de 2025.**
+Promulgado em 23 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2025.**
+Referendado em 29 de dezembro de 2025.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+119941661

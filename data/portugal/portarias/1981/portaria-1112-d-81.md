@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1981, 2º Suplemento, Série I de 1981-12-30
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3406-(56) a 3406-(57)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf
 entry_into_force_dates: []
@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1112-d-1981-242542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:37:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d98af65d000d13fe1ff8b79ca8713ddd94f7632d4544e279c6ed5aa1489f00d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b866644701f5e9e38d0c7112cc3c628d3dd60f64cd24b8576a669ea393ef6f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:37:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Preço
+- Transporte Fluvial
+- Transtejo
+relationships:
+- type: cites
+  target: pt:dre:226787:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:37:06Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +101,19 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 1 - Tabela de mercadorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf)
 
 Nota. - Os preços desta tabela sofrem os agravamentos previstos no n.º 1.1 - Anexo à tabela de mercadorias da [Portaria n.º 1109/80](https://diariodarepublica.pt/dr/detalhe/portaria/1109-1980-226787), de 31 de Dezembro, para as mercadorias aí discriminadas.
 
 2 - Tarifas de transportes de veículos Terreiro do Paço-Montijo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf)
 
 Nota. - Os veículos assinalados com (a) têm prioridade em relação a qualquer dos restantes. A passagem dos condutores já se encontra incluída nos preços acima indicados.
 
 Cais do Sodré-Cacilhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29902/00560057.pdf)
 
 Nota. - Os veículos assinalados com (a) têm prioridade em relação a qualquer dos restantes. A passagem dos condutores já se encontra incluída nos preços acima indicados.
 

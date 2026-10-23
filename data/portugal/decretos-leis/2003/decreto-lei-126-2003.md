@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2003/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2003-692434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a64c9f44b599f945605e22b116754cfee74715a476928ab22f64b3507a049a5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15738e9bd217fb028bf869f352565442887f213dc6b81232005a0f1de76f3598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
-- Sociedade Anónima
 - Capital Social
 - Centro Hospitalar do ALTO Minho
 - Centro Hospitalar do Médio TEJO
+- Coimbra
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
-- Lisboa
 - Guimarães
-- Hospital Nossa Senhora da Oliveira
 - Hospital de Pedro Hispano
 - Hospital de Pulido Valente
 - Hospital de Santa Marta
 - Hospital do Barlavento Algarvio
 - Hospital Infante Dom Pedro
+- Hospital Nossa Senhora da Oliveira
 - Instituto Português de Oncologia de Francisco Gentil-centro Regional de Oncologia
+- Lisboa
 - Matosinhos
 - Ponte de LIMA
-- Coimbra
 - Portimão
-- Estabelecimento Hospitalar
+- Porto
 - Santa Maria da Feira
 - Santarém
-- Porto
+- Sociedade Anónima
 - Unidade Local de Saúde
 - Viana do Castelo
 relationships:
@@ -139,16 +139,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/292/2002/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/292/2002/12/10/p/dre
+- type: cites
+  target: pt:dre:384652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475970:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:603213:por
+  label: "Rectificada relativamente à vigência e produção de efeitos pelo presente diploma, pelo DECL-RECT.9-B/2003.2003.06.30.PCM\
+    \ DR.IS-A [148]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-b-2003-603213
+  date: '2003-06-30'
+- type: repealed_by
+  target: pt:dre:479672:por
+  label: "Revogado o Dec Lei 280/2002 de 09-Dez, na redacção do presente diploma, pelo DEC LEI.214/2004.23.08.2004.MS, DR.IS-A\
+    \ [198] de 23.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2004-479672
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:66325236:por
+  label: Revogado o art. 15º do Dec Lei 283/2002 de 10-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 12/2015
+    - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:24Z'
   warnings: []
   errors: []
 ---
@@ -259,7 +333,9 @@ Transformação
 
 A Unidade Local de Saúde de Matosinhos é transformada em sociedade anónima de capitais exclusivamente públicos, com a designação de Unidade Local de Saúde de Matosinhos, S. A., adiante abreviadamente designada como Hospital, titular do número de identificação de pessoa colectiva P 506361390.
 
-###### Artigo 15.º — Regime laboral privado e transição
+Artigo 15.º
+
+Regime laboral privado e transição
 
 A Unidade Local de Saúde de Matosinhos, S. A., sucede na posição jurídica de empregador dos trabalhadores que prestavam serviço à Unidade Local de Saúde de Matosinhos mediante contrato individual de trabalho.»
 
@@ -415,12 +491,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira.
 
-**Promulgado em 6 de Junho de 2003.**
+Promulgado em 6 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Junho de 2003.**
+Referendado em 11 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11400/0004500053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2021/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2021-165129791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9d0339df4682079f37e1ade7e2136a90b1a9f3e47378e2d7fba1e06d5f5cc9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b94aafb01111a29b44a56c1f01179af861bf30fbb437c1b868f4c7ea0e350e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto dos Registos e do Notariado
-- Regulamentação de Atos Legislativos
-- Proteção da Floresta
-- Publicitação
-- Página na Internet
-- Proteção do Ambiente
-- Prédio Rústico
-- Regime Jurídico
-- Autarquia Local
-- Utilidade Pública
-- Programa de Transformação da Paisagem
 - Área Integrada de Gestão da Paisagem
 - Arrendamento Forçado
+- Autarquia Local
+- Instituto dos Registos e do Notariado
+- Página na Internet
+- Prédio Rústico
+- Programa de Transformação da Paisagem
+- Proteção da Floresta
+- Proteção do Ambiente
+- Publicitação
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Utilidade Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-a/2020/06/26/p/dre
@@ -119,16 +119,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/48/2020/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/48/2020/06/24/p/dre
+- type: cites
+  target: pt:dre:107669077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114152782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147664201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:50Z'
   warnings: []
   errors: []
 ---
@@ -203,15 +263,15 @@ O presente decreto-lei entra em vigor a 1 de julho de 2021.
 
 Visto e aprovado em Conselho de Ministros de 29 de abril de 2021. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 5 de junho de 2021.**
+Promulgado em 5 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2021.**
+Referendado em 8 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -404,3 +464,5 @@ d) Adesão voluntária à OIGP através dos meios fixados para o efeito nos term
 ###### Artigo 17.º — Lei subsidiária
 
 Em tudo o que não contrarie o disposto nos artigos anteriores, aplicam-se à relação jurídica de arrendamento forçado, com as necessárias adaptações, as normas previstas no [Decreto-Lei n.º 294/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733), de 13 de outubro, relativas ao arrendamento rural florestal.
+
+114306344

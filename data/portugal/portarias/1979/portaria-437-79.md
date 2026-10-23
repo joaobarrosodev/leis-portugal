@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b47766172b8cb7d5606272d772864c98f517b6deefbf83adf68a1946ed5c0da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3b94af4701e863977123cbef5532a451abf217fc26dd27f1ebe94851556c562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- OBRA Social
+- OSMOP
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:383615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644286:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:40Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +106,9 @@ Manda o Governo da República Portuguesa, pelos Ministros dos Transportes e Comu
 
 1.º Os artigos 4.º, 19.º, 22.º, 25.º, 30.º, 36.º e 39.º do Regulamento da Obra Social dos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações, aprovado pela [Portaria n.º 225/71](https://diariodarepublica.pt/dr/detalhe/portaria/225-1971-644286), de 1 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 4.º Para o bom desempenho das suas finalidades, a Obra Social poderá promover a colaboração com outras instituições similares ou quaisquer organismos da Administração Central, Regional e Local, em realizações de interesse comum, incluindo ainda a colaboração com cooperativas e actividades privadas.
+Art. 4.º Para o bom desempenho das suas finalidades, a Obra Social poderá promover a colaboração com outras instituições similares ou quaisquer organismos da Administração Central, Regional e Local, em realizações de interesse comum, incluindo ainda a colaboração com cooperativas e actividades privadas.
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 1) ...
 
@@ -127,7 +138,7 @@ k) ...
 
 ...
 
-###### Art. 22.º - 1 - São beneficiários titulares da Obra Social todos os funcionários e agentes dos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações que se encontrem nas seguintes situações:
+Art. 22.º - 1 - São beneficiários titulares da Obra Social todos os funcionários e agentes dos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações que se encontrem nas seguintes situações:
 
 a) Que exerçam funções de carácter permanente, seja qual for a forma de provimento;
 
@@ -145,7 +156,7 @@ c) Outros servidores em situações especiais, a apreciar casuisticamente, depen
 
 4 - A extensão dos benefícios da Obra Social aos agregados familiares a cargo dos beneficiários titulares pode ser parcial para alguns desses benefícios, ou para todos e em condições iguais às dos próprios titulares, ou diferentes, consoante constar dos regulamentos privativos de cada um dos diversos sectores de actividade.
 
-###### Art. 25.º - 1 - Os serviços de que dependem os funcionários e agentes referidos na alínea a) do n.º 1 do artigo 22.º procederão à sua inscrição como beneficiários titulares nos trinta dias subsequentes ao início das funções, em boletim de modelo a aprovar pela Obra Social.
+Art. 25.º - 1 - Os serviços de que dependem os funcionários e agentes referidos na alínea a) do n.º 1 do artigo 22.º procederão à sua inscrição como beneficiários titulares nos trinta dias subsequentes ao início das funções, em boletim de modelo a aprovar pela Obra Social.
 
 2 - Para o pessoal referido na alínea b) do n.º 1 do artigo 22.º, a inscrição é feita decorridos que sejam seis meses de efectividade de serviço, a efectuar nos mesmos moldes do número anterior.
 
@@ -153,13 +164,13 @@ c) Outros servidores em situações especiais, a apreciar casuisticamente, depen
 
 ...
 
-###### Art. 30.º - 1 - Perdem os direitos aos benefícios da Obra Social os funcionários e agentes que deixem de prestar serviço nos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações, por exoneração, dispensa ou demissão, ou passem à situação de inactividade fora do quadro por outra razão que não de doença.
+Art. 30.º - 1 - Perdem os direitos aos benefícios da Obra Social os funcionários e agentes que deixem de prestar serviço nos Ministérios da Habitação e Obras Públicas e dos Transportes e Comunicações, por exoneração, dispensa ou demissão, ou passem à situação de inactividade fora do quadro por outra razão que não de doença.
 
 2 - A perda dos direitos referidos no número anterior abrange os membros do agregado familiar.
 
 ...
 
-###### Art. 36.º - 1 - As dívidas para com a Obra Social dos beneficiários exonerados, demitidos ou dispensados, na situação de licença ilimitada e na de licença sem vencimento, não abrangidos pelo disposto na alínea a) do n.º 2 do artigo 22.º, serão satisfeitas directamente na tesouraria da Obra Social, por meio de guia, no prazo de trinta dias após a notificação dos devedores, findo o qual se procederá de harmonia com o estabelecido no artigo 37.º
+Art. 36.º - 1 - As dívidas para com a Obra Social dos beneficiários exonerados, demitidos ou dispensados, na situação de licença ilimitada e na de licença sem vencimento, não abrangidos pelo disposto na alínea a) do n.º 2 do artigo 22.º, serão satisfeitas directamente na tesouraria da Obra Social, por meio de guia, no prazo de trinta dias após a notificação dos devedores, findo o qual se procederá de harmonia com o estabelecido no artigo 37.º
 
 2 - Para os beneficiários que, mudando de serviço, forem desempenhar funções públicas e mantenham o direito às regalias nos termos do artigo 22.º, deve ser o facto comunicado à Obra Social, pelo organismo em que o funcionário ou agente prestava serviço, não se alterando em relação a estes a forma de liquidação das suas dívidas à Obra Social.
 
@@ -167,7 +178,7 @@ c) Outros servidores em situações especiais, a apreciar casuisticamente, depen
 
 ...
 
-###### Art. 39.º - 1 - ...
+Art. 39.º - 1 - ...
 
 2 - Dependem sempre de despacho ministerial:
 

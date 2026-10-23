@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/2004/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2004-517434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c8ad69360413db937337108797e261e273eb79f4b84f6a774be8450054e211c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f42067e372af63c2877512d1b48f5e3a4c628364f48f37bee3c73d58240f444f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,44 @@ subjects:
 - Certificado de Conformidade
 - Consumidor
 - Contra-ordenação
+- Direcção Geral da Empresa
 - Etiquetagem
 - Fiscalização
-- Direcção Geral da Empresa
 - Informação do Consumidor
-- Produto Têxtil
 - Normalização
+- Produto Têxtil
 relationships:
 - type: amended_by
   target: pt:dre:190604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:591764:por
+  label: "Alterados os arts. 1.º, 2.º, 6.º, 9.º, 12.º, 19.º e 23.º, revogado o art. 27.º, alterado o anexo I, os n.ºs 1, 2\
+    \ e 3 e aditada a linha 33 ao anexo II, alterado o n.º 36 do anexo III e o n.º 12 do anexo IV, todos do presente diploma,\
+    \ pelo DEC LEI.59/2005.09.03.2005.MAET, DR.IS-A [48] de 09.03.2005, republicando-o na integra\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2005-591764
+  date: '2005-03-09'
+- type: amended_by
+  target: pt:dre:517667:por
+  label: "Alterados os anexos I e II do presente diploma, alterado e republicado pelo Dec Lei 59/2005 de 09-Mar, pelo DEC\
+    \ LEI.30/2007.13.02.2007.MEI, DR.IS [31] de 13.02.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2007-517667
+  date: '2007-02-13'
+- type: amended_by
+  target: pt:dre:640645:por
+  label: "Alterados o art.3º e os Anexos i e ii (os anexos na redacção dos Dec Lei 59/2005, de 09-Mar e 30/2007, de 13-Fev),\
+    \ todos do Dec Lei 163/2004, de 03-Jul pelo DEC LEI.293/2007.21.08.2007.MEI, DR.IS [160] de 21.08.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-2007-640645
+  date: '2007-08-21'
+- type: amended_by
+  target: pt:dre:278182:por
+  label: "Alterados os arts. 3º (na redacção do Dec Lei 293/2007, de 21-Ago) e 21º , bem como os anexos I e II (os anexos\
+    \ na redacção dos Dec Lei 59/2005, de 09-Mar, 30/2007, de 13-Fev e 293/2007, de 21-Ago) e revogado o nº3 do art. 21º do\
+    \ presente diploma, pelo DEC LEI.38/2011.11.03.2011.MEID, DR.IS [50] de 11.03.2011, republicado pelo Dec Lei 59/2005,\
+    \ de 09-Mar\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2011-278182
+  date: '2011-03-11'
 - type: cites
   target: celex:31971L0307
   label: null
@@ -104,16 +131,22 @@ relationships:
   target: celex:31997L0037
   label: null
   source: http://data.europa.eu/eli/dir/1997/37/oj
+- type: repealed_by
+  target: pt:dre:190604:por
+  label: "Revogado o presente diploma, na redação dos Decs Lei 59/2005, de 09-mar, 30/2007, de 13-fev, 293/2007, de 21-ago\
+    \ e 38/2011, de 11-mar, pelo DEC LEI.257/2012.29.11.2012.MEE, DR.IS [231] de 29.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2012-190604
+  date: '2012-11-29'
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:13Z'
   warnings: []
   errors: []
 ---
@@ -404,7 +437,7 @@ b) Entende-se por «reforços» os fios ou tecidos incorporados em zonas especí
 
 ###### Artigo 20.º — Regulamentação
 
-**O Ministro da Economia regulamentará o presente diploma por portaria, determinando os procedimentos para a correcta aplicação das disposições previstas.**
+O Ministro da Economia regulamentará o presente diploma por portaria, determinando os procedimentos para a correcta aplicação das disposições previstas.
 
 ###### Artigo 21.º — Métodos de análise para as verificações de conformidade
 
@@ -478,23 +511,23 @@ São revogados os Decretos-Leis n.os 90/86, de 9 de Maio, 134/92, de 10 de Julho
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 22 de Junho de 2004.**
+Promulgado em 22 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 2004.**
+Referendado em 24 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Quadro das fibras têxteis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf)](https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf)
 
 ## ANEXO II — Taxas convencionais a utilizar para o cálculo da massa das fibras contidas num produto têxtil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf)](https://files.diariodarepublica.pt/1s/2004/07/155a00/40514060.pdf)
 
 ## ANEXO III — Produtos não submetidos à obrigação de etiquetagem ou de marcação
 

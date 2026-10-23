@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 73/2016, 1º Suplemento, Série I de 2016-04-14
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1276-(2) a 1276-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07301/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9-c/2016/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-c-2016-74163199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1ef516284aef8b7a513e2693e877e12cde7cd1420ecf7cd089a04b930cfd2e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 066b177ef1c95eec3558f0c6481485b0e01adb704701a90008ebb3485ca15a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Governo XXI
 - Ministro da Cultura
 - Nomeação
-- Governo XXI
 relationships:
 - type: amended_by
   target: pt:dre:116689556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116689556:por
+  label: Exonerado Luís Filipe Carrilho de Castro Mendes do cargo de Ministro da Cultura pelo(a) Decreto do Presidente da
+    República n.º 72-E/2018 - Diário da República n.º 198/2018, 1º Suplemento, Série I de 2018-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-e-2018-116689556
+  date: '2018-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:27:44Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +97,16 @@ validation:
 
 de 14 de abril
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Primeiro-Ministro, Luís Filipe Carrilho de Castro Mendes para o cargo de Ministro da Cultura.
 
-**Assinado em 14 de abril de 2016.**
+Assinado em 14 de abril de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de abril de 2016.**
+Referendado em 14 de abril de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

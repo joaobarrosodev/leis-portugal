@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07500/13521357.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1989-614638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 746871e73ae829619759de62f67eb54ad3b686922e37d981d2b8f3023ea5c727
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4693517d031ea6ad7c887189f78c4c0508d78ca45b8d86413be2c0fabd944620
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva do Mercado da Carne de Aves
+- Comissão Consultiva do Mercado da Carne de Bovino
+- Comissão Consultiva do Mercado da Carne de Suíno
+- Comissão Consultiva do Mercado dos Ovos
+- Definição de Competências
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:637689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Transferidas para a DGMAIAA todas as atribuições e competências no domínio da gestão dos mercados agrícolas e da
+    concepção, proposta e elaboração dos respectivos mecanismos de orientação, regularização e organização que haviam sido
+    conferidas ao IROMA e posteriormente ao INGA (cujo estatuto foi aprovado pelo Dec Lei 282/88 de 12-Ago, e com a orgânica
+    constante do presente diploma), por qualquer disposição legal ou administrativa, incluindo aquelas que, neste mesmo âmbito,
+    haviam anteriormente sido conferidas aos extintos organismos de coordenação económica (Junta Nacional dos Produtos Pecuários,
+    Junta Nacional das Frutas, e Insituto do Azeite e Produtos Oleaginosos) pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37]
+    de 13.02.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:564443:por
+  label: "Alterados os arts. 8º, 9º, 10º, 11º, 12º, 13º, 15º e 16º, substituído o quadro de pessoal dirigente constante do\
+    \ mapa anexo, e revogados os arts. 4º e 5º pelo DR.35/90.1990.11.14.MAPA, DR.IS [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-1990-564443
+  date: '1990-11-14'
+- type: cites
+  target: pt:dre:376841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:441515:por
+  label: "Rectificado [no referente ao sumário, onde passa a constar também como entidade emitente o Ministério da Agricultura,\
+    \ Pescas e Alimentação] pela DECL.DD3974.1989.04.12.PCM, DR.IS [99] de 29.04.1989\09"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-441515
+  date: '1989-04-12'
+- type: repealed_by
+  target: pt:dre:637689:por
+  label: "Revogado, a partir de 01.04.1993, pelo DR.9/93.1993.03.22.MA, DR.IS-B [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-1993-637689
+  date: '1993-03-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +143,7 @@ Ao abrigo do n.º 1 do artigo 30.º do [Decreto-Lei n.º 282/88](https://diariod
 
 ### CAPÍTULO I — Legislação aplicável
 
-###### Artigo 1.º - 1 - O Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, rege-se, quanto ao seu objecto, atribuições, competências, orgânica e funcionamento, pelas disposições constantes do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, bem como pelo disposto no presente diploma e nos seus regulamentos internos.
+Artigo 1.º - 1 - O Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, rege-se, quanto ao seu objecto, atribuições, competências, orgânica e funcionamento, pelas disposições constantes do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, bem como pelo disposto no presente diploma e nos seus regulamentos internos.
 
 2 - Relativamente ao funcionamento e competências do conselho directivo e da comissão de fiscalização, o INGA, em tudo que não for especificamente regulado nos diplomas a que se refere o número anterior, rege-se subsidiariamente pelas disposições correspondentes do ordenamento jurídico das empresas públicas.
 
@@ -106,13 +151,13 @@ Ao abrigo do n.º 1 do artigo 30.º do [Decreto-Lei n.º 282/88](https://diariod
 
 #### SECÇÃO I — Conselho directivo
 
-###### Art. 2.º - 1 - O conselho directivo é o órgão de direcção do INGA e rege-se, quanto à sua composição, competências e funcionamento, pelo disposto no [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, e no presente diploma.
+Art. 2.º - 1 - O conselho directivo é o órgão de direcção do INGA e rege-se, quanto à sua composição, competências e funcionamento, pelo disposto no [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, e no presente diploma.
 
 2 - Os membros do conselho directivo do INGA estão sujeitos ao Estatuto do Gestor Público, nos termos do n.º 4 do artigo 8.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, auferem remuneração e têm regalias idênticas às dos membros dos conselhos de gestão ou das comissões executivas das empresas públicas do grupo B.
 
 Funcionamento do conselho directivo
 
-###### Art. 3.º - 1 - O conselho directivo reúne nos termos do artigo 10.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
+Art. 3.º - 1 - O conselho directivo reúne nos termos do artigo 10.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.
 
 2 - Não é permitido o voto por correspondência ou por procuração.
 
@@ -134,7 +179,7 @@ c) Compareçam às reuniões.
 
 #### SECÇÃO II — Comissões consultivas de mercado
 
-###### Art. 4.º Nos termos do disposto no artigo 12.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, são criadas e funcionam no INGA, como órgãos consultivos do conselho directivo, relativamente ao funcionamento das respectivas organizações nacionais e comuns de mercado, as seguintes comissões consultivas de mercado (CCM):
+Art. 4.º Nos termos do disposto no artigo 12.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, são criadas e funcionam no INGA, como órgãos consultivos do conselho directivo, relativamente ao funcionamento das respectivas organizações nacionais e comuns de mercado, as seguintes comissões consultivas de mercado (CCM):
 
 a) CCM do Açúcar;
 
@@ -172,7 +217,7 @@ r) CCM da Batata;
 
 s) CCM do Pimentão.
 
-###### Art. 5.º - 1 - As CCM são presididas pelo presidente do conselho directivo do INGA, nos termos do n.º 2 do artigo 12.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, e delas farão ainda parte:
+Art. 5.º - 1 - As CCM são presididas pelo presidente do conselho directivo do INGA, nos termos do n.º 2 do artigo 12.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, e delas farão ainda parte:
 
 a) Um representante do Ministério das Finanças, a indicar pelo respectivo Ministro;
 
@@ -196,13 +241,13 @@ f) Representantes das organizações de comerciantes.
 
 #### SECÇÃO III — Comissão de fiscalização
 
-###### Art. 6.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, ou sempre que convocada pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos membros.
+Art. 6.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, ou sempre que convocada pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos membros.
 
 2 - Às reuniões e deliberações da comissão de fiscalização é aplicável, com as necessárias adaptações, o disposto no artigo 3.º quanto ao funcionamento do conselho directivo.
 
 ### CAPÍTULO III — Dos serviços
 
-###### Art. 7.º São serviços do INGA:
+Art. 7.º São serviços do INGA:
 
 a) Direcção de Serviços Financeiros (DSF);
 
@@ -218,7 +263,7 @@ f) Departamento de Controlo e Apuramento de Contas FEOGA (DC);
 
 g) Centro de Informática (CI).
 
-###### Art. 8.º - 1 - Compete à DSF:
+Art. 8.º - 1 - Compete à DSF:
 
 a) Assegurar os procedimentos técnico-administrativos respeitantes à gestão financeira do organismo e dos fundos provenientes da Secção Garantia do FEOGA;
 
@@ -244,7 +289,7 @@ d) Secção de Controlo de Documentação;
 
 e) Tesouraria.
 
-###### Art. 9.º - 1 - Compete à Divisão de Gestão Financeira:
+Art. 9.º - 1 - Compete à Divisão de Gestão Financeira:
 
 a) Estudar, propor e aplicar sistemas optimizados de gestão dos fluxos financeiros do INGA;
 
@@ -284,7 +329,7 @@ c) Efectuar os movimentos financeiros relacionados com o FEOGA-Garantia;
 
 d) Manter à sua guarda os valores do INGA.
 
-###### Art. 10.º - 1 - Com o objectivo de regular e orientar os mercados, compete à Direcção dos Serviços de Intervenção nos Mercados das Frutas e Produtos Oleaginosos (DSI 1):
+Art. 10.º - 1 - Com o objectivo de regular e orientar os mercados, compete à Direcção dos Serviços de Intervenção nos Mercados das Frutas e Produtos Oleaginosos (DSI 1):
 
 a) Assegurar a aplicação dos sistemas e a execução dos respectivos mecanismos previstos nas organizações nacionais e comuns dos mercados das frutas e produtos hortícolas, das matérias gordas e vegetais;
 
@@ -316,7 +361,7 @@ d) Emitir parecer sobre a regulamentação nacional e comunitária relativa à r
 
 e) Assegurar a representação do INGA nos respectivos órgãos comunitários de gestão de mercado.
 
-###### Art. 11.º - 1 - Com o objectivo de regular e orientar os mercados, compete à Direcção dos Serviços de Intervenção nos Mercados da Carne, dos Ovos e dos Cereais (DSI 2):
+Art. 11.º - 1 - Com o objectivo de regular e orientar os mercados, compete à Direcção dos Serviços de Intervenção nos Mercados da Carne, dos Ovos e dos Cereais (DSI 2):
 
 a) Assegurar a aplicação dos sistemas e a execução dos respectivos mecanismos previstos nas organizações nacionais e comuns de mercado das carnes, dos ovos e dos cereais;
 
@@ -348,7 +393,7 @@ d) Emitir parecer sobre a regulamentação nacional e comunitária relativa à r
 
 e) Assegurar a representação do INGA nos respectivos órgãos comunitários de gestão de mercado.
 
-###### Art. 12.º - 1 - Com o objectivo de regular e orientar os mercados, compete à Direcção dos Serviços de Intervenção nos Mercados do Leite e dos Produtos Agro-Industriais e das Ajudas Especiais (DSI 3):
+Art. 12.º - 1 - Com o objectivo de regular e orientar os mercados, compete à Direcção dos Serviços de Intervenção nos Mercados do Leite e dos Produtos Agro-Industriais e das Ajudas Especiais (DSI 3):
 
 a) Assegurar a aplicação dos sistemas e execução dos respectivos mecanismos previstos nas organizações nacionais e comunitárias do leite e produtos lácteos, do açúcar, do tabaco, das proteaginosas e de outros produtos agrícolas;
 
@@ -384,7 +429,7 @@ e) Assegurar a representação do INGA nos respectivos órgãos comunitários.
 
 4 - À Divisão de Ajudas Especiais compete executar todas as acções necessárias à instrução de processos conducentes ao pagamento de ajudas, nacionais e comunitárias, concedidas ao sector agrícola, mas não previstas em organizações de mercado e regulamentadas de forma avulsa e cuja aplicação se encontra ou venha a ser cometida ao INGA, bem como outras ajudas cuja aplicação lhe seja atribuída pelo conselho directivo, emitir parecer sobre a regulamentação nacional e comunitária relativa à aplicação e processamento das ajudas da sua competência.
 
-###### Art. 13.º - 1 - Compete à Direcção dos Serviços de Apoio Técnico (DAT):
+Art. 13.º - 1 - Compete à Direcção dos Serviços de Apoio Técnico (DAT):
 
 a) Assegurar a assessoria jurídica directa ao conselho directivo e a todos os órgãos e serviços do INGA, mediante a elaboração de estudos, pareceres, informações e projectos de diplomas legais;
 
@@ -404,7 +449,7 @@ b) Divisão de Documentação;
 
 c) Repartição Administrativa.
 
-###### Art. 14.º - 1 - Compete à Divisão Jurídica:
+Art. 14.º - 1 - Compete à Divisão Jurídica:
 
 a) A prestação de consultadoria jurídica ao conselho directivo e, sempre que por este for solicitado, a todos os serviços do INGA;
 
@@ -442,7 +487,7 @@ b) Secção Patrimonial e Economato, à qual compete assegurar todas as operaç�
 
 c) Secção de Arquivo Geral e Apoio Administrativo, à qual compete organizar, manter actualizado e de fácil utilização o arquivo de toda a documentação expedida e recebida no INGA, assim como assegurar a circulação e divulgação interna de todos os documentos e a expedição e recebimento de toda a correspondência.
 
-###### Art. 15.º - 1 - Compete ao Departamento de Controlo e Apuramento de Contas FEOGA (DC):
+Art. 15.º - 1 - Compete ao Departamento de Controlo e Apuramento de Contas FEOGA (DC):
 
 a) Representar o organismo junto das Comunidades Económicas Europeias, no Comité FEOGA, para todos os assuntos que se relacionem com os controlos, o apuramento de contas, as fraudes e irregularidades;
 
@@ -460,7 +505,7 @@ b) Divisão de Controlo Externo;
 
 c) Divisão de Auditoria.
 
-###### Art. 16.º - 1 - Compete à Divisão de Estudos e Apuramento de Contas:
+Art. 16.º - 1 - Compete à Divisão de Estudos e Apuramento de Contas:
 
 a) Assegurar a representação do INGA junto da Comunidade Económica Europeia, no Comité FEOGA, para todos os assuntos que se relacionem com métodos e acções de controlo, apuramento de contas, fraudes e irregularidades;
 
@@ -474,7 +519,7 @@ d) Centralizar os elementos dos outros serviços e de outros organismos necessá
 
 3 - Compete à Divisão de Auditoria verificar os procedimentos contabilísticos, orçamentais e a conta de gerência, bem como todos os procedimentos dos serviços, a pedido destes ou por sua iniciativa, de modo a garantir o cumprimento das normas e regulamentos do INGA e das directrizes do conselho directivo, devendo propor as correcções que julgue adequadas.
 
-###### Art. 17.º - 1 - Ao Centro de Informática (CI) compete propor e desenvolver as medidas necessárias à adaptação funcional dos serviços, à definição dos circuitos formais, à implementação das novas tecnologias e ao desenvolvimento de sistemas de informação.
+Art. 17.º - 1 - Ao Centro de Informática (CI) compete propor e desenvolver as medidas necessárias à adaptação funcional dos serviços, à definição dos circuitos formais, à implementação das novas tecnologias e ao desenvolvimento de sistemas de informação.
 
 2 - Para a prossecução das respectivas competências o CI tem a seguinte estrutura:
 
@@ -486,26 +531,26 @@ b) Núcleo de Sistemas de Informação, ao qual compete estudar, propor e assegu
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 18.º Serão criados, na portaria a que se refere o artigo 30.º, n.º 2, do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, os lugares da carreira técnica superior a que tenham direito, por aplicação do disposto no artigo 12.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, os funcionários dirigentes ao serviço do Instituto Nacional de Garantia Agrícola e do Instituto Regulador e Orientador dos Mercados Agrícolas que transitem para o INGA, os quais serão extintos à medida que vagarem.
+Art. 18.º Serão criados, na portaria a que se refere o artigo 30.º, n.º 2, do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, os lugares da carreira técnica superior a que tenham direito, por aplicação do disposto no artigo 12.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, os funcionários dirigentes ao serviço do Instituto Nacional de Garantia Agrícola e do Instituto Regulador e Orientador dos Mercados Agrícolas que transitem para o INGA, os quais serão extintos à medida que vagarem.
 
-###### Art. 19.º Sem prejuízo do disposto no artigo 30.º, n.º 2, do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, consideram-se desde já criados no quadro de pessoal do INGA os lugares do pessoal dirigente constantes do mapa anexo ao presente diploma.
+Art. 19.º Sem prejuízo do disposto no artigo 30.º, n.º 2, do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, consideram-se desde já criados no quadro de pessoal do INGA os lugares do pessoal dirigente constantes do mapa anexo ao presente diploma.
 
 Presidência do Conselho de Ministros, 23 de Janeiro de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 11 de Março de 1989.**
+Promulgado em 11 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Março de 1989.**
+Referendado em 26 de Março de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo referido no artigo 19.º
 
 Pessoal dirigente (directores de serviços, chefes de divisão e chefes de repartição)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07500/13521357.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07500/13521357.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07500/13521357.pdf)

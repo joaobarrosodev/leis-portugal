@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20396-1964-469858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e4745961fa51e3d6056960ebd952a151f5a8b17b95d8f92632addba2314dc31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43721ddc2d74d61dfb42286d52b7e58247f03c8034fd7f2a7923195abc153105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323744:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:05Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +113,13 @@ c) Um de 20631164$80, destinado a reforçar com as importâncias que se indicam 
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
-###### Artigo 243.º, n.º 1) «Serviços de instrução - Ensino primário - Professores eventuais - Despesas com o pessoal - Remunerações acidentais - Gratificações - Para pessoal docente eventual, nos termos do artigo 22.º do Decreto n.º 43913, de 14 de Setembro de 1961» ... 7025564$80
+Artigo 243.º, n.º 1) «Serviços de instrução - Ensino primário - Professores eventuais - Despesas com o pessoal - Remunerações acidentais - Gratificações - Para pessoal docente eventual, nos termos do artigo 22.º do Decreto n.º 43913, de 14 de Setembro de 1961» ... 7025564$80
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2598.º, n.º 4), alínea b), 2) «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 3100000$00
+Artigo 2598.º, n.º 4), alínea b), 2) «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 3100000$00
 
-###### Artigo 2599.º, n.º 29) «Diversas despesas - Para pagamento aos municípios da compensação referida no artigo 63.º do Regulamento do Código da Estrada, aprovado pela [Portaria n.º 13469](https://diariodarepublica.pt/dr/detalhe/portaria/13469-1951-323744), de 6 de Novembro de 1959» ... 10505600$00
+Artigo 2599.º, n.º 29) «Diversas despesas - Para pagamento aos municípios da compensação referida no artigo 63.º do Regulamento do Código da Estrada, aprovado pela [Portaria n.º 13469](https://diariodarepublica.pt/dr/detalhe/portaria/13469-1951-323744), de 6 de Novembro de 1959» ... 10505600$00
 
 ... 20631164$80
 
@@ -121,11 +133,11 @@ a) Abrir em Cabo Verde um crédito especial de 205152$70, destinado a reforçar 
 
 Repartição Provincial dos Serviços de Obras Públicas, Agrimensura e Cadastro
 
-###### Artigo 226.º, n.º 1) «Despesas com o material - Despesas de conservação e aproveitamento - De imóveis» ... 55152$70
+Artigo 226.º, n.º 1) «Despesas com o material - Despesas de conservação e aproveitamento - De imóveis» ... 55152$70
 
 ### CAPÍTULO 12.º — Despesa extraordinária
 
-###### Artigo 280.º, n.º 1), alínea j) «Outras despesas extraordinárias - Do saldo das contas de exercícios findos - Organização provincial de voluntários» ... 150000$00
+Artigo 280.º, n.º 1), alínea j) «Outras despesas extraordinárias - Do saldo das contas de exercícios findos - Organização provincial de voluntários» ... 150000$00
 
 ... 205152$70
 

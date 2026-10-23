@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/147a00/37333734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2003/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2003-693254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caf6859e5b1b6926ebf89ada0e0fc48f332d484d937b9629444f8780bbe2f9da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b51791ac1733af86cd8d1cc4173c009507c52c62cfe06c6496112951ca89216
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Ferroviário
 - Saúde
 - Tabaco
 - Tabagismo
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:636938:por
@@ -87,16 +87,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/283/1998/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/283/1998/09/17/p/dre
+- type: cites
+  target: pt:dre:241406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630782:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:35Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +174,12 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - Nuno Albuquerque Morais Sarmento - José Luís Fazenda Arnaut Duarte - Luís Filipe Pereira - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 17 de Junho de 2003.**
+Promulgado em 17 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

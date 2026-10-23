@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 58/2009, 1º Suplemento, Série I de 2009-03-24
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1864-(2) a 1864-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05801/0000200019.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69-a/2009/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-a-2009-689576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c7dd038d67bd9cbb1571d4054e406d3630ca8a9b79e98fde4fe92bb57a03dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05eef1c4d68d448643de3e7a03941da0156f94db21edf5f0bc6e8f238d0a0475
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,55 +66,62 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Financeira do Estado
+- Administração Local
 - ADSE
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Instituto Nacional de Estatística
-- Ministério da Administração Interna
-- Gestão Financeira
+- Autarquia Local
+- Caixa Geral de Aposentações
+- Cedência de Interesse Público
 - Concurso
-- Direcção Geral do Tesouro
 - Conta de Gerência
 - Contrato de Locação Financeira
 - Dação em Cumprimento
 - Definição de Competências
 - Destacamento de Pessoal
+- Direção Geral do Orçamento
+- Direcção Geral do Tesouro
 - Dívida
 - Dotação Orçamental
 - Duodécimo
 - Empréstimo
 - Execução do Orçamento
-- Caixa Geral de Aposentações
 - Fundo de Maneio
 - Fundos Autónomos
+- Gestão de Créditos
+- Gestão Financeira
 - Horas Extraordinárias
 - Instituto de Gestão da Tesouraria e do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
-- Direção Geral do Orçamento
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional de Estatística
+- Ministério da Administração Interna
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Defesa Nacional
+- Ministério dos Negócios Estrangeiros
+- Mobilidade de Pessoal
 - Orçamento Geral do Estado
 - Pensão de Reforma
+- Pequenas e Médias Empresas
 - Piddac
 - Plano Oficial de Contabilidade Pública
-- Administração Local
-- Pequenas e Médias Empresas
-- Cedência de Interesse Público
-- Mobilidade de Pessoal
-- Ministério dos Negócios Estrangeiros
-- Ministério da Ciência Tecnologia e Ensino Superior
+- Região Autónoma
 - Segurança Social
 - Subsistemas de Saúde
-- Gestão de Créditos
 - Trabalhador
 - Transferência de Verbas
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:70241301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério das Finanças, dos serviços, organismos e entidades identificados no Dec\
+    \ Lei 205/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 11º. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -131,16 +138,36 @@ relationships:
   target: celex:32007R1234
   label: null
   source: http://data.europa.eu/eli/reg/2007/1234/oj
+- type: repealed_by
+  target: pt:dre:145590:por
+  label: "Revogado, a partir de 20.12.2011 e com excepção do nº 4 do art. 37º, o Dec Lei 205/2006, de 25-Out, na redacção\
+    \ do presente diploma, pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: repealed_by
+  target: pt:dre:175330:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 80/2007, de 29-mar, na redação do presente diploma, pelo DEC LEI.191/2012.23.08.2012.MF,\
+    \ DR.IS [163] de 23.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2012-175330
+  date: '2012-08-23'
+- type: repealed_by
+  target: pt:dre:174556:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 160/96, de 04-set, na redação do presente diploma, na redação do Dec\
+    \ Lei 28/98, de 11-fev, 2/99, de 04-jan, 455/99, de 05-nov, 86/2007, de 29-mar, 273/2007, de 30-jul e transformado o Instituto\
+    \ de Gestão da Tesouraria e do Crédito Público, I. P., na Agência de Gestão da Tesouraria e da Dívida Pública - IGCP,\
+    \ E. P. E., e aprovados os respetivos estatutos, pelo DEC LEI.200/2012.27.08.2012.MF, DR.IS [165] de 27.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2012-174556
+  date: '2012-08-27'
 article_structure:
   article_count: 82
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:11Z'
   warnings: []
   errors: []
 ---
@@ -1111,16 +1138,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - José Manuel dos Santos de Magalhães - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Ascenso Luís Seixas Simões - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Promulgado em 20 de Março de 2009.**
+Promulgado em 20 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Março de 2009.**
+Referendado em 23 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Alterações orçamentais da competência do Governo - Forma e competência para a autorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05801/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05801/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05801/0000200019.pdf)

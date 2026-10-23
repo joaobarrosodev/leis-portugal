@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/332/2000/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2000-522397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee0523c22b9f171a75eb71c900afc6d80c5f36060b60d579bff6df9b2e575a02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e8fc7f8b2acad035a3e70b2df611247bec090ea9a5b261c77157f91279a20c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ subjects:
 - Albufeira.cidade
 - Almada
 - Almeirim
-- Jurisdição
+- Amadora
 - Bombarral
 - Círculo Judicial
 - Competência Jurisdicional
 - Criação de Serviços
 - Extinção de Serviços
-- Lisboa
 - Instalação de Serviços
-- Tribunal de Comarca
+- Jurisdição
+- Lisboa
 - Loures
 - Magistrado do Ministério Público
 - Magistrado Judicial
@@ -84,15 +84,15 @@ subjects:
 - Matosinhos
 - MIRA
 - Organização Judiciária
+- Porto
 - Seixal
 - Sever do Vouga
-- Amadora
 - Trabalho por Turnos
+- Tribunal de Comarca
 - Tribunal de Competência Especializada
 - Tribunal de Família
 - Tribunal de Menores
 - Tribunal Judicial
-- Porto
 - VARA Civel
 - VILA NOVA de Famalicão
 - VILA NOVA de GAIA
@@ -109,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2000/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2000/03/20/p/dre
+- type: cites
+  target: pt:dre:165851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514813:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:02Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +181,12 @@ f) ...
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa.
 
-**Promulgado em 21 de Dezembro de 2000.**
+Promulgado em 21 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2000.**
+Referendado em 22 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

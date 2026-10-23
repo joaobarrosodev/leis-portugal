@@ -46,40 +46,140 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3f740b0af967656b44933fb13e71c84b23aced151f6cad224cac406b027bd71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9054b26761789420367794ed18e9d9a00efd4e9c712260fe83e6600fd9a6e1aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Carne de AVES de Capoeira
+- Comércio a Retalho
+- Comércio por Grosso
+- Junta Nacional dos Produtos Pecuários
+- OVO
+- Produtor
 relationships:
 - type: amended_by
   target: pt:dre:333275:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412019:por
+  label: "Alterados os n.ºs 9.º, 19.º e 20.º pela PORT.820/73.19.11.1973.MECO, DG.IS [270] de 19.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/820-1973-412019
+  date: '1973-11-19'
+- type: amended_by
+  target: pt:dre:310619:por
+  label: Determinada a manutenção em vigor do presente diploma pelo(a) Portaria n.º 327-A/76 - Diário da República n.º 128/1976,
+    2º Suplemento, Série I de 1976-06-01, em tudo o que não contrarie o mesmo diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-a-1976-310619
+  date: '1976-06-01'
+- type: amended_by
+  target: pt:dre:310620:por
+  label: Determinada a manutenção em vigor do presente diploma pelo(a) Portaria n.º 327-B/76 - Diário da República n.º 128/1976,
+    2º Suplemento, Série I de 1976-06-01, em tudo o que não o contrarie
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-b-1976-310620
+  date: '1976-06-01'
+- type: amended_by
+  target: pt:dre:310621:por
+  label: "Alterados os nºs 4º e 5º pela PORT.327-C/76.1976.06.01.MCOMI, DR.IS [128]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-c-1976-310621
+  date: '1976-06-01'
+- type: amended_by
+  target: pt:dre:656389:por
+  label: Mantida em vigor pelo(a) Portaria n.º 192-M/78 - Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07,
+    em tudo o que não contrarie o disposto naquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-m-1978-656389
+  date: '1978-04-07'
+- type: amended_by
+  target: pt:dre:656396:por
+  label: Mantida em vigor pelo(a) Portaria n.º 192-T/78 - Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07,
+    em tudo o que não contrarie o disposto naquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-t-1978-656396
+  date: '1978-04-07'
+- type: amended_by
+  target: pt:dre:515862:por
+  label: "Mantida em vigor pela PORT.180/79.06.04.1979.MCT, DR.IS [85]Supl de 11.04.1979, em tudo o que a não contrarie \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-1979-515862
+  date: '1979-04-06'
+- type: amended_by
+  target: pt:dre:515848:por
+  label: "Mantido em vigor, em tudo o que não contrarie o disposto na PORT.179/79.11.04.1979.MCT, DR.IS [85-SUPL] de 11.04.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-1979-515848
+  date: '1979-04-11'
+- type: amended_by
+  target: pt:dre:389473:por
+  label: "Mantida em vigor pela PORT.320/81.02.04.1981.MCT, DR.IS [77] de 02.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-1981-389473
+  date: '1981-04-02'
+- type: amended_by
+  target: pt:dre:275671:por
+  label: "Mantida em vigor pela PORT.331-I/81.06.04.1981.MCT, DR.IS [80]Supl de 06.04.1981, em tudo o que a não contrarie\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-i-1981-275671
+  date: '1981-04-06'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590307:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315541:por
+  label: Revogada pelo(a) Portaria n.º 101-D/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-d-1977-315541
+  date: '1977-03-01'
+- type: repealed_by
+  target: pt:dre:315542:por
+  label: Revogada pelo(a) Portaria n.º 101-E/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01, em
+    tudo o que contrarie o disposto no mesmo diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-e-1977-315542
+  date: '1977-03-01'
+- type: repealed_by
+  target: pt:dre:315551:por
+  label: Revogada pelo(a) Portaria n.º 101-O/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01, em
+    tudo o que contrarie o disposto no mesmo diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-o-1977-315551
+  date: '1977-03-01'
+- type: repealed_by
+  target: pt:dre:446519:por
+  label: Revogado o n.º 20.º da presente portaria pelo(a) Portaria n.º 95/78 - Diário da República n.º 40/1978, Série I de
+    1978-02-17, nos termos dos seus n.ºs 1.º e 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1978-446519
+  date: '1978-02-17'
+- type: repealed_by
+  target: pt:dre:561804:por
+  label: "Revogada pelo DR.49/81.15.10.1981.MAP, DR.IS [237] de 15.10.1981, em tudo o que o contrarie\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-1981-561804
+  date: '1981-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:23Z'
   warnings: []
   errors: []
 ---

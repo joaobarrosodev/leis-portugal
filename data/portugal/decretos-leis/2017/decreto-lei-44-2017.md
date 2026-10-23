@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07800/0202802029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2017/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2017-106901297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cffc6f59db9dbb7d9218c5c71b461086325fbf44b4c0ebce93ce8fd81d1fb42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 172c14793f0bd5d34c8cfb58bff9127131342763d710d4ac13b9b60d7acf14cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Serviço de Saúde
-- Informação Médica
-- Saúde
-- Definição de Competências
-- Política de Saúde
-- Serviço Nacional de Saúde
 - Administração Central do Sistema de Saúde
-- Serviços Partilhados do Ministério da Saúde
-- Modernização Tecnológica
-- Programa Simplex
-- Página na Internet
-- Proteção ao Deficiente
-- Cuidados Médicos
-- Informação de Saúde
-- Direitos do Utente
 - Atendimento Público
-- Utente
+- Cuidados Médicos
+- Definição de Competências
+- Direitos do Utente
+- Informação de Saúde
+- Informação Médica
+- Modernização Administrativa
+- Modernização Tecnológica
+- Página na Internet
 - Plataforma Eletrónica
+- Política de Saúde
+- Programa Simplex
+- Proteção ao Deficiente
+- Saúde
+- Serviço de Saúde
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
 - Sistema Integrado de Gestão do Acesso
+- Utente
 relationships:
 - type: amended_by
   target: pt:dre:888109592:por
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70086390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:42Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +180,9 @@ c) Nos meios complementares de diagnóstico e de terapêutica.
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - (Anterior proémio do artigo.)
 
@@ -196,7 +214,9 @@ Atendimento
 
 2 - O disposto no número anterior não se aplica às situações de atendimento presencial ao público realizado através de marcação prévia.
 
-###### Artigo 27.º-A — Sistema Integrado de Gestão do Acesso
+Artigo 27.º-A
+
+Sistema Integrado de Gestão do Acesso
 
 1 - É criado o Sistema Integrado de Gestão do Acesso (SIGA), com os objetivos de acompanhamento, controlo e gestão integrados do acesso ao SNS, bem como de possibilitar uma visão global e transparente do percurso do utente na procura da prestação de cuidados de saúde.
 
@@ -218,12 +238,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de fevereiro de 2017. - António Luís Santos da Costa - Adalberto Campos Fernandes.
 
-**Promulgado em 31 de março de 2017.**
+Promulgado em 31 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de abril de 2017.**
+Referendado em 7 de abril de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

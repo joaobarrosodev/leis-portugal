@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/152a00/29062910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2000/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2000-300836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff477b4832bc88d077d977e659c793a8f79ee8503ad65a7927fa12cacc154a3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ecd19df1ef3d6b41193a9b89dd246f67e200e3ee62f62b51c9b973668669815
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almeida
-- Sociedade Anónima
 - Belmonte
-- Saneamento Básico
 - Covilhã
 - Criação de Empresas
 - Figueira de Castelo Rodrigo
 - Fundão
+- Guarda
 - Manteigas
 - Meda
-- Proteção do Ambiente
 - Penamacor
 - Pinhel
+- Proteção do Ambiente
 - Sabugal
+- Saneamento Básico
+- Sociedade Anónima
 - Tratamento de ÁGUA
-- Guarda
 relationships:
 - type: amended_by
   target: pt:dre:67348947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339846:por
+  label: "Alterado o art. 2.º do Anexo, pelo DEC LEI.185/2000.2000.08.10.MAOT DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2000-339846
+  date: '2000-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
   label: null
@@ -108,16 +113,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/148/1998/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/148/1998/12/19/p/dre
+- type: cites
+  target: pt:dre:186973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348947:por
+  label: Revogado, a partir de 30.06.2015, o presente diploma, alterado pelo Dec Lei 185/2000 de 10-ago, pelo(a) Decreto-Lei
+    n.º 94/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29; e extinto, a partir da referida data, nos termos
+    do disposto no n.º 2 do art. 2.º daquele diploma, o Sistema multimunicipal de abastecimento de água e de saneamento do
+    Alto Zêzere e Côa, criado pelo citado diploma, por agregação com o Sistema multimunicipal de abastecimento de água e saneamento
+    do Norte Alentejano, com o com o Sistema multimunicipal de saneamento da Costa do Estoril, com o Sistema multimunicipal
+    de saneamento de águas residuais da península de Setúbal, com o Sistema multimunicipal de saneamento do Tejo e Trancão,
+    com o Sistema multimunicipal de abastecimento de água e de saneamento de Raia, Zêzere e Nabão, com o Sistema multimunicipal
+    de abastecimento de água e de saneamento do Oeste, e com o Sistema multimunicipal de abastecimento de água e de saneamento
+    do Centro Alentejo; assim como é extinta, a partir da mesma data, nos termos do disposto nos n.ºs 2 a 10 do art. 4.º do
+    citado diploma, a sociedade Águas do Zêzere e Coa, S.A., criada pelo art. 3.º do presente, e determinada a transferência
+    do respetivo património global para a sociedade ora criada, Águas de Lisboa e Vale do Tejo, S.A., a qual sucede em todos
+    os direitos e obrigações da concessionária extinta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2015-67348947
+  date: '2015-05-29'
 article_structure:
   article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:59Z'
   warnings: []
   errors: []
 ---
@@ -254,15 +299,15 @@ Considera-se convocada a assembleia geral da sociedade, sem necessidade de cumpr
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 15 de Junho de 2000.**
+Promulgado em 15 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Junho de 2000.**
+Referendado em 25 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos da Águas do Zêzere e Côa, S. A.
 

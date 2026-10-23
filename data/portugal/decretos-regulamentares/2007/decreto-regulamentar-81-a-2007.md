@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 146/2007, 3º Suplemento, Série I de 2007-07-31
   number: '146'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4902-(14) a 4902-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14603/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/81-a/2007/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/81-a-2007-569551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 948c365a1d2e37c9ed9d08eba25e4581f5d27bbb046bf19464bc5d5925400595
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 742256790ccec25cd0f8cb7fa34570fe5fdc16630ea190b068ae4078ce8dc9fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Pessoal Dirigente
 - Definição de Competências
 - Inspecção Geral das Obras Públicas Transportes e Comunicações
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:178822:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Extinta, sendo objecto de fusão, a Inspecção-Geral das Obras Públicas, Transportes e Comunicações e integradas as\
+    \ suas atribuições no domínio da inspecção e auditoria na Secretaria-Geral do Ministério da Economia e do Emprego, pelo\
+    \ DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinta, sendo objecto de fusão, a Inspecção-Geral das Obras Públicas, Transportes e Comunicações e integradas as\
+    \ suas atribuições no domínio da inspecção e auditoria na Secretaria-Geral do Ministério da Economia e do Emprego, pelo\
+    \ DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2002/04/20/p/dre
   label: null
@@ -88,16 +102,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/210/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/210/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:288444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178822:por
+  label: "Revogado, a partir de 01.07.2012, e determinado que a Secretaria-Geral do Ministério da Economia e do Emprego, suceda\
+    \ nas atribuições no domínio da inspeção e auditoria da Inspeção-Geral das Obras Públicas, Transportes e Comunicações,\
+    \ pelo DEC LEI.124/2012.20.06.2012.MEE, DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2012-178822
+  date: '2012-06-20'
+- type: repeals
+  target: pt:numero:decreto-lei:210/2006
+  label: "Revoga, nos termos do artigo 4.º do do Decreto-Lei n.º 210/2006, de 27 de Outubro,a partir de 01.09.2007, o Decreto-Lei\
+    \ n.º 409/87, de 31 de Dezembro, DR.IS [300]4ºSupl \0\0"
+  source: null
+  date: '1987-12-31'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:34Z'
   warnings: []
   errors: []
 ---
@@ -220,16 +263,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14603/0001400016.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14603/0001400016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14603/0001400016.pdf)

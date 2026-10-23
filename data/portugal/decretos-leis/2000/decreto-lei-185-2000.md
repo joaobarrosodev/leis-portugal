@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/184a00/38963896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/2000/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2000-339846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f752b5e1efd0ca22ff2d214782a4b539a446e9366cb45168b9e415817e48c6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b02822761a743e9daef0e4e96568eb058c2167a3b939ed149d1f3f5da00a0629
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Sede
 - Guarda
+- Sede
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:67348947:por
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/2000/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2000/07/04/p/dre
+- type: cites
+  target: pt:dre:300836:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348947:por
+  label: Revogado, a partir de 30.06.2015, o Dec Lei 121/2000 de 04-jul, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 94/2015 - Diário da República n.º 104/2015, Série I de 2015-05-29; e extinto, a partir da referida data, nos termos
+    do disposto no n.º 2 do art. 2.º daquele diploma, o Sistema multimunicipal de abastecimento de água e de saneamento do
+    Alto Zêzere e Côa, por agregação com o Sistema multimunicipal de abastecimento de água e saneamento do Norte Alentejano,
+    com o com o Sistema multimunicipal de saneamento da Costa do Estoril, com o Sistema multimunicipal de saneamento de águas
+    residuais da península de Setúbal, com o Sistema multimunicipal de saneamento do Tejo e Trancão, com o Sistema multimunicipal
+    de abastecimento de água e de saneamento de Raia, Zêzere e Nabão, com o Sistema multimunicipal de abastecimento de água
+    e de saneamento do Oeste, e com o Sistema multimunicipal de abastecimento de água e de saneamento do Centro Alentejo;
+    assim como é extinta, a partir da mesma data, nos termos do disposto nos n.ºs 2 a 10 do art. 4.º do referido Dec Lei 94/2015,
+    a sociedade Águas do Zêzere e Coa, S.A., criada pelo art. 3.º do Dec Lei 121/2000, e determinada a transferência do respetivo
+    património global para a sociedade ora criada, Águas de Lisboa e Vale do Tejo, S.A., a qual sucede em todos os direitos
+    e obrigações da concessionária extinta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2015-67348947
+  date: '2015-05-29'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:20Z'
   warnings: []
   errors: []
 ---
@@ -120,12 +140,12 @@ O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decre
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Agosto de 2000.**
+Referendado em 1 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

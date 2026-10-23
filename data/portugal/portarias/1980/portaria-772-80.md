@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-1980-461590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acfc60b1a7936e1291f828b5f3968cdcb29871af9d602f7060aad3aeea232ab4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9eaddce78db458372240c450ef259114066c2ab6ce5e62146616338d9a99f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Covilhã
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:573131:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601131:por
+  label: "Alterado o quadro de pessoal pela PORT.53/82.13.01.1982.MFP, DR.IS [10] de 13.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1982-601131
+  date: '1982-01-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 491/87 DE 11-JUN DR.IS [133]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-06-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 150/88 DE 10-MAR DR.IS [58]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-10'
+- type: amended_by
+  target: pt:dre:575718:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital da Covilhã, pela PORT.542/90.12.07.1990.MF, DR.IS [159] de 12.07.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/542-1990-575718
+  date: '1990-07-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 392/91 DE 09-MAI DR.IS-B [106]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-09'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital da Covilhã pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 422/92 DE 22-MAI DR.IS-B [118]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-22'
+- type: amended_by
+  target: pt:dre:621731:por
+  label: SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DA COVILHÃ PELA PORT 1225/92, DE 29-DEZ DR.IS-B [299] NA PARTE
+    REFERENTE AS CARREIRAS DOS TÉCNICOS SUPERIORES DE SAÚDE E DOS TÉCNICOS DE SERVIÇO SUPERIORES DE SAÚDE E DOS TÉCNICOS DE
+    SERVIÇO SOCIAL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1225-1992-621731
+  date: '1992-12-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO O QUADRO DE PESOSAL PELA PORT 458/93 DE 30-ABR DR.IS-B [101]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-30'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:44Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +164,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital da Covilhã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/22800/30893091.pdf))](https://files.diariodarepublica.pt/1s/1980/10/22800/30893091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/22800/30893091.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

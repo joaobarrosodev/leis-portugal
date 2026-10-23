@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2011/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2011-280943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d71c240657f2fdbf83c2db980f606a9f1c1ba79c74a1dc29cd5cfde266fb861f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ee920f69e7d60d9057828085dced96f6525203dd740872a63e78c531d5cf40c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação Recreativa
-- Financiamento
-- Desporto Amador
+- Administração Local
 - Associação Cultural
+- Associação Recreativa
+- Autarquia Local
+- Câmara Municipal
+- Desporto Amador
+- Financiamento
 - Organização Desportiva
 - Proteção Social
-- Administração Local
-- Câmara Municipal
 - Subsídio
 - Trabalhador
 - Transferência de Verbas
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/169/1999/09/18/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:48Z'
   warnings: []
   errors: []
 ---
@@ -196,12 +224,12 @@ b) Eliminar a cumulação de prestações de idêntica natureza pelos mesmos ben
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira.
 
-**Promulgado em 15 de Janeiro de 2011.**
+Promulgado em 15 de Janeiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Janeiro de 2011.**
+Referendado em 19 de Janeiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

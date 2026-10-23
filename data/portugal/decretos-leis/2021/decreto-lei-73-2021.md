@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16000/0002300037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2021/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2021-169780051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e32141e507942da94bf58a2388ba91c729e9a99e8c3bdb0a5f75c3047389ed1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55eafc42025e9bbefe14ce6b8a08717d892cc3ade1d8b5e882c1075fd29e4451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Aquisição de Bens e Serviços
 - Caderno de Encargos
 - Comissão de Índices e Fórmulas de Empreitadas
-- Obras Particulares
 - Custo da Construção
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Fixação de Preços
-- Pagamento
+- Obras Particulares
 - Obras Públicas
+- Pagamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
@@ -89,16 +89,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/2004/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/2004/01/06/p/dre
+- type: cites
+  target: pt:dre:240800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70641446:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:26Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +175,15 @@ Os artigos 1.º a 4.º, 6.º, 8.º, 11.º, 13.º a 19.º e 21.º do [Decreto-Lei
 
 5 - O valor apurado, em termos de revisão de preços, no final do prazo de execução contratualmente estabelecido, acrescido das prorrogações legais ou das prorrogações determinadas por sentença judicial ou arbitral, não está sujeito ao limite imposto pelo preço base nem aos limites que determinaram a escolha do procedimento.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Os contratos de aquisição de bens móveis e os contratos de aquisição de serviços regulados no CCP, bem como os contratos de empreitadas de obras particulares em que se estipule o direito à revisão de preços, regem-se pelo disposto no presente decreto-lei em tudo o que neles não for especialmente regulado.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os interessados podem apresentar pedidos de correção ou de alteração do regime da revisão de preços estabelecido no caderno de encargos no primeiro terço do prazo concedido para a apresentação de propostas.
 
@@ -169,11 +197,15 @@ Os contratos de aquisição de bens móveis e os contratos de aquisição de ser
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O plano de pagamentos, definido com base na previsão mensal do valor dos trabalhos a realizar pelo empreiteiro, de acordo com o plano de trabalhos previsto e aprovado nos termos dos artigos 361.º e 361.º-A do CCP, serve de referência nos cálculos das revisões de preços.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +221,9 @@ S (índice o) é o mesmo índice, mas relativo ao mês anterior ao da data limit
 
 5 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sendo concedidos adiantamentos ao empreiteiro, ao abrigo do disposto no artigo 292.º do CCP, as fórmulas de revisão devem ser corrigidas de acordo com os critérios seguintes:
 
@@ -251,7 +285,9 @@ O coeficiente d é adicionado ao valor A/V, podendo a soma dos coeficientes da f
 
 9 - (Revogado.)
 
-###### Artigo 11.º — Trabalhos complementares
+Artigo 11.º
+
+Trabalhos complementares
 
 1 - A revisão de preços de trabalhos complementares faz-se nos seguintes termos:
 
@@ -261,7 +297,9 @@ b) Tratando-se de trabalhos de espécie diferente de outros previstos no contrat
 
 2 - A revisão de preços dos trabalhos complementares ou dos que resultem de retificações para valores superiores por erros ou omissões do projeto, quando não executados nos prazos previstos nos planos de trabalhos e correspondentes planos de pagamentos, respeitantes a esses trabalhos complementares, aprovados pelo dono da obra, faz-se nos termos previstos no n.º 2 do artigo 14.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sempre que o prazo de execução do contrato seja prorrogado a revisão de preços é calculada com base no plano de pagamentos reajustado.
 
@@ -269,7 +307,9 @@ b) Tratando-se de trabalhos de espécie diferente de outros previstos no contrat
 
 3 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sempre que se verifique atraso por caso de força maior ou imputável ao dono da obra, o empreiteiro deve submeter à aprovação do dono da obra um novo plano de pagamentos reajustado, que serve de base ao cálculo da revisão de preços dos trabalhos por executar.
 
@@ -277,7 +317,9 @@ b) Tratando-se de trabalhos de espécie diferente de outros previstos no contrat
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -291,17 +333,23 @@ b) Tratando-se de trabalhos de espécie diferente de outros previstos no contrat
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Se nas datas de elaboração da conta corrente, a que se refere o n.º 1 do artigo 389.º do CCP, ainda não se conhecerem os valores finais dos indicadores económicos a utilizar na revisão de preços dos trabalhos executados, o dono da obra deve proceder ao pagamento provisório com base no respetivo valor inicial do contrato, revisto em função dos últimos indicadores conhecidos, que podem ser de meses diferentes.
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Sempre que do contrato não conste data ou prazo de pagamento, a obrigação pecuniária vence-se, sem necessidade de novo aviso, aplicando-se com as necessárias adaptações o disposto no artigo 299.º do CCP.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Em caso de atraso do dono da obra no cumprimento de obrigações pecuniárias, o empreiteiro tem direito aos juros de mora sobre o montante em dívida à taxa legalmente fixada para o efeito pelo período correspondente à mora, aplicando-se com as necessárias adaptações o disposto no artigo 326.º do CCP.
 
@@ -311,7 +359,9 @@ Sempre que do contrato não conste data ou prazo de pagamento, a obrigação pec
 
 4 - (Revogado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O direito à revisão de preços caduca no prazo de um ano após a receção provisória da empreitada, salvo nas seguintes situações:
 
@@ -323,7 +373,9 @@ c) Quando o dono da obra esteja obrigado ao cálculo da revisão de preços defi
 
 2 - Sempre que o dono da obra não proceda à elaboração da conta final da empreitada o direito à revisão caduca com a receção definitiva da obra.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A Comissão de Índices e Fórmulas de Empreitadas (CIFE) é uma comissão técnica especializada que funciona no âmbito do conselho consultivo do Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I. P.), nos termos do disposto n.º 6 do artigo 7.º do [Decreto-Lei n.º 232/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2015-70641446), de 3 de outubro.
 
@@ -367,15 +419,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de julho de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Jorge Moreno Delgado.
 
-**Promulgado em 5 de agosto de 2021.**
+Promulgado em 5 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de agosto de 2021.**
+Referendado em 12 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -676,3 +728,5 @@ Ficam revogados o [Decreto-Lei n.º 348-A/86](https://diariodarepublica.pt/dr/de
 ###### Artigo 24.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia 1 de fevereiro de 2004 e só será aplicável às obras postas a concurso a partir dessa data, sem prejuízo de aplicação às obras em curso das disposições previstas no n.º 2 do artigo 14.º e nos artigos 17.º, 18.º e 19.º, em situações que ocorram a partir da entrada em vigor do presente decreto-lei.
+
+114495034

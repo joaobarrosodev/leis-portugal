@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15500/0001500019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2020/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9856ac624a14db6739f67816a7c98b306e3d9e236a9d92a7b7f0323672a0236f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47e618fab56cdc6f96716cccaedc83ec4d4762ef6511c6257fb1e3bc1fba6690
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Incêndio
 - Autoridade Tributária e Aduaneira
-- Turismo
+- Benefícios Fiscais
 - Código do IVA
 - Congresso
-- Definição de Competências
-- Exposição
-- Feira
-- IPSS
 - Contribuições e Impostos
-- IVA
-- Instituto do Turismo de Portugal
-- Página na Internet
-- Pedrógão Grande
+- Definição de Competências
 - Doença Infecciosa
 - Epidemia
-- Benefícios Fiscais
+- Exposição
+- Feira
+- Incêndio
+- Instituto da Segurança Social
+- Instituto do Turismo de Portugal
+- IPSS
+- IVA
+- Página na Internet
+- Pedrógão Grande
 - Restituição de Impostos
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:224139032:por
@@ -105,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:107725088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:52Z'
   warnings: []
   errors: []
 ---
@@ -265,12 +281,14 @@ b) O n.º 1 do artigo 8.º produz efeitos a 22 de junho de 2017.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 3 de agosto de 2020.**
+Promulgado em 3 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de agosto de 2020.**
+Referendado em 4 de agosto de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113472571

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85-a/2025/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-a-2025-923131697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb0d9d1ca2a9c807588e5db05ce24df0f66a9d57794ca281133ace63b1a01b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72caeb7ec529c7fa14bbd755c77f7f6db2f2f0ac6c76784040121bcfc08c7074
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Comissão de Serviço
+- Conselho dos Oficiais de Justiça
 - Definição de Competências
 - Estatuto dos Funcionários de Justiça
-- Carreira Profissional
-- Oficial de Justiça
-- Ministério da Justiça
 - Integração de Trabalhadores
-- Conselho dos Oficiais de Justiça
+- Ministério da Justiça
+- Oficial de Justiça
 - Progressão na Carreira
 - Remuneração
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:27/2025
+  label: Altera, a partir de 1 de julho de 2025, com efeitos a partir de 19 de abril de 2025, os artigos 6.º, 10.º, 11.º,
+    15.º, 17.º, 21.º, 26.º, 27.º e 30.º, adita os artigos 25.º-A e 27.º-A e revoga o n.º 4 do artigo 17.º do Decreto-Lei n.º
+    27/2025, de 20 de março, Diário da República n.º 56/2025, Série I
+  source: null
+  date: '2025-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2001/03/29/p/dre
   label: null
@@ -89,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+- type: cites
+  target: pt:dre:345147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911648873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:21Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +162,9 @@ Os artigos 6.º, 10.º, 11.º, 15.º, 17.º, 21.º, 26.º, 27.º e 30.º do [Dec
 
 3 - O disposto nos números anteriores não exclui o dever de os oficiais de justiça realizarem trabalho fora do horário de funcionamento das secretarias que decorra da lei, nomeadamente o serviço de turno e o que resulte do cumprimento das regras relativas a eleições, aplicando-se a estes casos as disposições relativas a trabalho suplementar da LTFP.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os inspetores do COJ são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas, podendo optar, a todo o tempo, pela remuneração base devida na categoria de origem.
 
@@ -153,11 +174,15 @@ Os artigos 6.º, 10.º, 11.º, 15.º, 17.º, 21.º, 26.º, 27.º e 30.º do [Dec
 
 4 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Os oficiais de justiça a exercer funções de formadores-coordenadores do Centro de Formação de Oficiais de Justiça, previsto no [Decreto-Lei n.º 102/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2001-345147), de 29 de março, são remunerados pelo nível remuneratório 48 da tabela remuneratória única dos trabalhadores que exercem funções públicas, podendo optar, a todo o tempo, pela remuneração base devida na categoria de origem.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os trabalhadores que, à data da transição prevista no n.º 1 do artigo 30.º, se encontrem a exercer funções de secretário de tribunal superior, secretário de justiça, escrivão de direito e técnico de justiça principal em regime de substituição mantêm a colocação e situação funcional existentes àquela data, até à conclusão dos procedimentos concursais de ingresso na categoria de escrivão e de seleção e provimento nos cargos de secretário e secretário de tribunal superior a que se refere o artigo 27.º, sem prejuízo de a sua transição se efetuar nos termos dos artigos 13.º e 14.º
 
@@ -165,7 +190,9 @@ Os oficiais de justiça a exercer funções de formadores-coordenadores do Centr
 
 3 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -187,11 +214,15 @@ Os oficiais de justiça a exercer funções de formadores-coordenadores do Centr
 
 10 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Aos trabalhadores em funções públicas integrados em outras carreiras da Administração Pública que exerçam funções nos mapas de pessoal das secretarias dos tribunais e serviços do Ministério Público aplica-se o regime previsto na LTFP, sem prejuízo dos direitos e dos deveres a que estão sujeitos pelo facto de serem funcionários de justiça, nos termos do n.º 1 do Estatuto dos Funcionários de Justiça, incluindo o dever de confidencialidade.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -205,17 +236,21 @@ Aos trabalhadores em funções públicas integrados em outras carreiras da Admin
 
 6 - Para efeitos do n.º 1 do artigo 49.º do Estatuto dos Funcionários de Justiça, aprovado em anexo ao [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de agosto, na sua redação atual, a autorização do diretor-geral da Administração da Justiça depende da avaliação das necessidades de serviço.
 
-###### Artigo 27.º — Abertura de procedimentos concursais
+Artigo 27.º
+
+Abertura de procedimentos concursais
 
 No prazo máximo de um ano a contar da entrada em vigor do presente decreto-lei, são abertos procedimentos concursais de ingresso na categoria de escrivão e de seleção e provimento nos cargos de secretário e secretário de tribunal superior, com os métodos de seleção previstos em portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da justiça.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A transição dos trabalhadores para a carreira especial de oficial de justiça bem como a extinção das categorias de secretário de tribunal superior e de secretário de justiça e das carreiras judiciais e dos serviços do Ministério Público produzem efeitos no dia seguinte à data prevista no artigo 16.º
 
 2 - [...]
 
-3 - A soma do valor bruto da remuneração base e das despesas de representação ou suplemento de disponibilidade refletido o efeito das faltas que implicam perda de remuneração, a que o trabalhador tem direito por aplicação dos artigos 7.º, 9.º, 10.º, 11.º e 12.º, do n.º 3 do artigo 15.º, dos n.<sup>os</sup>1, 2, 3, 5 e 6 do artigo 17.º, do artigo 20.º, do n.º 1 do artigo 23.º e do artigo 24.º, é paga com efeitos a 1 de janeiro de 2025, a título de acréscimo remuneratório único devido pela nova configuração da carreira profissional, sendo realizados os necessários acertos de contas.
+3 - A soma do valor bruto da remuneração base e das despesas de representação ou suplemento de disponibilidade refletido o efeito das faltas que implicam perda de remuneração, a que o trabalhador tem direito por aplicação dos artigos 7.º, 9.º, 10.º, 11.º e 12.º, do n.º 3 do artigo 15.º, dos n.os1, 2, 3, 5 e 6 do artigo 17.º, do artigo 20.º, do n.º 1 do artigo 23.º e do artigo 24.º, é paga com efeitos a 1 de janeiro de 2025, a título de acréscimo remuneratório único devido pela nova configuração da carreira profissional, sendo realizados os necessários acertos de contas.
 
 4 - Ao montante referido no número anterior acresce ainda o diferencial entre o valor relativo a trabalho suplementar pago ao trabalhador desde 1 de janeiro de 2025 e o valor que lhe corresponderia à luz da nova configuração da carreira profissional.»
 
@@ -233,7 +268,7 @@ Movimento extraordinário
 
 a) Não se aplica o n.º 4 do artigo 13.º do Estatuto dos Funcionários de Justiça, constituindo fatores atendíveis na transferência a integração em categoria superior na carreira de oficial de justiça extinta pelo presente diploma e, em caso de igualdade, sucessivamente a última classificação de serviço e a antiguidade na carreira;
 
-b) Não se aplicam os limites de anos previstos nos n.<sup>os</sup>1 e 3 do artigo 13.º do Estatuto dos Funcionários de Justiça, salvo para os trabalhadores que se encontram em período probatório.
+b) Não se aplicam os limites de anos previstos nos n.os1 e 3 do artigo 13.º do Estatuto dos Funcionários de Justiça, salvo para os trabalhadores que se encontram em período probatório.
 
 3 - Os oficiais de justiça que, ao abrigo da alínea b) do artigo 40.º do Estatuto dos Funcionários da Justiça, ainda não concluíram o período de três anos de permanência a que se comprometeram podem concorrer ao movimento extraordinário previsto no n.º 1.
 
@@ -241,7 +276,9 @@ b) Não se aplicam os limites de anos previstos nos n.<sup>os</sup>1 e 3 do arti
 
 5 - O disposto na alínea a) do n.º 2 aplica-se a todos os movimentos anuais e extraordinários que decorram até que a última classificação de serviço de todos os oficiais de justiça em exercício de funções já respeite a um período inspetivo iniciado após a data de transição prevista no n.º 1 do artigo 30.º
 
-###### Artigo 27.º-A — Aprovação de novos mapas de pessoal
+Artigo 27.º-A
+
+Aprovação de novos mapas de pessoal
 
 No prazo máximo de um ano a contar da entrada em vigor do presente decreto-lei, é aprovada, pelos membros do Governo responsáveis pelas áreas da Administração Pública e da justiça, portaria com os novos mapas de pessoal das secretarias.»
 
@@ -263,12 +300,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de junho de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rita Alarcão Júdice.
 
-**Promulgado em 27 de junho de 2025.**
+Promulgado em 27 de junho de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de junho de 2025.**
+Referendado em 27 de junho de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119240013

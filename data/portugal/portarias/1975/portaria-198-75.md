@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06800/04270428.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-1975-161302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b18778498a8e7899e3adfc16dca0f46bb09ad80deb52c70f3c1c109a05b871ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c2f9f31272e6ca2a0f28ac0751f992944e55c1932b0e9fed2f2af9478a883a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Delegação Regional
+- Delegado Distrital
+- Direcção Geral dos Desportos
+- Formas de Provimento
+- Gratificação
+- Ministério da Educação e Cultura
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:404488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:684451:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:404488:por
+  label: "Revogada pelo DEC LEI.553/77.31.12.1977.MEIC, DR.IS [302-2ºSupl] de 31.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1977-404488
+  date: '1977-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:40:47Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +113,11 @@ Secretaria de Estado dos Desportos e Acção Social Escolar, 6 de Março de 1975
 
 REGULAMENTO DAS DELEGAÇÕES
 
-###### Artigo 1.º Em cada distrito do continente e ilhas adjacentes funciona uma delegação, na dependência técnica, administrativa e financeira da Direcção-Geral dos Desportos, e que se regerá pelo presente Regulamento.
+Artigo 1.º Em cada distrito do continente e ilhas adjacentes funciona uma delegação, na dependência técnica, administrativa e financeira da Direcção-Geral dos Desportos, e que se regerá pelo presente Regulamento.
 
-###### Art. 2.º A acção das delegações integra-se na política global da Direcção-Geral dos Desportos. Para tal manterão estreito contacto, quer no sentido da execução daquela política, quer propondo as medidas que pareçam aconselhadas pelas condições específicas de cada distrito.
+Art. 2.º A acção das delegações integra-se na política global da Direcção-Geral dos Desportos. Para tal manterão estreito contacto, quer no sentido da execução daquela política, quer propondo as medidas que pareçam aconselhadas pelas condições específicas de cada distrito.
 
-###### Art. 3.º São atribuições das delegações:
+Art. 3.º São atribuições das delegações:
 
 a) Organizar, orientar, impulsionar e controlar as actividades desportivas;
 
@@ -110,21 +127,21 @@ c) Interessar e dar apoio às autarquias locais e outras entidades, oficiais ou 
 
 d) Manter a Direcção-Geral dos Desportos permanentemente informada dos factos que interessam à vida desportiva.
 
-###### Art. 4.º Cada delegação será constituída por um delegado, assistido por um órgão consultivo e outro técnico, e será dotada do pessoal administrativo, técnico e auxiliar necessário ao seu funcionamento.
+Art. 4.º Cada delegação será constituída por um delegado, assistido por um órgão consultivo e outro técnico, e será dotada do pessoal administrativo, técnico e auxiliar necessário ao seu funcionamento.
 
 Do delegado distrital
 
-###### Art. 5.º O delegado distrital é nomeado por despacho do Ministro da Educação e Cultura, sob proposta do director-geral dos Desportos.
+Art. 5.º O delegado distrital é nomeado por despacho do Ministro da Educação e Cultura, sob proposta do director-geral dos Desportos.
 
-###### Art. 6.º O exercício do cargo de delegado distrital dá direito ao recebimento de uma gratificação mensal, fixada por despacho do Ministro da Educação e Cultura.
+Art. 6.º O exercício do cargo de delegado distrital dá direito ao recebimento de uma gratificação mensal, fixada por despacho do Ministro da Educação e Cultura.
 
-###### Art. 7.º O mandato do delegado distrital terá a duração de três anos, sendo prorrogável por igual período.
+Art. 7.º O mandato do delegado distrital terá a duração de três anos, sendo prorrogável por igual período.
 
-###### Art. 8.º - 1. O Ministro da Educação e Cultura poderá destacar qualquer funcionário dependente do seu Ministério para desempenhar estas funções, em regime de tempo parcial ou integral.
+Art. 8.º - 1. O Ministro da Educação e Cultura poderá destacar qualquer funcionário dependente do seu Ministério para desempenhar estas funções, em regime de tempo parcial ou integral.
 
 2. Neste caso, o desempenho das funções de delegado considerar-se-á, para todos os efeitos legais, como exercício das suas funções habituais.
 
-###### Art. 9.º Cabe ao delegado:
+Art. 9.º Cabe ao delegado:
 
 a) Chefiar a delegação;
 
@@ -144,7 +161,7 @@ h) Propor a nomeação dos elementos constituintes do conselho técnico e dos me
 
 Do órgão consultivo
 
-###### Art. 10.º O órgão consultivo será constituído por:
+Art. 10.º O órgão consultivo será constituído por:
 
 a) O delegado;
 
@@ -160,19 +177,19 @@ f) Um representante designado pela FNAT ou organismo que lhe suceder;
 
 g) Um representante dos órgãos de informação, convidado pelo delegado distrital.
 
-###### Art. 11.º Compete ao órgão consultivo elaborar e apresentar ao delegado estudos e pareceres sobre as medidas a tomar para promover o desenvolvimento e a generalização da prática desportiva no distrito.
+Art. 11.º Compete ao órgão consultivo elaborar e apresentar ao delegado estudos e pareceres sobre as medidas a tomar para promover o desenvolvimento e a generalização da prática desportiva no distrito.
 
-###### Art. 12.º O órgão consultivo reunirá ao menos uma vez em cada trimestre, mediante convocação do delegado, em sessão plenária.
+Art. 12.º O órgão consultivo reunirá ao menos uma vez em cada trimestre, mediante convocação do delegado, em sessão plenária.
 
 Quando funcione em comissões concelhias, poderá o delegado delegar a presidência.
 
-###### Art. 13.º Às sessões do órgão consultivo poderão, por sua iniciativa ou determinação do delegado, assistir elementos do órgão técnico.
+Art. 13.º Às sessões do órgão consultivo poderão, por sua iniciativa ou determinação do delegado, assistir elementos do órgão técnico.
 
 Do órgão técnico
 
-###### Art. 14.º O órgão técnico é constituído pelo delegado e técnicos da delegação.
+Art. 14.º O órgão técnico é constituído pelo delegado e técnicos da delegação.
 
-###### Art. 15.º É da sua competência:
+Art. 15.º É da sua competência:
 
 a) Elaborar os projectos de acção a submeter a aprovação superior;
 
@@ -182,11 +199,11 @@ c) Garantir a execução do plano de desenvolvimento desportivo distrital;
 
 d) Pronunciar-se sobre a nomeação de monitores e animadores para as acções a realizar.
 
-###### Art. 16.º O órgão técnico funcionará ao menos uma vez por mês, mediante convocação do delegado.
+Art. 16.º O órgão técnico funcionará ao menos uma vez por mês, mediante convocação do delegado.
 
 Disposições finais
 
-###### Art. 17.º As comissões previstas na alínea a) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451) ficarão sujeitas, no que respeita aos subsídios que lhes sejam atribuídos, às seguintes normas:
+Art. 17.º As comissões previstas na alínea a) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451) ficarão sujeitas, no que respeita aos subsídios que lhes sejam atribuídos, às seguintes normas:
 
 1) Apresentarão ao delegado um projecto de orçamento para as acções em vista;
 
@@ -196,12 +213,12 @@ Disposições finais
 
 4) Os documentos comprovativos de pagamentos e recebimentos serão assinados por dois dos seus elementos, sendo um o presidente.
 
-###### Art. 18.º Enquanto não for fixado o quadro de pessoal de cada delegação, poderá o Ministro da Educação e Cultura autorizar, ao abrigo do artigo 16.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451) e sob proposta do director-geral dos Desportos, que seja contratado o pessoal destinado a ocorrer às necessidades de serviço.
+Art. 18.º Enquanto não for fixado o quadro de pessoal de cada delegação, poderá o Ministro da Educação e Cultura autorizar, ao abrigo do artigo 16.º do [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451) e sob proposta do director-geral dos Desportos, que seja contratado o pessoal destinado a ocorrer às necessidades de serviço.
 
-###### Art. 19.º Enquanto o desporto escolar e universitário não estiverem organizados, será o delegado a designar os representantes a que se referem as alíneas b) e c) do artigo 10.º deste Regulamento.
+Art. 19.º Enquanto o desporto escolar e universitário não estiverem organizados, será o delegado a designar os representantes a que se referem as alíneas b) e c) do artigo 10.º deste Regulamento.
 
-###### Art. 20.º É alterado o mapa II anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, cuja anotação (ver nota a) passa a ter a seguinte redacção:
+Art. 20.º É alterado o mapa II anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, cuja anotação (ver nota a) passa a ter a seguinte redacção:
 
 (nota a) Têm direito a gratificação mensal não inferior a 3000$00, a fixar pelo Ministro da Educação e Cultura.
 
-**O Secretário de Estado dos Desportos e Acção Social Escolar, Luís Efrem Elias Casanovas.**
+O Secretário de Estado dos Desportos e Acção Social Escolar, Luís Efrem Elias Casanovas.

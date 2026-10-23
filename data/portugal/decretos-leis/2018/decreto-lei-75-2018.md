@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19600/0493004936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2018/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2018-116640899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df43459deb07cf8b05ebc32c41a860bc71bd539a25c7bb7a1def7bd109f61be5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c61e9b03fd12f73a08688c15c22ad576958fe38c9c26e2a2233bb0593e742543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Certificação Profissional
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Concurso
 - Concurso de Ingresso
+- Contratação de Pessoal
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
+- Forças Armadas
+- Formação Profissional
+- Gestão de Recursos Humanos
+- Indemnização
+- Militar
+- Período Experimental
+- Promoção Profissional
+- Quadro Nacional de Qualificações
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regulamento de Incentivos a Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado
 - Rescisão de Contrato
 - Serviço Militar
 - Voluntariado
-- Recrutamento de Pessoal
-- Indemnização
-- Chefe do Estado Maior do Exército
-- Contratação de Pessoal
-- Forças Armadas
-- Período Experimental
-- Qualificação Profissional
-- Promoção Profissional
-- Quadro Nacional de Qualificações
-- Contrato de Trabalho
-- Regulamento de Incentivos a Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado
-- Militar
-- Gestão de Recursos Humanos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/130/2010/12/14/p/dre
@@ -126,16 +126,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: pt:dre:249535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927764:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:05Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +244,9 @@ c) Permitirem a formação ao longo da vida que habilite a especialização cien
 
 6 - São subsidiariamente aplicáveis ao RCE as regras previstas na Lei do Serviço Militar (LSM), aprovada pela [Lei n.º 174/99](https://diariodarepublica.pt/dr/detalhe/lei/174-1999-558204), de 21 de setembro, na sua redação atual, e no Regulamento da Lei do Serviço Militar, aprovado pelo [Decreto-Lei n.º 289/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2000-615041), de 14 de novembro, na sua redação atual, e, com as necessárias adaptações, as normas aplicáveis ao RC previstas no Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2015-67348942), de 29 de maio, na sua redação atual.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O quantitativo máximo dos efetivos para cada ramo das Forças Armadas para prestação de serviço em RCE é definido no decreto-lei que fixa anualmente os efetivos das Forças Armadas, sem prejuízo do disposto no número seguinte.
 
@@ -212,7 +254,9 @@ c) Permitirem a formação ao longo da vida que habilite a especialização cien
 
 3 - [Revogado.]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O RCE tem a duração máxima de 18 anos.
 
@@ -224,7 +268,9 @@ c) Permitirem a formação ao longo da vida que habilite a especialização cien
 
 5 - Dentro do limite referido no n.º 1, compete ao CEM do respetivo ramo das Forças Armadas estabelecer a duração do contrato inicial, assim como a duração máxima, considerando para o efeito os custos da formação ministrada e a expectativa de afetação funcional do militar.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -246,13 +292,17 @@ f) De 35 anos, para os cidadãos provenientes da reserva de disponibilidade ou q
 
 4 - Os militares na efetividade de serviço ou provenientes da reserva da disponibilidade, que tenham as habilitações que constituam condição especial de ingresso no RCE e a este concorram, beneficiam de preferência na admissão face aos cidadãos provenientes da reserva de recrutamento, em caso de igualdade de classificação no respetivo concurso.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A candidatura ao RCE processa-se mediante abertura de concurso, de entre os militares na efetividade de serviço em RV ou RC e de entre os cidadãos nas situações de reserva de recrutamento e de disponibilidade, desde que preenchidas as condições de admissão.
 
 2 - Os militares na efetividade de serviço em RV ou RC e os cidadãos originários da reserva de disponibilidade que ingressem no RCE na mesma categoria em que prestaram serviço mantêm a antiguidade no posto que detinham em RV e RC.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -264,7 +314,9 @@ c) Na data que constar de despacho do CEM do respetivo ramo das Forças Armadas,
 
 2 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A vigência do RCE fica sujeita a um período experimental, que corresponde ao período da instrução militar básica e complementar, a que se refere o n.º 2 do artigo 25.º da LSM, para os cidadãos provenientes da reserva de recrutamento e ao período da instrução complementar para os cidadãos provenientes da reserva de disponibilidade ou da efetividade de serviço.
 
@@ -272,13 +324,17 @@ c) Na data que constar de despacho do CEM do respetivo ramo das Forças Armadas,
 
 3 - Os militares em RV ou RC que não concluam o período experimental regressam à situação anterior.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Findo o período de duração do contrato inicial a que o militar se encontra vinculado e sem prejuízo da avaliação do mérito, o contrato é renovado automaticamente por períodos bienais até à duração máxima do contrato que tenha sido definida, salvo se qualquer das partes manifestar a intenção de não o renovar, devendo para o efeito comunicá-la por escrito à outra parte com a antecedência mínima de 60 dias relativamente à data da cessação, ou pagar uma indemnização no valor da remuneração percebida correspondente ao período de pré-aviso em falta.
 
 2 - [Revogado.]
 
-###### Artigo 10.º — Certificação da formação
+Artigo 10.º
+
+Certificação da formação
 
 1 - A certificação da formação desenvolvida pelas Forças Armadas está, sempre que possível, alinhada com os referenciais de formação integrados no Catálogo Nacional de Qualificações, de acordo com o estabelecido no regime jurídico do Sistema Nacional de Qualificações.
 
@@ -288,7 +344,9 @@ c) Na data que constar de despacho do CEM do respetivo ramo das Forças Armadas,
 
 4 - A formação ao longo da vida, que habilite à especialização científica ou profissional de nível superior, deve ser certificada numa lógica modular e de capitalização de créditos, de acordo com o previsto no Sistema Europeu de Transferência e Acumulação de Créditos - ECTS.
 
-###### Artigo 11.º — Condições de promoção
+Artigo 11.º
+
+Condições de promoção
 
 1 - A promoção de militares em RCE depende da verificação das condições gerais e especiais aplicáveis aos militares dos quadros permanentes, previstas estatutariamente, com as exceções previstas nos números seguintes.
 
@@ -314,7 +372,9 @@ c) A promoção ao posto de segundo-marinheiro ou primeiro-cabo depende de um an
 
 6 - A promoção aos restantes postos processa-se por diuturnidade.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O militar que, por sua iniciativa, rescinda o vínculo contratual após o período experimental e antes do termo do contrato inicial a que se encontra vinculado fica sujeito ao pagamento de indemnização ao Estado, nos termos e montantes fixados por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do CEM do respetivo ramo das Forças Armadas, tendo em conta os custos envolvidos na formação ministrada e a expectativa da afetação funcional do militar.
 
@@ -324,7 +384,9 @@ c) A promoção ao posto de segundo-marinheiro ou primeiro-cabo depende de um an
 
 4 - [...].
 
-###### Artigo 13.º — Regime de incentivos
+Artigo 13.º
+
+Regime de incentivos
 
 1 - Aos militares em RCE são aplicáveis em matéria de incentivos as disposições previstas no Regulamento de Incentivos à Prestação de Serviço Militar nos Diferentes Regimes de Contrato e no Regime de Voluntariado, com as especificidades ali previstas para esta modalidade de contrato.
 
@@ -350,15 +412,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de setembro de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - José Alberto de Azeredo Ferreira Lopes.
 
-**Promulgado em 20 de setembro de 2018.**
+Promulgado em 20 de setembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2018.**
+Referendado em 28 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -549,3 +611,5 @@ c) A promoção ao posto de segundo-marinheiro ou primeiro-cabo depende de um an
 ###### Artigo 18.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
+
+111709314

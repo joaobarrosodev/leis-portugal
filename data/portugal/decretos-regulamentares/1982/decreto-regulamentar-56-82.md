@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1982-374398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ba25e0ca2018e0676d149ac1ed13064b29810fed6c562909c8f5afde1ad793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 232c373cb61d9690474e56156fc46507868715869ca824df65be33935b7e17d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Local
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:457443:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:44Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 43.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 43.º do [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, passa a ter a seguinte redacção:
 
 ###### ARTIGO 43.º — Admissão a concurso
 
@@ -104,12 +110,12 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 2 - A admissão a concurso para lugares da mesma categoria ou para categoria equiparada àquela de que o funcionário é titular só é permitida após a prestação de, pelo menos, 2 anos de bom e efectivo serviço no lugar que ocupa.
 
-###### Art. 2.º O disposto no presente diploma apenas se aplica aos concursos que se realizem a partir da data da sua publicação.
+Art. 2.º O disposto no presente diploma apenas se aplica aos concursos que se realizem a partir da data da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia.
 
-**Promulgado em 24 de Agosto de 1982.**
+Promulgado em 24 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 278/1970, 2º Suplemento, Série I de 1970-11-30
   number: '278'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1816-(42) a 1816-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/27802/00420042.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/611-1970-226206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecb4edfd6265dd43468326b5417ca63dfcb3dafd4b464e3cc6a32e89fd1f7da9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5155eaf3c11948f87445e6c9d83543efcfd35863dd36e1f908c2e3b11cb0a81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:372642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:08Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +97,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos te
 
 12000000 da taxa de 4$50 (uma automotora e um selo de 25 réis) - rosa-claro, sépia-claro, terra-de-siena, azul-acinzentado, sépia-escuro, azul-da-prússsa-escuro, carmim, amarelo, azul-da-prússia-claro e preto.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

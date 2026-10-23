@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/1999/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1999-323075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e76529c4304bdcfee2b9690bf4cd8be4086ac3c61b5a2efa23f9bd98b5f754a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7105e3c4487d11ed8d5bc43ff095d7cc770373fd58f56ed29d89f49eda5add46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Distribuição de Energia Elétrica
 - Energia Elétrica
-- Mudança Tecnológica
-- Política Energética
 - Especificação Técnica
-- Apoio ao Investimento
 - Licenciamento
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Normas de Segurança
+- Política Energética
 - Preço
-- Serviço Público
 - Produção de Energia Elétrica
 - Recursos Energéticos
 - Regulamento
+- Serviço Público
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico Independente
 - Sistema Elétrico Nacional
@@ -89,6 +89,31 @@ relationships:
   target: pt:dre:259256:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201849:por
+  label: "Alterados os arts 1º e 6º do anexo I, os nºs 1, 2, 5, 15, 18 e 32 do anexo II, aditado o nº 33 ao anexo II e revogados\
+    \ os nºs 19, 20, 21 e 22 do anexo II do Dec Lei 189/88, de 27-Mai, na redacção dada pelo presente diploma, pelo DEC LEI.339-C/2001.2001.12.29.MECO\
+    \ DR.IS-A [300]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-c-2001-201849
+  date: '2001-12-29'
+- type: amended_by
+  target: pt:dre:517381:por
+  label: "Alterado e republicado o anexo II do Dec Lei 189/88, de 27-Mai, na redacção do presente diploma, pelo DEC LEI.33-A/2005.16.02.2005.MAET,\
+    \ DR.IS-A [33-Supl] de 16.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-a-2005-517381
+  date: '2005-02-16'
+- type: amended_by
+  target: pt:dre:638769:por
+  label: "Alterado o anexo II do Dec Lei 189/88 de 27-Mai, com a redacção conferida no diploma, pelo DEC LEI.225/2007.31.05.2007.MEI,\
+    \ DR.IS [105] de 31.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-2007-638769
+  date: '2007-05-31'
+- type: amended_by
+  target: pt:dre:259256:por
+  label: "Alterado e revogado o nº26 do anexo II do Dec Lei 189/88, de 27-maio, na redação do presente diploma, pelo DEC LEI.35/2013.28.02.2013.MEE,\
+    \ DR.IS [42] de 28.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2013-259256
+  date: '2013-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/1995/07/27/p/dre
   label: null
@@ -109,16 +134,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:576278:por
+  label: "Revogados, quando aplicáveis à informação, gestão, atribuição e caducidade dos pontos de recepção, os arts. 2º,\
+    \ 5º, 7º e 8º do Dec Lei 189/88 de 27-Mai, com redacção do presente diploma, pelo DEC LEI.312/2001.2001.12.10.MECO DR.IS-A\
+    \ [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-2001-576278
+  date: '2001-12-10'
+- type: repealed_by
+  target: pt:dre:588861:por
+  label: "Revogado, a partir de 07.11.2012, mantendo-se em vigor nos termos dos nºs. 4, 5 e 7, o anexo II do Dec Lei 189/88,\
+    \ de 27-maio, na redação do Dec Lei 313/95, de 24-nov, do Dec Lei 168/99, de 18-maio, do Dec Lei 312/2001, de 10-dez,\
+    \ do Dec Lei 339-C/2001, de 29-dez, do Dec Lei 33-A/2005, de 16-fev e do Dec Lei 225/2007, de 31-maio, pelo DEC LEI.215-B/2012.08.10.2012.MEE,\
+    \ DR.IS [194-Supl] de 08.10.2012 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-b-2012-588861
+  date: '2012-10-08'
 article_structure:
-  article_count: 40
+  article_count: 37
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:00Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +227,9 @@ Os artigos 1.º, 7.º, 9.º, 22.º e 27.º do [Decreto-Lei n.º 189/88](https://
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As instalações de produção de energia eléctrica carecem de autorização.
 
@@ -177,7 +243,9 @@ Os artigos 1.º, 7.º, 9.º, 22.º e 27.º do [Decreto-Lei n.º 189/88](https://
 
 6 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os requisitos técnicos e de segurança estabelecidos no presente diploma visam:
 
@@ -205,7 +273,9 @@ e) Assegurar a viabilidade de soluções que permitam, no quadro de uma adequada
 
 8 - Para efeitos do disposto no número anterior, a DGE deve informar o gestor da rede pública das instalações que forem sendo autorizadas ao abrigo do presente diploma.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os produtores de energia eléctrica abrangidos no âmbito do presente diploma gozam de uma obrigação de compra, pela rede pública, da energia produzida durante o prazo de vigência das licenças previstas no presente diploma.
 
@@ -235,7 +305,9 @@ b) Os benefícios de natureza ambiental proporcionados pelo uso dos recursos end
 
 10 - (Revogado.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - (Anterior n.º 6.)
 
@@ -277,15 +349,15 @@ O [Decreto-Lei n.º 189/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 29 de Abril de 1999.**
+Promulgado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -475,11 +547,11 @@ c) POT(índice med,m) é a potência média disponibilizada pela central renová
 
 10 - O valor de COEF(índice po,m), previsto no n.º 8, é calculado através da fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)
 
 12 - O valor de POT(índice med,m), previsto no n.º 8, é calculado através da fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)
 
 13 - O valor de PV(VRD)(índice m), previsto no n.º 1, é calculado através da fórmula seguinte:
 
@@ -519,7 +591,7 @@ b) 0,035, no caso de centrais com potência menor que 5 MW.
 
 19 - Após o período aplicável a VRD e até ao fim do período de vigência do licenciamento concedido, as centrais renováveis serão remuneradas, pelo fornecimento da energia entregue à rede, através da fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)](https://files.diariodarepublica.pt/1s/1999/05/115a00/26192628.pdf)
 
 20 - Na fórmula do número anterior, KMHO(índice m), PF(VRD)(índice m), IPC(índice m - 1), IPC(índice ref), PV(VRD)(índice m) e LEV mantêm os mesmos significados e valores resultantes da aplicação da fórmula prevista no n.º 1.
 
@@ -763,7 +835,9 @@ A facturação pelo produtor da energia que fornece será feita independentement
 
 A produção de energia eléctrica, nos termos do presente diploma, é sempre considerada como de relevante interesse nacional e como sector prioritário para todos os efeitos previstos na legislação sobre investimento estrangeiro e transferências de tecnologia.
 
-### CAPÍTULO VI — Artigo 22.º
+### CAPÍTULO VI
+
+###### Artigo 22.º
 
 Disposições finais
 

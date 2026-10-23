@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24005-1969-526191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a86406b6b46ca808240daf35ce1a125bf3c709a41d358c56cb974f66ccc7cb3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90bdd4668a94fcc6915bb4f1ccd2eae39adec206a86db98b751748f81219bda0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:263031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:08Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +101,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 3.º Entre os artigos 43.º e 44.º são introduzidos três novos artigos com a redacção seguinte:
 
-###### Art. 43.º-A. O superintendente dos Serviços do Pessoal da Armada e o superintendente dos Serviços do Material da Armada utilizam, respectivamente, como órgãos de estudo e de trabalho, a 1.ª e a 4.ª Divisão do Estado-Maior da Armada, na medida em que o considerem necessário.
+Art. 43.º-A. O superintendente dos Serviços do Pessoal da Armada e o superintendente dos Serviços do Material da Armada utilizam, respectivamente, como órgãos de estudo e de trabalho, a 1.ª e a 4.ª Divisão do Estado-Maior da Armada, na medida em que o considerem necessário.
 
-###### Art. 43.º-B. Aos superintendentes referidos no número anterior, integrados no Estado-Maior da Armada ao abrigo do disposto no [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, apenas são aplicáveis as disposições que constam do Regulamento daquele Estado-Maior quando utilizem as divisões especificadas no mesmo número.
+Art. 43.º-B. Aos superintendentes referidos no número anterior, integrados no Estado-Maior da Armada ao abrigo do disposto no [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031), de 16 de Novembro de 1968, apenas são aplicáveis as disposições que constam do Regulamento daquele Estado-Maior quando utilizem as divisões especificadas no mesmo número.
 
-###### Art. 43.º-C. A utilização das citadas divisões pelos referidos superintendentes não implica para estes oficiais generais qualquer outra subordinação diferente da fixada no [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031).
+Art. 43.º-C. A utilização das citadas divisões pelos referidos superintendentes não implica para estes oficiais generais qualquer outra subordinação diferente da fixada no [Decreto n.º 48689](https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031).
 
 4.º Entre os artigos 17.º e 18.º do Regulamento é introduzido um novo artigo com a redacção seguinte:
 
-###### Art. 17.º-A. Os chefes da 1.ª e da 4.ª Divisões do Estado-Maior da Armada, independentemente da sua subordinação, respectivamente, ao superintendente dos Serviços do Pessoal da Armada e ao superintendente dos Serviços do Material da Armada, ficam subordinados ao vice-chefe do Estado-Maior da Armada ou ao subchefe do Estado-Maior da Armada, conforme for determinado pelo chefe do mesmo Estado-Maior, para a execução dos trabalhos que pelos mesmos oficiais generais sejam determinados ou que sejam da sua responsabilidade.
+Art. 17.º-A. Os chefes da 1.ª e da 4.ª Divisões do Estado-Maior da Armada, independentemente da sua subordinação, respectivamente, ao superintendente dos Serviços do Pessoal da Armada e ao superintendente dos Serviços do Material da Armada, ficam subordinados ao vice-chefe do Estado-Maior da Armada ou ao subchefe do Estado-Maior da Armada, conforme for determinado pelo chefe do mesmo Estado-Maior, para a execução dos trabalhos que pelos mesmos oficiais generais sejam determinados ou que sejam da sua responsabilidade.
 
 5.º O § 1.º do artigo 4.º, a alínea b) do artigo 17.º, as alíneas a) e b) do artigo 33.º, os artigos 44.º, 46.º, 47.º, 48.º e 53.º e a alínea b) do corpo do artigo 55.º do Regulamento do Estado-Maior da Armada passam a ter as redacções seguintes:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º Ao abrigo do estabelecido no artigo 4.º do diploma referido no corpo deste artigo, com a redacção que lhe foi dada pelos Decretos-Leis n.os 44962, de 6 de Abril de 1963, e 46315, de 28 de Abril de 1965, o Estado-Maior da Armada funciona sob as ordens do vice-chefe do mesmo Estado-Maior da Armada, por delegação do chefe do Estado-Maior da Armada.
 
@@ -113,7 +121,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 ...
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 a) ...
 
@@ -123,7 +131,7 @@ c) ...
 
 ...
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 a) Os relatórios dos comandantes de áreas oceânicas, regiões navais e defesas marítimas, forças e unidades, acompanhados dos relatórios dos respectivos chefes de serviço e das informações que os mesmos mereçam dos comandos superiores e dos organismos técnicos;
 
@@ -139,7 +147,7 @@ f) ...
 
 ...
 
-###### Art. 44.º No âmbito do Estado-Maior da Armada funcionam os seguintes organismos:
+Art. 44.º No âmbito do Estado-Maior da Armada funcionam os seguintes organismos:
 
 a) Conselho Técnico Naval;
 
@@ -151,7 +159,7 @@ d) Centro de Investigação Operacional da Armada.
 
 ...
 
-###### Art. 46.º A constituição do Conselho Técnico Naval é a seguinte:
+Art. 46.º A constituição do Conselho Técnico Naval é a seguinte:
 
 Presidente: o chefe do Estado-Maior da Armada.
 
@@ -161,17 +169,17 @@ Vogais: o vice-chefe do Estado-Maior da Armada, os superintendentes dos Serviço
 
 § 2.º ...
 
-###### Art. 47.º Nas reuniões do Conselho Técnico Naval tomarão sempre parte o vice-chefe do Estado-Maior da Armada e o subchefe, podendo o chefe do Estado-Maior da Armada dispensar os restantes membros, quando a sua presença seja considerada desnecessária, tendo em conta os assuntos que vão ser apreciados.
+Art. 47.º Nas reuniões do Conselho Técnico Naval tomarão sempre parte o vice-chefe do Estado-Maior da Armada e o subchefe, podendo o chefe do Estado-Maior da Armada dispensar os restantes membros, quando a sua presença seja considerada desnecessária, tendo em conta os assuntos que vão ser apreciados.
 
-###### Art. 48.º O Conselho Técnico Naval pode entregar o estudo de certos assuntos a comissões, indicando os oficiais que delas devem fazer parte, ou às direcções ou outros organismos equivalentes das Superintendências ou ainda à Intendência dos Serviços de Administração Financeira da Marinha, devendo, em todos os casos, ser apresentado relatório para ser discutido em nova sessão do Conselho.
-
-...
-
-###### Art. 53.º O Centro de Investigação Operacional da Armada (C. I. O. A.) rege-se por diploma próprio.
+Art. 48.º O Conselho Técnico Naval pode entregar o estudo de certos assuntos a comissões, indicando os oficiais que delas devem fazer parte, ou às direcções ou outros organismos equivalentes das Superintendências ou ainda à Intendência dos Serviços de Administração Financeira da Marinha, devendo, em todos os casos, ser apresentado relatório para ser discutido em nova sessão do Conselho.
 
 ...
 
-###### Art. 55.º ...
+Art. 53.º O Centro de Investigação Operacional da Armada (C. I. O. A.) rege-se por diploma próprio.
+
+...
+
+Art. 55.º ...
 
 ...
 
@@ -193,12 +201,12 @@ b) O vice-chefe do Estado-Maior da Armada, os superintendentes e o subchefe do E
 
 10.º São acrescentados os artigos 66.º, 67.º e 68.º com as seguintes redacções:
 
-###### Art. 66.º Enquanto não entrar em funcionamento a Direcção de Infra-Estruturas Navais continuará a funcionar no âmbito do Estado-Maior da Armada a Comissão Permanente de Infra-Estruturas da Armada.
+Art. 66.º Enquanto não entrar em funcionamento a Direcção de Infra-Estruturas Navais continuará a funcionar no âmbito do Estado-Maior da Armada a Comissão Permanente de Infra-Estruturas da Armada.
 
 § 1.º O presidente da Comissão Permanente de Infra-Estruturas da Armada é um oficial general, a designar pelo Ministro da Marinha sob proposta do chefe do Estado-Maior da Armada, e o secretário é um dos oficiais adjuntos de divisão do Estado-Maior da Armada.
 
-###### Art. 67.º Até que fiquem concluídas as instalações que estão sendo preparadas para o efeito, o Centro de Estudos Especiais da Armada manter-se-á no âmbito do Estado-Maior da Armada.
+Art. 67.º Até que fiquem concluídas as instalações que estão sendo preparadas para o efeito, o Centro de Estudos Especiais da Armada manter-se-á no âmbito do Estado-Maior da Armada.
 
-###### Art. 68.º O Centro de Estudos Especiais da Armada e a Comissão Permanente de Infra-Estruturas da Armada regem-se por diplomas próprios e é-lhes aplicável o disposto no § único do artigo 5.º deste Regulamento.
+Art. 68.º O Centro de Estudos Especiais da Armada e a Comissão Permanente de Infra-Estruturas da Armada regem-se por diplomas próprios e é-lhes aplicável o disposto no § único do artigo 5.º deste Regulamento.
 
 Ministério da Marinha, 31 de Março de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

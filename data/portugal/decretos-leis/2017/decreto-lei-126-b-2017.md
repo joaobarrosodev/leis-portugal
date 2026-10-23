@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06
   number: '193'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5600-(14) a 5600-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19301/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126-b/2017/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2017-108269606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 460c86dfb6292a5a7f6a22cc0204cf0b41bb33eed827897506f5d504fd25411e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f66553f4ee33915700003cb5e1dba81bfaba87a02f8ff7769ec3732f4e1e3ad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
 - Bonificação de Pensões
+- Caixa de Previdência
 - Caixa de Reforma
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Contrato Coletivo de Trabalho
 - Contribuições da Segurança Social
+- Desemprego
 - Empregado Bancário
 - Estatuto da Aposentação
-- Caixa Geral de Aposentações
 - Idade de Reforma
 - Invalidez
-- Caixa de Previdência
 - Pagamento de Contribuições
-- Reforma Antecipada
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Pensão Unificada
-- Prazo de Garantia
 - Pensões
+- Prazo de Garantia
 - Prestações da Segurança Social
-- Desemprego
 - Proteção Social
 - Reforma
+- Reforma Antecipada
 - Regime Contributivo da Segurança Social
 - Regime de Protecção Social Convergente
 - Regime Geral da Segurança Social
 - Segurança Social
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116417932:por
+  label: Alterado o art. 35.º do Dec Lei 187/2007 de 10-maio, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 73/2018 - Diário da República n.º 179/2018, Série I de 2018-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2018-116417932
+  date: '2018-09-17'
+- type: amended_by
+  target: pt:dre:117503935:por
+  label: Alterados os arts. 35.º, 36.º e 49.º do Dec Lei 187/2007, de 10-mai, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 119/2018 - Diário da República n.º 249/2018, Série I de 2018-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2018-117503935
+  date: '2018-12-27'
+- type: amended_by
+  target: pt:dre:122572388:por
+  label: Alterado o art. 36.º, redação do presente diploma, do Dec Lei 187/2007 de 10-mai, pelo(a) Decreto-Lei n.º 79/2019
+    - Diário da República n.º 113/2019, Série I de 2019-06-14 nos termos do n.º 2 do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2019-122572388
+  date: '2019-06-14'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado, a partir de 29.06.2019 e nos termos do art. 210.º, o art. 4.º do Estatuto da Aposentação, aprovado pelo
+    Dec Lei 498/72, de 09-dez, na redação de presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019,
+    Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2016/03/08/p/dre
   label: null
@@ -137,16 +162,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:105711788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105711789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66147743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73803671:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:35Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +296,9 @@ e) Cômputo dos anos civis com registo de remunerações relevantes para a deter
 
 2 - Para efeitos do disposto no número anterior, consideram-se outros regimes de proteção social os regimes especiais de segurança social, o regime de proteção social convergente, os regimes das caixas de reforma ou previdência ainda subsistentes, o regime de segurança social substitutivo constante de instrumento de regulamentação coletiva de trabalho vigente no setor bancário e os regimes dos sistemas de segurança social estrangeiros, de acordo com o disposto em instrumentos internacionais, desde que confiram proteção nas eventualidades de invalidez e velhice.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Para efeitos da totalização de períodos contributivos prevista no artigo anterior, são considerados os anos civis em que o total de dias com registo de remunerações seja igual ou superior a 120, sem prejuízo do disposto no n.º 2 do artigo 96.º
 
@@ -241,7 +308,9 @@ e) Cômputo dos anos civis com registo de remunerações relevantes para a deter
 
 4 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - No momento do cálculo da pensão de velhice, ao montante da pensão estatutária é aplicável o fator de sustentabilidade correspondente ao ano de início da pensão, sem prejuízo do disposto nos n.os 5 e 6.
 
@@ -261,7 +330,9 @@ b) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 46 an
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -279,13 +350,17 @@ b) Beneficiários com idade igual ou superior a 60 anos e com, pelo menos, 46 an
 
 8 - Estão excluídas do âmbito de aplicação do presente artigo as pensões estatutárias dos beneficiários referidos no n.º 6 do artigo anterior.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As contagens especiais de períodos de atividade referidas no número anterior não relevam para efeitos do cômputo dos anos civis com registo de remunerações previstos no n.º 6 do artigo 35.º
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 As pensões de invalidez adquirem a natureza de pensão de velhice a partir do mês seguinte àquele em que o pensionista atinge a idade normal de acesso à pensão de velhice em vigor.»
 
@@ -329,12 +404,12 @@ b) O n.º 2 do artigo 7.º do [Decreto-Lei n.º 167-E/2013](https://diariodarepu
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 27 de setembro de 2017.**
+Promulgado em 27 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de outubro de 2017.**
+Referendado em 3 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

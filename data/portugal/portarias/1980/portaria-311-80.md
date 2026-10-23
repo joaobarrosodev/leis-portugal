@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 125/1980, 1º Suplemento, Série I de 1980-05-30
   number: '125'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1292-(1) a 1292-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12501/00010002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-1980-667948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11948b56de723aab4bcfdb59c2620f7c06afd0f4b879503d7122d7b5d67b95aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 310078760ee5361126b25e6d90fcd0376879f5e17f58cb8b617c65d3b80e0811
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Peixe
 relationships:
 - type: amended_by
   target: pt:dre:549812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:375646:por
+  label: "Alterada a alínea a) do n.º 1 do n.º 13.º do presente diploma pela PORT.866/82.11.09.1982.MACP, DR.IS [211] de 11.09.1982\0\
+    82\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/866-1982-375646
+  date: '1982-09-11'
+- type: amended_by
+  target: pt:dre:308540:por
+  label: "Alteradas as alíneas a) e b) do n.º 1 do n.º 13.º, pela PORT.101/83.29.01.1983.MACP, DR.IS [24] de 29.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-1983-308540
+  date: '1983-01-29'
+- type: amended_by
+  target: pt:dre:382247:por
+  label: "Alterado o n.º 1 do n.º 13º e o n.º 1 do n.º 14º pela PORT.581/84.08.08.1984.MCT, DR.IS [183] de 08.08.1984\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/581-1984-382247
+  date: '1984-08-08'
+- type: amended_by
+  target: pt:dre:181432:por
+  label: "Aditado o n.º 1.º-A do presente diploma, pela PORT.378/85.19.06.1985.MCT, DR.IS [138] de 19.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1985-181432
+  date: '1985-06-19'
+- type: amended_by
+  target: pt:dre:495085:por
+  label: "Alterado o n.º 1 do n.º 13.º e o n.º 1 do n.º 14.º pela PORT.779/87.08.09.1987.MAPA, DR.IS [206] de 08.09.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-1987-495085
+  date: '1987-09-08'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549812:por
+  label: "Revogados os n.ºs 12.º, 13.º e 14.º pela PORT.995/89.16.11.1989.MCT, DR.IS [264] de 16.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/995-1989-549812
+  date: '1989-11-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:09Z'
   warnings: []
   errors: []
 ---

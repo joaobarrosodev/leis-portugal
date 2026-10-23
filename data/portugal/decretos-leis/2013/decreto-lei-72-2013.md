@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/10500/0319003199.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2013/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dfd386eb9bbb09763aad75bc895f24c32394230c96690007529468251796a47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a6f6225c71224b68150d3a6bbf06d816d9d21314cd06695ca91fd01bb23bd30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Incêndio
+- Autoridade Nacional de Protecção Civil
+- Catástrofe
 - Centro de Coordenação Operacional
 - Centro de Coordenação Operacional Distrital
 - Centro de Coordenação Operacional Nacional
+- Comando Nacional de Operações de Socorro
 - Comissão Nacional de Protecção Civil
 - Definição de Competências
-- Catástrofe
+- Incêndio
 - Orgânica
-- Autoridade Nacional de Protecção Civil
-- Comando Nacional de Operações de Socorro
+- Proteção Civil
 - Siops
 - Sistema de Gestão de Operações
 relationships:
@@ -112,16 +112,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666766:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:205450974:por
+  label: Revogado, a partir de 31.12.2022 e com efeitos a 01.01.2023, o Dec Lei 134/2006 de 25-jul, na versão republicada
+    pelo presente diploma pelo(a) Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de
+    2022-12-30 nos termos do art. 8.º e al. a) do art. 9.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-a-2022-205450974
+  date: '2022-12-30'
 article_structure:
-  article_count: 69
+  article_count: 46
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:46Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +203,9 @@ Os artigos 3.º, 4.º, 6.º a 22.º, 28.º, 32.º e 33.º do [Decreto-Lei n.º 1
 
 6 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -184,13 +221,17 @@ Os artigos 3.º, 4.º, 6.º a 22.º, 28.º, 32.º e 33.º do [Decreto-Lei n.º 1
 
 7 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O Comando Nacional de Operações de Socorro, adiante designado por CNOS, é constituído pelo comandante operacional nacional, pelo 2.º comandante operacional nacional e por três adjuntos de operações nacionais.
 
 2 - O CNOS compreende a célula operacional de planeamento, operações, monotorização e avaliação do risco e informações, a célula operacional de logística e comunicações e a célula operacional de gestão de meios aéreos, dirigidas por chefes de células operacionais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo de outras competências previstas na lei, são competências do CNOS no âmbito do SIOPS:
 
@@ -214,7 +255,9 @@ i) [...].
 
 2 - O 2.º comandante operacional nacional, os adjuntos de operações nacionais e os chefes de células operacionais dependem hierarquicamente do comandante operacional nacional e exercem as competências e funções que este determinar.
 
-###### Artigo 8.º — Célula operacional de planeamento, operações, monitorização e avaliação do risco e informações
+Artigo 8.º
+
+Célula operacional de planeamento, operações, monitorização e avaliação do risco e informações
 
 Compete à célula operacional de planeamento, operações, monitorização e avaliação do risco e informações:
 
@@ -238,7 +281,9 @@ i) [...];
 
 j) Manter informação atualizada sobre acidentes graves e catástrofes, especialmente quando ocorridos em território nacional.
 
-###### Artigo 9.º — Célula operacional de logística e de comunicações
+Artigo 9.º
+
+Célula operacional de logística e de comunicações
 
 Compete à célula operacional de logística e de comunicações:
 
@@ -260,13 +305,17 @@ h) Organizar e assegurar o funcionamento das telecomunicações impostas pelas n
 
 i) Supervisionar e assegurar o controlo, a manutenção e o funcionamento da rede de comunicações dos corpos de bombeiros.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O comando distrital de operações de socorro, adiante designado por CDOS, é constituído pelo comandante operacional distrital e pelo 2.º comandante operacional distrital.
 
 2 - [Revogado].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo de outras competências previstas na lei, são competências do CDOS no âmbito do SIOPS:
 
@@ -288,7 +337,9 @@ g) Propor os dispositivos distritais, os planos de afetação de meios técnicos
 
 3 - O comandante operacional distrital depende hierarquicamente do comandante operacional de agrupamento distrital.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O sistema de gestão de operações é uma forma de organização operacional que se desenvolve de uma forma modular e evolutiva de acordo com a importância e o tipo de ocorrência.
 
@@ -300,7 +351,9 @@ g) Propor os dispositivos distritais, os planos de afetação de meios técnicos
 
 5 - Sem prejuízo do disposto na legislação em vigor, o desenvolvimento e a simbologia do sistema de gestão de operações é estabelecido por despacho do Presidente da ANPC, sob proposta do comandante operacional nacional.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -324,11 +377,15 @@ g) A fixação de objetivos específicos para o nível tático.
 
 4 - No nível de manobra determinam-se e executam-se tarefas específicas, normalmente realizadas e desenvolvidas com meios humanos e com o apoio de meios técnicos de acordo com os objetivos definidos.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O posto de comando operacional (PCO) é o órgão diretor das operações no local da ocorrência destinado a apoiar o COS na tomada das decisões e na articulação dos meios no teatro de operações.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O PCO tem por missões genéricas:
 
@@ -344,7 +401,9 @@ e) [...];
 
 f) [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O PCO é constituído pelas células de planeamento, operações e logística, cada uma com um responsável nomeado pelo COS, que assume a designação de Oficial de Planeamento, Oficial de Operações e Oficial de Logística.
 
@@ -354,13 +413,17 @@ f) [...].
 
 4 - Fazem ainda parte do posto de comando os representantes dos agentes de proteção civil com meios empenhados na operação ou que se considerem pertinentes para o desenrolar da operação.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Um teatro de operações (TO) organiza-se em setores a que correspondem zonas geográficas ou funcionais conforme o tipo de ocorrência e as opções estratégicas consideradas.
 
 2 - Cada setor do TO tem um responsável que assume a definição de comandante de setor.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As zonas de intervenção caraterizam-se como áreas de configuração e amplitude variáveis e adaptadas às circunstâncias e condições do tipo de ocorrência, podendo compreender zonas de sinistro, zonas de apoio, zonas de concentração e reserva e zonas de receção de reforços.
 
@@ -368,23 +431,33 @@ f) [...].
 
 3 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 A zona de sinistro (ZS) é a superfície na qual se desenvolve a ocorrência, de acesso restrito, onde se encontram exclusivamente os meios necessários à intervenção direta e com missão atribuída, sob a responsabilidade do COS.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 A zona de apoio (ZA) é uma zona adjacente à ZS, de acesso condicionado, onde se concentram os meios de apoio e logísticos estritamente necessários ao suporte dos meios em operação e onde estacionam meios de intervenção para resposta imediata.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 A zona de concentração e reserva (ZCR) é uma zona do teatro de operações onde se localizam temporariamente meios e recursos disponíveis sem missão imediata e onde se mantém o sistema de apoio logístico às forças.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A zona de receção de reforços (ZRR) é uma zona de controlo e apoio logístico, sob a responsabilidade do comandante operacional distrital da área onde se desenvolve o sinistro, para onde se dirigem os meios de reforço atribuídos pelo CCON antes de atingirem a ZCR no teatro de operações.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -404,13 +477,17 @@ e) Garantir a prioridade da intervenção terrestre e aérea para as zonas de ma
 
 f) Garantir permanentemente a defesa de pessoas e seus bens.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Os serviços municipais de proteção civil, os corpos de bombeiros e outras entidades integrantes do sistema de proteção e socorro devem informar, de forma célere, o CDOS, e este o CADIS e o CNOS, de qualquer acidente grave ou catástrofe iminente ou ocorrido nas costas litorais de Portugal e demais áreas de responsabilidade da autoridade marítima de que tenham conhecimento.
 
 2 - O CCON coordena as ações de todas as entidades necessárias à intervenção e articula-se com o Centro de Coordenação de Busca e Salvamento Marítimo-MRCC de Lisboa, sem prejuízo do disposto no [Decreto-Lei n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1994-512027), de 22 de janeiro, alterado pelo [Decreto-Lei n.º 399/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1999-666766), de 14 de outubro, e no [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de março, alterado pelo [Decreto-Lei n.º 235/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2012-191569), de 31 de outubro.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Os serviços municipais de proteção civil, os corpos de bombeiros e outras entidades integrantes do sistema de proteção e socorro devem informar, de forma célere, o CDOS, e este o CADIS e o CNOS, de qualquer acidente grave ou catástrofe iminente ou ocorrido em Portugal com aeronaves de que tenham conhecimento.
 
@@ -432,13 +509,17 @@ b) Estudar e planear o apoio logístico ao nível nacional de apoio às operaç�
 
 c) Articular com os serviços competentes as matérias relativas à operacionalidade da rede de comunicações aéreas.
 
-###### Artigo 9.º-B — Agrupamento distrital de operações de socorro
+Artigo 9.º-B
+
+Agrupamento distrital de operações de socorro
 
 1 - Os agrupamentos distritais de operações de socorro são dirigidos pelos comandantes operacionais de agrupamento distrital designados abreviadamente por CADIS, sendo substituídos nas sua faltas e impedimentos por um comandante operacional distrital do seu âmbito territorial a designar pelo comandante operacional nacional.
 
 2 - A estrutura de apoio ao CADIS é assegurada por um comando operacional distrital de operações de socorro da sua área de âmbito territorial, a designar pelo comandante operacional nacional.
 
-###### Artigo 9.º-C — Competências
+Artigo 9.º-C
+
+Competências
 
 Sem prejuízo de outras competências previstas na lei, são competências do CADIS no âmbito do SIOPS, e no seu espaço territorial:
 
@@ -476,15 +557,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de maio de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 29 de maio de 2013.**
+Promulgado em 29 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de maio de 2013.**
+Referendado em 30 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

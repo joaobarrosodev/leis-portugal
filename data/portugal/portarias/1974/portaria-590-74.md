@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/590-1974-473769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b757daa3b77b1ea7a52885c22e0ff6d7ace7f241885a1efacf1fa5cb307f569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46c9367236c413402f0cbaa54a8fc3b0251c9ca2ca4c0ceb5bcfafe6dcc8f254
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,36 @@ relationships:
   target: pt:dre:160754:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:00Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +120,9 @@ Nestes termos, ao abrigo do disposto na base XXVIII da [Lei n.º 2115](https://d
 
 Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado da Segurança Social, o seguinte:
 
-###### Artigo 1.º As remunerações constantes do anexo IV do Estatuto do Pessoal da Administração das Instituições de Previdência Social passam a ser as indicadas na relação que se junta à presente portaria e passa a fazer parte integrante do Estatuto.
+Artigo 1.º As remunerações constantes do anexo IV do Estatuto do Pessoal da Administração das Instituições de Previdência Social passam a ser as indicadas na relação que se junta à presente portaria e passa a fazer parte integrante do Estatuto.
 
-###### Art. 2.º - 1. A tabela de remunerações constante do anexo IV, na redacção que lhe confere a presente portaria, vigora a partir de 1 de Julho de 1974.
+Art. 2.º - 1. A tabela de remunerações constante do anexo IV, na redacção que lhe confere a presente portaria, vigora a partir de 1 de Julho de 1974.
 
 2. Os aumentos estabelecidos para as actuais remunerações iguais ou superiores a 7500$00 mensais consideram-se suspensos, nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e artigo 1.º do [Decreto-Lei n.º 347/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1974-288203), de 30 de Julho, até à entrada em vigor do diploma legal que revê este condicionalismo.
 
@@ -110,6 +130,6 @@ Ministério dos Assuntos Sociais, 4 de Setembro de 1974. - O Secretário de Esta
 
 ## ANEXO IV — Grupos de remunerações do pessoal das instituições de previdência abrangido por este Estatuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/21400/10901091.pdf))](https://files.diariodarepublica.pt/1s/1974/09/21400/10901091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/21400/10901091.pdf)
 
-**O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.**
+O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.

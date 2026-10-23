@@ -48,36 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/56-1984-661968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:30:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d11a56036a9007b8e839abb46a2af0a469d47b6a6ac8d8f270192fd69b5d0675
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce89b17807cee56381d4feef0348e7a77993fe8a39c47721ab68f85b626e5973
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:30:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Fertilizante
+- Fundo de Abastecimento
+- Madeira.região Autónoma
+- Preço
+- Preço Máximo
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:439376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627018:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275411:por
+  label: Rectificado pela DECL.DD5011.08.06.1984.PCM, DR.IS [150-2SUPL] de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275411
+  date: '1984-06-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:30:05Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +142,6 @@ Quadro anexo a que se referem os n.os 1.º e 2.º
 
 Preços aprovados aos fabricantes de adubos sujeitos ao regime de preços máximos e aos importadores de cloreto de potássio a 60% e subsídios a pagar aos mesmos por tonelada de adubo vendido para o continente e regiões autónomas a partir de 1 de Julho de 1983.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/06800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1984/03/06800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/06800/09440945.pdf)
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

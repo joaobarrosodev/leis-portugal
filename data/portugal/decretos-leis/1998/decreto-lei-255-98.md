@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1998-438070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c7af25a043be28fb705244da2b85f8ba1a004b0fcddfcd920b9a6d963d48039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 287a32853f62e29f7bf14e2cc99d6e20ffad83310452db0fecde3964d292c79e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Formação Profissional
-- Formação de Professores
 - Diploma
 - Doutoramento
-- Educador de Infância
-- Escola Superior de Educação
 - Educação dos Adultos
-- Licenciatura
-- Universidade
-- Política de Educação
+- Educador de Infância
 - Ensino
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Qualificação Profissional
 - Ensino Básico
 - Ensino Superior
+- Escola Superior de Educação
+- Estabelecimento de Ensino
+- Formação de Professores
+- Formação Profissional
+- Licenciatura
+- Pessoal Docente
+- Política de Educação
+- Qualificação Profissional
 - Sistema Educativo
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:55021038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180474:por
+  label: "Aditado o art. 21º-A pelo DEC LEI.25/99.1999.01.28.ME, DR.IS-A [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1999-180474
+  date: '1999-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -109,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:179307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:39Z'
   warnings: []
   errors: []
 ---
@@ -321,12 +358,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - Alfredo Jorge Silva.
 
-**Promulgado em 24 de Julho de 1998.**
+Promulgado em 24 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Julho de 1998.**
+Referendado em 30 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

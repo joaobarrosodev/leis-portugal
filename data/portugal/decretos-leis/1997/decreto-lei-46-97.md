@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/1997/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1997-507419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df32352eb8b4c22711b5bd99c3bf6948538f31bea7484e7a0ee88d12bf707826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32304b9d64d17a35a7a3162bed92705adc4822e11629799236f79444bf65a908
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- RIO TEJO
-- Proteção do Ambiente
 - Espécie Protegida
+- Proteção do Ambiente
+- RIO TEJO
+- Vida Selvagem
 - Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:627263:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158607:por
+  label: "Alterada área cartografada da zona de Protecção Especial do Estuário do Tejo, anexa ao presente diploma, nos termos\
+    \ do DEC LEI.140/2002.2002.05.20.MAOT DR.IS-A [116]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2002-158607
+  date: '2002-05-20'
+- type: amended_by
+  target: pt:dre:627263:por
+  label: "Repristinado, no que diz respeito á fixação dos limites da zona de protecção especial do estuário do Tejo, a norma\
+    \ constante do art. 5º do Dec Lei 51/95 de 20-Mar, alterado pelo presente diploma, pelo DEC LEI.190/2002.2002.09.05.MCOTA,\
+    \ DR.IS-A [205]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2002-627263
+  date: '2002-09-05'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -87,13 +100,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:17Z'
   warnings: []
   errors: []
 ---
@@ -116,14 +129,14 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Fernando Teixeira dos Santos - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 31 de Janeiro de 1997.**
+Promulgado em 31 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 1997.**
+Referendado em 31 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/046a00/08400841.pdf))](https://files.diariodarepublica.pt/1s/1997/02/046a00/08400841.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/046a00/08400841.pdf)

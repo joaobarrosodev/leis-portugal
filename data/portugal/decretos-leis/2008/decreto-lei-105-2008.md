@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12100/0382203826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2008/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2008-456212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5cfeedd1d85fa3e119ff7b0c95858f2a2eebfc31f20fefe50f89b01e12406f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69b8d9ffce048407c5238608519c8cfa76813876893c11bd09d2142b39df8697
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Protecção à Família
-- Protecção da Maternidade
 - Beneficiário
-- Pagamento
 - Maternidade
+- Pagamento
 - Participação do Estado
 - Paternidade
 - Proteção Social
+- Protecção à Família
+- Protecção da Maternidade
 - Subsídio de Adopção
 - Subsídio de Apoio Social
 - Subsídio de Maternidade
@@ -109,16 +109,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:223422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643722:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603961:por
+  label: "Revogado, a partir de 01.05.2009, pelo DEC LEI.91/2009.09.04.2009.MTSSO, DR.IS [70] de 09.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2009-603961
+  date: '2009-04-09'
 article_structure:
-  article_count: 21
+  article_count: 18
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:52Z'
   warnings: []
   errors: []
 ---
@@ -345,17 +378,23 @@ Os artigos 11.º, 12.º-A, 19.º e 20.º do [Decreto-Lei n.º 154/88](https://di
 
 O montante diário mínimo dos subsídios de maternidade, de paternidade e por adopção não pode ser inferior a 80 % de 1/30 do valor do indexante dos apoios sociais (IAS).
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 O montante diário dos subsídios por riscos específicos corresponde a 65 % da remuneração de referência do beneficiário, sem prejuízo da garantia de um montante mínimo igual ao definido no artigo 11.º
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As prestações devem ser requeridas, pelos beneficiários, em formulário de modelo próprio disponibilizado no sítio da Internet da segurança social, no prazo de seis meses a contar do facto determinante de protecção, sem prejuízo do disposto no número seguinte.
 
 2 - A apresentação do requerimento pode ser dispensada nas situações especialmente previstas na lei.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os factos determinantes da atribuição dos subsídios são declarados pelo beneficiário no requerimento, o qual é acompanhado, conforme os casos, dos respectivos documentos comprovativos, designadamente:
 
@@ -387,12 +426,12 @@ f) Comprovação pela Autoridade para as Condições de Trabalho do exercício d
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Pedro Manuel Dias de Jesus Marques - Ana Maria Teodoro Jorge.
 
-**Promulgado em 5 de Junho de 2008.**
+Promulgado em 5 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2008.**
+Referendado em 6 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

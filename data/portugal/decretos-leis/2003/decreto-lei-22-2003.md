@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2003/02/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2003-209587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cef3095d52cb5976d3849675846428255c4dc0fbc1795582409e9861b1681e4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f67c6dd0dfb909ff121cf475670ada27a212ad92a238af842a7b13f2f75b948e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,28 @@ subjects:
 - Decisão CE
 - Direcção Geral das Alfândegas
 - Direitos Aduaneiros
-- União Europeia
-- Sistema Retributivo
-- Remuneração Acessória
 - Receita Própria
+- Remuneração Acessória
 - Sistema de Recursos Próprios das Comunidades Europeias
+- Sistema Retributivo
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:179786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520470:por
+  label: "Alterado o art. 4º do Dec Lei 274/90 de 07-Set, com a redacção constante do presente diploma, pelo DEC LEI.68/2007.26.03.2007.MFAP,\
+    \ DR.IS [60] de 26.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2007-520470
+  date: '2007-03-26'
+- type: amended_by
+  target: pt:dre:179786:por
+  label: "Alterado o art. 4º do Dec Lei 274/90, de 07-set, na redação do presente diploma, pelo DEC LEI.142/2012.11.07.2012.MF,\
+    \ DR.IS [133] de 11.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2012-179786
+  date: '2012-07-11'
 - type: cites
   target: celex:32000D0597
   label: null
@@ -86,13 +98,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:15Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +161,12 @@ O presente diploma produz efeitos a partir da data em que entrou em vigor a Deci
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 23 de Janeiro de 2003.**
+Promulgado em 23 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 2003.**
+Referendado em 27 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

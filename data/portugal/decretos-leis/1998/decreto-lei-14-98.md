@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/1998/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1998-223031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7cef11ea942aef3a05dd5c25f3dabff3d753295e41faea9addc8acab1982f7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4c71b3ae63fe676a78b8b4f766f8bbb61ffccd9156c11767e1e27ad63649fd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Sociedade Comercial
 - Contrato
+- Empresa
 - Gabinete de Coordenação para a Recuperação de Empresas
 - Incentivos Fiscais
 - Reconversão de Empresas
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Tornado extensivo aos processos aprovados pelo IAPMEI, no âmbito do SIRME, o regime de incentivos à aquisição de\
+    \ empresas, instituído pelo presente diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301]5ºSupl de 31.12.1998 (OE 1999\
+    \ - Art. 47.º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Tornado extensivo o regime aprovado pelo presente diploma aos processos aprovados pelo IAPMEI e ao Investimento\
+    \ no âmbito do SIRME, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Tornado extensivo aos processos aprovados pelo IAPMEI no âmbito do Sistema de Incentivos à Revitalização e Modernização\
+    \ do Tecido Empresarial (SIRME) o regime de incentivos à aquisição de empresas instituído pelo presente diploma, pela\
+    \ LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinada a aplicação aos processos aprovados pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento\
+    \ no âmbito do Sistema de Incentivos à Revitalização e Modernização do Tecido Empresarial (SIRME) do regime de incentivos\
+    \ à aquisição de empresas instituído no presente diploma pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
   label: null
@@ -85,16 +113,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:18Z'
   warnings: []
   errors: []
 ---
@@ -173,12 +209,12 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 6 de Janeiro de 1998.**
+Promulgado em 6 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 1998.**
+Referendado em 19 de Janeiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

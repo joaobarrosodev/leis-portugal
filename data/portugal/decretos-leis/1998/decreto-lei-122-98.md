@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/107a00/21562159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1998/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1998-516726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b809645bba0d573970221438cc9b88e7dd2a4fb47b6034d4f9ead1f2819771f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e4f26ce4c1c947467ce3772bd3e391363bc8717dd606dd789a4036a6c774c8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Capital Social
+- Companhia dos Transportes Aéreos
 - Estatuto
 - Pargeste
 - Privatização
 - TAP
-- Companhia dos Transportes Aéreos
 relationships:
 - type: amended_by
   target: pt:dre:176049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411976:por
+  label: "Alterados os arts. 1º, 3º, 9º, 10º, 14º, 15º e 16º e aditados os arts. 17º e 18º pelo DEC LEI.34/2000.2000.03.14.MES\
+    \ DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2000-411976
+  date: '2000-03-14'
+- type: amended_by
+  target: pt:dre:233298:por
+  label: "Alterados os arts. 2º, 8º, 14º e 17º e aditado o art. 19º pelo DEC LEI.57/2003.2003.03.28.MOPTH, DR.IS-A [74]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2003-233298
+  date: '2003-03-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/312/1991/08/17/p/dre
   label: null
@@ -85,16 +96,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674435:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176049:por
+  label: "Revogado, a partir de 24.09.2012, o presente diploma, na redação do Dec Lei 34/2000, de 14-mar, e Dec Lei 57/2003,\
+    \ de 28-mar, pelo DEC LEI.210/2012.21.09.2012.MF, DR.IS [184] de 21.09.2012, que ressalva os efeitos já produzidos no\
+    \ âmbito dos processos de reestruturação societária da TAP e de alienação e aumento de capital da SPdH - Sociedade Portuguesa\
+    \ de Handling, S. A. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2012-176049
+  date: '2012-09-21'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:53Z'
   warnings: []
   errors: []
 ---
@@ -299,12 +342,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 28 de Abril de 1998.**
+Promulgado em 28 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Abril de 1998.**
+Referendado em 30 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

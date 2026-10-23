@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2000/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2000-411872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc7e7330cc10a1d31045f201f84ed630868cce42e5d25dced98d55a8b36223a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ec7159538879b6a9178ff5bad7bfb75ee9297357bbb43894178a84ddb109ccc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento Complementar de Empresas
-- Empresa
-- Sociedade Comercial
-- Modernização Administrativa
 - Capital Social
 - Código das Sociedades Comerciais
 - Contrato
 - Documento Autentico
+- Empresa
+- Modernização Administrativa
+- Sociedade Comercial
 - Sociedades
 relationships:
 - type: amended_by
   target: pt:dre:522813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterados os arts. 85º, 145º, 270.ºAº e 270.º-Dº do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86
+    de 02-Set, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado art. 19º do Dec Lei 248/86 de 25-Ago, com a redacção conferida no presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ,\
+    \ DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: cites
+  target: pt:dre:219121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422832:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:07Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +165,9 @@ b) A deliberação conste de acta lavrada pelo secretário da sociedade e não r
 
 4 - ...
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - A dissolução da sociedade não carece de ser consignada em escritura pública nos casos em que tenha sido deliberada pela assembleia geral e a acta da deliberação tenha sido lavrada por notário ou pelo secretário da sociedade.
 
@@ -145,7 +175,9 @@ b) A deliberação conste de acta lavrada pelo secretário da sociedade e não r
 
 3 - ...
 
-###### Artigo 270.º-A — [...]
+Artigo 270.º-A
+
+[...]
 
 1 - ...
 
@@ -165,7 +197,9 @@ b) De escritura autónoma, sendo, no entanto, suficiente documento particular se
 
 7 - As transformações previstas nos n.os 3 e 6 do presente artigo, que sejam tituladas por documento particular, bem como a constituição originária da sociedade unipessoal por quotas por documento da mesma natureza, nos casos em que esta forma é considerada suficiente, não produzem quaisquer efeitos antes de efectuado o registo e respectiva publicação.
 
-###### Artigo 270.º-D — [...]
+Artigo 270.º-D
+
+[...]
 
 1 - ...
 
@@ -199,7 +233,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -217,13 +253,17 @@ e) ...
 
 8 - No caso de o estabelecimento ser constituído por escritura pública, o relatório referido no número anterior deve ser apresentado no momento da celebração.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - (Anterior artigo 4.º)
 
 2 - As obrigações de verificação e fiscalização previstas no número anterior impendem sobre o conservador do registo comercial quando o acto constitutivo do estabelecimento revista a forma de documento particular.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de registo de constituição do estabelecimento individual de responsabilidade limitada no registo comercial deve ser instruído com:
 
@@ -235,13 +275,17 @@ c) Os documentos comprovativos de estar cumprido o disposto no n.º 4 do artigo 
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As alterações do acto constitutivo do estabelecimento individual de responsabilidade limitada devem ser reduzidas a escrito, sob pena de nulidade; porém, se a alteração envolver aumento de capital com entradas em bens diferentes de dinheiro, para cuja transmissão seja necessária escritura pública, deve revestir esta forma.
 
 2 - É aplicável à alteração do acto constitutivo o disposto no artigo 6.º
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -249,13 +293,17 @@ c) Os documentos comprovativos de estar cumprido o disposto no n.º 4 do artigo 
 
 3 - O balanço anual ou o balanço especial a que se refere o número anterior, acompanhado de um parecer elaborado por um revisor oficial de contas, devem ser depositados na conservatória do registo comercial e verificados pelo notário, se a alteração constar de escritura pública.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A redução do capital do estabelecimento individual de responsabilidade limitada pode efectuar-se por documento particular, se o seu titular obtiver autorização judicial, nos termos do artigo 1487.º do Código de Processo Civil, a aplicar com as necessárias adaptações.
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O estabelecimento individual de responsabilidade limitada entra imediatamente em liquidação:
 
@@ -267,7 +315,9 @@ c) ...
 
 d) ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -279,7 +329,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 O titular que, com vista à constituição do estabelecimento individual de responsabilidade limitada, à sua alteração ou dos respectivos registos, prestar ao conservador do registo comercial ou ao notário falsas declarações ou ocultar factos importantes sobre o montante e realização do capital, natureza das entradas e despesas de constituição, ou atribuir fraudulentamente às entradas em espécie valor superior ao real, será punido nos termos de legislação especial a publicar.»
 
@@ -313,12 +365,12 @@ O artigo 9.º do [Decreto-Lei n.º 430/73](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 28 de Fevereiro de 2000.**
+Promulgado em 28 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 2000.**
+Referendado em 2 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

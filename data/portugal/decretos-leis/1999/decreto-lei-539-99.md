@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/288a00/88098810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/539/1999/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1999-632934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1433441b1956d142606339d9da9a037d6082723990fd0ec227e5a3e1127c422a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb7c075758207377af67293f0730cd7ed912b17e584efc7f0b19f9f78829daaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Embarcação
-- Tráfego Marítimo
-- Pilotagem
 - Controlo Aduaneiro
+- Embarcação
+- Embarcação de Pesca
 - Embarcação de Recreio
 - Equipamento
 - Estacionamento
-- TAXA de Pilotagem
-- Regulamento
-- Embarcação de Pesca
-- Regulamento do Sistema Tarifário dos Portos Nacionais
+- Pilotagem
 - Portos
+- Regulamento
+- Regulamento do Sistema Tarifário dos Portos Nacionais
 - Tarifa Portuária
 - Taxa
+- TAXA de Pilotagem
+- Tráfego Marítimo
 - Transporte de Passageiros
 relationships:
 - type: amended_by
@@ -94,16 +94,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/200/1998/07/10/p/dre
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621964:por
+  label: "Revogado pelo DEC LEI.273/2000.2000.11.09.MES DR.IS-A [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2000-621964
+  date: '2000-11-09'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:58Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +245,9 @@ e) ...
 
 f) ...
 
-###### Artigo 22.º — Definição
+Artigo 22.º
+
+Definição
 
 1 - ...
 
@@ -268,7 +283,9 @@ e) ...
 
 f) ...
 
-###### Artigo 51.º — Definição
+Artigo 51.º
+
+Definição
 
 1 - ...
 
@@ -292,12 +309,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 23 de Novembro de 1999.**
+Promulgado em 23 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

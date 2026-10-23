@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/985-1982-376072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b1f7ee1f8f6bf943a77d4903dcab499c332de81269521c221f0a8c68c40c607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8690d73266e03197316538cf3fb91e2d7dc725ced2dd34714fdbd8680b8131a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Análise Laboratorial
+- Bebida Alcoólica
+- Falsificação
+- Fiscalização
+- Produto Vitivinícola
+- Proteção do Consumidor
+- Vinho
+relationships:
+- type: cites
+  target: pt:dre:231521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369838:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:45Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +151,7 @@ Baseia-se na propriedade que os líquidos têm de imprimir impulsões em densím
 
 Devem obedecer às seguintes características:
 
-# Parte cilíndrica submergível encimada por haste de secção circular com o diâmetro mínimo de 3 mm.
+Parte cilíndrica submergível encimada por haste de secção circular com o diâmetro mínimo de 3 mm.
 
 Os utilizados para vinhos secos devem ter uma escala, referida à massa volúmica a 20ºC, compreendida entre 0,983 e 1,003, graduada em milésimas e estas subdivididas em quintos de milésima.
 
@@ -1302,7 +1321,7 @@ Padrão PDB (Pee Dee Belemnite), constituído por dióxido de carbono libertado 
 
 3.1 - Aparelho de combustão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24200/34273450.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24200/34273450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24200/34273450.pdf)
 
 3.2 - Espectrómetro de massa:
 
@@ -1346,4 +1365,4 @@ Os produtos derivados da uva apresentam teores relativos de (elevado a 13)C comp
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24200/34273450.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24200/34273450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24200/34273450.pdf)

@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-1979-383401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b25cf57d19b06789723d039410328012aeb33fc40422ee81c6b6f2227b45dd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59eb6ca75e94cc668e454800570ca716102a0febb7d561acb4bee9241a7258d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Bolseiro
+- Funcionário Público
+- Regulamento
+- Secretaria de Estado da Cultura
+- Subsídio de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:661507:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579965:por
+  label: "Alterado o art. 18º do presente Regulamento pela PORT.596/81.1981.07.16.PCM DR.IS [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/596-1981-579965
+  date: '1981-07-16'
+- type: amended_by
+  target: pt:dre:580076:por
+  label: "Alterado o art. 18º do presente Regulamento pela PORT.597/81.1981.07.16.PCM DR.IS [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/597-1981-580076
+  date: '1981-07-16'
+- type: amended_by
+  target: pt:dre:661507:por
+  label: "Alterado o art. 18º do presente Regulamento pela PORT.113/84.1984.02.21.MFP DR.IS [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1984-661507
+  date: '1984-02-21'
+- type: cites
+  target: pt:dre:325156:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:51:01Z'
   warnings: []
   errors: []
 ---

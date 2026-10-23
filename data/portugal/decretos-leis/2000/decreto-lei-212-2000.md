@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/212/2000/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2000-580782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b470ab81a1a6d34cac097391e9241f43542730941dab7b6fb8be889199f888b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf56bc7bae05dfdf7f54cf15e16dbdb57bc09697c742318489f2393059c2382a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimentação Humana
 - Aproximação das Legislações
-- Região Autónoma
-- Multa
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Controlo Médico
+- Direção Geral da Saúde
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Embalagem
-- Alimentação Humana
-- Comércio
+- Multa
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:439403:por
@@ -96,16 +96,21 @@ relationships:
   target: celex:31999L0021
   label: null
   source: http://data.europa.eu/eli/dir/1999/21/oj
+- type: repealed_by
+  target: pt:dre:439403:por
+  label: "Revogado pelo DEC LEI.216/2008.11.11.2008.MADRP, DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2008-439403
+  date: '2008-11-11'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:00Z'
   warnings: []
   errors: []
 ---
@@ -300,15 +305,15 @@ Fica revogado o Decreto-Lei n.º 227/99, de 22 de Junho, na parte que se aplica 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Armando António Martins Vara.
 
-**Promulgado em 14 de Agosto de 2000.**
+Promulgado em 14 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Agosto de 2000.**
+Referendado em 24 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — Composição essencial dos alimentos dietéticos para fins medicinais específicos
 
@@ -332,10 +337,10 @@ QUADRO N.º 1
 
 Valores relativos a vitaminas, minerais e oligoelementos em produtos alimentares nutricionalmente completos destinados a lactentes
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf)](https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf)
 
 QUADRO N.º 2
 
 Valores relativos a vitaminas, minerais e oligoelementos em produtos alimentares nutricionalmente completos, diversos dos destinados a lactentes
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf)](https://files.diariodarepublica.pt/1s/2000/09/203a00/46504655.pdf)

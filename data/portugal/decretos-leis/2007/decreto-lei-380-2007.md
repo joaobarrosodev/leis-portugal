@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52cb69b969faedfa38a0243adaf187ace6ecd6047c01c28480f75ef8da627362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43228cc794cdbe19e8366fcfe969795f1c3af905a04d7cfa349a3a46955fbe03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Auto-estrada
+- Autoridade Nacional de Protecção Civil
+- Autoridade Nacional de Segurança Rodoviária
 - Cobrança
-- Transporte Terrestre
 - Contra-ordenação
 - Contrato de Concessão
-- Transporte Rodoviário
+- Contribuição de Serviço Rodoviário
 - Definição de Competências
 - EP-Estradas de Portugal
-- Rede de Estradas
+- Financiamento
 - Gestão
-- Auto-estrada
+- Instituto de Infra-Estruturas Rodoviárias
 - Licenciamento
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
-- Política de Transportes
 - Ministro das Finanças e da Administração Pública
+- Ministro das Obras Públicas Transportes e Comunicações
 - Organização dos Transportes
 - Plano Rodoviario Nacional
+- Política de Transportes
 - Portagem
 - Preço
-- Ministro das Obras Públicas Transportes e Comunicações
-- Autoridade Nacional de Protecção Civil
+- Rede de Estradas
+- Segurança Rodoviária
 - Taxa
-- Contribuição de Serviço Rodoviário
-- Instituto de Infra-Estruturas Rodoviárias
+- Transporte Rodoviário
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:510857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247428:por
+  label: "Alterada a Base 10 pela LEI.13/2008.29.02.2008.AR, DR.IS [43] de 29.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2008-247428
+  date: '2008-02-29'
+- type: amended_by
+  target: pt:dre:608685:por
+  label: "Alteradas as bases da concessão 2, 3, 5, 6, 7, 10 (esta na redacção da Lei 13/2008, de 29-Fev), 12, 22, 33, 60,\
+    \ 61, 66 e 79, aditada as bases 2 -A, 7 -A, 12 -A, 35 -A, 41 -A, 63 -A e o quadro iv, revogados o n.º 3 da base 19, os\
+    \ n.ºs 5, 6, 7, 8, 9, 14 e 15 da base 61 e os n.ºs 6, 7, 8 e 9 da base 66, e republicadas pelo DEC LEI.110/2009.18.05.2009.MOPTC,\
+    \ DR.IS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2009-608685
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:510857:por
+  label: "Alteradas as bases da concessão 2 e 3 (ambas na redacção do Dec Lei 110/2009, de 18-Maio), aprovadas pelo presente\
+    \ diploma, com a republicação constante do Dec Lei 110/2009, de 18-Maio, pelo DEC LEI.44-A/2010.05.05.2010.MOPTC, DR.IS\
+    \ [87-Supl] de 05.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-a-2010-510857
+  date: '2010-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -136,16 +156,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2007/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2007/07/11/p/dre
+- type: cites
+  target: pt:dre:156219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
-  section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:13Z'
   warnings: []
   errors: []
 ---
@@ -240,15 +384,15 @@ b) As alíneas d), f), g), h), j) e l) do artigo 2.º do [Decreto-Lei n.º 119-B
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 29 de Outubro de 2007.**
+Promulgado em 29 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Outubro de 2007.**
+Referendado em 30 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Bases da concessão
 
@@ -1024,7 +1168,7 @@ Classificação de veículos
 
 1 - As classes de veículos que os equipamentos descritos no número anterior devem permitir classificar são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 As classes A e B desta tabela integram a categoria de veículos ligeiros e as classes C e D a categoria de veículos pesados.
 
@@ -1262,7 +1406,7 @@ Taxas de portagem real
 
 1 - Para efeito da aplicação das tarifas de portagem real nas vias portajadas, as classes de veículos são, por ordem crescente do respectivo valor tarifário, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 2 - A relação entre o valor das tarifas de portagem das classes 2, 3 e 4 e a tarifa da classe 1 não pode ser superior a, respectivamente, 1,75, 2,25 e 2,5.
 
@@ -1284,7 +1428,7 @@ Actualização das taxas de portagem real
 
 2 - A actualização tarifária máxima permitida é calculada de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 3 - Até ao dia 15 de Novembro de cada ano, a concessionária comunica ao InIR os valores das taxas de portagem que deseja que vigorem no ano seguinte, bem como os cálculos que os justifiquem.
 
@@ -1380,7 +1524,7 @@ c) À sinistralidade registada nas vias.
 
 2 - O montante total das penalidades a que se refere o número anterior é calculado de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 Base 64
 
@@ -1388,7 +1532,7 @@ Penalidade relativa ao nível de serviço, às externalidades e à sinistralidad
 
 1 - O montante relativo à penalidade relativa ao nível de serviço das vias, às externalidades e à sinistralidade é calculado de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 2 - Os montantes do prémio ou da multa, calculados nos termos do número anterior, são pagos pelo concedente ou pela concessionária, conforme aplicável, até 31 de Maio do ano seguinte àquele a que dizem respeito.
 
@@ -1402,17 +1546,17 @@ Outras penalidades relativas à sinistralidade
 
 1 - A concessionária está sujeita, no caso das vias integradas em contratos de subconcessão da EP que estabeleçam mecanismo de penalização e prémios relativos à sinistralidade semelhante ao previsto nesta base 65 (nesta base referidas como «vias consideradas»), ao pagamento de multas ou ao recebimento de prémios calculados de acordo com as fórmulas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 2 - Sempre que se verifique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 o concedente paga um prémio à concessionária.
 
 3 - Sempre que se verifique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 a concessionária paga uma multa ao concedente.
 
@@ -1420,11 +1564,11 @@ a concessionária paga uma multa ao concedente.
 
 a) Prémio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 b) Multa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 5 - Os montantes do prémio ou da multa, calculados nos termos dos números anteriores, são pagos pelo concedente ou pela concessionária, conforme aplicável, até 31 de Maio do ano seguinte àquele a que dizem respeito.
 
@@ -1780,7 +1924,7 @@ Domínio público do Estado e reversão de bens
 
 3 - No fim do prazo da concessão, cessam para a concessionária todos os direitos emergentes do contrato de concessão, sendo entregues ao concedente todos os bens que constituem o estabelecimento da concessão, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 4 - Todos os bens não contemplados no quadro anterior devem ser entregues em estado que garanta 50 % da vida útil de cada um dos seus componentes.
 
@@ -1848,7 +1992,7 @@ e) Aprovação do acordo pelo MFAP e pelo MOPTC.
 
 8 - No cálculo do VAL a que se refere o número anterior é utilizada uma taxa de desconto a calcular pela entidade referida no número seguinte de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 9 - A taxa de desconto referida nos números anteriores é calculada por um perito independente, designado por acordo entre o concedente e a concessionária.
 
@@ -1932,7 +2076,7 @@ c) Condições de circulação - estado ou condição da via caracterizado pelo 
 
 4 - Para efeitos da determinação dos pontos de penalização a considerar, em função do grau de cumprimento do nível de serviço, devem ser tidos em conta os valores constantes do quadro seguinte, sendo o cálculo efectuado através do apuramento, para cada tipo de via, da proporção (em percentagem) da extensão total em que o nível de serviço é cumprido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 5 - Entre os anos de 2007 e 2010, a aferição do grau de cumprimento dos níveis de serviço por tipo de via é efectuada por amostragem, relativamente aos lanços e secções indicados no quadro seguinte:
 
@@ -1940,13 +2084,13 @@ Rede Rodoviária Nacional
 
 Identificação das secções de estrada amostrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 6 - Após o termo do período indicado no número anterior, a aferição do grau de cumprimento dos níveis de serviço por tipo de via é efectuada para todas as vias objecto do contrato de concessão.
 
 QUADRO II
 
-# Parte I
+## Parte I
 
 Objectivos de redução de sinistralidade
 
@@ -1962,7 +2106,7 @@ A identificação e a localização dos PN na rede sob gestão da EP são feitas
 
 Para os anos de 2007 e 2008, ficam desde já fixados os seguintes objectivos de redução de sinistralidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 II) Gravidade dos acidentes nas travessias urbanas (na Rede EP)
 
@@ -1976,7 +2120,7 @@ em que VM representa o número de vítimas mortais, FG o número de feridos grav
 
 Para os anos de 2007 a 2008, ficam desde já fixados os seguintes objectivos de redução de sinistralidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 III) Número de vítimas mortais (na Rede EP)
 
@@ -1984,9 +2128,9 @@ Estabelece-se como objectivo para 2010 uma redução em 50 % no número de víti
 
 Os pontos de penalização referentes aos indicadores fixados para 2010 são calculados da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
-# Parte II
+Parte II
 
 Objectivos de sustentabilidade ambiental
 
@@ -2076,7 +2220,7 @@ e) Níveis a que se refere a alínea e) do número anterior: número de atropela
 
 3 - Os indicadores referidos no número anterior são monitorizados pela concessionária, sob supervisão do InIR, no período de vigência do contrato de concessão e até 2013, nos seguintes locais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 4 - O concedente e a concessionária reúnem, bianualmente, para examinar a adequação e suficiência dos valores, metas e metodologia estabelecidos no presente quadro, tendo em consideração, designadamente:
 
@@ -2102,10 +2246,10 @@ c) Proposta de calendarização de actividades próprias tendo em vista o cumpri
 
 8 - Os pontos de penalização referentes aos indicadores fixados no n.º 1 são calculados da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
 
 QUADRO III
 
 Lista das áreas de serviço que integram a concessão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21800/0840308437.pdf)

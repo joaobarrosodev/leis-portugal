@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2000/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2000-530000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7e78ce5316b35c950d76d4dd7a6ee8f4fd01e94350536d3036cc964d4eeebc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88082c5030382f7bb02067e475ef0a76d1584eef1faff4aa90f6783ba226b536
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,110 @@ subjects:
 - Código do IRC
 - Código do IRS
 - Código do IVA
+- IRC
 - IRS
 - IVA
-- IRC
 - Regime Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 44º, 57º-B, 94º, 96º-A e 104º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na\
+    \ redacção do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 62º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 114.º do Código dos IRS aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterado o art. 77º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na\
+    \ redacção do presente diploma, pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterado o art. 28ºdo Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterado o art. 28º e revogada a al. i) do nº 1 do mesmo art. do Código do IVA aprovado pelo Dec Lei 394-B/84 de\
+    \ 26-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 28º e 67º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP,\
+    \ DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo presente diploma - revisto e republicado pelo Dec Lei 198/2001,\
+    \ de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterado, a partir de 18.07.2009, o art. 44.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 28º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado a partir de 01.01.2010, o art 104º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção\
+    \ do presente diploma, republicado pelo Dec Lei 159/2009 de 13-Jul, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198]\
+    \ de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:499180:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov, na redação do presente diploma,\
+    \ pela LEI.55/2013.08.08.2013.AR, DR.IS [152] de 08.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-2013-499180
+  date: '2013-08-08'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 94.º e 104.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo
+    presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: celex:31990L0434
   label: null
   source: http://data.europa.eu/eli/dir/1990/434/oj
 article_structure:
-  article_count: 17
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:33Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +205,9 @@ Declaração anual de informação contabilística e fiscal
 
 3 - Sempre que o pretender, ou quando os elementos a mencionar em qualquer das relações ou mapas que integram a declaração anual impliquem o preenchimento de mais de uma folha, deve a mesma ser entregue em suporte magnético ou por transmissão electrónica de dados.
 
-###### Artigo 119.º-A — Dossier fiscal
+Artigo 119.º-A
+
+Dossier fiscal
 
 1 - Os sujeitos passivos de IRS que, nos termos deste Código, possuam ou sejam obrigados a possuir contabilidade organizada devem constituir, até ao termo do prazo para entrega da declaração a que se refere o artigo 105.º-A, um processo de documentação fiscal relativo a cada exercício, que deverá conter os elementos a definir por portaria do Ministro das Finanças.
 
@@ -178,7 +261,9 @@ Reinvestimento dos valores de realização
 
 8 - ...
 
-###### Artigo 57.º-B — Imputação de lucros de sociedades não residentes sujeitas a um regime fiscal privilegiado
+Artigo 57.º-B
+
+Imputação de lucros de sociedades não residentes sujeitas a um regime fiscal privilegiado
 
 1 - ...
 
@@ -204,7 +289,9 @@ d) ...
 
 8 - ...
 
-###### Artigo 62.º — Regime especial aplicável às fusões e cisões de sociedades residentes
+Artigo 62.º
+
+Regime especial aplicável às fusões e cisões de sociedades residentes
 
 1 - ...
 
@@ -224,7 +311,9 @@ d) ...
 
 9 - ...
 
-###### Artigo 62.º-A — Fusões e cisões de sociedades de diferentes Estados membros da Comunidade Europeia
+Artigo 62.º-A
+
+Fusões e cisões de sociedades de diferentes Estados membros da Comunidade Europeia
 
 1 - ...
 
@@ -242,7 +331,9 @@ d) ...
 
 8 - No caso referido no n.º 6, além das declarações mencionadas na parte final do número anterior, deve integrar-se no processo de documentação fiscal a que se refere o artigo 104.º documento passado pelas autoridades fiscais do Estado membro da Comunidade Europeia onde se situa o estabelecimento estável em que se declara o imposto que aí seria devido na falta das disposições da Directiva n.º [90/434/CEE](http://data.europa.eu/eli/dir/1990/434/oj?locale=pt), de 23 de Julho de 1990.
 
-###### Artigo 64.º-A — Permuta de acções
+Artigo 64.º-A
+
+Permuta de acções
 
 1 - ...
 
@@ -262,7 +353,9 @@ b) ...
 
 c) ...
 
-###### Artigo 68.º-B — Instrumentos financeiros derivados - regras gerais
+Artigo 68.º-B
+
+Instrumentos financeiros derivados - regras gerais
 
 1 - ...
 
@@ -286,7 +379,9 @@ c) ...
 
 11 - ...
 
-###### Artigo 94.º — Obrigações declarativas
+Artigo 94.º
+
+Obrigações declarativas
 
 1 - Os sujeitos passivos de IRC, ou os seus representantes, são obrigados a apresentar:
 
@@ -314,7 +409,9 @@ c) Apenas aufiram rendimentos de capitais cuja taxa de retenção na fonte, com 
 
 7 - ...
 
-###### Artigo 96.º — Declaração periódica de rendimentos
+Artigo 96.º
+
+Declaração periódica de rendimentos
 
 1 - A declaração periódica de rendimentos a que se refere a alínea b) do n.º 1 do artigo 94.º deve ser apresentada anualmente até ao último dia útil do mês de Maio, em qualquer repartição de finanças, em suporte de papel, magnético ou por transmissão electrónica de dados.
 
@@ -336,11 +433,15 @@ c) Apenas aufiram rendimentos de capitais cuja taxa de retenção na fonte, com 
 
 10 - ...
 
-###### Artigo 102.º — Deveres de cooperação dos organismos oficiais e de outras entidades
+Artigo 102.º
+
+Deveres de cooperação dos organismos oficiais e de outras entidades
 
 Os serviços, estabelecimentos e organismos do Estado, das Regiões Autónomas e das autarquias locais, incluindo os dotados de autonomia administrativa ou financeira e ainda que personalizados, as associações e federações de municípios, bem como outras pessoas colectivas de direito público, as pessoas colectivas de utilidade pública, as instituições particulares de solidariedade social e as empresas públicas deverão, por força do dever público de cooperação com a administração fiscal, apresentar anualmente o mapa recapitulativo previsto na alínea f) do n.º 1 do artigo 28.º do Código do IVA.
 
-###### Artigo 104.º — Dossier fiscal
+Artigo 104.º
+
+Dossier fiscal
 
 1 - Os sujeitos passivos de IRC, com excepção dos isentos nos termos do artigo 8.º, são obrigados a manter em boa ordem, durante o prazo de 10 anos, um processo de documentação fiscal relativo a cada exercício, que deverá estar constituído até ao termo do prazo para entrega da declaração a que se refere a alínea c) do n.º 1 do artigo 94.º, com os elementos contabilísticos e fiscais a definir por portaria do Ministro das Finanças.
 
@@ -408,11 +509,11 @@ i) Sempre que os elementos a mencionar nos mapas recapitulativos referidos nas a
 
 11 - O Ministro das Finanças pode dispensar a obrigação da apresentação dos mapas recapitulativos referidos nas alíneas e) e f) do n.º 1 relativamente a operações em que seja especialmente difícil o seu cumprimento.
 
-###### Artigo 59.º
+Artigo 59.º
 
 Sem prejuízo do disposto no artigo anterior, os sujeitos passivos isentos nos termos do artigo 53.º estão dispensados das demais obrigações previstas no presente diploma.
 
-###### Artigo 67.º
+Artigo 67.º
 
 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º são obrigados a:
 
@@ -432,7 +533,7 @@ c) ...
 
 6 - No caso de cessação da actividade, o pagamento do imposto ou a apresentação da declaração a que se refere a alínea b) do n.º 1 devem ser efectuados no prazo de 30 dias a contar da data da cessação.
 
-###### Artigo 77.º
+Artigo 77.º
 
 1 - ...
 
@@ -448,12 +549,12 @@ A obrigação da entrega da declaração de informação contabilística e fisca
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 28 de Março de 2000.**
+Promulgado em 28 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

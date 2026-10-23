@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2000/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88f9f17d6868ffdf8bb7782e8b1f721173273679b879a92017559920fe639395
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1070556a2e77ccf18f9f0df41c2a709e7b139aa69b61afa980e11dc3ec5d90a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/183/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/183/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:291639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:52Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +149,9 @@ g) As redes de distribuição privativa.
 
 4 - Os projectos a que se refere o número anterior devem ser submetidos a aprovação das entidades competentes pelas sociedades concessionárias ou licenciadas, nos termos do artigo seguinte.
 
-###### Artigo 2.º — Aprovação
+Artigo 2.º
+
+Aprovação
 
 1 - A construção dos componentes do sistema referidos nas alíneas a), b) e e) do n.º 2 do artigo anterior fica sujeita a aprovação dos respectivos projectos base pelo Ministro da Economia.
 
@@ -165,7 +179,9 @@ d) A proibição de embargar administrativamente as obras de execução, salvo c
 
 9 - A construção das redes de distribuição em vias públicas em zonas abrangidas por planos municipais e intermunicipais de ordenamento do território, pelas concessionárias ou pelas entidades titulares de licença, não carece de aprovação dos projectos previstos no presente artigo, devendo aquelas ponderar todas as eventuais interferências, designadamente junto das respectivas câmaras municipais.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -243,7 +259,9 @@ VII) Indicação dos locais e áreas reservadas a serventia para a construção,
 
 f) Para as instalações autónomas de gás natural liquefeito e para os postos de enchimento as especificações definidas nos respectivos regulamentos técnicos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -279,12 +297,12 @@ Normas de construção e de segurança das instalações, gasodutos e redes de d
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1999. - Amtónio Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Janeiro de 2000.**
+Promulgado em 14 de Janeiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Janeiro de 2000.**
+Referendado em 20 de Janeiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

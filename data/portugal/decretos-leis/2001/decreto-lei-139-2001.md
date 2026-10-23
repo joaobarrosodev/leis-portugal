@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/096a00/23512355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2001/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2001-165045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0660d29483c71d5678cfafa0b2b1698e83da2099c4b75a01f98c1041e7714972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 649a0941057419c3765752536478f2916bd66774718ea079cb64c33ba58fe2ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Falência
-- Ministro do Trabalho e da Solidariedade
+- Contrato de Trabalho
 - Definição de Competências
+- Desemprego
 - Entidade Patronal
 - Estatuto
+- Falência
 - Fundo de Garantia Salarial
 - Garantia Salarial
-- Instituto de Gestão Financeira da Segurança Social
-- Desemprego
-- Contrato de Trabalho
-- Segurança Social
 - IAPMEI
+- Instituto de Gestão Financeira da Segurança Social
+- Ministro do Trabalho e da Solidariedade
+- Segurança Social
 - Tutela
 relationships:
 - type: amended_by
   target: pt:dre:67040492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516050:por
+  label: "Alterado o art. 4º do Dec Lei 219/99 de 15-Jun alterado pelo presente diploma pela LEI.96/2001.2001.08.20.AR,DR.IS-A\
+    \ [192]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/96-2001-516050
+  date: '2001-08-20'
 - type: cites
   target: celex:31980L0987
   label: null
@@ -93,16 +99,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/219/1999/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/219/1999/06/15/p/dre
+- type: repealed_by
+  target: pt:dre:67040492:por
+  label: Revogado, a partir de 04.05.2015, pelo(a) Decreto-Lei n.º 59/2015 - Diário da República n.º 77/2015, Série I de 2015-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2015-67040492
+  date: '2015-04-21'
 article_structure:
-  article_count: 23
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:29Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +192,9 @@ a) Pelos tribunais judiciais, no que respeita ao requerimento dos processos espe
 
 b) Pelo IAPMEI, no que respeita ao requerimento do procedimento de conciliação, à sua recusa e à extinção do procedimento.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -193,13 +206,17 @@ b) Pelo IAPMEI, no que respeita ao requerimento do procedimento de conciliação
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O Fundo efectua o pagamento dos créditos garantidos mediante requerimento do trabalhador, sendo os respectivos termos e trâmites aprovados por portaria do Ministro do Trabalho e da Solidariedade.
 
 2 - Relativamente a créditos referentes a contratos de trabalho extintos e caso o seu titular não interrompa, por qualquer acto, a respectiva prescrição, o requerimento referido no número anterior deve ser apresentado no prazo de nove meses a contar do início da contagem do prazo prescricional.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O regime instituído pelo presente diploma aplica-se às situações em que a declaração de falência, a providência de recuperação da empresa ou o procedimento extrajudicial de conciliação foram requeridos a partir de 1 de Novembro de 1999.»
 
@@ -213,15 +230,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Mário Cristina de Sousa - António Luís Santos Costa.
 
-**Promulgado em 9 de Abril de 2001.**
+Promulgado em 9 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Abril de 2001.**
+Referendado em 12 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — REGULAMENTO DO FUNDO DE GARANTIA SALARIAL
 

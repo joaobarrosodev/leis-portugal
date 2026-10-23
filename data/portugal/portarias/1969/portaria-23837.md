@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23837-1969-241590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c857996a1b43c4e2c9ed809d38849a189dca7de72f729a1aaafcd43789921fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0177c08f048719d2ef4a7f078a3e81e07dfaae0b8ac246424a893afa8dda9fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:530809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:530809:por
+  label: Extintas as delegações do Fundo de Fomento Mineiro Ultramarino criadas nos Estados de Angola e Moçambique, pelo(a)
+    Portaria n.º 386-A/75 - Diário do Governo n.º 143/1975, 2º Suplemento, Série I de 1975-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-a-1975-530809
+  date: '1975-06-24'
+- type: cites
+  target: pt:dre:233367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400670:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:32Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +117,19 @@ Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 REGULAMENTO INTERNO DO FUNDO DE FOMENTO MINEIRO ULTRAMARINO
 
-###### Artigo 1.º - 1. A comissão administrativa do Fundo de Fomento Mineiro Ultramarino terá uma reunião ordinária por mês e as extraordinárias que forem determinadas pelo presidente, por sua iniciativa ou por proposta de algum ou alguns dos vogais.
+Artigo 1.º - 1. A comissão administrativa do Fundo de Fomento Mineiro Ultramarino terá uma reunião ordinária por mês e as extraordinárias que forem determinadas pelo presidente, por sua iniciativa ou por proposta de algum ou alguns dos vogais.
 
 2. Poderão comparecer eventualmente às reuniões, para prestar esclarecimentos, as pessoas especialmente convidadas para o efeito pelo presidente da comissão.
 
-###### Art. 2.º - 1. As deliberações da comissão administrativa são tomadas por maioria de votos dos vogais, excluído o secretário.
+Art. 2.º - 1. As deliberações da comissão administrativa são tomadas por maioria de votos dos vogais, excluído o secretário.
 
 2. Sempre que haja declaração de voto contrária à maioria, a deliberação deve subir a homologação ministerial.
 
 3. De cada reunião será lavrada acta para aprovação na reunião seguinte, ou na própria reunião, se necessário.
 
-###### Art. 3.º A comissão administrativa poderá delegar no seu presidente parte da sua competência relativamente a assuntos de expediente corrente, mediante homologação do Ministro do Ultramar.
+Art. 3.º A comissão administrativa poderá delegar no seu presidente parte da sua competência relativamente a assuntos de expediente corrente, mediante homologação do Ministro do Ultramar.
 
-###### Art. 4.º Compete ao presidente da comissão administrativa coordenar e orientar superiormente as actividades do Fundo, tendo em vista os superiores interesses do fomento mineiro nas províncias ultramarinas, e, designadamente:
+Art. 4.º Compete ao presidente da comissão administrativa coordenar e orientar superiormente as actividades do Fundo, tendo em vista os superiores interesses do fomento mineiro nas províncias ultramarinas, e, designadamente:
 
 1.º Orientar os trabalhos da comissão;
 
@@ -131,13 +145,13 @@ REGULAMENTO INTERNO DO FUNDO DE FOMENTO MINEIRO ULTRAMARINO
 
 7.º Assegurar a cooperação entre a comissão administrativa central e as delegações provinciais do Fundo, por forma a coordenar a execução comum das suas atribuições.
 
-###### Art. 5.º Compete aos vogais da comissão administrativa colaborar com o presidente no bom desempenho das atribuições do Fundo e, designadamente:
+Art. 5.º Compete aos vogais da comissão administrativa colaborar com o presidente no bom desempenho das atribuições do Fundo e, designadamente:
 
 1.º Discutir e votar os pareceres e as propostas sobre os assuntos submetidos à sua apreciação;
 
 2.º Relatar os processos que lhes forem distribuídos.
 
-###### Art. 6.º - 1. Compete ao secretário da comissão administrativa proporcionar o apoio e a colaboração necessários ao bom funcionamento dos serviços do Fundo, zelando activamente pelo cumprimento das suas atribuições legais, na dependência do presidente da comissão, e, designadamente:
+Art. 6.º - 1. Compete ao secretário da comissão administrativa proporcionar o apoio e a colaboração necessários ao bom funcionamento dos serviços do Fundo, zelando activamente pelo cumprimento das suas atribuições legais, na dependência do presidente da comissão, e, designadamente:
 
 1.º Organizar os processos que tenham de ser submetidos à comissão;
 
@@ -151,15 +165,15 @@ REGULAMENTO INTERNO DO FUNDO DE FOMENTO MINEIRO ULTRAMARINO
 
 6.º Estudar e propor as medidas necessárias ao cabal e eficaz preenchimento das atribuições do Fundo, de harmonia com as instruções do presidente da comissão.
 
-###### Art. 7.º - 1. O trabalho de secretaria da comissão administrativa e de expediente do Fundo será executado pela Direcção-Geral de Economia, de quem dependerão os agentes contratados ou assalariados que forem contratados a expensas do Fundo.
+Art. 7.º - 1. O trabalho de secretaria da comissão administrativa e de expediente do Fundo será executado pela Direcção-Geral de Economia, de quem dependerão os agentes contratados ou assalariados que forem contratados a expensas do Fundo.
 
 2. O secretário da comissão administrativa será coadjuvado no exercício das suas funções por funcionário especialmente designado pelo presidente da comissão, em regra de categoria não inferior a segundo-oficial, ao qual caberá a execução dos trabalhos de que for especialmente incumbido.
 
-###### Art. 8.º A comissão administrativa movimenta os dinheiros do Fundo por cheques, assinados pelo presidente e pelo vogal representante da Direcção-Geral de Fazenda.
+Art. 8.º A comissão administrativa movimenta os dinheiros do Fundo por cheques, assinados pelo presidente e pelo vogal representante da Direcção-Geral de Fazenda.
 
-###### Art. 9.º Para ocorrer a encargos com pequenas despesas correntes, haverá um fundo permanente, a constituir por despacho do Ministro do Ultramar, que será administrado pelo presidente.
+Art. 9.º Para ocorrer a encargos com pequenas despesas correntes, haverá um fundo permanente, a constituir por despacho do Ministro do Ultramar, que será administrado pelo presidente.
 
-###### Art. 10.º - 1. Nas faltas, ausências ou impedimentos dos componentes da comissão, as substituições dão-se pela forma seguinte:
+Art. 10.º - 1. Nas faltas, ausências ou impedimentos dos componentes da comissão, as substituições dão-se pela forma seguinte:
 
 1.º O presidente, por quem para o efeito for designado por despacho do Ministro do Ultramar;
 
@@ -171,7 +185,7 @@ REGULAMENTO INTERNO DO FUNDO DE FOMENTO MINEIRO ULTRAMARINO
 
 2. Os substitutos assinarão sempre em todos os actos com menção expressa da substituição.
 
-###### Art. 11.º - 1. As despesas realizadas pelo Fundo de Fomento Mineiro Ultramarino, devidamente discriminadas, classificar-se-ão em quatro classes, como segue:
+Art. 11.º - 1. As despesas realizadas pelo Fundo de Fomento Mineiro Ultramarino, devidamente discriminadas, classificar-se-ão em quatro classes, como segue:
 
 1.ª classe - despesas com o pessoal;
 
@@ -199,21 +213,21 @@ Ministério do Ultramar, 6 de Janeiro de 1969. - O Ministro do Ultramar, Joaquim
 
 REGULAMENTO INTERNO DAS DELEGAÇÕES PROVINCIAIS DO FUNDO DE FOMENTO MINEIRO ULTRAMARINO DE ANGOLA E MOÇAMBIQUE
 
-###### Artigo 1.º - 1. São criadas, nas províncias de Angola e Moçambique, delegações provinciais do Fundo de Fomento Mineiro Ultramarino.
+Artigo 1.º - 1. São criadas, nas províncias de Angola e Moçambique, delegações provinciais do Fundo de Fomento Mineiro Ultramarino.
 
 2. Às delegações provinciais compete a execução naquelas províncias das atribuições do Fundo de Fomento Mineiro Ultramarino, tal como referidas no Decreto n.º 48035, de 2 de Dezembro de 1967, na dependência dos respectivos governadores-gerais e em estreita coordenação com os serviços centrais do Fundo.
 
-###### Art. 2.º As delegações provinciais serão geridas por uma comissão administrativa constituída pelo director provincial dos Serviços de Geologia e Minas, que presidirá, por um representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade e por dois vogais de categoria não inferior a chefe de repartição dos Serviços Provinciais de Geologia e Minas, um dos quais exercerá as funções de secretário.
+Art. 2.º As delegações provinciais serão geridas por uma comissão administrativa constituída pelo director provincial dos Serviços de Geologia e Minas, que presidirá, por um representante da Direcção Provincial dos Serviços de Fazenda e Contabilidade e por dois vogais de categoria não inferior a chefe de repartição dos Serviços Provinciais de Geologia e Minas, um dos quais exercerá as funções de secretário.
 
 2. Nas faltas, ausências ou impedimentos dos membros das comissões administrativas provinciais serão estes representados pelos respectivos substitutos legais, ou, na falta destes, pelos substitutos que forem designados pelo governador-geral, sob proposta do director dos serviços a que pertencerem.
 
 3. Os substitutos assinarão sempre em todos os actos com menção expressa da substituição.
 
-###### Art. 3.º - 1. As comissões administrativas provinciais funcionarão obrigatòriamente com a presença de todos os seus membros, efectivos ou substitutos, reunirão ordinàriamente, pelo menos, duas vezes por mês e extraordinàriamente sempre que convocadas pelo presidente, por iniciativa deste ou mediante proposta de qualquer membro.
+Art. 3.º - 1. As comissões administrativas provinciais funcionarão obrigatòriamente com a presença de todos os seus membros, efectivos ou substitutos, reunirão ordinàriamente, pelo menos, duas vezes por mês e extraordinàriamente sempre que convocadas pelo presidente, por iniciativa deste ou mediante proposta de qualquer membro.
 
 2. Poderão comparecer eventualmente às reuniões, para prestar esclarecimentos, as pessoas especialmente convidadas para o efeito pelo presidente da comissão.
 
-###### Art. 4.º - 1. As deliberações das comissões administrativas provinciais são tomadas por maioria de votos dos seus membros, excluindo o secretário, que não terá direito a voto.
+Art. 4.º - 1. As deliberações das comissões administrativas provinciais são tomadas por maioria de votos dos seus membros, excluindo o secretário, que não terá direito a voto.
 
 2. Sempre que haja declaração de voto contrária à maioria, a deliberação deve subir à homologação do governador-geral, acompanhada de parecer do presidente da comissão.
 
@@ -221,9 +235,9 @@ REGULAMENTO INTERNO DAS DELEGAÇÕES PROVINCIAIS DO FUNDO DE FOMENTO MINEIRO ULT
 
 4. Das actas constarão os assuntos tratados nas reuniões e haverá menção expressa do montante de todos os levantamentos de fundos e sua aplicação, bem como dos pagamentos autorizados.
 
-###### Art. 5.º A comissão administrativa poderá delegar no seu presidente parte da sua competência relativamente a assuntos de expediente corrente, mediante homologação do governador-geral.
+Art. 5.º A comissão administrativa poderá delegar no seu presidente parte da sua competência relativamente a assuntos de expediente corrente, mediante homologação do governador-geral.
 
-###### Art. 6.º Compete aos presidentes das comissões administrativas provinciais coordenar e orientar as actividades das delegações, tendo em vista os superiores interesses do fomento mineiro nas respectivas províncias, e, designadamente:
+Art. 6.º Compete aos presidentes das comissões administrativas provinciais coordenar e orientar as actividades das delegações, tendo em vista os superiores interesses do fomento mineiro nas respectivas províncias, e, designadamente:
 
 1.º Orientar os trabalhos da comissão;
 
@@ -241,13 +255,13 @@ REGULAMENTO INTERNO DAS DELEGAÇÕES PROVINCIAIS DO FUNDO DE FOMENTO MINEIRO ULT
 
 8.º Elaborar semestralmente um relatório circunstanciado das actividades da delegação, a submeter ao governador-geral e à comissão administrativa central.
 
-###### Art. 7.º Compete aos vogais das comissões administrativas provinciais colaborar com o presidente no bom desempenho das atribuições das delegações e, designadamente:
+Art. 7.º Compete aos vogais das comissões administrativas provinciais colaborar com o presidente no bom desempenho das atribuições das delegações e, designadamente:
 
 1.º Discutir e votar os pareceres e as propostas sobre os assuntos submetidos à sua apreciação;
 
 2.º Relatar os processos que lhes forem distribuídos.
 
-###### Art. 8.º Compete aos secretários das comissões administrativas provinciais proporcionar o apoio e a colaboração necessários ao bom funcionamento das delegações, zelando activamente pelo cumprimento das suas atribuições legais, na dependência do presidente da comissão, e, designadamente:
+Art. 8.º Compete aos secretários das comissões administrativas provinciais proporcionar o apoio e a colaboração necessários ao bom funcionamento das delegações, zelando activamente pelo cumprimento das suas atribuições legais, na dependência do presidente da comissão, e, designadamente:
 
 1.º Organizar os processos que tenham de ser submetidos à comissão;
 
@@ -261,23 +275,23 @@ REGULAMENTO INTERNO DAS DELEGAÇÕES PROVINCIAIS DO FUNDO DE FOMENTO MINEIRO ULT
 
 6.º Estudar e propor as medidas necessárias ao cabal e eficaz preenchimento das atribuições da delegação, de harmonia com as instruções do presidente da comissão e com as disposições legais aplicáveis.
 
-###### Art. 9.º - 1. O trabalho de secretaria das comissões administrativas e de expediente das delegações será executado pelas Direcções Provinciais dos Serviços de Geologia e Minas, das quais dependerão os agentes contratados ou assalariados que forem admitidos a expensas das delegações do Fundo.
+Art. 9.º - 1. O trabalho de secretaria das comissões administrativas e de expediente das delegações será executado pelas Direcções Provinciais dos Serviços de Geologia e Minas, das quais dependerão os agentes contratados ou assalariados que forem admitidos a expensas das delegações do Fundo.
 
 2. Os secretários das comissões administrativas serão coadjuvados no exercício das suas funções por funcionário especialmente designado pelos presidentes das comissões, em regra de categoria não inferior a segundo-oficial das Direcções Provinciais dos Serviços de Geologia e Minas, ao qual caberá a execução dos trabalhos de que for especialmente incumbido.
 
-###### Art. 10.º - 1. As delegações do Fundo terão orçamentos próprios de receitas e despesas, ficando sujeitas à fiscalização dos tribunais administrativos provinciais, nos termos das disposições legais aplicáveis.
+Art. 10.º - 1. As delegações do Fundo terão orçamentos próprios de receitas e despesas, ficando sujeitas à fiscalização dos tribunais administrativos provinciais, nos termos das disposições legais aplicáveis.
 
 2. Constituirão receitas das delegações as verbas postas à sua disposição pelos serviços centrais do Fundo de Fomento Mineiro Ultramarino, respeitado o n.º 3 do artigo 3.º do [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967.
 
-###### Art. 11.º - 1. Às comissões administrativas provinciais cabe organizar e remeter à comissão administrativa central, em Lisboa, para coordenação e efeitos de aprovação pelo Ministro do Ultramar, até 30 de Setembro de cada ano, o projecto de orçamento das receitas para o ano seguinte, bem como o projecto de orçamento de despesas de acordo com o plano de actividades para o ano seguinte, elaborado pelos Serviços Provinciais de Geologia e Minas, ouvido o gabinete de estudos e com a aprovação dos governadores-gerais, fazendo acompanhar tudo de parecer fundamentado.
+Art. 11.º - 1. Às comissões administrativas provinciais cabe organizar e remeter à comissão administrativa central, em Lisboa, para coordenação e efeitos de aprovação pelo Ministro do Ultramar, até 30 de Setembro de cada ano, o projecto de orçamento das receitas para o ano seguinte, bem como o projecto de orçamento de despesas de acordo com o plano de actividades para o ano seguinte, elaborado pelos Serviços Provinciais de Geologia e Minas, ouvido o gabinete de estudos e com a aprovação dos governadores-gerais, fazendo acompanhar tudo de parecer fundamentado.
 
 2. As comissões administrativas provinciais poderão solicitar aos serviços provinciais de Fazenda e contabilidade os elementos necessários à elaboração dos orçamentos das receitas a que se refere o número anterior.
 
-###### Art. 12.º Depois de aprovados pelo Ministro do Ultramar os orçamentos de acordo com os planos de actividades das delegações provinciais do Fundo, as despesas serão realizadas precedendo deliberação das comissões administrativas provinciais, observadas as instruções aplicáveis sobre a realização das despesas públicas. dependendo dos governadores-gerais a autorização das despesas que excedam o montante de 50000$00 e das que digam respeito a medidas extraordinárias cuja realização saia do âmbito do Fundo de Fomento Mineiro Ultramarino, viagens, missões de estudo ou participações em reuniões científicas fora da província, concessão de bolsas de estudos ou outras.
+Art. 12.º Depois de aprovados pelo Ministro do Ultramar os orçamentos de acordo com os planos de actividades das delegações provinciais do Fundo, as despesas serão realizadas precedendo deliberação das comissões administrativas provinciais, observadas as instruções aplicáveis sobre a realização das despesas públicas. dependendo dos governadores-gerais a autorização das despesas que excedam o montante de 50000$00 e das que digam respeito a medidas extraordinárias cuja realização saia do âmbito do Fundo de Fomento Mineiro Ultramarino, viagens, missões de estudo ou participações em reuniões científicas fora da província, concessão de bolsas de estudos ou outras.
 
-###### Art. 13.º - 1. Para pagamento de despesas extraordinárias não incluídas no orçamento ordinário serão elaborados os orçamentos suplementares que se mostrarem necessários, levados à aprovação do Ministro do Ultramar, sob proposta das delegações provinciais, pela comissão administrativa central.
+Art. 13.º - 1. Para pagamento de despesas extraordinárias não incluídas no orçamento ordinário serão elaborados os orçamentos suplementares que se mostrarem necessários, levados à aprovação do Ministro do Ultramar, sob proposta das delegações provinciais, pela comissão administrativa central.
 
-###### Art. 14.º - 1. Às comissões administrativas provinciais caberá organizar e remeter à comissão administrativa central, sem prejuízo do disposto no n.º 1 do artigo 10.º, até 15 de Abril de cada ano, as contas de gerência referentes às despesas efectuadas até 31 de Dezembro da ano anterior.
+Art. 14.º - 1. Às comissões administrativas provinciais caberá organizar e remeter à comissão administrativa central, sem prejuízo do disposto no n.º 1 do artigo 10.º, até 15 de Abril de cada ano, as contas de gerência referentes às despesas efectuadas até 31 de Dezembro da ano anterior.
 
 2. As despesas realizadas, devidamente discriminadas, classificar-se-ão em quatro classes, como segue:
 
@@ -303,12 +317,12 @@ Outros mapas que se julguem necessários a uma perfeita elucidação do conteúd
 
 5. As comissões administrativas provinciais remeterão igualmente à comissão administrativa central, até 15 de Abril de cada ano, o relatório técnico anual das actividades levadas a cabo no respectivo exercício, o qual deverá ser circunstanciado e documentado e focar não só os aspectos gerais dessas actividades como as realizações dos empreendimentos encetados ou financiados e os resultados obtidos.
 
-###### Art. 15.º As comissões administrativas provinciais movimentam os dinheiros do Fundo por cheques assinados pelo presidente e pelo vogal representante da direcção provincial dos serviços de Fazenda e contabilidade.
+Art. 15.º As comissões administrativas provinciais movimentam os dinheiros do Fundo por cheques assinados pelo presidente e pelo vogal representante da direcção provincial dos serviços de Fazenda e contabilidade.
 
-###### Art. 16.º Para ocorrer a encargos com pequenas despesas correntes, haverá um fundo permanente, a constituir por despacho do governador-geral, que será administrado pelo presidente.
+Art. 16.º Para ocorrer a encargos com pequenas despesas correntes, haverá um fundo permanente, a constituir por despacho do governador-geral, que será administrado pelo presidente.
 
-###### Art. 17.º As comissões administrativas provinciais corresponder-se-ão directamente com quaisquer serviços centrais ou provinciais, bem como os bancos depositários dos seus fundos.
+Art. 17.º As comissões administrativas provinciais corresponder-se-ão directamente com quaisquer serviços centrais ou provinciais, bem como os bancos depositários dos seus fundos.
 
-###### Art. 18.º Aos membros das comissões administrativas provinciais, bem como aos funcionários que prestem temporàriamente serviços às delegações do Fundo, poderão ser atribuídas gratificações, por despacho do governador-geral, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.
+Art. 18.º Aos membros das comissões administrativas provinciais, bem como aos funcionários que prestem temporàriamente serviços às delegações do Fundo, poderão ser atribuídas gratificações, por despacho do governador-geral, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.
 
 Ministério do Ultramar, 6 de Janeiro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 245/2018, 2º Suplemento, Série I de 2018-12-20
   number: '245'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5862-(4) a 5862-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24502/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/96-ag/2018/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/96-ag-2018-117471270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d7a7412b16b297ad0f8f0814a642d5cee1b6d1edff7100f7ec672c5e4485fda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21341433970bdce7954dc3fd9468e9d10e5d62b7eff0a9d3c5e47c46a341e1fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:52Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +86,18 @@ validation:
 
 de 20 de dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 É indultado, parcialmente, na medida de um ano da pena de prisão de dois anos e nove meses suspensa por igual período, aplicada a António Baptista dos Santos no Proc.º n.º 129/14.8GEPNF.
 
-**Assinado em 20 de dezembro de 2018.**
+Assinado em 20 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de dezembro de 2018.**
+Referendado em 20 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111934779

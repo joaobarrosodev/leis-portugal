@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2025/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 988d5a9239384c2d79853db9d97063bdc77f9bee8d9948b2bdf100e6c8a73bcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c70ef0ce2bf0710d1509b684a54deb8b15096e4fd3921cfa95936ad26683db6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,37 @@ subjects:
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
-- Ensino Secundário
 - Contratação de Pessoal
-- Pessoal Técnico Especializado
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
 - Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
-- Educação Pré-escolar
+- Pessoal Técnico Especializado
 relationships:
 - type: amended_by
   target: pt:dre:945460847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:51/2024
+  label: Altera, a partir de 20 de setembro de 2025, os artigos 2.º, 3.º, 4.º, 5.º, 7.º, 8.º e 9.º, adita o artigo 4.º-A e
+    revoga os n.ºs 2 e 3 do artigo 3.º, o n.º 4 do artigo 4.º e o n.º 9 do artigo 5.º do Decreto-Lei n.º 51/2024, de 28 de
+    agosto, Diário da República n.º 166/2024, Série I
+  source: null
+  date: '2024-08-28'
+- type: amends
+  target: pt:numero:decreto-lei:57-A/2024
+  label: Altera, a partir de 20 de setembro de 2025, com efeitos a partir de 1 de setembro de 2025, os artigos 1.º e 14.º
+    do Decreto-Lei n.º 57-A/2024, de 13 de setembro, Diário da República n.º 178/2024, Suplemento, Série I
+  source: null
+  date: '2024-09-13'
+- type: amends
+  target: pt:numero:lei:38/2025
+  label: Altera, a partir de 20 de setembro de 2025, o artigo 4.º da Lei n.º 38/2025, de 31 de março, Diário da República
+    n.º 63/2025, Série I
+  source: null
+  date: '2025-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2025/03/17/p/dre
   label: null
@@ -122,16 +141,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885927817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:887747449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889495844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911089430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:912066256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:913048482:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:47Z'
   warnings: []
   errors: []
 ---
@@ -318,11 +389,11 @@ As colocações dos candidatos à mobilidade interna são efetuadas respeitando 
 
 2 - Os docentes que se encontrem na situação prevista no número anterior são apenas opositores ao concurso de mobilidade interna regulado, em especial, nos artigos 30.º a 33.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual.
 
-3 - Os docentes a que se referem os números anteriores são ordenados no concurso de mobilidade interna na 3.ª prioridade, após a prioridade prevista na alínea c) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual, e manifestam as suas preferências de acordo com o disposto no artigo 9.º do mesmo decreto-lei, sem prejuízo do disposto nos n.<sup>os</sup>4 e 5 do presente artigo.
+3 - Os docentes a que se referem os números anteriores são ordenados no concurso de mobilidade interna na 3.ª prioridade, após a prioridade prevista na alínea c) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual, e manifestam as suas preferências de acordo com o disposto no artigo 9.º do mesmo decreto-lei, sem prejuízo do disposto nos n.os4 e 5 do presente artigo.
 
 4 - Os docentes a que se referem os números anteriores manifestam as suas preferências para os AE/EnA inseridos no âmbito geográfico do QZP a que se encontram vinculados e no âmbito geográfico de, pelo menos, dois QZP limítrofes.
 
-5 - Sem prejuízo das preferências manifestadas nos termos dos n.<sup>os</sup>3 e 4, considera-se que, no caso de a candidatura não esgotar a totalidade dos AE/EnA inseridos no âmbito geográfico dos QZP a que o docente concorre, este manifesta igual preferência por todos os restantes AE/EnA inseridos no âmbito geográfico desses QZP, fazendo-se a colocação por ordem crescente de AE/EnA.
+5 - Sem prejuízo das preferências manifestadas nos termos dos n.os3 e 4, considera-se que, no caso de a candidatura não esgotar a totalidade dos AE/EnA inseridos no âmbito geográfico dos QZP a que o docente concorre, este manifesta igual preferência por todos os restantes AE/EnA inseridos no âmbito geográfico desses QZP, fazendo-se a colocação por ordem crescente de AE/EnA.
 
 6 - A graduação dos candidatos a que se refere o presente artigo é feita nos termos previstos no n.º 9 do artigo 40.º do [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual.
 
@@ -360,7 +431,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 3.º — Quadros de zona pedagógica carenciados
+Artigo 3.º
+
+Quadros de zona pedagógica carenciados
 
 1 - Para o efeito do disposto no presente decreto-lei, consideram-se «quadros de zona pedagógica carenciados» aqueles em que se verifique uma insuficiência estrutural de docentes, nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
@@ -368,7 +441,9 @@ d) [...]
 
 3 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -394,7 +469,9 @@ c) [...]
 
 9 - A distribuição de serviço docente extraordinário nos termos do presente artigo é obrigatoriamente comunicada à AGSE, I. P., através do respetivo registo no Sistema Interativo de Gestão de Recursos Humanos da Educação (SIGRHE), não carecendo de autorização prévia.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Nos agrupamentos de escolas e nas escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, a satisfação de necessidades temporárias de pessoal docente não garantidas através dos procedimentos concursais previstos no [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual, com exceção do concurso de contratação de escola, pode ser assegurada através da celebração de contrato de trabalho em funções públicas a termo resolutivo com docentes aposentados ou reformados, com ou sem recurso aos mecanismos legais de antecipação, detentores de qualificação profissional, mediante a autorização do membro do Governo responsável pela área da educação, que fundamenta o interesse público excecional em causa, nos termos do n.º 1 do artigo 78.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de dezembro, na sua redação atual, e do presente decreto-lei.
 
@@ -418,7 +495,9 @@ c) [...]
 
 11 - O contingente anual dos docentes aposentados ou reformados que pode ser contratado para satisfação de necessidades temporárias de pessoal docente, em agrupamentos de escolas e em escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, é fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da educação.
 
-###### Artigo 7.º — Contratação de docentes do ensino superior, de investigadores doutorados e de bolseiros de investigação
+Artigo 7.º
+
+Contratação de docentes do ensino superior, de investigadores doutorados e de bolseiros de investigação
 
 1 - A satisfação de necessidades temporárias de pessoal docente pode ser assegurada através da celebração de contrato de trabalho em funções públicas a termo resolutivo com docentes do ensino superior, com investigadores doutorados e com bolseiros de investigação abrangidos pelo Estatuto do Bolseiro de Investigação, aprovado em anexo à [Lei n.º 40/2004](https://diariodarepublica.pt/dr/detalhe/lei/40-2004-480705), de 18 de agosto, na sua redação atual, desde que, em qualquer dos casos, sejam detentores de formação científica adequada às áreas disciplinares dos grupos de recrutamento previstos no [Decreto-Lei n.º 27/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2006-684601), de 10 de fevereiro, na sua redação atual, na sequência de colocação ao abrigo da contratação de escola prevista no [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual.
 
@@ -428,7 +507,9 @@ c) [...]
 
 4 - Os docentes do ensino superior, os investigadores doutorados e os bolseiros de investigação a que se refere o presente artigo que não sejam detentores de habilitação profissional para a docência têm acesso à profissionalização em serviço.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -442,7 +523,9 @@ b) Aos detentores dos graus de mestre ou de doutor que ingressem nos ciclos de e
 
 4 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - De forma a mitigar os efeitos da ausência de atividade letiva num determinado grupo de recrutamento, não assegurada através dos procedimentos para preenchimento de necessidades temporárias previstos no [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, na sua redação atual, os agrupamentos de escolas e as escolas não agrupadas podem proceder à contratação de técnicos especializados, para o desenvolvimento de competências e a realização de trabalho com os alunos.
 
@@ -484,7 +567,9 @@ Os artigos 1.º e 14.º do [Decreto-Lei n.º 57-A/2024](https://diariodarepublic
 
 2 - O presente decreto-lei cria, ainda, um apoio extraordinário e temporário, até 31 de julho de 2027, à deslocação destinado aos educadores de infância e aos professores dos ensinos básico e secundário, prevendo a sua majoração nos casos em que os mesmos se encontrem colocados em agrupamentos de escolas ou em escolas não agrupadas (AE/EnA) inseridos no âmbito geográfico dos quadros de zona pedagógica que sejam considerados carenciados.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -532,7 +617,7 @@ A presente lei entra em vigor na mesma data em que tem lugar o início da vigên
 
 ###### Artigo 21.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>2 e 3 do artigo 3.º, o n.º 4 do artigo 4.º e o n.º 9 do artigo 5.º do [Decreto-Lei n.º 51/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2024-885927817), de 28 de agosto.
+São revogados os n.os2 e 3 do artigo 3.º, o n.º 4 do artigo 4.º e o n.º 9 do artigo 5.º do [Decreto-Lei n.º 51/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2024-885927817), de 28 de agosto.
 
 ###### Artigo 22.º — Entrada em vigor e produção de efeitos
 
@@ -542,12 +627,14 @@ São revogados os n.<sup>os</sup>2 e 3 do artigo 3.º, o n.º 4 do artigo 4.º e
 
 Visto e aprovado em Conselho de Ministros de 28 de agosto de 2025. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Fernando Alexandre.
 
-**Promulgado em 11 de setembro de 2025.**
+Promulgado em 11 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de setembro de 2025.**
+Referendado em 15 de setembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119542777

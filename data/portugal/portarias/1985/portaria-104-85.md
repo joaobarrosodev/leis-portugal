@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-1985-327311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99ab3fd49bca8db2eb17c1f54e37c51f540077ddf14b7790e19a5f8a959cbbaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95347ab9406e2e1186e2af23b66dcf86dfe0c37ffc20164f3e94d88c493312c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Emolumento
+- Pessoa Coletiva
+- Registo Nacional de Pessoas Coletivas
+relationships:
+- type: cites
+  target: pt:dre:312427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443133:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:18:20Z'
   warnings: []
   errors: []
 ---
@@ -92,23 +104,23 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 #### SECÇÃO I — Certificados de admissibilidade de firmas ou denominações
 
-###### Artigo 1.º Por cada pedido de certificado: 1000$00.
+Artigo 1.º Por cada pedido de certificado: 1000$00.
 
-###### Art. 2.º - 1 - Pela emissão de cada certificado de admissibilidade: 3000$00.
+Art. 2.º - 1 - Pela emissão de cada certificado de admissibilidade: 3000$00.
 
 2 - Pela emissão de certificado referente a firma ou denominação que contenha expressão estrangeira ou de feição estrangeira não resultante do simples uso de nome ou apelido de associado, membro patrocinador ou instituidor acresce ao emolumento, do n.º 1: 15000$00.
 
 3 - Pela emissão de cada certificado negativo: 3000$00.
 
-###### Art. 3.º - 1 - Pela primeira renovação de certificado: 4000$00.
+Art. 3.º - 1 - Pela primeira renovação de certificado: 4000$00.
 
 2 - Pela segunda renovação de certificado: 8000$00.
 
 3 - Em qualquer renovação de certificado nas condições previstas no n.º 2 do artigo 2.º acresce: 15000$00.
 
-###### Art. 4.º Por cada 2.ª via de certificado: 3000$00.
+Art. 4.º Por cada 2.ª via de certificado: 3000$00.
 
-###### Art. 5.º - 1 - Pela 1.ª declaração de invalidade ou desistência de cada certificado: 1000$00.
+Art. 5.º - 1 - Pela 1.ª declaração de invalidade ou desistência de cada certificado: 1000$00.
 
 2 - Por cada nova declaração de invalidade ou desistência: 5000$00.
 
@@ -118,7 +130,7 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 ##### SUBSECÇÃO 1 — Inscrição de constituição
 
-###### Art. 6.º - 1 - Por cada inscrição da constituição de pessoa colectiva ou ente colectivo personalizado internacional ou estrangeiro ou sua representação: 1000$00.
+Art. 6.º - 1 - Por cada inscrição da constituição de pessoa colectiva ou ente colectivo personalizado internacional ou estrangeiro ou sua representação: 1000$00.
 
 2 - Por cada inscrição da constituição de pessoa colectiva que exerça actividade de carácter lucrativo acresce ao n.º 1: 0,5% do capital, no mínimo de 5000$00.
 
@@ -132,7 +144,7 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 ##### SUBSECÇÃO II — Inscrição de modificação
 
-###### Art. 7.º - 1 - Por cada inscrição de modificação de pessoa colectiva ou entidade equiparada, ente colectivo personalizado internacional ou estrangeiro ou sua representação: 1000$00.
+Art. 7.º - 1 - Por cada inscrição de modificação de pessoa colectiva ou entidade equiparada, ente colectivo personalizado internacional ou estrangeiro ou sua representação: 1000$00.
 
 2 - Por cada inscrição de aumento ou importação de capital de pessoa colectiva ou entidade equiparada que exerça actividade de carácter lucrativo acresce ao n.º 1: 0,5% do aumento.
 
@@ -144,21 +156,21 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 #### SECÇÃO III — Cartão de identificação
 
-###### Art. 8.º Pela emissão pela 1.ª vez, renovação, actualização ou 2.ª via de cartão de identificação: 5000$00.
+Art. 8.º Pela emissão pela 1.ª vez, renovação, actualização ou 2.ª via de cartão de identificação: 5000$00.
 
 #### SECÇÃO IV — Nomes comerciais
 
-###### Art. 9.º Por cada registo de nome comercial nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro: 1000$00.
+Art. 9.º Por cada registo de nome comercial nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 425/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1983-443133), de 6 de Dezembro: 1000$00.
 
 #### SECÇÃO V — Serviços comuns
 
-###### Art. 10.º Por cada certidão ou cópia autenticada de, registo informático: 5000$00.
+Art. 10.º Por cada certidão ou cópia autenticada de, registo informático: 5000$00.
 
-###### Art. 11.º Pelo preenchimento de cada impresso a pedido do requerente: 100$00.
+Art. 11.º Pelo preenchimento de cada impresso a pedido do requerente: 100$00.
 
-###### Art. 12.º Por cada fotocópia de documento de prova a apresentar pelo requerente: 10$00.
+Art. 12.º Por cada fotocópia de documento de prova a apresentar pelo requerente: 10$00.
 
-###### Art. 13.º - 1 - Com cada reclamação, efectuada em impresso próprio, será feito o preparo de 1000$00, que será devolvido no caso de deferimento da reclamação ou constituirá emolumento no caso de deferimento.
+Art. 13.º - 1 - Com cada reclamação, efectuada em impresso próprio, será feito o preparo de 1000$00, que será devolvido no caso de deferimento da reclamação ou constituirá emolumento no caso de deferimento.
 
 2 - No caso de deferimento parcial, o despacho fixará a proporção do preparo que será devolvido e a do que constituirá emolumento.
 
@@ -174,6 +186,6 @@ Tabela de emolumentos do Registo Nacional de Pessoas Colectivas
 
 Ministério da Justiça.
 
-**Assinada em 6 de Fevereiro de 1985.**
+Assinada em 6 de Fevereiro de 1985.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.

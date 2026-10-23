@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-1980-678215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f31de0f19c2f93ffbecaba0d0b6bd50db74bfd61eeb7528eb47c27f60523fcd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24c6bb0b455788c77e5ad3bbcda24168305a2f80ba4981883178afcae6088bb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fardamento
+- Força Aérea
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:448081:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:677444:por
+  label: Rectificada pela DECL.DD6801.26.03.1980.CR, DR.IS [72] de 26.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-677444
+  date: '1980-03-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:09Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Considerando o disposto no artigo 2.º do [Decreto-Lei n.º 270/78](https://diar
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
 
-###### Artigo 1.º - 1 - A alínea e) do n.º 312 do capítulo 3 - distintivos de postos de sargentos e praças - do Regulamento de Uniformes da Força Aérea (RUFA), publicado com o [Decreto-Lei n.º 270/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1978-448081), de 1 de Setembro, é alterada como segue:
+Artigo 1.º - 1 - A alínea e) do n.º 312 do capítulo 3 - distintivos de postos de sargentos e praças - do Regulamento de Uniformes da Força Aérea (RUFA), publicado com o [Decreto-Lei n.º 270/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1978-448081), de 1 de Setembro, é alterada como segue:
 
 312 - ...
 
@@ -121,6 +133,6 @@ j) ...
 
 2 - A figura 3.46 e a figura 3.47, esta no que respeita aos distintivos de sargento mor, sargento-chefe e sargento-ajudante, são alteradas de acordo com as do anexo A da presente portaria, que vão identificadas pelos mesmos números.
 
-###### Art. 2.º O disposto no artigo 1.º desta portaria deverá ser executado até à data limite de 1 de Julho de 1980.
+Art. 2.º O disposto no artigo 1.º desta portaria deverá ser executado até à data limite de 1 de Julho de 1980.
 
 Estado-Maior da Força Aérea, 28 de Fevereiro de 1980. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

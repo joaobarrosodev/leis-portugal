@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/119a00/32223229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2003/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2003-540841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e696a7a798b2ef6fc23625c4c0824292bca5ef93b434dd48e45734226471e39f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f04df75ba0f5c7c0c0450db495e3a572055aaf754c7a295a12f9c3a040d5f088
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
-- Gestão Financeira
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- Comissão de Coordenação Regional
 - Criação de Serviços
 - Definição de Competências
-- Comissão de Coordenação Regional
 - Direcção Regional do Ambiente e do Ordenamento do Território
 - Extinção de Serviços
-- Comissão de Coordenação e Desenvolvimento Regional
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Ministério das Cidades Ordenamento do Território e Ambiente
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Ordenamento do Território
 - Orgânica
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:521005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:269647:por
+  label: "Alterados os arts. 10.º e 11.º, pelo DEC LEI.117/2004.18.05.2004.MCOTA, DR.IS-A [116] de 18.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2004-269647
+  date: '2004-05-18'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ das Comissões de Coordenação e Desenvolvimento Regional (integradas no extinto Ministério das Cidades, Ordenamento do\
+    \ Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas das comissões de coordenação e desenvolvimento\
+    \ regional, criadas no presente diploma, no domínio da administração local, bem como o acompanhamento da sua execução,\
+    \ seja exercida pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional em articulação com\
+    \ o Ministro de Estado e da Administração Interna, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:236551:por
+  label: "Alterados os arts 10º (na redacção do Dec Lei 117/2004 de 18-Mai) e 16º, ambos do presente diploma, pelo DEC LEI.114/2005.13.07.2005.MAOTDR,\
+    \ DR.IS-A [133] de 13.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2005-236551
+  date: '2005-07-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
@@ -129,16 +155,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/1998/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/1998/11/24/p/dre
+- type: cites
+  target: pt:dre:164209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521005:por
+  label: "Revogado, a partir de 01.05.2007, pelo DEC LEI.134/2007.27.04.2007.MAOTDR, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2007-521005
+  date: '2007-04-27'
 article_structure:
   article_count: 29
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:59Z'
   warnings: []
   errors: []
 ---
@@ -651,12 +734,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 25 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta - Luís Filipe Pereira - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues - Isaltino Afonso de Morais.
 
-**Promulgado em 7 de Maio de 2003.**
+Promulgado em 7 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2003.**
+Referendado em 12 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

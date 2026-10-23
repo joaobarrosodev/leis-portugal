@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1987-662901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e885fc32d8d91bbb6b4efb7ceb61cc5ed3545a2470a4964f508281c44b2a35d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7241b82b040b56a76a4945cf3db7df51fb20b9b72ff065604f8945a66f6836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+- Secretariado Agrícola para as Relações Europeias
 relationships:
 - type: amended_by
   target: pt:dre:334646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334646:por
+  label: Revogado, com a entrada em vigor da regulamentação prevista no art. 3.º do presente diploma, pelo(a) Decreto-Lei
+    n.º 56/90 - Diário da República n.º 37/1990, Série I de 1990-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:17Z'
   warnings: []
   errors: []
 ---
@@ -332,7 +361,7 @@ Enquanto não forem efectuadas as competentes alterações orçamentais, os enca
 
 ###### Artigo 18.º
 
-**O Ministro da Agricultura, Pescas e Alimentação poderá delegar no director-geral do Secretariado autorização para deslocações ao estrangeiro no âmbito da CEE.**
+O Ministro da Agricultura, Pescas e Alimentação poderá delegar no director-geral do Secretariado autorização para deslocações ao estrangeiro no âmbito da CEE.
 
 ###### Artigo 19.º
 
@@ -340,16 +369,16 @@ Enquanto não forem efectuadas as competentes alterações orçamentais, os enca
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins - António Amaro de Matos.
 
-**Promulgado em 12 de Janeiro de 1987.**
+Promulgado em 12 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Janeiro de 1987.**
+Referendado em 14 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 1 do artigo 12.º do Decreto Regulamentar n.º 14/87
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/02/03000/04460450.pdf))](https://files.diariodarepublica.pt/1s/1987/02/03000/04460450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03000/04460450.pdf)

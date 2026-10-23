@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05500/0005300056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2025/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aad51d2186092421f6fdfd6c95d1e36f20c3bb97a9c133c337ae59d37112d6e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b82231709eadee89b5029fd66b4bfcd6fc188daef303ced41c05b514fe0daf1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Atribuição de Verba
-- Espetáculos e Divertimentos Públicos
-- Jogos de Fortuna e Azar
-- Ministério da Administração Interna
-- Segurança Pública
-- Lisboa
-- Secretaria Geral
-- Santa Casa da Misericórdia
-- GNR
-- Receita Pública
-- Segurança Privada
 - Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Espetáculos e Divertimentos Públicos
+- GNR
+- Jogos de Fortuna e Azar
+- Lisboa
+- Ministério da Administração Interna
+- PSP
+- Receita Pública
+- Santa Casa da Misericórdia
+- Secretaria Geral
+- Segurança Privada
+- Segurança Pública
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:56/2006
+  label: Altera, a partir de 20 de março de 2025, o artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de março, Diário da República
+    n.º 53/2006, Série I-A
+  source: null
+  date: '2006-03-15'
+- type: amends
+  target: pt:numero:decreto-lei:216/2012
+  label: Altera, a partir de 20 de março de 2025, o artigo 5.º (a alteração ao n.º 3 deste, produz efeitos no dia 1 de abril
+    de 2025) do Decreto-Lei n.º 216/2012, de 9 de outubro, Diário da República n.º 195/2012, Série I
+  source: null
+  date: '2012-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
   label: null
@@ -112,16 +124,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/167/2013/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/167/2013/04/30/p/dre
+- type: cites
+  target: pt:dre:115017488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907934905:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:147/2025
+  label: Revoga, a partir de 20 de março de 2025, nos termos do artigo 5.º do presente diploma, a Portaria n.º 147/2025/2,
+    de 19 de fevereiro, Diário da República n.º 35/2025, Série II
+  source: null
+  date: '2025-02-19'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:59Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +214,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-1 - O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelos Decretos-Leis n.<sup>os</sup>[44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, [106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, e [23/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), de 10 de abril, que regula a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
+1 - O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelos Decretos-Leis n.os[44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, [106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, e [23/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), de 10 de abril, que regula a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
 
 2 - O presente decreto-lei procede igualmente à segunda alteração ao [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro, alterado pelo [Decreto-Lei n.º 52/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2013-260420), de 17 de abril, que aprovou o regime de policiamento de espetáculos desportivos realizados em recinto desportivo e de satisfação dos encargos com o policiamento de espetáculos desportivos em geral.
 
@@ -220,7 +278,7 @@ a) Às verbas transferidas pela receita transferida para o Ministério da Admini
 
 b) Às transferências da Autoridade de Supervisão de Seguros e Fundos de Pensões relativas aos certificados de responsabilidade civil automóvel, nos termos do artigo 5.º da [Portaria n.º 403/86](https://diariodarepublica.pt/dr/detalhe/portaria/403-1986-218713), de 26 de julho, alterada pela [Portaria n.º 167/2013](https://diariodarepublica.pt/dr/detalhe/portaria/167-2013-260643), de 30 de abril.
 
-4 - As verbas referidas nos n.<sup>os</sup>2 e 3 são remetidas à Secretaria-Geral do Ministério da Administração Interna, que as transfere para as forças de segurança.
+4 - As verbas referidas nos n.os2 e 3 são remetidas à Secretaria-Geral do Ministério da Administração Interna, que as transfere para as forças de segurança.
 
 5 - (Anterior n.º 4.)»
 
@@ -242,12 +300,14 @@ b) Às transferências da Autoridade de Supervisão de Seguros e Fundos de Pens�
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Margarida Blasco.
 
-**Promulgado em 12 de março de 2025.**
+Promulgado em 12 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2025.**
+Referendado em 13 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118818694

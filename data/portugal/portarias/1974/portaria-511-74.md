@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 192/1974, 1º Suplemento, Série I de 1974-08-19
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 910-(9) a 910-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/19201/00090010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/511-1974-184219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7677fbcf242f8bb95242a3d62e41a69ab0ab2bbb7dbc8d8bd71dd7bc27ef38b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2cb6cbdc63d0367eb6bf3d961748d55f6c2e52f57b872c3610e20044d290a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:315549:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315549:por
+  label: Revogada pelo(a) Portaria n.º 101-M/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-m-1977-315549
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:09Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +132,6 @@ TABELA
 
 Preços máximos de venda em todas as localidades do continente de massas alimentícias empacotadas em papel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/19201/00090010.pdf))](https://files.diariodarepublica.pt/1s/1974/08/19201/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/19201/00090010.pdf)
 
-**O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.**
+O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.

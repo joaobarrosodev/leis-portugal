@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-1984-660286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7227a242b8378576fb0f05f6d71b97d43a48c34b06f6fa805c50ac4bcd4dcf13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b79657a5f95ad4cd37c2276f26ea3749617a2545408454ce00d63c8415a1a702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral de Coordenação Comercial
+- Pessoal de Informática
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457418:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:48Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +121,7 @@ c) Quando da aplicação da alínea anterior resultar provimento em categoria a 
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Comércio e Turismo.
 
-**Assinada em 27 de Dezembro de 1983.**
+Assinada em 27 de Dezembro de 1983.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
 
@@ -118,13 +129,13 @@ Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretári
 
 Categorias informáticas e número de lugares a criar no quadro da ex-Direcção-Geral de Coordenação Comercial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf)
 
 ## ANEXO II — Mapa a que se refere o n.º 2.º
 
 Lugares a abater nos quadros das ex-Direcções-Gerais de Coordenação Comercial, Comércio Alimentar e Comércio não Alimentar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf)
 
 ## ANEXO III — Conteúdo funcional da carreira de técnicos superiores de informática a que se refere o n.º 3.º
 
@@ -150,4 +161,4 @@ g) Promover acções de sensibilização junto dos utilizadores da informática,
 
 Equivalências entre as categorias da carreira de técnicos superiores e da carreira de técnicos superiores de informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01100/01170119.pdf)

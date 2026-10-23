@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/070a00/16271628.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/2001/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2001-347956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dbbe544628811ec8e94eef5fd88269ddd59a9bb13852788dc64572acf41d49c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 674212cc4f144539fb79d6cd557fd385ed22f60a9d35b1e28e402a05a27199ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica Hospitalar
 - Centro de Atendimento Urgente
-- Ministro da Saúde
-- Consulta Médica
-- Sistema Retributivo
-- Remuneração Acessória
-- Pagamento
-- Horas Extraordinárias
 - Centro de Saúde
-- Horário de Trabalho
+- Consulta Médica
 - Estabelecimento Hospitalar
+- Horário de Trabalho
+- Horas Extraordinárias
+- Médico
+- Ministro da Saúde
+- Pagamento
 - Remuneração
+- Remuneração Acessória
 - Serviço de Atendimento Permanente
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:538817:por
@@ -94,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667138:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538817:por
+  label: "Revogado pelo Dec Lei.170/2006.17.08.2006.MS, DR.IS [158] de 17.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2006-538817
+  date: '2006-08-17'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:36Z'
   warnings: []
   errors: []
 ---
@@ -154,12 +171,12 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 8 de Março de 2001.**
+Promulgado em 8 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2001.**
+Referendado em 15 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/346/2007/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-2007-629140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ad60311e2f13a79b5a32112e12b00fe64b450a9715d8b90fddb78e210cfd889
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aba58562cb531611e053683c199e7924c1b142c7aae2a0ee483731605cfcfd52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aproximação das Legislações
-- Poluição Atmosférica
 - Combustível
+- Gás Natural
 - Gasóleo
 - Homologação
-- Veículo
-- Proteção do Ambiente
 - Poluição
+- Poluição Atmosférica
+- Proteção do Ambiente
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:115552673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488328:por
+  label: "Alterados os arts. 1.º, 2.º e 25.º e aditado o art. 11.º-A ao Regulamento aprovado pelo presente diploma, bem como\
+    \ alterados os anexos vi-A, vii-A, x-A e xvi e aditados os anexos vi-F, xvii e xviii ao Regulamento, pelo DEC LEI.196/2009.24.08.2009.MOPTC,\
+    \ DR.IS [163] de 24.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-2009-488328
+  date: '2009-08-24'
 - type: cites
   target: celex:32005L0055
   label: null
@@ -101,16 +108,21 @@ relationships:
   target: celex:32006L0081
   label: null
   source: http://data.europa.eu/eli/dir/2006/81/oj
+- type: repeals
+  target: pt:numero:decreto-lei:13/2002
+  label: "Revoga, a partir de 22.10.2007, o Decreto-Lei n.º 13/2002, de 26 de Janeiro, DR.IS-A [22]\0\0"
+  source: null
+  date: '2002-01-26'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:40Z'
   warnings: []
   errors: []
 ---
@@ -281,14 +293,14 @@ As referências ao Regulamento Respeitante ao Nível das Emissões Poluentes Pro
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20000/0752207648.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20000/0752207648.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20000/0752207648.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2013/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2013-494803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc0ca2a31af449fd724a19b2190bbbdc6284bc2d47dd56fc98617763e1e767fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86ce420f5da3f2ac5a80a0d518518c43a03470bde07c9863d432bb83616414ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Contribuições da Segurança Social
 - Dívidas à Segurança Social
-- Empresário
 - Documento Eletrónico
+- Empresário
 - Internet
 - Prazo
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Segurança Social
 - TAXA Contributiva
 - Trabalhador Independente
@@ -81,6 +81,13 @@ relationships:
   target: pt:dre:115620692:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115620692:por
+  label: Alterado, com efeitos a 01.01.2019, o art. 54.º-A, na redação do presente diploma, do DR 1-A/2011 de 03-jan, pelo(a)
+    Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02, que procede à sua republicação,
+    nos termos dos seus arts. 4.º e 8.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2018-115620692
+  date: '2018-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/1-a/2011/01/03/p/dre
   label: null
@@ -97,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:175522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:35Z'
   warnings: []
   errors: []
 ---
@@ -167,12 +190,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e repor
 
 Visto e aprovado em Conselho de Ministros de 22 de agosto de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 7 de outubro de 2013.**
+Promulgado em 7 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de outubro de 2013.**
+Referendado em 8 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

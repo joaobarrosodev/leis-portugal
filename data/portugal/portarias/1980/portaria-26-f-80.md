@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 7/1980, 2º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 26-(11) a 26-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00702/00110016.pdf
 entry_into_force_dates: []
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-f-1980-508614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4419d5bd173f1d839d81f5c332b20fe71600f5eef17616e19c445b4769dc9b5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 329b95b97095d44c9e23d4b58bb5752ecd0278140b6913198ddbff8bf54c5f52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural da Arrábida
+- Proteção do Ambiente
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:692252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663354:por
+  label: "Alterado o n.º 1 do artigo 6.º do Regulamento do Parque Natural da Arrábida pela PORT.51/87.22.01.1987.MFP, DR.IS\
+    \ [18] de 22.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-1987-663354
+  date: '1987-01-22'
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234913:por
+  label: "Revogado pelo DR.23/98.1998.10.14.MAM DR.IS-B [237], com excepção dos arts. 8.º a 16.º, em tudo o que não disponham\
+    \ em contrário àquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-1998-234913
+  date: '1998-10-14'
+- type: repealed_by
+  target: pt:dre:692252:por
+  label: "Revogados os arts. 14.º, 15.º e 16.º do Regulamento, pela RES.86/2003.2003.06.03.PCM DR.IS-B [144] DE 25/JUN/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/86-2003-692252
+  date: '2003-06-03'
+- type: repealed_by
+  target: pt:dre:246128:por
+  label: "Revogados os arts. 8º a 16º do presente diploma, pela RES.141/2005.23.06.2005.PCM, DR.IS-B [161] de 23.08.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/141-2005-246128
+  date: '2005-06-23'
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:58Z'
   warnings: []
   errors: []
 ---
@@ -350,4 +389,4 @@ Para todas as questões não mencionadas no presente regulamento ou susceptívei
 
 2 - Com a aprovação superior do Plano Final de Ordenamento do Parque, o respectivo Regulamento revogará o que agora entra em vigor.
 
-**O Secretário de Estado do Urbanismo e Ambiente, José Duarte Palma da Silva Bruschy.**
+O Secretário de Estado do Urbanismo e Ambiente, José Duarte Palma da Silva Bruschy.

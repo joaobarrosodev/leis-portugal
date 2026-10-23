@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19900/25342536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-1982-396684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 474385659358d843cda8af453a3e942132a454c696853b4256ca60c6b03fa8f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d71b1fa810c6fb83c71ad1bb410ff522d238d3d190f7319776cc12fae9d436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fertilizante
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:627018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:396681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567970:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375237:por
+  label: Rectificada pela DECL.DD6065.10.09.1982.PCM, DR.IS [221] de 23.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375237
+  date: '1982-09-10'
+- type: repealed_by
+  target: pt:dre:627018:por
+  label: "Revogada pela PORT.714-A/83.23.06.1983.MFP, DR.IS [142]Supl de 23.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-a-1983-627018
+  date: '1983-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:38Z'
   warnings: []
   errors: []
 ---
@@ -164,4 +197,4 @@ Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas, da In
 
 Quadro a que se referem os n.os 2 e 8 do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19900/25342536.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19900/25342536.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19900/25342536.pdf)

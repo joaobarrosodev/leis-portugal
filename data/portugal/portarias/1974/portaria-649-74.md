@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/649-1974-472879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e100c400a32cffbdbbde5a34ccc93e9be0de30c087a090be5caf3f973ad4e688
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb7fc3d631110bc4187d34fc4acedec4480cbe5242a519b736ff3b8afc3b19bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:31Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +96,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 1) Um a inscrever em adicional ao referido orçamento, sob a seguinte designação:
 
-###### Artigo 17.º-A «Subsídio de férias» - artigo 8.º, 1, do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto ... 1100000$00
+Artigo 17.º-A «Subsídio de férias» - artigo 8.º, 1, do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto ... 1100000$00
 
 tomando como contrapartida disponibilidades do capítulo único, artigo 1.º «Despesas com o pessoal - Remunerações certas ao pessoal em exercício», da mesma tabela de despesa;
 
@@ -98,13 +106,13 @@ tomando como contrapartida disponibilidades do capítulo único, artigo 1.º «D
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1 «Alimentação» ... 150000$00
 
 Diversos encargos:
 
-###### Artigo 11.º «Abono de família» ... 60000$00
+Artigo 11.º «Abono de família» ... 60000$00
 
 ... 210000$00
 
@@ -114,7 +122,7 @@ tomando como contrapartida disponibilidades das seguintes verbas do mesmo orçam
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisição de utilização permanente»:
+Artigo 5.º «Aquisição de utilização permanente»:
 
 N.º 1 «Aquisição de semoventes»:
 
@@ -122,7 +130,7 @@ Alínea b) «Viaturas com motor» ... 47000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 3 «Luz, aquecimento, água, lavagem e outras despesas» ... 163000$00
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2006/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2006-539237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8219cd6024db58954dacaef91ffb0c34e5ad3d37c17da706fc13d906acd5fbbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b890dbe1e3fb769027a72104d092f0edb8c5406a1a53e8a187deb30583cb3943
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Segurança da Informação
-- Serviço de Estrangeiros e Fronteiras
-- Passaporte Electrónico
-- Sipep
 - Confidencialidade
 - Dados Pessoais
+- Definição de Competências
 - Passaporte
+- Passaporte Electrónico
+- Segurança da Informação
+- Serviço de Estrangeiros e Fronteiras
+- Sipep
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -88,15 +88,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/2000/05/12/p/dre
 article_structure:
-  article_count: 27
+  article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:27Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +141,9 @@ Finalidade do sistema
 
 O sistema de informação do passaporte electrónico português, doravante designado SIPEP, tem por finalidade registar, armazenar, tratar, manter actualizada, validar e disponibilizar a informação associada ao processo de concessão dos passaportes, nas suas diferentes categorias, bem como accionar o respectivo processo de personalização, de harmonia com o disposto no diploma que regula a concessão e emissão do novo passaporte electrónico português.
 
-###### Artigo 2.º — Do procedimento de recolha de dados
+Artigo 2.º
+
+Do procedimento de recolha de dados
 
 1 - Mediante a apresentação do bilhete de identidade pelo requerente, é efectuada consulta à base de dados de identificação civil e à base de dados de contumazes para verificação da existência de medidas de contumácia.
 
@@ -151,7 +153,9 @@ O sistema de informação do passaporte electrónico português, doravante desig
 
 4 - A exactidão do registo dos dados biográficos e dos dados biométricos é confirmada pelo requerente, que pode solicitar a entrega da imagem dos dados registados.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +169,9 @@ O sistema de informação do passaporte electrónico português, doravante desig
 
 6 - A consulta e confirmação dos dados para posterior recolha obedece ao disposto na Lei n.º 67/98, de 26 de Outubro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O SIPEP obedece às seguintes características:
 
@@ -185,7 +191,9 @@ c) ...
 
 d) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Só podem ser comunicados aos órgãos de polícia criminal e autoridades judiciárias, para efeitos de investigação ou de instrução criminal, dados registados no SIPEP em condições que respeitem o disposto no n.º 3 do artigo 4.º do Regulamento (CE) n.º [2252/2004](http://data.europa.eu/eli/reg/2004/2252/oj?locale=pt), do Conselho, de 13 de Dezembro, e quando os dados não possam ou não devam ser obtidos das pessoas a que respeitem e as entidades em causa não tenham acesso à base de dados.
 
@@ -193,7 +201,9 @@ d) ...
 
 3 - A comunicação deve ser recusada quando o pedido não se apresentar devidamente fundamentado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +211,9 @@ d) ...
 
 3 - Não é permitida qualquer forma de interconexão dos dados existentes no sistema de informação do passaporte electrónico português, salvo nos termos previstos em legislação especial.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As entidades autorizadas a aceder directamente ao SIPEP adoptam as medidas administrativas e técnicas necessárias a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.
 
@@ -209,13 +221,17 @@ d) ...
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Podem ainda aceder à informação recolhida quanto à concessão e emissão de passaporte os descendentes, ascendentes, o cônjuge ou unido de facto, tutor ou curador do titular da informação ou, em caso de falecimento deste, os presumíveis herdeiros, desde que mostrem interesse legítimo e não haja risco de intromissão na vida privada do titular do passaporte.
 
 2 - Mediante solicitação fundamentada, pode a CNPD autorizar o acesso à informação recolhida no SIPEP, desde que se mostre comprovado o fim a que se destina, não haja risco de intromissão na vida privada do titular e a informação não seja utilizada para fins incompatíveis com os que determinam a sua recolha.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os formulários dos requerimentos de concessão de passaporte temporário são conservados em suporte informático que ofereça condições de segurança, após o que se procede à destruição do suporte documental no prazo máximo de 15 dias.
 
@@ -233,15 +249,15 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa.
 
-**Promulgado em 21 de Julho de 2006.**
+Promulgado em 21 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Julho de 2006.**
+Referendado em 24 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Decreto-Lei n.º 86/2000, de 12 de Maio
 

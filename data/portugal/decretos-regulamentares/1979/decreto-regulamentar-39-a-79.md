@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 175/1979, 4º Suplemento, Série I de 1979-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1762-(11) a 1762-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17504/00110024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8da9de5fa3113eec09a3a8c51cd2971913ac9f6dc68c7fc1d937c368316b750a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a0de8eb06179bef6518f8916733d6fa2302a29877fe632d2f31511cbc69fe55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Investigação Agrária
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:153129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667910:por
+  label: "Extinto o Instituto Nacional de Investigação Agrária, pelo DEC LEI.310-A/86.23.09.1986.MAPA, DR.IS [219]Supl de\
+    \ 23.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-a-1986-667910
+  date: '1986-09-23'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585845:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:366426:por
+  label: Rectificado pela DECL.DD7002.13.12.1979.PCM, DR.IS [286] de 13.12.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-366426
+  date: '1979-12-13'
+- type: repealed_by
+  target: pt:dre:153129:por
+  label: "Revogado pelo DEC LEI.5-A/88.14.01.1988.MAPA, DR.IS [11]2ºSupl de 14.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1988-153129
+  date: '1988-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:09Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +132,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto Nacional de Investigação Agrária, abreviadamente designado por INIA, criado pelo artigo 9.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, é o organismo de execução, coordenação e contrôle das actividades de investigação e de desenvolvimento experimental, bem como de outras actividades científicas e técnicas conexas, sob a designação conjunta de actividades de I-D, no âmbito do sector agrário do MAP.
+Artigo 1.º - 1 - O Instituto Nacional de Investigação Agrária, abreviadamente designado por INIA, criado pelo artigo 9.º do [Decreto-Lei n.º 539/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/539-1974-585845), de 12 de Outubro, é o organismo de execução, coordenação e contrôle das actividades de investigação e de desenvolvimento experimental, bem como de outras actividades científicas e técnicas conexas, sob a designação conjunta de actividades de I-D, no âmbito do sector agrário do MAP.
 
 2 - As atribuições do Instituto Nacional de Investigação Agrária são as constantes do artigo 23.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 2.º - 1 - O Instituto Nacional de Investigação Agrária goza de autonomia administrativa.
+Art. 2.º - 1 - O Instituto Nacional de Investigação Agrária goza de autonomia administrativa.
 
 2 - O Instituto Nacional de Investigação Agrária dispõe das seguintes receitas próprias:
 
@@ -118,19 +156,19 @@ f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 4 - Os saldos das dotações não utilizados serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º O Instituto Nacional de Investigação Agrária é dirigido por um director, coadjuvado por dois subdirectores.
+Art. 3.º O Instituto Nacional de Investigação Agrária é dirigido por um director, coadjuvado por dois subdirectores.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos do instituto Nacional de Investigação Agrária:
+Art. 4.º São órgãos do instituto Nacional de Investigação Agrária:
 
 a) O Conselho Científico;
 
 b) O Conselho Administrativo.
 
-###### Art. 5.º - 1 - O Conselho Científico é um órgão de consulta e apoio ao director do INIA, constituído pelos seguintes membros:
+Art. 5.º - 1 - O Conselho Científico é um órgão de consulta e apoio ao director do INIA, constituído pelos seguintes membros:
 
 a) O director do INIA, que presidirá;
 
@@ -158,7 +196,7 @@ h) Os chefes dos departamentos previstos nas alíneas g) a j) do n.º 1, B), do 
 
 6 - As individualidades estranhas ao Ministério da Agricultura e Pescas convidadas de conformidade com o número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.
 
-###### Art. 6.º - 1 - O Conselho Científico tem as seguintes atribuições:
+Art. 6.º - 1 - O Conselho Científico tem as seguintes atribuições:
 
 a) Ajustar a política científica sectorial às medidas da política científica nacional através de propostas de directrizes, integradas na política do MAP, que levam à definição programas de I-D, sob a forma de grandes objectivos;
 
@@ -194,13 +232,13 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do Conselho.
 
-###### Art. 7.º - 1 - O Conselho Científico funciona em reuniões plenárias ou por comissões especializadas, reunindo o plenário ordinariamente no mínimo duas vezes por ano e extraordinariamente sempre que presidente o convoque ou a pedido de, pelo menos, dois terços do número dos seus membros.
+Art. 7.º - 1 - O Conselho Científico funciona em reuniões plenárias ou por comissões especializadas, reunindo o plenário ordinariamente no mínimo duas vezes por ano e extraordinariamente sempre que presidente o convoque ou a pedido de, pelo menos, dois terços do número dos seus membros.
 
 2 - Sem prejuízo do que nesta matéria fica estatuído no presente diploma a designação, constituição e funcionamento das comissões especializadas do Conselho Científico serão regulados por despacho do director do INIA.
 
 3 - O assuntos submetidos à apreciação do Conselho Científico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º - 1 - São desde já criadas no Conselho Científico as seguintes comissões especializadas:
+Art. 8.º - 1 - São desde já criadas no Conselho Científico as seguintes comissões especializadas:
 
 a) Comissão Coordenadora dos Programas;
 
@@ -208,7 +246,7 @@ b) Conselhos de investigação das estações nacionais de I-D.
 
 2 - Os conselhos de investigação funcionam junto das estações nacionais de I-D.
 
-###### Art. 9.º - 1 - A Comissão Coordenadora dos Programas é constituída pelos membros referidos nas alíneas a), b), d) a f) e h) do n.º 1 do artigo 5.º deste diploma e pelos directores do Gabinete de Planeamento e dos Serviços de Administração.
+Art. 9.º - 1 - A Comissão Coordenadora dos Programas é constituída pelos membros referidos nas alíneas a), b), d) a f) e h) do n.º 1 do artigo 5.º deste diploma e pelos directores do Gabinete de Planeamento e dos Serviços de Administração.
 
 2 - À Comissão Coordenadora de Programas compete:
 
@@ -216,7 +254,7 @@ a) Harmonizar e compatibilizar o conjunto dos programas do INIA numa óptica glo
 
 b) Assegurar a articulação de toda a programação do INIA, nomeadamente entre as unidades executores de actividades de I-D e os serviços de apoio, em especial com o Gabinete de Planeamento, com vista a obter a máxima rendibilidade do seu funcionamento.
 
-###### Art. 10.º - 1 - O conselho de investigação de cada uma das estações nacionais de I-D é um órgão consultivo, coadjuvante do director de estação, que funciona como comissão especializada do Conselho Científico do INIA, e destinado a emitir pareceres inerentes à natureza específica do conteúdo funcional da respectiva estação.
+Art. 10.º - 1 - O conselho de investigação de cada uma das estações nacionais de I-D é um órgão consultivo, coadjuvante do director de estação, que funciona como comissão especializada do Conselho Científico do INIA, e destinado a emitir pareceres inerentes à natureza específica do conteúdo funcional da respectiva estação.
 
 2 - O conselho de investigação das estações nacionais de I-D é composto por:
 
@@ -232,7 +270,7 @@ d) Chefes dos departamentos.
 
 4 - O funcionamento do conselho de investigação das estações nacionais de I-D será regulado por despacho do director do INIA, nos termos do n.º 2 do artigo 7.º do presente diploma.
 
-###### Art. 11.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 11.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director do INIA, que presidirá;
 
@@ -246,7 +284,7 @@ e) O director dos Serviços de Administração.
 
 2 - Servirá de secretário do Conselho Administrativo, sem direito a voto, o chefe da Repartição de Administração Financeira.
 
-###### Art. 12.º - 1 - Compete ao Conselho Administrativo:
+Art. 12.º - 1 - Compete ao Conselho Administrativo:
 
 a) Elaborar o projecto de orçamento do INIA de conta das dotações consignadas no Orçamento Geral do Estado e propor as alterações consideradas necessárias;
 
@@ -288,7 +326,7 @@ d) Convocar e dirigir as reuniões do Conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 13.º - 1 - São serviços do Instituto Nacional de Investigação Agrária:
+Art. 13.º - 1 - São serviços do Instituto Nacional de Investigação Agrária:
 
 A) Serviços de apoio:
 
@@ -340,17 +378,17 @@ f) Centro Regional de Investigação e Desenvolvimento Agrários do Algarve.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 14.º - 1 - O Gabinete de Planeamento tem como atribuições a programação e o contrôle de execução das actividades de I-D do INIA e o estudo e a análise de propostas de projectos de I-D.
+Art. 14.º - 1 - O Gabinete de Planeamento tem como atribuições a programação e o contrôle de execução das actividades de I-D do INIA e o estudo e a análise de propostas de projectos de I-D.
 
 2 - O Gabinete de Planeamento assegura as ligações de cooperação com unidades afins do MAP, nomeadamente com o Gabinete de Planeamento deste Ministério.
 
-###### Art. 15.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as divisões de:
+Art. 15.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as divisões de:
 
 a) Programação e Contrôle;
 
 b) Estudos e Análise de Projectos.
 
-###### Art. 16.º À Divisão de Programação e Contrôle compete:
+Art. 16.º À Divisão de Programação e Contrôle compete:
 
 a) Promover e coordenar, em colaboração com a Comissão Coordenadora dos Programas, a elaboração da programação a longo e médio prazo e anual das actividades de I-D do INIA e assegurar a sua apresentação;
 
@@ -366,7 +404,7 @@ f) Assegurar a elaboração do relatório anual da actividade do INIA;
 
 g) Assegurar, no âmbito da coordenação e planeamento, a execução das directrizes dimanadas do Gabinete de Planeamento do MAP.
 
-###### Art. 17.º À Divisão de Estudos e Análise de Projectos, compete:
+Art. 17.º À Divisão de Estudos e Análise de Projectos, compete:
 
 a) Assegurar a recolha e tratamento dos dados necessários à participação do INIA na formulação da política agrária e à previsão dos domínios de I-D de maior interesse potencial, tendo em conta a evolução do sector e as necessidades do País;
 
@@ -384,7 +422,7 @@ g) Colaborar intimamente com a Divisão de Estatística e Cálculo e a Direcçã
 
 h) Assegurar, em colaboração com outros organismos do MAP e em particular com o Gabinete de Planeamento deste Ministério, a participação do INIA na elaboração de estudos e projectos de desenvolvimento e ordenamento agrários, regionais ou nacionais.
 
-###### Art. 18.º - 1 - A Direcção dos Serviços de Administração tem atribuições nos seguintes domínios:
+Art. 18.º - 1 - A Direcção dos Serviços de Administração tem atribuições nos seguintes domínios:
 
 a) Administração patrimonial e financeira;
 
@@ -396,7 +434,7 @@ d) Serviços gerais, vigilância e segurança das instalações.
 
 2 - A Direcção dos Serviços de Administração assegura as ligações com os serviços do Ministério, nomeadamente com a Secretaria-Geral, e com outros organismos, de forma a garantir a efectivação das atribuições que lhe são cometidas.
 
-###### Art. 19.º - 1 - A Direcção dos Serviços de Administração é dirigida por um director de serviços e compreende as repartições de:
+Art. 19.º - 1 - A Direcção dos Serviços de Administração é dirigida por um director de serviços e compreende as repartições de:
 
 a) Administração Patrimonial;
 
@@ -406,7 +444,7 @@ e) Administração de Pessoal e Assuntos Gerais.
 
 2 - Em cada estação nacional de I-D funciona uma unidade administrativa, que compreenderá pessoal administrativo e auxiliar dependente funcionalmente do director dos Serviços de Administração e hierarquicamente do respectivo director de estação.
 
-###### Art. 20.º A Repartição de Administração Patrimonial é chefiada por um chefe de repartição e compreende as secções de:
+Art. 20.º A Repartição de Administração Patrimonial é chefiada por um chefe de repartição e compreende as secções de:
 
 a) Património e Instalações;
 
@@ -414,7 +452,7 @@ b) Aprovisionamento;
 
 c) Oficinas e Parques Automóvel e de Máquinas.
 
-###### Art. 21.º À Secção de Património e Instalações compete:
+Art. 21.º À Secção de Património e Instalações compete:
 
 a) Assegurar a gestão de todo o património afecto ao INIA, zelando pela conservação e manutenção do equipamento, mobiliário, maquinaria e outro material;
 
@@ -432,7 +470,7 @@ g) Assegurar a eficiência das redes de comunicação interna e externa dos serv
 
 h) Superintender no pessoal auxiliar de limpeza, assegurando a organização do respectivo trabalho.
 
-###### Art. 22.º À Secção de Aprovisionamento compete:
+Art. 22.º À Secção de Aprovisionamento compete:
 
 a) Promover a aquisição de maquinaria e equipamento, material de transporte, mobiliário e demais equipamentos necessários ao INIA, ouvidos os serviços competentes;
 
@@ -440,13 +478,13 @@ b) Promover todas as demais aquisições necessárias ao funcionamento dos servi
 
 c) Assegurar o funcionamento do serviço de informação de existências em armazém.
 
-###### Art. 23.º À Secção de Oficinas e Parques Automóvel e de Máquinas compete:
+Art. 23.º À Secção de Oficinas e Parques Automóvel e de Máquinas compete:
 
 a) Assegurar a gestão do serviço de oficinas e estações de serviço;
 
 b) Assegurar a gestão do serviço de transportes e parques automóvel e de máquinas, promovendo, no que respeita à gestão e funcionamento do parque automóvel, as necessárias ligações com a Secretaria-Geral do MAP e com o Gabinete de Gestão de Veículos do Estado.
 
-###### Art. 24.º A Repartição de Administração Financeira é chefiada por um chefe de repartição e compreende as secções de:
+Art. 24.º A Repartição de Administração Financeira é chefiada por um chefe de repartição e compreende as secções de:
 
 a) Orçamento e Conta;
 
@@ -454,7 +492,7 @@ b) Processamento e Verificação;
 
 c) Contabilidade.
 
-###### Art. 25.º À Secção de Orçamento e Conta compete:
+Art. 25.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de despesa e receita indispensáveis à organização dos orçamentos do INIA;
 
@@ -468,7 +506,7 @@ e) Elaborar a conta anual de gerência e coligir os elementos que devem constar 
 
 f) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 26.º À Secção de Processamento e Verificação compete:
+Art. 26.º À Secção de Processamento e Verificação compete:
 
 a) Verificar e processar todos os documentos de receita e despesa remetidos pelos diversos serviços;
 
@@ -476,7 +514,7 @@ b) Assegurar, em colaboração com a Secção de Orçamento e Conta, o serviço 
 
 c) Organizar os processos de aquisição de material, equipamento, mobiliário e demais bens e serviços, bem como processar a respectiva documentação.
 
-###### Art. 27.º À Secção de Contabilidade compete:
+Art. 27.º À Secção de Contabilidade compete:
 
 a) Escriturar os livros de contabilidade;
 
@@ -488,7 +526,7 @@ d) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço a
 
 e) Proceder à contabilização dos fundos recebidos e das despesas efectuadas.
 
-###### Art. 28.º Adstrita à Repartição de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 28.º Adstrita à Repartição de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes ao INIA;
 
@@ -496,13 +534,13 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 29.º A Repartição de Administração de PessoaI e Assuntos Gerais é chefiada por um chefe de repartição e compreende as secções de:
+Art. 29.º A Repartição de Administração de PessoaI e Assuntos Gerais é chefiada por um chefe de repartição e compreende as secções de:
 
 a) Administração de Pessoal;
 
 b) Assuntos Gerais.
 
-###### Art. 30.º À Secção de Administração de Pessoal compete:
+Art. 30.º À Secção de Administração de Pessoal compete:
 
 a) Organizar os processos individuais do pessoal do INIA, donde constem, em permanente actualidade, todos os factos e documentos relacionados com as suas situações, deveres e direitos;
 
@@ -516,7 +554,7 @@ e) Preparar e coligir os elementos necessários ao tratamento automático da inf
 
 f) Colaborar nas acções de formação, aperfeiçoamento e actualização de conhecimentos do pessoal.
 
-###### Art. 31.º À Secção de Assuntos Gerais compete:
+Art. 31.º À Secção de Assuntos Gerais compete:
 
 a) Executar todas as tarefas respeitantes ao processamento do expediente geral, ao registo e classificação da documentação entrada e expedida e ao contrôle da circulação da documentação pelos serviços de apoio;
 
@@ -528,17 +566,17 @@ d) Assegurar o apoio dactilográfico aos órgãos e serviços de apoio do INIA;
 
 e) Elaborar directivas de processamento, circulação e arquivo de correspondência.
 
-###### Art. 32.º - 1 - À Direcção dos Serviços de Informação Científica e Técnica compete assegurar, organizar e difundir a documentação e informação necessárias ao desenvolvimento do trabalho científico, bem como promover a edição das publicações do INIA.
+Art. 32.º - 1 - À Direcção dos Serviços de Informação Científica e Técnica compete assegurar, organizar e difundir a documentação e informação necessárias ao desenvolvimento do trabalho científico, bem como promover a edição das publicações do INIA.
 
 2 - À Direcção dos Serviços de Informação Científica e Técnica compete, igualmente, assegurar a execução das actividades ligadas ao estabelecimento de relações e cooperação com entidades externas ao INIA, nacionais ou estrangeiras, em estreita colaboração com o Gabinete de Informação e Cooperação Internacional.
 
-###### Art. 33.º A Direcção dos Serviços de Informação Científica e Técnica, dirigida por um director de serviços, compreende as divisões de:
+Art. 33.º A Direcção dos Serviços de Informação Científica e Técnica, dirigida por um director de serviços, compreende as divisões de:
 
 a) Informação e Documentação;
 
 b) Relações e Cooperação Externas.
 
-###### Art. 34.º À Divisão de Informação e Documentação compete:
+Art. 34.º À Divisão de Informação e Documentação compete:
 
 a) Definir normas de aquisição, permuta e oferta da documentação científica e técnica a desenvolver pelo INIA, a nível nacional e internacional, e a normalização dos processos de registo e catalogação;
 
@@ -558,7 +596,7 @@ h) Assegurar a programação coordenada da actividade editorial do INIA, desenvo
 
 i) Assegurar o funcionamento de serviços de reprografia, desenho, fotografia, microfilmagem e oficinas gráficas do INIA.
 
-###### Art. 35.º À Divisão de Relações e Cooperação Externas compete:
+Art. 35.º À Divisão de Relações e Cooperação Externas compete:
 
 a) Ocupar-se das relações do INIA com o exterior, tratando dos assuntos referentes à sua representação em comissões, missões e reuniões onde o Instituto participe, no País ou no estrangeiro;
 
@@ -570,7 +608,7 @@ d) Acompanhar o desenvolvimento dos programas de formação de pessoal e, nomead
 
 e) Coordenar e acompanhar a realização no INIA de colóquios ou de outras reuniões científicas e técnicas e organizar a participação do INIA em reuniões deste tipo ou em feiras e exposições ou em outras actividades afins que se realizem no País ou no estrangeiro.
 
-###### Art. 36.º À Divisão de Estatística e Cálculo, chefiada por um chefe de divisão, compete:
+Art. 36.º À Divisão de Estatística e Cálculo, chefiada por um chefe de divisão, compete:
 
 a) Coordenar, planear e acompanhar toda a actividade informática do INIA;
 
@@ -584,7 +622,7 @@ e) Elaborar programas e realizar cálculos destinados ao contrôle da execução
 
 f) Efectuar o tratamento dos dados estatísticos necessário aos estudos levados a efeito nos diversos serviços do INIA.
 
-###### Art. 37.º Ao Centro de Formação, dirigido por técnico superior de formação adequada, compete:
+Art. 37.º Ao Centro de Formação, dirigido por técnico superior de formação adequada, compete:
 
 a) Proceder à análise dos postos de trabalho do INIA e colaborar na caracterização dos perfis funcionais do pessoal do INIA;
 
@@ -596,7 +634,7 @@ d) Assegurar e coordenar, nos serviços do INIA, acções de carácter assistenc
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 38.º - 1 - As estações nacionais de I-D são unidades orgânicas integradoras de actividades científicas nos vários domínios que cabem no conceito de investigação-desenvolvimento experimental (I-D).
+Art. 38.º - 1 - As estações nacionais de I-D são unidades orgânicas integradoras de actividades científicas nos vários domínios que cabem no conceito de investigação-desenvolvimento experimental (I-D).
 
 2 - Às estações nacionais de I-D compete:
 
@@ -620,13 +658,13 @@ i) Promover e desenvolver as actividades sociais e culturais do seu pessoal, apo
 
 3 - As estações nacionais de I-D que têm, em face da natureza dos seus objectivos e do seu conteúdo funcional, um carácter vocacionado para os grandes domínios da actividade agrária podem agrupar maioritariamente departamentos constituídos na base de disciplinas científicas ou na base de domínios da produção e da transformação, segundo princípios de complementaridade e colaboração.
 
-###### Art. 39.º - 1 - As estações nacionais de I-D são dirigidas por um director de estação, coadjuvado por um subdirector de estação.
+Art. 39.º - 1 - As estações nacionais de I-D são dirigidas por um director de estação, coadjuvado por um subdirector de estação.
 
 2 - O cargo de director de estação será desempenhado por um elemento do grupo do «pessoal de investigação» e será equiparado a subdirector-geral nas Estações Agronómica Nacional, Zootécnica Nacional, Florestal Nacional e Nacional de Melhoramento de Plantas, e a director de serviços, nas restantes estações nacionais de I-D.
 
 3 - O cargo de subdirector de estação será desempenhado por um elemento dos grupos do «pessoal de investigação» ou do «pessoal técnico superior» e será equiparado a director de serviços nas Estações Agronómica Nacional, Zootécnica Nacional, Florestal Nacional e Nacional de Melhoramento de Plantas, e a chefe de divisão, nas restantes estações nacionais de I-D.
 
-###### Art. 40.º - 1 - As estações nacionais de I-D disporão ainda dos seguintes órgãos e serviços:
+Art. 40.º - 1 - As estações nacionais de I-D disporão ainda dos seguintes órgãos e serviços:
 
 a) Conselho de Investigação;
 
@@ -640,7 +678,7 @@ c) Centro de Documentação e Informação.
 
 4 - Na dependência directa das estações nacionais de I-D podem funcionar unidades experimentais.
 
-###### Art. 41.º - 1 - Às repartições administrativas referidas no n.º 3 do artigo 40.º compete o apoio instrumental às acções desenvolvidas nas respectivas estações e compreendem as secções de:
+Art. 41.º - 1 - Às repartições administrativas referidas no n.º 3 do artigo 40.º compete o apoio instrumental às acções desenvolvidas nas respectivas estações e compreendem as secções de:
 
 a) Administração Patrimonial;
 
@@ -650,7 +688,7 @@ c) Administração de Pessoal e Assuntos Gerais.
 
 2 - Às secções administrativas referidas no n.º 3 do artigo 40.º compete o apoio instrumental às acções desenvolvidas nas Estações Vitivinícola Nacional e Nacional de Tecnologia dos Produtos Agrários.
 
-###### Art. 42.º Aos centros de documentação e informação das estações nacionais de I-D compete:
+Art. 42.º Aos centros de documentação e informação das estações nacionais de I-D compete:
 
 a) Organizar e gerir, de acordo com normas definidas pelos serviços de informação científica e técnica, as respectivas bibliotecas;
 
@@ -662,7 +700,7 @@ d) Promover a realização de colóquios ou de outras reuniões científicas e t
 
 e) Desenvolver ao nível das respectivas estações as actividades que no âmbito das competências dos serviços de informação científica e técnica lhes forem por estes cometidas.
 
-###### Art. 43.º - 1 - Aos departamentos das estações nacionais de I-D compete, nos domínios da sua especialidade:
+Art. 43.º - 1 - Aos departamentos das estações nacionais de I-D compete, nos domínios da sua especialidade:
 
 a) Realizar, através da acção das suas secções especializadas, as actividades de I-D que lhes são próprias ou lhes forem cometidas;
 
@@ -674,9 +712,9 @@ d) Propor acções de aperfeiçoamento e formação do seu pessoal.
 
 2 - O chefe de departamento é o responsável pelas actividades científicas desenvolvidas no departamento e será designado de entre os elementos do grupo do «pessoal de investigação».
 
-###### Art. 44.º A Estação Agronómica Nacional tem atribuições de investigação e desenvolvimento experimental no domínio do sector agrícola, com maior incidência em matérias disciplinares por especialidades científicas, fundamentais e aplicadas.
+Art. 44.º A Estação Agronómica Nacional tem atribuições de investigação e desenvolvimento experimental no domínio do sector agrícola, com maior incidência em matérias disciplinares por especialidades científicas, fundamentais e aplicadas.
 
-###### Art. 45.º A Estação Agronómica Nacional compreende os departamentos de:
+Art. 45.º A Estação Agronómica Nacional compreende os departamentos de:
 
 a) Entomologia;
 
@@ -698,9 +736,9 @@ i) Pedologia;
 
 j) Química.
 
-###### Art. 46.º A Estação Zootécnica Nacional tem atribuições de investigação e desenvolvimento experimental no domínio do sector da pecuária, com maior incidência em matérias disciplinares por especialidades científicas, fundamentais e aplicadas afins à sua vocação e, particularmente, na produção e melhoramento animais.
+Art. 46.º A Estação Zootécnica Nacional tem atribuições de investigação e desenvolvimento experimental no domínio do sector da pecuária, com maior incidência em matérias disciplinares por especialidades científicas, fundamentais e aplicadas afins à sua vocação e, particularmente, na produção e melhoramento animais.
 
-###### Art. 47.º A Estação Zootécnica Nacional compreende os departamentos de:
+Art. 47.º A Estação Zootécnica Nacional compreende os departamentos de:
 
 a) Fisiologia Animal;
 
@@ -716,9 +754,9 @@ f) Ovinicultura;
 
 g) Monogástricos.
 
-###### Art. 48.º A Estação Florestal Nacional tem atribuições de investigação e desenvolvimento experimental no domínio do sector florestal, com maior incidência em matérias disciplinares por especialidades científicas, fundamentais e aplicadas afins à sua vocação e, particularmente, na produção e melhoramento florestais e na silvo-pastorícia.
+Art. 48.º A Estação Florestal Nacional tem atribuições de investigação e desenvolvimento experimental no domínio do sector florestal, com maior incidência em matérias disciplinares por especialidades científicas, fundamentais e aplicadas afins à sua vocação e, particularmente, na produção e melhoramento florestais e na silvo-pastorícia.
 
-###### Art. 49.º A Estação Florestal Nacional compreende os departamentos de:
+Art. 49.º A Estação Florestal Nacional compreende os departamentos de:
 
 a) Bioquímica e Fertilidade;
 
@@ -736,9 +774,9 @@ g) Silvo-Pastorícia e Microbiologia do Solo;
 
 h) Solos Florestais.
 
-###### Art. 50.º A Estação Nacional de Melhoramento de Plantas tem atribuições de investigação e desenvolvimento experimental no domínio da produção agrícola, com maior incidência no melhoramento dos cereais, forragens e oleaginosas.
+Art. 50.º A Estação Nacional de Melhoramento de Plantas tem atribuições de investigação e desenvolvimento experimental no domínio da produção agrícola, com maior incidência no melhoramento dos cereais, forragens e oleaginosas.
 
-###### Art. 51.º A Estação Nacional de Melhoramento de Plantas compreende os departamentos de:
+Art. 51.º A Estação Nacional de Melhoramento de Plantas compreende os departamentos de:
 
 a) Biologia Analítica;
 
@@ -752,17 +790,17 @@ e) Olivicultura;
 
 f) Multiplicação de Sementes.
 
-###### Art. 52.º A Estação Vitivinícola Nacional tem atribuições de investigação e desenvolvimento experimental no domínio da vitivinicultura.
+Art. 52.º A Estação Vitivinícola Nacional tem atribuições de investigação e desenvolvimento experimental no domínio da vitivinicultura.
 
-###### Art. 53.º A Estação Vitivinícola Nacional compreende os departamentos de:
+Art. 53.º A Estação Vitivinícola Nacional compreende os departamentos de:
 
 a) Viticultura;
 
 b) Enologia.
 
-###### Art. 54.º A Estação Nacional de Tecnologia dos Produtos Agrários tem atribuições de investigação e desenvolvimento experimental no domínio da transformação dos produtos agrícolas, florestais e de origem animal.
+Art. 54.º A Estação Nacional de Tecnologia dos Produtos Agrários tem atribuições de investigação e desenvolvimento experimental no domínio da transformação dos produtos agrícolas, florestais e de origem animal.
 
-###### Art. 55.º A Estação Nacional de Tecnologia dos Produtos Agrários compreende os departamentos de:
+Art. 55.º A Estação Nacional de Tecnologia dos Produtos Agrários compreende os departamentos de:
 
 a) Tecnologia dos Produtos Agrícolas;
 
@@ -770,7 +808,7 @@ b) Tecnologia dos Produtos Florestais;
 
 c) Tecnologia dos Produtos de Origem Animal.
 
-###### Art. 56.º - 1 - Aos departamentos previstos nas alíneas g) a j) do n.º 1, B), do artigo 13.º compete, nos domínios da sua especialidade:
+Art. 56.º - 1 - Aos departamentos previstos nas alíneas g) a j) do n.º 1, B), do artigo 13.º compete, nos domínios da sua especialidade:
 
 a) Executar as actividades de I-D que lhes são próprias ou lhes forem cometidas;
 
@@ -790,17 +828,17 @@ f) Propor acções de aperfeiçoamento e formação do seu pessoal.
 
 4 - Estes departamentos terão o nível de divisão e serão chefiados por um elemento do grupo do «pessoal de investigação».
 
-###### Art. 57.º O Departamento de Fruticultura tem atribuições de investigação e desenvolvimento experimental nos domínios da fruticultura.
+Art. 57.º O Departamento de Fruticultura tem atribuições de investigação e desenvolvimento experimental nos domínios da fruticultura.
 
-###### Art. 58.º O Departamento de Regadio tem atribuições de investigação e desenvolvimento experimental nos domínios da hidráulica agrícola e da produção vegetal e animal nas áreas de regadio do País.
+Art. 58.º O Departamento de Regadio tem atribuições de investigação e desenvolvimento experimental nos domínios da hidráulica agrícola e da produção vegetal e animal nas áreas de regadio do País.
 
-###### Art. 59.º O Departamento de Estudos de Economia e Sociologia Agrárias tem atribuições de investigação e desenvolvimento experimental nos domínios da economia e da sociologia agrárias.
+Art. 59.º O Departamento de Estudos de Economia e Sociologia Agrárias tem atribuições de investigação e desenvolvimento experimental nos domínios da economia e da sociologia agrárias.
 
-###### Art. 60.º O Departamento de Horticultura e Floricultura tem atribuições de investigação e desenvolvimento experimental nos domínios da horticultura e da floricultura.
+Art. 60.º O Departamento de Horticultura e Floricultura tem atribuições de investigação e desenvolvimento experimental nos domínios da horticultura e da floricultura.
 
 ##### SUBSECÇÃO III — Dos serviços locais
 
-###### Art. 61.º - 1 - Os centros regionais de investigação e desenvolvimento agrários, abreviadamente designados por CRIDAs, são serviços de investigação e desenvolvimento experimental, que actuam fundamentalmente com base na motivação regional, testando e adaptando conhecimentos e novos materiais às condições ecológicas e socioeconómicas da área geográfica da sua acção.
+Art. 61.º - 1 - Os centros regionais de investigação e desenvolvimento agrários, abreviadamente designados por CRIDAs, são serviços de investigação e desenvolvimento experimental, que actuam fundamentalmente com base na motivação regional, testando e adaptando conhecimentos e novos materiais às condições ecológicas e socioeconómicas da área geográfica da sua acção.
 
 2 - Aos CRIDAS compete:
 
@@ -820,11 +858,11 @@ e) Estabelecer uma cooperação estreita com os serviços regionais de agricultu
 
 5 - A acção dos CRIDAs deve ser definida, em termos de complementaridade com as actividades da Direcção dos Serviços da Produção Agrária dos serviços regionais de agricultura, nos convénios que se vierem a estabelecer entre o INIA e esses serviços.
 
-###### Art. 62.º Os CRIDAs serão dirigidos por um elemento dos grupos do «pessoal técnico superior» equiparado a chefe de divisão.
+Art. 62.º Os CRIDAs serão dirigidos por um elemento dos grupos do «pessoal técnico superior» equiparado a chefe de divisão.
 
-###### Art. 63.º Os CRIDAs desenvolvem as suas actividades nas áreas das regiões agrárias onde se encontram inseridos.
+Art. 63.º Os CRIDAs desenvolvem as suas actividades nas áreas das regiões agrárias onde se encontram inseridos.
 
-###### Art. 64.º - 1 - As acções desenvolvidas nos CRIDAs são executadas por elementos das equipas dos projectos, equipas essas constituídas, conforme as circunstâncias, com pessoal do próprio CRIDA, das estações nacionais de I-D ou dos departamentos referidos nas alíneas g) a j) do n.º 1, B), do artigo 13.º do presente diploma.
+Art. 64.º - 1 - As acções desenvolvidas nos CRIDAs são executadas por elementos das equipas dos projectos, equipas essas constituídas, conforme as circunstâncias, com pessoal do próprio CRIDA, das estações nacionais de I-D ou dos departamentos referidos nas alíneas g) a j) do n.º 1, B), do artigo 13.º do presente diploma.
 
 2 - O apoio instrumental às acções desenvolvidas nos CRIDAs será prestado por pessoal da Direcção dos Serviços de Administração designado pelo director do INIA, sob proposta do respectivo director de serviços.
 
@@ -832,15 +870,15 @@ e) Estabelecer uma cooperação estreita com os serviços regionais de agricultu
 
 ### CAPÍTULO III — Da organização da actividade científica
 
-###### Art. 65.º - 1 - As actividades de I-D do Instituto Nacional de Investigação Agrária são predominantemente organizadas em programas e projectos destinados a alcançar os objectivos prioritários estabelecidos no âmbito de uma política de investigação agrária do MAP orientada para a solução dos mais importantes problemas do sector, contemplados nos planos de desenvolvimento económico e social do País.
+Art. 65.º - 1 - As actividades de I-D do Instituto Nacional de Investigação Agrária são predominantemente organizadas em programas e projectos destinados a alcançar os objectivos prioritários estabelecidos no âmbito de uma política de investigação agrária do MAP orientada para a solução dos mais importantes problemas do sector, contemplados nos planos de desenvolvimento económico e social do País.
 
 2 - O Instituto Nacional de Investigação Agrária adopta uma organização de trabalho apoiada, essencialmente, numa estrutura matricial da actividade científica por projectos integrados em programas devotados ao estudo dos recursos ecológicos, da utilização dos factores de produção, da produção propriamente dita e da transformação dos produtos agrários, não descurando, em todo o processo, os aspectos económico e social.
 
-###### Art. 66.º - 1 - Os programas de I-D, que são conjuntos interdisciplinares de projectos integrados pela afinidade ou complementaridade das suas matérias e pela identidade dos seus objectivos comuns, destinam-se a alcançar, num processo de planeamento permanente e integrado, metas de progresso previamente determinadas, nos domínios da produção ou da transformação agrárias a que digam respeito.
+Art. 66.º - 1 - Os programas de I-D, que são conjuntos interdisciplinares de projectos integrados pela afinidade ou complementaridade das suas matérias e pela identidade dos seus objectivos comuns, destinam-se a alcançar, num processo de planeamento permanente e integrado, metas de progresso previamente determinadas, nos domínios da produção ou da transformação agrárias a que digam respeito.
 
 2 - Os projectos que se desenvolvem no âmbito de um programa são coordenados por um coordenador de programa, assessorado por uma comissão permanente de programa.
 
-###### Art. 67.º - 1 - Os coordenadores de programa são nomeados por despacho ministerial, sob proposta do director do INIA, sempre que possível de entre directores de estação nacional de I-D, ouvido o Conselho Científico do INIA.
+Art. 67.º - 1 - Os coordenadores de programa são nomeados por despacho ministerial, sob proposta do director do INIA, sempre que possível de entre directores de estação nacional de I-D, ouvido o Conselho Científico do INIA.
 
 2 - O coordenador de programa é responsável pela gestão financeira e coordenação geral do programa.
 
@@ -860,7 +898,7 @@ f) Convocar, através das vias hierárquicas competentes, as reuniões da Comiss
 
 4 - O coordenador de programa é substituído nas suas ausências e impedimentos, e mediante despacho do director do INIA, pelo chefe de projecto que para isso expressamente designar, ou na falta de designação, por aquele que for indicado pela Comissão Permanente de Programa.
 
-###### Art. 68.º - 1 - A Comissão Permanente de Programa, expressamente criada para assessorar o coordenador do respectivo programa, e constituída por todos os chefes dos projectos que integram o programa e pelos responsáveis dos serviços onde se executam os estudos desses projectos.
+Art. 68.º - 1 - A Comissão Permanente de Programa, expressamente criada para assessorar o coordenador do respectivo programa, e constituída por todos os chefes dos projectos que integram o programa e pelos responsáveis dos serviços onde se executam os estudos desses projectos.
 
 2 - Às comissões permanentes de programa compete:
 
@@ -870,11 +908,11 @@ b) Pronunciar-se sobre as medidas de correcção da estrutura do programa ou da 
 
 3 - As comissões permanentes de programa reúnem ordinariamente quatro vezes por ano e extraordinariamente quando o coordenador respectivo as convoque, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.
 
-###### Art. 69.º - 1 - Os projectos incluem estudos cientificamente caracterizados, devem respeitar um domínio limitado da investigação, visar um objectivo especificado e concluir-se dentro de um período de tempo realisticamente estimado.
+Art. 69.º - 1 - Os projectos incluem estudos cientificamente caracterizados, devem respeitar um domínio limitado da investigação, visar um objectivo especificado e concluir-se dentro de um período de tempo realisticamente estimado.
 
 2 - Os projectos são executados por equipas apoiadas pelos sectores especializados dos serviços do INIA.
 
-###### Art. 70.º - 1 - A equipa de projecto é a unidade de trabalho expressamente constituída para a realização de um projecto, multidisciplinar ou não, sob a responsabilidade de um chefe de projecto, reunindo cientistas e técnicos da mesma ou de diferentes especialidades e que podem pertencer ao mesmo ou diferentes serviços.
+Art. 70.º - 1 - A equipa de projecto é a unidade de trabalho expressamente constituída para a realização de um projecto, multidisciplinar ou não, sob a responsabilidade de um chefe de projecto, reunindo cientistas e técnicos da mesma ou de diferentes especialidades e que podem pertencer ao mesmo ou diferentes serviços.
 
 2 - Às equipas de projecto compete:
 
@@ -884,7 +922,7 @@ b) Preparar os relatórios de execução e a apresentação dos resultados alcan
 
 c) Participar no acompanhamento e na análise dos resultados parciais de execução e sugerir a abertura de novas linhas de I-D suscitadas pela execução do projecto.
 
-###### Art. 71.º - 1 - Os chefes de projecto são nomeados por despacho do director do INIA, sempre que possível de entre chefes de departamento ou de CRIDA, mediante proposta do coordenador de programa, depois de ouvidos o responsável ou os responsáveis dos serviços onde se executa o projecto e os elementos da equipa do projecto.
+Art. 71.º - 1 - Os chefes de projecto são nomeados por despacho do director do INIA, sempre que possível de entre chefes de departamento ou de CRIDA, mediante proposta do coordenador de programa, depois de ouvidos o responsável ou os responsáveis dos serviços onde se executa o projecto e os elementos da equipa do projecto.
 
 2 - Os chefes de projecto são responsáveis pela consistência e eficácia dos estudos constantes do projecto e a cargo das respectivas equipas e pela sua conclusão nos prazos e nas condições fixadas previamente.
 
@@ -892,19 +930,19 @@ c) Participar no acompanhamento e na análise dos resultados parciais de execuç
 
 4 - O chefe do projecto é substituído nas suas ausências e impedimentos pelo elemento da equipa que para isso expressamente designar, mediante despacho do director do INIA e por proposta do coordenador do respectivo programa ou, na falta de designação, pelo mais antigo da categoria mais elevada.
 
-###### Art. 72.º - 1 - Os elementos das equipas de projecto são nomeados pelo director do INIA mediante proposta do coordenador de programa e ouvidos o responsável ou responsáveis dos serviços onde se executam os estudos do projecto.
+Art. 72.º - 1 - Os elementos das equipas de projecto são nomeados pelo director do INIA mediante proposta do coordenador de programa e ouvidos o responsável ou responsáveis dos serviços onde se executam os estudos do projecto.
 
 2 - A nomeação dos componentes da equipa de projecto é feita por tempo limitado e necessário à execução dos estudos respectivos e de acordo com o plano de trabalho, e a sua actividade é exercida a tempo inteiro ou a tempo parcial, conforme o critério de prioridades estabelecido superiormente.
 
 3 - Os elementos das equipas de projecto dependem funcionalmente do chefe de projecto e hierarquicamente dos responsáveis pelos serviços onde estão colocados.
 
-###### Art. 73.º Os coordenadores de programa e os chefes de projecto terão direito a uma gratificação mensal a fixar, caso a caso, por despacho conjunto dos Ministros das Finanças e do Plano, da Agricultura e Pescas e do Secretário de Estado da Administração Pública, sendo os encargos suportados pelas dotações consignadas aos programas e projectos respectivos.
+Art. 73.º Os coordenadores de programa e os chefes de projecto terão direito a uma gratificação mensal a fixar, caso a caso, por despacho conjunto dos Ministros das Finanças e do Plano, da Agricultura e Pescas e do Secretário de Estado da Administração Pública, sendo os encargos suportados pelas dotações consignadas aos programas e projectos respectivos.
 
 ### CAPÍTULO IV — Da gestão patrimonial e financeira
 
-###### Art. 74.º Para a realização dos seus fins o INIA administrará os bens do domínio público ou privado do Estado a seu cargo, de acordo com as boas normas de gestão.
+Art. 74.º Para a realização dos seus fins o INIA administrará os bens do domínio público ou privado do Estado a seu cargo, de acordo com as boas normas de gestão.
 
-###### Art. 75.º A gestão do INIA será disciplinada pelos seguintes instrumentos de previsão:
+Art. 75.º A gestão do INIA será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano de actividade plurianual;
 
@@ -912,41 +950,41 @@ b) Programa anual de trabalhos;
 
 c) Orçamento privativo anual e actualizações.
 
-###### Art. 76.º Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, integrando-se no planeamento das actividades de I-D que vier a ser definido para o sector.
+Art. 76.º Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, integrando-se no planeamento das actividades de I-D que vier a ser definido para o sector.
 
-###### Art. 77.º O programa anual de trabalhos deverá concretizar os projectos e estudos a realizar no decurso do ano pelas diversas unidades do INIA, definindo as respectivas prioridades e áreas de manutenção.
+Art. 77.º O programa anual de trabalhos deverá concretizar os projectos e estudos a realizar no decurso do ano pelas diversas unidades do INIA, definindo as respectivas prioridades e áreas de manutenção.
 
-###### Art. 78.º - 1 - O orçamento privativo será elaborado com base no programa anual de trabalhos, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidade e adequado contrôle de gestão.
+Art. 78.º - 1 - O orçamento privativo será elaborado com base no programa anual de trabalhos, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidade e adequado contrôle de gestão.
 
 2 - O orçamento será submetido à aprovação do Ministro da Agricultura e Pescas nos prazos legais.
 
-###### Art. 79.º - 1 - O Conselho Administrativo do INIA administrará autonomamente as dotações que anualmente forem concedidas ao INIA, bem como as suas receitas próprias.
+Art. 79.º - 1 - O Conselho Administrativo do INIA administrará autonomamente as dotações que anualmente forem concedidas ao INIA, bem como as suas receitas próprias.
 
 2 - As dotações referidas no número anterior serão desdobradas internamente pelos diversos serviços operativos e locais, com vista a uma conveniente descentralização de responsabilidade.
 
-###### Art. 80.º O Conselho Administrativo requisitará mensalmente, nos termos da lei vigente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas ao INIA no Orçamento Geral do Estado.
+Art. 80.º O Conselho Administrativo requisitará mensalmente, nos termos da lei vigente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas ao INIA no Orçamento Geral do Estado.
 
-###### Art. 81.º - 1 - Todas as receitas do INIA serão depositadas à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas por cheques nominativos assinados por dois membros do Conselho Administrativo.
+Art. 81.º - 1 - Todas as receitas do INIA serão depositadas à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas por cheques nominativos assinados por dois membros do Conselho Administrativo.
 
 2 - Poderá, no entanto, ser constituído, à responsabilidade do tesoureiro, um fundo de maneio, para ocorrer ao pagamento de pequenas despesas de carácter corrente.
 
-###### Art. 82.º - 1 - Todos os documentos relativos a pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo e director dos Serviços de Administração, ou pelos seus substitutos legais.
+Art. 82.º - 1 - Todos os documentos relativos a pagamentos serão assinados ou visados pelo presidente do Conselho Administrativo e director dos Serviços de Administração, ou pelos seus substitutos legais.
 
 2 - Todos os documentos relativos a recebimentos serão assinados ou visados pelo director de Serviços de Administração e pelo tesoureiro.
 
-###### Art. 83.º - 1 - A contabilidade do INIA deverá corresponder às necessidades de gestão que lhe é própria e permitir um contrôle orçamental continuo.
+Art. 83.º - 1 - A contabilidade do INIA deverá corresponder às necessidades de gestão que lhe é própria e permitir um contrôle orçamental continuo.
 
 2 - As normas internas de contabilidade são definidas por despacho do director do INIA.
 
-###### Art. 84.º A prestação de contas será feita nos termos da lei geral aplicável.
+Art. 84.º A prestação de contas será feita nos termos da lei geral aplicável.
 
 ### CAPÍTULO V — Pessoal
 
 #### SECÇÃO I — Dos quadros do pessoal
 
-###### Art. 85.º O Instituto Nacional de Investigação Agrária disporá do contingente de pessoal dirigente e de pessoal dos quadros únicos do MAP constante do mapa anexo a este diploma.
+Art. 85.º O Instituto Nacional de Investigação Agrária disporá do contingente de pessoal dirigente e de pessoal dos quadros únicos do MAP constante do mapa anexo a este diploma.
 
-###### Art. 86.º - 1 - O lugar de director de estação nacional de I-D é provido por nomeação do Ministro da Agricultura e Pescas, sob proposta do director do INIA e ouvido o conselho de investigação da respectiva estação.
+Art. 86.º - 1 - O lugar de director de estação nacional de I-D é provido por nomeação do Ministro da Agricultura e Pescas, sob proposta do director do INIA e ouvido o conselho de investigação da respectiva estação.
 
 2 - O lugar de subdirector de estação nacional de I-D é provido por nomeação do Ministro da Agricultura e Pescas, sob proposta do director do INIA, ouvidos o director da estação nacional de I-D e o conselho de investigação.
 
@@ -960,65 +998,65 @@ c) Orçamento privativo anual e actualizações.
 
 7 - O lugar de director de Serviços de Administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 87.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente do INIA, só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 87.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente do INIA, só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na respectiva dotação orçamental enquanto se mantiver aquela situação.
 
-###### Art. 88.º O tesoureiro terá direito a um abono para falhas, de acordo com a lei geral.
+Art. 88.º O tesoureiro terá direito a um abono para falhas, de acordo com a lei geral.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 89.º O director do INIA é substituído nas suas ausências e impedimentos pelo subdirector que for designado por despacho ministerial, sob sua proposta, ou, na falta de designação, pelo subdirector mais antigo.
+Art. 89.º O director do INIA é substituído nas suas ausências e impedimentos pelo subdirector que for designado por despacho ministerial, sob sua proposta, ou, na falta de designação, pelo subdirector mais antigo.
 
-###### Art. 90.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da respectiva direcção de serviços que for designado por despacho do director do INIA, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 90.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da respectiva direcção de serviços que for designado por despacho do director do INIA, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 91.º O director de serviços de administração é substituído nas suas ausências e impedimentos pelo chefe de repartição que for designado por despacho do director do INIA, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de repartição mais antigo da direcção de serviços.
+Art. 91.º O director de serviços de administração é substituído nas suas ausências e impedimentos pelo chefe de repartição que for designado por despacho do director do INIA, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de repartição mais antigo da direcção de serviços.
 
-###### Art. 92.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços, for designado por despacho do director do INIA, ou, na falta de designação, pelo técnico superior mais antigo.
+Art. 92.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços, for designado por despacho do director do INIA, ou, na falta de designação, pelo técnico superior mais antigo.
 
-###### Art. 93.º Os chefes de repartição são substituídos nas suas ausências e impedimentos pelo chefe de secção que, sob proposta do director de Serviços de Administração, for designado pelo director do INIA, ou, na falta de designação, pelo chefe de secção mais antigo da repartição.
+Art. 93.º Os chefes de repartição são substituídos nas suas ausências e impedimentos pelo chefe de secção que, sob proposta do director de Serviços de Administração, for designado pelo director do INIA, ou, na falta de designação, pelo chefe de secção mais antigo da repartição.
 
-###### Art. 94.º Os chefes de secção são substituídos nas suas ausências e impedimentos pelo funcionário mais antigo da categoria mais elevada da secção.
+Art. 94.º Os chefes de secção são substituídos nas suas ausências e impedimentos pelo funcionário mais antigo da categoria mais elevada da secção.
 
-###### Art. 95.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta e concordância do director de Serviços de Administração, for designado por despacho do director do INIA.
+Art. 95.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta e concordância do director de Serviços de Administração, for designado por despacho do director do INIA.
 
-###### Art. 96.º Os directores de estação nacional de I-D são substituídos nas suas ausências e impedimentos pelo subdirector, ou, na sua falta, pelo chefe de departamento da estação mais antigo da categoria mais elevada.
+Art. 96.º Os directores de estação nacional de I-D são substituídos nas suas ausências e impedimentos pelo subdirector, ou, na sua falta, pelo chefe de departamento da estação mais antigo da categoria mais elevada.
 
-###### Art. 97.º Os chefes de departamento são substituídos nas suas ausências e impedimentos pelo técnico do departamento mais antigo da categoria mais elevada.
+Art. 97.º Os chefes de departamento são substituídos nas suas ausências e impedimentos pelo técnico do departamento mais antigo da categoria mais elevada.
 
-###### Art. 98.º Os chefes de CRIDA são substituídos nas suas ausências e impedimentos pelo técnico mais antigo da categoria mais elevada.
+Art. 98.º Os chefes de CRIDA são substituídos nas suas ausências e impedimentos pelo técnico mais antigo da categoria mais elevada.
 
 ### CAPÍTULO VI — Disposições gerais e finais
 
-###### Art. 99.º O Instituto Nacional de Investigação Agrária exerce a sua actividade regional de I-D em estruturas próprias, estações nacionais de I-D, departamentos não integrados em estações nacionais de I-D ou CRIDAs, podendo também recorrer sempre que necessário a estruturas dos serviços regionais de agricultura ou de outros serviços do Ministério da Agricultura e Pescas, mediante convénios de cooperação, ou de outras entidades públicas ou privadas, através de contratos especiais.
+Art. 99.º O Instituto Nacional de Investigação Agrária exerce a sua actividade regional de I-D em estruturas próprias, estações nacionais de I-D, departamentos não integrados em estações nacionais de I-D ou CRIDAs, podendo também recorrer sempre que necessário a estruturas dos serviços regionais de agricultura ou de outros serviços do Ministério da Agricultura e Pescas, mediante convénios de cooperação, ou de outras entidades públicas ou privadas, através de contratos especiais.
 
-###### Art. 100.º Por despacho do Ministro da Agricultura e Pescas, mediante proposta do director do Instituto Nacional de Investigação Agrária, serão afectados aos serviços operativos e locais os organismos transitados para o INIA pelos Decretos Regulamentares n.os [78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379) e [14/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1979-382041), respectivamente de 25 de Novembro e 27 de Abril, bem como outros que, eventualmente, vierem ainda a transitar.
+Art. 100.º Por despacho do Ministro da Agricultura e Pescas, mediante proposta do director do Instituto Nacional de Investigação Agrária, serão afectados aos serviços operativos e locais os organismos transitados para o INIA pelos Decretos Regulamentares n.os [78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379) e [14/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1979-382041), respectivamente de 25 de Novembro e 27 de Abril, bem como outros que, eventualmente, vierem ainda a transitar.
 
-###### Art. 101.º Logo que o seu desenvolvimento o justificar, os departamentos referidos nas alíneas g) a j) do n.º 1, B), do artigo 13.º do presente diploma passarão a estações nacionais de I-D por decreto regulamentar.
+Art. 101.º Logo que o seu desenvolvimento o justificar, os departamentos referidos nas alíneas g) a j) do n.º 1, B), do artigo 13.º do presente diploma passarão a estações nacionais de I-D por decreto regulamentar.
 
-###### Art. 102.º - 1 - O Instituto Nacional de Investigação Agrária poderá, sem prejuízo das funções que lhe estão cometidas, realizar trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 102.º - 1 - O Instituto Nacional de Investigação Agrária poderá, sem prejuízo das funções que lhe estão cometidas, realizar trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
 2 - Os serviços prestados serão cobrados de acordo com a tabela de preços que vier a ser aprovada por despacho ministerial, sob proposta do director do INIA, ouvido o Conselho Administrativo.
 
-###### Art. 103.º A venda de patentes de invenção, de sementes, plantas, animais e protistas, de aparelhagem desenvolvida no INIA e de publicações pode ser feita independentemente de quaisquer formalidades legais.
+Art. 103.º A venda de patentes de invenção, de sementes, plantas, animais e protistas, de aparelhagem desenvolvida no INIA e de publicações pode ser feita independentemente de quaisquer formalidades legais.
 
-###### Art. 104.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada, o Instituto Nacional de Investigação Agrária poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 104.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada, o Instituto Nacional de Investigação Agrária poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 105.º O Instituto Nacional de Investigação Agrária poderá estabelecer convénios de cooperação científica e técnica com os serviços regionais de agricultura, direcções-gerais e outros serviços centrais do MAP, bem como com organismos de outros Ministérios, nomeadamente com instituições de ensino universitário, e ainda com entidades cooperativas ou privadas.
+Art. 105.º O Instituto Nacional de Investigação Agrária poderá estabelecer convénios de cooperação científica e técnica com os serviços regionais de agricultura, direcções-gerais e outros serviços centrais do MAP, bem como com organismos de outros Ministérios, nomeadamente com instituições de ensino universitário, e ainda com entidades cooperativas ou privadas.
 
-###### Art. 106.º O Instituto Nacional de Investigação Agrária pode obter patentes das suas invenções e criações e explorá-las da maneira mais conveniente aos interesses da instituição.
+Art. 106.º O Instituto Nacional de Investigação Agrária pode obter patentes das suas invenções e criações e explorá-las da maneira mais conveniente aos interesses da instituição.
 
-###### Art. 107.º O Instituto Nacional de Investigação Agrária pode instituir e manter prémios ou outras formas de recompensa, segundo regulamento aprovado pelo Ministro da Agricultura e Pescas, para os servidores do INIA ou outras entidades que tenham contribuído de forma excepcional para a eficiência da instituição ou para o progresso dos conhecimentos.
+Art. 107.º O Instituto Nacional de Investigação Agrária pode instituir e manter prémios ou outras formas de recompensa, segundo regulamento aprovado pelo Ministro da Agricultura e Pescas, para os servidores do INIA ou outras entidades que tenham contribuído de forma excepcional para a eficiência da instituição ou para o progresso dos conhecimentos.
 
-###### Art. 108.º O Instituto Nacional de Investigação Agrária poderá promover a realização de cursos de actualização técnico-profissioal para o seu pessoal e conceder-lhe bolsas de estudo.
+Art. 108.º O Instituto Nacional de Investigação Agrária poderá promover a realização de cursos de actualização técnico-profissioal para o seu pessoal e conceder-lhe bolsas de estudo.
 
-###### Art. 109.º As propriedades rurais afectas ao INIA serão submetidas ao regime de defesa e vigilância por guardas florestais residentes, segundo o que está estabelecido por lei para este efeito.
+Art. 109.º As propriedades rurais afectas ao INIA serão submetidas ao regime de defesa e vigilância por guardas florestais residentes, segundo o que está estabelecido por lei para este efeito.
 
-###### Art. 110.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos do INIA incluídos no Plano serão pagos de conta das dotações consignadas aos mesmos.
+Art. 110.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos do INIA incluídos no Plano serão pagos de conta das dotações consignadas aos mesmos.
 
-###### Art. 111.º - 1 - A cobrança coerciva das dívidas ao Instituto Nacional de Investigação Agrária provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento esteja reconhecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais através dos serviços de justiça fiscal.
+Art. 111.º - 1 - A cobrança coerciva das dívidas ao Instituto Nacional de Investigação Agrária provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento esteja reconhecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada por entidade competente, da qual constem os elementos seguintes:
 
@@ -1032,28 +1070,28 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 112.º O Instituto Nacional de Investigação Agrária poderá, precedendo despacho ministerial de autorização sob proposta devidamente fundamentada, conceder subsídios a entidades públicas ou privadas para obtenção de serviços e realização de trabalhos necessários ao cumprimento das suas funções.
+Art. 112.º O Instituto Nacional de Investigação Agrária poderá, precedendo despacho ministerial de autorização sob proposta devidamente fundamentada, conceder subsídios a entidades públicas ou privadas para obtenção de serviços e realização de trabalhos necessários ao cumprimento das suas funções.
 
-###### Art. 113.º Considera-se sancionada a técnica administrativa utilizada nas despesas realizadas pelo INIA desde o ano de 1975 e até à entrada em vigor do presente diploma.
+Art. 113.º Considera-se sancionada a técnica administrativa utilizada nas despesas realizadas pelo INIA desde o ano de 1975 e até à entrada em vigor do presente diploma.
 
-###### Art. 114.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidas por lei aos organismos integrados no Instituto Nacional de Investigação Agrária, transitam para este Instituto.
+Art. 114.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidas por lei aos organismos integrados no Instituto Nacional de Investigação Agrária, transitam para este Instituto.
 
-###### Art. 115.º - 1 - O presente diploma entrará em vigor no dia seguinte ao da sua publicação.
+Art. 115.º - 1 - O presente diploma entrará em vigor no dia seguinte ao da sua publicação.
 
 2 - A sua implementação efectivar-se-á de harmonia com a orientação que vier a ser definida por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 116.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 116.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
 Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 85.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17504/00110024.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17504/00110024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17504/00110024.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

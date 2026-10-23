@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2003/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2003-176336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91928451a4cfd0cea0ffdf7b965fcaeaa8b4ce2cb26fc14e5f99809b7500594f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ec02f4f9f3ec3ba72e8545da5bea63e634f47a81388b50f0c7d79696aa73571
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autoridade da Concorrência
-- Ministro da Economia
+- Banco de Portugal
+- CMVM
+- Concorrência
 - Conselho da Autoridade da Concorrência
 - Conselho da Concorrência
 - Criação de Serviços
-- Instituto Nacional de Aviação Civil
 - Direcção Geral do Comércio e da Concorrência
-- Concorrência
-- Fusão de Empresas
+- Entidade Reguladora dos Serviços Energéticos
 - Estatuto
 - Extinção de Serviços
 - Fiscal
-- Secretaria Geral
-- Ministério da Economia
-- Banco de Portugal
+- Fusão de Empresas
 - Gestor Público
+- Imoppi
 - Instituto das Comunicações de Portugal
 - Instituto de Seguros de Portugal
-- Imoppi
+- Instituto Nacional de Aviação Civil
 - Instituto Nacional do Transporte Ferroviário
-- Lei de Organização e Funcionamento dos Tribunais Judiciais
 - Instituto Regulador de Águas e Resíduos
+- Lei de Organização e Funcionamento dos Tribunais Judiciais
+- Ministério da Economia
+- Ministro da Economia
 - Pessoa Colectiva de Direito Público
-- Entidade Reguladora dos Serviços Energéticos
 - Remuneração
-- CMVM
+- Secretaria Geral
 - Transferência de Competências
 - Tutela
 relationships:
@@ -132,16 +132,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664319:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:166403:por
+  label: "Rectificado pela DECL-RECT.1/2003.2003.01.22.PCM DR.IS-A [23] de 28/Jan/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-2003-166403
+  date: '2003-01-22'
+- type: repealed_by
+  target: pt:dre:483672:por
+  label: "Revogada, a partir de 25.02.2014 e sem prejuízo do disposto no art. 19.º, a al. b) do n.º 1 do art. 5.º, pelo DEC\
+    \ LEI.166/2013.27.12.2013.MECO, DR.IS [251] de 27.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2013-483672
+  date: '2013-12-27'
+- type: repealed_by
+  target: pt:dre:56152680:por
+  label: Revogado, a partir de 01.09.2014 mas com exceção dos arts 1.º e 7.º, o presente diploma, na redação do Dec Lei 166/2013
+    de 27-dez, pelo(a) Decreto-Lei n.º 125/2014 - Diário da República n.º 157/2014, Série I de 2014-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2014-56152680
+  date: '2014-08-18'
 article_structure:
-  article_count: 48
+  article_count: 50
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:54Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +247,9 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 24/2002](https://diariodarepublica.pt/dr/detalhe/lei/24-2002-425934), de 31 de Outubro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objecto
 
@@ -294,15 +353,15 @@ c) A alínea a) do artigo 9.º e o artigo 33.º do [Decreto-Lei n.º 222/96](htt
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 8 de Janeiro de 2003.**
+Promulgado em 8 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Janeiro de 2003.**
+Referendado em 9 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA
 
@@ -394,7 +453,9 @@ As autoridades e serviços públicos integrantes da administração directa, ind
 
 ### CAPÍTULO II — Organização
 
-#### SECÇÃO I — Artigo 10.º
+#### SECÇÃO I
+
+###### Artigo 10.º
 
 Órgãos
 

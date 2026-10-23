@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/329/2007/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-2007-641704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfae5eb17656a27df32cce9a5c68f8c903ac1fc7e6d77b5dae31ba43e91fb869
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab2b8da552deda9d83c764da1d9db99673b335756d4aafe8cc1cd9e3139a7288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,38 +69,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Análise Laboratorial
 - Aproximação das Legislações
 - Armazenagem
+- ASAE
 - Catálogo Nacional de Variedades
 - Certificado de Conformidade
-- Organismo Geneticamente Modificado
-- Doença Vegetal
-- Direção Geral da Agricultura e Desenvolvimento Rural
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Cooperação Interempresas
+- Direção Geral da Agricultura e Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
-- Saúde Pública
+- Doença Vegetal
 - Fiscalização
-- Importação
-- ASAE
-- Licenciamento
-- Proteção do Ambiente
-- Património Genético Vegetal
-- Transporte de Mercadorias
-- Produto Hortícola
-- Madeira.região Autónoma
-- Produção Agrícola
-- Recursos Genéticos
 - Fruticultura
-- Açores
-- Comércio
+- Importação
+- Licenciamento
+- Madeira.região Autónoma
+- Organismo Geneticamente Modificado
+- Património Genético Vegetal
+- Produção Agrícola
+- Produto Hortícola
+- Proteção do Ambiente
+- Recursos Genéticos
+- Saúde Pública
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:107703391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332697:por
+  label: "Alterados a partir de 30.09.2012, os arts. 2.º, 3.º, 7.º, 10.º [neste último, a alteração entra em vigor em 01.04.2011],\
+    \ 12.º, 14.º, 30.º e 43.º, bem como os anexos v e vi, aditado o art. 4.º-A [entra em vigor em 01.04.2011] e revogadas\
+    \ as als. o) e p) do art 3.º e o n.º 2 do art 14.º, todos do presente diploma, pelo DEC LEI.53/2010.27.05.2010.MADRP,\
+    \ DR.IS [103] de 27.05.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2010-332697
+  date: '2010-05-27'
+- type: amended_by
+  target: pt:dre:572154:por
+  label: "Dada nova redação ao art. 2.º (alterado pelo Dec Lei 53/2010 de 27-mai) e ao anexo II e, revogadas a subal. i) da\
+    \ al. a) do n.º 2 do art. 2.º e a parte E do anexo IV do presente diploma pelo DEC LEI.34/2014.05.03.2014.MAGM, DR.IS\
+    \ [45] de 05.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2014-572154
+  date: '2014-03-05'
 - type: cites
   target: celex:31992L0033
   label: null
@@ -137,16 +152,28 @@ relationships:
   target: celex:32006L0124
   label: null
   source: http://data.europa.eu/eli/dir/2006/124/oj
+- type: corrected_by
+  target: pt:dre:334092:por
+  label: "Rectificado o art. 2º do Dec Lei 53/2010 de 27-Mai [na redacção que conferiu ao art. 3º do presente diploma] pela\
+    \ DECL-RECT.23/2010.26.07.2010.PCM, DR.IS [143] de 26.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/23-2010-334092
+  date: '2010-07-26'
+- type: repealed_by
+  target: pt:dre:107703391:por
+  label: Revogado pelo(a) Decreto-Lei n.º 82/2017 - Diário da República n.º 137/2017, Série I de 2017-07-18, nos termos do
+    n.º 2 do art. 47.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2017-107703391
+  date: '2017-07-18'
 article_structure:
   article_count: 48
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:20Z'
   warnings: []
   errors: []
 ---
@@ -1109,19 +1136,19 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 20 de Setembro de 2007.**
+Promulgado em 20 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2007.**
+Referendado em 21 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Avaliação e manutenção de variedades de fruteiras a inscrever no Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas (CNV)
 
-# Parte A
+Parte A
 
 Condições mínimas a cumprir nos ensaios de variedades de fruteiras
 
@@ -1151,7 +1178,7 @@ Condições mínimas a cumprir nos ensaios de variedades de fruteiras
 
 3.2 - Ensaio de comprovação da variedade de um determinado clone, quando for o caso - para a realização deste ensaio aplica-se ao clone a ensaiar o protocolo técnico definido nos n.os 3.1.1 a 3.1.3 para as variedades de fruteiras, devendo incluir, pelo menos, uma das testemunhas indicadas no n.º 3.1.4, e a variedade a que o clone pertence.
 
-# Parte B
+Parte B
 
 Selecção de manutenção de variedades de fruteiras
 
@@ -1171,7 +1198,7 @@ d) Se as plantas estão em pé franco ou enxertadas, indicando neste caso a vari
 
 Regulamento técnico da produção de plantas hortícolas certificadas ou de «qualidade CE»
 
-# Parte A
+Parte A
 
 Géneros e espécies abrangidas e categorias das plantas hortícolas
 
@@ -1181,13 +1208,13 @@ Géneros e espécies abrangidas e categorias das plantas hortícolas
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
 1.2 - Outras espécies são as que constam do quadro seguinte:
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
 2 - São admitidas à produção as seguintes categorias:
 
@@ -1199,7 +1226,7 @@ a) Base;
 
 b) Certificada.
 
-# Parte B
+Parte B
 
 Condições a satisfazer pelas culturas e plantas
 
@@ -1245,7 +1272,7 @@ f) Face à presença de sinais visíveis ou de sintomas de organismos nocivos du
 
 g) No caso dos bolbos de chalotas e de alhos provir directamente de material que, durante o ciclo vegetativo após a realização de controlo, foi considerado substancialmente isento de quaisquer organismos nocivos e sintomas de doenças constantes do quadro i.
 
-# Parte C
+Parte C
 
 Requisitos fitossanitários
 
@@ -1255,9 +1282,9 @@ As plantas hortícolas que apresentem sinais ou sintomas atribuíveis a organism
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
-# Parte D
+Parte D
 
 Controlos e inspecções de culturas
 
@@ -1267,7 +1294,7 @@ Controlos e inspecções de culturas
 
 ## ANEXO III — Regulamento técnico da produção de materiais CAC de fruteiras
 
-# Parte A
+Parte A
 
 Géneros e espécies abrangidas
 
@@ -1275,9 +1302,9 @@ Géneros e espécies abrangidas
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
-# Parte B
+Parte B
 
 Listas de variedades mantidas pelos produtores
 
@@ -1295,9 +1322,9 @@ QUADRO II
 
 Caracterização de variedades de fruteiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
-# Parte C
+Parte C
 
 Condições a satisfazer pelas culturas e pelos materiais frutícolas
 
@@ -1331,7 +1358,7 @@ b) Ter sido controlados e considerados substancialmente isentos de sintomas daqu
 
 c) Na última enxertia, ter sido enxertados em porta-enxertos não sensíveis a viróides.
 
-# Parte D
+Parte D
 
 Requisitos fitossanitários
 
@@ -1343,9 +1370,9 @@ QUADRO III
 
 Lista de organismos prejudiciais e doenças específicas com incidência significativa na qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
-# Parte E
+Parte E
 
 Controlos e inspecções de culturas e plantas
 
@@ -1353,7 +1380,7 @@ As culturas para a produção de materiais CAC de fruteiras, para além do contr
 
 ## ANEXO IV — Regulamento técnico da produção de materiais citrícolas certificados
 
-# Parte A
+Parte A
 
 Géneros e espécies abrangidas e categorias de materiais a certificar
 
@@ -1367,7 +1394,7 @@ b) Categoria base;
 
 c) Categoria certificada.
 
-# Parte B
+Parte B
 
 Inscrição de variedades no CNV
 
@@ -1377,7 +1404,7 @@ a) O número mínimo de plantas a considerar no referente ao n.º 3.1.1 da parte
 
 b) Observados, os caracteres morfológicos e fisiológicos constantes dos princípios orientadores estabelecidos pelo ICVV, ou, enquanto estes não existirem, os da UPOV.
 
-# Parte C
+Parte C
 
 Condições a satisfazer pelas culturas e pelos materiais citrícolas
 
@@ -1429,7 +1456,7 @@ b) Em contentor individual ou no solo para as plantas cítricas de categoria cer
 
 4 - As plantas enxertadas obtidas pela combinação de porta-enxertos e garfos da mesma categoria de certificação, são classificados nessa categoria e os produzidos a partir da enxertia de porta-enxertos e garfos de categorias diferentes são classificados na mais baixa das categorias em presença.
 
-# Parte D
+Parte D
 
 Requisitos fitossanitários
 
@@ -1441,7 +1468,7 @@ Requisitos fitossanitários
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
 1.3 - Testes laboratoriais periódicos das plantas-mãe:
 
@@ -1449,7 +1476,7 @@ QUADRO I
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
 1.3.2 - O método a utilizar na determinação do estado sanitário das plantas-mãe, no que se refere às doenças constantes dos números anteriores, deve ser a indexagem biológica, ou, quando seja possível, o método serológico.
 
@@ -1463,7 +1490,7 @@ QUADRO II
 
 2.2 - A presença dos organismos prejudiciais que reduzem o valor de utilização dos materiais de propagação, discriminados no quadro iii do anexo iii, no relativo a Citrus L., é tolerado num limite o mais baixo possível, com a condição de terem sido realizados os respectivos tratamentos, quando estes existirem.
 
-# Parte E
+Parte E
 
 Normas de pureza dos materiais citrícolas e da qualidade das sementes
 
@@ -1471,7 +1498,7 @@ Normas de pureza dos materiais citrícolas e da qualidade das sementes
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
 2 - As sementes a certificar devem:
 
@@ -1481,9 +1508,9 @@ QUADRO III
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
-# Parte F
+Parte F
 
 Características técnicas das plantas cítricas
 
@@ -1503,7 +1530,7 @@ a) Nas laranjeiras, pomelos, limoeiros e limeiras, a 90 cm;
 
 b) Nos citrinos de frutos pequenos, a 80 cm.
 
-# Parte G
+Parte G
 
 Controlos e inspecções de culturas e plantas
 
@@ -1525,7 +1552,7 @@ ii) Havendo pedido de renovação da inscrição da parcela por mais um ano, rea
 
 ## ANEXO V — Regulamento técnico da produção de materiais de morangueiro certificados
 
-# Parte A
+Parte A
 
 Géneros e espécies abrangidas e categorias a certificar
 
@@ -1559,13 +1586,13 @@ c) Material da categoria certificado - o material certificado de morangueiro pro
 
 3.2 - Selecção de manutenção - as plantas ou partes de planta representativa da variedade, isenta de organismos nocivos da cultura do morangueiro abrangidos pela legislação fitossanitária referida no artigo 28.º, que, através de métodos de micropropagação, incluindo a cultura de meristemas, ou do método de selecção clonal, ambos sem obrigatoriedade de exame oficial, se destina à produção de material da categoria inicial.
 
-# Parte B
+Parte B
 
 Inscrição de variedades no CNV
 
 A avaliação e a manutenção de variedades de morangueiro a inscrever no CNV é realizada de acordo com o definido no anexo i, sendo, quanto aos ensaios de distinção, homogeneidade e estabilidade (DHE) de variedades, observados, pelo menos, em 25 plantas, os caracteres morfológicos e fisiológicos constantes dos princípios orientadores estabelecidos pelo ICVV.
 
-# Parte C
+Parte C
 
 Inscrição e condições a satisfazer pelas culturas e pelas plantas produzidas
 
@@ -1611,7 +1638,7 @@ QUADRO I
 
 Normas e tolerâncias para impurezas varietais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
 3.2 - Requisitos fitossanitários - as normas e tolerâncias relativas ao estado fitossanitário, a cumprir pelos materiais certificados de morangueiro em produção ou produzidos, para além do cumprimento da legislação fitossanitária referida no artigo 28.º, são as que se indicam no quadro seguinte:
 
@@ -1619,9 +1646,9 @@ QUADRO II
 
 Normas e tolerâncias para organismos nocivos de qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19300/0713907169.pdf)
 
-# Parte D
+Parte D
 
 Inspecções de campo, amostragem e testes fitossanitários
 
@@ -1653,7 +1680,7 @@ e) Outros que venham a ser definidos por despacho do director-geral de Agricultu
 
 2.4 - Cada amostra colhida no âmbito dos n.os 2.1 ou 2.2, deve ser constituída por 50 plantas.
 
-# Parte E
+Parte E
 
 Aprovação, identificação, dimensão e acondicionamento dos lotes de plantas
 
@@ -1685,7 +1712,7 @@ Aprovação, identificação, dimensão e acondicionamento dos lotes de plantas
 
 Para além do definido no artigo 26.º, para a identificação dos materiais certificados ou controlados a comercializar, devem ser utilizadas etiquetas ou documentos de acompanhamento que cumpram as exigências definidas nas seguintes partes.
 
-# Parte A
+Parte A
 
 Etiquetas e documento de acompanhamento para plantas hortícolas certificadas e para materiais certificados de fruteiras
 
@@ -1791,7 +1818,7 @@ l) Data do fornecimento.
 
 3.3 - No caso de, ao abrigo da legislação fitossanitária referida no artigo 28.º, os materiais deverem ser acompanhados de um passaporte fitossanitário, a etiqueta do produtor constituirá, se o produtor assim o desejar, o referido passaporte, sendo neste caso, obrigatória a inscrição na etiqueta de «passaporte fitossanitário» e «número de operador económico».
 
-# Parte B
+Parte B
 
 Etiquetas e documento de acompanhamento para plantas hortícolas de «qualidade CE» e materiais CAC de fruteiras
 

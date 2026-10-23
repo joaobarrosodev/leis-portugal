@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15800/0420804212.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2018/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2018-116090201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 009febf75ec1f14e94cf15bb30a159a6f8ff2acbed1f9c824094f56f7170f77b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d86a9a474d6838f9ac97ce67af94ed16071ce4667090f09805086c0097b495d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
 subjects:
 - Administração do Porto de Lisboa
 - Alienação de Imóveis
-- BENS Imóveis
-- Sociedade Anónima
+- Autarquia Local
 - BEM Móvel
-- Ordenamento do Território
+- BENS Imóveis
 - Direção Geral do Tesouro e Finanças
 - Domínio Público do Estado
 - Extinção de Empresas
 - Gestão Administrativa
-- Lisboa
-- ZONA de Intervenção
 - Gestão do Património
-- Transmissão da Propriedade
+- Lisboa
+- Ordenamento do Território
 - Parque EXPO 98
 - Parque EXPO-Gestão Urbana do Parque das Nações
 - Plano de Pormenor
 - Plano de Urbanização
+- Sociedade Anónima
 - Transferência de Competências
 - Transferência Patrimonial
-- Autarquia Local
+- Transmissão da Propriedade
+- ZONA de Intervenção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/110/1999/04/09/p/dre
@@ -123,16 +123,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/640/1994/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/640/1994/07/15/p/dre
+- type: cites
+  target: pt:dre:191528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683054:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:56Z'
   warnings: []
   errors: []
 ---
@@ -229,15 +269,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de maio de 2018. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Ana Paula Mendes Vitorino.
 
-**Promulgado em 7 de agosto de 2018.**
+Promulgado em 7 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de agosto de 2018.**
+Referendado em 9 de agosto de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (imóveis a que se refere o n.º 1 do artigo 2.º)
 
@@ -358,3 +398,5 @@ Visto e aprovado em Conselho de Ministros de 17 de maio de 2018. - Augusto Ernes
 10 - Marina do Parque das Nações: sita na freguesia do Parque das Nações, distrito e concelho de Lisboa, em área do domínio público hídrico.
 
 11 - Telecabine: instalação sita na freguesia do Parque das Nações, distrito e concelho de Lisboa.
+
+111583821

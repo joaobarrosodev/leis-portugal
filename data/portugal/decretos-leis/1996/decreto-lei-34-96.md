@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/092a00/08930896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/1996/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6177e506f53d58eb3c92c6e3860661f7b2b99574ec174b8c6b89ccc68a4c3ce7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d6c7c2fbfacd9d341434f373666757284bef486e0ef9732542cd919ccdb0efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
+- Contrato de Trabalho
 - Contribuições da Segurança Social
+- Criação de Emprego
 - Definição de Competências
 - Desemprego de Longa Duração
-- Jovem Trabalhador
-- Criação de Emprego
-- Primeiro Emprego
 - Emprego
+- Financiamento
+- Instituto do Emprego e Formação Profissional
+- Jovem Trabalhador
 - Política de Emprego
-- Contrato de Trabalho
+- Primeiro Emprego
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:566620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241231:por
+  label: "Alterado, por ratificação, o art. 19º (entrada em vigor) pela LEI.47/96.1996.09.03.AR, DR.IS-A [204]\04]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/47-1996-241231
+  date: '1996-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/89/1995/05/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/89/1995/05/06/p/dre
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:644358:por
+  label: "Revogado pela PORT.196-A/2001.2001.03.10.MTS DR.IS-B [59]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-a-2001-644358
+  date: '2001-03-10'
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:08Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +260,9 @@ Objecto
 
 O presente diploma regula a atribuição de dispensa temporária do pagamento de contribuições para o regime geral de segurança social, na parte relativa à entidade empregadora, como forma de incentivo à contratação de jovens à procura de primeiro emprego e de desempregados de longa duração.
 
-###### Artigo 31.º — Regime subsidiário
+Artigo 31.º
+
+Regime subsidiário
 
 Em tudo o que não se encontre expressamente regulado neste diploma aplicam-se as disposições vigentes do regime geral de segurança social dos trabalhadores por conta de outrem.»
 
@@ -266,12 +290,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e aplic
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1996. - António Manuel de Oliveira Guterres - Maria João Fernandes Rodrigues.
 
-**Promulgado em 3 de Abril de 1996.**
+Promulgado em 3 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Abril de 1996.**
+Referendado em 11 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

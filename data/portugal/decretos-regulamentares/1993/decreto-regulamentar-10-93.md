@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/098b00/20702075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/10/1993/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1993-665971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd00522b4c1ff9e13b84f41860f21515fdb484027aafd542ba253cbe5b94891a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d4e479f8167ee34400d258c0f68d0dff14d44bdf721793568d8815f61816e27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,39 @@ relationships:
   target: pt:dre:637403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669487:por
+  label: "Alterado o art. 2º pelo DR.31/93.1993.10.08.MDN, DR.IS-B [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/31-1993-669487
+  date: '1993-10-08'
+- type: amended_by
+  target: pt:dre:223202:por
+  label: "Alterado o art. 27º pelo DR.26/98.1998.11.06.MDN, DR.IS-B [257] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/26-1998-223202
+  date: '1998-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/1991/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/164/1991/05/07/p/dre
+- type: cites
+  target: pt:dre:616783:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:637403:por
+  label: "Revogado , a partir de 12.08.2007, pelo DEC LEI.281/2007.07.08.2007.MDN, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-2007-637403
+  date: '2007-08-07'
 article_structure:
   article_count: 37
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:30Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +123,9 @@ Assim:
 
 Ao abrigo do disposto no n.º 4 do artigo 1.º do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Cruz Vermelha Portuguesa, publicado em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovado o Estatuto da Cruz Vermelha Portuguesa, publicado em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - No prazo de nove meses a contar da publicação deste diploma, e após aprovação pelo conselho supremo constituído nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio, a direcção nacional submeterá a homologação, por portaria, do Ministro da Defesa Nacional o regulamento geral de funcionamento da Cruz Vermelha Portuguesa.
+Art. 2.º - 1 - No prazo de nove meses a contar da publicação deste diploma, e após aprovação pelo conselho supremo constituído nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio, a direcção nacional submeterá a homologação, por portaria, do Ministro da Defesa Nacional o regulamento geral de funcionamento da Cruz Vermelha Portuguesa.
 
 2 - Compete ainda ao conselho supremo a que se refere o número anterior:
 
@@ -122,15 +141,15 @@ Presidência do Conselho de Ministros, 16 de Novembro de 1992.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - José Manuel Durão Barroso - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Março de 1993.**
+Promulgado em 9 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Março de 1993.**
+Referendado em 29 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatuto da Cruz Vermelha Portuguesa
 
@@ -178,7 +197,9 @@ g) Universalidade - a Cruz Vermelha é uma instituição universal, no seio da q
 
 4 - A inobservância do disposto no número anterior é sancionada nos termos da lei.
 
-### CAPÍTULO II — Artigo 5.º
+### CAPÍTULO II
+
+###### Artigo 5.º
 
 Objectivo
 

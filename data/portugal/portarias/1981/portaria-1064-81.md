@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1064-1981-567273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c59adc01869e4b61edc4c6126fa9321365f3747f3ce4096b1d5cfb0603f0c60c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3ede234b665f18ccb32c0b8e21a855fba4fba68c3af65c75474e3519617e8c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português de Oncologia de Francisco Gentil
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:47Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +101,11 @@ MAPA I
 
 Instituto Português de Oncologia de Francisco Gentil (Centro de Lisboa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
 
 Instituto de António Aurélio da Costa Ferreira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
 
 MAPA II
 
@@ -107,8 +113,8 @@ MAPA II
 
 Instituto Português de Oncologia de Francisco Gentil (Centro de Lisboa)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
 
 Instituto de António Aurélio da Costa Ferreira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28800/32763277.pdf)

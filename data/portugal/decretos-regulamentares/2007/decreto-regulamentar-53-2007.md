@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26552657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/53/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-2007-520873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cedde67d0d10474c5c346e6ddb0f405b2349edffc2c7ce2d21b2ac66702f78f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3ed0588dc727bc15f05ac9f3c49cab2e703d6034cd218db8c88f62e615b32dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Agência Portuguesa do Ambiente
 - Definição de Competências
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:553603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transferidas as competências do INETI, I.P., de acordo com o art. 2º, transitando para a Agência Portuguesa do Ambiente,\
+    \ I.P., cuja orgânica foi aprovada pelo presente diploma, as competências do Centro de Desenvolvimento Empresarial Sustentável,\
+    \ relativas à monitorização (água), pelo DEC LEI.355/2007.29.10.2007.MEI, DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Determinada a reestruturação da Agência Portuguesa do Ambiente, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12]\
+    \ de 17.01.2012, nos termos do disposto no nº 4 do seu art. 34º, a qual passa a integrar a administração indirecta do\
+    \ Estado, com a denominação Agência Portuguesa do Ambiente, I.P.. \0. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2003/06/04/p/dre
   label: null
@@ -99,16 +113,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674576:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553603:por
+  label: "Revogada, a partir de 01.04.2012, pelo DEC LEI.56/2012.12.03.2012.MAMAOT, DR.IS [51] de 12.03.2012, sucedendo a\
+    \ Agência Portuguesa do Ambiente, I.P., nas atribuições da Agência Portuguesa do Ambiente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2012-553603
+  date: '2012-03-12'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:54Z'
   warnings: []
   errors: []
 ---
@@ -235,16 +279,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26552657.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26552657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26552657.pdf)

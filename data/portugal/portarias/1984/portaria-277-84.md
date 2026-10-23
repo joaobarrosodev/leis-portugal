@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-1984-385036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:00:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0591451432020d53f0ac9fdb55504298b531a9fe62b050d595636d95af12c2f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 132a3213e1a59f510c480057e561079ed92a886674350f1e6080ddd125584c40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:00:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária
+- Companhia Portuguesa de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:611075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401288:por
+  label: "Prorrogado, até 3 de Agosto de 1985, o prazo previsto no n.º 6) da al. b) do n.º 5.º do presente diploma, pela PORT.867/84.21.11.1984.MFP,\
+    \ DR.IS [270] de 21.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/867-1984-401288
+  date: '1984-11-21'
+- type: amended_by
+  target: pt:dre:182176:por
+  label: "Prorrogado o prazo referido na al. a) do nº. 9º pela PORT.409/85.29.06.1985.MFP, DR.IS [147] de 29.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/409-1985-182176
+  date: '1985-06-29'
+- type: amended_by
+  target: pt:dre:172093:por
+  label: "Prorrogados os prazos previstos no n.º 6) da al. b) do n.º 5.º e na al. a) do n.º 9.º do presente diploma, pela\
+    \ PORT.888/85.22.11.1985.MFP, DR.IS [269] de 22.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-1985-172093
+  date: '1985-11-22'
+- type: amended_by
+  target: pt:dre:221987:por
+  label: "Alterados os prazos previstos no n.º 6 da al. b) do n.º 5.º e na al. a) do n.º 9.º do presente diploma, na redacção\
+    \ da Port 888/95, de 22-Nov, pela PORT.524/86.15.09.1986.MF, DR.IS [212] de 15.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/524-1986-221987
+  date: '1986-09-15'
+- type: amended_by
+  target: pt:dre:611075:por
+  label: Remetidas para o administrador liquidatário a nomear as referências feitas às comissões liquidatárias neste diploma,
+    nomeadas ao abrigo das disposições revogadas pelo art. 2.º pelo(a) Decreto-Lei n.º 161/89 - Diário da República n.º 110/1989,
+    Série I de 1989-05-13, bem como é cometida exclusivamente ao Ministro das Finanças, a partir da data da entrada em vigor
+    daquele diploma, a superintendência para a prática dos actos de liquidação prevista neste mesmo diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1989-611075
+  date: '1989-05-13'
+- type: cites
+  target: pt:dre:385043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:00:34Z'
   warnings: []
   errors: []
 ---
@@ -230,6 +267,6 @@ Até à aprovação das contas apresentadas pelos liquidatários, a CPP acrescen
 
 Ministérios das Finanças e do Plano e do Mar.
 
-**Assinada em 27 de Abril de 1984.**
+Assinada em 27 de Abril de 1984.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Mar, Carlos Montez Melancia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Mar, Carlos Montez Melancia.

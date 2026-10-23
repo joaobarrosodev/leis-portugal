@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1983-443757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34cf6974b94267c2c1abbcc865eced068cf48392189699c74d6a6a037d0ad14b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b70b1d05020aa927cb7fa5a8432d9fbedf316b5632778edc654c4c0f772f945
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delegação Permanente de Portugal Junto da OCDE
+- OCDE
 relationships:
 - type: amended_by
   target: pt:dre:539995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152327:por
+  label: "Alterado o quadro de pessoal especializado, constante do quadro I anexo à Port 1096/80, de 27-Dez, com as alterações\
+    \ resultantes do presente diploma, do Dec 144/80, de 27-Dez, dos DR 21/82, de 17-Abr, e 33/82, de 16-Jun, dos Dec Leis\
+    \ 57/82, de 25-Fev, 18/83, de 21-Jan, e das Port 766/78, de 26-Dez, 578/82, de 11-Jun, 1012-D/82, de 29-Out, 917/83, de\
+    \ 07-Out, e 1031/83, de 13-Dez, pelo DEC LEI.133/85.1985.05.02.MNE, DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1985-152327
+  date: '1985-05-02'
+- type: amended_by
+  target: pt:dre:688458:por
+  label: "Alterada a al. c) do nº 1 pela PORT.1353/95.1995.11.15.MF, DR.IS-B [264]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1353-1995-688458
+  date: '1995-11-15'
+- type: amended_by
+  target: pt:dre:539995:por
+  label: "Alterado o quadro de pessoal especializado da Missão Permanente de Portugal junto da OCDE em Paris, aprovado pelo\
+    \ presente diploma, alterado pelo Dec Lei 133/85 de 02-Mai e pela Port 99/2006 de 03-Fev, pela PORT.901/2006.04.09.2006.MNE,\
+    \ DR.IS [170] de 04.09.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-2006-539995
+  date: '2006-09-04'
+- type: cites
+  target: pt:dre:381107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600510:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552279:por
+  label: "Revogada a al. b) do nº 1 e alterada a composição do quadro de pessoal da Delegação Portuguesa junto da OCDE, previsto\
+    \ no presente diploma, pela PORT.99/2006.03.02.2006.MNE, DR.IS-B [25] de 03.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-2006-552279
+  date: '2006-02-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:36Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +169,6 @@ c) Pessoal assalariado:
 
 Presidência do Conselho de Ministros e Ministérios dos Negócios Estrangeiros e das Finanças e do Plano.
 
-**Assinada em 30 de Setembro.**
+Assinada em 30 de Setembro.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.

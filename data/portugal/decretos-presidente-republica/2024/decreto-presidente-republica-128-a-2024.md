@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24701/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/128-a/2024/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/128-a-2024-900967167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 713964ff259b9d5b6e66edc495a27752e0404f8baab0ede3fe6317b2ea2d07b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e03322d6472ee44938f3d0dd772bf4c37354f3f927b4c731e903c3e18269591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,30 @@ relationships:
   target: pt:dre:903770699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-presidente-republica:116/2023
+  label: Homologa a exoneração do Vice-Chefe do Estado-Maior da Força Aérea, cuja nomeação foi homologada pelo Decreto do
+    Presidente da República n.º 116/2023, Diário da República n.º 238/2023, Série I
+  source: null
+  date: '2023-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:50:45Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ validation:
 
 de 20 de dezembro
 
-**O Presidente da República decreta, nos termos do n.º 5 do artigo 25.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 5 do artigo 25.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:
 
 1 - É homologada a exoneração do Tenente-General Piloto Aviador, Eurico Fernando Justino Craveiro, do cargo de Vice-Chefe do Estado-Maior da Força Aérea, em virtude de transitar para a situação de reserva no dia 18 de dezembro de 2024 efetuada por despacho do Ministro da Defesa Nacional de 13 de dezembro de 2024, sob proposta do Chefe do Estado-Maior da Força Aérea.
 
@@ -104,8 +114,10 @@ de 20 de dezembro
 
 3 - O presente decreto produz efeitos a partir da data de tomada de posse.
 
-**Assinado em 18 de dezembro de 2024.**
+Assinado em 18 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+118497789

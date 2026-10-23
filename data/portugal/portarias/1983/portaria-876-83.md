@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/20800/32073208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/876-1983-439429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c2bf306dc3f40e7b3cd991610a44199d533c8e5fe9e0b601d5b4557a04fccbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 022871438c73c6364a8a7ec9284a8b5d5f57ae146fcc5b9a6ad29528a62a168c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inseminação Artificial
+- Preço
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:661349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376215:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661349:por
+  label: "Revogada pela PORT.125/84.1984.02.25.MAFA DR.IS [48] de 25.02.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-1984-661349
+  date: '1984-02-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:15Z'
   warnings: []
   errors: []
 ---
@@ -124,6 +140,6 @@ z o preço por quilómetro que se encontre fixado para o Estado à data em que t
 
 Secretaria de Estado da Agricultura.
 
-**Assinada em 25 de Agosto de 1983.**
+Assinada em 25 de Agosto de 1983.
 
-**O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho.**
+O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho.

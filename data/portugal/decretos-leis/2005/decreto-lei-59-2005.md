@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2005/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2005-591764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4914bf13d9a717f89cb8c1ffaaaeab9e46e5c62976ef96e8e52b961742bebe25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 238ee78de80124576537e895caac80d912c423f042081a6ae4b2b1d93058df31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,31 @@ subjects:
 - Contra-ordenação
 - Etiquetagem
 - Fiscalização
-- Produto Têxtil
 - Normalização
+- Produto Têxtil
 relationships:
 - type: amended_by
   target: pt:dre:190604:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517667:por
+  label: "Alterados os anexos I e II do Dec Lei 163/2004 de 03-Jul,alterado e republicado pelo presente diploma, pelo DEC\
+    \ LEI.30/2007.13.02.2007.MEI, DR.IS [31] de 13.02.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2007-517667
+  date: '2007-02-13'
+- type: amended_by
+  target: pt:dre:640645:por
+  label: "Alterados o art.3º e os Anexos i e ii do Dec Lei 163/2004, de 03-Jul, na redacção do presente diploma, pelo DEC\
+    \ LEI.293/2007.21.08.2007.MEI, DR.IS [160] de 21.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-2007-640645
+  date: '2007-08-21'
+- type: amended_by
+  target: pt:dre:278182:por
+  label: "Alterados os anexos I e II do Dec Lei 163/2004, de 03-Jul, na redacção e republicado pelo presente diploma, pelo\
+    \ DEC LEI.38/2011.11.03.2011.MEID, DR.IS [50] de 11.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2011-278182
+  date: '2011-03-11'
 - type: cites
   target: celex:31973L0044
   label: null
@@ -99,16 +117,22 @@ relationships:
   target: celex:32004L0034
   label: null
   source: http://data.europa.eu/eli/dir/2004/34/oj
+- type: repealed_by
+  target: pt:dre:190604:por
+  label: "Revogado o Dec Lei 163/2004, de 03-jul, na redação do presente diploma, pelo DEC LEI.257/2012.29.11.2012.MEE, DR.IS\
+    \ [231] de 29.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2012-190604
+  date: '2012-11-29'
 article_structure:
-  article_count: 42
+  article_count: 36
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:57Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +161,9 @@ Os artigos 1.º, 2.º, 6.º, 9.º, 12.º, 19.º e 23.º do Decreto-Lei n.º 163/
 
 O presente diploma estabelece as regras relativas à denominação, etiquetagem e marcação dos produtos têxteis, transpondo para a ordem jurídica interna as Directivas n.os [96/74/CE](https://data.europa.eu/eli/dir/1996/74/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Dezembro, [97/37/CE](https://data.europa.eu/eli/dir/1997/37/oj?locale=pt), da Comissão, de 19 de Junho, e [2004/34/CE](https://data.europa.eu/eli/dir/2004/34/oj?locale=pt), de 23 de Março.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -153,7 +179,9 @@ c) Importados de países terceiros para serem objecto de processamento ou transf
 
 d) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Um produto têxtil só pode ser qualificado de 'lã virgem' quando for exclusivamente composto por fibras de lã que:
 
@@ -173,7 +201,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +223,9 @@ ii) ...
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +237,9 @@ ii) ...
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +263,9 @@ a) ...
 
 b) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A infracção ao disposto nos n.os 2, 3 e 4 do artigo 4.º, no n.º 1 do artigo 5.º, no n.º 1 do artigo 6.º, nos n.os 1, 2 e 4 do artigo 7.º, no artigo 11.º, no artigo 12.º, no n.º 1 do artigo 13.º, no artigo 14.º, no n.º 1 do artigo 15.º, no n.º 1 do artigo 16.º, no artigo 17.º e no artigo 18.º constitui contra-ordenação punível com as seguintes coimas:
 
@@ -269,25 +305,25 @@ O n.º 12 do anexo IV do Decreto-Lei n.º 163/2004, de 3 de Julho, passa a ter a
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco.
 
-**Promulgado em 18 de Fevereiro de 2005.**
+Promulgado em 18 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2005.**
+Referendado em 22 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Quadro das fibras têxteis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
 
 ## ANEXO II — Taxas convencionais a utilizar para o cálculo da massa das fibras contidas num produto têxtil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
 
-## ANEXO III — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
+## ANEXO III — [[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
 
 ## ANEXO IV
 
@@ -571,7 +607,7 @@ b) Entende-se por «reforços» os fios ou tecidos incorporados em zonas especí
 
 ###### Artigo 20.º — Regulamentação
 
-**O Ministro da Economia regulamentará o presente diploma por portaria, determinando os procedimentos para a correcta aplicação das disposições previstas.**
+O Ministro da Economia regulamentará o presente diploma por portaria, determinando os procedimentos para a correcta aplicação das disposições previstas.
 
 ###### Artigo 21.º — Métodos de análise para as verificações de conformidade
 
@@ -633,11 +669,11 @@ São revogados os Decretos-Leis n.os 90/86, de 9 de Maio, 134/92, de 10 de Julho
 
 ## ANEXO I — Quadro das fibras têxteis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
 
 ## ANEXO II — Taxas convencionais a utilizar para o cálculo da massa das fibras contidas num produto têxtil
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20392050.pdf)
 
 ## ANEXO III — Produtos não submetidos à obrigação de etiquetagem ou de marcação
 

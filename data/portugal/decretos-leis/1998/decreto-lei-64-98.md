@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/1998/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1998-197527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8434297dec3c2e409fa1c88bb8ea5231879e5731c5758e994e9d8b5d0268c70f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81f2bbfecad62f31117af49bbef41aab79834ba6eb563b55f59d1b7faeb7d324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de BENS
-- Capital Social
-- Turismo
 - Alienação de Solos
-- Comissão Liquidatária
 - CAÇA
-- Direcção Geral do Tesouro
+- Capital Social
+- Comissão Liquidatária
 - Criação de Serviços
 - Direcção Geral das Florestas
+- Direcção Geral do Tesouro
 - Direcção Regional de Agricultura do Alentejo
 - Direcção Regional de Agricultura do Ribatejo e Oeste
-- Extinção de Empresas
 - Endac
-- Ministério da Agricultura
 - Estatuto
+- Exploração Agrícola
+- Extinção de Empresas
 - Gestão
 - Gestão do Património
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Instituto de Hidráulica Engenharia Rural e Ambiente
 - Liquidação de Sociedades
+- Ministério da Agricultura
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Exploração Agrícola
 - Prédio Rústico
 - Propriedade de BENS
 - Tapada Nacional de Mafra
 - Transferência de Serviços
 - Transferência Patrimonial
+- Turismo
 - ZONA de CAÇA
 relationships:
 - type: amended_by
@@ -107,16 +107,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/229/1993/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/229/1993/06/25/p/dre
+- type: cites
+  target: pt:dre:266616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549461:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546855:por
+  label: "DECL-RECT.10-B/98.1998.05.29.PCM DR.IS-A [125]2ºSupl de 30/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-b-1998-546855
+  date: '1998-05-29'
+- type: repealed_by
+  target: pt:dre:480704:por
+  label: "Revogados os nºs 1 e 4 do art. 3º do presente diploma pelo Dec Lei 202/2004 de 18-Ago, DR.IS-A [194], mantidas estas\
+    \ disposições contudo transitoriamente em vigor até à publicação da legislação prevista no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2004-480704
+  date: '2004-08-18'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:18Z'
   warnings: []
   errors: []
 ---
@@ -211,12 +238,12 @@ São transferidas para a Direcção-Geral do Tesouro, após a concretização do
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 27 de Fevereiro de 1998.**
+Promulgado em 27 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 1998.**
+Referendado em 5 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

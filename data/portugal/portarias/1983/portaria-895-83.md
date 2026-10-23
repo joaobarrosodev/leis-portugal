@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1983-442926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fe8e0f4ed7d3ffdb0273bf6a88963fdf20c9fba0deabb269343fb36607f25d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d951ad754ce429caf40715e9465cb98978c9b75f9fec348e2ae9e378e7728631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Engenharia Agrícola
+- Curso de Engenharia Florestal
+- Curso de Engenharia Zootécnica
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Curso de Produção Florestal
+- Ensino Superior
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Licenciatura
 relationships:
 - type: amended_by
   target: pt:dre:550461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421032:por
+  label: "AlteraDO o nº 3 do nº 3 da Port 843/81, de 24-Set, DR.IS [220], na redacção do presente diploma, pela PORT.400/87.1987.05.13.MEC\
+    \ DR.IS [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/400-1987-421032
+  date: '1987-05-13'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563797:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:41Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +127,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, que as li
 
 Ministério da Educação.
 
-**Assinada em 13 de Setembro de 1983.**
+Assinada em 13 de Setembro de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

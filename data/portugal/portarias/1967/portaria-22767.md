@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 488485bb3c77be067c4cc2114c2b1497ff1c65713bf4ef1b171c13f660ba400d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6101b4a367e975d90fde5517b89f9c06c3e0608c71b629bd0cada46e3d0c17c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Qualidade do Produto
 relationships:
 - type: amended_by
   target: pt:dre:151973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:413060:por
+  label: "Revogados os artigos 8.º e 9.º pela PORT.663/73.04.10.1973.MECO, DG.IS [233] de 04.10.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/663-1973-413060
+  date: '1973-10-04'
+- type: repealed_by
+  target: pt:dre:326284:por
+  label: "Revogado o artigo 2.º e seguintes pelo DEC LEI.57/85.06.03.1985.MJ, DR.IS [54] de 06.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1985-326284
+  date: '1985-03-06'
+- type: repealed_by
+  target: pt:dre:327086:por
+  label: "Revogado o ponto III) do n.º 3.º da alínea g) do artigo 1.º pela PORT.162/85.23.03.1985.MA, DR.IS [69] de 23.03.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1985-327086
+  date: '1985-03-23'
+- type: repealed_by
+  target: pt:dre:227583:por
+  label: "Revogada a alínea g) do artigo 1.º pela PORT.207/86.12.05.1986.MAPA, DR.IS [108] de 12.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-1986-227583
+  date: '1986-05-12'
+- type: repealed_by
+  target: pt:dre:151973:por
+  label: "Revogadas as alíneas a), b), c), d), e), f), h), i), j), k), l), m) e n) do artigo 1.º pelo DEC LEI.20/92.08.02.1992.MA,\
+    \ DR.IS-A [33] de 08.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1992-151973
+  date: '1992-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:41Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +140,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 Características para os diferentes alimentos para animais
 
-###### Artigo 1.º Os alimentos simples para os animais domésticos, além do disposto no regulamento acima citado, devem obedecer às características e condições seguintes:
+Artigo 1.º Os alimentos simples para os animais domésticos, além do disposto no regulamento acima citado, devem obedecer às características e condições seguintes:
 
 a) Cereais, sementes, frutos, raízes e tubérculos:
 
@@ -339,11 +384,11 @@ Cloreto de sódio - máximo ... 5
 
 Quando o teor em fósforo esteja compreendido entre 3 e 6,5 por cento estas farinhas tomarão a designação de «farinha de carne e osso» de baleia ou cachalote; quando este teor exceder 6,5 por cento tomarão a designação de «farinha de osso». O teor em proteína bruta da «farinha de carne e osso» de baleia ou cachalote não será inferior a 35 por cento.
 
-###### Art. 2.º Para todos os produtos de origem animal observar-se-á o disposto no [Decreto-Lei n.º 41364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41364-1957-253059), de 14 de Novembro de 1957.
+Art. 2.º Para todos os produtos de origem animal observar-se-á o disposto no [Decreto-Lei n.º 41364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41364-1957-253059), de 14 de Novembro de 1957.
 
-###### Art. 3.º Todos os alimentos simples não incluídos no artigo 1.º desta portaria só poderão ser comercializados com a designação correcta da sua natureza ou proveniência.
+Art. 3.º Todos os alimentos simples não incluídos no artigo 1.º desta portaria só poderão ser comercializados com a designação correcta da sua natureza ou proveniência.
 
-###### Art. 4.º Para efeitos de comercialização, todos os alimentos simples que tenham sido objecto de transformação ou preparação industrial, além de terem de satisfazer ao disposto no Regulamento de Preparação e Comércio de Alimentos para Animais e nos artigos 1.º e 3.º desta portaria, deverão ser acompanhados, quando embalados, de dísticos, rótulos ou etiquetas dos quais constem as indicações seguintes:
+Art. 4.º Para efeitos de comercialização, todos os alimentos simples que tenham sido objecto de transformação ou preparação industrial, além de terem de satisfazer ao disposto no Regulamento de Preparação e Comércio de Alimentos para Animais e nos artigos 1.º e 3.º desta portaria, deverão ser acompanhados, quando embalados, de dísticos, rótulos ou etiquetas dos quais constem as indicações seguintes:
 
 Teores máximos em água, fibra bruta, cinzas totais e cinzas insolúveis no HCl a 10 por cento.
 
@@ -351,31 +396,31 @@ Teor mínimo de proteína bruta para os produtos indicados nas alíneas g), k), 
 
 § único. Quando comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor.
 
-###### Art. 5.º Não é permitida a utilização como alimentos para animais, bem como a sua incorporação nos alimentos compostos, dos seguintes géneros:
+Art. 5.º Não é permitida a utilização como alimentos para animais, bem como a sua incorporação nos alimentos compostos, dos seguintes géneros:
 
 Purgueira; rícino e seus derivados; cascas de arroz, cacau, amendoim, algodão e caju; grainha de uva isolada; carolo de milho; palhas moídas; resíduos de fermentação alcoólica de alfarroba, e, de uma maneira geral, todas as substâncias lenhosas ou siliciosas.
 
-###### Art. 6.º Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:
+Art. 6.º Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às características e condições seguintes:
 
 1.º As características serão as dos quadros I (aves e coelhos), II (suínos) e III (bovinos e ovinos) seguintes:
 
 I) Alimentos para aves e coelhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf))](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
 
 II) Alimentos para suínos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf))](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
 
 III) Alimentos para bovinos e ovinos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf))](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/15500/13121316.pdf)
 
 2.º A digestibilidade da proteína bruta, determinada pelo método da digestão com pepsina em meio clorídrico, dos alimentos compostos para aves, suínos e ruminantes jovens não deverá ser inferior a 80 por cento e nos restantes alimentos compostos a 75 por cento.
 
 3.º Os alimentos compostos melaçados deverão conter o mínimo de 9,6 por cento de açúcares redutores totais expressos em glucose. O teor máximo em água dos alimentos compostos melaçados não poderá exceder 16 por cento. Quando, porém, contiverem mais de 16 por cento dos açúcares totais expressos em açúcar invertido, o teor em água pode atingir o máximo de 22 por cento determinado pelo processo directo do benzeno.
 
-###### Art. 7.º Na expedição, transporte e exposição à venda, os alimentos simples que tenham sido objecto de transformação deverão, quando embalados, ser acompanhados de dísticos, rótulos ou etiquetas onde constem as indicações seguintes:
+Art. 7.º Na expedição, transporte e exposição à venda, os alimentos simples que tenham sido objecto de transformação deverão, quando embalados, ser acompanhados de dísticos, rótulos ou etiquetas onde constem as indicações seguintes:
 
 Nome da empresa que preparou o produto;
 
@@ -385,7 +430,7 @@ Características ou composição em relação aos constituintes que vierem a ser
 
 § único. Quando os alimentos simples transformados forem comercializados a granel, as indicações referidas no corpo deste artigo serão garantidas pelo vendedor.
 
-###### Art. 8.º Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em «embalagens perdidas», e acompanhados de dísticos, rótulos ou etiquetas dos quais deverão constar, pelo menos, as indicações seguintes:
+Art. 8.º Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em «embalagens perdidas», e acompanhados de dísticos, rótulos ou etiquetas dos quais deverão constar, pelo menos, as indicações seguintes:
 
 a) Nome da empresa industrial ou comercial responsável;
 
@@ -409,13 +454,13 @@ g) Data do fabrico.
 
 § 4.º No caso de se tratar de embalagens de papel ou de cartão, devem estas ser fabricadas com pastas isentas de materiais de recuperação de papéis ou trapos; se se tratar de embalagens confeccionadas com matérias plásticas artificiais ou de outro material, não devem estas originar qualquer inconveniente para a saúde dos animais.
 
-###### Art. 9.º É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
+Art. 9.º É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
 
 a) Que as quantidades a transportar correspondam à capacidade de contentores adequados, e os produtos transportados sejam expedidos directamente das fábricas para as explorações pecuárias utilizadoras;
 
 b) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigatòriamente deverão constar as indicações exigidas nos termos do artigo 8.º desta portaria.
 
-###### Art. 10.º A incorporação nos alimentos compostos dos alimentos simples a seguir referidos fica sujeita às limitações que se indicam:
+Art. 10.º A incorporação nos alimentos compostos dos alimentos simples a seguir referidos fica sujeita às limitações que se indicam:
 
 1.ª Grão da «gramicha»:
 
@@ -433,6 +478,6 @@ Não é permitida a incorporação de bagaço de algodão nos alimentos destinad
 
 O bagaço de amendoim não poderá ser incorporado nos alimentos destinados a patos e equídeos.
 
-###### Art. 11.º Esta portaria entra imediatamente em vigor, excepto no que respeita às características mencionadas nos artigos 1.º, 3.º, 4.º e 6.º, em que é dado o prazo de 60 dias para elaboração de novas etiquetas e 120 dias para efeitos de fiscalização, a partir da data da sua publicação.
+Art. 11.º Esta portaria entra imediatamente em vigor, excepto no que respeita às características mencionadas nos artigos 1.º, 3.º, 4.º e 6.º, em que é dado o prazo de 60 dias para elaboração de novas etiquetas e 120 dias para efeitos de fiscalização, a partir da data da sua publicação.
 
 Secretarias de Estado do Comércio e da Indústria, 5 de Julho de 1967. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

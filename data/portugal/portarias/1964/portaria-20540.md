@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20540-1964-582654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a50484cc92dda7517cc860e690425e68791da11d1348fe68deaa897c9b338975
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03bef0a1bc3707f2a503e407dd4a8cb9842c8a78c4431aab5dd0f912d0d0a0c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:12Z'
   warnings: []
   errors: []
 ---
@@ -120,19 +124,19 @@ b) Direcção dos serviços afectos à Repartição Central de Finanças e repre
 
 3.º Repartição Central de Finanças do concelho de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
 
 4.º Repartição Central de Finanças do concelho do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
 
 5.º Repartições de finanças dos bairros fiscais de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
 
 6.º Repartições de finanças dos bairros fiscais do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf))](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/04/10000/05860588.pdf)
 
 III) Aumentar os quadros das Direcções de Finanças de Lisboa e Porto nas seguintes unidades, para desempenharem funções junto dos gabinetes dos directores a que se referem as alíneas d) do n.º 4.º e b) do n.º 2.º da presente portaria:
 

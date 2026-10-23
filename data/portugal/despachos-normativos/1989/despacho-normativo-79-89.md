@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/79-1989-618335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T07:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31fab176d6e0051302453f4636bc00987a9a8055759953675b8968fc6cc811c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58ed31ef71094426d137f874b540e9038384ecced0eb23e47f4f020c38a427bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Universitária
+- Ensino Superior
+- Estatuto das Universidades
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:272621:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272621:por
+  label: "Homologada a primeira alteração aos Estatutos da Universidade de Coimbra homologados pelo presente diploma, pelo\
+    \ DN.30/2004.25.05.2004.MCES, DR.IS-B [143] de 19.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-2004-272621
+  date: '2004-05-25'
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:43:46Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +110,7 @@ ESTATUTOS DA UNIVERSIDADE DE COIMBRA
 
 1.1 - Missão, natureza e sede da Universidade
 
-###### Artigo 1.º A Universidade de Coimbra, fundada por D. Dinis e confirmada por bula do Papa Nicolau IV em 9 de Agosto de 1290, é uma instituição dedicada à criação, transmissão, crítica e difusão da cultura, ciência e tecnologia, que, através do estudo, da docência e da investigação, especificadamente, visa:
+Artigo 1.º A Universidade de Coimbra, fundada por D. Dinis e confirmada por bula do Papa Nicolau IV em 9 de Agosto de 1290, é uma instituição dedicada à criação, transmissão, crítica e difusão da cultura, ciência e tecnologia, que, através do estudo, da docência e da investigação, especificadamente, visa:
 
 a) A formação humana, cultural, científica e técnica;
 
@@ -110,49 +124,49 @@ e) O intercâmbio cultural, científico e técnico com instituições congénere
 
 f) A contribuição, no seu âmbito de actividade, para a cooperação internacional e para a aproximação entre os povos, com especial relevo para os países de expressão oficial portuguesa e os países europeus.
 
-###### Art. 2.º - 1 - À Universidade compete a concessão dos graus de licenciado, mestre e doutor, de outros títulos e diplomas, bem como a atribuição de equivalências e o reconhecimento de graus e habilitações académicos.
+Art. 2.º - 1 - À Universidade compete a concessão dos graus de licenciado, mestre e doutor, de outros títulos e diplomas, bem como a atribuição de equivalências e o reconhecimento de graus e habilitações académicos.
 
 2 - A Universidade confere ainda graus, títulos e distinções honoríficos.
 
-###### Art. 3.º - 1 - A Universidade de Coimbra é uma pessoa colectiva de direito público e goza de autonomia científica, pedagógica, administrativa, financeira e disciplinar.
+Art. 3.º - 1 - A Universidade de Coimbra é uma pessoa colectiva de direito público e goza de autonomia científica, pedagógica, administrativa, financeira e disciplinar.
 
 2 - Os presentes Estatutos constituem a norma fundamental da organização interna e do funcionamento da Universidade e são complementados pelos necessários regulamentos.
 
 3 - A Universidade pode celebrar convénios, protocolos, contratos e outros acordos com instituições públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 4.º A Universidade colabora na formulação, pelo Estado, das políticas nacionais de educação, ciência e cultura e pronuncia-se sobre os projectos legislativos que lhe digam directamente respeito.
+Art. 4.º A Universidade colabora na formulação, pelo Estado, das políticas nacionais de educação, ciência e cultura e pronuncia-se sobre os projectos legislativos que lhe digam directamente respeito.
 
-###### Art. 5.º A Universidade de Coimbra tem a sua sede em Coimbra e pode estabelecer unidades ou serviços noutros locais.
+Art. 5.º A Universidade de Coimbra tem a sua sede em Coimbra e pode estabelecer unidades ou serviços noutros locais.
 
 1.2 - Princípios orientadores
 
-###### Art. 6.º Depositária de um legado histórico sete vezes secular, na linha das tradições do humanismo europeu, a Universidade de Coimbra afirma a sua abertura ao mundo contemporâneo, à cooperação entre os povos e à interacção das culturas, no respeito pelos valores da independência, da tolerância e do diálogo, proclamados na Magna Carta das Universidades Europeias.
+Art. 6.º Depositária de um legado histórico sete vezes secular, na linha das tradições do humanismo europeu, a Universidade de Coimbra afirma a sua abertura ao mundo contemporâneo, à cooperação entre os povos e à interacção das culturas, no respeito pelos valores da independência, da tolerância e do diálogo, proclamados na Magna Carta das Universidades Europeias.
 
-###### Art. 7.º No quadro da legalidade democrática e da observância dos direitos e liberdades fundamentais, a Universidade de Coimbra rege-se pelos princípios da solidariedade universitária, da liberdade académica, da pluralidade e livre expressão do pensamento, do direito à informação, da gestão democrática e da participação de todos os corpos universitários na vida da instituição.
+Art. 7.º No quadro da legalidade democrática e da observância dos direitos e liberdades fundamentais, a Universidade de Coimbra rege-se pelos princípios da solidariedade universitária, da liberdade académica, da pluralidade e livre expressão do pensamento, do direito à informação, da gestão democrática e da participação de todos os corpos universitários na vida da instituição.
 
-###### Art. 8.º A Universidade deve garantir o direito à educação e à cultura e promover a investigação científica, em ordem ao desenvolvimento da personalidade do indivíduo e ao progresso social.
+Art. 8.º A Universidade deve garantir o direito à educação e à cultura e promover a investigação científica, em ordem ao desenvolvimento da personalidade do indivíduo e ao progresso social.
 
 2 - Funções da Universidade
 
 2.1 - Ensino e investigação
 
-###### Art. 9.º - 1 - A Universidade de Coimbra considera o ensino e a investigação como os elementos fundamentais da sua actividade, reconhece a importância da interdisciplinariedade e afirma o princípio de que a docência é indissociável da pesquisa científica.
+Art. 9.º - 1 - A Universidade de Coimbra considera o ensino e a investigação como os elementos fundamentais da sua actividade, reconhece a importância da interdisciplinariedade e afirma o princípio de que a docência é indissociável da pesquisa científica.
 
 2 - A Universidade garante a liberdade de ensinar, aprender e investigar.
 
-###### Art. 10.º - 1 - A Universidade de Coimbra ministra cursos que conduzem à obtenção de títulos e diplomas de carácter oficial.
+Art. 10.º - 1 - A Universidade de Coimbra ministra cursos que conduzem à obtenção de títulos e diplomas de carácter oficial.
 
 2 - Pode a Universidade criar cursos de outra natureza, nomeadamente cursos interdisciplinares, a que correspondam títulos ou diplomas livremente definidos pela própria Universidade.
 
-###### Art. 11.º 1 - A criação, suspensão e extinção dos curso previstos no artigo anterior é da competência do senado, sob proposta das faculdades.
+Art. 11.º 1 - A criação, suspensão e extinção dos curso previstos no artigo anterior é da competência do senado, sob proposta das faculdades.
 
 2 - A organização dos planos de estudo e do regime de avaliação de conhecimentos incumbe às faculdades, carecendo, porem, de homologação pelo senado.
 
-###### Art. 12.º - 1 - As linhas gerais da política de investigação na Universidade são fixadas pelo senado, sob proposta das faculdades, competindo a estas, aos centros e demais estruturas de investigação organizar e coordenar os os respectivos projectos.
+Art. 12.º - 1 - As linhas gerais da política de investigação na Universidade são fixadas pelo senado, sob proposta das faculdades, competindo a estas, aos centros e demais estruturas de investigação organizar e coordenar os os respectivos projectos.
 
 2 - Os centros de investigação podem ser próprios da Universidade ou das faculdades, adstritos àquela ou a estas, ou de âmbito interuniversitário.
 
-###### Art. 13.º - 1 - A fim de incentiviar a investigação enquanto actividade decisiva para a formação integral que nela se ministra, a Universidade de Coimbra deve:
+Art. 13.º - 1 - A fim de incentiviar a investigação enquanto actividade decisiva para a formação integral que nela se ministra, a Universidade de Coimbra deve:
 
 a) Assumir o mérito científico e pedagógico como principal critério de dignificação das carreiras docentes e de investigação;
 
@@ -166,7 +180,7 @@ d) Estimular a participação dos estudantes em projectos de investigação como
 
 2.2 - Cultura e desporto
 
-###### Art. 14 - 1 - A Universidade de Coimbra fomenta a cultura como um dos elementos essenciais da vida universitária. Incumbe, designadamente, ao senado estabelecer linhas gerais da política cultural.
+Art. 14 - 1 - A Universidade de Coimbra fomenta a cultura como um dos elementos essenciais da vida universitária. Incumbe, designadamente, ao senado estabelecer linhas gerais da política cultural.
 
 2 - A Universidade deve, igualmente, estimular a prática da cultura física e do desporto.
 
@@ -174,13 +188,13 @@ d) Estimular a participação dos estudantes em projectos de investigação como
 
 2.3 - Acção social
 
-###### Art. 15.º - 1 - A Universidade de Coimbra deve desenvolver uma política de acção social e assistência à comunidade universitária.
+Art. 15.º - 1 - A Universidade de Coimbra deve desenvolver uma política de acção social e assistência à comunidade universitária.
 
 2 - A acção social tem por objecto a concessão de auxílio económico a estudantes, bem como a prestação de serviços aos membros da comunidade universitária, e exerce-se preferencialmente nos domínios do alojamento, alimentação, bolsas e empréstimos, saúde, assistência à infância, apoio didáctico e informação.
 
 2.4 - Relações com a comunidade
 
-###### Art. 16.º - 1 - A Universidade de Coimbra garante a participação de representantes de interesses sociais, culturais, económicos e profissionais na vida da instituição.
+Art. 16.º - 1 - A Universidade de Coimbra garante a participação de representantes de interesses sociais, culturais, económicos e profissionais na vida da instituição.
 
 2 - Para além do conselho social previsto nos presentes Estatutos, pode a Universidade criar estruturas destinadas ao desenvolvimento das suas relações com a comunidade.
 
@@ -188,37 +202,37 @@ d) Estimular a participação dos estudantes em projectos de investigação como
 
 3.1 - Docentes e investigadores
 
-###### Art. 17.º O estatuto dos docentes e investigadores da Universidade de Coimbra é definido pela Lei de Autonomia das Universidades, pelas disposições gerais aplicáveis ao sistema educativo e às carreiras docente e de investigação e, bem, assim pelos Estatutos e regulamentos da Universidade.
+Art. 17.º O estatuto dos docentes e investigadores da Universidade de Coimbra é definido pela Lei de Autonomia das Universidades, pelas disposições gerais aplicáveis ao sistema educativo e às carreiras docente e de investigação e, bem, assim pelos Estatutos e regulamentos da Universidade.
 
-###### Art. 18.º Nos limites da lei, podem os docentes e investigadores que ocupem cargos de gestão universitária beneficiar de dispensa ou redução de seviço, de harmonia com orientações genéricas definidas pelo senado.
+Art. 18.º Nos limites da lei, podem os docentes e investigadores que ocupem cargos de gestão universitária beneficiar de dispensa ou redução de seviço, de harmonia com orientações genéricas definidas pelo senado.
 
 3.2 - Estudantes
 
-###### Art. 19.º O estatuto dos estudantes da Universidade de Coimbra é definido pela Lei de Autonomia das Universidades, pelas disposições gerais aplicáveis ao sistema educativo e ainda pelos Estatutos e regulamentos da Universidade.
+Art. 19.º O estatuto dos estudantes da Universidade de Coimbra é definido pela Lei de Autonomia das Universidades, pelas disposições gerais aplicáveis ao sistema educativo e ainda pelos Estatutos e regulamentos da Universidade.
 
-###### Art. 20.º - 1 - Os direitos e deveres gerais dos estudantes serão definidos pelo senado. Aos trabalhadores-estudantes e aos estudantes portadores de deficiências serão aplicadas disposições especiais.
+Art. 20.º - 1 - Os direitos e deveres gerais dos estudantes serão definidos pelo senado. Aos trabalhadores-estudantes e aos estudantes portadores de deficiências serão aplicadas disposições especiais.
 
 2 - Os estudantes que ocupem cargos ou prossigam actividades na comunidade universitária com sério prejuízo da sua dedicação às tarefas curriculares beneficiam de um regime especial de escolaridade e exames, autorizado pelo reitor, de harmonia com as disposições definidas pelo senado.
 
 3 - A Universidade proporciona serviços de atendimento aos estudantes de modo a prestar-lhes as informações e o apoio necessários.
 
-###### Art. 21.º - 1 - As repúblicas e os solares de Coimbra, admitidos como tais pelo Conselho de Repúblicas, são reconhecidos como pólos autónomos dinamizadores de cultura e de vivência comunitária e académica.
+Art. 21.º - 1 - As repúblicas e os solares de Coimbra, admitidos como tais pelo Conselho de Repúblicas, são reconhecidos como pólos autónomos dinamizadores de cultura e de vivência comunitária e académica.
 
 2 - As repúblicas e os solares de Coimbra usufruem de apoio da Universidade, nomeadamente institucional e financeiro.
 
 3.3 - Funcionários
 
-###### Art. 22.º - 1 - O pessoal de administração e serviços da Universidade de Coimbra é composto por funcionários do quadro, por pessoal contratado e pelo pessoal de outras administrações públicas que nela preste serviço.
+Art. 22.º - 1 - O pessoal de administração e serviços da Universidade de Coimbra é composto por funcionários do quadro, por pessoal contratado e pelo pessoal de outras administrações públicas que nela preste serviço.
 
 2 - O estatuto dos funcionários de administração e serviços é definido pela Lei de Autonomia das Universidades, pelas disposições gerais aplicáveis e, bem assim, pelos presentes Estatutos e regulamentos da Universidade.
 
-###### Art. 23.º Os funcionários da Universidade podem beneficiar de dispensa ou redução de serviço, em termos idênticos aos previstos no artigo 18.º destes Estatutos.
+Art. 23.º Os funcionários da Universidade podem beneficiar de dispensa ou redução de serviço, em termos idênticos aos previstos no artigo 18.º destes Estatutos.
 
 4 - Estrutura
 
 4.1 - Unidades orgânicas
 
-###### Art. 24.º - 1 - A Universidade de Coimbra é integrada por unidades orgânicas que, à data da entrada em vigor dos Estatutos, são as seguintes faculdades:
+Art. 24.º - 1 - A Universidade de Coimbra é integrada por unidades orgânicas que, à data da entrada em vigor dos Estatutos, são as seguintes faculdades:
 
 Faculdade de Letras;
 
@@ -236,7 +250,7 @@ Faculdade de Psicologia e de Ciências da Educação.
 
 2 - A Universidade de Coimbra pode criar outros tipos de unidades orgânicas, equivalentes às faculdades para os efeitos destes Estatutos, destinadas ao ensino e à investigação, ou apenas a esta, em áreas do saber especialmente relevantes para o desenvolvimento social, científico ou cultural do País.
 
-###### Art. 25.º - 1 - As faculdades estruturam-se por áreas do saber e funcionam segundo regulamentos próprios, em conformidade com as leis gerais e os presentes Estatutos.
+Art. 25.º - 1 - As faculdades estruturam-se por áreas do saber e funcionam segundo regulamentos próprios, em conformidade com as leis gerais e os presentes Estatutos.
 
 2 - As faculdades gozam de autonomia científica, pedagógica, administrativa e financeira, nos termos destes Estatutos.
 
@@ -244,7 +258,7 @@ Faculdade de Psicologia e de Ciências da Educação.
 
 4 - A autonomia das faculdades e demais estruturas e serviços que dela gozem deve ser exercida em harmonia com os interesses da instituição universitária e respeitar as decisões e orientações dos órgãos de governo da Universidade.
 
-###### Art. 26.º - 1 - O regulamento de cada faculdade será elaborado e aprovado por uma assembleia de que farão parte os presidentes dos órgãos de gestão, um estudante designado pela direcção-geral da Associação Académica, três estudantes eleitos pelos seus pares da assembleia de representantes, o secretário ou funcionário administrativo de categoria mais elevada e ainda eleitos pelos respectivos pares:
+Art. 26.º - 1 - O regulamento de cada faculdade será elaborado e aprovado por uma assembleia de que farão parte os presidentes dos órgãos de gestão, um estudante designado pela direcção-geral da Associação Académica, três estudantes eleitos pelos seus pares da assembleia de representantes, o secretário ou funcionário administrativo de categoria mais elevada e ainda eleitos pelos respectivos pares:
 
 a) Nas faculdades com menos de 50 doutores, 5 doutores, 5 docentes ou investigadores não doutorados, 10 estudantes e 5 funcionários;
 
@@ -256,13 +270,13 @@ c) Nas faculdades com mais de 100 doutores, 15 doutores, 15 docentes ou investig
 
 4.2 - Biblioteca Geral, Arquivo, Imprensa da Universidade e museus
 
-###### Art. 27.º A Biblioteca Geral e o Arquivo da Universidade têm por missão fundamental a preservação, o enriquecimento e o tratamento técnico do seu património bibliográfico e documental, o apoio ao ensino e à investigação e o prosseguimento de uma actividade cultural própria.
+Art. 27.º A Biblioteca Geral e o Arquivo da Universidade têm por missão fundamental a preservação, o enriquecimento e o tratamento técnico do seu património bibliográfico e documental, o apoio ao ensino e à investigação e o prosseguimento de uma actividade cultural própria.
 
-###### Art. 28.º - 1 - A Imprensa da Universidade de Coimbra tem por missão específica a definição da política editorial da Universidade, competindo-lhe igualmente programar, coordenar e orientar a publicação de obras de interesse cultural, científico e pedagógico.
+Art. 28.º - 1 - A Imprensa da Universidade de Coimbra tem por missão específica a definição da política editorial da Universidade, competindo-lhe igualmente programar, coordenar e orientar a publicação de obras de interesse cultural, científico e pedagógico.
 
 2 - Incumbe-lhe ainda gerir a distribuição, a venda e o intercâmbio de publicações.
 
-###### Art. 29.º - 1 - Os directores da Biblioteca Geral, do Arquivo e da Imprensa da Universidade são eleitos pelo senado, sob proposta do reitor.
+Art. 29.º - 1 - Os directores da Biblioteca Geral, do Arquivo e da Imprensa da Universidade são eleitos pelo senado, sob proposta do reitor.
 
 2 - Em cada uma das instituições mencionadas no número anterior será constituído um conselho com a composição e as atribuições que o senado fixar.
 
@@ -270,11 +284,11 @@ c) Nas faculdades com mais de 100 doutores, 15 doutores, 15 docentes ou investig
 
 4 - A Biblioteca Geral, o Arquivo e a Imprensa da Universidade regem-se por regulamentos fixados pelo senado, sob proposta elaborada pelo director e pelo conselho respectivos.
 
-###### Art. 30.º Os museus já existentes da Universidade de Coimbra, bem como outros que deverão criar-se, têm por missão preservar, enriquecer e difundir valores artísticos e culturais da comunidade universitária.
+Art. 30.º Os museus já existentes da Universidade de Coimbra, bem como outros que deverão criar-se, têm por missão preservar, enriquecer e difundir valores artísticos e culturais da comunidade universitária.
 
 4.3 - Serviços e estabelecimentos
 
-###### Art. 31.º - 1 - Os serviços centrais da Universidade de Coimbra compreendem os serviços administrativos, os serviços académicos e os serviços de apoio ao reitor.
+Art. 31.º - 1 - Os serviços centrais da Universidade de Coimbra compreendem os serviços administrativos, os serviços académicos e os serviços de apoio ao reitor.
 
 2 - O senado pode, sob proposta do reitor, criar, modificar ou extinguir serviços centrais.
 
@@ -282,15 +296,15 @@ c) Nas faculdades com mais de 100 doutores, 15 doutores, 15 docentes ou investig
 
 4 - Os serviços abrangidos por este artigo regem-se por regulamentos fixados pelo senado, sob proposta do reitor.
 
-###### Art. 32.º A Universidade de Coimbra, em especial as Faculdades de Medicina e de Farmácia, deve poder dispor, nos Hospitais da Universidade de Coimbra, de condições indispensáveis às suas actividades científico-pedagógicas.
+Art. 32.º A Universidade de Coimbra, em especial as Faculdades de Medicina e de Farmácia, deve poder dispor, nos Hospitais da Universidade de Coimbra, de condições indispensáveis às suas actividades científico-pedagógicas.
 
 4.4 - Serviços Sociais
 
-###### Art. 33.º - 1 - Os Serviços Sociais são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade de Coimbra.
+Art. 33.º - 1 - Os Serviços Sociais são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade de Coimbra.
 
 2 - Os Serviços Sociais prosseguem a sua acção social em conformidade com a lei e os Estatutos e nos termos de regulamento próprio, fixado pelo senado sob proposta do reitor.
 
-###### Art. 34.º - 1 - São órgãos dos Serviços Sociais:
+Art. 34.º - 1 - São órgãos dos Serviços Sociais:
 
 a) O presidente;
 
@@ -308,7 +322,7 @@ c) O conselho de administração.
 
 5.1.1 - Disposições gerais
 
-###### Art. 35.º - 1 - O governo da Universidade de Coimbra é exercido pelos seguintes órgãos:
+Art. 35.º - 1 - O governo da Universidade de Coimbra é exercido pelos seguintes órgãos:
 
 a) A assembleia da Universidade;
 
@@ -320,9 +334,9 @@ d) O conselho administrativo.
 
 2 - O senado pode criar outros órgãos de carácter meramente consultivo.
 
-###### Art. 36.º Cada órgão de governo elabora o seu regulamento, de acordo com o disposto na Lei de Autonomia, nestes Estatutos e na demais legislação aplicável.
+Art. 36.º Cada órgão de governo elabora o seu regulamento, de acordo com o disposto na Lei de Autonomia, nestes Estatutos e na demais legislação aplicável.
 
-###### Art. 37.º - 1 - Os membros eleitos da assembleia e do senado serão designados através de actos eleitorais convocados pelo reitor com, pelo menos, quinze dias de antecedência.
+Art. 37.º - 1 - Os membros eleitos da assembleia e do senado serão designados através de actos eleitorais convocados pelo reitor com, pelo menos, quinze dias de antecedência.
 
 2 - Quando numa eleição estiver em disputa um único mandato, será eleito quem obtiver maior número de votos.
 
@@ -330,7 +344,7 @@ d) O conselho administrativo.
 
 5.1.2 - Assembleia da Universidade
 
-###### Art. 38.º - 1 - São membros, por inerência, da assembleia:
+Art. 38.º - 1 - São membros, por inerência, da assembleia:
 
 a) O reitor;
 
@@ -358,7 +372,7 @@ c) Três funcionários dos serviços e estabelecimentos na dependência directa 
 
 4 - A assembleia pode funcionar em plenário ou por comissões, nos termos do respectivo regulamento.
 
-###### Art. 39.º Compete à assembleia da Universidade:
+Art. 39.º Compete à assembleia da Universidade:
 
 a) Rever os Estatutos da Universidade;
 
@@ -370,7 +384,7 @@ d) Apreciar e deliberar sobre todos os assuntos de importância fundamental para
 
 5.1.3 - Reitor
 
-###### Art. 40.º - 1 - O reitor é eleito pela assembleia da Universidade, em escrutínio secreto, de entre os professores catedráticos de nomeação definitiva.
+Art. 40.º - 1 - O reitor é eleito pela assembleia da Universidade, em escrutínio secreto, de entre os professores catedráticos de nomeação definitiva.
 
 2 - O reitor cessante comunica, no prazo de cinco dias, o resultado do acto eleitoral ao membro do Governo com tutela sobre o sector da educação.
 
@@ -380,7 +394,7 @@ d) Apreciar e deliberar sobre todos os assuntos de importância fundamental para
 
 5 - O mandato do reitor tem a duração de quatro anos. Não é admitida a reeleição para um terceiro mandato consecutivo, nem durante o quadriénio imediatamente subsequente ao termo do segundo mandato consecutivo.
 
-###### Art. 41.º - 1 - O reitor representa e dirige a Universidade, incumbindo-lhe, designadamente:
+Art. 41.º - 1 - O reitor representa e dirige a Universidade, incumbindo-lhe, designadamente:
 
 a) Propor ao senado as linhas gerais de orientação da vida universitária;
 
@@ -402,21 +416,21 @@ h) Reconhecer, em todas as circunstâncias previstas na lei, a urgente conveniê
 
 3 - Ouvido o senado, o reitor pode delegar nos órgãos de gestão das faculdades as competências que se tornem necessárias a uma gestão mais eficiente, com excepção das enumeradas nas alíneas a), b), c), d) e f).
 
-###### Art. 42.º - 1 - Quando se verifique a incapacidade temporária prolongada do reitor, assume as suas funções o vice-reitor por ele designado ou, na falta de tal designação, o mais antigo.
+Art. 42.º - 1 - Quando se verifique a incapacidade temporária prolongada do reitor, assume as suas funções o vice-reitor por ele designado ou, na falta de tal designação, o mais antigo.
 
 2 - Caso a situação de incapacidade se prolongue por mais de 90 dias, o senado deve pronunciar-se acerca da oportunidade de um novo processo eleitoral.
 
 3 - Em caso de vacatura, renúncia ou reconhecimento pelo senado da situação de incapacidade permanente do reitor, deve aquele órgão determinar a sua substituição pelo professor decano da Universidade, que organiza um novo processo eleitoral no prazo máximo de 30 dias.
 
-###### Art. 43.º - 1 - Em situação de gravidade para a vida da instituição, a assembleia da Universidade, convocada por um terço dos seus membros, desde que representados elementos dos diferentes corpos, pode deliberar, por maioria de dois terços dos seus membros efectivos, a suspensão do reitor do exercício das suas funções e, após processo legal, a sua destituição.
+Art. 43.º - 1 - Em situação de gravidade para a vida da instituição, a assembleia da Universidade, convocada por um terço dos seus membros, desde que representados elementos dos diferentes corpos, pode deliberar, por maioria de dois terços dos seus membros efectivos, a suspensão do reitor do exercício das suas funções e, após processo legal, a sua destituição.
 
 2 - A decisão da assembleia de suspender ou destituir o reitor deve ser precedida por igual decisão do senado, aprovada por maioria de dois terços dos seus membros efectivos.
 
-###### Art. 44.º - 1 - O exercício dos cargos de reitor e de vice-reitor tem lugar em regime de dedicação exclusiva.
+Art. 44.º - 1 - O exercício dos cargos de reitor e de vice-reitor tem lugar em regime de dedicação exclusiva.
 
 2 - O reitor e os vice-reitores estão dispensados da prestação de serviço docente, sem prejuízo de, por sua iniciativa, o poderem prestar.
 
-###### Art. 45.º - 1 - O processo eleitoral terá início 60 dias antes de concluído o mandato do reitor cessante.
+Art. 45.º - 1 - O processo eleitoral terá início 60 dias antes de concluído o mandato do reitor cessante.
 
 2 - A declaração de candidatura, bem como as bases programáveis desta, são apresentadas à assembleia da Universidade, no prazo de quinze dias após o início do processo eleitoral.
 
@@ -428,7 +442,7 @@ h) Reconhecer, em todas as circunstâncias previstas na lei, a urgente conveniê
 
 5.1.4 - Senado
 
-###### Art. 46.º - 1 - São membros do senado:
+Art. 46.º - 1 - São membros do senado:
 
 a) O reitor;
 
@@ -454,7 +468,7 @@ h) Um funcionário de cada faculdade, um dos serviços e estabelecimentos na dep
 
 5 - Para efeitos do exercício do poder disciplinar é constituída uma secção permanente, composta pelo reitor e por um docente ou investigador, um estudante e um funcionário, eleitos pelos respectivos pares no senado.
 
-###### Art. 47.º Compete ao senado universitário:
+Art. 47.º Compete ao senado universitário:
 
 a) Fixar as linhas gerais de orientação da Universidade;
 
@@ -482,7 +496,7 @@ l) Ocupar-se dos restantes assuntos que lhe forem cometidos por lei, pelos prese
 
 5.1.5 - Conselho administrativo
 
-###### Art. 48.º - 1 - O conselho administrativo tem a seguinte composição:
+Art. 48.º - 1 - O conselho administrativo tem a seguinte composição:
 
 a) O reitor;
 
@@ -492,15 +506,15 @@ c) O administrador ou, na sua falta, o director dos serviços administrativos;
 
 d) Um estudante e um funcionário indicados pelos seus pares no senado.
 
-###### Art. 49.º - 1 - Compete ao conselho administrativo a gestão administrativa, patrimonial e financeira da Universidade, em conformidade com a legislação em vigor para os organismos públicos dotados de autonomia administrativa e financeira, com a Lei de Autonomia das Universidades e com os presentes Estatutos e regulamentos complementares.
+Art. 49.º - 1 - Compete ao conselho administrativo a gestão administrativa, patrimonial e financeira da Universidade, em conformidade com a legislação em vigor para os organismos públicos dotados de autonomia administrativa e financeira, com a Lei de Autonomia das Universidades e com os presentes Estatutos e regulamentos complementares.
 
 2 - Ouvido o senado, o conselho administrativo pode delegar nos órgãos próprios das faculdades ou outras unidades as competências consideradas necessárias a uma gestão mais eficiente.
 
 5.1.6 - Conselho social
 
-###### Art. 50.º O conselho social é o órgão consultivo destinado a desenvolver as relações entre a Universidade de Coimbra e a comunidade.
+Art. 50.º O conselho social é o órgão consultivo destinado a desenvolver as relações entre a Universidade de Coimbra e a comunidade.
 
-###### Art. 51.º - 1 - O conselho social é constituído pelo reitor ou um seu delegado, que preside, por representantes da comunidade universitária e por representantes de interesses sociais, culturais, económicos e profissionais.
+Art. 51.º - 1 - O conselho social é constituído pelo reitor ou um seu delegado, que preside, por representantes da comunidade universitária e por representantes de interesses sociais, culturais, económicos e profissionais.
 
 2 - Compete ao senado, sob proposta do reitor, determinar a constituição do conselho social e a duração do mandato dos seus membros.
 
@@ -510,7 +524,7 @@ d) Um estudante e um funcionário indicados pelos seus pares no senado.
 
 5.2.1 - Disposições gerais
 
-###### Art. 52.º - 1 - São órgãos de gestão das faculdades:
+Art. 52.º - 1 - São órgãos de gestão das faculdades:
 
 a) A assembleia de representantes;
 
@@ -532,17 +546,17 @@ d) O conselho científico.
 
 7 - O mandato dos membros eleitos dos órgãos de gestão das faculdades é de dois anos, renovável.
 
-###### Art. 53.º O processo eleitoral referente aos órgãos de gestão desenrola-se de acordo com as disposições dos artigos 36.º a 45.º e 47.º a 56.º do Decreto-Lei n.º 781-A/86, de 28 de Outubro, excepto no que respeita aos prazos processuais, que serão objecto de regulamentação por cada uma das faculdades.
+Art. 53.º O processo eleitoral referente aos órgãos de gestão desenrola-se de acordo com as disposições dos artigos 36.º a 45.º e 47.º a 56.º do Decreto-Lei n.º 781-A/86, de 28 de Outubro, excepto no que respeita aos prazos processuais, que serão objecto de regulamentação por cada uma das faculdades.
 
 5.2.2 - Assembleia de representantes
 
-###### Art. 54.º - A assembleia de representantes é composta por delegados dos docentes e investigadores, dos estudantes e dos funcionários, nos termos seguintes:
+Art. 54.º - A assembleia de representantes é composta por delegados dos docentes e investigadores, dos estudantes e dos funcionários, nos termos seguintes:
 
 a) Nas faculdades que tenham menos de 2000 estudantes, 20 representantes dos docentes e investigadores, 20 dos estudantes e 10 dos funcionários;
 
 b) Nas faculdades com 2000 estudantes ou mais, 30 representantes dos docentes e investigadores, 30 dos estudantes e 15 dos funcionários.
 
-###### Art. 55.º Compete à assembleia de representantes:
+Art. 55.º Compete à assembleia de representantes:
 
 a) Eleger e destituir o conselho directivo, fiscalizar genericamente a sua acção, com salvaguarda do exercício efectivo das competências próprias deste, e aprovar os planos e relatórios de actividades e os projectos de orçamentos por ele elaborados;
 
@@ -550,7 +564,7 @@ b) Pronunciar-se sobre outros assuntos de interesse geral para a faculdade, por 
 
 5.2.3 - Conselho directivo
 
-###### Art. 56.º - 1 - O conselho directivo é composto por quatro docentes ou investigadores, quatro estudantes e dois funcionários, eleitos em escrutínio secreto pelos respectivos corpos da assembleia de representantes, de entre os membros da faculdade.
+Art. 56.º - 1 - O conselho directivo é composto por quatro docentes ou investigadores, quatro estudantes e dois funcionários, eleitos em escrutínio secreto pelos respectivos corpos da assembleia de representantes, de entre os membros da faculdade.
 
 2 - A composição do conselho directivo poderá ser reduzida para metade, com salvaguarda da proporcionalidade de cada corpo, quando a assembleia de representantes o entenda conveniente.
 
@@ -562,9 +576,9 @@ b) Pronunciar-se sobre outros assuntos de interesse geral para a faculdade, por 
 
 6 - Ao presidente incumbe a representação da faculdade em todos os actos públicos em que esta intervenha.
 
-###### Art. 57.º Nas faculdades com instituições integradas, o presidente do conselho directivo convocará, regularmente, os presidentes dos conselhos pedagógico e científico, ou estes e os presidentes daquelas instituições, a fim de assegurar a coordenação das actividades dos respectivos órgãos.
+Art. 57.º Nas faculdades com instituições integradas, o presidente do conselho directivo convocará, regularmente, os presidentes dos conselhos pedagógico e científico, ou estes e os presidentes daquelas instituições, a fim de assegurar a coordenação das actividades dos respectivos órgãos.
 
-###### Art. 58.º Compete ao conselho directivo:
+Art. 58.º Compete ao conselho directivo:
 
 a) Administrar e gerir a faculdade em todos os assuntos que não sejam da expressa competência de outros órgãos, assegurando o seu regular funcionamento;
 
@@ -582,7 +596,7 @@ g) Designar o professor bibliotecário, sob proposta do conselho científico e o
 
 5.2.4 - Conselho pedagógico
 
-###### Art. 59.º - 1 - O conselho pedagógico é composto paritariamente por representantes de docentes e de estudantes, eleitos pelos respectivos pares.
+Art. 59.º - 1 - O conselho pedagógico é composto paritariamente por representantes de docentes e de estudantes, eleitos pelos respectivos pares.
 
 2 - O presidente é um professor eleito pelos membros do conselho e dispõe de voto de qualidade.
 
@@ -592,7 +606,7 @@ g) Designar o professor bibliotecário, sob proposta do conselho científico e o
 
 5 - Das deliberações da comissão coordenadora cabe recurso para o plenário.
 
-###### Art. 60.º Compete ao conselho pedagógico:
+Art. 60.º Compete ao conselho pedagógico:
 
 a) Definir as linhas gerais da orientação pedagógica;
 
@@ -608,7 +622,7 @@ f) Nas faculdades com mais de um curso, promover a harmonização necessária ao
 
 5.2.5 - Conselho científico
 
-###### Art. 61.º - 1 - O conselho científico é constituído por todos os doutores e professores de nomeação definitiva em exercício de funções, bem como por uma representação de docentes e investigadores não doutorados, eleitos pelos seus pares. Esta não excederá 15% dos doutores.
+Art. 61.º - 1 - O conselho científico é constituído por todos os doutores e professores de nomeação definitiva em exercício de funções, bem como por uma representação de docentes e investigadores não doutorados, eleitos pelos seus pares. Esta não excederá 15% dos doutores.
 
 2 - Nas faculdades em que haja mais de 24 doutores e professores que reúnam as condições previstas no número anterior, será criada uma comissão coordenadora, para a qual deverão ser eleitos até 24 doutores e professores de forma a assegurar, quanto possível, uma representação equitativa dos grupos existentes.
 
@@ -626,7 +640,7 @@ f) Nas faculdades com mais de um curso, promover a harmonização necessária ao
 
 9 - Os membros do plenário elegem um presidente, a quem incumbe a direcção das reuniões e a representação oficial do conselho e que preside igualmente à comissão coordenadora.
 
-###### Art. 62.º - 1 - Compete ao conselho científico:
+Art. 62.º - 1 - Compete ao conselho científico:
 
 a) Deliberar sobre a admissão dos candidatos às provas de doutoramento e estabelecer a organização das mesmas;
 
@@ -656,7 +670,7 @@ k) Deliberar sobre a atribuição de equivalências e o reconhecimento de habili
 
 6.1 - Património
 
-###### Art. 63.º - 1 - Constitui património da Universidade de Coimbra o conjunto dos bens e direitos que pelo Estado ou outras entidades, públicas ou privadas, sejam afectados à realização dos seus fins, ou, por outro modo, adquiridos pela Universidade.
+Art. 63.º - 1 - Constitui património da Universidade de Coimbra o conjunto dos bens e direitos que pelo Estado ou outras entidades, públicas ou privadas, sejam afectados à realização dos seus fins, ou, por outro modo, adquiridos pela Universidade.
 
 2 - São receitas da Universidade:
 
@@ -682,25 +696,25 @@ j) O produto de empréstimos contraídos.
 
 6.2 - Regime de autonomia
 
-###### Art. 64.º - 1 - A Universidade de Coimbra exerce a autonomia administrativa no quadro da legislação geral aplicável e está dispensada de visto prévio do Tribunal de Contas, excepto nos casos de vencimento de recrutamento de pessoal com vínculo à função pública.
+Art. 64.º - 1 - A Universidade de Coimbra exerce a autonomia administrativa no quadro da legislação geral aplicável e está dispensada de visto prévio do Tribunal de Contas, excepto nos casos de vencimento de recrutamento de pessoal com vínculo à função pública.
 
 2 - No âmbito da autonomia financeira, a Universidade dispõe do seu património, sem outras limitações além das estabelecidas por lei, gere livremente as verbas anuais que lhe são atribuídas nos orçamentos do Estado, tem capacidade de transferir verbas entre as diferentes rubricas e capítulos orçamentais, elabora os seus programas plurianuais, tem capacidade para obter receitas próprias a gerir anualmente através de orçamentos privativos, conforme critérios por si estabelecidos, e pode arrendar directamente edifícios indispensáveis ao seu funcionamento.
 
-###### Art. 65.º - 1 - A Universidade e as faculdades estão isentas, nos termos que a lei prescreve, de impostos, taxas, custas, emolumentos e selos.
+Art. 65.º - 1 - A Universidade e as faculdades estão isentas, nos termos que a lei prescreve, de impostos, taxas, custas, emolumentos e selos.
 
 2 - A Universidade apresenta as suas contas a exame e julgamento do Tribunal de Contas.
 
-###### Art. 66.º - 1 - As faculdades podem gozar de autonomia administrativa ou administrativa e financeira.
+Art. 66.º - 1 - As faculdades podem gozar de autonomia administrativa ou administrativa e financeira.
 
 2 - A autonomia administrativa e financeira rege-se pelos princípios estabelecidos no título 6 destes Estatutos, com as devidas adaptações, e pelas leis e regulamentos gerais aplicáveis.
 
-###### Art. 67.º No âmbito da cooperação e do intercâmbio cultural, científico e técnico com outras instituições, a Universidade pode conceder subsídios e outros apoios materiais.
+Art. 67.º No âmbito da cooperação e do intercâmbio cultural, científico e técnico com outras instituições, a Universidade pode conceder subsídios e outros apoios materiais.
 
-###### Art. 68.º A Universidade poderá atribuir regalias supletivas, económicas, sociais e outras, aos membros da sua comunidade, nos termos de regulamentação a elaborar pelo senado, sob proposta do reitor.
+Art. 68.º A Universidade poderá atribuir regalias supletivas, económicas, sociais e outras, aos membros da sua comunidade, nos termos de regulamentação a elaborar pelo senado, sob proposta do reitor.
 
 6.3 - Gestão e financiamento
 
-###### Art. 69.º - 1 - A Universidade de Coimbra adoptará o sistema de contabilidade mais adequado ao seu funcionamento.
+Art. 69.º - 1 - A Universidade de Coimbra adoptará o sistema de contabilidade mais adequado ao seu funcionamento.
 
 2 - Deverão fazer parte do orçamento da Universidade as verbas, convenientemente especificadas, respeitantes a amortizações e reintegrações e manutenção de equipamentos.
 
@@ -712,13 +726,13 @@ j) O produto de empréstimos contraídos.
 
 6 - As decisões dos órgãos de governo e de gestão que envolvam acrécimo global de despesas devem ser acompanhadas da indicação das receitas que lhes correspondam.
 
-###### Art. 70.º - 1 - A Universidade e as faculdades com autonomia administrativa podem constituir um crédito permanente até à importância de dois duodécimos das receitas, destinado ao pagamento antecipado de despesas.
+Art. 70.º - 1 - A Universidade e as faculdades com autonomia administrativa podem constituir um crédito permanente até à importância de dois duodécimos das receitas, destinado ao pagamento antecipado de despesas.
 
 2 - As despesas pagas ao abrigo do disposto no número anterior serão obrigatoriamente apresentadas para aprovação pelo conselho administrativo da Universidade, no mês seguinte ao da sua liquidação.
 
 7 - Símbolos, distinções e cerimónias académicas
 
-###### Art. 71.º - 1 - São símbolos da Universidade de Coimbra o selo, a bandeira e o hino.
+Art. 71.º - 1 - São símbolos da Universidade de Coimbra o selo, a bandeira e o hino.
 
 2 - O selo representa a Sapientia coroada, em pé, com um livro aberto na mão esquerda e um ceptro terminado em esfera armilar na direita. No chão encontram-se alguns livros e ainda um crivo, do lado direito, e um mocho, do esquerdo. Este conjunto está enquadrado por um pórtico gótico e tem à volta, na metade inferior, a legenda «insígnia Universitatis Conimbrigensis».
 
@@ -730,37 +744,37 @@ j) O produto de empréstimos contraídos.
 
 6 - A Universidade tem hino próprio, que se toca nas cerimónias solenes.
 
-###### Art. 72.º - 1 - O doutoramento honoris causa é a mais alta distinção conferida pela Universidade, sendo a respectiva concessão feita pelo senado, sob proposta das faculdades, aprovada por maioria de dois terços do conselho científico.
+Art. 72.º - 1 - O doutoramento honoris causa é a mais alta distinção conferida pela Universidade, sendo a respectiva concessão feita pelo senado, sob proposta das faculdades, aprovada por maioria de dois terços do conselho científico.
 
 2 - A medalha honorífica da Universidade é atribuída pelo reitor, por sua iniciativa ou sob proposta do senado, e destina-se a galardoar pessoas ou instituições que tenham prestado relevantes serviços à Universidade ou que se tenham distinguindo por méritos excepcionais.
 
-###### Art. 73.º - 1 - As principais cerimónias académicas são a tomada de posse do reitor, os doutoramentos solenes e a abertura solene das aulas.
+Art. 73.º - 1 - As principais cerimónias académicas são a tomada de posse do reitor, os doutoramentos solenes e a abertura solene das aulas.
 
 2 - As insígnias e os protocolos a observar nas cerimónias académicas são os estabelecidos em regulamento próprio.
 
-###### Art. 74.º O dia da Universidade de Coimbra celebra-se a 1 de Março.
+Art. 74.º O dia da Universidade de Coimbra celebra-se a 1 de Março.
 
 8 - Associação Académica de Coimbra
 
-###### Art. 75.º - 1 - A Associação Académica de Coimbra é uma instituição de utilidade pública, fundada em 3 de Novembro de 1887, que representa os estudantes da Universidade de Coimbra e se rege por estatutos próprios.
+Art. 75.º - 1 - A Associação Académica de Coimbra é uma instituição de utilidade pública, fundada em 3 de Novembro de 1887, que representa os estudantes da Universidade de Coimbra e se rege por estatutos próprios.
 
 2 - Os organismos autónomos prosseguem fins específicos, nos termos dos respectivos estatutos e regulamentos.
 
-###### Art. 76.º A Associação Académica faculta uma formação cultural, desportiva, artística e humanística, complementar da formação escolar, no respeito pelos princípios da democracia, da liberdade, da solidariedade e da independência.
+Art. 76.º A Associação Académica faculta uma formação cultural, desportiva, artística e humanística, complementar da formação escolar, no respeito pelos princípios da democracia, da liberdade, da solidariedade e da independência.
 
-###### Art. 77.º - 1 - A Associação Académica, as suas secções e os organismos autónomos, como legítimos veículos da cultura e do desporto da Academia de Coimbra, beneficiarão de apoio da Universidade, nomeadamente através da concessão anual de subsídios, sem prejuízo de outras subvenções pontuais.
+Art. 77.º - 1 - A Associação Académica, as suas secções e os organismos autónomos, como legítimos veículos da cultura e do desporto da Academia de Coimbra, beneficiarão de apoio da Universidade, nomeadamente através da concessão anual de subsídios, sem prejuízo de outras subvenções pontuais.
 
 2 - A direcção-geral da Associação Académica e os organismos autónomos participam, na medida em que interesse à prossecução dos respectivos fins, na gestão das infra-estruturas culturais e desportivas directamente dependentes do reitor.
 
 9 - Disposições finais e transitórias
 
-###### Art. 78.º O Senado aprovará, no prazo máximo de três meses após o início de funções, os direitos e deveres dos estudantes a que se refere o artigo 20.º
+Art. 78.º O Senado aprovará, no prazo máximo de três meses após o início de funções, os direitos e deveres dos estudantes a que se refere o artigo 20.º
 
-###### Art. 79.º - 1 - No prazo de 30 dias, descontadas as férias escolares, após a entrada em vigor dos Estatutos, o conselho directivo de cada faculdade promoverá as acções necessárias à constituição e funcionamento da assembleia a que se refere o artigo 26.º
+Art. 79.º - 1 - No prazo de 30 dias, descontadas as férias escolares, após a entrada em vigor dos Estatutos, o conselho directivo de cada faculdade promoverá as acções necessárias à constituição e funcionamento da assembleia a que se refere o artigo 26.º
 
 2 - O regulamento de cada faculdade será elaborado e aprovado no prazo de 270 dias após a entrada em vigor dos estatutos.
 
-###### Art. 80.º - 1 - Os Estatutos da Universidade de Coimbra podem ser revistos:
+Art. 80.º - 1 - Os Estatutos da Universidade de Coimbra podem ser revistos:
 
 a) Quatro anos após a data de publicação ou da respectiva revisão;
 
@@ -768,4 +782,4 @@ b) Em qualquer momento, por decisão de dois terços dos membros da assembleia d
 
 2 - As alterações aos Estatutos carecem de aprovação por maioria absoluta dos membros da assembleia da Universidade em exercício efectivo de funções.
 
-###### Art. 81.º Os presentes Estatutos entram em vigor no dia imediato ao da sua publicação no Diário da República.
+Art. 81.º Os presentes Estatutos entram em vigor no dia imediato ao da sua publicação no Diário da República.

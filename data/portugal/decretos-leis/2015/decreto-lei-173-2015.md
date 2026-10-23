@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16500/0630106307.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2015/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94555362749a80af866299231342560428c229d23827af29d19ac353879b5b41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fd4749c3b58ade48b53655f4180cac1ec65347c4791d3f5ad6e691a2ad4624f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
-- Gestão de Resíduos
-- Cádmio
-- Equipamento Eléctrico
-- Indústria Eléctrica
-- Equipamento Eletrónico
-- ASAE
-- Licenciamento
-- Embalagem
-- Material Eléctrico e Electrónico
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Poluição Industrial
-- Eliminação de Resíduos
-- Substância Perigosa
-- Comércio
 - Agência Portuguesa do Ambiente
+- Aproximação das Legislações
+- ASAE
+- Cádmio
+- Comércio
+- Eliminação de Resíduos
+- Embalagem
+- Equipamento Eléctrico
+- Equipamento Eletrónico
+- Gestão de Resíduos
+- Indústria Eléctrica
+- Licenciamento
+- Material Eléctrico e Electrónico
+- Poluição Industrial
+- Proteção do Ambiente
+- Substância Perigosa
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:114337042:por
@@ -139,6 +139,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/2011/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2011/06/17/p/dre
+- type: cites
+  target: pt:dre:396878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670034:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 6/2009 de 06-jan, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 - type: transposes
   target: celex:31991L0157
   label: null
@@ -152,15 +178,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 21
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:41Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +227,9 @@ Objeto
 
 O presente decreto-lei estabelece o regime de colocação no mercado de pilhas e acumuladores e o regime de recolha, tratamento, reciclagem e eliminação dos resíduos de pilhas e de acumuladores, transpondo para a ordem jurídica interna a [Diretiva n.º 2006/66/CE](https://data.europa.eu/eli/dir/2006/66/oj?locale=pt), do Parlamento Europeu e do Conselho, de 6 de setembro, relativa a pilhas e acumuladores e respetivos resíduos, que revoga a [Diretiva n.º 91/157/CEE](https://data.europa.eu/eli/dir/1991/157/oj?locale=pt), do Conselho, de 18 de março, alterada pelas Diretivas n.os [2008/12/CE](https://data.europa.eu/eli/dir/2008/12/oj?locale=pt), [2008/103/CE](https://data.europa.eu/eli/dir/2008/103/oj?locale=pt) e [2013/56/UE](https://data.europa.eu/eli/dir/2013/56/oj?locale=pt), todas do Parlamento Europeu e do Conselho, de 11 de março de 2008, de 19 de novembro de 2008 e de 20 de novembro de 2013, respetivamente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -241,7 +269,9 @@ r) [Anterior alínea q)];
 
 s) [Anterior alínea r)].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -253,7 +283,9 @@ b) Acompanhados de instruções que informem o utilizador final, ou os profissio
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -267,7 +299,9 @@ b) Às pilhas e acumuladores portáteis utilizados em ferramentas elétricas sem
 
 4 - As pilhas e acumuladores que não satisfaçam os requisitos do presente artigo mas que tenham sido legalmente colocados no mercado antes da data de aplicação das respetivas proibições podem continuar a ser comercializados até ao esgotamento das existências.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -277,7 +311,9 @@ b) 45 %, até 26 de setembro de 2016.
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -293,7 +329,9 @@ b) 45 %, até 26 de setembro de 2016.
 
 7 - Os pontos de recolha seletiva referidos no presente artigo não estão sujeitos aos requisitos de licenciamento ou registo, nos termos, respetivamente, dos artigos 23.º e 45.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro.
 
-###### Artigo 10.º — Recolha de resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis provenientes de utilizadores finais particulares
+Artigo 10.º
+
+Recolha de resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis provenientes de utilizadores finais particulares
 
 1 - Os utilizadores finais particulares estão obrigados a entregar os resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis que detenham, sem quaisquer encargos, nos termos previstos nos números seguintes, consoante aplicável.
 
@@ -309,7 +347,9 @@ b) 45 %, até 26 de setembro de 2016.
 
 7 - Sem prejuízo do disposto no n.º 5, os distribuidores, no âmbito da obrigação estabelecida no n.º 2, e os pontos de recolha seletiva referidos no n.º 3, não estão sujeitos aos requisitos de licenciamento ou registo, nos termos, respetivamente, dos artigos 23.º e 45.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -323,7 +363,9 @@ b) 45 %, até 26 de setembro de 2016.
 
 6 - Os operadores de reciclagem devem calcular o rendimento dos seus processos de acordo com o método definido no [Regulamento (UE) n.º 493/2012](https://data.europa.eu/eli/reg/2012/493/oj?locale=pt), da Comissão, de 11 de junho de 2012, e enviar à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), o respetivo relatório nos prazos e com o conteúdo aí previstos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -347,7 +389,9 @@ g) A obrigatoriedade de transmissão de informação periódica por parte do pro
 
 h) A obrigatoriedade de prestação de informação, por parte da entidade gestora, sobre as ações desenvolvidas e os respetivos resultados alcançados, particularmente no que se refere às categorias de pilhas e acumuladores que dizem respeito ao produtor.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A entidade gestora é uma pessoa coletiva de direito privado, de natureza associativa ou societária, responsável pela gestão de resíduos de pilhas e acumuladores, constituída pelos produtores, obrigatoriamente.
 
@@ -355,7 +399,9 @@ h) A obrigatoriedade de prestação de informação, por parte da entidade gesto
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A entidade gestora é financiada, nomeadamente, através de uma prestação financeira a suportar pelos produtores em função da quantidade e das características das pilhas e acumuladores colocados no mercado, sendo os valores das prestações financeiras obtidos por via da fórmula a ser fixada em sede de licença a atribuir à entidade gestora nos termos do artigo seguinte.
 
@@ -377,7 +423,9 @@ h) A obrigatoriedade de prestação de informação, por parte da entidade gesto
 
 10 - A entidade gestora deve desenvolver e implementar mecanismos apropriados para assegurar o reembolso dos valores de prestação financeira aos produtores, no caso de as pilhas e acumuladores serem transferidos para colocação no mercado fora do território nacional.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A atividade das entidades gestoras é objeto de licença concedida por despacho do membro do Governo responsável pela área do ambiente.
 
@@ -425,7 +473,9 @@ s) Descrição do circuito económico concebido para a gestão de resíduos de p
 
 4 - Compete à APA, I. P., coordenar e instruir o procedimento de licenciamento da entidade gestora, no âmbito do qual aprecia o requerimento previsto no presente artigo, avalia a capacidade técnica e financeira da candidata e, caso considere necessário, apresenta, fundamentadamente, propostas de alterações.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Os produtores de pilhas e acumuladores registam-se, junto da APA, I. P., apenas uma vez, nos termos do disposto no artigo 45.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro.
 
@@ -445,7 +495,9 @@ d) [Anterior alínea b)].
 
 5 - As falsas declarações, prestadas no cumprimento das obrigações previstas no presente artigo, podem fazer incorrer o requerente no crime de falsas declarações, nos termos previstos no Código Penal.
 
-###### Artigo 25.º — Entidade responsável pelo registo de produtores
+Artigo 25.º
+
+Entidade responsável pelo registo de produtores
 
 1 - Compete à APA, I. P., enquanto entidade responsável pelo registo de produtores:
 
@@ -461,7 +513,9 @@ c) Cobrar taxas de registo baseadas nos custos e proporcionadas.
 
 4 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]:
 
@@ -547,7 +601,9 @@ Recolha de resíduos de baterias e acumuladores industriais e de baterias e acum
 
 4 - A recolha de resíduos de baterias e acumuladores para veículos automóveis pode ser efetuada em conjunto com os sistemas de gestão de veículos em fim de vida, previstos no [Decreto-Lei n.º 196/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2003-655968), de 23 de agosto, caso em que as entidades gestoras devem acordar as condições da respetiva participação.
 
-###### Artigo 19.º-A — Pequenos produtores
+Artigo 19.º-A
+
+Pequenos produtores
 
 1 - Mediante aprovação prévia da Comissão Europeia, os produtores que, relativamente à dimensão do mercado nacional, comercializem em Portugal quantidades muito pequenas de pilhas e acumuladores, podem ficar isentos da prestação financeira prevista no n.º 1 do artigo anterior, nos termos do número seguinte, desde que tal isenção não prejudique o correto funcionamento dos sistemas de recolha e reciclagem criados nos termos dos artigos 9.º, 10.º, 10.º-A, 11.º e 13.º.
 
@@ -555,7 +611,9 @@ Recolha de resíduos de baterias e acumuladores industriais e de baterias e acum
 
 3 - A APA, I. P., publicita as medidas de isenção propostas e os respetivos fundamentos e notifica-as à Comissão, para que as aprove ou rejeite, e aos outros Estados-Membros.
 
-###### Artigo 21.º-A — Mecanismo de compensação entre entidades gestoras
+Artigo 21.º-A
+
+Mecanismo de compensação entre entidades gestoras
 
 1 - Sempre que uma entidade gestora assume a responsabilidade pela gestão de pilhas e acumuladores da competência de outra entidade gestora, por referência à respetiva quota de mercado, tem direito a uma compensação.
 
@@ -593,12 +651,12 @@ c) Não ser dependente financeira ou profissionalmente das entidades gestoras ou
 
 Visto e aprovado em Conselho de Ministros de 9 de julho de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 12 de agosto de 2015.**
+Promulgado em 12 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de agosto de 2015.**
+Referendado em 17 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

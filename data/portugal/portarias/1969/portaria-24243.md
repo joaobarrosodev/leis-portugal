@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24243-1969-198540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a93e60baba00792c4c263efddfc99a7444f4364ec0baa0ddda6c372e3a4d743b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dce71c71a5951eeb6925aa4b06ee83d10e58b7637ca5f4946702d3e1feefa90b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652548:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo da
 
 1.º São introduzidas no Regulamento de Administração da Fazenda Naval, aprovado pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, as seguintes alterações dando nova redacção a algumas das suas disposições, intercalando e aditando outras e eliminando as que expressamente se indicam:
 
-###### Artigo 1.º A administração naval prevê, utiliza e contabiliza, de forma legal, os recursos que o Orçamento Geral do Estado e diplomas especiais puserem à sua disposição, com vista a prover as unidades e serviços do Ministério da Marinha dos meios de ordem material que lhes são necessários para o desempenho das respectivas funções.
+Artigo 1.º A administração naval prevê, utiliza e contabiliza, de forma legal, os recursos que o Orçamento Geral do Estado e diplomas especiais puserem à sua disposição, com vista a prover as unidades e serviços do Ministério da Marinha dos meios de ordem material que lhes são necessários para o desempenho das respectivas funções.
 
 A acção governativa e a administração superior da Fazenda Naval são exercidas pelo Ministro da Marinha, responsável nos termos da Constituição.
 
@@ -104,17 +124,17 @@ A acção executora é exercida pelos conselhos administrativos e pelos encarreg
 
 A acção judicial é da competência do Tribunal de Contas, nos termos das leis vigentes.
 
-###### Art. 2.º Competem à Intendência dos Serviços de Administração Financeira da Marinha as atribuições fixadas no respectivo regulamento, e nomeadamente as seguintes: o estudo das técnicas e métodos administrativos e elaboração das respectivas normas; a orientação superior das actividades dos concelhos administrativos; a centralização e estudo das propostas orçamentais elaboradas pelas unidades e serviços para preparação dos projectos dos orçamentos; a orientação e uniformização dos procedimentos relativos à execução dos orçamentos; o esclarecimento de dúvidas suscitadas na interpretação de diplomas de carácter administrativo-financeiro, bem como a emissão de pareceres sobre assuntos de natureza patrimonial e do contencioso administrativo e financeiro; a apreciação e informação de minutas de contratos, processos de aquisição e de despesas a submeter a decisão ministerial ou do Conselho de Ministros, e ainda a fiscalização dos actos de administração financeira praticados nas unidades e serviços do Ministério da Marinha.
+Art. 2.º Competem à Intendência dos Serviços de Administração Financeira da Marinha as atribuições fixadas no respectivo regulamento, e nomeadamente as seguintes: o estudo das técnicas e métodos administrativos e elaboração das respectivas normas; a orientação superior das actividades dos concelhos administrativos; a centralização e estudo das propostas orçamentais elaboradas pelas unidades e serviços para preparação dos projectos dos orçamentos; a orientação e uniformização dos procedimentos relativos à execução dos orçamentos; o esclarecimento de dúvidas suscitadas na interpretação de diplomas de carácter administrativo-financeiro, bem como a emissão de pareceres sobre assuntos de natureza patrimonial e do contencioso administrativo e financeiro; a apreciação e informação de minutas de contratos, processos de aquisição e de despesas a submeter a decisão ministerial ou do Conselho de Ministros, e ainda a fiscalização dos actos de administração financeira praticados nas unidades e serviços do Ministério da Marinha.
 
 ...
 
-###### Art. 5.º A criação e a extinção dos conselhos administrativos, que se processam por intermédio da 1.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, serão, em regra, determinadas por meio de portaria, que indicará a sua constituição quando esta, por circunstâncias especiais, tenha de ser diferente da indicada no artigo 4.º
+Art. 5.º A criação e a extinção dos conselhos administrativos, que se processam por intermédio da 1.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, serão, em regra, determinadas por meio de portaria, que indicará a sua constituição quando esta, por circunstâncias especiais, tenha de ser diferente da indicada no artigo 4.º
 
 § único. Sempre que as conveniências do serviço tal aconselhem, poderá o Ministro da Marinha, por despacho, determinar a criação de conselhos administrativos e a sua extinção, bem como, quando circunstâncias especiais o justifiquem, alterar transitòriamente a constituição dos conselhos administrativos já existentes, alteração que apenas se manterá enquanto se verificarem as circunstâncias que a motivaram.
 
 ...
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 § 1.º e § 2.º ...
 
@@ -122,7 +142,7 @@ A acção judicial é da competência do Tribunal de Contas, nos termos das leis
 
 § 4.º Dentro do prazo de cinco dias, a contar da data da reunião, serão remetidas à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha cópias das actas, assinadas nos termos do n.º 3.º do artigo 30.º-A ou da parte final do artigo 33.º e autenticadas com o respectivo selo branco.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 a) Todos os meses, para conferência e legalização da conta de caixa do mês anterior, verificação, por contagem, do saldo de saída acusado pela conta com a existência em cofre e remessa subsequente da cópia dessa conta à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha para conferência, de modo a dar entrada nesta ou no correio da localidade, quando o conselho actuar fora de Lisboa, até ao dia 20 de cada mês.
 
@@ -146,17 +166,17 @@ e) ...
 
 f) ...
 
-###### Art. 16.º Os conselhos administrativos liquidam e pagam todos os vencimentos do pessoal pertencente às unidades e serviços que apoiam, excepto os de carácter diário do pessoal em diligência noutras unidades ou serviços, cuja liquidação e pagamento competem ao conselho administrativo que apoia estes últimos. Procedimento diferente poderá, contudo, ser usado se, pelo diploma da criação do conselho administrativo ou por despacho ministerial posterior, assim for estabelecido.
+Art. 16.º Os conselhos administrativos liquidam e pagam todos os vencimentos do pessoal pertencente às unidades e serviços que apoiam, excepto os de carácter diário do pessoal em diligência noutras unidades ou serviços, cuja liquidação e pagamento competem ao conselho administrativo que apoia estes últimos. Procedimento diferente poderá, contudo, ser usado se, pelo diploma da criação do conselho administrativo ou por despacho ministerial posterior, assim for estabelecido.
 
 § 1.º a § 3.º ...
 
 ...
 
-###### Art. 20.º Os auxílios prestados, tanto em materiais como em serviços, a organismos da Marinha, de outros Ministérios ou a particulares serão satisfeitos pelas entidades requisitantes, salvo se, por despacho do Ministro da Marinha, for mandado adoptar outro procedimento.
+Art. 20.º Os auxílios prestados, tanto em materiais como em serviços, a organismos da Marinha, de outros Ministérios ou a particulares serão satisfeitos pelas entidades requisitantes, salvo se, por despacho do Ministro da Marinha, for mandado adoptar outro procedimento.
 
 § único. As contas, elaboradas pelos respectivos conselhos administrativos, e seus duplicados, terão o destino indicado no artigo 244.º, e as importâncias cobradas serão entregues nos cofres do Estado, nos termos do artigo 121.º
 
-###### Art. 21.º Os conselhos administrativos deverão verificar se existem, devidamente aprovadas, tabelas de armamento, que indicarão todo o material que, instalado ou armazenado nos paióis, deve existir na unidade ou serviço, com vista a assegurar a sua eficiência.
+Art. 21.º Os conselhos administrativos deverão verificar se existem, devidamente aprovadas, tabelas de armamento, que indicarão todo o material que, instalado ou armazenado nos paióis, deve existir na unidade ou serviço, com vista a assegurar a sua eficiência.
 
 § 1.º Quando na unidade ou serviço não existir todo o material constante da respectiva tabela de armamento, os conselhos administrativos registarão, em documento anexo à acta, os materiais em falta.
 
@@ -164,7 +184,7 @@ f) ...
 
 ...
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 § 1.º e § 2.º ...
 
@@ -172,7 +192,7 @@ f) ...
 
 § 4.º (Eliminado).
 
-###### Art. 24.º Os conselhos administrativos contabilizarão, em uma única conta de caixa, todas as receitas, incluindo as que forem cobradas por unidades e serviços actuando em localidade diferente da do conselho administrativo a que estejam atribuídos, e bem assim todas as despesas e as entregas que aquelas unidades e serviços tenham efectuado directamente nos cofres do Estado ou noutros cofres.
+Art. 24.º Os conselhos administrativos contabilizarão, em uma única conta de caixa, todas as receitas, incluindo as que forem cobradas por unidades e serviços actuando em localidade diferente da do conselho administrativo a que estejam atribuídos, e bem assim todas as despesas e as entregas que aquelas unidades e serviços tenham efectuado directamente nos cofres do Estado ou noutros cofres.
 
 § 1.º Exceptuam-se do disposto neste artigo as quantias recebidas a título de depósito para garantia de contratos, as quais serão escrituradas na conta referida no artigo 343.º, e só serão contabilizadas na conta de caixa quando revertam a favor do Estado e tenham sido entregues nos respectivos cofres.
 
@@ -180,9 +200,9 @@ f) ...
 
 ...
 
-###### Art. 26.º Todas as disposições deste Regulamento relativas aos conselhos administrativos se aplicam, tão inteiramente quanto possível, aos encarregados de toda a administração; estes, porém, não fazem actas, e justificarão em notas-relatórios os motivos das decisões tomadas sobre os assuntos da sua administração, enviando cópias das mesmas à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, nos termos do § 3.º do artigo 277.º
+Art. 26.º Todas as disposições deste Regulamento relativas aos conselhos administrativos se aplicam, tão inteiramente quanto possível, aos encarregados de toda a administração; estes, porém, não fazem actas, e justificarão em notas-relatórios os motivos das decisões tomadas sobre os assuntos da sua administração, enviando cópias das mesmas à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, nos termos do § 3.º do artigo 277.º
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 A) Conselho administrativo da Administração Central da Marinha:
 
@@ -270,7 +290,7 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 ...
 
-###### Art. 30.º ...
+Art. 30.º ...
 
 1.º a 9.º ...
 
@@ -278,7 +298,7 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 11.º ...
 
-###### Art. 30.º-A ...
+Art. 30.º-A ...
 
 1.º a 11.º ...
 
@@ -286,19 +306,19 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 13.º a 15.º ...
 
-###### Art. 31.º As disposições dos artigos 30.º e 30.º-A aplicam-se a bordo dos navios. Nas unidades em terra e nos serviços serão aplicadas tão inteiramente quanto possível.
+Art. 31.º As disposições dos artigos 30.º e 30.º-A aplicam-se a bordo dos navios. Nas unidades em terra e nos serviços serão aplicadas tão inteiramente quanto possível.
 
-###### Art. 32.º ...
+Art. 32.º ...
 
 1.º a 7.º ...
 
 8.º Exercer a bordo, em viagem, as funções notariais e de registo civil, lavrando os assentos de nascimento, casamento e óbito (excluem-se os testamentos, que, nos termos do Código Civil, devem ser lavrados pelos comandantes dos navios).
 
-###### Art. 33.º Nos conselhos administrativos que não disponham de vogal desempenhando as funções de chefe do serviço de abastecimento, ou quando se verifique o seu impedimento, compete ao secretário-tesoureiro, além das atribuições e dos deveres consignados no artigo anterior, o desempenho das funções referidas no artigo 30.º-A, com excepção da assinatura, das cópias ou extractos das actas, que serão legalizados pelo vogal que desempenhe as funções de imediato ou, não o havendo, pelo presidente. Nos navios sem conselho administrativo próprio os deveres aplicáveis consignados nos artigos 30.º-A, 32.º e 48.º serão desempenhados pelo chefe do serviço de abastecimento da unidade, nomeado nos termos do artigo 266.º
+Art. 33.º Nos conselhos administrativos que não disponham de vogal desempenhando as funções de chefe do serviço de abastecimento, ou quando se verifique o seu impedimento, compete ao secretário-tesoureiro, além das atribuições e dos deveres consignados no artigo anterior, o desempenho das funções referidas no artigo 30.º-A, com excepção da assinatura, das cópias ou extractos das actas, que serão legalizados pelo vogal que desempenhe as funções de imediato ou, não o havendo, pelo presidente. Nos navios sem conselho administrativo próprio os deveres aplicáveis consignados nos artigos 30.º-A, 32.º e 48.º serão desempenhados pelo chefe do serviço de abastecimento da unidade, nomeado nos termos do artigo 266.º
 
 ...
 
-###### Art. 49.º Os tesoureiros dos conselhos administrativos, para o desempenho das funções de pagador, disporão, normalmente, de auxiliares, que ficarão responsáveis subsidiários por cada um dos pagamentos que forem encarregados de efectuar.
+Art. 49.º Os tesoureiros dos conselhos administrativos, para o desempenho das funções de pagador, disporão, normalmente, de auxiliares, que ficarão responsáveis subsidiários por cada um dos pagamentos que forem encarregados de efectuar.
 
 § 1.º Nas unidades e serviços em que o movimento o justifique, poderá ainda, sob proposta do respectivo conselho administrativo, dirigida à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha e sancionada pelo intendente, ser investido nas funções de pagador um oficial subalterno ou um funcionário do quadro do pessoal civil do Ministério que neste quadro tenha a categoria de pagador. Em qualquer dos casos, o pagador ficará responsável, mediante recibo, pelos valores que lhe forem entregues e para os quais disporá de cofre privativo, de que será o único claviculário. Os referidos valores, que em qualquer altura poderão ser verificados, por contagem, pelo tesoureiro, serão sempre mencionados em acta, nos termos do n.º 11.º do artigo 277.º
 
@@ -306,17 +326,17 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 ...
 
-###### Art. 52.º São responsáveis para com o encarregado do material o chefe dos serviços gerais e os chefes dos serviços técnicos que receberem, para serviço, guarda ou outro fim, material pertencente à Fazenda Nacional, e, como tal, são eles que assinam os respectivos inventários.
+Art. 52.º São responsáveis para com o encarregado do material o chefe dos serviços gerais e os chefes dos serviços técnicos que receberem, para serviço, guarda ou outro fim, material pertencente à Fazenda Nacional, e, como tal, são eles que assinam os respectivos inventários.
 
 § 1.º e § 2.º ...
 
-###### Art. 53.º Os fiéis do serviço de abastecimento e dos restantes serviços técnicos são responsáveis para com os respectivos chefes de serviço por todo o material que disser respeito aos seus encargos, sendo estes chefes de serviço responsáveis para com o encarregado do material, nos termos do artigo 52.º
+Art. 53.º Os fiéis do serviço de abastecimento e dos restantes serviços técnicos são responsáveis para com os respectivos chefes de serviço por todo o material que disser respeito aos seus encargos, sendo estes chefes de serviço responsáveis para com o encarregado do material, nos termos do artigo 52.º
 
 ...
 
-###### Art. 55.º Como encarregados dos paióis dependentes dos serviços que tenham material a seu cargo haverá as praças indispensáveis, conforme as necessidades do serviço, designadas por paioleiros, as quais serão, tanto quanto possível, da confiança dos respectivos fiéis.
+Art. 55.º Como encarregados dos paióis dependentes dos serviços que tenham material a seu cargo haverá as praças indispensáveis, conforme as necessidades do serviço, designadas por paioleiros, as quais serão, tanto quanto possível, da confiança dos respectivos fiéis.
 
-###### Art. 56.º As praças de que trata o artigo anterior serão directamente responsáveis para com o fiel do serviço a que pertencem por todo o material existente nos respectivos paióis. Dependem do chefe do mesmo serviço e terão principalmente a seu cargo:
+Art. 56.º As praças de que trata o artigo anterior serão directamente responsáveis para com o fiel do serviço a que pertencem por todo o material existente nos respectivos paióis. Dependem do chefe do mesmo serviço e terão principalmente a seu cargo:
 
 1.º A limpeza, conservação e arrumação dos paióis;
 
@@ -326,61 +346,61 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 ...
 
-###### Art. 63.º As transferências de responsabilidade efectuam-se quando for substituído algum membro do conselho administrativo ou o encarregado de toda a administração, o encarregado do material, o médico, o chefe dos serviços gerais ou qualquer chefe de serviço técnico.
+Art. 63.º As transferências de responsabilidade efectuam-se quando for substituído algum membro do conselho administrativo ou o encarregado de toda a administração, o encarregado do material, o médico, o chefe dos serviços gerais ou qualquer chefe de serviço técnico.
 
-###### Art. 64.º Quando for substituído algum membro do conselho administrativo, proceder-se-á, em sessão, ao exame e legalização dos documentos justificativos do movimento havido desde a data da última reunião para conferência da conta da caixa.
+Art. 64.º Quando for substituído algum membro do conselho administrativo, proceder-se-á, em sessão, ao exame e legalização dos documentos justificativos do movimento havido desde a data da última reunião para conferência da conta da caixa.
 
 § único. (Eliminado).
 
-###### Art. 65.º Se for substituído o secretário-tesoureiro, dar-se-á cumprimento ao disposto no artigo anterior e proceder-se-á à verificação dos fundos em cofre e sua conferência com a conta de caixa, à entrega das chaves ao novo claviculário e, bem assim, ao exame e entrega de todos os livros e documentos devidamente escriturados até esse dia. Tudo será entregue ao novo secretário-tesoureiro juntamente com o arquivo e selo privativo do conselho administrativo.
+Art. 65.º Se for substituído o secretário-tesoureiro, dar-se-á cumprimento ao disposto no artigo anterior e proceder-se-á à verificação dos fundos em cofre e sua conferência com a conta de caixa, à entrega das chaves ao novo claviculário e, bem assim, ao exame e entrega de todos os livros e documentos devidamente escriturados até esse dia. Tudo será entregue ao novo secretário-tesoureiro juntamente com o arquivo e selo privativo do conselho administrativo.
 
-###### Art. 66.º Se for substituído o encarregado de toda a administração, dar-se-á cumprimento aos artigos 64.º e 65.º e de tudo se fará menção na nota-relatório a enviar à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha.
+Art. 66.º Se for substituído o encarregado de toda a administração, dar-se-á cumprimento aos artigos 64.º e 65.º e de tudo se fará menção na nota-relatório a enviar à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha.
 
-###### Art. 67.º Os conselhos administrativos enviarão à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha e à 6.ª Repartição da Direcção-Geral da Contabilidade Pública nota de sua primeira constituição e de todas as alterações subsequentes. A cada um dos organismos indicados será enviado, juntamente com a nota, um boletim (modelo n.º 2) donde constem as assinaturas e rubricas de cada um dos membros que constituírem os conselhos, boletim que será autenticado com o selo branco respectivo. Igual boletim será enviado aos referidos organismos pelos encarregados de toda a administração.
+Art. 67.º Os conselhos administrativos enviarão à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha e à 6.ª Repartição da Direcção-Geral da Contabilidade Pública nota de sua primeira constituição e de todas as alterações subsequentes. A cada um dos organismos indicados será enviado, juntamente com a nota, um boletim (modelo n.º 2) donde constem as assinaturas e rubricas de cada um dos membros que constituírem os conselhos, boletim que será autenticado com o selo branco respectivo. Igual boletim será enviado aos referidos organismos pelos encarregados de toda a administração.
 
 § único. ...
 
 ...
 
-###### Art. 70.º As transferências de responsabilidade dos secretários-tesoureiros e dos encarregados do material deverão ser efectuadas no prazo máximo de vinte dias, e as dos médicos, chefes dos serviços gerais e chefes dos serviços técnicos, dentro do prazo de três dias.
+Art. 70.º As transferências de responsabilidade dos secretários-tesoureiros e dos encarregados do material deverão ser efectuadas no prazo máximo de vinte dias, e as dos médicos, chefes dos serviços gerais e chefes dos serviços técnicos, dentro do prazo de três dias.
 
-###### Art. 71.º A entrega dos cargos de fiéis do serviço de abastecimento e dos restantes serviços técnicos não poderá exceder o prazo de oito dias.
+Art. 71.º A entrega dos cargos de fiéis do serviço de abastecimento e dos restantes serviços técnicos não poderá exceder o prazo de oito dias.
 
 § único. (Eliminado).
 
 ...
 
-###### Art. 73.º Na transferência de responsabilidades do chefe dos serviços gerais, dos chefes de serviços técnicos ou de outros responsáveis subsidiários, o novo responsável deve conferir as existências pelo inventário, na presença do responsável cessante e do delegado do conselho administrativo nomeado para esse efeito. Esta nomeação em nenhum caso pode recair no encarregado do material.
+Art. 73.º Na transferência de responsabilidades do chefe dos serviços gerais, dos chefes de serviços técnicos ou de outros responsáveis subsidiários, o novo responsável deve conferir as existências pelo inventário, na presença do responsável cessante e do delegado do conselho administrativo nomeado para esse efeito. Esta nomeação em nenhum caso pode recair no encarregado do material.
 
 § único. Terminada a conferência, é lavrado na capa do inventário, no lugar a esse fim reservado, um termo de entrega, assinado por todos os intervenientes, do qual constará: data e local da transferência, postos e nomes dos intervenientes, declaração de que as existências conferem com os saldos de entrada nesse mês, ou, no caso contrário, a enumeração das faltas ou divergências encontradas.
 
-###### Art. 74.º As transferências de responsabilidades do encarregado do material e de outros responsáveis directos, em unidades e serviços sem conselho administrativo próprio, deverão ser comunicadas, por nota, ao respectivo conselho administrativo, para que venham a constar em acta do mesmo conselho.
+Art. 74.º As transferências de responsabilidades do encarregado do material e de outros responsáveis directos, em unidades e serviços sem conselho administrativo próprio, deverão ser comunicadas, por nota, ao respectivo conselho administrativo, para que venham a constar em acta do mesmo conselho.
 
 ...
 
-###### Art. 85.º As despesas que, nos termos dos artigos 77.º e 77.º-A, careçam de autorização ministerial não podem ser realizadas sem prévia proposta da unidade ou serviço interessado, dirigida à 2.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, devendo nessa proposta ser feita expressa indicação, em conformidade com o disposto no artigo 100.º, da verba orçamental onde o encargo tem cabimento.
+Art. 85.º As despesas que, nos termos dos artigos 77.º e 77.º-A, careçam de autorização ministerial não podem ser realizadas sem prévia proposta da unidade ou serviço interessado, dirigida à 2.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, devendo nessa proposta ser feita expressa indicação, em conformidade com o disposto no artigo 100.º, da verba orçamental onde o encargo tem cabimento.
 
 § 1.º a § 3.º ...
 
 ...
 
-###### Art. 94.º Os conselhos administrativos das unidades e serviços não devem, como regra, nas despesas de material, exceder as dotações mensais que lhes sejam atribuídas anualmente pelos organismos abastecedores.
+Art. 94.º Os conselhos administrativos das unidades e serviços não devem, como regra, nas despesas de material, exceder as dotações mensais que lhes sejam atribuídas anualmente pelos organismos abastecedores.
 
 § único. Quando os navios estiverem a aprontar para comissão de serviço fora de Lisboa ou quando circunstâncias especiais o justifiquem, poderão as despesas de material das unidades e serviços exceder as respectivas dotações mensais, não devendo, porém, ser excedidas as dotações anuais.
 
 ...
 
-###### Art. 97.º As despesas provenientes da hospitalização, em qualquer hospital que não seja o da Marinha, devidas por tratamento de oficiais, sargentos e praças ou as resultantes de tratamento extra-hospitalar, nos casos em que a lei estabelece o tratamento por conta do Estado, estão sujeitas ao disposto no artigo 85.º, excepto para os navios nas ilhas adjacentes, províncias ultramarinas ou no estrangeiro, cujos conselhos administrativos as liquidam e pagam pela respectiva verba orçamental, exarando em acta o motivo justificativo da despesa, fundamentado na opinião do médico, que também assinará a acta.
+Art. 97.º As despesas provenientes da hospitalização, em qualquer hospital que não seja o da Marinha, devidas por tratamento de oficiais, sargentos e praças ou as resultantes de tratamento extra-hospitalar, nos casos em que a lei estabelece o tratamento por conta do Estado, estão sujeitas ao disposto no artigo 85.º, excepto para os navios nas ilhas adjacentes, províncias ultramarinas ou no estrangeiro, cujos conselhos administrativos as liquidam e pagam pela respectiva verba orçamental, exarando em acta o motivo justificativo da despesa, fundamentado na opinião do médico, que também assinará a acta.
 
 ...
 
-###### Art. 112.º ...
+Art. 112.º ...
 
 § único. A intervenção do cônsul português no levantamento de fundos é gratuita, nos termos da Tabela de Emolumentos Consulares.
 
 ...
 
-###### Art. 121.º Para a entrega nos cofres do Estado das receitas que, pela sua natureza, devem ter esse destino observar-se-á o seguinte:
+Art. 121.º Para a entrega nos cofres do Estado das receitas que, pela sua natureza, devem ter esse destino observar-se-á o seguinte:
 
 1.º Os conselhos administrativos com sede em Lisboa, para a entrega no Banco de Portugal das receitas cobradas em cada mês, requisitarão as respectivas guias de entrega à 6.ª Repartição da Direcção-Geral da Contabilidade Pública, até ao dia 4 do mês seguinte, devendo a entrega efectuar-se até ao dia 10 do mesmo mês;
 
@@ -398,7 +418,7 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 § 2.º Os responsáveis pela falta de cumprimento do estabelecido neste artigo incorrem no pagamento de uma multa, a fixar nos termos do § único do artigo 2.º do [Decreto n.º 14908](https://diariodarepublica.pt/dr/detalhe/decreto/14908-1928-652548), de 18 de Janeiro de 1928, a qual poderá atingir 50 por cento do vencimento mensal da categoria.
 
-###### Art. 122.º Os secretários-tesoureiros e outras entidades responsáveis por fundos deverão depositar as quantias excedentes às necessidades correntes da unidade ou serviço na Caixa Geral de Depósitos, Crédito e Previdência ou nas agências dos bancos emissores no ultramar. Igual procedimento será adoptado pelas entidades responsáveis por fundos que, por virtude da organização dos serviços, necessitem de efectuar depósitos.
+Art. 122.º Os secretários-tesoureiros e outras entidades responsáveis por fundos deverão depositar as quantias excedentes às necessidades correntes da unidade ou serviço na Caixa Geral de Depósitos, Crédito e Previdência ou nas agências dos bancos emissores no ultramar. Igual procedimento será adoptado pelas entidades responsáveis por fundos que, por virtude da organização dos serviços, necessitem de efectuar depósitos.
 
 § 1.º Sobre a conta de depósito a que se refere este artigo serão emitidos cheques para pagamento aos fornecedores, e à ordem destes, sempre que a quantia a pagar exceda o limite fixado por cada conselho administrativo para o pagamento em numerário.
 
@@ -406,17 +426,17 @@ H) Conselhos administrativos dos departamentos marítimos e capitanias:
 
 ...
 
-###### Art. 125.º Para execução do artigo anterior, far-se-á adequada e oportuna previsão das necessidades, baseadas nos níveis de abastecimento, os quais serão fixados pelo chefe do serviço de abastecimento, de acordo com as tabelas existentes, as directivas superiores, a natureza do material e os espaços disponíveis.
+Art. 125.º Para execução do artigo anterior, far-se-á adequada e oportuna previsão das necessidades, baseadas nos níveis de abastecimento, os quais serão fixados pelo chefe do serviço de abastecimento, de acordo com as tabelas existentes, as directivas superiores, a natureza do material e os espaços disponíveis.
 
 § 1.º a § 3.º (Eliminados).
 
-###### Art. 126.º É proibida a aquisição de qualquer artigo não incluído nas tabelas de armamento sem despacho singular do Ministro da Marinha, sob proposta fundamentada da unidade ou serviço e informação da entidade que tiver elaborado a citada tabela, devendo, além disso, o respectivo conselho administrativo provar que tem na sua dotação verba disponível para esse fim.
+Art. 126.º É proibida a aquisição de qualquer artigo não incluído nas tabelas de armamento sem despacho singular do Ministro da Marinha, sob proposta fundamentada da unidade ou serviço e informação da entidade que tiver elaborado a citada tabela, devendo, além disso, o respectivo conselho administrativo provar que tem na sua dotação verba disponível para esse fim.
 
 § único. O despacho autorizando a aquisição será imediatamente comunicado à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha pelo conselho administrativo interessado.
 
-###### Art. 127.º As aquisições que forem efectuadas com inobservância do disposto no artigo anterior e as consequentes despesas não serão aprovadas e darão lugar a reposição pelos membros do conselho administrativo que tiver efectuado tais aquisições.
+Art. 127.º As aquisições que forem efectuadas com inobservância do disposto no artigo anterior e as consequentes despesas não serão aprovadas e darão lugar a reposição pelos membros do conselho administrativo que tiver efectuado tais aquisições.
 
-###### Art. 128.º As unidades e serviços devem requisitar aos organismos abastecedores os artigos de que carecem, tendo em consideração as seguintes regras:
+Art. 128.º As unidades e serviços devem requisitar aos organismos abastecedores os artigos de que carecem, tendo em consideração as seguintes regras:
 
 1.ª As unidades e serviços aos quais sejam atribuídas, anualmente, dotações para material pelos organismos abastecedores centrais devem requisitar aos mesmos organismos os artigos dos grupos e classes cujo abastecimento lhes compete, a não ser em casos urgentes devidamente justificados ou quando as aquisições sejam efectuadas por conta das verbas destinadas a despesas miúdas.
 
@@ -434,39 +454,39 @@ b) Quando não tiver sido possível prever ou evitar essas aquisições e elas r
 
 ...
 
-###### Art. 137.º Os conselhos administrativos deverão pedir, através da 2.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, autorização para a abertura de concurso público para a aquisição dos artigos necessários, dando preferência aos produtos nacionais e tendo em atenção as disposições dos artigos 124.º e 125.º
+Art. 137.º Os conselhos administrativos deverão pedir, através da 2.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, autorização para a abertura de concurso público para a aquisição dos artigos necessários, dando preferência aos produtos nacionais e tendo em atenção as disposições dos artigos 124.º e 125.º
 
 ...
 
-###### Art. 155.º ...
+Art. 155.º ...
 
 § único. Os sobrescritos contendo as propostas, antes de serem abertos, e todos os documentos neles contidos, depois da sua abertura, serão rubricados pelos membros do conselho administrativo e quaisquer peritos presentes à sessão.
 
 ...
 
-###### Art. 165.º O processo, acompanhado de uma cópia da acta, quando exceder a competência do conselho administrativo, será enviado à 2.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha para, depois de informado, ser submetido a despacho do Ministro da Marinha.
+Art. 165.º O processo, acompanhado de uma cópia da acta, quando exceder a competência do conselho administrativo, será enviado à 2.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha para, depois de informado, ser submetido a despacho do Ministro da Marinha.
 
 § único. Quando o valor do processo estiver dentro do limite da competência que haja sido delegada pelo Ministro, nos termos do § 1.º do artigo 76.º, no superintendente dos Serviços do Material da Armada ou no director-geral dos Serviços de Fomento Marítimo, de que dependa a unidade ou serviço a que pertence o conselho administrativo, o processo será por este directamente presente àquelas entidades para despacho.
 
 ...
 
-###### Art. 170.º Os processos de compra de material ou de prestação de serviços serão organizados de harmonia com as normas aprovadas por despacho ministerial.
+Art. 170.º Os processos de compra de material ou de prestação de serviços serão organizados de harmonia com as normas aprovadas por despacho ministerial.
 
-###### Art. 171.º Para as compras em concurso limitado não serão publicados anúncios nem editais, mas os conselhos administrativos estabelecerão a indispensável concorrência, convidando directamente os produtores, comerciantes ou industriais que julgarem idóneos, em número que, em princípio, deverá ser superior a três. Nestes concursos cumprir-se-á, na parte aplicável, o disposto nos artigos 137.º a 170.º, podendo, contudo, a abertura das propostas ser efectuada em sessão reservada do conselho administrativo, sem prejuízo do disposto no § único do artigo 155.º
+Art. 171.º Para as compras em concurso limitado não serão publicados anúncios nem editais, mas os conselhos administrativos estabelecerão a indispensável concorrência, convidando directamente os produtores, comerciantes ou industriais que julgarem idóneos, em número que, em princípio, deverá ser superior a três. Nestes concursos cumprir-se-á, na parte aplicável, o disposto nos artigos 137.º a 170.º, podendo, contudo, a abertura das propostas ser efectuada em sessão reservada do conselho administrativo, sem prejuízo do disposto no § único do artigo 155.º
 
-###### Art. 172.º Os processos de compra em concurso limitado são autorizados nas mesmas condições estabelecidas no artigo 165.º para as compras em concurso público.
+Art. 172.º Os processos de compra em concurso limitado são autorizados nas mesmas condições estabelecidas no artigo 165.º para as compras em concurso público.
 
 § 1.º e § 2.º ...
 
 ...
 
-###### Art. 215.º Os navios, quando fora de Lisboa, fornecer-se-ão de harmonia com o que fica estabelecido para os fornecimentos em geral e procurarão liquidar e pagar todas as aquisições efectuadas, incluindo os combustíveis e lubrificantes, e os serviços que lhes tiverem sido prestados.
+Art. 215.º Os navios, quando fora de Lisboa, fornecer-se-ão de harmonia com o que fica estabelecido para os fornecimentos em geral e procurarão liquidar e pagar todas as aquisições efectuadas, incluindo os combustíveis e lubrificantes, e os serviços que lhes tiverem sido prestados.
 
 § 1.º a § 3.º ...
 
 ...
 
-###### Art. 217.º ...
+Art. 217.º ...
 
 § 1.º ...
 
@@ -474,17 +494,17 @@ b) Quando não tiver sido possível prever ou evitar essas aquisições e elas r
 
 ...
 
-###### Art. 226.º ...
+Art. 226.º ...
 
 § 1.º e § 2.º ...
 
 § 3.º (Eliminado).
 
-###### Art. 227.º O produto da venda de inúteis constitui receita do Estado e, como tal, deve ser entregue nos cofres do Estado, de acordo como disposto no artigo 121.º
+Art. 227.º O produto da venda de inúteis constitui receita do Estado e, como tal, deve ser entregue nos cofres do Estado, de acordo como disposto no artigo 121.º
 
 ...
 
-###### Art. 229.º As unidades e serviços, em Lisboa, deverão entregar nos organismos abastecedores da respectiva área ou família de abastecimento todos os artigos de material considerados desnecessários, desactualizados ou inúteis, sem que, por esse facto, tenham direito a qualquer indemnização ou reforço da sua dotação.
+Art. 229.º As unidades e serviços, em Lisboa, deverão entregar nos organismos abastecedores da respectiva área ou família de abastecimento todos os artigos de material considerados desnecessários, desactualizados ou inúteis, sem que, por esse facto, tenham direito a qualquer indemnização ou reforço da sua dotação.
 
 § 1.º Para as entregas referidas neste artigo, as unidades e serviços elaborarão guias de remessa (modelo n.º 58), com excepção das destinadas ao Depósito de Recuperáveis e Inúteis da Direcção do Serviço de Abastecimento, para as quais serão utilizadas guias de entrega no mesmo Depósito (modelo n.º 9). Em qualquer dos casos, as guias indicarão o preço de carga dos artigos, os pareceres fundamentados dos peritos que tiverem sido ouvidos e serão rubricadas pelo chefe do serviço de abastecimento da unidade ou serviço e visadas pelo oficial que desempenhar as funções de imediato ou análogas. As guias serão entregues, seguidamente, no respectivo conselho administrativo, o qual, nos termos do n.º 2.º da alínea f) do artigo 8.º, resolverá definitivamente sobre a entrega, apondo-lhes o número e a data da acta em que essa resolução tiver sido tomada, e devolvendo-as à unidade ou serviço; para acompanharem o material na sua entrega.
 
@@ -494,13 +514,13 @@ b) Quando não tiver sido possível prever ou evitar essas aquisições e elas r
 
 § 4.º Procedimento idêntico ao indicado no parágrafo anterior será seguido, tanto em Lisboa como em qualquer outra situação, relativamente a artigos de fardamento e de pequeno equipamento, sendo proibido a qualquer unidade ou serviço efectuar a desvalorização dos mesmos artigos, a qual é ùnicamente da competência da Direcção do Serviço de Abastecimento.
 
-###### Art. 230.º Os artigos entregues, como desnecessários, desactualizados ou inúteis, nos organismos abastecedores da respectiva área ou família serão, após a sua recepção, vistoriados por peritos e classificados como aproveitáveis ou como inúteis. No primeiro caso, serão valorizados pelos peritos tendo em conta o custo do conserto que porventura seja necessário efectuar, e, no segundo caso, serão valorizados pelos mesmos peritos, que indicarão a nomenclatura com que devem ficar à carga até serem vendidos.
+Art. 230.º Os artigos entregues, como desnecessários, desactualizados ou inúteis, nos organismos abastecedores da respectiva área ou família serão, após a sua recepção, vistoriados por peritos e classificados como aproveitáveis ou como inúteis. No primeiro caso, serão valorizados pelos peritos tendo em conta o custo do conserto que porventura seja necessário efectuar, e, no segundo caso, serão valorizados pelos mesmos peritos, que indicarão a nomenclatura com que devem ficar à carga até serem vendidos.
 
 § 1.º a § 4.º (Eliminados).
 
 ...
 
-###### Art. 233.º A resolução tomada de separar o material para venda deve constar de acta da sessão do conselho administrativo, onde o haja, assistido dos necessários peritos, ou, onde o não haja, de nota-relatório do encarregado de toda a administração ou, ainda, de ordem da direcção técnica, lançada sobre o parecer de peritos a respeito do seu estado.
+Art. 233.º A resolução tomada de separar o material para venda deve constar de acta da sessão do conselho administrativo, onde o haja, assistido dos necessários peritos, ou, onde o não haja, de nota-relatório do encarregado de toda a administração ou, ainda, de ordem da direcção técnica, lançada sobre o parecer de peritos a respeito do seu estado.
 
 § 1.º O material a que se refere este artigo será todo relacionado na referida acta, com indicação das respectivas quantidades, excepto quando a resolução for tomada por unanimidade de votos dos membros do conselho administrativo, caso em que se procederá anàlogamente ao disposto no § 2.º do artigo 229.º
 
@@ -508,7 +528,7 @@ b) Quando não tiver sido possível prever ou evitar essas aquisições e elas r
 
 ...
 
-###### Art. 236.º ...
+Art. 236.º ...
 
 § 1.º ...
 
@@ -516,9 +536,9 @@ b) Quando não tiver sido possível prever ou evitar essas aquisições e elas r
 
 ...
 
-###### Art. 248.º A carga do material a que se refere o artigo anterior será documentada por ordem de receita, da qual constará a identificação dos artigos, a sua proveniência ou motivo da carga, o valor atribuído pelo conselho administrativo e o número do documento da própria conta ou de outra que, porventura, se relacione com essa receita.
+Art. 248.º A carga do material a que se refere o artigo anterior será documentada por ordem de receita, da qual constará a identificação dos artigos, a sua proveniência ou motivo da carga, o valor atribuído pelo conselho administrativo e o número do documento da própria conta ou de outra que, porventura, se relacione com essa receita.
 
-###### Art. 249.º ...
+Art. 249.º ...
 
 a) ...
 
@@ -556,7 +576,7 @@ b) ...
 
 15.º ...
 
-###### Art. 249.º-A As despesas de material efectuadas nos casos indicados nas alíneas a) e b) do artigo 249.º serão documentadas na correspondente conta, respectivamente, por ordens de despesa ordinária e por ordens de despesa extraordinária.
+Art. 249.º-A As despesas de material efectuadas nos casos indicados nas alíneas a) e b) do artigo 249.º serão documentadas na correspondente conta, respectivamente, por ordens de despesa ordinária e por ordens de despesa extraordinária.
 
 § 1.º As ordens de despesa deverão indicar todos os elementos de identificação do material, o seu valor, destino ou motivo da despesa, e o número de qualquer outro documento da própria conta ou de outra que, porventura, se relacione com essa despesa.
 
@@ -566,17 +586,17 @@ b) ...
 
 § 4.º O conselho administrativo indicará, sobre o original e o duplicado de cada ordem de despesa extraordinária, o número e a data da acta onde constar a sua aprovação, rubricando todos os seus membros ambos os exemplares dessa ordem de despesa e devolvendo o original à procedência para servir de documento de despesa da conta de material. O duplicado deverá acompanhar a cópia da respectiva acta na sua remessa à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha.
 
-###### Art. 250.º As ordens de despesa extraordinária só poderão incluir, de um mesmo artigo, despesa de valor superior a 50000$00, depois de obtido despacho ministerial de autorização, salvo quando se trate de artigos perdidos, extraviados ou gastos, que poderão ser incluídos nas ordens de despesa independentemente do seu valor.
+Art. 250.º As ordens de despesa extraordinária só poderão incluir, de um mesmo artigo, despesa de valor superior a 50000$00, depois de obtido despacho ministerial de autorização, salvo quando se trate de artigos perdidos, extraviados ou gastos, que poderão ser incluídos nas ordens de despesa independentemente do seu valor.
 
 § único. A autorização referida neste artigo será obtida, normalmente, através da 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, devendo o respectivo pedido indicar discriminadamente o material a despender, o seu valor de carga e todos os esclarecimentos que justifiquem a despesa, e será acompanhado, se for caso disso, de uma cópia do auto de ocorrência ou de um extracto do livro de ocorrências em que a mesma despesa tiver sido registada.
 
 ...
 
-###### Art. 262.º Nos estabelecimentos fabris e oficinas, a contabilidade digráfica será organizada por forma a determinar, tão rigorosamente quanto possível, o custo da produção e dos trabalhos em curso, observado o disposto no n.º 11.º do artigo 30.º-A.
+Art. 262.º Nos estabelecimentos fabris e oficinas, a contabilidade digráfica será organizada por forma a determinar, tão rigorosamente quanto possível, o custo da produção e dos trabalhos em curso, observado o disposto no n.º 11.º do artigo 30.º-A.
 
 ...
 
-###### Art. 277.º ...
+Art. 277.º ...
 
 1.º a 11.º ...
 
@@ -586,11 +606,11 @@ b) ...
 
 ...
 
-###### Art. 284.º Todos os livros e impressos referidos neste Regulamento serão conforme os modelos superiormente aprovados e não poderão ser alterados sem despacho do Ministro da Marinha, lançado sobre parecer da Comissão de Normalização de Impressos e Material de Arquivo, ouvida a Intendência dos Serviços de Administração Financeira da Marinha (1.ª Repartição).
+Art. 284.º Todos os livros e impressos referidos neste Regulamento serão conforme os modelos superiormente aprovados e não poderão ser alterados sem despacho do Ministro da Marinha, lançado sobre parecer da Comissão de Normalização de Impressos e Material de Arquivo, ouvida a Intendência dos Serviços de Administração Financeira da Marinha (1.ª Repartição).
 
 ...
 
-###### Art. 293.º ...
+Art. 293.º ...
 
 1.º ...
 
@@ -604,7 +624,7 @@ b) ...
 
 ...
 
-###### Art. 295.º ...
+Art. 295.º ...
 
 § 1.º ...
 
@@ -614,11 +634,11 @@ b) ...
 
 ...
 
-###### Art. 316.º A cópia da conta de caixa, autenticada, nos termos do artigo 272.º, com os respectivos documentos de receita e de despesa, será remetida à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, de harmonia com as disposições deste Regulamento, e deve ser acompanhada de todos os demais documentos úteis para a sua conferência, bem como dos mapas demonstrativos da despesa desta conta (modelos n.º 16, 16-A e 16-B).
+Art. 316.º A cópia da conta de caixa, autenticada, nos termos do artigo 272.º, com os respectivos documentos de receita e de despesa, será remetida à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, de harmonia com as disposições deste Regulamento, e deve ser acompanhada de todos os demais documentos úteis para a sua conferência, bem como dos mapas demonstrativos da despesa desta conta (modelos n.º 16, 16-A e 16-B).
 
 § único ...
 
-###### Art. 317.º ...
+Art. 317.º ...
 
 a) ...
 
@@ -642,55 +662,55 @@ b) ...
 
 ...
 
-###### Art. 320.º De todas as importâncias recebidas serão passados recibos pelos conselhos administrativos, servindo o duplicado de documento de receita da conta de caixa e sendo o original destinado à entidade que fez a entrega do numerário.
+Art. 320.º De todas as importâncias recebidas serão passados recibos pelos conselhos administrativos, servindo o duplicado de documento de receita da conta de caixa e sendo o original destinado à entidade que fez a entrega do numerário.
 
 § único. Quando as importâncias recebidas forem acompanhadas de guias de entrega de fundos e o recibo for aposto no original das guias, a receita na conta de caixa será documentada por um duplicado das mesmas guias, sobre o qual será reproduzido o referido recibo.
 
-###### Art. 321.º Dos géneros cedidos aos ranchos, nos termos do artigo 254.º, será elaborada uma relação (modelo n.º 18), cujo duplicado servirá para documentar a receita na conta de caixa e o original a despesa na conta de material.
+Art. 321.º Dos géneros cedidos aos ranchos, nos termos do artigo 254.º, será elaborada uma relação (modelo n.º 18), cujo duplicado servirá para documentar a receita na conta de caixa e o original a despesa na conta de material.
 
-###### Art. 322.º As guias de receita de fundos, escrituradas em impresso (modelo n.º 17) e numeradas seguidamente dentro de cada ano económico, elaborar-se-ão quando não existir outro documento para justificar a receita na conta de caixa, nomeadamente nos casos indicados no artigo 334.º e nas receitas provenientes de vendas, multas, taxas, emolumentos, etc.
+Art. 322.º As guias de receita de fundos, escrituradas em impresso (modelo n.º 17) e numeradas seguidamente dentro de cada ano económico, elaborar-se-ão quando não existir outro documento para justificar a receita na conta de caixa, nomeadamente nos casos indicados no artigo 334.º e nas receitas provenientes de vendas, multas, taxas, emolumentos, etc.
 
-###### Art. 323.º As receitas referidas no artigo anterior, cobradas por todas as unidades e serviços do Ministério da Marinha, quer constituam receitas do Estado, quer de outro organismo, serão contabilizadas a débito da conta de caixa do respectivo conselho administrativo, nos termos do artigo 24.º e seus parágrafos, e serão documentadas por guias de receita.
-
-...
-
-###### Art. 329.º De todos os descontos constantes das folhas de pagamento serão elaboradas relações de descontos ou relações das alterações verificadas nos mesmos, conforme normas incluídas no anexo 7.
-
-###### Art. 330.º Os totais das relações de que trata o artigo anterior deverão coincidir rigorosamente com os totais dos respectivos descontos incluídos nas folhas de pagamento ou títulos.
-
-###### Art. 331.º As relações referidas no artigo anterior deverão indicar a classificação orçamental, de acordo com o § único do artigo 328.º
-
-###### Art. 332.º Para efeitos de entrega, nos cofres do Estado ou nos organismos a que se destinem, das importâncias descontadas, as relações de descontos serão enviadas ao conselho administrativo da Administração Central da Marinha até ao dia 5 do mês seguinte àquele em que os descontos foram efectuados.
+Art. 323.º As receitas referidas no artigo anterior, cobradas por todas as unidades e serviços do Ministério da Marinha, quer constituam receitas do Estado, quer de outro organismo, serão contabilizadas a débito da conta de caixa do respectivo conselho administrativo, nos termos do artigo 24.º e seus parágrafos, e serão documentadas por guias de receita.
 
 ...
 
-###### Art. 337.º Os recibos de quitação e os originais das respectivas facturas, relativos a fornecimentos de material, reparações ou prestação de serviços de qualquer natureza, serão levados directamente a crédito da conta de caixa, exceptuando apenas os casos previstos nos n.os 1.º e 2.º do artigo 293.º
+Art. 329.º De todos os descontos constantes das folhas de pagamento serão elaboradas relações de descontos ou relações das alterações verificadas nos mesmos, conforme normas incluídas no anexo 7.
+
+Art. 330.º Os totais das relações de que trata o artigo anterior deverão coincidir rigorosamente com os totais dos respectivos descontos incluídos nas folhas de pagamento ou títulos.
+
+Art. 331.º As relações referidas no artigo anterior deverão indicar a classificação orçamental, de acordo com o § único do artigo 328.º
+
+Art. 332.º Para efeitos de entrega, nos cofres do Estado ou nos organismos a que se destinem, das importâncias descontadas, as relações de descontos serão enviadas ao conselho administrativo da Administração Central da Marinha até ao dia 5 do mês seguinte àquele em que os descontos foram efectuados.
+
+...
+
+Art. 337.º Os recibos de quitação e os originais das respectivas facturas, relativos a fornecimentos de material, reparações ou prestação de serviços de qualquer natureza, serão levados directamente a crédito da conta de caixa, exceptuando apenas os casos previstos nos n.os 1.º e 2.º do artigo 293.º
 
 § 1.º a § 3.º ...
 
 ...
 
-###### Art. 339.º Quando, nos termos do artigo 217.º, tenha havido intervenção consular nos fornecimentos, fabricos ou outras despesas, as respectivas facturas serão visadas pela autoridade consular.
+Art. 339.º Quando, nos termos do artigo 217.º, tenha havido intervenção consular nos fornecimentos, fabricos ou outras despesas, as respectivas facturas serão visadas pela autoridade consular.
 
 § único. Tendo havido intervenção consular e não sendo possível obter o visto, será tal facto justificado na acta de aprovação da conta de caixa que incluir as respectivas facturas.
 
-###### Art. 340.º A intervenção do cônsul português a que se refere o artigo anterior e a aposição do visto nas facturas não dá direito a emolumentos consulares.
+Art. 340.º A intervenção do cônsul português a que se refere o artigo anterior e a aposição do visto nas facturas não dá direito a emolumentos consulares.
 
 ...
 
-###### Art. 358.º Na véspera da saída de qualquer navio de Lisboa serão passadas guias de vencimentos para o conselho administrativo da Administração Central da Marinha ou para o conselho administrativo que esteja a apoiar a Companhia de Adidos a todos os oficiais ou sargentos e praças que se encontrem doentes em terra ou no hospital.
+Art. 358.º Na véspera da saída de qualquer navio de Lisboa serão passadas guias de vencimentos para o conselho administrativo da Administração Central da Marinha ou para o conselho administrativo que esteja a apoiar a Companhia de Adidos a todos os oficiais ou sargentos e praças que se encontrem doentes em terra ou no hospital.
 
 ...
 
-###### Art. 437.º O serviço portuário e de transportes da Base Naval de Lisboa poderá fornecer aos militares dos quadros permanentes da Armada que o requisitem transporte de mobílias e bagagens nos seus veículos, sem prejuízo do serviço oficial e mediante o pagamento pelos requisitantes das taxas constantes da tabela aprovada por despacho do Ministro da Marinha, e ainda dos abonos por horas extraordinárias ao pessoal dos veículos, quando for caso disso.
+Art. 437.º O serviço portuário e de transportes da Base Naval de Lisboa poderá fornecer aos militares dos quadros permanentes da Armada que o requisitem transporte de mobílias e bagagens nos seus veículos, sem prejuízo do serviço oficial e mediante o pagamento pelos requisitantes das taxas constantes da tabela aprovada por despacho do Ministro da Marinha, e ainda dos abonos por horas extraordinárias ao pessoal dos veículos, quando for caso disso.
 
 § único. A tabela a que se refere este artigo será elaborada, com base nos preços dos combustíveis e lubrificantes, pelo serviço portuário e de transportes, que proporá a sua actualização quando as alterações dos referidos preços o justifique.
 
-###### Art. 438.º O serviço prestado aos requisitantes nos termos do artigo anterior deverá ser pago directamente pelos interessados no conselho administrativo da Base Naval de Lisboa, dentro dos prazos fixados.
+Art. 438.º O serviço prestado aos requisitantes nos termos do artigo anterior deverá ser pago directamente pelos interessados no conselho administrativo da Base Naval de Lisboa, dentro dos prazos fixados.
 
 § único. Quando forem excedidos os referidos prazos e o pagamento não tiver sido efectuado, aquele conselho administrativo comunicará tal facto aos conselhos administrativos que liquidarem os vencimentos dos requisitantes, a fim de lhes serem descontadas as importâncias em dívida.
 
-###### Art. 439.º A conferência de todas as contas dos responsáveis por fundos e material na posse do Ministério da Marinha e de todos os documentos que com elas se relacionem é efectuada pela 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, competindo especialmente a esta Repartição o seguinte:
+Art. 439.º A conferência de todas as contas dos responsáveis por fundos e material na posse do Ministério da Marinha e de todos os documentos que com elas se relacionem é efectuada pela 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, competindo especialmente a esta Repartição o seguinte:
 
 1.º Conferir as contas de caixa e de material dos diversos responsáveis e todos os seus documentos, elaborando os relatórios de conferência que devem acompanhar, em duplicado, as mesmas contas na sua remessa à Comissão Liquidatária de Responsabilidades para ajustamento e aprovação;
 
@@ -704,7 +724,7 @@ b) ...
 
 6.º Conferir as contas e os documentos que, de acordo com legislação especial, lhe devam ser enviados, elaborando os respectivos relatórios e procedendo como se indica no número anterior.
 
-###### Art. 440.º No exercício das funções indicadas no artigo anterior, a 3.ª Repartição deverá:
+Art. 440.º No exercício das funções indicadas no artigo anterior, a 3.ª Repartição deverá:
 
 1.º Registar as requisições de fundos e os avisos de saques que, depois de autorizados pela 6.ª Repartição da Direcção-Geral da Contabilidade Pública, lhe sejam enviados para esse fim;
 
@@ -726,35 +746,35 @@ b) ...
 
 § único. (Eliminado).
 
-###### Art. 441.º Compete ainda à 3.ª Repartição propor ao intendente a nomeação de oficiais que nela prestem serviço para, como delegados da Intendência, procederem à conferência in loco das contas e documentos que, nos termos legais, não devam ser enviados àquela Repartição.
+Art. 441.º Compete ainda à 3.ª Repartição propor ao intendente a nomeação de oficiais que nela prestem serviço para, como delegados da Intendência, procederem à conferência in loco das contas e documentos que, nos termos legais, não devam ser enviados àquela Repartição.
 
 § único. Os relatórios da conferência de que trata este artigo devem ser informados pelo chefe da 3.ª Repartição e por ele apresentados ao intendente para este os aprovar, ou, se assim o entender, os submeter a despacho do Ministro da Marinha. Sempre que a matéria neles contida o justifique, poderá o Ministro determinar que os relatórios e as respectivas informações sejam presentes à Comissão Liquidatária de Responsabilidades para sobre eles ser emitido parecer.
 
-###### Art. 442.º As inspecções administrativas, a cargo do serviço de inspecções administrativas da Intendência dos Serviços de Administração Financeira da Marinha, destinam-se a inspeccionar in loco os actos praticados pelos responsáveis por fundos e material na posse do Ministério da Marinha e a relatar a forma como, por esses responsáveis, são cumpridas as determinações e disposições legais em matéria administrativa.
+Art. 442.º As inspecções administrativas, a cargo do serviço de inspecções administrativas da Intendência dos Serviços de Administração Financeira da Marinha, destinam-se a inspeccionar in loco os actos praticados pelos responsáveis por fundos e material na posse do Ministério da Marinha e a relatar a forma como, por esses responsáveis, são cumpridas as determinações e disposições legais em matéria administrativa.
 
 § único. Para os efeitos indicados neste artigo, aos oficiais que realizem as inspecções devem ser facultados todos os livros, documentos, material e instalações que de qualquer modo se relacionem com os objectivos da inspecção e com os actos administrativos praticados.
 
-###### Art. 443.º As inspecções, a realizar nas próprias unidades ou serviços e suas dependências, poderão revestir o carácter de ordinárias ou extraordinárias.
+Art. 443.º As inspecções, a realizar nas próprias unidades ou serviços e suas dependências, poderão revestir o carácter de ordinárias ou extraordinárias.
 
 § único. São ordinárias as inspecções completas; são extraordinárias as que, por virtude de urgência ou de outra circunstância especial, se destinem a obter ràpidamente os elementos necessários à apreciação de determinado acto de natureza administrativa.
 
-###### Art. 444.º As inspecções, quer ordinárias, quer extraordinárias, poderão ser presididas pelo intendente dos Serviços de Administração Financeira da Marinha, pelo chefe do serviço de inspecções administrativas ou por outro oficial superior de administração naval do mesmo serviço. As inspecções extraordinárias poderão também ser presididas por um oficial superior de administração naval em serviço na 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, nomeado pelo intendente, que lhe indicará o objectivo a atingir.
+Art. 444.º As inspecções, quer ordinárias, quer extraordinárias, poderão ser presididas pelo intendente dos Serviços de Administração Financeira da Marinha, pelo chefe do serviço de inspecções administrativas ou por outro oficial superior de administração naval do mesmo serviço. As inspecções extraordinárias poderão também ser presididas por um oficial superior de administração naval em serviço na 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha, nomeado pelo intendente, que lhe indicará o objectivo a atingir.
 
 § único. Os oficiais que, nos termos deste artigo, presidirem às inspecções serão acompanhados pelos oficiais da Intendência que forem considerados necessários, terão a faculdade de requisitar os técnicos que julgarem úteis para o bom desempenho das suas funções e poderão, ainda, servir-se de elementos pertencentes às unidades e serviços apoiados pelos conselhos administrativos a inspeccionar para os auxiliarem ou esclarecerem no trabalho de inspecção.
 
-###### Art. 445.º Quando a inspecção não for presidida pelo intendente dos Serviços de Administração Financeira da Marinha, o oficial que presidir actua sempre em nome e por delegação daquele. Se, porém, a unidade ou serviço for comandada ou dirigida por oficial general, a inspecção ao respectivo conselho administrativo só poderá ter lugar por determinação do Ministro da Marinha, sobre proposta ou não do intendente, devendo o despacho ministerial indicar o oficial da Intendência que, por delegação do Ministro, presidirá à inspecção.
+Art. 445.º Quando a inspecção não for presidida pelo intendente dos Serviços de Administração Financeira da Marinha, o oficial que presidir actua sempre em nome e por delegação daquele. Se, porém, a unidade ou serviço for comandada ou dirigida por oficial general, a inspecção ao respectivo conselho administrativo só poderá ter lugar por determinação do Ministro da Marinha, sobre proposta ou não do intendente, devendo o despacho ministerial indicar o oficial da Intendência que, por delegação do Ministro, presidirá à inspecção.
 
-###### Art. 446.º Os relatórios das inspecções, que serão subscritos por todos os oficiais que as tiverem efectuado, deverão indicar se foram cumpridas pelos responsáveis as determinações legais em matéria administrativa e se os interesses do Estado foram devidamente defendidos nos actos de administração praticados.
+Art. 446.º Os relatórios das inspecções, que serão subscritos por todos os oficiais que as tiverem efectuado, deverão indicar se foram cumpridas pelos responsáveis as determinações legais em matéria administrativa e se os interesses do Estado foram devidamente defendidos nos actos de administração praticados.
 
 § 1.º Os relatórios, excepto os respeitantes às inspecções presididas pelo intendente dos Serviços de Administração Financeira da Marinha, serão entregues em quadruplicado ao chefe do serviço de inspecções administrativas, o qual, depois de os ter informado, os apresentará ao intendente.
 
 § 2.º Os relatórios serão apreciados pelo intendente, que os submeterá a despacho do Ministro da Marinha sempre que o julgue conveniente e, necessàriamente, quando respeitem a inspecções realizadas nas condições previstas na segunda parte do artigo 445.º Quando a matéria neles contida o justifique, poderá o Ministro determinar que os relatórios e as respectivas informações sejam presentes à Comissão Liquidatária de Responsabilidades para sobre eles ser emitido parecer.
 
-###### Art. 447.º A Comissão Liquidatária de Responsabilidades é um organismo directamente dependente do Ministro da Marinha, competindo-lhe, por delegação do Tribunal de Contas, o ajustamento e a aprovação das contas dos responsáveis por fundos e material do Estado na posse do Ministério da Marinha.
+Art. 447.º A Comissão Liquidatária de Responsabilidades é um organismo directamente dependente do Ministro da Marinha, competindo-lhe, por delegação do Tribunal de Contas, o ajustamento e a aprovação das contas dos responsáveis por fundos e material do Estado na posse do Ministério da Marinha.
 
 § único. A Comissão, com a composição fixada em diploma especial, tem carácter permanente e dispõe de uma secretaria própria.
 
-###### Art. 448.º A Comissão Liquidatária de Responsabilidades tem as seguintes atribuições:
+Art. 448.º A Comissão Liquidatária de Responsabilidades tem as seguintes atribuições:
 
 1.ª Exigir o cumprimento dos preceitos estabelecidos neste Regulamento, nas leis gerais da contabilidade pública e em outras determinações legais por parte dos responsáveis por actos administrativos;
 
@@ -782,9 +802,9 @@ b) ...
 
 § único. (Eliminado).
 
-###### Art. 449.º A Comissão Liquidatária de Responsabilidades reúne, em regra, quinzenalmente ou quando convocada pelo seu presidente, por sua iniciativa ou a pedido de algum dos outros membros.
+Art. 449.º A Comissão Liquidatária de Responsabilidades reúne, em regra, quinzenalmente ou quando convocada pelo seu presidente, por sua iniciativa ou a pedido de algum dos outros membros.
 
-###### Art. 450.º Das reuniões da Comissão Liquidatária de Responsabilidades lavrar-se-á acta, donde constará a data da sessão, os nomes dos membros presentes, os assuntos tratados e as deliberações tomadas, apensando-se a cada acta cópias devidamente assinadas dos pareceres que sejam aprovados nessa reunião.
+Art. 450.º Das reuniões da Comissão Liquidatária de Responsabilidades lavrar-se-á acta, donde constará a data da sessão, os nomes dos membros presentes, os assuntos tratados e as deliberações tomadas, apensando-se a cada acta cópias devidamente assinadas dos pareceres que sejam aprovados nessa reunião.
 
 § único. Nas reuniões da Comissão e na redacção das respectivas actas devem seguir-se, na parte aplicável, as disposições dos artigos 7.º, 10.º, 276.º e 277.º deste Regulamento.
 

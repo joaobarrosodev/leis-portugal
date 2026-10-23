@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-1977-280690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:28:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4413b2c2f16133f1030654d41271937363f8eecc5449ceab4134ae78c19bc6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3287abacd53c8aa9eb2cc1a19a25f69b260033be1158bb230b9e32298eca238
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:28:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AGA
+- Álcool
+- Comércio
+- Fixação de Preços
+- Preço
+- Preço de Venda
 relationships:
 - type: amended_by
   target: pt:dre:370603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:279793:por
+  label: Rectificados o n.º 4 do n.º 1.º e o n.º 1 do n.º 5.º pelo(a) Declaração - Diário da República n.º 281/1977, Série
+    I de 1977-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-279793
+  date: '1977-12-06'
+- type: repealed_by
+  target: pt:dre:370603:por
+  label: "Revogada pela PORT.483/79.07.09.1979.MCT, DR.IS [207] de 07.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-1979-370603
+  date: '1979-09-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:28:50Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +133,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 1.º - 1 - Os preços por litro de álcool etílico a vender no continente pela Administração-Geral do Açúcar e do Álcool (AGA) são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf)
 
 2 - Consideram-se incluídas no grupo A as farmácias e drogarias; no grupo B, os hospitais, casas de saúde e similares administrados pelo Estado ou corpos administrativos, os estabelecimentos fabris do Estado, as pessoas colectivas de utilidade pública administrativa, os fabricantes de especialidades farmacêuticas, as instalações frigoríficas, os industriais de produtos químicos utilizadores de álcool como reagente, bem como os fabricantes de tintas e vernizes; no grupo C, os fabricantes de bebidas espirituosas de origem não vínica, de perfumes, cosméticos e outros produtos de higiene pessoal, os industriais gráficos e de conjuntos electrónicos, bem como outros industriais utilizadores de álcool no seu processo de fabrico, não incluídos no grupo B.
 
@@ -116,7 +145,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º - 1 - Os preços de venda ao público no continente são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf))](https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/26300/27092710.pdf)
 
 2 - Os preços a que se refere o número anterior incluem todas as importâncias correspondentes aos encargos de comercialização, abrangendo o lucro e o imposto de transacções.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23537-1968-276191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07607cb9f9e1a2644f839430c86fbc694652a2194894f59798890c9915f04eed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cb1d75c5008e2de649d6e086f7db3ff4f7c4f213ef31704ab235d3f1fd7565f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:08Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +104,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Pagamento de serviços:
 
-###### Artigo 1.º, n.º 1) «Despesas de comunicações - Transportes aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 12990$00
+Artigo 1.º, n.º 1) «Despesas de comunicações - Transportes aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas» ... 12990$00
 
 ### CAPÍTULO II — Serviços próprios do Conselho Ultramarino
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 85250$00
+Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 85250$00
 
-###### Artigo 4.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações - A treze vogais (três eleitos e dez nomeados)» ... 27000$00
+Artigo 4.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações - A treze vogais (três eleitos e dez nomeados)» ... 27000$00
 
 ... 75240$00
 

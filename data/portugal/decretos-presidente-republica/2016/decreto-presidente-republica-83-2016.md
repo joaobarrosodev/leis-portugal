@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/19300/0348603486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/83/2016/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/83-2016-75481287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec2e9a52f24db05f1717e7eb60751237c441900dae8fccedea4507d4a99232c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cd0566365a8c41679484278d84a61f80f7d7595387fe419d80ec7821eb1f7c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:27:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Marinha
 - Forças Armadas
+- Marinha
 - Vice-chefe do Estado Maior da Armada
 relationships:
 - type: cites
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:27:26Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +97,12 @@ validation:
 
 de 7 de outubro
 
-**O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:
 
 É confirmada a exoneração do cargo de Vice-Chefe do Estado-Maior da Armada do Vice-Almirante José Domingos Pereira da Cunha, efetuada por despacho do Ministro da Defesa Nacional de 3 de outubro de 2016, por transitar para a situação de reserva.
 
-**Assinado em 4 de outubro de 2016.**
+Assinado em 4 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.

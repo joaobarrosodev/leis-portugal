@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-1985-183000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a0b4ba51bbfe0029e3fc0088cd802d920b85e1abe2eb0df105034dd2b5fda8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cfab7a59b1afe0020df17b056b5696d12479bcb9749a3cfefe12cb05453ed05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Inspecção Geral da Segurança Social
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:221773:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:221773:por
+  label: "Alargado o quadro de pessoal aprovado pelo art. 17.º do Dec Lei 136/80, de 20-Mai, alterado pelo presente diploma,\
+    \ pela PORT.537/86.20.09.1986.MF, DR.IS [217] de 20.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/537-1986-221773
+  date: '1986-09-20'
+- type: cites
+  target: pt:dre:474131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:26:47Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +118,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Trabalho e Segurança Social.
 
-**Assinada em 31 de Maio de 1985.**
+Assinada em 31 de Maio de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

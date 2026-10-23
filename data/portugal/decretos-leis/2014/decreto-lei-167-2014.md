@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21500/0566905671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/2014/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2014-58763441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acb870806f6a7efaba5350f9531008298c7a02d53ad8eafb23967a6ed2909907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a08ce8ed31e4e99ac0ca7a0ba588425fc473a371534b17592ccfda53fe05bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
+- Cessação de Actividade
+- Chefe do Estado Maior do Exército
 - Comando da Logística
-- Exército
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
 - Diretor
 - Domínio Público Militar
-- Cessação de Actividade
 - Estabelecimentos Fabris do Exército
+- Exército
 - Extinção de Serviços
 - Gestão do Património
-- Ministério das Finanças
 - Integração de Serviços
 - Integração de Trabalhadores
-- Tribunal de Contas
-- Chefe do Estado Maior do Exército
 - Lei Geral do Trabalho em Funções Públicas
+- Ministério da Defesa Nacional
+- Ministério das Finanças
+- Mobilidade de Pessoal
 - Oficinas Gerais de Fardamento e Equipamento
 - Oficinas Gerais de Material de Engenharia
 - Orçamento
 - Prazo
 - Prestação de Contas
 - Reintegração de Pessoal
-- Mobilidade de Pessoal
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Verbas
 - Transferência Patrimonial
+- Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
@@ -119,16 +119,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2014/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:140540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689981:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:28Z'
   warnings: []
   errors: []
 ---
@@ -273,12 +325,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 28 de outubro de 2014.**
+Promulgado em 28 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de outubro de 2014.**
+Referendado em 29 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

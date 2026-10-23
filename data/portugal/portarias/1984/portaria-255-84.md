@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09300/13001301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-1984-654955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:00:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce941fec653019181383051104fca6631a49a3320894e34837c3c18ff355c2be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481dcf1ff84d85e513e6c6f9a05ff61b3c2cd67f9d5cb212b4ecd5dde4491107
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:00:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bebida Alcoólica
+- Estabelecimento de Bebidas
+- Etiquetagem
+- Margens de Comercialização
+- Preço
+- Preço Máximo
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:440777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385982:por
+  label: "Dada nova redacção ao n.º 2.º do presente diploma , pela PORT.451/84.12.07.1984.MAFA, DR.IS [160] de 12.07.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/451-1984-385982
+  date: '1984-07-12'
+- type: amended_by
+  target: pt:dre:325099:por
+  label: "Dada nova redacção ao nº. 3, pela PORT.176/85.02.04.1985.MA, DR.IS [77] de 02.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/176-1985-325099
+  date: '1985-04-02'
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:440777:por
+  label: "Revogada a partir de 27.12.2008 pelo DR.20/2008.27.11.2008.MEI, DR.IS [231] de 27.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/20-2008-440777
+  date: '2008-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:00:04Z'
   warnings: []
   errors: []
 ---
@@ -119,9 +154,9 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Alimen
 
 Secretarias de Estado da Alimentação e do Comércio Interno.
 
-**Assinada em 12 de Março de 1984.**
+Assinada em 12 de Março de 1984.
 
-**O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.
 
 QUADRO 1
 
@@ -141,4 +176,4 @@ Restaurantes de 2.ª e de 3.ª ... 1,75
 
 Estabelecimentos de bebidas de 2.ª e de 3.ª e estabelecimentos sem interesse para o turismo ... 1,55
 
-**O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

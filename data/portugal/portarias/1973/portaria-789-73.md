@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1973-411674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6783692d12f91c90c0411605dd34c8aed5546d0bf7631ea2602f74db885091ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aea024b64e20a4c8cb674b1ba140530e43086d13ed4495437f20b4df6705b35a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:411315:por
+  label: Rectificada a alínea b) do n.º 2.º pela DECL.DD9533.17.04.1974.PC, DG.IS [90] de 17.04.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-411315
+  date: '1974-04-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:04Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +105,13 @@ Manda a Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 1.º É tornado obrigatório assinalar com as marcas abaixo descritas os animais das espécies bovina ou caprina que tenham sido vacinados contra a brucelose e os considerados atacados ou suspeitos de infecção brucélica;
 
-2.º Para assinalar os animais vacinados contra a brucelose é reservada a marca composta pelo símbolo [([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf), em que os segmentos de recta formam um ângulo de 43º, e por um outro segmento de recta, horizontal e perpendicular à bissectriz daquele ângulo, colocado inferiormente ao vértice (assim configurado [([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf)), com as seguintes dimensões:
+2.º Para assinalar os animais vacinados contra a brucelose é reservada a marca composta pelo símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf), em que os segmentos de recta formam um ângulo de 43º, e por um outro segmento de recta, horizontal e perpendicular à bissectriz daquele ângulo, colocado inferiormente ao vértice (assim configurado [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf)), com as seguintes dimensões:
 
 a) Para os bovinos, os dois primeiros segmentos terão o comprimento de 37 mm e o terceiro de 30 mm;
 
 b) Para os caprinos, aqueles comprimentos serão, respectivamente, de 20 mm e 16 mm;
 
-3.º Para assinalar os animais considerados atacados ou suspeitos de infecção brucélica é reservada a marca com a forma de triângulo equilátero de 50 mm de lado (assim configurado [([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf));
+3.º Para assinalar os animais considerados atacados ou suspeitos de infecção brucélica é reservada a marca com a forma de triângulo equilátero de 50 mm de lado (assim configurado [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26500/21922193.pdf));
 
 4.º Na espécie bovina, em qualquer das circunstâncias, será utilizada a marcação pelo fogo ou por substância cáustica, devendo as respectivas marcas ser apostas na «parte média da região ântero-superior da tábua esquerda do pescoço»;
 

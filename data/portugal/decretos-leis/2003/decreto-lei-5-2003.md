@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/010a00/01100116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2003/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2003-175158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5ba092a81698ac0ea6c7a0a0bf9f1774a9465d5a1b8466d7dc4b3ba881e2413
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 212307b50f914413f16ebbc37d3f654cb1ffa26d3c6f0ecf6d34b62a3fd1ac34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa de Apoio ao Desenvolvimento
 - Criação de Serviços
 - Estatuto
+- Gestão de Recursos Humanos
 - Gestão do Património
 - Instituto da Cooperação Portuguesa
-- Integração de Serviços
 - Instituto Português de Apoio ao Desenvolvimento
-- Gestão de Recursos Humanos
-- Agência Portuguesa de Apoio ao Desenvolvimento
+- Integração de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:520976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602480:por
+  label: "Alterada a al. c) do nº 2 do art. 10º e aditado o art. 20º-A aos Estatutos do IPAD, publicados em anexo, pelo DEC\
+    \ LEI.13/2004.13.01.2004.MNE, DR.IS-A [10] de 13.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2004-602480
+  date: '2004-01-13'
+- type: amended_by
+  target: pt:dre:235905:por
+  label: "Alterado o art. 3º do presente diploma e repristinada a al. c) do nº 2 do art. 10º dos Estatutos do IPAD, constantes\
+    \ do anexo, alterada pelo Dec Lei 13/2004 de 13-Jan, pelo DEC LEI.110/2005.08.07.2005.MNE, DR.IS-A [130] de 08.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2005-235905
+  date: '2005-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/192/2001/06/26/p/dre
   label: null
@@ -95,16 +108,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520976:por
+  label: "Revogado pelo DEC LEI.120/2007.27.04.2007.MNE, DR.IS [82] de 27.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2007-520976
+  date: '2007-04-27'
 article_structure:
   article_count: 32
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:46Z'
   warnings: []
   errors: []
 ---
@@ -215,15 +253,15 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 23 de Dezembro de 2002.**
+Promulgado em 23 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Janeiro de 2003.**
+Referendado em 6 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Estatutos do Instituto Português de Apoio ao Desenvolvimento
 
@@ -303,7 +341,7 @@ d) Colaborar com todas as entidades portuguesas que executem projectos de cooper
 
 ###### Artigo 5.º — Superintendência
 
-**O Ministro dos Negócios Estrangeiros superintende a actividade do IPAD, emitindo directivas sobre os objectivos a atingir na gestão e sobre as prioridades a adoptar na prossecução das suas atribuições.**
+O Ministro dos Negócios Estrangeiros superintende a actividade do IPAD, emitindo directivas sobre os objectivos a atingir na gestão e sobre as prioridades a adoptar na prossecução das suas atribuições.
 
 ###### Artigo 6.º — Tutela
 

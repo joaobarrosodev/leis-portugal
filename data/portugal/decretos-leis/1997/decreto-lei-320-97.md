@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/1997/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1997-406567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2ed6d53c8a469dbba9b8e1b65f80d64b85d27e3f5a4e4722c2da0b4ccf372df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a79c3f607afa0bbd0013e45305f448b28f020df72857f6e666659d0f1d8dda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,26 @@ relationships:
   target: pt:dre:494547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138778:por
+  label: "Alterado o art. 44º do Dec Lei 24/91, de 11-Jan, na redacção do presente diploma, pelo DEC LEI.102/99.31.03.1999.MF,\
+    \ DR.IS-A [76] de 31.03.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-1999-138778
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art 77º do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola, aprovado\
+    \ pelo Dec Lei 24/91 de 11-Jan, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl]\
+    \ de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:494547:por
+  label: "Alterados os arts. 13º, 15º, 17º e 19º, 36º-A, 43º, 44º, 47º e 77º-A do Regime Jurídico do Crédito Agrícola Mútuo\
+    \ e das Cooperativas de Crédito Agrícola Mútuo, aprovado pelo Dec Lei 24/91, de 11-Jan, na redacção do presente diploma,\
+    \ pelo DEC LEI.142/2009.16.06.2009.MFAP, DR.IS [114] de 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2009-494547
+  date: '2009-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/230/1995/09/12/p/dre
   label: null
@@ -83,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:192786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:41Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +145,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 13.º, 15.º, 17.º, 19.º, 36.º-A, 43.º, 44.º, 47.º, 77.º e 77.º-A do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 13.º, 15.º, 17.º, 19.º, 36.º-A, 43.º, 44.º, 47.º, 77.º e 77.º-A do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, passam a ter a seguinte redacção:
 
 «Artigo 13.º
 
@@ -123,11 +155,15 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Sem prejuízo de os estatutos poderem prever importância superior, o montante mínimo de capital que cada novo associado deve subscrever e realizar integralmente na data de admissão é de 50000$00, se a mesma ocorrer até 31 de Dezembro de 1998, e de 100000$00, se ocorrer após essa data.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 6, o capital social das caixas agrícolas só pode ser reduzido por amortização dos títulos de capital nos casos de:
 
@@ -161,7 +197,9 @@ c) Nos casos de exclusão de associado de caixa agrícola pertencente ao sistema
 
 6 - (Actual n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -177,7 +215,9 @@ c) Tenham como actividade o fabrico ou comercialização de produtos directament
 
 4 - ...
 
-###### Artigo 36.º-A — [...]
+Artigo 36.º-A
+
+[...]
 
 1 - ...
 
@@ -193,7 +233,9 @@ c) Tenham como actividade o fabrico ou comercialização de produtos directament
 
 7 - O Banco de Portugal fixará, por instruções, o limite do valor global das operações realizadas ao abrigo das autorizações concedidas nos termos do número anterior, em percentagem do valor do respectivo activo.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, os resultados obtidos pelas caixas agrícolas, após cobertura de eventuais perdas de exercícios anteriores e após as reversões para as diversas reservas, podem retornar aos associados sob a forma de remuneração dos títulos de capital ou outras formas de distribuição, nos termos do Código Cooperativo.
 
@@ -201,7 +243,9 @@ c) Tenham como actividade o fabrico ou comercialização de produtos directament
 
 3 - Quando o associado for detentor de títulos de capital em montante inferior a 50000$00, a parte que lhe couber na operação de distribuição de resultados será aplicada no aumento da sua participação no capital da caixa agrícola até ser atingido aquele montante.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +265,9 @@ b) 20%, no mínimo, à reserva especial, até que esta atinja montante igual aos
 
 c) [Actual alínea b).]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A revogação da autorização a uma caixa agrícola implica a sua dissolução e liquidação, nos termos previstos para as instituições de crédito em geral, com as especialidades previstas neste diploma.
 
@@ -237,7 +283,9 @@ c) [Actual alínea b).]
 
 7 - Quando se verificar a situação prevista no n.º 3, não são aplicáveis o artigo 22.º e os capítulos IV e seguintes do [Decreto-Lei n.º 30689](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30689-1940-192786), de 27 de Agosto de 1940.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +303,9 @@ c) [Actual alínea b).]
 
 8 - ...
 
-###### Artigo 77.º-A — [...]
+Artigo 77.º-A
+
+[...]
 
 1 - ...
 
@@ -289,12 +339,12 @@ c) Um revisor oficial de contas designado pela Federação Nacional.
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1997.**
+Referendado em 13 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

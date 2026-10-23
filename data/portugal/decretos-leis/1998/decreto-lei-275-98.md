@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/275/1998/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70fdae81019b6b922830a5d08a1a0d8833d8e8d0f026a098f0ade869351e77db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1e16b89a3864ad1336ebd24a2356727f7c53d2e614c1e43022094fbf35c95e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
 - Código da Publicidade
-- Multa
 - Contra-ordenação
 - Definição de Competências
-- Saúde Pública
+- Multa
 - Proteção do Consumidor
-- Suporte Publicitário
+- Publicidade
 - Publicidade do Estado
+- Saúde Pública
+- Suporte Publicitário
 relationships:
 - type: amended_by
   target: pt:dre:122151046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536644:por
+  label: Alterado o art. 39.º do Código da Publicidade, aprovado pelo Dec Lei 330/90, de 23-Out, na redacção do presente diploma,
+    pelo DEC LEI.332/2001.2001.12.24.PCM DR.IS-A [296]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-2001-536644
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:209822:por
+  label: "Alterados os arts. 5.º e 27.º do Código da Publicidade, aprovado pelo Dec Lei 330/90, de 23-Out, na redacção do\
+    \ presente diploma, pelo DEC LEI.224/2004.04.12.2004.PCM, DR.IS-A [284] de 04.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2004-209822
+  date: '2004-12-04'
+- type: amended_by
+  target: pt:dre:246504:por
+  label: Alterados os n.ºs 1, 2 e 3 do art. 11.º e o art. 16.º e revogados os n.ºs 4 e 5 do art. 11.º e o art. 22.º-B do Código
+    da Publicidade, aprovado pelo Dec Lei 330/90 de 23-Out, com a redacção dada pelo presente diploma, pelo DEC LEI.57/2008.26.03.2008.MEI,
+    DR.IS [60] de 26.03.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2008-246504
+  date: '2008-03-26'
+- type: amended_by
+  target: pt:dre:67098359:por
+  label: Alterados, a partir de 28.06.2015, os arts. 21.º e 40.º do Código da Publicidade, aprovado pelo Dec Lei 330/90 de
+    23-out, republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I
+    de 2015-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2015-67098359
+  date: '2015-04-29'
+- type: amended_by
+  target: pt:dre:122151046:por
+  label: Alterados, a partir de 22.06.2019, os arts. 34.º e 40.º (o último na redação da Lei 32/2003 de 22-ago e do Dec Lei
+    66/2015 de 29-abr) e adita os arts. 20.º-A e 20.º-B ao Código da Publicidade, aprovado pelo Dec Lei 330/90 de 23-out,
+    na versão republicada do código pelo presente diploma, pelo(a) Lei n.º 30/2019 - Diário da República n.º 79/2019, Série
+    I de 2019-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2019-122151046
+  date: '2019-04-23'
 - type: cites
   target: celex:31997L0036
   label: null
@@ -101,15 +135,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1993/03/10/p/dre
 article_structure:
-  article_count: 73
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 52
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:02Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +192,9 @@ Conceito de actividade publicitária
 
 2 - ...
 
-###### Artigo 5.º — Anunciante, profissional, agência de publicidade, suporte publicitário e destinatário
+Artigo 5.º
+
+Anunciante, profissional, agência de publicidade, suporte publicitário e destinatário
 
 Para efeitos do disposto no presente diploma, considera-se:
 
@@ -170,7 +206,9 @@ c) ...
 
 d) ...
 
-###### Artigo 7.º — Princípio da licitude
+Artigo 7.º
+
+Princípio da licitude
 
 1 - ...
 
@@ -196,7 +234,9 @@ h) ...
 
 4 - É admitida a utilização excepcional de palavras ou de expressões em línguas de outros países quando necessárias à obtenção do efeito visado na concepção da mensagem.
 
-###### Artigo 11.º — Publicidade enganosa
+Artigo 11.º
+
+Publicidade enganosa
 
 1 - É proibida toda a publicidade que, por qualquer forma, incluindo a sua apresentação, e devido ao seu carácter enganador, induza ou seja susceptível de induzir em erro os seus destinatários, independentemente de lhes causar qualquer prejuízo económico, ou que possa prejudicar um concorrente.
 
@@ -208,11 +248,15 @@ h) ...
 
 5 - Os dados referidos nos números anteriores presumem-se inexactos se as provas exigidas não forem apresentadas ou forem insuficientes.
 
-###### Artigo 12.º — Princípio do respeito pelos direitos do consumidor
+Artigo 12.º
+
+Princípio do respeito pelos direitos do consumidor
 
 É proibida a publicidade que atente contra os direitos do consumidor.
 
-###### Artigo 14.º — Menores
+Artigo 14.º
+
+Menores
 
 1 - ...
 
@@ -226,7 +270,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 16.º — Publicidade comparativa
+Artigo 16.º
+
+Publicidade comparativa
 
 1 - É comparativa a publicidade que identifica, explícita ou implicitamente, um concorrente ou os bens ou serviços oferecidos por um concorrente.
 
@@ -254,15 +300,21 @@ h) Não apresente um bem ou serviço como sendo imitação ou reprodução de um
 
 5 - O ónus da prova da veracidade da publicidade comparativa recai sobre o anunciante.
 
-###### Artigo 18.º — Tabaco
+Artigo 18.º
+
+Tabaco
 
 São proibidas, sem prejuízo do disposto em legislação especial, todas as formas de publicidade ao tabaco através de suportes sob a jurisdição do Estado Português.
 
-###### Artigo 20.º — Publicidade em estabelecimentos de ensino ou destinada a menores
+Artigo 20.º
+
+Publicidade em estabelecimentos de ensino ou destinada a menores
 
 É proibida a publicidade a bebidas alcoólicas, ao tabaco ou a qualquer tipo de material pornográfico em estabelecimentos de ensino, bem como em quaisquer publicações, programas ou actividades especialmente destinados a menores.
 
-###### Artigo 22.º — Cursos
+Artigo 22.º
+
+Cursos
 
 A mensagem publicitária relativa a cursos ou quaisquer outras acções de formação ou aperfeiçoamento intelectual, cultural ou profissional deve indicar:
 
@@ -270,7 +322,9 @@ a) A natureza desses cursos ou acções, de acordo com a designação oficialmen
 
 b) A expressão «sem reconhecimento oficial», sempre que este não tenha sido atribuído pelas entidades oficiais competentes.
 
-###### Artigo 23.º — Publicidade domiciliária e por correspondência
+Artigo 23.º
+
+Publicidade domiciliária e por correspondência
 
 1 - ...
 
@@ -288,7 +342,9 @@ d) O preço do bem ou serviço e a respectiva forma de pagamento, bem como as co
 
 4 - O destinatário da publicidade abrangida pelo disposto nos números anteriores não é obrigado a adquirir, guardar ou devolver quaisquer bens ou amostras que lhe tenham sido enviados ou entregues à revelia de solicitação sua.
 
-###### Artigo 24.º — Patrocínio
+Artigo 24.º
+
+Patrocínio
 
 1 - Entende-se por patrocínio, para efeitos do presente diploma, a participação de pessoas singulares ou colectivas que não exerçam a actividade televisiva ou de produção de obras áudio-visuais no financiamento de quaisquer obras áudio-visuais, programas, reportagens, edições, rubricas ou secções, adiante designados abreviadamente por programas, independentemente do meio utilizado para a sua difusão, com vista à promoção do seu nome, marca ou imagem, bem como das suas actividades, bens ou serviços.
 
@@ -302,9 +358,13 @@ d) O preço do bem ou serviço e a respectiva forma de pagamento, bem como as co
 
 6 - Os programas patrocinados não podem incitar à compra ou locação dos bens ou serviços do patrocinador ou de terceiros, especialmente através de referências promocionais específicas a tais bens ou serviços.
 
-### CAPÍTULO III — Publicidade na televisão e televenda
+CAPÍTULO III
 
-###### Artigo 25.º — Inserção da publicidade na televisão
+Publicidade na televisão e televenda
+
+Artigo 25.º
+
+Inserção da publicidade na televisão
 
 1 - ...
 
@@ -324,7 +384,9 @@ d) O preço do bem ou serviço e a respectiva forma de pagamento, bem como as co
 
 9 - Para efeitos do disposto no presente artigo, entende-se por duração programada de um programa o tempo efectivo do mesmo, descontando o período dedicado às interrupções, publicitárias e outras.
 
-###### Artigo 27.º — Publicidade do Estado
+Artigo 27.º
+
+Publicidade do Estado
 
 1 - A publicidade do Estado deve ser feita por profissionais ou agências de publicidade certificados, sem prejuízo do disposto no número seguinte.
 
@@ -332,13 +394,17 @@ d) O preço do bem ou serviço e a respectiva forma de pagamento, bem como as co
 
 3 - Uma percentagem da publicidade a que se referem os números anteriores, desde que a tal não se oponham os respectivos objectivos ou condicionalismos técnicos, deve ser colocada em rádios locais e na imprensa regional, nos termos e quantitativos a definir por portaria do membro do Governo responsável pela área da comunicação social.
 
-###### Artigo 30.º — Responsabilidade civil
+Artigo 30.º
+
+Responsabilidade civil
 
 1 - Os anunciantes, os profissionais, as agências de publicidade e quaisquer outras entidades que exerçam a actividade publicitária, bem como os titulares dos suportes publicitários utilizados ou os respectivos concessionários, respondem civil e solidariamente, nos termos gerais, pelos prejuízos causados a terceiros em resultado da difusão de mensagens publicitárias ilícitas.
 
 2 - ...
 
-###### Artigo 34.º — Sanções
+Artigo 34.º
+
+Sanções
 
 1 - ...
 
@@ -350,7 +416,9 @@ c) De 75000$00 a 500000$00 ou de 300000$00 a 1600000$00, consoante o infractor s
 
 2 - A negligência é sempre punível, nos termos gerais.
 
-###### Artigo 35.º — Sanções acessórias
+Artigo 35.º
+
+Sanções acessórias
 
 1 - ...
 
@@ -360,15 +428,21 @@ c) De 75000$00 a 500000$00 ou de 300000$00 a 1600000$00, consoante o infractor s
 
 4 - Em casos graves ou socialmente relevantes pode a entidade competente para decidir da aplicação da coima ou das sanções acessórias determinar a publicidade da punição por contra-ordenação, a expensas do infractor.
 
-###### Artigo 36.º — Responsabilidade pela contra-ordenação
+Artigo 36.º
+
+Responsabilidade pela contra-ordenação
 
 São punidos como agentes das contra-ordenações previstas no presente diploma o anunciante, o profissional, a agência de publicidade ou qualquer outra entidade que exerça a actividade publicitária, o titular do suporte publicitário ou o respectivo concessionário, bem como qualquer outro interveniente na emissão da mensagem publicitária.
 
-###### Artigo 38.º — Instrução dos processos
+Artigo 38.º
+
+Instrução dos processos
 
 A instrução dos processos pelas contra-ordenações previstas neste diploma compete ao Instituto do Consumidor.
 
-###### Artigo 39.º — Aplicação de sanções
+Artigo 39.º
+
+Aplicação de sanções
 
 1 - ...
 
@@ -390,7 +464,9 @@ b) Em 20% para o Instituto do Consumidor;
 
 c) Em 60% para o Estado.
 
-###### Artigo 41.º — Medidas cautelares
+Artigo 41.º
+
+Medidas cautelares
 
 1 - Em caso de publicidade enganosa, publicidade comparativa ilícita ou de publicidade que, pelo seu objecto, forma ou fim, acarrete ou possa acarretar riscos para a saúde, a segurança, os direitos ou os interesses legalmente protegidos dos seus destinatários, de menores ou do público a entidade competente para a aplicação das coimas previstas no presente diploma, sob proposta das entidades com competência para a fiscalização das infracções em matéria de publicidade, pode ordenar medidas cautelares de suspensão, cessação ou proibição daquela publicidade, independentemente de culpa ou da prova de uma perda ou de um prejuízo real.
 
@@ -428,7 +504,9 @@ Produtos e serviços milagrosos
 
 5 - A comprovação científica a que se refere o n.º 2 bem como os dados de facto e os benefícios a que se refere o número anterior presumem-se inexistentes ou inexactos se as provas exigidas não forem imediatamente apresentadas ou forem insuficientes.
 
-###### Artigo 25.º-A — Televenda
+Artigo 25.º-A
+
+Televenda
 
 1 - Considera-se televenda, para efeitos do presente diploma, a difusão de ofertas directas ao público, realizada por canais televisivos, com vista ao fornecimento de produtos ou à prestação de serviços, incluindo bens imóveis, direitos e obrigações mediante remuneração.
 
@@ -466,13 +544,13 @@ O texto integral do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/9
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 31 de Julho de 1998.**
+Promulgado em 31 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Agosto de 1998.**
+Referendado em 20 de Agosto de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 

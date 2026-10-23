@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/631-1977-279240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe117bb66380e097436e3643c79bb31726b7075c89dd311e4bd132ddf2f95b57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44b47f7c1549e30c6add80469342da19b58e68c1f295dcb5ed002612c50d2c62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete de Gestão do Fundo de Desemprego
+- Orçamento
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:27:16Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +93,6 @@ de 4 de Outubro
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças e pelo Secretário de Estado da População e Emprego, que no orçamento do Gabinete de Gestão do Fundo de Desemprego, com fundamento no n.º 7 do artigo 7.º do [Decreto-Lei n.º 759/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1974-256805), de 30 de Dezembro, sejam efectuadas as seguintes transferências de verbas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/10/23000/24312431.pdf))](https://files.diariodarepublica.pt/1s/1977/10/23000/24312431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/10/23000/24312431.pdf)
 
 Presidência do Conselho de Ministros e Ministério das Finanças, 24 de Agosto de 1977. - O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da População e Emprego, Manuel Alfredo Tito de Morais.

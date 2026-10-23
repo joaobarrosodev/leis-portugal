@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/06700/0170601710.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2017/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2017-106824980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b77cbb3f48bf049f79acccab25401b030d2cbdf5b00bb84e7d57125a02714610
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2e1474b14d0367960f1dd9b18d3d0b5bccc78fabaca941a125eb740b848fd12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Capital Social
+- Conselho Nacional para a Promoção do Voluntariado
 - Conselho Nacional para as Políticas de Solidariedade Voluntariado Família Reabilitação e Segurança Social
-- Sector Cooperativo
 - Cooperativa António Sérgio
 - Definição de Competências
-- Extinção de Serviços
-- Conselho Nacional para a Promoção do Voluntariado
 - Economia Social
+- Extinção de Serviços
+- Financiamento
+- Sector Cooperativo
 - Transferência de Competências
 - Utilidade Pública
 relationships:
@@ -118,16 +118,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:145193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:41Z'
   warnings: []
   errors: []
 ---
@@ -246,13 +298,17 @@ b) Acompanhar a execução dos projetos e programas previstos na alínea anterio
 
 7 - Compete, ainda, à Cooperativa António Sérgio prosseguir as demais atribuições que lhe forem conferidas por lei.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
 2 - Pode ser deliberada em assembleia geral a constituição de outras reservas que devam ser consideradas obrigatórias, para além das previstas nos artigos 96.º e 97.º do Código Cooperativo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -260,7 +316,9 @@ b) Acompanhar a execução dos projetos e programas previstos na alínea anterio
 
 3 - Para além do disposto no número anterior, a execução das atribuições sociais da Cooperativa António Sérgio pode, ainda, ser financiada através de comparticipações e subsídios provenientes de candidaturas aos Fundos da União.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -292,15 +350,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2016. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - José António Fonseca Vieira da Silva.
 
-**Promulgado em 14 de março de 2017.**
+Promulgado em 14 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de março de 2017.**
+Referendado em 23 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

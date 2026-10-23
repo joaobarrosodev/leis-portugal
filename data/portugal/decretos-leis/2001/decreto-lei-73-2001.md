@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2001/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2001-385026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dc69e2795378bf7c873038c663ef8a08edac1ebf211132a7186d2051de2917d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca076d1aedaa93dd75499abce73e68d58abc867fc575c1a70ce87e4c87227a47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,51 @@ reuse:
 subjects:
 - Agente Aduaneiro
 - Alfândega
-- Garantia
 - Câmara dos Despachantes Oficiais
 - Cédula Profissional
-- Formação Profissional
 - Deontologia Profissional
 - Desalfândegamento
 - Despachante Oficial
 - Documento Aduaneiro
 - Estatuto
-- Infracção Disciplinar
+- Formação Profissional
 - Fraude Aduaneira
-- Ministro das Finanças
+- Garantia
 - Incompatibilidades
+- Infracção Disciplinar
 - Licenciamento
-- Sanção Penal
+- Ministro das Finanças
 - Profissão Independente
 - Reforma Aduaneira
 - Regulamento das Alfândegas
 - Remuneração
+- Sanção Penal
 relationships:
 - type: amended_by
   target: pt:dre:225397113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:639101:por
+  label: "Alterados os artigos 61.º, 68.º e 79.º do Estatuto da Câmara dos Despachantes Oficiais, aprovado pelo Decreto-Lei\
+    \ 173/98, de 26 de Junho, na redacção do presente diploma pelo DEC LEI.228/2007.11.06.2007.MFAP, DR.IS [111] e republicado\
+    \ o estatuto\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2007-639101
+  date: '2007-06-11'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 1º e 2º do Dec Lei 289/88, de 24-Ago, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:70128395:por
+  label: Transformada, a partir de 26.09.2015, a Câmara dos Despachantes Oficiais em Ordem dos Despachantes Oficiais, e alterado,
+    a partir daquela data, o respetivo Estatuto (que passou a designar-se Estatuto da Ordem dos Despachantes Oficiais), aprovado
+    e publicado pelo Dec Lei 173/98, de 26-jun, com a redação do presente diploma, pelo(a) Lei n.º 112/2015 - Diário da República
+    n.º 167/2015, Série I de 2015-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/112-2015-70128395
+  date: '2015-08-27'
 - type: cites
   target: celex:31992R2913
   label: null
@@ -101,16 +122,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1999/11/03/p/dre
+- type: repealed_by
+  target: pt:dre:70128395:por
+  label: Revogado, a partir de 26.09.2015, o Dec Lei 445/99 de 03-nov, na redação do presente Dec Lei, de 26 de fevereiro
+    pelo(a) Lei n.º 112/2015 - Diário da República n.º 167/2015, Série I de 2015-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/112-2015-70128395
+  date: '2015-08-27'
 article_structure:
-  article_count: 27
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:07Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +190,9 @@ c) Tenham apresentado anualmente, e durante o período de tempo exigido, pelo me
 
 4 - A prova das condições previstas nas alíneas b) e c) do n.º 1 será feita por certidão emitida pela alfândega, a pedido do interessado e mediante prévia identificação das declarações apresentadas.
 
-###### Artigo 3.º — Disposições transitórias relativas a agentes aduaneiros e despachantes privativos
+Artigo 3.º
+
+Disposições transitórias relativas a agentes aduaneiros e despachantes privativos
 
 Os agentes aduaneiros e os despachantes privativos, em funções à data da entrada em vigor do Decreto-Lei n.º 445/99, de 3 de Novembro, poderão optar, no prazo de 30 dias, contados da entrada em vigor do presente diploma:
 
@@ -173,7 +202,9 @@ b) Pelo pedido de inscrição na Câmara dos Despachantes Oficiais (CDO) como de
 
 c) Pelo cancelamento da inscrição na CDO como despachantes oficiais, feita ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 445/99, de 3 de Novembro, caso em que lhes serão restituídas pela CDO as importâncias pagas a título de inscrição e de obtenção da respectiva cédula, retomando a respectiva categoria profissional, nos termos da alínea a).
 
-###### Artigo 4.º — Alterações à Reforma Aduaneira
+Artigo 4.º
+
+Alterações à Reforma Aduaneira
 
 1 - Os artigos 426.º, 427.º, 430.º, 430.º-A, 431.º a 433.º, 461.º, 470.º, 471.º e 478.º e as epígrafes do livro V e do seu título I da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
 
@@ -181,9 +212,11 @@ c) Pelo cancelamento da inscrição na CDO como despachantes oficiais, feita ao 
 
 Dos declarantes e representantes perante a alfândega
 
-## TÍTULO I — De quem pode declarar
+TÍTULO I
 
-###### Artigo 426.º
+De quem pode declarar
+
+Artigo 426.º
 
 A solicitação nas alfândegas de qualquer declaração aduaneira ou fiscal de mercadorias ou de outras declarações cuja recepção venha a ser atribuída à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, bem como a promoção de quaisquer documentos que lhes digam respeito, compete exclusivamente:
 
@@ -197,7 +230,7 @@ A solicitação nas alfândegas de qualquer declaração aduaneira ou fiscal de 
 
 § 2.º O disposto no presente artigo aplica-se sem prejuízo do regime transitório previsto para os agentes aduaneiros e despachantes privativos.
 
-###### Artigo 427.º
+Artigo 427.º
 
 Os agentes aduaneiros das empresas de caminho de ferro e de navegação aérea que mantenham carreiras regulares com o País, habilitados a promover o desalfandegamento das mercadorias pertencentes às mesmas empresas ou a empresas delas associadas, podem intervir:
 
@@ -227,11 +260,11 @@ Os agentes aduaneiros das empresas de caminho de ferro e de navegação aérea q
 
 § 3.º ...
 
-###### Artigo 430.º
+Artigo 430.º
 
 Não podem efectuar declarações perante a alfândega os comerciantes falidos não reabilitados ou aqueles sobre quem impenda a interdição do exercício da actividade de declarar perante a alfândega e os despachantes oficiais durante o período de cumprimento da pena disciplinar de suspensão.
 
-###### Artigo 430.º-A
+Artigo 430.º-A
 
 1 - Os directores das alfândegas exigirão a todas as pessoas que exerçam a actividade de declarar perante a alfândega uma caução de valor não inferior a 10000000$00, como obrigação prévia ao exercício dessa actividade, a prestar na alfândega em cuja área de jurisdição se situe o respectivo domicílio fiscal.
 
@@ -243,7 +276,7 @@ Não podem efectuar declarações perante a alfândega os comerciantes falidos n
 
 5 - A caução a que se referem os números anteriores não será exigida aos representantes ocasionais, entendendo-se como tais os que apresentem, por ano, menos de 10 declarações perante a alfândega.
 
-###### Artigo 431.º
+Artigo 431.º
 
 1 - Os donos ou consignatários das mercadorias que pretendam efectuar directamente perante as alfândegas a declaração aduaneira e não sejam detentores da cédula a que se refere o artigo 478.º farão prova da respectiva identificação civil e fiscal, devendo resultar da documentação a juntar à declaração a sua qualidade de destinatários, expedidores ou consignatários das mercadorias.
 
@@ -257,7 +290,7 @@ Não podem efectuar declarações perante a alfândega os comerciantes falidos n
 
 6 - Os chefes de missão acreditados junto do Governo Português poderão ter procuradores habilitados nos termos de legislação especial.
 
-###### Artigo 432.º
+Artigo 432.º
 
 1 - Quando o dono ou o consignatário das mercadorias pretenda nomear um despachante oficial para declarar em seu nome e por sua conta perante a alfândega, muni-lo-á de procuração escrita e expressa, por ele assinada, devendo o despachante oficial fazer expressa menção desta sua qualidade na documentação aduaneira.
 
@@ -271,7 +304,7 @@ Não podem efectuar declarações perante a alfândega os comerciantes falidos n
 
 6 - Os pedidos de isenção ou de benefício fiscal que sejam objecto de processo autónomo, bem como de concessão de autorização para um regime aduaneiro económico, serão sempre acompanhados de procuração passada pelo respectivo beneficiário.
 
-###### Artigo 433.º
+Artigo 433.º
 
 1 - Quando o dono ou consignatário das mercadorias pretenda designar um representante perante a alfândega, que não seja despachante oficial, fá-lo-á por documento escrito devidamente assinado que expressamente o habilite a declarar por sua conta perante a alfândega.
 
@@ -285,19 +318,19 @@ Não podem efectuar declarações perante a alfândega os comerciantes falidos n
 
 6 - Na falta de documento de habilitação, os actos praticados pelo declarante consideram-se praticados no âmbito de uma gestão de negócios.
 
-###### Artigo 461.º
+Artigo 461.º
 
 Ao exercício da actividade de declarar por conta de outrem perante a alfândega é supletivamente aplicável o disposto na lei geral sobre mandato e prestação de serviços.
 
-###### Artigo 470.º
+Artigo 470.º
 
 Compete à Câmara dos Despachantes Oficiais (CDO) determinar os requisitos, a organização e o acesso à profissão de despachante oficial.
 
-###### Artigo 471.º
+Artigo 471.º
 
 Compete ao Ministro das Finanças o exercício dos poderes de tutela sobre a Câmara dos Despachantes Oficiais (CDO).
 
-###### Artigo 478.º
+Artigo 478.º
 
 Qualquer pessoa que exerça regularmente a actividade de declarar perante a alfândega terá de ser detentora da respectiva cédula, que servirá de identificação perante os serviços aduaneiros.
 
@@ -309,7 +342,9 @@ Qualquer pessoa que exerça regularmente a actividade de declarar perante a alf�
 
 § 4.º As cédulas e os documentos identificativos serão cassados pelas entidades emitentes a todos aqueles que deixem de preencher os requisitos que possibilitaram a sua emissão."
 
-###### Artigo 5.º — Alterações ao Decreto-Lei n.º 289/88, de 24 de Agosto
+Artigo 5.º
+
+Alterações ao Decreto-Lei n.º 289/88, de 24 de Agosto
 
 Os artigos 1.º e 2.º do Decreto-Lei n.º 289/88, de 24 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 294/92, de 30 de Dezembro, passam a ter a seguinte redacção:
 
@@ -321,13 +356,15 @@ Os artigos 1.º e 2.º do Decreto-Lei n.º 289/88, de 24 de Agosto, com as alter
 
 3 - ...
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - No âmbito da utilização do sistema de caução global para desalfandegamento, o despachante oficial age em nome próprio e por conta de outrem, constituindo-se, porém, aquele e a pessoa por conta de quem declara perante as alfândegas solidariamente responsáveis pelo pagamento dos direitos e demais imposições exigíveis.
 
 2 - ..."
 
-###### Artigo 6.º — Legislação revogada
+Artigo 6.º
+
+Legislação revogada
 
 1 - São revogados os artigos 429.º, 430.º-B, 435.º, 438.º, 439.º, 458.º, 469.º, 472.º, 474.º a 476.º, 481.º, 485.º, 485.º-A e 524.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965.
 
@@ -367,11 +404,15 @@ Designação
 
 Designam-se por despachantes oficiais os profissionais inscritos na Câmara dos Despachantes Oficiais, adiante designada por CDO, nos termos do respectivo estatuto, sendo-lhes atribuída, em exclusividade, a forma de representação directa perante as alfândegas.
 
-###### Artigo 2.º — Caracterização da profissão
+Artigo 2.º
+
+Caracterização da profissão
 
 Os despachantes oficiais intervêm como representantes por conta de outrem, em qualquer parte do território nacional e sob qualquer forma de representação, nos actos e formalidades previstos na legislação aduaneira, incluindo nas declarações e na promoção dos documentos respeitantes a mercadorias sujeitas a impostos especiais sobre o consumo e noutras declarações com implicações aduaneiras, ou cuja gestão ou recepção venha a ser atribuída à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.
 
-###### Artigo 3.º — Exercício da profissão em nome individual e em sociedade
+Artigo 3.º
+
+Exercício da profissão em nome individual e em sociedade
 
 1 - Os despachantes oficiais podem exercer a sua actividade em nome individual ou em sociedade profissional de que sejam sócios.
 
@@ -383,7 +424,9 @@ Os despachantes oficiais intervêm como representantes por conta de outrem, em q
 
 5 - A gerência das sociedades referidas nos números anteriores compete exclusivamente a sócios que sejam despachantes oficiais.
 
-###### Artigo 5.º — Curso de acesso à profissão
+Artigo 5.º
+
+Curso de acesso à profissão
 
 O curso de acesso à profissão de despachante oficial é realizado anualmente, nos termos do regulamento a aprovar por portaria do Ministro das Finanças.»
 
@@ -415,7 +458,9 @@ h) ...
 
 i) ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Constituem deveres sociais e deontológicos do despachante oficial:
 
@@ -447,7 +492,9 @@ m) ...
 
 3 - Na falta de pagamento voluntário, será suspensa a inscrição do despachante oficial pelo período que durar o incumprimento, comunicando-se-lhe esta decisão, devendo o tesoureiro extrair a respectiva certidão de dívida, a qual constitui título executivo.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -455,7 +502,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -485,7 +534,9 @@ f) ...
 
 8 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -501,12 +552,12 @@ f) ...
 
 Visto e aprovado em Conselho de Ministros, em 28 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 8 de Fevereiro de 2001.**
+Promulgado em 8 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2001.**
+Referendado em 15 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

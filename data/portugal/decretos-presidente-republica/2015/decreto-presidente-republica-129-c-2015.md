@@ -28,12 +28,12 @@ publication:
   reference: Diário da República n.º 232/2015, 1º Suplemento, Série I de 2015-11-26
   number: '232'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9622-(3) a 9622-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/23201/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -55,18 +55,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/129-c/2015/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/129-c-2015-71124504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4b6cf8b007580c959f288fc31862237a8b1f94d78cd74c86a488b30daee72c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68f49ec5bbebd3f6e733776776b7c657e356bc4a9bf66aa1e2cf54dbf3e96e1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,40 +74,92 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Saúde
-- Ministro da Economia
-- Ministro da Justiça
-- Ministro dos Negócios Estrangeiros
-- Ministro da Cultura
-- Ministro das Finanças
+- Governo XXI
 - Ministro Adjunto
+- Ministro da Administração Interna
+- Ministro da Agricultura Florestas e Desenvolvimento Rural
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência e da Modernização Administrativa
+- Ministro da Saúde
+- Ministro das Finanças
 - Ministro do Ambiente
 - Ministro do MAR
-- Nomeação
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Administração Interna
-- Governo XXI
-- Ministro da Presidência e da Modernização Administrativa
-- Ministro do Trabalho Solidariedade e Segurança Social
 - Ministro do Planeamento e das Infraestruturas
-- Ministro da Agricultura Florestas e Desenvolvimento Rural
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro dos Negócios Estrangeiros
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:119685127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74163197:por
+  label: Exonerado João Barroso Soares do cargo de Ministro da Cultura pelo(a) Decreto do Presidente da República n.º 9-A/2016
+    - Diário da República n.º 73/2016, 1º Suplemento, Série I de 2016-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/9-a-2016-74163197
+  date: '2016-04-14'
+- type: amended_by
+  target: pt:dre:108323916:por
+  label: Exonerados Maria Constança Urbano de Sousa do cargo de Ministra da Administração Interna, e Eduardo Arménio do Nascimento
+    Cabrita do cargo de Ministro Adjunto, para que foram nomeados pelo presente diploma pelo(a) Decreto do Presidente da República
+    n.º 91-B/2017 - Diário da República n.º 201/2017, 1º Suplemento, Série I de 2017-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/91-b-2017-108323916
+  date: '2017-10-18'
+- type: amended_by
+  target: pt:dre:116689552:por
+  label: Exonerado José Alberto de Azeredo Ferreira Lopes do cargo de Ministro da Defesa Nacional pelo(a) Decreto do Presidente
+    da República n.º 72-A/2018 - Diário da República n.º 198/2018, 1º Suplemento, Série I de 2018-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-a-2018-116689552
+  date: '2018-10-15'
+- type: amended_by
+  target: pt:dre:116689554:por
+  label: Exonerado, a seu pedido e sob proposta do Primeiro-Ministro, Adalberto Campos Fernandes do cargo de Ministro da Saúde,
+    nomeado pelo presente Decreto, pelo(a) Decreto do Presidente da República n.º 72-C/2018 - Diário da República n.º 198/2018,
+    1º Suplemento, Série I de 2018-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-c-2018-116689554
+  date: '2018-10-15'
+- type: amended_by
+  target: pt:dre:116689559:por
+  label: Exonerado João Pedro Soeiro de Matos Fernandes do cargo de Ministro do Ambiente pelo(a) Decreto do Presidente da
+    República n.º 72-H/2018 - Diário da República n.º 198/2018, 1º Suplemento, Série I de 2018-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-h-2018-116689559
+  date: '2018-10-15'
+- type: amended_by
+  target: pt:dre:116689562:por
+  label: Exonerado, a seu pedido, Manuel de Herédia Caldeira Cabral do cargo de Ministro da Economia pelo(a) Decreto do Presidente
+    da República n.º 72-K/2018 - Diário da República n.º 198/2018, 1º Suplemento, Série I de 2018-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-k-2018-116689562
+  date: '2018-10-15'
+- type: amended_by
+  target: pt:dre:119685126:por
+  label: Exonerada Maria Manuel de Lemos Leitão Marques do cargo de Ministra da Presidência e da Modernização Administrativa,
+    nomeada pelo presente Decreto, pelo(a) Decreto do Presidente da República n.º 14-A/2019 - Diário da República n.º 34/2019,
+    1º Suplemento, Série I de 2019-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/14-a-2019-119685126
+  date: '2019-02-18'
+- type: amended_by
+  target: pt:dre:119685127:por
+  label: Exonerado, Pedro Manuel Dias de Jesus Marques, do cargo de Ministro do Planeamento e das Infraestruturas, nomeado
+    pelo presente Decreto, pelo(a) Decreto do Presidente da República n.º 14-B/2019 - Diário da República n.º 34/2019, 1º
+    Suplemento, Série I de 2019-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/14-b-2019-119685127
+  date: '2019-02-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:23Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +168,7 @@ validation:
 
 de 26 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -154,12 +206,12 @@ Luís Manuel Capoulas Santos, Ministro da Agricultura, Florestas e Desenvolvimen
 
 Ana Paula Mendes Vitorino, Ministra do Mar.
 
-**Assinado em 26 de novembro de 2015.**
+Assinado em 26 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de novembro de 2015.**
+Referendado em 26 de novembro de 2015.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

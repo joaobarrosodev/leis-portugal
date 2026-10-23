@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2013/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f271a35ee8dce43840d910066db4d99b529861befb3cf907087f6114d4ff943a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2b65691c46e0ef36040a7e99943a6b10a0ab42cf59f28fc63c32f40dfda2f23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
-- Distribuição de Energia Elétrica
-- Sociedade Anónima
 - Certificado de Conformidade
-- Energia Elétrica
-- Multa
-- Instituto da Construção e do Imobiliário
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
 - Contrato de Concessão
 - Definição de Competências
-- Direcção Regional da Energia
-- EDP
-- Política Energética
-- Fiscalização
 - Direção Geral de Energia e Geologia
-- Licenciamento
-- Certificado de Qualidade
-- Página na Internet
+- Direcção Regional da Energia
+- Distribuição de Energia Elétrica
+- EDP
+- Eficiência Energética
+- Energia Elétrica
+- Fiscalização
 - Informação do Consumidor
+- Instituto da Construção e do Imobiliário
+- Licenciamento
+- Madeira.região Autónoma
+- Multa
+- Página na Internet
+- Política Energética
 - Preço
 - Produção de Energia Elétrica
 - Produtor
-- Madeira.região Autónoma
 - Proteção do Consumidor
 - Rede Elétrica de Serviço Público
 - Rede Elétrica Nacional
 - Regime Jurídico
-- Açores
-- Eficiência Energética
+- Sociedade Anónima
 - Taxa
-- Comércio
 - Utente
 relationships:
 - type: amended_by
@@ -116,16 +116,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/363/2007/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/363/2007/11/02/p/dre
+- type: repealed_by
+  target: pt:dre:58406974:por
+  label: Revogado, a partir de 18.01.2015, o Dec Lei 363/2007 de 02-nov (com as alterações constantes do presente diploma)
+    pelo(a) Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20, que manteve contudo em vigor
+    o n.º 5 do seu art. 12.º, nos termos do disposto no art. 45.º do citado Dec Lei 153/2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2014-58406974
+  date: '2014-10-20'
 article_structure:
-  article_count: 85
+  article_count: 71
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:50Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +207,9 @@ l) [...];
 
 m) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]:
 
@@ -220,13 +229,15 @@ g) [...];
 
 h) No caso de instalações que utilizem a energia eólica, ou que estejam localizadas em locais de livre acesso ao público, possuir um seguro de responsabilidade civil, nos termos a definir mediante por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
 2 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 4, o comercializador de último recurso compra a eletricidade produzida em unidades de microprodução no âmbito do regime geral, remunerando-a de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
 
 3 - Para efeitos da fórmula prevista no número anterior:
 
@@ -250,7 +261,9 @@ e) «IPC(índice n-1)» é o índice de preços no consumidor, sem habitação, 
 
 8 - O exercício da opção referida no n.º 4 é definitivo, não podendo os produtores voltar a solicitar a aplicação do regime remuneratório previsto no n.º 2.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O comercializador de último recurso deve celebrar o contrato de compra e venda da eletricidade resultante da microprodução e assegurar o seu pagamento, nos termos do presente decreto-lei, exceto nos casos em que o produtor exerça a opção prevista no n.º 4 do artigo 10.º
 
@@ -268,7 +281,9 @@ e) «IPC(índice n-1)» é o índice de preços no consumidor, sem habitação, 
 
 8 - Para efeitos do disposto nos n.os 4 e 5, considera-se comercializador o comercializador de último recurso que se encontra obrigado a comprar a eletricidade produzida em unidades de microprodução.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O sistema de contagem de eletricidade e os equipamentos que asseguram a proteção da interligação devem ser colocados em local de livre acesso ao comercializador de último recurso e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.
 
@@ -280,7 +295,9 @@ e) «IPC(índice n-1)» é o índice de preços no consumidor, sem habitação, 
 
 5 - As matérias da medição, leitura e disponibilização de dados, nomeadamente nos casos de exercício da opção prevista no n.º 4 do artigo 10.º, assim como as demais matérias reguladas no presente artigo, podem ser objeto de regulamentação por portaria do membro do Governo responsável pela área da energia, na medida em que tal seja necessário à correta aplicação do presente decreto-lei.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - No prazo de 10 dias após a emissão do certificado de exploração, ainda que provisório nos termos do n.º 7, o produtor adere ao contrato de comercialização cuja minuta deve estar disponibilizada no sítio da Internet do comercializador de último recurso, ou, estando enquadrado no regime geral, declara exercer a opção prevista no n.º 4 do artigo 10.º, se assim o entender.
 
@@ -298,7 +315,9 @@ e) «IPC(índice n-1)» é o índice de preços no consumidor, sem habitação, 
 
 8 - [Anterior n.º 3].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Em caso de alteração da titularidade do contrato de compra de eletricidade para a instalação de utilização no local de consumo onde está instalada a unidade de microprodução, o novo titular deve solicitar o averbamento dessa alteração ao registo no SRM, mantendo-se inalteradas as demais condições constantes do registo.
 
@@ -308,7 +327,9 @@ e) «IPC(índice n-1)» é o índice de preços no consumidor, sem habitação, 
 
 4 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [Revogado].
 
@@ -338,7 +359,9 @@ d) [Anterior alínea c)];
 
 e) [Anterior alínea d)].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -360,11 +383,13 @@ h) [...].
 
 2 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 5, a eletricidade produzida em unidades de miniprodução no âmbito do regime geral é vendida ao comercializador de último recurso e remunerada segundo a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
 
 2 - Para efeitos da fórmula prevista no número anterior:
 
@@ -398,7 +423,9 @@ b) Período de horas fora de vazio: 1,13.
 
 9 - O exercício da opção referida no n.º 5 é definitivo, não podendo os produtores voltar a solicitar a aplicação do regime remuneratório previsto no n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O comercializador de último recurso deve celebrar o contrato de compra e venda da eletricidade resultante da miniprodução e assegurar o seu pagamento, nos termos do presente decreto-lei, exceto nos casos em que o produtor exerça a opção prevista no n.º 5 do artigo 10.º
 
@@ -410,7 +437,9 @@ b) Período de horas fora de vazio: 1,13.
 
 5 - Para efeitos do disposto nos n.os 3 e 4, considera-se comercializador o comercializador de último recurso que se encontra obrigado a comprar a eletricidade produzida em unidades de miniprodução.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O sistema de contagem de eletricidade e os equipamentos que asseguram a proteção da interligação devem ser colocados em local de acesso livre ao comercializador de último recurso e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.
 
@@ -428,7 +457,9 @@ b) Período de horas fora de vazio: 1,13.
 
 8 - As matérias da medição, leitura e disponibilização de dados, nomeadamente nos casos de exercício da opção prevista no n.º 5 do artigo 10.º, assim como as demais matérias reguladas neste artigo, podem ser objeto de regulamentação por portaria do membro do Governo responsável pela área da energia, na medida em que tal seja necessário à correta aplicação do presente decreto-lei.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Emitido o certificado de exploração, ainda que provisório nos termos do n.º 6 do artigo 18.º, o produtor e o comercializador de último recurso são de imediato avisados, pelo SRMini, com vista à celebração do contrato de compra e venda da eletricidade oriunda da miniprodução, dando-se conhecimento desse facto, igualmente através do SRMini, ao operador da rede de distribuição.
 
@@ -448,7 +479,9 @@ b) Período de horas fora de vazio: 1,13.
 
 9 - [Revogado].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]:
 
@@ -478,7 +511,9 @@ d) [...].
 
 10 - [Revogado].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [Revogado].
 
@@ -532,15 +567,15 @@ São republicados, nos anexos I e II ao presente decreto-lei, do qual fazem part
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira.
 
-**Promulgado em 6 de fevereiro de 2013.**
+Promulgado em 6 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de fevereiro de 2013.**
+Referendado em 9 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## Anexo I — (a que se refere o artigo 8.º)
 
@@ -718,7 +753,7 @@ b) Aos condomínios, mediante uma auditoria energética e desde que a implementa
 
 2 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 4, o comercializador de último recurso compra a eletricidade produzida em unidades de microprodução no âmbito do regime geral, remunerando-a de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
 
 3 - Para efeitos da fórmula prevista no número anterior:
 
@@ -1218,7 +1253,7 @@ b) Certificado energético onde se demonstre que após a implementação das med
 
 1 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 5, a eletricidade produzida em unidades de miniprodução no âmbito do regime geral é vendida ao comercializador de último recurso e remunerada segundo a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf))](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03500/0103701058.pdf)
 
 2 - Para efeitos da fórmula prevista no número anterior:
 

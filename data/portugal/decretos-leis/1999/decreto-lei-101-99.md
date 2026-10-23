@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/076a00/17901791.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/1999/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1999-138786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c748a7b608df20a0ed2acf3b78cf96a3a4d6d03c363c386adc143fb2e07f37aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddd135600608adf877375b0be55b86762576bd9774326ab76d82d380c65feb0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Região Autónoma
-- Ministério do Trabalho e da Solidariedade
+- Açores
 - Conselho Nacional da Família
-- Política de Família
-- Governo Regional
 - Definição de Competências
+- Família
+- Governo Regional
+- Madeira.região Autónoma
 - Ministério da Cultura
 - Ministério do Ambiente
-- Secretário de Estado do Desporto
-- Madeira.região Autónoma
+- Ministério do Trabalho e da Solidariedade
+- Política de Família
+- Região Autónoma
 - Secretaria de Estado da Administração Pública
 - Secretaria de Estado da Comunicação Social
 - Secretaria de Estado da Modernização Administrativa
 - Secretário de Estado da Juventude
-- Açores
+- Secretário de Estado do Desporto
 relationships:
 - type: amended_by
   target: pt:dre:321282:por
@@ -90,16 +90,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/163/1996/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/163/1996/09/05/p/dre
+- type: cites
+  target: pt:dre:241671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321282:por
+  label: "Revogado pelo DEC LEI.150/2000.2000.07.20.MTS,DR.IS-A [166]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2000-321282
+  date: '2000-07-20'
 article_structure:
-  article_count: 6
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:19Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +145,9 @@ c) ...
 
 d) Secção das Personalidades.
 
-###### Artigo 5.º — Secção Interministerial
+Artigo 5.º
+
+Secção Interministerial
 
 1 - A Secção Interministerial é composta por representantes:
 
@@ -182,13 +193,17 @@ s) Do Governo da Região Autónoma da Madeira.
 
 4 - ...
 
-###### Artigo 9.º — Secção das Organizações não Governamentais
+Artigo 9.º
+
+Secção das Organizações não Governamentais
 
 1 - A Secção das Organizações não Governamentais é composta por organizações representativas das famílias cujos objectivos se coadunem com a promoção da instituição familiar e tenham implantação a nível nacional, regional ou local.
 
 2 - Compete ao Alto-Comissário, tendo em conta os respectivos estatutos e programas de actividades, a designação das organizações a que se refere o número anterior, as quais exercerão o seu mandato pelo período de um ano, renovável.
 
-###### Artigo 10.º — Competência da Secção das Organizações não Governamentais e da Secção das Personalidades
+Artigo 10.º
+
+Competência da Secção das Organizações não Governamentais e da Secção das Personalidades
 
 Compete à Secção das Organizações não Governamentais e à Secção das Personalidades:
 
@@ -206,24 +221,26 @@ São aditados ao [Decreto-Lei n.º 163/96](https://diariodarepublica.pt/dr/detal
 
 «Artigo 9.º-A
 
-#### Secção das Personalidades
+Secção das Personalidades
 
 1 - A Secção das Personalidades é composta por personalidades de reconhecido mérito na área da política familiar.
 
 2 - Compete ao Alto-Comissário a designação das personalidades, as quais exercerão o seu mandato pelo período de um ano, renovável.
 
-###### Artigo 10.º-A — Estatuto
+Artigo 10.º-A
+
+Estatuto
 
 É reconhecido a todos os membros do Conselho o estatuto de conselheiros para a família, competindo aos respectivos serviços garantir o apoio técnico e logístico adequado ao cumprimento das suas competências.»
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 15 de Março de 1999.**
+Promulgado em 15 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Março de 1999.**
+Referendado em 18 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

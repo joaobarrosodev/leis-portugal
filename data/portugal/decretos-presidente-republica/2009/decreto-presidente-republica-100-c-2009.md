@@ -30,7 +30,7 @@ publication:
   reference: Diário da República n.º 207/2009, 1º Suplemento, Série I de 2009-10-26
   number: '207'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8040-(2) a 8040-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20701/0000200002.pdf
 entry_into_force_dates: []
@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/100-c/2009/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/100-c-2009-355889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bccec2cbae6d5f6cb7daa485e213bc73276bb7be9f8e7a2162ff9c529d23df1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65c1340045041d011d09af2e9b1c0768c46cd16df3dab0edd535f83418c9fa94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,36 +76,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro da Saúde
-- Ministro da Justiça
-- Ministro de Estado e dos Negócios Estrangeiros
+- Governo Xviii
+- Ministro da Administração Interna
 - Ministro da Agricultura Desenvolvimento Rural e Pescas
-- Ministro da Cultura
-- Ministro da Economia da Inovação e do Desenvolvimento
-- Ministro para os Assuntos Parlamentares
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia da Inovação e do Desenvolvimento
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado e das Finanças
+- Ministro de Estado e dos Negócios Estrangeiros
+- Ministro do Ambiente e do Ordenamento do Território
+- Ministro do Trabalho e da Solidariedade Social
+- Ministro para os Assuntos Parlamentares
 - Nomeação
 - Secretário de Estado da Presidência do Conselho de Ministros
-- Ministro de Estado e das Finanças
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
-- Governo Xviii
-- Ministro das Obras Públicas Transportes e Comunicações
-- Ministro da Administração Interna
-- Ministro do Trabalho e da Solidariedade Social
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:21Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +114,7 @@ validation:
 
 de 26 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -152,12 +152,12 @@ O Dr. Jorge Lacão Costa Ministro dos Assuntos Parlamentares;
 
 O Dr. João Tiago Valente Almeida da Silveira Secretário de Estado da Presidência do Conselho de Ministros.
 
-**Assinado em 26 de Outubro de 2009.**
+Assinado em 26 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Outubro de 2009.**
+Referendado em 26 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

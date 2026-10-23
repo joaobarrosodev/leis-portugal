@@ -47,40 +47,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-1978-296808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1838b9bd0abcdee982535d7578c697a91718a190fe158a0963190c9aa48f951
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cf0603898f71a9d99565a5f3651aa0a101470d702e58fb844775392bc766dfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Função Pública
+- Higiene Alimentar
+- Preço
+- Produto Alimentar
+- Refeição
+- Refeitório
+- Subsídio de Alimentação
 relationships:
 - type: amended_by
   target: pt:dre:142715:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393629:por
+  label: Rectificada e prorrogado o prazo referido no n.º 2, pela PORT.86/79.20.02.1979.PCM, DR.IS [43] de 20.02.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-1979-393629
+  date: '1979-02-20'
+- type: amended_by
+  target: pt:dre:516222:por
+  label: "Mantido o preço definido pelo presente diploma, pela PORT.109/94.1994.02.18.MF,DR.IS-B(41)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1994-516222
+  date: '1994-02-18'
+- type: amended_by
+  target: pt:dre:142715:por
+  label: "Actualizado o preço de venda da refeição tipo pela PORT.773/2002.2002.07.02.MF DR.IS-B [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-2002-142715
+  date: '2002-07-02'
+- type: amended_by
+  target: pt:dre:3502125:por
+  label: "Actualizado o preço das refeições por PORT.487/2003(2ªSÉRIE).2003.04.04.MF, DR.IIS [92] de 19/Abr/2003.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/487-2003-3502125
+  date: '2003-04-21'
+- type: cites
+  target: pt:dre:245085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279462:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:329802:por
+  label: Rectificada pela DECL.DD7509.14.09.1978.PCM, DR.IS [212] de 14.09.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-329802
+  date: '1978-09-14'
+- type: repealed_by
+  target: pt:dre:634951:por
+  label: "Revogado o n.º 2.º, pela PORT.300-A/79.26.06.1979.PCM, DR.IS [145]Supl de 26.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-a-1979-634951
+  date: '1979-06-26'
+- type: repealed_by
+  target: pt:dre:224985:por
+  label: "Revogado o nº 3 pela PORT.45/98.1998.01.30.PCM DR.IS-B [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1998-224985
+  date: '1998-01-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:40:57Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +170,7 @@ a) 1200 calorias, quer para almoço, quer para jantar;
 
 b) As calorias referidas na alínea anterior deverão ser obtidas à custa dos nutrientes básicos a seguir discriminados, intervindo aproximadamente as percentagens e pesos indicados no quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 c) Pelo menos metade do teor proteico indicado deve ser de origem animal;
 
@@ -275,7 +330,7 @@ Peixe congelado
 
 3 - O peixe inteiro deverá apresentar-se convenientemente preparado, eviscerado e sem guelras, e o seu peso deverá estar incluído dentro dos seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 4 - Na aquisição de peixe em postas, estas deverão revelar um corte perfeito por processo mecânico, e serem provenientes de secção de peixe inteiro, sendo o seu peso médio de 150 g, excepto quando pedido expressamente pelo comprador.
 
@@ -329,7 +384,7 @@ O fígado, o coração e rins fazem parte integrante da carcaça. Não devem ser
 
 11 - O peso das carcaças deverá estar compreendido nos seguintes limites:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 12 - A embalagem deverá ser em recipientes metálicos de rede ou chapa, de preferência de aço inoxidável, ou em embalagens de plástico.
 
@@ -359,7 +414,7 @@ Legumes frescos e hortaliças
 
 1 - Sob a designação genérica de hortaliças e legumes frescos, agrupam-se os seguintes produtos hortícolas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 2 - As hortaliças e legumes deverão ser frescos, de colheitas muito recentes, lavados em água limpa corrente, isentos de terra, parasitas ou quaisquer matérias estranhas. Devem obedecer às seguintes características:
 
@@ -445,7 +500,7 @@ Frutas
 
 1 - A fruta será fornecida, segundo as espécies, na época própria, de acordo com a seguinte discriminação, salvo a que se destina a dietas especiais, que poderá ser requisitada em períodos diferentes dos indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 2 - A fruta deverá ser das seguintes variedades:
 
@@ -469,7 +524,7 @@ Uvas - Diagalves e Alphonse Lavallée.
 
 3 - O peso/dúzia para as espécies abaixo designadas deverá ser compreendido dentro dos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 4 - A fruta deverá ser fresca, de colheita recente, em adequado estado de maturação e de tamanho uniforme.
 
@@ -637,13 +692,13 @@ a) Os alimentos congelados devem ser conservados em câmaras com temperatura de 
 
 Para assegurar uma boa conservação dos produtos congelados ou ultracongelados industrialmente é indispensável mantê-los permanentemente a uma temperatura inferior ou, pelo menos, igual a -18ºC. Apresentam-se valores relativos à duração da conservação de alguns produtos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 b) Os alimentos frescos devem ser conservados em câmaras com temperaturas variáveis para cada alimento, mas que oscilam em regra entre -20ºC e +18ºC. Estes alimentos tratados pelo frio chamam-se refrigerados. De uma maneira geral, os alimentos refrigerados devem utilizar-se no prazo máximo de oito dias.
 
 As temperaturas a utilizar nos frigoríficos normais para alimentos frescos são as seguintes, para os vários tipos de alimentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 Os alimentos frescos a colocar nas câmaras frigoríficas devem estar isentos de parasitas, terra, raízes ou quaisquer produtos que possam conduzir a sua alteração.
 
@@ -675,7 +730,7 @@ Uma vez abertas as embalagens de origem, o seu conteúdo deve ser rapidamente ut
 
 Composição dos alimentos por 100 g de peso edível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 ## ANEXO 4 — Normas a que se refere o n.º 6 da Portaria n.º 426/78
 
@@ -727,18 +782,18 @@ Estes elementos devem ser tomados, sobretudo, como referência, e não como núm
 
 1 - Equipamentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 2 - Áreas (metros quadrados):
 
 2.1 - Cozinhas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 2.2 - Armazéns para alimentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf))](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/17300/15461559.pdf)
 
 2.3 - Refeitórios, zona de utentes - 1 m2 por utente.
 
-**O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.**
+O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.

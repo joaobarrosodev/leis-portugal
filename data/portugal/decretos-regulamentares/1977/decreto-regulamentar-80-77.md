@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1977-281210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2688a7b784ff1bc3610e9398a2fe4ae99c3ef6c5b0b1332f2c538c6cb5e7da7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49b85a2a7759968272aa49825b56b4ad5b84a15f2be9baa6e0f182b9434b1d0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- ÁREA NON Aedificandi
+- Medidas Preventivas
+- Ordenamento do Território
+- Política de Solos
+- Seixal
+- Sesimbra
+- Setúbal
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:59Z'
   warnings: []
   errors: []
 ---
@@ -103,19 +115,19 @@ As águas da própria lagoa de Albufeira encontram-se altamente poluídas, a sua
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - De acordo com o disposto no artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas a parcela de terrenos, assinalada na planta anexa, as quais consistem na proibição dos actos mencionados nas alíneas a) a f) do n.º 1 do artigo 8.º do mesmo decreto-lei.
+Artigo 1.º - 1 - De acordo com o disposto no artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas a parcela de terrenos, assinalada na planta anexa, as quais consistem na proibição dos actos mencionados nas alíneas a) a f) do n.º 1 do artigo 8.º do mesmo decreto-lei.
 
 2 - O prazo das medidas preventivas é de dois anos.
 
-###### Art. 2.º Nos termos do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, são declaradas áreas críticas de recuperação e reconversão urbanística a parcela de terrenos abrangendo as Quintas do Conde I, II e III, Boa Água I e III, no concelho de Sesimbra, as Quintas do Pinhal do General I, II e III, no concelho do Seixal, e a parcela de terrenos envolvente da lagoa de Albufeira, ambas assinaladas na planta anexa.
+Art. 2.º Nos termos do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, são declaradas áreas críticas de recuperação e reconversão urbanística a parcela de terrenos abrangendo as Quintas do Conde I, II e III, Boa Água I e III, no concelho de Sesimbra, as Quintas do Pinhal do General I, II e III, no concelho do Seixal, e a parcela de terrenos envolvente da lagoa de Albufeira, ambas assinaladas na planta anexa.
 
-###### Art. 3.º A área sujeita às medidas preventivas referida no artigo 1.º é delimitada por uma linha poligonal que se desenvolve de acordo com o seguinte percurso:
+Art. 3.º A área sujeita às medidas preventivas referida no artigo 1.º é delimitada por uma linha poligonal que se desenvolve de acordo com o seguinte percurso:
 
 Caminhando pelo norte, a partir da faixa marítima e para o interior segue a linha definidora do limite do concelho de Sesimbra, contornando as instalações ali existentes - limitadas como referem os Decretos n.º 12/72, de 11 de Janeiro, e n.º 168/74, de 25 de Abril - até ao Marco do Grilo; segue pela estrada do Marco do Grilo até à sua intersecção com a estrada nacional n.º 10; por esta estrada nacional n.º 10 até ao seu cruzamento com a estrada nacional n.º 10-3; percorre a estrada nacional n.º 10-3 até à linha de água da ribeira de Coina, daí inflectindo para sul, contornando toda a Vala Real até à Ponte de Negreiros, seguindo pelo caminho da Quinta do Peru até cruzar com o caminho do Mesquita, junto do Pinhal da Tapada;
 
 A sul, pelo caminho do Mesquita, atravessando a ribeira da Pateira até encontrar a estrada nacional n.º 378; segue por esta estrada nacional n.º 378 para sul, até à estrada da Ferraria, inflectindo para poente, ao longo desta estrada, até à Ferraria, seguindo depois o caminho da Mina do Giz - atravessando a ribeira da Ferraria - ao caminho do Olho de Água, percorrendo este caminho até ao caminho da Roça; desenvolve-se depois seguindo o caminho do Porto da Pedra ao Casal da Raposa até encontrar a estrada nacional n.º 377; segue a estrada nacional n.º 377 para sul, até ao cruzamento com o caminho dos Currais, caminhando ao longo deste e do caminho municipal do Torrão (até ao cruzamento da estrada nacional e dos Torrões 561/1), percorrendo esta até ao caminho do Forte dos Couvais; segue por este caminho até ao cruzar com o caminho municipal n.º 1043, percorrendo este até ao local chamado «Foz». Pelo poente, o limite é a faixa marítima.
 
-###### Art. 4.º - 1 - A área crítica indicada na primeira parte do artigo 2.º é delimitada por uma linha poligonal que se desenvolve de acordo com o seguinte percurso:
+Art. 4.º - 1 - A área crítica indicada na primeira parte do artigo 2.º é delimitada por uma linha poligonal que se desenvolve de acordo com o seguinte percurso:
 
 Com início, a norte, no cruzamento da estrada nacional n.º 10 com a nova estrada do Marco do Grilo, segue a estrada nacional n.º 10 até ao cruzamento desta estrada nacional com a estrada nacional n.º 10-3; percorre a estrada nacional n.º 10-3 até à linha de água da ribeira de Coina, daí inflecte para sul, contornando, pelo nascente, toda a Vala Real até à Ponte de Negreiros, seguindo pela margem da ribeira do Marchante e inflectindo para poente, pela estrema norte do Pinhal da Quintinha até ao marco geodésico do Alto do Melão; continua no sentido nascente-poente pela estrema norte do Pinhal das Quintinhas, inflectindo, segundo a linha limite do concelho de Sesimbra, até às Fontainhas e percorrendo o caminho municipal n.º 1047 até intersectar a Estrada do Marco do Grilo, seguindo depois por esta e no sentido sudoeste-nordeste até ao seu cruzamento com a estrada nacional n.º 10, fechando o contorno.
 
@@ -123,18 +135,18 @@ Com início, a norte, no cruzamento da estrada nacional n.º 10 com a nova estra
 
 Caminhando pelo norte da lagoa, e no sentido poente-nascente, a partir da faixa marítima, uma linha recta perpendicular à costa passando pelo posto da Guarda Fiscal, seguindo uma linha que se desenvolve paralelamente às margens da lagoa e delas afastada 200 m, contornando, assim, pelo norte, nascente e sul, a lagoa Pequena e a lagoa Grande até à intersecção com uma linha recta que une o quilómetro 32 da estrada nacional n.º 377 com o término do caminho da Mata do Cerva; segue por esta recta até ao quilómetro 32 da estrada nacional n.º 377 até encontrar o caminho do Casalão de Alfarim; segue por este caminho até ao caminho do Açude e pelo caminho do Açude até à Mina do Amieiro; daí, pelo caminho do Vale Grande, segue até à faixa marítima.
 
-###### Art. 5.º As respectivas câmaras municipais estão desde já autorizadas a tomar posse administrativa, nos termos do artigo 43.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), para os fins expressos na alínea b) do n.º 1 do artigo 42.º do mesmo decreto-lei, mediante despacho do Ministro da Habitação, Urbanismo e Construção, informado dos fundamentos e da finalidade da diligência.
+Art. 5.º As respectivas câmaras municipais estão desde já autorizadas a tomar posse administrativa, nos termos do artigo 43.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), para os fins expressos na alínea b) do n.º 1 do artigo 42.º do mesmo decreto-lei, mediante despacho do Ministro da Habitação, Urbanismo e Construção, informado dos fundamentos e da finalidade da diligência.
 
-###### Art. 6.º O presente decreto regulamentar entra em vigor no dia imediato à sua publicação.
+Art. 6.º O presente decreto regulamentar entra em vigor no dia imediato à sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Eduardo Ribeiro Pereira.
 
-**Promulgado em 15 de Novembro de 1977.**
+Promulgado em 15 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/27900/28572858.pdf))](https://files.diariodarepublica.pt/1s/1977/12/27900/28572858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/27900/28572858.pdf)
 
-**O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem Pasta, Joaquim Jorge de Pinho Campinos. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro de Estado, Henrique Teixeira Queirós de Barros. - O Ministro sem Pasta, Joaquim Jorge de Pinho Campinos. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

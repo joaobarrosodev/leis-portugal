@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-1974-411834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fefe4d7400cc47b3781cfb4da72a1d80f12ccfcfef2d140b47a9d439fe6e353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c813fd2b2151e64b9d6e440c06c5c9cd2ee971a5f6e9f94a798eb1ba5beda84e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,36 @@ relationships:
   target: pt:dre:468268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468268:por
+  label: Alterado o mapa III do quadro do pessoal médico do Hospital Escolar de S. João, constante da presente portaria, pelo(a)
+    Portaria n.º 832/74 - Diário do Governo n.º 299/1974, Série I de 1974-12-26
+  source: null
+  date: '1974-12-25'
+- type: amended_by
+  target: pt:dre:336993:por
+  label: Alterados, para vigorarem durante o período da instalação, os mapas II e III do quadro do pessoal médico dos Hospitais
+    da Universidade de Coimbra pelo(a) Despacho - Diário do Governo n.º 159/1975, Série I de 1975-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1975-336993
+  date: '1975-07-12'
+- type: cites
+  target: pt:dre:412782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684868:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:12Z'
   warnings: []
   errors: []
 ---
@@ -103,14 +123,14 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Coo
 
 Quadro do pessoal médico do Hospital de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf)
 
 Quadro do pessoal médico do Hospital Escolar de S. João
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf)
 
 Quadro do pessoal médico dos Hospitais da Universidade de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf))](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08500/05090513.pdf)
 
 Ministérios das Finanças e da Coordenação Económica, da Educação Nacional e da Saúde, 4 de Março de 1974. - O Ministro das Finanças e da Coordenação Económica, Manuel Artur Cotta Agostinho Dias. - O Ministro da Educação Nacional, José Veiga Simão. - O Ministro da Saúde, Clemente Rogeiro.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/274a00/63716372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/322/1997/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1997-406531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa254db4c49bffde66273f0c797b678a3981d0ef567bd4272285818530dfc09d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c987ab9a3e95155742e6f93355bb28b5b1f3f5d76932bc5473480cf43100721
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
 - Caixa Central de Crédito Àgrícola Mútuo
 - Crédito Agrícola
 - Fundo de Garantia do Crédito Agrícola Mútuo
+- Instituição de Crédito
 - Sigilo Bancário
 relationships:
 - type: amended_by
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223423:por
+  label: "Revogado pelo DEC LEI.345/98.1998.11.09.MF, DR.IS-A [259]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1998-223423
+  date: '1998-11-09'
 article_structure:
-  article_count: 7
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:42Z'
   warnings: []
   errors: []
 ---
@@ -126,11 +143,15 @@ Os artigos 2.º, 3.º, 6.º, 8.º, 9.º, 14.º e 16.º do [Decreto-Lei n.º 182/
 
 O Fundo tem por objecto, com vista à defesa do sistema integrado do crédito agrícola mútuo, realizar e promover as acções que considere necessárias para assegurar a solvabilidade e liquidez da Caixa Central de Crédito Agrícola Mútuo e pelas caixas de crédito agrícola mútuo suas associadas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Participam obrigatoriamente no Fundo a Caixa Central e as caixas de crédito agrícola mútuo suas associadas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -154,11 +175,15 @@ b) ...
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lhe os elementos informativos que este considere necessários à realização do seu objecto, sendo os titulares dos seus órgãos e os que lhe prestam serviços, a qualquer título, obrigados a guardar sigilo bancário.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O Fundo poderá notificar qualquer participante para que adopte as medidas necessárias ao restabelecimento da sua situação patrimonial, quando considere que se encontram em perigo o seu normal funcionamento ou a sua solvabilidade.
 
@@ -170,22 +195,26 @@ As participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lh
 
 5 - Nas mesmas circunstâncias, poderá ainda o Fundo requerer a convocação de reuniões da assembleia geral de qualquer participante e nelas intervir para informação aos associados e proposição de medidas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 A comissão directiva apresentará, até 31 de Março de cada ano, para aprovação do Ministro das Finanças, o relatório e contas da actividade do Fundo referidos a 31 de Dezembro do ano anterior, acompanhados de parecer do CABP e de proposta de aplicação dos recursos tidos por excedentários e eventual retorno dos mesmos às participantes, na proporção das suas contribuições.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O disposto no presente diploma em nada prejudica as regras de solvabilidade e liquidez aplicáveis às participantes, assim como as funções de supervisão e controlo previstas na legislação em vigor.»
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1997.**
+Referendado em 13 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

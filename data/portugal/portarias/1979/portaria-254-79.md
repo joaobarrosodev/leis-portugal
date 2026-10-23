@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-1979-383856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dd35af48ac3f1e3d8229748cc638324731df911ef53b11cb4ea005beefdecd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0070603f87428ad9d471513372ebb9493df0027680e38b88dad28c14f52746b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:619286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366436:por
+  label: "Alterado o artigo 18.º do Regulamento aprovado pelo presente diploma, pela PORT.674/79.13.12.1979.MAP, DR.IS [286]\
+    \ de 13.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-1979-366436
+  date: '1979-12-13'
+- type: amended_by
+  target: pt:dre:394741:por
+  label: "Alterado o n.º 3 do anexo pela PORT.360/81.29.04.1981.MAP, DR.IS [98] de 29.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-1981-394741
+  date: '1981-04-29'
+- type: cites
+  target: pt:dre:554167:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:419665:por
+  label: "Revogada pelo DEC LEI.254/87.1987.06.24.MAPA, DR.IS [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1987-419665
+  date: '1987-06-24'
+- type: repealed_by
+  target: pt:dre:610965:por
+  label: "Revogadas, relativamente à apanha de espécies marinhas e sua comercialização, todas as disposições legais do presente\
+    \ diploma, pelo art. 85º-B (com observância do disposto no seu nº 2º) do DR 43/87 de 17-Jul, aditado pelo DR.3/89.28.01.1989.MAPA,\
+    \ DR.IS [24] de 28.01.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1989-610965
+  date: '1989-01-28'
+- type: repealed_by
+  target: pt:dre:619286:por
+  label: "Revogada pelo DEC LEI.261/89.17.08.1989.MAPA, DR.IS [188] de 17.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-1989-619286
+  date: '1989-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:08Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +138,15 @@ Regulamento da Cultura e Apanha do Isco do Tipo Minhoca
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Este regulamento aplica-se à exploração dos poliquetas Marphysa sanguínea e Diopatra neapolitana espécies do tipo minhoca, vulgarmente designadas por minhocão ou ganso e casulo, respectivamente.
+Artigo 1.º Este regulamento aplica-se à exploração dos poliquetas Marphysa sanguínea e Diopatra neapolitana espécies do tipo minhoca, vulgarmente designadas por minhocão ou ganso e casulo, respectivamente.
 
-###### Art. 2.º Para efeito de aplicação do presente Regulamento, entende-se por:
+Art. 2.º Para efeito de aplicação do presente Regulamento, entende-se por:
 
 a) Mariscadores. - Os indivíduos de qualquer dos sexos, maiores de 14 anos de idade, que, a seu pedido, hajam sido inscritos nas repartições marítimas como apanhadores ou como operários nos diferentes trabalhos de exploração e cultura de poliquetas;
 
 b) Licenças. - Autorizações conferindo direito de uso privativo de qualquer parcela dominial para o exercício das actividades envolvidas na exploração de poliquetas, e também de utilização de instrumentos e meios de acção necessários para o efeito.
 
-###### Art. 3.º - 1 - A verificação do cumprimento das disposições que respeitam aos aspectos técnico e biológico da exploração de poliquetas é da competência das comissões de vistoria.
+Art. 3.º - 1 - A verificação do cumprimento das disposições que respeitam aos aspectos técnico e biológico da exploração de poliquetas é da competência das comissões de vistoria.
 
 2 - As comissões de vistoria são entidades permanentes afectas às capitanias dos portos, das quais farão parte o capitão do porto ou o delegado marítimo e um representante do Instituto Nacional de Investigação das Pescas.
 
@@ -120,7 +154,7 @@ b) Licenças. - Autorizações conferindo direito de uso privativo de qualquer p
 
 ### CAPÍTULO II — Disposições sobre licenças
 
-###### Art. 4.º - 1 - As licenças para o exercício da actividade de mariscador, ou para a utilização de embarcações, são requeridas às autoridades marítimas locais em qualquer época do ano e válidas durante o ano civil em que forem obtidas.
+Art. 4.º - 1 - As licenças para o exercício da actividade de mariscador, ou para a utilização de embarcações, são requeridas às autoridades marítimas locais em qualquer época do ano e válidas durante o ano civil em que forem obtidas.
 
 2 - As licenças de mariscador são requeridas nos termos do modelo patente nas repartições marítimas e juntamente com requerimento devem os pretendentes entregar duas fotografias tipo passe para serem apostas uma no cartão de mariscador e a outra no registo de mariscador existente na respectiva repartição.
 
@@ -130,7 +164,7 @@ b) Licenças. - Autorizações conferindo direito de uso privativo de qualquer p
 
 5 - As licenças para a utilização de embarcações são válidas apenas na área da capitania que as concede.
 
-###### Art. 5.º - 1 - As licenças de uso privativo de parcelas do domínio público marítimo são requeridas ao Secretário de Estado das Pescas, através da autoridade marítima com jurisdição na área a quem compete organizar o processo, e válidas durante um ano.
+Art. 5.º - 1 - As licenças de uso privativo de parcelas do domínio público marítimo são requeridas ao Secretário de Estado das Pescas, através da autoridade marítima com jurisdição na área a quem compete organizar o processo, e válidas durante um ano.
 
 2 - A obtenção destas licenças obedece aos seguintes preceitos:
 
@@ -162,7 +196,7 @@ b) Não há prejuízo da navegação ou de qualquer actividade que não deva ser
 
 9 - Em regiões onde seja necessária a salvaguarda de outros recursos naturais incompatíveis na sua manutenção com a apanha de minhocão e casulo, a outorga de licenças de uso privativo de parcelas do domínio público marítimo só poderá ser permitida em zonas consideradas de apanha livre daqueles poliquetas pela Direcção-Geral das Pescas.
 
-###### Art. 6.º - 1 - O requerimento e restantes documentos citados no artigo anterior, acompanhados da certidão de vistoria ao local e das informações da capitania e das entidades consultadas, serão remetidos por aquela repartição marítima à Direcção-Geral das Pescas, que informará o pedido com audiência prévia do Instituto Nacional de Investigação das Pescas e comissão do domínio público marítimo, encaminhando-o até que sobre o mesmo recaia despacho do Secretário de Estado das Pescas.
+Art. 6.º - 1 - O requerimento e restantes documentos citados no artigo anterior, acompanhados da certidão de vistoria ao local e das informações da capitania e das entidades consultadas, serão remetidos por aquela repartição marítima à Direcção-Geral das Pescas, que informará o pedido com audiência prévia do Instituto Nacional de Investigação das Pescas e comissão do domínio público marítimo, encaminhando-o até que sobre o mesmo recaia despacho do Secretário de Estado das Pescas.
 
 2 - O deferimento ou indeferimento do pedido deverá ser comunicado pela Direcção-Geral das Pescas à autoridade marítima onde se iniciou a instrução do processo, a qual notificará o requerente para tomar conhecimento do despacho.
 
@@ -170,17 +204,17 @@ b) Não há prejuízo da navegação ou de qualquer actividade que não deva ser
 
 4 - A autoridade marítima deverá enviar à Direcção-Geral das Pescas, para constar do processo, cópia do termo referido no número anterior.
 
-###### Art. 7.º - 1 - As licenças de uso privativo de terrenos dominiais são válidas durante o ano civil em que forem concedidas, devendo a importância a pagar pela taxa de ocupação ser reduzida a metade do seu valor quando o despacho de outorga for dado no 2.º semestre do ano.
+Art. 7.º - 1 - As licenças de uso privativo de terrenos dominiais são válidas durante o ano civil em que forem concedidas, devendo a importância a pagar pela taxa de ocupação ser reduzida a metade do seu valor quando o despacho de outorga for dado no 2.º semestre do ano.
 
 2 - O titular da licença deve limitar o seu terreno com marcas permanentes e baliza bem visíveis, pelo menos em todos os vértices, e assinalar o seu estabelecimento com uma tabuleta que o identifique através da designação escolhida.
 
-###### Art. 8.º - 1 - As licenças de ocupação de terrenos são renováveis anualmente no mês de Janeiro, se os seus titulares o requererem e desde que seja favorável a informação da autoridade marítima no que se refere à exploração e cumprimento das disposições a que estão sujeitos pelo presente Regulamento.
+Art. 8.º - 1 - As licenças de ocupação de terrenos são renováveis anualmente no mês de Janeiro, se os seus titulares o requererem e desde que seja favorável a informação da autoridade marítima no que se refere à exploração e cumprimento das disposições a que estão sujeitos pelo presente Regulamento.
 
 2 - Os requerimentos de prorrogação das licenças devem ser dirigidos pelo interessado ao Secretário de Estado das Pescas no mês de Novembro, através das repartições marítimas, às quais a Direcção-Geral das Pescas comunicará posteriormente as prorrogações concedidas.
 
 3 - As taxas pela ocupação de terrenos do domínio público marítimo são pagas anualmente no mês de Janeiro, salvo no primeiro ano de concessão da licença, em que o pagamento deve ser feito no mês imediato ao da sua outorga.
 
-###### Art. 9.º - 1 - As licenças só serão transmissíveis nas condições a seguir estabelecidas:
+Art. 9.º - 1 - As licenças só serão transmissíveis nas condições a seguir estabelecidas:
 
 a) Por falecimento do concessionário individual a favor do cônjuge sobrevivo, descendente ou ascendente;
 
@@ -188,15 +222,15 @@ b) Do concessionário individual para sociedade que tenha por objectivo o exerc�
 
 2 - No caso previsto das alíneas a) e b), a transmissão será efectuada desde que solicitada quando do prazo para a renovação anual da licença.
 
-###### Art. 10.º - 1 - As licenças podem ser canceladas, por comprovado motivo de interesse público ou por não cumprimento das disposições regulamentares, não conferindo tal facto ao interessado direito a qualquer indemnização.
+Art. 10.º - 1 - As licenças podem ser canceladas, por comprovado motivo de interesse público ou por não cumprimento das disposições regulamentares, não conferindo tal facto ao interessado direito a qualquer indemnização.
 
 2 - Se o cancelamento for determinado por interesse público ou em consequência de fenómeno natural ou acidente alheio à vontade dos titulares de licenças os terrenos se tornarem impróprios para os fins para que foram licenciados, terão aqueles prioridade na obtenção de outra licença de terrenos com o mesmo destino e área não superior, na mesma região.
 
 3 - No caso do cancelamento ser motivado por implantação no local de qualquer actividade ligada a empresa privada, os titulares de licenças terão direito a uma indemnização, além da prevista na lei geral, quando não for possível realizar o previsto no n.º 2.
 
-###### Art. 11.º Na área da jurisdição de cada capitania a mesma entidade não poderá ser titular de mais de quatro licenças de uso privativo de terrenos dominiais.
+Art. 11.º Na área da jurisdição de cada capitania a mesma entidade não poderá ser titular de mais de quatro licenças de uso privativo de terrenos dominiais.
 
-###### Art. 12.º São causa de caducidade das licenças de uso privativo de terrenos do domínio público marítimo:
+Art. 12.º São causa de caducidade das licenças de uso privativo de terrenos do domínio público marítimo:
 
 a) Renúncia do titular da licença ou falta do pedido de transmissão, no caso das alíneas a) e b) do n.º 1 do artigo 9.º;
 
@@ -212,89 +246,89 @@ f) Não exploração efectuada dos terrenos durante um ano sem motivo devidament
 
 ### CAPÍTULO III — Disposições sobre apanha e comercialização
 
-###### Art. 13.º - 1 - A apanha livre de minhocão ou ganso e casulo destinada a comercialização pode, em certas regiões, ser alargada ou restrita a determinadas áreas pela Direcção-Geral das Pescas, sob proposta do Instituto Nacional de Investigação das Pescas.
+Art. 13.º - 1 - A apanha livre de minhocão ou ganso e casulo destinada a comercialização pode, em certas regiões, ser alargada ou restrita a determinadas áreas pela Direcção-Geral das Pescas, sob proposta do Instituto Nacional de Investigação das Pescas.
 
 2 - A apanha das espécies referidas no número anterior, tradicionalmente efectuada por pescadores profissionais para iscar os aparelhos de pesca, é livre para este fim em todos os terrenos do domínio público marítimo, desde que não estejam sob regime de reserva, concessão ou licença.
 
-###### Art. 14.º - 1 - A apanha de minhocão e casulo, bem como de quaisquer outros organismos em terrenos licenciados ou desafectados do domínio público marítimo, só é permitida aos titulares de licenças, a entidades a favor de quem ocorreu a desafectação, a mariscadores ao seu serviço ou por eles autorizados.
+Art. 14.º - 1 - A apanha de minhocão e casulo, bem como de quaisquer outros organismos em terrenos licenciados ou desafectados do domínio público marítimo, só é permitida aos titulares de licenças, a entidades a favor de quem ocorreu a desafectação, a mariscadores ao seu serviço ou por eles autorizados.
 
 2 - A apanha de minhocão e casulo, para fins de comercialização, em terrenos não privados ou não licenciados e que sejam livres ao exercício daquela actividade só é permitida aos mariscadores.
 
-###### Art. 15.º - 1 - A apanha de minhocão e casulo só pode ser feita à mão, com faca de mariscar ou com sacho de cabo curto.
+Art. 15.º - 1 - A apanha de minhocão e casulo só pode ser feita à mão, com faca de mariscar ou com sacho de cabo curto.
 
 2 - A autorização para o emprego de instrumentos diferentes dos referidos no n.º 1 é da competência da Direcção-Geral das Pescas.
 
-###### Art. 16.º - 1 - Com o objectivo de se proteger a produção de minhocão e casulo ou de obviar à sua exaustão nos terrenos de criação natural, pode a sua apanha ser proibida em determinadas épocas do ano.
+Art. 16.º - 1 - Com o objectivo de se proteger a produção de minhocão e casulo ou de obviar à sua exaustão nos terrenos de criação natural, pode a sua apanha ser proibida em determinadas épocas do ano.
 
 2 - Enquanto não for definido em portaria o período de defeso, pode a Direcção-Geral das Pescas, através de circular, estabelecer a época de interdição da apanha.
 
-###### Art. 17.º - 1 - O exercício do comércio com importadores estrangeiros só é permitido aos titulares de licenças de uso privativo de terrenos dominiais.
+Art. 17.º - 1 - O exercício do comércio com importadores estrangeiros só é permitido aos titulares de licenças de uso privativo de terrenos dominiais.
 
 2 - Para fins estatísticos os titulares de licenças de uso privativo de terrenos do domínio público marítimo devem informar trimestralmente as capitanias dos portos e a delegação da Direcção-Geral das Pescas ou a do Instituto Nacional de Investigação das Pescas, se existirem na região, sobre as quantidades movimentadas para a exportação.
 
-###### Art. 18.º - 1 - Os cartões de mariscador e as licenças para a utilização de embarcações passadas obrigatoriamente para os indivíduos quando na apanha e exploração de moluscos testáceos marinhos e reciprocamente.
+Art. 18.º - 1 - Os cartões de mariscador e as licenças para a utilização de embarcações passadas obrigatoriamente para os indivíduos quando na apanha e exploração de moluscos testáceos marinhos e reciprocamente.
 
 2 - No exercício das suas funções os mariscadores devem estar mundos dos respectivos cartões, actualizados quanto ao pagamento da licença.
 
 3 - As embarcações que possuem licença para o exercício de outras actividades marítimas estão isentas do encargo referido no n.º 1 se a licença que possuam for de custo igual ou superior à que é exigida para o exercício de actividades ligadas à exploração de minhocão e casulo. No caso contrário, terão de obter licença para a prática daquelas actividades.
 
-###### Art. 19.º - 1 - Os titulares de licenças de uso privativo de parcelas do domínio público marítimo só poderão adquirir minhocão e casulo a outros titulares daquelas licenças e a mariscadores munidos dos respectivos cartões.
+Art. 19.º - 1 - Os titulares de licenças de uso privativo de parcelas do domínio público marítimo só poderão adquirir minhocão e casulo a outros titulares daquelas licenças e a mariscadores munidos dos respectivos cartões.
 
 2 - Os mariscadores, quando o minhocão e casulo se destinar ao mercado externo, só podem vender aos titulares de licenças de uso privativo de terrenos do domínio público marítimo.
 
 ### CAPÍTULO IV — Contravenções e penalidades
 
-###### Art. 20.º - 1 - A infracção do disposto no n.º 2 do artigo 7.º é punida com advertência na primeira ocorrência.
+Art. 20.º - 1 - A infracção do disposto no n.º 2 do artigo 7.º é punida com advertência na primeira ocorrência.
 
 2 - A segunda ocorrência é punida com multa de 1000$00 e as seguintes com multas no dobro do valor da anterior.
 
-###### Art. 21.º - 1 - As infracções do disposto no n.º 1 do artigo 13.º são punidas na primeira ocorrência com apreensão do minhocão e casulo apanhados para efeitos de comercialização e multa de valor igual a cinco vezes o preço médio do litro no mercado.
+Art. 21.º - 1 - As infracções do disposto no n.º 1 do artigo 13.º são punidas na primeira ocorrência com apreensão do minhocão e casulo apanhados para efeitos de comercialização e multa de valor igual a cinco vezes o preço médio do litro no mercado.
 
 2 - As ocorrências seguintes são punidas com a apreensão dos poliquetas e multa agravada para o dobro, triplo, etc., do seu valor na ocorrência imediatamente anterior.
 
-###### Art. 22.º - 1 - As infracções do disposto no n.º 1 do artigo 14.º são punidas na primeira ocorrência com a apreensão do minhocão e casulo apanhados e multa de valor igual a oito vezes o preço médio do litro no mercado.
+Art. 22.º - 1 - As infracções do disposto no n.º 1 do artigo 14.º são punidas na primeira ocorrência com a apreensão do minhocão e casulo apanhados e multa de valor igual a oito vezes o preço médio do litro no mercado.
 
 2 - As ocorrências seguintes são punidas com a apreensão dos poliquetas e multa agravada para o dobro, triplo, etc., da ocorrência imediatamente anterior.
 
-###### Art. 23.º - 1 - A entidade a cujo mando a infracção foi cometida é também considerada infractora.
+Art. 23.º - 1 - A entidade a cujo mando a infracção foi cometida é também considerada infractora.
 
 2 - A infracção é punida em moldes idênticos aos referidos nos artigos 20.º e 21.º, mas a multa é agravada para montante dez vezes superior.
 
-###### Art. 24.º - 1 - As infracções do disposto nos n.os 1 do artigo 15.º, artigo 16.º e n.º 2 do artigo 18.º são punidas na primeira ocorrência com apreensão dos poliquetas apanhados e dos instrumentos de uso proibido que tenham em seu poder e multa no valor de cinco vezes o preço médio do minhocão no mercado.
+Art. 24.º - 1 - As infracções do disposto nos n.os 1 do artigo 15.º, artigo 16.º e n.º 2 do artigo 18.º são punidas na primeira ocorrência com apreensão dos poliquetas apanhados e dos instrumentos de uso proibido que tenham em seu poder e multa no valor de cinco vezes o preço médio do minhocão no mercado.
 
 2 - Nas ocorrências seguintes a multa é agravada para o dobro, triplo, etc., do seu valor na ocorrência imediatamente anterior.
 
-###### Art. 25.º - 1 - A infracção do disposto no n.º 1 do artigo 17.º é punida na primeira ocorrência com multa de montante igual ao valor médio no mercado de vinte e cinco litros de minhocão.
+Art. 25.º - 1 - A infracção do disposto no n.º 1 do artigo 17.º é punida na primeira ocorrência com multa de montante igual ao valor médio no mercado de vinte e cinco litros de minhocão.
 
 2 - As ocorrências seguintes são punidas com multas agravadas para o dobro, triplo, etc., do seu valor na ocorrência imediatamente anterior.
 
-###### Art. 26.º - 1 - A infracção do disposto no artigo 18.º, na parte que respeita a licença para embarcações, é punida na primeira ocorrência com multa de 1000$00.
+Art. 26.º - 1 - A infracção do disposto no artigo 18.º, na parte que respeita a licença para embarcações, é punida na primeira ocorrência com multa de 1000$00.
 
 2 - Nas ocorrências seguintes a multa é agravada para o dobro, triplo, etc., do seu valor na ocorrência imediatamente anterior.
 
 3 - A infracção do disposto no n.º 2 do mesmo artigo é punida com advertência na primeira ocorrência, com multa de 500$00 na segunda ocorrência e multas agravadas para o dobro, triplo, etc., do valor da multa imediatamente anterior nas ocorrências seguintes.
 
-###### Art. 27.º As infracções do disposto no artigo 19.º implicam:
+Art. 27.º As infracções do disposto no artigo 19.º implicam:
 
 a) Para os titulares de licenças de uso privativo de terrenos do domínio público marítimo, na primeira ocorrência, uma multa de montante igual ao valor médio no mercado de cinquenta litros de minhocão e multas para as ocorrências seguintes, agravadas para o dobro, triplo, etc., do seu valor relativamente à ocorrência imediatamente anterior;
 
 b) Para os mariscadores na primeira ocorrência uma multa de montante igual ao valor médio no mercado de vinte e cinco litros, agravada para o dobro, triplo, etc., do seu valor relativamente à ocorrência imediatamente anterior.
 
-###### Art. 28.º - 1 - A inobservância das disposições deste Regulamento para as quais se não cominarem penas devem ser punidas na primeira ocorrência com multa de 1000$00.
+Art. 28.º - 1 - A inobservância das disposições deste Regulamento para as quais se não cominarem penas devem ser punidas na primeira ocorrência com multa de 1000$00.
 
 2 - Nas ocorrências seguintes, com multas agravadas para o dobro, triplo, etc., do valor da multa na ocorrência imediatamente anterior.
 
-###### Art. 29.º - Os quantitativos das multas aplicadas por infracção a este Regulamento revertem totalmente para o Estado, sem adicionais.
+Art. 29.º - Os quantitativos das multas aplicadas por infracção a este Regulamento revertem totalmente para o Estado, sem adicionais.
 
-###### Art. 30.º - No caso de mais de três ocorrências de infracções, pode ser negada aos infractores possuidores de licenças a respectiva renovação.
+Art. 30.º - No caso de mais de três ocorrências de infracções, pode ser negada aos infractores possuidores de licenças a respectiva renovação.
 
-###### Art. 31.º - Os poliquetas contemplados por este Regulamento, apreendidos por infracção dos artigos 13.º, 14.º, 15.º, 16.º e 18.º, na parte que respeita a colheitas, devem ter os seguintes destinos:
+Art. 31.º - Os poliquetas contemplados por este Regulamento, apreendidos por infracção dos artigos 13.º, 14.º, 15.º, 16.º e 18.º, na parte que respeita a colheitas, devem ter os seguintes destinos:
 
 a) Ser entregues à entidade lesada quando provenientes de terrenos sob outorga de licença de uso privativo;
 
 b) Ser devolvidos aos locais de apanha com os respectivos encargos suportados pelos infractores ou vendidos a favor do Estado nos outros casos.
 
-**O Secretário de Estado das Pescas, João de Albuquerque.**
+O Secretário de Estado das Pescas, João de Albuquerque.
 
 ## ANEXO — Tabela de licenças e emolumentos
 
@@ -322,4 +356,4 @@ Cartão de mariscador ... 20$00
 
 Termo de outorga (do uso privativo) ... 200$00
 
-**O Secretário de Estado das Pescas, João de Albuquerque.**
+O Secretário de Estado das Pescas, João de Albuquerque.

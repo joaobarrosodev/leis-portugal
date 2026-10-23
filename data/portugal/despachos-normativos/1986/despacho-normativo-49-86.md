@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-1986-228638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: accd1b0133b8a8a8edf4422a6e6caba9c4a6a5aeba5eeb2032f52576cc06035f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af9463f4c4e5e9b3399f1ae4e03780df8408fe4ad91d1bada2b62d25bc7ea08d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipações da Segurança Social
+- IPSS
+- Lares
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:285935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325079:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665949:por
+  label: "Revogado pelo DN.41/87.08.04.1987.MTSS, DR.IS [95] de 24.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/41-1987-665949
+  date: '1987-04-08'
+- type: repealed_by
+  target: pt:dre:285935:por
+  label: "Revogado pelo DN.12/88.22.02.1988.MESS, DR.IS [60] de 12.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-1988-285935
+  date: '1988-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:36Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +189,7 @@ I
 
 QUADRO A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf))](https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf)
 
 2 - A norma II do [Despacho Normativo n.º 20/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1985-325079) passa a ter a seguinte redacção:
 
@@ -167,7 +201,7 @@ Relativamente às instituições com valências não enquadráveis em qualquer d
 
 QUADRO B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf))](https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14000/14591461.pdf)
 
 3 - A aplicação das normas III (Apoio financeiro especial) e VI (Comparticipação financeira para outros equipamentos ou serviços - Acordos atípicos) fica condicionada pela observância das regras estabelecidas neste diploma.
 

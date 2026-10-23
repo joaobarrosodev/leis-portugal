@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/2006/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2006-546195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c9a3d45ae8b5341708709d0c000d56e70ad4348bb798baaf75432b55ec59a19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f78bbfeca058cbc1e75b81360ab21a04a7d8c86360e5a4cf519ec1f238904e55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,50 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Valores Mobiliários
+- CMVM
 - Código dos Valores Mobiliários
 - Definição de Competências
 - Emissão de Títulos
 - Fiscalização
-- Publicitação
 - Oferta Pública de Aquisição
-- CMVM
+- Publicitação
 - Sociedades
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:107773645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 20º-A e 111º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-Nov, na redacção\
+    \ do presente diploma, republicado, pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterado o art. 245º-A do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, na redacção do\
+    \ presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:332702:por
+  label: "Alterado o art. 20.º-A do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, aditado pelo\
+    \ presente diploma, pelo DEC LEI.52/2010.26.05.2010.MFAP, DR.IS [102] de 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterado o art. 111º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente\
+    \ diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de 06.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:107773645:por
+  label: Alterado, o art. 245.º-A do Código dos Valores Mobiliários, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    89/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28, nos termos do art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2017-107773645
+  date: '2017-07-28'
 - type: cites
   target: celex:32001L0034
   label: null
@@ -96,16 +126,23 @@ relationships:
   target: celex:32004L0109
   label: null
   source: http://data.europa.eu/eli/dir/2004/109/oj
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o Decreto-Lei n.º 357-A/2007, de 31 de Outubro, que alterou o Código dos Valores Mobiliários, aprovado\
+    \ pelo Decreto-Lei n.º 486/99, de 13 de Novembro, na redacção do presente diploma, e respectiva republicação, (acrescentando\
+    \ o artigo 179.º aos artigos alterados), pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
 article_structure:
-  article_count: 32
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:58Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +231,9 @@ i) [Anterior alínea g).]
 
 5 - A presunção referida no número anterior pode ser ilidida perante a CMVM, mediante prova de que a relação estabelecida com o participante é independente da influência, efectiva ou potencial, sobre a sociedade participada.
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +243,9 @@ a) No que respeita à contrapartida proposta, ao processamento da oferta, ao con
 
 b) No que respeita à informação aos trabalhadores da sociedade visada, à percentagem de direitos de voto que constitui domínio, às derrogações ou dispensas ao dever de lançamento de oferta pública de aquisição e às limitações de poderes do órgão de administração da sociedade visada, aplica-se a lei pessoal da sociedade emitente dos valores mobiliários objecto da oferta.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +277,9 @@ m) As ofertas públicas de aquisição de valores mobiliários emitidos por orga
 
 3 - ...
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - Além da prevista no n.º 1 do artigo 183.º-A, o prospecto de oferta pública de aquisição deve incluir informação sobre:
 
@@ -270,7 +313,9 @@ o) Quaisquer encargos a suportar pelos destinatários da oferta.
 
 2 - ...
 
-###### Artigo 173.º — [...]
+Artigo 173.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +323,9 @@ o) Quaisquer encargos a suportar pelos destinatários da oferta.
 
 3 - À oferta pública de aquisição lançada apenas sobre valores mobiliários que não sejam acções ou valores mobiliários que conferem direito à sua subscrição ou aquisição não se aplicam as regras relativas ao anúncio preliminar, aos deveres de informação sobre transacções efectuadas, aos deveres do emitente, à oferta concorrente e à oferta pública de aquisição obrigatória.
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 1 - ...
 
@@ -290,7 +337,9 @@ b) ...
 
 c) Informar os representantes dos seus trabalhadores ou, na sua falta, os trabalhadores sobre o conteúdo dos documentos da oferta, assim que estes sejam tornados públicos.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - ...
 
@@ -312,13 +361,17 @@ h) O estatuto do oferente quanto às matérias a que se refere o artigo 182.º e
 
 2 - ...
 
-###### Artigo 178.º — [...]
+Artigo 178.º
+
+[...]
 
 1 - ...
 
 2 - O anúncio preliminar e o anúncio de lançamento de oferta pública de aquisição cuja contrapartida consista em valores mobiliários que não sejam emitidos pelo oferente devem também indicar os elementos respeitantes ao emitente e aos valores mobiliários por este emitidos ou a emitir, que são referidos no artigo 176.º e no n.º 1 do artigo 183.º-A.
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +383,9 @@ a) No âmbito de ofertas públicas de aquisição voluntárias, a CMVM pode dete
 
 b) No âmbito de ofertas públicas de aquisição obrigatórias, o oferente é obrigado a aumentar a contrapartida para um preço não inferior ao preço mais alto pago pelos valores mobiliários assim adquiridos.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - O órgão de administração da sociedade visada deve, no prazo de oito dias a contar da recepção dos projectos de prospecto e de anúncio de lançamento e no prazo de cinco dias após a divulgação de adenda aos documentos da oferta, enviar ao oferente e à CMVM e divulgar ao público um relatório elaborado nos termos do artigo 7.º sobre a oportunidade e as condições da oferta.
 
@@ -358,7 +413,9 @@ c) Informar os representantes dos seus trabalhadores ou, na sua falta, os trabal
 
 d) ...
 
-###### Artigo 182.º — [...]
+Artigo 182.º
+
+[...]
 
 1 - ...
 
@@ -390,7 +447,9 @@ b) As deliberações da assembleia geral prevista na alínea b) do número anter
 
 7 - Nas sociedades que adoptem o modelo referido na alínea c) do n.º 1 do artigo 278.º do Código das Sociedades Comerciais, os n.os 1 a 6 aplicam-se, com as necessárias adaptações, ao conselho de administração executivo e ao conselho geral e de supervisão.
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - Até cinco dias antes do fim do prazo da oferta, o oferente pode rever a contrapartida quanto à sua natureza e montante.
 
@@ -398,7 +457,9 @@ b) As deliberações da assembleia geral prevista na alínea b) do número anter
 
 3 - ...
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - ...
 
@@ -414,7 +475,9 @@ b) As deliberações da assembleia geral prevista na alínea b) do número anter
 
 7 - A sociedade visada deve assegurar igualdade de tratamento entre oferentes quanto à informação que lhes seja prestada.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +495,9 @@ c) Se tiver sido fixada com base no preço de mercado dos valores mobiliários e
 
 5 - A contrapartida pode consistir em valores mobiliários, se estes forem do mesmo tipo do que os visados na oferta e estiverem admitidos ou forem da mesma categoria de valores mobiliários de comprovada liquidez admitidos à negociação em mercado regulamentado, desde que o oferente e pessoas que com ele estejam em alguma das situações do n.º 1 do artigo 20.º não tenham, nos seis meses anteriores ao anúncio preliminar e até ao encerramento da oferta, adquirido quaisquer acções representativas do capital social da sociedade visada com pagamento em dinheiro, caso em que deve ser apresentada contrapartida equivalente em dinheiro.
 
-###### Artigo 190.º — [...]
+Artigo 190.º
+
+[...]
 
 1 - O dever de lançamento de oferta pública de aquisição fica suspenso se a pessoa a ele obrigada, em comunicação escrita dirigida à CMVM, imediatamente após a ocorrência do facto constitutivo do dever de lançamento, se obrigar a pôr termo à situação nos 120 dias subsequentes.
 
@@ -440,13 +505,17 @@ c) Se tiver sido fixada com base no preço de mercado dos valores mobiliários e
 
 3 - ...
 
-###### Artigo 191.º — [...]
+Artigo 191.º
+
+[...]
 
 1 - A publicação do anúncio preliminar da oferta deve ocorrer imediatamente após a verificação do facto constitutivo do dever de lançamento.
 
 2 - ...
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - Quem, na sequência do lançamento de oferta pública de aquisição geral em que seja visada sociedade aberta que tenha como lei pessoal a lei portuguesa, atinja ou ultrapasse, directamente ou nos termos do n.º 1 do artigo 20.º, 90% dos direitos de voto correspondentes ao capital social até ao apuramento dos resultados da oferta e 90% dos direitos de voto abrangidos pela oferta pode, nos três meses subsequentes, adquirir as acções remanescentes mediante contrapartida justa, em dinheiro, calculada nos termos do artigo 188.º
 
@@ -458,7 +527,9 @@ c) Se tiver sido fixada com base no preço de mercado dos valores mobiliários e
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 1 - ...
 
@@ -468,7 +539,9 @@ c) Se tiver sido fixada com base no preço de mercado dos valores mobiliários e
 
 4 - A aquisição implica, em termos imediatos, a perda da qualidade de sociedade aberta da sociedade e a exclusão da negociação em mercado regulamentado das acções da sociedade e dos valores mobiliários que a elas dão direito, ficando vedada a readmissão durante um ano.
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - Cada um dos titulares das acções remanescentes pode, nos três meses subsequentes ao apuramento dos resultados da oferta pública de aquisição referida no n.º 1 do artigo 194.º, exercer o direito de alienação potestativa, devendo antes, para o efeito, dirigir por escrito ao sócio dominante convite para que, no prazo de oito dias, lhe faça proposta de aquisição das suas acções.
 
@@ -482,7 +555,9 @@ b) Indicação da contrapartida calculada nos termos dos n.os 1 e 2 do artigo 19
 
 4 - ...
 
-###### Artigo 393.º — [...]
+Artigo 393.º
+
+[...]
 
 1 - ...
 
@@ -580,7 +655,9 @@ b) Uma declaração fundamentada, referente a cada entidade gestora ou intermedi
 
 6 - Antes de emitir o comunicado previsto no n.º 4, a CMVM dá conhecimento do mesmo ao Instituto de Seguros de Portugal sempre que se refira a fundos de pensões.
 
-###### Artigo 145.º-A — Autoridade competente em ofertas públicas de aquisição
+Artigo 145.º-A
+
+Autoridade competente em ofertas públicas de aquisição
 
 1 - A CMVM é competente para a supervisão de ofertas públicas de aquisição que tenham por objecto valores mobiliários emitidos por sociedades sujeitas a lei pessoal portuguesa, desde que os valores objecto da oferta:
 
@@ -598,7 +675,9 @@ b) Não estando admitidos à negociação no Estado membro onde se situa a sede 
 
 4 - Quando a CMVM seja competente nos termos do número anterior, a decisão da sociedade é divulgada no sistema de difusão de informação da CMVM.
 
-###### Artigo 147.º-A — Reconhecimento mútuo
+Artigo 147.º-A
+
+Reconhecimento mútuo
 
 1 - O prospecto de oferta pública de aquisição de valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal, aprovado por autoridade competente de outro Estado membro é reconhecido pela CMVM, desde que:
 
@@ -608,7 +687,9 @@ b) Seja disponibilizado à CMVM um certificado, emitido pela autoridade competen
 
 2 - A CMVM pode exigir a introdução de informação suplementar que decorra de especificidades do regime português e respeite a formalidades relativas ao pagamento da contrapartida, à aceitação da oferta e ao regime fiscal a que esta fica sujeita.
 
-###### Artigo 182.º-A — Suspensão voluntária de eficácia de restrições transmissivas e de direito de voto
+Artigo 182.º-A
+
+Suspensão voluntária de eficácia de restrições transmissivas e de direito de voto
 
 1 - As sociedades sujeitas a lei pessoal portuguesa podem prever estatutariamente que:
 
@@ -632,7 +713,9 @@ c) Quando, na sequência de oferta pública de aquisição, seja atingido pelo m
 
 8 - O disposto no presente artigo não se aplica no caso de um Estado membro ser titular de valores mobiliários da sociedade visada que lhe confira direitos especiais.
 
-###### Artigo 185.º-A — Processo das ofertas concorrentes
+Artigo 185.º-A
+
+Processo das ofertas concorrentes
 
 1 - A oferta concorrente deve ser lançada até ao 5.º dia anterior àquele em que termine o prazo da oferta inicial.
 
@@ -646,7 +729,9 @@ c) Quando, na sequência de oferta pública de aquisição, seja atingido pelo m
 
 6 - Em caso de ofertas concorrentes, as aceitações podem ser revogadas até ao último dia do período de aceitações.
 
-###### Artigo 185.º-B — Direitos dos oferentes anteriores
+Artigo 185.º-B
+
+Direitos dos oferentes anteriores
 
 1 - O lançamento de oferta concorrente e a revisão de qualquer oferta em concorrência conferem a qualquer oferente o direito de proceder à revisão dos termos da sua oferta, independentemente de o ter ou não feito ao abrigo do artigo 184.º
 
@@ -658,7 +743,9 @@ c) Quando, na sequência de oferta pública de aquisição, seja atingido pelo m
 
 5 - A decisão de revogação é publicada logo que seja tomada, devendo sê-lo até quatro dias a contar do lançamento da oferta concorrente.
 
-###### Artigo 245.º-A — Informação anual sobre governo das sociedades
+Artigo 245.º-A
+
+Informação anual sobre governo das sociedades
 
 1 - Os emitentes de acções admitidas à negociação em mercado regulamentado divulgam, em capítulo do relatório anual de gestão especialmente elaborado para o efeito ou em anexo a este, a seguinte informação detalhada sobre a estrutura e práticas de governo societário:
 
@@ -704,7 +791,9 @@ Os artigos 9.º e 36.º da Lei n.º 18/2003, de 11 de Junho, passam a ter a segu
 
 3 - As operações de concentração projectadas podem ser objecto de avaliação prévia pela Autoridade, segundo procedimento a estabelecer pela Autoridade nos termos dos respectivos estatutos.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - No prazo máximo de 90 dias contados da data da notificação a que se refere o artigo 31.º, a Autoridade procede às diligências de investigação complementares que considere necessárias.
 
@@ -732,12 +821,12 @@ Sem prejuízo do disposto no artigo anterior, o disposto no presente decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 7 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 25 de Outubro de 2006.**
+Promulgado em 25 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 26 de Outubro de 2006.**
+Referendado em 26 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,41 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1977-138087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57bc24184b5a0dc15b426523f2156b5c05d3d9862a09cb3a55eb5288533f2d77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dfc0cf73f38b275f429b2134f135f745e37af677789cb9a50cb0c1df14c6111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Junta Nacional dos Vinhos
+- Rectificação de Numero de Diploma
+- Região Demarcada do DÃO
+relationships:
+- type: cites
+  target: pt:dre:500913:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138171:por
+  label: Retificado pelo(a) Rectificação - Diário da República n.º 16/1977, Série I de 1977-01-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1977-138171
+  date: '1977-01-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:39:23Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo n.º 3/77
+# Despacho normativo n.º 3/77
 
 Não obstante se estimar a colheita de vinho de 1976 no continente em 8850000 hl, quantitativo inferior à média do último decénio, e não serem também significativos os excedentes de anterior campanha, as dificuldades encontradas para se conseguir o adequado funcionamento do mercado do vinho, com particular referência à área de acção da Junta Nacional do Vinho e das Regiões Demarcadas dos Vinhos Verdes e do Dão, recomendam a intervenção na campanha de 1976-1977.
 
@@ -111,7 +123,7 @@ TABELA I
 
 Intervenção na área da Junta Nacional do Vinho e da Região Demarcada do Dão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01000/00620064.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01000/00620064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01000/00620064.pdf)
 
 Notas
 
@@ -129,6 +141,6 @@ TABELA II
 
 Intervenção na área da Região Demarcada dos Vinhos Verdes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01000/00620064.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01000/00620064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01000/00620064.pdf)
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

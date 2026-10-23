@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/37/1995/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1995-480720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b0a62723953f7626133b959419d953662e21e8ea19b1e6afd20bc91ac05585c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f443752fa87de7e62ca7fd8d2329e724cf57f0969b2e5b42a9408ba437e9ad35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,50 @@ relationships:
   target: pt:dre:2271440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584408:por
+  label: "Homologada a primeira alteração aos Estatutos do Instituto Politécnico de Leiria pelo DN.41/2001.2001.09.18.ME,\
+    \ DR.IS-B [244] de 20/Out/2001 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/41-2001-584408
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:622597:por
+  label: "Homologada a nova redacção dada ao nº 3 do art. 2º e ao nº 1 do art. 10º assim como o aditamento das als. f) e g)\
+    \ ao art. 8º, dos arts. 24º-A a 24º-F e das secções VI e VII ao cap. III, todos dos Estatutos do Instituto Politécnico\
+    \ de Leiria, homologados pelo presente diploma, com as alterações que lhe foram introduzidas e homologadas pelo DN 41/2001\
+    \ de 20-Out, pelo DN.38/2004.05.08.2004.MCIES, DR.IS-B [206] de 01.09.2004, que procede à republicação dos referidos Estatutos\
+    \ nas novas redacção e renumeração \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/38-2004-622597
+  date: '2004-08-05'
+- type: amended_by
+  target: pt:dre:552281:por
+  label: "Homologada a terceira alteração aos Estatutos do Instituto Politécnico de Leiria, homologados pelo presente despacho,\
+    \ alterados e homologados pelos DN 41/2001 de 20-Out e 38/2004 de 05-Ago, pelo DN.6/2006.18.01.2006.MCTES, DR.IS-B [25]\
+    \ de 03.02.2006, que os republica em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/6-2006-552281
+  date: '2006-01-18'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 75
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:25Z'
   warnings: []
   errors: []
 ---
@@ -560,7 +594,9 @@ Subcapítulo I
 
 Escolas superiores
 
-#### SECÇÃO I — Artigo 25.º
+#### SECÇÃO I
+
+###### Artigo 25.º
 
 Autonomia
 
@@ -722,7 +758,7 @@ f) Designar os membros do colégio eleitoral a que se referem o n.º 9 do artigo
 
 ###### Artigo 43.º — Nomeação e exercício de funções
 
-**O presidente e os vice-presidentes são nomeados em regime de comissão de serviço pelo presidente do Instituto e exercem funções em regime de dedicação exclusiva podendo, por sua iniciativa, prestar também serviço docente.**
+O presidente e os vice-presidentes são nomeados em regime de comissão de serviço pelo presidente do Instituto e exercem funções em regime de dedicação exclusiva podendo, por sua iniciativa, prestar também serviço docente.
 
 ###### Artigo 44.º — Processo eleitoral
 
@@ -926,13 +962,17 @@ Constitui património do IPL o conjunto de bens e direitos que, pelo Estado ou o
 
 2 - Aos instrumentos de gestão será dada adequada divulgação.
 
-### CAPÍTULO VI — Artigo 69.º
+### CAPÍTULO VI
+
+###### Artigo 69.º
 
 Avaliação
 
 O IPL definirá e aplicará mecanismos sistemáticos de avaliação das suas actividades, de acordo com o que for estabelecido na lei.
 
-### CAPÍTULO VII — Artigo 70.º
+### CAPÍTULO VII
+
+###### Artigo 70.º
 
 Revisão e alteração dos estatutos
 

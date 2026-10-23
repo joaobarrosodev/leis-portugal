@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24098-1969-201193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9c63382d7efb7c2cefe2a84d7a6a4b70fe76b74243d64a1d347381eb1231f28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5df0204f4ae959b7a2024a5ddc3c02c379852ca38101fd0b1c1cf5495fe02c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:04Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +95,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do § 3.º do artigo 25.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, que, para efeitos de determinação da matéria colectável do imposto de mais-valias, se apliquem aos bens de que trata o n.º 2.º do artigo 1.º do código aprovado pelo [Decreto-Lei n.º 46373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46373-1965-294899), de 9 de Junho de 1965, alienados em 1969, e aos bens referidos nos n.os 1.º e 3.º do mesmo artigo, alienados posteriormente à publicação da presente portaria, os coeficientes seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/05/12800/06010601.pdf))](https://files.diariodarepublica.pt/1s/1969/05/12800/06010601.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12800/06010601.pdf)
 
 Ministério das Finanças, 30 de Maio de 1969. - O Secretário de Estado do Orçamento, Augusto Victor Coelho.

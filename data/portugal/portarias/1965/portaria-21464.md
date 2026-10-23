@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21464-1965-292350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69348e0dd1d37f347f003ddd56a3f173bda091b5571ab910364cedb164eccee7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54f8bb18274b9c9606d32f5add05f05e4d2533da03f81b6e1a1fbb1933e7bb93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:33Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +95,17 @@ Despesas com o pessoal:
 
 Pessoal privativo equiparado a militar e civil
 
-###### Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque - A pagar na metrópole» ... 800000$00
+Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque - A pagar na metrópole» ... 800000$00
 
-###### Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque - A pagar na província» ... 300000$00
+Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque - A pagar na província» ... 300000$00
 
-###### Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 80000$00
+Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 80000$00
 
-###### Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 80000$00
+Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 80000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 14.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 140000$00
+Artigo 14.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 140000$00
 
 ... 1400000$00
 
@@ -111,19 +115,19 @@ Despesas com o pessoal:
 
 Pessoal militar permanente e não permanente da Força Aérea
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 700000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 700000$00
 
-###### Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 100000$00
+Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 100000$00
 
-###### Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 50000$00
+Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 50000$00
 
-###### Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 200000$00
+Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 200000$00
 
-###### Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 100000$00
+Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 100000$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 150000$00
+Artigo 5.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 150000$00
 
-###### Artigo 5.º, n.º 2), alínea b) «Outras despesas com o pessoal - Alimentação - Subsídio» ... 100000$00
+Artigo 5.º, n.º 2), alínea b) «Outras despesas com o pessoal - Alimentação - Subsídio» ... 100000$00
 
 ... 1400000$00
 

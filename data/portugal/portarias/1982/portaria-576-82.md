@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-1982-395750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:19:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3d3dede2d7a622833e6583b799e689495f0a03705146781ada87a670141d82c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a791a690e1dbdd234de6b8a3af71343fa70ca8f4a7cb0e25afb2ec5b1485174
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Viação
+- Prestação de Serviços
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:177066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177066:por
+  label: "Alteradas a al. d) do ponto 4.2 e al. b) do ponto 5.2, ambos da parte I da tabela de taxas aprovada pelo presente\
+    \ diploma, pela PORT.704/85.21.09.1985.MFP, DR.IS [218] de 21.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/704-1985-177066
+  date: '1985-09-21'
+- type: cites
+  target: pt:dre:140546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:19:55Z'
   warnings: []
   errors: []
 ---
@@ -357,4 +382,4 @@ b) De recipientes de transporte de substâncias tóxicas e perigosas e gases com
 
 7) Remessa, para serviços não dependentes da Direcção-Geral de Viação, de documentos nela depositados ... 300$00
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado dos Transportes Interiores, Abílio Gaspar Rodrigues.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado dos Transportes Interiores, Abílio Gaspar Rodrigues.

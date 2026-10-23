@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-1970-227255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a51a836ae5b3dcd55781efc272f7cb1dbf76b90190c39a08bb0a19ad8160e91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3788ae015f9bea102751c6c181d8b42b0531cb1123b79c1330c66031b1d20f82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:28Z'
   warnings: []
   errors: []
 ---
@@ -89,23 +93,23 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 6) «Outras despesas com o pessoal - Subsídio para renda de casa» ... 12702$00
+Artigo 3.º, n.º 6) «Outras despesas com o pessoal - Subsídio para renda de casa» ... 12702$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Infra-estruturas» ... 43000$00
+Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Infra-estruturas» ... 43000$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 9000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 9000$00
 
-###### Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 9000$00
+Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 9000$00
 
-###### Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 9000$00
+Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 9000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização ... 15000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização ... 15000$00
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 13000$00
+Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 13000$00
 
 ... 110702$00
 
@@ -113,19 +117,19 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 53000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 53000$00
 
-###### Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo» ... 35000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo» ... 35000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 8000$00
+Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 8000$00
 
-###### Artigo 6.º, n.º 4) «Material de consumo corrente - Munições» ... 2000$00
+Artigo 6.º, n.º 4) «Material de consumo corrente - Munições» ... 2000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 12702$00
+Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 12702$00
 
 ... 110702$00
 

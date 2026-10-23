@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20200/0000800008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/94/2023/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/94-2023-222939627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c34ca4cd101b286e8cc5b3e7cd0c03d31f0cf76cc82e5346f3bbb918e286f31a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a17986b8ce42222b643de0516b186ec936e41aefb21e8801c472861b1e04fab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Militar
-- Graduação Militar
 - GNR
-- Promoção Profissional
+- Graduação Militar
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/30/2017/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/2017/03/22/p/dre
+- type: cites
+  target: pt:dre:106642828:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:49:39Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +97,16 @@ validation:
 
 de 18 de outubro
 
-**O Presidente da República decreta, nos termos da alínea a) do n.º 1 do artigo 140.º do [Decreto-Lei n.º 30/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2017-106642828), de 22 de março, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do n.º 1 do artigo 140.º do [Decreto-Lei n.º 30/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2017-106642828), de 22 de março, o seguinte:
 
 É confirmada a promoção ao posto de Brigadeiro-General do Coronel Tirocinado de Cavalaria João Carlos Marques Fonseca, na sequência do parecer de 18 de agosto de 2023 do Conselho Superior da Guarda Nacional Republicana e do despacho de aprovação da promoção do Ministro da Administração Interna de 2 de outubro de 2023.
 
 A antiguidade do militar no posto de Brigadeiro-General conta-se a partir do dia 11 de setembro de 2023, devendo passar a auferir a remuneração correspondente ao novo posto desde a data da assinatura do presente decreto.
 
-**Assinado em 11 de outubro de 2023.**
+Assinado em 11 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+116959039

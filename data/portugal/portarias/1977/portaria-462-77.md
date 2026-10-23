@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1977-251188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 377e8e73201d800d669d8615f3ca7793a4b51a0638d8a64c89f0aee22e17ed68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61ae91b7806c328c2432b8738f4fb150a91912717fb7af33f8571e42ba1c0a5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exportação
+- Fixação de Preços
+- Indústria Transformadora
+- Licença de Apanhador
+- Planta Marinha
+- Preço
+- Preço de Venda
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:299056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:427382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:299056:por
+  label: Revogada, a partir de 23.08.1978, pelo(a) Portaria n.º 484/78 - Diário da República n.º 193/1978, Série I de 1978-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-1978-299056
+  date: '1978-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:00Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +119,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 A) Preços das algas agarófitas (ver nota a):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf))](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf)
 
 (nota a) Algas habitualmente utilizadas pela indústria nacional de ágar-ágar, incluindo a francelha mansa e o cabelão-dos-açores.
 
@@ -114,11 +135,11 @@ De venda aos exportadores - 14$50 por quilograma.
 
 3. Os preços referidos na alínea A) do n.º 1 deste número aplicam-se às algas agarófitas entregues às empresas produtoras de ágar-ágar, até aos seguintes montantes recolhidos por zona de apanha do continente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf))](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf)
 
 4. A partir das quantidades referidas no n.º 3 deste número, os apanhadores do continente receberão os seguintes adicionais por quilograma, que não estarão sujeitos a descontos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf))](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/17200/18451846.pdf)
 
 5. Os adicionais a que se refere o n.º 4 do presente número serão entregues pela indústria de ágar-ágar do continente aos representantes dos trabalhadores de apanha submarina de algas (TASA) em cada zona de apanha ou, na ausência dessa organização, aos representantes dos apanhadores da respectiva zona, os quais, no fim da safra, repartirão o montante global apurado segundo normas que estabeleçam e que terão por base a proporcionalidade em relação à apanha por zonas.
 

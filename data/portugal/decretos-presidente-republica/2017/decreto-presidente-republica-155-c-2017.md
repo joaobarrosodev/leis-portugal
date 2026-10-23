@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 245/2017, 1º Suplemento, Série I de 2017-12-22
   number: '245'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6686-(2) a 6686-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24501/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/155-c/2017/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/155-c-2017-114399462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 981702fbb6ceaa34842cfe509ee1865303206998058624cc33a95d2eec64fc16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f6e8ceea1f57e4095ad955dcf366c69b3a02e30ea9d44ad4c2d916f0194fa0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:29:27Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +86,18 @@ validation:
 
 de 22 de dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 É indultada, parcialmente, na medida de um ano, a pena de prisão aplicada a Carlos Alberto Canudo Silva, no Proc.º n.º 613/13.0PCSTB, por razões humanitárias.
 
-**Assinado em 22 de dezembro de 2017.**
+Assinado em 22 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de dezembro de 2017.**
+Referendado em 22 de dezembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111022871

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/317/1995/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1995-626590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d0f703878f2a4d93dd867ed8ac6f860f5cc1fb4a126ebbf71e7546b580e56ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5839bfe5f9ee604dac9e01273ee50cce377b2c9cba9af5adf685fdb989feb209
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,52 +65,117 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Processo Civil
-- Crime
-- Processo Penal
-- Garantia
 - Carta de Condução
 - Código de Processo Penal
-- Multa
+- Crime
+- Deficiente Mental
 - Definição de Competências
-- Execução de Penas
-- Férias Judiciais
 - Direito à Justiça
-- Tribunal Criminal
+- Direito Penal
+- Execução de Penas
+- Execução de Sentença
+- Férias Judiciais
+- Função Pública
+- Garantia
 - Justiça
 - Magistrado do Ministério Público
-- Execução de Sentença
-- Terrorismo
-- Sanção Penal
+- Multa
 - Prazo Processual
 - Prescrição da Acção
-- Supremo Tribunal de Justiça
-- Direito Penal
+- Processo Civil
+- Processo Penal
+- Sanção Penal
 - Segredo Profissional
 - Sistema Penal
+- Supremo Tribunal de Justiça
+- Terrorismo
 - Tribunal Colectivo
+- Tribunal Criminal
 - Tribunal Singular
-- Deficiente Mental
 relationships:
 - type: amended_by
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448110:por
+  label: "Alterados os arts 1.º, 12.º, 13.º, 16.º, 104.º, 107.º, 209.º, 287.º, 313.º, 315.º, 342.º, 370.º, 375.º, 409.º, 469.º,\
+    \ 473.º, 484.º, 485.º, 487.º, 489.º, 490.º, 495.º, 496.º, 498.º, 500.º, 508.º, 509.º e 521.º, todos do Código de Processo\
+    \ Penal, aprovado pelo Dec Lei 78/87 de 17-Fev, na redacção do presente diploma, e republicado com a redacção actual pela\
+    \ LEI.59/98.25.08.1998.AR, DR.IS-A [195] de 25.08.1998\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/59-1998-448110
+  date: '1998-08-25'
+- type: amended_by
+  target: pt:dre:393231:por
+  label: "Alterados os arts. 313º e 315º, do Código de Processo Penal, aprovado pelo Dec Lei 78/87 de 17-Fev, alterado pelo\
+    \ presente diploma, pelo DEC LEI.320-C/2000.2000.12.15.MJ, DR.IS-A [288]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-c-2000-393231
+  date: '2000-12-15'
+- type: amended_by
+  target: pt:dre:656128:por
+  label: "Alterado o artigo 1.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de Fevereiro, alterado\
+    \ pelo presente diploma, pela LEI.52/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2003-656128
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:641082:por
+  label: "Alterados a partir de 15.09.2007, os arts. 1º, 13º, 14º, 104º, 107º, 135º, 187º, 242º, 287º, 315º, 342º, 367º, 370º,\
+    \ 409º, 477º, 480º, 482º, 484º, 485º, 486º, 487º, 488º, 494º, 495º, 496º, 509º, todos do Código de Processo Penal aprovado\
+    \ pelo Dec Lei 78/87 de 17-Fev, na redacção do presente diploma, pela LEI.48/2007.29.08.2007.AR, DR.IS [166] de 29.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2007-641082
+  date: '2007-08-29'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 521º, do Código de Processo Penal, aprovado pelo Dec Lei 78/87, de 17-Fev,\
+    \ na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:491690:por
+  label: "Alterados, a partir de 10.04.2010, os arts. 470º, 477º, 494º, 504º e 506º, do Código de Processo Penal, aprovado\
+    \ pelo Dec Lei 78/87 de 17-Fev, na redacção do presente diploma, alterado e republicado pela Lei 48/2007 de 29-Ago, posteriormente\
+    \ rectificada e republicada pela Decl-Rect 105/2007 de 09-Nov, que também republica em anexo, com a redacção actual, o\
+    \ citado código, pela LEI.115/2009.12.10.2009.AR, DR.IS [197] de 12.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/115-2009-491690
+  date: '2009-10-12'
+- type: amended_by
+  target: pt:dre:343929:por
+  label: "Alterado, a partir de 29.10.2010, o art 1.º do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, na\
+    \ redacção do presente diploma, alterado e republicado pela Lei 48/2007 de 29-Ago, posteriormente rectificada, republicada\
+    \ (renumerados alguns nºs de arts.) pelas Decl-Rect 100-A/2007 de 26-Out e 105/2007 de 09-Nov que procederam também à\
+    \ republicação, na redacção actual, do Código de Processo Penal em anexo à citada lei, pela LEI.26/2010.30.08.2010.AR,\
+    \ DR.IS [168] de 30.08.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2010-343929
+  date: '2010-08-30'
+- type: amended_by
+  target: pt:dre:258493:por
+  label: Alterados os art.s 13º, 14º,16º, 287º, 315º e 342º do Código de Processo Penal, aprovado pelo Dec Lei 78/87, de 17-fev,
+    na redação do presente diploma, pela LEI.20/2013.21.02.2013.AR, DR.IS [37] de 21.02.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2013-258493
+  date: '2013-02-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/90-b/1995/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/90-b/1995/09/01/p/dre
+- type: cites
+  target: pt:dre:302522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 article_structure:
-  article_count: 64
+  article_count: 63
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:11Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +218,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 90-B/95](https://diariodarepublica.pt/dr/detalhe/lei/90-b-1995-302522), de 1 de Setembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 13.º, 14.º, 16.º, 104.º, 107.º, 135.º, 187.º, 209.º, 220.º, 224.º, 242.º, 280.º, 287.º, 313.º, 315.º, 342.º, 367.º, 370.º, 375.º, 409.º, 469.º a 509.º e 521.º do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 13.º, 14.º, 16.º, 104.º, 107.º, 135.º, 187.º, 209.º, 220.º, 224.º, 242.º, 280.º, 287.º, 313.º, 315.º, 342.º, 367.º, 370.º, 375.º, 409.º, 469.º a 509.º e 521.º do Código de Processo Penal, aprovado pelo [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -753,7 +818,7 @@ b) Decorridos dois anos sobre o início da continuação do cumprimento da pena 
 
 A dispensa da pena não liberta o arguido da obrigação de pagar taxa de justiça e custas.
 
-###### Art. 2.º - 1 - O título I do livro X do [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, cuja epígrafe se mantém, é constituído pelos artigos 467.º a 476.º
+Art. 2.º - 1 - O título I do livro X do [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, cuja epígrafe se mantém, é constituído pelos artigos 467.º a 476.º
 
 2 - Os capítulos I, II, e III do título II do referido livro, cujas epígrafes se mantêm, são constituídos pelos artigos 477.º a 483.º, 484.º a 486.º e 487.º a 488.º, respectivamente.
 
@@ -765,12 +830,12 @@ A dispensa da pena não liberta o arguido da obrigação de pagar taxa de justi�
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995 - Aníbal António Cavaco Silva - José Manuel Cardoso Borges Soeiro.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

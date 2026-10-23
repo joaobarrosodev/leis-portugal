@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/216a00/48284838.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/293/1998/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1998-241441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2d969773138efb0d04df951fbfc20664cc841092b226a984c6decdacf96d387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b824558a7db63228c4f666d00964139a4527ff6a3eb4439dcffe09e0f079c61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Armazenagem
+- Comércio
 - Comunidade Europeia
 - Consumo
+- Controlo Sanitário
 - Decisão CE
 - Definição de Competências
 - Direcção Geral das Pescas
-- Controlo Sanitário
-- Saúde Pública
-- Importação
 - Embalagem
+- Importação
 - Molusco
 - Produção
 - Proteção do Consumidor
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
@@ -106,16 +106,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/552/1995/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/552/1995/06/08/p/dre
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o Dec Lei 112/99, de 23-Mai, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 7
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:24Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +156,11 @@ Os artigos 1.º, 3.º e 4.º e o n.º 1 do artigo 8.º do Decreto-Lei n.º 112/9
 
 O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [91/492/CEE](http://data.europa.eu/eli/dir/1991/492/oj?locale=pt), do Conselho, de 15 de Julho de 1991, com as alterações introduzidas pela Directiva n.º [97/61/CE](http://data.europa.eu/eli/dir/1997/61/oj?locale=pt), do Conselho, de 20 de Outubro de 1997, que aprova as normas sanitárias relativas à produção e à colocação no mercado de moluscos bivalves vivos, bem como a Decisão n.º [92/92/CEE](http://data.europa.eu/eli/dec/1992/92/oj?locale=pt), da Comissão, de 9 de Janeiro de 1992, que fixa as exigências relativas aos equipamentos e estruturas dos centros de expedição e de depuração de moluscos bivalves vivos, conforme anexo II ao presente diploma e que dele faz parte integrante.
 
-###### Artigo 3.º
+Artigo 3.º
 
 As normas técnicas de execução do presente diploma constam dos anexos I e II, que dele fazem parte integrante.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Compete à Direcção-Geral das Pescas e Aquicultura (DGPA):
 
@@ -182,7 +188,7 @@ f) Estabelecer planos de colheita de amostras nas zonas de produção e de trans
 
 5 - A comunicação do número de controlo veterinário à Comissão da União Europeia, doravante designada por Comissão, é efectuada pela DGV, após haver sido informada da comunicação do mesmo aos interessados, pela DGPA, aquando da emissão das licenças de exploração dos referidos centros.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - As entidades que detêm atribuições nas matérias reguladas no presente diploma, que lhe foram cometidas pelas respectivas leis orgânicas, devem assegurar a fiscalização do cumprimento das normas constantes neste decreto-lei e correspondente regulamentação.»
 
@@ -200,17 +206,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 3 de Setembro de 1998.**
+Promulgado em 3 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Setembro de 1998.**
+Referendado em 8 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — CAPÍTULO I
+## ANEXO I
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -360,7 +368,9 @@ ii) Vigilância por um serviço oficial de controlo do país terceiro.
 
 2) Os moluscos bivalves vivos importados deverão ser comercializados nas mesmas condições que são exigidas ao produto de origem nacional e desde que sanitariamente certificados pela autoridade competente do país de origem.
 
-## ANEXO II — CAPÍTULO I
+## ANEXO II
+
+### CAPÍTULO I
 
 Condições aplicáveis às zonas de produção
 

@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/800-1983-454282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c33d7c621d9f1e9cd03f75b41efa2ede6e9af753e70a36b85692f066156cc827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a0a8b06df337e79838453e8cb07aff9a3c778163eaf3aeb5f0f32a5e6e6773
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:49:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Estudante
+- Exame Médico
+- Inscrição Obrigatória
+- Matrícula
 relationships:
 - type: amended_by
   target: pt:dre:325515:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325515:por
+  label: "Aditados os nºs 18, 19 e 20 ao nº. 1 da Port. 329/74, de 24-Abr, na redacção do presente diploma, pela PORT.206/85.13.04.1985.ME,\
+    \ DR.IS [86] de 13.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-1985-325515
+  date: '1985-04-13'
+- type: cites
+  target: pt:dre:266124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O NUMERO 1, PELA PORTARIA NUMERO 370/84, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 137, DE 14/6/84.\
+    \ ALTERADO O NUMERO 2, PELA PORTARIA NUMERO 1068/83, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 298, DE 28/12/83.\0\
+    DE 28/12/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:386593:por
+  label: "Revogado o n.º 18 do n.º 1 da Port 320/74, de 24-Abr, aditado pelo n.º 1 do presente diploma, pela PORT.370/84.14.06.1984.ME,\
+    \ DR.IS [137] de 14.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-1984-386593
+  date: '1984-06-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:49:17Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +142,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o
 
 Ministério da Educação.
 
-**Assinada em 19 de Julho de 1983.**
+Assinada em 19 de Julho de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

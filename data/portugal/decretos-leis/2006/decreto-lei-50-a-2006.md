@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 50/2006, 1º Suplemento, Série I-A de 2006-03-10
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1812-(2) a 1812-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/050a01/00020014.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50-a/2006/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2006-540441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a95f404bf56865c663fcf51f852e1cb0d3cdd9e5447fbfed5f7622feeb148be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d8932202cea4bc1fdd9672b33d361de64c00627469582f60afc22e510d60610
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Açores
 - Administração Financeira do Estado
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Financiamento
-- Fiscal Único
-- Ministério da Defesa Nacional
-- Formação Profissional
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Autarquia Local
+- Caixa Geral de Aposentações
 - Dação em Cumprimento
 - Deslocação em Serviço
 - Direcção Geral de Viação
+- Doença Profissional
 - Dotação Orçamental
 - Duodécimo
 - Equipa de Missão
+- Estado Maior General das Forças Armadas
 - Estrutura de Missão para a Extensão da Plataforma Continental
 - Execução do Orçamento
-- Caixa Geral de Aposentações
+- Financiamento
+- Fiscal Único
+- Formação Profissional
 - Fundo de Maneio
-- Instituto do Desporto de Portugal
 - Indemnização Compensatória
 - Indep
-- Programa Nacional de Compras Electrónicas
-- Instituto de Turismo de Portugal
 - Instituto de Gestão Financeira e Patrimonial da Justiça
+- Instituto de Turismo de Portugal
+- Instituto do Desporto de Portugal
+- Madeira.região Autónoma
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
 - Ministro da Economia e da Inovação
-- Orçamento
-- Doença Profissional
-- Pessoal Supranumerario
-- Pensões
+- Ministro da Presidência
 - Ministro de Estado e da Administração Interna
 - Ministro de Estado e das Finanças
-- Madeira.região Autónoma
-- Retribuição Mínima Garantida
-- Ministro da Defesa Nacional
-- Ministro da Presidência
-- Segurança Social
-- Estado Maior General das Forças Armadas
-- Açores
-- Autarquia Local
+- Orçamento
+- Pensões
+- Pessoal Supranumerario
 - Portugal Vela 2007
+- Programa Nacional de Compras Electrónicas
+- Retribuição Mínima Garantida
+- Segurança Social
 relationships:
 - type: cites
   target: celex:31993R3605
@@ -122,13 +122,13 @@ relationships:
 article_structure:
   article_count: 56
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:53Z'
   warnings: []
   errors: []
 ---
@@ -737,12 +737,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Manuel Mendonça de Oliveira Neves - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Luís Medeiros Vieira - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

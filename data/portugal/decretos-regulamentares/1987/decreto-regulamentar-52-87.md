@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1987-417176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ca5760d5638be0bff9eb1d399caa6e8731294856cbb23811c41dfd0bff4e56c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4faf05119a868f511eda1c9db581bdb9e82276e2eede9f18112fdd8f4f4df6a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Multa
+- Regulamento
+- Regulamento de Transportes em Automóveis
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:421027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371627:por
+  label: "Alterados os arts. 151º, 208º e 211º do Regulamento aprovado pelo DEC 37272, de 31-Dez 1948, na redacção dada pelo\
+    \ presente diploma, pelo DR.26/88.1988.06.28.MOPTC, DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/26-1988-371627
+  date: '1988-06-28'
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:14Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +125,15 @@ Atento o disposto na base XI da [Lei n.º 2008](https://diariodarepublica.pt/dr/
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 51.º, 52.º, 208.º e 211.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, alterado, designadamente, pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, e pelo [Decreto-Lei n.º 186/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1982-392444), de 15 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 51.º, 52.º, 208.º e 211.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, alterado, designadamente, pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, e pelo [Decreto-Lei n.º 186/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1982-392444), de 15 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 51.º Os transportes de passageiros em automóveis pesados em regime de aluguer apenas poderão ser explorados por concessionários de carreiras regulares com veículos a estas adstritos.
+Art. 51.º Os transportes de passageiros em automóveis pesados em regime de aluguer apenas poderão ser explorados por concessionários de carreiras regulares com veículos a estas adstritos.
 
 § 1.º Em casos especiais, o director-geral de Transportes Terrestres poderá autorizar aos concessionários das carreiras regulares a utilização, em serviço de aluguer, de veículos não adstritos a carreiras, caso em que serão objecto de licenciamento para o efeito.
 
 § 2.º As licenças a que se refere o parágrafo anterior serão passadas pelo prazo máximo de cinco anos, podendo ser renovadas.
 
-###### Art. 52.º O contrato de aluguer em automóveis pesados de passageiros deve ser reduzido a escrito, destinando-se ao locador o original, que o deverá manter em arquivo pelo período de um ano, e ao locatário o duplicado e o triplicado, que deverão acompanhar os veículos e dos quais um será entregue às entidades fiscalizadoras, quando solicitado.
+Art. 52.º O contrato de aluguer em automóveis pesados de passageiros deve ser reduzido a escrito, destinando-se ao locador o original, que o deverá manter em arquivo pelo período de um ano, e ao locatário o duplicado e o triplicado, que deverão acompanhar os veículos e dos quais um será entregue às entidades fiscalizadoras, quando solicitado.
 
 § 1.º Do contrato de aluguer constarão obrigatoriamente os seguintes elementos:
 
@@ -125,7 +151,7 @@ e) Data e período de validade do contrato.
 
 § 3.º Em cada serviço de aluguer, o veículo deverá estar afecto a uma finalidade conjunta de todos os passageiros transportados.
 
-###### Art. 208.º - 1 - É punida com multa de 150000$00 a 300000$00 a realização de transportes de aluguer em automóveis pesados de passageiros não licenciados nos termos deste Regulamento.
+Art. 208.º - 1 - É punida com multa de 150000$00 a 300000$00 a realização de transportes de aluguer em automóveis pesados de passageiros não licenciados nos termos deste Regulamento.
 
 2 - É punida com multa de 200000$00 a 400000$00:
 
@@ -141,7 +167,7 @@ b) A transgressão do § 3.º do artigo 52.º
 
 6 - Havendo condenação pelo crime referido no número anterior, o veículo ou veículos a eles afectos serão apreendidos pelo prazo de seis meses.
 
-###### Art. 211.º - 1 - São punidos com multa de 12500$00 a 62500$00:
+Art. 211.º - 1 - São punidos com multa de 12500$00 a 62500$00:
 
 a) A transgressão dos artigos 8.º, 20.º, 27.º e seus parágrafos e 41.º;
 
@@ -169,12 +195,12 @@ d) A realização de carreiras em horários diferentes dos aprovados quando, pel
 
 Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 17 de Julho de 1987.**
+Promulgado em 17 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1987.**
+Referendado em 2 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

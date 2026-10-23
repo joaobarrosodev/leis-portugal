@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/192a00/54565457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/324/1999/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1999-434419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b92f6059879024adafb3b1c347ea96b1446da2b1236de1ad4d59584765a513b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bdb85fe28096df0f03f4ae85dfe99bf316f8b0dff11dd1513e0980925aab4cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
 - Admissão de Pessoal
 - Definição de Competências
-- Administração Pública
 - Direcção Geral da Administração Pública
+- Duração do Trabalho
+- Função Pública
+- Funcionário Público
+- Horário de Trabalho
 - Política de Emprego
 - Regime Especial de Prestação de Trabalho
 - Regime Jurídico
-- Duração do Trabalho
-- Horário de Trabalho
-- Trabalho a Tempo Parcial
 - Remuneração
 - Responsabilidade Civil
 - Responsabilidade Financeira
-- Funcionário Público
+- Trabalho a Tempo Parcial
 relationships:
 - type: amended_by
   target: pt:dre:25676932:por
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogados a partir da entrada em vigor do RCTFP, os arts, 5º e 6º, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl]\
+    \ de 27.02.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
+- type: repealed_by
+  target: pt:dre:25676932:por
+  label: Revogado a partir de 01.08.2014, na redação da Lei 12-A/2008, de 27-fev, pela LEI.35/2014.20.06.2014.AR, DR.IS [117]
+    de 20.06.2014��
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:27Z'
   warnings: []
   errors: []
 ---
@@ -213,12 +237,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 4 de Agosto de 1999.**
+Promulgado em 4 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Agosto de 1999.**
+Referendado em 9 de Agosto de 1999.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

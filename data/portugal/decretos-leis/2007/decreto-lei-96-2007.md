@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/19231927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2007-520437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d625b7049d8f9145f8ab50a6cef5134d6a1cdde8d4a7386634a97c64e3cc0812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4900075b8fa06489bb4635df65b773d85064c0aeff0aca378598e22c723263dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Pessoal Dirigente
-- Instituto Português do Património Arquitectónico
 - Convento de Cristo
-- Igespar
 - Definição de Competências
 - Direcção Geral dos Edifícios e Monumentos Nacionais
 - Diretor
+- Fiscal Único
+- Igespar
+- Igreja de Santa Cruz
 - Igreja de Santa Engrácia
-- Panteão Nacional
 - Instituto Português de Arqueologia
+- Instituto Português do Património Arquitectónico
 - Mosteiro de Alcobaça
 - Mosteiro de Santa Maria da Vitória
 - Mosteiro dos Jerónimos
 - Orgânica
-- Igreja de Santa Cruz
+- Panteão Nacional
 - Parque Arqueológico do Vale do Côa
+- Pessoal Dirigente
 - Subdiretor
 - Torre de Belém
 relationships:
@@ -89,6 +89,29 @@ relationships:
   target: pt:dre:211837464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279426:por
+  label: "Extinto, enquanto serviço dependente do IGESPAR, I. P., o Parque Arqueológico de Vale do Côa e revogadas a al. f)\
+    \ do n.º 2 do art. 14.º e a al. f) do anexo, pelo DEC LEI.35/2011.08.03.2011.MC, DR.IS [47] de 08.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2011-279426
+  date: '2011-03-08'
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinto, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, o Instituto de Gestão do Património Arquitectónico\
+    \ e Arqueológico, I. P, cuja orgânica foi aprovada pelo presente diploma, alterado pelo Dec Lei 35/2011 de 08-Mar e rectificado\
+    \ pela Decl-Rect 47-H/2007 de 25-Mai e integra as suas atribuições na Direcção-Geral do Património Cultural DEC LEI.126-A/2011.29.12.2011.PCM,\
+    \ DR.IS [249-Supl] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:177829:por
+  label: "Determinado que as Direções Regionais de Cultura sucedem nas atribuições do extinto Instituto de Gestão do Património\
+    \ Arquitetónico e Arqueológico, I. P., pelo DEC LEI.114/2012.25.05.2012.PCM, DR.IS [102] de 25.05.2012, relativamente\
+    \ às ações regionais e locais de salvaguarda e acompanhamento do património arqueológico, da emissão de parecer sobre\
+    \ os planos, projetos, trabalhos e intervenções nas zonas de proteção dos imóveis classificados ou em vias de classificação\
+    \ e respetivo acompanhamento e fiscalização, exceto nas zonas de proteção dos imóveis afetos à DGPC.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2012-177829
+  date: '2012-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1997/05/14/p/dre
   label: null
@@ -113,16 +136,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:329449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:149598:por
+  label: "Rectificado pela DECL-RECT.47-H/2007.25.05.2007.PCM, DR.IS [102]Supl de 28.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-h-2007-149598
+  date: '2007-05-25'
+- type: repealed_by
+  target: pt:dre:177827:por
+  label: "Revogado, a partir de 01.06.2012, pelo DEC LEI.115/2012.25.05.2012.PCM, DR.IS [102] de 25.05.2012, sucedendo a DGPC\
+    \ nas atribuições do IGESPAR, nos termos do art. 13º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2012-177827
+  date: '2012-05-25'
 article_structure:
-  article_count: 24
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:44Z'
   warnings: []
   errors: []
 ---
@@ -287,15 +349,21 @@ x) Aprovar a concessão de apoios financeiros ou outros incentivos a entidades p
 
 3 - Os subdirectores exercem as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substitui-lo nas suas faltas e impedimentos.
 
-###### Artigo 6.º — Fiscal único
+Artigo 6.º
+
+Fiscal único
 
 O fiscal único tem as competências e é nomeado nos termos da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
-###### Artigo 7.º — Organização interna
+Artigo 7.º
+
+Organização interna
 
 A organização interna do IGESPAR, I. P., é a prevista nos respectivos estatutos.
 
-###### Artigo 8.º — Serviços dependentes
+Artigo 8.º
+
+Serviços dependentes
 
 1 - Os serviços dependentes do IGESPAR, I. P., são serviços desconcentrados da administração central, dotados de autonomia administrativa.
 
@@ -323,17 +391,23 @@ i) Propor a celebração de protocolos e acordos com outras entidades, nacionais
 
 j) Autorizar a realização de estágios no serviço e gerir a colaboração de voluntários.
 
-###### Artigo 9.º — Estatuto do pessoal dirigente
+Artigo 9.º
+
+Estatuto do pessoal dirigente
 
 1 - Aos dirigentes do IGESPAR, I. P., é aplicável o regime definido na lei-quadro dos institutos públicos e, subsidiariamente, o estatuto do pessoal dirigente da Administração Pública.
 
 2 - Aos dirigentes dos serviços dependentes do IGESPAR, I. P., é aplicável o estatuto do pessoal dirigente da Administração Pública.
 
-###### Artigo 10.º — Regime de pessoal
+Artigo 10.º
+
+Regime de pessoal
 
 Ao pessoal do IGESPAR, I. P., é aplicável o regime jurídico da função pública.
 
-###### Artigo 11.º — Receitas
+Artigo 11.º
+
+Receitas
 
 1 - O IGESPAR dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
 
@@ -369,15 +443,21 @@ n) As receitas arrecadadas ao abrigo da lei do mecenato são consideradas receit
 
 4 - Os preços pela prestação dos serviços previstos nas alíneas g) e h) do n.º 2 são aprovados pelo director do IGESPAR, I. P.
 
-###### Artigo 12.º — Despesas
+Artigo 12.º
+
+Despesas
 
 Constituem despesas do IGESPAR, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.
 
-###### Artigo 13.º — Património
+Artigo 13.º
+
+Património
 
 O património do IGESPAR, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular.
 
-###### Artigo 14.º — Afectação de património
+Artigo 14.º
+
+Afectação de património
 
 1 - Sem prejuízo do disposto no número seguinte, a afectação ou desafectação ao IGESPAR, I. P., da gestão de bens imóveis classificados é feita por portaria dos membros do Governo responsáveis pelas áreas das Finanças e da Cultura.
 
@@ -395,21 +475,29 @@ e) Panteão Nacional, instalado na Igreja de Santa Engrácia, em Lisboa, e na Ig
 
 f) Parque Arqueológico de Vale do Côa.
 
-###### Artigo 15.º — Poderes de autoridade
+Artigo 15.º
+
+Poderes de autoridade
 
 Os dirigentes e o pessoal da IGESPAR, I. P., gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de protecção e valorização do património cultural e demais legislação regulamentar, nomeadamente no que respeita a património arquitectónico e arqueológico quando em serviço e sempre que tal se demonstre necessário à aplicação dos respectivos regimes jurídicos.
 
-###### Artigo 16.º — Criação e participação em outras entidades
+Artigo 16.º
+
+Criação e participação em outras entidades
 
 O IGESPAR, I. P., pode criar, participar ou adquirir participações em entes de direito privado, se for imprescindível para a prossecução das suas atribuições, mediante autorização prévia dos membros do Governo responsáveis pelas áreas das Finanças e da cultura, nos termos do artigo 13.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
-###### Artigo 17.º — Intervenção regional e local no domínio arqueológico
+Artigo 17.º
+
+Intervenção regional e local no domínio arqueológico
 
 1 - O director do IGESPAR, I. P., pode definir por despacho o âmbito territorial de afectação de pessoal para acções regionais e locais de salvaguarda e acompanhamento do património arqueológico.
 
 2 - O domicílio profissional do pessoal afecto a acções regionais e locais de salvaguarda e acompanhamento do património arqueológico é fixado na área territorial definida nos termos do número anterior.
 
-###### Artigo 18.º — Sucessão
+Artigo 18.º
+
+Sucessão
 
 O IGESPAR, I. P., sucede:
 
@@ -419,7 +507,9 @@ b) Nas atribuições do Instituto Português de Arqueologia;
 
 c) Nas atribuições relativas à salvaguarda e valorização do património classificado da Direcção-Geral de Edifícios e Monumentos Nacionais, com excepção das atribuições cometidas às respectivas direcções regionais.
 
-###### Artigo 19.º — Critérios de selecção do pessoal
+Artigo 19.º
+
+Critérios de selecção do pessoal
 
 São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 3.º:
 
@@ -429,19 +519,27 @@ b) Exercício de funções no Instituto Português de Arqueologia;
 
 c) Exercício de funções no domínio da salvaguarda e valorização do património classificado da Direcção-Geral de Edifícios e Monumentos Nacionais, com excepção das respectivas direcções regionais.
 
-###### Artigo 20.º — Regulamentos internos
+Artigo 20.º
+
+Regulamentos internos
 
 Os regulamentos internos do IGESPAR, I. P., são remetidos aos membros do Governo responsáveis pelas áreas das Finanças e da Cultura para aprovação nos termos da alínea a) do n.º 4 do artigo 41.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
 
-###### Artigo 21.º — Isenção de licenciamento e de taxas
+Artigo 21.º
+
+Isenção de licenciamento e de taxas
 
 As obras promovidas pelo IGESPAR, I. P., nos imóveis classificados que lhe estejam afectos, estão isentas de licenciamento ou autorização e do pagamento de quaisquer taxas.
 
-###### Artigo 22.º — Disposição financeira transitória
+Artigo 22.º
+
+Disposição financeira transitória
 
 Ao IGESPAR, I. P., é atribuído, nos termos do n.º 4 do artigo 6.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, o regime de autonomia administrativa e financeira enquanto gerir projectos do PIDDAC co-financiados pelo orçamento da União Europeia.
 
-###### Artigo 23.º — Norma revogatória
+Artigo 23.º
+
+Norma revogatória
 
 São revogados:
 
@@ -451,23 +549,27 @@ b) O [Decreto-Lei n.º 120/97](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 c) As alíneas a), b) e c) do n.º 2 do artigo 2.º e a alínea e) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 284/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1993-329449), de 18 de Agosto.
 
-###### Artigo 24.º — Entrada em vigor
+Artigo 24.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
 
-**Promulgado em 23 de Março de 2006.**
+Promulgado em 23 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2006.**
+Referendado em 27 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — (a que se refere o n.º 3 do artigo 2.º)
+ANEXO
+
+(a que se refere o n.º 3 do artigo 2.º)
 
 a) Convento de Cristo;
 

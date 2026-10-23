@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/1999/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1999-321692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aba4cfc7d12cf97f7f0981815c66e73aeec561502664fefb797ff651f20ca64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 918d17189450c80664cdba54ae8cd55618c4f88fac220c456742a423df529e4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Aditivo Alimentar
+- Alimento para Animais
 - Aproximação das Legislações
+- Circulação de Mercadorias
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Saúde Pública
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Circulação de Mercadorias
-- Aditivo Alimentar
+- Produção Animal
 - Proteção do Consumidor
-- Alimento para Animais
-- Comércio
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:669865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319937:por
+  label: "Alterado o nº 1 do cap. VIII da parte A do anexo pelo DEC LEI.133/2000.2000.07.13.MADRP,DR.IS-A [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2000-319937
+  date: '2000-07-13'
 - type: cites
   target: celex:31977L0101
   label: null
@@ -105,16 +110,22 @@ relationships:
   target: celex:31998L0067
   label: null
   source: http://data.europa.eu/eli/dir/1998/67/oj
+- type: repealed_by
+  target: pt:dre:669865:por
+  label: "Revogado, com a redacção conferida pelo Dec Lei 133/2000 de 13-Jul, pelo DEC LEI.161/2003.2003.07.22.MADRP DR.IS-A\
+    \ [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2003-669865
+  date: '2003-07-22'
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:15Z'
   warnings: []
   errors: []
 ---
@@ -307,17 +318,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos.
 
-**Promulgado em 10 de Maio de 1999.**
+Promulgado em 10 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — PARTE A
+## ANEXO
+
+## PARTE A
 
 Generalidades
 
@@ -327,7 +340,7 @@ I - Notas explicativas
 
 Origem do produto/subproduto, por exemplo, vegetal, animal, mineral;
 
-# Parte do produto/subproduto utilizada, por exemplo, totalidade, sementes, tubérculos, ossos;
+Parte do produto/subproduto utilizada, por exemplo, totalidade, sementes, tubérculos, ossos;
 
 Processo de transformação a que o produto/subproduto foi sujeito, por exemplo, descasque, extracção, aquecimento e ou o produto/subproduto resultante, por exemplo, flocos, sêmeas, polpa, matérias gordas;
 
@@ -493,14 +506,14 @@ Ao plasma seco e outros produtos do sangue.
 
 2 - Quando um Estado membro tenha proibido a utilização de produtos proteicos derivados de tecidos de mamíferos, referidos no primeiro período do n.º 1, na alimentação de certos animais que não os ruminantes, conforme permitido pelo n.º 2 do artigo 1.º da Portaria n.º 965/92, de 10 de Outubro, a indicação mencionada no n.º 1 precisará as outras espécies ou categorias de animais a que a proibição de utilização dos produtos em causa foi alargada.
 
-# PARTE B — Lista não exaustiva das principais matérias-primas para alimentação animal
+## PARTE B — Lista não exaustiva das principais matérias-primas para alimentação animal
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf)](https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf)
 
-# PARTE C — Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista
+## PARTE C — Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista
 
 As matérias-primas para alimentação animal colocadas em circulação que não constem da parte B do presente anexo serão objecto de uma declaração obrigatória dos constituintes indicados na coluna 2 do quadro seguinte, nos termos da alínea d) do n.º 1 do artigo 5.º da directiva.
 
 As matérias-primas para alimentação animal que não figurem na lista da parte B devem ser designadas de acordo com os critérios do ponto I, n.º 1, da parte A do presente anexo.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf)
+[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf)](https://files.diariodarepublica.pt/1s/1999/05/119a00/28102829.pdf)

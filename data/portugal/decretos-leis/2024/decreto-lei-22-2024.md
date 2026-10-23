@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05600/0001200013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2024/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2024-856211139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56c7c1f2377bf97679e71cd67746e874faa85a06541218d5751e496e68bccec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6afa903921f94e3d2efff9d50de90fde6c128872ff5db9f191af4602c58694ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Gás Natural
+- Centro Eletroprodutor
 - Consumo de Energia
-- Energia Renovável
-- Direção Geral de Energia e Geologia
 - Desenvolvimento Económico
+- Direção Geral de Energia e Geologia
+- Distribuição de Energia Elétrica
+- Energia Renovável
+- Gás Natural
+- Produção de Hidrogénio
 - Prorrogação de Prazo
 - Rede Elétrica de Serviço Público
 - Sistema Elétrico Nacional
 - Transporte de Energia
-- Centro Eletroprodutor
-- Produção de Hidrogénio
 relationships:
 - type: amended_by
   target: pt:dre:901535571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:30-A/2022
+  label: Prorroga, a partir de 20 de março de 2024, o prazo previsto no artigo 11.º do Decreto-Lei n.º 30-A/2022, de 18 de
+    abril, Diário da República n.º 75/2022, 2º Suplemento, Série I
+  source: null
+  date: '2022-04-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/30-a/2022/04/18/p/dre
   label: null
@@ -94,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202357817:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:59Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +150,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906), de 18 de abril, na sua redação atual, alterado pelo Decretos-Leis n.<sup>os</sup>72/2022, de 19 de outubro, e 11/2023, de 10 de fevereiro, que aprova medidas excecionais que visam assegurar a simplificação dos procedimentos de produção de energia a partir de fontes renováveis.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906), de 18 de abril, na sua redação atual, alterado pelo Decretos-Leis n.os72/2022, de 19 de outubro, e 11/2023, de 10 de fevereiro, que aprova medidas excecionais que visam assegurar a simplificação dos procedimentos de produção de energia a partir de fontes renováveis.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906), de 18 de abril
 
@@ -150,12 +168,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de fevereiro de 2024. - António Luís Santos da Costa - Ana Cláudia Fontoura Gouveia.
 
-**Promulgado em 8 de março de 2024.**
+Promulgado em 8 de março de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2024.**
+Referendado em 13 de março de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117478419

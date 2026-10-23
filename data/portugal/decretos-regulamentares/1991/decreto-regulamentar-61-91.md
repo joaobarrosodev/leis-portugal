@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/61/1991/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1991-309476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c87698c224a7d3ea404236076fc45cedd9e2b02ee90ec2a2bf4affc510c4931
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39618ff1adbff55a59450f31ff625bb113143c4b912c786f80f648847d139c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Indústria Transformadora
 - Pesca
 - Produtos de Pesca
 - Regulamento
-- Indústria Transformadora
 relationships:
 - type: amended_by
   target: pt:dre:226227:por
@@ -82,16 +82,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:321917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:413071:por
+  label: "RECTIFICADA PELA DECL-RECT 4/92 DR.IS-B [26]2SUPL\0UPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-1992-413071
+  date: '1992-01-31'
+- type: repealed_by
+  target: pt:dre:527409:por
+  label: "Revogados os nºs. 5 e 6 do art. 25.º do Regulamento do Exercício da Actividade da Indústria Transformadora da Pescas\
+    \ em Terra (RAIP), aprovado pelo presente diploma, pelo DEC LEI.124/95.1995.05.31.MA DR.S-A [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1995-527409
+  date: '1995-05-31'
+- type: repealed_by
+  target: pt:dre:226227:por
+  label: "Revogado pelo DR.8/2003.2003.03.28.MECO, DR.IS-B [86], a partir da sua entrada em vigor.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2003-226227
+  date: '2003-03-28'
 article_structure:
-  article_count: 33
+  article_count: 32
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:34Z'
   warnings: []
   errors: []
 ---
@@ -110,23 +158,23 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 427/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1991-321917), de 31 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Exercício da Actividade da Indústria Transformadora da Pesca, em Terra (RAIP), anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Exercício da Actividade da Indústria Transformadora da Pesca, em Terra (RAIP), anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º O presente decreto regulamentar produz efeitos desde o início da vigência do [Decreto-Lei n.º 427/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1991-321917), de 31 de Outubro.
+Art. 2.º O presente decreto regulamentar produz efeitos desde o início da vigência do [Decreto-Lei n.º 427/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1991-321917), de 31 de Outubro.
 
 Presidência do Conselho de Ministros, 12 de Agosto de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Carlos Alberto Diogo Soares Borrego.
 
-**Promulgado em 29 de Outubro de 1991.**
+Promulgado em 29 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Novembro de 1991.**
+Referendado em 5 de Novembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento do Exercício da Actividade da Indústria Transformadora da Pesca, em Terra (RAIP)
 
@@ -882,10 +930,10 @@ Condições específicas
 
 ## ANEXO III — (a que se referem os artigos 5.º e 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf))](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 28.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf))](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf)
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf))](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/273b00/62206230.pdf)

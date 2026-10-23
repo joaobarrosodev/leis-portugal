@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/232-1982-378116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e833b1ce9d5e0dd1d1b96cb9653f41947e6c3e050da7ff3bf55bb7696c220a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c90b122f37ea817b1aa776efdd7d9a6bc5a7fc4bd73ad1bd11b15c562cd435a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ministério dos Transportes e Comunicações
+- Quadro de Pessoal
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:229958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:40Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +100,6 @@ Considerando, ainda, que urge dar cumprimento àquele imperativo legal atenta a 
 
 Ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, é aprovada a programação do preenchimento dos lugares vagos e nunca providos do quadro de pessoal da Secretaria-Geral do ex-Ministério dos Transportes e Comunicações, constante do anexo I da [Portaria n.º 148-D/80](https://diariodarepublica.pt/dr/detalhe/portaria/148-d-1980-229958), de 31 de Março, pelo modo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25000/35723573.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25000/35723573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25000/35723573.pdf)
 
 Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, 30 de Setembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 284/1967, 1º Suplemento, Série I de 1967-12-07
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2247 - 2248
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/28401/22472248.pdf
 entry_into_force_dates: []
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23048-1967-138564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edb9aacffb8990d72313e81893064f0057c4eee37aef74992e5227da70961f61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 765a70e702a9e5b28db0c229ff3815120193704879f5f0d9649772aa7a23c5ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Marinha
+- Militar
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:471745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:471745:por
+  label: "Eliminado o § único do art. 174º e aditados os §§ 1º e 2º ao mesmo art. do ESPA aprovado pelo Dec 44884 de 18-Fev\
+    \ 1963, com a redacção conferida no presente diploma pelo DEC.42/80.07.07.1980.CR, DR.IS [154] de 07.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/42-1980-471745
+  date: '1980-07-07'
+- type: repealed_by
+  target: pt:dre:397102:por
+  label: "Revogada pela PORT.219/72.1972.04.21.MMAR DG.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1972-397102
+  date: '1972-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:39Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 1.º Eliminar o § único do artigo 152.º do Estatuto dos Sargentos e Praças da Armada e substituí-lo pelos três parágrafos seguintes:
 
-###### Art. 152.º ...
+Art. 152.º ...
 
 § 1.º As promoções a que se referem as alíneas a), c) e d) do corpo deste artigo são realizadas por ordem cronológica dos cursos e, dentro de cada curso, por ordem decrescente das classificações.
 
@@ -100,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 2.º Substituir o artigo 174.º e seus §§ 1.º e 2.º do referido Estatuto pelo seguinte:
 
-###### Art. 174.º Os sargentos e praças que tenham ficado demorados ou preteridos na promoção só serão promovidos depois de satisfazerem as condições de promoção.
+Art. 174.º Os sargentos e praças que tenham ficado demorados ou preteridos na promoção só serão promovidos depois de satisfazerem as condições de promoção.
 
 § único. A promoção dos sargentos e praças demorados ou preteridos e dos que não tenham sido colocados em qualquer destas situações terá lugar pela ordem correspondente à da antiguidade que lhes pertencer no novo posto e só se realizará depois de terem ingressado no quadro todos os supranumerários.
 

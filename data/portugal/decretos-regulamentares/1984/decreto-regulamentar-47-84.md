@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1984-385416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 719759712eb1c2c959546242396f7d3741dca4df0e427829238c0338144daac3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59e320311a6e8e0b541a680828a5d3a3211910a34c1c64994635d4484bca16ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Bacteriológico de Câmara Pestana
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:547229:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:419471:por
+  label: Alterado o quadro de pessoal anexo pela PORT.531/87.1987.06.29.MF, DR.IS [146]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/531-1987-419471
+  date: '1987-06-29'
+- type: amended_by
+  target: pt:dre:547229:por
+  label: Substituído o quadro de pessoal do Instituto Bacteriológico de Câmara Pestana, aprovado pelo presente diploma, com
+    as alterações introduzidas pela Port 531/87 de 29-jun, pelo(a) Portaria n.º 784/89 - Diário da República n.º 207/1989,
+    Série I de 1989-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/784-1989-547229
+  date: '1989-09-08'
+- type: cites
+  target: pt:dre:609171:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:31Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +118,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Instituto Bacteriológico de Câmara Pestana, a que se refere o artigo 1.º do [Decreto Regulamentar n.º 12/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1982-609171), de 19 de Março, é o que consta do mapa anexo ao presente diploma.
+Artigo 1.º O quadro de pessoal do Instituto Bacteriológico de Câmara Pestana, a que se refere o artigo 1.º do [Decreto Regulamentar n.º 12/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1982-609171), de 19 de Março, é o que consta do mapa anexo ao presente diploma.
 
-###### Art. 2.º As alíneas b) e h) do artigo 3.º, n.º 1, daquele diploma passam a ter a seguinte redacção:
+Art. 2.º As alíneas b) e h) do artigo 3.º, n.º 1, daquele diploma passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 b) Os lugares da carreira médica serão providos do seguinte modo:
 
@@ -116,24 +134,24 @@ b) Os lugares da carreira médica serão providos do seguinte modo:
 
 h) Os lugares de auxiliar técnico de laboratório de 2.ª classe, o de auxiliar técnico de pecuária de 2.ª classe e os de tratador de animais de 2.ª classe serão providos de entre indivíduos com a escolaridade obrigatória e comprovada experiência das funções que vão desempenhar e mediante concurso de prestação de provas.
 
-###### Art. 3.º O artigo 4.º, n.º 1, do mesmo diploma passa a ter a seguinte redacção:
+Art. 3.º O artigo 4.º, n.º 1, do mesmo diploma passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - A mudança de classe nas carreiras de auxiliar técnico de laboratório e de auxiliar técnico de pecuária fica condicionada à permanência de 5 anos na categoria anterior e classificação de serviço não inferior a Bom.
+Art. 4.º - 1 - A mudança de classe nas carreiras de auxiliar técnico de laboratório e de auxiliar técnico de pecuária fica condicionada à permanência de 5 anos na categoria anterior e classificação de serviço não inferior a Bom.
 
-###### Art. 4.º As regras previstas nos n.os 1 a 3 do artigo 5.º do [Decreto Regulamentar n.º 12/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1982-609171), de 19 de Março, serão aplicáveis aquando do provimento dos lugares criados pelo presente diploma.
+Art. 4.º As regras previstas nos n.os 1 a 3 do artigo 5.º do [Decreto Regulamentar n.º 12/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1982-609171), de 19 de Março, serão aplicáveis aquando do provimento dos lugares criados pelo presente diploma.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Augusto Seabra - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 8 de Junho de 1984.**
+Promulgado em 8 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Junho de 1984.**
+Referendado em 11 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro a que se refere o artigo 1.º do Decreto Regulamentar n.º 47/84
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15200/20002001.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15200/20002001.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15200/20002001.pdf)

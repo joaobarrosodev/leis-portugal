@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 254/1983, 1º Suplemento, Série I de 1983-11-04
   number: '254'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3756-(1) a 3756-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/960-a-1983-515202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cc58febda2cf193314cc9dd13e1ca1df3e627c413e3f9f8a5a8a8e44ec0e2b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e27c8a67fb5f00f218dd561c1a4cf6f2b462d9b685615cbb5dc2705bbd5748fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bacharelato
+- Castelo Branco
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Escola Superior Agrária
+- Numerus Clausus
+relationships:
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455906:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469985:por
+  label: Rectificada pela DECL.DD5610.30.11.1983.PCM, DR.IS [276]2ºSupl de 30.11.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469985
+  date: '1983-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:20Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +124,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 2.º O numerus clausus para o ano lectivo de 1983-1984 dos cursos a que se refere o n.º 1.º é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
 
 3.º 75% dos numeri clausi fixados para a Escola Superior Agrária do Instituto Politécnico de Castelo Branco serão reservados, em prioridade, aos candidatos que hajam concluído a habilitação de acesso em estabelecimentos de ensino dos distritos de Castelo Branco, Braga e Portalegre.
 
 4.º Ao anexo I, n.º 4, da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178), de 7 de Abril, é acrescentado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
 
 5.º O anexo III da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178) passa a ter a seguinte redacção:
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
 
 6.º É aberto concurso para a matrícula e inscrição no ano lectivo de 1983-1984 na Escola Superior Agrária do Instituto Politécnico de Castelo Branco nos cursos indicados no n.º 1.º, para as vagas indicadas no n.º 2.º
 
@@ -131,7 +162,7 @@ d) As propinas já pagas no primeiro estabelecimento serão deduzidas nas propin
 
 11.º Os prazos em que decorrerão as operações de candidatura serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
 
 12.º É revogada a [Portaria n.º 935/83](https://diariodarepublica.pt/dr/detalhe/portaria/935-1983-441568), de 21 de Outubro.
 
@@ -143,10 +174,10 @@ d) As propinas já pagas no primeiro estabelecimento serão deduzidas nas propin
 
 15.º No anexo VI da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178) são introduzidas as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25401/00010003.pdf)
 
 Ministério da Educação.
 
-**Assinada em 4 de Novembro de 1983**
+Assinada em 4 de Novembro de 1983
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

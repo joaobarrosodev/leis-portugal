@@ -35,7 +35,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/206a00/0000500005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/61/2019/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/61-2019-125754984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f63faafd1ca21c8c6fc3e68db87a64d76a43828f4d5e0947bd90b28cfc75b8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f732c1913df7ceac0be476ff83e87ce763d79ef3c8d10e458a0e47fb3b3bbb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,54 +76,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Saúde
-- Ministro da Justiça
-- Ministro de Estado e dos Negócios Estrangeiros
-- Ministro de Estado e da Presidência
-- Ministro da Cultura
+- Governo XXII
 - Membros do Governo
+- Ministro da Administração Interna
 - Ministro da Agricultura
 - Ministro da Ciência Tecnologia e Ensino Superior
-- Ministro do MAR
-- Ministro do Planeamento
-- Nomeação
-- Ministro de Estado e das Finanças
+- Ministro da Coesão Territorial
+- Ministro da Cultura
 - Ministro da Defesa Nacional
 - Ministro da Educação
-- Ministro da Administração Interna
-- Ministro do Trabalho Solidariedade e Segurança Social
+- Ministro da Justiça
+- Ministro da Modernização do Estado e da Administração Pública
+- Ministro da Saúde
 - Ministro das Infraestruturas e da Habitação
 - Ministro de Estado da Economia e da Transição Digital
-- Governo XXII
-- Ministro da Modernização do Estado e da Administração Pública
+- Ministro de Estado e da Presidência
+- Ministro de Estado e das Finanças
+- Ministro de Estado e dos Negócios Estrangeiros
 - Ministro do Ambiente e da Ação Climática
-- Ministro da Coesão Territorial
+- Ministro do MAR
+- Ministro do Planeamento
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:181252901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:135711348:por
+  label: Exonerado, com efeitos a 15.06.2020, Mário José Gomes de Freitas Centeno do cargo de Ministro de Estado e das Finanças
+    pelo(a) Decreto do Presidente da República n.º 25-C/2020 - Diário da República n.º 114/2020, 1º Suplemento, Série I de
+    2020-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/25-c-2020-135711348
+  date: '2020-06-15'
+- type: amended_by
+  target: pt:dre:175399140:por
+  label: Exonerado Eduardo Arménio do Nascimento Cabrita do cargo de Ministro da Administração Interna pelo(a) Decreto do
+    Presidente da República n.º 88/2021 - Diário da República n.º 234-A/2021, Série I de 2021-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/88-2021-175399140
+  date: '2021-12-04'
+- type: amended_by
+  target: pt:dre:181252901:por
+  label: Exonerado, com efeitos a 28.03.2022, Augusto Ernesto dos Santos Silva do cargo de Ministro de Estado e dos Negócios
+    Estrangeiros pelo(a) Decreto do Presidente da República n.º 80-A/2022 - Diário da República n.º 61/2022, 1º Suplemento,
+    Série I de 2022-03-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/80-a-2022-181252901
+  date: '2022-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:37:28Z'
   warnings: []
   errors: []
 ---
 
 # Decreto do Presidente da República n.º 61/2019
 
-Decreto do Presidente da República n.º 61/2019
+Decreto do Presidente da República n.º 61/2019
 
 de 26 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -165,12 +185,14 @@ Maria do Céu de Oliveira Antunes Albuquerque Ministra da Agricultura;
 
 Ricardo da Piedade Abreu Serrão Santos Ministro do Mar.
 
-**Assinado em 26 de outubro de 2019.**
+Assinado em 26 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de outubro de 2019.**
+Referendado em 26 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112707842

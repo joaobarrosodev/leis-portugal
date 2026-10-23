@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/116/2009/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/116-2009-482653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41fc985aa4183bd0fc0d988c485ae7f26017025f15c6a2c097104533198fda3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b353b6bfb71c2dd33d9093a85e43d87735910909ded1852bc693cc210713ecdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/17/2008/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/17/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:248176:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:44Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +98,8 @@ de 9 de Dezembro
 
 Nos termos do n.º 2 do artigo 8.º do [Decreto-Lei n.º 17/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2008-248176), de 29 de Janeiro, nomeio, sob proposta do Governo, para integrar a Comissão Nacional para as Comemorações do Centenário da República, Rui Vieira Nery.
 
-**Assinado em 30 de Novembro de 2009.**
+Assinado em 30 de Novembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

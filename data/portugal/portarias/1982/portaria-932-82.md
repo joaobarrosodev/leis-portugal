@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/932-1982-376605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:28:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d320128b88587109ef1332ca4a15f6d9d0c0417335b04123b0b2da478ab7245
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 729411568687f9c7230ac14fb9ae0592eb49bcd477472796c2e8e9cea119e6b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:28:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Duração do Trabalho
+- Estabelecimentos Fabris das Forças Armadas
+- Forças Armadas
+- Horário de Trabalho
+- Normas de Trabalho
+- Pessoal Civil
+relationships:
+- type: cites
+  target: pt:dre:375803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684228:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:28:33Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +113,7 @@ Estado-Maior-General das Forças Armadas, 15 de Setembro de 1982. - O Chefe do E
 
 Normas relativas ao período normal de trabalho, isenção de horário de trabalho, regime de trabalho a tempo parcial, condições especiais de trabalho e penalização por atraso na entrada ao serviço do pessoal civil dos estabelecimentos fabris das forças armadas.
 
-# PARTE I — Período normal de trabalho
+## PARTE I — Período normal de trabalho
 
 1 - O período normal de trabalho para o pessoal civil dos estabelecimentos fabris das forças armadas é de 45 horas por semana.
 
@@ -114,7 +129,7 @@ Normas relativas ao período normal de trabalho, isenção de horário de trabal
 
 7 - O período de trabalho diário deverá ser interrompido por um intervalo de descanso de duração não inferior a meia hora nem superior a 2 horas.
 
-# PARTE II — Isenção de horário de trabalho
+## PARTE II — Isenção de horário de trabalho
 
 8 - O administrador ou director de cada estabelecimento fabril das forças armadas poderá estabelecer, por seu despacho, a isenção de horário de trabalho para o pessoal que, nos respectivos quadros, seja considerado como dirigente.
 
@@ -126,7 +141,7 @@ Normas relativas ao período normal de trabalho, isenção de horário de trabal
 
 12 - Na ausência de outra definição, será considerado pessoal dirigente, para os efeitos consignados na presente portaria, o que actua no âmbito da emanação de directivas e da tomada de decisões adaptadas às finalidades do respectivo estabelecimento fabril, às suas possibilidades, aos riscos e aos condicionamentos da actuação económica, técnica e humana.
 
-# PARTE III — Regime de trabalho a tempo parcial
+## PARTE III — Regime de trabalho a tempo parcial
 
 13 - O regime de trabalho a tempo parcial poderá ser autorizado a funcionário ou empregado que o requeira, desde que a adopção de um tal regime não envolva alargamento dos quadros ou aumento dos efectivos reais e se verifique uma das condições a seguir enumeradas:
 
@@ -152,7 +167,7 @@ c) O requerente pretenda assistir ao cônjuge, a ascendente seu ou do cônjuge o
 
 21 - As funções relativamente às quais se justifique um específico recurso ao regime de trabalho a tempo parcial serão fixadas por despacho do director ou administrador do respectivo estabelecimento fabril.
 
-# PARTE IV — Condições especiais de trabalho
+## PARTE IV — Condições especiais de trabalho
 
 ### CAPÍTULO I — Trabalho das mulheres durante a gravidez e após o parto
 
@@ -236,7 +251,7 @@ c) Propor a redução do horário de trabalho ou a deslocação do pessoal para 
 
 39 - Devem ser gradualmente eliminados, atenuados ou reduzidos a um mínimo aceitável os riscos de doença profissional ou de acidente que, existindo em certas tarefas específicas, dão origem a remunerações especiais.
 
-# PARTE V — Penalização por atraso na entrada ao serviço
+## PARTE V — Penalização por atraso na entrada ao serviço
 
 40 - As entradas ao serviço do pessoal civil dos estabelecimentos fabris das forças armadas depois da hora fixada para o efeito são penalizadas de acordo com as seguintes normas:
 

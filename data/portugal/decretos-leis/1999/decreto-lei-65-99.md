@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/1999/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1999-158042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db031eddb4c3648e3ad4ebf5d95d77e182583d6a49e597314be484965d4153b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca3bd58203c2e6f4a19be7f2314f1d0b1e3cb4183340af3e043ac3517403b069
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho Administrativo
-- Definição de Competências
-- Instituto da Comunicação Social
-- Gestão do Património
 - Conselho Consultivo
+- Definição de Competências
+- Gestão do Património
+- Instituto da Comunicação Social
 - Orgânica
 relationships:
 - type: amended_by
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1992/04/07/p/dre
+- type: cites
+  target: pt:dre:198546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641999:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:44Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +206,9 @@ n) Participar em associações e sociedades cujo objecto se relacione com as atr
 
 5 - Qualquer reafectação dos espaços do Palácio Foz afectos a órgãos e serviços de outros ministérios fica sujeita a despacho conjunto do membro do Governo que tutela os referidos órgãos e serviços e do membro responsável pela área da comunicação social.
 
-###### Artigo 7.º — Conselho administrativo
+Artigo 7.º
+
+Conselho administrativo
 
 1 - ...
 
@@ -216,7 +238,9 @@ e) O director do Departamento de Gestão de Recursos.
 
 9 - ...
 
-###### Artigo 9.º — Conselho consultivo
+Artigo 9.º
+
+Conselho consultivo
 
 1 - ...
 
@@ -258,7 +282,9 @@ n) [Antiga alínea o).]
 
 7 - ...
 
-###### Artigo 13.º — Departamento de Gestão de Recursos
+Artigo 13.º
+
+Departamento de Gestão de Recursos
 
 1 - Ao Departamento de Gestão de Recursos compete:
 
@@ -328,7 +354,9 @@ f) ...
 
 6 - Adstrita à Secção de Contabilidade e Orçamento funciona uma tesouraria, coordenada por um tesoureiro.
 
-###### Artigo 17.º — Pessoal e organização interna
+Artigo 17.º
+
+Pessoal e organização interna
 
 1 - ...
 
@@ -344,12 +372,12 @@ O quadro de pessoal do Instituto da Comunicação Social será adaptado, nos ter
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Fevereiro de 1999.**
+Promulgado em 19 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

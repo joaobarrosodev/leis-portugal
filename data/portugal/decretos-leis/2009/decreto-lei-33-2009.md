@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2009/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2009-601559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ad3579cffddb8039411236d87fae687142678dadecc8643f2908772cf774c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55e998dde44474983ed302d77ac05645719044ae54ee2819be72934f799dad22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,28 @@ subjects:
 - Almada
 - Arsenal do Alfeite
 - Assembleia Geral
-- Património
-- Sociedade Anónima
-- Fiscal Único
 - Capital Social
-- Pessoal Dirigente
 - Conselho de Administração
-- Segurança Interna
 - Criação de Empresas
-- Recursos Hídricos
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
+- Domínio Público Hídrico
 - Equipamento Marítimo
 - Equipamento Militar
 - Estatuto
+- Fiscal Único
 - Fiscalização
-- Setor Empresarial do Estado
+- Forças Armadas
 - Indústria da Construção Naval
 - Indústria de Armamento
-- Forças Armadas
+- Património
+- Pessoal Dirigente
 - Pessoal Militarizado
 - Presidente
-- Domínio Público Hídrico
+- Recursos Hídricos
+- Segurança Interna
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Vogal
 relationships:
 - type: cites
@@ -109,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2008/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2008/06/11/p/dre
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601558:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:31Z'
   warnings: []
   errors: []
 ---
@@ -261,15 +281,15 @@ O presente decreto-lei produz efeitos desde 31 de Dezembro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Henrique Nuno Pires Severiano Teixeira - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 3 de Fevereiro de 2009.**
+Promulgado em 3 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Fevereiro de 2009.**
+Referendado em 5 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -503,7 +523,7 @@ e) Outras finalidades que a assembleia geral delibere.
 
 Planta de localização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02500/0084200853.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02500/0084200853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02500/0084200853.pdf)
 
 ## ANEXO III — (a que se refere o n.º 6 do artigo 11.º)
 
@@ -511,7 +531,9 @@ Bases da concessão
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 1 - A concessão tem por objecto a concessão de serviço público que se subsume na actividade de interesse económico geral de construção, manutenção e reparação de navios, sistemas de armamento e de equipamentos militares e de segurança da Marinha, incluindo todos os sistemas existentes a bordo, do armamento (armamento portátil, torpedos, mísseis e minas) e de outros sistemas navais, a prestação de serviços de sustentação logística dos submarinos, a recuperação de rotáveis, reparáveis e de outros órgãos componentes dos sistemas objecto de manutenção.
 
@@ -523,17 +545,23 @@ Bases da concessão
 
 5 - A concessionária mantém as competências tecnológicas de intervenção existentes no Arsenal do Alfeite na respectiva data da extinção e as que estão em desenvolvimento, financiadas pela Marinha, no âmbito das políticas de manutenção do material naval, a identificar em anexo ao contrato de concessão.
 
-###### Base II — Regime da concessão
+Base II
+
+Regime da concessão
 
 A concessionária obriga-se a assegurar o eficiente exercício da actividade concessionada, subordinada aos princípios da continuidade, regularidade, igualdade e adaptação às necessidades.
 
-###### Base III — Prazo
+Base III
+
+Prazo
 
 1 - A concessão tem a duração de 30 anos a contar da data da outorga do contrato.
 
 2 - A concessão termina no termo do prazo referido no número anterior, podendo ser prorrogada, até ao limite global de 75 anos, mediante autorização expressa dos Ministros de Estado e das Finanças, da Defesa Nacional, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, com a antecedência mínima de dois anos relativamente ao termo do período de concessão em vigor.
 
-###### Base IV — Características da actividade concessionada
+Base IV
+
+Características da actividade concessionada
 
 1 - A actividade concessionada é essencial à garantia de operacionalidade das unidades navais da Marinha e seu armamento e o seu adequado exercício corresponde a interesses essenciais de segurança do Estado Português.
 
@@ -541,7 +569,9 @@ A concessionária obriga-se a assegurar o eficiente exercício da actividade con
 
 3 - A concessionária obriga-se a promover as diligências necessárias à obtenção e ou manutenção de licenças obrigatórias para o exercício das actividades de comércio e ou indústria de armamento, nos termos da legislação aplicável.
 
-###### Base V — Princípios aplicáveis às relações com a Marinha
+Base V
+
+Princípios aplicáveis às relações com a Marinha
 
 1 - No exercício da actividade concessionada, a concessionária prossegue uma missão de interesse económico geral, no âmbito da defesa nacional, de prossecução de objectivos essenciais e vitais para a segurança nacional, obrigando-se a garantir a satisfação das necessidades de manutenção programada e dar prioridade às necessidades de manutenção urgentes dos sistemas de armas e demais apoio dos navios da Armada.
 
@@ -555,13 +585,17 @@ A concessionária obriga-se a assegurar o eficiente exercício da actividade con
 
 ### CAPÍTULO II — Regras especiais aplicáveis ao domínio público hídrico
 
-###### Base VI — Ocupação do domínio público hídrico
+Base VI
+
+Ocupação do domínio público hídrico
 
 1 - O contrato de concessão deve respeitar o disposto nas presentes bases e estabelecer os termos, condições e requisitos técnicos de ocupação do domínio público hídrico.
 
 2 - A concessionária está isenta da prestação das cauções previstas no anexo i do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, face ao tipo de utilização pretendida, de construção, manutenção e reparação de navios, sistemas de armamento e de equipamentos militares e de segurança da Marinha.
 
-###### Base VII — Taxa de recursos hídricos
+Base VII
+
+Taxa de recursos hídricos
 
 1 - Nas áreas concessionadas afectas ao domínio público militar, há lugar ao pagamento da taxa de recursos hídricos na parte correspondente à efectiva ocupação do domínio público hídrico do Estado com o exercício da actividade referida no n.º 2 da base anterior, à qual se aplica o valor previsto na alínea g) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 97/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2008-449464), de 11 de Junho.
 
@@ -569,7 +603,9 @@ A concessionária obriga-se a assegurar o eficiente exercício da actividade con
 
 ### CAPÍTULO III — Dos bens e meios afectos à concessão
 
-###### Base VIII — Estabelecimento da concessão
+Base VIII
+
+Estabelecimento da concessão
 
 1 - Integram a concessão os bens móveis e imóveis afectos àquela e os direitos e obrigações destinados à realização do interesse público subjacente à celebração do contrato, nomeadamente:
 
@@ -583,11 +619,15 @@ c) Todas as obras, máquinas e aparelhagem e respectivos acessórios utilizados 
 
 3 - Em matérias de alienação, oneração ou locação de bens aplicam-se à concessão as regras previstas nos n.os 3 a 5 do artigo 419.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro.
 
-###### Base IX — Outros direitos afectos à concessão
+Base IX
+
+Outros direitos afectos à concessão
 
 Consideram-se também afectos à concessão os direitos de propriedade intelectual e industrial de que o Arsenal do Alfeite seja titular, à data da sua extinção e ou conclusão do respectivo processo.
 
-###### Base X — Regime dos bens afectos à concessão
+Base X
+
+Regime dos bens afectos à concessão
 
 1 - Enquanto durar a concessão, a concessionária é considerada detentora ou possuidora precária dos bens afectos à concessão que não integrem o domínio público do Estado.
 
@@ -597,7 +637,9 @@ Consideram-se também afectos à concessão os direitos de propriedade intelectu
 
 4 - Os bens e direitos afectos à concessão só podem ser vendidos, ou transmitidos por qualquer outro modo, ou onerados, após devida autorização do concedente, que fixa a afectação da quantia obtida, ponderando, entre outros aspectos, o investimento a cargo da concessionária.
 
-###### Base XI — Manutenção dos bens e meios afectos à concessão
+Base XI
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação, limpeza e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho da actividade concessionada, incluindo os terrenos, instalações e edifícios não usados ou devolutos.
 
@@ -607,7 +649,9 @@ Consideram-se também afectos à concessão os direitos de propriedade intelectu
 
 4 - As obrigações referidas no número anterior são articuladas com a Marinha, entidade a quem compete o controlo hidrográfico, a manutenção das cotas na bacia do Alfeite e respectivos acessos.
 
-###### Base XII — Obrigações e encargos de licenciamento e exploração da actividade
+Base XII
+
+Obrigações e encargos de licenciamento e exploração da actividade
 
 1 - A concessionária obriga-se a cumprir as obrigações legais, designadamente em matérias de licenciamento, certificação e fiscalização, legalmente aplicáveis, devendo assumir todos os encargos financeiros inerentes.
 
@@ -621,7 +665,9 @@ c) Manual de prevenção de riscos ambientais, incluindo procedimentos em caso d
 
 3 - A concessionária obriga-se a constituir e manter contratos de seguro contra riscos inerentes à sua actividade, assegurando a cobertura de risco de incêndio, explosão, poluição e outros danos materiais envolvendo todas as instalações e equipamentos que utiliza no âmbito da concessão, bem como a responsabilidade civil por acidentes de trabalho ou danos pessoais de qualquer natureza.
 
-###### Base XIII — Inventário
+Base XIII
+
+Inventário
 
 1 - A concessionária elabora, sob forma a acordar, um inventário do património afecto à concessão, que mantém actualizado e que envia bienalmente ao concedente até ao final do mês de Janeiro, devidamente certificado por auditor aceite pelo concedente de acordo com normas de qualidade aplicáveis.
 
@@ -631,13 +677,17 @@ c) Manual de prevenção de riscos ambientais, incluindo procedimentos em caso d
 
 ### CAPÍTULO IV — Deveres especiais decorrentes do exercício da actividade no domínio público militar
 
-###### Base XIV — Deveres do concessionário
+Base XIV
+
+Deveres do concessionário
 
 1 - A concessionária obriga-se a cumprir as normas gerais e especiais de segurança e protecção, inerentes às instalações militares.
 
 2 - A concessionária obriga-se a prestar aos organismos de Marinha competentes as informações necessárias, decorrentes da legislação e de normas regulamentares em vigor na Marinha, sobre pessoas, veículos, embarcações e bens que ingressem nas instalações concessionadas.
 
-###### Base XV — Deveres do concedente
+Base XV
+
+Deveres do concedente
 
 1 - O concedente obriga-se a garantir e facilitar o acesso por via terrestre e via marítima de pessoas, veículos, embarcações e bens, necessários à prossecução do objecto da concessão e das actividades desenvolvidas pela concessionária nos termos do n.º 4 da base i.
 
@@ -651,7 +701,9 @@ c) Manual de prevenção de riscos ambientais, incluindo procedimentos em caso d
 
 ### CAPÍTULO V — Condições financeiras
 
-###### Base XVI — Financiamento
+Base XVI
+
+Financiamento
 
 A concessionária adopta e executa, tanto na construção das infra-estruturas como na correspondente exploração, o plano financeiro constante do estudo económico, a incluir como anexo ao contrato de concessão, o qual se baseia nas seguintes fontes de financiamento:
 
@@ -661,7 +713,9 @@ b) As receitas provenientes dos serviços prestados pela concessionária;
 
 c) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
-###### Base XVII — Critérios para a fixação dos preços
+Base XVII
+
+Critérios para a fixação dos preços
 
 1 - Os preços são fixados por forma a assegurar a gestão eficiente da actividade concessionada, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -679,7 +733,9 @@ e) Assegurar uma adequada remuneração dos capitais próprios da concessionári
 
 3 - De acordo com o disposto no número anterior, o cálculo dos preços deve ter em consideração as boas práticas comerciais, deve observar a legislação comercial e da concorrência em vigor e não deve eliminar a efectiva e significativa transferência do risco da concessão para a concessionária.
 
-###### Base XVIII — Rendas anuais
+Base XVIII
+
+Rendas anuais
 
 1 - Como contrapartida da concessão, a concessionária paga ao concedente rendas anuais equivalentes à percentagem de 0,5 % sobre o valor do volume de negócios realizado em cada ano, as quais são pagas até 30 de Junho do ano imediatamente seguinte.
 
@@ -689,7 +745,9 @@ e) Assegurar uma adequada remuneração dos capitais próprios da concessionári
 
 ### CAPÍTULO VI — Renovação das infra-estruturas
 
-###### Base XIX — Plano de detalhe de renovação das infra-estruturas
+Base XIX
+
+Plano de detalhe de renovação das infra-estruturas
 
 1 - No prazo máximo de seis meses após a assinatura do contrato de concessão, a concessionária submete à aprovação do concedente o plano de detalhe de renovação das infra-estruturas.
 
@@ -697,7 +755,9 @@ e) Assegurar uma adequada remuneração dos capitais próprios da concessionári
 
 3 - O plano é, ainda, considerado aprovado pelo concedente se não for expressamente recusado no prazo de quatro meses após apresentação, suspendendo-se sempre que o concedente solicite esclarecimentos ou documentos adicionais.
 
-###### Base XX — Prazos de construção
+Base XX
+
+Prazos de construção
 
 1 - As obras previstas no plano de detalhe de renovação das infra-estruturas devem estar concluídas no prazo de 36 meses após a aprovação, salvo se existir acordo diferente entre as partes.
 
@@ -705,13 +765,17 @@ e) Assegurar uma adequada remuneração dos capitais próprios da concessionári
 
 3 - A concessionária é responsável pelo incumprimento dos prazos a que se referem os números anteriores, salvo na hipótese de ocorrência de motivos de força maior.
 
-###### Base XXI — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XXI
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constitui encargo e é da responsabilidade da concessionária a concepção, projecto e construção das infra-estruturas e equipamentos novos e a manutenção das instalações e equipamentos existentes que se revelam necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária deve fazer prova de que assegurou o cumprimento das leis, regulamentação e normas de qualidade, segurança e prevenção ambiental aplicáveis.
 
-###### Base XXII — Aprovação dos projectos de construção
+Base XXII
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas e outras instalações, bem como as respectivas alterações, exigem a aprovação prévia do concedente.
 
@@ -719,21 +783,29 @@ e) Assegurar uma adequada remuneração dos capitais próprios da concessionári
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no número anterior considera-se concedida caso não seja expressamente recusada no prazo de quatro meses, suspendendo-se sempre que o concedente solicite esclarecimentos ou documentos adicionais.
 
-###### Base XXIII — Dispensa de licenciamento
+Base XXIII
+
+Dispensa de licenciamento
 
 Para efeitos de execução dos projectos de construção e ou beneficiação de infra-estruturas, aprovados nos termos da cláusula anterior, a concessionária está dispensada de quaisquer outros licenciamentos.
 
-###### Base XXIV — Integração das infra-estruturas na concessão
+Base XXIV
+
+Integração das infra-estruturas na concessão
 
 As infra-estruturas novas consideram-se integradas na concessão para todos os efeitos legais, desde a aprovação dos projectos de construção.
 
-###### Base XXV — Sanções referentes à construção das infra-estruturas
+Base XXV
+
+Sanções referentes à construção das infra-estruturas
 
 O incumprimento das obrigações relativas à construção das infra-estruturas é fundamento de sequestro ou de resolução da concessão, conforme previsto, respectivamente, nas bases xxxi e xxxv.
 
 ### CAPÍTULO VII — Relações com o concedente
 
-###### Base XXVI — Poderes do concedente
+Base XXVI
+
+Poderes do concedente
 
 1 - O concedente, além de outros poderes conferidos pelas presentes bases, pelo contrato a celebrar ou pela lei, tem o poder de aprovar:
 
@@ -747,13 +819,17 @@ b) Outras actividades da concessionária dependentes de aprovação nos termos d
 
 4 - As aprovações referidas no n.º 1 são consideradas como tendo sido conferidas se o concedente não se pronunciar no prazo de quatro meses contados a partir da data da apresentação da proposta de aprovação, suspendendo-se sempre que o concedente solicite esclarecimentos ou documentos adicionais.
 
-###### Base XXVII — Exercício dos poderes do concedente
+Base XXVII
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente consagrados nas presentes bases são, em regra, exercidos pelo Ministro da Defesa Nacional, ou por entidade na qual os mesmos sejam delegados.
 
 2 - Os poderes do concedente consagrados nas presentes bases relativos a matérias financeiras, designadamente os constantes das bases x, n.º 4, xiii, xvi a xviii, xxxii e xxxiii, são exercidos conjuntamente pelos Ministros de Estado e das Finanças e da Defesa Nacional, com faculdade de delegação.
 
-###### Base XXVIII — Fiscalização
+Base XXVIII
+
+Fiscalização
 
 1 - O concedente pode fiscalizar, directamente ou através de entidade independente acreditada, o cumprimento das leis e regulamentos aplicáveis e, bem assim, das presentes bases, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -765,7 +841,9 @@ b) Outras actividades da concessionária dependentes de aprovação nos termos d
 
 5 - A concessionária, no exercício de outras actividades relacionadas com o seu objecto e desenvolvidas para clientes estrangeiros ou sediados fora do território nacional, está obrigada a comunicar previamente ao Ministro da Defesa Nacional as actividades a desenvolver.
 
-###### Base XXIX — Auditoria de preços
+Base XXIX
+
+Auditoria de preços
 
 1 - O acompanhamento do processo de formação de preços, no âmbito da presente concessão, entre o concedente e a concessionária, bem como a verificação das boas práticas comerciais e concorrenciais, é realizado através de uma comissão de auditoria.
 
@@ -773,25 +851,33 @@ b) Outras actividades da concessionária dependentes de aprovação nos termos d
 
 3 - A comissão é constituída por três elementos, um dos quais proposto pelo concedente, outro pela concessionária e um terceiro de comum acordo entre aqueles, que preside.
 
-###### Base XXX — Responsabilidade civil extracontratual
+Base XXX
+
+Responsabilidade civil extracontratual
 
 A responsabilidade civil extracontratual da concessionária deve estar coberta por seguro.
 
 ### CAPÍTULO VIII — Sanções
 
-###### Base XXXI — Sequestro
+Base XXXI
+
+Sequestro
 
 Nos termos e condições previstos no artigo 421.º do Código dos Contratos Públicos, o concedente pode, mediante sequestro, tomar a seu cargo o desenvolvimento das actividades concedidas, aplicando-se à concessionária o disposto nos n.os 4 a 7 do referido Código.
 
 ### CAPÍTULO IX — Modificação e extinção da concessão
 
-###### Base XXXII — Trespasse da concessão
+Base XXXII
+
+Trespasse da concessão
 
 1 - A concessionária não pode trespassar a concessão, no todo ou em parte, sem prévia autorização do concedente.
 
 2 - No caso de trespasse autorizado, consideram-se transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse.
 
-###### Base XXXIII — Subconcessão
+Base XXXIII
+
+Subconcessão
 
 1 - A concessionária pode, mediante consentimento expresso e inequívoco do concedente, subconceder, no todo ou em parte, actividades compreendidas na concessão de serviço público.
 
@@ -799,7 +885,9 @@ Nos termos e condições previstos no artigo 421.º do Código dos Contratos Pú
 
 3 - Considera-se assimilável à subconcessão a cedência parcial a terceiros de instalações para o exercício das actividades previstas no n.º 4 da base i.
 
-###### Base XXXIV — Modificação da concessão
+Base XXXIV
+
+Modificação da concessão
 
 1 - Sem prejuízo do disposto na cláusula anterior, o contrato de concessão pode ser alterado por acordo entre concedente e concessionária.
 
@@ -807,25 +895,35 @@ Nos termos e condições previstos no artigo 421.º do Código dos Contratos Pú
 
 3 - A vontade do concedente, para efeitos do disposto nos números anteriores, deve obter concordância expressa dos Ministros de Estado e das Finanças, da Defesa Nacional e do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.
 
-###### Base XXXV — Resolução pelo concedente
+Base XXXV
+
+Resolução pelo concedente
 
 Nos termos e condições previstos no artigo 423.º do Código dos Contratos Públicos, o concedente pode resolver o contrato a celebrar, aplicando-se à concessionária o disposto nos n.os 2 a 3 do referido artigo.
 
-###### Base XXXVI — Termo do prazo de concessão
+Base XXXVI
+
+Termo do prazo de concessão
 
 Ocorrendo a extinção do contrato a celebrar no termo previsto, aplica-se o disposto no artigo 425.º do Código dos Contratos Públicos.
 
-###### Base XXXVII — Resgate da concessão
+Base XXXVII
+
+Resgate da concessão
 
 Aplica-se ao contrato a celebrar o regime previsto no artigo 422.º do Código dos Contratos Públicos.
 
-###### Base XXXVIII — Reversão da área dominial
+Base XXXVIII
+
+Reversão da área dominial
 
 Se por qualquer motivo o contrato de concessão a celebrar cessar, sem que ocorra a sua renovação, a área dominial referida no n.º 2 da base i reverte para o concedente e é reafectada à Marinha para desenvolvimento das actividades que integram a sua missão.
 
 ### CAPÍTULO X — Contencioso
 
-###### Base XXXIX — Arbitragem
+Base XXXIX
+
+Arbitragem
 
 1 - Em caso de desacordo ou litígio relativamente à interpretação ou execução das presentes bases e do respectivo contrato a celebrar, as partes diligenciam no sentido de alcançar, por acordo amigável, uma solução adequada e equitativa.
 
@@ -843,7 +941,9 @@ Se por qualquer motivo o contrato de concessão a celebrar cessar, sem que ocorr
 
 ### CAPÍTULO XI — Disposições finais e transitórias
 
-###### Base XL — Trabalhos em curso
+Base XL
+
+Trabalhos em curso
 
 1 - Nos contratos e outras encomendas celebrados com a Marinha e outros clientes que se encontrem em curso à data do início da concessão, a posição do Arsenal do Alfeite é transferida para a concessionária com todos os direitos e obrigações inerentes.
 

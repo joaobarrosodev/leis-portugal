@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/2009/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2009-482658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5564446d4709ad3c7a510b8cdff76647fba74d10d3f2ee4d408b4f7d021f977
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7218bc71f562eed71b40d40393813911214e55c55b53ec53c833f3f19ca406d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,102 +67,116 @@ reuse:
 subjects:
 - Agência de Inovação
 - Agência Europeia de Segurança Marítima
-- Ministério das Finanças e da Administração Pública
-- Plano Tecnológico
-- Ministério da Defesa Nacional
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministério da Administração Interna
-- Ministro da Saúde
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comissão para a Igualdade no Trabalho e no Emprego
+- Comissão para a Promoção de Políticas de Família
 - Competência Própria
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
+- Conselho Consultivo das Famílias
 - Conselho de Ministros
 - Criação de Serviços
 - Delegação de Competências
 - EDIA
 - Escola Náutica Infante Dom Henrique
+- Estratégia de Lisboa
 - Estratégia Nacional de Desenvolvimento Sustentável
 - Estrutura de Missão para a Extensão da Plataforma Continental
-- Ministério da Economia
-- Ministério das Obras Públicas Transportes e Comunicações
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro da Justiça
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Turismo
-- Ministro dos Negócios Estrangeiros
-- Ministério da Cultura
-- Secretário de Estado Adjunto e da Educação
-- Secretário de Estado da Cultura
-- Secretário de Estado da Defesa Nacional e dos Assuntos do MAR
-- Secretário de Estado da Educação
-- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministério da Justiça
-- Ministro da Cultura
-- Ministro da Economia da Inovação e do Desenvolvimento
-- Ministro das Finanças
-- Ministro de Estado
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
-- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
-- Secretário de Estado Adjunto e da Reabilitação
-- Secretário de Estado Adjunto e do Orçamento
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Justiça e da Modernização Judiciária
-- Secretário de Estado da Juventude e do Desporto
-- Secretário de Estado da Modernização Administrativa
-- Secretário de Estado da Proteção Civil
-- Secretário de Estado da Saúde
-- Secretário de Estado das Pescas e Agricultura
-- Secretário de Estado dos Transportes
-- Secretário de Estado para a Igualdade
 - Gabinete para os Meios de Comunicação Social
+- Governo Xviii
 - Instituto Financeiro para o Desenvolvimento Regional
 - Instituto Hidrográfico
-- Secretário de Estado Adjunto e da Administração Interna
-- Secretário de Estado da Ciência Tecnologia e Ensino Superior
-- Secretário de Estado da Justiça
-- Secretário de Estado Adjunto e da Saúde
-- Secretário de Estado do Ambiente
-- Secretário de Estado do Ordenamento do Território e das Cidades
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Economia da Inovação e do Desenvolvimento
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças e da Administração Pública
+- Ministério das Obras Públicas Transportes e Comunicações
+- Ministério dos Negócios Estrangeiros
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia da Inovação e do Desenvolvimento
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Saúde
+- Ministro das Finanças
+- Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado
+- Ministro do Ambiente e do Ordenamento do Território
+- Ministro do Trabalho e da Solidariedade Social
+- Ministro dos Negócios Estrangeiros
+- Ministro para os Assuntos Parlamentares
 - Orgânica
 - Parpública
 - Piddac
-- Estratégia de Lisboa
-- Comissão para a Promoção de Políticas de Família
-- Conselho Consultivo das Famílias
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Ministério da Saúde
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Plano Tecnológico
+- Primeiro-ministro
 - Secretário de Estado Adjunto da Indústria e do Desenvolvimento
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto e da Administração Interna
+- Secretário de Estado Adjunto e da Educação
+- Secretário de Estado Adjunto e da Reabilitação
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Pública
-- Ministério da Ciência Tecnologia e Ensino Superior
+- Secretário de Estado da Ciência Tecnologia e Ensino Superior
+- Secretário de Estado da Cultura
+- Secretário de Estado da Defesa Nacional e dos Assuntos do MAR
+- Secretário de Estado da Educação
 - Secretário de Estado da Energia e da Inovação
+- Secretário de Estado da Justiça
+- Secretário de Estado da Justiça e da Modernização Judiciária
+- Secretário de Estado da Juventude e do Desporto
+- Secretário de Estado da Modernização Administrativa
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Proteção Civil
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Florestas e Desenvolvimento Rural
-- Ministério da Economia da Inovação e do Desenvolvimento
+- Secretário de Estado das Pescas e Agricultura
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
 - Secretário de Estado do Emprego e da Formação Profissional
-- Governo Xviii
-- Ministro das Obras Públicas Transportes e Comunicações
-- Ministro da Administração Interna
+- Secretário de Estado do Ordenamento do Território e das Cidades
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Secretário de Estado dos Transportes
+- Secretário de Estado para a Igualdade
+- Secretário de Estado para os Assuntos Europeus
 - Substituição de Funções
-- Ministro do Trabalho e da Solidariedade Social
 relationships:
 - type: amended_by
   target: pt:dre:642010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extintos os Ministérios da Economia, da Inovação e do Desenvolvimento, da Agricultura, do Desenvolvimento Rural\
+    \ e das Pescas, das Obras Públicas, Transportes e Comunicações, do Trabalho e da Solidariedade Social, da Educação, e\
+    \ da Ciência, Tecnologia e Ensino Superior e da Cultura, e substituída a estrutura orgânica constante do presente diploma\
+    \ pela estabelecida no DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinta, nos termos dos arts. 45.º e 48.º, a Unidade para a Participação Política e Cívica, pelo DEC LEI.126-A/2011.29.12.2011.PCM,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -203,16 +217,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655675:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:27Z'
   warnings: []
   errors: []
 ---
@@ -359,7 +437,7 @@ e) Pelo Secretário de Estado da Igualdade.
 
 ###### Artigo 7.º — Ausências e impedimentos do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído nas suas ausências ou impedimentos pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído nas suas ausências ou impedimentos pelo Ministro de Estado e dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 8.º — Competência dos membros do Governo
 
@@ -587,12 +665,12 @@ O presente decreto-lei produz efeitos a 26 de Outubro de 2009, considerando-se r
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Alberto de Sousa Martins - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Maria Helena dos Santos André - Ana Maria Teodoro Jorge - José Alexandre da Rocha Ventura Silva - José Mariano Rebelo Pires Gago - Maria Gabriela da Silveira Ferreira Canavilhas - Jorge Lacão Costa.
 
-**Promulgado em 9 de Dezembro de 2009.**
+Promulgado em 9 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Dezembro de 2009.**
+Referendado em 10 de Dezembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

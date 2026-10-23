@@ -30,7 +30,7 @@ publication:
   reference: Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31
   number: '210'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7964-(7) a 7964-(178)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/21002/0000700178.pdf
 entry_into_force_dates: []
@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/357-a/2007/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-2007-241222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3469ee38d9dd3f5cd2228c11e060badbd57213fd89698bf2b762ca17fc551c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e3cbbdc87157edf77c4495d1bcc45739a1842c13a2639ecaf8e1e5a07b86d46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,25 +76,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
-- Valores Mobiliários
-- Sociedade Anónima
-- Instituição de Crédito
-- Sociedade Comercial
+- Atividade Seguradora
+- Banco de Portugal
 - Bolsa de Valores
-- Publicidade
 - Capital Social
+- CMVM
 - Código das Sociedades Comerciais
 - Código dos Valores Mobiliários
+- Companhia de Seguros
 - Consultoria
+- Contrato de Seguro
 - Cotação na Bolsa
 - Definição de Competências
 - Fundo de Investimento Imobiliário
 - Fundo de Investimento Mobiliário
 - Fundo de Pensões
-- Banco de Portugal
+- Informação do Consumidor
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Seguros de Portugal
 - Isenção Fiscal
 - Mercado de Capitais
@@ -102,24 +102,308 @@ subjects:
 - Mercado Financeiro
 - Operações de Bolsa
 - Organismo de Investimento Colectivo
-- Sociedade Gestora de Fundos de Pensões
-- Informação do Consumidor
 - Prestação de Serviços
+- Publicidade
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- Companhia de Seguros
-- CMVM
-- Instituição Financeira
+- Sociedade Anónima
+- Sociedade Comercial
 - Sociedade Corretora
 - Sociedade de Investimento
 - Sociedade Financeira de Corretagem
 - Sociedade Gestora de Fundos de Investimento
+- Sociedade Gestora de Fundos de Pensões
 - Sucursal
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:124256706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386799:por
+  label: "Alterado o art. 120º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.1/2008.03.01.2008.MFAP, DR.IS [2] de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2008-386799
+  date: '2008-01-03'
+- type: amended_by
+  target: pt:dre:456783:por
+  label: "Alterado o art. 69º do Dec Lei 126/2008, de 21-Jul, na redacção do presente diploma, pelo DEC LEI.126/2008.21.07.2008.MFAP,\
+    \ DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2008-456783
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: "Alterado o art. 120.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.211-A/2008.03.11.2008.MFAP, DR.IS [213-Supl] de 03.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:396962:por
+  label: "Alterados os art.s 6º e 156º do Dec Lei 94-B/98, de 17-Abr, na redacção do presente diploma, pelo DEC LEI.2/2009.05.01.2009.MFAP,\
+    \ DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2009-396962
+  date: '2009-01-05'
+- type: amended_by
+  target: pt:dre:494791:por
+  label: "Alterado o art. 215.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pela LEI.28/2009.19.06.2009.AR, DR.IS [117] de 19.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2009-494791
+  date: '2009-06-19'
+- type: amended_by
+  target: pt:dre:491956:por
+  label: "Alterados os arts 31.º, 38.º do Dec Lei 252/2003 de 17-Out, na redacção do presente diploma, pelo DEC LEI.148/2009.25.06.2009.MFAP,\
+    \ DR.IS [121] de 25.06.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2009-491956
+  date: '2009-06-25'
+- type: amended_by
+  target: pt:dre:483411:por
+  label: "Alterados, a partir de 01.11.2009, os arts. 4.º e 8.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.317/2009.30.10.2009.MFAP, DR.IS\
+    \ [211] de 30.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterados, a partir de 24.05.2010, os art.s 22º, 23º, 232º (os dois últimos na redacção do presente doploma) e 249º\
+    \ (na redacção do Dec Lei 52/2006, de 15-Mar e do presente diploma) e aditados os art.s 21º-B, 21º-C, 23º-A, 23º-B, 23º-C\
+    \ e 23º-D ao Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, DR.IS-A [265], republicado pelo\
+    \ presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:332702:por
+  label: "Alterados os arts. 103.º e 105.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.52/2010.26.05.2010.MFAP, DR.IS [102] de\
+    \ 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:335466:por
+  label: "Alterado, a partir de 23.06.2010, o art. 293º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de\
+    \ 13-Nov, na redacção do presente diploma, pelo DEC LEI.71/2010.18.06.2010.MFAP, DR.IS [117] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2010-335466
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:617129:por
+  label: "Alterados os arts. 81º, 99º, 199º-D e 199º-E do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec -Lei n.º 298/92, de 13-Dez, na redacção do presente diploma, pelo DEC LEI.140-A/2010.30.12.2010.MFAP,\
+    \ DR.IS [252-2ºSupl] de 30.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-2010-617129
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:670530:por
+  label: "Alterados os art.s 267º e 283º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-Nov, na redacção\
+    \ - com republicação - do presente diploma, pelo DEC LEI.85/2011.29.06.2011.MFAP, DR.IS [123] de 29.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2011-670530
+  date: '2011-06-29'
+- type: amended_by
+  target: pt:dre:669328:por
+  label: "Dada nova redacção, a partir de 01.01.2011, ao art. 14º do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez, alterado pelo presente diploma, pelo DEC LEI.88/2011.20.07.2011.MFAP,\
+    \ DR.IS [138] de 20.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2011-669328
+  date: '2011-07-20'
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação aos arts. 197º, 198º e 199º-I do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF, DR.IS\
+    \ [30-Supl] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterados os art.s 3º, 4º, 8º, 198º e 199º-I do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS\
+    \ [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterados os arts. 30.º, 33º, 111º, 214º, 217º, 236º, 250º-A, 250º-B, 254º, 271º, 295º, 303º, 317º-D, 355º, 359º,\
+    \ 376º, 377º e 377º-A do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente\
+    \ diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de 06.02.2013\02013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:475919:por
+  label: "Alterados a partir de 07.09.2013 os arts. 199º-A, 199º-B e 199º-L do Regime Geral das Instituições de Crédito e\
+    \ Sociedades Financeiras (RGICSF) aprovado pelo Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:572638:por
+  label: "Alterado o art. 250º-A do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99 de 13-nov, aditado pelo presente\
+    \ diploma, pelo DEC LEI.29/2014.25.02.2014.MF, DR.IS [39] de 25.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2014-572638
+  date: '2014-02-25'
+- type: amended_by
+  target: pt:dre:571934:por
+  label: "Alterados, a partir de 17.04.2014, os arts 6.º, 35.º,258.º, 259.º, 260.º, 265.º, 268.º, 274.º, 279.º, 280.º, 281.º,\
+    \ 284.º, 352.º, 359.º, 361.º, 363.º, 372.º, 388.º,389.º, 395.º e 396.º do Código dos Valores Mobiliários, aprovado pelo\
+    \ Dec. Lei 486/99, de 13-nov, na redação e republicação do presente diploma, pelo DEC LEI.40/2014.18.03.2014.MF, DR.IS\
+    \ [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2014-571934
+  date: '2014-03-18'
+- type: amended_by
+  target: pt:dre:25345922:por
+  label: "Alterado o art. 9.º e aditado o art. 9.º-A ao Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99 de 13-nov,\
+    \ republicado pelo presente diploma, pelo DEC LEI.88/2014.06.06.2014.MF, DR.IS [109] de 06.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2014-25345922
+  date: '2014-06-06'
+- type: amended_by
+  target: pt:dre:25676934:por
+  label: "Alterado o art. 156º do Regime Jurídico do Acesso e Exercício da Atividade Seguradora e Resseguradora, aprovado\
+    \ pelo Dec Lei 94-B/98 de 17-abr, na redação do presente diploma, pelo DEC LEI.91/2014.20.06.2014.MF, DR.IS [117] de 20.06.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2014-25676934
+  date: '2014-06-20'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 3.º, 8.º, 14.º,
+    16.º, 69.º, 81.º, 103.º, 120.º, 199.º-A, 199.º-D, 199.º-E, 199.º-I, 215.º, do Regime Geral das Instituições de Crédito
+    e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterados os arts. 199.º-A e 199.º-L do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado
+    pelo Dec. Lei 298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015,
+    Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado o art. 214.º do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:70237675:por
+  label: Alterados, com efeitos a partir de 01.01.2016, 23.º, 26.º, 30.º, 63.º e 64.º do Dec Lei 12/2006 de 20-jan, na redação
+    do presente diploma, pelo(a) Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09 que procede à
+    republicação do citado Dec Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/147-2015-70237675
+  date: '2015-09-09'
+- type: amended_by
+  target: pt:dre:70237676:por
+  label: Alterados, a partir de 01.01.2016, os arts. 8.º, 245.º e 389.º (este na redação da Lei 28/2009 de 19-jun, e do Dec
+    Lei 40/2014 de 18-mar) e revogados o n.º 3 do art 8.º e os arts 9.º e 9.º-A do Código dos Valores Mobiliários aprovado
+    pelo Dec Lei 486/99 de 13-nov, na versão republicada pelo presente diploma, pelo(a) Lei n.º 148/2015 - Diário da República
+    n.º 176/2015, Série I de 2015-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/148-2015-70237676
+  date: '2015-09-09'
+- type: amended_by
+  target: pt:dre:74605300:por
+  label: Alterados os arts. 8.º, 16.º, 16.º-A, 20.º, 109.º, 111.º, 134.º, 145.º, 163.º-A, 237.º-A, 244.º, 244.º-A, 245.º,
+    246.º, 246.º-A, 249.º, 250.º-A e 367.º; e aditados os arts. 244.º-B e 245.º-B do Código dos Valores Mobiliários, aprovado
+    pelo Dec Lei 486/99 de 13-nov, alterado e republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 22/2016 - Diário
+    da República n.º 107/2016, Série I de 2016-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2016-74605300
+  date: '2016-06-03'
+- type: amended_by
+  target: pt:dre:106960758:por
+  label: Alterados os arts. 52.º e 97.º e revogados o n.º 2 do art. 52.º, os arts. 53.º e 54.º, a al. a) do n.º 1 do art.
+    63.º, o art. 101.º e o n.º 1 do art. 104.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov,
+    na versão republicada pelo presente diploma, pelo(a) Lei n.º 15/2017 - Diário da República n.º 85/2017, Série I de 2017-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2017-106960758
+  date: '2017-05-03'
+- type: amended_by
+  target: pt:dre:107094723:por
+  label: Alterados os arts. 2.º (na redação do Dec Lei 63-A/2013 de 10-mai), 12.º-A, 182.º-A, 211.º, 248.º, 248.º-A, 248.º-B,
+    250.º, 304.º-C, 305.º (na redação do Dec Lei 63-A/2013 de 10-mai), 305.º-A, 309.º-D, 309.º-E (na redação do Dec Lei 63-A/2013
+    de 10-mai), 309.º-F, 311.º, 349.º, 353.º, 359.º (na redação dos Decs Leis 18/2013 de 06-fev e 40/2014 de 18-mar e da Lei
+    16/2015 de 24-fev), 367.º (na redação do Dec Lei 22/2016 de 03-jun), 377.º-B (aditado pelo Dec Lei 18/2013 de 06-fev),
+    378.º, 379.º (os dois últimos na redação da Lei 28/2009 de 19-jun), 380.º, 380.º-A, 388.º (na redação da Lei 28/2009 de
+    19-jun e do Dec Lei 40/2014 de 18-mar), 400.º (na redação dos Decs Leis 18/2013 de 06-fev e 40/2014 de 18-mar), 401.º
+    (na redação do Dec Lei 211-A/2008 de 03-nov), 403.º, 404.º, 405.º, 408.º (na redação da Lei 28/2009 de 19-jun), 409.º,
+    414.º, 416.º, 418.º, 420.º e 422.º (na redação da Lei 28/2009 de 19-jun), aditados os arts. 197.º-A, 205.º-A, 257.º-A,
+    257.º-B, 257.º-C, 257.º-D, 304.º-D, 305.º-F, 368.º-A, 368.º-B, 368.º-C, 368.º-D, 368.º-E, 377.º-C, 378.º-A, 379.º-A, 379.º-B,
+    379.º-C, 379.º-D, 379.º-E, 386.º-A, 399.º-A, 402.º-A, 405.º-A, 408.º-A, 410.º-A, 414.º-A, 414.º-B e 422.º-A, alterada
+    a sistemática da subsec. vi da sec. ii do cap. ii do título iv, com a epígrafe «Informação relativa a valores mobiliários
+    admitidos à negociação» (que passa a ser a sec. iii, com a epígrafe «Informação relativa a instrumentos financeiros admitidos
+    à negociação», que compreende os arts. 244.º a 251.º), do título iv (a que é aditado o cap. iv, com a epígrafe «Negociação
+    e informação relativa a licenças de emissão», que compreende os arts. 257.º-A a 257.º-D) e do título vii (a cujo cap.
+    ii são aditadas a sec. i, com a epígrafe «Disposições gerais», que compreende os arts. 358.º a 368.º, bem como a sec.
+    ii, com a epígrafe «Comunicação de informação para efeitos de supervisão», que compreende os arts. 368.º-A a 368.º-E),
+    e revogados o art. 12.º, o n.º 2 do art. 12.º-A, os arts. 12.º-B, 12.º-C, 12.º-D e 12.º-E, a al. h) do art. 247.º, os
+    n.ºs 5, 6 e 7 do art. 248.º, o n.º 6 do art. 379.º, a al. e) do n.º 3 do art. 389.º e a al. i) do n.º 1 do art. 394.º,
+    todos do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-nov, na versão republicada do Código pelo presente
+    diploma e retificada pela Decl Ret 117-A/2007 de 28-dez, pelo(a) Lei n.º 28/2017 - Diário da República n.º 104/2017, Série
+    I de 2017-05-30 nos termos dos seus arts. 8.º e 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2017-107094723
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:107596682:por
+  label: Alterado o art. 21.º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de 13-nov, republicado pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2017-107596682
+  date: '2017-06-30'
+- type: amended_by
+  target: pt:dre:108074432:por
+  label: Alterado, a partir de 29.09.2017, o art. 377.º (na redação do Dec Lei 18/2013 de 06-fev) do Código dos Valores Mobiliários
+    aprovado pelo Dec Lei 486/99 de 13-nov, na versão republicada do Código pelo presente diploma e retificada pela Decl Ret
+    117-A/2007 de 28-dez, pelo(a) Lei n.º 104/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/104-2017-108074432
+  date: '2017-08-30'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterados os arts. 2.º (na redação do Dec Lei 63-A/2013, de 10-mai e da Lei 28/2017, de 30-mai), 3.º, 30.º e 33.º
+    (os dois últimos na redação do Dec Lei 18/2013, de 06-fev), 35.º (na redação do Dec Lei 40/2014, de 18-mar), 60.º, 62.º,
+    72.º, 80.º, 85.º, 88.º, 99.º, 111.º (na redação dos Decs Leis 18/2013, de 06-fev e 22/2016, de 03-jun), 198.º, 200.º,
+    201.º, 202.º, 203.º, 204.º, 205.º, 206.º, 207.º, 208.º, 209.º, 210.º, 211.º (na redação da Lei 28/2017, de 30-mai), 212.º,
+    213.º, 214.º (na redação do Decs Leis 18/2013, de 06-fev e da Lei 23-A/2015, de 26-mar), 215.º, 216.º, 224.º, 225.º, 227.º,
+    252.º, 258.º (na redação do Dec Lei 40/2014, de 18-mar), 273.º, 274.º (na redação do Dec Lei 40/2014, de 18-mar), 278.º,
+    279.º (na redação do Dec Lei 40/2014, de 18-mar), 281.º (na redação do Dec Lei 40/2014, de 18-mar), 287.º, 289.º (na redação
+    do Dec Lei 63-A/2013, de 10-mai e da Lei 16/2015, de 24-fev), 290.º, 291.º, 293.º (na redação do Dec Lei 71/2010, de 18-jun),
+    294.º, 294.º-A, 294.º-B, 295.º (na redação dos Decs Leis 18/2013, de 06-fev, 63-A/2013, de 10-mai e da Lei 16/2015, de
+    24-fev), 301.º, 304.º-C (na redação da Lei 28/2017, de 30-mai) 305.º (na redação do Dec Lei 63-A/2013, de 10-mai e da
+    Lei 28/2017, de 30-mai), 305.º-A, 305.º-B (na redação do Dec Lei 63-A/2013, de 10-mai), 305.º-C, 305.º-D e 305.º-E (os
+    dois últimos na redação do Dec Lei 63-A/2013, de 10-mai), 306.º, 306.º-A, 306.º-B, 306.º-C, 307.º e 307.º-B (os dois últimos
+    na redação do Dec Lei 63-A/2013, de 10-mai), 308.º, 309.º, 309.º-A, 312.º, 313.º, 314.º, 314.º-A, 314.º-D, 315.º, 316.º,
+    317.º, 317.º-B, 317.º-D ( na redação do Dec Lei 18/2013, de 06-fev), 321.º, 323.º (na redação do Dec Lei 63-A/2013, de
+    10-mai), 327.º, 328.º, 329.º, 330.º, 334.º, 352.º (na redação do Dec Lei 40/2014, de 18-mar), 353.º (na redação da Lei
+    28/2017, de 30-mai), 355.º (na redação dos Decs Leis 18/2013, de 06-fev e 40/2014, de 18-mar), 359.º (na redação dos Decs
+    Leis 18/2013, de 06-fev e 40/2014, de 18-mar e das Leis 16/2015, de 24-fev e 28/2017, de 30-mai), 360.º, 361.º(na redação
+    do Dec Lei 40/2014, de 18-mar), 363.º (na redação dos Decs Leis 211-A/2008, de 03-nov, 40/2014, de 18-mar e 157/2014,
+    de 24-out), 369.º, 372.º (na redação do Dec Lei 40/2014, de 18-mar), 375.º, 377.º-A (na redação do Dec Lei 18/2013, de
+    06-fev), 377.º-B (aditado pelo Dec Lei 18/2013, de 06-fev, na redação da Lei 28/2017, de 30-mai), 388.º (na redação da
+    Lei 28/2009, de 19-jun, do Dec Lei 40/2014, de 18-mar e da Lei 28/2017, de 30-mai), 389.º (na redação da Lei 28/2009,
+    de 19-jun, do Dec Lei 40/2014, de 18-mar e da Lei 148/2015, de 09-set), 392.º, 394.º, 395.º e 396.º (ambos na redação
+    do Dec Lei 40/2014, de 18-mar), 397.º e 400.º (na redação dos Decs Leis 18/2013, de 06-fev e 40/2014, de 18-mar e da Lei
+    28/2017, de 30-mai), aditados os arts. 200.º-A, 201.º-A, 201.º-B, 201.º-C, 208.º-A, 209.º-A, 213.º-A 215.º-A, 222.º-A,
+    223.º-A, 257.º-E, 257.º-F, 257.º-G, 257.º-H, 288.º-A, 295.º-A, 305.º-G, 306.º-E, 306.º-F, 306.º-G, 309.º-H, 309.º-I, 309.º-J,
+    309.º-K, 309.º-L, 309.º-M, 309.º-N, 312.º-H, 313.º-A, 313.º-B, 313.º-C, 317.º-E, 317.º-F, 317.º-G, 317.º-H, 317.º-I, 396.º-A
+    e 397.º-A, alterada a denominação da epígrafe do cap. II do título IV, aditado o cap. V ao título IV que integra os arts.
+    257.º-E a 257.º-H, aditado o cap. III ao título V que integra o art. 288.º-A, alterada a denominação da epígrafe da subsecção
+    IV da secção III do cap. I do título VI, aditada a subsecção VI-A à secção III do cap. I do título VI que integra os arts.
+    309.º-I a 309.º-N e aditada a secção IV-A ao cap. I do título VI que integra os arts. 317.º-E a 317.º-I e revogados o
+    n.º 3 do art. 2.º, o art. 221.º, o n.º 2 do art. 252.º, os arts.s 253.º, 254.º, 255.º, 256.º e 257.º, os n.os 4 e 5 do
+    art. 289.º, o art. 294.º-D, as als. c), d), e), f), g), h), i) e j) do n.º 1 do art. 305.º, o n.º 1, as als. a), b) e
+    g) do n.º 2 e os n.os 3 e 4 do art. 305.º-A, os n.os 2, 3, 4, 5, 6, 7 e 8 do art. 305.º-B, o n.º 2 do art. 305.º-C, os
+    n.os 3 e 4 do art. 305.º-D, os n.os 2, 3, 4 e 8 do art. 307.º, os n.os 2 e 3 do art. 307.º-B, os n.os 2 e 3 do art. 308.º,
+    os arts. 308.º-A, 308.º-B, 308.º-C, os n.os 2, 3, 4, 5 e 6 do art. 309.º-A, os arts. 309.º-B, 309.º-C, 309.º-D, 309.º-E,
+    309.º-F, 309.º-G, os n.os 6 e 7 do art. 312.º, os arts. 312.º-A, 312.º-B, 312.º-C, 312.º-D, 312.º-E, 312.º-F, 312.º-G,
+    os n.os 2, 4 e 5 do art. 314.º-A, os arts. 314.º-B e 314.º-C, os n.os 2, 3, 5, 6 e 7 do art. 315.º, o n.º 3 do art. 317.º-D,
+    o n.º 4 do art. 321.º, os n.os 2, 3, 4, 5, 6 e 7 do art. 323.º, os arts. 323.º-A, 323.º-B, 323.º-C e 323.º-D, o n.º 3
+    do art. 327.º, os arts. 328.º-A, 328.º-B, 331.º, 332.º e 333.º, a al. c) do n.º 1 e o n.º 3 do art. 353.º, a al. i) do
+    n.º 1 do art. 359.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na versão republicada pelo
+    presente diploma pelo(a) Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20, que procede à respetiva
+    republicação no anexo IV
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:124256706:por
+  label: Alterados os arts. 30.º (na redação do Dec Lei 18/2013, de 06-fev), 359.º (na redação dos Decs Lei 18/2013, de 06-fev
+    e 40/2014, de 18-mar e das Leis 16/2015, de 24-fev, 28/2017, de 30-mai e 35/2018, de 20-jul), 388.º (na redação da Lei
+    28/2009, de 19-jun, do Dec Lei 40/2014, de 18-mar e das Leis 28/2017, de 30-mai e 35/2018, de 20-jul) e 404.º (na redação
+    da Lei 28/2017, de 30-mai) do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/69-2019-124256706
+  date: '2019-08-28'
 - type: cites
   target: celex:31985L0611
   label: null
@@ -168,16 +452,48 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2006/
   label: null
   source: http://data.europa.eu/eli/dir/2006/
+- type: corrected_by
+  target: pt:dre:227273:por
+  label: "Rectificado o presente diploma, que altera o Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, alterado pelos Decretos-Leis n.ºs 232/96, de 5 de Dezembro,\
+    \ 222/99, de 22 de Junho, 250/2000, de 13 de Outubro, 285/2001, de 3 de Novembro, 252/2003, de 17 de Outubro, 145/2006,\
+    \ de 31 de Julho, e 104/2007, de 3 de Abril, o Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86,\
+    \ de 2 de Setembro, o Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de Novembro, com as\
+    \ alterações introduzidas pelos Decretos-Leis n.ºs 61/2002, de 20 de Março, 107/2003, de 4 de Junho, 66/2004, de 24 de\
+    \ Março, 52/2006, de 15 de Março, e 219/2006, de 2 de Novembro, e respectiva republicação, o Decreto-Lei n.º 94-B/98,\
+    \ de 17 de Abril, na redacção dos Decretos-Leis n.ºs 8-C/2002, de 11 de Janeiro, e 90/2003, de 30 de Abril, e o Decreto-Lei\
+    \ n.º 12/2006, de 20 de Janeiro, pela DECL-RECT.117-A/2007.28.12.2007.PCM, DR.IS [250]3ºSupl de 28.12.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/117-a-2007-227273
+  date: '2007-12-28'
+- type: repealed_by
+  target: pt:dre:249804:por
+  label: "Revogado, a partir de 01.01.2009, o art. 2º do Dec Lei 176/95, de 26-Jul, na redacção do presente diploma, pelo\
+    \ DEC LEI.72/2008.16.04.2008.MFAP, DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2008-249804
+  date: '2008-04-16'
+- type: repealed_by
+  target: pt:dre:475919:por
+  label: "Revogado a partir de 07.09.2013 o Dec Lei 252/2003, de 17-out, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF,\
+    \ DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: repealed_by
+  target: pt:dre:66581992:por
+  label: Revogado, a partir de 26.03.2015, o regime jurídico dos fundos de investimento imobiliário aprovado pelo Dec.Lei
+    60/2002 de 20-mar, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I
+    de 2015-02-24 sem prejuízo do disposto no n.º 10 do art. 5.º desta lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
 article_structure:
-  article_count: 821
+  article_count: 525
   section_count: 117
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:50Z'
   warnings: []
   errors: []
 ---
@@ -320,7 +636,9 @@ l) [Anterior alínea j).]
 
 m) [Anterior alínea l).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -362,7 +680,9 @@ s) ...
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +698,9 @@ b) Da recepção e transmissão de ordens e da consultoria para investimento em 
 
 c) Da gestão de sistemas de negociação multilateral, por sociedades gestoras de sistema de negociação multilateral, bem como por sociedades gestoras de mercado regulamentado.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -400,7 +722,9 @@ h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos a
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -414,7 +738,9 @@ h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos a
 
 6 - Por decisão da Comissão ou do Conselho da União Europeia, nos termos previstos na Directiva n.º [2006/48/CE](https://data.europa.eu/eli/dir/2006/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de Junho, podem ser limitadas as autorizações para a constituição de instituições de crédito referidas no n.º 2, ou suspensas as apreciações dos respectivos pedidos de autorização, ainda que já apresentados.
 
-###### Artigo 29.º-A — [...]
+Artigo 29.º-A
+
+[...]
 
 1 - Sempre que o objecto da instituição de crédito compreender alguma actividade de intermediação de instrumentos financeiros, o Banco de Portugal, antes de decidir sobre o pedido de autorização, solicita informações à Comissão do Mercado de Valores Mobiliários sobre a idoneidade dos accionistas.
 
@@ -422,7 +748,9 @@ h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos a
 
 3 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -430,7 +758,9 @@ h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos a
 
 3 - Sempre que o programa de actividades compreender alguma actividade de intermediação de instrumentos financeiros, o Banco de Portugal, antes da comunicação à autoridade de supervisão do país de acolhimento, solicita parecer à Comissão do Mercado de Valores Mobiliários, devendo esta entidade pronunciar-se no prazo de um mês.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -440,19 +770,25 @@ h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos a
 
 4 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
 2 - É aplicável o disposto nos artigos 37.º e 38.º, reduzindo-se para um mês e para 15 dias os prazos previstos, respectivamente, nos n.os 1 e 3 do artigo 37.º
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
 2 - No caso de o objecto das instituições de crédito incluir o exercício de actividades de intermediação de instrumentos financeiros, o Banco de Portugal comunica e disponibiliza à Comissão do Mercado de Valores Mobiliários o registo referido no número anterior e os respectivos averbamentos, alterações ou cancelamentos.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -472,7 +808,9 @@ h) Dispor de mecanismos adequados de controlo interno, incluindo procedimentos a
 
 9 - Sempre que o objectivo da instituição de crédito compreender alguma actividade de intermediação em instrumentos financeiros, o Banco de Portugal, antes de decidir, solicita informações à Comissão do Mercado de Valores Mobiliários, devendo a Comissão, se for caso disso, prestar as referidas informações no prazo de 15 dias.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -498,21 +836,29 @@ f) ...
 
 6 - O Banco de Portugal só pode comunicar informações que tenha recebido de entidades de outro Estado membro da Comunidade Europeia ou de países não membros com o consentimento expresso dessas entidades.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 Os acordos de cooperação referidos no n.º 2 do artigo anterior só podem ser celebrados quando as informações a prestar beneficiem de garantias de segredo pelo menos equivalentes às estabelecidas no presente Regime Geral e tenham por objectivo o desempenho de funções de supervisão que estejam cometidas às entidades em causa.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 Nos processos instaurados por práticas restritivas da concorrência imputáveis a instituições de crédito ou suas associações empresarias é obrigatoriamente solicitado e enviado à Autoridade da Concorrência o parecer do Banco de Portugal, bem como, se estiver em causa o exercício da actividade de intermediação de instrumentos financeiros, o parecer da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 99.º — Competência regulamentar
+Artigo 99.º
+
+Competência regulamentar
 
 1 - (Anterior corpo do artigo.)
 
 2 - Compete ainda ao Banco de Portugal regulamentar as matérias a que alude a alínea f) do n.º 1 do artigo 17.º, devendo, neste caso, consultar a Comissão do Mercado de Valores Mobiliários, sempre que o objecto das instituições visadas compreenda alguma actividade ou serviço de investimento.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -530,7 +876,9 @@ Nos processos instaurados por práticas restritivas da concorrência imputáveis
 
 8 - Sempre que o objecto da instituição de crédito compreender alguma actividade de intermediação de instrumentos financeiros, o Banco de Portugal, antes de se pronunciar nos termos do n.º 1, solicita informações à Comissão do Mercado de Valores Mobiliários sobre a idoneidade dos detentores de participações qualificadas, devendo a Comissão, se for caso disso, prestar as referidas informações no prazo de um mês.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -552,7 +900,9 @@ Nos processos instaurados por práticas restritivas da concorrência imputáveis
 
 10 - ...
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -568,7 +918,9 @@ Nos processos instaurados por práticas restritivas da concorrência imputáveis
 
 7 - O Banco de Portugal pode ainda solicitar a qualquer pessoa as informações de que necessite para o exercício das suas funções e, se necessário, convocar essa pessoa e ouvi-la a fim de obter essas informações.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - ...
 
@@ -576,33 +928,45 @@ Nos processos instaurados por práticas restritivas da concorrência imputáveis
 
 3 - ...
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 Sempre que o objecto da sociedade financeira que pretende estabelecer sucursal no estrangeiro compreender alguma actividade de intermediação de instrumentos financeiros, o Banco de Portugal solicita parecer da Comissão do Mercado de Valores Mobiliários, devendo esta pronunciar-se no prazo de dois meses.
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - ...
 
 2 - O disposto no artigo 181.º é aplicável ao estabelecimento das sucursais referidas no número anterior, quando as mesmas se proponham exercer no País alguma actividade de intermediação de instrumentos financeiros.
 
-###### Artigo 193.º — [...]
+Artigo 193.º
+
+[...]
 
 No caso de o objecto das instituições financeiras referidas no artigo anterior incluir o exercício de actividades de intermediação de instrumentos financeiros, é aplicável, com as necessárias adaptações, o disposto no artigo 186.º
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - ...
 
 2 - Quando uma instituição financeira com sede no estrangeiro, e que em Portugal preste serviços ou disponha de escritório de representação, exerça no País actividade de intermediação de instrumentos financeiros, a supervisão dessa actividade compete igualmente à Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 198.º — [...]
+Artigo 198.º
+
+[...]
 
 1 - ...
 
 2 - Tratando-se de sociedades financeiras que exerçam alguma actividade de intermediação de instrumentos financeiros, o Banco de Portugal manterá a Comissão do Mercado de Valores Mobiliários informada das providências que tomar nos termos dos artigos referidos no número anterior e, sempre que possível, ouvi-la-á antes de tomar alguma das providências ou decisões previstas nos artigos 141.º a 145.º e 152.º
 
-###### Artigo 199.º-A — [...]
+Artigo 199.º-A
+
+[...]
 
 Para efeitos deste título, entende-se por:
 
@@ -632,13 +996,17 @@ g) A gestão de sistemas de negociação multilateral;
 
 6.º Sociedade gestora de fundos de investimento mobiliário: qualquer sociedade cuja actividade principal consista na gestão de fundos de investimento mobiliário ou de sociedades de investimento mobiliário que obedeçam aos requisitos da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), do Conselho, de 20 de Dezembro.
 
-###### Artigo 199.º-B — [...]
+Artigo 199.º-B
+
+[...]
 
 1 - As empresas de investimento, com excepção das sociedades de consultoria para investimento e das sociedades gestoras de sistemas de negociação multilateral, bem como as sociedades gestoras de fundos de investimento mobiliário estão sujeitas a todas as normas do presente Regime Geral aplicáveis às sociedades financeiras e, em especial, às disposições do presente título.
 
 2 - No âmbito da prestação de serviços de investimento, o disposto no n.º 5 do artigo 199.º-D, no artigo 199.º-F e nos n.os 2, 3 e 4 do artigo 199.º-L é também aplicável às instituições de crédito.
 
-###### Artigo 199.º-C — [...]
+Artigo 199.º-C
+
+[...]
 
 O título ii é aplicável, com as necessárias adaptações, às empresas de investimento com sede em Portugal, com as seguintes modificações:
 
@@ -654,7 +1022,9 @@ e) No n.º 6 do artigo 16.º, a referência feita à Directiva n.º [2006/48/CE]
 
 f) ...
 
-###### Artigo 199.º-D — [...]
+Artigo 199.º-D
+
+[...]
 
 1 - O estabelecimento de sucursais e a prestação de serviços em outros Estados membros da Comunidade Europeia por empresas de investimento com sede em Portugal rege-se, com as necessárias adaptações, pelo disposto nos artigos 36.º, 37.º, n.º 1, 38.º, n.os 1 a 3, 39.º e 43.º, com as modificações seguintes:
 
@@ -682,7 +1052,9 @@ h) Na sequência da comunicação a que se refere o n.º 2 do artigo 43.º, a id
 
 5 - Se, relativamente a empresas de investimento com sede em Portugal, o Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários forem notificados de que estas infringem disposições legais ou regulamentares cuja verificação não cabe à autoridade de supervisão do Estado membro de acolhimento, o Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários tomam as medidas necessárias e adequadas para pôr fim à irregularidade.
 
-###### Artigo 199.º-E — [...]
+Artigo 199.º-E
+
+[...]
 
 1 - O estabelecimento de sucursais e a prestação de serviços, em Portugal, por empresas de investimento com sede em outros Estados membros da Comunidade Europeia rege-se, com as necessárias adaptações, pelo disposto nos artigos 44.º, 46.º a 49.º, 50.º, n.º 2, 52.º, 54.º a 56.º, 60.º e 61.º, n.os 1 e 2, com as seguintes modificações:
 
@@ -708,7 +1080,9 @@ i) Se do conteúdo da comunicações referida no n.º 1 do artigo 61.º resultar
 
 3 - Para efeitos do presente artigo, entende-se como autoridade de supervisão do Estado membro de origem aquela que, no Estado membro da Comunidade Europeia em causa, tenha sido designada como ponto de contacto nos termos do artigo 56.º da Directiva n.º [2004/39/CE](https://data.europa.eu/eli/dir/2004/39/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de Abril.
 
-###### Artigo 199.º-F — Irregularidades quando esteja em causa a prestação de serviços e actividades de investimento
+Artigo 199.º-F
+
+Irregularidades quando esteja em causa a prestação de serviços e actividades de investimento
 
 1 - Se o Banco de Portugal ou a Comissão do Mercado de Valores Mobiliários tiverem motivos claros e demonstráveis para crer que, relativamente à actividade em Portugal de empresas de investimento com sede em outros Estados membros da Comunidade Europeia, estão a ser infringidas disposições legais ou regulamentares da competência do Estado membro de origem, devem notificar desse facto a autoridade de supervisão competente.
 
@@ -722,7 +1096,9 @@ i) Se do conteúdo da comunicações referida no n.º 1 do artigo 61.º resultar
 
 6 - As disposições a que se refere o n.º 3 são as relativas ao registo das operações e à conservação de documentos, aos deveres gerais de informação, à execução de ordens nas melhores condições, ao tratamento de ordens de clientes, à informação sobre ofertas de preços firmes e operações realizadas fora de mercado regulamentado ou de sistema de negociação multilateral e à informação à Comissão do Mercado de Valores Mobiliários sobre operações.
 
-###### Artigo 199.º-G — Cooperação com outras entidades
+Artigo 199.º-G
+
+Cooperação com outras entidades
 
 1 - A Comissão do Mercado de Valores Mobiliários deve encaminhar de imediato para o Banco de Portugal as informações que receba de autoridades competentes de outros Estados, bem como os pedidos de informação destas autoridades que lhe tenham sido dirigidos, que sejam da competência do Banco.
 
@@ -734,7 +1110,9 @@ i) Se do conteúdo da comunicações referida no n.º 1 do artigo 61.º resultar
 
 5 - Se o Banco de Portugal receber notificação análoga à prevista no número anterior, comunica à Comissão do Mercado de Valores Mobiliários os resultados das diligências efectuadas e outros desenvolvimentos relevantes para efeitos da sua transmissão à autoridade notificante.
 
-###### Artigo 199.º-H — Recusa de cooperação
+Artigo 199.º-H
+
+Recusa de cooperação
 
 1 - O Banco de Portugal pode recusar a uma autoridade competente de outro Estado membro a transmissão de informações ou a colaboração em inspecções a sucursais se:
 
@@ -744,7 +1122,9 @@ b) Estiver em curso acção judicial ou existir uma decisão transitada em julga
 
 2 - Em caso de recusa, o Banco de Portugal notifica desse facto a autoridade competente requerente, fornecendo-lhe informação tão pormenorizada quanto possível.
 
-###### Artigo 199.º-I — Remissão
+Artigo 199.º-I
+
+Remissão
 
 1 - (Anterior corpo do artigo 199.º-G.)
 
@@ -758,7 +1138,9 @@ b) Estiver em curso acção judicial ou existir uma decisão transitada em julga
 
 6 - (Revogado.)
 
-###### Artigo 215.º — [...]
+Artigo 215.º
+
+[...]
 
 1 - Quando necessária à averiguação ou à instrução do processo, pode proceder-se à apreensão de quaisquer documentos, bem como à apreensão e congelamento de quaisquer valores, independentemente do local ou instituição em que se encontrem, devendo os valores ser depositados na Caixa Geral de Depósitos à ordem do Banco de Portugal, garantindo o pagamento da coima e das custas em que venha a ser condenado o arguido.
 
@@ -782,7 +1164,9 @@ Outras competências das autoridades de supervisão
 
 5 - Nos termos do disposto no número anterior, o Banco de Portugal pode solicitar a entidades prestadoras de serviços de telecomunicações, de rede fixa ou de rede móvel, ou a operadores de serviços de Internet registos de contactos telefónicos e de transmissão de dados existentes, que necessite para o exercício das suas funções, não podendo a entidade em causa invocar qualquer regime de segredo.
 
-###### Artigo 199.º-L — Regime das sociedades gestoras de fundos de investimento mobiliário
+Artigo 199.º-L
+
+Regime das sociedades gestoras de fundos de investimento mobiliário
 
 1 - Às sociedades gestoras de fundos de investimento mobiliário aplica-se o disposto no presente título com excepção do n.º 5.º do artigo 199.º-A e dos artigos 199.º-C a 199.º-H, entendendo-se o âmbito das competências do n.º 2 do artigo 122.º, a que alude o artigo anterior, ao previsto na alínea d) do n.º 4.
 
@@ -886,7 +1270,9 @@ h) O regime de supervisão e sancionatório relativo aos instrumentos e às acti
 
 6 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -898,7 +1284,9 @@ b) ...
 
 c) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Deve ser redigida em português ou acompanhada de tradução para português devidamente legalizada a informação divulgada em Portugal que seja susceptível de influenciar as decisões dos investidores, nomeadamente quando respeite a ofertas públicas, a mercados regulamentados, a actividades de intermediação financeira e a emitentes.
 
@@ -906,7 +1294,9 @@ c) ...
 
 3 - A CMVM e as entidades gestoras de mercados regulamentados, de sistemas de liquidação, de câmara de compensação, de contraparte central e de sistemas centralizados de valores mobiliários podem exigir a tradução para português de documentos redigidos em língua estrangeira que lhes sejam remetidos no âmbito das suas funções.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A informação respeitante a instrumentos financeiros, a formas organizadas de negociação, às actividades de intermediação financeira, à liquidação e à compensação de operações, a ofertas públicas de valores mobiliários e a emitentes deve ser completa, verdadeira, actual, clara, objectiva e lícita.
 
@@ -916,7 +1306,9 @@ c) ...
 
 4 - À publicidade relativa a instrumentos financeiros e a actividades reguladas no presente Código é aplicável o regime geral da publicidade.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -924,7 +1316,9 @@ c) ...
 
 3 - No caso de a informação intercalar ou as informações financeiras trimestrais ou semestrais terem sido sujeitas a auditoria ou a revisão limitada, é incluído o relatório de auditoria ou de revisão; caso não o tenham sido, é declarado tal facto.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Quem atinja ou ultrapasse participação de 10 %, 20 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade aberta, sujeita a lei pessoal portuguesa, e quem reduza a sua participação para valor inferior a qualquer daqueles limites deve, no prazo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento:
 
@@ -978,7 +1372,9 @@ b) Aquele a quem são imputados os direitos de voto pode fazer uma comunicação
 
 9 - Os titulares de participação qualificada em sociedade referida na subalínea i) da alínea a) do n.º 2 devem prestar à CMVM, a pedido desta, informação sobre a origem dos fundos utilizados na aquisição ou no reforço daquela participação.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A sociedade participada deve divulgar, pelos meios referidos no n.º 4 do artigo 244.º, toda a informação recebida nos termos do artigo 16.º, o mais rapidamente possível e no prazo de três dias de negociação após recepção da comunicação.
 
@@ -988,13 +1384,17 @@ b) Aquele a quem são imputados os direitos de voto pode fazer uma comunicação
 
 4 - A divulgação a que se refere o presente artigo pode ser efectuada numa língua de uso corrente nos mercados financeiros internacionais se essa tiver sido utilizada na comunicação que lhe deu origem.
 
-###### Artigo 18.º — Dias de negociação
+Artigo 18.º
+
+Dias de negociação
 
 1 - Para efeitos da presente secção, consideram-se dias de negociação aqueles em que esteja aberto para negociação o mercado regulamentado no qual as acções ou os outros valores mobiliários que confiram direito à sua subscrição ou aquisição estejam admitidos.
 
 2 - A CMVM deve divulgar no seu sistema de difusão de informação o calendário de dias de negociação dos mercados regulamentados situados ou a funcionar em Portugal.
 
-###### Artigo 20.º-A — [...]
+Artigo 20.º-A
+
+[...]
 
 1 - ...
 
@@ -1030,7 +1430,9 @@ b) Consideram-se instruções indirectas as que, em geral ou particular, indepen
 
 9 - Antes de emitir o comunicado previsto no n.º 7, a CMVM dá conhecimento do mesmo ao Instituto de Seguros de Portugal sempre que se refira a fundos de pensões.
 
-###### Artigo 23.º — Procuração
+Artigo 23.º
+
+Procuração
 
 1 - A convocatória de assembleia geral menciona a disponibilidade de um formulário de procuração, indicando modo de o solicitar, ou incluir esse formulário.
 
@@ -1040,7 +1442,9 @@ b) Consideram-se instruções indirectas as que, em geral ou particular, indepen
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -1062,7 +1466,9 @@ c) As pessoas que tenham solicitado o tratamento como tal, nos termos previstos 
 
 4 - A CMVM pode, por regulamento, qualificar como investidores qualificados outras entidades dotadas de uma especial competência e experiência relativas a instrumentos financeiros, nomeadamente emitentes de valores mobiliários, definindo os indicadores económico-financeiros que permitem essa qualificação.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Gozam do direito de acção popular para a protecção de interesses individuais homogéneos ou colectivos dos investidores não qualificados em instrumentos financeiros:
 
@@ -1076,7 +1482,9 @@ c) As fundações que tenham por fim a protecção dos investidores em instrumen
 
 3 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 ...
 
@@ -1086,13 +1494,17 @@ b) ...
 
 c) ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A CMVM organiza um serviço destinado à mediação voluntária de conflitos entre investidores não qualificados, por uma parte, e intermediários financeiros, consultores para investimento, entidades gestoras de mercados regulamentados ou de sistemas de negociação multilateral ou emitentes, por outra.
 
 2 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - As entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de sistemas de liquidação, de câmara de compensação ou de contraparte central podem constituir ou promover a constituição de fundos de garantia.
 
@@ -1102,7 +1514,9 @@ c) ...
 
 4 - As entidades gestoras referidas no n.º 1 podem deliberar que a participação no fundo por si constituído ou promovido seja obrigatória para os membros autorizados a executar ordens por conta de outrem e para os participantes nos sistemas.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -1116,7 +1530,9 @@ a) O extracto previsto no artigo 323.º-C;
 
 b) ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -1130,7 +1546,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -1142,7 +1560,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - ...
 
@@ -1178,7 +1598,9 @@ n) As ofertas públicas de valores mobiliários representativos de dívida emiti
 
 4 - ...
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -1188,17 +1610,23 @@ n) As ofertas públicas de valores mobiliários representativos de dívida emiti
 
 4 - ...
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 É permitida a realização de acções publicitárias, observando-se o disposto nos artigos 121.º e 122.º
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - O oferente pode reduzir em pelos menos 2 % o preço inicialmente anunciado.
 
 2 - ...
 
-###### Artigo 198.º — Formas organizadas de negociação
+Artigo 198.º
+
+Formas organizadas de negociação
 
 1 - É permitido o funcionamento em Portugal, sem prejuízo de outras que a CMVM determine por regulamento, das seguintes formas organizadas de negociação de instrumentos financeiros:
 
@@ -1210,13 +1638,17 @@ c) Internalização sistemática.
 
 2 - (Revogado.)
 
-###### Artigo 199.º — Mercados regulamentados
+Artigo 199.º
+
+Mercados regulamentados
 
 1 - São mercados regulamentados os sistemas que, tendo sido autorizados como tal por qualquer Estado membro da União Europeia, são multilaterais e funcionam regularmente a fim de possibilitar o encontro de interesses relativos a instrumentos financeiros com vista à celebração de contratos sobre tais instrumentos.
 
 2 - Os mercados regulamentados autorizados nos termos do artigo 217.º obedecem aos requisitos fixados no capítulo ii do presente título.
 
-###### Artigo 200.º — Sistemas de negociação multilateral
+Artigo 200.º
+
+Sistemas de negociação multilateral
 
 1 - São sistemas de negociação multilateral os sistemas que têm essa qualidade e possibilitam o encontro de interesses relativos a instrumentos financeiros com vista à celebração de contratos sobre tais instrumentos.
 
@@ -1224,7 +1656,9 @@ c) Internalização sistemática.
 
 3 - O disposto nos n.os 1 a 4 do artigo 224.º e 1 e 2 do artigo 225.º é aplicável aos sistemas de negociação multilateral.
 
-###### Artigo 201.º — Internalização sistemática
+Artigo 201.º
+
+Internalização sistemática
 
 1 - É internalização sistemática a negociação, por intermediário financeiro, de instrumentos financeiros por conta própria em execução de ordens de clientes fora de mercado regulamentado e de sistema de negociação multilateral, de modo organizado, frequente e sistemático.
 
@@ -1234,7 +1668,9 @@ c) Internalização sistemática.
 
 4 - (Revogado.)
 
-###### Artigo 202.º — Registo na CMVM
+Artigo 202.º
+
+Registo na CMVM
 
 1 - Os mercados regulamentados e os sistemas de negociação multilateral estão sujeitos a registo na CMVM, bem assim como as regras aos mesmos subjacentes.
 
@@ -1242,7 +1678,9 @@ c) Internalização sistemática.
 
 3 - (Revogado.)
 
-###### Artigo 203.º — Entidade gestora
+Artigo 203.º
+
+Entidade gestora
 
 1 - Os mercados regulamentados e os sistemas de negociação multilateral são geridos por entidade gestora que preencha os requisitos fixados em lei especial e, no que respeita apenas a sistemas de negociação multilateral, também por intermediário financeiro, de acordo com o seu regime.
 
@@ -1258,7 +1696,9 @@ c) Internalização sistemática.
 
 7 - (Revogado.)
 
-###### Artigo 204.º — Objecto de negociação
+Artigo 204.º
+
+Objecto de negociação
 
 1 - Podem ser objecto de negociação organizada:
 
@@ -1270,7 +1710,9 @@ b) Outros instrumentos financeiros, nomeadamente instrumentos financeiros deriva
 
 3 - (Revogado.)
 
-###### Artigo 205.º — Admissão e selecção para negociação
+Artigo 205.º
+
+Admissão e selecção para negociação
 
 1 - A admissão à negociação em mercado regulamentado e a selecção para negociação em sistema de negociação multilateral depende de decisão da respectiva entidade gestora.
 
@@ -1284,7 +1726,9 @@ b) Outros instrumentos financeiros, nomeadamente instrumentos financeiros deriva
 
 6 - (Revogado.)
 
-###### Artigo 206.º — Membros
+Artigo 206.º
+
+Membros
 
 1 - A negociação dos instrumentos financeiros efectua-se em mercado regulamentado e em sistema de negociação multilateral através dos respectivos membros.
 
@@ -1302,7 +1746,9 @@ d) Tenham recursos suficientes para as funções a exercer.
 
 4 - A intervenção dos membros pode consistir no mero registo de operações.
 
-###### Artigo 207.º — Operações
+Artigo 207.º
+
+Operações
 
 1 - O elenco das operações a realizar em cada mercado regulamentado e sistema de negociação multilateral é o definido pela respectiva entidade gestora.
 
@@ -1322,7 +1768,9 @@ a) Existirem ligações e acordos entre o sistema de liquidação designado e to
 
 b) A CMVM não se opuser por considerar que as condições técnicas para a liquidação de operações realizadas no mercado ou sistema, através de um sistema de liquidação diferente do designado por a entidade gestora desse mercado ou sistema, não permitem o funcionamento harmonioso e ordenado do mercados de instrumentos financeiros.
 
-###### Artigo 208.º — Sistemas de negociação
+Artigo 208.º
+
+Sistemas de negociação
 
 1 - As operações de mercado regulamentado e de sistemas de negociação multilateral realizam-se através de sistemas de negociação adequados à correcta formação dos preços dos instrumentos financeiros neles negociados e à liquidez do mercado, assegurando designadamente a transparência das operações.
 
@@ -1330,7 +1778,9 @@ b) A CMVM não se opuser por considerar que as condições técnicas para a liqu
 
 3 - Os negócios sobre instrumentos financeiros celebrados directamente entre os interessados que sejam registados no sistema através de um dos seus membros podem ser equiparados a operações de mercado regulamentado, nos termos das regras aprovadas pela entidade gestora.
 
-###### Artigo 209.º — Regras
+Artigo 209.º
+
+Regras
 
 1 - Para cada mercado regulamentado ou sistema de negociação multilateral, a entidade gestora deve aprovar regras transparentes e não discriminatórias, baseadas em critérios objectivos, que assegurem o bom funcionamento daquele, designadamente relativas a:
 
@@ -1352,7 +1802,9 @@ e) Obrigações aplicáveis aos respectivos membros.
 
 5 - (Revogado.)
 
-###### Artigo 210.º — Direitos inerentes
+Artigo 210.º
+
+Direitos inerentes
 
 1 - Os direitos patrimoniais inerentes aos valores mobiliários vendidos pertencem ao comprador desde a data da operação.
 
@@ -1360,7 +1812,9 @@ e) Obrigações aplicáveis aos respectivos membros.
 
 3 - O disposto nos números anteriores não exclui diferente regime de atribuição de direitos inerentes aos valores mobiliários transaccionados, desde que tal regime seja prévia e claramente publicado nos termos previstos nas regras do mercado regulamentado ou do sistema de negociação multilateral.
 
-###### Artigo 212.º — Informação ao público
+Artigo 212.º
+
+Informação ao público
 
 1 - Para cada mercado regulamentado ou sistema de negociação multilateral, a entidade gestora deve prestar ao público informação sobre:
 
@@ -1382,7 +1836,9 @@ b) Informação estatística relativa aos mercados ou sistemas por si geridos, s
 
 c) O texto actualizado das regras por que se regem a entidade gestora, os mercados ou sistemas por si geridos e as operações nestes realizadas.
 
-###### Artigo 214.º — Poderes da CMVM
+Artigo 214.º
+
+Poderes da CMVM
 
 1 - A CMVM pode:
 
@@ -1398,7 +1854,9 @@ c) Estender a suspensão ou a exclusão a todos os mercados regulamentados e sis
 
 4 - (Revogado.)
 
-###### Artigo 215.º — Efeitos da suspensão e da exclusão
+Artigo 215.º
+
+Efeitos da suspensão e da exclusão
 
 1 - A decisão de suspensão ou de exclusão produz efeitos imediatos.
 
@@ -1410,7 +1868,9 @@ c) Estender a suspensão ou a exclusão a todos os mercados regulamentados e sis
 
 5 - Quando seja informada pela autoridade competente de outro Estado membro da União Europeia da respectiva decisão de suspensão ou exclusão de um instrumento financeiro da negociação em mercado regulamentado desse Estado membro, a CMVM ordena a suspensão ou exclusão da negociação desse instrumento financeiro em mercado regulamentado ou em sistema de negociação multilateral registado em Portugal, excepto quando tal puder causar prejuízos significativos aos interesses dos investidores ou ao bom funcionamento dos mercados.
 
-###### Artigo 216.º — Regulamentação
+Artigo 216.º
+
+Regulamentação
 
 1 - A CMVM elabora os regulamentos necessários à concretização do disposto no presente título, nomeadamente sobre as seguintes matérias:
 
@@ -1430,13 +1890,17 @@ e) Divulgações obrigatórias no boletim do mercado regulamentado e do sistema 
 
 4 - (Revogado.)
 
-###### Artigo 217.º — Autorização
+Artigo 217.º
+
+Autorização
 
 1 - A constituição e extinção dos mercados regulamentados depende de autorização requerida pela respectiva entidade gestora e concedida pelo Ministro das Finanças, mediante portaria e ouvida a CMVM.
 
 2 - A CMVM comunica à Comissão Europeia e aos Estados membros a lista dos mercados regulamentados registados nos termos do disposto no artigo 202.º
 
-###### Artigo 218.º — Acordos entre entidades gestoras
+Artigo 218.º
+
+Acordos entre entidades gestoras
 
 1 - As entidades gestoras de mercados regulamentados situados ou a funcionar em Portugal podem acordar, entre si, sistemas de conexão informativa ou operativa se o bom funcionamento dos mercados por elas geridos e os interesses dos investidores o aconselharem.
 
@@ -1448,7 +1912,9 @@ b) Que os membros de cada um dos mercados regulamentados possam intervir no outr
 
 3 - Os acordos a que se referem os números anteriores são previamente comunicados à CMVM, a qual, nos 15 dias após a comunicação, pode deduzir oposição, no caso do n.º 2, se o mercado regulamentado situado ou a funcionar em Estado não membro da União Europeia não impuser níveis de exigência similares aos do mercado regulamentado situado ou a funcionar em Portugal quanto à admissão dos instrumentos financeiros à negociação e à informação a prestar ao público e não forem assegurados outros requisitos de protecção dos investidores.
 
-###### Artigo 219.º — Estrutura do mercado regulamentado
+Artigo 219.º
+
+Estrutura do mercado regulamentado
 
 1 - Em cada mercado regulamentado podem ser criados os segmentos que se revelem necessários tendo em conta, nomeadamente, as características das operações, dos instrumentos financeiros negociados, das entidades que os emitem, do sistema de negociação e as quantidades a transaccionar.
 
@@ -1458,7 +1924,9 @@ b) Que os membros de cada um dos mercados regulamentados possam intervir no outr
 
 4 - (Revogado.)
 
-###### Artigo 220.º — Sessões do mercado regulamentado
+Artigo 220.º
+
+Sessões do mercado regulamentado
 
 1 - Os mercados regulamentados funcionam em sessões públicas, que podem ser normais ou especiais.
 
@@ -1468,7 +1936,9 @@ b) Que os membros de cada um dos mercados regulamentados possam intervir no outr
 
 4 - As sessões especiais decorrem de acordo com as regras fixadas pela entidade gestora do mercado regulamentado, podendo as operações ter por objecto instrumentos financeiros admitidos ou não à negociação em sessões normais.
 
-###### Artigo 221.º — Informação sobre ofertas e operações em mercado regulamentado
+Artigo 221.º
+
+Informação sobre ofertas e operações em mercado regulamentado
 
 1 - A entidade gestora do mercado regulamentado deve divulgar ao público, de forma contínua durante o horário normal de negociação, os preços de compra e de venda de acções e a quantidade das ofertas pendentes relativas a acções.
 
@@ -1500,7 +1970,9 @@ c) As condições de dispensa ou deferimento do cumprimento do dever de divulga�
 
 10 - A entidade gestora do mercado regulamentado pode facultar o acesso, em condições comerciais razoáveis e numa base não discriminatória, aos mecanismos que utiliza para a divulgação das informações previstas no presente artigo a entidades gestoras de sistemas de negociação multilateral e a intermediários financeiros.
 
-###### Artigo 222.º — Cotação
+Artigo 222.º
+
+Cotação
 
 1 - Sempre que na lei ou em contrato se refira a cotação numa certa data, considera-se como tal o preço de referência definido pela entidade gestora do mercado regulamentado a contado.
 
@@ -1508,7 +1980,9 @@ c) As condições de dispensa ou deferimento do cumprimento do dever de divulga�
 
 3 - Se os instrumentos financeiros estiverem admitidos à negociação em mais de um mercado regulamentado situado ou a funcionar em Portugal, é tido em conta, para os efeitos do n.º 1, o preço efectuado no mercado regulamentado situado ou a funcionar em Portugal que, nos termos a fixar em regulamento da CMVM, seja considerado mais representativo.
 
-###### Artigo 223.º — Admissão de membros
+Artigo 223.º
+
+Admissão de membros
 
 1 - A admissão como membro de mercado regulamentado e a manutenção dessa qualidade dependem, além dos requisitos definidos no artigo 206.º, da observância dos requisitos fixados pela respectiva entidade gestora, decorrentes:
 
@@ -1528,7 +2002,9 @@ d) Das normas e procedimentos para a compensação e liquidação das operaçõe
 
 5 - A entidade gestora de mercado regulamentado deve comunicar à CMVM a lista dos respectivos membros, sendo a periodicidade desta comunicação estabelecida por regulamento da CMVM.
 
-###### Artigo 224.º — Acesso remoto a mercados autorizados em Portugal
+Artigo 224.º
+
+Acesso remoto a mercados autorizados em Portugal
 
 1 - As regras relativas à qualidade de membro de mercado regulamentado possibilitam o acesso remoto ao mesmo por empresas de investimento e instituições de crédito autorizadas em outros Estados membros da União Europeia, salvo se os procedimentos e sistemas de negociação do mercado em causa exigirem uma presença física para a conclusão das operações no mesmo.
 
@@ -1540,7 +2016,9 @@ d) Das normas e procedimentos para a compensação e liquidação das operaçõe
 
 5 - Nas circunstâncias previstas no artigo 16.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), de 10 de Agosto, a CMVM estabelece com a autoridade competente do Estado membro em que o mecanismo foi disponibilizado acordo de cooperação visando a adequada supervisão do mercado regulamentado em causa.
 
-###### Artigo 225.º — Acesso remoto a mercados autorizados no estrangeiro
+Artigo 225.º
+
+Acesso remoto a mercados autorizados no estrangeiro
 
 1 - A disponibilização, em território nacional, de mecanismos adequados a facilitar o acesso e a negociação a mercado regulamentado autorizado noutro Estado membro da União Europeia, por membros remotos estabelecidos em Portugal, depende de comunicação à CMVM, pela autoridade competente do Estado em que o mercado regulamentado foi autorizado:
 
@@ -1552,7 +2030,9 @@ b) Da identidade dos membros desse mercado que se encontrem estabelecidos em Por
 
 3 - Nas circunstâncias previstas no artigo 16.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), de 10 de Agosto, a CMVM estabelece com a autoridade competente do Estado membro em que o mercado regulamentado foi autorizado acordo de cooperação visando a adequada supervisão do mesmo.
 
-###### Artigo 226.º — Deveres dos membros
+Artigo 226.º
+
+Deveres dos membros
 
 1 - Os membros de mercado regulamentado devem:
 
@@ -1564,7 +2044,9 @@ b) Prestar à entidade gestora do mercado regulamentado as informações necess�
 
 3 - (Revogado.)
 
-###### Artigo 227.º — Admissão à negociação em mercado regulamentado
+Artigo 227.º
+
+Admissão à negociação em mercado regulamentado
 
 1 - ...
 
@@ -1590,7 +2072,9 @@ b) Facilitar aos membros do mercado regulamentado o acesso às informações que
 
 c) Verificar regularmente se os valores mobiliários que estão admitidos à negociação no mercado regulamentado continuam a cumprir os requisitos de admissão.
 
-###### Artigo 228.º — Admissão a mercado de cotações oficiais
+Artigo 228.º
+
+Admissão a mercado de cotações oficiais
 
 1 - Além dos previstos no n.º 3 do artigo anterior, o emitente de valores mobiliários a negociar em mercado que forme cotação oficial deve satisfazer os seguintes requisitos:
 
@@ -1610,7 +2094,9 @@ b) Ter divulgado, nos termos da lei, os seus relatórios de gestão e contas anu
 
 7 - (Revogado.)
 
-###### Artigo 229.º — Admissão de acções à negociação em mercado de cotações oficiais
+Artigo 229.º
+
+Admissão de acções à negociação em mercado de cotações oficiais
 
 1 - Só podem ser admitidas à negociação em mercado que forme cotação oficial acções em relação às quais:
 
@@ -1632,7 +2118,9 @@ b) Se preveja capitalização bolsista de, pelo menos, um milhão de euros, ou, 
 
 8 - (Revogado.)
 
-###### Artigo 230.º — Admissão de obrigações à negociação em mercado de cotações oficiais
+Artigo 230.º
+
+Admissão de obrigações à negociação em mercado de cotações oficiais
 
 1 - Só podem ser admitidas à negociação em mercado que forme cotação oficial obrigações representativas de empréstimo obrigacionista ou de alguma das suas séries cujo montante seja igual ou superior a (euro) 200 000.
 
@@ -1654,7 +2142,9 @@ d) Garantidas, solidária e incondicionalmente, pelo Estado Português ou por Es
 
 e) Emitidas por pessoas colectivas internacionais de carácter público e por instituições financeiras internacionais.
 
-###### Artigo 231.º — Disposições especiais sobre a admissão de valores mobiliários sujeitos a direito estrangeiro
+Artigo 231.º
+
+Disposições especiais sobre a admissão de valores mobiliários sujeitos a direito estrangeiro
 
 1 - Salvo nos casos em que os valores mobiliários estejam admitidos à negociação em mercado regulamentado situado ou a funcionar em Estado membro da União Europeia, a CMVM pode exigir ao emitente a apresentação de parecer jurídico que ateste os requisitos do n.os 1 e 2 e da alínea a) do n.º 3 do artigo 227.º
 
@@ -1662,7 +2152,9 @@ e) Emitidas por pessoas colectivas internacionais de carácter público e por in
 
 3 - ...
 
-###### Artigo 232.º — [...]
+Artigo 232.º
+
+[...]
 
 1 - ...
 
@@ -1670,7 +2162,9 @@ e) Emitidas por pessoas colectivas internacionais de carácter público e por in
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - ...
 
@@ -1680,7 +2174,9 @@ e) Emitidas por pessoas colectivas internacionais de carácter público e por in
 
 4 - O emitente de valores mobiliários admitidos à negociação em mercado regulamentado deve, no momento em que solicita a admissão, nomear um representante com poderes bastantes para as relações com o mercado e com a CMVM.
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - ...
 
@@ -1690,7 +2186,9 @@ e) Emitidas por pessoas colectivas internacionais de carácter público e por in
 
 4 - Quando a entidade gestora do mercado regulamentado admita valores mobiliários à negociação sem consentimento do respectivo emitente, nos termos previstos no n.º 2 do artigo 205.º, deve informar este desse facto.
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - ...
 
@@ -1714,7 +2212,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - As seguintes entidades enviam à CMVM os documentos e as informações a que se referem os artigos seguintes, até ao momento da sua divulgação, se outro prazo não estiver especialmente previsto:
 
@@ -1758,7 +2258,9 @@ b) Decidir torná-la pública através do sistema previsto no artigo 367.º
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 1 - As entidades referidas no n.º 1 do artigo 244.º divulgam, no prazo de quatro meses a contar da data de encerramento do exercício e mantêm à disposição do público por cinco anos:
 
@@ -1782,7 +2284,9 @@ b) ...
 
 6 - Os documentos que integram o relatório e as contas anuais são enviados à CMVM logo que sejam colocados à disposição dos accionistas.
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - Os emitentes de acções e de valores mobiliários representativos de dívida referidos no n.º 1 do artigo 244.º divulgam, até dois meses após o termo do 1.º semestre do exercício, relativamente à actividade desse período, e mantêm à disposição do público por cinco anos:
 
@@ -1818,7 +2322,9 @@ e) Os emitentes de acções devem incluir, no mínimo, informações sobre as pr
 
 6 - Para efeitos da alínea e) do número anterior, as transacções entre partes relacionadas podem ser agregadas de acordo com a sua natureza, excepto se a informação separada for necessária para a compreensão dos efeitos da transacção na posição financeira do emitente.
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 A CMVM, através de regulamento, estabelece:
 
@@ -1838,7 +2344,9 @@ g) ...
 
 h) Os termos e condições em que é comunicada e tornada acessível a informação relativa às transacções previstas no artigo 248.º-B, nomeadamente a possibilidade de tal comunicação ser realizada de forma agregada, em função de um determinado montante e de um período de tempo específico.
 
-###### Artigo 249.º — [...]
+Artigo 249.º
+
+[...]
 
 1 - As entidades referidas no n.º 1 do artigo 244.º enviam à CMVM e à entidade gestora de mercado regulamentado:
 
@@ -1866,7 +2374,9 @@ g) A deliberação da assembleia geral relativa aos documentos de prestação de
 
 4 - A convocatória para a assembleia de titulares de valores mobiliários representativos de dívida admitidos à negociação em mercado regulamentado deve respeitar o disposto no n.º 2 do artigo 23.º
 
-###### Artigo 250.º — [...]
+Artigo 250.º
+
+[...]
 
 1 - Com excepção do disposto nos artigos 245.º a 246.º-A, nas alíneas a) do n.º 1 do artigo 249.º, a) a d) e f) do n.º 2 do artigo 249.º e no n.º 3 do artigo 249.º, a CMVM pode dispensar a divulgação da informação exigida nos artigos anteriores quando seja contrária ao interesse público e possa causar prejuízo grave para o emitente, desde que a ausência de divulgação não induza o público em erro sobre factos e circunstâncias essenciais para a avaliação dos valores mobiliários.
 
@@ -1874,7 +2384,9 @@ g) A deliberação da assembleia geral relativa aos documentos de prestação de
 
 3 - (Revogado.)
 
-###### Artigo 252.º — Internalizadores sistemáticos
+Artigo 252.º
+
+Internalizadores sistemáticos
 
 1 - São regulados no artigo 21.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto:
 
@@ -1884,7 +2396,9 @@ b) O procedimento para a perda da qualidade de internalizador sistemático.
 
 2 - O intermediário financeiro deve comunicar previamente à CMVM os instrumentos financeiros relativamente aos quais exerce a actividade de internalização sistemática.
 
-###### Artigo 253.º — Informação sobre ofertas
+Artigo 253.º
+
+Informação sobre ofertas
 
 1 - Os internalizadores sistemáticos devem divulgar os preços firmes a que se propõem negociar acções admitidas à negociação em mercado regulamentado para as quais exista um mercado líquido, sempre que a quantidade da oferta não seja superior ao volume normal de mercado.
 
@@ -1910,7 +2424,9 @@ d) O prazo e meios de divulgação das ofertas.
 
 8 -A CMVM pode definir, através de regulamento, o conteúdo, os meios e a periodicidade da informação a prestar à CMVM e ao público relativamente à internalização de instrumentos financeiros além do referido no n.º 1.
 
-###### Artigo 254.º — Classes de acções
+Artigo 254.º
+
+Classes de acções
 
 1 - Nos casos em que o mercado português seja considerado, para uma determinada acção, o mercado mais relevante em termos de liquidez, a CMVM, anualmente, deve determinar e divulgar a classe de acções a que a mesma pertence, tal como definida no n.º 3 do artigo anterior.
 
@@ -1920,11 +2436,15 @@ a) O conceito de mercado mais relevante em termos de liquidez definido no artigo
 
 b) Os indicadores de liquidez previstos no artigo 9.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto.
 
-###### Artigo 255.º — Actualização e retirada das ofertas
+Artigo 255.º
+
+Actualização e retirada das ofertas
 
 Os internalizadores sistemáticos podem, a qualquer momento, actualizar as suas ofertas de preço, só as podendo retirar em condições de mercado excepcionais.
 
-###### Artigo 256.º — Acesso às ofertas
+Artigo 256.º
+
+Acesso às ofertas
 
 1 - Os internalizadores sistemáticos devem elaborar regras claras, baseadas na sua política comercial e em critérios objectivos e não discriminatórios, relativas aos investidores a quem facultam o acesso às suas ofertas de preços.
 
@@ -1938,7 +2458,9 @@ c) Limitar, de forma não discriminatória, o número total de operações simul
 
 3 - Os mecanismos destinados a garantir um tratamento não discriminatório regem-se pelo n.º 3 do artigo 25.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto.
 
-###### Artigo 257.º — Execução das ordens e alteração do preço oferecido
+Artigo 257.º
+
+Execução das ordens e alteração do preço oferecido
 
 1 - Os internalizadores sistemáticos devem executar as ordens que recebem dos seus clientes, em relação às acções para as quais sejam internalizadores sistemáticos, aos preços por si divulgados no momento da recepção da ordem.
 
@@ -1954,7 +2476,9 @@ b) A quantidade da ordem recebida seja mais elevada do que o volume das ordens d
 
 5 - Sempre que o internalizador sistemático faça ofertas de preços para quantidades diferentes e receba uma ordem entre essas mesmas quantidades que decida executar, deve executar a ordem a um dos preços divulgados ou a outro preço, neste último caso se permitido ao abrigo dos n.os 2 e 3.
 
-###### Artigo 258.º — Âmbito
+Artigo 258.º
+
+Âmbito
 
 1 - O disposto no presente capítulo é aplicável a todas as operações em que uma entidade tenha assumido a posição de contraparte central.
 
@@ -1962,7 +2486,9 @@ b) A quantidade da ordem recebida seja mais elevada do que o volume das ordens d
 
 3 - A realização de operações em mercado regulamentado ou em sistema de negociação multilateral sobre os instrumentos financeiros referidos nas alíneas e) e f) do n.º 1 do artigo 2.º exige a interposição de contraparte central.
 
-###### Artigo 259.º — Gestão de operações
+Artigo 259.º
+
+Gestão de operações
 
 1 - A contraparte central deve assegurar a boa gestão das operações, em particular:
 
@@ -1984,7 +2510,9 @@ c) Determinar os preços de referência de forma distinta da prevista nas regras
 
 4 - Os membros compensadores são responsáveis perante a contraparte central pelo cumprimento das obrigações resultantes de operações por si assumidas, por sua conta ou por conta dos membros negociadores perante quem tenham assumido a função de compensação das operações.
 
-###### Artigo 260.º — Minimização dos riscos
+Artigo 260.º
+
+Minimização dos riscos
 
 1 - Cabe à contraparte central a tomada de medidas adequadas à minimização dos riscos e à protecção do sistema de compensação e dos mercados, devendo avaliar com uma periodicidade, no mínimo anual, o seu nível de exposição.
 
@@ -2006,7 +2534,9 @@ c) Pode criar fundos destinados, em última instância, à distribuição das pe
 
 7 - (Revogado.)
 
-###### Artigo 261.º — Margens e outras garantias
+Artigo 261.º
+
+Margens e outras garantias
 
 1 - A exposição ao risco da contraparte central e dos seus membros deve ser coberta por cauções, designadas margens, e outras garantias, salvo quando, em função da natureza da operação, sejam dispensadas nos casos e nos termos a estabelecer em regulamento da CMVM.
 
@@ -2024,13 +2554,17 @@ b) Garantia bancária.
 
 6 - Os membros compensadores devem adoptar procedimentos e medidas para cobrir de forma adequada a exposição ao risco, devendo exigir aos seus clientes ou aos membros negociadores perante os quais tenham assumido funções de compensação a entrega de margens e outras garantias, nos termos definidos por contrato com eles celebrado.
 
-###### Artigo 262.º — Execução extrajudicial das garantias
+Artigo 262.º
+
+Execução extrajudicial das garantias
 
 1 - Os instrumentos financeiros recebidos em caução podem ser vendidos extrajudicialmente para satisfação das obrigações emergentes das operações caucionadas ou como consequência do encerramento de posições dos membros que tenham prestado a caução.
 
 2 - A execução extrajudicial das cauções deve ser efectuada pela contraparte central, através de intermediário financeiro, sempre que aquela não revista esta natureza.
 
-###### Artigo 263.º — Segregação patrimonial
+Artigo 263.º
+
+Segregação patrimonial
 
 1 - A contraparte central deve adoptar uma estrutura de contas que permita uma adequada segregação patrimonial entre os instrumentos financeiros próprios dos seus membros e os pertencentes aos clientes destes últimos.
 
@@ -2038,13 +2572,17 @@ b) Garantia bancária.
 
 3 - (Revogado.)
 
-###### Artigo 264.º — Participantes
+Artigo 264.º
+
+Participantes
 
 1 - A contraparte central deve definir as condições de acesso dos membros compensadores e as obrigações que sobre eles impendem, de modo a garantir níveis elevados de solvabilidade e limitação dos riscos, nomeadamente impondo-lhes que reúnam recursos financeiros suficientes e que sejam dotados de uma capacidade operacional robusta.
 
 2 - A contraparte central fiscaliza, numa base regular, o cumprimento dos requisitos de acesso dos membros, adoptando os procedimentos necessários para o efeito.
 
-###### Artigo 265.º — Regras da contraparte central
+Artigo 265.º
+
+Regras da contraparte central
 
 1 - A contraparte central deve aprovar regras transparentes e não discriminatórias, baseadas em critérios objectivos, que assegurem o adequado desempenho das suas funções, relativas, designadamente, às matérias referidas nos artigos 259.º, 260.º, 261.º, 263.º e 264.º
 
@@ -2054,7 +2592,9 @@ b) Garantia bancária.
 
 4 - (Revogado.)
 
-###### Artigo 266.º — [...]
+Artigo 266.º
+
+[...]
 
 1 - Os sistemas de liquidação de instrumentos financeiros são criados por acordo escrito pelo qual se estabelecem regras comuns e procedimentos padronizados para a execução de ordens de transferência, entre os participantes, de instrumentos financeiros ou de direitos deles destacados.
 
@@ -2062,7 +2602,9 @@ b) Garantia bancária.
 
 3 - As transferências de dinheiro associadas às transferências de instrumentos financeiros ou a direitos a eles inerentes e as garantias relativas a operações sobre instrumentos financeiros fazem parte integrante dos sistemas de liquidação.
 
-###### Artigo 267.º — [...]
+Artigo 267.º
+
+[...]
 
 ...
 
@@ -2070,7 +2612,9 @@ a) As instituições de crédito, as empresas de investimento e as instituiçõe
 
 b) ...
 
-###### Artigo 268.º — [...]
+Artigo 268.º
+
+[...]
 
 1 - ...
 
@@ -2096,7 +2640,9 @@ c) Entidades gestoras de câmara de compensação e contraparte central.
 
 6 - ...
 
-###### Artigo 269.º — [...]
+Artigo 269.º
+
+[...]
 
 1 - ...
 
@@ -2104,7 +2650,9 @@ c) Entidades gestoras de câmara de compensação e contraparte central.
 
 3 - Após o registo na CMVM, a entidade gestora do sistema de liquidação deve divulgar as regras adoptadas, as quais entram em vigor na data de divulgação ou noutra nelas prevista.
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - Os sistemas de liquidação de instrumentos financeiros, com excepção dos que forem geridos pelo Banco de Portugal, são reconhecidos através de registo na CMVM.
 
@@ -2112,7 +2660,9 @@ c) Entidades gestoras de câmara de compensação e contraparte central.
 
 3 - ...
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 1 - ...
 
@@ -2120,7 +2670,9 @@ c) Entidades gestoras de câmara de compensação e contraparte central.
 
 3 - Ao processo de registo, incluindo a sua recusa e o seu cancelamento, aplica-se, com as devidas adaptações, o disposto para o registo de entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral.
 
-###### Artigo 273.º — [...]
+Artigo 273.º
+
+[...]
 
 1 - ...
 
@@ -2136,7 +2688,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 274.º — [...]
+Artigo 274.º
+
+[...]
 
 1 - As ordens de transferência são introduzidas no sistema pelos participantes ou, por delegação destes, pela entidade gestora do mercado regulamentado ou do sistema de negociação multilateral onde os instrumentos financeiros foram transaccionados ou pela entidade que assuma as funções de câmara de compensação e contraparte central relativamente às operações realizadas nesse mercado ou sistema.
 
@@ -2144,17 +2698,23 @@ d) ...
 
 3 - ...
 
-###### Artigo 276.º — [...]
+Artigo 276.º
+
+[...]
 
 A compensação efectuada no âmbito do sistema de liquidação tem carácter definitivo e é efectuada pelo próprio sistema ou por entidade que assuma funções de câmara de compensação participante deste.
 
-###### Artigo 278.º — [...]
+Artigo 278.º
+
+[...]
 
 1 - A liquidação das operações de mercado regulamentado ou de sistema de negociação multilateral deve ser organizada de acordo com princípios de eficiência, de redução do risco sistémico e de simultaneidade dos créditos em instrumentos financeiros e em dinheiro.
 
 2 - (Revogado.)
 
-###### Artigo 279.º — [...]
+Artigo 279.º
+
+[...]
 
 1 - ...
 
@@ -2164,7 +2724,9 @@ A compensação efectuada no âmbito do sistema de liquidação tem carácter de
 
 4 - ...
 
-###### Artigo 280.º — [...]
+Artigo 280.º
+
+[...]
 
 1 - ...
 
@@ -2182,7 +2744,9 @@ b) Os procedimentos de substituição são descritos nas regras da contraparte c
 
 6 - As regras referidas no número anterior asseguram que os mecanismos de substituição adoptados possibilitam a entrega dos instrumentos financeiros ao credor num prazo razoável.
 
-###### Artigo 281.º — [...]
+Artigo 281.º
+
+[...]
 
 1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado ou de sistema de negociação multilateral devem estabelecer as ligações necessárias à boa liquidação das operações, constituindo uma rede de conexões, nomeadamente com:
 
@@ -2198,7 +2762,9 @@ e) [Anterior alínea d).]
 
 2 - Os acordos de conexão devem ser previamente comunicados à CMVM.
 
-###### Artigo 283.º — [...]
+Artigo 283.º
+
+[...]
 
 1 - A abertura de processo de insolvência, de recuperação de empresa ou de saneamento de qualquer participante não tem efeitos retroactivos sobre os direitos e obrigações decorrentes da sua participação no sistema ou a ela associados.
 
@@ -2206,7 +2772,9 @@ e) [Anterior alínea d).]
 
 3 - O momento de abertura dos processos a que se refere o presente capítulo é aquele em que a autoridade competente profere a decisão de declaração de insolvência, de prosseguimento da acção de recuperação de empresa ou decisão equivalente.
 
-###### Artigo 284.º — [...]
+Artigo 284.º
+
+[...]
 
 1 - Sem prejuízo do disposto no Decreto-Lei n.º 105/2004, de 8 de Maio, as garantias de obrigações decorrentes do funcionamento de um sistema de liquidação não são afectadas pela abertura de processo de insolvência, de recuperação de empresa ou de saneamento da entidade garante, revertendo apenas para a massa falida ou para a empresa em recuperação ou saneamento o saldo que eventualmente se apure após o cumprimento das obrigações garantidas.
 
@@ -2216,13 +2784,17 @@ e) [Anterior alínea d).]
 
 4 - Se os instrumentos financeiros objecto de garantia nos termos do presente artigo estiverem registados ou depositados em sistema centralizado situado ou a funcionar num Estado membro da Comunidade Europeia, a determinação dos direitos dos beneficiários da garantia rege-se pela legislação desse Estado membro, desde que a garantia tenha sido registada no mesmo sistema centralizado.
 
-###### Artigo 287.º — [...]
+Artigo 287.º
+
+[...]
 
 1 - Os sistemas utilizados na liquidação de operações de mercado regulamentado ou de sistema de negociação multilateral só podem ser geridos por sociedade que preencha os requisitos fixados em lei especial.
 
 2 - ...
 
-###### Artigo 289.º — [...]
+Artigo 289.º
+
+[...]
 
 1 - ...
 
@@ -2256,7 +2828,9 @@ i) Às pessoas que exercem, a título principal, algum dos serviços enumerados 
 
 4 - O disposto nos artigos 294.º-A a 294.º-D, 306.º a 306.º-E, 308.º a 308.º-D, 309.º-D, 313.º, 314.º a 314.º-D, 317.º a 317.º-D não é aplicável à actividade de gestão de instituições de investimento colectivo.
 
-###### Artigo 290.º — Serviços e actividades de investimento
+Artigo 290.º
+
+Serviços e actividades de investimento
 
 1 - São serviços e actividades de investimento em instrumentos financeiros:
 
@@ -2278,7 +2852,9 @@ g) A gestão de sistema de negociação multilateral.
 
 3 - (Revogado.)
 
-###### Artigo 291.º — [...]
+Artigo 291.º
+
+[...]
 
 São serviços auxiliares dos serviços e actividades de investimento:
 
@@ -2296,7 +2872,9 @@ f) ...
 
 g) Os serviços e actividades enunciados no n.º 1 do artigo 290.º, quando se relacionem com os activos subjacentes aos instrumentos financeiros mencionados nas subalíneas ii) e iii) da alínea e) e na alínea f) do n.º 1 do artigo 2.º
 
-###### Artigo 292.º — Publicidade e prospecção
+Artigo 292.º
+
+Publicidade e prospecção
 
 A publicidade e a prospecção dirigidas à celebração de contratos de intermediação financeira ou à recolha de elementos sobre clientes actuais ou potenciais só podem ser realizadas:
 
@@ -2304,7 +2882,9 @@ a) Por intermediário financeiro autorizado a exercer a actividade em causa;
 
 b) Por agente vinculado, nos termos previstos nos artigos 294.º-A a 294.º-D.
 
-###### Artigo 293.º — [...]
+Artigo 293.º
+
+[...]
 
 1 - São intermediários financeiros em instrumentos financeiros:
 
@@ -2330,7 +2910,9 @@ f) As sociedades gestoras de sistemas de negociação multilateral;
 
 g) Outras que como tal sejam qualificadas por lei, ou que, não sendo instituições de crédito, sejam pessoas cuja actividade, habitual e profissionalmente exercida, consista na prestação, a terceiros, de serviços de investimento, ou no exercício de actividades de investimento.
 
-###### Artigo 294.º — Consultoria para investimento
+Artigo 294.º
+
+Consultoria para investimento
 
 1 - Entende-se por consultoria para investimento a prestação de um aconselhamento personalizado a um cliente, na sua qualidade de investidor efectivo ou potencial, quer a pedido deste quer por iniciativa do consultor relativamente a transacções respeitantes a valores mobiliários ou a outros instrumentos financeiros.
 
@@ -2352,7 +2934,9 @@ b) Não detenham fundos ou valores mobiliários pertencentes a clientes.
 
 6 - Aos consultores para investimento aplicam-se as regras gerais previstas para as actividades de intermediação financeira, com as devidas adaptações.
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - ...
 
@@ -2360,13 +2944,17 @@ b) Não detenham fundos ou valores mobiliários pertencentes a clientes.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 297.º — [...]
+Artigo 297.º
+
+[...]
 
 1 - O registo dos intermediários financeiros contém cada uma das actividades de intermediação financeira que o intermediário financeiro pretende exercer.
 
 2 - A CMVM organiza e divulga uma lista contendo os elementos identificativos dos intermediários financeiros registados nos termos dos artigos 66.º e 67.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras e as actividades de intermediação financeira registadas nos termos do número anterior.
 
-###### Artigo 298.º — Processo de registo
+Artigo 298.º
+
+Processo de registo
 
 1 - O pedido de registo deve ser acompanhado dos documentos necessários para demonstrar que o intermediário financeiro possui os meios humanos, materiais e técnicos indispensáveis para o exercício da actividade em causa.
 
@@ -2378,7 +2966,9 @@ b) Não detenham fundos ou valores mobiliários pertencentes a clientes.
 
 5 - ...
 
-###### Artigo 299.º — Indeferimento tácito
+Artigo 299.º
+
+Indeferimento tácito
 
 O registo considera-se recusado se a CMVM não o efectuar no prazo de 30 dias a contar:
 
@@ -2386,7 +2976,9 @@ a) ...
 
 b) ...
 
-###### Artigo 300.º — Recusa de registo
+Artigo 300.º
+
+Recusa de registo
 
 1 - O registo é recusado se o intermediário financeiro:
 
@@ -2398,7 +2990,9 @@ c) ...
 
 2 - A recusa de registo pode ser total ou parcial.
 
-###### Artigo 301.º — Consultores para investimento
+Artigo 301.º
+
+Consultores para investimento
 
 1 - O exercício da actividade dos consultores para investimento depende de registo na CMVM.
 
@@ -2414,7 +3008,9 @@ c) O seguro de responsabilidade civil é exigido para cada colaborador que exerc
 
 4 - As condições mínimas do seguro de responsabilidade civil previsto nos números anteriores são fixadas por norma regulamentar do Instituto de Seguros de Portugal, ouvida a CMVM.
 
-###### Artigo 303.º — [...]
+Artigo 303.º
+
+[...]
 
 1 - ...
 
@@ -2422,7 +3018,9 @@ c) O seguro de responsabilidade civil é exigido para cada colaborador que exerc
 
 3 - A decisão de cancelamento deve ser comunicada ao Banco de Portugal e às autoridades competentes dos Estados membros da União Europeia onde o intermediário financeiro tenha sucursais ou preste serviços.
 
-###### Artigo 304.º — [...]
+Artigo 304.º
+
+[...]
 
 1 - ...
 
@@ -2434,7 +3032,9 @@ c) O seguro de responsabilidade civil é exigido para cada colaborador que exerc
 
 5 - Estes princípios e os deveres referidos nos artigos seguintes são aplicáveis aos titulares do órgão de administração e às pessoas que dirigem efectivamente a actividade do intermediário financeiro ou do agente vinculado e aos colaboradores do intermediário financeiro, do agente vinculado ou de entidades subcontratadas, envolvidos no exercício ou fiscalização de actividades de intermediação financeira ou de funções operacionais que sejam essenciais à prestação de serviços de forma contínua e em condições de qualidade e eficiência.
 
-###### Artigo 305.º — Requisitos gerais
+Artigo 305.º
+
+Requisitos gerais
 
 1 - O intermediário financeiro deve manter a sua organização empresarial equipada com os meios humanos, materiais e técnicos necessários para prestar os seus serviços em condições adequadas de qualidade, profissionalismo e de eficiência e por forma a evitar procedimentos errados, devendo, designadamente:
 
@@ -2462,7 +3062,9 @@ j) Adoptar uma organização contabilística que lhe permita, a todo o momento e
 
 3 - O intermediário financeiro deve acompanhar e avaliar regularmente a adequação e a eficácia dos sistemas e procedimentos, estabelecidos para efeitos do n.º 1, e tomar as medidas adequadas para corrigir eventuais deficiências.
 
-###### Artigo 306.º — Princípios gerais
+Artigo 306.º
+
+Princípios gerais
 
 1 - ...
 
@@ -2496,7 +3098,9 @@ f) Adoptar disposições organizativas para minimizar o risco de perda ou de dim
 
 10 - O intermediário financeiro comunica à CMVM, imediatamente, quaisquer factos susceptíveis de afectar a segurança dos bens pertencentes ao património dos clientes ou de gerar risco para os demais intermediários financeiros ou para o mercado.
 
-###### Artigo 307.º — Contabilidade e registos
+Artigo 307.º
+
+Contabilidade e registos
 
 1 - A contabilidade do intermediário financeiro deve reflectir diariamente, em relação a cada cliente, o saldo credor ou devedor em dinheiro e em instrumentos financeiros.
 
@@ -2520,7 +3124,9 @@ f) O saldo inicial e após cada movimento.
 
 5 - Os elementos que devem ser registados pelo intermediário financeiro após a execução ou recepção da confirmação da execução de uma ordem constam do artigo 8.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto.
 
-###### Artigo 308.º — Âmbito
+Artigo 308.º
+
+Âmbito
 
 1 - A subcontratação com terceiros de actividades de intermediação financeira ou destinada à execução de funções operacionais, que sejam essenciais à prestação de serviços de forma contínua e em condições de qualidade e eficiência, pressupõe a adopção, pelo intermediário financeiro, das medidas necessárias para evitar riscos operacionais adicionais decorrentes da mesma e só pode ser realizada se não prejudicar o controlo interno a realizar pelo intermediário financeiro nem a capacidade de a autoridade competente controlar o cumprimento por este dos deveres que lhes sejam impostos por lei ou por regulamento emanado de autoridade pública.
 
@@ -2532,7 +3138,9 @@ a) A prestação ao intermediário financeiro de serviços de consultoria ou de 
 
 b) A aquisição de serviços padronizados, nomeadamente serviços de informação sobre mercados e a disponibilização de informação relativa a preços efectivos.
 
-###### Artigo 309.º — Princípios gerais
+Artigo 309.º
+
+Princípios gerais
 
 1 - O intermediário financeiro deve organizar-se por forma a identificar possíveis conflitos de interesses e actuar de modo a evitar ou a reduzir ao mínimo o risco da sua ocorrência.
 
@@ -2542,7 +3150,9 @@ b) A aquisição de serviços padronizados, nomeadamente serviços de informaç�
 
 4 - Sempre que o intermediário financeiro realize operações para satisfazer ordens de clientes deve pôr à disposição destes os instrumentos financeiros pelo mesmo preço por que os adquiriu.
 
-###### Artigo 310.º — [...]
+Artigo 310.º
+
+[...]
 
 1 - O intermediário financeiro deve abster-se de incitar os seus clientes a efectuar operações repetidas sobre instrumentos financeiros ou de as realizar por conta deles, quando tais operações tenham como fim principal a cobrança de comissões ou outro objectivo estranho aos interesses do cliente.
 
@@ -2550,7 +3160,9 @@ b) A aquisição de serviços padronizados, nomeadamente serviços de informaç�
 
 3 - ...
 
-###### Artigo 311.º — [...]
+Artigo 311.º
+
+[...]
 
 1 -Os intermediários financeiros e os demais membros de mercado devem comportar-se com a maior probidade comercial, abstendo-se de participar em operações ou de praticar outros actos susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
 
@@ -2566,7 +3178,9 @@ d) A realização de operações de fomento não previamente comunicadas à CMVM
 
 3 - ...
 
-###### Artigo 312.º — Deveres de informação
+Artigo 312.º
+
+Deveres de informação
 
 1 - O intermediário financeiro deve prestar, relativamente aos serviços que ofereça, que lhe sejam solicitados ou que efectivamente preste, todas as informações necessárias para uma tomada de decisão esclarecida e fundamentada, incluindo nomeadamente as respeitantes:
 
@@ -2608,7 +3222,9 @@ b) O investidor tenha sido notificado, por via electrónica, do endereço do sí
 
 c) Esteja continuamente acessível, por um período razoável para que o investidor a possa consultar.
 
-###### Artigo 313.º — Proibição geral e dever de divulgação
+Artigo 313.º
+
+Proibição geral e dever de divulgação
 
 1 - O intermediário financeiro não pode, relativamente à prestação de uma actividade de intermediação financeira ao cliente, oferecer ao cliente ou a terceiros ou deles receber qualquer remuneração, comissão ou benefício não pecuniário, excepto se:
 
@@ -2630,7 +3246,9 @@ c) O pagamento de remunerações adequadas, tais como custos de custódia, comis
 
 7 - (Revogado.)
 
-###### Artigo 314.º — Princípio geral
+Artigo 314.º
+
+Princípio geral
 
 1 - O intermediário financeiro deve solicitar ao cliente informação relativa aos seus conhecimentos e experiência em matéria de investimento no que respeita ao tipo de instrumento financeiro ou ao serviço considerado, que lhe permita avaliar se o cliente compreende os riscos envolvidos.
 
@@ -2640,7 +3258,9 @@ c) O pagamento de remunerações adequadas, tais como custos de custódia, comis
 
 4 - As advertências referidas nos n.os 2 e 3 podem ser feitas de forma padronizada.
 
-###### Artigo 315.º — Informação à CMVM
+Artigo 315.º
+
+Informação à CMVM
 
 1 - Os intermediários financeiros com sede em território nacional e os intermediários financeiros com sede em outros Estados membros da União Europeia estabelecidos em Portugal através de uma sucursal, neste caso relativamente a operações realizadas a partir desta, comunicam à CMVM as operações realizadas que tenham como objecto instrumentos financeiros admitidos à negociação num mercado regulamentado situado ou a funcionar em Estado membro da União Europeia, tão rapidamente quanto possível e nunca após o dia útil seguinte ao da realização da operação.
 
@@ -2658,13 +3278,17 @@ c) O pagamento de remunerações adequadas, tais como custos de custódia, comis
 
 8 - A CMVM deve elaborar os regulamentos necessários à concretização do disposto no presente artigo.
 
-###### Artigo 316.º — Informação sobre operações realizadas fora de mercado regulamentado ou de sistema de negociação multilateral
+Artigo 316.º
+
+Informação sobre operações realizadas fora de mercado regulamentado ou de sistema de negociação multilateral
 
 1 - O disposto nos n.os 3 a 6 do artigo 221.º aplica-se aos intermediários financeiros relativamente a operações que executem, por conta própria ou em nome de clientes, fora de mercado regulamentado ou de sistema de negociação multilateral, sobre acções admitidas à negociação em mercado regulamentado.
 
 2 - (Revogado.)
 
-###### Artigo 317.º — Disposições gerais
+Artigo 317.º
+
+Disposições gerais
 
 1 - O intermediário financeiro deve estabelecer, por escrito, uma política interna que lhe permita, a todo o tempo, conhecer a natureza de cada cliente, como investidor não qualificado, qualificado ou contraparte elegível, e adoptar os procedimentos necessários à concretização da mesma.
 
@@ -2676,7 +3300,9 @@ b) Uma contraparte elegível, assim qualificada nos termos do n.º 1 do artigo 3
 
 3 - (Revogado.)
 
-###### Artigo 318.º — [...]
+Artigo 318.º
+
+[...]
 
 1 - ...
 
@@ -2704,7 +3330,9 @@ l) Termos em que os intermediários financeiros devem disponibilizar à CMVM inf
 
 2 - O Banco de Portugal deve ser ouvido na elaboração dos regulamentos a que se referem as alíneas c), f), g), i) e j) do número anterior.
 
-###### Artigo 319.º — [...]
+Artigo 319.º
+
+[...]
 
 ...
 
@@ -2712,7 +3340,9 @@ a) ...
 
 b) O exercício da actividade de agente vinculado, designadamente em relação à informação exigida ao intermediário financeiro, aos critérios de avaliação da idoneidade e da adequação da formação e da experiência profissional, ao conteúdo do contrato para o exercício da actividade e aos procedimentos relativos à recepção ou entrega de dinheiro de clientes.
 
-###### Artigo 320.º — Consultores para investimento
+Artigo 320.º
+
+Consultores para investimento
 
 A CMVM elabora os regulamentos necessários à concretização do disposto no presente título sobre o exercício da actividade dos consultores para investimento, nomeadamente quanto às seguintes matérias:
 
@@ -2722,7 +3352,9 @@ b) Organização interna;
 
 c) Periodicidade e conteúdo da informação a prestar pelos consultores para investimento à CMVM.
 
-###### Artigo 321.º — [...]
+Artigo 321.º
+
+[...]
 
 1 - Os contratos de intermediação financeira relativos aos serviços previstos nas alíneas a) a d) do n.º 1 do artigo 290.º e a) e b) do artigo 291.º e celebrados com investidores não qualificados revestem a forma escrita e só estes podem invocar a nulidade resultante da inobservância de forma.
 
@@ -2734,7 +3366,9 @@ c) Periodicidade e conteúdo da informação a prestar pelos consultores para in
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 322.º — [...]
+Artigo 322.º
+
+[...]
 
 1 - ...
 
@@ -2752,7 +3386,9 @@ c) O intermediário financeiro tenha a seu cargo o registo ou o depósito de ins
 
 5 - O consultor para investimento não pode efectuar contactos com investidores não qualificados que por estes não tenham sido solicitados.
 
-###### Artigo 323.º — Deveres de informação no âmbito da execução de ordens
+Artigo 323.º
+
+Deveres de informação no âmbito da execução de ordens
 
 1 - O intermediário financeiro que receba uma ordem de cliente deve:
 
@@ -2804,7 +3440,9 @@ p) No caso de a contraparte do cliente ser o próprio intermediário financeiro 
 
 8 - Cada nota de execução reporta-se a um único dia e é feita em duplicado, destinando-se o original ao ordenador e um duplicado, ao arquivo obrigatório do intermediário financeiro.
 
-###### Artigo 325.º — [...]
+Artigo 325.º
+
+[...]
 
 Logo que recebam uma ordem para a realização de operações sobre instrumentos financeiros, os intermediários financeiros devem:
 
@@ -2812,7 +3450,9 @@ a) ...
 
 b) ...
 
-###### Artigo 326.º — [...]
+Artigo 326.º
+
+[...]
 
 1 - ...
 
@@ -2834,7 +3474,9 @@ e) (Revogada.)
 
 5 - (Revogado.)
 
-###### Artigo 327.º — [...]
+Artigo 327.º
+
+[...]
 
 1 - As ordens podem ser dadas oralmente ou por escrito.
 
@@ -2842,7 +3484,9 @@ e) (Revogada.)
 
 3 - O intermediário financeiro pode substituir a redução a escrito das ordens pelo mapa de inserção das ofertas no sistema de negociação, desde que fique garantido o registo dos elementos mencionados no artigo 7.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto.
 
-###### Artigo 328.º — Tratamento de ordens de clientes
+Artigo 328.º
+
+Tratamento de ordens de clientes
 
 1 - ...
 
@@ -2860,13 +3504,17 @@ b) Informar imediatamente os investidores não qualificados sobre qualquer dific
 
 6 - A CMVM pode dispensar o cumprimento do dever de divulgação previsto no número anterior no caso de ordens cujo volume seja elevado relativamente ao volume normal de mercado tal como definido no artigo 20.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto.
 
-###### Artigo 329.º — [...]
+Artigo 329.º
+
+[...]
 
 1 - ...
 
 2 - A modificação de uma ordem para executar em mercado regulamentado ou sistema de negociação multilateral constitui uma nova ordem.
 
-###### Artigo 330.º — Execução nas melhores condições
+Artigo 330.º
+
+Execução nas melhores condições
 
 1 - ...
 
@@ -2896,7 +3544,9 @@ b) Sempre que ocorra uma alteração relevante, susceptível de afectar a sua ca
 
 10 - (Anterior n.º 3.)
 
-###### Artigo 331.º — Critérios da execução nas melhores condições
+Artigo 331.º
+
+Critérios da execução nas melhores condições
 
 1 - Para efeitos de determinação da importância relativa dos factores enunciados no n.º 2 do artigo anterior, o intermediário financeiro deve considerar as características:
 
@@ -2916,7 +3566,9 @@ d) Das estruturas de negociação para os quais a ordem pode ser dirigida.
 
 5 - O intermediário financeiro não pode estruturar ou alterar as suas comissões de modo a introduzir uma discriminação injustificada entre estruturas de negociação.
 
-###### Artigo 332.º — Informação a investidores não qualificados sobre a política de execução
+Artigo 332.º
+
+Informação a investidores não qualificados sobre a política de execução
 
 1 - Relativamente à sua política de execução, o intermediário financeiro deve apresentar aos clientes, que sejam investidores não qualificados, com suficiente antecedência em relação à prestação do serviço:
 
@@ -2928,7 +3580,9 @@ c) Um aviso bem visível de que quaisquer instruções específicas de um client
 
 2 - À prestação da informação prevista no número anterior é aplicável o disposto no n.º 7 do artigo 312.º
 
-###### Artigo 333.º — Transmissão para execução nas melhores condições
+Artigo 333.º
+
+Transmissão para execução nas melhores condições
 
 1 - O intermediário financeiro deve, na prestação dos serviços de gestão de carteiras ou de recepção e transmissão de ordens, tomar as medidas necessárias para obter o melhor resultado possível para os clientes, considerando os factores referidos no n.º 2 do artigo 330.º e os critérios referidos no artigo 331.º
 
@@ -2944,7 +3598,9 @@ c) Avaliar a eficácia da política adoptada nos termos da alínea a) e, em part
 
 4 - O intermediário financeiro deve avaliar a política referida na alínea a) do número anterior anualmente e sempre que ocorra qualquer alteração relevante susceptível de afectar a capacidade do intermediário financeiro de obter o melhor resultado possível.
 
-###### Artigo 334.º — Responsabilidade perante os ordenadores
+Artigo 334.º
+
+Responsabilidade perante os ordenadores
 
 1 - Os intermediários financeiros respondem perante os seus ordenadores:
 
@@ -2956,7 +3612,9 @@ c) Pela inexistência de quaisquer vícios ou situações jurídicas que onerem 
 
 2 - É nula qualquer cláusula contratual contrária ao disposto no número anterior, quando a ordem deva ser executada em mercado regulamentado ou sistema de negociação multilateral.
 
-###### Artigo 335.º — Âmbito
+Artigo 335.º
+
+Âmbito
 
 1 - Pelo contrato de gestão de uma carteira individualizada de instrumentos financeiros, o intermediário financeiro obriga-se:
 
@@ -2966,13 +3624,17 @@ b) A exercer os direitos inerentes aos instrumentos financeiros que integram a c
 
 2 - O disposto no presente título aplica-se à gestão de instrumentos financeiros, ainda que a carteira integre bens de outra natureza.
 
-###### Artigo 336.º — Ordens vinculativas
+Artigo 336.º
+
+Ordens vinculativas
 
 1 - Mesmo que tal não esteja previsto no contrato, o cliente pode dar ordens vinculativas ao gestor quanto às operações a realizar.
 
 2 - O disposto no número anterior não se aplica aos contratos que garantam uma rendibilidade mínima da carteira.
 
-###### Artigo 337.º — [...]
+Artigo 337.º
+
+[...]
 
 1 - ...
 
@@ -2986,7 +3648,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 343.º — [...]
+Artigo 343.º
+
+[...]
 
 1 - O contrato deve determinar o regime relativo ao exercício de direitos inerentes aos instrumentos financeiros registados ou depositados.
 
@@ -2996,7 +3660,9 @@ c) ...
 
 4 - (Revogado.)
 
-###### Artigo 347.º — [...]
+Artigo 347.º
+
+[...]
 
 1 - ...
 
@@ -3018,7 +3684,9 @@ Artigos 348.º
 
 4 - Devem ser previamente comunicados à CMVM os contratos a que se referem os n.os 2 e 3 ou as cláusulas contratuais desses contratos, quando existam.
 
-###### Artigo 351.º — [...]
+Artigo 351.º
+
+[...]
 
 1 - Relativamente a operações de fomento de mercado, a CMVM define, através de regulamento, a informação que lhe deva ser prestada, bem como aquela que deve ser divulgada ao mercado pelas entidades referidas no n.º 2 do artigo 348.º
 
@@ -3028,7 +3696,9 @@ Artigos 348.º
 
 4 - (Revogado.)
 
-###### Artigo 352.º — [...]
+Artigo 352.º
+
+[...]
 
 1 - ...
 
@@ -3040,7 +3710,9 @@ c) Coordenar a supervisão e a regulação relativas a instrumentos financeiros,
 
 2 - Quando no mercado de instrumentos financeiros se verifique perturbação que ponha em grave risco a economia nacional, pode o Governo, por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças, ordenar as medidas apropriadas, nomeadamente a suspensão temporária de mercados regulamentados ou sistemas de negociação multilateral, de certas categorias de operações ou da actividade de entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral, de entidades gestoras de sistemas de liquidação, de entidades gestoras de câmaras de compensação ou de contraparte central e de entidades gestoras de sistemas centralizados de valores mobiliários.
 
-###### Artigo 353.º — [...]
+Artigo 353.º
+
+[...]
 
 1 - ...
 
@@ -3058,7 +3730,9 @@ a) Adoptar os regulamentos necessários sobre prestação de informação, consu
 
 b) Estabelecer com o Instituto de Seguros de Portugal regras destinadas a articular procedimentos de supervisão e a assegurar a compatibilização de regras aplicáveis a entidades sujeitas a supervisão de ambas as autoridades.
 
-###### Artigo 355.º — [...]
+Artigo 355.º
+
+[...]
 
 1 - ...
 
@@ -3078,7 +3752,9 @@ f) ...
 
 3 - A CMVM pode ainda trocar informações com as autoridades de supervisão de Estados que não sejam membros da Comunidade Europeia e com as entidades que aí exerçam funções equivalentes às referidas no n.º 1, se, e na medida em que, for necessário para a supervisão dos mercados de instrumentos financeiros e para a supervisão, em base individual ou consolidada, de intermediários financeiros.
 
-###### Artigo 356.º — [...]
+Artigo 356.º
+
+[...]
 
 1 - ...
 
@@ -3100,7 +3776,9 @@ f) No âmbito do procedimento de mediação de conflitos previsto nos artigos 33
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 357.º — [...]
+Artigo 357.º
+
+[...]
 
 ...
 
@@ -3112,7 +3790,9 @@ c) ...
 
 d) As decisões de registo, se o registo for público.
 
-###### Artigo 358.º — [...]
+Artigo 358.º
+
+[...]
 
 ...
 
@@ -3128,7 +3808,9 @@ e) ...
 
 f) ...
 
-###### Artigo 359.º — [...]
+Artigo 359.º
+
+[...]
 
 1 - No âmbito das actividades relativas a instrumentos financeiros, estão sujeitas à supervisão da CMVM, sem prejuízo das competências atribuídas a outras autoridades, as seguintes entidades:
 
@@ -3156,7 +3838,9 @@ j) Outras pessoas que exerçam, a título principal ou acessório, actividades r
 
 3 - ...
 
-###### Artigo 360.º — [...]
+Artigo 360.º
+
+[...]
 
 1 - ...
 
@@ -3182,7 +3866,9 @@ i) ...
 
 3 - ...
 
-###### Artigo 361.º — [...]
+Artigo 361.º
+
+[...]
 
 1 - ...
 
@@ -3206,7 +3892,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 363.º — [...]
+Artigo 363.º
+
+[...]
 
 1 - ...
 
@@ -3226,7 +3914,9 @@ c) Controlo da idoneidade dos titulares dos órgãos de gestão, das pessoas que
 
 3 - ...
 
-###### Artigo 364.º — [...]
+Artigo 364.º
+
+[...]
 
 1 - ...
 
@@ -3238,7 +3928,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 366.º — Supervisão relativa a publicidade e cláusulas contratuais gerais
+Artigo 366.º
+
+Supervisão relativa a publicidade e cláusulas contratuais gerais
 
 1 - Compete à CMVM fiscalizar a aplicação da legislação sobre publicidade e cláusulas contratuais gerais relativamente às matérias reguladas no presente Código, instruindo os processos de contra-ordenação e aplicando as respectivas sanções.
 
@@ -3248,7 +3940,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 369.º — [...]
+Artigo 369.º
+
+[...]
 
 1 - ...
 
@@ -3260,13 +3954,17 @@ c) ...
 
 5 - ...
 
-###### Artigo 372.º — [...]
+Artigo 372.º
+
+[...]
 
 1 - Nos limites da lei e dos regulamentos, as entidades gestoras dos mercados regulamentados, dos sistemas de negociação multilateral, dos sistemas de liquidação, de contraparte central ou de compensação e dos sistemas centralizados de valores mobiliários podem regular autonomamente as actividades por si geridas.
 
 2 - As regras estabelecidas nos termos do número anterior que não sejam sujeitas a registo, assim como aquelas que constam de códigos deontológicos aprovados por entidades gestoras e por associações profissionais de intermediários financeiros, devem ser comunicadas à CMVM.
 
-###### Artigo 376.º — [...]
+Artigo 376.º
+
+[...]
 
 1 - No exercício das suas atribuições, a CMVM coopera com as instituições congéneres ou equiparadas de outros Estados.
 
@@ -3286,7 +3984,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 377.º — [...]
+Artigo 377.º
+
+[...]
 
 1 - Sem prejuízo da aplicação do disposto no artigo anterior, a CMVM coopera ainda com as instituições congéneres dos Estados membros da União Europeia e presta-lhes assistência para o efeito do exercício das respectivas funções de supervisão e investigação.
 
@@ -3308,7 +4008,9 @@ d) ...
 
 10 - ...
 
-###### Artigo 377.º-A — [...]
+Artigo 377.º-A
+
+[...]
 
 1 - Quando a CMVM verificar que os deveres relativos à comunicação e à divulgação de participações qualificadas, à elaboração de um prospecto de oferta pública ou de admissão, à divulgação de informação periódica e à actuação de um mercado regulamentado ou de um sistema de negociação multilateral foram violados dá conhecimento dos referidos factos à autoridade do Estado membro de origem do emitente ou, no caso de infracção cometida por mercado regulamentado ou sistema de negociação multilateral, à autoridade do Estado que lhe tenha concedido autorização.
 
@@ -3318,7 +4020,9 @@ d) ...
 
 4 - As providências tomadas pela CMVM ao abrigo dos n.º 2 são comunicadas à Comissão Europeia com a brevidade possível.
 
-###### Artigo 388.º — [...]
+Artigo 388.º
+
+[...]
 
 1 - ...
 
@@ -3334,7 +4038,9 @@ b) Entidades gestoras de mercados regulamentados, de sistemas de negociação mu
 
 5 - ...
 
-###### Artigo 389.º — [...]
+Artigo 389.º
+
+[...]
 
 1 - Constitui contra-ordenação muito grave:
 
@@ -3360,7 +4066,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 390.º — [...]
+Artigo 390.º
+
+[...]
 
 1 - Constitui contra-ordenação muito grave a omissão de comunicação ou divulgação de participação qualificada em sociedade aberta.
 
@@ -3392,7 +4100,9 @@ h) [Anterior alínea f).]
 
 i) [Anterior alínea g).]
 
-###### Artigo 392.º — [...]
+Artigo 392.º
+
+[...]
 
 1 - ...
 
@@ -3404,7 +4114,9 @@ i) [Anterior alínea g).]
 
 5 - Constituem contra-ordenação menos grave os factos referidos nos número anteriores quando relativos a valores mobiliários emitidos por sociedades fechadas ou não admitidos à negociação em mercado regulamentado.
 
-###### Artigo 394.º — Formas organizadas de negociação
+Artigo 394.º
+
+Formas organizadas de negociação
 
 1 - ...
 
@@ -3450,7 +4162,9 @@ a) De representante para as relações com o mercado e com a CMVM, por entidade 
 
 b) ...
 
-###### Artigo 395.º — [...]
+Artigo 395.º
+
+[...]
 
 1 - ...
 
@@ -3472,7 +4186,9 @@ d) A violação do dever de comunicação à CMVM de operações sobre instrumen
 
 3 - (Revogado.)
 
-###### Artigo 396.º — Contraparte central e sistemas de liquidação
+Artigo 396.º
+
+Contraparte central e sistemas de liquidação
 
 1 - Constitui contra-ordenação muito grave:
 
@@ -3494,7 +4210,9 @@ b) De fiscalizar os requisitos de acesso dos membros compensadores;
 
 c) De adoptar uma estrutura de contas que assegure a segregação patrimonial entre os valores próprios dos membros compensadores e os pertencentes aos clientes dos últimos.
 
-###### Artigo 397.º — [...]
+Artigo 397.º
+
+[...]
 
 1 - ...
 
@@ -3572,7 +4290,9 @@ c) Identificar, a pedido da CMVM, as acções detidas no âmbito da actividade d
 
 d) Apresentar à CMVM, a pedido desta, o contrato de criação de mercado quando exigível.
 
-###### Artigo 16.º-B — Participação qualificada não transparente
+Artigo 16.º-B
+
+Participação qualificada não transparente
 
 1 - Na ausência da comunicação prevista no artigo 16.º, se esta não respeitar o disposto no n.º 4 do referido artigo ou se, em qualquer caso, existirem fundadas dúvidas sobre a identidade das pessoas a quem possam ser imputados os direitos de voto respeitantes a uma participação qualificada, nos termos do n.º 1 do artigo 20.º, ou sobre o cumprimento cabal dos deveres de comunicação, a CMVM notifica deste facto os interessados, os órgãos de administração e fiscalização e o presidente da mesa da assembleia geral da sociedade aberta em causa.
 
@@ -3586,7 +4306,9 @@ d) Apresentar à CMVM, a pedido desta, o contrato de criação de mercado quando
 
 6 - Antes de tomar as medidas estabelecidas nos n.os 1, 3 e 4, a CMVM dá conhecimento das mesmas ao Banco de Portugal e ao Instituto de Seguros de Portugal sempre que nelas estejam envolvidas entidades sujeitas à respectiva supervisão.
 
-###### Artigo 21.º-A — Equivalência
+Artigo 21.º-A
+
+Equivalência
 
 1 - Relativamente a emitentes com sede estatutária fora da União Europeia não são aplicáveis os deveres previstos:
 
@@ -3602,13 +4324,17 @@ b) Declarar, em relação a cada uma das entidades referidas na alínea b) do n�
 
 c) Demonstrar, a pedido da CMVM, que cumpre os requisitos estabelecidos na alínea c) do n.º 2 e no n.º 3 do artigo 20.º-A.
 
-###### Artigo 211.º — Fiscalização de operações
+Artigo 211.º
+
+Fiscalização de operações
 
 1 - A entidade gestora deve adoptar mecanismos e procedimentos eficazes para fiscalizar o cumprimento, pelos respectivos membros, das regras daqueles sistemas e para o controlo das operações efectuadas nos mesmos, por forma a identificar violações a essas regras, condições anormais de negociação ou comportamentos susceptíveis de pôr em risco a regularidade de funcionamento, a transparência e a credibilidade do mercado.
 
 2 - A entidade gestora deve comunicar imediatamente à CMVM a ocorrência de alguma das situações referidas no número anterior, fornecendo todas as informações relevantes para a respectiva investigação, bem como as situações de incumprimento relevante de regras relativas ao funcionamento do mercado ou sistema.
 
-###### Artigo 213.º — Suspensão e exclusão da negociação em mercado regulamentado
+Artigo 213.º
+
+Suspensão e exclusão da negociação em mercado regulamentado
 
 1 - A entidade gestora de mercado regulamentado pode, a menos que tal medida seja susceptível de causar prejuízos significativos aos interesses dos investidores e ao funcionamento regular do mercado, suspender ou excluir instrumentos financeiros da negociação.
 
@@ -3638,7 +4364,9 @@ a) A decisão de suspensão da negociação deve ser imediatamente comunicada à
 
 b) A decisão de exclusão é precedida de comunicação à CMVM, que informa o Banco de Portugal se as operações se incluírem nas referidas na alínea b) do n.º 2 do artigo 207.º
 
-###### Artigo 244.º-A — Escolha da autoridade competente
+Artigo 244.º-A
+
+Escolha da autoridade competente
 
 1 - Para os efeitos referidos nas alíneas c) e d) do n.º 1 do artigo anterior, a competência da CMVM resulta, respectivamente:
 
@@ -3650,7 +4378,9 @@ b) Da escolha de Portugal como Estado competente de entre aquele em que o emiten
 
 3 - A escolha feita por força do número anterior deve ser divulgada nos termos previstos no n.º 3 do artigo 244.º
 
-###### Artigo 246.º-A — Informação trimestral e informação intercalar da administração
+Artigo 246.º-A
+
+Informação trimestral e informação intercalar da administração
 
 1 - Estão obrigados à prestação de informação trimestral os emitentes, sujeitos a lei pessoal portuguesa, de acções admitidas à negociação em mercado regulamentado que, durante dois anos consecutivos, ultrapassem dois dos seguintes limites:
 
@@ -3670,7 +4400,9 @@ b) Uma descrição geral da posição financeira e do desempenho do emitente e d
 
 4 - A divulgação de informação trimestral substitui o dever de divulgação de informação intercalar da administração.
 
-###### Artigo 250.º-A — Âmbito
+Artigo 250.º-A
+
+Âmbito
 
 1 - O disposto nos artigos 245.º, 246.º e 246.º-A não se aplica a:
 
@@ -3682,7 +4414,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 3 - A presente subsecção não é aplicável a valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.
 
-###### Artigo 250.º-B — Equivalência
+Artigo 250.º-B
+
+Equivalência
 
 1 - Sem prejuízo do dever de envio à CMVM e do disposto nos n.os 3 e 4 do artigo 244.º, os emitentes com sede estatutária fora da União Europeia estão dispensados do cumprimento dos deveres de prestação de informação previstos:
 
@@ -3710,7 +4444,9 @@ i) No n.º 3 do artigo 249.º, se a lei aplicável obrigar o emitente a divulgar
 
 4 - Para efeitos da alínea d) do n.º 1, as contas individuais devem ser objecto de auditoria e se não forem elaboradas de acordo com as normas aí referidas, são apresentadas sob a forma de informação financeira reformulada.
 
-###### Artigo 294.º-A — Actividade do agente vinculado e respectivos limites
+Artigo 294.º-A
+
+Actividade do agente vinculado e respectivos limites
 
 1 - O intermediário financeiro pode ser representado por agente vinculado na prestação dos seguintes serviços:
 
@@ -3744,7 +4480,9 @@ a) Proceder à sua identificação perante aqueles, bem como à do intermediári
 
 b) Entregar documento escrito contendo informação completa, designadamente sobre os limites a que está sujeito no exercício da sua actividade.
 
-###### Artigo 294.º-B — Exercício da actividade
+Artigo 294.º-B
+
+Exercício da actividade
 
 1 - O exercício da actividade do agente vinculado depende de contrato escrito, celebrado entre aquele e o intermediário financeiro, que estabeleça expressamente as funções que lhe são atribuídas, designadamente as previstas na alínea b) do n.º 1 do artigo anterior.
 
@@ -3768,7 +4506,9 @@ b) A adequação da formação e da experiência profissional é aferida relativ
 
 7 - A cessação do contrato estabelecido entre o intermediário financeiro e o agente vinculado deve ser comunicada à CMVM no prazo de cinco dias.
 
-###### Artigo 294.º-C — Responsabilidade e deveres do intermediário financeiro
+Artigo 294.º-C
+
+Responsabilidade e deveres do intermediário financeiro
 
 1 - O intermediário financeiro:
 
@@ -3784,21 +4524,29 @@ a) Os procedimentos adoptados para garantir a observância das normas aplicávei
 
 b) A informação escrita a prestar aos investidores sobre as condições de recepção de ordens pelos agentes vinculados.
 
-###### Artigo 294.º-D — Agentes vinculados não estabelecidos em Portugal
+Artigo 294.º-D
+
+Agentes vinculados não estabelecidos em Portugal
 
 O disposto nos artigos 294.º-A a 294.º-C é aplicável às pessoas estabelecidas em Estado membro da União Europeia que não permita a nomeação de agentes vinculados e que pretendam exercer, nesse Estado membro, a actividade de agente vinculado em nome e por conta de intermediário financeiro com sede em Portugal.
 
-###### Artigo 304.º-A — Responsabilidade civil
+Artigo 304.º-A
+
+Responsabilidade civil
 
 1 - Os intermediários financeiros são obrigados a indemnizar os danos causados a qualquer pessoa em consequência da violação dos deveres respeitantes à organização e ao exercício da sua actividade, que lhes sejam impostos por lei ou por regulamento emanado de autoridade pública.
 
 2 - A culpa do intermediário financeiro presume-se quando o dano seja causado no âmbito de relações contratuais ou pré-contratuais e, em qualquer caso, quando seja originado pela violação de deveres de informação.
 
-###### Artigo 304.º-B — Códigos deontológicos
+Artigo 304.º-B
+
+Códigos deontológicos
 
 Os códigos de conduta que venham a ser aprovados pelas associações profissionais de intermediários financeiros devem ser comunicados à CMVM no prazo de 15 dias.
 
-###### Artigo 304.º-C — Dever de comunicação pelos auditores
+Artigo 304.º-C
+
+Dever de comunicação pelos auditores
 
 1 - Os auditores que prestem serviço a intermediário financeiro ou a empresa que com ele esteja em relação de domínio ou de grupo ou que nele detenha, directa ou indirectamente, pelo menos 20 % dos direitos de voto ou do capital social, devem comunicar imediatamente à CMVM os factos respeitantes a esse intermediário financeiro ou a essa empresa de que tenham conhecimento no exercício das suas funções, quando tais factos sejam susceptíveis de:
 
@@ -3814,7 +4562,9 @@ c) Justificar a recusa da certificação das contas ou a emissão de reservas.
 
 4 - Os auditores referidos no n.º 1 devem apresentar, anualmente, à CMVM um relatório que ateste o carácter adequado dos procedimentos e medidas, adoptados pelo intermediário financeiro por força das disposições da subsecção iii da presente secção.
 
-###### Artigo 305.º-A — Sistema de controlo do cumprimento
+Artigo 305.º-A
+
+Sistema de controlo do cumprimento
 
 1 - O intermediário financeiro deve adoptar políticas e procedimentos adequados a detectar qualquer risco de incumprimento dos deveres a que se encontra sujeito, aplicando medidas para os minimizar ou corrigir, evitando ocorrências futuras, e que permitam às autoridades competentes exercer as suas funções.
 
@@ -3844,7 +4594,9 @@ d) Assegurar que o método de determinação da remuneração das as pessoas ref
 
 4 - Os deveres previstos nas alíneas c) e d) do número anterior não são exigíveis se o intermediário financeiro demonstrar que o seu cumprimento não é necessário para garantir a adequação e a independência deste sistema, tendo em conta a natureza, a dimensão e a complexidade das actividades do intermediário financeiro, bem como o tipo de actividades de intermediação financeira prestadas.
 
-###### Artigo 305.º-B — Gestão de riscos
+Artigo 305.º-B
+
+Gestão de riscos
 
 1 - O intermediário financeiro deve adoptar políticas e procedimentos para identificar e gerir os riscos relacionados com as suas actividades, procedimentos e sistemas, considerando o nível de risco tolerado.
 
@@ -3860,7 +4612,9 @@ b) Prestar aconselhamento ao órgão de administração e elaborar e apresentar 
 
 5 - O intermediário financeiro que, em função dos critérios previstos no número anterior, não adopte um serviço de gestão de riscos independente deve garantir que as políticas e os procedimentos adoptados satisfazem os requisitos constantes dos n.os 1 e 2.
 
-###### Artigo 305.º-C — Auditoria interna
+Artigo 305.º-C
+
+Auditoria interna
 
 1 - O intermediário financeiro deve estabelecer um serviço de auditoria interna, que actue com independência, responsável por:
 
@@ -3872,13 +4626,17 @@ c) Elaborar e apresentar ao órgão de administração e ao órgão de fiscaliza
 
 2 - O dever previsto no número anterior é aplicável sempre que adequado e proporcional, tendo em conta a natureza, a dimensão e a complexidade das actividades, bem como o tipo de actividades de intermediação financeira prestadas.
 
-###### Artigo 305.º-D — Responsabilidades dos titulares do órgão de administração
+Artigo 305.º-D
+
+Responsabilidades dos titulares do órgão de administração
 
 1 - Sem prejuízo das funções do órgão de fiscalização, os titulares do órgão de administração do intermediário financeiro são responsáveis por garantir o cumprimento dos deveres previstos no presente Código.
 
 2 - Os titulares do órgão de administração devem avaliar periodicamente a eficácia das políticas, procedimentos e normas internas adoptados para cumprimento dos deveres referidos nos artigos 305.º-A a 305.º-C e tomar as medidas adequadas para corrigir eventuais deficiências detectadas e prevenir a sua ocorrência futura.
 
-###### Artigo 305.º-E — Reclamações de investidores
+Artigo 305.º-E
+
+Reclamações de investidores
 
 1 - O intermediário financeiro deve manter um procedimento eficaz e transparente para o tratamento adequado e rápido de reclamações recebidas de investidores não qualificados, que preveja, pelo menos:
 
@@ -3898,7 +4656,9 @@ c) A identificação do colaborador que praticou o acto reclamado;
 
 d) A apreciação efectuada pelo intermediário financeiro, as medidas tomadas para resolver a questão e a data da sua comunicação ao reclamante.
 
-###### Artigo 306.º-A — Registo e depósito de instrumentos financeiros de clientes
+Artigo 306.º-A
+
+Registo e depósito de instrumentos financeiros de clientes
 
 1 - O intermediário financeiro que pretenda registar ou depositar instrumentos financeiros de clientes, numa ou mais contas abertas junto de um terceiro deve:
 
@@ -3914,7 +4674,9 @@ a) A natureza dos instrumentos financeiros ou dos serviços de investimento asso
 
 b) Os instrumentos financeiros devam ser registados ou depositados por conta de um investidor qualificado que o tenha requerido por escrito.
 
-###### Artigo 306.º-B — Utilização de instrumentos financeiros de clientes
+Artigo 306.º-B
+
+Utilização de instrumentos financeiros de clientes
 
 1 - Caso pretenda dispor de instrumentos financeiros registados ou depositados em nome de um cliente, o intermediário financeiro deve solicitar autorização prévia e expressa daquele, comprovada, no caso de investidor não qualificado, pela sua assinatura ou por um mecanismo alternativo equivalente.
 
@@ -3926,7 +4688,9 @@ b) Dispor de sistemas e controlos que assegurem que apenas são utilizados os in
 
 3 - Os registos do intermediário financeiro devem incluir informação sobre o cliente que autorizou a utilização dos instrumentos financeiros, as condições dessa utilização e a quantidade de instrumentos financeiros utilizados de cada cliente, de modo a permitir a atribuição de eventuais perdas.
 
-###### Artigo 306.º-C — Depósito de dinheiro de clientes
+Artigo 306.º-C
+
+Depósito de dinheiro de clientes
 
 1 - O dinheiro entregue pelos clientes a empresas de investimento é imediatamente:
 
@@ -3970,7 +4734,9 @@ a) Emitir notações de risco relativas a fundos do mercado monetário numa base
 
 b) For uma sociedade de notação de risco elegível na acepção do n.º 1 do artigo 81.º da Directiva n.º [2006/48/CE](https://data.europa.eu/eli/dir/2006/48/oj?locale=pt) do Parlamento Europeu e do Conselho, de 14 de Junho de 2006, relativa ao acesso à actividade das instituições de crédito e ao seu exercício.
 
-###### Artigo 306.º-D — Movimentação de contas
+Artigo 306.º-D
+
+Movimentação de contas
 
 1 - O intermediário financeiro deve disponibilizar aos clientes os instrumentos financeiros ou o dinheiro devidos por quaisquer operações relativas a instrumentos financeiros, incluindo a percepção de juros, dividendos e outros rendimentos:
 
@@ -3986,11 +4752,15 @@ b) Pagamento de comissões ou outros custos pelos clientes; ou
 
 c) Transferência ordenada pelos clientes.
 
-###### Artigo 307.º-A — Registo do cliente
+Artigo 307.º-A
+
+Registo do cliente
 
 O intermediário financeiro deve manter um registo do cliente, contendo, designadamente, informação actualizada relativa aos direitos e às obrigações de ambas as partes em contratos de intermediação financeira, o qual assenta nos respectivos documentos de suporte.
 
-###### Artigo 307.º-B — Prazo e suporte de conservação
+Artigo 307.º-B
+
+Prazo e suporte de conservação
 
 1 - Sem prejuízo de exigências legais ou regulamentares mais rigorosas, os intermediários financeiros conservam em arquivo os documentos e registos relativos a:
 
@@ -4010,7 +4780,9 @@ c) Não seja possível manipular ou alterar, por qualquer forma, os registos.
 
 4 - O intermediário financeiro deve fixar as ordens transmitidas telefonicamente em suporte fonográfico, devendo informar previamente o cliente desse registo.
 
-###### Artigo 308.º-A — Princípios aplicáveis à subcontratação
+Artigo 308.º-A
+
+Princípios aplicáveis à subcontratação
 
 1 - A subcontratação obedece aos seguintes princípios:
 
@@ -4030,7 +4802,9 @@ a) Defina a política de gestão e tome as principais decisões, se os serviços
 
 b) Mantenha o exclusivo das relações com o cliente, aí incluídos os pagamentos que devam ser feito pelo ou ao cliente.
 
-###### Artigo 308.º-B — Requisitos da subcontratação
+Artigo 308.º-B
+
+Requisitos da subcontratação
 
 1 - O intermediário financeiro subcontratante deve observar deveres de cuidado e empregar elevados padrões de diligência profissional na conclusão, na gestão ou na cessação de qualquer subcontrato.
 
@@ -4072,7 +4846,9 @@ e) Incluir nos seus relatórios anuais os elementos essenciais das actividades o
 
 7 - O subcontrato deve ser enviado à CMVM no prazo de cinco dias, a contar da respectiva celebração.
 
-###### Artigo 308.º-C — Subcontratação de serviços de gestão de carteiras em entidades localizadas em países terceiros
+Artigo 308.º-C
+
+Subcontratação de serviços de gestão de carteiras em entidades localizadas em países terceiros
 
 1 - Além do cumprimento dos requisitos previstos nos artigos 308.º-A e 308.º-B, um intermediário financeiro pode subcontratar o serviço de gestão de carteiras de investidores não qualificados a entidade localizada num país não pertencente à União Europeia, desde que:
 
@@ -4088,7 +4864,9 @@ a) A lista das autoridades de supervisão dos países não pertencente à União
 
 b) Uma declaração de princípios que inclua exemplos de situações em que, ainda que não se verificasse uma das condições previstas no n.º 1, a CMVM não levantaria objecções à subcontratação, incluindo uma explicação clara sobre as razões pelas quais, nesses casos, a esta não colocaria em risco o cumprimento das requisitos previstos nos artigos 308.º-A e 308.º-B.
 
-###### Artigo 309.º-A — Política em matéria de conflitos de interesses
+Artigo 309.º-A
+
+Política em matéria de conflitos de interesses
 
 1 - O intermediário financeiro deve adoptar uma política em matéria de conflitos de interesses, reduzida a escrito, e adequada às suas dimensão e organização e à natureza, à dimensão e à complexidade das suas actividades.
 
@@ -4116,7 +4894,9 @@ e) A adopção de medidas destinadas a impedir ou controlar o envolvimento simul
 
 6 - Caso a adopção de algum dos procedimentos e medidas previstos no número anterior não assegure o nível requerido de independência, a CMVM pode exigir que o intermediário financeiro adopte as medidas alternativas ou adicionais que se revelem necessárias e adequadas para o efeito.
 
-###### Artigo 309.º-B — Conflitos de interesses potencialmente prejudiciais para um cliente
+Artigo 309.º-B
+
+Conflitos de interesses potencialmente prejudiciais para um cliente
 
 A identificação dos conflitos de interesses, designadamente para efeitos da política em matéria de conflitos de interesses, deve contemplar obrigatoriamente as situações em que, em resultado da prestação de actividades de intermediação financeira ou por outra circunstância, o intermediário financeiro, uma pessoa em relação de domínio com este ou uma pessoa referida no n.º 5 do artigo 304.º:
 
@@ -4130,13 +4910,17 @@ d) Desenvolva as mesmas actividades que o cliente;
 
 e) Receba ou venha a receber, de uma pessoa que não o cliente, um benefício relativo a um serviço prestado ao cliente, sob forma de dinheiro, bens ou serviços, que não a comissão ou os honorários normais desse serviço.
 
-###### Artigo 309.º-C — Registo de actividades que originam conflitos de interesses
+Artigo 309.º-C
+
+Registo de actividades que originam conflitos de interesses
 
 1 - O intermediário financeiro deve manter e actualizar regularmente registos de todos os tipos de actividades de intermediação financeira, realizadas directamente por si ou em seu nome, que originaram um conflito de interesses com risco relevante de afectação dos interesses de um ou mais clientes ou, no caso de actividades em curso, susceptíveis de o originar.
 
 2 - Quando preste serviços relacionados com ofertas públicas ou outros de que resulte o conhecimento de informação privilegiada, o intermediário deve elaborar listas das pessoas que tiveram acesso à informação.
 
-###### Artigo 309.º-D — Recomendações de investimento
+Artigo 309.º-D
+
+Recomendações de investimento
 
 1 - O intermediário financeiro que, fora do âmbito do exercício da actividade de consultoria para investimento, elabora recomendações de investimento, tal como definidas no artigo 12.º-A, destinadas ou susceptíveis de serem divulgadas, sob a sua responsabilidade ou de sociedade pertencente ao mesmo grupo, como recomendações de investimento aos seus clientes ou ao público, deve cumprir o disposto no n.º 5 do artigo 309.º-A relativamente às pessoas envolvidas na elaboração das recomendações.
 
@@ -4158,7 +4942,9 @@ b) Prometer uma avaliação favorável aos emitentes a que a recomendação se r
 
 8 - O intermediário financeiro pode divulgar, junto do público ou de clientes, recomendações de investimento elaboradas por terceiros desde que, para além do cumprimento do disposto no artigo 12.º-D, verifique que quem as elabora está sujeito a requisitos equivalentes aos previstos no presente Código relativamente à elaboração de recomendações ou estabeleceu uma política interna que os prevê.
 
-###### Artigo 309.º-E — Operações realizadas por pessoas relevantes
+Artigo 309.º-E
+
+Operações realizadas por pessoas relevantes
 
 1 - O intermediário financeiro deve adoptar procedimentos destinados a evitar que qualquer pessoa referida no n.º 5 do artigo 304.º envolvida em actividades susceptíveis de originar um conflito de interesses ou que tenha acesso a informação privilegiada ou a outras informações confidenciais realize uma operação pessoal ou aconselhe ou solicite a outrem a realização de uma operação em instrumentos financeiros:
 
@@ -4176,7 +4962,9 @@ b) O intermediário financeiro seja imediatamente informado de todas as operaç�
 
 c) Seja mantido um registo de cada operação pessoal, incluindo indicação de qualquer autorização ou proibição relativa à mesma.
 
-###### Artigo 309.º-F — Operação pessoal
+Artigo 309.º-F
+
+Operação pessoal
 
 Para efeitos dos artigos 309.º-D e 309.º-E, entende-se por operação pessoal, uma operação sobre um instrumento financeiro concluída por uma pessoa referida no n.º 5 do artigo 304.º ou em seu nome, desde que:
 
@@ -4194,7 +4982,9 @@ iv) De sociedade em relação de grupo com sociedade dominada pela pessoa referi
 
 v) De pessoa cuja relação com a pessoa referida no n.º 5 do artigo 304.º seja tal que esta tenha um interesse material, directo ou indirecto, no resultado da operação, além da remuneração ou comissão cobrada pela execução da mesma.
 
-###### Artigo 312.º-A — Qualidade da informação
+Artigo 312.º-A
+
+Qualidade da informação
 
 1 - A informação divulgada pelo intermediário financeiro a investidores não qualificados deve:
 
@@ -4244,7 +5034,9 @@ d) Deve conter um aviso bem visível de que não constitui um indicador confiáv
 
 7 - É proibida a referência a qualquer autoridade competente de modo que sugira qualquer apoio ou aprovação por parte desta aos instrumentos financeiros ou serviços do intermediário financeiro.
 
-###### Artigo 312.º-B — Momento da prestação de informação
+Artigo 312.º-B
+
+Momento da prestação de informação
 
 1 - O intermediário financeiro deve prestar a investidor não qualificado, com antecedência suficiente à vinculação a qualquer contrato de intermediação financeira ou, na pendência de uma relação de clientela, antes da prestação da actividade de intermediação financeira proposta ou solicitada, a seguinte informação:
 
@@ -4262,7 +5054,9 @@ b) Prestar a informação prevista no artigo 15.º do Decreto-Lei n.º 95/2006, 
 
 4 - O intermediário financeiro notifica o cliente, independentemente da natureza deste, com antecedência suficiente, de qualquer alteração significativa na informação prestada ao abrigo dos artigos 312.º-C a 312.º-G, através do mesmo suporte com que foi prestada inicialmente.
 
-###### Artigo 312.º-C — Informação relativa ao intermediário financeiro e aos serviços por si prestados
+Artigo 312.º-C
+
+Informação relativa ao intermediário financeiro e aos serviços por si prestados
 
 1 - O intermediário financeiro deve prestar a seguinte informação a investidores não qualificados:
 
@@ -4288,7 +5082,9 @@ j) A natureza, os riscos gerais e específicos, designadamente de liquidez, de c
 
 2 - Quando o cliente seja um investidor qualificado, o disposto no número anterior apenas se aplica se este solicitar expressamente as informações nele referidas, devendo o intermediário financeiro informar expressamente o cliente desse direito.
 
-###### Artigo 312.º-D — Informação adicional relativa à gestão de carteiras
+Artigo 312.º-D
+
+Informação adicional relativa à gestão de carteiras
 
 1 - Além da informação exigida no artigo anterior, o intermediário financeiro que ofereça ou efectivamente preste o serviço de gestão de carteiras a um investidor não qualificado, deve informá-lo sobre:
 
@@ -4304,7 +5100,9 @@ e) Os objectivos de gestão, o nível de risco reflectido no exercício de discr
 
 2 - Para permitir a avaliação pelo cliente do desempenho da carteira, o intermediário financeiro deve estabelecer um método adequado de avaliação, designadamente através da fixação de um valor de referência, baseando-se nos objectivos de investimento do cliente e nos tipos de instrumentos financeiros incluídos na carteira.
 
-###### Artigo 312.º-E — Informação relativa aos instrumentos financeiros
+Artigo 312.º-E
+
+Informação relativa aos instrumentos financeiros
 
 1 - O intermediário financeiro deve informar os investidores da natureza e dos riscos dos instrumentos financeiros, explicitando, com um grau suficiente de pormenorização, a natureza e os riscos do tipo de instrumento financeiro em causa.
 
@@ -4326,7 +5124,9 @@ d) Quaisquer requisitos em matéria de margens ou obrigações análogas, aplic�
 
 6 - Um prospecto simplificado relativo a unidades de participação num organismo de investimento colectivo harmonizado e que respeite o artigo 28.º da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), do Conselho, de 20 de Dezembro, é considerado adequado para efeitos do disposto na alínea d) do n.º 1 do artigo 312.º
 
-###### Artigo 312.º-F — Informação relativa à protecção do património de clientes
+Artigo 312.º-F
+
+Informação relativa à protecção do património de clientes
 
 1 - O intermediário financeiro, sempre que detenha, ou possa vir a deter, instrumentos financeiros ou dinheiro que pertençam a investidores não qualificados, deve informá-los sobre:
 
@@ -4344,7 +5144,9 @@ e) A existência e o conteúdo de direitos decorrentes de garantias que um terce
 
 3 - Um intermediário financeiro, antes de concluir operações de financiamento de instrumentos financeiros, tal como definidas no artigo 2.º do Regulamento (CE) n.º [1287/2006](https://data.europa.eu/eli/reg/2006/1287/oj?locale=pt), da Comissão, de 10 de Agosto, relativamente a instrumentos financeiros pertencentes a um investidor não qualificado ou de os utilizar a outro título, por sua conta ou por conta de outrem, deve informar o cliente, por escrito, com suficiente antecedência em relação à utilização desses instrumentos financeiros, sobre as obrigações e as responsabilidades que sobre si recaem pelo facto de utilizar esses instrumentos financeiros, as condições da sua restituição e os riscos envolvidos por tal utilização.
 
-###### Artigo 312.º-G — Informação sobre custos
+Artigo 312.º-G
+
+Informação sobre custos
 
 1 - O intermediário financeiro deve prestar a investidores não qualificados, informação relativa ao custo dos serviços, incluindo, sempre que relevante:
 
@@ -4360,7 +5162,9 @@ d) Modalidades de pagamento ou outras eventuais formalidades.
 
 3 - Um prospecto simplificado relativo a unidades de participação num organismo de investimento colectivo harmonizado e que respeite o artigo 28.º da Directiva n.º [85/611/CEE](https://data.europa.eu/eli/dir/1985/611/oj?locale=pt), do Conselho, de 20 de Dezembro, é considerado adequado para os efeitos do disposto na alínea h) do n.º 1 do artigo 312.º, no que respeita aos custos relacionados com o organismo de investimento colectivo, incluindo as comissões de subscrição e de resgate.
 
-###### Artigo 314.º-A — Gestão de carteiras e consultoria para investimento
+Artigo 314.º-A
+
+Gestão de carteiras e consultoria para investimento
 
 1 - No âmbito da prestação dos serviços de gestão de carteiras ou de consultoria para investimento, o intermediário financeiro deve obter do investidor, além da informação referida no n.º 1 do artigo anterior, informação relativa à sua situação financeira e aos seus objectivos de investimento.
 
@@ -4378,7 +5182,9 @@ c) A natureza do cliente assegura que este dispõe da experiência e dos conheci
 
 5 - O disposto no número anterior não se aplica a clientes cujo tratamento como investidores qualificados resulte de um seu pedido.
 
-###### Artigo 314.º-B — Conteúdo da informação necessária
+Artigo 314.º-B
+
+Conteúdo da informação necessária
 
 1 - A informação relativa ao conhecimento e à experiência de um cliente deve incluir:
 
@@ -4396,7 +5202,9 @@ c) O nível de habilitações, a profissão ou a anterior profissão relevante d
 
 5 - A informação relativa aos objectivos de investimento do cliente inclui, sempre que for relevante, o período durante o qual aquele pretende deter o investimento, as suas preferências relativamente à assunção de risco, o seu perfil de risco e os seus objectivos de investimento.
 
-###### Artigo 314.º-C — Prestação de informação
+Artigo 314.º-C
+
+Prestação de informação
 
 1 - O intermediário financeiro não pode incentivar um cliente a não prestar a informação requerida no artigo anterior.
 
@@ -4410,7 +5218,9 @@ b) Nas recomendações relativas ao serviço ou operação que tenham sido trans
 
 4 - O intermediário financeiro que transmita instruções a outro intermediário financeiro deve assegurar a suficiência e a veracidade da informação transmitida sobre o cliente e a adequação das recomendações ou dos conselhos relativos ao serviço ou operação que tenham sido por si prestados a este.
 
-###### Artigo 314.º-D — Recepção e transmissão ou execução de ordens
+Artigo 314.º-D
+
+Recepção e transmissão ou execução de ordens
 
 1 - Na prestação exclusiva dos serviços de recepção e transmissão ou execução de ordens do cliente, ainda que acompanhada pela prestação de serviços auxiliares, não é aplicável o disposto no artigo 314.º, desde que:
 
@@ -4432,7 +5242,9 @@ c) Não implique a assunção de responsabilidades pelo cliente que excedam o cu
 
 d) Esteja disponível publicamente informação adequada sobre as suas características, que permita a um investidor não qualificado médio avaliar, de forma informada, a oportunidade de realizar uma operação sobre esse instrumento financeiro.
 
-###### Artigo 317.º-A — Procedimentos para a solicitação de tratamento como investidor não qualificado
+Artigo 317.º-A
+
+Procedimentos para a solicitação de tratamento como investidor não qualificado
 
 1 - O tratamento como investidor não qualificado a conferir a um investidor qualificado nos termos do artigo 30.º depende de acordo escrito, a celebrar entre o intermediário financeiro e o cliente que o haja requerido, o qual deve precisar, por forma clara, o seu âmbito, especificando os serviços, instrumentos financeiros e operações a que se aplica.
 
@@ -4440,7 +5252,9 @@ d) Esteja disponível publicamente informação adequada sobre as suas caracter�
 
 3 - Mediante declaração escrita, o cliente pode denunciar o acordo referido no n.º 1, a todo o tempo.
 
-###### Artigo 317.º-B — Requisitos e procedimentos para a solicitação de tratamento como investidor qualificado
+Artigo 317.º-B
+
+Requisitos e procedimentos para a solicitação de tratamento como investidor qualificado
 
 1 - O investidor não qualificado pode solicitar ao intermediário financeiro tratamento como investidor qualificado.
 
@@ -4464,13 +5278,17 @@ b) Após realizada a avaliação prevista no artigo anterior, o intermediário f
 
 c) Recebida tal informação, o cliente deve declarar, por escrito, em documento autónomo, que está ciente das consequências da sua opção.
 
-###### Artigo 317.º-C — Responsabilidade e adequação da qualificação
+Artigo 317.º-C
+
+Responsabilidade e adequação da qualificação
 
 1 - Compete ao cliente que tenha solicitado tratamento como investidor qualificado manter o intermediário financeiro informado sobre qualquer alteração susceptível de afectar os pressupostos que conduziram à sua qualificação.
 
 2 - O intermediário financeiro que tome conhecimento que um cliente deixou de satisfazer os requisitos previstos no artigo anterior deve informar o cliente que, se não comprovar a manutenção dos requisitos, dentro do prazo por aquele determinado, é tratado como investidor não qualificado.
 
-###### Artigo 317.º-D — Contrapartes elegíveis
+Artigo 317.º-D
+
+Contrapartes elegíveis
 
 1 - São contrapartes elegíveis do intermediário financeiro com o qual se relacionam as entidades enunciadas nas alíneas a) a i), com excepção dos governos de âmbito regional, do n.º 1 do artigo 30.º
 
@@ -4488,7 +5306,9 @@ b) Solicitar expressamente o tratamento como investidor qualificado, pode, a tod
 
 6 - O cumprimento dos deveres previstos nos artigos 312.º a 314.º-D, 321.º a 323.º-C e 328.º a 333.º não é exigível ao intermediário financeiro autorizado a executar um ou vários dos serviços e actividades previstos nas alíneas a), b) e f) do n.º 1 do artigo 290.º sempre que esteja em causa a realização de operações entre o intermediário financeiro e uma contraparte elegível ou a prestação de serviços auxiliares com aquelas relacionados.
 
-###### Artigo 321.º-A — Conteúdo mínimo dos contratos
+Artigo 321.º-A
+
+Conteúdo mínimo dos contratos
 
 1 - Os contratos de intermediação financeira celebrados com investidores não qualificados devem, pelo menos, conter:
 
@@ -4506,7 +5326,9 @@ f) Informação sobre a existência e o modo de funcionamento do serviço do int
 
 2 - Os elementos referidos na alínea a) do número anterior podem ser recebidos de outros intermediários financeiros que prestem serviços ao cliente, mediante autorização prévia deste e sem prejuízo do dever de segredo profissional previsto no n.º 4 do artigo 304.º
 
-###### Artigo 323.º-A — Deveres de informação no âmbito da gestão de carteiras
+Artigo 323.º-A
+
+Deveres de informação no âmbito da gestão de carteiras
 
 1 - O intermediário financeiro deve remeter a cada cliente um extracto periódico, por escrito, sobre as actividades de gestão de carteiras realizadas por conta desse cliente.
 
@@ -4544,13 +5366,17 @@ c) For apresentado, pelo menos, mensalmente, sempre que o cliente tenha autoriza
 
 7 - O disposto no número anterior não é aplicável sempre que a informação a prestar seja idêntica à que deva ser prestada ao cliente por outro intermediário.
 
-###### Artigo 323.º-B — Deveres de informação adicionais
+Artigo 323.º-B
+
+Deveres de informação adicionais
 
 1 - O intermediário financeiro que realiza operações de gestão de carteiras ou opera contas de clientes que incluam uma posição cujo risco não se encontre coberto deve comunicar a investidores não qualificados eventuais perdas que ultrapassem o limite preestabelecido, acordados entre aquele e cada cliente.
 
 2 - A comunicação referida no número anterior deve ser feita o mais tardar até ao final do dia útil em que o limite foi ultrapassado ou, no caso deste ter sido ultrapassado num dia não útil, no início do dia útil seguinte.
 
-###### Artigo 323.º-C — Extracto relativo ao património de clientes
+Artigo 323.º-C
+
+Extracto relativo ao património de clientes
 
 1 - O intermediário financeiro deve enviar ao cliente, por escrito, um extracto periódico relativo aos bens pertencentes ao seu património.
 
@@ -4574,7 +5400,9 @@ b) A investidores qualificados, anualmente.
 
 6 - O dever previsto no n.º 1 é aplicável a instituições de crédito apenas relativamente a extractos relativos a instrumentos financeiros.
 
-###### Artigo 327.º-A — Prazo de validade
+Artigo 327.º-A
+
+Prazo de validade
 
 1 - As ordens são válidas pelo prazo definido pelo ordenador, não podendo exceder um ano, contado do dia seguinte à data de recepção da ordem pelo intermediário financeiro.
 
@@ -4582,7 +5410,9 @@ b) A investidores qualificados, anualmente.
 
 3 - Se o ordenador não definir o prazo de validade, as ordens são válidas até ao fim do dia em que sejam dadas.
 
-###### Artigo 328.º-A — Agregação de ordens e afectação de operações
+Artigo 328.º-A
+
+Agregação de ordens e afectação de operações
 
 1 - O intermediário financeiro que pretenda proceder à agregação, numa única ordem, de ordens de vários clientes ou de decisões de negociar por conta própria, deve:
 
@@ -4600,7 +5430,9 @@ b) Procedimentos destinados a evitar a reafectação, de modo prejudicial para o
 
 4 - A política de afectação de ordens é aplicável ainda que a ordem agregada seja executada apenas parcialmente.
 
-###### Artigo 328.º-B — Afectação de operações realizadas por conta própria
+Artigo 328.º-B
+
+Afectação de operações realizadas por conta própria
 
 1 - O intermediário financeiro que tenha procedido à agregação de decisões de negociar por conta própria com uma ou mais ordens de clientes, não pode afectar as operações correspondentes de modo prejudicial para os clientes.
 
@@ -4708,7 +5540,9 @@ Os artigos 2.º e 3.º do regime jurídico das sociedades corretoras e financeir
 
 2 - O objecto das sociedades corretoras compreende ainda os serviços e actividades indicados nas alíneas a) e c) do artigo 291.º do Código dos Valores Mobiliários, bem como quaisquer outros cujo exercício lhes seja permitido por portaria do Ministro responsável pela área das finanças, ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As sociedades financeiras de corretagem têm por objecto a prestação dos serviços e actividades referidos no n.º 1 do artigo 290.º do Código dos Valores Mobiliários.
 
@@ -4730,7 +5564,9 @@ Os artigos 12.º, 17.º, 18.º, 20.º, 22.º, 23.º, 29.º, 39.º, 42.º, 43.º 
 
 4 - A substituição do depositário é comunicada à CMVM e torna-se eficaz 15 dias após a sua efectiva recepção, podendo a CMVM, neste período, deduzir oposição.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -4740,11 +5576,15 @@ Os artigos 12.º, 17.º, 18.º, 20.º, 22.º, 23.º, 29.º, 39.º, 42.º, 43.º 
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 As entidades gestoras podem recorrer a serviços de terceiras entidades idóneas e habilitadas para o efeito que se revelem convenientes para o exercício da sua actividade, designadamente os de prestação de conselhos especializados sobre as aplicações no âmbito da política de investimentos previamente definida e de execução das operações, sujeita às instruções e responsabilidade das sociedades gestoras, devendo as relações entre a sociedade gestora e estas entidades ser regidas por contrato escrito.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A constituição de fundos de investimento imobiliário está sujeita a autorização simplificada da CMVM.
 
@@ -4772,7 +5612,9 @@ a) Em virtude da violação de normas legais, regulamentares ou constantes do re
 
 b) Se nos 12 meses subsequentes à data da constituição do fundo de investimento este não atingir um património de (euro) 5 000 000 ou não obedecer aos critérios de dispersão definidos em regulamento da CMVM.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -4798,7 +5640,9 @@ g) Meras adaptações a alterações legislativas ou regulamentares.
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -4808,7 +5652,9 @@ g) Meras adaptações a alterações legislativas ou regulamentares.
 
 4 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -4816,7 +5662,9 @@ g) Meras adaptações a alterações legislativas ou regulamentares.
 
 3 - A CMVM pode definir, por regulamento, outros requisitos a cumprir pelos peritos avaliadores independentes.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Devem ser comunicadas individualmente a cada participante, no prazo máximo de 10 dias após o termo do prazo para a CMVM deduzir oposição ou da comunicação a esta, consoante aplicável, as alterações ao regulamento de gestão das quais resulte:
 
@@ -4834,7 +5682,9 @@ e) ...
 
 3 - Nos casos em que se verifique um aumento global das comissões de gestão e de depósito a suportar pelo fundo de investimento ou uma modificação substancial da política de investimentos, os participantes podem proceder ao resgate das unidades de participação sem pagar a respectiva comissão, a partir da data da comunicação e até um mês após o início da sua produção de efeitos.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -4846,7 +5696,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -4858,7 +5710,9 @@ e) ...
 
 5- (Anterior n.º 3.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -4910,7 +5764,9 @@ Os artigos 11.º, 12.º, 16.º, 25.º, 31.º 32.º, 38.º, 41.º, 47.º, 62.º, 
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A CMVM pode recusar a autorização quando:
 
@@ -4918,11 +5774,15 @@ a) O pedido não for instruído com os documentos exigidos por lei ou regulament
 
 b) A entidade gestora requerente gerir outros OIC de forma irregular.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 As alterações aos contratos celebrados pela entidade gestora com o depositário tornam-se eficazes 15 dias úteis após a sua comunicação à CMVM.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -4932,7 +5792,9 @@ As alterações aos contratos celebrados pela entidade gestora com o depositári
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -4950,7 +5812,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -4964,7 +5828,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -4980,7 +5846,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -4990,7 +5858,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 47.º — Operações fora de mercado regulamentado e de sistema de negociação multilateral
+Artigo 47.º
+
+Operações fora de mercado regulamentado e de sistema de negociação multilateral
 
 1 - São objecto de registo especial organizado pela entidade gestora as operações sobre activos admitidos à negociação em mercado regulamentado realizadas fora de mercado regulamentado e de sistema de negociação multilateral.
 
@@ -4998,7 +5868,9 @@ b) ...
 
 3 - (Revogado.)
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -5008,7 +5880,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - As alterações aos documentos constitutivos são comunicadas previamente à CMVM, podendo esta deduzir oposição no prazo de 15 dias a contar desta comunicação e, salvo o disposto no n.º 5, tornam-se eficazes após o decurso daquele prazo.
 
@@ -5044,7 +5918,9 @@ d) Alterações de que resulte aumento global das comissões de gestão e de dep
 
 6 - ...
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -5060,7 +5936,9 @@ d) Alterações de que resulte aumento global das comissões de gestão e de dep
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 ...
 
@@ -5134,7 +6012,9 @@ Os artigos 2.º e 5.º-A do Decreto-Lei n.º 176/95, de 26 de Julho, e alterado 
 
 8 - ...
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - ...
 
@@ -5164,7 +6044,9 @@ Os artigos 6.º, 20.º, 131.º-A, 131.º-B, 156.º, 243.º do Decreto-Lei n.º 9
 
 2 - O disposto no número anterior não prejudica os poderes de supervisão relativos a contratos de seguro ligados a fundos de investimento atribuídos à Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -5178,13 +6060,17 @@ Os artigos 6.º, 20.º, 131.º-A, 131.º-B, 156.º, 243.º do Decreto-Lei n.º 9
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 131.º-A — [...]
+Artigo 131.º-A
+
+[...]
 
 1 - A publicidade efectuada pelas empresas de seguros e pelas suas associações empresariais está sujeita à lei geral, sem prejuízo do que for fixado em norma do Instituto de Seguros de Portugal e, no caso de contratos de seguro ligados a fundos de investimento, em regulamento da Comissão do Mercado de Valores Mobiliários, ouvido o Instituto de Seguros de Portugal.
 
 2 - Os regulamentos previstos no número anterior, que garantirão a protecção dos credores específicos de seguros, podem abranger os intermediários de seguros e devem prever os termos da divulgação das condições tarifárias nos seguros destinados a pessoas singulares.
 
-###### Artigo 131.º-B — Intervenção do Instituto de Seguros de Portugal e da Comissão
+Artigo 131.º-B
+
+Intervenção do Instituto de Seguros de Portugal e da Comissão
 
 do Mercado de Valores Mobiliários
 
@@ -5194,7 +6080,9 @@ do Mercado de Valores Mobiliários
 
 3 - ...
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - ...
 
@@ -5204,7 +6092,9 @@ do Mercado de Valores Mobiliários
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 243.º — [...]
+Artigo 243.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -5222,7 +6112,9 @@ Os artigos 14.º, 23.º, 26.º, 29.º, 30.º, 42.º, 63.º, 64.º, 65.º e 92.º
 
 2 - A adesão ao conjunto de fundos previsto no número anterior efectua-se mediante a celebração de um único contrato de adesão, o qual deve indicar, nomeadamente, as condições especiais de transferência das unidades de participação entre os fundos comercializados conjuntamente, nos termos a definir por norma regulamentar do Instituto de Seguros de Portugal ou, no caso de adesões individuais a fundos de pensões abertos, por regulamento da Comissão do Mercado de Valores Mobiliários, ouvido o Instituto de Seguros de Portugal.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -5276,7 +6168,9 @@ v) [Anterior alínea t).]
 
 5 - O regime de responsabilidade por erros de valorização é estabelecido por norma regulamentar do Instituto de Seguros de Portugal, ouvida a Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -5306,13 +6200,17 @@ i) ...
 
 5 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Em circunstâncias excepcionais e sempre que o interesse dos participantes e beneficiários o aconselhe, as operações de subscrição ou transferência de unidades de participação em fundos de pensões abertos podem ser suspensas por decisão da entidade gestora, do Instituto de Seguros de Portugal ou, no caso de fundos de pensões abertos com adesão individual, da Comissão do Mercado de Valores Mobiliários, nestes último caso, sendo previamente ouvida a outra autoridade.
 
 2 - A entidade gestora comunica a suspensão referida no número anterior e a respectiva fundamentação previamente ao Instituto de Seguros de Portugal, que no caso de fundos de pensões abertos com adesão individual informa a Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -5334,7 +6232,9 @@ i) ...
 
 10 - Sempre que o pedido de autorização prévia de extinção for relativo a um fundo de pensões aberto com adesão individual, o Instituto de Seguros de Portugal, antes de decidir, ouve a Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -5342,7 +6242,9 @@ i) ...
 
 3 - Quando a sociedade gestora se dedique à comercialização de contratos de adesão individual a fundos de pensões abertos, a decisão de revogação é precedida de parecer da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Tendo em vista uma melhor compreensão, pelos contribuintes, das características do fundo, dos riscos financeiros inerentes à adesão e do regime fiscal aplicável, a Comissão do Mercado de Valores Mobiliários, ouvido o Instituto de Seguros de Portugal, pode exigir que, previamente à celebração do contrato de adesão individual, a informação relevante constante do regulamento de gestão e do contrato de adesão seja disponibilizada através de um prospecto informativo, cujo conteúdo e suporte são fixados por regulamento.
 
@@ -5352,7 +6254,9 @@ i) ...
 
 4 - Aos deveres de informação previstos no número anterior podem acrescer, caso se revelem necessários a uma melhor e efectiva compreensão das características do fundo e do contrato de adesão celebrado, deveres específicos de informação, a fixar, bem como a respectiva periodicidade, por regulamento da Comissão do Mercado de Valores Mobiliários, ouvido o Instituto de Seguros de Portugal.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -5364,7 +6268,9 @@ i) ...
 
 5 - Os relatórios e contas referentes aos fundos de pensões abertos e às sociedades gestoras são disponibilizados ao público de forma contínua e por meio que possibilite o acesso fácil e gratuito à informação, nos termos a definir por norma regulamentar do Instituto de Seguros de Portugal, ouvida, no caso de fundos de pensões abertos com adesão individual, a Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - A publicidade efectuada pelas entidades gestoras está sujeita à lei geral, sem prejuízo do que for fixado em norma regulamentar do Instituto de Seguros de Portugal e, no caso de fundos de pensões abertos com adesão individual, em regulamento da Comissão do Mercado de Valores Mobiliários, tendo em atenção a protecção dos interesses dos contribuintes, participantes e beneficiários.
 
@@ -5372,7 +6278,9 @@ i) ...
 
 3 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -5438,15 +6346,15 @@ d) Os n.os 2 e 3 do artigo 47.º e o n.º 5 do artigo 66.º do Regime Jurídico 
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 30 de Outubro de 2007.**
+Promulgado em 30 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Outubro de 2007.**
+Referendado em 31 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 20.º)
 
@@ -6612,7 +7520,9 @@ A penhora e outros actos de apreensão judicial de valores mobiliários escritur
 
 Se os direitos inerentes a valores mobiliários não forem exercidos através da entidade registadora, podem sê-lo pela apresentação dos certificados a que se refere o artigo 78.º
 
-###### Artigo 84.º — Título executivo
+###### Artigo 84.º
+
+## Título executivo
 
 Os certificados passados pelas entidades registadoras relativos a valores mobiliários escriturais valem como título executivo, se mencionarem o fim a que se destinam, se forem emitidos por prazo indeterminado e se a assinatura do representante da entidade registadora e os seus poderes estiverem reconhecidos por notário.
 
@@ -6748,7 +7658,9 @@ c) Identificação do titular, nos títulos nominativos.
 
 3 - A alteração de qualquer dos elementos constantes do título pode ser feita por substituição do título ou, desde que subscrita nos termos do número anterior, no respectivo texto.
 
-###### Artigo 98.º — Divisão e concentração de títulos
+###### Artigo 98.º
+
+##### Divisão e concentração de títulos
 
 Os títulos representam uma ou mais unidades da mesma categoria de valores mobiliários, podendo o titular solicitar a divisão ou concentração de títulos, suportando os respectivos encargos.
 
@@ -10458,7 +11370,7 @@ f) A execução de ordens ou a realização de transacções antecedidas ou segu
 
 ##### SUBSECÇÃO VIII — Informação a investidores
 
-##### DIVISÃO I
+DIVISÃO I
 
 Princípios gerais
 
@@ -10572,7 +11484,7 @@ b) Prestar a informação prevista no artigo 15.º do Decreto-Lei n.º 95/2006, 
 
 4 - O intermediário financeiro notifica o cliente, independentemente da natureza deste, com antecedência suficiente, de qualquer alteração significativa na informação prestada ao abrigo dos artigos 312.º-C a 312.º-G, através do mesmo suporte com que foi prestada inicialmente.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Informação mínima
 

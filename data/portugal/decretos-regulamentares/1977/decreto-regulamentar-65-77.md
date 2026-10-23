@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21900/22952296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1977-285760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66de46414c550c20fa51d1c8085b408c543eaf69604f645de5756a86bc28ef82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e446330e805b57980621b40ab008044ada41b9bd3fcb7a3c8936905392b3b49f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:405702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:231286:por
+  label: "Revogado pelo DEC LEI.530/79.31.12.1979.PCM, DR.IS [300-4.º Supl] de 31.12.1979 (Mantida em vigor a norma revogada,\
+    \ conforme o disposto no art. 2º do Dec Lei 81/80, de 19 de Abril)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/530-1979-231286
+  date: '1979-12-31'
+- type: repealed_by
+  target: pt:dre:405702:por
+  label: "Revogado pelo DEC LEI.74-C/84.1984.03.02.PCM DR.IS [53]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-c-1984-405702
+  date: '1984-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:36Z'
   warnings: []
   errors: []
 ---
@@ -105,34 +126,34 @@ c) A circunstância de não se encontrarem criadas por enquanto as condições p
 
 Assim, o Governo decreta, nos termos do artigo 202.º, alínea c), da Constituição, o seguinte:
 
-###### Artigo 1.º Para efeitos do disposto no n.º 1 do artigo 8.º do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro, deve entender-se por «pessoal transferido» o pessoal, oriundo dos quadros de instituições de previdência, que fizer parte dos mapas de pessoal dos Serviços Médicos-Sociais no momento da conclusão do processo de transferência.
+Artigo 1.º Para efeitos do disposto no n.º 1 do artigo 8.º do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro, deve entender-se por «pessoal transferido» o pessoal, oriundo dos quadros de instituições de previdência, que fizer parte dos mapas de pessoal dos Serviços Médicos-Sociais no momento da conclusão do processo de transferência.
 
-###### Art. 2.º Por despacho do Ministro dos Assuntos Sociais será fixada a data da conclusão do referido processo de transferência.
+Art. 2.º Por despacho do Ministro dos Assuntos Sociais será fixada a data da conclusão do referido processo de transferência.
 
-###### Art. 3.º - 1. Até à data referida no artigo anterior, a gestão do pessoal que vá transitando para os Serviços Médico-Sociais deve processar-se segundo a legislação que actualmente o abrange, com as adaptações que se revelem indispensáveis, designadamente o cometimento à Comissão Instaladora dos Serviços Médico-Sociais da competência que na referida legislação seja atribuída genericamente às direcções das instituições de previdência, sem prejuízo da articulação prevista na parte final do n.º 2 do artigo 8.º do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro.
+Art. 3.º - 1. Até à data referida no artigo anterior, a gestão do pessoal que vá transitando para os Serviços Médico-Sociais deve processar-se segundo a legislação que actualmente o abrange, com as adaptações que se revelem indispensáveis, designadamente o cometimento à Comissão Instaladora dos Serviços Médico-Sociais da competência que na referida legislação seja atribuída genericamente às direcções das instituições de previdência, sem prejuízo da articulação prevista na parte final do n.º 2 do artigo 8.º do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro.
 
 2. Os actos praticados pela Comissão Instaladora e previstos no número anterior ficam dispensados de homologação ministerial.
 
 3. As promoções que tiverem que ser efectuadas nos termos deste artigo produzem efeitos desde a data da proposta da Comissão de Gestão do Serviço Distrital ou, quando se trate de pessoal dos Serviços Centrais, desde a data de deliberação da Comissão Instaladora.
 
-###### Art. 4.º Imediatamente após a conclusão do processo de transferência serão publicadas relações nominais do pessoal transferido, sob despacho do Ministro dos Assuntos Sociais.
+Art. 4.º Imediatamente após a conclusão do processo de transferência serão publicadas relações nominais do pessoal transferido, sob despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 5.º - 1. A partir da data prevista no artigo 2.º cessará a comunicabilidade entre os quadros dos Serviços Médico-Sociais e das instituições de previdência.
+Art. 5.º - 1. A partir da data prevista no artigo 2.º cessará a comunicabilidade entre os quadros dos Serviços Médico-Sociais e das instituições de previdência.
 
 2. Manter-se-á, no entanto, a comunicabilidade entre os quadros de pessoal abrangido pelo Estatuto do Pessoal de Enfermagem, Técnico e Auxiliar de Medicina dos Serviços Médico-Sociais e das Caixas de Previdência das Regiões Autónomas dos Açores e Madeira, enquanto os respectivos serviços regionais de acção médico-social estiverem sob a gestão das referidas caixas.
 
-###### Art. 6.º O pessoal a admitir nos Serviços Médico-Sociais após a conclusão do processo de transferência ficará sujeito ao Estatuto da Função Pública, com excepção daquele que venha a ser admitido, por transferência, nos termos do n.º 2 do artigo anterior, ao qual se aplicará o regime estabelecido, para o pessoal transferido, no n.º 1 do artigo 8.º do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro.
+Art. 6.º O pessoal a admitir nos Serviços Médico-Sociais após a conclusão do processo de transferência ficará sujeito ao Estatuto da Função Pública, com excepção daquele que venha a ser admitido, por transferência, nos termos do n.º 2 do artigo anterior, ao qual se aplicará o regime estabelecido, para o pessoal transferido, no n.º 1 do artigo 8.º do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro.
 
-###### Art. 7.º Enquanto não estiver institucionalizado, para o pessoal médico dos Serviços Médico-Sociais, o ingresso nas carreiras médicas da Secretaria de Estado da Saúde, a disposição do artigo anterior não se aplica aos médicos, os quais serão admitidos no regime de prestação de serviços.
+Art. 7.º Enquanto não estiver institucionalizado, para o pessoal médico dos Serviços Médico-Sociais, o ingresso nas carreiras médicas da Secretaria de Estado da Saúde, a disposição do artigo anterior não se aplica aos médicos, os quais serão admitidos no regime de prestação de serviços.
 
-###### Art. 8.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 8.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 9.º O presente diploma produz efeitos desde a entrada em vigor do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro.
+Art. 9.º O presente diploma produz efeitos desde a entrada em vigor do [Decreto Regulamentar n.º 12/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1977-221738), de 7 de Fevereiro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 3 de Setembro de 1977.**
+Promulgado em 3 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 5/1987, 2º Suplemento, Série I de 1987-01-07
   number: '5'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 80-(5) a 80-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00502/00050005.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/1-1987-186678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d7f52c394cdd6bd8ba433d77536390480413ea8630159e40cafaca8bdff4a2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 528d78fcfc6d67217b971ecdd92b1f72465bce6cf68a5d66b0a0277651804a99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exoneração
+- Supremo Tribunal Militar
+relationships:
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:16Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +90,12 @@ validation:
 
 de 7 de Janeiro
 
-**O Presidente da República decreta, nos termos do n.º 2 de artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 de artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:
 
 Sob proposta do Conselho Superior de Defesa Nacional, aprovada por iniciativa do Chefe do Estado-Maior-General das Forças Armadas, exonero, a seu pedido, o general Henrique do Oliveira Rodrigues do cargo de presidente do Supremo Tribunal Militar, cargo que desempenhou com muito zelo, competência e dignidade.
 
-**Assinado em 7 de Janeiro de 1987.**
+Assinado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.

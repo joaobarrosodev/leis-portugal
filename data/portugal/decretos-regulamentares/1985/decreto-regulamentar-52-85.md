@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1985-180588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bc2ec6eeb37f4265698a54fd938cca0927d6d2066f0c917bf7d46314513d9a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0e184f2518b598afdff29ce146cf250fe88d3417809c84e3ad2ef1886b5f0fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Formas de Provimento
+- Recrutamento de Pessoal
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:144837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144837:por
+  label: "Alteradas as alíneas a) e b) do num 1 do art 1º e o art 2º pelo DR.30/97.1997.07.29.MSSS, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/30-1997-144837
+  date: '1997-07-29'
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:45Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +110,7 @@ A necessidade de definir o regime destas categorias de pessoal resulta, aliás, 
 
 Assim, considerando o disposto no [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os directores dos Estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira seguidamente enumerados são, para todos os efeitos legais, equiparados a:
+Artigo 1.º - 1 - Os directores dos Estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira seguidamente enumerados são, para todos os efeitos legais, equiparados a:
 
 a) Director de serviços, os directores de estabelecimentos de terceira idade, educação especial e reabilitação de deficientes com capacidade superior a 300 utentes;
 
@@ -105,7 +118,7 @@ b) Chefe de divisão, os directores de estabelecimentos de terceira idade, educa
 
 2 - O disposto no número anterior aplica-se igualmente aos directores do Lar Residencial de Alcobaça, Mansão de Santa Maria de Marvila, Lar Residencial das Fontainhas e Recolhimentos da Capital.
 
-###### Art. 2.º - 1 - O desempenho dos cargos seguidamente enumerados de directores de estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira será remunerado pelo vencimento correspondente às categorias de:
+Art. 2.º - 1 - O desempenho dos cargos seguidamente enumerados de directores de estabelecimentos integrados nos centros regionais de segurança social desprovidos de autonomia administrativa ou financeira será remunerado pelo vencimento correspondente às categorias de:
 
 a) Técnico superior principal, os directores de estabelecimentos de educação especial e de reabilitação de deficientes com capacidade inferior a 150 utentes, os directores de estabelecimentos de terceira idade com capacidade compreendida entre 75 e 150 utentes, os directores de estabelecimentos de primeira e segunda infância com capacidade superior a 150 crianças e os directores de colónias de férias com capacidade superior a 150 utentes e que funcionem durante todo o ano;
 
@@ -121,20 +134,20 @@ d) Técnico de 1.ª classe, os directores de estabelecimentos de primeira e segu
 
 4 - A comissão de serviço prevista no número anterior cessa com o encerramento do estabelecimento, a modificação do seu objectivo ou ainda se a respectiva gestão deixar de estar a cargo do centro regional.
 
-###### Art. 3.º Para efeitos dos artigos anteriores, a capacidade do estabelecimento será a que for fixada por despacho do Ministro do Trabalho e Segurança Social.
+Art. 3.º Para efeitos dos artigos anteriores, a capacidade do estabelecimento será a que for fixada por despacho do Ministro do Trabalho e Segurança Social.
 
-###### Art. 4.º - 1 - Os cargos previstos no n.º 1 do artigo 1.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou inseridos na carreira técnica superior e com experiência profissional devidamente comprovada para o cargo a exercer.
+Art. 4.º - 1 - Os cargos previstos no n.º 1 do artigo 1.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou inseridos na carreira técnica superior e com experiência profissional devidamente comprovada para o cargo a exercer.
 
 2 - Os cargos previstos no n.º 1 do artigo 2.º serão providos, mediante proposta do conselho directivo, de entre funcionários públicos ou outro pessoal de instituições de segurança social habilitados com licenciatura ou curso superior adequado ou inseridos em carreira técnica superior, técnica ou docente e com experiência profissional devidamente comprovada para o cargo a exercer.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Amândio Anes de Azevedo - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 26 de Julho de 1985.**
+Promulgado em 26 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 Julho de 1985.**
+Referendado em 30 Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

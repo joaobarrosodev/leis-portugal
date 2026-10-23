@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2017/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2017-114177785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8276d9d43c87ca7ba49f556c347c8827e9ff378703d442f3f439e4573ad83b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2db0d63b8e44c9b1c71dc9fb5829d700ddc1292905925ecb9b34b4b27a98f87c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - ALTO Comissariado para as Migrações
-- Inspeção Geral de Finanças
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comissão para a Cidadania e a Igualdade de Género
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Conselho Nacional para as Políticas de Solidariedade Voluntariado Família Reabilitação e Segurança Social
 - Conta Geral do Estado
 - Definição de Competências
 - Direção Geral das Autarquias Locais
 - Fundo de Apoio Municipal
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro das Finanças
-- Primeiro-ministro
-- Secretário de Estado da Proteção Civil
+- Governo XXI
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Inspeção Geral de Finanças
 - Instituto da Mobilidade e dos Transportes
 - Instituto Superior de Ciências Policiais e Segurança Interna
 - Membros do Governo
-- Secretário de Estado Adjunto e da Administração Interna
 - Ministro Adjunto
+- Ministro da Administração Interna
+- Ministro da Agricultura Florestas e Desenvolvimento Rural
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Defesa Nacional
+- Ministro da Presidência e da Modernização Administrativa
+- Ministro das Finanças
 - Ministro do Ambiente
 - Ministro do MAR
+- Ministro do Planeamento e das Infraestruturas
+- Ministro do Trabalho Solidariedade e Segurança Social
+- NATO
 - Orgânica
 - Prestação de Contas
-- Secretário de Estado da Presidência do Conselho de Ministros
+- Primeiro-ministro
 - Programa Orçamental
-- Ministro da Defesa Nacional
-- Comissão para a Cidadania e a Igualdade de Género
-- Ministro da Administração Interna
-- Tutela Administrativa
-- Governo XXI
-- Ministro da Presidência e da Modernização Administrativa
-- Ministro do Trabalho Solidariedade e Segurança Social
-- Ministro do Planeamento e das Infraestruturas
-- Ministro da Agricultura Florestas e Desenvolvimento Rural
+- Secretário de Estado Adjunto e da Administração Interna
 - Secretário de Estado Adjunto e da Modernização Administrativa
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Proteção Civil
 - Secretário de Estado das Autarquias Locais
 - Secretário de Estado para a Cidadania e a Igualdade
+- Tutela Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:120454103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116923610:por
+  label: Alterados os arts. 2.º, 3.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 26.º,
+    27.º e 28.º e revogados a al. n) do art. 2.º, o n.º 15 do art. 3.º, a al. b) do n.º 2 do art. 11.º, o n.º 5 do art. 13.º,
+    os n.ºs 6 e 7 do art. 18.º e o art. 25.º do Dec Lei 251-A/2015 de 17-dez, na versão republicada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09, com produção de efeitos nos
+    termos do disposto no n.º 2 do seu art. 5.º e que o republicou em anexo, na redação atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2018-116923610
+  date: '2018-11-09'
 - type: cites
   target: eli:http://data.
   label: null
@@ -148,16 +157,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/91-c/2017/10/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/91-c/2017/10/18/p/dre
+- type: cites
+  target: pt:dre:106578565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108323917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114081501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58940164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 41
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:52Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +389,9 @@ p) [...];
 
 q) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -258,7 +429,9 @@ q) [...].
 
 18 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -292,7 +465,9 @@ h) [...].
 
 8 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A Ministra da Presidência e da Modernização Administrativa tem por missão exercer as competências que lhe são delegadas pelo Primeiro-Ministro, em matéria de preparação, convocação e coordenação do Conselho de Ministros e da Reunião de Secretárias/os de Estado, bem como formular, conduzir, executar e avaliar uma política global e coordenada nas áreas da modernização administrativa, em matéria de simplificação, inovação e participação dos cidadãos e outros interessados, e da cidadania e da igualdade.
 
@@ -322,7 +497,9 @@ c) Alto Comissariado para as Migrações, I. P.
 
 6 - A Ministra da Presidência e da Modernização Administrativa exerce ainda os poderes que lhe são conferidos pelo n.º 5 do artigo seguinte e pelos n.os 7 e 8 do artigo 22.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -342,7 +519,9 @@ c) Alto Comissariado para as Migrações, I. P.
 
 9 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -358,7 +537,9 @@ c) Alto Comissariado para as Migrações, I. P.
 
 7 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O Ministro da Administração Interna tem por missão formular, conduzir, executar e avaliar as políticas de segurança interna, do controlo de fronteiras, de proteção e socorro, de segurança rodoviária, de administração eleitoral, bem como uma política global e coordenada na área das autarquias locais.
 
@@ -374,7 +555,9 @@ c) Alto Comissariado para as Migrações, I. P.
 
 7 - O Ministro da Administração Interna exerce ainda os poderes que lhe são conferidos pelo n.º 7 do artigo 14.º, pelo n.º 6 do artigo 15.º, pela alínea d) do n.º 2 e pelo n.º 6 do artigo 24.º, pelo n.º 4 do artigo 26.º, pelo n.º 4 do artigo 27.º e pelo n.º 5 do artigo 28.º
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O Ministro Adjunto tem por missão acompanhar as medidas de caráter interministerial de execução do Programa do Governo.
 
@@ -390,7 +573,9 @@ c) Alto Comissariado para as Migrações, I. P.
 
 7 - O Ministro Adjunto exerce ainda os poderes que lhe são conferidos pelo n.º 5 do artigo 13.º
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -410,7 +595,9 @@ c) Alto Comissariado para as Migrações, I. P.
 
 9 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -436,7 +623,9 @@ e) [...].
 
 7 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -452,7 +641,9 @@ e) [...].
 
 7 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -470,7 +661,9 @@ e) [...].
 
 8 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -520,15 +713,15 @@ São revogados o n.º 8 do artigo 3.º, a alínea g) do n.º 2 do artigo 11.º e
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva -Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Pedro Siza Vieira - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 7 de novembro de 2017.**
+Promulgado em 7 de novembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de novembro de 2017.**
+Referendado em 9 de novembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -652,7 +845,7 @@ q) Ministra do Mar.
 
 ###### Artigo 7.º — Ausências e impedimentos do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 8.º — Competência dos membros do Governo
 

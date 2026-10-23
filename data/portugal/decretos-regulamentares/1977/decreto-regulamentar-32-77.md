@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1977-252867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 126cea488d0d9b91c49f61340c58f62d0cee7803e73cb28c7d164a2d90e67d40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 001a5f361adcdfc408b3502144547c14fc5d609b263e682f4527663572bbd3c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:472337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:48Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +102,18 @@ Considerando a conveniência de uniformizar a estrutura já consagrada em todas 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criado o lugar de subdirector-geral do quadro do pessoal dirigente da Direcção-Geral dos Edifícios e Monumentos Nacionais, a que corresponde a categoria da letra C.
+Artigo 1.º - 1. É criado o lugar de subdirector-geral do quadro do pessoal dirigente da Direcção-Geral dos Edifícios e Monumentos Nacionais, a que corresponde a categoria da letra C.
 
 2. O lugar de subdirector-geral a que se refere o n.º 1 será provido em comissão de serviço, por tempo indeterminado, por escolha do Ministro das Obras Públicas, nos termos do [Decreto-Lei n.º 118/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1975-160715), de 8 de Março.
 
 3. Para satisfação dos encargos resultantes deste diploma, promover-se-á ao reforço das respectivas dotações orçamentais.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeria Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - João Orlindo de Almeida Pina.
 
-**Promulgado em 15 de Março de 1977.**
+Promulgado em 15 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/063a00/10921097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/1998/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1998-186542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40a8a57e66d1b77d7f84e84f2c93de2f4b6a4c7d82a9e629156f27d6d21bbddc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad0d51c4994fb7e6cc2ef122d7a48fcb8893d566b586d23b7be4e01eea31b1e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
+- Comércio
 - Importação
+- Joalharia e Ourivesaria
 - Metal Precioso
 - Regulamento das Contrastarias
-- Joalharia e Ourivesaria
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:70042475:por
@@ -83,16 +83,21 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:70042475:por
+  label: Revogado a partir de 16.11.2015 pelo(a) Lei n.º 98/2015 - Diário da República n.º 160/2015, Série I de 2015-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2015-70042475
+  date: '2015-08-18'
 article_structure:
-  article_count: 21
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:08Z'
   warnings: []
   errors: []
 ---
@@ -131,13 +136,13 @@ O artigos 1.º, 3.º, 7.º, 11.º, 12.º, 14.º, 15.º, 16.º, 34.º, 35.º, 57.
 
 6 - Consideram-se artefactos de metal precioso os artefactos de ourivesaria de toque superior a 500(por mil) e artefactos de liga de metal precioso os artefactos de toque igual ou superior a 375(por mil) mas igual ou inferior a 500(por mil).
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Os metais preciosos que entram na confecção dos artefactos de ourivesaria ou nas medalhas comemorativas destinados à comercialização no território nacional terão os seguintes toques legais:
 
@@ -149,7 +154,7 @@ Prata - 999 (por mil), 925 (por mil), 835 (por mil), 830 (por mil), 800 (por mil
 
 2 - Qualquer destes toques não admite tolerância para menos.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Diz-se que as barras e medalhas comemorativas de metal precioso, os artefactos de ourivesaria e os relógios de uso pessoal estão legalmente marcados quando:
 
@@ -175,7 +180,7 @@ d) Em derrogação do disposto na alínea anterior, poderão ser objecto de acor
 
 2 - Exceptuam-se os artefactos de reconhecido merecimento arqueológico, histórico ou artístico de fabrico anterior à criação das contrastarias e os que se encontram marcados com punções de extintos contrastes municipais, os quais, para se considerarem legalmente marcados, apenas carecem da marca do punção de contrastaria que lhes é exclusivamente reservada.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - ...
 
@@ -183,13 +188,13 @@ d) Em derrogação do disposto na alínea anterior, poderão ser objecto de acor
 
 3 - À violação desta proibição é aplicável a pena prevista no artigo 269.º do Código Penal.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Toda a pessoa singular ou colectiva que pretenda exercer a indústria ou comércio de barras ou medalhas comemorativas de metal precioso, de artefactos de ourivesaria, pedras preciosas ou de relógios de uso pessoal com caixas de metal precioso deverá previamente requerer, para cada modalidade e para cada estabelecimento onde seja exercida a actividade, a respectiva matrícula na contrastaria em cuja área se localiza o estabelecimento ou, na sua falta, a residência.
 
 As matrículas de vendedores ambulantes e correctores de ourivesaria mantêm-se válidas quando se dê a mudança de residência do seu titular, que apenas fica obrigado a participar no prazo de 30 dias o local da nova residência para efeito de averbamento.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - ...
 
@@ -227,7 +232,7 @@ o) ...
 
 3 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - A concessão de matrícula de industrial de ourivesaria é da competência da administração da INCM, mediante parecer favorável do chefe da contrastaria respectiva, depois de ouvida a Associação dos Industriais de Ourivesaria, e recaindo o despacho em processo organizado e instruído, fundamentalmente, com as seguintes peças:
 
@@ -237,7 +242,7 @@ b) (Revogado.)
 
 2 - ...
 
-###### Artigo 34.º
+Artigo 34.º
 
 1 - ...
 
@@ -247,7 +252,7 @@ b) (Revogado.)
 
 4 - (Revogado.)
 
-###### Artigo 35.º
+Artigo 35.º
 
 1 - Os artefactos de ourivesaria e os relógios de uso pessoal importados que não possam ser marcados por não satisfazerem às condições legais impostas para a sua comercialização no território nacional serão devolvidos à alfândega pela contrastaria, em volume selado, acompanhado da respectiva participação, a fim de se promover a sua reexportação, a requerimento do interessado.
 
@@ -255,7 +260,7 @@ b) (Revogado.)
 
 3 - ...
 
-###### Artigo 57.º
+Artigo 57.º
 
 ...
 
@@ -273,13 +278,13 @@ b) (Revogado.)
 
 7.ª Os artefactos de ourivesaria e medalhas comemorativas importados que se destinem à comercialização no território nacional serão marcados, observadas as condições legais, com o punção do importador e o da contrastaria, salvo se, quando provenientes de outro Estado membro da União Europeia, obedecerem às condições previstas nas alíneas c) ou d) do n.º 1 do artigo 11.º Se os artefactos forem provenientes de países contratantes de convenção ou acordo internacional de que o Estado Português seja signatário ou aderente e já estiverem marcados em conformidade com as normas fixadas nessa convenção ou acordo poderão ser marcados com o punção especial de contrastaria, enquanto as autoridades alfandegárias o julguem conveniente, para significar que foram respeitadas as formalidades aduaneiras ao darem entrada no País.
 
-###### Artigo 70.º
+Artigo 70.º
 
 1 - Os negociantes de ourivesaria ou relojoaria só podem expor ou vender os objectos cuja estrutura e marcas de contrastaria e equivalentes tenham previamente examinado, sendo responsáveis pelas irregularidades que devessem ter sido por eles notadas como impeditivas da exposição ou venda.
 
 2 - ...
 
-###### Artigo 74.º
+Artigo 74.º
 
 ...
 
@@ -305,7 +310,7 @@ b) (Revogado.)
 
 11.º ...
 
-###### Artigo 77.º
+Artigo 77.º
 
 1 - Para marcar as barras e medalhas de metal precioso e os artefactos de ourivesaria haverá nas contrastarias punções com os seguintes símbolos:
 
@@ -323,7 +328,7 @@ b) (Revogado.)
 
 2 - Nos artefactos mistos de platina e ouro ou de ouro e prata serão aplicados os punções dos toques dos respectivos metais presentes.
 
-###### Artigo 78.º
+Artigo 78.º
 
 ...
 
@@ -345,11 +350,11 @@ b) (Revogado.)
 
 9.º (Revogado.)
 
-###### Artigo 97.º
+Artigo 97.º
 
 É criado o Conselho Técnico de Ourivesaria (CTO), o qual funcionará junto da administração da INCM, sob a presidência de um administrador, que terá voto de qualidade. Do CTO farão também parte, como vogais, o director do Departamento das Contrastarias e os chefes de contrastarias, por inerência dos cargos, e um delegado representativo de cada uma das associações dos industriais de ourivesaria e dos comerciantes de ourivesaria. Um dos chefes de contrastarias fará de secretário do CTO.
 
-###### Artigo 99.º
+Artigo 99.º
 
 ...
 
@@ -379,11 +384,11 @@ b) (Revogado.)
 
 13) ...
 
-###### Artigo 102.º
+Artigo 102.º
 
 Em todas as transacções de barras ou medalhas comemorativas de metal precioso, de artefactos de ourivesaria e de relógios de uso pessoal é obrigatória a passagem da respectiva factura, da qual constará, sem prejuízo do disposto no n.º 5 do artigo 35.º do CIVA e no n.º 3 do artigo 3.º e nos artigos 4.º e 7.º a 11.º do Decreto-Lei n.º 45/89, de 11 de Fevereiro, a designação dos artigos transaccionados, espécie de metal ou metais, peso, valor da transacção e, quando for caso disso, a qualidade e quantidade das pedras preciosas ou pérolas. Nas facturas dos industriais deverá ainda figurar impresso o desenho da sua marca privativa.
 
-###### Artigo 108.º
+Artigo 108.º
 
 As barras ou medalhas comemorativas de metal precioso, os artefactos de ourivesaria e relógios de uso pessoal, qualquer que seja a sua origem, não poderão ficar retidos nas contrastarias, salvo motivo de força maior, mais de cinco dias úteis ou mais de dois dias úteis, quando seja paga taxa de urgência, prazos contados a partir da entrada na contrastaria ou, caso se trate de importação, da apresentação de declaração de estarem pagos os direitos aduaneiros.»
 
@@ -419,12 +424,12 @@ Prata - 999(por mil) e 835(por mil);
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 1998.**
+Referendado em 5 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

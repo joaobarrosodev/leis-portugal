@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-1972-398331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 214a2163f131e30b13bf3a178e78eef8d243603e1956e9a3ec1dae45b5398b8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca3af84c22a1f4dba95fe065a35e02e97a9aef88e705d982e34e103c9cfb959
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215761:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:01Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +92,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 É aprovado o Regulamento para Atribuição e Uso das Casas e Mobiliário do Cofre Geral de Justiça, que faz parte integrante desta portaria e vai assinado pelo presidente do Conselho Superior Judiciário do Ultramar.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.
 
 REGULAMENTO PARA ATRIBUIÇÃO E USO DAS CASAS E MOBILIÁRIO DO COFRE GERAL DE JUSTIÇA
 
-###### Artigo 1.º As casas de habitação construídas pelo Cofre Geral de Justiça destinam-se, exclusivamente, aos magistrados judiciais e do Ministério Público, conservadores e subdelegados do procurador da República.
+Artigo 1.º As casas de habitação construídas pelo Cofre Geral de Justiça destinam-se, exclusivamente, aos magistrados judiciais e do Ministério Público, conservadores e subdelegados do procurador da República.
 
-###### Art. 2.º As casas destinadas ao presidente da Relação e ao procurador da República serão consideradas privativas destes magistrados.
+Art. 2.º As casas destinadas ao presidente da Relação e ao procurador da República serão consideradas privativas destes magistrados.
 
-###### Art. 3.º As casas vagas do Cofre serão distribuídas tendo em atenção a seguinte ordem de preferência:
+Art. 3.º As casas vagas do Cofre serão distribuídas tendo em atenção a seguinte ordem de preferência:
 
 a) Magistrados;
 
@@ -110,7 +114,7 @@ d) Maior antiguidade na categoria;
 
 e) Mais idade.
 
-###### Art. 4.º - 1. Além do magistrado ou funcionário a quem forem distribuídas, só poderão habitar as casas do Cofre:
+Art. 4.º - 1. Além do magistrado ou funcionário a quem forem distribuídas, só poderão habitar as casas do Cofre:
 
 a) O cônjuge do usuário;
 
@@ -122,43 +126,43 @@ d) As pessoas que se encontram ao serviço do usuário.
 
 2. Fora desses casos, só a titulo temporário, mediante prévia autorização do conselho administrativo do Cofre, pessoas não referidas no número anterior poderão habitar as mencionadas casas.
 
-###### Art. 5.º Os usuários das casas construídas pelo Cofre deverão entregar as respectivas chaves quando tiverem de se ausentar por período superior a três meses.
+Art. 5.º Os usuários das casas construídas pelo Cofre deverão entregar as respectivas chaves quando tiverem de se ausentar por período superior a três meses.
 
-###### Art. 6.º - 1. Os usuários das casas construídas pelo Cofre, quando exonerados, demitidos, desligados do serviço para efeitos de aposentação ou providos noutro cargo que não dê direito a habitá-las, deverão entregar as respectivas chaves no prazo de trinta dias, a contar do termo das suas funções.
+Art. 6.º - 1. Os usuários das casas construídas pelo Cofre, quando exonerados, demitidos, desligados do serviço para efeitos de aposentação ou providos noutro cargo que não dê direito a habitá-las, deverão entregar as respectivas chaves no prazo de trinta dias, a contar do termo das suas funções.
 
 2. Em caso de falecimento do usuário, a família deverá desocupar a casa no prazo de noventa dias, o mesmo se observando quando o usuário der vaga, encontrando-se fora da província.
 
-###### Art. 7.º - 1. O Cofre, mediante prévia deliberação fundamentada do respectivo conselho administrativo, poderá assumir o encargo com as despesas de formação, adubação e conservação dos jardins das casas a ele pertencentes.
+Art. 7.º - 1. O Cofre, mediante prévia deliberação fundamentada do respectivo conselho administrativo, poderá assumir o encargo com as despesas de formação, adubação e conservação dos jardins das casas a ele pertencentes.
 
 2. As despesas de água só serão suportadas pelo Cofre quando as casas estejam desabitadas.
 
-###### Art. 8.º - 1. As casas serão vistoriadas por uma comissão designada pelo conselho administrativo do Cofre, sempre que forem ocupadas ou desocupadas.
+Art. 8.º - 1. As casas serão vistoriadas por uma comissão designada pelo conselho administrativo do Cofre, sempre que forem ocupadas ou desocupadas.
 
 2. O auto de vistoria mencionará tudo o que interesse para definir o estado de conservação das casas e as deficiências existentes.
 
-###### Art. 9.º - 1. A ocupação e a desocupação das casas serão feitas mediante termo de responsabilidade lavrado em livro próprio pelo secretário.
+Art. 9.º - 1. A ocupação e a desocupação das casas serão feitas mediante termo de responsabilidade lavrado em livro próprio pelo secretário.
 
 2. O termo de responsabilidade mencionará o estado de conservação das casas e todas as deficiências existentes.
 
-###### Art. 10.º - 1. Sempre que o usuário verifique que é necessária qualquer reparação na casa que habita comunicá-la-á ao Cofre.
+Art. 10.º - 1. Sempre que o usuário verifique que é necessária qualquer reparação na casa que habita comunicá-la-á ao Cofre.
 
 2. Os usuários são responsáveis pelos danos resultantes do uso imprudente ou inadequado da casa.
 
 3. Será, especialmente, de conta dos usuários a substituição de lâmpadas e vidraças.
 
-###### Art. 11.º - 1. Os pedidos de reparação das casas ou de benfeitorias deverão ser formulados no prazo de trinta dias após a respectiva ocupação ou a publicação deste Regulamento.
+Art. 11.º - 1. Os pedidos de reparação das casas ou de benfeitorias deverão ser formulados no prazo de trinta dias após a respectiva ocupação ou a publicação deste Regulamento.
 
 2. Findo esse prazo, os pedidos terão de ser fundados em circunstâncias supervenientes.
 
-###### Art. 12.º - 1. Serão suportadas pelo Cofre as despesas com as reparações de danos produzidos nas respectivas casas que não sejam da responsabilidade dos usuários e as pinturas exteriores e interiores.
+Art. 12.º - 1. Serão suportadas pelo Cofre as despesas com as reparações de danos produzidos nas respectivas casas que não sejam da responsabilidade dos usuários e as pinturas exteriores e interiores.
 
 2. As pinturas interiores serão feitas, em regra, de cinco em cinco anos.
 
-###### Art. 13.º - 1. As benfeitorias feitas nas casas pelos usuários poderão ser adquiridas pelo Cofre mediante deliberação fundamentada do respectivo conselho administrativo, considerando-as de manifesta utilidade.
+Art. 13.º - 1. As benfeitorias feitas nas casas pelos usuários poderão ser adquiridas pelo Cofre mediante deliberação fundamentada do respectivo conselho administrativo, considerando-as de manifesta utilidade.
 
 2. As referidas benfeitorias serão avaliadas por uma comissão a designar pelo conselho administrativo do Cofre, não podendo a compra ser feita por preço superior ao indicado pela avaliação.
 
-###### Art. 14.º Os magistrados, conservadores e subdelegados do procurador da República têm direito ao seguinte mobiliário:
+Art. 14.º Os magistrados, conservadores e subdelegados do procurador da República têm direito ao seguinte mobiliário:
 
 a) Mobílias de quarto, tendo em atenção o agregado familiar e as condições que a casa ofereça;
 
@@ -184,19 +188,19 @@ j) Serviços de copos, nos termos da alínea anterior;
 
 k) Trem de cozinha constituído por: panelas de alumínio normal, tachos de alumínio normal, máquina de picar carne, frigideiras de alumínio normal, cafeteiras de alumínio normal, fervedor de alumínio normal, concha cromada média, passador, funil médio, assadeiras, rolo para massa, tábua para bifes, martelo para bifes e passe-vite n.º 2.
 
-###### Art. 15.º Em circunstâncias especiais como as dimensões e características das casas, o Cofre, em deliberação fundamentada, poderá autorizar a aquisição de outros móveis e utensílios, além dos indicados.
+Art. 15.º Em circunstâncias especiais como as dimensões e características das casas, o Cofre, em deliberação fundamentada, poderá autorizar a aquisição de outros móveis e utensílios, além dos indicados.
 
-###### Art. 16.º As casas do Estado, das autarquias e do Cofre destinadas aos magistrados, conservadores e subdelegados do procurador da República poderão, ainda, ser dotadas de candeeiros, cortinas, carpetes e tapetes de determinado tipo comum, mediante concurso aberto pelo Cofre.
+Art. 16.º As casas do Estado, das autarquias e do Cofre destinadas aos magistrados, conservadores e subdelegados do procurador da República poderão, ainda, ser dotadas de candeeiros, cortinas, carpetes e tapetes de determinado tipo comum, mediante concurso aberto pelo Cofre.
 
-###### Art. 17.º Poderá ser autorizada a aquisição de aparelhos de ar condicionado, quando as condições climatéricas do local da residência o aconselharem.
+Art. 17.º Poderá ser autorizada a aquisição de aparelhos de ar condicionado, quando as condições climatéricas do local da residência o aconselharem.
 
-###### Art. 18.º - 1. A entrega e a restituição dos móveis e utensílios serão feitas mediante termo de responsabilidade, lavrado em livro próprio pelo secretário do Cofre, depois de vistoriados por uma comissão a designar pelo conselho administrativo.
+Art. 18.º - 1. A entrega e a restituição dos móveis e utensílios serão feitas mediante termo de responsabilidade, lavrado em livro próprio pelo secretário do Cofre, depois de vistoriados por uma comissão a designar pelo conselho administrativo.
 
 2. O auto de vistoria indicará o valor, a qualidade, o estado de conservação de cada artigo e as faltas verificadas.
 
-###### Art. 19.º As despesas de conservação dos móveis e utensílios durante o respectivo período de duração mínima são da responsabilidade do usuário.
+Art. 19.º As despesas de conservação dos móveis e utensílios durante o respectivo período de duração mínima são da responsabilidade do usuário.
 
-###### Art. 20.º - 1. Os bens móveis referidos neste Regulamento terão os seguintes prazos mínimos de duração, cujo decurso justificará a sua incapacitação e abate nos respectivos inventários:
+Art. 20.º - 1. Os bens móveis referidos neste Regulamento terão os seguintes prazos mínimos de duração, cujo decurso justificará a sua incapacitação e abate nos respectivos inventários:
 
 ... Anos
 
@@ -246,16 +250,16 @@ t) Aparelhos de ar condicionado ... 10
 
 4. Os móveis julgados incapacitados serão abatidos à carga e recolhidos aos armazéns do Cofre para lhes ser dado o destino que for deliberado pelo conselho administrativo, sendo responsável por eles o secretário do Cofre.
 
-###### Art. 21.º - 1. Os móveis, utensílios, cortinados e carpetes serão vistoriados por uma comissão designada pelo conselho administrativo do Cofre sempre que forem entregues aos usuários ou devolvidos por estes.
+Art. 21.º - 1. Os móveis, utensílios, cortinados e carpetes serão vistoriados por uma comissão designada pelo conselho administrativo do Cofre sempre que forem entregues aos usuários ou devolvidos por estes.
 
 2. O auto de vistoria mencionará a qualidade, valor e estado de conservação de cada artigo.
 
-###### Art. 22.º Os usuários são responsáveis pela falta e deterioração de mobiliário e mais artigos, nos termos referidos no n.º 2 do artigo 10.º
+Art. 22.º Os usuários são responsáveis pela falta e deterioração de mobiliário e mais artigos, nos termos referidos no n.º 2 do artigo 10.º
 
-###### Art. 23.º Os móveis e utensílios pertencentes ao Cofre serão marcados com as palavras «Cofre Geral de Justiça».
+Art. 23.º Os móveis e utensílios pertencentes ao Cofre serão marcados com as palavras «Cofre Geral de Justiça».
 
-###### Art. 24.º As dúvidas suscitadas pela execução deste Regulamento serão resolvidas pelo Conselho Superior Judiciário do Ultramar.
+Art. 24.º As dúvidas suscitadas pela execução deste Regulamento serão resolvidas pelo Conselho Superior Judiciário do Ultramar.
 
-###### Art. 25.º As disposições do presente Regulamento são aplicáveis subsidiàriamente às casas que não se integrem no património do Cofre habitadas por magistrados, conservadores e subdelegados do procurador da República.
+Art. 25.º As disposições do presente Regulamento são aplicáveis subsidiàriamente às casas que não se integrem no património do Cofre habitadas por magistrados, conservadores e subdelegados do procurador da República.
 
-**O Presidente do Conselho Superior Judiciário do Ultramar, Jorge Henrique da Cruz Pinto Furtado.**
+O Presidente do Conselho Superior Judiciário do Ultramar, Jorge Henrique da Cruz Pinto Furtado.

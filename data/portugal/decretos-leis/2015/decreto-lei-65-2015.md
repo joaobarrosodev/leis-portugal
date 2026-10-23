@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08300/0212402138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2015/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2015-67098358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2fee76dc1e52fd89de3951ab809923c7fb102cf38c9baa78131b15cc8190bd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7fc9027874fa8adbe0fa01b961f886b785f3ae38dd23a9c6cd81c454f4089f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
 subjects:
 - Adjudicação
 - Adjudicação por Concurso Público
-- Livro de Reclamações
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Autorização Legislativa
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
+- Bingo
+- Branqueamento de Capitais
 - Concurso Público
 - Contra-ordenação
 - Contrato de Concessão
-- Fiscalização
-- Branqueamento de Capitais
-- Horário de Funcionamento
 - Contribuições e Impostos
+- Estabelecimento de Jogos
+- Fiscalização
+- Gratificação
+- Horário de Funcionamento
 - Inspecção Geral de Jogos
 - Instituto de Gestão da Tesouraria e do Crédito Público
-- Bingo
-- Licenciamento
 - Instituto do Turismo de Portugal
-- Agência de Gestão da Tesouraria e da Dívida Pública
+- Jogos de Fortuna e Azar
+- Licenciamento
+- Livro de Reclamações
 - Pessoal dos Casinos
 - Prémio
 - Proteção do Consumidor
 - Receita
 - Regime Fiscal
-- Gratificação
 - ZONA de JOGO
 relationships:
 - type: cites
@@ -133,16 +133,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56388821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692421:por
+  label: null
+  source: null
 article_structure:
-  article_count: 89
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 59
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:04Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +289,9 @@ Objeto
 
 2 - As características, os elementos e as regras técnicas das modalidades do jogo do bingo, bem como os prémios a atribuir e os demais requisitos necessários para a exploração do jogo nas salas e funcionamento das sessões de jogo constam de regulamento a aprovar por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -199,23 +305,31 @@ b) O bingo eletrónico.
 
 4 - Qualquer modalidade do jogo do bingo pode ser explorada em simultâneo em várias salas de jogo do bingo, nos termos e condições definidos no regulamento a que se refere o n.º 2 do artigo 1.º.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - As normas relativas à exploração e à prática do jogo do bingo são de interesse e ordem públicos, cabendo à entidade de controlo, inspeção e regulação emitir os regulamentos, as instruções e as orientações que se afigurem necessários ao seu cumprimento.
 
 2 - As funções de entidade de controlo, inspeção e regulação são exercidas pela comissão de jogos do Instituto do Turismo de Portugal, I.P. (comissão de jogos) e pelo Serviço de Regulação e Inspeção de Jogos do Instituto do Turismo de Portugal, I.P. (Serviço de Regulação e Inspeção de Jogos), nos termos previstos na lei orgânica deste instituto, aprovada pelo [Decreto-Lei n.º 129/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2012-178510), de 22 de junho, alterado pelo [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359).
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Os concessionários da exploração de salas de jogo do bingo e os seus trabalhadores devem prestar toda a colaboração que lhes seja solicitada pelo Serviço de Regulação e Inspeção de Jogos, bem como fornecer todas as informações e todos os documentos necessários ao desempenho das funções de controlo, inspeção e regulação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os concessionários da exploração de salas de jogo do bingo e os seus trabalhadores estão obrigados a disponibilizar e prestar informação sobre as regras de cada modalidade do jogo do bingo, de forma clara e transparente.
 
 2 - Os concessionários da exploração de salas de jogo do bingo e os seus trabalhadores estão ainda obrigados a disponibilizar aos jogadores, em articulação com as entidades competentes na matéria, informação sobre problemas de dependência e adição ao jogo e, nomeadamente, sobre as entidades que prestam apoio a jogadores com problemas de dependência e adição.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A exploração e a prática do jogo do bingo só são permitidas nos locais que vierem a ser determinados por despacho do membro do Governo responsável pela área do turismo.
 
@@ -223,7 +337,9 @@ Os concessionários da exploração de salas de jogo do bingo e os seus trabalha
 
 3 - [...].
 
-###### Artigo 7.º — Regime da concessão da exploração das salas de jogo do bingo
+Artigo 7.º
+
+Regime da concessão da exploração das salas de jogo do bingo
 
 1 - A exploração de salas de jogo do bingo é atribuída mediante concessão a pessoas coletivas públicas ou privadas.
 
@@ -243,7 +359,9 @@ Os concessionários da exploração de salas de jogo do bingo e os seus trabalha
 
 9 - Quando sejam praticados atos administrativos relativos à execução do contrato, estes constituem título executivo, podendo o cumprimento das obrigações determinadas pelos mesmos ser imposto coercivamente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A caução a prestar para garantia da outorga do contrato de concessão, do cumprimento de todas as obrigações legais e contratuais, incluindo o pagamento dos prémios e das sanções pecuniárias por que o concessionário seja responsável, bem como pela obrigação de entrega de todo o material e o equipamento de jogo em boas condições de funcionamento e de utilização no termo do prazo da concessão, é de valor correspondente a (euro) 250,00 por cada lugar previsto na lotação da sala de jogo de bingo objeto do concurso, de montante nunca inferior a (euro) 50 000,00.
 
@@ -253,11 +371,15 @@ Os concessionários da exploração de salas de jogo do bingo e os seus trabalha
 
 4 - A falta de reforço da caução no prazo estabelecido confere ao Serviço de Regulação e Inspeção de Jogos o direito de aplicar penalidades, podendo o concedente resolver o contrato de concessão.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Sem prejuízo da observância dos requisitos estabelecidos no regulamento previsto no n.º 2 do artigo 1.º, bem como da obtenção de todas as licenças necessárias à construção, à instalação e ao funcionamento das salas de jogo do bingo, os concessionários devem, previamente ao início da atividade, assegurar que as salas satisfazem todos os requisitos de funcionalidade, conforto e comodidade próprios de uma oferta turística de qualidade e se encontram dotadas do equipamento considerado necessário ao desenvolvimento e às exigências das modalidades de bingo que exploram.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O início da exploração da sala de jogo do bingo é autorizado pelo Serviço de Regulação e Inspeção de Jogos, após o licenciamento das respetivas instalações nos termos legais e a verificação de que a sala reúne os requisitos de funcionamento previstos no artigo anterior.
 
@@ -265,7 +387,9 @@ Sem prejuízo da observância dos requisitos estabelecidos no regulamento previs
 
 3 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -283,7 +407,9 @@ Sem prejuízo da observância dos requisitos estabelecidos no regulamento previs
 
 8 - O pedido de autorização para a cessão da exploração a que se refere o número anterior deve ser instruído com a identificação da entidade cessionária e cópia da minuta de contrato de cessão de exploração a celebrar, sem prejuízo de outros elementos e documentos necessários ou que sejam solicitados pelo Serviço de Regulação e Inspeção de Jogos.
 
-###### Artigo 14.º — Período e horário de funcionamento
+Artigo 14.º
+
+Período e horário de funcionamento
 
 1 - As salas de jogo do bingo funcionam nos períodos estabelecidos nos contratos de concessão, podendo a comissão de jogos, a pedido fundamentado dos concessionários e no respeito pela legislação laboral, autorizar o seu encerramento temporário, até ao limite máximo acumulado de seis meses de encerramento, por ano.
 
@@ -295,7 +421,9 @@ Sem prejuízo da observância dos requisitos estabelecidos no regulamento previs
 
 5 - No caso de pretenderem utilizar a faculdade prevista no número anterior, os concessionários devem comunicar ao Serviço de Regulação e Inspeção de Jogos, por via eletrónica e com o período de antecedência definido no n.º 2, o horário de abertura ao público da divisão onde se encontra instalado o bingo eletrónico e afixar na sala de jogo do bingo, em local visível, a referência às diferenças de horário.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - É proibido o acesso às salas de jogo do bingo a menores de 18 anos, devendo, à entrada das salas de jogo do bingo, ser solicitada a exibição de um documento de identificação quando se suscitem dúvidas quanto à idade da pessoa.
 
@@ -305,15 +433,21 @@ Sem prejuízo da observância dos requisitos estabelecidos no regulamento previs
 
 4 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Os trabalhadores das salas de jogo do bingo devem cumprir e fazer cumprir, na parte que lhes diga respeito, as disposições legais e regulamentares, incluindo os regulamentos, instruções e orientações emitidos pelo Serviço de Regulação e Inspeção de Jogos, respeitantes à exploração e à prática do jogo do bingo e ao exercício da respetiva profissão.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Sem prejuízo das demais obrigações que lhe estejam legalmente cometidas, o concessionário deve fornecer aos trabalhadores das salas de jogo do bingo informação sobre a legislação que regulamenta a atividade, bem como sobre os regulamentos, instruções e orientações emitidos pelo Serviço de Regulação e Inspeção de Jogos.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]:
 
@@ -329,7 +463,9 @@ e) [...].
 
 2 - [Revogado].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - No bingo tradicional, são reservadas a prémios as seguintes percentagens da verba correspondente à receita bruta resultante da venda de cartões de bingo:
 
@@ -343,7 +479,9 @@ b) [...].
 
 4 - Os tipos de prémios em cada modalidade de jogo do bingo, bem como os respetivos valores, são fixados no regulamento previsto no n.º 2 do artigo 1.º
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Nas salas de jogo do bingo instaladas fora dos casinos, constitui receita dos concessionários:
 
@@ -355,7 +493,9 @@ b) No bingo eletrónico, as verbas correspondentes a 32% da receita bruta result
 
 3 - Sem prejuízo do disposto no artigo anterior, os concessionários podem aumentar a percentagem da receita bruta a afetar a prémios do jogo do bingo, em qualquer das suas modalidades, por redução do montante da receita que lhes é destinada nos termos do presente artigo, devendo, nesse caso, informar o Serviço de Regulação e Inspeção de jogos com, pelo menos, oito dias de antecedência.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A parte da receita bruta resultante da venda dos cartões de bingo tradicional e de bingo eletrónico não reservada a prémios nem a receita dos concessionários é consignada nos seguintes termos:
 
@@ -375,7 +515,9 @@ ii) 25% para o Turismo de Portugal, I.P..
 
 2 - [Revogado].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os concessionários da exploração de salas de jogo do bingo são fiéis depositários das importâncias a que se refere o artigo anterior.
 
@@ -383,7 +525,9 @@ ii) 25% para o Turismo de Portugal, I.P..
 
 3 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]:
 
@@ -405,13 +549,17 @@ h) [...].
 
 2 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Os concessionários da exploração de salas de jogo do bingo devem manter à disposição do Serviço de Regulação e Inspeção de Jogos a documentação relativa à escrituração especial do jogo do bingo e da sua escrita comercial, bem como facultar os demais elementos e informações relativos ao objeto da concessão.
 
 2 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Sem prejuízo do estabelecido na lei geral, os concessionários da exploração de salas de jogo do bingo são obrigados a possuir e manter atualizada a documentação relativa à contabilidade especial do jogo do bingo, nos termos determinados pelo Serviço de Regulação e Inspeção de Jogos.
 
@@ -421,7 +569,9 @@ h) [...].
 
 4 - Mediante pedido fundamentado dos concessionários, o Serviço de Regulação e Inspeção de Jogos pode autorizar a abertura de uma segunda conta bancária, em instituição de crédito estabelecida num Estado-Membro da União Europeia, destinada especificamente a movimentar os valores relativos a prémios acumulados.
 
-###### Artigo 36.º — Poderes específicos do Serviço de Regulação e Inspeção de Jogos
+Artigo 36.º
+
+Poderes específicos do Serviço de Regulação e Inspeção de Jogos
 
 1 - Sempre que o Serviço de Regulação e Inspeção de Jogos detetar o exercício da atividade de exploração do jogo de bingo por uma entidade que não esteja legalmente habilitada para o efeito, notifica a referida entidade para, no prazo máximo de 48 horas, pôr termo a essa atividade, sem prejuízo da responsabilidade criminal em que a mesma incorre.
 
@@ -435,7 +585,9 @@ h) [...].
 
 6 - [Anterior n.º 3].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A violação das disposições do presente decreto-lei, quando imputáveis aos concessionários, constituem infrações administrativas consideradas leves, quando não expressamente qualificadas como graves ou muito graves, salvo se da sua prática resultarem prejuízos para terceiros ou benefícios para os concessionários, bem como em casos de reincidência, em que são qualificadas como graves.
 
@@ -497,7 +649,9 @@ q) [Anterior alínea n)];
 
 r) [Anterior alínea o)].
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]:
 
@@ -515,7 +669,9 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]:
 
@@ -543,7 +699,9 @@ l) [...].
 
 2 - [...].
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -557,15 +715,21 @@ l) [...].
 
 5 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Os concessionários da exploração de salas de jogo do bingo são obrigados a ter livro de reclamações e a disponibilizá-lo ao utente, nos termos e condições estabelecidas no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, alterado pelos [Decretos-Leis n.os 371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de novembro, [118/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), de 19 de maio, [317/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), de 30 de outubro, e [242/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), de 7 de novembro, devendo o original da reclamação ser remetido ao Serviço de Regulação e Inspeção de Jogos.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 Em tudo o que não estiver previsto no presente decreto-lei, incluindo em matéria de ilícitos e sanções criminais, observa-se o disposto no [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de dezembro, alterado pelo [Decreto-Lei n.º 10/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1995-145222), de 19 de janeiro, pela [Lei n.º 28/2004](https://diariodarepublica.pt/dr/detalhe/lei/28-2004-527594), de 16 de julho, pelo [Decreto-Lei n.º 40/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2005-605322), de 17 de fevereiro, pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 114/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), de 30 de novembro, e respetiva legislação complementar, que disciplina a exploração dos jogos de fortuna ou azar nos casinos.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 A exploração e a prática de qualquer modalidade do jogo do bingo em salas instaladas em casinos obedecem ao disposto no presente decreto-lei, com exceção das normas que não lhe sejam aplicáveis e das que sejam prejudicadas pela legislação respeitante à exploração de jogos nos casinos.»
 
@@ -615,15 +779,15 @@ O presente decreto-lei entra em vigor 30 dias a contar da data da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Luís Maria de Barros Serra Marques Guedes - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 23 de abril de 2015.**
+Promulgado em 23 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de abril de 2015.**
+Referendado em 24 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1217,7 +1381,9 @@ b) 40 % para o Turismo de Portugal, I.P.
 
 ### CAPÍTULO IX — Disposições finais
 
-###### Artigo 46.º — Livro de reclamações
+###### Artigo 46.º
+
+## Livro de reclamações
 
 Os concessionários da exploração de salas de jogo do bingo são obrigados a ter livro de reclamações e a disponibilizá-lo ao utente, nos termos e condições estabelecidas no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, alterado pelos [Decretos-Leis n.os 371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de novembro, [118/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), de 19 de maio, [317/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), de 30 de outubro, e [242/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), de 7 de novembro, devendo o original da reclamação ser remetido ao Serviço de Regulação e Inspeção de Jogos.
 

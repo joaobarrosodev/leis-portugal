@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2009/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2009-604780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0d760bc198e15b2a2f5c9d8fdbe5f81255532aaecc93ef53f545307fb6e59ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98a7eebbd1886d005e3c22c8febb7b89d59a9cf5742ec10fd2246c1abc993547
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Carreira Militar
-- Formação Profissional
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
 - Código de Justiça Militar
-- Exército
-- Força Aérea
 - Definição de Funções
-- Marinha
 - Estatuto
 - Estatuto dos Militares das Forças Armadas
-- Serviço Militar
-- Chefe do Estado Maior do Exército
-- Missão Militar
+- Exército
+- Força Aérea
 - Forças Armadas
+- Formação Profissional
+- Marinha
+- Militar
+- Missão Militar
 - Progressão na Carreira
 - Promoção Profissional
 - Quadro Permanente das Forças Armadas
@@ -90,7 +89,8 @@ subjects:
 - Regulamento
 - Regulamento de Disciplina Militar
 - Remuneração
-- Militar
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
@@ -120,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641716:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:56Z'
   warnings: []
   errors: []
 ---
@@ -180,12 +212,12 @@ O presente decreto-lei produz efeitos a 31 de Dezembro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2009. -José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 23 de Fevereiro de 2009.**
+Promulgado em 23 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Fevereiro de 2009.**
+Referendado em 26 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

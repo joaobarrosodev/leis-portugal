@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/226a00/53225351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/2000/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2000-553875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c93a56c4262bc5102788a5f4a295ca7cd155c9d2730d1c6c48e603e7e8b084b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecea7faa70d183853270cff560f2a7c0889b84057ff844959693bade2af99f98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arbitragem
-- Publicidade
-- Doença Animal
-- Multa
+- Comércio
 - Contra-ordenação
 - Direção Geral de Veterinária
-- Saúde Pública
+- Doença Animal
 - Etiquetagem
+- Exportação
 - Fabrico Industrial
 - Fiscalização
-- Medicamento
 - Importação
 - Licenciamento
+- Medicamento
 - Medicina Veterinária
+- Multa
 - Normas de Segurança
-- Exportação
 - Produto Farmacêutico
 - Produto Veterinário
+- Publicidade
 - Responsabilidade Civil
 - Responsabilidade Criminal
 - Sanção
-- Taxa
-- Comércio
 - Saúde Animal
+- Saúde Pública
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:454810:por
@@ -129,16 +129,21 @@ relationships:
   target: celex:31995R0541
   label: null
   source: http://data.europa.eu/eli/reg/1995/541/oj
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogado, a partir de 27.09.2008, pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
 article_structure:
-  article_count: 87
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 89
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:41Z'
   warnings: []
   errors: []
 ---
@@ -533,7 +538,9 @@ Em casos excepcionais e sempre que seja indispensável tomar uma acção urgente
 
 Aos medicamentos veterinários imunológicos cuja AIM tenha sido concedida nos termos do Regulamento (CE) n.º [2309/93](https://data.europa.eu/eli/reg/1993/2309/oj?locale=pt), do Conselho, de 22 de Julho, será atribuído pela DGV, mediante requerimento do titular da autorização, um código nacional.
 
-### CAPÍTULO III — Artigo 25.º
+### CAPÍTULO III
+
+###### Artigo 25.º
 
 Comissão Técnica de Medicamentos Veterinários Imunológicos
 
@@ -559,7 +566,9 @@ b) Três técnicos propostos pelo LNIV.
 
 ### CAPÍTULO IV — Fabrico, exportação, importação e contraste
 
-#### SECÇÃO I — Artigo 26.º
+#### SECÇÃO I
+
+###### Artigo 26.º
 
 Fabrico de medicamentos veterinários imunológicos
 
@@ -1335,15 +1344,15 @@ O presente diploma entra em vigor no prazo de 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Diogo Campos Barradas de Lacerda Machado - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 6 de Setembro de 2000.**
+Promulgado em 6 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Setembro de 2000.**
+Referendado em 14 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — [a que se refere a alínea a) do artigo 3.º]
 
@@ -1363,7 +1372,7 @@ e) Medicamento veterinário imunológico cujo fabrico envolva processos que, no 
 
 Normas a que devem obedecer os ensaios analíticos, de segurança e de eficácia dos medicamentos veterinários imunológicos.
 
-# PARTE I — Ensaios analíticos (físico-químicos, biológicos ou microbiológicos)
+## PARTE I — Ensaios analíticos (físico-químicos, biológicos ou microbiológicos)
 
 A) Composição qualitativa e quantitativa dos componentes
 
@@ -1533,7 +1542,7 @@ As conclusões devem incluir os resultados das análises e fundamentar o prazo d
 
 No que respeita aos produtos administrados nos alimentos para animais, deve-se igualmente especificar o prazo de validade do produto para as várias fases de mistura, caso esta se efectue, em conformidade com as instruções recomendadas. Caso um produto final deva ser reconstituído antes da administração, deve especificar-se o prazo de validade proposto para o produto reconstituído tal como recomendado. Devem ser apresentados dados que fundamentem o prazo de validade proposto para o produto reconstituído.
 
-# PARTE II — Ensaios de segurança
+## PARTE II — Ensaios de segurança
 
 A) Introdução
 
@@ -1623,7 +1632,7 @@ Caso as conclusões da primeira fase sugiram a possível exposição do produto 
 
 As referidas investigações devem incidir no medicamento imunológico e ou nas substâncias activas e ou nos metabolitos excretados e deve efectuar-se em conformidade com os protocolos constantes da legislação em vigor ou, caso uma determinada finalidade não esteja adequadamente coberta por estes, a investigação deve processar-se conforme outros protocolos internacionalmente reconhecidos. O número e tipos de testes e os critérios para a sua avaliação irão depender dos conhecimentos científicos no momento da apresentação do pedido de autorização de introdução no mercado.
 
-# PARTE III — Ensaios de eficácia
+## PARTE III — Ensaios de eficácia
 
 A) Introdução
 
@@ -1675,7 +1684,7 @@ D) Ensaios de campo
 
 2 - Caso os ensaios laboratoriais não comprovem eficácia, podem ser eventualmente aceites apenas os resultados de campo.
 
-# PARTE IV
+## PARTE IV
 
 Elementos e documentos relativos aos testes de segurança e aos ensaios de eficácia dos medicamentos imunológicos.
 
@@ -1815,7 +1824,7 @@ b) O titular a favor do qual a transferência é efectuada não está estabeleci
 
 12 - A DGV dará conhecimento ao Estado membro de referência da transferência de titular de um medicamento veterinário imunológico aprovado por procedimento de reconhecimento mútuo.
 
-# PARTE A — Alterações de tipo I
+## PARTE A — Alterações de tipo I
 
 [referidas na alínea a) do n.º 1]
 
@@ -1997,7 +2006,7 @@ Alterações no processo de fabrico de componentes que careçam de um novo ensai
 
 Condições a observar: mantêm-se as especificações, as propriedades físico-químicas e todas as características do componente. Se o método de fabrico é susceptível de deixar impurezas não descritas na monografia da Farmacopeia, estas devem ser declaradas com descrição de um procedimento de ensaio adequado. Este ensaio complementar deve ser especificado num certificado de adequação da Farmacopeia Europeia.
 
-# PARTE B — Alterações de valor equivalente a uma nova autorização de introdução no mercado
+## PARTE B — Alterações de valor equivalente a uma nova autorização de introdução no mercado
 
 [referidas na alínea c) n.º 1]
 
@@ -2033,7 +2042,7 @@ Algumas alterações das AIM modificam de modo substancial os termos destas auto
 
 5 - Redução do intervalo de segurança de um medicamento veterinário imunológico se a alteração não estiver associada ao estabelecimento ou à modificação de um limite máximo de resíduos em conformidade com o Regulamento n.º 2377/90.
 
-# PARTE C — Transferência de titular da autorização de introdução no mercado
+## PARTE C — Transferência de titular da autorização de introdução no mercado
 
 [referidas no n.º 9]
 

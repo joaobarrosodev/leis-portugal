@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/1998/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1998-229284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe137bd1d4f717f388759f92a21d5e8e5bea2785ce2eb052dadd621cff580017
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7118630af74671ff5e144cbd1059ff3b203d64021ece148271f3510b60ea76bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,239 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRC
 - Código do IRS
 - Estatuto dos Benefícios Fiscais
-- IRS
-- Incentivos Fiscais
-- Isenção Fiscal
-- Zona Tributária Privilegiada
-- Reforma Antecipada
-- Pré-reforma
-- IRC
-- Reforma
 - Habitação
-- Benefícios Fiscais
+- Incentivos Fiscais
+- IRC
+- IRS
+- Isenção Fiscal
+- Pré-reforma
+- Reforma
+- Reforma Antecipada
 - Retenção na Fonte
 - Taxa
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218483:por
+  label: "Alterado o art. 69º Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma, pelo\
+    \ DEC LEI.44/98.03.03.1998.MF, DR.IS-A [52] de 03.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1998-218483
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:217935:por
+  label: "Alterado o art. 10.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.366/98.23.11.1998.MF, DR.IS-A [271] de 23.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1998-217935
+  date: '1998-11-23'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterados os arts. 10.º e 80.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os arts. 10.º, 21.º, e 80.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do\
+    \ presente diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o art. 80.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-C/2000.29.12.2000.AR, DR.IS-A [299-2ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212014:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jun, na redacão do presente\
+    \ diploma, pela LEI.30-F/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-f-2000-212014
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os arts. 9º, 10.º, 17.º e 21.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:522865:por
+  label: "Alterado o art. 74.º do Código do IRS aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.85/2001.04.08.2001.AR, DR.IS-A [180] de 04.08.2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/85-2001-522865
+  date: '2001-08-04'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.221/2001.07.08.2001.MF, DR.IS-A [182] de 07.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 10.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:425933:por
+  label: "Alterado o art. 10.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.228/2002.31.10.2002.MF, DR.IS-A [252] de 31.10.2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2002-425933
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os art.s 4º e 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 4º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 9.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 9.º do Código dos IRS aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o art. 10.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, alterado no presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterados os art.s 4º e 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 10º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 9º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:629425:por
+  label: "Alterado o art. 10º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, e na redacção do presente diploma, pelo DEC LEI.361/2007.02.11.2007.MFAP, DR.IS [211] de 02.11.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-2007-629425
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 75.º do Código do IRC aprovada pelo Dec Lei 442-B/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 9.º, 10.º e 74.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de\
+    \ 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:493013:por
+  label: "Alterado, a partir de 01.09.2009, o art. 9º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção\
+    \ do presente diploma, pelo DEC LEI.175/2009.04.08.2009.MFAP, DR.IS [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2009-493013
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art 69º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção\
+    \ do presente diploma, republicado pelo presente diploma, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 74.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterado o art. 10º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção constante do presente\
+    \ diploma, pela LEI.15/2010.26.07.2010.AR, DR.IS [143] de 26.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 76º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, e republicado pelo Dec Lei 159/2009, de 13-Jul, pela\
+    \ LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art.10º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: "Dada nova redação ao art. 41º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89 de 01-jul, alterado\
+    \ pelo presente diploma, pelo DEC LEI.82/2013.17.06.2013.MF, DR.IS [114] de 17.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 10º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 69.º, 75.º e 76.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado
+    pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
   label: null
@@ -97,16 +310,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:212015:por
+  label: "Revogado o art. 2º pela LEI.30-G/2000.2000.12.29.AR DR.IS-A [299]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
 article_structure:
-  article_count: 15
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:34Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +415,9 @@ g) As importâncias relativas à constituição, a título oneroso, de direitos 
 
 4 - ...
 
-###### Artigo 10.º — Rendimentos da categoria G
+Artigo 10.º
+
+Rendimentos da categoria G
 
 1 - Constituem mais-valias os ganhos obtidos que, não sendo considerados rendimentos comerciais, industriais, agrícolas, de capitais ou prediais, resultem de:
 
@@ -195,7 +439,9 @@ g) As importâncias relativas à constituição, a título oneroso, de direitos 
 
 10 - ...
 
-###### Artigo 17.º — Rendimentos obtidos em território português
+Artigo 17.º
+
+Rendimentos obtidos em território português
 
 1 - Consideram-se obtidos em território português:
 
@@ -225,7 +471,9 @@ l) [Anterior alínea j)];
 
 3 - ...
 
-###### Artigo 21.º — Englobamento
+Artigo 21.º
+
+Englobamento
 
 1 - ...
 
@@ -245,7 +493,9 @@ b) Tratando-se do crédito de imposto por dupla tributação internacional previ
 
 7 - ...
 
-###### Artigo 74.º — Taxas liberatórias
+Artigo 74.º
+
+Taxas liberatórias
 
 1 - Estão sujeitos a retenção na fonte, a título definitivo, os rendimentos obtidos em território português constantes dos números seguintes e, bem assim, os rendimentos mencionados na alínea b) do n.º 2 do artigo 94.º, às taxas liberatórias neles previstas.
 
@@ -279,7 +529,9 @@ c) Os rendimentos provenientes da propriedade intelectual ou industrial ou da pr
 
 7 - ...
 
-###### Artigo 80.º — Deduções à colecta
+Artigo 80.º
+
+Deduções à colecta
 
 1 - ...
 
@@ -377,7 +629,9 @@ d) ...
 
 9 - ...
 
-###### Artigo 69.º — Taxas
+Artigo 69.º
+
+Taxas
 
 1 - ...
 
@@ -399,7 +653,9 @@ f) Comissões por intermediação na celebração de quaisquer contratos e rendi
 
 4 - ...
 
-###### Artigo 75.º — Retenções na fonte
+Artigo 75.º
+
+Retenções na fonte
 
 1 - ...
 
@@ -433,7 +689,9 @@ g) Rendimentos provenientes da intermediação na celebração de quaisquer cont
 
 9 - ...
 
-###### Artigo 76.º — Dispensa de retenção na fonte
+Artigo 76.º
+
+Dispensa de retenção na fonte
 
 Não existe obrigação de efectuar a retenção na fonte de IRC, quando este tenha a natureza de imposto por conta, nos seguintes casos:
 
@@ -495,12 +753,12 @@ b) Os rendimentos das prestações de serviços auferidos por entidades não res
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 26 de Janeiro de 1998.**
+Promulgado em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 1998.**
+Referendado em 29 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

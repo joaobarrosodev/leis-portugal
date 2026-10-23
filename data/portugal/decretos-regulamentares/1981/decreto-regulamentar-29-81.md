@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14200/14591462.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cfdf147cc9b52cfe19486c2bae995fe84a0ccad1cd355dacae7638436806d0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a85d02ab02e0d0ae2c4e28c990f13055d6a70ac3f5d0250d81799d270551e9a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira de Técnico Superior de Saúde
+- Carreira Profissional
+- Pessoal de Saúde
+- Pessoal Técnico Superior
 relationships:
 - type: amended_by
   target: pt:dre:344424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607140:por
+  label: "Alterado o nº 2 da al. d) do nº 1 do art. 7º, pelo DR.17/82.1982.04.08.MAS, DR.IS [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1982-607140
+  date: '1982-04-08'
+- type: amended_by
+  target: pt:dre:575487:por
+  label: "Incluido o ramo de nutrição no âmbito de aplicação do presente diploma, pela PORT.503/90.04.07.1990.MF, DR.IS [152]\
+    \ de 04.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1990-575487
+  date: '1990-07-04'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344424:por
+  label: "Revogado pelo DEC LEI.414/91.1991.10.22.MS, DR.IS-A [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/414-1991-344424
+  date: '1991-10-22'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:53Z'
   warnings: []
   errors: []
 ---
@@ -240,12 +272,12 @@ O presente diploma produz efeitos desde 1 de Abril de 1980.
 
 Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel - João António de Morais Leitão - Vítor Pereira Crespo - Carlos Matos Chaves de Macedo - Eusébio Marques de Carvalho.
 
-**Promulgado em 15 de Junho de 1981.**
+Promulgado em 15 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo referido no artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/14200/14591462.pdf))](https://files.diariodarepublica.pt/1s/1981/06/14200/14591462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/14200/14591462.pdf)

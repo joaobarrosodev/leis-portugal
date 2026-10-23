@@ -47,36 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1982-392815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c306aa69a9b06ab2ce10da1269ca1462b00ec492b91d2966ed32b3ec0a5dcefc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2ca9379cc83ba736302736d8057f20683dc26ef03311b86cf0ef683b9f0f55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Admissão de Pessoal
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686576:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:02Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +130,14 @@ Para tanto, a providência que, de momento, se apresenta como mais adequada e ex
 
 Nestes termos, para evitar o congelamento da movimentação de grande parte das carreiras do novo quadro da Administração dos Portos do Douro e Leixões por tempo indeterminado, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Enquanto não for publicado o decreto regulamentar a que se refere o artigo 11.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho, e nos termos do disposto na [Portaria n.º 893/80](https://diariodarepublica.pt/dr/detalhe/portaria/893-1980-462394), de 27 de Outubro, é tornada extensiva à Administração dos Portos do Douro e Leixões, com as necessárias adaptações, a aplicação do Regulamento de Admissão e Promoção do Pessoal da Administração-Geral do Porto de Lisboa, aprovado pelo [Decreto Regulamentar n.º 12/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1978-425557), de 27 de Abril, sem prejuízo do disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, quanto ao pessoal dirigente por este abrangido.
+Artigo 1.º Enquanto não for publicado o decreto regulamentar a que se refere o artigo 11.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho, e nos termos do disposto na [Portaria n.º 893/80](https://diariodarepublica.pt/dr/detalhe/portaria/893-1980-462394), de 27 de Outubro, é tornada extensiva à Administração dos Portos do Douro e Leixões, com as necessárias adaptações, a aplicação do Regulamento de Admissão e Promoção do Pessoal da Administração-Geral do Porto de Lisboa, aprovado pelo [Decreto Regulamentar n.º 12/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1978-425557), de 27 de Abril, sem prejuízo do disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, quanto ao pessoal dirigente por este abrangido.
 
-###### Art. 2.º Fica revogado o Regulamento dos Concursos de Admissão e Promoção do Pessoal da Administração dos Portos do Douro e Leixões aprovado pelo [Decreto n.º 37857](https://diariodarepublica.pt/dr/detalhe/decreto/37857-1950-480092), de 22 de Junho de 1950, salvo em relação aos concursos pendentes à data da entrada em vigor do presente diploma.
+Art. 2.º Fica revogado o Regulamento dos Concursos de Admissão e Promoção do Pessoal da Administração dos Portos do Douro e Leixões aprovado pelo [Decreto n.º 37857](https://diariodarepublica.pt/dr/detalhe/decreto/37857-1950-480092), de 22 de Junho de 1950, salvo em relação aos concursos pendentes à data da entrada em vigor do presente diploma.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 21 de Abril de 1982.**
+Promulgado em 21 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

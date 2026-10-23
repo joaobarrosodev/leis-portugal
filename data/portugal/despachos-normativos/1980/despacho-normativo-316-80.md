@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/316-1980-461814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed162f9c8f47925b061fc3b634f64b35ae5c20be84f47ee57af300129ad2cb0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c77678e47075ba634c18c14fa126b36fe10101000eed6d8af31bab9d6f397190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centralcer
+- Investimento
+- Pisee
+- Setor Empresarial do Estado
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELO DESPACHO NORMATIVO NUMERO 82/81, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 55, DE 7/3/81.\0\
+    /3/81.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:388442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:363774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:388442:por
+  label: Retificado pelo(a) Despacho Normativo n.º 82/81 - Diário da República n.º 55/1981, Série I de 1981-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/82-1981-388442
+  date: '1981-03-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:50Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +121,7 @@ Tendo em conta os trabalhos desenvolvidos no âmbito da secção especializada d
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1980 os projectos da Centralcer - Central de Cervejas, E. P., a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22300/29422942.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22300/29422942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22300/29422942.pdf)
 
 Estes investimentos correspondem, em 1980, a um dispêndio global de 396000 contos.
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 303/1974, 4º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1670-(84) a 1670-(86)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1974-236109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4409224d72246c967e40b1359c2dac11952640ebe1c14bc6ec11791c78cdeb8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3485d240325bd3b74a8e77e629ae68a5f518465c8bd5c7514eb182335d771990
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Pensão de Invalidez
+- Pensão de Velhice
+- Regime Geral de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:653127:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355284:por
+  label: Substituída a tabela inserta no n.º 1 da norma VII pelo(a) Portaria n.º 789/75 - Diário do Governo n.º 300/1975,
+    2º Suplemento, Série I de 1975-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/789-1975-355284
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Substituída pelo(a) Decreto-Lei n.º 329/93 - Diário da República n.º 226/1993, Série I-A de 1993-09-25, nos seus
+    precisos termos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1993-653127
+  date: '1993-09-25'
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:46Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +203,7 @@ VI - As pensões reduzidas, quer por força do disposto nos artigos 27.º e 189.
 
 VII - 1. Em todos os casos em que se torne necessário considerar a actualização de salários, designadamente para os efeitos previstos nas normas XI, n.º 3, e XX, alínea b), da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, na norma VII, n.º 2, da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e no n.º 7 do artigo 100.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com a redacção que lhe foi dada pelo [Decreto n.º 178/73](https://diariodarepublica.pt/dr/detalhe/decreto/178-1973-673820), de 17 de Abril, utilizar-se-á a seguinte tabela, que substituirá a tabela inserta na norma V, n.º 1, da [Portaria n.º 673/73](https://diariodarepublica.pt/dr/detalhe/portaria/673-1973-567444), de 8 de Outubro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf)
 
 2. Para os pensionistas da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa, com pensões iniciadas antes de 1949, tomar-se-á como ano de início, para efeitos do número anterior, o ano de 1949.
 

@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1984-381564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ecee52033cf6c50a7a156d21154d578369aab219fb4ce2fce39a3abcb83b898
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a370e8e06a537d6730151f8053ba8b03db3d09ce70e03a708182155969311aa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Geografia
+- Faculdade de Letras
+- Licenciatura
+- Lisboa
+- Plano de Estudos
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:294565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:06:14Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +143,9 @@ O presente plano de estudos entrará em funcionamento progressivamente, ano curr
 
 Ministério da Educação.
 
-**Assinada em 7 de Junho de 1984.**
+Assinada em 7 de Junho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Universidade de Lisboa
 
@@ -143,7 +161,7 @@ Variante: Geografia e Planeamento Regional e Local
 
 Grau: licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
 
 QUADRO II
 
@@ -151,7 +169,7 @@ QUADRO II
 
 Grau: licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
 
 QUADRO III
 
@@ -159,7 +177,7 @@ QUADRO III
 
 Grau: licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
 
 QUADRO IV
 
@@ -167,4 +185,4 @@ QUADRO IV
 
 Grau: licenciatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf))](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17000/22552256.pdf)

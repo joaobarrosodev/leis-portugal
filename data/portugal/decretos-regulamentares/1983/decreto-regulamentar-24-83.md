@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06300/09260927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1983-310465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0240b6198e020a4e8bb2d1a24c2941c1f066f8754583a0f0e7d956708dbdbe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12cd1c86954c1ebf41f5080ec895fe91b7b612e5d638b0a53b8212a363f8ffe5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português do Património Cultural
+- Orgânica
+- Património Cultural
 relationships:
 - type: amended_by
   target: pt:dre:575493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:575493:por
+  label: "Revogado pelo DEC LEI.216/90.03.07.1990.PCM, DR.IS [151] de 03.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1990-575493
+  date: '1990-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:10Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +105,9 @@ Reconhecendo-se a conveniência de alterar algumas das disposições do [Decreto
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 13.º e 50.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 13.º e 50.º do [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - O conselho administrativo é composto por:
+Art. 12.º - 1 - O conselho administrativo é composto por:
 
 a) O presidente do IPPC, que presidirá;
 
@@ -107,7 +119,7 @@ d) Um representante da Direcção-Geral da Contabilidade Pública.
 
 2 - O conselho administrativo será secretariado por um funcionário, a designar pelo presidente, sem direito a voto.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - O conselho administrativo reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocado pelo seu presidente.
 
@@ -119,18 +131,18 @@ d) Um representante da Direcção-Geral da Contabilidade Pública.
 
 6 - Ao representante da Direcção-Geral da Contabilidade Pública e ao secretariado será atribuída uma gratificação mensal certa, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Cultura e Coordenação Científica.
 
-###### Art. 50.º Os levantamentos e transferências das contas abertas a favor do IPPC só poderão ter lugar com a assinatura de 2 membros do conselho administrativo, sendo um deles o presidente ou o vice-presidente.
+Art. 50.º Os levantamentos e transferências das contas abertas a favor do IPPC só poderão ter lugar com a assinatura de 2 membros do conselho administrativo, sendo um deles o presidente ou o vice-presidente.
 
-###### Art. 2.º Os tesoureiros do IPPC ou quem os substitua, durante o período de substituição, têm direito a abono para falhas.
+Art. 2.º Os tesoureiros do IPPC ou quem os substitua, durante o período de substituição, têm direito a abono para falhas.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Francisco António Lucas Pires.
 
-**Promulgado em 21 de Fevereiro de 1983.**
+Promulgado em 21 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Março de 1983.**
+Referendado em 1 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

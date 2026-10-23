@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 208/1980, 1º Suplemento, Série I de 1980-09-09
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2584-(1) a 2584-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20801/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-a-1980-332926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd6855f2f33f090161a75cf08f994aff816e1bb8a8af4703a7597bb134125358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 870c001faa49bfe7469699d6fe9b5b390a75ff1160d6204ec0131bc49e42ae76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Gabinete para a Pesquisa e Exploração de Petróleo
+- Imposto sobre a Produção de Petróleo
+- Imposto sobre o Rendimento do Petróleo
+- Petróleo
+- Prospecção de Petróleo
+- Regime Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:165993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680180:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:33Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +118,9 @@ Considerando, em consequência, que é necessário proceder a um reajustamento d
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 15.º do regulamento aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio, passa a ter a redacção que segue:
+Artigo 1.º O artigo 15.º do regulamento aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio, passa a ter a redacção que segue:
 
-###### Art. 15.º - 1 - Quando o imposto deva ser pago em dinheiro, o valor em escudos da produção tributável será determinado de acordo com o seguinte:
+Art. 15.º - 1 - Quando o imposto deva ser pago em dinheiro, o valor em escudos da produção tributável será determinado de acordo com o seguinte:
 
 a) Para as quantidades de ramas, gasolina natural, gás comercial e «outras substâncias» mencionadas no artigo 1.º produzidas e vendidas, as respectivas valorizações serão feitas aos preços reais de venda, em condições normais de mercado;
 
@@ -116,12 +136,12 @@ c) Para as quantidades de ramas, gasolina natural, gás comercial e «outras sub
 
 5 - Quando o recurso de que trata o número anterior for totalmente desatendido, o Ministro da Indústria e Energia poderá fixar, a título de custas, um agravamento ao imposto, graduado conforme as circunstâncias, mas nunca superior a 5%.
 
-###### Art. 2.º São revogados os n.os 3 a 7 do artigo 14.º, o artigo 16.º, o n.º 2 do artigo 26.º, o artigo 44.º e a alínea c) do artigo 80.º do regulamento aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio.
+Art. 2.º São revogados os n.os 3 a 7 do artigo 14.º, o artigo 16.º, o n.º 2 do artigo 26.º, o artigo 44.º e a alínea c) do artigo 80.º do regulamento aprovado pelo [Decreto n.º 151/72](https://diariodarepublica.pt/dr/detalhe/decreto/151-1972-680180), de 6 de Maio.
 
 Francisco Sá Carneiro - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 9 de Setembro de 1980.**
+Promulgado em 9 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

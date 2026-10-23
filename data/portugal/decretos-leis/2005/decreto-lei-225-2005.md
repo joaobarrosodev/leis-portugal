@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/2005/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2005-468998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee0ba5fb4ebc1bce43fc690c307ecb222300f0fe4a76f3a02b8d4e6f537eb9f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9678c2158a7a1bccf51450bbe1a8cbe52eedf22a6813912571364de837e396d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajudas de Custo
+- Autarquia Local
+- Coimbra
 - Conselho de Acompanhamento dos Julgados de Paz
-- Julgado de Paz
 - Deslocação em Serviço
-- Ministério da Justiça
 - Horário de Funcionamento
 - Instalação de Serviços
 - Juiz de Paz
-- Serviço de Mediação
-- Coimbra
+- Julgado de Paz
+- Ministério da Justiça
 - Santa Maria da Feira
+- Serviço de Mediação
 - Sintra
-- Autarquia Local
 - Trofa
 relationships:
 - type: cites
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:241184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:06Z'
   warnings: []
   errors: []
 ---
@@ -245,12 +253,12 @@ Os julgados de paz criados pelo presente decreto-lei entram em funcionamento na 
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 9 de Dezembro de 2005.**
+Promulgado em 9 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

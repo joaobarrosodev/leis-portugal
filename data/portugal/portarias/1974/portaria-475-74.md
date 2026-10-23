@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/475-1974-475946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4f62b11c4b1be0713272514fd35de0fa863146ac429b7926052247e47e6ca17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c6fe119dbdb7b722774b6f9545491d81b522c4d09d5290850352806999c9e75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:413048:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:15Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ As guarnições da Força Aérea, no continente e ilhas adjacentes, identificam-
 
 Estado-Maior da Força Aérea, 16 de Julho de 1974. - O Chefe do Estado-Maior da Força Aérea, Manuel Diogo Neto, general.
 
-## Anexo à Portaria n.º 475/74
+Anexo à Portaria n.º 475/74
 
 1 - Guarnição de Paços de Ferreira: área limitada pela envolvente Matosinhos-Vila Nova de Famalicão-Guimarães-Marco de Caneveses-Vila Nova de Gaia-Porto-Matosinhos.
 
@@ -117,4 +121,4 @@ Estado-Maior da Força Aérea, 16 de Julho de 1974. - O Chefe do Estado-Maior da
 
 11 - Guarnição das Lajes: área da ilha Terceira.
 
-**O Chefe do Estado-Maior da Força Aérea, Manuel Diogo Neto, general.**
+O Chefe do Estado-Maior da Força Aérea, Manuel Diogo Neto, general.

@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-1978-468858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7448e9b1227d431892c5dd6b762c81b002f96c9a379d701175b9498a64feac0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ab4d76895c433ecc29db381ae4a0aaae4083a08b131b6a21a1f029976a23e66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:170969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446942:por
+  label: Alterado, no referente ao pessoal docente, o quadro de pessoal civil do Exército pelo(a) Portaria n.º 186/78 - Diário
+    da República n.º 79/1978, Série I de 1978-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-1978-446942
+  date: '1978-04-05'
+- type: amended_by
+  target: pt:dre:297856:por
+  label: Alterado o quadro do pessoal civil do Exército anexo ao presente diploma pelo(a) Portaria n.º 369/78 - Diário da
+    República n.º 156/1978, Série I de 1978-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-1978-297856
+  date: '1978-07-10'
+- type: amended_by
+  target: pt:dre:581866:por
+  label: "Alterado o quadro de pessoal civil do exército aprovado pelo presente diploma, pela PORT.3/80.1980.01.03.CR DR.IS\
+    \ [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1980-581866
+  date: '1980-01-03'
+- type: amended_by
+  target: pt:dre:170969:por
+  label: "Aumentados lugares ao quadro de pessoal civil do Exército aprovado pelo presente diploma, na redacção da Port 645/83,\
+    \ de 04-Jun, pela PORT.940/85.12.12.1985.PCM, DR.IS [286] de 12.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1985-170969
+  date: '1985-12-12'
+- type: cites
+  target: pt:dre:141024:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:51Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +125,14 @@ Estado-Maior do Exército, 16 de Dezembro de 1977. - O Chefe do Estado-Maior do 
 
 Quadro de pessoal civil do Exército
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf))](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf)
 
-## Apêndice 1 (distribuição do pessoal técnico superior por subgrupos) ao quadro do pessoal civil do Exército
+Apêndice 1 (distribuição do pessoal técnico superior por subgrupos) ao quadro do pessoal civil do Exército
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf))](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf)
 
-## Apêndice 2 (distribuição do pessoal oficinal por subgrupos) ao quadro do pessoal civil do Exército
+Apêndice 2 (distribuição do pessoal oficinal por subgrupos) ao quadro do pessoal civil do Exército
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf))](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/00800/00600063.pdf)
 
-**O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general.**
+O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general.

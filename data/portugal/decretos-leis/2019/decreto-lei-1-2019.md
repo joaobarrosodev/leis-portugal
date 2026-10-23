@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00700/0009000093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/2019/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2019-117663336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afd701b730bd05160042740ade17917d3e26e10ee6a75c329c7821022f96b92e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b00cde418f62d8e5a10b7644e60ffb5b69c1f0caa19fc5facaa14c19db4ed3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigação Científica e Tecnológica
-- Proteção dos Animais
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
 - Diretor Geral
-- Saúde Pública
-- Segurança Pública
+- Espécie Protegida
 - Experimentação nos Animais
 - Fiscalização
 - Instituto da Conservação da Natureza e das Florestas
+- Investigação Científica e Tecnológica
 - Notificação
 - Proteção do Ambiente
-- Espécie Protegida
+- Proteção dos Animais
 - Registo de Animais
 - Saúde Animal
+- Saúde Pública
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:1103934892:por
@@ -93,20 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/113/2013/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/113/2013/08/07/p/dre
+- type: cites
+  target: pt:dre:498488:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32010L0063
   label: null
   source: null
 article_structure:
-  article_count: 15
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:36Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +155,9 @@ Os artigos 6.º, 9.º, 10.º, 14.º, 20.º, 21.º, 33.º, 34.º, 41.º, 47.º e 
 
 6 - O disposto nos n.os 2, 3 e 4 não é aplicável sempre que, em circunstâncias de emergência e por razões de bem-estar, saúde pública, segurança pública, saúde animal ou de ordem ambiental, seja necessário occisar os animais.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -165,7 +171,9 @@ Os artigos 6.º, 9.º, 10.º, 14.º, 20.º, 21.º, 33.º, 34.º, 41.º, 47.º e 
 
 6 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -173,7 +181,9 @@ Os artigos 6.º, 9.º, 10.º, 14.º, 20.º, 21.º, 33.º, 34.º, 41.º, 47.º e 
 
 3 - A DGAV pode, com base numa justificação científica, dispensar a aplicação do disposto nos números anteriores.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -189,7 +199,9 @@ Os artigos 6.º, 9.º, 10.º, 14.º, 20.º, 21.º, 33.º, 34.º, 41.º, 47.º e 
 
 7 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A DGAV pode adotar uma medida provisória que permita, caso existam motivos cientificamente fundamentados, a utilização de primatas não humanos para os objetivos previstos na subalínea i) da alínea a) do n.º 1 do artigo 8.º, em relação aos seres humanos é fundamental, não sendo essa utilização efetuada com vista a evitar, prevenir, diagnosticar ou tratar condições clínicas debilitantes ou que possam ser mortais, desde que o objetivo não possa ser alcançado mediante a utilização de espécies distintas dos primatas não humanos.
 
@@ -199,7 +211,9 @@ Os artigos 6.º, 9.º, 10.º, 14.º, 20.º, 21.º, 33.º, 34.º, 41.º, 47.º e 
 
 4 - Caso tenha sido adotada pela DGAV uma medida provisória nos termos dos n.os 1, 2 ou 3, deve ser informada imediatamente a Comissão e os outros Estados-Membros dessa autorização, fundamentando a sua decisão e apresentando provas que confirmem a situação, descrita nos n.os 1, 2 e 3, na qual a medida provisória se baseia.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -229,11 +243,15 @@ j) A identificação da pessoa responsável por assegurar o cumprimento das disp
 
 4 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 O criador, fornecedor e utilizador devem designar um médico veterinário especializado em medicina de animais de laboratório, ou, se for mais adequado, de um perito devidamente qualificado, cabendo-lhes prestar aconselhamento em matéria de bem-estar e tratamento dos animais.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -247,7 +265,9 @@ O criador, fornecedor e utilizador devem designar um médico veterinário especi
 
 6 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -257,7 +277,9 @@ O criador, fornecedor e utilizador devem designar um médico veterinário especi
 
 4 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...].
 
@@ -267,7 +289,9 @@ O criador, fornecedor e utilizador devem designar um médico veterinário especi
 
 4 - Caso seja apresentado um pedido incompleto ou incorreto, a DGAV notifica, o mais rapidamente possível, o requerente da necessidade de apresentar documentação adicional e dos eventuais efeitos na contagem do prazo aplicável.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]:
 
@@ -349,12 +373,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de dezembro de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - Luís Manuel Capoulas Santos.
 
-**Promulgado em 17 de dezembro de 2018.**
+Promulgado em 17 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de dezembro de 2018.**
+Referendado em 18 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111956981

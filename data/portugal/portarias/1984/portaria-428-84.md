@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/428-1984-385444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35eb79ee5e6cfcbbaf0ffa01a94c00d3b91d39f03559032b9abd8a22416ef703
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf30fa5889c13461639f8ddafcdad92f47ea935a978a36de9c20d2177718c3d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Inspecção Geral da Segurança Social
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:04:29Z'
   warnings: []
   errors: []
 ---
@@ -94,25 +101,25 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Admini
 
 Regulamento da Classificação de Serviço dos Funcionários e Agentes em Serviço na Inspecção-Geral da Segurança Social
 
-###### Artigo 1.º - 1 - O presente Regulamento aplica-se à classificação de serviço dos funcionários e agentes em serviço na Inspecção-Geral da Segurança Social com categoria inferior ou igual a assessor.
+Artigo 1.º - 1 - O presente Regulamento aplica-se à classificação de serviço dos funcionários e agentes em serviço na Inspecção-Geral da Segurança Social com categoria inferior ou igual a assessor.
 
 2 - O disposto no presente diploma não é aplicável ao pessoal abrangido pelo regime previsto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e aos chefes de repartição.
 
-###### Art. 2.º A classificação de serviço exprime-se numa menção qualitativa obtida através de um sistema de notação baseado na apreciação quantificada do serviço prestado em relação a cada um dos factores definidos na respectiva ficha de notação.
+Art. 2.º A classificação de serviço exprime-se numa menção qualitativa obtida através de um sistema de notação baseado na apreciação quantificada do serviço prestado em relação a cada um dos factores definidos na respectiva ficha de notação.
 
-###### Art. 3.º Para os efeitos do artigo anterior serão utilizadas fichas de notação de harmonia com os modelos, princípios e regras constantes dos artigos 6.º, 7.º e 9.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho.
+Art. 3.º Para os efeitos do artigo anterior serão utilizadas fichas de notação de harmonia com os modelos, princípios e regras constantes dos artigos 6.º, 7.º e 9.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho.
 
-###### Art. 4.º - 1 - A avaliação e a notação são da competência conjunta dos superiores hierárquicos imediato e de segundo nível, designados por notadores, que, no decurso do período a que se reporta a classificação, reúnam o mínimo de 6 meses de contacto funcional com o notado.
+Art. 4.º - 1 - A avaliação e a notação são da competência conjunta dos superiores hierárquicos imediato e de segundo nível, designados por notadores, que, no decurso do período a que se reporta a classificação, reúnam o mínimo de 6 meses de contacto funcional com o notado.
 
 2 - Exceptua-se do disposto no número anterior a avaliação e a notação do pessoal inserido nas carreiras técnica superior, técnica e técnico-profissional, que são da competência do inspector-geral ou do dirigente em quem aquele delegue, os quais, no mínimo, deverão perfazer 6 meses de contacto funcional com o notado.
 
-###### Art. 5.º - 1 - A competência para homologar as classificações atribuídas pelos notadores é exercida pelo inspector-geral.
+Art. 5.º - 1 - A competência para homologar as classificações atribuídas pelos notadores é exercida pelo inspector-geral.
 
 2 - Quando o referido dirigente não homologar a classificação atribuída pelos notadores ou não concordar com a proposta de solução apresentada pela comissão paritária, deverá ele próprio atribuir, mediante despacho fundamentado, a classificação respectiva, ouvindo a comissão paritária nos casos em que esta não tiver sido ouvida, observando-se para o efeito as normas de actuação deste órgão.
 
 3 - A intervenção, como notador, do dirigente com competência para homologar não prejudica a posterior homologação pelo mesmo dirigente da classificação atribuída.
 
-###### Art. 6.º - 1 - Na Inspecção-Geral da Segurança Social será constituída uma comissão paritária, composta por 4 vogais, sendo 2 representantes da Administração e 2 representantes dos notados, que é o órgão consultivo do dirigente com competência para homologar classificações de serviço.
+Art. 6.º - 1 - Na Inspecção-Geral da Segurança Social será constituída uma comissão paritária, composta por 4 vogais, sendo 2 representantes da Administração e 2 representantes dos notados, que é o órgão consultivo do dirigente com competência para homologar classificações de serviço.
 
 2 - Os vogais representantes da Administração serão designados, de entre os funcionários ou agentes não notados, por despacho do inspector-geral, a proferir no mês de Dezembro de cada ano, onde se determinará o vogal efectivo e seu suplente na orientação dos trabalhos da referida comissão.
 
@@ -140,13 +147,13 @@ f) As facilidades concedidas aos restantes trabalhadores para o exercício do di
 
 8 - Sempre que a comissão paritária seja chamada a pronunciar-se sobre processos em que os vogais tenham participado como notados ou notadores ou quando se verificar a interrupção do mandato de algum deles, passará o referido órgão a funcionar apenas com 2 vogais, sendo um representante da Administração e outro dos notados.
 
-###### Art. 7.º - 1 - O processo de classificação ordinária inicia-se com o preenchimento pelos notados, nos primeiros 5 dias úteis do mês de Janeiro, das rubricas sobre actividades relevantes durante o período em apreciação e funções exercidas constantes das fichas de notação aplicáveis, as quais serão atempadamente fornecidas pelos serviços aos notados, cabendo aos notadores preencher as restantes rubricas, na parte aplicável, até 31 de Janeiro.
+Art. 7.º - 1 - O processo de classificação ordinária inicia-se com o preenchimento pelos notados, nos primeiros 5 dias úteis do mês de Janeiro, das rubricas sobre actividades relevantes durante o período em apreciação e funções exercidas constantes das fichas de notação aplicáveis, as quais serão atempadamente fornecidas pelos serviços aos notados, cabendo aos notadores preencher as restantes rubricas, na parte aplicável, até 31 de Janeiro.
 
 2 - Relativamente aos funcionários e agentes deslocados em serviço externo, o respectivo processo será iniciado imediatamente após o seu regresso à sede do serviço, começando a contar nessa altura os prazos referidos no número anterior.
 
-###### Art. 8.º A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com os notadores, a qual terá lugar nos 15 dias subsequentes ao seu preenchimento pelos competentes notadores.
+Art. 8.º A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com os notadores, a qual terá lugar nos 15 dias subsequentes ao seu preenchimento pelos competentes notadores.
 
-###### Art. 9.º - 1 - O interessado, após tomar conhecimento da ficha de notação, pode apresentar aos notadores, no prazo de 5 dias úteis, reclamação por escrito, com a indicação dos factos que julgue susceptíveis de fundamentarem a revisão da classificação atribuída.
+Art. 9.º - 1 - O interessado, após tomar conhecimento da ficha de notação, pode apresentar aos notadores, no prazo de 5 dias úteis, reclamação por escrito, com a indicação dos factos que julgue susceptíveis de fundamentarem a revisão da classificação atribuída.
 
 2 - O notado que, aquando do conhecimento da ficha de notação, esteja a prestar serviço externo poderá requerer, no próprio dia da entrevista, ao inspector-geral o seu regresso à sede do serviço, para efeitos de reclamação, cabendo, neste caso, ao referido dirigente a fixação de um período de 3 dias úteis seguidos, dentro dos 30 dias subsequentes à realização da entrevista, para o interessado exercer o respectivo direito.
 
@@ -154,7 +161,7 @@ f) As facilidades concedidas aos restantes trabalhadores para o exercício do di
 
 4 - Caso o reclamante se encontre em serviço externo, a referida decisão ser-lhe-á enviada pelo correio, com aviso de recepção.
 
-###### Art. 10.º - 1 - O notado, após ter recebido a decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis subsequentes, que o seu processo seja submetido a parecer da comissão paritária.
+Art. 10.º - 1 - O notado, após ter recebido a decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis subsequentes, que o seu processo seja submetido a parecer da comissão paritária.
 
 2 - Independentemente da data de entrada no serviço, serão considerados tempestivos os requerimentos dos funcionários e agentes em serviço externo que tenham sido remetidos pelo correio, com aviso de recepção, dentro do prazo fixado no número anterior.
 
@@ -162,7 +169,7 @@ f) As facilidades concedidas aos restantes trabalhadores para o exercício do di
 
 4 - A audição da comissão paritária não pode, em caso algum, ser recusada pelo dirigente referido no n.º 1 deste artigo.
 
-###### Art. 11.º - 1 - A comissão paritária poderá solicitar aos notadores ou aos notados os elementos que julgar convenientes para o seu melhor esclarecimento, podendo também convidar qualquer deles a aclarar a sua posição, por escrito.
+Art. 11.º - 1 - A comissão paritária poderá solicitar aos notadores ou aos notados os elementos que julgar convenientes para o seu melhor esclarecimento, podendo também convidar qualquer deles a aclarar a sua posição, por escrito.
 
 2 - A comissão poderá solicitar a presença de técnicos dos serviços com competência legal nas áreas de organização e recursos humanos, os quais, neste caso, participarão nas reuniões sem direito a voto.
 
@@ -172,7 +179,7 @@ f) As facilidades concedidas aos restantes trabalhadores para o exercício do di
 
 5 - Ao inspector-geral competirá a decisão final, que poderá não coincidir com nenhuma das soluções propostas e deverá ser sempre fundamentada.
 
-###### Art. 12.º - 1 - As classificações de serviço ordinárias deverão ser homologadas até 30 de Junho de cada ano civil.
+Art. 12.º - 1 - As classificações de serviço ordinárias deverão ser homologadas até 30 de Junho de cada ano civil.
 
 2 - No prazo de 5 dias úteis contados do acto de homologação é dado conhecimento pelos notadores aos interessados da classificação de serviço que lhes for atribuída, sendo de seguida o processo arquivado no respectivo processo individual.
 
@@ -180,7 +187,7 @@ f) As facilidades concedidas aos restantes trabalhadores para o exercício do di
 
 4 - Não pode ser publicitada a classificação de serviço dos notados que não autorizem a respectiva publicitação, desde que os mesmos preencham, por ocasião da entrevista individual, o espaço reservado na ficha para esse efeito.
 
-###### Art. 13.º - 1 - Após a homologação, cabe recurso hierárquico da classificação para o Ministro do Trabalho e Segurança Social, a interpor no prazo de 10 dias úteis contados da data do conhecimento desta, devendo ser proferida decisão no prazo de 15 dias contados da data de recebimento do recurso.
+Art. 13.º - 1 - Após a homologação, cabe recurso hierárquico da classificação para o Ministro do Trabalho e Segurança Social, a interpor no prazo de 10 dias úteis contados da data do conhecimento desta, devendo ser proferida decisão no prazo de 15 dias contados da data de recebimento do recurso.
 
 2 - Os funcionários e agentes em serviço externo podem remeter os respectivos recursos pelo correio, com aviso de recepção, até ao limite do prazo de interposição referido no número anterior, sem prejuízo da sua tempestividade.
 
@@ -188,10 +195,10 @@ f) As facilidades concedidas aos restantes trabalhadores para o exercício do di
 
 4 - Da decisão do referido recurso cabe recurso contencioso, a interpor nos termos da legislação aplicável.
 
-###### Art. 14.º É aplicável o disposto no Decreto Regulamentar n.º 44-B/83, de 1 de Junho, à classificação de serviço dos funcionários e agentes em serviço na Inspecção-Geral da Segurança Social em tudo o que não estiver expressamente previsto no presente Regulamento.
+Art. 14.º É aplicável o disposto no Decreto Regulamentar n.º 44-B/83, de 1 de Junho, à classificação de serviço dos funcionários e agentes em serviço na Inspecção-Geral da Segurança Social em tudo o que não estiver expressamente previsto no presente Regulamento.
 
 Presidência do Conselho de Ministros e Ministério do Trabalho e Segurança Social.
 
-**Assinada em 1 de Junho de 1984.**
+Assinada em 1 de Junho de 1984.
 
-**O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

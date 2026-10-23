@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2011/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2011-279446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25c805c368e1c32745ccba131aae923c5c4a17f556c57ed575bd82a1bce3be8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69e8f271ec8a601491c668386f4c44c33bd25982365e8f38746796d09f7bea69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Aquisição de Imóveis
-- Multa
+- ASAE
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contrato
 - Contrato Promessa
 - Direito de Habitação Periódica
+- Documento Eletrónico
 - Férias
 - Fiscalização
-- Pagamento
-- ASAE
-- Documento Eletrónico
-- Instituto do Turismo de Portugal
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Habitação
 - Informação do Consumidor
+- Instituto do Turismo de Portugal
+- Multa
+- Pagamento
 - Portal do Cidadão
 - Proteção do Consumidor
 - Regime Jurídico
-- Habitação
 - Sanção
 - Transferência de Competências
 relationships:
@@ -92,6 +92,19 @@ relationships:
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70748598:por
+  label: Alterados, a partir de 21.10.2015, os arts 16.º, 54.º, 58.º e 59.º, todos na redação e republicação do presente diploma,
+    aditado o art 53.º-B e revogada a al c) do art 59.º do Dec Lei n.º 275/93, de 05-ago, pelo(a) Decreto-Lei n.º 245/2015
+    - Diário da República n.º 205/2015, Série I de 2015-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2015-70748598
+  date: '2015-10-20'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 54.º, 55.º e 59.º do Dec Lei 275/93 de 05-ago, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -101,15 +114,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2008/122/oj
 article_structure:
-  article_count: 109
+  article_count: 78
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:12Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +187,9 @@ b) Da data da respectiva abertura ao público, quando o empreendimento estiver a
 
 5 - ...
 
-###### Artigo 5.º — Declaração de comunicação prévia
+Artigo 5.º
+
+Declaração de comunicação prévia
 
 1 - A constituição de direitos reais de habitação periódica está sujeita a comunicação prévia com prazo, conforme definida pela alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de Julho, ao Turismo de Portugal, I. P.
 
@@ -224,7 +239,9 @@ t) ...
 
 5 - Caso o Turismo de Portugal, I. P., não se pronuncie no prazo de 30 dias a contar da apresentação da comunicação prévia, o proprietário das unidades pode promover a constituição dos direitos reais de habitação periódica nos termos e nas condições constantes da declaração de comunicação prévia.
 
-###### Artigo 9.º — Formulário normalizado de informação pré-contratual
+Artigo 9.º
+
+Formulário normalizado de informação pré-contratual
 
 1 - Antes de o consumidor ficar vinculado pelo contrato ou por contrato-promessa, o proprietário ou o vendedor de direitos reais de habitação periódica deve entregar de forma gratuita, em papel ou através de suporte duradouro facilmente acessível ao consumidor, informações exactas que, de uma forma clara, precisa e compreensível, descrevam o empreendimento turístico, bem como os direitos e as obrigações decorrentes do contrato.
 
@@ -286,7 +303,9 @@ h) A indicação da possibilidade ou impossibilidade de recurso a mecanismos ext
 
 7 - O modelo de formulário normalizado de informação pré-contratual é aprovado por despacho conjunto dos membros do Governo responsáveis pelas áreas do turismo, defesa do consumidor e justiça.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Relativamente a cada direito real de habitação periódica é emitido pela conservatória do registo predial competente um certificado predial que titule o direito e legitime a transmissão ou oneração deste, que é entregue ao titular do direito real registado juntamente com o código de acesso à certidão permanente do registo predial.
 
@@ -296,7 +315,9 @@ h) A indicação da possibilidade ou impossibilidade de recurso a mecanismos ext
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +363,9 @@ b) A menção sobre a proibição de quaisquer pagamentos antecipados directa ou
 
 8 - O modelo do certificado predial e o formulário de resolução do contrato são aprovados pelo despacho conjunto a que se refere o n.º 7 do artigo 9.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Nas transmissões de direitos reais de habitação periódica o vendedor deve entregar ao adquirente o documento complementar bem como o formulário de resolução do contrato previstos no artigo 11.º
 
@@ -352,13 +375,17 @@ b) A menção sobre a proibição de quaisquer pagamentos antecipados directa ou
 
 4 - Recai sobre o vendedor o ónus de provar o cumprimento da obrigação prevista no n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Antes do termo do prazo para o exercício do direito de resolução previsto no n.º 1 do artigo 16.º é proibido efectuar pagamentos seja a que título for ou receber qualquer quantia como forma de pagamento, ou com qualquer outro objectivo directa ou indirectamente relacionado com o negócio jurídico a celebrar.
 
 2 - São igualmente proibidos os pagamentos de qualquer quantia a título de sinal, de garantia ou de reserva ou a prestação de qualquer outra contrapartida antes do termo do prazo a que se refere o número anterior.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O adquirente do direito real de habitação periódica tem o direito de resolver o contrato de aquisição sem indicar o motivo e sem quaisquer encargos, no prazo de 14 dias seguidos a contar:
 
@@ -386,7 +413,9 @@ b) No prazo de 94 dias seguidos a contar do momento da assinatura por ambas as p
 
 9 - Por contrato acessório entende-se um contrato por força do qual o consumidor adquire serviços relacionados com um contrato de utilização periódica de bens ou com um contrato de aquisição de um produto de férias de longa duração, sendo esses serviços prestados por um profissional ou por um terceiro com base num acordo entre este último e o profissional.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -398,7 +427,9 @@ b) No prazo de 94 dias seguidos a contar do momento da assinatura por ambas as p
 
 5 - ...
 
-###### Artigo 18.º — Requisitos dos contratos-promessa de transmissão de direitos reais de habitação periódica
+Artigo 18.º
+
+Requisitos dos contratos-promessa de transmissão de direitos reais de habitação periódica
 
 1 - ...
 
@@ -414,7 +445,9 @@ e) Indicação expressa, aposta imediatamente antes da assinatura das partes, de
 
 2 - É obrigatória a entrega ao promitente-adquirente do documento complementar previsto no n.º 2 do artigo 11.º e no artigo 13.º, observando-se, com as devidas adaptações, o disposto nos n.os 3 a 5 do artigo 11.º e nos n.os 1 e 2 do artigo 13.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +465,9 @@ d) À acta da assembleia geral de titulares que tiver deliberado, por maioria do
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +479,9 @@ d) À acta da assembleia geral de titulares que tiver deliberado, por maioria do
 
 5 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -462,7 +499,9 @@ d) À acta da assembleia geral de titulares que tiver deliberado, por maioria do
 
 8 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Toda a publicidade ou promoção respeitante à venda ou comercialização de direitos reais de habitação periódica deve identificar de modo inequívoco a forma e o local onde é possível obter o formulário normalizado de informação pré-contratual a que se refere o artigo 9.º
 
@@ -476,7 +515,9 @@ d) À acta da assembleia geral de titulares que tiver deliberado, por maioria do
 
 6 - O disposto no presente artigo é aplicável à publicidade veiculada com o objectivo de promover a troca ou revenda dos direitos previsto no presente diploma.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Ficam sujeitos às disposições do presente capítulo:
 
@@ -498,7 +539,9 @@ b) Os contratos comuns de arrendamento;
 
 c) Os sistemas de fidelidade comuns que proporcionam descontos em alojamento em empreendimentos turísticos.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, os direitos de habitação turística só podem constituir-se desde que os empreendimentos se encontrem em funcionamento e se verifiquem, com as necessárias adaptações, as condições previstas no artigo 4.º, estando a exploração nesse regime sujeita a comunicação prévia ao Turismo de Portugal, I. P.
 
@@ -520,11 +563,15 @@ c) Se o requerente não for o proprietário do empreendimento turístico, docume
 
 7 - Ao processo de comunicação prévia da exploração no regime de direito de habitação turística aplica-se o disposto nos n.os 3 a 5 do artigo 5.º, com as devidas adaptações.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 Os direitos de habitação turística são, na falta de indicação em contrário, perpétuos, podendo ser fixado um limite de duração não inferior a um ano, a contar da data da sua constituição ou da data da abertura ao público do empreendimento turístico quando o empreendimento estiver ainda em construção.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - O contrato de transmissão de direitos de habitação turística é celebrado por escrito e deve ser entregue pelo vendedor ao adquirente em papel ou através de suporte duradouro.
 
@@ -586,13 +633,17 @@ e) ...
 
 11 - O processo de comunicação prévia obedece ao disposto nos n.os 3 a 5 do artigo 5.º, com as devidas adaptações.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Nos contratos de aquisição de direitos de habitação turística ou nos respectivos contratos-promessa, o adquirente ou o promitente-adquirente tem a faculdade de resolver o contrato, sem indicar o motivo e sem quaisquer encargos, no prazo de 14 dias seguidos e nos termos do n.º 2 do artigo 16.º
 
 2 - É aplicável ao direito de resolução dos contratos de aquisição de direitos de habitação turística ou dos respectivos contratos-promessa, com as necessárias adaptações, o disposto nos n.os 3 a 9 do artigo 16.º
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -600,7 +651,9 @@ e) ...
 
 3 - É aplicável, com as necessárias adaptações, o disposto na alínea b) do n.º 2 e nos n.os 4 e 6 do artigo 34.º e nos artigos 36.º a 41.º
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -610,7 +663,9 @@ e) ...
 
 4 - É aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 23.º
 
-###### Artigo 53.º — Extensão do regime
+Artigo 53.º
+
+Extensão do regime
 
 1 - Aos direitos de habitação turística é aplicado, com as necessárias adaptações, o disposto nos artigos 13.º-A, 14.º, 20.º, 43.º e 44.º
 
@@ -624,7 +679,9 @@ e) ...
 
 6 - Por contrato de revenda entende-se o contrato por força do qual o profissional, a título oneroso, presta assistência ao consumidor na venda ou na compra de um produto de utilização periódica de bens ou de um produto de férias de longa duração.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -654,13 +711,17 @@ l) A infracção ao disposto nos n.os 1 a 4 do artigo 50.º-A.
 
 3 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Compete à Autoridade de Segurança Alimentar e Económica a organização e instrução dos processos relativos às contra-ordenações previstas no presente diploma.
 
 2 - É da competência da Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade a aplicação das coimas e sanções acessórias previstas no presente diploma.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 O produto das coimas reverte em:
 
@@ -670,7 +731,9 @@ b) 30 % para a Autoridade de Segurança Alimentar e Económica;
 
 c) 10 % para a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -704,7 +767,9 @@ Dever especial de informação
 
 2 - Incumbe ao vendedor a prova do cumprimento da obrigação prevista no número anterior.
 
-###### Artigo 47.º-A — Formulário normalizado de informação pré-contratual
+Artigo 47.º-A
+
+Formulário normalizado de informação pré-contratual
 
 1 - Em tempo útil, antes de o consumidor ficar vinculado pelo contrato ou proposta, o proprietário ou o vendedor de direitos de habitação turística deve entregar de forma gratuita, em papel ou através de suporte duradouro facilmente acessível ao consumidor, informações exactas que, de uma forma clara, precisa e compreensível, descrevam o empreendimento turístico, bem como os direitos e obrigações decorrentes do contrato.
 
@@ -752,7 +817,9 @@ e) A indicação da possibilidade ou impossibilidade de recurso a mecanismos ext
 
 7 - O modelo de documento informativo normalizado é aprovado pelo despacho conjunto a que se refere o n.º 7 do artigo 9.º
 
-###### Artigo 50.º-A — Pagamento escalonado
+Artigo 50.º-A
+
+Pagamento escalonado
 
 1 - Nos contratos de aquisição de direitos de habitação turística a que se refere a alínea b) do n.º 2 do artigo 45.º o pagamento do preço pelo titular ao proprietário ou ao cessionário da exploração do empreendimento é feito de acordo com um calendário de pagamentos escalonados.
 
@@ -768,13 +835,17 @@ e) A indicação da possibilidade ou impossibilidade de recurso a mecanismos ext
 
 7 - O exercício do direito a que se refere o n.º 5 não prejudica a aplicação das regras gerais do direito em matéria de cumprimento e incumprimento das obrigações.
 
-###### Artigo 53.º-A — Direitos de habitação turística em bens móveis
+Artigo 53.º-A
+
+Direitos de habitação turística em bens móveis
 
 1 - As normas sobre comercialização, venda e revenda de produtos, publicidade e informações obrigatórias ao consumidor, previstas no presente capítulo, são aplicáveis, com as necessárias adaptações, aos contratos de duração superior a um ano, através dos quais se concedam direitos de habitação em alojamentos de pernoita inseridos em bens móveis.
 
 2 - Sem prejuízo do disposto no número anterior, a exploração de direitos de habitação turística em bens móveis é prestada livremente, não estando sujeita a comunicação prévia nem se aplicando as regras relativas à caução e ao fundo de reserva.
 
-###### Artigo 60.º-A — Informação ao consumidor e resolução extrajudicial de litígios
+Artigo 60.º-A
+
+Informação ao consumidor e resolução extrajudicial de litígios
 
 1 - As entidades responsáveis pela aplicação do presente diploma devem promover acções destinadas a informar os consumidores sobre os direitos que para eles resultam da sua aplicação.
 
@@ -782,11 +853,15 @@ e) A indicação da possibilidade ou impossibilidade de recurso a mecanismos ext
 
 3 - As entidades referidas no n.º 1 devem incentivar os profissionais e os titulares de códigos de conduta a informarem os consumidores sobre a existência destes códigos.
 
-###### Artigo 61.º-A — Tramitação desmaterializada
+Artigo 61.º-A
+
+Tramitação desmaterializada
 
 A tramitação dos procedimentos de comunicação prévia previstos nos artigos 5.º,46.º e 48.º é realizada por via informática através de formulário disponível no balcão único electrónico a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de Julho, acessível através do Portal da Empresa, do Portal do Cidadão e do sítio da Internet do Turismo de Portugal, I. P.
 
-###### Artigo 61.º-B — Cooperação administrativa
+Artigo 61.º-B
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa através do Sistema de Informação do Mercado Interno (IMI) no âmbito dos procedimentos relativos a exploradores deste tipo de estabelecimentos com actividade noutro Estado membro, incluindo no âmbito da fiscalização e aplicação de sanções, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de Julho.»
 
@@ -826,15 +901,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Alberto de Sousa Martins - José Carlos das Dores Zorrinho.
 
-**Promulgado em 11 de Fevereiro de 2011.**
+Promulgado em 11 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2011.**
+Referendado em 17 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 

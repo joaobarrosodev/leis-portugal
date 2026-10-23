@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/1999/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1999-346481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36e2ba5b5eca864f61fdae2e213d5b0f1f171c547900167ac93ed1a13f77dea0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df80ceb31b0fef8a7d6759799587590bedea1c1dcdc04fc781af64615fe5e126
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,37 @@ relationships:
   target: pt:dre:489500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673617:por
+  label: "Alterados os arts. 4º e 8º pelo DR.5-A/2002.2002.02.08.MES DR.IS-B [33]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-a-2002-673617
+  date: '2002-02-08'
+- type: amended_by
+  target: pt:dre:606969:por
+  label: "Alterado o art. 13.º, pelo DR.2/2004.21.01.2004.MCES, DR.IS-B [17] de 21.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2004-606969
+  date: '2004-01-21'
 - type: cites
   target: celex:31996L0067
   label: null
   source: http://data.europa.eu/eli/dir/1996/67/oj
+- type: repealed_by
+  target: pt:dre:489500:por
+  label: "Revogado, a partir de 05.09.2009, e com excepção do art. 5º, que se mantém em vigor até à publicação de legislação\
+    \ específica sobre a matéria,o presente diploma, com a redacção constante dos DR 5-A/2002 de 08-Fev e 2/2004 de 21-Jan,\
+    \ pelo DR.24/2009.04.09.2009.MOPTC, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-2009-489500
+  date: '2009-09-04'
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:46Z'
   warnings: []
   errors: []
 ---
@@ -399,12 +416,12 @@ Os quantitativos das taxas actualmente praticadas mantêm-se em vigor até à su
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1999.**
+Referendado em 14 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

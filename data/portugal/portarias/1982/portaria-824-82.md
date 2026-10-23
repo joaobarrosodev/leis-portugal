@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/824-1982-374635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f168f1b6d7c96c89126b3eb956ee529671bea6b9b6c94d5ad600090fd856f073
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf767ac102b2838a62a72c56794fbb58faf418e6e3d91aac817804aa9a66d866
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Habilitações Literárias
 relationships:
 - type: amended_by
   target: pt:dre:540423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540423:por
+  label: "Alterado o n.º 1 do artigo 23.º da Portaria n.º 564/80, de 4 de Setembro, alterado pelo n.º 1.º do presente diploma,\
+    \ pela PORT.4/83.03.01.1983.ME, DR.IS [1] de 03.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1983-540423
+  date: '1983-01-03'
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:53Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +143,11 @@ O artigo 23.º bem como os anexos I e II da [Portaria n.º 564/80](https://diari
 
 ## ANEXO I — Tabela a que se refere o n.º 4 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/20000/25462547.pdf))](https://files.diariodarepublica.pt/1s/1982/08/20000/25462547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/20000/25462547.pdf)
 
 ## ANEXO II — Tabela a que se refere o n.º 3 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/20000/25462547.pdf))](https://files.diariodarepublica.pt/1s/1982/08/20000/25462547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/20000/25462547.pdf)
 
 2.º
 

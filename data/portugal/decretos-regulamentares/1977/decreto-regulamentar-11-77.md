@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/02800/01860188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1977-138490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e44715597c002ff0f7f95f2770bb6ad77eee9ab2cad2cc3695c62520200b583
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c65010f94f7bf060b9cb8d1afdef45b037e97f3f9962d7d66c9ec940598fb225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Reserva
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+- Reserva Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:425528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 81/78 DE 29-ABR DR.IS [99]\0 [99]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-04-29'
+- type: repealed_by
+  target: pt:dre:425528:por
+  label: Revogado pelo(a) Decreto-Lei n.º 81/78 - Diário da República n.º 99/1978, Série I de 1978-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1978-425528
+  date: '1978-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:20Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +136,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O direito de reserva da propriedade prevista no artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 236-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-a-1976-536868), de 5 de Abril, e no artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, efectiva-se através da concessão pelo Estado, a todos os proprietários expropriados ou cujos prédios tenham sido nacionalizados, do direito de propriedade de uma área de terra equivalente a 50000 pontos ou a uma área de 30 ha independentemente da sua pontuação.
+Artigo 1.º O direito de reserva da propriedade prevista no artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 236-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-a-1976-536868), de 5 de Abril, e no artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, efectiva-se através da concessão pelo Estado, a todos os proprietários expropriados ou cujos prédios tenham sido nacionalizados, do direito de propriedade de uma área de terra equivalente a 50000 pontos ou a uma área de 30 ha independentemente da sua pontuação.
 
-###### Art. 2.º - 1. A todos os que exploram a terra sem serem proprietários e cuja exploração seja afectada por expropriação ou nacionalização é concedido o direito de reserva de exploração de uma área de terra equivalente a 50000 pontos ou a uma área de 30 ha independentemente da respectiva pontuação.
+Art. 2.º - 1. A todos os que exploram a terra sem serem proprietários e cuja exploração seja afectada por expropriação ou nacionalização é concedido o direito de reserva de exploração de uma área de terra equivalente a 50000 pontos ou a uma área de 30 ha independentemente da respectiva pontuação.
 
 2. O direito de reserva fixado no número anterior é concedido aos beneficiários com o mesmo conteúdo do de que anteriormente eram titulares.
 
@@ -115,7 +146,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. No caso de o titular da propriedade não exercer ou vier a perder o direito à reserva, os reservatários referidos no número anterior exercerão o direito de reserva, nos termos aí referidos em relação à entidade que for titular do direito de propriedade.
 
-###### Art. 3.º - 1. Aos reservatários é concedida a faculdade de optarem pela reserva de uma área equivalente a 50000 pontos ou a uma área de 30 ha independentemente da pontuação que lhe seja atribuível.
+Art. 3.º - 1. Aos reservatários é concedida a faculdade de optarem pela reserva de uma área equivalente a 50000 pontos ou a uma área de 30 ha independentemente da pontuação que lhe seja atribuível.
 
 2. O total da pontuação de um prédio é calculado com base na distribuição cadastral, parcelamento e classificação culturais, correspondente ao quadro de tarifas que deu origem às tabelas de pontuação respeitante ao concelho e freguesia a que pertence o prédio.
 
@@ -123,7 +154,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. No caso de o reservatário optar por uma área de 30 ha, a pontuação desta não poderá exceder a do total da área que lhe foi expropriada ou nacionalizada.
 
-###### Art. 4.º - 1. As áreas de reserva localizar-se-ão, em princípio, nos prédios que pertenciam ou eram explorados pelos reservatários, ou o mais próximo possível.
+Art. 4.º - 1. As áreas de reserva localizar-se-ão, em princípio, nos prédios que pertenciam ou eram explorados pelos reservatários, ou o mais próximo possível.
 
 2. Se nos prédios objecto do exercício do direito da reserva se encontrarem instaladas unidades colectivas de produção ou cooperativas agrícolas, devidamente reconhecidas, a área de reserva só será aí demarcada desde que não afecte a viabilidade económica da exploração daquelas entidades.
 
@@ -131,13 +162,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. Tratando-se de reserva de terras abrangidas pela nacionalização prevista no [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, a área de reserva situar-se-á obrigatoriamente no prédio nacionalizado.
 
-###### Art. 5.º - 1. A demarcação das áreas de reserva nos casos a que se refere o [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, compete aos centros regionais de reforma agrária, que poderão ouvir os organismos periféricos do Ministério da Agricultura e Pescas da área a que pertence o prédio ou conjunto de prédios expropriados.
+Art. 5.º - 1. A demarcação das áreas de reserva nos casos a que se refere o [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, compete aos centros regionais de reforma agrária, que poderão ouvir os organismos periféricos do Ministério da Agricultura e Pescas da área a que pertence o prédio ou conjunto de prédios expropriados.
 
 2. Nos prédios rústicos de regadio abrangidos pelo [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), a demarcação compete às comissões de gestão transitória, ouvidas as brigadas técnicas das regiões agrícolas da situação dos prédios ou conjunto de prédios nacionalizados.
 
 3. No caso de o prédio ou conjunto de prédios expropriados ou nacionalizados pertencerem à área de mais de um dos organismos indicados nos números anteriores, é competente para demarcação da reserva o organismo onde se situar o prédio ou prédios com maior pontuação.
 
-###### Art. 6.º - 1. Recebida pelo centro regional de reforma agrária ou por uma comissão de gestão transitória a comunicação de que foi concedido o direito de reserva, deve esse organismo notificar o reservatário para, no prazo de três dias, pessoalmente ou através de representante devidamente credenciado lhe dar conhecimento, por escrito, da localização em que pretende a reserva.
+Art. 6.º - 1. Recebida pelo centro regional de reforma agrária ou por uma comissão de gestão transitória a comunicação de que foi concedido o direito de reserva, deve esse organismo notificar o reservatário para, no prazo de três dias, pessoalmente ou através de representante devidamente credenciado lhe dar conhecimento, por escrito, da localização em que pretende a reserva.
 
 2. No caso de o reservatário se encontrar ausente do território nacional ou impedido por qualquer outra razão devidamente comprovada, a notificação será feita na pessoa do seu representante ou por editais, com a dilação de dez dias, afixados nas juntas de freguesia e câmaras municipais em cuja área se situam os prédios expropriados.
 
@@ -147,11 +178,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5. A unidade colectiva de produção ou a cooperativa agrícola pronunciar-se-ão, no prazo de três dias úteis, por escrito, sobre o que se lhe oferecer quanto à área escolhida pelo reservatário ou quanto à inviabilidade económica que entenda resultar para a sua exploração da entrega da área demarcada.
 
-###### Art. 7.º - 1. Quando não haja oposição da unidade colectiva de produção ou da cooperativa agrícola sobre a área escolhida pelo reservatário, o centro regional de reforma agrária ou a comissão de gestão transitória notificarão ambas as partes para numa data compreendida num dos três dias úteis seguintes comparecerem no respectivo local a fim de se proceder à demarcação da área seguida.
+Art. 7.º - 1. Quando não haja oposição da unidade colectiva de produção ou da cooperativa agrícola sobre a área escolhida pelo reservatário, o centro regional de reforma agrária ou a comissão de gestão transitória notificarão ambas as partes para numa data compreendida num dos três dias úteis seguintes comparecerem no respectivo local a fim de se proceder à demarcação da área seguida.
 
 2. Se não houver resposta da unidade colectiva de produção ou da cooperativa agrícola, o centro regional de reforma agrária ou a comissão de gestão transitória procederão imediatamente à demarcação da reserva escolhida pelo reservatário.
 
-###### Art. 8.º - 1. Quando a unidade colectiva de produção ou a cooperativa agrícola não concorde com a escolha da área da demarcação da reserva ou invoque a inviabilidade económica que representa a entrega da respectiva reserva, o que deverá fazer por escrito, o centro regional de reforma agrária ou a comissão de gestão transitória enviarão o processo, acompanhado de uma planta da ou das propriedades e das áreas de reserva, ao Secretário de Estado da Estruturação Agrária, no prazo de quatro dias úteis, indicando as alternativas que estes serviços consideram viáveis.
+Art. 8.º - 1. Quando a unidade colectiva de produção ou a cooperativa agrícola não concorde com a escolha da área da demarcação da reserva ou invoque a inviabilidade económica que representa a entrega da respectiva reserva, o que deverá fazer por escrito, o centro regional de reforma agrária ou a comissão de gestão transitória enviarão o processo, acompanhado de uma planta da ou das propriedades e das áreas de reserva, ao Secretário de Estado da Estruturação Agrária, no prazo de quatro dias úteis, indicando as alternativas que estes serviços consideram viáveis.
 
 2. O Secretário de Estado da Estruturação Agrária, no prazo de três dias úteis, resolverá da procedência ou não da invocada afectação da viabilidade económica e procederá à definição da área que se deverá demarcar, de acordo com o preceituado no artigo 4.º
 
@@ -159,11 +190,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. Uma vez recebido o despacho do Secretário de Estado da Estruturação Agrária, o centro regional de reforma agrária ou a comissão de gestão transitória demarcarão no terreno, com os meios materiais considerados adequados, a área de reserva e procederão à elaboração da acta respectiva, que será assinada por todos os interessados presentes.
 
-###### Art. 9.º - 1. O direito de reserva dos rendeiros e seareiros será exercido nos termos dos n.os 3 e 4 do artigo 2.º
+Art. 9.º - 1. O direito de reserva dos rendeiros e seareiros será exercido nos termos dos n.os 3 e 4 do artigo 2.º
 
 2. A renda e as cláusulas do contrato serão fixadas nos termos definidos pela Lei do Arrendamento Rural.
 
-###### Art. 10.º - 1. O direito de reserva dos titulares de patrimónios e situações jurídicas definido no artigo 16.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 14.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, é atribuído em conjunto a todos os titulares, com a mesma extensão e conteúdo que caiba aos reservatários singulares.
+Art. 10.º - 1. O direito de reserva dos titulares de patrimónios e situações jurídicas definido no artigo 16.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e no artigo 14.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, é atribuído em conjunto a todos os titulares, com a mesma extensão e conteúdo que caiba aos reservatários singulares.
 
 2. Nas relações internas aplicar-se-á o regime jurídico a que o património ou a situação jurídica estavam submetidos anteriormente à expropriação ou nacionalização.
 
@@ -171,7 +202,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. As quotas de cada um dos co-proprietários ou de cada um dos co-titulares dos agrupamentos de facto serão proporcionais às quotas que cada um tinha antes da expropriação ou nacionalização.
 
-###### Art. 11.º O Secretário de Estado da Estruturação Agrária, ouvidos os centros regionais de reforma agrária e as brigadas técnicas das regiões agrárias, poderá conceder a cada um dos co-titulares dos patrimónios e situações jurídicas a que se refere o artigo anterior um direito de reservar uma área de terra que, adicionada ao valor da quota-parte que lhe caiba na respectiva reserva, perfaça uma pontuação equivalente à que tinha nos prédios expropriados ou nacionalizados, mas nunca superior a 50000 pontos, desde que se encontrem numa das seguintes situações:
+Art. 11.º O Secretário de Estado da Estruturação Agrária, ouvidos os centros regionais de reforma agrária e as brigadas técnicas das regiões agrárias, poderá conceder a cada um dos co-titulares dos patrimónios e situações jurídicas a que se refere o artigo anterior um direito de reservar uma área de terra que, adicionada ao valor da quota-parte que lhe caiba na respectiva reserva, perfaça uma pontuação equivalente à que tinha nos prédios expropriados ou nacionalizados, mas nunca superior a 50000 pontos, desde que se encontrem numa das seguintes situações:
 
 a) Exploradores directos e pessoais da terra que retirem dessa actividade, predominantemente, os seus meios de subsistência;
 
@@ -183,30 +214,30 @@ d) Deficientes físicos que aufiram da exploração agrícola, predominantemente
 
 e) Nacionais retomados que vivam, predominantemente, da agricultura.
 
-###### Art. 12.º O direito à reserva adicional referida no artigo anterior será concedido com a mesma extensão e conteúdo da reserva normal.
+Art. 12.º O direito à reserva adicional referida no artigo anterior será concedido com a mesma extensão e conteúdo da reserva normal.
 
-###### Art. 13.º O direito à reserva adicional referida no artigo 11.º deverá ser requerido pelos interessados, que fundamentarão o pedido indicando os respectivos meios de prova.
+Art. 13.º O direito à reserva adicional referida no artigo 11.º deverá ser requerido pelos interessados, que fundamentarão o pedido indicando os respectivos meios de prova.
 
-###### Art. 14.º O direito de reserva adicional caduca logo que deixem de se verificar os fundamentos em que se baseou a sua concessão.
+Art. 14.º O direito de reserva adicional caduca logo que deixem de se verificar os fundamentos em que se baseou a sua concessão.
 
-###### Art. 15.º No processo para a demarcação das reservas adicionais observar-se-á o disposto nos artigos 6.º e seguintes.
+Art. 15.º No processo para a demarcação das reservas adicionais observar-se-á o disposto nos artigos 6.º e seguintes.
 
-###### Art. 16.º Os centros regionais de reforma agrária e as comissões de gestão transitória emitirão cartas de concessão do direito de reserva, que terão força probatória plena, nomeadamente para a primeira inscrição no registo predial, e cujo modelo será definido por portaria do Secretário de Estado da Estruturação Agrária.
+Art. 16.º Os centros regionais de reforma agrária e as comissões de gestão transitória emitirão cartas de concessão do direito de reserva, que terão força probatória plena, nomeadamente para a primeira inscrição no registo predial, e cujo modelo será definido por portaria do Secretário de Estado da Estruturação Agrária.
 
-###### Art. 17.º Nos casos previstos nos n.os 1 e 3 do artigo 2.º e no artigo 10.º não funciona o direito de preferência a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e o n.º 3 do artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho.
+Art. 17.º Nos casos previstos nos n.os 1 e 3 do artigo 2.º e no artigo 10.º não funciona o direito de preferência a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, e o n.º 3 do artigo 3.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho.
 
-###### Art. 18.º A concessão do direito de reserva não significa que o reservatário tenha direito ao exercício imediato da exploração directa da reserva, pois a área reservada está sujeita às condições que para tal a Lei do Arrendamento Rural prescreve.
+Art. 18.º A concessão do direito de reserva não significa que o reservatário tenha direito ao exercício imediato da exploração directa da reserva, pois a área reservada está sujeita às condições que para tal a Lei do Arrendamento Rural prescreve.
 
-###### Art. 19.º Se a área da reserva demarcada estiver total ou parcialmente cultivada, observar-se-á quanto à parte semeada o regime dos frutos pendentes do possuidor de boa fé.
+Art. 19.º Se a área da reserva demarcada estiver total ou parcialmente cultivada, observar-se-á quanto à parte semeada o regime dos frutos pendentes do possuidor de boa fé.
 
-###### Art. 20.º As dúvidas surgidas na interpretação ou aplicação deste diploma legal serão resolvidas por despacho do Secretário de Estado da Estruturação Agrária.
+Art. 20.º As dúvidas surgidas na interpretação ou aplicação deste diploma legal serão resolvidas por despacho do Secretário de Estado da Estruturação Agrária.
 
-###### Art. 21.º Este diploma entra imediatamente em vigor.
+Art. 21.º Este diploma entra imediatamente em vigor.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Miguel Morais Barreto.
 
-**Promulgado em 21 de Janeiro de 1977.**
+Promulgado em 21 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

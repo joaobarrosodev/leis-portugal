@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26900/22242227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/813-1973-411595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 516eef7154947059f053a87148c5c2a04de8ae0218983e21fed1c78cec6b314b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1647d3540f96eee0763209bc785e51f583f3892f15487472e6da0e2f0dfd3f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artes Marciais
+- Comissão Directiva das Artes Marciais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:662764:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITU&#205;DAS POR MINISTRO DA QUALIDADE DA VIDA TODAS AS REFER&#202;NCIAS QUE NA PRESENTE PORTARIA SAO FEITAS\
+    \ AOS MINISTROS DA DEFESA NACIONAL E DA EDUCA&#199;&#195;O E CIENCIA, PELO DEC LEI 23/82 DE 30-JAN DR.IS [25] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-01-30'
+- type: cites
+  target: pt:dre:396142:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:662764:por
+  label: "Revogada pelo DEC LEI.69/87.09.02.1987.MEC, DR.IS [33] de 09.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-1987-662764
+  date: '1987-02-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:39Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +119,17 @@ I
 
 Dos fins
 
-###### Artigo 1.º A presente portaria destina-se a regular a execução do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), de 30 de Março, de acordo com o estipulado no seu artigo 18.º
+Artigo 1.º A presente portaria destina-se a regular a execução do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), de 30 de Março, de acordo com o estipulado no seu artigo 18.º
 
-###### Art. 2.º - 1. São consideradas artes marciais as formas de luta que, pelos processos nelas utilizados e pela sua perigosidade, foram ou venham a ser qualificadas como tais.
+Art. 2.º - 1. São consideradas artes marciais as formas de luta que, pelos processos nelas utilizados e pela sua perigosidade, foram ou venham a ser qualificadas como tais.
 
 2. De acordo com o artigo 17.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), compete ao Ministro da Defesa Nacional declarar, por despacho, como arte marcial qualquer modalidade de luta que justifique essa qualificação.
 
-###### Art. 3.º - 1. A entidade que superintende no exercício das artes marciais é a Comissão Directiva das Artes Marciais (C. D. A. M.), cuja constituição, estabelecida no artigo 5.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), compreende um presidente, cinco vogais e um inspector.
+Art. 3.º - 1. A entidade que superintende no exercício das artes marciais é a Comissão Directiva das Artes Marciais (C. D. A. M.), cuja constituição, estabelecida no artigo 5.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), compreende um presidente, cinco vogais e um inspector.
 
 2. A C. D. A. M. é coadjuvada por um conselheiro técnico e um secretário.
 
-###### Art. 4.º Compete à Comissão Directiva das Artes Marciais:
+Art. 4.º Compete à Comissão Directiva das Artes Marciais:
 
 a) Conhecer dos pedidos de autorização exigidos para:
 
@@ -143,7 +161,7 @@ II
 
 Das atribuições do presidente e dos membros da C. D. A. M.
 
-###### Art. 5.º O cargo de presidente é exercido, por inerência, pelo presidente da Comissão de Educação Física e Desportos das Forças Armadas e compete-lhe:
+Art. 5.º O cargo de presidente é exercido, por inerência, pelo presidente da Comissão de Educação Física e Desportos das Forças Armadas e compete-lhe:
 
 a) Convocar a Comissão e organizar a agenda de trabalhos;
 
@@ -159,7 +177,7 @@ f) Mandar instaurar processos de inquérito e disciplinares;
 
 g) Propor superiormente a nomeação dos membros das comissões a que se refere o artigo 11.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142);
 
-###### Art. 6.º Compete aos vogais:
+Art. 6.º Compete aos vogais:
 
 a) Representar na Comissão Directiva das Artes Marciais os respectivos Ministérios ou os interesses das modalidades e participar nas reuniões marcadas pelo presidente;
 
@@ -169,7 +187,7 @@ c) Executar os estudos ou trabalhos próprios da sua competência quando solicit
 
 d) Solicitar do presidente a reunião extraordinária da Comissão, fundamentando o pedido.
 
-###### Art. 7.º Compete ao inspector:
+Art. 7.º Compete ao inspector:
 
 a) Vistoriar os locais indicados para funcionamento dos centros, quando dos pedidos de autorização para a sua abertura;
 
@@ -185,7 +203,7 @@ f) Instruir processos disciplinares;
 
 g) Substituir o presidente nos seus impedimentos.
 
-###### Art. 8.º Compete ao conselheiro técnico:
+Art. 8.º Compete ao conselheiro técnico:
 
 a) Informar a Comissão e dar parecer sobre os assuntos técnicos;
 
@@ -203,7 +221,7 @@ g) Fazer parte de todos os conselhos, comissões e outros órgãos técnicos con
 
 h) Coadjuvar a acção do inspector quando tal for ordenado pelo presidente.
 
-###### Art. 9.º Compete ao secretário:
+Art. 9.º Compete ao secretário:
 
 a) Dar execução ao expediente, de acordo com as directrizes do presidente;
 
@@ -217,7 +235,7 @@ III
 
 Da eleição dos vogais representantes dos centros
 
-###### Art. 10.º - 1. Para o provimento das vagas de vogais representantes dos centros proceder-se-á a eleições.
+Art. 10.º - 1. Para o provimento das vagas de vogais representantes dos centros proceder-se-á a eleições.
 
 2. O eleitorado é constituído pelos centros legalizados.
 
@@ -255,7 +273,7 @@ IV
 
 Do funcionamento da C. D. A. M.
 
-###### Art. 11.º - 1. A Comissão reunirá à hora marcada na convocatória, podendo deliberar desde que estejam presentes pelo menos quatro dos seus membros.
+Art. 11.º - 1. A Comissão reunirá à hora marcada na convocatória, podendo deliberar desde que estejam presentes pelo menos quatro dos seus membros.
 
 2. As deliberações da Comissão serão decididas por maioria simples de votos.
 
@@ -267,17 +285,17 @@ Do funcionamento da C. D. A. M.
 
 6. Quando qualquer membro estiver impedido de participar numa reunião para que tenha sido convocado, deve comunicar o facto ao presidente, com a possível antecedência. Será proposta a exoneração do membro que faltar três vezes sem justificação.
 
-###### Art. 12.º - 1. Quando a C. D. A. M. entender conveniente poderá delegar parte das suas atribuições num executivo de constituição por ela estabelecida.
+Art. 12.º - 1. Quando a C. D. A. M. entender conveniente poderá delegar parte das suas atribuições num executivo de constituição por ela estabelecida.
 
 2. Os poderes e a constituição do executivo previsto no número anterior constarão da acta da reunião em que tal deliberação for tomada e podem ser alterados sempre que à Comissão o julgue oportuno e necessário.
 
-###### Art. 13.º Para a execução das tarefas inerentes à homologação de graduações, orientação de programas de actividades, concessão de licenças de ensino e outras achadas convenientes pode a C. D. A. M. criar ou fazer-se representar em conselhos, comissões ou outros órgãos técnicos de organismos estranhos.
+Art. 13.º Para a execução das tarefas inerentes à homologação de graduações, orientação de programas de actividades, concessão de licenças de ensino e outras achadas convenientes pode a C. D. A. M. criar ou fazer-se representar em conselhos, comissões ou outros órgãos técnicos de organismos estranhos.
 
 V
 
 Das comissões de âmbito distrital ou provincial
 
-###### Art. 14.º - 1. Sempre que as condições específicas o aconselhem, serão criadas comissões de âmbito distrital ou provincial, na metrópole e no ultramar, com a constituição e competência julgadas convenientes e adequadas às condições particulares de cada local.
+Art. 14.º - 1. Sempre que as condições específicas o aconselhem, serão criadas comissões de âmbito distrital ou provincial, na metrópole e no ultramar, com a constituição e competência julgadas convenientes e adequadas às condições particulares de cada local.
 
 2. A criação das comissões referidas no número anterior depende de autorização do Ministro da Defesa Nacional e também do Ministro do Ultramar para as respeitantes ao ultramar.
 
@@ -285,7 +303,7 @@ VI
 
 Dos centros, seus responsáveis, agentes de ensino e praticantes
 
-###### Art. 15.º - 1. Um centro de artes marciais deve obedecer aos seguintes requisitos:
+Art. 15.º - 1. Um centro de artes marciais deve obedecer aos seguintes requisitos:
 
 a) Ter instalações aprovadas pela C. D. A. M.;
 
@@ -303,7 +321,7 @@ e) Ter os seus regulamentos técnicos aprovados pela C. D. A. M.
 
 4. No caso de os centros estarem integrados em associações legalizadas, deverá ser enviada à C. D. A. M. cópia dos estatutos daquelas associações, com a indicação expressa do documento oficial que publicou a sua aprovação.
 
-###### Art. 16.º - 1. Para o ensino das artes marciais é indispensável a autorização da C. D. A. M.
+Art. 16.º - 1. Para o ensino das artes marciais é indispensável a autorização da C. D. A. M.
 
 2. Os agentes de ensino deverão satisfazer às seguintes condições mínimas:
 
@@ -315,7 +333,7 @@ Ter mais de 21 anos de idade.
 
 3. Sempre que tal se justifique, a C. D. A. M. poderá cancelar as autorizações concedidas.
 
-###### Art. 17.º - 1. Podem ser autorizados a praticar artes marciais os indivíduos de ambos os sexos, nacionais ou estrangeiros, desde que satisfaçam os seguintes requisitos:
+Art. 17.º - 1. Podem ser autorizados a praticar artes marciais os indivíduos de ambos os sexos, nacionais ou estrangeiros, desde que satisfaçam os seguintes requisitos:
 
 a) Possuírem a necessária aptidão psico-fisiológica, devidamente comprovada pelas entidades indicadas pela C. D. A. M.;
 
@@ -335,7 +353,7 @@ VII
 
 Da homologação das graduações
 
-###### Art. 18.º - 1. As graduações atribuídas aos praticantes de artes marciais em Portugal só serão oficialmente reconhecidas depois de homologadas pela C. D. A. M.
+Art. 18.º - 1. As graduações atribuídas aos praticantes de artes marciais em Portugal só serão oficialmente reconhecidas depois de homologadas pela C. D. A. M.
 
 2. A homologação de graduações de Kiu é normalmente concedida pela C. D. A. M., mediante comunicação dos responsáveis técnicos dos centros, em impresso apropriado.
 
@@ -351,7 +369,7 @@ VIII
 
 Das exibições abertas ao público
 
-###### Art. 19.º - 1. Carecem de prévia autorização todas as exibições abertas ao público que incluam demonstrações da aprendizagem técnica das artes marciais, quer estas sejam executadas na altura ou apresentadas com o emprego de meios áudio-visuais.
+Art. 19.º - 1. Carecem de prévia autorização todas as exibições abertas ao público que incluam demonstrações da aprendizagem técnica das artes marciais, quer estas sejam executadas na altura ou apresentadas com o emprego de meios áudio-visuais.
 
 2. Os pedidos devem ser feitos com a antecedência mínima de trinta dias relativamente à data da exibição, devendo ser indicados todos os elementos informativos sobre a natureza da exibição e fins a que se destina.
 
@@ -363,7 +381,7 @@ IX
 
 Da filiação em organismos internacionais
 
-###### Art. 20.º - 1. Carece de prévia autorização da C. D. A. M. a filiação de centros ou agrupamentos de centros em organismos internacionais.
+Art. 20.º - 1. Carece de prévia autorização da C. D. A. M. a filiação de centros ou agrupamentos de centros em organismos internacionais.
 
 2. Das filiações em organismos internacionais efectivadas antes da publicação do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142) devem os centros em causa apresentar pedido de homologação, indicando claramente os termos em que foi solicitada a filiação.
 
@@ -373,7 +391,7 @@ X
 
 Da fiscalização dos desportos afins das artes marciais
 
-###### Art. 21.º - 1. Para o exercício da fiscalização preceituado no artigo 16.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142) deverão as entidades que superintendem no desporto organizado manter a C. D. A. M. informada dos locais onde são praticados desportos afins das artes marciais.
+Art. 21.º - 1. Para o exercício da fiscalização preceituado no artigo 16.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142) deverão as entidades que superintendem no desporto organizado manter a C. D. A. M. informada dos locais onde são praticados desportos afins das artes marciais.
 
 2. Sem excluir qualquer outra entidade que por força legal superintenda ou venha a superintender no desporto organizado, são desde já consideradas como tais as seguintes:
 
@@ -395,7 +413,7 @@ XI
 
 Dos processos disciplinares
 
-###### Art. 22.º - 1. Das infracções disciplinares, definidas no artigo 13.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), será instaurado processo, instruído pelo inspector ou quem o presidente entender nomear para o efeito, o qual será julgado pela C. D. A. M.
+Art. 22.º - 1. Das infracções disciplinares, definidas no artigo 13.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), será instaurado processo, instruído pelo inspector ou quem o presidente entender nomear para o efeito, o qual será julgado pela C. D. A. M.
 
 2. Quando da apreciação de um processo se verificar tratar-se de matéria criminal, tal como é definida no artigo 15.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), será enviada cópia do processo ao Ministério Público da comarca a que pertença o infractor, correndo o processo pelos tribunais ordinários.
 
@@ -403,7 +421,7 @@ XII
 
 Disposições finais e transitórias
 
-###### Art. 23.º As autorizações transitórias, concedidas nos termos do n.º 2 do artigo 20.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), deverão ser regularizadas de acordo com as seguintes disposições:
+Art. 23.º As autorizações transitórias, concedidas nos termos do n.º 2 do artigo 20.º do [Decreto-Lei n.º 105/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1972-396142), deverão ser regularizadas de acordo com as seguintes disposições:
 
 a) Relativamente aos centros, a C. D. A. M. fará vistoriar as respectivas instalações, devendo ser-lhe enviados os elementos para dar execução ao disposto no artigo 15.º das presentes normas regulamentares até trinta dias após a visita de inspecção;
 

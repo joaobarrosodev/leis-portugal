@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1075-1980-459620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c64d34d3db0ef7d2586ddf379f7c50b6d0f9816349ab8a59e8954de9d932b9fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d68930bf01f893ce4ece21ee2398f6f81e0f07082ef29769a41c3295302de876
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Formação de Guardas
+- Integração de Trabalhadores
+- Pessoal Militarizado
+- PSP
+- Quadro de Pessoal
+- Quadro Geral de Adidos
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:396319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311597:por
+  label: "Alterada pelo DR.34/83.1983.04.28.MAI, DR.IS [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-1983-311597
+  date: '1983-04-28'
+- type: amended_by
+  target: pt:dre:661906:por
+  label: "Substituido o mapa I, pela PORT.164/84.1984.03.26.PCM DR.IS [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/164-1984-661906
+  date: '1984-03-26'
+- type: amended_by
+  target: pt:dre:400197:por
+  label: "Transitado para o quadro de pessoal da Escola prática de Polícia o pessoal civil constante do mapa II do presente\
+    \ diploma, pelo DEC LEI.333/84.18.10.1984.PCM, DR.IS [242] de 18.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1984-400197
+  date: '1984-10-18'
+- type: amended_by
+  target: pt:dre:396319:por
+  label: "Substituido o mapa I, na redacção da Port 164/84, de 26-Mar, pela PORT.935/84.1984.12.19.PCM DR.IS [292]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1984-396319
+  date: '1984-12-19'
+- type: cites
+  target: pt:dre:138520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:30Z'
   warnings: []
   errors: []
 ---
@@ -112,8 +160,8 @@ Presidência do Conselho de Ministros e Ministérios da Administração Interna 
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41894190.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41894190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41894190.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/29100/41894190.pdf))](https://files.diariodarepublica.pt/1s/1980/12/29100/41894190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29100/41894190.pdf)

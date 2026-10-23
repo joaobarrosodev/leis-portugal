@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/1996/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1996-406880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98a7429be51c89b1cd3ceee5345f7120251c5111cfb80d3f6d173b1418b5225a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10a2cccb9e585a63a5759ffb58e5f95a7d14169702f57fbbfddd731a3977d3cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
 subjects:
 - Eia-ensino Investigação e Administração
 - Ensino Particular
-- Universidade Atlântica
-- Interesse Público
-- Universidade
-- Estabelecimento de Ensino
 - Ensino Superior
+- Estabelecimento de Ensino
+- Interesse Público
 - Oeiras
+- Universidade
+- Universidade Atlântica
 relationships:
 - type: amended_by
   target: pt:dre:142580510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74365194:por
+  label: Reconvertida em estabelecimento de ensino superior universitário não integrado a Universidade Atlântica, pelo(a)
+    Despacho n.º 6006/2016 - Diário da República n.º 87/2016, Série II de 2016-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/6006-2016-74365194
+  date: '2016-05-05'
+- type: amended_by
+  target: pt:dre:142580510:por
+  label: Determinada a alteração do reconhecimento de interesse público da Atlântica - Escola Universitária de Ciências Empresariais,
+    Saúde, Tecnologias e Engenharia bem como da respetiva natureza e denominação pelo(a) Decreto-Lei n.º 65/2020 - Diário
+    da República n.º 178/2020, Série I de 2020-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2020-142580510
+  date: '2020-09-11'
+- type: amended_by
+  target: pt:dre:161297878:por
+  label: Determinado que a Atlântica - Instituto Universitário sucede à Atlântica - Escola Universitária de Ciências Empresariais,
+    Tecnologias e Engenharia, reconhecida de interesse público pelo presente diploma, integrando os respetivos ciclos de estudos
+    anteriormente existentes, pelo(a) Portaria n.º 82/2021 - Diário da República n.º 71/2021, Série I de 2021-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-2021-161297878
+  date: '2021-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -86,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:16Z'
   warnings: []
   errors: []
 ---
@@ -148,12 +176,12 @@ O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 15 de Julho de 1996.**
+Promulgado em 15 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Julho de 1996.**
+Referendado em 18 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

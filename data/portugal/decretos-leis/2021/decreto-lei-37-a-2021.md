@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 104/2021, 1º Suplemento, Série I de 2021-05-28
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 26-(2) a 26-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10401/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37-a/2021/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2021-164321571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a0a7c74dc2b4ec0f0831c9cbfc51694edd011f0469f468149525044b050e37e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dddd936ff0544f40e06ef261e72bc9b986906c21888ebe8b7ac9acd4ca6df4d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Contribuições da Segurança Social
 - Definição de Competências
-- Estatuto
-- Pagamento
-- Magistrado do Ministério Público
 - Direcção Geral da Administração da Justiça
+- Estatuto
+- Magistrado do Ministério Público
+- Pagamento
+- Procurador Europeu Delegado
+- Procuradoria Europeia
 - Proteção Social
 - Remuneração
-- Procuradoria Europeia
-- Procurador Europeu Delegado
 relationships:
 - type: cites
   target: celex:32017R1939
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/68/2019/08/27/p/dre
+- type: cites
+  target: pt:dre:124220738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124572525:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:28Z'
   warnings: []
   errors: []
 ---
@@ -141,12 +149,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de maio de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 28 de maio de 2021.**
+Promulgado em 28 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2021.**
+Referendado em 28 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114282596

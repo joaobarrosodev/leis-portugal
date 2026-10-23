@@ -47,40 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1979-365740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d8e4d07e4cb37e4be701e704fb8bd14f2c07be5101ede9ccff71c548395f01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9241b9068dcd78d3f04e4f77500a690c217fccd1f467629d7a5eddb88b513e23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos e Planeamento
+- Definição de Competências
+- Formas de Provimento
+- NEEC
+- NEUR
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:178083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457463:por
+  label: Mantido em vigor transitoriamente o quadro de pessoal aprovado pelo presente diploma pelo(a) Decreto-Lei n.º 526/80
+    - Diário da República n.º 256/1980, Série I de 1980-11-05, nos termos do disposto no n.º 2 do seu art. 20.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1980-457463
+  date: '1980-11-05'
+- type: amended_by
+  target: pt:dre:328872:por
+  label: "Alterado o quadro de pessoal pela PORT.29/85.1985.01.12.PCM DR.IS [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1985-328872
+  date: '1985-01-12'
+- type: cites
+  target: pt:dre:234973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692425:por
+  label: Rectificado pela DECL.DD6620.04.01.1980.PCM, DR.IS [17] de 21.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692425
+  date: '1980-01-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:05Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +145,9 @@ Sem prejuízo de que, eventualmente, as portarias de readaptação dos quadros p
 
 Tendo em conta o disposto no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O director do Centro de Estudos de Planeamento é equiparado, para todos os efeitos, a director-geral.
+Artigo 1.º O director do Centro de Estudos de Planeamento é equiparado, para todos os efeitos, a director-geral.
 
-###### Art. 2.º - 1 - São desde já institucionalizados, ao abrigo do artigo 4.º do [Decreto n.º 48302](https://diariodarepublica.pt/dr/detalhe/decreto/48302-1968-234973), de 30 de Março de 1968, os seguintes núcleos de trabalho:
+Art. 2.º - 1 - São desde já institucionalizados, ao abrigo do artigo 4.º do [Decreto n.º 48302](https://diariodarepublica.pt/dr/detalhe/decreto/48302-1968-234973), de 30 de Março de 1968, os seguintes núcleos de trabalho:
 
 Núcleo de Estudos Económicos e de Conjuntura (NEEC);
 
@@ -143,11 +185,11 @@ h) Realização de estudos, por solicitação de outras entidades, designadament
 
 4 - Os núcleos de trabalho previstos nos números anteriores são equiparados a direcção de serviço, sendo dirigidos por dois directores com a categoria de director de serviço.
 
-###### Art. 3.º O quadro de pessoal aprovado pelo [Decreto-Lei n.º 216/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1977-252851), de 27 de Maio, é alterado, passando a ser o que vai anexo ao presente diploma, do qual faz parte integrante.
+Art. 3.º O quadro de pessoal aprovado pelo [Decreto-Lei n.º 216/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1977-252851), de 27 de Maio, é alterado, passando a ser o que vai anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 4.º O provimento dos lugares de director de serviço feito nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 4.º O provimento dos lugares de director de serviço feito nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 5.º - 1 - Após a entrada em vigor do presente diploma será aprovada, por despacho ministerial publicado no Diário da República, a lista ou listas nominativas do pessoal do Centro de Estudos de Planeamento, com a indicação dos lugares e situação em que fica provido no novo quadro, dentro das categorias incluídas no quadro anexo a este diploma e sem prejuízo do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 5.º - 1 - Após a entrada em vigor do presente diploma será aprovada, por despacho ministerial publicado no Diário da República, a lista ou listas nominativas do pessoal do Centro de Estudos de Planeamento, com a indicação dos lugares e situação em que fica provido no novo quadro, dentro das categorias incluídas no quadro anexo a este diploma e sem prejuízo do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 2 - Todos os funcionários do actual quadro do Centro de Estudos de Planeamento figurarão na lista ou listas nominativas de pessoal com categoria não inferior a que actualmente possuem e sem interrupção de direitos e deveres relativos à sua situação jurídica, incluindo o acesso e o ingresso nas carreiras.
 
@@ -157,16 +199,16 @@ h) Realização de estudos, por solicitação de outras entidades, designadament
 
 5 - O pessoal a que se referem os n.os 2 e 3 que à data da publicação deste diploma tiver prestado em qualquer categoria dois anos de bom e efectivo serviço ao Estado é considerado provido definitivamente. O restante pessoal ficará na situação de provimento provisório, podendo ser provido definitivamente à medida que for completando o referido período de dois anos.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago - Gabriela Guedes Salgueiro.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o artigo 3.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29800/34073409.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29800/34073409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29800/34073409.pdf)

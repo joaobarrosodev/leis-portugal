@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/216-1977-278007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d24cf3d2cea26b93016d29e741167bdf966b160f246d3801f1ff992d0f5fe45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe8e19c7491f20edbbd90b090598fd7db869c8b5f17083ff37f04f87090a2175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Despesas
+- Azeite
+- Azeitona
+- Caixa Geral de Depósitos
+- Despesas Públicas
+- Empréstimo Interno
+- Fixação de Preços
+- Instituto do Azeite e Produtos Oleaginosos
+- Preço
+- Produção Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:299849:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299849:por
+  label: Alterado, para 15.08.1978, a data limite estabelecida no n.º 3 do presente despacho normativo, pelo(a) Despacho Normativo
+    n.º 183/78 - Diário da República n.º 186/1978, Série I de 1978-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/183-1978-299849
+  date: '1978-08-14'
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:15Z'
   warnings: []
   errors: []
 ---
@@ -116,11 +136,11 @@ TABELA I
 
 Preços de garantia por litro de azeite colocado em bidões do Instituto do Azeite e Produtos Oleaginosos na estação de caminho de ferro mais próxima do armazém do produtor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf))](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)
 
 Escala de diferenciais em função da acidez
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf))](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25900/26732674.pdf)
 
 TABELA II
 
@@ -148,4 +168,4 @@ Acidez do óleo - 15º.
 
 Humidade - até 25%.
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe.

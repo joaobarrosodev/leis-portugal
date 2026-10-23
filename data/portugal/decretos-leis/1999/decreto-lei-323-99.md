@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/188a00/53125336.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/1999/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1999-423199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c4350c2411f84e721e9d979c9165a3fcf4f2bbeb6434c6ec9eacb40018e7fe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9d7fe441e20b3145d163b7e63cd5310cd00f5f6efd4c964e505a1ec00ed7537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Fundos
-- Sociedade Anónima
-- Gestão Financeira
+- CMVM
+- Comércio
 - Fundo de Investimento
 - Fundo de Investimento Mobiliário
 - Fundos Próprios
+- Gestão Financeira
 - Mercado Financeiro
 - Política Financeira
 - Regime Jurídico
-- CMVM
+- Sociedade Anónima
 - Sociedade Gestora de Fundos de Investimento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:263687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:263687:por
+  label: "Alterados os arts. 7º, 8º, 18º e 35º do Dec Lei 276/94 de 02-Nov, com a redacção do presente diploma, pelo DEC LEI.62/2002.2002.03.20.MF\
+    \ DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2002-263687
+  date: '2002-03-20'
 - type: cites
   target: celex:31985L0611
   label: null
@@ -90,16 +96,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/276/1994/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/276/1994/11/02/p/dre
+- type: corrected_by
+  target: pt:dre:469814:por
+  label: "Rectificado pela DECL-RECT.15-E/99.1999.09.24.PCM, DR.IS-A [229]2ºSUPL de 30/Set/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-e-1999-469814
+  date: '1999-09-24'
+- type: repealed_by
+  target: pt:dre:476110:por
+  label: Revogado, a partir de 1 de Janeiro de 2004, pelo DEC LEI.252/2003.17.10.2003.MF, DR.IS-A [241] de 17.10.2003
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2003-476110
+  date: '1999-08-13'
 article_structure:
-  article_count: 111
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 72
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:27Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +160,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 12.º, 13.º, 16.º, 17.º, 18.�
 
 5 - Podem ser criadas modalidades de fundos de investimento diferentes das previstas no número anterior, sujeitas aos princípios constantes do presente diploma, por regulamento da Comissão do Mercado de Valores Mobiliários, que definirá as respectivas especialidades de regime.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -152,7 +170,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 12.º, 13.º, 16.º, 17.º, 18.�
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -162,7 +182,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 12.º, 13.º, 16.º, 17.º, 18.�
 
 4 - Em casos excepcionais pode a Comissão do Mercado de Valores Mobiliários, a requerimento da entidade gestora, obtido o acordo do depositário, autorizar a substituição da entidade gestora.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As entidades gestoras actuam por conta dos participantes e no interesse exclusivo destes, competindo-lhes em geral a prática de todos os actos e operações necessários ou convenientes à boa administração do fundo, de acordo com critérios de elevada diligência e competência profissional, e, em especial:
 
@@ -180,7 +202,9 @@ f) Dar cumprimento aos deveres de informação estabelecidos por lei ou pelo reg
 
 2 - Sempre que uma entidade gestora administre mais de um fundo de investimento, deve considerar cada um deles como um cliente, tendo em vista a prevenção de conflitos de interesses e, quando inevitáveis, a sua resolução de acordo com princípios de equidade e não discriminação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -188,7 +212,9 @@ a) Até 75 milhões de euros - 1%;
 
 b) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +236,9 @@ h) ...
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +246,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +258,9 @@ h) ...
 
 4 - A substituição do depositário depende de autorização da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 16.º — Comissões e encargos
+Artigo 16.º
+
+Comissões e encargos
 
 1 - A remuneração dos serviços prestados pela entidade gestora e pelo depositário deve constar expressamente do regulamento de gestão do fundo, podendo a comissão de gestão incluir uma parcela calculada em função do desempenho do fundo.
 
@@ -238,7 +270,9 @@ h) ...
 
 4 - A Comissão do Mercado de Valores Mobiliários pode regulamentar o disposto no presente artigo, designadamente no que respeita às condições em que são admitidas as comissões de desempenho e à concretização dos encargos que podem ser suportados pelos fundos, nos termos do número anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A constituição de fundos de investimento depende de autorização da Comissão do Mercado de Valores Mobiliários, mediante apresentação de requerimento subscrito pela entidade gestora, acompanhado dos projectos dos prospectos mencionados nos n.os 1 e 3 do artigo 33.º, dos contratos a celebrar com o depositário e, sendo o caso, com as entidades prestadoras de serviços ou as entidades colocadoras a que se referem, respectivamente, os artigos 6.º e 28.º
 
@@ -252,7 +286,9 @@ h) ...
 
 6 - No caso de a subscrição não ter início no prazo previsto no número anterior ou de nos seis meses subsequentes à data de constituição do fundo este não atingir o número mínimo de 200 participantes e o valor mínimo de 2500000 euros, pode a Comissão do Mercado de Valores Mobiliários revogar a autorização.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O regulamento de gestão deve conter elementos identificadores do fundo, da entidade gestora e do depositário e ainda definir de forma clara os direitos e obrigações dos participantes, da entidade gestora e do depositário, a política de investimentos do fundo e as condições da sua liquidação.
 
@@ -318,7 +354,9 @@ e) Substituição do depositário.
 
 6 - As alterações ao regulamento de gestão referidas no número anterior entram em vigor 45 dias após a autorização da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -340,7 +378,9 @@ b) Valores mobiliários emitidos ou garantidos por um Estado que não seja membr
 
 c) Valores mobiliários emitidos por organismos internacionais de carácter público a que pertençam um ou vários Estados membros da Comunidade Europeia.
 
-###### Artigo 21.º — Conflitos de interesses
+Artigo 21.º
+
+Conflitos de interesses
 
 1 - As entidades gestoras não podem efectuar por conta dos fundos as transacções referidas nas alíneas seguintes, bem como quaisquer outras susceptíveis de gerarem conflitos de interesses com a entidade gestora, os seus accionistas com participações superiores a 10% dos votos correspondentes ao capital social, os membros dos seus órgãos sociais, o seu pessoal ou demais colaboradores, com o banco depositário, bem como entre os diferentes fundos de investimento que administrem:
 
@@ -364,7 +404,9 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 3 - As proibições previstas nas alíneas c) a h) do n.º 1 do presente artigo não se aplicam relativamente aos valores mobiliários detidos, directa ou indirectamente, pelas entidades gestoras ou por entidades a que estas estejam ligadas por uma relação de domínio ou de grupo, adquiridos, por conta dos fundos, num dos mercados a que se refere o n.º 2 do presente artigo.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -372,13 +414,17 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 3 - Em caso algum pode uma entidade gestora efectuar as operações referidas no n.º 1 quando seja contraparte outro fundo por si administrado.
 
-###### Artigo 24.º — Técnicas e instrumentos de gestão
+Artigo 24.º
+
+Técnicas e instrumentos de gestão
 
 1 - Nas condições e limites a definir em regulamento da Comissão do Mercado de Valores Mobiliários, os fundos podem utilizar técnicas e instrumentos adequados à gestão do seu património, incluindo a cobertura de riscos, mediante, designadamente, a utilização de instrumentos financeiros a prazo, operações de empréstimo e de reporte de valores.
 
 2 - Os fundos de investimento devem deter activos que se possa razoavelmente prever sejam suficientes para assegurar o cumprimento de quaisquer obrigações efectivas ou potenciais resultantes das operações referidas no número anterior.
 
-###### Artigo 25.º — Liquidação e partilha
+Artigo 25.º
+
+Liquidação e partilha
 
 1 - Os participantes em fundos abertos não podem exigir a partilha ou liquidação dos mesmos.
 
@@ -398,7 +444,9 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 9 - Após a decisão de liquidação, a entidade gestora deve realizar apenas as operações adequadas a essa finalidade, devendo na alienação do activo observar o disposto no presente diploma, designadamente no artigo 23.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - As unidades de participação podem ser representadas por certificados de uma ou mais unidades ou adoptar a forma escritural, sendo admitido o seu fraccionamento para efeitos de subscrição e resgate.
 
@@ -408,7 +456,9 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - As unidades de participação podem ser subscritas, nos termos indicados no prospecto completo, junto da entidade gestora, ou através de entidades colocadoras autorizadas pela Comissão do Mercado de Valores Mobiliários e mencionadas no regulamento de gestão.
 
@@ -422,13 +472,17 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 6 - A Comissão do Mercado de Valores Mobiliários pode definir em regulamento regras adicionais sobre as condições a que devem estar sujeitas as entidades colocadoras e sobre a comercialização de unidades de participação dos fundos de investimento, em especial no que respeita às medidas destinadas a assegurar a prestação de informação adequada aos investidores nas diferentes modalidades de subscrição, quer presencial, quer à distância.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
 2 - O valor da unidade de participação, calculado em conformidade com o artigo seguinte, determina-se, para efeitos de resgate, de acordo com o critério definido no regulamento de gestão, nos termos do disposto na alínea q) do n.º 2 do artigo 18.º
 
-###### Artigo 30.º — Cálculo e divulgação do valor
+Artigo 30.º
+
+Cálculo e divulgação do valor
 
 1 - ...
 
@@ -442,7 +496,9 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 6 - Nos locais e pelos meios utilizados para a comercialização de fundos de investimento deve ser dada publicidade ao valor diário das respectivas unidades de participação.
 
-###### Artigo 33.º — Prospectos
+Artigo 33.º
+
+Prospectos
 
 1 - A entidade gestora deve elaborar e manter actualizado, nos seus aspectos essenciais e relativamente a cada fundo, um prospecto completo, a colocar à disposição dos interessados nas suas instalações e nas do depositário, bem como nas de outras entidades referidas no n.º 1 do artigo 28.º
 
@@ -458,7 +514,9 @@ h) Aquisição de valores mobiliários emitidos ou detidos por sociedades de cuj
 
 7 - Todas as acções publicitárias relativas a um fundo devem informar da existência dos prospectos a que se refere este artigo e dos locais onde podem ser obtidos.
 
-###### Artigo 34.º — Contas dos fundos
+Artigo 34.º
+
+Contas dos fundos
 
 1 - As contas dos fundos são encerradas anualmente com referência a 31 de Dezembro e são submetidas a certificação legal por revisor oficial de contas que não faça parte do órgão de fiscalização da entidade gestora.
 
@@ -480,7 +538,9 @@ d) O controlo dos movimentos de subscrição e de resgate das unidades de partic
 
 6 - Os elementos indicados nos números anteriores devem ser enviados à Comissão do Mercado de Valores Mobiliários nos prazos aí previstos.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -488,13 +548,17 @@ d) O controlo dos movimentos de subscrição e de resgate das unidades de partic
 
 3 - Os elementos indicados no número anterior e os balancetes mensais da entidade gestora e dos fundos devem ser enviados à Comissão do Mercado de Valores Mobiliários nas condições que esta venha a definir.
 
-#### SECÇÃO VI
+SECÇÃO VI
 
 Da comercialização em Portugal de participações em instituições de investimento colectivo em valores mobiliários com sede ou que sejam administradas por entidades com sede no estrangeiro.
 
-##### SUBSECÇÃO I — Instituições de investimento colectivo em valores mobiliários harmonizadas
+SUBSECÇÃO I
 
-###### Artigo 37.º — [...]
+Instituições de investimento colectivo em valores mobiliários harmonizadas
+
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -514,13 +578,19 @@ e) ...
 
 4 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 As instituições de investimento colectivo podem fazer publicidade da comercialização das respectivas participações em território português, com observância das disposições nacionais sobre publicidade, designadamente do Código do Mercado de Valores Mobiliários.
 
-##### SUBSECÇÃO II — Instituições de investimento colectivo em valores mobiliários não harmonizadas
+SUBSECÇÃO II
 
-###### Artigo 40.º — Autorização
+Instituições de investimento colectivo em valores mobiliários não harmonizadas
+
+Artigo 40.º
+
+Autorização
 
 1 - A comercialização em Portugal das participações em instituições de investimento colectivo em valores mobiliários que não preencham os requisitos exigidos no n.º 1 do artigo 37.º está sujeita a autorização da Comissão do Mercado de Valores Mobiliários.
 
@@ -544,7 +614,9 @@ c) Caso não exista já na Comissão do Mercado de Valores Mobiliários, a lei d
 
 5 - Caso os elementos referidos no número anterior não sejam suficientes, a Comissão do Mercado de Valores Mobiliários pode determinar a difusão de documentos e informações complementares.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, as aplicações dos fundos devem ser constituídas, tendencialmente, por activos de elevada liquidez, que se enquadrem numa das seguintes alíneas:
 
@@ -566,9 +638,13 @@ d) ...
 
 6 - (Anterior n.º 4.)
 
-### CAPÍTULO III — Dos fundos de investimento mobiliário fechados
+CAPÍTULO III
 
-###### Artigo 48.º — Regime aplicável
+Dos fundos de investimento mobiliário fechados
+
+Artigo 48.º
+
+Regime aplicável
 
 1 - Os fundos de investimento mobiliário fechados regem-se pelo disposto no presente capítulo e, em tudo o que não for incompatível com a sua natureza, pelo disposto no capítulo I.
 
@@ -578,7 +654,9 @@ d) ...
 
 4 - Para efeitos do disposto no n.º 6 do artigo 17.º, o número mínimo é de 30 participantes.
 
-###### Artigo 49.º — Capital
+Artigo 49.º
+
+Capital
 
 1 - Os fundos fechados têm capital fixo, só podendo ser emitidas e subscritas as unidades de participação previstas no regulamento de gestão.
 
@@ -594,7 +672,9 @@ d) Nos fundos admitidos à cotação em bolsa de valores, a entidade gestora dev
 
 3 - O capital do fundo só pode ser reduzido no caso de resgate previsto no n.º 2 do artigo 50.º, devendo o valor da unidade de participação corresponder ao do último dia do prazo previsto de duração do fundo e existir parecer do revisor oficial de contas do fundo, com anterioridade não superior a 30 dias sobre a data do resgate, que se pronuncie expressamente sobre a avaliação dos valores do fundo efectuada pela entidade gestora.
 
-###### Artigo 50.º — Duração e admissão à negociação em bolsa
+Artigo 50.º
+
+Duração e admissão à negociação em bolsa
 
 1 - Os fundos fechados podem ter duração determinada ou indeterminada.
 
@@ -602,7 +682,9 @@ d) Nos fundos admitidos à cotação em bolsa de valores, a entidade gestora dev
 
 3 - Os fundos com duração indeterminada só são autorizados se estiver prevista a admissão à cotação na Bolsa de Valores de Lisboa.
 
-###### Artigo 53.º — Composição
+Artigo 53.º
+
+Composição
 
 1 - ...
 
@@ -616,7 +698,9 @@ d) Nos fundos admitidos à cotação em bolsa de valores, a entidade gestora dev
 
 6 - Podem ser constituídos fundos cuja política de investimentos constante do regulamento de gestão defina um investimento mínimo de 85% dos valores referidos no n.º 3 não sujeitos à limitação imposta às aplicações em depósitos bancários, que adoptam, em substituição da expressão 'fundo de tesouraria', a designação 'fundo do mercado monetário'.
 
-###### Artigo 56.º — Composição
+Artigo 56.º
+
+Composição
 
 1 - Os fundos de fundos podem investir os seus activos em fundos de investimento abertos constituídos ao abrigo do presente diploma ou em organismos de investimento colectivo constituídos noutros Estados membros da Comunidade Europeia e que obedeçam às regras estabelecidas pela Directiva do Conselho n.º [85/611/CEE](http://data.europa.eu/eli/dir/1985/611/oj?locale=pt), de 20 de Dezembro, sendo, porém, proibido o investimento em fundos de fundos.
 
@@ -628,7 +712,9 @@ d) Nos fundos admitidos à cotação em bolsa de valores, a entidade gestora dev
 
 5 - O limite previsto na alínea d) do n.º 2 do artigo 20.º é de 30% para os fundos de fundos.
 
-###### Artigo 58.º — Agrupamento de fundos
+Artigo 58.º
+
+Agrupamento de fundos
 
 1 - ...
 
@@ -650,23 +736,31 @@ Liquidação compulsiva
 
 3 - A liquidação a que se refere o presente artigo pode ser entregue a liquidatário ou liquidatários designados pela Comissão do Mercado de Valores Mobiliários, que fixará a respectiva remuneração, a qual constitui encargo da entidade gestora, cabendo neste caso aos liquidatários os poderes que a lei atribui à entidade gestora, mantendo-se, todavia, os deveres impostos ao depositário.
 
-###### Artigo 25.º-B — Fusão de fundos
+Artigo 25.º-B
+
+Fusão de fundos
 
 1 - Nas condições a definir em regulamento da Comissão do Mercado de Valores Mobiliários, os fundos de investimento mobiliário podem ser objecto de fusão.
 
 2 - Qualquer que seja a modalidade adoptada para a fusão, não se considera existir transmissão dos activos para efeitos, nomeadamente, de incidência de taxa sobre operações fora de bolsa.
 
-###### Artigo 47.º-A — Fundos de índices de acções
+Artigo 47.º-A
+
+Fundos de índices de acções
 
 1 - Os limites estabelecidos nos n.os 1 e 2 do artigo 43.º só podem ser ultrapassados, relativamente aos investimentos em acções que integrem um índice de bolsa, no caso em que o objectivo da política de investimentos definido no regulamento de gestão do fundo consista na reprodução do mesmo índice ou em que este seja expressamente mencionado no regulamento de gestão como referência para a aferição da rendibilidade do fundo.
 
 2 - A Comissão do Mercado de Valores Mobiliários pode definir por regulamento, para os efeitos do número anterior, os índices de bolsa elegíveis, o limite máximo por entidade emitente, as condições que devem estar preenchidas no regulamento de gestão do fundo e os termos da correspondência, em cada momento, entre a percentagem de cada acção detida pelo fundo e a sua ponderação na composição do índice.
 
-###### Artigo 47.º-B — Fundos com garantia
+Artigo 47.º-B
+
+Fundos com garantia
 
 A Comissão do Mercado de Valores Mobiliários pode definir em regulamento as condições de constituição de fundos de investimento que comportem garantias prestadas por terceiros ou que resultem da configuração do património, destinadas à protecção do capital, de um certo rendimento ou de um determinado perfil de rendimentos.
 
-###### Artigo 50.º-A — Subscrição pública
+Artigo 50.º-A
+
+Subscrição pública
 
 1 - A subscrição pública das unidades de participação está sujeita, na parte aplicável e com as especialidades dos números seguintes, ao disposto no título II do Código do Mercado de Valores Mobiliários.
 
@@ -678,7 +772,9 @@ A Comissão do Mercado de Valores Mobiliários pode definir em regulamento as co
 
 5 - Quando o interesse do investidor o justifique, pode ser recusada a autorização para a constituição de novos fundos fechados enquanto não estiver inteiramente realizado o capital de outros fundos fechados administrados pela mesma entidade gestora.
 
-###### Artigo 50.º-B — Regulamento de gestão
+Artigo 50.º-B
+
+Regulamento de gestão
 
 O regulamento de gestão dos fundos fechados deve conter, além das menções exigidas no n.º 2 do artigo 18.º, na parte aplicável, ainda as seguintes:
 
@@ -698,7 +794,9 @@ g) A existência de garantias, prestadas por terceiros, de reembolso do capital 
 
 h) O regime de liquidação do fundo.
 
-###### Artigo 50.º-C — Assembleia de participantes
+Artigo 50.º-C
+
+Assembleia de participantes
 
 1 - A aprovação das seguintes modificações do regulamento de gestão, para além de outras que nele se encontrem previstas, depende de deliberação favorável da assembleia de participantes, sob proposta da entidade gestora:
 
@@ -720,7 +818,9 @@ g) Liquidação do fundo quando este não tenha uma duração determinada ou, te
 
 3 - O regulamento de gestão deve definir as regras de convocação e funcionamento da assembleia, aplicando-se, na sua falta ou insuficiência, o disposto na lei para as sociedades comerciais.
 
-###### Artigo 51.º-A — Liquidação
+Artigo 51.º-A
+
+Liquidação
 
 1 - A liquidação dos fundos fechados ocorre:
 
@@ -758,15 +858,15 @@ O Decreto-Lei n.º 276/94, de 2 de Novembro, com as alterações introduzidas pe
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva.
 
-**Promulgado em 26 de Julho de 1999.**
+Promulgado em 26 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Prospecto completo
 

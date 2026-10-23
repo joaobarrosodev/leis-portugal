@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/118-1979-383844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 151dfcc63e78d8b5b90eebc3a42c330a6739019807b56a51f8641dfe6ebef286
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481a376ad27f6534f843cae40e54462f13f62469634f64953a171cf73ac38e93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Milho
+- Preço
+- Preço de Venda
+- Preço Máximo
+relationships:
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:50:14Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Ao abrigo do disposto na alínea c) do n.º 2 do artigo 1.º do [Decreto-Lei n.�
 
 1 - No ano de 1979, os preços máximos de venda à lavoura das sementes de milho híbrido são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/12500/11911191.pdf))](https://files.diariodarepublica.pt/1s/1979/05/12500/11911191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/12500/11911191.pdf)
 
 2 - Os agricultores consumidores de semente de milho híbrido terão direito a um bónus de 15$00 por cada quilograma de semente adquirida, o qual será pago pela Empresa Pública de Abastecimento de Cereais e suportado pelo Fundo de Abastecimento.
 

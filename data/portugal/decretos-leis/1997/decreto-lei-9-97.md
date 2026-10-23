@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/1997/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1997-301669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b83eb2ecb30d6a98cff87ab2c42d842bc4a92a409ae062cd4da204648e02a30e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb858667ca162c5093032829311f7cf88bea9bd27aad25f1b39ba1d96d556982
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada Caldas da Raínha-santarém
 - Auto-estrada do Oeste
 - Auto-estrada Esposende-guimarães-ip4
 - Auto-estrada Póvoa de Varzim-fafe-ip3
-- Garantia
 - Caderno de Encargos
 - Concurso Internacional
-- Concurso Público Internacional
 - Concurso Público
+- Concurso Público Internacional
 - Contrato de Concessão
-- Rede de Estradas
+- Garantia
 - Impugnação
-- Auto-estrada
 - Junta Autónoma das Estradas
 - Portagem
+- Rede de Estradas
 relationships:
 - type: amended_by
   target: pt:dre:353937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:13Z'
   warnings: []
   errors: []
 ---
@@ -244,17 +248,19 @@ O Governo aprovará as bases de cada concessão, por decreto-lei, e a minuta do 
 
 Visto e aprovado em Conselho de Ministros de 24 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 18 de Dezembro de 1996.**
+Promulgado em 18 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 1996.**
+Referendado em 23 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — Parte 1
+## ANEXO I
+
+## Parte 1
 
 A 7-IC 5 - Póvoa de Varzim-Famalicão.
 
@@ -268,7 +274,7 @@ A 11-IP 9 - Braga-Guimarães.
 
 A 11-IP 9 - Guimarães-IP 4.
 
-# Parte 2
+## Parte 2
 
 A 8-IC 1 - Caldas da Rainha-Marinha Grande.
 
@@ -278,11 +284,13 @@ A 13-IP 6 - Caldas da Rainha-Rio Maior.
 
 A 13-IP 6 - Rio Maior-Santarém.
 
-## ANEXO II — Parte 1
+## ANEXO II
+
+## Parte 1
 
 A 7-IC 5 - Famalicão-Guimarães.
 
-# Parte 2
+## Parte 2
 
 A 8-IC 1 - CRIL-Loures.
 

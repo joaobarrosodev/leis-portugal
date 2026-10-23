@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2024-901661922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da9c003af68ac8c5c0b72c79419e786c09d9f11294002267767d838b2828b935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a67e77af0f70998b1f134c5a9bc639446f29fbeabf217a5f2d5f85a53c7a46d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
-- Recursos Hídricos
-- Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
-- Gestão dos Recursos
-- Proteção do Ambiente
-- Política de Solos
-- Recursos Naturais
-- Câmara Municipal
-- COMISSÃO NACIONAL DO TERRITÓRIO
 - Agência Portuguesa do Ambiente
+- Câmara Municipal
+- Comissão de Coordenação e Desenvolvimento Regional
+- COMISSÃO NACIONAL DO TERRITÓRIO
+- Fiscalização
+- Gestão dos Recursos
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Recursos Hídricos
+- Recursos Naturais
+- Reserva Ecológica Nacional
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:124/2019
+  label: Altera, a partir de 1 de janeiro de 2025, com efeitos a partir de 27 de setembro de 2024, o artigo 4.º e revoga os
+    n.ºs 1, 2 e 3 do artigo 4.º do Decreto-Lei n.º 124/2019, de 28 de agosto, Diário da República n.º 164/2019, Série I
+  source: null
+  date: '2019-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2019/08/28/p/dre
   label: null
@@ -99,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/336/2019/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/336/2019/09/26/p/dre
+- type: cites
+  target: pt:dre:124256708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125002934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241308:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:43Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +191,7 @@ O artigo 4.º do [Decreto-Lei n.º 124/2019](https://diariodarepublica.pt/dr/det
 
 ###### Artigo 3.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>1 a 3 do artigo 4.º do [Decreto-Lei n.º 124/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2019-124256708), de 28 de agosto.
+São revogados os n.os1 a 3 do artigo 4.º do [Decreto-Lei n.º 124/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2019-124256708), de 28 de agosto.
 
 ###### Artigo 4.º — Entrada em vigor e produção de efeitos
 
@@ -173,12 +199,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e r
 
 Visto e aprovado em Conselho de Ministros de 18 de dezembro de 2024. - Luís Montenegro - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 23 de dezembro de 2024.**
+Promulgado em 23 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de dezembro de 2024.**
+Referendado em 27 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118515997

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/2015/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2015-70171999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9442c6fb5140ade0de978bb45dafd688a50c4638607caecf456ccc6af26dccd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e29873d5f8b6dcc196ccfbf641ee590c8e14da49341172e8ef5b95462b7b062
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,28 +71,34 @@ subjects:
 - Aproximação das Legislações
 - Armazenagem
 - Assistência Médica
-- Direção Geral da Saúde
-- Instituto Português do Sangue e da Transplantação
+- Confidencialidade
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
-- Dador de Sangue
 - Controlo Sanitário
-- Saúde Pública
+- Dador de Sangue
+- Dados Pessoais
+- Definição de Competências
+- Direção Geral da Saúde
+- Embalagem
 - Especificação Técnica
+- Exame Médico
 - Fiscalização
 - Inspecção Geral das Actividades em Saúde
-- Segurança da Informação
-- Embalagem
-- Exame Médico
-- Confidencialidade
+- Instituto Português do Sangue e da Transplantação
 - Sangue Humano
-- Dados Pessoais
+- Saúde Pública
+- Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:107761913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107761913:por
+  label: Alterado o art. 11.º do Dec Lei 267/2007, de 24-jul, na versão republicada pelo presente diploma pelo(a) Decreto-Lei
+    n.º 86/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2017-107761913
+  date: '2017-07-27'
 - type: cites
   target: celex:32002L0098
   label: null
@@ -153,20 +159,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/247/2000/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/247/2000/05/08/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671205:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0110
   label: null
   source: null
 article_structure:
-  article_count: 55
+  article_count: 42
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:54Z'
   warnings: []
   errors: []
 ---
@@ -213,7 +255,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 14.º, 15.º, 16.º, 26.º, 27.º, 28.
 
 3 - A DGS enquanto autoridade competente para os serviços de sangue, tem por missão garantir a qualidade e segurança em relação à dádiva, colheita e análise de sangue humano e seus componentes, qualquer que seja a sua finalidade, bem como em relação ao processamento, armazenamento e distribuição quando se destinam a transfusão.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Compete à DGS autorizar que os serviços de sangue tenham uma ou mais valências referidas no n.º 2 do artigo anterior.
 
@@ -225,7 +269,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 14.º, 15.º, 16.º, 26.º, 27.º, 28.
 
 5 - Qualquer alteração substancial das atividades de um serviço de sangue deve ser autorizada, por escrito, pela DGS.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A DGS garante ações de controlo formal e objetivo da qualidade e segurança, executados de acordo com os parâmetros constantes do presente decreto-lei, bem como a articulação com a IGAS para a realização periódica de inspeções com um intervalo que não deve exceder os dois anos.
 
@@ -237,7 +283,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 14.º, 15.º, 16.º, 26.º, 27.º, 28.
 
 5 - A DGS deve conservar os registos referentes aos dados recebidos dos serviços de sangue nos termos do presente artigo, considerando ainda o disposto nos artigos 5.º, 8.º e 15.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -257,7 +305,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 10.º — Serviços de medicina transfusional e pontos transfusionais
+Artigo 10.º
+
+Serviços de medicina transfusional e pontos transfusionais
 
 1 - ...
 
@@ -267,7 +317,9 @@ c) ...
 
 4 - Os estabelecimentos de cuidados de saúde que pratiquem atos de transfusão, mas que não se enquadrem na definição de serviço de medicina transfusional, são designados como pontos transfusionais.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -283,7 +335,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os serviços de medicina transfusional e os pontos transfusionais referidos no n.º 4 do artigo 10.º, devem notificar ao serviço de sangue donde procedeu a unidade e ao IPST, I. P., as reações adversas graves observadas durante ou após a transfusão e que possam ser atribuídas à qualidade e segurança do sangue ou dos componentes.
 
@@ -305,7 +359,9 @@ f) Apresentar, anualmente, ao IPST, I. P., um relatório completo sobre as reaç
 
 4 - O IPST, I. P., prevê procedimentos operacionais para alerta e notificação imediata à DGS das reações e incidentes adversos graves.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os serviços de sangue devem notificar o IPST, I. P., assim que tomem conhecimento, de todos os incidentes adversos graves, nomeadamente incidentes relativos à colheita, análise, processamento, armazenamento e distribuição de sangue e dos componentes, que possam ter influência na sua qualidade e segurança.
 
@@ -321,7 +377,9 @@ c) Apresentar ao IPST, I. P., um relatório anual completo sobre os incidentes a
 
 4 - O IPST, I. P., prevê procedimentos operacionais para alerta e notificação imediata à DGS das reações e incidentes adversos graves.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -337,7 +395,9 @@ c) Apresentar ao IPST, I. P., um relatório anual completo sobre os incidentes a
 
 7 - A entidade responsável pelo tratamento e interconexão de dados pessoais dos dadores de sangue é o IPST, I. P.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A DGS e o IPST, I. P., no âmbito das respetivas competências, devem reunir regularmente com a
 
@@ -345,7 +405,9 @@ Comissão Europeia tendo em vista o intercâmbio de informações entre os Estad
 
 2 - Entre a DGS e o IPST, I. P., de acordo com as respetivas competências, e as autoridades competentes dos outros Estados-Membros deve existir um intercâmbio de informações, relativamente a reações e incidentes adversos graves, que permita assegurar que o sangue ou os componentes, que se sabe ou se suspeita serem defeituosos, sejam retirados da circulação e destruídos.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os Serviços de Sangue, de medicina transfusional e os pontos transfusionais referidos no n.º 4 do artigo 10.º, devem enviar ao IPST, I. P., o relatório de atividades do ano anterior, de acordo com o conteúdo do anexo iv ao presente decreto-lei, devendo a informação integrada ser enviada à DGS pelo IPST, I. P..
 
@@ -353,7 +415,9 @@ Comissão Europeia tendo em vista o intercâmbio de informações entre os Estad
 
 3 - Em cada triénio, a DGS envia à Comissão Europeia relatórios sobre as atividades desenvolvidas no âmbito da aplicação do presente decreto-lei, incluindo uma relação das medidas adotadas em matéria de inspeção e controlo.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -429,13 +493,17 @@ r) ...
 
 5 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Compete à IGAS assegurar a fiscalização do cumprimento das disposições constantes do presente decreto-lei e a aplicação das sanções previstas no presente capítulo.
 
 2 - A IGAS é a entidade competente para instruir os processos de contraordenação cuja instauração tenha sido determinada pela DGS ou pelo IPST, I. P.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 ...
 
@@ -463,13 +531,13 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 11 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António Manuel Coelho da Costa Moura - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 12 de agosto de 2015.**
+Promulgado em 12 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de agosto de 2015.**
+Referendado em 17 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -497,7 +565,7 @@ Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
 No entanto, aplicam-se os períodos de suspensão às infeções indicadas no quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.2.2 - ...
 
@@ -1001,7 +1069,7 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO II — Informações que os serviços de sangue devem prestar à ASST para efeitos de autorização
 
-# Parte A
+Parte A
 
 Informações gerais:
 
@@ -1011,7 +1079,7 @@ Identificação, qualificações e contactos das pessoas responsáveis;
 
 Listas dos serviços de medicina transfusional de que são fornecedores.
 
-# Parte B
+Parte B
 
 Descrição do sistema de qualidade, que deve incluir:
 
@@ -1239,7 +1307,7 @@ Podem ser necessárias análises adicionais para componentes, dadores ou situaç
 
 ## ANEXO VI — Exigências em matéria de informação
 
-# Parte A
+Parte A
 
 Informações a prestar aos candidatos a dadores de sangue ou componentes sanguíneos:
 
@@ -1269,7 +1337,7 @@ Relativamente às dádivas autólogas, a possibilidade de suspensão e as razõe
 
 11) Informações sobre a possibilidade de os dadores fazerem perguntas em qualquer momento.
 
-# Parte B
+Parte B
 
 Informações que devem ser prestadas pelos dadores aos serviços de sangue aquando de cada dádiva:
 
@@ -1299,25 +1367,25 @@ Os critérios a seguir indicados não se aplicam às dádivas autólogas.
 
 1.1 - Idade e peso dos dadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 1.2 - Valor de hemoglobina no sangue do dador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 1.3 - Valor de proteínas no sangue do dador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 1.4 - Valor de plaquetas no sangue do dador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2 - Critérios de exclusão para dadores de sangue total e de componentes sanguíneos. - As análises e os períodos de suspensão indicados com um asterisco (*) não são exigidos quando a dádiva for exclusivamente utilizada para plasma destinado a fracionamento.
 
 2.1 - Critérios de suspensão definitiva de dadores de dádivas homólogas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.2 - Critérios de suspensão temporária de dadores de dádivas homólogas:
 
@@ -1325,27 +1393,27 @@ Os critérios a seguir indicados não se aplicam às dádivas autólogas.
 
 No entanto, aplicam-se os períodos de suspensão às infeções indicadas no quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.2.2 - Exposição ao risco de contrair infeção transmissível por transfusão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.2.3 - Vacinação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.2.4 - Outras suspensões temporárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.3 - Suspensão devida a situações epidemiológicas especiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2.4 - Critérios de suspensão de dadores de dádivas autólogas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 ## ANEXO VIII — Requisitos em matéria de rotulagem
 
@@ -1403,49 +1471,49 @@ Pelos estabelecimentos:
 
 ## ANEXO X — Notificação de reações adversas graves
 
-# Parte A
+Parte A
 
 Modelo de notificação rápida de suspeita de reações adversas graves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
-# Parte B
+Parte B
 
 Reações adversas graves - Níveis de imputabilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
-# Parte C
-
-Modelo de confirmação de reações adversas graves
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
-
-# Parte D
+Parte C
 
 Modelo de confirmação de reações adversas graves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+
+Parte D
+
+Modelo de confirmação de reações adversas graves
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 ## ANEXO XI — Notificação de incidentes adversos graves
 
-# Parte A
+Parte A
 
 Modelo de notificação rápida de Incidentes adversos graves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
-# Parte B
+Parte B
 
 Modelo de confirmação para Incidentes adversos graves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
-# Parte C
+Parte C
 
 Modelo de notificação anual para incidentes adversos graves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 ## ANEXO XII — Requisitos mínimos em matéria de análises das dádivas de sangue total e de componentes
 
@@ -1471,11 +1539,11 @@ Podem ser necessárias análises adicionais para componentes, dadores ou situaç
 
 1.1 - Armazenamento de componentes líquidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 1.2 - Criopreservação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2 - Transporte e distribuição. - O transporte e a distribuição de sangue e de componentes sanguíneos em todas as fases da cadeia de transfusão deve realizar-se em condições que mantenham a integridade do produto.
 
@@ -1489,7 +1557,7 @@ Podem ser necessárias análises adicionais para componentes, dadores ou situaç
 
 1 - Componentes sanguíneos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
 
 2 - Requisitos relativos ao controlo da qualidade do sangue e dos componentes sanguíneos:
 
@@ -1501,4 +1569,4 @@ Podem ser necessárias análises adicionais para componentes, dadores ou situaç
 
 2.4 - Em relação às dádivas autólogas, recomendam-se, mas não se exigem, os requisitos assinalados com um asterisco (*).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17100/0678806812.pdf)

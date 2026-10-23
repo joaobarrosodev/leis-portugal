@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/1996/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1996-548449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81fee8978200d2f250dc87bc60a9bb0c909b70214cfde26027db79b1705a0d14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7b848954367ee2cdbe33f4227aa255d64a6b9fd76e5a0d07835f2256ff21fa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
 - Aproximação das Legislações
-- Multa
-- Proteção dos Animais
 - Contra-ordenação
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Regional de Agricultura
-- Controlo Sanitário
 - Fiscalização
-- Abate de Animais
 - Instituto de Protecção da Produção Agro-Alimentar
+- Multa
+- Proteção dos Animais
 - Regulamento
 relationships:
 - type: amended_by
@@ -98,16 +98,22 @@ relationships:
   target: celex:31993L0119
   label: null
   source: http://data.europa.eu/eli/dir/1993/119/oj
+- type: repealed_by
+  target: pt:dre:124044595:por
+  label: Revogado pelo(a) Decreto-Lei n.º 113/2019 - Diário da República n.º 157/2019, Série I de 2019-08-19, nos termos dos
+    arts. 13.º e 14.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2019-124044595
+  date: '2019-08-19'
 article_structure:
   article_count: 23
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:58Z'
   warnings: []
   errors: []
 ---
@@ -212,17 +218,19 @@ Nas Regiões Autónomas, a execução administrativa do presente diploma e respe
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 6 de Março de 1996.**
+Promulgado em 6 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1996.**
+Referendado em 8 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 ###### Artigo 1.º
 
@@ -448,7 +456,7 @@ O atordoamento não deve ser executado se não for possível sangrar de imediato
 
 a) Os instrumentos devem ser posicionados de modo a assegurar que o projéctil penetre no cortex cerebral, conforme indicado nos diagramas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf))](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
 
 É proibido atordoar os animais pela nuca, exceptuando-se os coelhos e os ovinos e caprinos cuja inserção dos cornos impossibilite a penetração frontal do projéctil. Neste caso, o instrumento de penetração deve ser colocado imediatamente atrás da base dos cornos e dirigido para a boca, devendo a sangria ser iniciada quinze segundos após o disparo.
 
@@ -470,7 +478,7 @@ A) Eléctrodos:
 
 Convém, além disso, tomar medidas apropriadas para garantir um bom contacto eléctrico, designadamente eliminar o excesso de pelo e molhar a pele. Os eléctrodos devem ser posicionados conforme indicado nos diagramas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf))](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
 
 2) Caso os animais sejam atordoados individualmente, o aparelho deve:
 
@@ -482,7 +490,7 @@ c) Estar ligado a um dispositivo, posicionado de modo a ser claramente visível 
 
 d) Permitir a passagem, quando se empregam 50 Hz de corrente alternativa sinusoidal, dos seguintes níveis mínimos de corrente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf))](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
 
 e) Aplicar-se de forma que a corrente passe durante um a três segundos, exceptuando-se os casos em que as instruções do aparelho aconselhem outros períodos de tempo.
 
@@ -498,7 +506,7 @@ A intensidade e a duração da corrente eléctrica utilizada neste caso serão d
 
 4) Os tanques de imersão para aves de capoeira devem possuir uma dimensão e profundidade adequadas ao tipo de ave a abater e não devem transbordar água à entrada. O eléctrodo imerso na água deve ser do comprimento do tanque e, quando se empregam 50 Hz de corrente alternativa sinusoidal, os níveis mínimos de corrente devem ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf))](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
 
 5) Em caso de necessidade, deverá ser possível recorrer a uma ajuda manual.
 
@@ -548,7 +556,7 @@ Após incisão dos vasos sanguíneos, não se deve proceder a qualquer preparaç
 
 4 - De acordo com os métodos de atordoamento, a sangria deve ser iniciada dentro dos seguintes tempos limite:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf))](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/079a00/06820689.pdf)
 
 Exceptuam-se os casos previstos na alínea b) do n.º 1 do n.º II do anexo D.
 

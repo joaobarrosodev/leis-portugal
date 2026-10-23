@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2002/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2002-288447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e905103043feb9a1a19ad3f4786ece0c92afd728193caeaf0eb8f7d6e3d67b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 756a79dfa76b9841880cba8c06722bb417cfe7c9cf480472cccdc08b5ab5398b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,56 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Veículo
+- Equipamento Agrícola
+- Regulamento
+- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
 - Regulamento Respeitante as Medidas a Tomar contra as Emissões de Gases Poluentes e de Particulas Poluentes Provenientes
   dos Motores Destinados a Propulsão dos Tractores Agrícolas ou Florestais
-- Regulamento
-- Equipamento Agrícola
-- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:25345582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638704:por
+  label: "Alterado o art. 4º do presente diploma, bem como é alterado o art. 2º e os anexos II, III, VII e VIII do Regulamento\
+    \ aprovado pelo citado diploma e aditados os arts 2º-A e 2º-B, um cap. III e os anexos IX e X ao mesmo regulamento, pelo\
+    \ DEC LEI.227/2007.04.06.2007.MAI, DR.IS [107] de 04.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-2007-638704
+  date: '2007-06-04'
+- type: amended_by
+  target: pt:dre:670028:por
+  label: "Alterada a secção 2 do nº1 do anexo V do Regulamento, aprovado pelo presente diploma, pelo DEC LEI.81/2011.20.06.2011.MOPTC,\
+    \ DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2011-670028
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:260417:por
+  label: "Dada nova redação ao art. 2º-B e 4º (aditado e alterado, respetivamente, pelo Dec Lei 227/2007 de 04-jun) do presente\
+    \ diploma; assim como é dada nova redação aos arts. 2º (alterado pelo Dec Lei 227/2007 de 04-jun), 21º, 22º e 23º e ao\
+    \ anexo X (aditado pelo Dec lei 227/2007 de 04-jun); alterada a organização sistemática do cap. III; e revogado o art.\
+    \ 20º do Regulamento Respeitante às Medidas a Tomar contra as Emissões de Gases Poluentes e de Partículas Poluentes Provenientes\
+    \ dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais, aprovado e publicado em anexo pelo presente\
+    \ diploma, pelo DEC LEI.53/2013.17.04.2013.MEE, DR.IS [75] de 17.04.2013, que substituíu por «Instituto da Mobilidade\
+    \ e dos Transportes, I.P.» a referência feita a «Direcção-Geral de Viação». \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2013-260417
+  date: '2013-04-17'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo 5.º do Regulamento Respeitante às Medidas a Tomar Contra as Emissões de Gases Poluentes\
+    \ e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais pelo\
+    \ DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
+- type: amended_by
+  target: pt:dre:25345582:por
+  label: "Alterados os anexos II, III, VII e IX do Regulamento Respeitante às Medidas a Tomar Contra as Emissões de Gases\
+    \ Poluentes e de Partículas Poluentes Provenientes dos Motores Destinados à Propulsão dos Tratores Agrícolas ou Florestais,\
+    \ aprovado pelo presente diploma, na redação do Dec Lei 227/2007, de 04-jun, pelo DEC LEI.97/2014.26.06.2014.MECO, DR.IS\
+    \ [121] de 26.06.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2014-25345582
+  date: '2014-06-26'
 - type: cites
   target: celex:31977L0537
   label: null
@@ -96,16 +135,23 @@ relationships:
   target: celex:32000L0025
   label: null
   source: http://data.europa.eu/eli/dir/2000/25/oj
+- type: repealed_by
+  target: pt:dre:580330:por
+  label: "Revogado o anexo II do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas, aprovado pelo Dec\
+    \ Lei 291/2000 de 14-Nov, na redacção do presente diploma, pelo DEC LEI.74/2005.24.03.2005.MAI, DR.IS-A [59] de 24.03.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2005-580330
+  date: '2005-03-24'
 article_structure:
   article_count: 23
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:02Z'
   warnings: []
   errors: []
 ---
@@ -194,15 +240,15 @@ d) Após 31 de Dezembro de 2003, em relação aos motores da categoria G.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Diogo Campos Barradas de Lacerda Machado - Luís Garcia Braga da Cruz.
 
-**Promulgado em 3 de Abril de 2002.**
+Promulgado em 3 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Abril de 2002.**
+Referendado em 4 de Abril de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -422,7 +468,7 @@ Ficha de informações relativa à homologação de um tipo de motores precursor
 
 As informações seguintes serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
-# Parte 1
+Parte 1
 
 Generalidades
 
@@ -442,7 +488,7 @@ Generalidades
 
 1.5 - Morada(s) da(s) linha(s) de montagem: ...
 
-# Parte 2
+Parte 2
 
 Tipo de motor
 
@@ -606,7 +652,7 @@ Indicar o método utilizado: no motor/no banco de ensaio das bombas (ver nota 1)
 
 2.5.4.2 - Essa unidade controla o seguinte: ...
 
-# Parte 3
+Parte 3
 
 Família de motores de ignição por compressão
 
@@ -618,9 +664,9 @@ Família de motores de ignição por compressão
 
 3.1.2 - Especificações dos tipos de motores que compõem a família:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
 
-# Parte 4
+Parte 4
 
 Tipo de motor no interior da família
 
@@ -818,7 +864,7 @@ Número de extensão (ver nota 2): ...
 
 Razão da extensão (ver nota 2): ...
 
-# Parte I
+Parte I
 
 0 - Generalidades:
 
@@ -838,7 +884,7 @@ Método de aposição: ...
 
 0.6 - Nome(s) e morada(s) da(s) instalação(ões) de montagem: ...
 
-# Parte II
+Parte II
 
 1 - Restrições à utilização do motor (se for caso disso): ...
 
@@ -856,7 +902,7 @@ Método de aposição: ...
 
 2.4 - Resultados dos ensaios medidos de acordo com os requisitos da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
 
 3 - O abaixo assinado certifica a exactidão da descrição do tipo de motor/do tipo de motor representativo da família (ver nota 1) dada acima e dos resultados dos ensaios incluídos no dossiê de homologação.
 
@@ -910,7 +956,7 @@ Numeração
 
 1 - O número de homologação CE constará de cinco secções, separadas pelo sinal «*»:
 
-#### Secção 1 - a letra minúscula «e» seguida das letras ou números distintivos do Estado-Membro que procedeu à homologação:
+Secção 1 - a letra minúscula «e» seguida das letras ou números distintivos do Estado-Membro que procedeu à homologação:
 
 «1» para a Alemanha;
 
@@ -942,13 +988,13 @@ Numeração
 
 «24» para a Irlanda.
 
-#### Secção 2 - o número da directiva de base, seguido da letra A para a fase I ou B para a fase II.
+Secção 2 - o número da directiva de base, seguido da letra A para a fase I ou B para a fase II.
 
-#### Secção 3 - o número da última directiva de alteração aplicável à homologação. Caso uma directiva contenha datas de aplicação diferentes para as diferentes normas técnicas, acrescentar-se-á um carácter alfabético para especificar a norma de acordo com a qual a homologação foi concedida.
+Secção 3 - o número da última directiva de alteração aplicável à homologação. Caso uma directiva contenha datas de aplicação diferentes para as diferentes normas técnicas, acrescentar-se-á um carácter alfabético para especificar a norma de acordo com a qual a homologação foi concedida.
 
-#### Secção 4 - um número de ordem de quatro algarismos (eventualmente com zeros iniciais) a identificar o número da homologação de base. A sequência deve começar em 0001 para cada directiva de base.
+Secção 4 - um número de ordem de quatro algarismos (eventualmente com zeros iniciais) a identificar o número da homologação de base. A sequência deve começar em 0001 para cada directiva de base.
 
-#### Secção 5 - um número de ordem de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação.
+Secção 5 - um número de ordem de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação.
 
 2 - Exemplo de terceira homologação pela França nos termos do presente Regulamento, em cumprimento dos requisitos da fase I da directiva:
 
@@ -976,7 +1022,7 @@ Ficha de informações relativa à homologação CE de um modelo de tractor equi
 
 As informações seguintes serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
-# Parte 1
+Parte 1
 
 Generalidades
 
@@ -996,7 +1042,7 @@ Generalidades
 
 1.5 - Morada(s) da(s) linha(s) de montagem: ...
 
-# Parte 2
+Parte 2
 
 Modelo de tractor
 
@@ -1192,7 +1238,7 @@ Número da extensão (ver nota 2): ...
 
 Razão da extensão (ver nota 2): ...
 
-# Parte 1
+Parte 1
 
 0 - Generalidades.
 
@@ -1212,7 +1258,7 @@ Método de aposição: ...
 
 0.6 - Morada(s) da(s) linha(s) de montagem: ...
 
-# Parte II
+Parte II
 
 1 - Restrições à utilização do motor (se for caso disso): ...
 
@@ -1240,7 +1286,7 @@ Método de aposição: ...
 
 2.2.4 - Resultados dos ensaios medidos de acordo com os requisitos da Directiva n.º [97/68/CE](https://data.europa.eu/eli/dir/1997/68/oj?locale=pt):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)](https://files.diariodarepublica.pt/1s/2002/04/093a00/39563966.pdf)
 
 ou anexar o certificado de homologação do tipo ou da família de motores em questão.
 

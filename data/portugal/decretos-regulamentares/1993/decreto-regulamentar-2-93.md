@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/1993/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1993-599140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8be15b8e1ff0956a5e08efe2e7a19a8c75ae8445c95d30f01ded97bf75fb4710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78294887bf94e40c6b8b522229bc002e3328310fea7b28f4b0537e2441775337
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Direcção Geral de Hidráulica e Engenharia Agrícola
-- Reserva Agrícola Nacional
 - Aproveitamento Hidroagrícola
+- Desenvolvimento Rural
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Ordenamento do Território
 - Política de Solos
 - Prédio Urbano
+- Reserva Agrícola Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/1992/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/1992/04/27/p/dre
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:44Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +117,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de Abril, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os solos que, estando integrados em perímetros de rega, se encontrem ocupados por construções urbanas anteriores à entrada em vigor do [Decreto-Lei n.º 69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de Abril, podem ser excluídos das zonas beneficiadas por obras de fomento hidroagrícola se, no âmbito do plano municipal de ordenamento do território em elaboração para a área, vierem a ficar afectos a um regime de ocupação não agrícola.
+Artigo 1.º - 1 - Os solos que, estando integrados em perímetros de rega, se encontrem ocupados por construções urbanas anteriores à entrada em vigor do [Decreto-Lei n.º 69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de Abril, podem ser excluídos das zonas beneficiadas por obras de fomento hidroagrícola se, no âmbito do plano municipal de ordenamento do território em elaboração para a área, vierem a ficar afectos a um regime de ocupação não agrícola.
 
 2 - O pedido de exclusão deve ser efectuado mediante requerimento fundamentado do interessado dirigido à Direcção-Geral de Hidráulica e Engenharia Agrícola.
 
@@ -113,18 +125,18 @@ Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 69/92](https://diariod
 
 4 - A Direcção-Geral de Hidráulica e Engenharia Agrícola deve submeter os pedidos a parecer da comissão técnica de acompanhamento do plano ou da comissão de coordenação regional, consoante o tipo de plano municipal em elaboração, nos termos do artigo 6.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro.
 
-###### Art. 2.º A exclusão de solos ocupados por construções urbanas é efectuada por despacho do Ministro da Agricultura, nos termos e condições previstos no artigo 1.º do [Decreto-Lei n.º 69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de Abril.
+Art. 2.º A exclusão de solos ocupados por construções urbanas é efectuada por despacho do Ministro da Agricultura, nos termos e condições previstos no artigo 1.º do [Decreto-Lei n.º 69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de Abril.
 
 Presidência do Conselho de Ministros, 14 de Dezembro de 1992.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha.
 
-**Promulgado em 6 de Janeiro de 1993.**
+Promulgado em 6 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Janeiro de 1993.**
+Referendado em 8 de Janeiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

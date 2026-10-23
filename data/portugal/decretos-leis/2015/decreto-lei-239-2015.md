@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20100/0895708958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/2015/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2015-70686133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 365d5f81dee17d0eaf234319de3850462607e8fb85f11c0cff6dc4f79a547922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06a3e5b4f0079c32e81a373cf6ebfdf86cc02f56acfa993c5523aca5357658b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Região Autónoma
+- ACES
+- Açores
+- Administração Regional de Saúde
 - Autoridade Sanitária
-- Pessoal de Saúde
-- Médico
+- Centro de Saúde
 - Conselho Clínico
 - Coordenador
-- Saúde
-- Definição de Competências
-- Administração Regional de Saúde
-- Saúde Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Horário de Funcionamento
-- Centro de Saúde
-- Pessoal de Enfermagem
-- Plano Nacional de Saúde
 - Cuidados Médicos
+- Definição de Competências
+- Horário de Funcionamento
 - Madeira.região Autónoma
+- Médico
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Plano Nacional de Saúde
+- Política de Saúde
 - Protecção na Doença
-- Açores
+- Rede
+- Região Autónoma
+- Saúde
+- Saúde Pública
+- Serviço Nacional de Saúde
 - Unidade de Cuidados na Comunidade
-- ACES
 - Unidade de Saúde Pública
 - Utente
 relationships:
@@ -132,16 +132,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
+- type: cites
+  target: pt:dre:191138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66487456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66868372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69820476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:03Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +250,9 @@ Os artigos 11.º, 15.º, 25.º e 35.º do [Decreto-Lei n.º 28/2008](https://dia
 
 7 - A UCC criada nos termos do n.º 5 fica vinculada aos objetivos do ACES respetivo e às regras relativas à sua execução.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -212,7 +262,9 @@ Os artigos 11.º, 15.º, 25.º e 35.º do [Decreto-Lei n.º 28/2008](https://dia
 
 4 - O coordenador da UCC criada nos termos do disposto no n.º 5 do artigo 11.º é designado mediante parecer prévio do diretor executivo do ACES relativo à adequação do respetivo perfil técnico, em conformidade com a alínea b) do n.º 1 e atentos os critérios preferenciais previstos no n.º 2 do presente artigo.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -228,7 +280,9 @@ Os artigos 11.º, 15.º, 25.º e 35.º do [Decreto-Lei n.º 28/2008](https://dia
 
 7 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -254,7 +308,9 @@ b) O presidente da comissão responsável pelo controlo das infeções associada
 
 c) As atividades desenvolvidas pelos gabinetes do utente e do cidadão estão igualmente enquadradas por esta comissão.
 
-###### Artigo 42.º-B — Unidades de cuidados na comunidade criadas por municípios
+Artigo 42.º-B
+
+Unidades de cuidados na comunidade criadas por municípios
 
 Nas UCC criadas pelos municípios ao abrigo do presente decreto-lei, as competências atribuídas ao diretor executivo nos termos do disposto no n.º 2 do artigo 16.º e nas alíneas c) a f) do n.º 1 do artigo 17.º cabem ao presidente da câmara municipal respetiva.»
 
@@ -264,12 +320,12 @@ A secção II do capítulo III do [Decreto-Lei n.º 28/2008](https://diariodarep
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Fernando Serra Leal da Costa.
 
-**Promulgado em 8 de outubro de 2015.**
+Promulgado em 8 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de outubro de 2015.**
+Referendado em 9 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

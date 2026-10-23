@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/333/2007/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-2007-641466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18cd16b97a8981f724994352e7d135fdce73bda7eb498314c31dad25fe6c40b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a12ffd78e85c43a04556336b604002179c0cd40627c134942e3f9f763e633b31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
-- Regulamento
 - Equipamento Agrícola
-- Poluição Sonora
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Normalização
+- Poluição Sonora
+- Regulamento
+- Veículo
 relationships:
 - type: cites
   target: celex:31977L0311
@@ -86,13 +86,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:25Z'
   warnings: []
   errors: []
 ---
@@ -145,15 +145,15 @@ b) Recusa o registo, a venda ou a entrada em circulação desses veículos novos
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
@@ -315,10 +315,10 @@ Figura n.º 1
 
 Esquema para determinar o ponto de referência do banco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19500/0720407207.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19500/0720407207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19500/0720407207.pdf)
 
 Figura n.º 2
 
 Método para determinar o ponto de referência do banco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19500/0720407207.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19500/0720407207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19500/0720407207.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2015/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2015-70497202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5d2869db932fcb918d710a04034b60cebd80d6a68096bdd14660027dc6e5aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7410ae6d4a1e75661fa5c8f0f76be671affedeb942155d659661f9ff0ba4368c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
+- ASAE
 - Associação Nacional de Municípios Portugueses
-- Incêndio
-- Prevenção de Incêndios
+- Autoridade Nacional de Protecção Civil
 - Certificação Profissional
-- Estabelecimento Comercial
-- Urbanização
 - Contra-ordenação
 - Definição de Competências
 - Edifício Administrativo
 - Edifício Público
+- Equipamento de Combate a Incêndios
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
 - Estabelecimento de Restauração
+- Estabelecimento Hospitalar
 - Estabelecimento Hoteleiro
 - Estabelecimento Industrial
 - Fiscalização
-- ASAE
+- Habitação
+- Incêndio
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
 - Laboratório Nacional de Engenharia Civil
+- Madeira.região Autónoma
 - Ordem dos Arquitectos
 - Ordem dos Engenheiros
 - Ordem dos Engenheiros Técnicos
-- Estabelecimento de Ensino
-- Regulamento de Segurança contra Incêndio em Edifícios Escolares
-- Madeira.região Autónoma
+- Prédio Urbano
+- Prevenção de Incêndios
 - Regime Jurídico
-- Estabelecimento Hospitalar
-- Habitação
-- Regulamento Geral das Edificações Urbanas
 - Regulamento de Segurança contra Incêndio em Edifícios de TIPO Administrativo
 - Regulamento de Segurança contra Incêndio em Edifícios de TIPO Hospitalar
+- Regulamento de Segurança contra Incêndio em Edifícios Escolares
+- Regulamento Geral das Edificações Urbanas
 - Segurança dos Edifícios
-- Autoridade Nacional de Protecção Civil
-- Açores
-- Equipamento de Combate a Incêndios
-- Prédio Urbano
-- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:207600537:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115674377:por
+  label: Declarada a inconstitucionalidade com força obrigatória geral das normas dos n.ºs 1 a 3 do art. 16.º do Dec Lei 220/2008
+    de 12-nov, tanto na versão originária, quanto na redação que lhe foi conferida pelo presente diploma, pelo(a) Acórdão
+    do Tribunal Constitucional n.º 319/2018 - Diário da República n.º 131/2018, Série I de 2018-07-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/319-2018-115674377
+  date: '2018-07-10'
+- type: amended_by
+  target: pt:dre:123279819:por
+  label: Alterado, a partir de 15.11.2019, o art 14.º-A do Dec Lei 220/2008, de 12-nov, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 95/2019 - Diário da República n.º 136/2019, Série I de 2019-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2019-123279819
+  date: '2019-07-18'
+- type: amended_by
+  target: pt:dre:125468543:por
+  label: Alterados os arts. 2.º, 3.º, 5.º, 9.º, 10.º, 11.º, 12.º, 14.º, 14.º-A (na redação do Dec Lei 95/2019 de 18 de jul),
+    17.º, 18.º, 19.º, 21.º, 22.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 32.º e 34.º e os anexos ii e iii, aditado o art. 15.º-A
+    e revogados a al. f) do n.º 2 do art. 12.º e o art. 16.º do Dec Lei 220/2008 de 12-nov, na versão republicada pelo presente
+    diploma, pelo(a) Lei n.º 123/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/123-2019-125468543
+  date: '2019-10-18'
 - type: cites
   target: celex:32008R0765
   label: null
@@ -150,16 +171,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/773/2009/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/773/2009/07/21/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683858:por
+  label: null
+  source: null
 article_structure:
-  article_count: 79
+  article_count: 52
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:49Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +319,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º,
 
 O presente decreto-lei estabelece o regime jurídico da segurança contra incêndio em edifícios, abreviadamente designado por SCIE.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do disposto no presente decreto-lei e legislação complementar, entende-se por:
 
@@ -242,7 +365,9 @@ s) 'Uso dominante de uma utilização-tipo' é aquele que de entre os diversos u
 
 t) 'Utilização-tipo' a classificação dada pelo uso dominante de qualquer edifício ou recinto, ou de cada uma das suas partes, em conformidade com o disposto no artigo 8.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Estão sujeitos ao regime de segurança contra incêndio:
 
@@ -272,13 +397,17 @@ h) Os edifícios de apoio a instalações dos estabelecimentos que transformem o
 
 6 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A ANPC é a entidade competente para assegurar o cumprimento do regime de segurança contra incêndio em edifícios.
 
 2 - À ANPC incumbe a credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de SCIE, nos termos previstos no presente decreto-lei e nas suas portarias complementares.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -300,7 +429,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -342,7 +473,9 @@ b) [...];
 
 c) Espaços comerciais, oficinas, bibliotecas e espaços de exposição, bem como postos médicos, de socorros e de enfermagem, desde que sejam geridos sob a responsabilidade das entidades exploradoras de utilizações-tipo III a XII e possuam uma área bruta não superior a 200 m2.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -360,7 +493,9 @@ c) Espaços comerciais, oficinas, bibliotecas e espaços de exposição, bem com
 
 8 - Relativamente às normas referidas no presente decreto-lei, são aplicáveis a sua última edição e ainda as posteriores erratas, emendas, revisões, integrações ou consolidações.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Todos os locais dos edifícios e dos recintos, com exceção dos espaços interiores de cada fogo, das vias horizontais e verticais de evacuação e dos espaços ao ar livre, são classificados de acordo com a natureza do risco, do seguinte modo:
 
@@ -438,7 +573,9 @@ f) [...];
 
 g) Centrais de bombagem para serviço de incêndio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]:
 
@@ -460,7 +597,9 @@ b) Não comunicar diretamente com locais de risco D, E ou F, nem com vias vertic
 
 4 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -490,7 +629,9 @@ i) [Anterior alínea h)].
 
 5 - A carga de incêndio modificada a que se referem a alínea n) do n.º 3 do artigo 10.º e o n.º 3 do artigo anterior é determinada com base nos critérios técnicos definidos em despacho do presidente da ANPC.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -502,7 +643,9 @@ i) [Anterior alínea h)].
 
 5 - Aos edifícios e recintos de utilização mista aplicam-se as exigências mais gravosas de entre as diversas utilizações-tipo no que respeita às condições de autoproteção dos espaços comuns, às condições de resistência ao fogo dos elementos estruturais comuns, às condições de resistência ao fogo dos elementos de compartimentação comuns, entre si e das vias de evacuação comuns, e às condições de controlo de fumos em vias de evacuação comuns, podendo partilhar os sistemas e equipamentos de segurança contra risco de incêndio do edifício.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 No caso de edifícios e recintos novos, quando, comprovadamente, as disposições do regulamento técnico referido no artigo 15.º sejam desadequadas face às grandes dimensões em altimetria ou planimetria ou às suas características de funcionamento, ou de exploração ou construtivas, tais edifícios e recintos ou as suas frações são classificados de perigosidade atípica e ficam sujeitos a soluções de SCIE que, cumulativamente:
 
@@ -514,7 +657,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 16.º — Projetos de SCIE e medidas de autoproteção
+Artigo 16.º
+
+Projetos de SCIE e medidas de autoproteção
 
 1 - A responsabilidade pela elaboração dos projetos de SCIE referentes a edifícios e recintos classificados na 1.ª categoria de risco, para as utilizações-tipo IV e V e nas 2.ª, 3.ª e 4.ª categorias de risco, decorrentes da aplicação do presente decreto-lei e portarias complementares, tem de ser assumida exclusivamente por um arquiteto, reconhecido pela Ordem dos Arquitetos (OA) ou por um engenheiro, reconhecido pela Ordem dos Engenheiros (OE), ou por um engenheiro técnico, reconhecido pela Ordem dos Engenheiros Técnicos (OET), com certificação de especialização declarada para o efeito nos seguintes termos:
 
@@ -532,7 +677,9 @@ b) O reconhecimento dos associados das OA, OE e OET, propostos pelas respetivas 
 
 3 - A ANPC deve proceder ao registo atualizado dos autores de projeto e medidas de autoproteção referidos nos números anteriores e publicitar a listagem dos mesmos no sítio da ANPC.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -542,7 +689,9 @@ b) O reconhecimento dos associados das OA, OE e OET, propostos pelas respetivas 
 
 4 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, deve ser instruído com termo de responsabilidade subscrito pelos autores de projeto de obra e do diretor de fiscalização de obra, no qual devem declarar que se encontram cumpridas as condições de SCIE.
 
@@ -550,7 +699,9 @@ b) O reconhecimento dos associados das OA, OE e OET, propostos pelas respetivas 
 
 3 - As vistorias referidas no número anterior, referentes à 1.ª categoria de risco para utilizações-tipo IV e V e à 2.ª, 3.ª e 4.ª categorias de risco, integram um representante da ANPC ou de uma entidade por ela credenciada.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Todos os edifícios ou recintos e suas frações estão sujeitos a inspeções a realizar pela ANPC ou por entidade por ela credenciada.
 
@@ -564,7 +715,9 @@ b) O reconhecimento dos associados das OA, OE e OET, propostos pelas respetivas 
 
 6 - Compete às entidades referidas nos n.os 3 e 4 do artigo 6.º, independentemente da instauração de processo contraordenacional, assegurar a regularização das condições que não estejam em conformidade com a legislação de SCIE aplicável, dentro dos prazos fixados nos relatórios das inspeções referidas no presente artigo.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A autoproteção e a gestão de segurança contra incêndio em edifícios e recintos, durante a exploração ou utilização dos mesmos, para efeitos de aplicação do presente decreto-lei e legislação complementar, baseiam-se nas seguintes medidas:
 
@@ -584,7 +737,9 @@ e) Simulacros para teste das medidas de autoproteção e treino dos ocupantes co
 
 4 - [Revogado].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - As medidas de autoproteção aplicam-se a todos os edifícios e recintos, incluindo os existentes à data da entrada em vigor do presente decreto-lei, com exceção dos edifícios e recintos da utilização-tipo I, da 1.ª e 2.ª categorias de risco.
 
@@ -596,13 +751,17 @@ e) Simulacros para teste das medidas de autoproteção e treino dos ocupantes co
 
 5 - Os simulacros de incêndio são realizados observando os períodos máximos entre exercícios, definidos no regulamento técnico referido no artigo 15.º
 
-###### Artigo 23.º — Comércio, instalação e manutenção de equipamentos e sistemas de SCIE
+Artigo 23.º
+
+Comércio, instalação e manutenção de equipamentos e sistemas de SCIE
 
 1 - As entidades que tenham por objeto a atividade de comercialização, instalação e ou manutenção de equipamentos e sistemas de SCIE encontram-se sujeitas a registo na ANPC, sem prejuízo de outras licenças, autorizações ou habilitações previstas na lei para o exercício de determinada atividade.
 
 2 - O procedimento de registo é definido por portaria dos membros do Governo responsáveis pelas áreas da proteção civil, das obras públicas e da economia.
 
-###### Artigo 24.º — Competência de fiscalização
+Artigo 24.º
+
+Competência de fiscalização
 
 1 - [...]:
 
@@ -614,7 +773,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]:
 
@@ -720,7 +881,9 @@ rr) A inexistência ou a deficiente instalação, funcionamento ou manutenção 
 
 8 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -732,11 +895,15 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 A instrução e decisão dos processos por contraordenação prevista no presente decreto-lei compete, respetivamente, à ANPC e ao seu presidente.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os serviços prestados pela ANPC, no âmbito do presente decreto-lei, estão sujeitos a taxas cujo valor é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da proteção civil e da economia, a qual estabelece também o regime de isenções aplicável.
 
@@ -762,17 +929,23 @@ i) O registo referido no n.º 2 do artigo 30.º
 
 3 - [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
 2 - As entidades credenciadas no âmbito do presente decreto-lei e legislação complementar devem fazer o registo da emissão de pareceres e da realização de vistorias e de inspeções das condições de SCIE no sistema informático da ANPC.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 A subscrição de fichas de segurança, projetos ou medidas de autoproteção em SCIE é incompatível com a prática de atos ao abrigo da credenciação da ANPC no exercício das suas competências de emissão de pareceres, realização de vistorias e inspeções das condições de SCIE.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Por despacho dos membros do Governo responsáveis pelas áreas da proteção civil e das obras públicas, é criada uma comissão de acompanhamento da aplicação do presente decreto-lei, presidida pela ANPC e constituída por um perito a designar por cada uma das seguintes entidades:
 
@@ -846,15 +1019,15 @@ São revogadas a alínea o) do n.º 3 do artigo 10.º, a alínea b) do artigo 14
 
 Visto e aprovado em Conselho de Ministros de 17 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 1 de outubro de 2015.**
+Promulgado em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de outubro de 2015.**
+Referendado em 5 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -892,7 +1065,7 @@ QUADRO I
 
 Classes de reação ao fogo para produtos de construção, excluindo pavimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 [...]
 
@@ -900,9 +1073,11 @@ QUADRO III
 
 Classes de reação ao fogo de produtos lineares para isolamento térmico de condutas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]:
 
@@ -944,13 +1119,13 @@ Aplicação: Paredes
 
 Normas: EN 13501-2; EN 1365-1; EN 1992-1-2; EN 1993-1-2; EN 1994-1-2; EN 1995-1-2; EN 1996-1-2; EN 1999-1-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Pavimentos e coberturas
 
 Normas: EN 13501-2; EN 1365-2; EN 1992-1-2; EN 1993-1-2; EN 1994-1-2; EN 1995-1-2; EN 1999-1-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO III
 
@@ -972,7 +1147,7 @@ Aplicação: Divisórias 'incluindo divisórias com porções não isoladas'
 
 Normas: EN 13501-2; EN 1364-1; EN 1992-1-2; EN 1993-1-2; EN 1994-1-2; EN 1995-1-2; EN 1996-1-2; EN 1999-1-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 [...]
 
@@ -980,7 +1155,7 @@ Aplicação: Portas e portadas corta-fogo e respetivos dispositivos de fecho 'in
 
 Normas: EN 13501-2; EN 1634-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 [...]
 
@@ -988,7 +1163,7 @@ Aplicação: Obturadores para sistemas de transporte contínuo por correias e ca
 
 Normas: EN 13501-2; EN 1366-7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 [...]
 
@@ -1000,7 +1175,7 @@ Aplicação: Revestimentos para paredes e coberturas
 
 Normas: EN 13501-2; EN 14135
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 [...]
 
@@ -1014,7 +1189,7 @@ Aplicação: Cabos ou sistemas de energia ou sinal com pequeno diâmetro 'menos 
 
 Normas: EN 13501-3; EN 50200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VII
 
@@ -1024,13 +1199,13 @@ Aplicação: Condutas de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-9; EN 12101-7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Condutas de controlo de fumos resistentes ao fogo multicompartimentadas
 
 Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-8; EN 12101-7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Registos de controlo de fumos de compartimento único
 
@@ -1038,97 +1213,103 @@ Normas: EN 13501-4; EN 1363-1; ENV 1363-3;
 
 EN 1366- 9, 10; EN 12101-8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Registos de controlo de fumos resistentes ao fogo multicompartimentados
 
 Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-2, 8, 10; EN 12101-8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Barreiras anti-fumo
 
 Normas: EN 13501-4; EN 1363-1, 2; EN 12101-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Exaustores elétricos de fumo e de calor (ventiladores), juntas de ligação
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-3; ISO 834-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Exaustores naturais de fumo e de calor
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 QUADRO I
 
 Categorias de risco da utilização-tipo I 'Habitacionais'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO II
 
 Categorias de risco da utilização-tipo II 'Estacionamentos'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO III
 
 Categorias de risco da utilização-tipo III 'Administrativos'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO IV
 
 Categorias de risco da utilização-tipo IV 'Escolares' e V 'Hospitalares e lares de idosos'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO V
 
 Categorias de risco das utilizações-tipo VI 'Espetáculos e reuniões públicas' e IX 'Desportivos e de lazer'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VI
 
 Categorias de risco da utilização-tipo VII 'Hoteleiros e restauração'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VII
 
 Categorias de risco da utilização-tipo VIII 'Comerciais e gares de transportes'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VIII
 
 Categorias de risco da utilização-tipo X 'Museus e galerias de arte'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO IX
 
 Categorias de risco da utilização-tipo XI 'Bibliotecas e arquivos'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO X
 
 Categorias de risco da utilização-tipo XII 'Industriais, oficinas e armazéns'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
-## ANEXO IV — Elementos do projeto da especialidade de SCIE, exigido para os edifícios e recintos, a que se refere o n.º 1 do artigo 17.º
+ANEXO IV
 
-###### Artigo 1.º — [...]
+Elementos do projeto da especialidade de SCIE, exigido para os edifícios e recintos, a que se refere o n.º 1 do artigo 17.º
+
+Artigo 1.º
+
+[...]
 
 [...]:
 
@@ -1972,19 +2153,19 @@ QUADRO I
 
 Classes de reação ao fogo para produtos de construção, excluindo pavimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO II
 
 Classes de reação ao fogo para produtos de construção de pavimentos, incluindo os seus revestimentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO III
 
 Classes de reação ao fogo de produtos lineares para isolamento térmico de condutas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 ## ANEXO II — Classes de resistência ao fogo padrão para produtos de construção, a que se refere o n.º 3 do artigo 9.º
 
@@ -2026,7 +2207,7 @@ Aplicação: Paredes, pavimentos, cobertura, vigas, pilares, varandas, escadas, 
 
 Normas: EN 13501-2; EN 1365-1, 2, 3, 4, 5, 6; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO II
 
@@ -2036,13 +2217,13 @@ Aplicação: Paredes
 
 Normas: EN 13501-2; EN 1365-1; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Pavimentos e coberturas
 
 Normas: EN 13501-2; EN 1365-2; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1999-1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO III
 
@@ -2070,37 +2251,37 @@ Aplicação: Divisórias «incluindo divisórias com porções não isoladas»
 
 Normas: EN 13501-2; EN 1364-1; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Tetos com resistência independente ao fogo
 
 Normas: EN 13501-2; EN 1364-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Fachadas e paredes exteriores «incluindo elementos envidraçados»
 
 Normas: EN 13501-2; EN 1364-3, 4, 5, 6; EN 1992-1.2; EN 1993-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Pisos falsos
 
 Normas: EN 13501-2; EN 1366-6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Vedações de aberturas de passagem de cabos e tubagens
 
 Normas: EN 13501-2; EN 1366-3, 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Portas e portadas corta-fogo e respetivos dispositivos de fecho «incluindo as que comportem envidraçados e ferragens»
 
 Normas: EN 13501-2; EN 1634-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Portas de controlo do fumo
 
@@ -2116,13 +2297,13 @@ Aplicação: Obturadores para sistemas de transporte contínuo por correias e ca
 
 Normas: EN 13501-2; EN 1366-7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Condutas e ductos
 
 Normas: EN 13501-2; EN 1366-5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: chaminés
 
@@ -2132,7 +2313,7 @@ Aplicação: Revestimentos para paredes e coberturas
 
 Normas: EN 13501-2; EN 14135
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO V
 
@@ -2142,13 +2323,13 @@ Aplicação: Condutas de ventilação
 
 Normas: EN 13501-3; EN 1366-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Registos corta-fogo
 
 Normas: EN 13501-3; EN 1366-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VI
 
@@ -2158,13 +2339,13 @@ Aplicação: Cabos elétricos e de fibra ótica e acessórios; tubos e sistemas 
 
 Norma: EN 13501-3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Cabos ou sistemas de energia ou sinal com pequeno diâmetro «menos de 20 mm e com condutores de menos de 2,5 mm2»
 
 Normas: EN 13501-3; EN 50200
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VII
 
@@ -2174,43 +2355,43 @@ Aplicação: Condutas de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-9; EN 12101-7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Condutas de controlo de fumos resistentes ao fogo multicompartimentadas
 
 Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-8; EN 12101-7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Registos de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1; ENV 1363-3; EN 1366- 9, 10; EN 12101-8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Registos de controlo de fumos resistentes ao fogo multicompartimentados
 
 Normas: EN 13501-4; EN 1363-1, 2; ENV 1363-3; EN 1366-2, 8, 10; EN 12101-8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Barreiras anti-fumo
 
 Normas: EN 13501-4; EN 1363-1, 2; EN 12101-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Exaustores elétricos de fumo e de calor (ventiladores), juntas de ligação
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-3; ISO 834-1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 Aplicação: Exaustores naturais de fumo e de calor
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 ## ANEXO III — (quadros referidos no n.º 1 do artigo 12.º)
 
@@ -2218,61 +2399,61 @@ QUADRO I
 
 Categorias de risco da utilização-tipo I «Habitacionais»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO II
 
 Categorias de risco da utilização-tipo II «Estacionamentos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO III
 
 Categorias de risco da utilização-tipo III «Administrativos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO IV
 
 Categorias de risco da utilização-tipo IV «Escolares» e V «Hospitalares e lares de idosos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO V
 
 Categorias de risco das utilizações-tipo VI «Espetáculos e reuniões públicas» e IX «Desportivos e de lazer»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VI
 
 Categorias de risco da utilização-tipo VII «Hoteleiros e restauração»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VII
 
 Categorias de risco da utilização-tipo VIII «Comerciais e gares de transportes»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO VIII
 
 Categorias de risco da utilização-tipo X «Museus e galerias de arte»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO IX
 
 Categorias de risco da utilização-tipo XI «Bibliotecas e arquivos»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 QUADRO X
 
 Categorias de risco da utilização-tipo XII «Industriais, oficinas e armazéns»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19800/0874008774.pdf)
 
 ## ANEXO IV — Elementos do projeto da especialidade de SCIE, exigido para os edifícios e recintos, a que se refere o n.º 1 do artigo 17.º do presente decreto-lei
 

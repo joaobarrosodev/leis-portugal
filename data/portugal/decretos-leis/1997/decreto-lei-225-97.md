@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/197a00/44314433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/1997/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1997-194223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9d2962866dc60ac5cfda0426ba6bde79462c2d053481519ffa4c483bbd36dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da220635f143e97ab83b7fc0f8cffbfcdb01830068582d21ea5feaf92b4b3565
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Deficiente
 - Definição de Competências
 - Ministério da Solidariedade e Segurança Social
 - Proteção ao Deficiente
@@ -77,20 +77,51 @@ relationships:
   target: pt:dre:107047290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Conselho Nacional para a Reabilitação e Integração\
+    \ das Pessoas com Deficiência (integrado no agora extinto Ministério da Segurança Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Conselho (integrado na Presidência\
+    \ do Conselho de Ministros), cuja composição e competências foram aprovadas no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:145193:por
+  label: "Extinto, sendo objecto de fusão, o Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência,\
+    \ criado pelo Dec Lei 35/96 de 02-Mai, e cuja composição e competências constam do presente diploma, pelo DEC LEI.126/2011.29.12.2011.MSSSOC,\
+    \ DR.IS [249] de 29.12.2011, nos termos dos seus arts. 25º, 26º e 28º, sendo a sua missão prosseguida pelo Conselho Nacional\
+    \ para as Políticas de Solidariedade, Voluntariado, Família Reabilitação e Segurança Social.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107047290:por
+  label: Revogado pelo(a) Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2017-107047290
+  date: '2017-05-22'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:30Z'
   warnings: []
   errors: []
 ---
@@ -219,12 +250,12 @@ As normas de funcionamento interno constam de regulamento a elaborar pelo Consel
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 11 de Agosto de 1997.**
+Promulgado em 11 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Agosto de 1997.**
+Referendado em 14 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

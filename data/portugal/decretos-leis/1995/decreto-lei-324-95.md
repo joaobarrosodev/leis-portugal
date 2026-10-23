@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/324/1995/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1995-627210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cae712bc4b398cc4155c5bf7b89f7b36635e1da0258f8d1ec4285866681a776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0451f67d0cb02d5f5d2f159beff717eb482c135fa61d12f9a92318e98870de45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Exploração Mineira
 - CEE
-- Multa
-- Higiene do Trabalho
-- Contra-ordenação
-- Segurança no Trabalho
-- Indústria Mineira
 - Condições de Higiene e Segurança no Trabalho
+- Contra-ordenação
+- Exploração Mineira
+- Higiene do Trabalho
+- Indústria Mineira
+- Multa
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:345124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 11.º e revogado o art. 12.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
 - type: cites
   target: celex:31992L0091
   label: null
@@ -92,13 +97,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:20Z'
   warnings: []
   errors: []
 ---
@@ -301,12 +306,12 @@ O disposto no presente diploma não prejudica, em tudo o que represente uma melh
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

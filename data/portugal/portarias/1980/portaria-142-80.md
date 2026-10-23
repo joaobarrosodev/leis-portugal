@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/142-1980-677614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efd94c088187cf1db364b7f38ed7ad5ba24aa06b9c0c9d7159af7723081e317c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7052a80db916d2375dbe29b1f55acb8267fa5c6e67e30ea513e2bfa3630c3e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de BENS
+- Empresa Pública
+- Setor Público
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 99, DE 29/4/80.\0/80.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:395279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508652:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:681403:por
+  label: Rectificada pela DECL.DD6897.29.04.1980.SG-PCM, DR.IS [99] de 29.04.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-681403
+  date: '1980-04-29'
+- type: repealed_by
+  target: pt:dre:395279:por
+  label: "Revogado presente diploma, sem prejuízo da sua aplicação às alíneas já autorizados ao abrigo das mesmas, pela PORT.694/82.14.07.1982.PCM,\
+    \ DR.IS [160] de 14.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/694-1982-395279
+  date: '1982-07-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:41Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +230,7 @@ c) Sujeitar as restantes rubricas do balanço a quaisquer correcções que, para
 
 3.1 - O valor de goodwill é calculado por aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07500/06140616.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07500/06140616.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07500/06140616.pdf)
 
 3.2 - Para efeitos do disposto no presente diploma, utilizar-se-ão para os coeficientes definidos em 3.1 os valores a seguir indicados:
 
@@ -204,4 +246,4 @@ r = 10%.
 
 3.5 - Sempre que o valor de goodwill calculado nos termos anteriormente referidos for negativo, será o mesmo considerado igual a zero para efeitos de determinação do valor real.
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/52/2009/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/52-2009-491968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68202948edbbac625d5f9389b9467a0e79c794d8fdedf64dd6c50fc22a77c0b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6fc336dd465c385290782294296c673035077f581fa147cb8c24bed4113249d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,29 @@ reuse:
 subjects:
 - Embaixador
 - Nomeação
-- Representante Permanente de Portugal Junto da OSCE
 - OSCE
+- Representante Permanente de Portugal Junto da OSCE
 - Viena
 relationships:
 - type: amended_by
   target: pt:dre:258707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258707:por
+  label: "Exonerada pelo DEC.32/2013.14.02.2013.PR, DR.IS [32] de 14.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-2013-258707
+  date: '2013-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:05Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +99,16 @@ validation:
 
 de 25 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a embaixadora Ana Maria da Silva Marques Martinho para o cargo de Representante Permanente de Portugal junto da Organização de Segurança e Cooperação na Europa, com efeitos a partir de 1 de Julho de 2009.
 
-**Assinado em 8 de Junho de 2009.**
+Assinado em 8 de Junho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Junho de 2009.**
+Referendado em 22 de Junho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.

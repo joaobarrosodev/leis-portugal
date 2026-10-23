@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2012/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2012-544386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53d8c2adf6bc18cc085643fb203b42082e4776bf85c9178fea2588d6d7f75c95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 296cf0f78752a596e86f01ceab80abb47524d7d14955a153d2ff09b2f6f30050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,74 +65,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- ARH do Alentejo
 - ARH do Algarve
-- Reestruturação de Serviços
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Instituto da ÁGUA
-- Programa Polis
-- Pessoal Dirigente
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
+- ARH do Centro
+- ARH do Norte
+- ARH do TEJO
+- Autoridade Florestal Nacional
+- Comissão de Acompanhamento da Gestão de Resíduos
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão de Planeamento da Agricultura de Emergência
 - Comissão de Planeamento de Emergência do Ambiente
 - Comissão de Planeamento do Transporte Marítimo de Emergência
+- Comissão para as Alterações Climáticas
 - Comissão Técnica
-- Instituto Portuário e dos Transportes Marítimos
-- Direção Geral de Veterinária
+- Conselho Nacional da ÁGUA
 - Criação de Serviços
 - Definição de Competências
-- Direcção Geral das Pescas e Aquicultura
+- Departamento de Prospectiva e Planeamento
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Direção Geral de Alimentação e Veterinária
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Direção Geral de Política do Mar
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direção Geral de Veterinária
+- Direção Geral do Território
+- Direção Regional de Agricultura e Pescas do Alentejo
+- Direcção Geral das Pescas e Aquicultura
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Direcção Regional de Agricultura e Pescas do Algarve
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Direção Regional de Agricultura e Pescas do Alentejo
-- Direcção Regional de Agricultura e Pescas do Algarve
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
 - Estrutura de Missão para os Assuntos do MAR
 - Extinção de Serviços
-- Secretaria Geral
 - Fundo de Intervenção Ambiental
 - Fundo de Protecção dos Recursos Hídricos
 - Fundo Florestal Permanente
 - Gabinete de Planeamento e Políticas
-- Comissão de Acompanhamento da Gestão de Resíduos
-- Instituto Nacional de Investigação Agrária e Veterinária
-- Inspecção Geral da Agricultura e Pescas
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Instituto da Vinha e do Vinho
 - IFAP
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Inspecção Geral da Agricultura e Pescas
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto da ÁGUA
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto da Vinha e do Vinho
 - Instituto dos Vinhos do Douro e do Porto
+- Instituto Geográfico Português
+- Instituto Nacional de Investigação Agrária e Veterinária
 - Instituto Nacional de Recursos Biológicos
+- Instituto Portuário e dos Transportes Marítimos
 - Instituto Português do Mar e da Atmosfera
 - Instituto Público
 - Integração de Serviços
-- Direção Geral de Política do Mar
-- Direção Geral do Território
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Instituto da Conservação da Natureza e das Florestas
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
-- Departamento de Prospectiva e Planeamento
-- ARH do Alentejo
-- ARH do Centro
-- ARH do Norte
-- ARH do TEJO
-- Comissão para as Alterações Climáticas
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Instituto da Habitação e da Reabilitação Urbana
-- Conselho Nacional da ÁGUA
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Orgânica
+- Pessoal Dirigente
 - Programa Finisterra
-- Autoridade Florestal Nacional
+- Programa Polis
 - Quadro de Pessoal
-- Instituto da Conservação da Natureza e da Biodiversidade
+- Reestruturação de Serviços
 - Registo Internacional de Navios da Madeira
-- Instituto Geográfico Português
+- Secretaria Geral
 - Tutela
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:67458359:por
@@ -170,16 +170,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:247711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570704:por
+  label: "Revogado, a partir de 05.02.2014, pelo DEC LEI.18/2014.04.02.2014.MAGM, DR.IS [24] de 04.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2014-570704
+  date: '2014-02-04'
 article_structure:
   article_count: 40
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:52Z'
   warnings: []
   errors: []
 ---
@@ -1072,24 +1109,24 @@ b) O [Decreto-Lei n.º 209/2006](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - Paulo Frederico Agostinho Braga Lino - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 11 de Janeiro de 2012.**
+Promulgado em 11 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Janeiro de 2012.**
+Referendado em 13 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 33.º)
 
 Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf)
 
 ## ANEXO II — (a que se refere o artigo 33.º)
 
 Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01200/0021400229.pdf)

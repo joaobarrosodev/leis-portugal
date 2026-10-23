@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 249/2003, 1º Suplemento, Série I-A de 2003-10-27
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7136-(2) a 7136-(672)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267-a/2003/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-a-2003-434032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28f111277a884d128c685e7370e148e92de0744ad23b121be8b5f3ec29cc44f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3169a1478f9067ac6349e14338f906b4a2e8dee8fcba71ddcf74252ac7269e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,11 +72,11 @@ subjects:
 - Acordo ADR
 - Acordo Europeu
 - Aproximação das Legislações
-- Multa
 - Contra-ordenação
 - Fiscalização
-- Transporte de Mercadorias
+- Multa
 - Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
@@ -131,16 +131,21 @@ relationships:
   target: celex:32003L0028
   label: null
   source: http://data.europa.eu/eli/dir/2003/28/oj
+- type: repealed_by
+  target: pt:dre:167823:por
+  label: "Revogado pelo DEC LEI.170-A/2007.04.05.2007.MOPTC, DR.IS [86-Supl] de 04.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-a-2007-167823
+  date: '2007-05-04'
 article_structure:
   article_count: 21
-  section_count: 125
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 72
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:16Z'
   warnings: []
   errors: []
 ---
@@ -419,15 +424,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celesre Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Pedro Lynce de Faria - Luís Filipe Pereira - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 24 de Julho de 2003.**
+Promulgado em 24 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Julho de 2003.**
+Referendado em 30 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO 1 — Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada (RPE)
 
@@ -435,11 +440,11 @@ Nota geral: As presentes disposições do RPE têm exactamente a mesma redacçã
 
 Quadro das matérias
 
-# Parte 1
+## Parte 1
 
 Disposições gerais.
 
-### Capítulo 1.1 - Campo de aplicação e aplicabilidade.
+Capítulo 1.1 - Campo de aplicação e aplicabilidade.
 
 1.1.1 Estrutura.
 
@@ -449,13 +454,13 @@ Disposições gerais.
 
 1.1.4 Aplicabilidade de outros regulamentos.
 
-### Capítulo 1.2 - Definições e unidades de medida.
+Capítulo 1.2 - Definições e unidades de medida.
 
 1.2.1 Definições.
 
 1.2.2 Unidades de medida.
 
-### Capítulo 1.3 Formação das pessoas intervenientes no transporte de mercadorias perigosas.
+Capítulo 1.3 Formação das pessoas intervenientes no transporte de mercadorias perigosas.
 
 1.3.1 Campo de aplicação.
 
@@ -463,7 +468,7 @@ Disposições gerais.
 
 1.3.3 Documentação.
 
-### Capítulo 1.4 - Obrigações de segurança dos intervenientes.
+Capítulo 1.4 - Obrigações de segurança dos intervenientes.
 
 1.4.1 Medidas gerais de segurança.
 
@@ -477,7 +482,7 @@ Disposições gerais.
 
 1.5.2 (Reservado).
 
-### Capítulo 1.6 - Medidas transitórias.
+Capítulo 1.6 - Medidas transitórias.
 
 1.6.1 Generalidades.
 
@@ -491,7 +496,7 @@ Disposições gerais.
 
 1.6.6 Classe 7.
 
-### Capítulo 1.7 - Prescrições gerais relativas à classe 7.
+Capítulo 1.7 - Prescrições gerais relativas à classe 7.
 
 1.7.1 Generalidades.
 
@@ -503,7 +508,7 @@ Disposições gerais.
 
 1.7.5 Matéria radioactiva com outras propriedades perigosas.
 
-### Capítulo 1.8 - Medidas de controle e de apoio ao cumprimento das prescrições de segurança.
+Capítulo 1.8 - Medidas de controle e de apoio ao cumprimento das prescrições de segurança.
 
 1.8.1 Controles administrativos das mercadorias perigosas.
 
@@ -515,13 +520,13 @@ Disposições gerais.
 
 1.8.5 Notificação das ocorrências envolvendo mercadorias perigosas.
 
-### Capítulo 1.9 - Restrições ao transporte estabelecidas pelas autoridades competentes.
+Capítulo 1.9 - Restrições ao transporte estabelecidas pelas autoridades competentes.
 
-# Parte 2
+Parte 2
 
 Classificação.
 
-### Capítulo 2.1 - Disposições gerais.
+Capítulo 2.1 - Disposições gerais.
 
 2.1.1 Introdução.
 
@@ -531,7 +536,7 @@ Classificação.
 
 2.1.4 Classificação de amostras.
 
-### Capítulo 2.2 - Disposições específicas de cada classe.
+Capítulo 2.2 - Disposições específicas de cada classe.
 
 2.2.1 Classe 1 Matérias e objectos explosivos.
 
@@ -559,7 +564,7 @@ Classificação.
 
 2.2.9 Classe 9 Matérias e objectos perigosos diversos.
 
-### Capítulo 2.3 - Métodos de ensaio.
+Capítulo 2.3 - Métodos de ensaio.
 
 2.3.0 Generalidades.
 
@@ -573,7 +578,7 @@ Classificação.
 
 2.3.5 Ensaios para determinar a ecotoxicidade, a persistência e a bioacumulação de matérias no ambiente aquático com vista à sua afectação à classe 9.
 
-# Parte 3
+Parte 3
 
 Lista das mercadorias perigosas, disposições especiais e isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas.
 
@@ -583,21 +588,21 @@ Lista das mercadorias perigosas, disposições especiais e isenções relativas 
 
 3.1.2 Designação oficial de transporte.
 
-### Capítulo 3.2 - Lista das mercadorias perigosas.
+Capítulo 3.2 - Lista das mercadorias perigosas.
 
 3.2.1 Quadro A: Lista das mercadorias perigosas.
 
 3.2.2 Quadro B: Índice alfabético das matérias e objectos.
 
-### Capítulo 3.3 - Disposições especiais aplicáveis a certas matérias ou objectos.
+Capítulo 3.3 - Disposições especiais aplicáveis a certas matérias ou objectos.
 
-### Capítulo 3.4 - Isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas.
+Capítulo 3.4 - Isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas.
 
-# Parte 4
+Parte 4
 
 Disposições relativas à utilização das embalagens e das cisternas.
 
-### Capítulo 4.1 - Utilização das embalagens, dos grandes recipientes para granel (GRG) e das grandes embalagens.
+Capítulo 4.1 - Utilização das embalagens, dos grandes recipientes para granel (GRG) e das grandes embalagens.
 
 4.1.1 Disposições gerais de embalagem das mercadorias perigosas em embalagens, incluindo os GRG e as grandes embalagens.
 
@@ -619,7 +624,7 @@ Disposições relativas à utilização das embalagens e das cisternas.
 
 4.1.10 Disposições particulares relativas à embalagem em comum.
 
-### Capítulo 4.2 - Utilização das cisternas móveis e dos contentores para gás de elementos múltiplos (CGEM) certificados «UN».
+Capítulo 4.2 - Utilização das cisternas móveis e dos contentores para gás de elementos múltiplos (CGEM) certificados «UN».
 
 4.2.1 Disposições gerais relativas à utilização de cisternas móveis para o transporte de matérias das classes 3 a 9.
 
@@ -631,7 +636,7 @@ Disposições relativas à utilização das embalagens e das cisternas.
 
 4.2.5 Instruções e disposições especiais de transporte em cisternas móveis.
 
-### Capítulo 4.3 - Utilização de cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas cujos reservatórios são construídos de materiais metálicos, bem como de veículos-baterias e contentores para gás de elementos múltiplos (CGEM).
+Capítulo 4.3 - Utilização de cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas cujos reservatórios são construídos de materiais metálicos, bem como de veículos-baterias e contentores para gás de elementos múltiplos (CGEM).
 
 4.3.1 Campo de aplicação.
 
@@ -643,23 +648,23 @@ Disposições relativas à utilização das embalagens e das cisternas.
 
 4.3.5 Disposições especiais.
 
-### Capítulo 4.4 - Utilização de cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas de matéria plástica reforçada com fibras.
+Capítulo 4.4 - Utilização de cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas de matéria plástica reforçada com fibras.
 
 4.4.1 Generalidades.
 
 4.4.2 Serviço.
 
-### Capítulo 4.5 - Utilização de cisternas para resíduos operadas sob vácuo.
+Capítulo 4.5 - Utilização de cisternas para resíduos operadas sob vácuo.
 
 4.5.1 Utilização.
 
 4.5.2 Serviço.
 
-# Parte 5
+Parte 5
 
 Procedimentos de expedição.
 
-### Capítulo 5.1 - Disposições gerais.
+Capítulo 5.1 - Disposições gerais.
 
 5.1.1 Aplicação e disposições gerais.
 
@@ -671,13 +676,13 @@ Procedimentos de expedição.
 
 5.1.5 Disposições gerais relativas à classe 7.
 
-### Capítulo 5.2 - Marcação e etiquetagem.
+Capítulo 5.2 - Marcação e etiquetagem.
 
 5.2.1 Marcação de volumes.
 
 5.2.2 Etiquetagem dos volumes.
 
-### Capítulo 5.3 - Sinalização e painéis laranja de contentores, CGEM, contentores-cisternas, cisternas móveis e veículos.
+Capítulo 5.3 - Sinalização e painéis laranja de contentores, CGEM, contentores-cisternas, cisternas móveis e veículos.
 
 5.3.1 Sinalização.
 
@@ -695,17 +700,17 @@ Procedimentos de expedição.
 
 5.4.4 Exemplo de impresso-tipo para o transporte multimodal de mercadorias perigosas.
 
-### Capítulo 5.5 - Disposições especiais.
+Capítulo 5.5 - Disposições especiais.
 
 5.5.1 Disposições especiais relativas à expedição de matérias infecciosas dos grupos de risco 3 e 4.
 
 5.5.2 Disposições especiais relativas aos veículos, contentores e cisternas que sofreram um tratamento de fumigação.
 
-# Parte 6
+Parte 6
 
 Prescrições relativas à construção das embalagens, dos grandes recipientes para granel (GRG), das grandes embalagens e das cisternas e aos ensaios a que devem ser submetidos.
 
-### Capítulo 6.1 - Prescrições relativas à construção das embalagens e aos ensaios a que devem ser submetidas.
+Capítulo 6.1 - Prescrições relativas à construção das embalagens e aos ensaios a que devem ser submetidas.
 
 6.1.1 Generalidades.
 
@@ -719,7 +724,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.1.6 Líquidos de referência para comprovar a compatibilidade química das embalagens de polietileno de alta ou média massa molecular em conformidade com o 6.1.5.2.6, e lista das matérias em relação às quais estes líquidos podem ser considerados equivalentes.
 
-### Capítulo 6.2 - Prescrições relativas à construção e aos ensaios sobre os recipientes de gás, geradores de aerossóis e recipientes de baixa capacidade contendo gás (cartuchos de gás).
+Capítulo 6.2 - Prescrições relativas à construção e aos ensaios sobre os recipientes de gás, geradores de aerossóis e recipientes de baixa capacidade contendo gás (cartuchos de gás).
 
 6.2.1 Prescrições gerais.
 
@@ -731,7 +736,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.2.5 Prescrições aplicáveis aos recipientes sob pressão certificados «UN».
 
-### Capítulo 6.3 - Prescrições relativas à construção das embalagens para as matérias da classe 6.2 e aos ensaios a que devem ser submetidas.
+Capítulo 6.3 - Prescrições relativas à construção das embalagens para as matérias da classe 6.2 e aos ensaios a que devem ser submetidas.
 
 6.3.1 Generalidades.
 
@@ -739,7 +744,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.3.3 Relatório de ensaio.
 
-### Capítulo 6.4 - Prescrições relativas à construção dos pacotes para as matérias da classe 7, aos ensaios a que devem ser submetidos, à sua aprovação e à aprovação destas matérias.
+Capítulo 6.4 - Prescrições relativas à construção dos pacotes para as matérias da classe 7, aos ensaios a que devem ser submetidos, à sua aprovação e à aprovação destas matérias.
 
 6.4.1 (Reservado).
 
@@ -787,7 +792,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.4.23 Pedidos de aprovação e aprovações relativas ao transporte de matérias radioactivas.
 
-### Capítulo 6.5 - Prescrições relativas à construção dos grandes recipientes para granel (GRG) e aos ensaios a que devem ser submetidos.
+Capítulo 6.5 - Prescrições relativas à construção dos grandes recipientes para granel (GRG) e aos ensaios a que devem ser submetidos.
 
 6.5.1 Prescrições gerais aplicáveis a todos os tipos de GRG.
 
@@ -797,7 +802,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.5.4 Prescrições relativas aos ensaios.
 
-### Capítulo 6.6 - Prescrições relativas à construção das grandes embalagens e aos ensaios a que devem ser submetidas.
+Capítulo 6.6 - Prescrições relativas à construção das grandes embalagens e aos ensaios a que devem ser submetidas.
 
 6.6.1 Generalidades.
 
@@ -809,7 +814,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.6.5 Prescrições relativas aos ensaios.
 
-### Capítulo 6.7 - Prescrições relativas à concepção e construção das cisternas móveis e dos contentores para gás de ele-mentos múltiplos (CGEM) certificados «UN» e às inspecções e ensaios a que devem ser submetidos.
+Capítulo 6.7 - Prescrições relativas à concepção e construção das cisternas móveis e dos contentores para gás de ele-mentos múltiplos (CGEM) certificados «UN» e às inspecções e ensaios a que devem ser submetidos.
 
 6.7.1 Domínio de aplicação e prescrições gerais.
 
@@ -821,7 +826,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.7.5 Prescrições relativas à concepção e à construção dos contentores para gás de elementos múltiplos (CGEM) certificados «UN» destinados ao transporte de gases não refrigerados, bem como às inspecções e ensaios a que devem ser submetidos.
 
-### Capítulo 6.8 - Prescrições relativas à construção, aos equipamentos, à aprovação de tipo, às inspecções e ensaios e à marcação das cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas cujos reservatórios são construídos de materiais metálicos, bem como de veículos-baterias e contentores para gás de elementos múltiplos (CGEM).
+Capítulo 6.8 - Prescrições relativas à construção, aos equipamentos, à aprovação de tipo, às inspecções e ensaios e à marcação das cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas cujos reservatórios são construídos de materiais metálicos, bem como de veículos-baterias e contentores para gás de elementos múltiplos (CGEM).
 
 6.8.1 Campo de aplicação.
 
@@ -833,7 +838,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.8.5 Prescrições relativas aos materiais e à construção das cister-nas fixas soldadas, das cisternas desmontáveis soldadas e dos reservatórios soldados dos contentores-cisternas, para os quais é prescrita uma pressão de ensaio de pelo menos 1 MPa (10 bar), bem como das cisternas fixas soldadas, das cisternas desmontáveis soldadas e dos reservatórios soldados dos contentores-cisternas, destinados ao trans-porte de gases liquefeitos refrigerados da classe 2.
 
-### Capítulo 6.9 - Prescrições relativas à concepção, à construção, aos equipamentos, à aprovação de tipo, aos ensaios e à marcação das cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas de matéria plástica reforçada com fibras.
+Capítulo 6.9 - Prescrições relativas à concepção, à construção, aos equipamentos, à aprovação de tipo, aos ensaios e à marcação das cisternas fixas (veículos-cisternas), cisternas desmontáveis, contentores-cisternas e caixas móveis cisternas de matéria plástica reforçada com fibras.
 
 6.9.1 Generalidades.
 
@@ -847,7 +852,7 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.9.6 Marcação.
 
-### Capítulo 6.10 - Prescrições relativas à construção, ao equipamento, à aprovação de tipo, às inspecções e à marcação das cisternas para resíduos operadas sob vácuo.
+Capítulo 6.10 - Prescrições relativas à construção, ao equipamento, à aprovação de tipo, às inspecções e à marcação das cisternas para resíduos operadas sob vácuo.
 
 6.10.1 Generalidades.
 
@@ -857,19 +862,19 @@ Prescrições relativas à construção das embalagens, dos grandes recipientes 
 
 6.10.4 Inspecções.
 
-# Parte 7
+Parte 7
 
 Disposições relativas às condições de transporte, carga, descarga e manuseamento.
 
-### Capítulo 7.1 - Disposições gerais.
+Capítulo 7.1 - Disposições gerais.
 
-### Capítulo 7.2 - Disposições relativas ao transporte em volumes.
+Capítulo 7.2 - Disposições relativas ao transporte em volumes.
 
-### Capítulo 7.3 - Disposições relativas ao transporte a granel.
+Capítulo 7.3 - Disposições relativas ao transporte a granel.
 
-### Capítulo 7.4 - Disposições relativas ao transporte em cisternas.
+Capítulo 7.4 - Disposições relativas ao transporte em cisternas.
 
-### Capítulo 7.5 - Disposições relativas à carga, à descarga e ao manuseamento.
+Capítulo 7.5 - Disposições relativas à carga, à descarga e ao manuseamento.
 
 7.5.1 Disposições gerais relativas à carga, à descarga e ao manuseamento.
 
@@ -893,11 +898,11 @@ Disposições relativas às condições de transporte, carga, descarga e manusea
 
 7.5.11 Disposições adicionais relativas a certas classes ou mercadorias.
 
-# Parte 8
+Parte 8
 
 Prescrições relativas à tripulação, ao equipamento, à operação e à documentação dos veículos.
 
-### Capítulo 8.1 - Prescrições gerais relativas às unidades de transporte e ao equipamento de bordo.
+Capítulo 8.1 - Prescrições gerais relativas às unidades de transporte e ao equipamento de bordo.
 
 8.1.1 Unidades de transporte.
 
@@ -909,7 +914,7 @@ Prescrições relativas à tripulação, ao equipamento, à operação e à docu
 
 8.1.5 Equipamentos diversos.
 
-### Capítulo 8.2 - Prescrições relativas à formação da tripulação dos veículos.
+Capítulo 8.2 - Prescrições relativas à formação da tripulação dos veículos.
 
 8.2.1 Prescrições gerais relativas à formação dos condutores.
 
@@ -917,7 +922,7 @@ Prescrições relativas à tripulação, ao equipamento, à operação e à docu
 
 8.2.3 Formação das pessoas, que não os condutores visados no 8.2.1, intervenientes no transporte de mercadorias perigosas por estrada.
 
-### Capítulo 8.3 - Prescrições diversas a cumprir pela tripulação dos veículos.
+Capítulo 8.3 - Prescrições diversas a cumprir pela tripulação dos veículos.
 
 8.3.1 Passageiros.
 
@@ -933,21 +938,21 @@ Prescrições relativas à tripulação, ao equipamento, à operação e à docu
 
 8.3.7 Utilização do travão de estacionamento.
 
-### Capítulo 8.4 - Prescrições relativas à vigilância dos veículos.
+Capítulo 8.4 - Prescrições relativas à vigilância dos veículos.
 
-### Capítulo 8.5 - Prescrições adicionais relativas a certas classes ou mercadorias.
+Capítulo 8.5 - Prescrições adicionais relativas a certas classes ou mercadorias.
 
-# Parte 9
+Parte 9
 
 Prescrições relativas à construção e aprovação dos veículos.
 
-### Capítulo 9.1 - Prescrições gerais relativas à construção e aprovação dos veículos.
+Capítulo 9.1 - Prescrições gerais relativas à construção e aprovação dos veículos.
 
 9.1.1 Disposições gerais.
 
 9.1.2 Aprovação dos veículos EX/II, EX/III, FL, OX e AT.
 
-### Capítulo 9.2 - Prescrições relativas à construção do veículo de base.
+Capítulo 9.2 - Prescrições relativas à construção do veículo de base.
 
 9.2.1
 
@@ -961,7 +966,7 @@ Prescrições relativas à construção e aprovação dos veículos.
 
 9.2.6 Dispositivo de atrelagem do reboque.
 
-### Capítulo 9.3 - Prescrições adicionais relativas a veículos X/II e EX/III completos ou completados.
+Capítulo 9.3 - Prescrições adicionais relativas a veículos X/II e EX/III completos ou completados.
 
 9.3.1 Materiais a utilizar na construção da caixa dos veículos.
 
@@ -977,13 +982,13 @@ Prescrições relativas à construção e aprovação dos veículos.
 
 9.3.7 Equipamento eléctrico.
 
-### Capítulo 9.4 - Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados (que não veículos EX/II e EX/III) destinados ao transporte de mercadorias perigosas em volumes.
+Capítulo 9.4 - Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados (que não veículos EX/II e EX/III) destinados ao transporte de mercadorias perigosas em volumes.
 
-### Capítulo 9.5 - Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados destinados ao transporte de mercadorias perigosas sólidas a granel.
+Capítulo 9.5 - Prescrições adicionais relativas à construção da caixa dos veículos completos ou completados destinados ao transporte de mercadorias perigosas sólidas a granel.
 
-### Capítulo 9.6 - Prescrições adicionais relativas a veículos completos ou completados destinados ao transporte de matérias sob regulação de temperatura.
+Capítulo 9.6 - Prescrições adicionais relativas a veículos completos ou completados destinados ao transporte de matérias sob regulação de temperatura.
 
-### Capítulo 9.7 - Prescrições adicionais relativas a veículos-cisternas (cisternas fixas), veículos-baterias e veículos completos ou completados utilizados no transporte de mercadorias perigosas em cisternas desmontáveis com capacidade superior a 1 m3 ou em contentores-cisternas, cisternas móveis ou CGEM com capacidade superior a 3 m3 (veículos FL, OX e AT).
+Capítulo 9.7 - Prescrições adicionais relativas a veículos-cisternas (cisternas fixas), veículos-baterias e veículos completos ou completados utilizados no transporte de mercadorias perigosas em cisternas desmontáveis com capacidade superior a 1 m3 ou em contentores-cisternas, cisternas móveis ou CGEM com capacidade superior a 3 m3 (veículos FL, OX e AT).
 
 9.7.1 Disposições gerais.
 
@@ -1001,7 +1006,7 @@ Prescrições relativas à construção e aprovação dos veículos.
 
 9.7.8 Equipamento eléctrico.
 
-# PARTE 1 — Disposições gerais
+## PARTE 1 — Disposições gerais
 
 ### CAPÍTULO 1.1 — Campo de aplicação e aplicabilidade
 
@@ -1065,7 +1070,7 @@ NOTA: Em transporte internacional, ver NOTA de fim de capítulo.
 
 ### Capítulo 3.1
 
-### Capítulo 3.2 Colunas (1), (2), (14), (15) e (19) (aplicação das disposições das Partes 8 e 9 a matérias ou objectos em particular).
+Capítulo 3.2 Colunas (1), (2), (14), (15) e (19) (aplicação das disposições das Partes 8 e 9 a matérias ou objectos em particular).
 
 NOTA: Em transporte internacional, ver NOTA de fim de capítulo.
 
@@ -1179,7 +1184,7 @@ NOTA: No que se refere às menções a incluir no documento de transporte, ver 5
 
 1.1.3.6.3 Quando as mercadorias perigosas transportadas na unidade de transporte pertençam à mesma categoria, a quantidade máxima total é indicada na coluna (3) do seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 No quadro acima, por «quantidade máxima total por unidade de transporte», entende-se:
 
@@ -1877,17 +1882,17 @@ NOTA: Para as matérias radioactivas, ver «Pacote».
 
 1.2.2.1 São aplicáveis no RPE as seguintes unidades de medida (ver nota a):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (nota a) Para a conversão em unidades SI das unidades anteriormente utilizadas são aplicáveis os seguintes valores arredondados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 [(ver notas referentes à tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Os múltiplos e os submúltiplos decimais de uma unidade de medida podem formar-se por meio dos seguintes prefixos ou símbolos, colocados antes do nome ou do símbolo da unidade:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 1.2.2.2 Salvo indicação explícita em contrário, o símbolo «%» representa, no RPE:
 
@@ -2509,7 +2514,7 @@ O certificado previsto no 1.8.3.7 deve indicar com clareza que só é válido pa
 
 Certificado de formação dos conselheiros de segurança do transporte de mercadorias perigosas
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (nota 1) Jornal oficial das Comunidades europeias, Nº L 145 de 19 de Junho de 1996.
 
@@ -2571,7 +2576,7 @@ Em caso de necessidade, a autoridade competente pode solicitar informações adi
 
 Relatório sobre ocorrências durante o transporte de mercadorias perigosas, em conformidade com a secção 1.8.5 do RID/ADR
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Em caso de necessidade, a autoridade competente pode solicitar informações adicionais.
 
@@ -2647,7 +2652,7 @@ Os parágrafos 1.9.1, 1.9.2 e 1.9.4 do ADR têm a seguinte redacção:
 
 1.9.4 A autoridade competente da Parte contratante que aplique no seu território disposições suplementares visadas nas alíneas a) e d) do 1.9.3 informará sobre essas disposições o Secretariado da Comissão Económica das Nações Unidas para a Europa (ONU), que as levará ao conhecimento das Partes contratantes.
 
-# PARTE 2 — Classificação
+## PARTE 2 — Classificação
 
 ### CAPÍTULO 2.1 — Disposições gerais
 
@@ -2819,7 +2824,7 @@ b) 10 mg/l, quando o poluente não é rapidamente biodegradável ou, sendo biode
 
 2.1.3.9 Quadro de ordem de preponderância dos perigos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA 1: Exemplos ilustrativos da utilização do quadro:
 
@@ -2925,21 +2930,21 @@ A afectação de matérias e objectos não expressamente mencionados no quadro A
 
 2.2.1.1.5 Definição das divisões
 
-##### Divisão 1.1 - Matérias e objectos que apresentam um risco de explosão em massa (uma explosão em massa é uma explosão que afecta de um modo praticamente instantâneo a quase totalidade da carga).
+Divisão 1.1 - Matérias e objectos que apresentam um risco de explosão em massa (uma explosão em massa é uma explosão que afecta de um modo praticamente instantâneo a quase totalidade da carga).
 
-##### Divisão 1.2 - Matérias e objectos que apresentam um risco de projecções sem risco de explosão em massa.
+Divisão 1.2 - Matérias e objectos que apresentam um risco de projecções sem risco de explosão em massa.
 
-##### Divisão 1.3 - Matérias e objectos que apresentam um risco de incêndio com um risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa,
+Divisão 1.3 - Matérias e objectos que apresentam um risco de incêndio com um risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa,
 
 a) cuja combustão dá lugar a uma radiação térmica considerável; ou
 
 b) que ardem de forma sucessiva com efeitos mínimos de sopro ou de projecções, ou de ambos.
 
-##### Divisão 1.4 - Matérias e objectos que apenas apresentam um perigo mínimo no caso de ignição ou de iniciação durante o transporte. Os efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância. Um incêndio exterior não deve provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume.
+Divisão 1.4 - Matérias e objectos que apenas apresentam um perigo mínimo no caso de ignição ou de iniciação durante o transporte. Os efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância. Um incêndio exterior não deve provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume.
 
-##### Divisão 1.5 - Matérias muito pouco sensíveis comportando risco de explosão em massa, mas cuja sensibilidade é tal que, nas condições normais de transporte, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação. Como prescrição mínima, não devem explodir durante o ensaio ao fogo exterior.
+Divisão 1.5 - Matérias muito pouco sensíveis comportando risco de explosão em massa, mas cuja sensibilidade é tal que, nas condições normais de transporte, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação. Como prescrição mínima, não devem explodir durante o ensaio ao fogo exterior.
 
-##### Divisão 1.6 - Objectos extremamente pouco sensíveis, não comportando risco de explosão em massa. Estes objectos só contêm matérias detonantes extremamente pouco sensíveis e apresentam uma probabilidade negligenciável de iniciação ou de propagação acidentais.
+Divisão 1.6 - Objectos extremamente pouco sensíveis, não comportando risco de explosão em massa. Estes objectos só contêm matérias detonantes extremamente pouco sensíveis e apresentam uma probabilidade negligenciável de iniciação ou de propagação acidentais.
 
 NOTA: O risco ligado aos objectos da divisão 1.6 é limitado à explosão de um único objecto.
 
@@ -3533,7 +3538,7 @@ Matéria constituída por uma mistura de trinitrotolueno (TNT) e alumínio.
 
 2.2.1.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.2 Classe 2 Gases
 
@@ -3599,11 +3604,11 @@ Para os gases e misturas de gases que apresentam, de acordo com estes critérios
 
 NOTA 1: No Regulamento Tipo da ONU, no Código IMDG e nas Instruções Técnicas da OACI, os gases são afectados a uma das três divisões seguintes, em função do perigo principal que apresentam:
 
-##### Divisão 2.1: gases inflamáveis (correspondem aos grupos designados por um F maiúsculo);
+Divisão 2.1: gases inflamáveis (correspondem aos grupos designados por um F maiúsculo);
 
-##### Divisão 2.2: gases não inflamáveis, não tóxicos (correspondem aos grupos designados por um A ou um O maiúsculo);
+Divisão 2.2: gases não inflamáveis, não tóxicos (correspondem aos grupos designados por um A ou um O maiúsculo);
 
-##### Divisão 2.3: gases tóxicos (correspondem aos grupos designados por um T maiúsculo, ou seja, T, TF, TC, TO, TFC e TOC).
+Divisão 2.3: gases tóxicos (correspondem aos grupos designados por um T maiúsculo, ou seja, T, TF, TC, TO, TFC e TOC).
 
 NOTA 2: Os recipientes de baixa capacidade contendo gás (Nº ONU 2037) são afectados aos grupos A a TOC em função do perigo apresentado pelo seu conteúdo. Para os aerossóis (Nº ONU 1950), ver 2.2.2.1.6.
 
@@ -3649,7 +3654,7 @@ b) são presumivelmente tóxicos ou corrosivos para o homem porque o seu CL(índ
 
 Para a classificação das misturas de gases (incluindo os vapores de matérias de outras classes), pode utilizar-se a fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Sempre que o valor CL(índice 50) não for indicado na instrução de embalagem P200 do 4.1.4.1, deve utilizar-se o CL(índice 50) disponível na literatura científica.
 
@@ -3661,7 +3666,7 @@ Os gases ou misturas de gases, que correspondem inteiramente aos critérios de t
 
 Uma mistura de gases, que é considerada como tóxica devido aos seus efeitos combinados de corrosividade e de toxicidade, apresenta um risco subsidiário de corrosividade sempre que se sabe, por experiência humana que ela exerce um efeito destruidor sobre a pele, os olhos ou as mucosas, ou sempre que o valor de CL(índice 50) dos elementos constituintes da mistura é inferior ou igual a 5000 l/m3 (ppm) quando é calculado segundo a fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Sempre que valor de CL(índice 50) não for indicado na instrução de embalagem P200 do 4.1.4.1, deve utilizar-se o CL(índice 50) disponível na literatura científica.
 
@@ -3737,7 +3742,7 @@ f) Quando são satisfeitos os critérios correspondentes a mais do que um dos gr
 
 2.2.2.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.3 Classe 3 Líquidos inflamáveis
 
@@ -3801,7 +3806,7 @@ a) a altura da camada separada do solvente seja inferior a 3% da altura total da
 
 b) a viscosidade (ver nota 3) e o ponto de inflamação estejam em conformidade com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: As misturas que contêm mais de 20% e, no máximo 55% de nitrocelulose com teor de azoto não ultrapassando 12,6% (massa em seco) são matérias afectadas ao Nº ONU 2059.
 
@@ -3837,7 +3842,7 @@ NOTA: Para classificar tais soluções e misturas (tais como preparações e res
 
 2.2.3.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.41 Classe 4.1 Matérias sólidas inflamáveis, matérias auto-reactivas e matérias sólidas explosivas dessensibilizadas
 
@@ -4013,7 +4018,7 @@ Quadro 1
 
 Cálculo da temperatura crítica e da temperatura de regulação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 As matérias auto-reactivas com uma TDAA não superior a 55ºC devem ser objecto de uma regulação de temperatura durante o transporte. Quando aplicáveis, a temperatura crítica e a temperatura de regulação são indicadas no 2.2.41.4. A temperatura efectiva durante o transporte pode ser inferior à temperatura de regulação, mas deve ser fixada de modo a evitar uma separação perigosa das fases.
 
@@ -4049,7 +4054,7 @@ c) que não são matérias das classes 5.1 e 5.2, também ficam afectos à class
 
 2.2.41.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.41.4 Lista das matérias auto-reactivas
 
@@ -4057,7 +4062,7 @@ NOTA 1: As classificações dadas neste quadro aplicam-se às matérias tecnicam
 
 NOTA 2: Os códigos «OP1» a «OP8» indicados na coluna «Método de embalagem» remetem para os métodos de embalagem da instrução de embalagem P520; (ver também 4.1.7.1).
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.42 Classe 4.2 Matérias sujeitas a inflamação espontânea
 
@@ -4157,7 +4162,7 @@ As matérias seguintes não são admitidas ao transporte:
 
 2.2.42.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.43 Classe 4.3 Matérias que, em contacto com a água, libertam gases inflamáveis
 
@@ -4235,7 +4240,7 @@ As matérias sólidas, hidroreactivas, inflamáveis afectadas ao Nº ONU 3132, a
 
 2.2.43.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.51 Classe 5.1 Matérias comburentes
 
@@ -4355,7 +4360,7 @@ c) Grupo de embalagem III: qualquer matéria que, em mistura de 1/1 (em massa) c
 
 2.2.51.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.52 Classe 5.2 Peróxidos orgânicos
 
@@ -4389,7 +4394,7 @@ b) não contém mais de 0,5% de oxigénio activo nos peróxidos orgânicos, cont
 
 NOTA: O teor em oxigénio activo (em %) de uma preparação de peróxido orgânico é dado pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.52.1.6 Os peróxidos orgânicos são classificados em sete tipos, segundo o grau de perigo que apresentam. Os tipos de peróxido orgânico variam entre o tipo A que não é admitido ao transporte na embalagem na qual foi submetido aos ensaios, e o tipo G, que não está submetido às prescrições aplicáveis aos peróxidos orgânicos da classe 5.2. A classificação dos tipos B a F está directamente ligada com a quantidade máxima autorizada numa embalagem. Os princípios a aplicar para classificar as matérias que não constam em 2.2.52.4 são explicitados na segunda parte do Manual de Ensaios e de Critérios.
 
@@ -4443,7 +4448,7 @@ Quadro 1
 
 Determinação da temperatura de regulação e da temperatura crítica
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.52.1.17 Estão submetidos a regulação de temperatura durante o transporte os seguintes peróxidos orgânicos:
 
@@ -4463,7 +4468,7 @@ Os peróxidos orgânicos do tipo A não são admitidos ao transporte nas condiç
 
 2.2.52.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.52.4 Lista dos peróxidos orgânicos já classificados
 
@@ -4475,15 +4480,15 @@ b) a letra «N» indica que o transporte em GRG está autorizado (ver 4.1.4.2, i
 
 c) a letra «M» indica que o transporte em cisternas está autorizado, (ver 4.2.1.13 e 4.2.5.2, instrução de transporte em cisternas móveis T23; 4.3.2 e 4.3.4.1.3 e), códigos-cisternas L4BN para os líquidos e S4AN para os sólidos).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Observações (relativas à última coluna do quadro 2.2.52.4)
 
-[(ver observações referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[(ver observações referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 7) Apenas são admitidas embalagens não metálicas.
 
-[(ver observações referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[(ver observações referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.61 Classe 6.1 Matérias tóxicas
 
@@ -4573,7 +4578,7 @@ Grupo de embalagem III: Matérias levemente tóxicas
 
 2.2.61.1.7 Na ausência de observações feitas sobre o homem, o grau de toxicidade é estabelecido recorrendo às informações disponíveis provenientes de ensaios sobre animais, segundo o seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.61.1.7.1 Quando uma matéria apresenta diferentes graus de toxicidade para dois ou vários modos de exposição, deve ser tomada para a classificação a toxicidade mais elevada.
 
@@ -4585,7 +4590,7 @@ Toxicidade à inalação de vapores
 
 2.2.61.1.8 Os líquidos que libertam vapores tóxicos devem ser classificados nos grupos de embalagem seguintes, representando a letra «V» a concentração (em ml/m3 de ar) de vapor (volatilidade) saturada no ar, a 20ºC e à pressão atmosférica normal:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Estes critérios de toxicidade à inalação de vapores têm por base os dados sobre a CL(índice 50) para uma exposição de uma hora, devendo estas informações ser utilizadas sempre que disponíveis.
 
@@ -4593,7 +4598,7 @@ Todavia, quando só estão disponíveis os dados sobre a CL(índice 50) para uma
 
 LINHAS DE SEPARAÇÃO ENTRE OS GRUPOS DE EMBALAGEM TOXICIDADE À INALAÇÃO
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Nesta figura, os critérios são representados sob a forma gráfica, a fim de facilitar a classificação. No entanto, em virtude das aproximações inerentes ao uso dos gráficos, a toxicidade das matérias cuja representação gráfica das coordenadas se encontra na proximidade ou precisamente nas linhas de separação, deve ser verificada com a ajuda de critérios numéricos.
 
@@ -4605,7 +4610,7 @@ Misturas de líquidos
 
 a) Cálculo da CL(índice 50) da mistura:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 b) Cálculo da volatilidade de cada constituinte da mistura:
 
@@ -4617,7 +4622,7 @@ P(índice i) = pressão parcial do constituinte i, em kPa a 20ºC e à pressão 
 
 c) Cálculo da relação da volatilidade com a CL(índice 50):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 d) Os valores calculados para a CL(índice 50) (mistura) e R servem então para determinar o grupo de embalagem da mistura:
 
@@ -4715,11 +4720,11 @@ NOTA: Para classificar as soluções e as misturas (tais como preparações e re
 
 Matérias tóxicas sem risco subsidiário
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Matérias tóxicas com risco(s) subsidiário(s)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.62 Classe 6.2 Matérias infecciosas
 
@@ -4813,7 +4818,7 @@ Os animais vertebrados ou invertebrados vivos não devem ser utilizados para exp
 
 2.2.62.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7 Classe 7 Matérias radioactivas
 
@@ -5089,7 +5094,7 @@ Quadro 2.2.7.6.1.1
 
 FACTORES DE MULTIPLICAÇÃO PARA OS CARREGAMENTOS DE GRANDES DIMENSÕES
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.6.1.2 O índice de transporte para cada sobrembalagem, contentor ou veículo é determinado quer pelo somatório dos índices de transporte de todos pacotes existentes, quer pela medição directa da intensidade da radiação, excepto no caso das sobrembalagens não rígidas para as quais o IT apenas pode ser determinado através da adição dos IT de todos os pacotes.
 
@@ -5119,7 +5124,7 @@ Quadro 2.2.7.7.1.2.1
 
 LIMITES DE ACTIVIDADE PARA OS PACOTES ISENTOS
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.7.1.2.2 Para os objectos manufacturados em urânio natural, em urânio empobrecido, ou em tório natural, um pacote isento pode conter qualquer quantidade de destas matérias, desde que a superfície exterior do urânio ou do tório seja recoberta por uma bainha inactiva de metal ou de outro material resistente.
 
@@ -5137,7 +5142,7 @@ b) A(índice 2) para as outras matérias radioactivas.
 
 2.2.7.7.1.4.2 No caso de uma mistura de radionuclidos de que se conheça a identidade e a actividade de cada um, aplica-se ao conteúdo radioactivo de um pacote do tipo A a seguinte condição:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.7.1.5 Pacote do tipo B(U) e do tipo B(M)
 
@@ -5193,7 +5198,7 @@ c) Limites de actividade para as remessas isentas em Bq.
 
 Quadro 2.2.7.7.2.1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.7.2.2 Quando os radionuclidos não figurem na lista do quadro 2.2.7.7.2.1, a determinação dos valores de base para os radionuclidos referidos no 2.2.7.7.2.1 requer uma aprovação da autoridade competente ou, para o transporte internacional, uma aprovação multilateral. Quando a forma química de cada radionuclido é conhecida, admite-se o emprego do valor de A(índice 2) relativo à sua classe de solubilidade conforme recomendado pela Comissão Internacional de Protecção Radiológica, se as formas químicas, tanto em condições normais como em condições acidentais de transporte, forem tidas em consideração. Em alternativa, podem utilizar-se os valores que figuram no quadro 2.2.7.7.2.2 para os radionuclidos sem obter a aprovação da autoridade competente.
 
@@ -5201,13 +5206,13 @@ Quadro 2.2.7.7.2.2
 
 VALORES FUNDAMENTAIS PARA OS RADIONUCLIDOS DESCONHECIDOS OU MISTURAS
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.7.2.3 No cálculo de A(índice 1) e A(índice 2) para um radionuclido que não figure no quadro 2.2.7.7.2.1, uma única cadeia de desintegração radioactiva em que os radionuclidos se encontrem nas mesmas proporções que no estado natural e em que nenhum descendente tenha um período superior a dez dias ou superior ao do pai nuclear é considerado como um radionuclido puro; a actividade a ter em consideração e os valores de A(índice 1) ou de A(índice 2) a aplicar serão então aqueles que correspondem ao pai nuclear desta cadeia. Nº caso das cadeias de desintegração radioactiva em que um ou mais descendentes tenham um período que seja superior a dez dias ou superior ao do pai nuclear, o pai nuclear e este ou estes descendentes são considerados como uma mistura de nuclidos.
 
 2.2.7.7.2.4 No caso de uma mistura de nuclidos, os valores de base para os radionuclidos referido em podem ser determinados como se segue
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.7.2.5 Quando se conhece a identidade de cada radionuclido, mas em que se ignora a actividade de certos radionuclidos, podem reagrupar-se os radionuclidos e utilizar, aplicando as fórmulas dadas em 2.2.7.7.2.4 e 2.2.7.7.1.4.2, o valor mais baixo e apropriado para os radionuclidos de cada grupo. Os grupos podem ser constituídos segundo a actividade alfa total e a actividade beta/gama total, quando são conhecidas, sendo considerado o valor mais baixo para os emissores alfa ou para os emissores beta/gama, respectivamente.
 
@@ -5237,7 +5242,7 @@ Quadro 2.2.7.8.4
 
 CATEGORIAS DE PACOTES E DE SOBREMBALAGENS
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.7.9 Prescrições e controles para o transporte de pacotes isentos
 
@@ -5423,11 +5428,11 @@ NOTA: Os N.os ONU 1910 óxido de cálcio e 2812 aluminato de sódio que figuram 
 
 Matérias corrosivas sem risco subsidiário
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Matérias corrosivas que apresentam risco(s) subsidiários(s)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.9 Classe 9 Matérias e objectos perigosos diversos
 
@@ -5553,7 +5558,7 @@ As matérias e objectos a seguir indicados não são admitidos ao transporte:
 
 2.2.9.3 Lista das rubricas colectivas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.2.9.4 Matérias já classificadas como matérias perigosas para o ambiente que não ficam abrangidas por nenhuma outra classe nem por outra rubricas da classe 9 além das rubricas N.os ONU 3077 ou 3082
 
@@ -5649,7 +5654,7 @@ Salvo disposições em contrário no capítulo 2.2 ou no presente capítulo, os 
 
 Ensaio de exsudação do explosivo
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.3.2 Ensaios relativos às misturas nitradas de celulose da classe 4.1
 
@@ -5815,7 +5820,7 @@ NOTA: No caso das amostras terem um ponto de fluidez, é muitas vezes impossíve
 
 Figura 1 - Penetrómetro
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 2.3.5 Ensaios para determinar a ecotoxicidade, a persistência e a bioacumulação de matérias no ambiente aquático com vista à sua afectação à classe 9
 
@@ -5893,9 +5898,9 @@ O mais baixo dos valores da CL(índice 50) durante 96 horas para os peixes, da C
 
 2.3.5.7 Procedimento a seguir
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
-# PARTE 3
+## PARTE 3
 
 Lista das mercadorias perigosas, disposições especiais e isenções relativas ao transporte de mercadorias perigosas embaladas em quantidades limitadas.
 
@@ -6147,7 +6152,7 @@ Coluna (20) «Número de identificação de perigo»
 
 Contém um número de dois ou três algarismos (precedidos em certos casos da letra «X») que deve aparecer na parte superior do painel laranja, como é prescrito para o transporte em cisterna ou a granel em conformidade com o 5.3.2.1. O significado do número de identificação de perigo é explicado no 5.3.2.3.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 3.2.2 Quadro B: Índice alfabético das matérias e objectos
 
@@ -6167,7 +6172,7 @@ NOTA 6: Na documentação de transporte e na marcação dos volumes, a designaç
 
 NOTA 7: Para a determinação exacta da designação oficial de transporte, ver 3.1.2.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 ### CAPÍTULO 3.3 — Disposições especiais aplicáveis a uma matéria ou a um objecto particulares
 
@@ -6987,11 +6992,11 @@ c) Cada volume leve de maneira clara e durável a marca indicada no 3.4.4 c).
 
 3.4.6 Quadro
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 3.4.7 As sobrembalagens contendo volumes em conformidade com os 3.4.3, 3.4.4 ou 3.4.5 devem ter uma etiquetagem conforme se encontra prescrito no 3.4.4 c) para cada mercadoria perigosa contida na sobrembalagem, a menos que sejam visíveis etiquetas correspondendo a todas as mercadorias perigosas contidas na sobrembalagem.
 
-# PARTE 4 — Disposições relativas à utilização das embalagens e das cisternas
+## PARTE 4 — Disposições relativas à utilização das embalagens e das cisternas
 
 ### CAPÍTULO 4.1 — Utilização das embalagens, dos grandes recipientes para granel (GRG) e das grandes embalagens
 
@@ -7015,7 +7020,7 @@ Se necessário, devem ter um revestimento interior apropriado ou ter recebido um
 
 seja a)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 seja b)
 
@@ -7063,7 +7068,7 @@ Os GRG metálicos destinados ao transporte de líquidos não devem ser utilizado
 
 EXEMPLOS DE PRESSÕES DE ENSAIO A INSCREVER NA EMBALAGEM, INCLUINDO OS GRG, VALORES CALCULADOS SEGUNDO 4.1.1.10 c)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA 1: No caso dos líquidos puros, a pressão de vapor a 55ºC (V(índice p55)) pode por vezes ser determinada a partir de quadros publicados na literatura científica.
 
@@ -7131,11 +7136,11 @@ b) o nome ou o símbolo aprovado de quem executou a manutenção regular.
 
 4.1.3.1 As instruções de embalagem aplicáveis às mercadorias perigosas das classes 1 a 9 são especificadas na secção 4.1.4. Estão subdivididas em três subsecções conforme o tipo de embalagem a que se aplicam:
 
-##### subsecção 4.1.4.1 - para as embalagens, com excepção dos GRG e das grandes embalagens; estas instruções de embalagem são designadas por um código alfanumérico que começa pela letra «P» ou «R» quando se tratar de uma embalagem específica do RID e do ADR;
+subsecção 4.1.4.1 - para as embalagens, com excepção dos GRG e das grandes embalagens; estas instruções de embalagem são designadas por um código alfanumérico que começa pela letra «P» ou «R» quando se tratar de uma embalagem específica do RID e do ADR;
 
-##### subsecção 4.1.4.2 - para os GRG; estas instruções são designadas por um código alfanumérico que começa pelas letras «IBC»;
+subsecção 4.1.4.2 - para os GRG; estas instruções são designadas por um código alfanumérico que começa pelas letras «IBC»;
 
-##### subsecção 4.1.4.3 - para as grandes embalagens; estas instruções são designadas por um código alfanumérico que começa pelas letras «LP».
+subsecção 4.1.4.3 - para as grandes embalagens; estas instruções são designadas por um código alfanumérico que começa pelas letras «LP».
 
 Na generalidade, as instruções de embalagem estipulam que as disposições gerais das secções 4.1.1, 4.1.2 e/ou 4.1.3, conforme os casos, são aplicáveis. Podem ainda prescrever a conformidade com as disposições especiais das secções 4.1.5, 4.1.6, 4.1.7, 4.1.8 ou 4.1.9, conforme o caso. Disposições especiais de embalagem podem também ser especificadas nas instruções de embalagem relativas a determinadas matérias ou determinados objectos.
 
@@ -7217,15 +7222,15 @@ NOTA: Ainda que a numeração utilizada para as instruções de embalagem que se
 
 4.1.4.1 Instruções de embalagem relativas à utilização das embalagens (salvo os GRG e as grandes embalagens)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.1.4.2 Instruções de embalagem relativas à utilização dos GRG
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.1.4.3 Instruções de embalagem relativas à utilização das grandes embalagens
 
-[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.1.4.4 Prescrições particulares aplicáveis à utilização de recipientes sob pressão para as matérias que não são da classe 2
 
@@ -7235,7 +7240,7 @@ QUADRO
 
 LISTA DAS PRESCRIÇÕES PARTICULARES (PR) APLICÁVEIS ÀS GARRAFAS E A OUTROS RECIPIENTES SOB PRESSÃO
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.1.5 Disposições particulares relativas à embalagem das mercadorias da classe 1
 
@@ -7349,7 +7354,7 @@ d) se as marcas prescritas relativas à certificação, às datas dos ensaios pe
 
 4.1.6.10 Consideram-se satisfeitas as presentes disposições de embalagem se forem aplicadas as normas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.1.7 Disposições particulares relativas à embalagem dos peróxidos orgânicos (classe 5.2) e das matérias auto-reactives da classe 4.1
 
@@ -7455,7 +7460,7 @@ c) Para os SCO-I, quando se considerar que a contaminação não fixa sobre as s
 
 Prescrições aplicáveis aos pacotes industriais contendo matérias LSA ou SCO
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.1.10 Disposições particulares relativas à embalagem em comum
 
@@ -7645,7 +7650,7 @@ MP 24 Pode ser embalada em comum com mercadorias com outros números ONU mencion
 
 Quando mercadorias são embaladas em comum em conformidade com a presente disposição especial, é necessário considerar a eventual modificação da classificação do volume segundo o 2.2.1.1. Para a designação das mercadorias no documento de transporte, ver 5.4.1.2.1 b).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA de fim de capítulo
 
@@ -7967,7 +7972,7 @@ d) se as marcas prescritas referentes à certificação, aos ensaios periódicos
 
 Quando uma instrução específica de transporte em cisternas móveis é indicada na coluna (10) do quadro A do capítulo 3.2 para uma determinada mercadoria perigosa, é possível utilizar outras cisternas móveis que respondam a outras instruções que prescrevem uma pressão de ensaio mínima superior, uma espessura do reservatório superior e disposições mais severas para os orifícios situados em baixo e para os dispositivos de descompressão. As orientações seguintes são aplicáveis para determinar a cisterna móvel apropriada que pode ser utilizada para o transporte de matérias particulares:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.2.5.2.6 Instruções de transporte em cisternas móveis
 
@@ -8175,7 +8180,7 @@ NOTA: Para as cisternas, veículos-baterias e CGEM vazios, por limpar, podem apl
 
 As 4 partes dos códigos (códigos-cisterna) indicados na coluna (12) do quadro A, do capítulo 3.2 têm o seguinte significado:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA 1: A disposição especial TU17 indicada na coluna (13) do quadro A, do capítulo 3.2 para certos gases, significa que o gás só pode ser transportado em veículo-bateria ou CGEM.
 
@@ -8253,7 +8258,7 @@ Para os gases e as misturas de gases afectados às rubricas n.s.a., os valores d
 
 Quando as cisternas destinadas a conter gases comprimidos ou liquefeitos a alta pressão, foram submetidas a uma pressão de ensaio inferior à que figura no quadro, e quando as cisternas estão providas de um isolamento térmico, o organismo reconhecido pela autoridade competente pode prescrever uma massa máxima inferior, na condição que a pressão da matéria dentro da cisterna a 55ºC não ultrapasse a pressão de ensaio gravada sobre a cisterna.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.3.3.3 Serviço
 
@@ -8273,19 +8278,19 @@ Quando as cisternas destinadas a conter gases comprimidos ou liquefeitos a alta 
 
 As 4 partes dos códigos (códigos-cisterna) indicados na coluna (12) do quadro A do capítulo 3.2 têm o seguinte significado:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 4.3.4.1.2 Abordagem racionalizada para afectar os códigos-cisterna ADR a grupos de matérias e hierarquia das cisternas
 
 NOTA: Algumas matérias e alguns grupos de matérias não estão incluídos nesta abordagem racionalizada, ver 4.3.4.1.3
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Esta ordem hierárquica não contempla as disposições especiais para cada rubrica (ver 4.3.5 e 6.8.4)
 
 A lista dos códigos-cisterna autorizados segundo a hierarquia das cisternas que consta do quadro acima, não se encontra necessariamente completa. Este quadro só contém os códigos-cisterna que aparecem no quadro A do capítulo 3.2. Cisternas que tenham outros códigos-cisterna diferentes dos indicados neste quadro ou no quadro A do capítulo 3.2 podem igualmente ser utilizadas na condição de que a primeira parte do código (L ou S) se mantenha inalterada e que cada outro elemento (valor numérico ou letra) das partes 2 a 4 desses códigos-cisterna corresponda a um nível de segurança equivalente ou superior ao elemento correspondente do código-cisterna indicado no quadro A do capítulo 3.2, em conformidade com a seguinte ordem crescente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Por exemplo, uma cisterna que responda ao código L10CN é autorizada para o transporte de uma matéria à qual o código-cisterna L4BN foi afectado.
 
@@ -8479,7 +8484,7 @@ NOTA: Para as cisternas móveis e contentores para gás de elementos múltiplos 
 
 4.5.2.4 A utilização de cisternas equipadas com um êmbolo interno utilizado como divisória de compartimento só é autorizado quando as matérias situadas de um lado e do outro da parede (êmbolo) não reajam perigosamente entre si (ver 4.3.2.3.6)
 
-# PARTE 5 — Procedimentos de expedição
+## PARTE 5 — Procedimentos de expedição
 
 ### CAPÍTULO 5.1 — Disposições gerais
 
@@ -8643,7 +8648,7 @@ NOTA 3: É necessária uma aprovação multilateral da expedição se o conteúd
 
 NOTA 4: Ver prescrições de aprovação e notificação prévia para o pacote aplicável para transportar esta matéria.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 ### CAPÍTULO 5.2 — Marcação e etiquetagem
 
@@ -8727,7 +8732,7 @@ d) no caso dos modelos de pacote do tipo C, a menção «TIPO C».
 
 5.2.1.7.6 Cada pacote conforme com um modelo de pacote do tipo B(U), do tipo B(M) ou do tipo C deve ter sobre a superfície externa do recipiente exterior resistente ao fogo e à água, de maneira clara, o símbolo do trevo ilustrado pela figura que se segue, gravado, estampado ou reproduzido por qualquer outro meio de maneira a resistir ao fogo e à água.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 5.2.1.7.7 Quando as matérias LSA-I ou SCO-I forem contidas em recipientes ou materiais de empacotamento e forem transportadas sob utilização exclusiva em conformidade com o 4.1.9.2.3, a superfície externa desses recipientes ou materiais de empacotamento pode ter a menção «RADIOACTIVO LSA-I» ou «RADIOACTIVO SCO-I», consoante o caso.
 
@@ -8835,7 +8840,7 @@ c) na etiqueta conforme com o modelo Nº 2.1 colocada nas garrafas e nos cartuch
 
 5.2.2.2.2 Modelos de etiquetas
 
-[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA de fim de capítulo
 
@@ -8919,7 +8924,7 @@ c) ter o número ou os algarismos (e para as mercadorias da classe 1, a letra do
 
 Placa-etiqueta para matérias radioactivas da classe 7
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 5.3.1.7.3 Nas cisternas com capacidade não superior a 3 m3 e nos pequenos contentores, as placas-etiquetas podem ser substituídas por etiquetas em conformidade com o 5.2.2.2.
 
@@ -8951,13 +8956,13 @@ Placa-etiqueta para matérias radioactivas da classe 7
 
 NOTA: A cor laranja dos painéis em condições normais de utilização deve ter coordenadas tricromáticas localizadas na região do diagrama colorimétrico que será delimitado ligando entre si os pontos com as coordenadas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 5.3.2.2.2 O número de identificação de perigo e o número ONU devem ser constituídos por algarismos de cor preta de 100 mm de altura e de 15 mm de espessura. O número de identificação de perigo deve ser inscrito na parte superior do painel e o número ONU na parte inferior; devem ser separados por uma linha de cor preta horizontal de 15 mm de espessura que atravesse o painel a meia-altura (ver 5.3.2.2.3). O número de identificação de perigo e o número ONU devem ser indeléveis e permanecer visíveis após um incêndio com a duração de 15 minutos.
 
 5.3.2.2.3 Exemplo de painel laranja incluindo um número de identificação de perigo e um número ONU
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 5.3.2.3 Significado dos números de identificação de perigo
 
@@ -9193,7 +9198,7 @@ X886 matéria muito corrosiva e tóxica, que reage perigosamente com a água (ve
 
 Os veículos-cisternas, os contentores-cisternas, as cisternas móveis, os veículos ou contentores especiais ou os veículos ou contentores especialmente equipados, para os quais é exigida uma marca para as matérias transportadas a quente, em conformidade com a disposição especial 580 quando esta é indicada na coluna (6) do quadro A do capítulo 3.2, devem ter, de cada lado e à retaguarda no caso de veículos, e de cada lado e em cada extremidade no caso de contentores, contentores-cisternas ou cisternas móveis, uma marca de forma triangular cujos lados meçam pelo menos 250 mm e que deve ser representada a vermelho conforme indicado abaixo:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 ### CAPÍTULO 5.4 — Documentação
 
@@ -9617,7 +9622,7 @@ NOTA: Em transporte internacional, ver NOTA 1 de fim de capítulo.
 
 5.5.2.3 O sinal de alerta para os equipamentos sob fumigação deve ter forma rectangular e medir pelo menos 300 mm de largura e 250 mm de altura. As inscrições devem ser a preto sobre fundo branco, e as letras devem medir pelo menos 25 mm de altura. O sinal é ilustrado na figura abaixo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTAS de fim de capítulo
 
@@ -9627,7 +9632,7 @@ NOTAS de fim de capítulo
 
 2. Por razões ligadas ao carácter multilateral das relações de transporte reguladas pelo ADR, a nota 3 do parágrafo 5.5.1.3 do ADR tem redacção diferente da correspondente nota do presente Capítulo 5.5 do RPE.
 
-# PARTE 6
+## PARTE 6
 
 Prescrições relativas à construção das embalagens, dos grandes recipientes para granel (GRG), das grandes embalagens e das cisternas e aos ensaios a que devem ser submetidos.
 
@@ -9731,7 +9736,7 @@ P. Vidro, porcelana ou grés.
 
 6.1.2.7 O quadro seguinte indica os códigos a utilizar para designar os tipos de embalagem segundo o tipo de embalagem, o material utilizado no seu fabrico e a sua categoria; o quadro remete também para as subsecções a consultar para as prescrições aplicáveis.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.1.3 Marcação
 
@@ -9751,7 +9756,7 @@ a)
 
 i) o símbolo da ONU para as embalagens
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem satisfaz as prescrições aplicáveis do presente capítulo. Para as embalagens de metal, marcadas em relevo, podem ser utilizadas as letras maiúsculas «UN» em vez do símbolo; ou
 
@@ -9783,7 +9788,7 @@ NOTA: As prescrições desta alínea d) não se aplicam às embalagens destinada
 
 e) os dois últimos números do ano de fabrico da embalagem. As embalagens dos tipos 1H et 3H devem levar também a inscrição do mês de fabrico; esta inscrição pode ser aposta na embalagem ou num local diferente do resto da marcação. Com esta finalidade, pode utilizar-se o sistema seguinte:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 f) o nome do Estado que autoriza a atribuição da marca, indicado pelo símbolo distintivo previsto para os veículos no tráfego internacional (ver nota 2);
 
@@ -9823,15 +9828,15 @@ j) o ano do recondicionamento, a letra «R» e, por cada embalagem submetida a u
 
 6.1.3.11 Exemplos de marcações para embalagens NOVAS:
 
-[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.1.3.12 Exemplos de marcação para embalagens RECONDICIONADAS:
 
-[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.1.3.13 Exemplos de marcação para embalagens de SOCORRO:
 
-[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: As marcas, ilustradas por exemplos nos 6.1.3.11, 6.1.3.12 e 6.1.3.13 podem ser apostas numa única linha ou em várias linhas, sob condição de que a ordem correcta seja respeitada.
 
@@ -10469,7 +10474,7 @@ Para os ensaios de queda, que não o ensaio de queda sobre a face, o centro de g
 
 Se forem possíveis diversas orientações para um dado ensaio, deve seleccionar-se a orientação para a qual for maior o risco de ruptura da embalagem.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.1.5.3.2 Preparação especial das amostras para o ensaio de queda
 
@@ -10495,27 +10500,27 @@ A área de impacto deve ser uma superfície rígida, não elástica, plana e hor
 
 Para as matérias sólidas e para as matérias líquidas, se o ensaio for executado com o sólido ou o líquido a transportar ou com uma outra matéria possuindo essencialmente as mesmas características físicas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Para as matérias líquidas, se o ensaio for efectuado com água:
 
 a) se a densidade relativa da matéria a transportar não exceder 1,2:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 b) se a densidade relativa da matéria a transportar exceder 1,2, a altura de queda deve ser calculada em função da densidade relativa (d) da matéria a transportar, arredondada à primeira casa decimal superior, do seguinte modo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 c) Para as embalagens metálicas leves com a marca «RID/ADR», em conformidade com o 6.1.3.1 a) ii), destinadas a transportar matérias cuja viscosidade a 23ºC seja superior a 200 mm2/s (o que corresponde a um tempo de escoamento de 30 segundos com um aparelho normalizado ISO cujo tubo de ligação tenha um diâmetro de 6 mm, de acordo com a norma ISO 2431:1993)
 
 i) cuja densidade relativa (d) não excede 1,2:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 ii) para as matérias a transportar cuja densidade relativa exceda 1,2, a altura de queda deve ser calculada em função da densidade relativa (d) da matéria a transportar, arredondada à primeira casa decimal superior, do seguinte modo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.1.5.3.5 Critérios de aceitação
 
@@ -10549,7 +10554,7 @@ O ensaio de estanquidade deve ser efectuado sobre todos os modelos tipo de embal
 
 A pressão de ar (manométrica) aplicada deve ser como segue:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Podem ser utilizados outros métodos se tiverem, pelo menos, igual eficácia.
 
@@ -10701,27 +10706,27 @@ O ensaio de empilhamento é efectuado com base numa densidade relativa de, pelo 
 
 Classe 3
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Classe 5.1
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Classe 5.2
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Classe 6.1
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Classe 6.2
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Classe 8
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA de fim de capítulo
 
@@ -11055,7 +11060,7 @@ NOTA: No caso dos recipientes sob pressão não recarregáveis, tendo em conta a
 
 Consideram-se satisfeitas as prescrições do 6.2.1, a seguir enumeradas, se tiverem sido aplicadas as normas seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.3 Prescrições relativas aos recipientes sob pressão que não são concebidos, construídos e ensaiados em conformidade com normas
 
@@ -11069,7 +11074,7 @@ Entende-se por «limite de elasticidade aparente» a tensão que provoca um alon
 
 NOTA: O eixo dos provetes de tracção é perpendicular à direcção da laminagem das chapas. O alongamento à ruptura é medido por meio de provetes de secção circular, em que a distância entre as marcas de referência «l» é igual a cinco vezes o diâmetro «d» (l = 5d); no caso de utilização de provetes de secção rectangular, a distância entre as marcas de referência «l» deve ser calculada pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Os recipientes sob pressão e os seus fechos devem ser fabricados com materiais apropriados que resistam à ruptura frágil e à fissuração por corrosão sob tensão entre -20ºC e +50ºC.
 
@@ -11079,7 +11084,7 @@ As soldaduras devem ser executadas com competência e oferecer um máximo de seg
 
 6.2.3.2.1 Os materiais dos recipientes sob pressão de liga de alumínio que são admitidos devem satisfazer às seguintes exigências:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 As propriedades reais dependem da composição da liga considerada assim como do tratamento final do recipiente sob pressão mas, seja qual for a liga utilizada, a espessura do recipiente sob pressão deve ser calculada com a ajuda de uma das seguintes fórmulas:
 
@@ -11111,7 +11116,7 @@ coluna D: ligas de alumínio, cobre e magnésio.
 
 NOTA 2: O alongamento à ruptura é medido por meio de provetes de secção circular, em que a distância entre as marcas de referência «l» é igual a cinco vezes o diâmetro «d» (l = 5d); no caso de utilização de provetes de secção rectangular, a distância entre as marcas de referência «l» deve ser calculada pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA 3: a) O ensaio de dobragem (ver esquema) deve ser realizado sobre as amostras obtidas cortando em duas partes iguais com uma largura de 3e, mas que não deverá ser inferior a 25 mm, uma fracção anular retirada das garrafas. As amostras só devem ser trabalhadas sobre os bordos.
 
@@ -11213,39 +11218,39 @@ Sempre que existirem, os dispositivos de descompressão montados em recipientes 
 
 6.2.5.2.1 As normas seguintes aplicam-se à concepção, à construção bem como às inspecções e aos ensaios iniciais das garrafas certificadas «UN»:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.2.2 As normas seguintes aplicam-se à concepção, à construção bem como às inspecções e aos ensaios iniciais dos tubos certificados «UN»:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.2.3 As normas seguintes aplicam-se à concepção, à construção bem como às inspecções e aos ensaios iniciais das garrafas de acetileno certificadas «UN»:
 
 Para o invólucro das garrafas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Para a massa porosa nas garrafas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.3 Materiais
 
 Além das prescrições relativas aos materiais que figuram nas normas relativas à concepção e à construção dos recipientes sob pressão e das restrições enunciadas na instrução de embalagem aplicável ao(s) gás(es) a transportar (ver, por exemplo, a instrução de embalagem P200), os materiais devem satisfazer as normas de compatibilidade seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.4 Equipamento de serviço
 
 As normas seguintes aplicam-se aos fechos e ao seu sistema de protecção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.5 Inspecções e ensaios periódicos
 
 As normas seguintes aplicam-se às inspecções e ensaios periódicos a que devem ser submetidas as garrafas certificadas «UN»:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.6 Sistema de avaliação da conformidade e aprovação dos recipientes sob pressão
 
@@ -11469,7 +11474,7 @@ Salvo para o símbolo «UN», a dimensão mínima da marca deve ser de 5 mm para
 
 a) Símbolo da ONU para as embalagens
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Este símbolo só deve ser colocado nos recipientes sob pressão que satisfaçam as prescrições do RPE para os recipientes sob pressão certificados «UN».
 
@@ -11515,7 +11520,7 @@ p) No caso dos recipientes sob pressão de aço e dos recipientes sob pressão c
 
 - As marcas de certificação devem integrar o grupo inferior, pela ordem indicada no 6.2.5.7.1.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.2.5.7.5 Outras marcas são autorizadas em zonas que não as paredes laterais, na condição de que sejam apostas em zonas de fraca tensão e que sejam de uma dimensão e profundidade que não possam criar uma concentração de tensões perigosa. Essas marcas não devem ser incompatíveis com as marcas prescritas.
 
@@ -11553,7 +11558,7 @@ NOTA: As prescrições do presente capítulo não se aplicam às embalagens util
 
 a) o símbolo da ONU para as embalagens:
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 b) o código que designa o tipo de embalagem de acordo com as prescrições do 6.1.2;
 
@@ -11573,7 +11578,7 @@ Cada elemento da marca aposta em conformidade com as alíneas a) a g) deve ser c
 
 6.3.1.2 Exemplo de marca:
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.3.1.3 Os fabricantes e distribuidores de embalagens, devem fornecer informações sobre os procedimentos a seguir bem como uma descrição dos tipos e dimensões dos fechos (incluindo as juntas requeridas) e de qualquer outro componente necessário para que os volumes, tal como apresentados para o transporte, possam ser submetidos com êxito aos ensaios de comportamento do presente capítulo.
 
@@ -11585,7 +11590,7 @@ Cada elemento da marca aposta em conformidade com as alíneas a) a g) deve ser c
 
 6.3.2.3 Ensaios prescritos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.3.2.4 As embalagens preparadas como para o transporte devem ser submetidas aos ensaios indicados no quadro do 6.3.2.3, no qual as embalagens são classificadas, para fins de ensaios, em função das características dos respectivos materiais. Para as embalagens exteriores, as rubricas do quadro remetem para o cartão ou materiais análogos, cujos comportamentos podem ser rapidamente modificados pela humidade; para as matérias plásticas que correm o risco de fragilização a baixas temperaturas; para outros materiais, tais como metais, cujo comportamento não é afectado pela humidade ou temperatura. Quando um recipiente primário e uma embalagem secundária constituindo uma embalagem interior são feitos de materiais diferentes, é o material do recipiente primário que determina qual o ensaio apropriado. Se o recipiente primário for constituído por dois materiais, é o material mais susceptível de ser danificado que determina o ensaio apropriado.
 
@@ -11879,7 +11884,7 @@ c) Em combinação com a humidade, acelerar a corrosão.
 
 Quadro 6.4.8.5: Condições de insolação
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.4.8.6 Um pacote que comporte uma protecção térmica para satisfazer as prescrições do ensaio térmico especificado no 6.4.17.3 deve ser concebido de tal forma que essa protecção continue eficaz se o pacote for submetido aos ensaios especificados no 6.4.15 e 6.4.17.2 a) e b) ou 6.4.17.2 c), conforme o caso. A eficácia desta protecção no exterior do pacote não deve ser tornada insuficiente em caso de rasgão, corte, raspagem, abrasão ou manuseamento brutal.
 
@@ -11993,7 +11998,7 @@ d) Pacotes contendo cada um, no máximo, 1 kg de plutónio, do qual 20% em massa
 
 Quadro 6.4.11.2: Limite de massa por remessa para as excepções das prescrições relativas aos pacotes contendo matérias cindíveis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.4.11.3 Se não forem conhecidos a forma química ou o estado físico, a composição isotópica, a massa ou a concentração, a relação de moderação ou a densidade, ou a configuração geométrica, as avaliações previstas nos 6.4.11.7 a 6.4.11.12 devem ser executadas pressupondo que cada parâmetro não conhecido tem o valor que corresponde à multiplicação máxima dos neutrões compatível com as condições e os parâmetros conhecidos destas avaliações.
 
@@ -12105,7 +12110,7 @@ c) Para os pacotes cilíndricos de fibras aglomeradas cuja massa não excede 100
 
 Quadro 6.4.15.4: Altura de queda livre para ensaiar a resistência dos pacotes nas condições normais de transporte
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.4.15.5 Ensaio de empilhamento: a menos que a forma da embalagem impeça efectivamente o empilhamento, a amostra deve ser submetida durante pelo menos 24 horas a uma força de compressão igual ao mais elevado dos dois valores seguintes:
 
@@ -12591,7 +12596,7 @@ NOTA: Ver Nota de fim de capítulo
 
 a):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 b) Materiais
 
@@ -12619,7 +12624,7 @@ N. Metal (que não o aço ou alumínio).
 
 6.5.1.4.3 Os códigos seguintes designam os diferentes tipos de GRG:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.1.4.4 A letra «W» pode seguir-se ao código do GRG. Ela indica que o GRG, mesmo sendo do mesmo tipo do que é designado pelo código, foi fabricado segundo uma especificação diferente da indicada no 6.5.3, mas é considerado como sendo equivalente às prescrições do 6.5.1.1.2.
 
@@ -12709,7 +12714,7 @@ c) A data (mês, ano) dos ensaios e das inspecções.
 
 a) símbolo da ONU para as embalagens:
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Para os GRG metálicos, sobre os quais a marca é aposta por estampagem ou por embutido em relevo, é admitida a utilização das maiúsculas «UN» em lugar do símbolo;
 
@@ -12737,7 +12742,7 @@ Os diversos elementos da marca principal devem ser apostos pela ordem das alíne
 
 Exemplos de marcação para diversos tipos de GRG de acordo com as alíneas a) a h) anteriores:
 
-[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (nota 1) Símbolo distintivo utilizado nos veículos em tráfego rodoviário internacional de acordo com a Convenção de Viena sobre a Circulação rodoviária (1968).
 
@@ -12745,7 +12750,7 @@ Exemplos de marcação para diversos tipos de GRG de acordo com as alíneas a) a
 
 6.5.2.2.1 Cada GRG deve levar, além da marca prescrita no 6.5.2.1, as indicações seguintes, que podem ser inscritas sobre uma placa de um material resistente à corrosão, fixada de maneira permanente num ponto facilmente acessível para inspecção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.2.2.2 Além da marca prescrita no 6.5.2.1, os GRG flexíveis podem levar um pictograma indicando os métodos de elevação recomendados.
 
@@ -12791,19 +12796,19 @@ b) no caso do alumínio e suas ligas, a percentagem de alongamento à ruptura n�
 
 Os provetes utilizados para determinar o alongamento à ruptura devem ser retirados perpendicularmente à direcção de laminagem e ser fixados de tal maneira que:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.3.1.6 Espessura mínima da parede
 
 a) para um aço de referência em que o produto Rm x Ao = 10000 a espessura da parede não deve ser inferior aos seguintes valores:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 em que: A(índice 0) = percentagem mínima de alongamento à ruptura por tracção do aço de referência utilizado (ver 6.5.3.1.5);
 
 b) para os metais que não o aço de referência tal como está definido na alínea a) acima, a espessura mínima da parede é determinada pela equação seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 No entanto, a espessura da parede não deve em nenhum caso ser inferior a 1,5 mm.
 
@@ -13021,7 +13026,7 @@ a) se a matéria a transportar tiver uma densidade relativa que não ultrapasse 
 
 b) se a matéria a transportar tiver uma densidade relativa superior a 1,2, as alturas de queda devem ser calculadas em função da densidade relativa (d) da matéria a transportar arredondada à primeira casa decimal, de acordo com o seguinte:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.4.2 Ensaios sobre o modelo tipo
 
@@ -13045,7 +13050,7 @@ NOTA: Os valores médios devem situar-se entre estes limites. As flutuações de
 
 6.5.4.3.5 Ordem de execução dos ensaios sobre o modelo tipo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.4.4 Ensaio de elevação por baixo
 
@@ -13227,7 +13232,7 @@ Pode utilizar-se o mesmo GRG para todos os ensaios ou um GRG diferente para cada
 
 6.5.4.9.4 Altura de queda
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.4.9.5 Critérios de aceitação
 
@@ -13271,7 +13276,7 @@ O GRG deve ser derrubado de forma a voltar-se sobre qualquer parte do seu topo e
 
 6.5.4.11.4 Altura de derrube
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.5.4.11.5 Critério de aceitação
 
@@ -13377,7 +13382,7 @@ b) uma letra maiúscula em caracteres latinos indicando o material: madeira, aç
 
 a) o símbolo da ONU para a embalagem
 
-[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[(ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Para as grandes embalagens metálicas, nas quais a marca é colocada por estampagem ou por embutido em relevo, é admitida a utilização das maiúsculas «UN» em lugar do símbolo;
 
@@ -13407,7 +13412,7 @@ Os elementos da marca principal prescrita devem seguir a ordem indicada acima. C
 
 6.6.3.2 Exemplos de marcação:
 
-[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.6.4 Prescrições particulares aplicáveis a cada categoria de grandes embalagens
 
@@ -13623,7 +13628,7 @@ A grande embalagem deve cair sobre uma área rígida, inerte, lisa, plana e hori
 
 6.6.5.3.4.4 Altura de queda
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: As grandes embalagens destinadas às matérias e objectos da classe 1, às matérias autoreactivas da classe 4.1 e aos peróxidos orgânicos da classe 5.2 devem ser submetidas ao ensaio correspondente ao nível de resistência do grupo de embalagem II.
 
@@ -13829,11 +13834,11 @@ c) a espessura mínima especificada na instrução de transporte em cisternas m�
 
 6.7.2.4.6 A espessura equivalente de um metal que não seja a prescrita para o aço de referência segundo o 6.7.2.4.2 deve ser determinada recorrendo à fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.2.4.7 No caso em que, na instrução de transporte em cisternas móveis aplicável do 4.2.5.2.6, estiver especificada uma espessura mínima de 8 mm ou 10 mm, deve notar-se que estas espessuras são calculadas na base das propriedades do aço de referência e de um diâmetro de reservatório de 1,80 m. Se for utilizado um outro metal que não o aço macio (ver 6.7.2.1) ou se o reservatório tiver um diâmetro superior a 1,80 m, a espessura deve ser determinada recorrendo à fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.2.4.8 Em nenhum caso a espessura da parede deve ser inferior aos valores prescritos nos 6.7.2.4.2, 6.7.2.4.3 e 6.7.2.4.4. Todas as partes do reservatório devem ter a espessura mínima fixada nos 6.7.2.4.2 a 6.7.2.4.4. Esta espessura não deve ter em conta uma tolerância para a corrosão.
 
@@ -13935,9 +13940,9 @@ c) um fecho estanque aos líquidos na extremidade da tubagem de descarga, que po
 
 6.7.2.12.2.1 Para determinar o débito total requerido aos dispositivos de descompressão, que deve ser considerado como sendo a soma dos débitos individuais de todos os dispositivos que contribuem, utiliza-se a fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.2.12.2.2 Para os reservatórios destinados ao transporte de líquidos, em vez da fórmula acima pode aplicar-se, para o dimensionamento dos dispositivos de descompressão, o quadro do 6.7.2.12.2.3. Este quadro é válido para um coeficiente de isolamento de F = 1 e os valores devem ser ajustados em consequência se o reservatório for isolado termicamente. Os valores dos outros parâmetros aplicados no cálculo deste quadro são dados a seguir:
 
@@ -13953,7 +13958,7 @@ C = 0,607
 
 6.7.2.12.2.3 Débito mínimo requerido de descarga Q em metros cúbicos de ar por segundo a 1 bar e 0ºC (273 K)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.2.12.2.4 Os sistemas de isolamento utilizados para limitar a capacidade de libertação devem ser aprovadas por um organismo de inspecção reconhecido pela autoridade competente. Em todos os casos, os sistemas de isolamento aprovados com esse fim devem:
 
@@ -14111,11 +14116,11 @@ h) a armação, os suportes e dispositivos de elevação da cisterna móvel est�
 
 País de construção
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.2.20.2 As indicações seguintes devem ser marcadas na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Para a identificação das matérias transportadas, ver também a Parte 5.
 
@@ -14275,7 +14280,7 @@ b) a espessura mínima determinada em conformidade com o código aprovado para r
 
 6.7.3.4.4 A espessura equivalente de um aço que não seja a prescrita para o aço de referência segundo o 6.7.3.4.2 deve ser determinada recorrendo à fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.3.4.5 Em nenhum caso a espessura da parede deve ser inferior aos valores prescritos nos 6.7.3.4.1 a 6.7.3.4.3. Todas as partes do reservatório devem ter a espessura mínima fixada nos 6.7.3.4.1 a 6.7.3.4.3. Esta espessura não deve ter em conta uma tolerância para a corrosão.
 
@@ -14333,9 +14338,9 @@ b) a espessura mínima determinada em conformidade com o código aprovado para r
 
 6.7.3.8.1.1 Para determinar o débito total requerido dos dispositivos de descompressão, que deve considerar-se como sendo a soma dos débitos individuais de todos os dispositivos, utiliza-se a fórmula seguinte (ver nota 6):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (nota 6) Esta fórmula aplica-se apenas aos gases liquefeitos não refrigerados cuja temperatura crítica seja bem superior à temperatura na condição de acumulação. Para os gases que têm temperaturas críticas próximas da temperatura na condição de acumulação ou inferior a esta, o cálculo do débito combinado dos dispositivos de descompressão deve ter em conta as outras propriedades termodinâmicas do gás (ver por exemplo CGA S-1.2-1995).
 
@@ -14491,11 +14496,11 @@ h) a armação, os suportes e dispositivos de elevação da cisterna móvel est�
 
 País de construção
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.3.16.2 As indicações seguintes devem ser marcadas na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Para a identificação das matérias transportadas, ver também a Parte 5
 
@@ -14645,7 +14650,7 @@ b) a espessura mínima determinada em conformidade com o código aprovado para r
 
 6.7.4.4.6 A espessura equivalente de um metal que não seja a prescrita para o aço de referência segundo os 6.7.4.4.2 e 6.7.4.4.3 deve ser determinada recorrendo à fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.4.4.7 Em nenhum caso a espessura da parede deve ser inferior aos valores prescritos nos 6.7.4.4.1 a 6.7.4.4.5. Todas as partes do reservatório devem ter a espessura mínima fixada nos 6.7.4.4.1 a 6.7.4.4.6. Esta espessura não deve ter em conta uma tolerância para a corrosão.
 
@@ -14851,11 +14856,11 @@ f) a armação, os suportes e dispositivos de elevação da cisterna móvel est�
 
 País de construção
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.7.4.15.2 As indicações seguintes devem ser marcadas de forma durável na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Para a identificação dos gases liquefeitos refrigerados transportados, ver também a Parte 5.
 
@@ -15083,13 +15088,13 @@ f) a armação, os suportes e dispositivos de elevação do CGEM estão em bom e
 
 País de fabrico
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Não deve ser fixada qualquer placa metálica directamente sobre os elementos.
 
 6.7.5.13.2 As indicações seguintes devem ser marcadas numa placa de metal solidamente fixada ao CGEM:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA de fim de capítulo
 
@@ -15111,7 +15116,7 @@ NOTA: Para as cisternas móveis e contentores para gás de elementos múltiplos 
 
 6.8.1.2 As presentes prescrições aplicam-se
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 utilizadas para o transporte de matérias gasosas, líquidas, pulverulentas ou granuladas.
 
@@ -15133,11 +15138,11 @@ Princípios de base
 
 6.8.2.1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.3 As paredes dos reservatórios devem ter, no mínimo, as espessuras determinadas nos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.4 Os reservatórios devem ser concebidos e construídos em conformidade com as prescrições de um código técnico, reconhecido pela autoridade competente, no qual, para se escolher o material e determinar a espessura do reservatório, convém ter em consideração as temperaturas máximas e mínimas de enchimento e de serviço, devendo, porém, ser observadas as prescrições mínimas dos 6.8.2.1.6 a 6.8.2.1.26.
 
@@ -15179,13 +15184,13 @@ Para as ligas de alumínio, o alongamento à ruptura não deve ser inferior à 1
 
 (nota 1) Para as chapas de metal, o eixo dos provetes de tracção é perpendicular à direcção de laminagem. O alongamento à ruptura é medido por meio de provetes de secção circular, cuja distância entre marcas l é igual a cinco vezes o diâmetro d (l = 5 d); no caso de serem utilizados provetes de secção rectangular, a distância entre marcas l deve ser calculada pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Cálculo da espessura do reservatório
 
 6.8.2.1.13 A determinação da espessura do reservatório deve basear-se numa pressão pelo menos igual à pressão de cálculo, ma deve ter-se também em conta as solicitações referidas no 6.8.2.1.1, e, quando aplicável, as solicitações seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.14 A pressão de cálculo é indicada na segunda parte do código (ver 4.3.4.1) segundo a coluna (12) do quadro A do capítulo 3.2.
 
@@ -15227,27 +15232,27 @@ Espessura mínima do reservatório
 
 Em caso algum a espessura pode ser inferior aos valores definidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.18
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.20
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.21
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.22
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Realização e inspecção das soldaduras
 
@@ -15273,11 +15278,11 @@ Outras prescrições de construção
 
 6.8.2.1.27
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.1.28
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.2 Equipamentos
 
@@ -15289,7 +15294,7 @@ Os equipamentos devem estar dispostos de maneira a estarem protegidos contra os 
 
 - satisfazer as prescrições do 6.8.2.1.1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 As juntas de estanquidade devem ser constituídas por um material compatível com a matéria transportada e substituídas logo que a sua eficácia esteja comprometida, por exemplo, na sequência do seu envelhecimento.
 
@@ -15307,7 +15312,7 @@ Cada abertura por baixo para o enchimento ou a descarga das cisternas que estão
 
 - um obturador externo ou um dispositivo equivalente (ver nota 5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 e
 
@@ -15353,7 +15358,7 @@ Este certificado deve indicar:
 
 - um número de aprovação para o tipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 - o código-cisterna segundo 4.3.3.1.1 ou 4.3.4.1.1;
 
@@ -15383,13 +15388,13 @@ Uma aprovação de tipo pode, contudo, servir para a aprovação de cisternas co
 
 Excepto para a classe 2, a pressão do ensaio de pressão hidráulica depende da pressão de cálculo e é pelo menos igual à pressão indicada abaixo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 As pressões de ensaio mínimas aplicáveis à classe 2 estão indicadas no quadro dos gases e misturas do 4.3.3.2.5.
 
 O ensaio de pressão hidráulica deve ser efectuado sobre o conjunto do reservatório e separadamente sobre cada compartimento dos reservatórios compartimentados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 O ensaio de pressão hidráulica deve ser efectuado antes da colocação do isolamento térmico eventualmente necessário.
 
@@ -15403,13 +15408,13 @@ Os invólucros de isolamento térmico ou outro só devem ser retirados quando is
 
 Para as cisternas destinadas ao transporte de matérias pulverulentas e granuladas, e com o acordo do organismo de inspecção reconhecido pela autoridade competente, os ensaios periódicos de pressão hidráulica podem ser substituídos por ensaios de estanquidade segundo 6.8.2.4.3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (nota 9) Nos casos particulares e com o acordo de um organismo de inspecção reconhecido pela autoridade competente, o ensaio de pressão hidráulica pode ser substituído por um ensaio por meio de outro líquido ou de um gás, quando tal operação não apresentar perigo.
 
 6.8.2.4.3 Além disso, é necessário proceder a um ensaio de estanquidade do reservatório com o seu equipamento bem como a uma verificação do bom funcionamento de todo o equipamento,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 A cisterna deve por isso ser submetida a uma pressão efectiva interior no mínimo igual à pressão máxima de serviço. Para as cisternas destinadas ao transporte de líquidos, quando o ensaio é realizado por meio de gás, o ensaio de estanquidade deve ser efectuado a uma pressão pelo menos igual a 25% da pressão máxima de serviço. Em qualquer caso, não deve ser inferior a 20 kPa (0,2 bar) (pressão manométrica).
 
@@ -15445,13 +15450,13 @@ O ensaio de estanquidade deve ser efectuado separadamente sobre cada compartimen
 
 - material do reservatório e referência às normas dos materiais, se disponíveis, e, se for caso disso, do revestimento de protecção;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Por outro lado, a pressão máxima de serviço autorizada deve ser inscrita nas cisternas de enchimento ou de descarga sob pressão.
 
 6.8.2.5.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (nota 12) Acrescentar as unidades de medida depois dos valores numéricos.
 
@@ -15459,7 +15464,7 @@ Por outro lado, a pressão máxima de serviço autorizada deve ser inscrita nas 
 
 Consideram-se satisfeitas as prescrições do capítulo 6.8 se as normas a seguir indicadas forem aplicadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.2.7 Prescrições relativas às cisternas que não são calculadas, construídas e ensaiadas segundo normas
 
@@ -15505,7 +15510,7 @@ NOTA 3: As cisternas desmontáveis (ver nota 14) não são consideradas como ele
 
 6.8.3.2.3 As aberturas de enchimento e de descarga das cisternas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 destinadas ao transporte de gases liquefeitos inflamáveis e/ou tóxicos devem ser providas de um dispositivo de segurança interno de fecho instantâneo que, no caso de deslocamento intempestivo da cisterna ou em caso de incêndio, se feche automaticamente. O fecho deve também poder ser accionado à distância.
 
@@ -15533,7 +15538,7 @@ No caso de desaparecimento do vácuo nas cisternas de dupla parede ou no caso de
 
 6.8.3.2.13
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Isolamento térmico
 
@@ -15601,7 +15606,7 @@ Sem prescrições particulares.
 
 6.8.3.4.6 Por derrogação às prescrições do 6.8.2.4, as inspecções periódicas, incluindo o ensaio de pressão hidráulica, devem ter lugar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.3.4.7 Para as cisternas com isolamento por vácuo, o ensaio de pressão hidráulica e a verificação do estado interior podem ser substituídos por um ensaio de estanquidade e pela medição do vácuo, com o acordo de um organismo de inspecção reconhecido pela autoridade competente.
 
@@ -15685,7 +15690,7 @@ Esta indicação deve ser completada pela indicação da massa máxima admissív
 
 6.8.3.5.6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Em transporte internacional, ver NOTA de fim de capítulo.
 
@@ -15701,7 +15706,7 @@ NOTA: Em transporte internacional, ver NOTA de fim de capítulo.
 
 6.8.3.5.8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.3.5.9 (Reservado)
 
@@ -15727,7 +15732,7 @@ Marcação dos veículos-baterias e CGEM
 
 6.8.3.5.11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.3.5.12 O quadro dos veículos-baterias e CGEM, deve ostentar na proximidade do ponto de enchimento uma placa indicando:
 
@@ -15863,7 +15868,7 @@ TE18 As cisternas destinadas ao transporte de matérias carregadas a uma tempera
 
 TE19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 TE20 Não obstante os outros códigos-cisternas que são autorizados na hierarquia das cisternas da abordagem racionalizada do 4.3.4.1.2, as cisternas devem ser equipadas com uma válvula de segurança.
 
@@ -15897,11 +15902,11 @@ TT4 (Reservado)
 
 TT5 Os ensaios de pressão hidráulica devem ser efectuados pelo menos de
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 TT6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf))](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 TT7 Por derrogação às prescrições do 6.8.2.4.2, a verificação periódica do estado interior pode ser substituída por um programa de ensaios aprovado pela autoridade competente.
 
@@ -16015,7 +16020,7 @@ Três provetes com entalhe no centro da junta soldada;
 
 Três provetes com entalhe no centro da zona de alteração devida à soldadura (o entalhe em V deve atravessar o limite da zona fundida no centro da amostra).
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Quando 10 mm (menor que) e (igual ou menor que) 20 mm
 
@@ -16023,13 +16028,13 @@ Três provetes no centro da soldadura;
 
 Três provetes retirados da zona de alteração à soldadura (o entalhe em V deve atravessar o limite da zona fundida no centro da amostra).
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Quando e (maior que) 20 mm
 
 Dois jogos de 3 provetes (um jogo na face superior, um jogo na face inferior) em cada um dos locais abaixo indicados (o entalhe em V deve atravessar o limite da zona fundida no centro da amostra para aqueles que são retirados da zona de alteração devido à soldadura).
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 6.8.5.3.3 a) Para as chapas, a média dos três ensaios deve satisfazer ao valor mínimo de 34 J/cm2, indicado no 6.8.5.2.1; e no máximo só um dos valores pode ser inferior ao valor mínimo sem ser inferior a 24 J/cm2.
 
@@ -16431,7 +16436,7 @@ iv) estarem colocados numa zona que exclua todos os riscos de dano acidental.
 
 As cisternas para resíduos operadas sob vácuo devem ser submetidas a uma inspecção do estado interior e exterior, pelo menos de três em três anos para as cisternas fixas ou desmontáveis, e, pelo menos de dois anos e meio em dois anos e meio para os contentores-cisternas e caixas móveis cisternas.
 
-# PARTE 7 — Disposições relativas às condições de transporte, carga, descarga e manuseamento
+## PARTE 7 — Disposições relativas às condições de transporte, carga, descarga e manuseamento
 
 ### CAPÍTULO 7.1 — Disposições gerais
 
@@ -16671,11 +16676,11 @@ Por razões ligadas ao carácter multilateral das relações de transporte regul
 
 NOTA: Em conformidade com 5.4.1.4.2, devem ser elaborados documentos de transporte distintos para as remessas que não podem ser carregadas em comum no mesmo veículo ou contentor.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 7.5.2.2 Os volumes que contenham matérias ou objectos da classe 1, munidos de uma etiqueta conforme com os modelos N.os 1, 1.4, 1.5 ou 1.6, mas afectos aos grupos de compatibilidade diferentes, não devem ser carregados em comum no mesmo veículo ou contentor, a menos que o carregamento em comum seja autorizado, segundo o quadro seguinte, para os grupos de compatibilidade correspondentes.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 7.5.2.3 Para a aplicação das interdições de carregamento em comum num mesmo veículo, não serão tomadas em conta as matérias contidas em contentores fechados com paredes completas. Contudo, as interdições de carregamento em comum previstas no 7.5.2.1 relativas ao carregamento em comum de volumes munidos de etiquetas conformes com os modelos N.os 1, 1.4, 1.5 ou 1.6 com outros volumes, e no 7.5.2.2 relativas ao carregamento em comum de matérias e objectos explosivos de diferentes grupos de compatibilidade aplicam-se igualmente entre mercadorias perigosas encerradas num contentor e outras mercadorias perigosas carregadas no mesmo veículo, quer estas últimas estejam encerradas ou não num ou em vários contentores diferentes.
 
@@ -16709,7 +16714,7 @@ A massa líquida total, em kg, de matéria explosiva (ou, no caso de objectos ex
 
 Massa líquida máxima admissível, em kg, de matéria explosiva contida nas mercadorias da classe 1, por unidade de transporte
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 7.5.5.2.2 Sempre que numa mesma unidade de transporte são carregados matérias e objectos de diferentes divisões da classe 1, sendo respeitadas as interdições de carregamento em comum do 7.5.2.2, a carga deve ser tratada na sua totalidade como se pertencesse à divisão mais perigosa (pela ordem 1.1, 1.5, 1.2, 1.3, 1.6, 1.4). Contudo, não será tomada em conta a massa líquida de matérias explosivas do grupo de compatibilidade S do ponto de vista da limitação das quantidades transportadas.
 
@@ -16719,7 +16724,7 @@ Sempre que numa mesma unidade de transporte são transportadas matérias classif
 
 As quantidades de peróxidos orgânicos da classe 5.2 e de matérias auto-reactivas da classe 4.1 que podem ser transportadas a bordo de uma unidade de transporte estão limitadas como segue:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Se as matérias são carregadas em comum numa mesma unidade de transporte, os limites prescritos anteriormente não devem ser ultrapassados e o conteúdo total não deve ultrapassar 20000 kg.
 
@@ -16881,7 +16886,7 @@ d) das outras mercadorias perigosas em conformidade com 7.5.2.1.
 
 Quadro A: Distâncias mínimas entre os pacotes da categoria II-AMARELA ou da categoria III-AMARELA e as pessoas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (1.2) Os pacotes e sobrembalagens das categorias II-AMARELA ou III-AMARELA não devem ser transportados em compartimentos ocupados por passageiros, salvo se forem compartimentos exclusivamente reservados aos controladores especialmente encarregados de vigiar esses pacotes ou sobrembalagens.
 
@@ -16891,7 +16896,7 @@ Quadro A: Distâncias mínimas entre os pacotes da categoria II-AMARELA ou da ca
 
 Quadro B: Distâncias mínimas entre os pacotes da categoria II-AMARELA e da categoria III-AMARELA e os pacotes munidos da etiqueta "FOTO", ou os sacos postais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (2) Limite de actividade
 
@@ -16899,7 +16904,7 @@ A actividade total num veículo para encaminhamento de matérias LSA ou SCO em p
 
 Quadro C: Limites de actividade para os veículos que contêm matérias LSA ou SCO em pacotes industriais ou não embalados
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (3) Estiva durante o transporte e armazenamento em trânsito
 
@@ -16919,11 +16924,11 @@ d) A soma total dos índices de segurança-criticalidade num contentor e a bordo
 
 Quadro D: Limites do índice de transporte para os contentores e os veículos de uso não exclusivo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 Quadro E: Limite do índice de segurança-criticalidade para os contentores e os veículos que contêm matérias cindíveis
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 (3.4) Os pacotes ou sobrembalagens tendo um índice de transporte superior a 10 ou as remessas tendo um índice de segurança-criticalidade superior a 50 só devem ser transportados em uso exclusivo.
 
@@ -16963,7 +16968,7 @@ c) 0,1 mSv/h em qualquer ponto situado a 2 m dos planos verticais representados 
 
 Sempre que uma remessa não é susceptível de ser entregue, é preciso colocar essa remessa num lugar seguro e informar a autoridade competente logo que possível pedindo-lhe instruções sobre o seguimento a dar-lhe.
 
-# PARTE 8 — Prescrições relativas à tripulação, ao equipamento, à operação e à documentação dos veículos
+## PARTE 8 — Prescrições relativas à tripulação, ao equipamento, à operação e à documentação dos veículos
 
 ### CAPÍTULO 8.1 — Prescrições gerais relativas às unidades de transporte e ao equipamento de bordo
 
@@ -17265,7 +17270,7 @@ b) Se for o caso, após frequência de um curso de especialização para o trans
 
 8.2.2.8.3 O certificado deve ter a apresentação do modelo que se segue. As suas dimensões são do formato A7 (105 mm x 74 mm).
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 8.2.2.9 Requisitos prévios à emissão do certificado
 
@@ -17505,7 +17510,7 @@ A prescrição S1 (2) do ADR tem a seguinte redacção:
 
 A autoridade competente de um país Parte contratante do ADR pode impor, a expensas do transportador, a presença de um agente oficial a bordo do veículo, se as regulamentações nacionais o previrem.
 
-# PARTE 9 — Prescrições relativas à construção e aprovação dos veículos
+## PARTE 9 — Prescrições relativas à construção e aprovação dos veículos
 
 ### CAPÍTULO 9.1 — Prescrições gerais relativas à construção e aprovação dos veículos
 
@@ -17559,7 +17564,7 @@ NOTA: Em transporte internacional, ver NOTA de fim de capítulo.
 
 9.1.2.1.5 O certificado de aprovação deve ter a apresentação do modelo que se segue. As suas dimensões são as do formato A4 (210 mm x 297 mm). Podem ser utilizados a frente e o verso. A cor deve ser branca, com uma diagonal cor de rosa. O certificado de aprovação para um veículo-cisterna para resíduos operado sob vácuo deve ter a seguinte menção: «veículo-cisterna para resíduos operado sob vácuo».
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 NOTA: Este certificado deve ser restituído ao serviço emissor quando o veículo for retirado da circulação, no caso de alteração do transportador, utilizador ou proprietário indicado no nº 5, na data em que termina a validade e em caso de alteração significativa das características essenciais do veículo.
 
@@ -17599,7 +17604,7 @@ Para os veículos que não sejam veículos EX/II, EX/III, FL, OX e AT:
 
 - as prescrições do 9.2.5 aplicam-se a todos os veículos a motor com uma massa máxima superior a 12 toneladas matriculados depois de 31 de Dezembro de 1987.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 9.2.2 Equipamento eléctrico
 
@@ -17675,7 +17680,7 @@ Não devem ser utilizadas lâmpadas com casquilho de rosca.
 
 Os dispositivos de ligação eléctrica entre veículos a motor e reboques devem estar em conformidade com o grau de protecção IP54 segundo a norma CEI 529 e devem ser concebidos de modo a impedir qualquer corte de corrente acidental. As normas ISO 12098: 1994 e ISO 7638: 1985 contêm exemplos de dispositivos de ligação eléctrica apropriados.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 9.2.3 Equipamento de travagem
 
@@ -17963,8 +17968,8 @@ Interior dos cofres de protecção para o equipamento utilizado no enchimento e 
 
 NOTA GERAL: Os actos das autoridades competentes para a execução do RPE e do ADR devem ser praticados por escrito e obedecer aos demais requisitos previstos para a prática de actos administrativos no Código do Procedimento Administrativo, aprovado pelo Decreto-Lei nº 442/91, de 15 de Novembro, e alterado pelo Decreto-Lei nº 6/96, de 31 de Janeiro. Em complemento da aprovação dos protótipos dos reservatórios das cisternas fixas (veículos-cisternas), das cisternas desmontáveis, dos veículos-baterias e contentores para gás de elementos múltiplos, das cisternas móveis ONU e dos contentores-cisternas e caixas móveis cisternas, as Direcções Regionais de Economia asseguram ainda a aprovação da construção de cada unidade, bem como a emissão de autorizações de utilização das mesmas, quer iniciais quer periódicas.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
 
 ## ANEXO 3 — Lista de controlo
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)
+[[[[[[[[[[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)](https://files.diariodarepublica.pt/1s/2003/10/249a01/00020672.pdf)

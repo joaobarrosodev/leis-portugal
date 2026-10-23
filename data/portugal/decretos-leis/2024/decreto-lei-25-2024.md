@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06400/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2024/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03e18f61bb933025bc1e5adf12459b9ecdc95d9ee6310d7fa3925c0a5c1d71bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb3d079e667023cc7ecec5515108dc30a6415897705b9b135e2e708d15930585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Artística
-- Inspecção Geral das Actividades Culturais
-- Contrato de Prestação de Serviços
-- Estatuto
-- Prestação de Serviços
-- Cultura
 - Actividade Artística
+- Contrato de Prestação de Serviços
+- Cultura
+- Estatuto
+- Inspecção Geral das Actividades Culturais
+- Prestação de Serviços
+- Profissão Artística
+- Subsídio de Suspensão da Atividade Cultural
 - TAXA Contributiva
 - Trabalhador Independente
-- Subsídio de Suspensão da Atividade Cultural
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:105/2021
+  label: Altera, a partir de 2 de abril de 2024, os artigos 30.º, 44.º, 45.º (os últimos dois com efeitos a 1 de junho de
+    2024, 48.º, 49.º (o n.º 1 deste com efeitos a 1 de junho de 2024) e 53.º (este com efeitos a 1 de junho de 2024) e revoga,
+    com efeitos a 1 de junho de 2024, a alínea c) do n.º 3 do artigo 35.º do Estatuto dos Profissionais da Área da Cultura,
+    aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro, Diário da República n.º 231/2021, Série I
+  source: null
+  date: '2021-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2021/11/29/p/dre
   label: null
@@ -84,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64/2022/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64/2022/09/27/p/dre
+- type: cites
+  target: pt:dre:175043505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201509698:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:04Z'
   warnings: []
   errors: []
 ---
@@ -188,12 +204,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de março de 2024. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Pedro Adão e Silva Cardoso Pereira - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 25 de março de 2024.**
+Promulgado em 25 de março de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de março de 2024.**
+Referendado em 27 de março de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117540529

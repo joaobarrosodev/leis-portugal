@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/60-1973-683263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:10:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3f791a19839febba362578a4336581bd93937fe54332a96eeb6cbd4085e13b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 560e3fdf7ec37f7ef8e8dca34c000f486c1983e7de89a5f36e38343f946f1add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,31 @@ relationships:
   target: pt:dre:252002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado, no sentido clarificar, que o art. 124.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos
+    Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, na redaçãodo presnte diploma,
+    pelo(a) Portaria n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:10:37Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. A alínea 16) do § 4.º do artigo 3.º e os artigos 57.º, 123.º, 124.º e 126.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (R. I. M.), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 ...
 
@@ -115,7 +130,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 ...
 
-###### Art. 57.º A categoria de marinheiro de 2.ª classe será atribuída ao indivíduo que possua qualquer das condições, prescritas nas alíneas seguintes:
+Art. 57.º A categoria de marinheiro de 2.ª classe será atribuída ao indivíduo que possua qualquer das condições, prescritas nas alíneas seguintes:
 
 a) Curso de marinheiro da Escola de Mestrança e Marinhagem;
 
@@ -129,7 +144,7 @@ d) Ser inscrito marítimo com mais de seis anos de embarque.
 
 ...
 
-###### Art. 123.º A categoria de empregado de câmara será atribuída ao indivíduo que possua qualquer das condições prescritas nas alíneas seguintes:
+Art. 123.º A categoria de empregado de câmara será atribuída ao indivíduo que possua qualquer das condições prescritas nas alíneas seguintes:
 
 a) Curso de copeiro da Escola de Mestrança e Marinhagem;
 
@@ -141,11 +156,11 @@ c) Ser ajudante de copa, desde que possua a 4.ª classe do ensino primário e ma
 
 § 2.º Se não houver nas escalas de embarque empregados de câmara do sexo feminino para o preenchimento de lugares a bordo, normalmente desempenhados por mulheres, poderá a categoria ser concedida às requerentes independentemente da ordenação estabelecida no parágrafo anterior.
 
-###### Art. 124.º As categorias de telefonista e manicura serão concedidas aos indivíduos que comprovem possuir a 4.ª classe do ensino primário e a respectiva carteira profissional.
+Art. 124.º As categorias de telefonista e manicura serão concedidas aos indivíduos que comprovem possuir a 4.ª classe do ensino primário e a respectiva carteira profissional.
 
 ...
 
-###### Art. 126.º A categoria de ajudante de copa só poderá ser atribuída a:
+Art. 126.º A categoria de ajudante de copa só poderá ser atribuída a:
 
 a) Indivíduos de idade não inferior a 16 anos nem superior a 20 que possuam a 4.ª classe do ensino primário;
 
@@ -159,7 +174,7 @@ b) Marítimos de outras categorias com seis anos de embarque após a obtenção 
 
 3.º Ao citado Regulamento é acrescentado o artigo 57.º-A, com a seguinte redacção:
 
-###### Art. 57.º - A. A categoria de ajudante de marinheiro só poderá ser atribuída a indivíduos de idade não inferior a 16 anos nem superior a 20 que possuam a 4.ª classe do ensino primário e mostrem, mediante uma prova oral a realizar na capitania onde desejam ser inscritos, que estão habilitados com os conhecimentos de marinharia necessários ao exercício da respectiva função.
+Art. 57.º - A. A categoria de ajudante de marinheiro só poderá ser atribuída a indivíduos de idade não inferior a 16 anos nem superior a 20 que possuam a 4.ª classe do ensino primário e mostrem, mediante uma prova oral a realizar na capitania onde desejam ser inscritos, que estão habilitados com os conhecimentos de marinharia necessários ao exercício da respectiva função.
 
 § único. A categoria de ajudante de marinheiro apenas será concedida mediante prévia autorização do director-geral dos Serviços de Fomento Marítimo ou, no ultramar, do director ou chefe dos Serviços Provinciais de Marinha, quando se verificar a impossibilidade de a escala de marinheiros de 2.ª classe satisfazer os pedidos dos navios para lugares de marinheiro dessa classe.
 

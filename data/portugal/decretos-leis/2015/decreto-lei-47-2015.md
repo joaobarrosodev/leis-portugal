@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2015/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2015-66953291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6504645e7c54194f6e39cf0bb792b79efe67af086642e2ac62fb942a8323ec32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c24c188303ff5e010934e08c31f7f0822370948e828da38981301c01b6d694d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
 - Agência para a Energia
+- Conselho Consultivo
 - Conselho Fiscal
 - Definição de Competências
-- Conselho Consultivo
-- Serviço Público
-- Mobilidade de Pessoal
 - Funcionário Público
+- Mobilidade de Pessoal
+- Regime do Contrato de Trabalho em Funções Públicas
+- Serviço Público
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:1055043916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116923610:por
+  label: Determinado que o Ministro do Ambiente e da Transição Energética exerce as competências que lhe são atribuídas pela
+    lei sobre a ADENE-Agência para a Energia, cujas atribuições constam do Dec Lei 223/2000 de 09-set, na versão alterada
+    e republicada pelo presente, pelo(a) Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2018-116923610
+  date: '2018-11-09'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a partir de 30.03.2022, o exercício das competências que lhe são atribuídas pela lei pelo
+    Ministro do Ambiente e da Ação Climática sobre a ADENE-Agência para a Energia, cuja orgânica foi aprovada pelo Dec Lei
+    223/2000 de 09-set, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2005/07/26/p/dre
   label: null
@@ -107,16 +122,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2008/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2008/09/04/p/dre
+- type: cites
+  target: pt:dre:240042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667556:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1055043916:por
+  label: Revogado, a partir de 25 de fevereiro de 2025, o Decreto-Lei n.º 47/2015, de 9 de abril, Diário da República n.º
+    69/2015, Série I, sendo as atribuições da Agência para a Energia (ADENE), integradas na Agência de Geologia e Energia,
+    I. P. pelo(a) Decreto-Lei n.º 58/2026 - Diário da República n.º 36/2026, Série I de 2026-02-20, sem prejuízo do seu n.º
+    2 do artigo 17.º e nos termos da sua alínea b) do n.º 1 do artigo 17.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2026-1055043916
+  date: '2026-02-20'
 article_structure:
-  article_count: 53
+  article_count: 42
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:44Z'
   warnings: []
   errors: []
 ---
@@ -155,11 +210,15 @@ Os artigos 3.º, 8.º, 9.º, 10.º, 11.º, 13.º, 22.º, 23.º e 26.º do [Decre
 
 2 - A ADENE tem ainda por finalidade promover e realizar atividades de interesse público nas áreas do uso eficiente da água e da eficiência energética na mobilidade.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Nas relações contratuais da ADENE e no que se refere ao regime de bens aplica-se o direito privado, sem prejuízo das regras de contratação pública aplicáveis nos termos do Código dos Contratos Públicos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -167,7 +226,9 @@ Nas relações contratuais da ADENE e no que se refere ao regime de bens aplica-
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]:
 
@@ -189,7 +250,9 @@ h) [...]
 
 i) [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A ADENE, no desenvolvimento de atividades de serviço público, é financiada, nomeadamente, através de contratos-programa celebrados com organismos públicos com atribuições nas áreas do ambiente e da energia e outras entidades concessionárias de serviços públicos.
 
@@ -197,17 +260,23 @@ i) [...].
 
 3 - As atividades de serviço público desenvolvidas pela ADENE são financiadas exclusivamente pelos organismos públicos com atribuições nas respetivas áreas de atuação, na parte respeitante a essas atribuições.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Podem ser admitidos como associadas da ADENE quaisquer pessoas coletivas públicas ou privadas cuja atividade esteja direta ou indiretamente ligada ao setor energético ou à eficiência hídrica.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
 2 - O conselho fiscal é constituído por três membros, sendo um presidente e dois vogais, um dos quais é designado sob proposta da Direção-Geral do Tesouro e Finanças.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -229,7 +298,9 @@ f) Ministério da Educação e Ciência.
 
 4 - O conselho consultivo é presidido por personalidade designada pelo membro do Governo responsável pela área da energia.
 
-###### Artigo 26.º — Mobilidade
+Artigo 26.º
+
+Mobilidade
 
 1 - Os trabalhadores de órgãos ou serviços abrangidos pelo âmbito de aplicação da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, podem ser autorizados a exercer funções na ADENE, por acordo de cedência de interesse público, nos termos previstos na LTFP, podendo os mesmos optar, a todo o tempo, pela remuneração base devida na situação jurídico-funcional de origem que esteja constituída por tempo indeterminado.
 
@@ -267,17 +338,23 @@ c) Contração de empréstimos, independentemente do respetivo valor.
 
 6 - A não observância do disposto no número anterior, assim como a realização de operações ou investimentos não previstos no plano de investimento ou no plano de atividades e orçamento, constitui os titulares do órgão de administração em responsabilidade civil, criminal e financeira.
 
-###### Artigo 24.º-B — Controlo financeiro
+Artigo 24.º-B
+
+Controlo financeiro
 
 1 - A ADENE está submetida à jurisdição e ao controlo exercido pelo Tribunal de Contas e pela Inspeção-Geral das Finanças, nos termos da lei.
 
 2 - As propostas de plano de atividades e de orçamento para cada ano de atividade, bem como o plano de investimentos e os documentos de prestação anual de contas, da ADENE estão sujeitas a parecer da Unidade Técnica de Acompanhamento e Monitorização do Setor Público Empresarial, da Agência Portuguesa do Ambiente, I. P., e da Direção-Geral de Energia e Geologia.
 
-###### Artigo 24.º-C — Transparência financeira
+Artigo 24.º-C
+
+Transparência financeira
 
 A ADENE rege-se pelo princípio da transparência financeira, devendo a sua contabilidade ser organizada nos termos legais, e de forma que permita identificar claramente todos os fluxos financeiros, operacionais e económicos existentes entre a ADENE e os respetivos associados que sejam entidades públicas, nos termos previstos no [Decreto-Lei n.º 148/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2003-667556), de 11 de julho, alterado pelos [Decretos-Leis n.os 120/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2005-240042), de 26 de julho, e [69/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2007-520473), de 26 de março, aplicável com as necessárias adaptações.
 
-###### Artigo 24.º-D — Práticas de bom governo
+Artigo 24.º-D
+
+Práticas de bom governo
 
 1 - A ADENE está obrigada a divulgar:
 
@@ -331,15 +408,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de janeiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 2 de abril de 2015.**
+Promulgado em 2 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de abril de 2015.**
+Referendado em 6 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

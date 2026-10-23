@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18581860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/21/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2007-520429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7fbc82d9d08ddc83c0c4ecd0cb60b84bbe28207bbdac7e3a7589fb0a296af43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ae9ee208eb8940e144ce647666605ef8254fc7edba1f8b973b3ec94f422e809
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- Direção Geral do Tesouro e Finanças
 - Direcção Geral de Assuntos Europeus e Relações Internacionais
 - Direcção Geral do Património
-- Direção Geral do Tesouro e Finanças
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:179531:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636406:por
+  label: "Alterados os artigos 2.º e 6.º e o mapa anexo ao presente diploma, pelo DEC LEI.273/2007.30.07.2007.MFAP, DR.IS\
+    \ [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2007-636406
+  date: '2007-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186/1998/07/07/p/dre
   label: null
@@ -94,16 +100,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:365748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:638571:por
+  label: "Rectificado pela DECL-RECT.47/2007.23.05.2007.PCM, DR.IS [101] de 25.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-2007-638571
+  date: '2007-05-23'
+- type: repealed_by
+  target: pt:dre:179531:por
+  label: "Revogado o presente diploma, a partir de 01.08.2012, na redação do Dec Lei 273/2007, de 30-jul, pelo DEC LEI.156/2012.18.07.2012.MF,\
+    \ DR.IS [138] de 18.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2012-179531
+  date: '2012-07-18'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.04.007 e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 518/79, de 28 de Dezembro, DR.IS [298], e determina que DGTF suceda nos termos do n.º 1 do art. 11.º, nas atribuições\
+    \ da Direcção-Geral do Património \0 \0"
+  source: null
+  date: '1979-12-28'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.04.007 e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto\
+    \ Regulamentar n.º 44/80, de 30 de Agosto, DR.IS [200], com excepção do disposto no seu artigo 11.º, no n.º 3 do artigo\
+    \ 12.º e artigos 15.º a 17.º\0\0"
+  source: null
+  date: '1980-08-30'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.04.007 e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 186/98, de 7 de Julho, DR.IS-A [154]\0\0"
+  source: null
+  date: '1998-07-07'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:10Z'
   warnings: []
   errors: []
 ---
@@ -236,14 +297,14 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18581860.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18581860.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18581860.pdf)

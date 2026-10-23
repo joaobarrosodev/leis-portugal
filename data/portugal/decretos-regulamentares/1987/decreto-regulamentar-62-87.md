@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/28100/42384243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1987-498143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6c4f0666a77c9312b7813e5b21692a3df99db9a31c6eb5994ae1c2a78478314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afdaf9ab696c40ca692eee442f3060125de99db02bfa1c4d42be8e4e872f03d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto da Vinha e do Vinho
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:681671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221764:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:681671:por
+  label: "Revogado pelo DR.41/93.1993.11.26.MA, DR.IS-B [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/41-1993-681671
+  date: '1993-11-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:27Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +113,7 @@ Nos termos dos n.os 1 e 2 do artigo 11.º do [Decreto-Lei n.º 304/86](https://d
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º O Instituto da Vinha e do Vinho, abreviadamente designado por IVV, criado ao abrigo do [Decreto-Lei n.º 304/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764), de 22 de Setembro, prossegue as seguintes atribuições:
+Artigo 1.º O Instituto da Vinha e do Vinho, abreviadamente designado por IVV, criado ao abrigo do [Decreto-Lei n.º 304/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764), de 22 de Setembro, prossegue as seguintes atribuições:
 
 a) Proceder à definição das linhas de acção programática em matéria de apoio, controle e fiscalização da cultura da vinha;
 
@@ -128,7 +139,7 @@ l) Apoiar as acções de promoção e venda de produtos vínicos, no âmbito nac
 
 ### CAPÍTULO II — Serviços
 
-###### Art. 2.º - 1 - Para a prossecução das suas atribuições o IVV possui serviços centrais de apoio, serviços operativos e serviços regionais.
+Art. 2.º - 1 - Para a prossecução das suas atribuições o IVV possui serviços centrais de apoio, serviços operativos e serviços regionais.
 
 2 - São serviços de apoio:
 
@@ -150,7 +161,7 @@ c) A Direcção de Serviços de Controle da Qualidade.
 
 4 - São serviços regionais as delegações regionais.
 
-###### Art. 3.º - 1 - Ao Gabinete de Informação, Documentação e Assuntos das Comunidades Europeias incumbe:
+Art. 3.º - 1 - Ao Gabinete de Informação, Documentação e Assuntos das Comunidades Europeias incumbe:
 
 a) Proceder ao estudo, análise e aplicação da legislação comunitária relativa ao sector vitivinícola, em colaboração com o Gabinete Jurídico;
 
@@ -172,7 +183,7 @@ h) Organizar concursos de vinhos com vista à promoção da qualidade.
 
 3 - O Gabinete será dirigido por um director de serviços.
 
-###### Art. 4.º - 1 - Ao Gabinete Jurídico incumbe:
+Art. 4.º - 1 - Ao Gabinete Jurídico incumbe:
 
 a) Prestar assessoria jurídica aos órgãos e serviços do IVV;
 
@@ -190,7 +201,7 @@ g) Acompanhar, sempre que necessário e expressamente solicitado, as negociaçõ
 
 2 - O Gabinete Jurídico é dirigido por um chefe de divisão.
 
-###### Art. 5.º - 1 - Ao Departamento dos Vinhos de Qualidade incumbe:
+Art. 5.º - 1 - Ao Departamento dos Vinhos de Qualidade incumbe:
 
 a) Conformar a acção das comissões vitivinícolas regionais e dos organismos com atribuições de orientação e disciplina sobre os vinhos de qualidade (VQPRD) com os princípios e regras vigentes sobre a matéria;
 
@@ -202,7 +213,7 @@ d) Manter actualizado o conhecimento da legislação relativa aos vinhos de qual
 
 2 - O Departamento dos Vinhos de Qualidade será dirigido por um director de serviços.
 
-###### Art. 6.º - 1 - À Direcção de Serviços de Administração incumbe:
+Art. 6.º - 1 - À Direcção de Serviços de Administração incumbe:
 
 a) Proceder à realização das acções que permitam a gestão integrada do IVV nos planos administrativo, financeiro e de pessoal;
 
@@ -358,7 +369,7 @@ d) Dirigir o serviço de telefone, portaria e limpeza das instalações;
 
 e) Assegurar o serviço dos motoristas e pessoal auxiliar.
 
-###### Art. 7.º - 1 - À Direcção de Serviços da Vinha incumbe:
+Art. 7.º - 1 - À Direcção de Serviços da Vinha incumbe:
 
 a) Coordenar e orientar a execução de medidas tendentes à melhoria das estruturas vitícolas;
 
@@ -404,7 +415,7 @@ c) Elaborar os planos anuais e plurianuais e respectiva programação em matéri
 
 d) Preparar projectos de legislação referentes à cultura da vinha.
 
-###### Art. 8.º - 1 - À Direcção de Serviços de Vinhos de Mesa e Aguardentes incumbe:
+Art. 8.º - 1 - À Direcção de Serviços de Vinhos de Mesa e Aguardentes incumbe:
 
 a) Propor as medidas de organização e funcionamento do mercado e as características dos produtos vínicos e subprodutos nas diferentes fases do ciclo económico destes;
 
@@ -452,7 +463,7 @@ a) Organizar e manter actualizado o ficheiro nacional dos produtores de vinho e 
 
 b) Elaborar o tratamento estatístico das declarações de produção e de existências, obrigatoriamente feitas pelos agentes de produção e do comércio.
 
-###### Art. 9.º - 1 - À Direcção de Serviços de Controle de Qualidade incumbe:
+Art. 9.º - 1 - À Direcção de Serviços de Controle de Qualidade incumbe:
 
 a) Propor as medidas tendentes a assegurar a qualidade dos produtos vínicos;
 
@@ -482,7 +493,7 @@ d) Promover acções de reciclagem e formação de analistas e provadores.
 
 5 - Junto da Direcção de Serviços de Controle de Qualidade funciona a Câmara de Provadores e a Junta de Recurso, cuja actividade funcional será determinada mediante despacho do presidente do IVV.
 
-###### Art. 10.º - 1 - O IVV disporá de delegações regionais, cujo número e respectivas áreas de actuação serão definidos por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, sob proposta do presidente do IVV.
+Art. 10.º - 1 - O IVV disporá de delegações regionais, cujo número e respectivas áreas de actuação serão definidos por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, sob proposta do presidente do IVV.
 
 2 - Às delegações regionais do IVV incumbe:
 
@@ -498,19 +509,19 @@ d) Apoiar os agentes económicos ligados à produção e comercialização de pr
 
 4 - A remuneração dos delegados regionais do IVV é a correspondente à letra C da tabela de vencimentos da função pública.
 
-###### Art. 11.º O IVV, através do seu presidente, integra a Comissão Nacional do Office International de la Vigne et du Vin (OIV).
+Art. 11.º O IVV, através do seu presidente, integra a Comissão Nacional do Office International de la Vigne et du Vin (OIV).
 
 ### CAPÍTULO III — Funcionamento
 
-###### Art. 12.º - 1 - Os serviços do IVV funcionarão em estreita ligação com as direcções regionais de agricultura e outros organismos com acção no domínio da vitivinicultura, com o objectivo de racionalizar e tornar operativas as acções a desenvolver no âmbito das suas atribuições e competências.
+Art. 12.º - 1 - Os serviços do IVV funcionarão em estreita ligação com as direcções regionais de agricultura e outros organismos com acção no domínio da vitivinicultura, com o objectivo de racionalizar e tornar operativas as acções a desenvolver no âmbito das suas atribuições e competências.
 
 2 - Sempre que se mostrar necessário, particularmente no respeitante à Direcção dos Serviços da Vinha, a articulação entre os serviços do IVV e outros organismos com acção no domínio da vitivinicultura poderá ser estabelecida mediante protocolo a celebrar entre os organismos intervenientes.
 
-###### Art. 13.º Nos casos em que, pela natureza específica ou intersectorial dos problemas, não se mostre conveniente cometer o respectivo estudo a unidades orgânicas, poderão ser constituídos grupos de trabalho ou equipas de projecto, cujo mandato, composição e funcionamento serão estabelecidos por despacho do presidente.
+Art. 13.º Nos casos em que, pela natureza específica ou intersectorial dos problemas, não se mostre conveniente cometer o respectivo estudo a unidades orgânicas, poderão ser constituídos grupos de trabalho ou equipas de projecto, cujo mandato, composição e funcionamento serão estabelecidos por despacho do presidente.
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### Art. 14.º - 1 - Para além do disposto no [Decreto-Lei n.º 304/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764), de 22 de Setembro, o IVV administrará os recursos que lhe estão afectos de acordo com princípios e regras de boa gestão, utilizando os seguintes instrumentos:
+Art. 14.º - 1 - Para além do disposto no [Decreto-Lei n.º 304/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764), de 22 de Setembro, o IVV administrará os recursos que lhe estão afectos de acordo com princípios e regras de boa gestão, utilizando os seguintes instrumentos:
 
 a) Planos de actividade e financeiros, anuais e plurianuais;
 
@@ -518,44 +529,44 @@ b) Orçamento.
 
 2 - O IVV orientar-se-á, na medida do possível, mediante a utilização de programas com vista à racionalização e optimização das opções orçamentais e ao melhor controle da sua execução.
 
-###### Art. 15.º - 1 - A movimentação de fundos é da competência do conselho administrativo, sendo, para este efeito, necessárias e suficientes as assinaturas do presidente ou do seu substituto legal e de um dos seus membros.
+Art. 15.º - 1 - A movimentação de fundos é da competência do conselho administrativo, sendo, para este efeito, necessárias e suficientes as assinaturas do presidente ou do seu substituto legal e de um dos seus membros.
 
 2 - O conselho administrativo poderá delegar competência para a assinatura de cheques em funcionários do IVV para pagamentos a realizar nos serviços regionais.
 
 3 - Para depósito em contas do IVV de quaisquer valores ou títulos considera-se necessária e suficiente uma das três assinaturas referidas no n.º 1.
 
-###### Art. 16.º Constituem despesas do IVV todas as que resultem do exercício normal das suas funções.
+Art. 16.º Constituem despesas do IVV todas as que resultem do exercício normal das suas funções.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 17.º - 1 - O quadro de pessoal dirigente do IVV é o constante do mapa anexo ao presente diploma legal e que dele faz parte integrante.
+Art. 17.º - 1 - O quadro de pessoal dirigente do IVV é o constante do mapa anexo ao presente diploma legal e que dele faz parte integrante.
 
 2 - O quadro de pessoal não dirigente do IVV e o respectivo regime serão fixados por decreto regulamentar a publicar no prazo de 60 dias, contados da data de publicação do presente diploma legal.
 
-###### Art. 18.º O IVV promoverá a formação do seu pessoal através de cursos, estágios e outras acções, utilizando, sempre que possível, as estruturas de formação existentes na Administração Pública, particularmente o Instituto Nacional de Administração.
+Art. 18.º O IVV promoverá a formação do seu pessoal através de cursos, estágios e outras acções, utilizando, sempre que possível, as estruturas de formação existentes na Administração Pública, particularmente o Instituto Nacional de Administração.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 19.º O pessoal que se encontre em situação de licença sem vencimento mantém os direitos que detinha à data do início da respectiva licença, sendo-lhe aplicável o regime de pessoal previsto no presente diploma legal.
+Art. 19.º O pessoal que se encontre em situação de licença sem vencimento mantém os direitos que detinha à data do início da respectiva licença, sendo-lhe aplicável o regime de pessoal previsto no presente diploma legal.
 
-###### Art. 20.º Com a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente do organismo e serviços extintos.
+Art. 20.º Com a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente do organismo e serviços extintos.
 
-###### Art. 21.º Continuam válidos e utilizáveis os selos de garantia e verificação, bem como qualquer outra documentação existente, com a chancela da extinta Junta Nacional do Vinho, até à sua integral substituição pelos documentos com a chancela do IVV.
+Art. 21.º Continuam válidos e utilizáveis os selos de garantia e verificação, bem como qualquer outra documentação existente, com a chancela da extinta Junta Nacional do Vinho, até à sua integral substituição pelos documentos com a chancela do IVV.
 
-###### Art. 22.º São transferidos para o IVV os direitos e as obrigações emergentes de contrato de acto jurídico ou de lei constituídos na esfera jurídica do Instituto de Gestão e Estruturação Fundiária (IGEF) e afectos à actividade dos serviços extintos pelo [Decreto-Lei n.º 304/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764), de 22 de Setembro, e a titularidade de bens móveis e imóveis que vierem a ser especificados por despacho do membro do Governo com tutela sobre o IGEF, a emitir no prazo de quinze dias a contar da entrada em vigor do presente decreto regulamentar.
+Art. 22.º São transferidos para o IVV os direitos e as obrigações emergentes de contrato de acto jurídico ou de lei constituídos na esfera jurídica do Instituto de Gestão e Estruturação Fundiária (IGEF) e afectos à actividade dos serviços extintos pelo [Decreto-Lei n.º 304/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1986-221764), de 22 de Setembro, e a titularidade de bens móveis e imóveis que vierem a ser especificados por despacho do membro do Governo com tutela sobre o IGEF, a emitir no prazo de quinze dias a contar da entrada em vigor do presente decreto regulamentar.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 21 de Novembro de 1987.**
+Promulgado em 21 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Novembro de 1987.**
+Referendado em 26 de Novembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/28100/42384243.pdf))](https://files.diariodarepublica.pt/1s/1987/12/28100/42384243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/28100/42384243.pdf)

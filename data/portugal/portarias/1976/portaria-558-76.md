@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-1976-408690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82af43f2104ce8d7d0cc3d88754f4d27d9b4a95317c828e09030c1929bd49585
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e7672e4403511469344f2a1f2933cd3dbb707a99b9c23627990276e3351247d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando Geral da Guarda Fiscal
+- Conselho Administrativo
+- Guarda Fiscal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:314954:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:07:29Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +113,7 @@ REGULAMENTO DOS CONSELHOS ADMINISTRATIVOS DO COMANDO-GERAL, UNIDADES E SUBUNIDAD
 
 ### CAPÍTULO I — Composição dos conselhos administrativos
 
-###### Artigo 1.º Os conselhos administrativos da Guarda Fiscal têm as composições constantes dos artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 468/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1975-314954), de 28 de Agosto, que a seguir se indicam:
+Artigo 1.º Os conselhos administrativos da Guarda Fiscal têm as composições constantes dos artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 468/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1975-314954), de 28 de Agosto, que a seguir se indicam:
 
 1. Do conselho administrativo do Comando-Geral:
 
@@ -137,15 +145,15 @@ Tesoureiro, o primeiro-sargento do comando respectivo.
 
 Sempre que as circunstâncias o imponham, o lugar de chefe da contabilidade poderá ser desempenhado pelo primeiro-sargento do comando e o de tesoureiro por um sargento a nomear pelo respectivo comandante.
 
-###### Art. 2.º - 1. Em unidades ou subunidades temporária ou eventualmente constituídas e em que não seja possível ou aconselhável a administração directa, será a respectiva gerência exercida por um conselho administrativo eventual com organização idêntica à do conselho administrativo de que depende e sob a presidência do comandante da unidade ou subunidade.
+Art. 2.º - 1. Em unidades ou subunidades temporária ou eventualmente constituídas e em que não seja possível ou aconselhável a administração directa, será a respectiva gerência exercida por um conselho administrativo eventual com organização idêntica à do conselho administrativo de que depende e sob a presidência do comandante da unidade ou subunidade.
 
 2. Quando a unidade ou subunidade temporária disponha de menos de três oficiais, a administração é directamente exercida pelo respectivo comandante ou chefe, coadjuvado pelo seu imediato.
 
-###### Art. 3.º Os conselhos administrativos, além dos elementos constantes do artigo anterior, que constituem o seu corpo deliberativo, disporá do pessoal auxiliar necessário estabelecido nos quadros orgânicos em vigor.
+Art. 3.º Os conselhos administrativos, além dos elementos constantes do artigo anterior, que constituem o seu corpo deliberativo, disporá do pessoal auxiliar necessário estabelecido nos quadros orgânicos em vigor.
 
 ### CAPÍTULO II — Funções dos conselhos administrativos
 
-###### Art. 4.º - 1. Aos conselhos administrativos da Guarda Fiscal incumbem as seguintes funções:
+Art. 4.º - 1. Aos conselhos administrativos da Guarda Fiscal incumbem as seguintes funções:
 
 a) Superintender, sob orientação do comandante do respectivo escalão, em todos os actos administrativos da unidade ou subunidade;
 
@@ -175,9 +183,9 @@ b) O do conjunto da Guarda Fiscal, em proveito das unidades e subunidades nos as
 
 ### CAPÍTULO III — Funcionamento dos conselhos administrativos
 
-###### Art. 5.º Os conselhos administrativos, incluindo os eventuais, funcionam como qualquer órgão de um comando, tendo em consideração as suas funções e as atribuições e responsabilidades dos seus membros.
+Art. 5.º Os conselhos administrativos, incluindo os eventuais, funcionam como qualquer órgão de um comando, tendo em consideração as suas funções e as atribuições e responsabilidades dos seus membros.
 
-###### Art. 6.º Os mesmos conselhos, com a presença de todos os seus membros, reúnem obrigatoriamente:
+Art. 6.º Os mesmos conselhos, com a presença de todos os seus membros, reúnem obrigatoriamente:
 
 1. Em sessão ordinária:
 
@@ -201,15 +209,15 @@ f) Quando houver despacho superior de atribuição ou delegação de competênci
 
 g) Quando encerrada a conta de gerência anual, para aprovação da mesma, e quando da comunicação do seu julgamento.
 
-###### Art. 7.º - 1. Em cada sessão o presidente apresenta ao conselho os assuntos a tratar e regula a sequência dos trabalhos pela forma que julgar mais conveniente.
+Art. 7.º - 1. Em cada sessão o presidente apresenta ao conselho os assuntos a tratar e regula a sequência dos trabalhos pela forma que julgar mais conveniente.
 
 2. Cada membro do conselho pode propor ou submeter à apreciação do mesmo órgão o que entender conveniente.
 
-###### Art. 8.º - 1. Todos os membros do conselho têm voto deliberativo, começando a votação pelo mais moderno ou menos graduado.
+Art. 8.º - 1. Todos os membros do conselho têm voto deliberativo, começando a votação pelo mais moderno ou menos graduado.
 
 2. As deliberações do conselho são tomadas por unanimidade ou maioria de votos.
 
-###### Art. 9.º - 1. Das sessões do conselho serão lavradas actas:
+Art. 9.º - 1. Das sessões do conselho serão lavradas actas:
 
 a) Quando em sessão ordinária:
 
@@ -235,11 +243,11 @@ b) Quando a sessão for extraordinária.
 
 #### SECÇÃO 1.ª — Atribuições
 
-###### Art. 10.º - 1. Aos comandante-geral, Chefe do Estado-Maior, comandantes dos batalhões e comandantes das companhias independentes incumbe definir as linhas de orientação de toda a vida administrativa no âmbito do respectivo escalão de comando.
+Art. 10.º - 1. Aos comandante-geral, Chefe do Estado-Maior, comandantes dos batalhões e comandantes das companhias independentes incumbe definir as linhas de orientação de toda a vida administrativa no âmbito do respectivo escalão de comando.
 
 2. Os comandantes das subunidades dependentes administrativamente dos batalhões seguem as linhas orientadoras definidas pelos comandantes de quem dependem.
 
-###### Art. 11.º - 1. Ao comandante-geral e aos comandantes de batalhão compete:
+Art. 11.º - 1. Ao comandante-geral e aos comandantes de batalhão compete:
 
 a) Presidir, quando o julguem conveniente, às reuniões do conselho administrativo do seu comando;
 
@@ -265,7 +273,7 @@ b) Vigiar a escrituração dos registos de carga de material das subunidades, be
 
 c) Verificar o estado de conservação dos artigos de material em carga nas unidades e subunidades dependentes.
 
-###### Art. 12.º Ao presidente dos conselhos administrativos, incluindo os eventuais, incumbe:
+Art. 12.º Ao presidente dos conselhos administrativos, incluindo os eventuais, incumbe:
 
 1. Na generalidade, imprimir aos actos administrativos a orientação definida pelo comandante do respectivo escalão, impulsionando e coordenando todas as actividades e serviços de si dependentes naquele sentido.
 
@@ -307,7 +315,7 @@ n) Fiscalizar a conta dos movimentos bancários. Movimentar conjuntamente com o 
 
 o) Estudar ou mandar estudar os assuntos que necessitem de actualização, com vista a simplificação dos serviços a seu cargo e aumento da sua eficiência, apresentando superiormente as conclusões e respectivas propostas.
 
-###### Art. 13.º Ao chefe da contabilidade dos conselhos administrativos, incluindo os eventuais, incumbe:
+Art. 13.º Ao chefe da contabilidade dos conselhos administrativos, incluindo os eventuais, incumbe:
 
 1. Na generalidade, desempenhar as funções de chefe da secretaria do conselho administrativo e responder pela escrituração de todos os registos, contrôle de valores e arrumação da escrita sob o aspecto contabilístico.
 
@@ -353,7 +361,7 @@ t) Elaborar para remessa, dentro dos prazos fixados, ao Serviço de Administraç
 
 u) Quando não disponha de adjunto, mais lhe compete o exercício das atribuições a que se referem as alíneas enumeradas no n.º 2 do artigo 14.º, com excepção das alíneas a), b) e c), por já lhe estarem afectas.
 
-###### Art. 14.º Ao adjunto do chefe da contabilidade, nos termos do n.º 1 do artigo 1.º, incumbe:
+Art. 14.º Ao adjunto do chefe da contabilidade, nos termos do n.º 1 do artigo 1.º, incumbe:
 
 1. Na generalidade, coadjuvar o chefe da contabilidade nas suas actividades no conselho administrativo, substituindo-o nos seus impedimentos legais.
 
@@ -373,7 +381,7 @@ f) Ter à sua responsabilidade o expediente e arquivo relativos aos serviços a 
 
 g) Executar e responder por quaisquer outros serviços que lhe sejam determinados pelo presidente ou chefe da contabilidade do conselho administrativo.
 
-###### Art. 15.º Ao tesoureiro dos conselhos administrativos, incluindo os eventuais, incumbe:
+Art. 15.º Ao tesoureiro dos conselhos administrativos, incluindo os eventuais, incumbe:
 
 1. Na generalidade, desempenhar as funções de único claviculário do cofre, responsável pelo numerário e outros valores em caixa que lhe estejam confiados, respondendo por esses valores e escriturando os respectivos registos, e, também, de encarregado de material, promovendo ao registo e contrôle de todos os materiais cujas cargas pertençam ao comando da sua subunidade.
 
@@ -415,7 +423,7 @@ r) Executar e responder por quaisquer outros serviços que lhe sejam determinado
 
 #### SECÇÃO 2.ª — Responsabilidades
 
-###### Art. 16.º - 1. Os membros dos conselhos administrativos, incluindo os eventuais, quando não tenham feito declaração de voto em contrário da resolução adoptada, são solidariamente responsáveis:
+Art. 16.º - 1. Os membros dos conselhos administrativos, incluindo os eventuais, quando não tenham feito declaração de voto em contrário da resolução adoptada, são solidariamente responsáveis:
 
 a) Pelas resoluções que contrariem as leis, regulamentos e disposições vigentes;
 
@@ -429,15 +437,15 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 4. A substituição de qualquer membro do conselho no exercício das suas funções não o liberta de responder pelas faltas e contravenções que se verifiquem no período da sua gerência.
 
-###### Art. 17.º O chefe da contabilidade é o único responsável pelos erros ou irregularidades cometidas na contabilidade e escrituração, bem como pelas informações de carácter técnico que preste, por escrito, sobre assuntos de administração e de que possa também advir prejuízo para a Fazenda Nacional.
+Art. 17.º O chefe da contabilidade é o único responsável pelos erros ou irregularidades cometidas na contabilidade e escrituração, bem como pelas informações de carácter técnico que preste, por escrito, sobre assuntos de administração e de que possa também advir prejuízo para a Fazenda Nacional.
 
-###### Art. 18.º O oficial tesoureiro é o exclusivo responsável:
+Art. 18.º O oficial tesoureiro é o exclusivo responsável:
 
 a) Por todo o numerário e outros valores que lhe forem confiados;
 
 b) Pelo extravio ou ruína injustificada dos artigos e material existentes nos depósitos a seu cargo.
 
-###### Art. 19.º - 1. Os prejuízos causados à Fazenda Nacional, nos termos dos artigos 16.º, 17.º e 18.º, serão integralmente pagos pelos contraventores, além da responsabilidade criminal ou disciplinar que legalmente tenha de lhes ser imposta pelos seus actos.
+Art. 19.º - 1. Os prejuízos causados à Fazenda Nacional, nos termos dos artigos 16.º, 17.º e 18.º, serão integralmente pagos pelos contraventores, além da responsabilidade criminal ou disciplinar que legalmente tenha de lhes ser imposta pelos seus actos.
 
 2. Quando houver mais de um responsável, cada um pagará, do total do prejuízo, a parte que lhe competir proporcionalmente:
 
@@ -447,11 +455,11 @@ b) Ao número de contraventores;
 
 c) Ao tempo que exerceu o cargo.
 
-###### Art. 20.º O comandante-geral poderá, quando assim o entender, delegar no 2.º comandante-geral as atribuições e responsabilidades relativamente ao conselho administrativo do Comando-Geral, no âmbito das acções constantes do n.º 1 do artigo 11.º e n.º 2 do artigo 16.º
+Art. 20.º O comandante-geral poderá, quando assim o entender, delegar no 2.º comandante-geral as atribuições e responsabilidades relativamente ao conselho administrativo do Comando-Geral, no âmbito das acções constantes do n.º 1 do artigo 11.º e n.º 2 do artigo 16.º
 
 ### CAPÍTULO V — Escrituração. Registos a utilizar
 
-###### Art. 21.º - 1. Os conselhos administrativos, incluindo os eventuais, mantêm os actuais livros e registos, devendo introduzir na escrituração, desde já, uma folha de caixa, cuja escrituração pertencerá ao tesoureiro.
+Art. 21.º - 1. Os conselhos administrativos, incluindo os eventuais, mantêm os actuais livros e registos, devendo introduzir na escrituração, desde já, uma folha de caixa, cuja escrituração pertencerá ao tesoureiro.
 
 2. Na referida folha de caixa serão registadas as importâncias recebidas e pagas em dinheiro ou por cheque. A movimentação do livro de cheques da conta bancária será feita, em princípio, com a assinatura de todos os seus membros, podendo, na impossibilidade de qualquer deles, sê-lo apenas por dois, e, neste caso, é sempre obrigatória a assinatura do chefe da contabilidade. Tal facto deverá constar em acta. Nunca, em caso algum, poderá o movimento ser realizado por um só membro.
 
@@ -463,8 +471,8 @@ c) Ao tempo que exerceu o cargo.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 22.º Toda a documentação de receita e despesa deve ser arquivada e numerada dentro de cada mês e ano, segundo a ordem cronológica dos lançamentos efectuados.
+Art. 22.º Toda a documentação de receita e despesa deve ser arquivada e numerada dentro de cada mês e ano, segundo a ordem cronológica dos lançamentos efectuados.
 
-###### Art. 23.º As dúvidas que se suscitem na execução do presente Regulamento serão resolvidas por despacho do comandante-geral.
+Art. 23.º As dúvidas que se suscitem na execução do presente Regulamento serão resolvidas por despacho do comandante-geral.
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

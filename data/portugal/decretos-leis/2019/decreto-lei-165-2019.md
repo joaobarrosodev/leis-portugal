@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20900/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/165/2019/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2019-125815920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f93cc6ecba82c4d35f725fd27f15ca484207debd587df805b1381710636da24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf6e2dfe8a0709f095197226d1dae0e5f37997e699dc34541aafdc45dbe182e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Cortiça
 - Fundo de Socorro Social
 - IVA
-- Transmissão da Propriedade
 - Lei Geral Tributária
 - Madeira Parques Empresariais
 - Pessoa Coletiva
 - Pessoa Singular
 - Prestação de Serviços
 - Tabela Geral do Imposto do SELO
+- Transmissão da Propriedade
 relationships:
 - type: cites
   target: celex:32006L0112
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:38Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +175,9 @@ m) As pessoas singulares ou coletivas referidas na alínea a) que disponham de s
 
 5 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -195,7 +205,9 @@ e) [...]
 
 8 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +251,9 @@ e) [...]
 
 21 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -285,12 +299,14 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 10 de outubro de 2019. - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 17 de outubro de 2019.**
+Promulgado em 17 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de outubro de 2019.**
+Referendado em 22 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112707064

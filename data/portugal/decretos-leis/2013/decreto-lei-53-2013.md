@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2013/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb62e4f7678eb27e68b98bbca091f6233722b506c68903c30fd4827bb958dfc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39716474b84ce84a151e6e002bca156909a4640dcd0cf21790c590712fe88ddc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,25 +70,44 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Comércio
 - Definição de Competências
-- Regulamento da Homologação de Tractores Agrícolas ou Florestais seus Reboques e Máquinas Intermutaveis Rebocadas e dos Sistemas
-  Componentes e Unidades Técnicas
+- Equipamento Agrícola
 - Especificação Técnica
 - Homologação
 - Instituto da Mobilidade e dos Transportes
-- Veículo
 - Normas de Segurança
 - Proteção do Ambiente
+- Regulamento da Homologação de Tractores Agrícolas ou Florestais seus Reboques e Máquinas Intermutaveis Rebocadas e dos Sistemas
+  Componentes e Unidades Técnicas
+- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
 - Regulamento Respeitante as Medidas a Tomar contra as Emissões de Gases Poluentes e de Particulas Poluentes Provenientes
   dos Motores Destinados a Propulsão dos Tractores Agrícolas ou Florestais
-- Equipamento Agrícola
-- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
-- Comércio
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:25345582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e\
+    \ Máquinas Intermutáveis Rebocadas, aprovado pelo Dec Lei 74/2005 de 24-mar, alterado pelo presente diploma, pelo DEC\
+    \ LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
+- type: amended_by
+  target: pt:dre:504726:por
+  label: "Alterado o anexo I, pelo DEC LEI.151/2013.30.10.2013.MECO, DR.IS [210] de 30.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2013-504726
+  date: '2013-10-30'
+- type: amended_by
+  target: pt:dre:25345582:por
+  label: "Alterado o anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas\
+    \ Intermutáveis Rebocadas, e dos Sistemas Componentes e Unidades Técnicas, aprovado pelo Dec Lei 74/2005, de 24-mar, na\
+    \ redação do presente diploma, pelo DEC LEI.97/2014.26.06.2014.MECO, DR.IS [121] de 26.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2014-25345582
+  date: '2014-06-26'
 - type: cites
   target: celex:31980L0720
   label: null
@@ -126,15 +145,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2011/87/oj
 article_structure:
-  article_count: 18
+  article_count: 14
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:23Z'
   warnings: []
   errors: []
 ---
@@ -231,7 +250,9 @@ Quando os tratores estejam equipados com tomadas de força, estas devem cumprir 
 
 2 - O regime de flexibilidade tem início quando se torne aplicável uma determinada fase e tem a duração dessa fase, sem prejuízo do regime de flexibilidade previsto nos n.os 6 a 10 do artigo 20.º do presente regulamento ser limitado à duração da fase III-B ou a três anos, se não houver nenhuma fase posterior.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -285,7 +306,9 @@ m) «Colocação no mercado» a primeira disponibilização no mercado de um tra
 
 n) «Entrada em serviço» primeira utilização na União de um trator ou motor, para o fim a que se destina, sendo a data de entrada em serviço, considerada como tendo lugar aquando do seu registo, se for caso disso, ou da sua colocação no mercado.
 
-###### Artigo 21.º — Ações a empreender pelos fabricantes dos tratores
+Artigo 21.º
+
+Ações a empreender pelos fabricantes dos tratores
 
 1 - Exceto durante a fase III-B, um fabricante de tratores que pretenda utilizar o regime de flexibilidade deve solicitar a autorização do Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), para colocar tratores no mercado de acordo com as disposições relevantes do presente capítulo, não devendo o número de tratores exceder os limites previstos nos n.os 3 a 5.
 
@@ -319,13 +342,15 @@ b) Uma amostra da etiqueta adicional que é aposta ao motor e que ostente o text
 
 14 - O procedimento a que se refere o número anterior deve ser mantido, sem exceções, enquanto um regime de flexibilidade estiver em curso.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Um fabricante de motores pode introduzir no mercado motores ao abrigo do regime de flexibilidade aprovado nos termos do presente capítulo.
 
 2 - O fabricante dos motores deve apor nesses motores uma etiqueta com o texto «Motor introduzido no mercado ao abrigo do regime de flexibilidade», nos termos dos requisitos estabelecidos no artigo 6.º
 
-###### Artigo 23.º
+Artigo 23.º
 
 Ações a empreender pelo Instituto da Mobilidade e dos Transportes, I.P.
 
@@ -395,15 +420,15 @@ As disposições relacionadas com tratores das categorias T4.3 produzem efeitos 
 
 Visto e aprovado em Conselho de Ministros de 28 de fevereiro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva - António Joaquim Almeida Henriques - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 10 de abril de 2013.**
+Promulgado em 10 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de abril de 2013.**
+Referendado em 11 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se referem os artigos 4.º e 7.º)
 
@@ -415,7 +440,7 @@ QUADRO 1
 
 Normas aplicáveis a tomadas de força da retaguarda das seguintes categorias de tratores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
 II - Disposições aplicáveis a tomadas de força dianteiras
 
@@ -425,11 +450,11 @@ QUADRO 2
 
 Normas aplicáveis a tomadas de força dianteiras das seguintes categorias de tratores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
 ## ANEXO II — (a que se referem os artigos 5.º e 6.º)
 
-# Parte I
+Parte I
 
 FICHA DE INFORMAÇÕES N.º [...]
 
@@ -463,7 +488,7 @@ Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor sufic
 
 4.12.3. Proteção da(s) tomada(s) de força (descrição, dimensões, desenhos, fotografias): ...
 
-# Parte II
+Parte II
 
 DOCUMENTAÇÃO DE HOMOLOGAÇÃO
 
@@ -473,7 +498,7 @@ MODELO
 
 CERTIFICADO DE HOMOLOGAÇÃO CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
 Comunicação relativa a
 
@@ -573,7 +598,9 @@ Razão da extensão: ...
 
 2.6 [...]
 
-## ANEXO IV — (a que se refere o n.º 4 artigo 9.º)
+ANEXO IV
+
+(a que se refere o n.º 4 artigo 9.º)
 
 «ANEXO X
 
@@ -585,31 +612,39 @@ Limites de tratores a colocar no mercado no âmbito do regime de flexibilidade
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
 2 - Em alternativa à opção prevista nos n.os 8 e 9 do artigo 20.º, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
-## ANEXO V — (a que se refere o artigo 10.º)
+ANEXO V
+
+(a que se refere o artigo 10.º)
 
 «CAPÍTULO II
 
 Lista de requisitos a cumprir para efeitos da homologação CE de um veículo
 
-# PARTE I — Lista de diretivas específicas
+PARTE I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+Lista de diretivas específicas
 
-## Apêndice n.º 1
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
-# PARTE II — Aplicabilidade das diretivas específicas aos veículos destinados a utilizações específicas
+Apêndice n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+PARTE II
 
-## ANEXO VI — (a que se refere o n.º 2 do artigo 11.º)
+Aplicabilidade das diretivas específicas aos veículos destinados a utilizações específicas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+
+ANEXO VI
+
+(a que se refere o n.º 2 do artigo 11.º)
 
 «ANEXO II
 
@@ -679,7 +714,9 @@ Lista de requisitos a cumprir para efeitos da homologação CE de um veículo
 
 26 - [...].»
 
-## ANEXO VI — (a que se refere o n.º 4 artigo 11.º)
+ANEXO VI
+
+(a que se refere o n.º 4 artigo 11.º)
 
 «ANEXO X
 
@@ -691,10 +728,10 @@ Limites de tratores a colocar no mercado no âmbito do regime de flexibilidade
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
 
 4 - Em alternativa à opção prevista nos n.os 8 e 9 do artigo 20.º, o número de tratores colocados no mercado no quadro do regime de flexibilidade não deve exceder, em cada gama de potência, os seguintes limites:
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07500/0223902248.pdf)

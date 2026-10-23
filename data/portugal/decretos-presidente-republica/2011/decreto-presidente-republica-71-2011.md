@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/71/2011/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/71-2011-668535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:11:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13a0f9682f44a93dda983e9fbfd6ecb0a885d0f29379c4353237037fc4e0f040
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d73d3207691f394e52700b4d0c8b5589d6b6368ad8bd63880168da787b47f31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:11:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- EUA
-- Convenção
-- Portugal
 - Combate ao Crime
+- Convenção
+- Crime
 - Crime Organizado
+- EUA
+- Investigação Criminal
 - Lisboa
 - Património Genético Humano
+- Portugal
 - Segurança da Informação
 - Terrorismo
-- Investigação Criminal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/128/2011/10/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/128/2011/10/17/p/dre
+- type: cites
+  target: pt:dre:668532:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:11:10Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +104,16 @@ validation:
 
 de 17 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e os Estados Unidos da América para Reforçar a Cooperação no Domínio da Prevenção e do Combate ao Crime, assinado em Lisboa em 30 de Junho de 2009, aprovado, pela [Resolução da Assembleia da República n.º 128/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/128-2011-668532), em 31 de Agosto de 2011.
 
-**Assinado em 10 de Outubro de 2011.**
+Assinado em 10 de Outubro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Outubro de 2011.**
+Referendado em 12 de Outubro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

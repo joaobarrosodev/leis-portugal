@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 236/2000, 2º Suplemento, Série I-A de 2000-10-12
   number: '236'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5682-(4) a 5682-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/236a02/00040004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/40-c/2000/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/40-c-2000-187365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ba0c97a7bafd5a9d2fc53df237bb9f330d32b04cca57e67cd5d07baf21d7ca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89f151c553683d9de85983971d892dfbc1bf2280212ac2d1a9b55d160312836b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Chefe do Estado Maior da Força Aérea
+- Exoneração
 - Força Aérea
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:19Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ validation:
 
 de 12 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:
 
 É exonerado do cargo de Chefe do Estado-Maior da Força Aérea, sob proposta do Governo, conforme deliberação do Conselho de Ministros de 28 de Setembro de 2000, o general Manuel José Alvarenga de Sousa Santos.
 
-**Assinado em 12 de Outubro de 2000.**
+Assinado em 12 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Outubro de 2000.**
+Referendado em 12 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

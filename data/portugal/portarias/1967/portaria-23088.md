@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23088-1967-401535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba6c5542df4c6da854bd4ba633caf617a34e9b1b43b0609b07c06b7b2d5bdf8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5567c964bdb1fdf7e0739282c9c72930589da59aa77705b0041145e68c97337f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:172889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509406:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:29Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +105,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 4.º O n.º 3 do artigo 53.º passa a ter a seguinte redacção:
 
-###### Art. 53.º ...
+Art. 53.º ...
 
 3. Nas comarcas onde haja mais de um juiz a legalização dos livros compete ao magistrado da 1.ª vara.
 
 5.º O artigo 55.º passa a ter a seguinte redacção:
 
-###### Art. 55.º A legalização dos livros das conservatórias com sede na área das comarcas de Luanda e Lourenço Marques far-se-á, segundo os termos fixados pelo artigo anterior, na Procuradoria da República e incumbirá ao procurador da República ou, por delegação deste, a um dos seus ajudantes.
+Art. 55.º A legalização dos livros das conservatórias com sede na área das comarcas de Luanda e Lourenço Marques far-se-á, segundo os termos fixados pelo artigo anterior, na Procuradoria da República e incumbirá ao procurador da República ou, por delegação deste, a um dos seus ajudantes.
 
 6.º O disposto no artigo 282.º passa a ter a seguinte redacção:
 
-###### Art. 282.º O disposto no n.º 1 do artigo 13.º não é aplicável aos direitos transmitidos nem aos bens onerados em virtude de actos celebrados antes da entrada em vigor em cada uma das províncias ultramarinas do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Outubro de 1959.
+Art. 282.º O disposto no n.º 1 do artigo 13.º não é aplicável aos direitos transmitidos nem aos bens onerados em virtude de actos celebrados antes da entrada em vigor em cada uma das províncias ultramarinas do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 42565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42565-1959-430039), de 8 de Outubro de 1959.
 
 7.º O n.º 1 e a parte final do n.º 2 do artigo 13.º do Código não se aplicam à inscrição inicial relativa a terrenos concedidos pelo Estado ou por autarquias locais quando abrangidos por foral.
 

@@ -46,40 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/977-1980-458412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fa7a7f1650f9be1818bc4b4cf6afb27285f9d703b3f28b3386bf910ba9bba7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6101f166163591533f18b8ee0662920bab6c28276803d461919643b25529f7cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Direcção Geral de Higiene e Segurança do Trabalho
+- Fundo de Desenvolvimento da Mão-de-obra
+- Inspecção do Trabalho
+- Ministério do Trabalho
+- Quadro de Pessoal
+- Secretaria Geral
+- Serviço de Informação Científica e Técnica
 relationships:
 - type: amended_by
   target: pt:dre:220970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606762:por
+  label: "Alterado o mapa I do presente quadro de pessoal pela PORT.432/82.1982.04.29.MFP, DR.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/432-1982-606762
+  date: '1982-04-29'
+- type: amended_by
+  target: pt:dre:394766:por
+  label: "Alargado o quadro de pessoal do Serviço de Informação Científica e Técnica, do Ministério do Trabalho, aprovado\
+    \ pelo Dec Lei 47/78, de 21-Mar, na redacção do presente diploma, pela PORT.692/82.13.07.1982.MFP, DR.IS [159] de 13.07.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1982-394766
+  date: '1982-07-13'
+- type: amended_by
+  target: pt:dre:394171:por
+  label: "Alterado o quadro de pessoal da Secretaria Geral do Ministério do Trabalho, aprovado pelo Dec Lei 47/78, de 21-Mar,\
+    \ alterado pela presente portaria, pela Port.700/82.15.07.1982.MFP, DR.IS [161] de 15.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1982-394171
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:396314:por
+  label: "Alterado o quadro de pessoal da Auditoria Jurídica do Ministério do Trabalho e Segurança Social, aprovado pelo Dec\
+    \ Lei 47/78, de 21-Mar, com a redacção constante do presente diploma, pela PORT.936/84.19.12.1984.PCM, DR.IS [292] de\
+    \ 19.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/936-1984-396314
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:220970:por
+  label: "Aumentados lugares no quadro de pessoal do Serviço de Informação Científica e Técnica, aprovado pelo Dec Lei 47/78,\
+    \ de 21-Mar, na redacção do presente diploma, pela PORT.643/86.30.10.1986.MF, DR.IS [251] de 30.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1986-220970
+  date: '1986-10-30'
+- type: cites
+  target: pt:dre:295174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:37Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +177,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Do MAPA I ao MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26300/38663867.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26300/38663867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26300/38663867.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/354/1999/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1999-582192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4116c6a1aed30e4363553c243b7ea5b43c62d8b41de25799bd33a52d4bc660ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465168358cd709730ce3a83d295c022fdaf5a293a4e1d7c831400a8dbf67aa5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
 subjects:
 - Instituto Português das Artes do Espectáculo
 - Orgânica
-- Teatro Nacional de São Carlos
 - Teatro LUÍS de Camões
+- Teatro Nacional de São Carlos
 - Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:232556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345150:por
+  label: "Alterados os arts. 9º, 10º, 11º, 12º, 13º, 15º, 16º, 17º, 19º, 20º, 27º, 33º, 34º e 36º do Dec Lei 88/98 de 03-Abr,\
+    \ na redacção do presente diploma, pelo DEC LEI.104/2001.2001.03.29.MC DR.IS-A [75]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2001-345150
+  date: '2001-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1999/03/31/p/dre
   label: null
@@ -87,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/1998/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/1998/04/03/p/dre
+- type: cites
+  target: pt:dre:138784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:232556:por
+  label: "Revogado o art. 22º-A do Dec Lei 88/98, de 03-Ago aditado pelo presente diploma, pelo DEC LEI.61/2003.2003.04.02.MC\
+    \ DR.IS-A [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2003-232556
+  date: '2003-04-02'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:57Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +153,12 @@ São revogados a alínea g) do artigo 15.º e o artigo 31.º do [Decreto-Lei n.�
 
 Visto e aprovado em Conselho de Ministros de 15 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 20 de Agosto de 1999.**
+Promulgado em 20 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Agosto de 1999.**
+Referendado em 26 de Agosto de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

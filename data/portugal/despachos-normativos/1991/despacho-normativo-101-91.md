@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/106b00/25132515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/101/1991/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/101-1991-609663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b90e3ef243c8b694cfc3f63730594cef7fa435e182066cf02838138dec009725
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d953866b807b0d69af4ce1b081816c771a8ec8bf98eb50ac4ef970aca61c1fb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicamento
-- Embalagem
 - Comércio
+- Embalagem
+- Medicamento
 relationships:
 - type: amended_by
   target: pt:dre:176546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282092:por
+  label: "Suspensa a aplicação do n.º 4 do anexo n.º 9-II, «Apresentação material da etiqueta na embalagem», pelo DN.145/92.18.08.1992.MS,\
+    \ DR.IS-B [189] de 18.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/145-1992-282092
+  date: '1992-08-18'
+- type: amended_by
+  target: pt:dre:604849:por
+  label: "Alterados os anexos B e C pelo DN.44/2001.2001.11.08.MS DR.IS-B [265] de 15/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/44-2001-604849
+  date: '2001-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
+- type: cites
+  target: pt:dre:378109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660905:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176546:por
+  label: "Revogado pelo DN.1/2003.2002.12.17.MS DR.IS-B [12] de 15/Jan/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1-2003-176546
+  date: '2002-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:23Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +146,11 @@ e) Nome do produtor ou importador.
 
 2 - A etiqueta referida no número anterior obedecerá às especificações técnicas constantes dos anexos A, B e C do presente despacho, identificados nos termos seguintes:
 
-## Anexo A - especificações técnicas de carácter geral que deverão constar na etiqueta das embalagens de todas as especialidades farmacêuticas abrangidas pelo presente despacho;
+Anexo A - especificações técnicas de carácter geral que deverão constar na etiqueta das embalagens de todas as especialidades farmacêuticas abrangidas pelo presente despacho;
 
-## Anexo B - especificações técnicas dos códigos do medicamento e de geração do preço que deverão constar na etiqueta das embalagens das especialidades farmacêuticas introduzidas no mercado e já codificadas;
+Anexo B - especificações técnicas dos códigos do medicamento e de geração do preço que deverão constar na etiqueta das embalagens das especialidades farmacêuticas introduzidas no mercado e já codificadas;
 
-## Anexo C - especificações técnicas dos códigos do medicamento e de geração do preço que deverão constar na etiqueta das embalagens das especialidades farmacêuticas não codificadas até à data de entrada em vigor do presente despacho, tenham já sido ou não introduzidas no mercado.
+Anexo C - especificações técnicas dos códigos do medicamento e de geração do preço que deverão constar na etiqueta das embalagens das especialidades farmacêuticas não codificadas até à data de entrada em vigor do presente despacho, tenham já sido ou não introduzidas no mercado.
 
 3 - As especificações técnicas relativas ao código de geração do preço referidas no presente despacho não são aplicáveis às especialidades farmacêuticas de venda livre.
 

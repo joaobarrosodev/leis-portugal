@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/065a00/11551163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/1998/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1998-197365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10a9862b64ddaa6c1878d6be4f99c5c450bd44dc8afea70321b91d52e61f0a33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cc14b83eb8f26a2aa5cd055856783dbe8d507a81bc7cb744494ae21971cd23d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - BENS de Consumo
 - Código de BOAS Práticas de Higiene
-- Multa
+- Comércio
 - Controlo de Qualidade
-- Saúde Pública
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Fiscalização
 - Higiene Alimentar
 - Ilícito de MERA Ordenação Social
-- Livre Circulação de Mercadorias
 - Instituto Português da Qualidade
+- Livre Circulação de Mercadorias
+- Multa
 - Proteção do Consumidor
 - Sanção
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667358:por
+  label: "Alterado o nº 1 do art. 14º renumerado para art. 17º, aditados os arts. 10º, 11º e 12º e renumerados para 13º a\
+    \ 23º os anteriores arts. 10º a 20º, todos do Regulamento da Higiene dos Géneros Alimentícios (aprovado pelo presente\
+    \ diploma), pelo DEC LEI.425/99.1999.10.21.MADRP, DR.IS-A [246]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/425-1999-667358
+  date: '1999-10-21'
+- type: amended_by
+  target: pt:dre:507229:por
+  label: "Substituída a tabela anexa ao Regulamento aprovado pelo presente diploma, alterado e republicado pelo Dec Lei 425/99\
+    \ de 21-Out, pelo DEC LEI.179/2004.27.07.2004.MADRP, DR.IS-A [175] de 27.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2004-507229
+  date: '2004-07-27'
 - type: cites
   target: celex:31993L0043
   label: null
@@ -94,16 +107,26 @@ relationships:
   target: celex:31996L0003
   label: null
   source: http://data.europa.eu/eli/dir/1996/3/oj
+- type: corrected_by
+  target: pt:dre:276577:por
+  label: "Rectificado pela DECL-RECT.9-C/98.1998.04.30.PCM DR.IS-A [100]Supl de 30/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-c-1998-276577
+  date: '1998-04-30'
+- type: repealed_by
+  target: pt:dre:346743:por
+  label: "Revogado pelo DEC LEI.113/2006.12.06.2006.MADRP, DR.IS-A [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2006-346743
+  date: '2006-06-12'
 article_structure:
   article_count: 35
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:23Z'
   warnings: []
   errors: []
 ---
@@ -260,15 +283,15 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa, i
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1997. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 1998.**
+Referendado em 5 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DA HIGIENE DOS GÉNEROS ALIMENTÍCIOS
 
@@ -512,7 +535,7 @@ As empresas do sector alimentar devem certificar-se de que as pessoas que manuse
 
 As substâncias perigosas ou não comestíveis, incluindo os alimentos para animais, devem ser acompanhadas de uma indicação adequada e armazenadas em recipientes ou contentores separados e fechados de forma segura.
 
-## ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 8.º DO REGULAMENTO DA HIGIENE DOS GÉNEROS ALIMENTÍCIOS
+ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 8.º DO REGULAMENTO DA HIGIENE DOS GÉNEROS ALIMENTÍCIOS
 
 Lista de cargas anteriores aceitáveis
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 127/1997, 1º Suplemento, Série I-A de 1997-06-03
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2696-(2) a 2696-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/127a01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138-a/1997/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1279823d8b22d0cc064d464778ba8dddb301c26da9ab24771d424964f4d191b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe9c28c9c78358cb94f0ee71c9c366c3181ea1e9997b84e59cd78c66467e4b6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,6 +68,7 @@ subjects:
 - Administração dos Portos do Douro e Leixões
 - Autonomia Administrativa
 - Autonomia Financeira
+- Domínio Público Hídrico
 - Fiscalização
 - Instituto de Navegabilidade do Douro
 - Instituto Público
@@ -75,29 +76,61 @@ subjects:
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Navegação Fluvial
 - Orgânica
-- RIO Douro
 - Porto do Douro
 - Porto Fluvial
-- Domínio Público Hídrico
+- RIO Douro
 relationships:
 - type: amended_by
   target: pt:dre:520990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Instituto de Navegabilidade do Douro, criado pelo Dec Lei 138-A/97,\
+    \ de 03-Junt DR. IS-A [127]SUPL pelo DEC Lei 474_A/99, de 08-Nov.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:388225:por
+  label: "Alterados os arts. 3º, 6º, 7º, 8º, 10º, 11º, 12º, 15º e 17º e o anexo ao nº 1 do art. 17º e aditado o art. 6º-A,\
+    \ pelo DEC LEI.201/2001.2001.07.13.MES, DR.IS-A [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2001-388225
+  date: '2001-07-13'
+- type: amended_by
+  target: pt:dre:520990:por
+  label: "Mantidos em vigor, até à revisão das áreas de jurisdição portuária, os limites definidos no art. 3º do presente\
+    \ diploma, com a redacção conferida no Dec Lei 201/2001 de 13-Jul, pelo DEC LEI.146/2007.27.04.2007.MOPTC, DR.IS [82]\
+    \ de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2007-520990
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/45/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/45/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:324338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448755:por
+  label: "Revogado, com excepção dos respectivos arts. 3º - no que respeita à definição de áreas de jurisdição e 6º-A e com\
+    \ a redacção dada pelo Dec Lei 201/2001 de 13-Jul,pelo DEC LEI.257/2002.2002.11.22.MOPTH DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2002-448755
+  date: '2002-11-22'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:29Z'
   warnings: []
   errors: []
 ---
@@ -410,16 +443,16 @@ O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 27 de Maio de 1997.**
+Promulgado em 27 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/06/127a01/00020006.pdf))](https://files.diariodarepublica.pt/1s/1997/06/127a01/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/127a01/00020006.pdf)

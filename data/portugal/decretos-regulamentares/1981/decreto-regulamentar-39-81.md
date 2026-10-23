@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1981-577948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14305c766b80f64dbbee145b6a2cc3091b123ddf3bb8e759d027919b6c1de2bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2de8a07cd1d4651b4660d647a7413dcc3188e14691a04b8548c074b1deb6dc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação
+- Equipamento Eléctrico
+- Regulamento de Segurança das Instalações Eléctricas das Embarcações
+- Segurança das Instalações
+relationships:
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460826:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:562432:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 244/1981, Série I de 1981-10-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-562432
+  date: '1981-10-23'
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:07Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +105,7 @@ Em cumprimento do disposto no artigo 1.º do [Decreto-Lei n.º 379/80](https://d
 
 REGULAMENTO DE SEGURANÇA DAS INSTALAÇÕES ELÉCTRICAS DAS EMBARCAÇÕES
 
-# PARTE I — Regras, disposições e requisitos gerais das instalações eléctricas das embarcações
+## PARTE I — Regras, disposições e requisitos gerais das instalações eléctricas das embarcações
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -180,7 +197,7 @@ z''') Troço terminal de um circuito - a parte do circuito ligada ao aparelho de
 
 a) As indicadas no quadro seguinte, para as embarcações destinadas a funcionar em qualquer clima:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 b) De 0ºC a +40ºC para as embarcações destinadas a funcionar exclusivamente em climas temperados.
 
@@ -278,7 +295,7 @@ A codificação dos invólucros será feita de acordo com a Norma Portuguesa NP-
 
 1 - Em regra serão admitidos a bordo das embarcações os invólucros com as classes de protecção indicadas a seguir, devendo ser preferidas as classes em itálico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 2 - Poderão ser aceites invólucros com classe de protecção inferior ao indicado, no caso de aparelhos alimentados a tensões consideradas de segurança ou nos locais habitados secos, se as características da embarcação o permitirem, sem que daí provenha diminuição de segurança para a instalação.
 
@@ -286,7 +303,7 @@ A codificação dos invólucros será feita de acordo com a Norma Portuguesa NP-
 
 1 - As classes de protecção dos invólucros serão escolhidas consoante os locais onde forem instalados, não podendo ter protecção inferior à dos indicados no quadro seguinte, considerando o disposto no n.º 2 do artigo 13.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 2 - A classe de protecção dos quadros eléctricos deverá ser revista, conforme as condições verificadas para a sua instalação, caso por caso. Sempre que ficarem sujeitos a perigos de introdução de água, por exemplo devido à proximidade de encanamentos, a classe de protecção deverá ser aumentada em conformidade.
 
@@ -402,7 +419,7 @@ g) Por um condutor de massa, separado, obedecendo ao especificado no artigo 23.�
 
 Secções dos condutores e ligações de massa do casco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 4 - A bainha de chumbo dos cabos não poderá ser utilizada como o único meio de ligação à massa existente.
 
@@ -616,7 +633,7 @@ e) Três fios com fio compensador ligado à massa do casco e com retorno pelo ca
 
 Em corrente contínua as tensões nominais e tensões máximas permitidas como normais serão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 ###### ARTIGO 46.º — (Sistemas de distribuição normais em corrente alternada)
 
@@ -660,7 +677,7 @@ Distribuição secundária:
 
 2 - Serão adoptados como normais os valores das tensões e frequências indicados no quadro seguinte, assim como os valores das tensões máximas permitidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 3 - As instalações com tensões superiores a 500 V só serão utilizadas quando as potências em jogo o justifiquem. A sua aprovação será especialmente considerada.
 
@@ -686,7 +703,7 @@ Os factores de simultaneidade serão aplicados para o dimensionamento dos circui
 
 3 - A plena carga normal deve ser determinada com base nas intensidades de corrente nominais indicadas nas chapas sinaléticas dos motores. Se estes valores não forem conhecidos, poderão ser tomados como base os valores indicados no quadro indicado a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 4 - Na determinação dos factores de simultaneidade para circuitos de motores de corrente alternada deverá ter-se em conta que a potência absorvida diminui relativamente pouco quando os motores são parcialmente carregados.
 
@@ -698,7 +715,7 @@ Os factores de simultaneidade serão aplicados para o dimensionamento dos circui
 
 Factores de simultaneidade para circuitos de guinchos e gruas de carga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf))](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19500/22242238.pdf)
 
 ### CAPÍTULO X — Ensaios das instalações após a montagem
 
@@ -794,8 +811,8 @@ Sempre que se presuma que a tensão de alimentação de um aparelho de utilizaç
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 8 de Agosto de 1981.**
+Promulgado em 8 de Agosto de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/23300/0555005552.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2018/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2018-117222791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fd577806cf7ed71ee5d3484240f06f52e48ba7bbf359781aea52b2ee0234072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bfbf12d22dded8eef202c204a237f8c449a109f00332e2c2a54150adb71603e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Alienação de Participações do Estado
 - Alienação de Participação Social
+- Alienação de Participações do Estado
 - ÁREA de Reabilitação Urbana
-- ZONA de Defesa e Controlo Urbano
+- Autarquia Local
 - Compensação Financeira
 - Contrato Programa
 - Definição de Competências
+- Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Porto
 - Renovação Urbana
 - Sociedade de Reabilitação Urbana
-- Instituto da Habitação e da Reabilitação Urbana
-- Habitação
-- Autarquia Local
-- Porto
+- ZONA de Defesa e Controlo Urbano
 - ZONA Urbana
 relationships:
 - type: cites
@@ -97,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/85/2015/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/85/2015/10/02/p/dre
+- type: cites
+  target: pt:dre:114425587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:48Z'
   warnings: []
   errors: []
 ---
@@ -187,12 +199,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de novembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 20 de novembro de 2018.**
+Promulgado em 20 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de novembro de 2018.**
+Referendado em 27 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111860071

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 158/2020, 2º Suplemento, Série I de 2020-08-14
   number: '158'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 138-(4) a 138-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15802/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58-b/2020/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-b-2020-140431113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50abc2078ecda36e1b8e20552497ee09042af19313d2df7587e66d0f2169bad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85d0d04abf1ca48219d75d8b6eebc178a31906d3295e596b26f7b0ac79b249d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Estágios Profissionais na Administração Pública
-- Instituto da Segurança Social
-- Lares
+- Administração Local
 - Centro de DIA
 - Certidão
+- Comunicações
 - Comunicações Eletrónicas
-- Julgado de Paz
 - Correio Electrónico
-- Documento Eletrónico
 - Direção Geral da Política de Justiça
-- Página na Internet
+- Documento Eletrónico
+- Doença
 - Doença Infecciosa
 - Epidemia
 - Estágio de Formação
-- Comunicações
-- Administração Local
-- Doença
+- Instituto da Segurança Social
+- Julgado de Paz
+- Lares
+- Página na Internet
 - Plataforma Eletrónica
+- Programa Estágios Profissionais na Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -128,16 +134,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2020/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2020/05/29/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131457481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133161452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133321093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133491339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133723695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133879987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134889277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136909457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140013516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58763440:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:58Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +288,9 @@ Os artigos 9.º e 9.º-A do [Decreto-Lei n.º 10-A/2020](https://diariodarepubli
 
 7 - [...]
 
-###### Artigo 9.º-A — Regime de suspensão excecional do Programa de Estágios Profissionais na Administração Local
+Artigo 9.º-A
+
+Regime de suspensão excecional do Programa de Estágios Profissionais na Administração Local
 
 1 - As entidades que declararem, de forma fundamentada, não dispor de condições sanitárias adequadas à realização dos estágios do Programa de Estágios Profissionais na Administração Local, podem, por despacho do dirigente máximo do serviço, suspender os mesmos e bem assim fazer cessar a suspensão, a qualquer momento, quando se verifiquem os indispensáveis requisitos de segurança.
 
@@ -250,12 +350,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Anabela Damásio Caetano Pedroso - Maria de Fátima de Jesus Fonseca - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 14 de agosto de 2020.**
+Promulgado em 14 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de agosto de 2020.**
+Referendado em 14 de agosto de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113498946

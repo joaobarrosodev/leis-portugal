@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 13º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 13º Suplemento
+  supplement: null
   pages: 3446-(257) a 3446-(261)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29913/02570261.pdf
 entry_into_force_dates: []
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-c-1979-157016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f44af64ebb620642f30bf5c66aa20933038760b3c05ff48471041c398600c85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fad431a36dd1a2d829ef6808571d9313484bbfa4dfa0fff0c5726b326df12743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Estatística
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:396481:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459652:por
+  label: "Alterado o quadro de pessoal, pela PORT.1039/80.1980.12.15.PCM DR.IS [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1039-1980-459652
+  date: '1980-12-15'
+- type: amended_by
+  target: pt:dre:600157:por
+  label: "Alterado o quadro de pessoal pela PORT.223/82.1982.02.19.MFP, DR.IS [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1982-600157
+  date: '1982-02-19'
+- type: amended_by
+  target: pt:dre:375264:por
+  label: "Introduzidas alterações pelo DR.63/82.1982.09.27.MFP, DR.IS [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/63-1982-375264
+  date: '1982-09-27'
+- type: amended_by
+  target: pt:dre:311802:por
+  label: "Criado um lugar de técnico superior principal no quadro de pessoal aprovado pelo presente diploma, alterado pelo\
+    \ DR 63/82, de 27-Set, pela PORT.466/83.20.04.1983.MFP, DR.IS [91] de 20.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/466-1983-311802
+  date: '1983-04-20'
+- type: amended_by
+  target: pt:dre:396481:por
+  label: "Alterado o quadro de pessoal do INE pela PORT.982/84.27.12.1984.PCM, DR.IS [298] de 27.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/982-1984-396481
+  date: '1984-12-27'
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 53
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:10Z'
   warnings: []
   errors: []
 ---
@@ -100,123 +136,123 @@ São criadas nas direcções de serviços adiante nomeadas as secções de apoio
 
 a) Direcção dos Serviços de Coordenação e Administração Geral:
 
-##### Divisão de Coordenação Estatística:
+Divisão de Coordenação Estatística:
 
-#### Secção de Apoio ao Conselho Nacional de Estatística.
+Secção de Apoio ao Conselho Nacional de Estatística.
 
-#### Secção de Cooperação Técnica.
+Secção de Cooperação Técnica.
 
-#### Secção de Informação Estatística Geral.
+Secção de Informação Estatística Geral.
 
 Serviço de Contencioso:
 
-#### Secção de Transgressões Estatísticas.
+Secção de Transgressões Estatísticas.
 
 Repartição de Contabilidade e Património:
 
-#### Secção de Orçamento e Contas.
+Secção de Orçamento e Contas.
 
-#### Secção de Expediente Geral.
+Secção de Expediente Geral.
 
 #### Secção de Economato.
 
 b) Direcção dos Serviços de Estatísticas Correntes:
 
-##### Divisão de Estatísticas Agrícolas e Alimentares:
+Divisão de Estatísticas Agrícolas e Alimentares:
 
-#### Secção de Coordenação e de Informações.
+Secção de Coordenação e de Informações.
 
-#### Secção de Estatísticas Agrícolas e Florestais.
+Secção de Estatísticas Agrícolas e Florestais.
 
-#### Secção das Estatísticas da Pecuária.
+Secção das Estatísticas da Pecuária.
 
-#### Secção das Estatísticas da Pesca.
+Secção das Estatísticas da Pesca.
 
-##### Divisão de Estatísticas Industriais:
+Divisão de Estatísticas Industriais:
 
-#### Secção de Coordenação e de Informações.
+Secção de Coordenação e de Informações.
 
-#### Secção de Estatísticas das Indústrias Extractivas e da Electricidade, Gás e Água.
+Secção de Estatísticas das Indústrias Extractivas e da Electricidade, Gás e Água.
 
-#### Secção de Estatísticas das Indústrias da Alimentação, Bebidas e Tabaco,
+Secção de Estatísticas das Indústrias da Alimentação, Bebidas e Tabaco,
 
 Têxteis e do Vestuário e do Couro.
 
-#### Secção de Estatísticas das Outras Indústrias Transformadoras.
+Secção de Estatísticas das Outras Indústrias Transformadoras.
 
-#### Secção de Estatísticas da Construção.
+Secção de Estatísticas da Construção.
 
-#### Secção dos Indicadores Qualitativos.
+Secção dos Indicadores Qualitativos.
 
-##### Divisão de Estatísticas da Distribuição e Serviços:
+Divisão de Estatísticas da Distribuição e Serviços:
 
-#### Secção de Coordenação e Informações.
+Secção de Coordenação e Informações.
 
-#### Secção de Estatísticas da Importação.
+Secção de Estatísticas da Importação.
 
-#### Secção de Estatísticas de Exportação e Reexportação.
+Secção de Estatísticas de Exportação e Reexportação.
 
-#### Secção de Estatísticas do Comércio Interno, dos Preços e dos Indicadores Qualitativos.
+Secção de Estatísticas do Comércio Interno, dos Preços e dos Indicadores Qualitativos.
 
-#### Secção de Estatísticas dos Transportes e Comunicações.
+Secção de Estatísticas dos Transportes e Comunicações.
 
-#### Secção de Estatísticas do Turismo.
+Secção de Estatísticas do Turismo.
 
-##### Divisão de Estatísticas Financeiras:
+Divisão de Estatísticas Financeiras:
 
-#### Secção de Coordenação e Informações.
+Secção de Coordenação e Informações.
 
-#### Secção de Estatísticas das Empresas.
+Secção de Estatísticas das Empresas.
 
-#### Secção de Estatísticas Monetárias e Financeiras.
+Secção de Estatísticas Monetárias e Financeiras.
 
-#### Secção de Estatísticas da Administração Central.
+Secção de Estatísticas da Administração Central.
 
-#### Secção de Estatísticas da Administração Regional e Local.
+Secção de Estatísticas da Administração Regional e Local.
 
-##### Divisão de Estatísticas Demográficas e Sociais:
+Divisão de Estatísticas Demográficas e Sociais:
 
-#### Secção de Coordenação e Informações.
+Secção de Coordenação e Informações.
 
-#### Secção de Estatísticas da Demografia.
+Secção de Estatísticas da Demografia.
 
-#### Secção de Estatísticas da Saúde.
+Secção de Estatísticas da Saúde.
 
-#### Secção de Estatísticas da Educação, da Investigação Científica e Tecnológica e da Cultura e Recreio.
+Secção de Estatísticas da Educação, da Investigação Científica e Tecnológica e da Cultura e Recreio.
 
-#### Secção de Estatísticas da Justiça.
+Secção de Estatísticas da Justiça.
 
-#### Secção de Estatísticas dos Salários.
+Secção de Estatísticas dos Salários.
 
-#### Secção de Estatísticas das Condições de Trabalho e das Organizações Profissionais.
+Secção de Estatísticas das Condições de Trabalho e das Organizações Profissionais.
 
-#### Secção de Estatísticas das Forças de Trabalho.
+Secção de Estatísticas das Forças de Trabalho.
 
-#### Secção de Estatísticas da Segurança Social.
+Secção de Estatísticas da Segurança Social.
 
-##### Divisão de Estatísticas Gerais e Regionais:
+Divisão de Estatísticas Gerais e Regionais:
 
-#### Secção de Publicações Gerais e Regionais.
+Secção de Publicações Gerais e Regionais.
 
-#### Secção de Apoio aos Serviços Regionais.
+Secção de Apoio aos Serviços Regionais.
 
 c) Direcção dos Serviços de Censos e Inquéritos:
 
 #### Secção de Apoio.
 
-##### Divisão de Preparação de Censos e Inquéritos e de Análise de Resultados:
+Divisão de Preparação de Censos e Inquéritos e de Análise de Resultados:
 
-#### Secção de Informação e Publicações.
+Secção de Informação e Publicações.
 
-##### Divisão de Execução de Censos e Inquéritos:
+Divisão de Execução de Censos e Inquéritos:
 
 Secções de Contrôle e Supervisão de Trabalhos de Campo (Zonas Norte, Centro e Sul).
 
-#### Secção de Análise da Informação.
+Secção de Análise da Informação.
 
-#### Secção de Codificação da Informação.
+Secção de Codificação da Informação.
 
-#### Secção de Validação da Informação.
+Secção de Validação da Informação.
 
 ###### ARTIGO 2.º — (Quadro do pessoal)
 
@@ -356,14 +392,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.
 
-**Promulgado em 27 de Dezembro de 1979.**
+Promulgado em 27 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29913/02570261.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29913/02570261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29913/02570261.pdf)
 
 António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.

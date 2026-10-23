@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/2015/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2015-70348608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a3ff1f2db7dc62f6d3c9c78bc6ed2408490eb95e75c90bb357414c6b00440b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42a4e6643236469b3926e4d22cb27fb1cbd8ef9a35424dbe79696cadec25d8c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Aveiro
-- Instituto da Conservação da Natureza e das Florestas
-- Nazaré
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
 - Gestão do Ambiente
-- Zona de Proteção
-- Sistema Nacional de Áreas Classificadas
+- Instituto da Conservação da Natureza e das Florestas
+- Nazaré
+- Proteção do Ambiente
 - Rede Natura 2000
-- ZONA DE PROTEÇÃO ESPECIAL DE CABO RASO
+- Sistema Nacional de Áreas Classificadas
+- Zona de Proteção
 - ZONA DE PROTEÇÃO ESPECIAL DE AVEIRO-NAZARÉ
+- ZONA DE PROTEÇÃO ESPECIAL DE CABO RASO
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -99,6 +99,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31979L0409
   label: null
@@ -106,13 +118,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:50Z'
   warnings: []
   errors: []
 ---
@@ -161,15 +173,15 @@ b) A proteção e a gestão das espécies referidas na alínea anterior, por for
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 10 de setembro de 2015.**
+Promulgado em 10 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de setembro de 2015.**
+Referendado em 11 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -181,13 +193,13 @@ Limites
 
 A ZPE do Cabo Raso é definida por um polígono definido a este pela linha de costa definida pelo CAOP 2014 ("Carta Administrativa Oficial de Portugal", da Direção-Geral do Território) e a sul, norte e oeste pelas linhas retas que unem os pontos com as seguintes coordenadas, correspondentes à numeração definida na figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
 
 Na tabela, as coordenadas retangulares (X e Y) referem-se ao Sistema de Referência PT -TM06/ETRS89 (Projeção Transversa de Mercator) e as coordenadas geográficas (Latitude e Longitude) referem-se ao Sistema de Referência ETRS89 (Elipsóide GRS80). As coordenadas retangulares estão representadas na figura seguinte pela quadrícula espaçada de 10000 metros (cruzes).
 
 Carta da zona de proteção especial (ZPE) do Cabo Raso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -199,10 +211,10 @@ Limites
 
 A ZPE de Aveiro/Nazaré é definida por um polígono delimitado a este pela linha de costa definida pelo CAOP 2014 ("Carta Administrativa Oficial de Portugal", da Direção-Geral do Território) e a sul, norte e oeste pelas linhas retas que unem os pontos com as seguintes coordenadas, correspondentes à numeração definida na figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
 
 Na tabela, as coordenadas retangulares (X e Y) referem-se ao Sistema de Referência PT -TM06/ETRS89 (Projeção Transversa de Mercator) e as coordenadas geográficas (Latitude e Longitude) referem-se ao Sistema de Referência ETRS89 (Elipsóide GRS80). As coordenadas retangulares estão representadas na figura pela quadrícula espaçada de 20000 metros (cruzes).
 
 Carta da zona de proteção especial (ZPE) de Aveiro/Nazaré
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18500/0841108414.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 234/2023, 2º Suplemento, Série I de 2023-12-05
   number: '234'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 136-(2) a 136-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23402/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114-a/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-a-2023-225265456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c26ccc98d38a37eacc9c2db0e57d2d84206fca1a109b0d13ae59df52b7476a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2c1024bd560eafef1031231b5b88aefa2ba0d72d2bb76aeb161b304764eeb8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects:
 - ACTO Judicial
 - Aproximação das Legislações
+- Associação
 - Autoridade Nacional
 - Comissão Europeia dos Direitos do Homem
-- Fundação
 - Consumo
-- Regulamentação de Atos Legislativos
 - Direcção Geral do Consumidor
-- União Europeia
+- Fundação
 - Página na Internet
-- Associação
+- Regulamentação de Atos Legislativos
+- União Europeia
 relationships:
 - type: cites
   target: celex:31998L0027
@@ -109,6 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/1995/08/31/p/dre
+- type: cites
+  target: pt:dre:223575022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:25/2004
+  label: Revoga, a partir de 06 de dezembro de 2023, nos termos do artigo 23.º do presente diploma, a Lei n.º 25/2004, de
+    8 de julho, Diário da República n.º 159/2004, Série I-A
+  source: null
+  date: '2004-07-08'
 - type: transposes
   target: celex:31998L0027
   label: null
@@ -124,13 +150,13 @@ relationships:
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:47Z'
   warnings: []
   errors: []
 ---
@@ -477,12 +503,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de novembro de 2023. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia - António José da Costa Silva.
 
-**Promulgado em 5 de dezembro de 2023.**
+Promulgado em 5 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de dezembro de 2023.**
+Referendado em 5 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+100000356

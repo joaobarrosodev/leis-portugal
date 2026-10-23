@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1975-311431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 332e0db13c86658673b400cfa306bf096096405e433d6ddaf04d9dac39facb4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7435895f40abf01e55adc7073d9324360ab61234090d1a4d5af87c9a885d8f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jardim de Infância
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:431187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507662:por
+  label: Substituído o mapa de pessoal anexo pelo(a) Portaria n.º 100/76 - Diário do Governo n.º 46/1976, Série I de 1976-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1976-507662
+  date: '1976-02-24'
+- type: amended_by
+  target: pt:dre:431187:por
+  label: Alterado o mapa de pessoal anexo ao presente diploma, pelo(a) Portaria n.º 377/76 - Diário da República n.º 143/1976,
+    Série I de 1976-06-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-1976-431187
+  date: '1976-06-21'
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:48Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +121,10 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 Ministério dos Assuntos Sociais, 11 de Novembro de 1975. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/28000/19561956.pdf))](https://files.diariodarepublica.pt/1s/1975/12/28000/19561956.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/28000/19561956.pdf)
 
 Nota. - O pessoal actualmente em serviço integrar-se-á nas categorias a que as suas habilitações dão acesso.
 
 No período de instalação as funções de auxiliar de educação poderão ser assumidas por empregadas auxiliares, devendo a totalidade das duas categorias corresponder ao número previsto para os estabelecimentos similares da Misericórdia de Lisboa.
 
-**O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.**
+O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques.

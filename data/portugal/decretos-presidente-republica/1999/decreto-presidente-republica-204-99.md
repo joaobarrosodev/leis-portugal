@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/204/1999/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/204-1999-683068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b63db2295a02e31655862625640114c333217a6c1dfde47fb079e5f7ff4127f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cea677661f50cdb943fd76e67cf47aef4570ad71b4af8167e491002f0b5b929b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Transporte Marítimo
-- Marinha Mercante
 - Controlo Técnico
 - Convenção
-- Portugal
-- Fiscalização
-- Macau
-- Londres
 - Embalagem
-- Normas de Segurança
-- Transporte de Mercadorias
+- Embarcação
 - Embarcação de Pesca
+- Fiscalização
+- Londres
+- Macau
+- Marinha Mercante
+- Normas de Segurança
+- Portugal
 - Segurança Marítima
+- Transporte de Mercadorias
 - Transporte Internacional
-relationships: []
+- Transporte Marítimo
+relationships:
+- type: cites
+  target: pt:dre:300465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:28Z'
   warnings: []
   errors: []
 ---
@@ -100,14 +104,14 @@ validation:
 
 de 9 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Convenção Internacional das Linhas de Carga, de 5 de Abril de 1966, aprovada pelo [Decreto-Lei n.º 49209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49209-1969-300465), de 26 de Agosto de 1969, cujo texto foi publicado no Diário do Governo, 1.ª série, de 26 de Agosto de 1969.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 29 de Outubro de 1999.**
+Assinado em 29 de Outubro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

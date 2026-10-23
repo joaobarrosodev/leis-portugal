@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/1997/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1997-469586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28ad22e87720e63926e58a323447d616d1517bc19001816017f941c9a5c5e07f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57bbe7616f51a754e39134460aa228309ae733ba22549cb1a639f75b2d19a645
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Regional de Segurança Social de Lisboa e VALE do TEJO
-- Centro Regional de Segurança Social do Norte
 - Centro Regional de Segurança Social do Alentejo
 - Centro Regional de Segurança Social do Algarve
 - Centro Regional de Segurança Social do Centro
-- Pessoal Dirigente
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
+- Centro Regional de Segurança Social do Norte
 - Ministério da Solidariedade e Segurança Social
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:12Z'
   warnings: []
   errors: []
 ---
@@ -127,11 +131,15 @@ d) Centro Regional de Segurança Social do Alentejo e respectivos serviços sub-
 
 e) Centro Regional de Segurança Social do Algarve e respectivos serviços locais.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 O pessoal dirigente dos serviços de administração directa integrados no MSSS e do SNRIPD que desempenha cargos ao nível de director-geral e de subdirector-geral, ou equiparados, bem como o director do GAERI, previstos neste diploma, constam do mapa anexo, que dele faz parte integrante, considerando-se desde já criados os respectivos lugares.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A publicação de decretos regulamentares contendo as normas referentes à organização e competências, funcionamento, regime jurídico de pessoal e demais disposições necessárias para assegurar a prossecução dos objectivos dos serviços e organismos referidos nos artigos 4.º, 5.º, 6.º e 7.º, alíneas a) e e), deste diploma deve ser efectuada no prazo de 180 dias contados a partir da sua entrada em vigor.
 
@@ -139,7 +147,9 @@ O pessoal dirigente dos serviços de administração directa integrados no MSSS 
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -149,7 +159,9 @@ O pessoal dirigente dos serviços de administração directa integrados no MSSS 
 
 4 - Sem prejuízo dos que venham a ser abertos, mantêm-se os concursos a decorrer à data da entrada em vigor do presente diploma até à data da entrada em vigor dos decretos regulamentares referidos no n.º 1 do artigo 25.º, para provimento dos lugares dos quadros de pessoal que correspondam às necessidades decorrentes do exercício das competências dos serviços e organismos em reestruturação ou, no que se refere aos extintos, na medida em que passem a ser exercidas pelos serviços ora criados.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -197,12 +209,12 @@ Secretariado Nacional para a Reabilitação e Integração das Pessoas com Defic
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues - Jorg e Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Abril de 1997.**
+Promulgado em 4 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 1997.**
+Referendado em 7 de Abril de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 109/1975, 3º Suplemento, Série I de 1975-05-12
   number: '109'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 672-(9) a 672-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/306-a-1975-169462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f86f4dc1bf599c9543349b33d15f56ee2c5470510c87a95fbb5afb9d2c62d306
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2c2ad03879fa81b1480d6c40a8304502a7435e5f95c87b690e8d017db1dd9a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,34 @@ relationships:
   target: pt:dre:150520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150520:por
+  label: Alterados os n.ºs 1.º, 2.º, 5.º, 7.º, 13.º e 14.º pelo(a) Portaria n.º 469/75 - Diário do Governo n.º 176/1975, 1º
+    Suplemento, Série I de 1975-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-1975-150520
+  date: '1975-08-01'
+- type: cites
+  target: pt:dre:472161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672655:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:23Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +139,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abasteci
 
 8.º - 1. Os preços máximos de venda ao público do leite esterilizado são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf))](https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf)
 
 2. Estes preços são extensivos ao leite importado do tipo esterilizado.
 
@@ -131,7 +149,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abasteci
 
 11.º - 1. Os preços máximos no armazém do fabricante e na venda ao público, por quilograma, da manteiga pasteurizada e não pasteurizada, no continente e ilhas adjacentes, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf))](https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/10903/00090010.pdf)
 
 2. A estes preços não poderão os fabricantes ou importadores acrescer quaisquer taxas.
 

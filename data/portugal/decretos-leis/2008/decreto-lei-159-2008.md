@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15300/0535505359.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3f2f8fd2c45e8fb581991466eb1302a3b5b8823fac5083b2410771d5feeb159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 577e755775852ee8f02968a8de4d4ad43bdd89a562b6774ac45b590eb1afc867
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Autoridade Florestal Nacional
 - Conselho Florestal Nacional
 - Definição de Competências
 - Direcção Geral dos Recursos Florestais
@@ -75,18 +74,27 @@ subjects:
 - Direcção Regional das Florestas do Algarve
 - Direcção Regional das Florestas do Centro
 - Direcção Regional das Florestas do Norte
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Programa de Sapadores Florestais
-- Autoridade Florestal Nacional
 - Quadro de Pessoal
 - Receita Própria
-- Sistema Nacional de Informação dos Recursos Florestais
 - Sistema de Informação de Incêndios Florestais
+- Sistema Nacional de Informação dos Recursos Florestais
 relationships:
 - type: amended_by
   target: pt:dre:115012859:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto, sendo objecto de fusão, a Autoridade Florestal Nacional, cujas atribuições e competências constam do presente\
+    \ diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art.\
+    \ 34º; sendo as suas atribuições integradas no Instituto da Conservação da Natureza e das Florestas, criado naquele diploma.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -107,16 +115,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:453258:por
+  label: "Rectificado pela DECL-RECT.50/2008.27.08.2008.PCM, DR.IS [165] de 27.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/50-2008-453258
+  date: '2008-08-27'
+- type: corrected_by
+  target: pt:dre:452961:por
+  label: "Rectificado pela DECL-RECT.55/2008.01.10.2008.PCM, DR.IS [190] de 01.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/55-2008-452961
+  date: '2008-10-01'
+- type: repealed_by
+  target: pt:dre:178537:por
+  label: "Revogado, a partir de 01.07.2012, e determinada que o Instituto da Conservação da Natureza e Florestas, I. P. suceda\
+    \ nas atribuições do Autoridade Florestal Nacional, pelo DEC LEI.135/2012.29.06.2012.MAMAOT, DR.IS [125] de 29.06.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2012-178537
+  date: '2012-06-29'
+- type: repeals
+  target: pt:numero:decreto-lei:202/2004
+  label: "Revoga, a partir de 01.09.2008, os artigos 153.º, 154.º e 155.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, DR.IS-A\
+    \ [194]\0\0"
+  source: null
+  date: '2004-08-18'
+- type: repeals
+  target: pt:numero:decreto-regulamentar:10/2007
+  label: "Revoga, a partir de 01.09.2008, Decreto Regulamentar n.º 10/2007, de 27 de Fevereiro, DR.IS [41]\0\0"
+  source: null
+  date: '2007-02-27'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:52Z'
   warnings: []
   errors: []
 ---
@@ -427,16 +483,16 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Medeiros Vieira.
 
-**Promulgado em 25 de Julho de 2008.**
+Promulgado em 25 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Julho de 2008.**
+Referendado em 29 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Mapa a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0535505359.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0535505359.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0535505359.pdf)

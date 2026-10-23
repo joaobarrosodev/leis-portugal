@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-1971-631665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 915288ca350efb683f76403d11fe712b5984084a8fe2527ae524fcc8b5d433db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb884cff4809ad0e661530ebab1d7460759f746fce477276b4b8269587e01ac0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234896:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:46Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, ao abrigo d
 
 1.º O quadro da Brigada de Estudo e Construção de Obras Hidráulicas de Cabo Verde, a que se refere o n.º 1.º da [Portaria n.º 23281](https://diariodarepublica.pt/dr/detalhe/portaria/23281-1968-234896), de 21 de Março de 1968, passa a ser o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/11/27400/17961796.pdf))](https://files.diariodarepublica.pt/1s/1971/11/27400/17961796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/27400/17961796.pdf)
 
 2.º Independentemente das unidades e respectivas designações funcionais constantes do quadro do artigo anterior, poderá ser contratado ou assalariado, nos termos legais, o pessoal técnico e administrativo que ocasionalmente se verifique necessário à execução dos trabalhos a cargo da mesma Brigada.
 
@@ -101,6 +105,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, ao abrigo d
 
 4.º É revogada a [Portaria n.º 23281](https://diariodarepublica.pt/dr/detalhe/portaria/23281-1968-234896), de 21 de Março de 1968.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

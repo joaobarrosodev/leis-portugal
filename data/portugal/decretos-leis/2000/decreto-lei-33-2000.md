@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2000/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2000-411871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 535add0d0658bd50a6f6aaebbca36e42b720a07d91e40fe71b469590a2e0790f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d5d917d9ee79c1b2a9c01bbf04087ac170b136fbd7b24813d3832549c6b09f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
 - Criação de Empresas
+- Desporto
 - Estatuto
 - EURO 2004
 - EURO 2004-sociedade Promotora da Realização em Portugal da FASE Final do Campeonato Europeu de Futebol 2004
 - Federação Portuguesa de Futebol
 - Futebol
-- Recrutamento de Pessoal
 - Gestão do Património
 - Isenção Fiscal
-- Desporto
+- Recrutamento de Pessoal
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:621140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621140:por
+  label: "Aditado o art. 8º-A, alterados os arts. 1º, 2º, 3º, 4º, 5º, 11º, e 12º e revogados os arts. 9º e 10º deste diploma,\
+    \ com a redacção conferida pelo Dec Lei 30/2001 de 07-Fev, bem como alterados os arts. 1º, 2º, 4º, 5º, 6º, 7º, 8º, 9º,\
+    \ 10º, 11º, 12º, 13º, 14º, 19º, 20º, 22º, e 23º e revogados os arts. 15º, 16º, 17º, 18º e 21º todos dos Estatutos da EURO\
+    \ 2004, publicados em anexo ao presente diploma, pelo DEC LEI.267/2001.2001.10.04.MJD DR.IS-A [231]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-2001-621140
+  date: '2001-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/112/1997/09/16/p/dre
   label: null
@@ -91,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649166:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:57Z'
   warnings: []
   errors: []
 ---
@@ -199,15 +215,15 @@ Fica desde já convocada a assembleia geral da EURO 2004, S. A., para se reunir,
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1999. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 29 de Fevereiro de 2000.**
+Promulgado em 29 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Março de 2000.**
+Referendado em 2 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DA EURO 2004, S. A. - SOCIEDADE PROMOTORA DA REALIZAÇÃO EM PORTUGAL DA FASE FINAL DO CAMPEONATO EUROPEU DE FUTEBOL DE 2004.
 

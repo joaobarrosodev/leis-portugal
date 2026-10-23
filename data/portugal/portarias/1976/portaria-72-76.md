@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1976-506778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:11:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d7f8a6b4e056469a91c832244b36af05515ea2f6606d5b4f27bc815ad47a652
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15f20d8fa49b46f3a74edf2ff4d4a2bbae732fa6392f7ebd913642bcce087ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:11:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Industrial
+- Indústria da Celulose e do Papel
+- Indústria da Cortiça
+- Indústria da Madeira
+- Indústria Resineira
+- Inscrição Obrigatória
+- Instituto dos Produtos Florestais
+- Pessoa Coletiva
+- Pessoa Singular
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642723:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:11:27Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +121,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, com fundamento nos artigos 18.º e 19.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608), de 31 de Outubro, o seguinte:
 
-###### Artigo 1.º É obrigatória a inscrição no Instituto dos Produtos Florestais de todas as entidades singulares ou colectivas que exerçam ou pretendam exercer qualquer ramo de actividade económica integrado nos sectores coordenados pelo Instituto, ou sejam:
+Artigo 1.º É obrigatória a inscrição no Instituto dos Produtos Florestais de todas as entidades singulares ou colectivas que exerçam ou pretendam exercer qualquer ramo de actividade económica integrado nos sectores coordenados pelo Instituto, ou sejam:
 
 a) Madeira, vime e produtos derivados;
 
@@ -110,7 +131,7 @@ c) Resinosos, seus derivados e subprodutos;
 
 d) Pastas celulósicas e papel.
 
-###### Art. 2.º - 1. Relativamente a cada um destes sectores e subsectores, prevê-se que a inscrição das entidades interessadas tenha lugar em função das seguintes categorias:
+Art. 2.º - 1. Relativamente a cada um destes sectores e subsectores, prevê-se que a inscrição das entidades interessadas tenha lugar em função das seguintes categorias:
 
 a) Industriais;
 
@@ -126,7 +147,7 @@ d) Comerciantes cujas categorias não constem das alíneas anteriores e que inte
 
 4. Poderão ser inscritas na categoria de industriais as cooperativas constituídas por industriais inscritos no Instituto com o fim de efectuarem a comercialização dos produtos da fabricação dos seus associados.
 
-###### Art. 3.º Constituem os requisitos de inscrição em qualquer das categorias anteriormente previstas:
+Art. 3.º Constituem os requisitos de inscrição em qualquer das categorias anteriormente previstas:
 
 a) Possuir a necessária capacidade financeira;
 
@@ -134,7 +155,7 @@ b) Estar matriculado no registo comercial;
 
 c) Ter cumprido todas as exigências legais decorrentes da qualidade para que requer a sua inscrição.
 
-###### Art. 4.º - 1. Os requerimentos em que se solicita a inscrição deverão ser elaborados em papel selado, com a assinatura reconhecida notarialmente, e dirigidos ao presidente da direcção do Instituto, acompanhados dos elementos de prova de preenchimento dos requisitos que a condicionam e de uma memória descritiva da respectiva organização e das condições em que a entidade interessada se dispõe a exercer a sua actividade.
+Art. 4.º - 1. Os requerimentos em que se solicita a inscrição deverão ser elaborados em papel selado, com a assinatura reconhecida notarialmente, e dirigidos ao presidente da direcção do Instituto, acompanhados dos elementos de prova de preenchimento dos requisitos que a condicionam e de uma memória descritiva da respectiva organização e das condições em que a entidade interessada se dispõe a exercer a sua actividade.
 
 2. Se os documentos apresentados com o requerimento forem insuficientes para prova do preenchimento dos requisitos de inscrição, o requerente será convidado a completá-los sem prejuízo das averiguações directas a que o Instituto delibere proceder se for caso disso.
 
@@ -146,30 +167,30 @@ c) Ter cumprido todas as exigências legais decorrentes da qualidade para que re
 
 6. Da decisão da direcção do Instituto sobre o pedido de inscrição cabe recurso hierárquico necessário para o Ministro do Comércio Externo.
 
-###### Art. 5.º Não poderão ser inscritos no Instituto dos Produtos Florestais:
+Art. 5.º Não poderão ser inscritos no Instituto dos Produtos Florestais:
 
 a) Os falidos, enquanto não se reabilitarem;
 
 b) Os directores, administradores ou gerentes das sociedades falidas enquanto não forem ilibados de culpa ou tiverem cumprido as penas.
 
-###### Art. 6.º - 1. A cessação do preenchimento de qualquer dos requisitos previstos no artigo 3.º ou a verificação superveniente dos factos impeditivos a que se refere o artigo 5.º implicará o cancelamento da inscrição.
+Art. 6.º - 1. A cessação do preenchimento de qualquer dos requisitos previstos no artigo 3.º ou a verificação superveniente dos factos impeditivos a que se refere o artigo 5.º implicará o cancelamento da inscrição.
 
 2. Será também cancelada a inscrição aos que tenham deixado de exercer actividade industrial ou comercial correspondente à categoria em que se encontrarem inscritos e se mantenham em inactividade durante dois anos consecutivos ou, no caso de se tratar de actividades condicionadas durante o período legal estabelecido na respectiva legislação.
 
-###### Art. 7.º Sempre que sejam publicados novos regulamentos em que se definam as condições de exercício da actividade de alguma ou algumas categorias de entidades inscritas, será fixado um prazo para que estas façam prova de que satisfazem as condições exigidas, sob pena de cancelamento da sua inscrição.
+Art. 7.º Sempre que sejam publicados novos regulamentos em que se definam as condições de exercício da actividade de alguma ou algumas categorias de entidades inscritas, será fixado um prazo para que estas façam prova de que satisfazem as condições exigidas, sob pena de cancelamento da sua inscrição.
 
-###### Art. 8.º - 1. O exercício ilegal de qualquer das actividades previstas no n.º 1 do artigo 18.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608) constitui contravenção punível nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 308/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1971-642723), de 16 de Julho.
+Art. 8.º - 1. O exercício ilegal de qualquer das actividades previstas no n.º 1 do artigo 18.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608) constitui contravenção punível nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 308/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1971-642723), de 16 de Julho.
 
 2. Os interessados deverão requerer a sua inscrição no Instituto, dentro do prazo de três meses, a contar da data da publicação do presente regulamento, desde que já pratiquem qualquer actividade a que se refere o número anterior, para não incorrerem na responsabilidade que nele se prevê.
 
 3. São dispensados da formalidade prevista no número anterior aqueles que se encontram já inscritos no Instituto dos Produtos Florestais ao abrigo da legislação anterior.
 
-###### Art. 9.º - 1. Quando forem encontrados quaisquer produtos do âmbito da acção coordenadora do Instituto em poder de qualquer entidade não inscrita, abrangida pelo disposto no artigo 18.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608), o Instituto promoverá o procedimento a que se refere o artigo 40.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 9.º - 1. Quando forem encontrados quaisquer produtos do âmbito da acção coordenadora do Instituto em poder de qualquer entidade não inscrita, abrangida pelo disposto no artigo 18.º do [Decreto-Lei n.º 428/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1972-291608), o Instituto promoverá o procedimento a que se refere o artigo 40.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
 2. Se neste caso for autorizada a venda dos produtos apreendidos a qualquer comerciante ou industrial inscrito no Instituto, os produtos só ficarão libertados na data aposta sobre a participação de compra, a apresentar pelo adquirente, na qual se mencionará o número do respectivo processo.
 
-###### Art. 10.º A direcção do Instituto poderá dispensar da inscrição as entidades abrangidas que, pela natureza artesanal e artística da sua actividade, o justifiquem.
+Art. 10.º A direcção do Instituto poderá dispensar da inscrição as entidades abrangidas que, pela natureza artesanal e artística da sua actividade, o justifiquem.
 
-###### Art. 11.º O presente regulamento entra imediatamente em vigor.
+Art. 11.º O presente regulamento entra imediatamente em vigor.
 
 Ministério do Comércio Externo, 21 de Janeiro de 1976. - O Secretário de Estado do Comércio Externo, António Miguel de Morais Barreto.

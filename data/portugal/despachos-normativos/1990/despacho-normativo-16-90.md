@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-1990-332935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e40a58ff388be9262fd78b7177a358b445e46472942d6903f4af445e3d653bf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39d26fc468c7216c400690acc3d33ca129dc2e1c959eee81ff32ae66a994d170
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa
+- Expropriação
+- Indemnização
+- Nacionalização
+relationships:
+- type: cites
+  target: pt:dre:196761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:56Z'
   warnings: []
   errors: []
 ---
@@ -102,14 +114,14 @@ Assim, nos termos das disposições do artigo 14.º da [Lei n.º 80/77](https://
 
 Valor definitivo de banco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf)
 
 Valores definitivos de sociedades anónimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf)
 
 Valor corrigido por comissão arbitral para casa bancária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04600/07620762.pdf)
 
 Ministério das Finanças, 26 de Janeiro de 1990. - O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/301a00/73567356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/416/1998/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1998-285561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 392fd9252bfb3a470e6cc2d80f02b971b50f2fcd48bf015359bdb3bfd114f189
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add78970e817ac195375323649b497eff221fef9015eaa2862420eabf3dff513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,57 @@ reuse:
 subjects:
 - Direcção Geral dos Serviços Prisionais
 - Estabelecimento Prisional
-- Santarém
 - Força Paramilitar
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:248221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319732:por
+  label: "Aditados os arts. 5º, 6º, 7º e 8º pelo DEC LEI.59/2001.2001.02.19.MJ DR.IS-A [42], bem como o quadro de pessoal\
+    \ constante do mapa I anexo ao referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2001-319732
+  date: '2001-02-19'
+- type: amended_by
+  target: pt:dre:519409:por
+  label: "Alterado os artigos 6.º, 7.º e 8.º, bem como o mapa I anexo do presente diploma, na redacção do Decreto-Lei 59/2001,\
+    \ de 19 de Fevereiro, e republica-o pelo DEC LEI.115/2007.19.04.2007.MJ, DR.IS [77] de 19.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2007-519409
+  date: '2007-04-19'
+- type: amended_by
+  target: pt:dre:248221:por
+  label: "Extinto, a partir de 05.02.2008, o Estabelecimento Prisional de Santarém, criado pelo presente diploma, ora revogado\
+    \ pelo DEC LEI.21/2008.31.01.2008.MJ, DR.IS [22] de 31.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2008-248221
+  date: '2008-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
+- type: cites
+  target: pt:dre:396771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:43Z'
   warnings: []
   errors: []
 ---
@@ -125,12 +155,12 @@ Os termos e as condições de pagamento da compensação financeira devida pela 
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 14 de Dezembro de 1998.**
+Promulgado em 14 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Dezembro de 1998.**
+Referendado em 16 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

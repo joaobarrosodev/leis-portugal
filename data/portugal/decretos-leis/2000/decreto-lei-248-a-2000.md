@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 229/2000, 1º Suplemento, Série I-A de 2000-10-03
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5498-(2) a 5498-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/229a01/00020010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248-a/2000/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-a-2000-621125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fdfd610af3c4d655cbd6eb7053658e00371a95d03ddb9280e87b4db1b3f1dd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a93b63e81616d237485e8b304b7c964f7b6ee99e0e2a8427657b1f32b119341d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Instituto de Gestão do Fundo Social Europeu
 - FSE
+- Instituto de Gestão do Fundo Social Europeu
 relationships:
 - type: amended_by
   target: pt:dre:638541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição (até à entrada em vigor do Dec Lei 171/2004 de 17-Jul) para o Ministério das Actividades\
+    \ Económicas e do Trabalho do Instituto de Gestão do Fundo Social Europeu (integrado no agora extinto Ministério da Segurança\
+    \ Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: celex:31997L0052
   label: null
@@ -81,16 +88,21 @@ relationships:
   target: celex:31999R1260
   label: null
   source: http://data.europa.eu/eli/reg/1999/1260/oj
+- type: repealed_by
+  target: pt:dre:638541:por
+  label: "Revogado a partir de 01.06.2007 pelo DEC LEI.212/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2007-638541
+  date: '2007-05-29'
 article_structure:
   article_count: 43
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:46Z'
   warnings: []
   errors: []
 ---
@@ -163,15 +175,15 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues. - Pelo Ministro da Justiça, Diogo Campos Barradas de Lacerda Machado, Secretário de Estado da Justiça. - Pelo Ministro do Planeamento, João Nuno Marques de Carvalho Mendes, Secretário de Estado do Planeamento. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.
 
-**Promulgado em 28 de Setembro de 2000.**
+Promulgado em 28 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Outubro de 2000.**
+Referendado em 2 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos do Instituto de Gestão do Fundo Social Europeu
 
@@ -577,7 +589,9 @@ b) Representação pelo ministério público em quaisquer tribunais, sem prejuí
 
 c) Responsabilidade civil extracontratual.
 
-###### Artigo 33.º — Titulo executivo
+###### Artigo 33.º
+
+## Titulo executivo
 
 Para efeitos do disposto na alínea i) do n.º 2 do artigo 8.º dos estatutos, a certidão do despacho do presidente do IGFSE que determine a restituição e a sua notificação à entidade devedora constitui título executivo bastante para promover a execução através dos serviços competentes.
 

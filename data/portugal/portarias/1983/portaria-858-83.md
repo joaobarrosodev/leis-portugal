@@ -46,36 +46,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/858-1983-455909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bc65bcb36d411bf25f3af68c76523defde06239a849805cbbdd35cc1ce208e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d817d05b9aac07fb30ced055be98f4bad186c125848b5fab31afbe070d2d0a9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Norma Portuguesa
+- Normalização
+- Sistema Nacional de Gestão da Qualidade
+relationships:
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453181:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:41Z'
   warnings: []
   errors: []
 ---
@@ -130,6 +213,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústr
 
 Secretaria de Estado da Indústria.
 
-**Assinada em 10 de Agosto de 1983.**
+Assinada em 10 de Agosto de 1983.
 
-**O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira.**
+O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira.

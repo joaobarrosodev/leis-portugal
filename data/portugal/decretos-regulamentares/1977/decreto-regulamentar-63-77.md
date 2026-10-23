@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21300/22502253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1977-286099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66e6403a6d628c185d76f863a27a1b7b803a187971418e17dd94d8745ca753aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95425bd49984ffa3f2cb497c443e85ca98d12a52da67efa4c0b86a78cf5ef1f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Departamento Central de Coordenação Económica
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Ministério do Plano e Coordenação Económica
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:297442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:297442:por
+  label: "Revogada a orgânica do ex-Departamento Central de Coordenação Económica, constante do presente diploma, pelo DEC\
+    \ LEI.181/78.17.07.1978.MFP, DR.IS [162] de 17.07.1978, que transferiu as competências referidas nos nºs 2º e 3º deste\
+    \ diploma para o Departamento Central de Planeamento, cujas atribuições constam da Lei 31/77 de 23-Mai DR.IS [119], e\
+    \ acrescentou o quadro de pessoal do extinto Departamento, publicado em anexo ao presente diploma, ao quadro de pessoal\
+    \ do Departamento Central de Planeamento aprovado pelo Dec 877/76 de 29-Dez DR.IS [301] \001] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-1978-297442
+  date: '1978-07-17'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:34Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +220,7 @@ e) Escriturários-dactilógrafos, por concurso de prestação de provas entre in
 
 ###### Artigo 10.º — (Pessoal contratado)
 
-**O Secretário de Estado da Coordenação Económica poderá autorizar que seja contratado além do quadro pessoal destinado a acorrrer as necessidades eventuais ou extraordinárias dos serviços, nos termos legais.**
+O Secretário de Estado da Coordenação Económica poderá autorizar que seja contratado além do quadro pessoal destinado a acorrrer as necessidades eventuais ou extraordinárias dos serviços, nos termos legais.
 
 ###### Artigo 11.º — (Pessoal requisitado)
 
@@ -222,12 +258,12 @@ As dúvidas e omissões que surjam na aplicação do presente diploma são resol
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 1 de Setembro de 1977.**
+Promulgado em 1 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/21300/22502253.pdf))](https://files.diariodarepublica.pt/1s/1977/09/21300/22502253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/21300/22502253.pdf)
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

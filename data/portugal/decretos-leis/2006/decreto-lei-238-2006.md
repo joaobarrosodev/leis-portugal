@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/238/2006/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af35e1bf82914f44be605624c14d6bcf12cceb819c5b9a34f41daee4e187225f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8501beec174d52be59c9d61bede78265fd86a5608e245274d7a75f53faacc2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,39 +69,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- Circulação de Mercadorias
 - Cobrança de Impostos
 - Código de Procedimento e de Processo Tributário
 - Código do Imposto do SELO
 - Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Municipal sobre Imóveis
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Imposto Municipal sobre Imóveis
-- Instituição Religiosa
+- Companhia de Seguros
 - Declaração de Rendimentos
+- Documento Eletrónico
 - Execução Fiscal
-- IPSS
 - Igreja
 - Imposto do SELO
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- Código do Imposto Municipal sobre Imóveis
+- Imposto Municipal sobre Imóveis
+- Instituição Religiosa
+- Internet
+- IPSS
+- IRC
 - IRS
 - IVA
 - Lei Geral Tributária
-- Documento Eletrónico
-- Programa Simplex
-- Circulação de Mercadorias
+- Modernização Administrativa
 - Pessoa Coletiva
 - Pessoa Singular
-- Internet
-- IRC
 - Prémio de Seguro
 - Procedimento Tributário
 - Processo Tributário
+- Programa Simplex
 - Reclamação
 - Restituição de Impostos
-- Companhia de Seguros
 - Seguro de Acidentes Pessoais
 - Seguro de Doença
 - Seguro de VIDA
@@ -112,6 +112,169 @@ relationships:
   target: pt:dre:124793094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 31.º-A do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec\
+    \ Lei 198/2001 de 03-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:636388:por
+  label: "Alterado o art. 28º pelo DEC LEI.277/2007.01.08.2007.MFAP, DR.IS [147] de 01.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-2007-636388
+  date: '2007-08-01'
+- type: amended_by
+  target: pt:dre:629425:por
+  label: "Alterado o art. 119.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec\
+    \ Lei 198/2001 de 03-Jul, e na redacção do presente diploma, pelo DEC LEI.361/2007.02.11.2007.MFAP, DR.IS [211] de 02.11.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-2007-629425
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os arts 112.º e 113.º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, revisto e republicado\
+    \ pelo Dec Lei 198/2001 de 03-Jul, e na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl]\
+    \ de 31.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterado o art. 22º do Regime do IVA nas Transacções Intracomunitárias, aprovado pelo Dec Lei 290/92, de 28-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 112º do Código do IMI, aprovado pelo Dec Lei 287/2003, de 12-Nov, - revisto e republicado pelo Dec\
+    \ Lei 198/2001, de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 52.º do Código do Imposto de Selo, aprovado pela Lei 150/99 de 11-Set, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 287/2003 de 12-Nov, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterado, a partir de 18.07.2009, o art. 113.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:489219:por
+  label: "Alterado o art. 99º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção do presente diploma,\
+    \ pela LEI.100/2009.07.09.2009.AR, DR.IS [173] de 07.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2009-489219
+  date: '2009-09-07'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterado o art. 28º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 55.º, 58º e 60º, do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de\
+    \ 28.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:569757:por
+  label: "Dada nova redacção ao art. 119º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.72-A/2010.18.06.2010.MFAP, DR.IS [117-Supl] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterado o art. 119º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção constante do presente\
+    \ diploma, pela LEI.15/2010.26.07.2010.AR, DR.IS [143] de 26.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 55º e 98º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo Dec\
+    \ Lei 442-A/88, de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela\
+    \ LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 31º-A, 55º, 57º e 119º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 112º [ a nova redação é aplicável ao imposto respeitante aos anos de 2011 e seguintes] do Código\
+    \ do Imposto Municipal sobre Imóveis, aprovado pelo Dec Lei 287/2003, de 12-nov, na redação do presente diploma, pela\
+    \ LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:174543:por
+  label: "Alterado, a partir de 01.01.2013, o art. 8º do regime de bens em circulação objeto de transações entre sujeitos\
+    \ passivos de IVA, aprovado em anexo ao Dec Lei 147/2003, de 11-jul, na redação do presente diploma, pelo DEC LEI.198/2012.24.08.2012.MF,\
+    \ DR.IS [164] de 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2012-174543
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 40.º, 45.º, 48.º, e 52.º do Código do Imposto sobre o Valor Acrescentado,\
+    \ aprovado pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS\
+    \ [164] de 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 119º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 40.º, na redação do presente diploma, do Código do IVA, aprovado pelo Dec lei 394-B/84 de 26-dez,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-jun, pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 55º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 112.º do Código do Imposto Municipal sobre Imóveis (Código do IMI), aprovado pelo Dec Lei 287/2003,
+    de 12-nov, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterado o art. 52.º do Código do Imposto do Selo aprovado pela Lei 150/99, de 11-set, na redação do presente diploma
+    pelo(a) Decreto-Lei n.º 41/2016 - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterados, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, os arts. 40.º e 52.º do Código do IVA,
+    aprovado pelo Dec Lei 394-B/84 de 26-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 28/2019 - Diário da
+    República n.º 33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Alterado, a partir de 01.10.2019, o art. 93.º, do presente diploma, pelo Dec Lei 287/2003 de 12-nov DR.IS-A [262],
+    retificado pela Decl Ret 4/2004 de 09-jan. pelo(a) Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/119-2019-124793094
+  date: '2019-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1998/04/24/p/dre
   label: null
@@ -152,16 +315,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55-b/2004/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55-b/2004/12/30/p/dre
+- type: cites
+  target: pt:dre:176331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:18Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +457,9 @@ Os artigos 31.º-A, 55.º, 57.º, 58.º, 60.º, 98.º, 99.º, 112.º, 113.º, 11
 
 4 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +473,9 @@ Os artigos 31.º-A, 55.º, 57.º, 58.º, 60.º, 98.º, 99.º, 112.º, 113.º, 11
 
 6 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +489,9 @@ b) Os elementos mencionados no n.º 3 do artigo 72.º do Código do IRC, quando 
 
 4 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 ...
 
@@ -242,7 +499,9 @@ a) Rendimentos tributados pelas taxas previstas no artigo 71.º e não optem, qu
 
 b) Rendimentos de pensões pagas por regimes obrigatórios de protecção social, de montante inferior ao da dedução específica estabelecida no n.º 1 do artigo 53.º
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +519,9 @@ ii) De 16 de Abril até 25 de Maio, nos restantes casos.
 
 2 - A declaração a que se refere o número anterior é ainda apresentada nos 30 dias imediatos à ocorrência de qualquer facto que determine alteração dos rendimentos já declarados ou implique, relativamente a anos anteriores obrigação de os declarar, salvo se outro prazo estiver previsto neste Código.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -270,7 +531,9 @@ ii) De 16 de Abril até 25 de Maio, nos restantes casos.
 
 4 - ...
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +547,9 @@ b) A apresentar declaração à entidade devedora dos rendimentos contendo a inf
 
 4 - ...
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -300,13 +565,17 @@ b) A apresentar declaração à entidade devedora dos rendimentos contendo a inf
 
 7 - As declarações referidas nos n.os 1 a 3 podem ser enviadas por transmissão electrónica de dados.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
 2 - A declaração referida no número anterior deve ser enviada, por transmissão electrónica de dados, até final do mês de Junho.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - ...
 
@@ -320,7 +589,9 @@ b) A apresentar declaração à entidade devedora dos rendimentos contendo a inf
 
 6 - Os titulares de rendimentos da categoria B que, não sendo obrigados a dispor de contabilidade organizada, possuam, no entanto, um sistema de contabilidade que satisfaça os requisitos adequados ao correcto apuramento e fiscalização do imposto podem não utilizar os livros referidos no presente artigo.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - ...
 
@@ -358,7 +629,9 @@ c) Incluir na declaração a que se referem as alíneas c) e d) do n.º 1 inform
 
 11 - ...
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 As empresas de seguros devem comunicar à Direcção-Geral dos Impostos, até ao fim do mês de Fevereiro de cada ano, em declaração de modelo oficial, os prémios pagos no ano anterior respeitantes a contratos de seguros de vida que garantam exclusivamente os riscos de morte, invalidez ou reforma por velhice, de acidentes pessoais e, ainda, os que cobrem exclusivamente riscos de saúde, bem como os resgates de apólices de seguros de grupo e os resgates ou adiantamentos de apólices de seguros individuais efectuados antes de terem decorridos cinco anos após a sua constituição, dela devendo constar:
 
@@ -368,7 +641,9 @@ b) ...
 
 c) ...
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 As empresas gestoras dos fundos referidos no artigo 21.º do Estatuto dos Benefícios Fiscais e as entidades gestoras de fundos de pensões e de outros regimes complementares de segurança social, a que se refere o artigo 14.º do mesmo Estatuto, devem comunicar à Direcção-Geral dos Impostos, até fim do mês de Fevereiro de cada ano, em declaração de modelo oficial, relativamente ao ano anterior e a cada sujeito passivo, as importâncias aplicadas no plano ou as contribuições, o reembolso dos respectivos certificados nas condições previstas nos n.os 3 a 6 do mencionado artigo 21.º, bem como, quando diferentes, a identificação fiscal da entidade que constituiu o plano e da entidade que beneficia do resgate ou do reembolso dos certificados e a totalidade das entregas efectuadas por cada uma durante a vigência do plano.»
 
@@ -386,7 +661,9 @@ Os artigos 99.º, 112.º, 113.º, 114.º, 115.º e 116.º do Código do Imposto 
 
 3 - ...
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - A declaração periódica de rendimentos a que se refere a alínea b) do n.º 1 do artigo 109.º deve ser enviada, anualmente, por transmissão electrónica de dados, até ao último dia útil do mês de Maio.
 
@@ -408,7 +685,9 @@ Os artigos 99.º, 112.º, 113.º, 114.º, 115.º e 116.º do Código do Imposto 
 
 10 - ...
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
@@ -422,13 +701,17 @@ Os artigos 99.º, 112.º, 113.º, 114.º, 115.º e 116.º do Código do Imposto 
 
 6 - ...
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
 2 - A autoliquidação de que tenha resultado imposto superior ao devido ou prejuízo fiscal inferior ao efectivo pode ser corrigida por meio de declaração de substituição a apresentar no prazo de um ano a contar do termo do prazo legal.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -446,7 +729,9 @@ Os artigos 99.º, 112.º, 113.º, 114.º, 115.º e 116.º do Código do Imposto 
 
 8 - As entidades referidas no n.º 1 que organizem a sua contabilidade com recurso a meios informáticos devem dispor de capacidade de exportação de ficheiros nos termos e formatos a definir por portaria do Ministro das Finanças.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - ...
 
@@ -476,7 +761,7 @@ Os artigos 26.º, 28.º, 40.º, 42.º, 45.º, 48.º, 50.º e 52.º do Código do
 
 6 - ...
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - ...
 
@@ -526,7 +811,7 @@ i) (Revogada.)
 
 15 - ...
 
-###### Artigo 40.º
+Artigo 40.º
 
 1 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 28.º, a declaração periódica deve ser enviada por transmissão electrónica de dados, nos seguintes prazos:
 
@@ -552,11 +837,11 @@ b) ...
 
 10 - (Revogado.)
 
-###### Artigo 42.º
+Artigo 42.º
 
 Os sujeitos passivos que pratiquem uma só operação tributável nas condições referidas na alínea a) do n.º 1 do artigo 2.º devem apresentar a declaração respectiva em qualquer serviço de finanças até ao último dia do mês seguinte ao da conclusão da operação.
 
-###### Artigo 45.º
+Artigo 45.º
 
 1 - ...
 
@@ -564,7 +849,7 @@ Os sujeitos passivos que pratiquem uma só operação tributável nas condiçõe
 
 3 - (Revogado.)
 
-###### Artigo 48.º
+Artigo 48.º
 
 1 - ...
 
@@ -572,7 +857,7 @@ Os sujeitos passivos que pratiquem uma só operação tributável nas condiçõe
 
 3 - (Revogado.)
 
-###### Artigo 50.º
+Artigo 50.º
 
 1 - ...
 
@@ -586,7 +871,7 @@ Os sujeitos passivos que pratiquem uma só operação tributável nas condiçõe
 
 6 - ...
 
-###### Artigo 52.º
+Artigo 52.º
 
 1 - ...
 
@@ -620,7 +905,9 @@ O artigo 22.º do Regime do IVA nas Transacções Intracomunitárias, abreviadam
 
 6 - ...
 
-###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 147/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2003-667554), de 11 de Julho
+Artigo 5.º
+
+Alteração ao [Decreto-Lei n.º 147/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2003-667554), de 11 de Julho
 
 O artigo 8.º do Regime dos Bens em Circulação Objecto de Transacções entre Sujeitos Passivos de IVA, aprovado pelo [Decreto-Lei n.º 147/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2003-667554), de 11 de Julho, passa a ter a seguinte redacção:
 
@@ -638,7 +925,9 @@ O artigo 8.º do Regime dos Bens em Circulação Objecto de Transacções entre 
 
 6 - ...»
 
-###### Artigo 6.º — Alteração ao [Decreto-Lei n.º 143/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1986-228835), de 16 de Junho
+Artigo 6.º
+
+Alteração ao [Decreto-Lei n.º 143/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1986-228835), de 16 de Junho
 
 Os artigos 4.º, 5.º e 6.º-A do [Decreto-Lei n.º 143/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1986-228835), de 16 de Junho, alterado pelos Decretos-Leis n.os [198/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), de 19 de Junho, e [108/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1998-176331), de 24 de Abril, pela [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, pelo [Decreto-Lei n.º 296/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099), de 21 de Novembro, e pela [Lei n.º 55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), de 30 de Dezembro, que estabelece normas sobre a restituição do IVA às representações diplomáticas e consulares e ao seu pessoal não nacional, passam a ter a seguinte redacção:
 
@@ -652,7 +941,7 @@ Os artigos 4.º, 5.º e 6.º-A do [Decreto-Lei n.º 143/86](https://diariodarepu
 
 4 - No pedido de restituição, as representações diplomáticas ou consulares ou os seus funcionários devem indicar o seu número de identificação fiscal quando legalmente exigível e os dados da sua conta bancária destinada ao crédito dos montantes restituídos, cujo número e demais elementos de identificação são confirmados pela respectiva instituição de crédito no primeiro pedido em que sejam indicados.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - A Direcção de Serviços de Reembolsos consulta o Protocolo do Estado sempre que se ofereçam dúvidas sobre a idoneidade do pedido, a qualidade do peticionário ou a existência de condições de reciprocidade, e fá-lo-á obrigatoriamente nas hipóteses contidas nos n.os 2 e 3 do artigo 3.º
 
@@ -660,7 +949,7 @@ Os artigos 4.º, 5.º e 6.º-A do [Decreto-Lei n.º 143/86](https://diariodarepu
 
 3 - Os originais dos documentos referidos no número anterior devem ser mantidos em arquivo pelo prazo de quatro anos.
 
-###### Artigo 6.º-A
+Artigo 6.º-A
 
 1 - ...
 
@@ -670,7 +959,9 @@ Os artigos 4.º, 5.º e 6.º-A do [Decreto-Lei n.º 143/86](https://diariodarepu
 
 4 - ...»
 
-###### Artigo 7.º — Alteração ao [Decreto-Lei n.º 20/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1990-333523), de 13 de Janeiro
+Artigo 7.º
+
+Alteração ao [Decreto-Lei n.º 20/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1990-333523), de 13 de Janeiro
 
 Os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 20/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1990-333523), de 13 de Janeiro, alterado pela [Lei n.º 52-C/96](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), de 27 de Dezembro, pelo [Decreto-Lei n.º 323/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1998-229103), de 30 de Outubro, e pela [Lei n.º 30-C/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-c-2000-212013), de 29 de Dezembro, que estabelece normas sobre a restituição do IVA às igrejas e comunidades religiosas radicadas no País e às instituições particulares de solidariedade social, passam a ter a seguinte redacção:
 
@@ -690,15 +981,17 @@ Os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 20/90](https://diariodarepubli
 
 7 - A Direcção de Serviços de Reembolsos pode solicitar quaisquer outras informações para apreciação do pedido de reembolso, incluindo a apresentação dos originais dos documentos constantes da relação que acompanha o pedido a que se refere o n.º 1, bem como a prova relativa à limitação constante do n.º 2 do artigo 2.º
 
-###### Artigo 4.º
+Artigo 4.º
 
 Os originais dos documentos constantes da relação que acompanha o pedido de restituição de imposto a que se refere o n.º 1 do artigo anterior devem ser mantidos em arquivo pelo prazo de quatro anos.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Deferido o pedido, a Direcção de Serviços de Reembolsos credita na conta bancária indicada o montante da restituição, no termo dos três meses seguintes à recepção do pedido, excepto no caso dos pedidos referidos n.º 4 do artigo 3.º, em que é creditado até ao final do mês de Junho seguinte.»
 
-###### Artigo 8.º — Alteração ao Código do Imposto do Selo
+Artigo 8.º
+
+Alteração ao Código do Imposto do Selo
 
 Os artigos 28.º e 52.º do Código do Imposto do Selo, aprovado pela [Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/lei/150-1999-571194), de 11 de Setembro, passam a ter a seguinte redacção:
 
@@ -714,7 +1007,9 @@ Os artigos 28.º e 52.º do Código do Imposto do Selo, aprovado pela [Lei n.º 
 
 4 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -722,7 +1017,9 @@ Os artigos 28.º e 52.º do Código do Imposto do Selo, aprovado pela [Lei n.º 
 
 3 - ...»
 
-###### Artigo 9.º — Alteração ao Código do Imposto Municipal sobre Imóveis
+Artigo 9.º
+
+Alteração ao Código do Imposto Municipal sobre Imóveis
 
 Os artigos 37.º, 93.º, 112.º e 128.º do Código do Imposto Municipal sobre Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, abreviadamente designado por Código do IMI, passam a ter a seguinte redacção:
 
@@ -742,7 +1039,9 @@ Os artigos 37.º, 93.º, 112.º e 128.º do Código do Imposto Municipal sobre I
 
 6 - Quando as telas finais e os projectos de loteamento referidos nos n.os 2 e 3 sejam entregues na câmara municipal em suporte digital e aí devidamente aprovadas, tal facto deve constar da declaração a que se refere o n.º 1, ficando o sujeito passivo dispensado de proceder à sua entrega no serviço de finanças.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - Por cada prédio inscrito na matriz é preenchida e entregue ao sujeito passivo uma caderneta predial do modelo aprovado.
 
@@ -754,7 +1053,9 @@ Os artigos 37.º, 93.º, 112.º e 128.º do Código do Imposto Municipal sobre I
 
 5 - Nos casos em que a declaração modelo n.º 1 do IMI é entregue para efeitos de inscrição de prédio urbano ou fracção autónoma na matriz, os notários sempre que intervenham em actos ou contratos que exijam a sua apresentação, podem obtê-la por via electrónica.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -782,7 +1083,9 @@ Os artigos 37.º, 93.º, 112.º e 128.º do Código do Imposto Municipal sobre I
 
 13 - No caso de as deliberações compreenderem zonas delimitadas de freguesias ou prédios individualmente considerados, das comunicações referidas no número anterior deve constar a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -790,7 +1093,9 @@ Os artigos 37.º, 93.º, 112.º e 128.º do Código do Imposto Municipal sobre I
 
 3 - As normas, formatos e procedimentos necessários ao cumprimento do disposto no número anterior são definidos por portaria do Ministro das Finanças, após audição da Associação Nacional de Municípios Portugueses».
 
-###### Artigo 10.º — Alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+Artigo 10.º
+
+Alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
 O artigo 49.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, abreviadamente designado por Código do IMT, passa a ter a seguinte redacção:
 
@@ -806,7 +1111,9 @@ O artigo 49.º do Código do Imposto Municipal sobre as Transmissões Onerosas d
 
 4 - ...»
 
-###### Artigo 11.º — Alteração ao [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro
+Artigo 11.º
+
+Alteração ao [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro
 
 O artigo 15.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-2003-447325), de 12 de Novembro, alterado pela [Lei n.º 55-B/2004](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), de 30 de Dezembro, pelo [Decreto-Lei n.º 211/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2005-490257), de 7 de Dezembro, e pela [Lei n.º 6/2006](https://diariodarepublica.pt/dr/detalhe/lei/6-2006-693853), de 27 de Fevereiro, que aprova o Código do IMI e o Código do IMT, passa a ter a seguinte redacção:
 
@@ -828,7 +1135,9 @@ O artigo 15.º do [Decreto-Lei n.º 287/2003](https://diariodarepublica.pt/dr/de
 
 7 - As plantas de arquitectura previstas no n.º 2 do artigo 37.º do Código do Imposto Municipal sobre Imóveis, a juntar à declaração modelo n.º 1, para efeitos de avaliação dos prédios referidos no n.º 1, são fornecidas gratuitamente pelas câmaras municipais, mediante declaração de que as mesmas se destinam exclusivamente ao cumprimento da obrigação imposta pelo presente artigo, podendo aquelas entidades cobrar apenas os custos associados à reprodução daqueles documentos.»
 
-###### Artigo 12.º — Alteração à lei geral tributária
+Artigo 12.º
+
+Alteração à lei geral tributária
 
 O artigo 54.º da lei geral tributária, aprovada pelo [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de Dezembro, passa a ter a seguinte redacção:
 
@@ -846,7 +1155,9 @@ O artigo 54.º da lei geral tributária, aprovada pelo [Decreto-Lei n.º 398/98]
 
 5 - (Anterior n.º 4.)»
 
-###### Artigo 13.º — Alteração ao Código de Procedimento e de Processo Tributário
+Artigo 13.º
+
+Alteração ao Código de Procedimento e de Processo Tributário
 
 Os artigos 24.º, 31.º, 33.º, 70.º, 73.º, 185.º, 186.º, 188.º, 263.º e 265.º do Código de Procedimento e de Processo Tributário, aprovado pelo [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de Outubro, abreviadamente designado por CPPT, passam a ter a seguinte redacção:
 
@@ -866,19 +1177,25 @@ Os artigos 24.º, 31.º, 33.º, 70.º, 73.º, 185.º, 186.º, 188.º, 263.º e 2
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
 2 - Os editais e os anúncios publicados na imprensa são juntos aos restantes documentos do processo administrativo ou judicial, com indicação do título do jornal e a data e custo da publicação.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O disposto no número anterior não prejudica a obrigação de remessa dos processos concluídos ao órgão da administração tributária competente para a execução da sentença ou acórdão, nos termos previstos neste Código.
 
-###### Artigo 70.º — Apresentação, fundamentos e prazo da reclamação graciosa
+Artigo 70.º
+
+Apresentação, fundamentos e prazo da reclamação graciosa
 
 1 - ...
 
@@ -894,7 +1211,9 @@ Os artigos 24.º, 31.º, 33.º, 70.º, 73.º, 185.º, 186.º, 188.º, 263.º e 2
 
 7 - A reclamação graciosa pode igualmente ser enviada por transmissão electrónica de dados, nos termos definidos em portaria do Ministro das Finanças.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Salvo quando a lei estabeleça em sentido diferente, a reclamação graciosa é dirigida ao órgão periférico regional da administração tributária e instruída, quando necessário, pelo serviço periférico local da área do domicílio ou sede do contribuinte, da situação dos bens ou da liquidação.
 
@@ -908,13 +1227,17 @@ Os artigos 24.º, 31.º, 33.º, 70.º, 73.º, 185.º, 186.º, 188.º, 263.º e 2
 
 6 - ...
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - No procedimento de execução informatizado, todos os actos e diligências do procedimento são efectuados pelo titular do órgão competente para a execução fiscal, sem prejuízo da solicitação referida no número anterior, quando se revele mais eficaz para a cobrança da dívida.
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - ...
 
@@ -926,7 +1249,9 @@ Os artigos 24.º, 31.º, 33.º, 70.º, 73.º, 185.º, 186.º, 188.º, 263.º e 2
 
 5 - Nos processos informatizados, a emissão da carta precatória, quando a ela haja lugar, resulta de procedimento electrónico onde fica registado o acto de emissão pelo órgão deprecante e todos os actos praticados no órgão deprecado, operando este directamente no processo.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - ...
 
@@ -934,11 +1259,15 @@ Os artigos 24.º, 31.º, 33.º, 70.º, 73.º, 185.º, 186.º, 188.º, 263.º e 2
 
 3 - Nos processos informatizados, a instauração é efectuada electronicamente, com a emissão do título executivo, sendo de imediato efectuada a citação.
 
-###### Artigo 263.º — [...]
+Artigo 263.º
+
+[...]
 
 O pagamento coercivo é sempre feito através do documento único de cobrança.
 
-###### Artigo 265.º — [...]
+Artigo 265.º
+
+[...]
 
 1 - O pagamento pode ser efectuado a qualquer tempo, mediante a emissão do respectivo documento único de pagamento.
 
@@ -946,11 +1275,15 @@ O pagamento coercivo é sempre feito através do documento único de cobrança.
 
 3 - ...»
 
-###### Artigo 14.º — Natureza interpretativa
+Artigo 14.º
+
+Natureza interpretativa
 
 A redacção dada pelo presente decreto-lei ao n.º 3 do artigo 22.º do RITI e ao n.º 1 do artigo 28.º do Código do Imposto do Selo, aprovado pela [Lei n.º 150/99](https://diariodarepublica.pt/dr/detalhe/lei/150-1999-571194), de 11 de Setembro, tem natureza interpretativa.
 
-###### Artigo 15.º — Norma revogatória
+Artigo 15.º
+
+Norma revogatória
 
 São revogados:
 
@@ -962,7 +1295,9 @@ c) A alínea i) do n.º 1 do artigo 28.º, os n.os 2 e 10 do artigo 40.º, o n.�
 
 d) O n.º 2 do artigo 265.º do Código de Procedimento e de Processo Tributário.
 
-###### Artigo 16.º — Vigência e produção de efeitos
+Artigo 16.º
+
+Vigência e produção de efeitos
 
 1 - Sem prejuízo do disposto nos números seguintes, o presente decreto-lei entra em vigor em 1 de Janeiro de 2007.
 
@@ -976,12 +1311,12 @@ d) O n.º 2 do artigo 265.º do Código de Procedimento e de Processo Tributári
 
 Visto e aprovado em Conselho de Ministros de 28 de Setembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues.
 
-**Promulgado em 22 de Novembro de 2006.**
+Promulgado em 22 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 4 de Dezembro de 2006.**
+Referendado em 4 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,40 +46,184 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1986-222470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 008f08d90d0b0597a8a2375e6fa5ce15e3700bd71d4e9141d8f736b3bfa5f2e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6607164d5c7ad9c4601acf72f82e050e79e3bc8f7a3182e272991bd1785dad45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura do Ribatejo e Oeste
+- Orgânica
+- Quadro de Pessoal
+- Ribatejo
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494849:por
+  label: "Alterado o quadro de pessoal pela PORT.748/87.01.09.1987.MF, DR.IS [200] de 01.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/748-1987-494849
+  date: '1987-09-01'
+- type: amended_by
+  target: pt:dre:379758:por
+  label: "Alterado o quadro de pessoal pela PORT.574/88.22.08.1988.MF, DR.IS [193] de 22.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-1988-379758
+  date: '1988-08-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Determinada a transferência da Zona Agrária de Leiria para a Direcção Regional de Agricultura da Beira Litoral,\
+    \ cuja orgânica consta do DR 38/87 de 27-Jun, pelo DEC LEI.184/90.06.06.1990.MAPA, DR.IS [130] de 06.06.1990 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:574931:por
+  label: "Determinada a transferência da Zona Agrária de Leiria para a Direcção Regional de Agricultura da Beira Litoral,\
+    \ cuja orgânica consta do DR 38/87 de 27-Jun, pelo DEC LEI.184/90.06.06.1990.MAPA, DR.IS [130] de 06.06.1990 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1990-574931
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Determinada a afectação à Direcção-Geral de Planeamento da Agricultura, cuja orgânica consta do DR 24/88 de 09-Jun,\
+    \ da Quinta da Sarrazola, no município de Sintra, e dos demais bens imóveis que integram o legado instituído a favor do\
+    \ Estado, pelo Dr. António Brandão Vasconcelos e Esposa, actualmente dependentes da Direcção Regional de Agricultura do\
+    \ Ribatejo e Oeste, cuja orgânica e atribuições constam do presente diploma, pelo DR.43/90.19.12.1990.MAPA, DR.IS [291]\
+    \ de 19.12.1990, que alterou, no referente ao pessoal técnico, técnico-profissional, administrativo, auxiliar técnico,\
+    \ auxiliar e agrícola, o quadro de pessoal da Direcção Regional de Agricultura do Ribatejo e Oeste. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 221/91, PUBLICADO NO DR.IS-B, 231.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-08'
+- type: amended_by
+  target: pt:dre:288231:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção Regional de Agricultura do Ribatejo
+    e Oeste pelo(a) Despacho Normativo n.º 221/91 - Diário da República n.º 231/1991, Série I-B de 1991-10-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/221-1991-288231
+  date: '1991-10-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA, 182/92, PUBLICADA NO DR.IS-B, 63.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-03-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 92/93, PUBLICADO NO DR.IS-B, 131.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 101/93, PUBLICADO NO DR.IS-B, 136.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-06-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO REGIONAL DE AGRICULTURA DO RIBATEJO OESTE, PELO DESPACHO NORMATIVO 138/93,
+    PUBLICADO NO DR.IS-B, 156.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 142/93, DE 8 DE JUNHO DE 1993, PUBLICADO NO DR.IS-B, 157.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 263/93, DE 24 DE AGOSTO, PUBLICADO NO DR.IS-B, 214.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-11'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 319/93, DE 16 DE SETEMBRO, PUBLICADO NO DR.IS-B, 239.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO REGIONAL DE AGRICULTURA DO RIBATEJO E OESTE, PELO DESPACHO NORMATIVO 489/93,
+    DE 6 DE DEZEMBRO, PUBLICADO NO DR.IS-B, 304.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-31'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas de Lisboa e Vale do Tejo suceda nas atribuições da Direcção\
+    \ Regional de Agricultura do Ribatejo e Oeste, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:36Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +296,7 @@ e) Divisão de Protecção à Produção Vegetal;
 
 4) Serviços operativos de âmbito local:
 
-##### Divisão da Zona Agrária.
+Divisão da Zona Agrária.
 
 ###### Artigo 4.º — (Órgãos)
 
@@ -464,16 +608,16 @@ Os concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Mapa anexo a que se refere o n.º 1 do artigo 18.º do Decreto Regulamentar n.º 55/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29522961.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29522961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29522961.pdf)

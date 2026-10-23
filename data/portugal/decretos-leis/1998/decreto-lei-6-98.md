@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/010a00/01510153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/1998/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1998-240017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c3bb0ae485c1b6eabab335239350c97dd6cf31751b2dd36419afb39639c186b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54a09a5dbf5eb0129bac0a1d0a4a481b72845fffe81461151d65eddba3e86b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Centro Nacional de Pensões
-- Pessoal Dirigente
-- Direito Público
 - Base de Dados
+- Centro Nacional de Pensões
+- Direito Público
 - Orgânica
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pessoa Coletiva
-- Sistema de Informação
+- Pessoal Dirigente
 - Prestações da Segurança Social
 - Proteção Social
 - Regimes de Segurança Social
 - Segurança Social
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:325765:por
@@ -98,16 +98,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/17/1992/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/17/1992/07/22/p/dre
+- type: cites
+  target: pt:dre:292498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325765:por
+  label: "Revogado pelo DEC LEI.316-A/2000.2000.12.07.MTS DR.IS-A [282]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-a-2000-325765
+  date: '2000-12-07'
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:13Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +157,9 @@ Natureza jurídica
 
 O Centro Nacional de Pensões, adiante designado por CNP, é a instituição de segurança social de âmbito nacional responsável pela gestão dos regimes de segurança social no domínio das prestações diferidas, dotada de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.
 
-###### Artigo 4.º — Atribuições
+Artigo 4.º
+
+Atribuições
 
 São atribuições do CNP:
 
@@ -162,7 +185,9 @@ j) Assegurar a produção e desenvolvimento, instalação e manutenção do soft
 
 l) Realizar acções de auditoria no domínio da atribuição das prestações diferidas, no âmbito das suas competências.
 
-###### Artigo 5.º — Órgãos
+Artigo 5.º
+
+Órgãos
 
 São órgãos do CNP:
 
@@ -170,7 +195,9 @@ a) O conselho directivo;
 
 b) O conselho consultivo.
 
-###### Artigo 6.º — Composição e competência do conselho directivo
+Artigo 6.º
+
+Composição e competência do conselho directivo
 
 1 - O conselho directivo é o órgão de gestão do CNP, sendo composto por um presidente, com categoria equiparada à de director-geral, e dois vogais, com categoria equiparada à de subdirector-geral.
 
@@ -178,7 +205,9 @@ b) O conselho consultivo.
 
 3 - (Actual n.º 2.)
 
-###### Artigo 9.º — Serviços
+Artigo 9.º
+
+Serviços
 
 O CNP dispõe dos seguintes serviços:
 
@@ -206,7 +235,9 @@ l) Direcção de Serviços de Auditoria;
 
 m) ...
 
-###### Artigo 17.º — Direcção de Serviços de Auditoria
+Artigo 17.º
+
+Direcção de Serviços de Auditoria
 
 Compete à Direcção de Serviços de Auditoria:
 
@@ -254,7 +285,9 @@ d) Medidas de racionalização, desburocratização e simplificação administra
 
 e) Outros assuntos que o presidente do conselho consultivo decida submeter à sua apreciação.
 
-###### Artigo 8.º-B — Funcionamento do conselho
+Artigo 8.º-B
+
+Funcionamento do conselho
 
 1 - O conselho reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por iniciativa própria ou a solicitação da maioria dos seus membros.
 
@@ -268,12 +301,12 @@ Os dirigentes das unidades orgânicas do CNP que não são extintas ou reorganiz
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Dezembro de 1997.**
+Promulgado em 22 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1997.**
+Referendado em 30 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

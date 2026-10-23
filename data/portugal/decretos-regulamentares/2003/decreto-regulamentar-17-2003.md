@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/235b00/66886689.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/2003/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2003-481939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1e59c045d5d5286d77a02dbda738f3771a3b644db5ea2ea18baa2859f1d37cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fb7388743a30c2e5adbffb738d3a083a42daa155239034532353fe358ea1a3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Animação Ambiental
-- Definição de Competências
-- Turismo de Natureza
-- Direcção Geral do Turismo
 - Comissão de Coordenação e Desenvolvimento Regional
-- Instituto do Desporto de Portugal
-- Instituto da Conservação da Natureza
-- Licenciamento
-- Zona de Proteção
+- Definição de Competências
 - Desporto
+- Direcção Geral do Turismo
+- Instituto da Conservação da Natureza
+- Instituto do Desporto de Portugal
+- Licenciamento
+- Turismo de Natureza
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:608703:por
@@ -94,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/18/1999/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/18/1999/08/27/p/dre
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580977:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608703:por
+  label: "Revogado, a partir de 14.06.2009, pelo DEC LEI.108/2009.15.05.2009.MEI, DR.IS [94] de 15.05.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2009-608703
+  date: '2009-05-15'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:27Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +173,9 @@ f) Outras associações e demais pessoas colectivas sem fins lucrativos, cujo ob
 
 7 - As licenças podem ser renovadas desde que se destinem à mesma situação objecto da licença e se verifiquem os pressupostos que determinaram a sua atribuição.
 
-###### Artigo 12.º — Conteúdo da licença
+Artigo 12.º
+
+Conteúdo da licença
 
 ...
 
@@ -172,7 +191,9 @@ e) O prazo para o pedido de renovação da licença;
 
 f) [Anterior alínea d)].
 
-###### Artigo 16.º — Taxas
+Artigo 16.º
+
+Taxas
 
 1 - São devidas taxas pela concessão e renovação das licenças emitidas ao abrigo do presente diploma.
 
@@ -180,7 +201,9 @@ f) [Anterior alínea d)].
 
 3 - ...
 
-###### Artigo 17.º — Fiscalização
+Artigo 17.º
+
+Fiscalização
 
 Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete às autoridades policiais, ao Instituto da Conservação da Natureza (ICN) e às comissões de coordenação e desenvolvimento regional (CCDR).»
 
@@ -190,12 +213,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

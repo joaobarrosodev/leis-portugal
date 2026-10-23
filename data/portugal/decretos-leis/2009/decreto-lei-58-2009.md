@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2009/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2009-604672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 050fe42179f8a25fb016a6496fb2cc0cd1aed4a84306c64d8371aa11670ddb08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f825f53d1ec36b69df242e65961b936908360c092eeb56c8d6cd9f5ec8df2e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Farmacêutica
-- Infarmed
-- Criança
+- Comércio
 - Contra-ordenação
+- Criança
 - Etiquetagem
 - Fiscalização
-- Medicamento
-- Informação do Consumidor
-- Produto Farmacêutico
+- Indústria Farmacêutica
+- Infarmed
 - Informação de Saúde
+- Informação do Consumidor
+- Medicamento
+- Produto Farmacêutico
 - Regulamento CE
-- Comércio
 relationships:
 - type: cites
   target: celex:31992R1768
@@ -108,13 +108,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:55Z'
   warnings: []
   errors: []
 ---
@@ -245,12 +245,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Teresa Gonçalves Ribeiro - Alberto Bernardes Costa - Ana Maria Teodoro Jorge.
 
-**Promulgado em 16 de Fevereiro de 2009.**
+Promulgado em 16 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2009.**
+Referendado em 17 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

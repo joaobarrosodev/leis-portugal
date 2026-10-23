@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/1998/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1998-197158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbe19ba88746bc98ffe7f29903d8139d718c3cc810d9acb3d1ff2fc3503b2979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ebf729031b432878a6e5d713166e568cc8552ca7ffa35cadd5620b94a631a73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Comissão de Normalização Contabilística da Administração Pública
 - Definição de Competências
-- Ministro das Finanças
 - Direção Geral do Orçamento
+- Ministro das Finanças
 - Orgânica
 - Plano Oficial de Contabilidade Pública
 - Remuneração
@@ -78,20 +78,32 @@ relationships:
   target: pt:dre:145590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinta a Comissão de Normalização Contabilística da Administração Pública, criada pelo Dec Lei 232/97, de 03-Set,\
+    \ e cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011,\
+    \ que determina, nos termos dos art.s 30º e 31º, a fusão e integração das suas atribuições na Comissão de Normalização\
+    \ Contabilística.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre
+- type: cites
+  target: pt:dre:641123:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:23Z'
   warnings: []
   errors: []
 ---
@@ -190,12 +202,12 @@ Os encargos com a execução do presente diploma são suportados pelo orçamento
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Março de 1998.**
+Referendado em 11 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

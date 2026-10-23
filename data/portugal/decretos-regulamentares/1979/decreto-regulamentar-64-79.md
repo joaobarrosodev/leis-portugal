@@ -47,40 +47,115 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/64-1979-366629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 478d3b0768af8b684c481e1ac996d31796d51dc0768aec6c50d4996e7a9b60ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fff4a640f04376825ddef708ddb353a7be5b69c00cd025dfb4d7e6807128e230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Estatística
+- Gabinete de Estudos e Planeamento de Transportes e Comunicações
+- Informática
+- Ministério dos Transportes e Comunicações
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:227444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575943:por
+  label: "Criado um lugar de assessor no quadro de pessoal anexo ao presente diploma, pela PORT.723/81.25.08.1981.MFP, DR.IS\
+    \ [194] de 25.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/723-1981-575943
+  date: '1981-08-25'
+- type: amended_by
+  target: pt:dre:577944:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos e Planeamento de Transportes e Comunicações pela PORT.727/81.27.08.1981.MFP,\
+    \ DR.IS [196] de 27.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/727-1981-577944
+  date: '1981-08-27'
+- type: amended_by
+  target: pt:dre:327296:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pela PORT.107/85.1985.02.20.PCM DR.IS [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-1985-327296
+  date: '1985-02-20'
+- type: amended_by
+  target: pt:dre:1428403:por
+  label: "Alterado o quadro de pessoal pela PORT.90/86.1986.03.15.MF DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-1986-1428403
+  date: '1986-03-15'
+- type: amended_by
+  target: pt:dre:227444:por
+  label: "Alterado o quadro de pessoal, na parte referente à carreira técnica superior, pela PORT.180/86.06.05.1986.MF, DR.IS\
+    \ [103] de 06.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/180-1986-227444
+  date: '1986-05-06'
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:50Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +186,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Gabinete de Estudos e Planeamento de Transportes e Comunicações (GEPTC), adiante designado abreviadamente por Gabinete, constitui o departamento sectorial de planeamento e programação económica previsto na [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e é um órgão de estudo, coordenação e apoio técnico aos membros do Governo do Ministério dos Transportes e Comunicações, directamente dependente do Ministro respectivo.
+Artigo 1.º O Gabinete de Estudos e Planeamento de Transportes e Comunicações (GEPTC), adiante designado abreviadamente por Gabinete, constitui o departamento sectorial de planeamento e programação económica previsto na [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e é um órgão de estudo, coordenação e apoio técnico aos membros do Governo do Ministério dos Transportes e Comunicações, directamente dependente do Ministro respectivo.
 
-###### Art. 2.º As atribuições do Gabinete, no âmbito da missão que lhe é confiada, de acordo com o artigo 1.º, exercem-se fundamentalmente nos seguintes domínios:
+Art. 2.º As atribuições do Gabinete, no âmbito da missão que lhe é confiada, de acordo com o artigo 1.º, exercem-se fundamentalmente nos seguintes domínios:
 
 a) Planeamento e contrôle;
 
@@ -127,7 +202,7 @@ e) Informática;
 
 f) Relações internacionais.
 
-###### Art. 3.º No exercício das suas atribuições compete, nomeadamente, ao Gabinete:
+Art. 3.º No exercício das suas atribuições compete, nomeadamente, ao Gabinete:
 
 1 - Em matéria de planeamento e contrôle, de acordo com o processo de planeamento e contrôle definido a nível central:
 
@@ -201,7 +276,7 @@ c) Estudar e propor estratégias de cooperação externa no sector dos transport
 
 d) Coordenar as relações do Ministério dos Transportes e Comunicações com organismos e entidades estrangeiras e internacionais, no âmbito da cooperação técnica, económica e financeira.
 
-###### Art. 4.º - 1 - Para o desempenho das atribuições que lhe são cometidas pelo presente diploma, o Gabinete articulará a sua actividade com a de outros serviços ou entidades públicas ou privadas que intervenham em matéria de planeamento, nomeadamente:
+Art. 4.º - 1 - Para o desempenho das atribuições que lhe são cometidas pelo presente diploma, o Gabinete articulará a sua actividade com a de outros serviços ou entidades públicas ou privadas que intervenham em matéria de planeamento, nomeadamente:
 
 a) As direcções-gerais e organismos equiparados do Ministério;
 
@@ -217,11 +292,11 @@ d) Os órgãos de participação da orgânica de planeamento.
 
 ### CAPÍTULO II — Organização Interna
 
-###### Art. 5.º - 1 - O Gabinete é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral.
+Art. 5.º - 1 - O Gabinete é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral.
 
 2 - O director será coadjuvado por um subdirector, equiparado, para todos os efeitos legais, a subdirector-geral, que o substituirá nas suas faltas e impedimentos.
 
-###### Art. 6.º O Gabinete compreenderá os departamentos seguintes:
+Art. 6.º O Gabinete compreenderá os departamentos seguintes:
 
 a) Direcção de Serviços de Planeamento e Contrôle;
 
@@ -239,25 +314,25 @@ g) Repartição de Desenho, Cartografia e Reprografia;
 
 h) Centro de Documentação e Informação.
 
-###### Art. 7.º A Direcção de Serviços de Planeamento e Contrôle compreenderá as divisões seguintes:
+Art. 7.º A Direcção de Serviços de Planeamento e Contrôle compreenderá as divisões seguintes:
 
 a) Divisão de Planeamento;
 
 b) Divisão de Programação e Contrôle.
 
-###### Art. 8.º - 1 - À Direcção de Serviços de Planeamento e Contrôle compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a planeamento e contrôle.
+Art. 8.º - 1 - À Direcção de Serviços de Planeamento e Contrôle compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a planeamento e contrôle.
 
 2 - A Divisão de Planeamento ocupar-se-á das tarefas necessárias à preparação dos planos sectoriais de desenvolvimento e à sua coordenação com os planos nacionais e regionais, da preparação e avaliação dos programas de medidas de política sectorial e ainda da promoção do aperfeiçoamento do processo de planeamento do sector.
 
 3 - A Divisão de Programação e Contrôle ocupar-se-á da elaboração, acompanhamento e contrôle da realização dos programas de investimentos anuais, da elaboração dos respectivos relatórios de execução e ainda da promoção do aperfeiçoamento do processo de programação e contrôle do sector.
 
-###### Art. 9.º A Direcção de Serviços de Estudos compreenderá as divisões seguintes:
+Art. 9.º A Direcção de Serviços de Estudos compreenderá as divisões seguintes:
 
 a) Divisão de Transportes Interiores;
 
 b) Divisão de Transportes Exteriores.
 
-###### Art. 10.º - 1 - À Direcção de Serviços de Estudos compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a estudos.
+Art. 10.º - 1 - À Direcção de Serviços de Estudos compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a estudos.
 
 2 - A Divisão de Transportes Interiores ocupar-se-á do sistema de transportes que serve o continente.
 
@@ -267,33 +342,33 @@ a) Os transportes internacionais;
 
 b) Os transportes com as Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 11.º A Direcção de Serviços de Coordenação Empresarial compreenderá as divisões seguintes:
+Art. 11.º A Direcção de Serviços de Coordenação Empresarial compreenderá as divisões seguintes:
 
 a) Divisão de Desenvolvimento Empresarial;
 
 b) Divisão de Acompanhamento Empresarial.
 
-###### Art. 12.º - 1 - À Direcção de Serviços de Coordenação Empresarial compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente à coordenação empresarial.
+Art. 12.º - 1 - À Direcção de Serviços de Coordenação Empresarial compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente à coordenação empresarial.
 
 2 - A Divisão de Desenvolvimento Empresarial ocupar-se-á dos instrumentos de gestão numa óptica de médio prazo e desenvolverá os estudos considerados necessários ao desempenho das funções do Gabinete no âmbito empresarial.
 
 3 - A Divisão de Acompanhamento Empresarial ocupar-se-á do acompanhamento e contrôle periódico da vida das empresas, tendo como base os instrumentos previsionais de gestão e os documentos de prestação de contas.
 
-###### Art. 13.º À Direcção de Serviços de Estatística compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a estatística e informática.
+Art. 13.º À Direcção de Serviços de Estatística compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a estatística e informática.
 
-###### Art. 14.º À Direcção de Serviços de Relações Internacionais e Integração Europeia compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a relações internacionais e, em especial, os assuntos decorrentes da integração europeia.
+Art. 14.º À Direcção de Serviços de Relações Internacionais e Integração Europeia compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a relações internacionais e, em especial, os assuntos decorrentes da integração europeia.
 
-###### Art. 15.º - 1 - A Repartição Administrativa compreende:
+Art. 15.º - 1 - A Repartição Administrativa compreende:
 
 a) Secção de expediente, arquivo e pessoal;
 
 b) Secção de contabilidade e património.
 
-###### Art. 16.º A Repartição Administrativa ocupar-se-á dos assuntos relativos a administração.
+Art. 16.º A Repartição Administrativa ocupar-se-á dos assuntos relativos a administração.
 
-###### Art. 17.º A Repartição de Desenho, Cartografia e Reprografia ocupar-se-á dos assuntos relativos a mecanografia, desenho, cartoteca, impressão e reprodução de cartas e documentos.
+Art. 17.º A Repartição de Desenho, Cartografia e Reprografia ocupar-se-á dos assuntos relativos a mecanografia, desenho, cartoteca, impressão e reprodução de cartas e documentos.
 
-###### Art. 18.º Ao Centro de Documentação e Informação compete:
+Art. 18.º Ao Centro de Documentação e Informação compete:
 
 a) Organizar um centro de documentação e informação em matéria de planeamento, programação, informática, estatística e relações internacionais;
 
@@ -303,23 +378,23 @@ c) Colaborar com as entidades competentes na matéria no sentido do contínuo ap
 
 d) Divulgar os conhecimentos considerados de interesse nas áreas de planeamento, programação, informática, estatística e relações internacionais.
 
-###### Art. 19.º O Centro de Documentação e Informação será coordenado por um técnico superior designado pelo director do Gabinete.
+Art. 19.º O Centro de Documentação e Informação será coordenado por um técnico superior designado pelo director do Gabinete.
 
-###### Art. 20.º Junto do Gabinete, e presidida pelo seu director, funcionará a Comissão de Planeamento dos Transportes e Comunicações, com vista a assegurar a coordenação das actividades a prosseguir no âmbito do planeamento pelos vários departamentos e entidades do sector.
+Art. 20.º Junto do Gabinete, e presidida pelo seu director, funcionará a Comissão de Planeamento dos Transportes e Comunicações, com vista a assegurar a coordenação das actividades a prosseguir no âmbito do planeamento pelos vários departamentos e entidades do sector.
 
-###### Art. 21.º Junto do Gabinete, nos termos do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março, funcionará a Comissão Consultiva de Estatística do Ministério dos Transportes e Comunicações (CCETC), órgão que se ocupará de assuntos de natureza estatística que interessam aos diversos departamentos e serviços do Ministério ou empresas por ele tuteladas, exercendo a sua actividade em estreita colaboração com os restantes órgãos do sistema estatístico nacional.
+Art. 21.º Junto do Gabinete, nos termos do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março, funcionará a Comissão Consultiva de Estatística do Ministério dos Transportes e Comunicações (CCETC), órgão que se ocupará de assuntos de natureza estatística que interessam aos diversos departamentos e serviços do Ministério ou empresas por ele tuteladas, exercendo a sua actividade em estreita colaboração com os restantes órgãos do sistema estatístico nacional.
 
-###### Art. 22.º Junto do Gabinete funcionará a Comissão Consultiva de Informática do Ministério dos Transportes e Comunicações (CCITC), órgão que se ocupará de assuntos de natureza informática que interessam aos diversos departamentos e serviços do Ministério ou empresas por ele tuteladas, exercendo a sua actividade em estreita colaboração com os órgãos responsáveis da política informática.
+Art. 22.º Junto do Gabinete funcionará a Comissão Consultiva de Informática do Ministério dos Transportes e Comunicações (CCITC), órgão que se ocupará de assuntos de natureza informática que interessam aos diversos departamentos e serviços do Ministério ou empresas por ele tuteladas, exercendo a sua actividade em estreita colaboração com os órgãos responsáveis da política informática.
 
-###### Art. 23.º - 1 - A composição e competência das comissões referidas nos artigos anteriores serão estabelecidas por despacho ministerial.
+Art. 23.º - 1 - A composição e competência das comissões referidas nos artigos anteriores serão estabelecidas por despacho ministerial.
 
 2 - As comissões referidas nos artigos anteriores estabelecerão as suas normas internas de funcionamento, a aprovar por despacho ministerial.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 24.º A dotação e remuneração do pessoal do quadro do Gabinete são as constantes do quadro anexo a este diploma, que dele fica a constituir parte integrante.
+Art. 24.º A dotação e remuneração do pessoal do quadro do Gabinete são as constantes do quadro anexo a este diploma, que dele fica a constituir parte integrante.
 
-###### Art. 25.º O pessoal do Gabinete agrupar-se-á de harmonia com a classificação seguinte:
+Art. 25.º O pessoal do Gabinete agrupar-se-á de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
@@ -331,35 +406,35 @@ d) Pessoal técnico-profissional e administrativo;
 
 e) Pessoal auxiliar e operário.
 
-###### Art. 26.º - 1 - O pessoal dirigente do Gabinete será recrutado e provido nos termos previstos na lei geral.
+Art. 26.º - 1 - O pessoal dirigente do Gabinete será recrutado e provido nos termos previstos na lei geral.
 
 2 - Ao pessoal dirigente do Gabinete é aplicável o regime geral previsto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 27.º O chefe da Repartição Administrativa será provido por despacho do Ministro, sob proposta do director do Gabinete, de entre indivíduos de reconhecido mérito e com curso superior adequado ou de entre chefes de secção da carreira administrativa com três anos de bom e efectivo serviço na categoria.
+Art. 27.º O chefe da Repartição Administrativa será provido por despacho do Ministro, sob proposta do director do Gabinete, de entre indivíduos de reconhecido mérito e com curso superior adequado ou de entre chefes de secção da carreira administrativa com três anos de bom e efectivo serviço na categoria.
 
-###### Art. 28.º O chefe da Repartição de Desenho, Cartografia e Reprografia será provido por despacho do Ministro, sob proposta do director do Gabinete, de entre indivíduos de reconhecido mérito e com curso superior adequado.
+Art. 28.º O chefe da Repartição de Desenho, Cartografia e Reprografia será provido por despacho do Ministro, sob proposta do director do Gabinete, de entre indivíduos de reconhecido mérito e com curso superior adequado.
 
-###### Art. 29.º - 1 - O ingresso nas carreiras de pessoal técnico superior e de pessoal técnico efectuar-se-á na categoria mais baixa de cada carreira, através de concurso documental, de entre indivíduos que possuam, respectivamente, licenciatura adequada e curso superior adequado que não confira o grau de licenciatura.
+Art. 29.º - 1 - O ingresso nas carreiras de pessoal técnico superior e de pessoal técnico efectuar-se-á na categoria mais baixa de cada carreira, através de concurso documental, de entre indivíduos que possuam, respectivamente, licenciatura adequada e curso superior adequado que não confira o grau de licenciatura.
 
 2 - O acesso a categoria superior, dentro daquelas carreiras, far-se-á, através de concurso documental, de entre indivíduos que tenham permanecido, pelo menos, três anos na categoria imediatamente inferior e com classificação de serviço não inferior a Bom.
 
 3 - O recrutamento para a categoria de assessor far-se-á nos termos da lei geral.
 
-###### Art. 30.º Os chefes de secção serão providos por escolha do Ministro, sob proposta do director do Gabinete, de entre os primeiros-oficiais com três anos de bom e efectivo serviço na categoria ou indivíduos diplomados com curso superior adequado.
+Art. 30.º Os chefes de secção serão providos por escolha do Ministro, sob proposta do director do Gabinete, de entre os primeiros-oficiais com três anos de bom e efectivo serviço na categoria ou indivíduos diplomados com curso superior adequado.
 
-###### Art. 31.º O provimento nas carreiras administrativas e de escriturários-dactilógrafos far-se-á observado o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 31.º O provimento nas carreiras administrativas e de escriturários-dactilógrafos far-se-á observado o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 32.º O recrutamento de técnicos auxiliares far-se-á de entre indivíduos com o curso geral dos liceus ou habilitação equivalente.
+Art. 32.º O recrutamento de técnicos auxiliares far-se-á de entre indivíduos com o curso geral dos liceus ou habilitação equivalente.
 
-###### Art. 33.º O recrutamento de desenhadores-cartógrafos e desenhadores far-se-á de entre indivíduos com o curso geral dos liceus ou habilitação equivalente e, respectivamente, dois anos e um ano de experiência profissional comprovada.
+Art. 33.º O recrutamento de desenhadores-cartógrafos e desenhadores far-se-á de entre indivíduos com o curso geral dos liceus ou habilitação equivalente e, respectivamente, dois anos e um ano de experiência profissional comprovada.
 
-###### Art. 34.º O recrutamento de compositores mecanográficos far-se-á de entre indivíduos com o curso geral dos liceus ou habilitação equivalente e dois anos de experiência profissional comprovada.
+Art. 34.º O recrutamento de compositores mecanográficos far-se-á de entre indivíduos com o curso geral dos liceus ou habilitação equivalente e dois anos de experiência profissional comprovada.
 
-###### Art. 35.º O recrutamento de impressores de offset far-se-á de entre indivíduos que possuam a escolaridade obrigatória e experiência profissional comprovada.
+Art. 35.º O recrutamento de impressores de offset far-se-á de entre indivíduos que possuam a escolaridade obrigatória e experiência profissional comprovada.
 
-###### Art. 36.º O recrutamento de operadores de reprografia far-se-á de entre indivíduos com a escolaridade obrigatória, sendo dada preferência ao pessoal auxiliar.
+Art. 36.º O recrutamento de operadores de reprografia far-se-á de entre indivíduos com a escolaridade obrigatória, sendo dada preferência ao pessoal auxiliar.
 
-###### Art. 37.º - 1 - O pessoal referido nos artigos 32.º, 33.º, 34.º e 35.º será admitido, pela categoria mais baixa da respectiva carreira, de entre indivíduos que reúnam as necessárias condições legais pela forma seguinte:
+Art. 37.º - 1 - O pessoal referido nos artigos 32.º, 33.º, 34.º e 35.º será admitido, pela categoria mais baixa da respectiva carreira, de entre indivíduos que reúnam as necessárias condições legais pela forma seguinte:
 
 a) Técnicos auxiliares - através de concurso documental;
 
@@ -367,33 +442,33 @@ b) Desenhadores-cartógrafos, desenhadores, compositores mecanográficos, impres
 
 2 - O acesso do pessoal referido neste artigo far-se-á, dentro de cada carreira, de entre os funcionários que contem, pelo menos, três anos de bom e efectivo serviço na categoria imediatamente anterior, pela forma estabelecida para a admissão.
 
-###### Art. 38.º O ingresso e a mudança de categoria ou de classe nas carreiras de telefonista, motorista, contínuo e porteiro, bem como o provimento na categoria de encarregado de pessoal auxiliar, far-se-ão nos termos da lei geral.
+Art. 38.º O ingresso e a mudança de categoria ou de classe nas carreiras de telefonista, motorista, contínuo e porteiro, bem como o provimento na categoria de encarregado de pessoal auxiliar, far-se-ão nos termos da lei geral.
 
-###### Art. 39.º - 1 - O provimento do pessoal do Gabinete será feito por nomeação provisória durante o período de um ano, salvo os casos de provimento por contrato nos termos da lei geral.
+Art. 39.º - 1 - O provimento do pessoal do Gabinete será feito por nomeação provisória durante o período de um ano, salvo os casos de provimento por contrato nos termos da lei geral.
 
 2 - Findo o prazo referido no número anterior, o funcionário será provido definitivamente se tiver revelado aptidão para o lugar, ou exonerado em caso contrário.
 
 3 - Se o funcionário nomeado já tiver provimento definitivo noutro lugar da função pública, será provido definitivamente.
 
-###### Art. 40.º Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável à realização dos trabalhos que não possam ser assegurados pelo pessoal permanente.
+Art. 40.º Sem prejuízo das normas sobre excedentes de pessoal, poderá ser contratado além do quadro o pessoal indispensável à realização dos trabalhos que não possam ser assegurados pelo pessoal permanente.
 
-###### Art. 41.º - 1 - Quando as exigências do serviço o imponham, poderá, mediante despacho do Ministro ou Ministros respectivos, ser requisitado pessoal a outros serviços ou Ministérios.
+Art. 41.º - 1 - Quando as exigências do serviço o imponham, poderá, mediante despacho do Ministro ou Ministros respectivos, ser requisitado pessoal a outros serviços ou Ministérios.
 
 2 - No caso de se verificar a requisição de funcionários nos termos do número anterior, o lugar de origem do funcionário requisitado pode ser provido interinamente.
 
 3 - O tempo de serviço prestado pelo funcionário requisitado será contado, para todo e qualquer efeito, como se fosse prestado no quadro de origem.
 
-###### Art. 42.º - 1 - Para a realização de estudos especializados, poderão ser destacados temporariamente para o Gabinete, por despacho ministerial e mediante proposta do director, técnicos de outros departamentos do Ministério dos Transportes e Comunicações.
+Art. 42.º - 1 - Para a realização de estudos especializados, poderão ser destacados temporariamente para o Gabinete, por despacho ministerial e mediante proposta do director, técnicos de outros departamentos do Ministério dos Transportes e Comunicações.
 
 2 - O pessoal destacado nos termos do número anterior considerar-se-á, para todos os efeitos legais e enquanto permanecer naquela situação, como se continuasse em serviço no departamento de origem.
 
-###### Art. 43.º - 1 - Mediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com entidades ou indivíduos a ele estranhos a realização de estudo; ou projectos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 43.º - 1 - Mediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com entidades ou indivíduos a ele estranhos a realização de estudo; ou projectos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos a que se refere o número anterior não conferem a qualidade de agente administrativo.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 44.º - 1 - O primeiro provimento dos lugares do quadro anexo a este diploma efectuar-se-á, prioritariamente, de entre o pessoal que à data da publicação do presente diploma se encontre a prestar serviço no Gabinete a qualquer título, sem prejuízo do disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, quanto ao pessoal dirigente por ele abrangido.
+Art. 44.º - 1 - O primeiro provimento dos lugares do quadro anexo a este diploma efectuar-se-á, prioritariamente, de entre o pessoal que à data da publicação do presente diploma se encontre a prestar serviço no Gabinete a qualquer título, sem prejuízo do disposto no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, quanto ao pessoal dirigente por ele abrangido.
 
 2 - O provimento referido no número anterior resultará de listas nominativas aprovadas pelo Ministro dos Transportes e Comunicações, visadas pelo Tribunal de Contas e publicadas no Diário da República, donde conste o lugar em que cada funcionário fica provido.
 
@@ -401,24 +476,24 @@ b) Desenhadores-cartógrafos, desenhadores, compositores mecanográficos, impres
 
 4 - Durante o período previsto no número anterior e para efeitos do disposto na alínea b) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o tempo previsto poderá ser reduzido até ao mínimo de um ano.
 
-###### Art. 45.º Nas listas de primeiro provimento, o pessoal do quadro do Gabinete com licenciatura e comprovada experiência profissional na área funcional de integração europeia e relações internacionais, independentemente da actual carreira, poderá ingressar na carreira de técnico superior em categoria a que corresponda a letra de vencimento igual à que o funcionário já possui, ou imediatamente superior se tiver mais de três anos na actual categoria.
+Art. 45.º Nas listas de primeiro provimento, o pessoal do quadro do Gabinete com licenciatura e comprovada experiência profissional na área funcional de integração europeia e relações internacionais, independentemente da actual carreira, poderá ingressar na carreira de técnico superior em categoria a que corresponda a letra de vencimento igual à que o funcionário já possui, ou imediatamente superior se tiver mais de três anos na actual categoria.
 
-###### Art. 46.º Os indivíduos providos nas carreiras de litógrafo de offset e mecanógrafo transitam para as carreiras de impressor de offset e compositor mecanográfico, respectivamente, na posição que actualmente ocupam.
+Art. 46.º Os indivíduos providos nas carreiras de litógrafo de offset e mecanógrafo transitam para as carreiras de impressor de offset e compositor mecanográfico, respectivamente, na posição que actualmente ocupam.
 
-###### Art. 47.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto do Ministro dos Transportes e Comunicações, Ministro das Finanças e Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 47.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto do Ministro dos Transportes e Comunicações, Ministro das Finanças e Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 48.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 48.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Frederico Alberto Monteiro da Silva - Gabriela Guedes Salgueiro.
 
-**Promulgado em 20 de Novembro de 1979.**
+Promulgado em 20 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Quadro do pessoal a que se refere e artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28300/31773181.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28300/31773181.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28300/31773181.pdf)
 
-**O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.**
+O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.

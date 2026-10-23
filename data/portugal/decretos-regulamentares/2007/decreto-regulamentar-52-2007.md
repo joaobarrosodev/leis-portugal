@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26532655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/52/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-2007-521025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba0341226236a77a6808106e2dd37023b01e6982780df64f11182d45d87f2c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e721f6bacf992a22dfde6f77c73279dd491a252f4b7a01d60066606c5ae69629
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Secretaria Geral
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:553933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454828:por
+  label: "Alterados o art. 3º e o nº 2 do art. 4º pelo DEC LEI.150/2008.30.07.2008.MAOTDR, DR.IS [146] de 30.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2008-454828
+  date: '2008-07-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Extinta, sendo objecto de fusão, a Secretaria-Geral do Ministério do Ambiente, do Ordenamento do Território e do\
+    \ Desenvolvimento Regional (criada pelo Dec Lei 207/206 de 27-Out, ora revogado), cujas atribuições e competências constam\
+    \ do presente diploma, alterado pelo Dec Lei 150/2008 de 30-Jul, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de\
+    \ 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo as suas atribuições no domínio da elaboração e do\
+    \ acompanhamento da execução do orçamento integradas no Gabinete de Planeamento e Políticas e as restantes na Secretaria-Geral,\
+    \ ambos do MAMAOT.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:553933:por
+  label: "Determinado que o GPP suceda nas atribuições diretamente relacionadas com a elaboração e acompanhamento da execução\
+    \ do orçamento pelo DR.34/2012.26.03.2012.MAMAOT, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2012-553933
+  date: '2012-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/1993/05/24/p/dre
   label: null
@@ -93,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:283520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553635:por
+  label: "Revogado, a partir de 01.04.2012, o presente diploma, na redacção do Dec Lei 150/2008, de 30-jul, pelo DR.33/2012.20.03.2012.MAMAOT,\
+    \ DR.IS [57] de 20.03.2012, sucedendo a SG do MAMAOT nas atribuições, direitos e obrigações da secretaria-geral do do\
+    \ Ministério do Ambiente e do Ordenamento do Território, com exceção das atribuições no domínio da elaboração e do acompanhamento\
+    \ da execução do orçamento.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-2012-553635
+  date: '2012-03-20'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:53Z'
   warnings: []
   errors: []
 ---
@@ -211,16 +256,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26532655.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26532655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26532655.pdf)

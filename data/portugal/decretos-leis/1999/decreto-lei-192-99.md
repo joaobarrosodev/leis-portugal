@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/1999/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1999-310380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83234fb2440a6c65f79f728bcb78c46302c46bcad65a8abfad356bfc12ac049e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be70b8c21af2a1b56985d78e28070b2231a21e95c0cf415d06f953d8366a5c45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Electrotécnica
 - CEE
-- Energia Elétrica
-- Multa
-- Sistema Português da Qualidade
 - Consumo de Energia
 - Contra-ordenação
+- Energia Elétrica
 - Etiquetagem
+- Indústria Electrotécnica
+- Multa
 - Proteção do Consumidor
+- Sistema Português da Qualidade
 relationships:
 - type: cites
   target: celex:31996L0057
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/214/1998/07/16/p/dre
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:35Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +127,9 @@ Os artigos 4.º, 6.º e 8.º do Decreto-Lei n.º 214/98, de 16 de Julho, passam 
 
 3 - O consumo máximo de electricidade para cada categoria de aparelho de refrigeração bem como o método de cálculo do consumo máximo de electricidade autorizados para um aparelho de refrigeração constam, respectivamente, dos anexos I e II ao presente diploma e que dele fazem parte integrante.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -143,7 +145,7 @@ Os artigos 4.º, 6.º e 8.º do Decreto-Lei n.º 214/98, de 16 de Julho, passam 
 
 7 - ...
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - A avaliação da conformidade dos aparelhos de refrigeração com os requisitos da presente legislação bem como as obrigações relativas à marcação «CE» devem ser verificadas de acordo com as regras estabelecidas no anexo IV ao presente diploma e que dele faz parte integrante.
 
@@ -151,29 +153,33 @@ Os artigos 4.º, 6.º e 8.º do Decreto-Lei n.º 214/98, de 16 de Julho, passam 
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 14 de Maio de 1999.**
+Promulgado em 14 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1999.**
+Referendado em 20 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — Consumo máximo de electricidade autorizado para cada categoria de aparelho de refrigeração
+ANEXO I
+
+Consumo máximo de electricidade autorizado para cada categoria de aparelho de refrigeração
 
 (anexo a que se refere o n.º 3 do artigo 4.º)
 
 O consumo máximo de electricidade autorizado (E(índice max), expresso em kWh por vinte e quatro horas, com duas casas decimais), para um aparelho de volume ajustado V(índice a), é calculado pelas seguintes expressões, para cada categoria de aparelhos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)
 
 Para os frigoríficos/congeladores com mais de duas portas ou outros aparelhos não descritos acima, o consumo máximo de electricidade autorizado (E(índice max)) é definido pela temperatura e pelo número de estrelas do compartimento cuja temperatura é a mais baixa, de acordo com as seguintes expressões:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)
 
-## ANEXO II — Método de calculo do consumo máximo de electricidade autorizado para um aparelho de refrigeração
+ANEXO II
+
+Método de calculo do consumo máximo de electricidade autorizado para um aparelho de refrigeração
 
 (anexo a que se refere o n.º 3 do artigo 4.º)
 
@@ -183,7 +189,7 @@ O método de cálculo do consumo máximo de electricidade bem como os procedimen
 
 2 - Para calcular o consumo máximo de electricidade autorizado de um dado aparelho é necessário previamente classificá-lo numa das seguintes categorias:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)](https://files.diariodarepublica.pt/1s/1999/06/130a00/31523155.pdf)
 
 3 - Uma vez que os aparelhos de refrigeração contêm diferentes compartimentos mantidos a temperaturas diferentes (o que influencia nitidamente o consumo de electricidade), o consumo máximo de electricidade autorizado é de facto definido em função do volume ajustado, que é uma soma ponderada dos volumes dos diferentes compartimentos.
 
@@ -195,7 +201,9 @@ Assim, para efeitos do presente diploma, o volume ajustado de um aparelho de ref
 
 5 - Definições. - Os termos usados no presente anexo correspondem às definições da norma europeia EN 153, editada em Julho de 1995 pelo Comité Europeu de Normalização.
 
-## ANEXO III — Marcação «CE» de conformidade
+ANEXO III
+
+Marcação «CE» de conformidade
 
 (anexo a que se refere o n.º 2 do artigo 6.º)
 
@@ -207,7 +215,9 @@ No caso de redução ou de ampliação da marcação «CE», devem ser respeitad
 
 Os diferentes elementos da marcação «CE» devem ter, sensivelmente, a mesma dimensão vertical, que não pode ser inferior a 5 mm.
 
-## ANEXO IV — Procedimentos de avaliação da conformidade
+ANEXO IV
+
+Procedimentos de avaliação da conformidade
 
 (anexo a que se refere o n.º 1 do artigo 8.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18200/18571859.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/409-1979-377905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 353c9ad72d952ce43a9f610bce21121ed8184f013658825c1486a73d6804a604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 514f6deecc68a5c6ca7a2d2202314410ba04c54f8e519967091897b37a9b5f0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque Natural da Serra da Estrela
+- Proteção do Ambiente
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:573119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663492:por
+  label: "Alterado o n.º 2 do art. 10.º do Regulamento aprovado pelo presente diploma, pela PORT.27/87.1987.01.15.MF DR.IS\
+    \ [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-1987-663492
+  date: '1987-01-15'
+- type: cites
+  target: pt:dre:430620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573119:por
+  label: "Revogada pela PORT.583/90.25.07.1990.MF, DR.IS [170] de 25.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/583-1990-573119
+  date: '1990-07-25'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:55Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +132,7 @@ Regulamento Geral do Parque Natural da Serra da Estrela
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objectivos)
 
@@ -126,7 +148,7 @@ d) A protecção da Natureza, desenvolvendo acções tendentes à salvaguarda do
 
 e) A disciplina e a promoção do recreio de ar livre e das funções pedagógicas do ambiente natural, por forma que a serra da Estrela possa ser visitada e apreciada por um número cada vez maior de visitantes sem que daí advenham riscos de degradação física e biológica para as paisagens e o ambiente.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Plano de ordenamento do Parque)
 
@@ -138,19 +160,19 @@ e) A disciplina e a promoção do recreio de ar livre e das funções pedagógic
 
 4 - Deverão ser revistos os planos de arborização executados ou em fase de execução, por forma a conciliar a necessária reflorestação com o exercício do pastoreio e o melhoramento das pastagens.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Equipamento)
 
 O equipamento constante do plano preliminar do ordenamento aprovado é o que permitirá iniciar as acções do Parque, mas será revisto e completado à medida que se for dando cumprimento ao n.º 2 do artigo anterior, ouvido sempre o conselho geral do Parque.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Caça e pesca)
 
 O Parque Natural disporá de regulamentos especiais de caça e pesca elaborados em colaboração com a Direcção-Geral do Ordenamento e Gestão Florestal e com os caçadores e pescadores da região, para toda a sua área, com exclusão das reservas integrais, onde a caça e a pesca são interditas.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Reservas naturais integrais)
 
@@ -158,7 +180,7 @@ O Parque Natural disporá de regulamentos especiais de caça e pesca elaborados 
 
 2 - É proibida expressamente qualquer alteração que perturbe o equilíbrio e a evolução do meio natural.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Reservas naturais parciais)
 
@@ -174,7 +196,7 @@ O Parque Natural disporá de regulamentos especiais de caça e pesca elaborados 
 
 6 - Exceptuam-se trabalhos considerados indispensáveis, quer de natureza sectorial, quer ligados à actuação do Parque Natural, os quais serão objecto de cuidados especiais de projecto e de execução, por forma a minimizar ou mesmo impedir formas de degradação do relevo natural.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Paisagem protegida)
 
@@ -182,7 +204,7 @@ O Parque Natural disporá de regulamentos especiais de caça e pesca elaborados 
 
 2 - São proibidos nesta área quaisquer trabalhos, obras ou actividades sem autorização da direcção do Parque, que ouvirá as entidades julgadas convenientes, de acordo com o [Decreto-Lei n.º 557/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620), de 16 de Julho.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Zona agrícola especial)
 
@@ -192,7 +214,7 @@ O Parque Natural disporá de regulamentos especiais de caça e pesca elaborados 
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Órgãos)
 
@@ -210,7 +232,7 @@ Serviços administrativos e auxiliares.
 
 2 - As competências e atribuições dos órgãos do Parque Natural são as definidas no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837).
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Director)
 
@@ -242,7 +264,7 @@ Concelho de Manteigas: Santa Maria, S. Pedro e Sameiro.
 
 4 - O conselho geral subdivide-se em comissões concelhias, de acordo com o procedimento já adoptado na comissão instaladora, para efeitos de maior operacionalidade.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Comissão científica)
 
@@ -252,13 +274,13 @@ Faculdades de Ciências de Lisboa, Porto e Coimbra; Faculdades de Letras de Lisb
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Legislação de apoio)
 
 Para todas as questões não mencionadas no presente Regulamento ou susceptíveis de criar dúvidas, bem como para as disposições relativas a autorizações, fiscalizações, contravenções e multas, será aplicado o disposto no [Decreto-Lei n.º 557/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/557-1976-430620), de 16 de Julho.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Vigência do Regulamento)
 
@@ -266,4 +288,4 @@ Para todas as questões não mencionadas no presente Regulamento ou susceptívei
 
 2 - Com a aprovação superior do plano final de ordenamento do Parque, o respectivo regulamento revogará o que agora entra em vigor.
 
-**O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente, Baltasar António de Morais Barroco.**
+O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente, Baltasar António de Morais Barroco.

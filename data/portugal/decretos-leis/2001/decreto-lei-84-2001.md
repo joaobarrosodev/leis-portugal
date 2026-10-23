@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/058a00/12811285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2001/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2001-401292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e80d9c3a5c1be93bb3b63ceba113da11eb7c7a642b3a9cd1def92a5c4983d1d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6530737b2ffd5cc83e3be8c0ce542654bbe8431916c87829c23e361f9895b169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
-- Gestão do Património
-- Ministério da Justiça
 - Gabinete de Auditoria e Modernização
+- Gestão do Património
+- Gestão Financeira
+- Ministério da Justiça
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regime de Pessoal
 - Remuneração
@@ -80,6 +80,13 @@ relationships:
   target: pt:dre:457200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457200:por
+  label: "Determinado que o Gabinete de Política Legislativa e Planeamento do Ministério da Justiça cuja orgânica foi aprovada\
+    \ pelo Dec Lei 89/2001, de 23-Mar suceda, no âmbito das respectivas competências, ao Gabinete de Auditoria e Modernização\
+    \ do Ministério da Justiça, extinto e revogado, pelo DEC LEI.4/2005.05.01.2005.MJ, DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2005-457200
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -92,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:257454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:22Z'
   warnings: []
   errors: []
 ---
@@ -286,7 +309,9 @@ f) Promover métodos de trabalho mais eficazes, em colaboração com o Instituto
 
 g) Identificar e difundir acções de sensibilização e de formação em matéria de gestão do sistema e da qualidade, directamente ou em cooperação com outras entidades privadas ou públicas, nomeadamente do Ministério da Justiça.
 
-###### Artigo 10.º — Divisão de Serviços Administrativos e Financeiros
+###### Artigo 10.º
+
+##### Divisão de Serviços Administrativos e Financeiros
 
 1 - À Divisão de Serviços Administrativos e Financeiros compete gerir os recursos humanos, financeiros e patrimoniais, promover a organização e funcionamento da documentação do GAM e assegurar as funções relativas ao expediente e arquivo.
 
@@ -404,15 +429,15 @@ O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 23 de Fevereiro de 2001.**
+Promulgado em 23 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Março de 2001.**
+Referendado em 1 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa do quadro do pessoal dirigente
 

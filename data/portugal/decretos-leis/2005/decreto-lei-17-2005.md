@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2005/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2005-624975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f2c9bca7930836d9a08aad59a563362fe590851cb64af0de851b708d00602da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfc9f0f5d4a782d142ba46f4023aeb5ea1e7374ce573e26835505b0814bf5e80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,23 @@ subjects:
 - Ministro Adjunto do Primeiro-ministro
 - Ministro da Juventude Desporto e Reabilitação
 - Ministro de Estado e da Presidência
-- Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-ministro
-- Secretário de Estado do Desporto
 - Orgânica
+- Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-ministro
 - Secretário de Estado da Juventude
+- Secretário de Estado do Desporto
 - Secretário de Estado dos Assuntos Parlamentares
 relationships:
 - type: amended_by
   target: pt:dre:619766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619766:por
+  label: "Alterados os arts. 2º, 7º e 27º e revogado o art. 28º do Dec Lei 215-A/2004 de 03-Set, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.26/2005.02.02.2005.PCM, DR.IS-A [23] de 02.02.2005, que o republica na íntegra com\
+    \ todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2005-619766
+  date: '2005-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
@@ -96,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/215-a/2004/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/215-a/2004/09/03/p/dre
+- type: cites
+  target: pt:dre:276032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 43
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:55Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +189,7 @@ s) ...
 
 t) Ministro da Juventude, Desporto e Reabilitação.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -192,7 +215,7 @@ e) [Anterior alínea d).]
 
 f) [Anterior alínea e).]
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - O Ministro de Estado e da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Assuntos Parlamentares.
 
@@ -204,15 +227,15 @@ f) [Anterior alínea e).]
 
 5 - ...
 
-###### Artigo 27.º
+Artigo 27.º
 
-**O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro.**
+O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro.
 
-###### Artigo 28.º
+Artigo 28.º
 
-**O Ministro da Juventude, Desporto e Reabilitação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto.**
+O Ministro da Juventude, Desporto e Reabilitação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto.
 
-###### Artigo 33.º
+Artigo 33.º
 
 ...
 
@@ -250,15 +273,15 @@ Em anexo ao presente diploma, do qual faz parte integrante, é republicado na í
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Paulo Sacadura Cabral Portas - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - Daniel Viegas Sanches - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Carlos Henrique da Costa Neves - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - Luís Filipe da Conceição Pereira - Fernando Mimoso Negrão - António Luís Guerra Nunes Mexia - Maria João Espírito Santo Bustorff Silva - Luís José de Mello e Castro Guedes - Telmo Augusto Gomes de Noronha Correia - Rui Manuel Lobo Gomes da Silva - Henrique José Monteiro Chaves.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2005.**
+Referendado em 10 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — LEI ORGÂNICA DO XVI GOVERNO CONSTITUCIONAL
 
@@ -368,7 +391,7 @@ f) Secretário de Estado do Desporto.
 
 ###### Artigo 9.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado, das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado, das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 10.º
 
@@ -620,11 +643,11 @@ f) Regiões de turismo.
 
 ###### Artigo 27.º
 
-**O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro.**
+O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro Adjunto do Primeiro-Ministro.
 
 ###### Artigo 28.º
 
-**O Ministro da Juventude, Desporto e Reabilitação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto.**
+O Ministro da Juventude, Desporto e Reabilitação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude e pelo Secretário de Estado do Desporto.
 
 ###### Artigo 29.º
 

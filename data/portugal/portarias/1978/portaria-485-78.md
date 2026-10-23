@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/485-1978-299034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87663c92a63db3eebb47db274d2e42bbfd80b2bd2e24b608e735e84ad98867c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45cfc7f1779cf61ce64e65a6234c4acf91cff3479a6b82b7e2bc43f7bafd5893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Auxiliar de Farmácia
+- Carreira Profissional
+- Farmácia
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674410:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:22Z'
   warnings: []
   errors: []
 ---
@@ -105,29 +118,29 @@ II) Os artigos 1.º, 5.º, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º e 16.º 
 
 2 - Para efeitos do número anterior, só deve ser considerada a prática dos auxiliares que trabalhem em tempo completo, excluindo-se a daqueles que, por exercerem funções públicas ou privadas, se deva presumir que não podem trabalhar em tempo completo.
 
-###### Art. 5.º O auxiliar de farmacêutico, após um ano de prática registada, deverá iniciar-se no aviamento do público, não podendo, contudo, intervir na venda de medicamentos cujo fornecimento dependa de apresentação de receita médica.
+Art. 5.º O auxiliar de farmacêutico, após um ano de prática registada, deverá iniciar-se no aviamento do público, não podendo, contudo, intervir na venda de medicamentos cujo fornecimento dependa de apresentação de receita médica.
 
-###### Art. 6.º - 1 - Para que tenha direito ao registo de prática, o auxiliar deverá trabalhar, pelo menos, duzentos e cinquenta dias em cada período de um ano.
+Art. 6.º - 1 - Para que tenha direito ao registo de prática, o auxiliar deverá trabalhar, pelo menos, duzentos e cinquenta dias em cada período de um ano.
 
 2 - O período de um ano previsto no número anterior não tem de coincidir com o ano civil.
 
-###### Art. 7.º - 1 - Em todas as farmácias haverá um livro de modelo único, e em que se contenha o local destinado às rubricas diárias dos auxiliares do farmacêutico e do director técnico.
+Art. 7.º - 1 - Em todas as farmácias haverá um livro de modelo único, e em que se contenha o local destinado às rubricas diárias dos auxiliares do farmacêutico e do director técnico.
 
 Deverá ser apresentado nas delegações ou subdelegações de saúde em cuja área se situe a farmácia, a fim de nele serem lavrados termos de abertura e de encerramento e rubricadas as folhas, devidamente numeradas.
 
 2 - O livro será rubricado diariamente pelos auxiliares nos primeiros trinta minutos posteriores à abertura da farmácia. Decorrido este período, o director técnico, ou quem o substitua, rubricá-lo-á e trancará o espaço reservado para as rubricas do dia, de modo a impossibilitar-se a sua posterior escrituração.
 
-###### Art. 8.º - 1 - Anualmente e durante o mês de Janeiro, o director técnico da farmácia remeterá à Direcção-Geral de Saúde uma nota por cada auxiliar ao serviço, com observância do disposto no n.º 2 do artigo 1.º
+Art. 8.º - 1 - Anualmente e durante o mês de Janeiro, o director técnico da farmácia remeterá à Direcção-Geral de Saúde uma nota por cada auxiliar ao serviço, com observância do disposto no n.º 2 do artigo 1.º
 
 2 - Da nota anual constará o número de dias de trabalho prestado no ano anterior e o aproveitamento do empregado.
 
-###### Art. 10.º O livro, bem como os impressos e as cadernetas, são de modelos únicos, aprovados por despacho do Ministro dos Assuntos Sociais.
+Art. 10.º O livro, bem como os impressos e as cadernetas, são de modelos únicos, aprovados por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 11.º Das informações constantes do impresso e referentes ao aproveitamento do empregado poderá este interpor recurso para o Ministro dos Assuntos Sociais, que decidirá, depois de parecer de uma comissão constituída por um representante da Ordem dos Farmacêuticos, por um representante dos Sindicatos dos Ajudantes de Farmácia e por um representante da Direcção-Geral de Saúde, que presidirá.
+Art. 11.º Das informações constantes do impresso e referentes ao aproveitamento do empregado poderá este interpor recurso para o Ministro dos Assuntos Sociais, que decidirá, depois de parecer de uma comissão constituída por um representante da Ordem dos Farmacêuticos, por um representante dos Sindicatos dos Ajudantes de Farmácia e por um representante da Direcção-Geral de Saúde, que presidirá.
 
-###### Art. 12.º Depois de completados cinco anos de prática registada, a Direcção-Geral de Saúde deixará de registar a prática dos auxiliares de farmacêutico, tornando-se desnecessária a rubrica diária a que se refere o artigo 7.º desta portaria.
+Art. 12.º Depois de completados cinco anos de prática registada, a Direcção-Geral de Saúde deixará de registar a prática dos auxiliares de farmacêutico, tornando-se desnecessária a rubrica diária a que se refere o artigo 7.º desta portaria.
 
-###### Art. 13.º Para início do registo do primeiro ano de prática dos auxiliares de farmacêutico, deverão estes enviar à Direcção-Geral de Saúde, além da nota anual e da caderneta, os seguintes documentos:
+Art. 13.º Para início do registo do primeiro ano de prática dos auxiliares de farmacêutico, deverão estes enviar à Direcção-Geral de Saúde, além da nota anual e da caderneta, os seguintes documentos:
 
 a) Certidão de nascimento;
 
@@ -137,7 +150,7 @@ c) Certidão de registo criminal;
 
 d) Boletim de sanidade.
 
-###### Art. 16.º As habilitações literárias referidas no artigo 2.º desta portaria não serão, em caso algum, exigíveis aos auxiliares dos farmacêuticos ao serviço à data da sua publicação.
+Art. 16.º As habilitações literárias referidas no artigo 2.º desta portaria não serão, em caso algum, exigíveis aos auxiliares dos farmacêuticos ao serviço à data da sua publicação.
 
 III) O disposto no n.º 1 desta portaria não prejudica a prestação do exame pelos candidatos que o requererem até à data da entrada em vigor deste diploma.
 

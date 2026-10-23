@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/2001/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2001-388225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 323897dde17733905364c4a3cc180603ce0d638eae4bc02f5827b18882b4097a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94b5720e08b870ee2510114cd42f18590d2345136bec5feae50fe5bb48e72b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Extracção de Inertes
-- Embarcação
-- Pessoal Dirigente
 - Conselho da Navegabilidade
 - Criação de Serviços
 - Definição de Competências
 - Diretor
+- Embarcação
+- Extracção de Inertes
 - Fiscalização
 - Gestão dos Recursos
 - Instituto de Navegabilidade do Douro
 - Licenciamento
+- Ministério do Ambiente e do Ordenamento do Território
 - Ministério do Equipamento Social
 - Navegabilidade do RIO Douro
 - Navegação Fluvial
 - Orgânica
+- Pessoal Dirigente
 - Proteção do Ambiente
-- RIO Douro
 - Quadro de Pessoal
 - Receita
-- Ministério do Ambiente e do Ordenamento do Território
+- RIO Douro
 - Segurança da Navegação
 - Taxa
 relationships:
@@ -92,6 +92,13 @@ relationships:
   target: pt:dre:520990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520990:por
+  label: "Mantidos em vigor, até à revisão das áreas de jurisdição portuária, os limites definidos no art. 3º do Dec Lei 138-A/97\
+    \ de 03-Jun, com a redacção conferida no presente diploma, pelo DEC LEI.146/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2007-520990
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/138-a/1997/06/03/p/dre
   label: null
@@ -104,16 +111,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:230302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448755:por
+  label: "Revogado o Dec Lei 138-A/97 de 03-Jun, com excepção dos respectivos arts. 3º - no que respeita à definição de áreas\
+    \ de jurisdição e 6º-A, com a redacção dada pelo pelo presente diploma, pelo DEC LEI.257/2002.2002.11.22.MOPTH DR.IS-A\
+    \ [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2002-448755
+  date: '2002-11-22'
 article_structure:
-  article_count: 11
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:59Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +186,9 @@ a) O leito e as margens incluídos nos terrenos do domínio hídrico tal como es
 
 b) Os acessos fluviais aos cais de acostagem e as zonas de manobra, os terraplenos adjacentes às zonas portuárias e os acessos terrestres inseridos nestas áreas de ligação às vias municipais e nacionais.
 
-###### Artigo 6.º — Competências
+Artigo 6.º
+
+Competências
 
 1 - Compete ao IND:
 
@@ -194,7 +226,9 @@ q) [Anterior alínea s)].
 
 2 - Compete ainda ao IND efectuar ou licenciar a extracção de inertes na sua área de jurisdição na estrita medida em que o desassoreamento seja imprescindível à manutenção e segurança da via navegável, garantindo a fiscalização desta actividade.
 
-###### Artigo 7.º — Órgãos e serviços
+Artigo 7.º
+
+Órgãos e serviços
 
 1 - São órgãos do IND:
 
@@ -208,7 +242,9 @@ a) O Núcleo Administrativo e Financeiro;
 
 b) O Núcleo Técnico e Comercial.
 
-###### Artigo 8.º — Director
+Artigo 8.º
+
+Director
 
 1 - Ao director compete dirigir superiormente o IND, promover, orientar e coordenar as suas actividades e, em especial:
 
@@ -234,7 +270,9 @@ i) ...
 
 3 - O director do IND é coadjuvado nas suas funções por um subdirector, para todos os efeitos equiparado a subdirector-geral, que o substitui nos seus impedimentos e faltas.
 
-###### Artigo 10.º — Núcleo Administrativo e Financeiro
+Artigo 10.º
+
+Núcleo Administrativo e Financeiro
 
 1 - ...
 
@@ -248,7 +286,9 @@ d) ...
 
 2 - O NAF é dirigido por um coordenador, equiparado, para todos os efeitos, a chefe de divisão.
 
-###### Artigo 11.º — Núcleo Técnico e Comercial
+Artigo 11.º
+
+Núcleo Técnico e Comercial
 
 1 - ...
 
@@ -266,7 +306,9 @@ f) ...
 
 2 - O Núcleo é dirigido por um coordenador, equiparado, para todos os efeitos, a chefe de divisão.
 
-###### Artigo 12.º — Fiscalização
+Artigo 12.º
+
+Fiscalização
 
 A fiscalização interna do IND é exercida por um elemento nomeado por despacho conjunto do ministro da tutela e do Ministro das Finanças, de entre revisores oficiais de contas, por um mandato de três anos, renovável, e com direito à remuneração a fixar no mesmo despacho, ao qual incumbe:
 
@@ -280,7 +322,9 @@ d) ...
 
 e) ...
 
-###### Artigo 15.º — Receitas
+Artigo 15.º
+
+Receitas
 
 Para além das dotações provenientes do Orçamento do Estado, constituem receitas próprias do IND:
 
@@ -294,17 +338,21 @@ d) ...
 
 e) ...
 
-###### Artigo 17.º — Quadros de pessoal
+Artigo 17.º
+
+Quadros de pessoal
 
 1 - O IND dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.
 
 2 - O quadro do restante pessoal do IND é aprovado por portaria conjunta do ministro da tutela, do Ministro das Finanças e do Ministro da Reforma do Estado e da Administração Pública.
 
-## ANEXO — Mapa a que se refere o n.º 1 do artigo 17.º
+ANEXO
+
+Mapa a que se refere o n.º 1 do artigo 17.º
 
 [(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/07/161a00/43624364.pdf)
 
-###### Artigo 2.º
+Artigo 2.º
 
 É aditado ao [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho, o artigo 6.º-A, com a seguinte redacção:
 
@@ -330,18 +378,20 @@ d) O IND dará conhecimento à tutela do pedido instruído com relatório e do p
 
 5 - No que diz respeito à extracção de inertes, em tudo o que não estiver especialmente previsto no presente diploma aplica-se, com as devidas adaptações, o disposto no [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro.»
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 3 de Julho de 2001.**
+Promulgado em 3 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Julho de 2001.**
+Referendado em 5 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

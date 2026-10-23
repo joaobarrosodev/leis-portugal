@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 132/1978, 1º Suplemento, Série I de 1978-06-09
   number: '132'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1050-(1) a 1050-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-a-1978-170142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0aa34d9e976140aa1014a4ceb5147274b5badcf5f79fe151234edf6efd9c3c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: effe4ae3f67b0b59072038777abd7c67591df3eb63f358217e29b1ff131e5e4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Naval
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:455115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383796:por
+  label: "Alterado o n.º 1 do artigo 235.º do Regulamento da Escola Naval, aprovado pelo presente diploma, pela PORT.108/79.09.03.1979.CR,\
+    \ DR.IS [57] de 09.03.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-1979-383796
+  date: '1979-03-09'
+- type: amended_by
+  target: pt:dre:363882:por
+  label: "Alterado o artigo 235.º e os anexos E, F, G e H do Regulamento aprovado pelo presente diploma, pela PORT.575/79.02.11.1979.CR,\
+    \ DR.IS [253] de 02.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/575-1979-363882
+  date: '1979-11-02'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUMERO 2 DO ARTIGO 113 DO REGULAMENTO, PELA PORTARIA 293/81, DE 26 DE MARCO, PUBLICADA NO DR.IS, 71.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-03-26'
+- type: amended_by
+  target: pt:dre:574300:por
+  label: "Alterados os n.os 3, 4, 5, 6, 7, 8 e 9 do artigo 70.º, os n.os 2 e 3 do artigo 71.º e o artigo 72.º do Regulamento\
+    \ da Escola Naval, pela PORT.462/81.05.06.1981.CR, DR.IS [129] de 05.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/462-1981-574300
+  date: '1981-06-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS ARTIGOS 4, 16, 22, 30, 35, 41, 45, 46, 47, 58, 59, 60, 63, 64, 84, 89 E 91, ELIMINADA A ALÍNEA F) DO
+    NUMERO 2 DO ARTIGO 39, OS ARTIGOS 48, 49 E 50 E A SUBSECCÃO VI DA SECÇÃO V DO CAPÍTULO III. ADITADA A SUBSECCÃO VII A
+    SECÇÃO VII DO CAPÍTULO III E SUBSTITUÍDO O ANEXO'A' A QUE SE REFERE O ARTIGO 6, TODOS DO REGULAMENTO, PELA PORTARIA 358/82,
+    DE 7 DE ABRIL, PUBLICADA NO DR.IS, 81.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-04-07'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ARTIGO 131 E O ANEXO C DO REGULAMENTO, PELA PORTARIA 839/83, DE 19 DE AGOSTO, PUBLICADO NO DR.IS, 190.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-08-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUMEROS 3 E 6 DO ANEXO C DO REGULAMENTO, PELA PORTARIA 1027/83, DE 9 DE DEZEMBRO, PUBLICADA NO DR.IS,
+    282.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-12-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: CORRIGIDA A ALÍNEA A) DO NUMERO 6 DO ANEXO C DO REGULAMENTO (NA REDACÇÃO DADA PELA PORTARIA 1027/83, DE 9 DE DEZEMBRO),
+    PELA PORTARIA 176/84, DE 28 DE MARCO, PUBLICADO NO DR.IS, 74.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-03-28'
+- type: cites
+  target: pt:dre:278721:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 59
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:38:10Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +154,17 @@ REGULAMENTO DA ESCOLA NAVAL
 
 ### CAPÍTULO I — Definição e missão
 
-###### Artigo 1.º A Escola Naval é um estabelecimento de ensino superior que tem por missão habilitar os alunos que a frequentam para o ingresso nos quadros permanentes do activo dos oficiais da Armada das classes de marinha, de engenheiros maquinistas navais e de administração naval.
+Artigo 1.º A Escola Naval é um estabelecimento de ensino superior que tem por missão habilitar os alunos que a frequentam para o ingresso nos quadros permanentes do activo dos oficiais da Armada das classes de marinha, de engenheiros maquinistas navais e de administração naval.
 
-###### Art. 2.º Sem prejuízo da missão que lhe cabe, poderá a Escola Naval ser encarregada de ministrar outros cursos de formação de oficiais.
+Art. 2.º Sem prejuízo da missão que lhe cabe, poderá a Escola Naval ser encarregada de ministrar outros cursos de formação de oficiais.
 
-###### Art. 3.º - 1 - A Escola Naval, como unidade independente, estará directamente subordinada ao Chefe do Estado-Maior da Armada, para fins de disciplina, de segurança e de defesa.
+Art. 3.º - 1 - A Escola Naval, como unidade independente, estará directamente subordinada ao Chefe do Estado-Maior da Armada, para fins de disciplina, de segurança e de defesa.
 
 2 - Para fins de instrução e outros de natureza técnica, a Escola Naval está sob a autoridade funcional dos superintendentes dos Serviços do Pessoal e do Material da Armada.
 
 ### CAPÍTULO II — Estrutura orgânica
 
-###### Art. 4.º Para cumprimento da missão que lhe está atribuída, a Escola Naval compreende:
+Art. 4.º Para cumprimento da missão que lhe está atribuída, a Escola Naval compreende:
 
 a) Comandante;
 
@@ -156,27 +210,27 @@ h) Companhia de equipagem;
 
 i) Secretaria do comando.
 
-###### Art. 5.º A Escola Naval tem um conselho administrativo com a constituição e as funções estabelecidas na legislação em vigor.
+Art. 5.º A Escola Naval tem um conselho administrativo com a constituição e as funções estabelecidas na legislação em vigor.
 
-###### Art. 6.º A estrutura orgânica da Escola Naval é a que se encontra representada no organograma que constitui o anexo A a este Regulamento.
+Art. 6.º A estrutura orgânica da Escola Naval é a que se encontra representada no organograma que constitui o anexo A a este Regulamento.
 
-###### Art. 7.º A Escola Naval dispõe do corpo docente que consta do anexo B, sendo as lotações do restante pessoal militar e civil fixadas nos termos da legislação em vigor, respectivamente, por portaria e por despacho do Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
+Art. 7.º A Escola Naval dispõe do corpo docente que consta do anexo B, sendo as lotações do restante pessoal militar e civil fixadas nos termos da legislação em vigor, respectivamente, por portaria e por despacho do Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
 
-###### Art. 8.º - 1 - A Escola Naval rege-se pelo presente Regulamento, pelas instruções permanentes promulgadas pelo seu comando e pela legislação geral da Armada, na parte aplicável.
+Art. 8.º - 1 - A Escola Naval rege-se pelo presente Regulamento, pelas instruções permanentes promulgadas pelo seu comando e pela legislação geral da Armada, na parte aplicável.
 
 2 - Além do disposto em 1, todo o pessoal em serviço na Escola Naval está sujeito às demais leis e regulamentos militares, na parte aplicável.
 
-###### Art. 9.º Podem ser alteradas, por despacho do Chefe do Estado-Maior da Armada, as disposições que se contêm no capítulo IV, nas secções IV, V e VI do capítulo V e nos anexos deste Regulamento.
+Art. 9.º Podem ser alteradas, por despacho do Chefe do Estado-Maior da Armada, as disposições que se contêm no capítulo IV, nas secções IV, V e VI do capítulo V e nos anexos deste Regulamento.
 
 ### CAPÍTULO III — Organização da Escola
 
 #### SECÇÃO I — Comandante
 
-###### Art. 10.º - 1 - O comandante da Escola Naval é um oficial general da Armada.
+Art. 10.º - 1 - O comandante da Escola Naval é um oficial general da Armada.
 
 2 - A nomeação do comandante é feita por portaria do Chefe do Estado-Maior da Armada (CEMA).
 
-###### Art. 11.º O comandante dirige superiormente as actividades da Escola, sendo o responsável directo pela forma como esta desempenha a sua missão, nomeadamente pela formação moral, militar, física, intelectual e técnica dos alunos, pelo cumprimento das leis, regulamentos, ordens e instruções, competindo-lhe nomeadamente:
+Art. 11.º O comandante dirige superiormente as actividades da Escola, sendo o responsável directo pela forma como esta desempenha a sua missão, nomeadamente pela formação moral, militar, física, intelectual e técnica dos alunos, pelo cumprimento das leis, regulamentos, ordens e instruções, competindo-lhe nomeadamente:
 
 a) Tomar decisões, estabelecer directivas e supervisar a sua execução;
 
@@ -198,15 +252,15 @@ i) Homologar as classificações dos alunos;
 
 j) Assinar as cartas de curso.
 
-###### Art. 12.º O comandante é directamente auxiliado nos aspectos relacionados com a vida da unidade e nos de natureza pedagógica por um capitão-de-mar-e-guerra, que desempenha cumulativamente as funções de imediato e de director de instrução.
+Art. 12.º O comandante é directamente auxiliado nos aspectos relacionados com a vida da unidade e nos de natureza pedagógica por um capitão-de-mar-e-guerra, que desempenha cumulativamente as funções de imediato e de director de instrução.
 
-###### Art. 13.º - 1 - O comandante tem um ajudante de ordens.
+Art. 13.º - 1 - O comandante tem um ajudante de ordens.
 
 2 - O cargo do ajudante de ordens é desempenhado, em acumulação, por um oficial subalterno da Escola nomeado pelo comandante.
 
 #### SECÇÃO II — Imediato e director de instrução
 
-###### Art. 14.º - 1 - O imediato e director de instrução é um capitão-de-mar-e-guerra, a quem compete especialmente:
+Art. 14.º - 1 - O imediato e director de instrução é um capitão-de-mar-e-guerra, a quem compete especialmente:
 
 a) Desempenhar as funções constantes da Ordenança do Serviço Naval em relação ao seu cargo, na parte aplicável;
 
@@ -234,9 +288,9 @@ j) Substituir o comandante nos seus impedimentos temporários.
 
 #### SECÇÃO III — Conselho escolar
 
-###### Art. 15.º O conselho escolar é um órgão consultivo do comandante para assuntos relacionados com a orientação do ensino e os de carácter pedagógico.
+Art. 15.º O conselho escolar é um órgão consultivo do comandante para assuntos relacionados com a orientação do ensino e os de carácter pedagógico.
 
-###### Art. 16.º - 1 - O conselho escolar é presidido pelo comandante e constituído pelo imediato e director de instrução, pelos professores, pelos instrutores, pelo comandante do corpo de alunos e pelo secretário escolar, que servirá de secretário do conselho.
+Art. 16.º - 1 - O conselho escolar é presidido pelo comandante e constituído pelo imediato e director de instrução, pelos professores, pelos instrutores, pelo comandante do corpo de alunos e pelo secretário escolar, que servirá de secretário do conselho.
 
 2 - Para as reuniões do conselho escolar em que devam ser tratados assuntos que directamente respeitem aos alunos serão convocados dois alunos de cada ano ou curso, eleitos pelos alunos que os constituem.
 
@@ -248,7 +302,7 @@ j) Substituir o comandante nos seus impedimentos temporários.
 
 6 - No impedimento do comandante, a presidência do conselho escolar será assumida pelo imediato.
 
-###### Art. 17.º Ao conselho escolar compete especialmente:
+Art. 17.º Ao conselho escolar compete especialmente:
 
 a) Apreciar os projectos dos planos dos cursos, os programas das cadeiras e instruções e as suas alterações;
 
@@ -262,13 +316,13 @@ e) Dar parecer sobre a nomeação dos instrutores;
 
 f) Emitir parecer sobre a nomeação de professores, nos termos do n.º 5 do artigo 70.º e dos artigos 72.º, 76.º e 77.º
 
-###### Art. 18.º - 1 - A convocação do conselho escolar é da exclusiva competência do comandante.
+Art. 18.º - 1 - A convocação do conselho escolar é da exclusiva competência do comandante.
 
 2 - Na convocatória para as reuniões do conselho escolar deverão ser indicados os assuntos a tratar em cada sessão.
 
 3 - Em princípio, os assuntos a tratar nas reuniões do conselho escolar serão limitados aos que constam da respectiva convocatória.
 
-###### Art. 19.º O comandante convocará obrigatoriamente o conselho escolar nos casos seguintes:
+Art. 19.º O comandante convocará obrigatoriamente o conselho escolar nos casos seguintes:
 
 a) Antes do início de cada ano lectivo, para apreciação da forma como decorreu o ensino no ano lectivo anterior e estudo das actividades escolares previstas para o ano a iniciar;
 
@@ -280,7 +334,7 @@ d) Aquando da proposta para o provimento definitivo de um lugar de professor;
 
 e) Aquando da nomeação provisória de um professor, nos termos do n.º 5 do artigo 70.º e dos artigos 72.º, 76.º e 77.º
 
-###### Art. 20.º - 1 - Das reuniões do conselho escolar será lavrada acta em livro próprio.
+Art. 20.º - 1 - Das reuniões do conselho escolar será lavrada acta em livro próprio.
 
 2 - Quando a opinião do conselho escolar for tomada por maioria de votos, qualquer membro pode fazer lançar na acta a declaração do seu voto.
 
@@ -290,9 +344,9 @@ e) Aquando da nomeação provisória de um professor, nos termos do n.º 5 do ar
 
 #### SECÇÃO IV — Conselho de disciplina escolar
 
-###### Art. 21.º O conselho de disciplina escolar é o órgão de apoio e consulta do comandante para os assuntos de natureza disciplinar, no âmbito do corpo de alunos.
+Art. 21.º O conselho de disciplina escolar é o órgão de apoio e consulta do comandante para os assuntos de natureza disciplinar, no âmbito do corpo de alunos.
 
-###### Art. 22.º - 1 - O conselho de disciplina escolar tem a seguinte composição:
+Art. 22.º - 1 - O conselho de disciplina escolar tem a seguinte composição:
 
 a) Imediato e director de instrução;
 
@@ -310,19 +364,19 @@ e) Chefe do serviço de internato.
 
 4 - Os alunos eleitos referidos no n.º 2 não têm direito a voto.
 
-###### Art. 23.º - 1 - O conselho de disciplina escolar tem como presidente o imediato e director de instrução e como secretário o comandante da companhia a que pertencer o aluno a ser apreciado.
+Art. 23.º - 1 - O conselho de disciplina escolar tem como presidente o imediato e director de instrução e como secretário o comandante da companhia a que pertencer o aluno a ser apreciado.
 
 2 - Quando o comandante assistir às reuniões do conselho de disciplina escolar, assumirá a sua presidência.
 
-###### Art. 24.º - 1 - Poderão tomar parte nas reuniões do conselho de disciplina escolar, como vogais agregados, outros elementos cuja presença o conselho julgue vantajosa, nomeadamente professores e instrutores que tenham acompanhado os alunos em viagem de instrução.
+Art. 24.º - 1 - Poderão tomar parte nas reuniões do conselho de disciplina escolar, como vogais agregados, outros elementos cuja presença o conselho julgue vantajosa, nomeadamente professores e instrutores que tenham acompanhado os alunos em viagem de instrução.
 
 2 - Os vogais agregados referidos no número anterior não tomam parte nas votações.
 
-###### Art. 25.º - 1 - A convocação do conselho de disciplina escolar é da exclusiva competência do comandante, nela devendo ser indicados os assuntos a tratar em cada sessão.
+Art. 25.º - 1 - A convocação do conselho de disciplina escolar é da exclusiva competência do comandante, nela devendo ser indicados os assuntos a tratar em cada sessão.
 
 2 - No impedimento de qualquer dos seus membros, o comandante nomeará um substituto.
 
-###### Art. 26.º - 1 - O conselho de disciplina escolar reúne obrigatoriamente antes do início do ano escolar para:
+Art. 26.º - 1 - O conselho de disciplina escolar reúne obrigatoriamente antes do início do ano escolar para:
 
 a) Atribuir as classificações das qualidades militares dos alunos relativas ao ano escolar findo;
 
@@ -336,9 +390,9 @@ b) Dar parecer sobre qualquer aluno que, por motivos disciplinares ou morais, se
 
 3 - Antes de emitir os pareceres a que se refere o número anterior, o conselho ouvirá de viva voz o aluno em causa.
 
-###### Art. 27.º Das classificações das qualidades militares atribuídas pelo conselho de disciplina escolar, depois de homologadas pelo comandante, não há recurso.
+Art. 27.º Das classificações das qualidades militares atribuídas pelo conselho de disciplina escolar, depois de homologadas pelo comandante, não há recurso.
 
-###### Art. 28.º - 1 - Das reuniões do conselho de disciplina escolar serão lavradas actas em livro próprio.
+Art. 28.º - 1 - Das reuniões do conselho de disciplina escolar serão lavradas actas em livro próprio.
 
 2 - As actas das reuniões serão assinadas por todos os elementos que nelas tenham tomado parte, antes de serem presentes ao comandante.
 
@@ -346,9 +400,9 @@ b) Dar parecer sobre qualquer aluno que, por motivos disciplinares ou morais, se
 
 ##### SUBSECÇÃO I — Estrutura e funções
 
-###### Art. 29.º A direcção de instrução é responsável perante o comandante pelo ensino ministrado na Escola Naval.
+Art. 29.º A direcção de instrução é responsável perante o comandante pelo ensino ministrado na Escola Naval.
 
-###### Art. 30.º A direcção de instrução compreende:
+Art. 30.º A direcção de instrução compreende:
 
 a) Director de instrução;
 
@@ -366,9 +420,9 @@ g) Secretaria escolar.
 
 ##### SUBSECÇÃO II — Director de instrução
 
-###### Art. 31.º As funções de director de instrução competem, em acumulação, ao imediato.
+Art. 31.º As funções de director de instrução competem, em acumulação, ao imediato.
 
-###### Art. 32.º O director de instrução é responsável perante o comandante pela orientação pedagógica do ensino, competindo-lhe especialmente:
+Art. 32.º O director de instrução é responsável perante o comandante pela orientação pedagógica do ensino, competindo-lhe especialmente:
 
 a) Propor ao comandante as medidas que entender deverem ser tomadas acerca da orientação do ensino;
 
@@ -386,7 +440,7 @@ g) Assistir às aulas sempre que o julgue conveniente;
 
 h) Presidir ao júri das provas de aptidão cultural de admissão dos alunos.
 
-###### Art. 33.º - 1 - O director de instrução dispõe de dois adjuntos:
+Art. 33.º - 1 - O director de instrução dispõe de dois adjuntos:
 
 a) Um capitão-de-mar-e-guerra, ou capitão-de-fragata, de qualquer classe, para os assuntos de natureza pedagógica dos cursos de marinha, de engenheiros maquinistas navais e de administração naval;
 
@@ -396,9 +450,9 @@ b) Um capitão-de-mar-e-guerra, ou capitão-de-fragata, de qualquer classe, para
 
 ##### SUBSECÇÃO III — Conselho pedagógico
 
-###### Art. 34.º O conselho pedagógico é um órgão consultivo do director de instrução para assuntos de carácter pedagógico.
+Art. 34.º O conselho pedagógico é um órgão consultivo do director de instrução para assuntos de carácter pedagógico.
 
-###### Art. 35.º - 1 - O conselho pedagógico é presidido pelo director de instrução e constituído pelos professores efectivos mais antigos de cada gabinete de formação escolar e pelo comandante do corpo de alunos.
+Art. 35.º - 1 - O conselho pedagógico é presidido pelo director de instrução e constituído pelos professores efectivos mais antigos de cada gabinete de formação escolar e pelo comandante do corpo de alunos.
 
 2 - Quando assim o entender, o comandante poderá assistir às reuniões do conselho, assumindo a sua presidência.
 
@@ -406,7 +460,7 @@ b) Um capitão-de-mar-e-guerra, ou capitão-de-fragata, de qualquer classe, para
 
 4 - A eleição prevista no número anterior deverá ser homologada pelo comandante.
 
-###### Art. 36.º Ao conselho pedagógico compete pronunciar-se sobre as matérias a submeter à apreciação do conselho escolar, conforme indicado no artigo 17.º e ainda:
+Art. 36.º Ao conselho pedagógico compete pronunciar-se sobre as matérias a submeter à apreciação do conselho escolar, conforme indicado no artigo 17.º e ainda:
 
 a) Apreciar os estudos de natureza pedagógica que tenham sido realizados pelo gabinete de estudos e planeamento ou pelos gabinetes de formação escolar;
 
@@ -416,9 +470,9 @@ c) Apreciar o andamento do ensino durante o ano lectivo.
 
 ##### SUBSECÇÃO IV — Gabinete de estudos e planeamento
 
-###### Art. 37.º O gabinete de estudos e planeamento é um órgão de apoio do director de instrução, sendo chefiado pelo adjunto do director de instrução mais graduado ou antigo.
+Art. 37.º O gabinete de estudos e planeamento é um órgão de apoio do director de instrução, sendo chefiado pelo adjunto do director de instrução mais graduado ou antigo.
 
-###### Art. 38.º Ao gabinete de estudos e planeamento compete:
+Art. 38.º Ao gabinete de estudos e planeamento compete:
 
 a) Efectuar estudos técnicos sobre propostas de reestruturação do ensino, dos cursos e dos programas;
 
@@ -434,7 +488,7 @@ f) Elaborar a análise estatística do aproveitamento escolar.
 
 ##### SUBSECÇÃO V — Gabinetes de formação escolar
 
-###### Art. 39.º - 1 - Aos gabinetes de formação escolar compete o estudo, a coordenação e a orientação do ensino científico de base e do ensino técnico naval, no sentido de se obter o melhor rendimento da instrução.
+Art. 39.º - 1 - Aos gabinetes de formação escolar compete o estudo, a coordenação e a orientação do ensino científico de base e do ensino técnico naval, no sentido de se obter o melhor rendimento da instrução.
 
 2 - Os gabinetes de formação escolar são os seguintes:
 
@@ -454,37 +508,37 @@ f) Gabinete de formação de educação física.
 
 4 - Os directores de instrução das escolas de aplicação poderão participar nas reuniões dos gabinetes de formação escolar quando for considerada útil a sua presença.
 
-###### Art. 40.º Ao gabinete de formação académica compete especialmente o estudo, a coordenação e a orientação do ensino das matérias científicas de base necessárias à aprendizagem das matérias técnico-navais especializadas e à frequência dos cursos que, no âmbito da Armada, os alunos possam posteriormente ser chamados a frequentar.
+Art. 40.º Ao gabinete de formação académica compete especialmente o estudo, a coordenação e a orientação do ensino das matérias científicas de base necessárias à aprendizagem das matérias técnico-navais especializadas e à frequência dos cursos que, no âmbito da Armada, os alunos possam posteriormente ser chamados a frequentar.
 
-###### Art. 41.º O gabinete de formação académica é chefiado pelo professor efectivo que há mais tempo se encontre no exercício das suas funções e constituído por todos os professores das cadeiras a ele adstritas e por um aluno de cada ano ou curso, eleito pelos respectivos alunos.
+Art. 41.º O gabinete de formação académica é chefiado pelo professor efectivo que há mais tempo se encontre no exercício das suas funções e constituído por todos os professores das cadeiras a ele adstritas e por um aluno de cada ano ou curso, eleito pelos respectivos alunos.
 
-###### Art. 42.º Ao gabinete de formação técnico-naval de marinha compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnico-naval próprias da formação geral de qualquer oficial da Armada e do das matérias próprias da classe de marinha.
+Art. 42.º Ao gabinete de formação técnico-naval de marinha compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnico-naval próprias da formação geral de qualquer oficial da Armada e do das matérias próprias da classe de marinha.
 
-###### Art. 43.º Ao gabinete de formação técnico-naval de engenheiros maquinistas navais compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnico-naval próprias da classe dos engenheiros maquinistas navais.
+Art. 43.º Ao gabinete de formação técnico-naval de engenheiros maquinistas navais compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnico-naval próprias da classe dos engenheiros maquinistas navais.
 
-###### Art. 44.º Ao gabinete de formação técnico-naval de administração naval compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnico-naval próprias da classe de administração naval.
+Art. 44.º Ao gabinete de formação técnico-naval de administração naval compete especialmente o estudo, a coordenação e a orientação do ensino das matérias de natureza científica e técnico-naval próprias da classe de administração naval.
 
-###### Art. 45.º Os gabinetes de formação técnico-naval são chefiados pelos oficiais da Armada mais graduados ou antigos que deles façam parte e constituídos por todos os professores e instrutores das cadeiras e instruções que a cada um digam respeito e por um aluno de cada ano ou curso, das respectivas classes, eleito pelos alunos dessas classes ou cursos, do ano correspondente.
+Art. 45.º Os gabinetes de formação técnico-naval são chefiados pelos oficiais da Armada mais graduados ou antigos que deles façam parte e constituídos por todos os professores e instrutores das cadeiras e instruções que a cada um digam respeito e por um aluno de cada ano ou curso, das respectivas classes, eleito pelos alunos dessas classes ou cursos, do ano correspondente.
 
-###### Art. 46.º Ao gabinete de formação militar compete especialmente o estudo, a coordenação e a orientação das matérias relacionadas com a formação e educação militar dos alunos, por forma a desenvolver neles as qualidades morais, estimular o culto das virtudes militares e fornecer-lhes os conhecimentos militares e de organização indispensáveis ao exercício das funções de comando.
+Art. 46.º Ao gabinete de formação militar compete especialmente o estudo, a coordenação e a orientação das matérias relacionadas com a formação e educação militar dos alunos, por forma a desenvolver neles as qualidades morais, estimular o culto das virtudes militares e fornecer-lhes os conhecimentos militares e de organização indispensáveis ao exercício das funções de comando.
 
-###### Art. 47.º O gabinete de formação militar é chefiado pelo militar mais antigo que dele faça parte e constituído pelo comandante do corpo de alunos, pelos professores e instrutores das cadeiras e instruções a ele adstritas e por um aluno de cada ano ou curso, eleito pelos respectivos alunos.
+Art. 47.º O gabinete de formação militar é chefiado pelo militar mais antigo que dele faça parte e constituído pelo comandante do corpo de alunos, pelos professores e instrutores das cadeiras e instruções a ele adstritas e por um aluno de cada ano ou curso, eleito pelos respectivos alunos.
 
-###### Art. 48.º Ao gabinete de formação de educação física compete especialmente o estudo, a coordenação e a orientação da preparação física de todos os alunos, com o objectivo de lhes aumentar a capacidade física e moral, agilidade e desembaraço, criar-lhes o hábito de acção em grupo e dar-lhes a possibilidade de virem a ministrar aulas de Educação Física.
+Art. 48.º Ao gabinete de formação de educação física compete especialmente o estudo, a coordenação e a orientação da preparação física de todos os alunos, com o objectivo de lhes aumentar a capacidade física e moral, agilidade e desembaraço, criar-lhes o hábito de acção em grupo e dar-lhes a possibilidade de virem a ministrar aulas de Educação Física.
 
-###### Art. 49.º - 1 - O gabinete de formação de educação física é chefiado pelo professor ou instrutor que há mais tempo se encontre no exercício das suas funções e é constituído por todos os professores e instrutores de Educação Física e por um aluno de cada ano ou curso, eleito pelos respectivos alunos.
+Art. 49.º - 1 - O gabinete de formação de educação física é chefiado pelo professor ou instrutor que há mais tempo se encontre no exercício das suas funções e é constituído por todos os professores e instrutores de Educação Física e por um aluno de cada ano ou curso, eleito pelos respectivos alunos.
 
 2 - O gabinete de formação de educação física disporá dos mestres e treinadores necessários ao desempenho da sua missão.
 
-###### Art. 50.º O resultado das eleições referidas nos artigos anteriores deverá ser homologado pelo comandante.
+Art. 50.º O resultado das eleições referidas nos artigos anteriores deverá ser homologado pelo comandante.
 
-###### Art. 51.º - 1 - Cada gabinete de formação escolar dispõe do pessoal militar e civil necessário para colaborar na instrução e para assegurar a conservação e manutenção dos respectivos equipamentos e outro material escolar permanentemente atribuído aos grupos de cadeiras e instruções que pertencem ao gabinete.
+Art. 51.º - 1 - Cada gabinete de formação escolar dispõe do pessoal militar e civil necessário para colaborar na instrução e para assegurar a conservação e manutenção dos respectivos equipamentos e outro material escolar permanentemente atribuído aos grupos de cadeiras e instruções que pertencem ao gabinete.
 
 2 - Os gabinetes de formação escolar têm a seu cargo as instalações escolares directamente atribuídas às cadeiras e instruções que lhes dizem respeito.
 
-###### Art. 52.º Os serviços da Escola darão aos vários gabinetes de formação escolar a colaboração necessária para efeitos de manutenção, conservação e limpeza dos compartimentos a seu cargo.
+Art. 52.º Os serviços da Escola darão aos vários gabinetes de formação escolar a colaboração necessária para efeitos de manutenção, conservação e limpeza dos compartimentos a seu cargo.
 
-###### Art. 53.º Compete especialmente aos chefes dos gabinetes de formação escolar:
+Art. 53.º Compete especialmente aos chefes dos gabinetes de formação escolar:
 
 a) Coordenar o trabalho dos diversos elementos do respectivo gabinete, com vista à realização da sua missão;
 
@@ -498,13 +552,13 @@ e) Propor a aquisição ou reparação do material escolar especialmente necess�
 
 f) Exercer as funções de vogais do conselho de disciplina escolar.
 
-###### Art. 54.º - 1 - Nos grupos de cadeiras que incluam mais que um professor militar, compete ao mais graduado ou antigo exercer uma função de coordenador, sob a orientação do chefe do respectivo gabinete, no sentido de assegurar a conveniente unidade de acção.
+Art. 54.º - 1 - Nos grupos de cadeiras que incluam mais que um professor militar, compete ao mais graduado ou antigo exercer uma função de coordenador, sob a orientação do chefe do respectivo gabinete, no sentido de assegurar a conveniente unidade de acção.
 
 2 - No caso dos grupos de cadeiras de que façam parte apenas professores civis ou civis e militares, as funções referidas no número anterior serão desempenhadas pelo professor efectivo mais antigo no cargo.
 
 ##### SUBSECÇÃO VI — Gabinete de actividades circum-escolares
 
-###### Art. 55.º - 1 - O gabinete de actividades circum-escolares tem a seu cargo a promoção cultural dos alunos e a organização das actividades desportivas e de convívio social que devam realizar-se no âmbito da Escola, a fim de os valorizar como militares e como cidadãos.
+Art. 55.º - 1 - O gabinete de actividades circum-escolares tem a seu cargo a promoção cultural dos alunos e a organização das actividades desportivas e de convívio social que devam realizar-se no âmbito da Escola, a fim de os valorizar como militares e como cidadãos.
 
 2 - O gabinete de actividades circum-escolares é constituído por:
 
@@ -514,21 +568,21 @@ b) Um aluno de cada ano, eleito pelos alunos do seu ano, devendo o resultado das
 
 3 - O gabinete de actividades circum-escolares rege-se por normas próprias, aprovadas pelo comandante.
 
-###### Art. 56.º O gabinete de actividades circum-escolares inclui a associação desportiva da Escola Naval, a qual se destina a divulgar e intensificar as práticas desportivas e a organizar a sua comparticipação em competições.
+Art. 56.º O gabinete de actividades circum-escolares inclui a associação desportiva da Escola Naval, a qual se destina a divulgar e intensificar as práticas desportivas e a organizar a sua comparticipação em competições.
 
-###### Art. 57.º A associação desportiva da Escola Naval tem como presidente o chefe do serviço de educação física da Escola e rege-se por estatutos próprios, aprovados pelo comandante.
+Art. 57.º A associação desportiva da Escola Naval tem como presidente o chefe do serviço de educação física da Escola e rege-se por estatutos próprios, aprovados pelo comandante.
 
 ##### SUBSECÇÃO VII — Serviços de apoio à instrução
 
-###### Art. 58.º Os serviços de apoio à instrução incluem a biblioteca e museu, o serviço de publicações escolares e o serviço de ajudas áudio-visuais.
+Art. 58.º Os serviços de apoio à instrução incluem a biblioteca e museu, o serviço de publicações escolares e o serviço de ajudas áudio-visuais.
 
-###### Art. 59.º - 1 - A biblioteca tem por fim facultar aos alunos, professores e outros oficiais os livros, publicações periódicas e outras espécies bibliográficas destinadas a ampliar a sua cultura geral e profissional.
+Art. 59.º - 1 - A biblioteca tem por fim facultar aos alunos, professores e outros oficiais os livros, publicações periódicas e outras espécies bibliográficas destinadas a ampliar a sua cultura geral e profissional.
 
 2 - No âmbito da biblioteca funciona o museu da Escola.
 
-###### Art. 60.º A biblioteca e o museu são dirigidos, em regime de acumulação, por um professor, nomeado pelo comandante, tendo como adjunto um oficial subalterno das classes do serviço geral ou de oficiais técnicos.
+Art. 60.º A biblioteca e o museu são dirigidos, em regime de acumulação, por um professor, nomeado pelo comandante, tendo como adjunto um oficial subalterno das classes do serviço geral ou de oficiais técnicos.
 
-###### Art. 61.º Compete especialmente ao serviço de publicações escolares:
+Art. 61.º Compete especialmente ao serviço de publicações escolares:
 
 a) Editar ou promover a aquisição dos livros e outro material escolar que deva ser fornecido aos alunos, nos termos do artigo 193.º;
 
@@ -542,9 +596,9 @@ e) Editar os planos de curso, programas, folhetos de instrução e outras public
 
 f) Imprimir quaisquer outros trabalhos requisitados pelos vários órgãos e serviços da Escola.
 
-###### Art. 62.º O serviço de publicações escolares é dirigido por um oficial subalterno das classes do serviço geral ou de oficiais técnicos.
+Art. 62.º O serviço de publicações escolares é dirigido por um oficial subalterno das classes do serviço geral ou de oficiais técnicos.
 
-###### Art. 63.º O serviço de ajudas áudio-visuais tem especialmente a seu cargo:
+Art. 63.º O serviço de ajudas áudio-visuais tem especialmente a seu cargo:
 
 a) Manter-se ao corrente da evolução dos diversos tipos de ajudas áudio-visuais e promover a divulgação desses conhecimentos entre os professores;
 
@@ -556,15 +610,15 @@ d) Promover a guarda, conservação, manutenção, distribuição e recolha de a
 
 e) Promover a reparação das ajudas áudio-visuais.
 
-###### Art. 64.º O serviço de ajudas áudio-visuais é dirigido, em regime de acumulação, por um professor, nomeado pelo comandante.
+Art. 64.º O serviço de ajudas áudio-visuais é dirigido, em regime de acumulação, por um professor, nomeado pelo comandante.
 
 ##### SUBSECÇÃO VIII — Secretaria escolar
 
-###### Art. 65.º À secretaria escolar incumbe a recepção, registo, escrituração, encaminhamento, expedição e arquivo da correspondência e outro expediente relativo aos assuntos escolares.
+Art. 65.º À secretaria escolar incumbe a recepção, registo, escrituração, encaminhamento, expedição e arquivo da correspondência e outro expediente relativo aos assuntos escolares.
 
-###### Art. 66.º A secretaria escolar é chefiada por um oficial superior pertencente ao corpo docente, designado por secretário escolar, nomeado pelo comandante sob proposta do director de instrução.
+Art. 66.º A secretaria escolar é chefiada por um oficial superior pertencente ao corpo docente, designado por secretário escolar, nomeado pelo comandante sob proposta do director de instrução.
 
-###### Art. 67.º Compete especialmente ao secretário escolar:
+Art. 67.º Compete especialmente ao secretário escolar:
 
 a) Dirigir a secretaria escolar;
 
@@ -572,7 +626,7 @@ b) Desempenhar as funções de secretário permanente do conselho escolar;
 
 c) Prestar a necessária colaboração ao director de instrução.
 
-###### Art. 68.º São tarefas específicas da secretaria escolar:
+Art. 68.º São tarefas específicas da secretaria escolar:
 
 a) Dar entrada aos requerimentos e outros documentos relativos aos concursos para alunos ou para professores e organizar os respectivos processos;
 
@@ -598,7 +652,7 @@ j) Processar a correspondência e outros documentos relativos a assuntos de inst
 
 ##### SUBSECÇÃO I — Professores e instrutores
 
-###### Art. 69.º O corpo docente da Escola Naval, ao qual compete directamente a realização dos fins educativos desta, é constituído por:
+Art. 69.º O corpo docente da Escola Naval, ao qual compete directamente a realização dos fins educativos desta, é constituído por:
 
 a) Professores das cadeiras de natureza académica em que estão incluídos os de línguas estrangeiras;
 
@@ -606,7 +660,7 @@ b) Professores das cadeiras de natureza técnico-naval;
 
 c) Instrutores.
 
-###### Art. 70.º - 1 - Os professores das cadeiras de natureza académica são professores universitários ou individualidades militares ou civis habilitadas com curso superior e de comprovada competência nas matérias das respectivas cadeiras.
+Art. 70.º - 1 - Os professores das cadeiras de natureza académica são professores universitários ou individualidades militares ou civis habilitadas com curso superior e de comprovada competência nas matérias das respectivas cadeiras.
 
 2 - O número de professores das cadeiras de natureza académica atribuídas a cada grupo é o que consta em I do anexo B a este Regulamento.
 
@@ -630,19 +684,19 @@ d) Por escolha do Chefe do Estado-Maior da Armada, sob proposta do comandante da
 
 8 - Os professores referidos no número anterior poderão ser entidades civis ou militares dos quadros permanentes ou de complemento habilitadas com curso superior e de comprovada competência nas matérias das respectivas cadeiras, sendo o modo de admissão determinado, caso a caso, por despacho do Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
 
-###### Art. 71.º - 1 - Os professores das cadeiras de natureza técnico-naval são oficiais da Armada de reconhecida competência nas matérias das respectivas cadeiras e que obedeçam às condições estabelecidas em II do anexo B a este Regulamento.
+Art. 71.º - 1 - Os professores das cadeiras de natureza técnico-naval são oficiais da Armada de reconhecida competência nas matérias das respectivas cadeiras e que obedeçam às condições estabelecidas em II do anexo B a este Regulamento.
 
 2 - A admissão de professores a que se refere o número anterior é feita mediante concurso documental.
 
 3 - Só podem ser admitidos ao concurso referido no número anterior oficiais com os postos de capitão-de-fragata, capitão-tenente e primeiro-tenente.
 
-###### Art. 72.º Na falta de concorrentes ao concurso referido no n.º 2 do artigo anterior, ou quando os mesmos não sejam aprovados em mérito absoluto, a admissão será feita por escolha do superintendente dos Serviços do Pessoal da Armada, sob proposta do comandante da Escola após parecer do conselho escolar.
+Art. 72.º Na falta de concorrentes ao concurso referido no n.º 2 do artigo anterior, ou quando os mesmos não sejam aprovados em mérito absoluto, a admissão será feita por escolha do superintendente dos Serviços do Pessoal da Armada, sob proposta do comandante da Escola após parecer do conselho escolar.
 
-###### Art. 73.º - 1 - Quando ocorrer alguma vacatura de professor ou esta estiver prevista para o ano lectivo seguinte, o comandante, depois de obtido despacho concordante do Chefe do Estado-Maior da Armada, mandará abrir o respectivo concurso.
+Art. 73.º - 1 - Quando ocorrer alguma vacatura de professor ou esta estiver prevista para o ano lectivo seguinte, o comandante, depois de obtido despacho concordante do Chefe do Estado-Maior da Armada, mandará abrir o respectivo concurso.
 
 2 - Os concursos referidos no número anterior regem-se pelas normas que constituem o anexo C a este Regulamento.
 
-###### Art. 74.º - 1 - Os instrutores podem ser civis ou militares, conforme o estabelecido em II do anexo B a este Regulamento.
+Art. 74.º - 1 - Os instrutores podem ser civis ou militares, conforme o estabelecido em II do anexo B a este Regulamento.
 
 2 - A nomeação dos instrutores a que se refere o número anterior, quando se trate de oficiais da Armada, é feita pelo superintendente dos Serviços do Pessoal da Armada, sob proposta do comandante da Escola.
 
@@ -650,25 +704,25 @@ d) Por escolha do Chefe do Estado-Maior da Armada, sob proposta do comandante da
 
 4 - A admissão dos instrutores referidos neste artigo, quando se trate de civis, é feita mediante concurso documental, seguido de provas quando julgado necessário pelo respectivo júri de admissão.
 
-###### Art. 75.º A nomeação dos professores e a dos instrutores civis é feita por portaria do Chefe do Estado-Maior da Armada.
+Art. 75.º A nomeação dos professores e a dos instrutores civis é feita por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 76.º - 1 - A nomeação dos professores militares considera-se provisória durante o primeiro ano de exercício; a nomeação definitiva dependerá de proposta do comandante, ouvido o parecer do conselho escolar em sessão na qual tomarão parte somente os professores efectivos.
+Art. 76.º - 1 - A nomeação dos professores militares considera-se provisória durante o primeiro ano de exercício; a nomeação definitiva dependerá de proposta do comandante, ouvido o parecer do conselho escolar em sessão na qual tomarão parte somente os professores efectivos.
 
 2 - A admissão de professores civis para a regência de cadeiras e aulas práticas de natureza académica, com excepção dos professores de línguas estrangeiras, é feita com carácter provisório por contrato com a duração de dois anos, prorrogável por igual período de tempo mediante despacho do Chefe do Estado-Maior da Armada, sob proposta do comandante, ouvido o conselho escolar. Findo o segundo período do contrato, é a nomeação convertida em definitiva, se assim for proposto pelo comandante, com base em voto favorável de, pelo menos, dois terços dos professores efectivos reunidos em conselho escolar.
 
 3 - Os professores militares e civis passam a efectivos após a sua nomeação definitiva.
 
-###### Art. 77.º No impedimento temporário de um professor, ou enquanto se aguarda o preenchimento de uma vacatura, será a regência da respectiva cadeira exercida:
+Art. 77.º No impedimento temporário de um professor, ou enquanto se aguarda o preenchimento de uma vacatura, será a regência da respectiva cadeira exercida:
 
 a) Por outro professor nomeado pelo comandante, ouvido o conselho escolar;
 
 b) Por um oficial da Armada, designado pelo superintendente dos Serviços do Pessoal da Armada, sob proposta do comandante, ouvido o conselho escolar.
 
-###### Art. 78.º - 1 - Quando necessário, o comandante da Escola, sob proposta do director de instrução, promoverá que os professores e instrutores frequentem cursos ou estágios em escolas nacionais e estrangeiras, para o estudo de problemas relacionados com o ensino ou para a actualização de conhecimentos técnicos e científicos.
+Art. 78.º - 1 - Quando necessário, o comandante da Escola, sob proposta do director de instrução, promoverá que os professores e instrutores frequentem cursos ou estágios em escolas nacionais e estrangeiras, para o estudo de problemas relacionados com o ensino ou para a actualização de conhecimentos técnicos e científicos.
 
 2 - Os professores civis podem, quando não seja julgado inconveniente, usufruir do ano sabático, nos termos da legislação em vigor para as Universidades.
 
-###### Art. 79.º - 1 - As durações das comissões dos oficiais da Armada que fazem parte do corpo docente da Escola Naval são as estabelecidas no Estatuto do Oficial da Armada.
+Art. 79.º - 1 - As durações das comissões dos oficiais da Armada que fazem parte do corpo docente da Escola Naval são as estabelecidas no Estatuto do Oficial da Armada.
 
 2 - Os professores das cadeiras de natureza técnico-naval que porventura sejam promovidos ao posto de capitão-de-mar-e-guerra antes do termo da sua comissão serão exonerados no final do ano lectivo em que se verifique a promoção.
 
@@ -676,19 +730,19 @@ b) Por um oficial da Armada, designado pelo superintendente dos Serviços do Pes
 
 ##### SUBSECÇÃO II — Atribuições e deveres gerais dos professores e instrutores
 
-###### Art. 80.º - 1 - Compete de um modo geral aos professores e instrutores constribuir por todos os meios ao seu alcance para a formação militar-naval dos alunos e para a sua valorização como cidadãos.
+Art. 80.º - 1 - Compete de um modo geral aos professores e instrutores constribuir por todos os meios ao seu alcance para a formação militar-naval dos alunos e para a sua valorização como cidadãos.
 
 2 - Os professores e instrutores são responsáveis pela manutenção da disciplina e pelo exacto cumprimento das disposições regulamentares em vigor, no âmbito das suas actividades.
 
 3 - Os professores e instrutores, no âmbito das respectivas cadeiras e instruções, devem procurar incentivar nos alunos o gosto pelo estudo e pela investigação, desenvolvendo neles a capacidade de análise e de crítica e possibilitando-lhes a elaboração de trabalhos originais que contribuam para a sua valorização técnica e cultural.
 
-###### Art. 81.º Os professores e instrutores devem dedicar-se inteiramente à sua missão, por forma a garantir o máximo de assistência aos alunos.
+Art. 81.º Os professores e instrutores devem dedicar-se inteiramente à sua missão, por forma a garantir o máximo de assistência aos alunos.
 
-###### Art. 82.º - 1 - Compete especialmente aos professores ministrar o ensino das matérias relativas ao respectivo grupo de cadeiras, por meio de aulas teóricas, aulas práticas ou de palestras.
+Art. 82.º - 1 - Compete especialmente aos professores ministrar o ensino das matérias relativas ao respectivo grupo de cadeiras, por meio de aulas teóricas, aulas práticas ou de palestras.
 
 2 - Compete especialmente aos instrutores ministrar o ensino das matérias relativas às respectivas instruções por meio de aulas práticas e, quando necessário, por meio de aulas teóricas.
 
-###### Art. 83.º Compete de um modo geral a todos os professores e instrutores:
+Art. 83.º Compete de um modo geral a todos os professores e instrutores:
 
 a) Dar a melhor colaboração às actividades do gabinete de formação escolar;
 
@@ -724,21 +778,21 @@ q) Dedicar-se à investigação científica ou técnica no domínio das matéria
 
 r) Proceder à actualização do seu curriculum vitae.
 
-###### Art. 84.º Compete aos professores e instrutores desempenhar em acumulação os cargos de chefes dos serviços técnicos da unidade, quando para tal foram designados pelo comandante.
+Art. 84.º Compete aos professores e instrutores desempenhar em acumulação os cargos de chefes dos serviços técnicos da unidade, quando para tal foram designados pelo comandante.
 
-###### Art. 85.º Compete aos professores e instrutores dar até oito horas de aulas teóricas por semana e um número de horas de aulas práticas tal que, adicionado ao das aulas teóricas, não exceda catorze horas por semana.
+Art. 85.º Compete aos professores e instrutores dar até oito horas de aulas teóricas por semana e um número de horas de aulas práticas tal que, adicionado ao das aulas teóricas, não exceda catorze horas por semana.
 
-###### Art. 86.º Compete ainda aos instrutores exercer em acumulação os cargos de comandantes das companhias de alunos e da equipagem, bem como desempenhar as funções de oficial de dia.
+Art. 86.º Compete ainda aos instrutores exercer em acumulação os cargos de comandantes das companhias de alunos e da equipagem, bem como desempenhar as funções de oficial de dia.
 
 #### SECÇÃO VII — Corpo de alunos
 
 ##### SUBSECÇÃO I — Estrutura e funções
 
-###### Art. 87.º Os alunos estão integrados no corpo de alunos da Escola Naval.
+Art. 87.º Os alunos estão integrados no corpo de alunos da Escola Naval.
 
-###### Art. 88.º Ao comandante do corpo de alunos compete fundamentalmente colaborar na preparação militar, moral, social, cultural e física dos alunos, tendo em vista a sua correcta formação como militares, como chefes e também como cidadãos.
+Art. 88.º Ao comandante do corpo de alunos compete fundamentalmente colaborar na preparação militar, moral, social, cultural e física dos alunos, tendo em vista a sua correcta formação como militares, como chefes e também como cidadãos.
 
-###### Art. 89.º O corpo de alunos compreende:
+Art. 89.º O corpo de alunos compreende:
 
 a) Comandante do corpo de alunos;
 
@@ -750,9 +804,9 @@ d) Secretaria do corpo de alunos.
 
 ##### SUBSECÇÃO II — Comandante do corpo de alunos
 
-###### Art. 90.º O comandante do corpo de alunos é um capitão-tenente ou capitão-de-fragata da classe de marinha, nomeado pelo superintendente dos Serviços do Pessoal da Armada, ouvido o comandante da Escola Naval.
+Art. 90.º O comandante do corpo de alunos é um capitão-tenente ou capitão-de-fragata da classe de marinha, nomeado pelo superintendente dos Serviços do Pessoal da Armada, ouvido o comandante da Escola Naval.
 
-###### Art. 91.º - 1 - Compete de um modo geral ao comandante do corpo de alunos orientar a acção dos órgãos sob a sua dependência, de acordo com as directivas do comandante, por forma a contribuir para a completa e correcta formação dos alunos, como militares, como chefes e também como cidadãos.
+Art. 91.º - 1 - Compete de um modo geral ao comandante do corpo de alunos orientar a acção dos órgãos sob a sua dependência, de acordo com as directivas do comandante, por forma a contribuir para a completa e correcta formação dos alunos, como militares, como chefes e também como cidadãos.
 
 2 - Compete nomeadamente ao comandante do corpo de alunos:
 
@@ -776,13 +830,13 @@ i) Passar, quando o entender, revistas ao corpo de alunos e suas dependências;
 
 j) Orientar superiormente as actividades do serviço do internato.
 
-###### Art. 92.º O comandante do corpo de alunos tem como auxiliares directos os comandantes das companhias de alunos.
+Art. 92.º O comandante do corpo de alunos tem como auxiliares directos os comandantes das companhias de alunos.
 
 ##### SUBSECÇÃO III — Comandantes de companhia e imediatos de companhia
 
-###### Art. 93.º Os comandantes de companhia são responsáveis directos pela disciplina, apresentação e actuação dos alunos das respectivas companhias.
+Art. 93.º Os comandantes de companhia são responsáveis directos pela disciplina, apresentação e actuação dos alunos das respectivas companhias.
 
-###### Art. 94.º - 1 - Aos comandantes de companhia compete genericamente:
+Art. 94.º - 1 - Aos comandantes de companhia compete genericamente:
 
 a) Cuidar da formação de carácter militar dos alunos, através do seu exemplo, prestígio, experiência e qualidades de chefia;
 
@@ -814,35 +868,35 @@ i) Desempenhar as funções de oficial de serviço ao corpo de alunos, quando in
 
 j) Exercer a competência disciplinar que lhes cabe, nos termos do artigo 220.º
 
-###### Art. 95.º Os comandantes das companhias têm como auxiliares directos os imediatos das companhias.
+Art. 95.º Os comandantes das companhias têm como auxiliares directos os imediatos das companhias.
 
-###### Art. 96.º As funções de imediato de companhia são desempenhadas pelo aluno mais antigo da respectiva companhia.
+Art. 96.º As funções de imediato de companhia são desempenhadas pelo aluno mais antigo da respectiva companhia.
 
-###### Art. 97.º Ao imediato da companhia compete, nomeadamente, comandar a respectiva companhia nas formaturas de serviço interno.
+Art. 97.º Ao imediato da companhia compete, nomeadamente, comandar a respectiva companhia nas formaturas de serviço interno.
 
 ##### SUBSECÇÃO IV — Companhias de alunos
 
-###### Art. 98.º - 1 - O corpo de alunos está organizado em companhias para efeito de enquadramento militar e disciplinar e apoio administrativo dos respectivos alunos.
+Art. 98.º - 1 - O corpo de alunos está organizado em companhias para efeito de enquadramento militar e disciplinar e apoio administrativo dos respectivos alunos.
 
 2 - As companhias são comandadas por primeiros-tenentes, nomeados pelo comandante de entre os instrutores prestando serviço na Escola.
 
-###### Art. 99.º Cada companhia de alunos é geralmente constituída pelos alunos de um mesmo ano.
+Art. 99.º Cada companhia de alunos é geralmente constituída pelos alunos de um mesmo ano.
 
 ##### SUBSECÇÃO V — Serviço do internato
 
-###### Art. 100.º - 1 - O serviço do internato tem a seu cargo a conservação, manutenção e a conveniente arrumação das instalações ocupadas pelo corpo de alunos (camaratas, salas de estudo, salas de jogos e de música, sala de televisão, salas de estar, etc.).
+Art. 100.º - 1 - O serviço do internato tem a seu cargo a conservação, manutenção e a conveniente arrumação das instalações ocupadas pelo corpo de alunos (camaratas, salas de estudo, salas de jogos e de música, sala de televisão, salas de estar, etc.).
 
 2 - O serviço do internato é dirigido por um oficial subalterno das classes do serviço geral ou de oficiais técnicos, designado por chefe do serviço do internato.
 
 3 - O chefe do serviço do internato depende directamente do comandante do corpo de alunos.
 
-###### Art. 101.º - 1 - O serviço do internato dispõe do pessoal militar e civil necessário ao desempenho das tarefas que lhe estão atribuídas.
+Art. 101.º - 1 - O serviço do internato dispõe do pessoal militar e civil necessário ao desempenho das tarefas que lhe estão atribuídas.
 
 2 - O serviço do internato é responsável pelas instalações e outro material que lhe esteja directamente atribuído.
 
 ##### SUBSECÇÃO VI — Secretaria do corpo de alunos
 
-###### Art. 102.º - À secretaria do corpo de alunos compete, nomeadamente:
+Art. 102.º - À secretaria do corpo de alunos compete, nomeadamente:
 
 a) A manutenção de um registo de assentos de cada aluno, no que se refere ao seu comportamento e espírito militar;
 
@@ -850,15 +904,15 @@ b) A manutenção de um registo biográfico de cada aluno.
 
 #### SECÇÃO VIII — Serviços
 
-###### Art. 103.º A Escola Naval, como unidade da Armada, dispõe dos serviços necessários para o seu funcionamento.
+Art. 103.º A Escola Naval, como unidade da Armada, dispõe dos serviços necessários para o seu funcionamento.
 
-###### Art. 104.º Os serviços referidos no artigo anterior regem-se pela Ordenança do Serviço Naval em tudo o que for aplicável.
+Art. 104.º Os serviços referidos no artigo anterior regem-se pela Ordenança do Serviço Naval em tudo o que for aplicável.
 
-###### Art. 105.º Os serviços têm por obrigação colaborar, no âmbito das suas actividades e por todas as formas ao seu alcance, na formação dos alunos.
+Art. 105.º Os serviços têm por obrigação colaborar, no âmbito das suas actividades e por todas as formas ao seu alcance, na formação dos alunos.
 
 #### SECÇÃO IX — Companhia de equipagem
 
-###### Art. 106.º - 1 - A companhia de equipagem compreende os sargentos e praças da guarnição.
+Art. 106.º - 1 - A companhia de equipagem compreende os sargentos e praças da guarnição.
 
 2 - O pessoal a que se refere este artigo está directamente subordinado ao respectivo comandante de companhia para efeitos administrativos, de instrução geral e disciplinares.
 
@@ -868,7 +922,7 @@ b) A manutenção de um registo biográfico de cada aluno.
 
 #### SECÇÃO X — Secretaria do comando
 
-###### Art. 107.º - 1 - À secretaria do comando incumbe a recepção, registo, escrituração, encaminhamento, expedição e arquivo da correspondência relativa a assuntos não escolares.
+Art. 107.º - 1 - À secretaria do comando incumbe a recepção, registo, escrituração, encaminhamento, expedição e arquivo da correspondência relativa a assuntos não escolares.
 
 2 - A secretaria do comando é dirigida superiormente pelo imediato.
 
@@ -876,23 +930,23 @@ b) A manutenção de um registo biográfico de cada aluno.
 
 #### SECÇÃO I — Orientação pedagógica do ensino
 
-###### Art. 108.º Os programas dos cursos e a natureza e desenvolvimento das matérias neles incluídas visarão atingir um adequado equilíbrio entre os requisitos de cultura científica e humanística de base, necessários para o desempenho das diversas funções de qualquer oficial ao longo da sua carreira e para a eventual frequência de cursos pós-graduação, e os de ordem mais marcadamente profissional, exigidos para o exercício das funções que competem aos oficiais subalternos não especializados das respectivas classes.
+Art. 108.º Os programas dos cursos e a natureza e desenvolvimento das matérias neles incluídas visarão atingir um adequado equilíbrio entre os requisitos de cultura científica e humanística de base, necessários para o desempenho das diversas funções de qualquer oficial ao longo da sua carreira e para a eventual frequência de cursos pós-graduação, e os de ordem mais marcadamente profissional, exigidos para o exercício das funções que competem aos oficiais subalternos não especializados das respectivas classes.
 
-###### Art. 109.º Na elaboração dos planos dos cursos e em toda a organização da vida escolar, ter-se-ão sempre presentes as características do ensino superior em matéria de estudo, investigação e trabalho em grupo e a necessidade de proporcionar aos alunos, em tempo e em meios, cultura geral, prática de desportos e convívio social.
+Art. 109.º Na elaboração dos planos dos cursos e em toda a organização da vida escolar, ter-se-ão sempre presentes as características do ensino superior em matéria de estudo, investigação e trabalho em grupo e a necessidade de proporcionar aos alunos, em tempo e em meios, cultura geral, prática de desportos e convívio social.
 
-###### Art. 110.º - 1 - A preparação militar dos alunos será objecto de especial cuidado, tendo em vista que à Escola Naval interessa, fundamentalmente, formar bons oficiais e cidadãos úteis ao seu país. Por isso os alunos devem ser educados no culto do amor da Pátria, do respeito pela lei, da verdade, da lealdade, da coragem física e moral e das tradições da Marinha.
+Art. 110.º - 1 - A preparação militar dos alunos será objecto de especial cuidado, tendo em vista que à Escola Naval interessa, fundamentalmente, formar bons oficiais e cidadãos úteis ao seu país. Por isso os alunos devem ser educados no culto do amor da Pátria, do respeito pela lei, da verdade, da lealdade, da coragem física e moral e das tradições da Marinha.
 
 2 - Ao longo da sua permanência na Escola e de maneira gradual, deve ser incentivado nos alunos o gosto da responsabilidade que o exercício da autoridade envolve e a nobreza e a independência da disciplina militar, laço moral que liga entre si todos os militares.
 
 3 - As qualidades militares têm um carácter determinante na apreciação dos alunos.
 
-###### Art. 111.º Os professores, instrutores e alunos devem assegurar-se, em estreita colaboração, de que os métodos pedagógicos utilizados na orientação do ensino e na avaliação dos resultados são os mais adequados ao seu melhor rendimento.
+Art. 111.º Os professores, instrutores e alunos devem assegurar-se, em estreita colaboração, de que os métodos pedagógicos utilizados na orientação do ensino e na avaliação dos resultados são os mais adequados ao seu melhor rendimento.
 
-###### Art. 112.º Todos os oficiais em serviço na Escola, nomeadamente os professores, com o seu prestígio e experiência, devem constituir em todas as circunstâncias, perante os alunos, exemplos e guias permanentes de virtudes cívicas, militares e profissionais.
+Art. 112.º Todos os oficiais em serviço na Escola, nomeadamente os professores, com o seu prestígio e experiência, devem constituir em todas as circunstâncias, perante os alunos, exemplos e guias permanentes de virtudes cívicas, militares e profissionais.
 
 #### SECÇÃO II — Estrutura dos cursos
 
-###### Art. 113.º Para os fins indicados no artigo 1.º, são ministrados na Escola Naval os seguintes cursos:
+Art. 113.º Para os fins indicados no artigo 1.º, são ministrados na Escola Naval os seguintes cursos:
 
 a) Curso de marinha;
 
@@ -900,19 +954,19 @@ b) Curso de engenheiros maquinistas navais;
 
 c) Curso de administração naval.
 
-###### Art. 114.º Por portaria do Chefe do Estado-Maior da Armada, poderão ser ministrados na Escola Naval outros cursos de formação de oficiais.
+Art. 114.º Por portaria do Chefe do Estado-Maior da Armada, poderão ser ministrados na Escola Naval outros cursos de formação de oficiais.
 
-###### Art. 115.º Os cursos ministrados na Escola Naval são estruturados no sentido de se conseguir uma formação integral dos alunos como militares, marinheiros, chefes e técnicos navais.
+Art. 115.º Os cursos ministrados na Escola Naval são estruturados no sentido de se conseguir uma formação integral dos alunos como militares, marinheiros, chefes e técnicos navais.
 
-###### Art. 116.º Os cursos referidos no artigo 113.º têm a duração total de cinco anos, em que se inclui, no último ano, um tirocínio de embarque, e são, para todos os efeitos legais, considerados cursos superiores.
+Art. 116.º Os cursos referidos no artigo 113.º têm a duração total de cinco anos, em que se inclui, no último ano, um tirocínio de embarque, e são, para todos os efeitos legais, considerados cursos superiores.
 
-###### Art. 117.º - 1 - As actividades escolares processam-se de acordo com o programa anual das actividades escolares, que constitui o anexo D a este Regulamento.
+Art. 117.º - 1 - As actividades escolares processam-se de acordo com o programa anual das actividades escolares, que constitui o anexo D a este Regulamento.
 
 2 - As designações de ano lectivo e de ano escolar referem-se, respectivamente, aos períodos de 1 de Outubro a 15 de Junho e de 1 de Outubro a 30 de Setembro.
 
 3 - Designam-se por semestres lectivos as duas partes em que se divide o ano lectivo.
 
-###### Art. 118.º As matérias que fazem parte dos cursos agrupam-se nas seguintes categorias:
+Art. 118.º As matérias que fazem parte dos cursos agrupam-se nas seguintes categorias:
 
 a) Matérias de natureza académica, não essencialmente militares, destinadas a servir de base à formação técnico-naval dos alunos e a aumentar a sua cultura geral;
 
@@ -920,11 +974,11 @@ b) Matérias de natureza técnico-naval, diferenciadas conforme os cursos, desti
 
 c) Matérias de natureza militar-naval, comuns a todos os cursos, destinadas à formação dos alunos como militares e como marinheiros.
 
-###### Art. 119.º - 1 - Com o fim de obter melhor rendimento dos oficiais que se formam na Escola Naval, são comuns às três classes o ensino das matérias de carácter humanístico, da instrução militar, da marinharia, das línguas estrangeiras, da educação física, da higiene naval e da orgânica geral das forças armadas, em particular da Marinha, e dos serviços de bordo e de guarnição.
+Art. 119.º - 1 - Com o fim de obter melhor rendimento dos oficiais que se formam na Escola Naval, são comuns às três classes o ensino das matérias de carácter humanístico, da instrução militar, da marinharia, das línguas estrangeiras, da educação física, da higiene naval e da orgânica geral das forças armadas, em particular da Marinha, e dos serviços de bordo e de guarnição.
 
 2 - Aos alunos dos cursos de engenheiros maquinistas navais e de administração naval são ministrados conhecimentos gerais de navegação, comunicações, armamento naval, governo e manobra do navio, para que fiquem aptos ao desempenho das funções de oficial de dia e de oficial de quarto à ponte.
 
-###### Art. 120.º O ensino é ministrado por meio de:
+Art. 120.º O ensino é ministrado por meio de:
 
 a) Aulas teóricas;
 
@@ -940,13 +994,13 @@ f) Embarques, exercícios e manobras navais, estágios e outros trabalhos de apl
 
 g) Conferências de informação geral, realizadas por personalidades de relevo nos meios militar, científico, técnico, marítimo, cultural, artístico, político ou económico, convidadas pelo comandante da Escola.
 
-###### Art. 121.º O ensino pode ser feito na Escola, em navios ou quaisquer estabelecimentos em terra, conforme previsto nos respectivos planos de curso.
+Art. 121.º O ensino pode ser feito na Escola, em navios ou quaisquer estabelecimentos em terra, conforme previsto nos respectivos planos de curso.
 
-###### Art. 122.º A organização dos cursos de marinha, de engenheiros maquinistas navais e de administração naval é a que consta dos planos de curso que constituem os anexos E, F e G a este Regulamento.
+Art. 122.º A organização dos cursos de marinha, de engenheiros maquinistas navais e de administração naval é a que consta dos planos de curso que constituem os anexos E, F e G a este Regulamento.
 
 #### SECÇÃO III — Cadeiras e instruções
 
-###### Art. 123.º - 1 - As matérias dos cursos professados na Escola Naval distribuem-se por cadeiras, aulas práticas e instruções, completadas por estágios e embarques, de duração e natureza variáveis, de acordo com o curso e ano a que respeitam.
+Art. 123.º - 1 - As matérias dos cursos professados na Escola Naval distribuem-se por cadeiras, aulas práticas e instruções, completadas por estágios e embarques, de duração e natureza variáveis, de acordo com o curso e ano a que respeitam.
 
 2 - As cadeiras, de acordo com a sua natureza, dividem-se em:
 
@@ -956,11 +1010,11 @@ b) Cadeiras técnico-navais.
 
 3 - As cadeiras e instruções ministradas na Escola Naval são as que constam do anexo H ao presente Regulamento.
 
-###### Art. 124.º - 1 - As cadeiras de natureza académica e que visam a preparação científica e humanística de base terão um âmbito, nível e escolaridade tais que as tornem para todos os efeitos equivalentes às professadas nas Universidades e por forma a que, no conjunto, permitam a atribuição de um grau académico idêntico ao conferido por aquelas.
+Art. 124.º - 1 - As cadeiras de natureza académica e que visam a preparação científica e humanística de base terão um âmbito, nível e escolaridade tais que as tornem para todos os efeitos equivalentes às professadas nas Universidades e por forma a que, no conjunto, permitam a atribuição de um grau académico idêntico ao conferido por aquelas.
 
 2 - As equivalências de cadeiras e graus académicos constarão de diploma especial.
 
-###### Art. 125.º - 1 - O ensino ministrado nas cadeiras técnico-navais, nas aulas práticas e nas instruções visa a habilitação específica para as funções do oficial da Armada e a preparação física dos alunos.
+Art. 125.º - 1 - O ensino ministrado nas cadeiras técnico-navais, nas aulas práticas e nas instruções visa a habilitação específica para as funções do oficial da Armada e a preparação física dos alunos.
 
 2 - O ensino a que se refere o número anterior será apoiado pelo meios de instrução existentes na Escola, os quais deverão acompanhar, na medida do possível, a evolução do material naval, e ainda:
 
@@ -970,11 +1024,11 @@ b) Pela utilização directa do material e equipamentos das unidades navais, com
 
 c) Pela prática de mar, em embarques, e utilização directa e manobra de embarcações de vários tipos.
 
-###### Art. 126.º - 1 - Nas cadeiras, o ensino é normalmente ministrado através de aulas teóricas e aulas teórico-práticas, aulas práticas, realização de trabalhos ou palestras.
+Art. 126.º - 1 - Nas cadeiras, o ensino é normalmente ministrado através de aulas teóricas e aulas teórico-práticas, aulas práticas, realização de trabalhos ou palestras.
 
 2 - Nas instruções, o ensino é normalmente ministrado por meio de aulas práticas.
 
-###### Art. 127.º - 1 - São reservados a cada um dos gabinetes de formação os seguintes números para os grupos de cadeiras:
+Art. 127.º - 1 - São reservados a cada um dos gabinetes de formação os seguintes números para os grupos de cadeiras:
 
 Gabinete de formação académica - 1.º ao 9.º grupos;
 
@@ -998,7 +1052,7 @@ Gabinete de formação militar - Armamento Portátil, Infantaria, Regulamentos e
 
 Gabinete de formação de educação física - Educação Física.
 
-###### Art. 128.º - 1 - De cada cadeira ou instrução haverá um programa geral, discriminando os objectivos, as matérias, a escolaridade, a orientação geral com que deve ser ministrada e as publicações que hão-de servir de base ao seu ensino.
+Art. 128.º - 1 - De cada cadeira ou instrução haverá um programa geral, discriminando os objectivos, as matérias, a escolaridade, a orientação geral com que deve ser ministrada e as publicações que hão-de servir de base ao seu ensino.
 
 2 - No estudo e elaboração dos programas deverão ser tidos em conta:
 
@@ -1018,9 +1072,9 @@ e) O progresso científico e tecnológico.
 
 #### SECÇÃO IV — Embarques, estágios e tirocínios
 
-###### Art. 129.º Os embarques e estágios têm, normalmente, lugar após a conclusão do ano lectivo.
+Art. 129.º Os embarques e estágios têm, normalmente, lugar após a conclusão do ano lectivo.
 
-###### Art. 130.º - 1 - Após o termo do 1.º ano lectivo, os alunos embarcam em navio-escola, com o objectivo de se adaptarem à vida do mar e aos serviços de bordo e ainda de aperfeiçoarem os conhecimentos de carácter técnico-naval e militar adquiridos durante o ano lectivo.
+Art. 130.º - 1 - Após o termo do 1.º ano lectivo, os alunos embarcam em navio-escola, com o objectivo de se adaptarem à vida do mar e aos serviços de bordo e ainda de aperfeiçoarem os conhecimentos de carácter técnico-naval e militar adquiridos durante o ano lectivo.
 
 2 - Após o termo do 2.º ano lectivo e estágios, os alunos embarcam em navio-escola ou outro, com o objectivo de se familiarizarem com as condições do serviço a navegar e nos portos, para lhes serem proporcionados novos conhecimentos e aplicarem os adquiridos e ainda para lhes ser facultada a utilização directa do material naval.
 
@@ -1032,9 +1086,9 @@ e) O progresso científico e tecnológico.
 
 6 - A duração do período de tirocínio e a distribuição dos alunos pelos navios serão determinadas para cada ano lectivo por despacho do Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
 
-###### Art. 131.º Além dos embarques referidos no artigo anterior, os alunos realizam curtos embarques de fim de semana no navio ou navios para esse efeito designados pelo Chefe do Estado-Maior da Armada, conforme estabelecido nos respectivos planos de curso.
+Art. 131.º Além dos embarques referidos no artigo anterior, os alunos realizam curtos embarques de fim de semana no navio ou navios para esse efeito designados pelo Chefe do Estado-Maior da Armada, conforme estabelecido nos respectivos planos de curso.
 
-###### Art. 132.º Os alunos realizam os estágios que fazem parte dos respectivos planos de curso, com o seguinte objectivo:
+Art. 132.º Os alunos realizam os estágios que fazem parte dos respectivos planos de curso, com o seguinte objectivo:
 
 a) Aquisição de conhecimentos sobre matérias que, pela natureza, se consideram como mais próprias para estágios a realizar quer na Escola Naval, quer em escolas da Armada ou noutros organismos da Marinha;
 
@@ -1042,21 +1096,21 @@ b) Consolidação de conhecimentos adquiridos;
 
 c) Contacto e familiarização com os aspectos mais relevantes dos serviços das unidades em terra.
 
-###### Art. 133.º - 1 - Para cada embarque, estágio ou tirocínio serão elaboradas pela Escola Naval as normas para a sua realização, incluindo os objectivos a alcançar, as instruções a ministrar, o regime a que os alunos deverão ficar sujeitos e ainda outras disposições de natureza administrativa que convenha particularizar.
+Art. 133.º - 1 - Para cada embarque, estágio ou tirocínio serão elaboradas pela Escola Naval as normas para a sua realização, incluindo os objectivos a alcançar, as instruções a ministrar, o regime a que os alunos deverão ficar sujeitos e ainda outras disposições de natureza administrativa que convenha particularizar.
 
 2 - Das normas referidas no número anterior farão parte, como anexos, os programas das instruções a ministrar aos alunos.
 
 3 - Estas normas serão enviadas à Direcção do Serviço de Instrução da Superintendência dos Serviços do Pessoal, para aprovação superior.
 
-###### Art. 134.º Durante os embarques ou estágios os alunos serão acompanhados pelos professores ou instrutores nomeados pelo comandante.
+Art. 134.º Durante os embarques ou estágios os alunos serão acompanhados pelos professores ou instrutores nomeados pelo comandante.
 
-###### Art. 135.º Com o fim de facultar uma mais íntima colaboração e melhor coordenação entre a Escola Naval e os navios, o comandante promoverá, antes de se iniciarem os embarques, reuniões com a participação dos comandantes dos navios em que estes se realizem e dos professores e instrutores designados para acompanhar os alunos.
+Art. 135.º Com o fim de facultar uma mais íntima colaboração e melhor coordenação entre a Escola Naval e os navios, o comandante promoverá, antes de se iniciarem os embarques, reuniões com a participação dos comandantes dos navios em que estes se realizem e dos professores e instrutores designados para acompanhar os alunos.
 
-###### Art. 136.º - 1 - Quando os alunos da Escola Naval passem em diligência a outra unidade ou serviço, para efeitos de embarque, estágio ou tirocínio, ficam sob autoridade do respectivo comandante, director ou chefe, continuando, porém, sujeitos ao Regulamento da Escola Naval.
+Art. 136.º - 1 - Quando os alunos da Escola Naval passem em diligência a outra unidade ou serviço, para efeitos de embarque, estágio ou tirocínio, ficam sob autoridade do respectivo comandante, director ou chefe, continuando, porém, sujeitos ao Regulamento da Escola Naval.
 
 2 - Os comandantes, directores e chefes, nas circunstâncias referidas no número anterior, são responsáveis pela continuação da acção formativa que compete à Escola Naval.
 
-###### Art. 137.º Os comandantes das unidades ou forças navais e os directores ou chefes dos serviços onde se realizem embarques, estágios ou tirocínios enviarão à Escola Naval, após a sua conclusão, os seguintes elementos:
+Art. 137.º Os comandantes das unidades ou forças navais e os directores ou chefes dos serviços onde se realizem embarques, estágios ou tirocínios enviarão à Escola Naval, após a sua conclusão, os seguintes elementos:
 
 a) Relatório acerca da forma como decorreu o embarque ou estágio;
 
@@ -1070,31 +1124,31 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 ##### SUBSECÇÃO I — Generalidades
 
-###### Art. 138.º - 1 - A avaliação do aproveitamento dos alunos deverá ser feita de uma forma contínua durante os períodos das aulas, nomeadamente por meio de repetições orais e escritas, testes, trabalhos de grupo, trabalhos de aplicação e de investigação e exames finais, bem como durante as viagens de instrução e estágios.
+Art. 138.º - 1 - A avaliação do aproveitamento dos alunos deverá ser feita de uma forma contínua durante os períodos das aulas, nomeadamente por meio de repetições orais e escritas, testes, trabalhos de grupo, trabalhos de aplicação e de investigação e exames finais, bem como durante as viagens de instrução e estágios.
 
 2 - A cada repetição oral ou escrita ou a qualquer outra forma de avaliação de conhecimentos corresponde um coeficiente que traduza a importância e a quantidade de matéria abrangida.
 
-###### Art. 139.º A classificação das provas escolares é feita em valores inteiros na escala de 0 a 20.
+Art. 139.º A classificação das provas escolares é feita em valores inteiros na escala de 0 a 20.
 
 ##### SUBSECÇÃO II — Repetições
 
-###### Art. 140.º Os alunos efectuam em cada cadeira ou instrução o número de provas que consta do respectivo programa, tendo em atenção as condições constantes do anexo H a este Regulamento.
+Art. 140.º Os alunos efectuam em cada cadeira ou instrução o número de provas que consta do respectivo programa, tendo em atenção as condições constantes do anexo H a este Regulamento.
 
-###### Art. 141.º - 1 - Em princípio, as provas de avaliação de conhecimentos não versarão sobre matéria já tratada em provas anteriores, salvo nos casos em que essa matéria é considerada fundamental ou esteja intrinsecamente relacionada com a matéria das referidas provas.
+Art. 141.º - 1 - Em princípio, as provas de avaliação de conhecimentos não versarão sobre matéria já tratada em provas anteriores, salvo nos casos em que essa matéria é considerada fundamental ou esteja intrinsecamente relacionada com a matéria das referidas provas.
 
 2 - As provas realizam-se, de preferência, dentro dos tempos normais de aulas teóricas ou práticas atribuídos às respectivas cadeiras.
 
-###### Art. 142.º - 1 - O número e natureza das provas a realizar em cada cadeira ou instrução e as matérias abrangidas em cada uma dessas provas serão programadas no início de cada semestre e sancionadas pelo director da instrução, ouvido o conselho pedagógico.
+Art. 142.º - 1 - O número e natureza das provas a realizar em cada cadeira ou instrução e as matérias abrangidas em cada uma dessas provas serão programadas no início de cada semestre e sancionadas pelo director da instrução, ouvido o conselho pedagógico.
 
 2 - O programa de provas referido no número anterior, uma vez sancionado, só poderá ser alterado por motivo de força maior, reconhecido pelo director da instrução.
 
-###### Art. 143.º O aluno que faltar justificadamente a uma prova prestá-la-á noutro dia; a falta não justificada equivale a obter classificação de 0 valores nessa prova, sem prejuízo do procedimento disciplinar correspondente.
+Art. 143.º O aluno que faltar justificadamente a uma prova prestá-la-á noutro dia; a falta não justificada equivale a obter classificação de 0 valores nessa prova, sem prejuízo do procedimento disciplinar correspondente.
 
-###### Art. 144.º O aluno que, em qualquer prova ou exame final, cometa ou tente cometer qualquer irregularidade será imediatamente expulso da prova ou exame, na qual terá a classificação de 0 valores, sem prejuízo do procedimento disciplinar correspondente.
+Art. 144.º O aluno que, em qualquer prova ou exame final, cometa ou tente cometer qualquer irregularidade será imediatamente expulso da prova ou exame, na qual terá a classificação de 0 valores, sem prejuízo do procedimento disciplinar correspondente.
 
 ##### SUBSECÇÃO III — Média de frequência
 
-###### Art. 145.º - 1 - Designa-se por média de frequência de uma cadeira ou instrução anual ou semestral a média pesada, de acordo com os coeficientes atribuídos às provas, das classificações obtidas pelo aluno em todas as provas dessa cadeira ou instrução, com excepção dos casos previstos nos n.os 2 e 3 deste artigo.
+Art. 145.º - 1 - Designa-se por média de frequência de uma cadeira ou instrução anual ou semestral a média pesada, de acordo com os coeficientes atribuídos às provas, das classificações obtidas pelo aluno em todas as provas dessa cadeira ou instrução, com excepção dos casos previstos nos n.os 2 e 3 deste artigo.
 
 2 - Quando, anexa a qualquer cadeira, haja uma instrução prática correspondente, a média de frequência obtém-se por média pesada das respectivas médias de frequência, condicionada, porém, à limitação imposta pelos n.os 3 e 4 do artigo 146.º
 
@@ -1106,7 +1160,7 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 ##### SUBSECÇÃO IV — Exames finais
 
-###### Art. 146.º - 1 - São dispensados do exame final de qualquer cadeira os alunos que nessa cadeira tenham obtido média de frequência igual ou superior a 12 valores.
+Art. 146.º - 1 - São dispensados do exame final de qualquer cadeira os alunos que nessa cadeira tenham obtido média de frequência igual ou superior a 12 valores.
 
 2 - Não serão admitidos ao respectivo exame final os alunos que, em qualquer cadeira, hajam obtido média de frequência inferior a 9,5 valores.
 
@@ -1114,17 +1168,17 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 4 - Quando anexa a qualquer cadeira haja uma instrução prática correspondente, serão admitidos ao respectivo exame final os alunos que tenham obtido média de frequência igual ou superior a 9,5 valores, quer na cadeira quer na instrução anexa.
 
-###### Art. 147.º - 1 - Os alunos dispensados do exame final de uma cadeira têm direito a efectuar esse exame com vista à melhoria de classificação, desde que o declarem por escrito, sendo a respectiva classificação final a melhor das notas obtidas.
+Art. 147.º - 1 - Os alunos dispensados do exame final de uma cadeira têm direito a efectuar esse exame com vista à melhoria de classificação, desde que o declarem por escrito, sendo a respectiva classificação final a melhor das notas obtidas.
 
 2 - O exame final referido no número anterior conterá obrigatoriamente uma prova oral.
 
-###### Art. 148.º Os exames finais realizam-se depois de terminadas as aulas da respectiva cadeira, seja ela semestral ou anual, nos períodos para esse fim previstos no plano anual das actividades escolares.
+Art. 148.º Os exames finais realizam-se depois de terminadas as aulas da respectiva cadeira, seja ela semestral ou anual, nos períodos para esse fim previstos no plano anual das actividades escolares.
 
-###### Art. 149.º - 1 - Compete ao director de instrução elaborar e submeter à aprovação do conselho pedagógico o plano de prestação de provas em cada época de exames finais.
+Art. 149.º - 1 - Compete ao director de instrução elaborar e submeter à aprovação do conselho pedagógico o plano de prestação de provas em cada época de exames finais.
 
 2 - Na elaboração do plano referido no número anterior deverá procurar-se que os alunos disponham do maior intervalo de tempo possível para a revisão das matérias e que não sejam obrigados a prestar mais que uma prova por dia.
 
-###### Art. 150.º - 1 - As provas de exame final de qualquer cadeira são prestadas perante um júri constituído da seguinte forma: o professor da cadeira e dois professores ou instrutores.
+Art. 150.º - 1 - As provas de exame final de qualquer cadeira são prestadas perante um júri constituído da seguinte forma: o professor da cadeira e dois professores ou instrutores.
 
 2 - Do júri farão parte, ainda, dois alunos, eleitos pelo respectivo curso ou ano, sempre que possível já aprovados nessa cadeira e do mesmo curso dos alunos que prestem provas, e cuja participação nos trabalhos do júri tem carácter exclusivamente consultivo.
 
@@ -1132,21 +1186,21 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 4 - Nos júris de que façam parte professores civis, a presidência cabe ao professor efectivo mais antigo no cargo.
 
-###### Art. 151.º - 1 - Em princípio, o exame final de uma cadeira é constituído por uma prova escrita e por uma prova oral.
+Art. 151.º - 1 - Em princípio, o exame final de uma cadeira é constituído por uma prova escrita e por uma prova oral.
 
 2 - Qualquer das provas referidas no número anterior versará sobre a generalidade da matéria da cadeira, devendo ser organizada por forma a fazer principalmente apelo à compreensão e ao raciocínio dos alunos.
 
 3 - Normalmente as provas escritas dos exames finais não excederão duas horas, nem as provas orais trinta minutos, por cada aluno.
 
-###### Art. 152.º Nas cadeiras em que não haja repetições escritas, o respectivo exame final constará unicamente de uma prova prática com duração não superior a três horas.
+Art. 152.º Nas cadeiras em que não haja repetições escritas, o respectivo exame final constará unicamente de uma prova prática com duração não superior a três horas.
 
-###### Art. 153.º - 1 - É dispensado da prova oral de um exame final o aluno que na prova escrita desse mesmo exame haja obtido classificação igual ou superior a 12 valores.
+Art. 153.º - 1 - É dispensado da prova oral de um exame final o aluno que na prova escrita desse mesmo exame haja obtido classificação igual ou superior a 12 valores.
 
 2 - Os alunos dispensados de provas orais têm o direito de as prestar desde que assim o declarem perante o júri, mas ficam sujeitos à classificação que resultar da aplicação do disposto no n.º 1 do artigo 156.º
 
 3 - Não será admitido à prova oral o aluno que tenha obtido na prova escrita classificação inferior a 7 valores.
 
-###### Art. 154.º - 1 - Compete ao júri, depois de classificadas as provas escritas, dar conhecimento aos alunos que se encontrem nas condições de serem dispensados da prova oral das classificações por eles obtidas, a fim de que possam usar do direito consignado no n.º 2 do artigo 153.º
+Art. 154.º - 1 - Compete ao júri, depois de classificadas as provas escritas, dar conhecimento aos alunos que se encontrem nas condições de serem dispensados da prova oral das classificações por eles obtidas, a fim de que possam usar do direito consignado no n.º 2 do artigo 153.º
 
 2 - A comunicação aos alunos a que se refere o número anterior deverá ser feita com pelo menos vinte e quatro horas de antecedência sobre o início das provas orais.
 
@@ -1154,9 +1208,9 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 4 - Após a realização das provas orais, o presidente do júri, sem prejuízo do disposto na alínea i) do artigo 11.º, dará conhecimento aos alunos das classificações por eles obtidas.
 
-###### Art. 155.º Os alunos que, por motivo de doença ou outro de reconhecida força maior, não possam comparecer a qualquer prova de exame final deverão executá-la logo que se encontrem em condições de a efectuar, no dia que for superiormente fixado.
+Art. 155.º Os alunos que, por motivo de doença ou outro de reconhecida força maior, não possam comparecer a qualquer prova de exame final deverão executá-la logo que se encontrem em condições de a efectuar, no dia que for superiormente fixado.
 
-###### Art. 156.º - 1 - A classificação do exame final de qualquer cadeira é atribuída pelo júri mediante a apreciação global das provas que o tenham constituído.
+Art. 156.º - 1 - A classificação do exame final de qualquer cadeira é atribuída pelo júri mediante a apreciação global das provas que o tenham constituído.
 
 2 - As classificações dos exames finais das cadeiras são expressas em valores inteiros.
 
@@ -1164,13 +1218,13 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 ##### SUBSECÇÃO V — Classificações finais
 
-###### Art. 157.º - 1 - A classificação final de uma cadeira é a classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
+Art. 157.º - 1 - A classificação final de uma cadeira é a classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
 
 2 - Aos alunos habilitados com cadeiras das escolas superiores consideradas equivalentes, nos termos do artigo 124.º, serão atribuídas, como classificações finais dessas cadeiras, as que constem dos respectivos documentos de habilitação.
 
-###### Art. 158.º Os alunos que, após a realização dos respectivos exames finais, não tenham conseguido obter classificação final igual ou superior a 10 valores em uma ou mais cadeiras repetem esses exames na segunda época de exames.
+Art. 158.º Os alunos que, após a realização dos respectivos exames finais, não tenham conseguido obter classificação final igual ou superior a 10 valores em uma ou mais cadeiras repetem esses exames na segunda época de exames.
 
-###### Art. 159.º - 1 - As instruções não têm exame final, sem prejuízo do disposto na última parte do n.º 4 do artigo 146.º
+Art. 159.º - 1 - As instruções não têm exame final, sem prejuízo do disposto na última parte do n.º 4 do artigo 146.º
 
 2 - No termo de cada semestre lectivo, os alunos são classificados em todas as instruções que dele façam parte, pelos respectivos instrutores, mediante o grau de aproveitamento e de interesse que tenham revelado nas provas escritas, trabalhos ou exercícios realizados.
 
@@ -1178,7 +1232,7 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 4 - As classificações finais das instruções, no caso dos alunos repetentes, são as que correspondem ao ano que repetiram, sendo anuladas as anteriores.
 
-###### Art. 160.º - 1 - No final de cada embarque, curso, estágio ou tirocínio, com classificação prevista nos planos de curso, os alunos serão classificados conforme o grau de aproveitamento e de interesse por eles manifestados quer nas provas, trabalhos ou exercícios que tenham realizado, quer no desempenho das funções que lhes forem cometidas.
+Art. 160.º - 1 - No final de cada embarque, curso, estágio ou tirocínio, com classificação prevista nos planos de curso, os alunos serão classificados conforme o grau de aproveitamento e de interesse por eles manifestados quer nas provas, trabalhos ou exercícios que tenham realizado, quer no desempenho das funções que lhes forem cometidas.
 
 2 - As classificações referidas no número anterior são expressas em valores inteiros.
 
@@ -1186,25 +1240,25 @@ d) Boletins de informação das qualidades militares (quando exigidos pelas resp
 
 #### SECÇÃO VI — Classificação das qualidades militares
 
-###### Art. 161.º Durante toda a sua actividade escolar, os alunos serão observados em todos os seus actos por forma que as suas qualidades militares possam constituir um elemento a considerar na apreciação final.
+Art. 161.º Durante toda a sua actividade escolar, os alunos serão observados em todos os seus actos por forma que as suas qualidades militares possam constituir um elemento a considerar na apreciação final.
 
-###### Art. 162.º No fim de cada semestre são preenchidos pelo conselho de disciplina escolar, para cada aluno, boletins de informação das qualidades militares.
+Art. 162.º No fim de cada semestre são preenchidos pelo conselho de disciplina escolar, para cada aluno, boletins de informação das qualidades militares.
 
-###### Art. 163.º Os boletins de informação referidos no artigo anterior são do modelo que consta do anexo I a este Regulamento.
+Art. 163.º Os boletins de informação referidos no artigo anterior são do modelo que consta do anexo I a este Regulamento.
 
-###### Art. 164.º - 1 - Os boletins de informação das qualidades militares depois de preenchidos, têm a classificação de segurança confidencial.
+Art. 164.º - 1 - Os boletins de informação das qualidades militares depois de preenchidos, têm a classificação de segurança confidencial.
 
 2 - Após a sua utilização para efeitos de classificação das qualidades militares, os boletins a que se refere o número anterior serão remetidos à 7.ª Repartição da Direcção do Serviço de Pessoal, para fins de estudo e arquivo.
 
-###### Art. 165.º - 1 - A classificação anual das qualidades militares de cada aluno é atribuída pelo conselho de disciplina escolar, tendo em consideração os boletins de informação das qualidades militares a que se referem os artigos 137.º e 162.º
+Art. 165.º - 1 - A classificação anual das qualidades militares de cada aluno é atribuída pelo conselho de disciplina escolar, tendo em consideração os boletins de informação das qualidades militares a que se referem os artigos 137.º e 162.º
 
 2 - As classificações das qualidades militares são aproximadas a décimas.
 
-###### Art. 166.º Os comandantes das companhias darão a conhecer, individualmente, a cada um dos alunos a seu cargo, as classificações que, pelo conselho de disciplina escolar, foram atribuídas às suas qualidades militares, a fim de aqueles melhor as poderem aperfeiçoar.
+Art. 166.º Os comandantes das companhias darão a conhecer, individualmente, a cada um dos alunos a seu cargo, as classificações que, pelo conselho de disciplina escolar, foram atribuídas às suas qualidades militares, a fim de aqueles melhor as poderem aperfeiçoar.
 
 #### SECÇÃO VII — Cotas de mérito
 
-###### Art. 167.º - 1 - No final do ano lectivo é calculada, para cada aluno, uma cota de mérito, que será igual ao somatório dos produtos das classificações a seguir indicadas pelos respectivos coeficientes, dividido pela soma desses coeficientes:
+Art. 167.º - 1 - No final do ano lectivo é calculada, para cada aluno, uma cota de mérito, que será igual ao somatório dos produtos das classificações a seguir indicadas pelos respectivos coeficientes, dividido pela soma desses coeficientes:
 
 a) Classificações finais das cadeiras e instruções desse ano lectivo e dos anos lectivos anteriores;
 
@@ -1218,7 +1272,7 @@ b) Instrução militar básica, estágios, cursos, embarques e tirocínio - os q
 
 3 - As cotas de mérito são aproximadas a centésimas.
 
-###### Art. 168.º Não são calculadas cotas de mérito para os alunos que hajam perdido o ano lectivo, os quais conservarão as cotas anteriores.
+Art. 168.º Não são calculadas cotas de mérito para os alunos que hajam perdido o ano lectivo, os quais conservarão as cotas anteriores.
 
 ### CAPÍTULO V — Estatutos dos alunos
 
@@ -1226,59 +1280,59 @@ b) Instrução militar básica, estágios, cursos, embarques e tirocínio - os q
 
 ##### SUBSECÇÃO I — Admissão
 
-###### Art. 169.º - 1 - A admissão aos cursos mencionados no artigo 113.º realiza-se mediante concurso constituído por provas de aptidão cultural, física e psicotécnica.
+Art. 169.º - 1 - A admissão aos cursos mencionados no artigo 113.º realiza-se mediante concurso constituído por provas de aptidão cultural, física e psicotécnica.
 
 2 - Além de candidatos civis, podem ser admitidos aos cursos mencionados no artigo 113.º sargentos e praças da Armada no activo.
 
-###### Art. 170.º - 1 - O número de candidatos a admitir em cada concurso será fixado pelo Chefe do Estado-Maior da Armada, mediante proposta do superintendente dos Serviços do Pessoal da Armada.
+Art. 170.º - 1 - O número de candidatos a admitir em cada concurso será fixado pelo Chefe do Estado-Maior da Armada, mediante proposta do superintendente dos Serviços do Pessoal da Armada.
 
 2 - O número de candidatos a admitir com destino a uma classe poderá ser alterado posteriormente à realização do concurso e antes do alistamento por despacho do Chefe do Estado-Maior da Armada, mediante proposta do comandante da Escola Naval, dentro do número total inicialmente fixado.
 
-###### Art. 171.º Os concursos de admissão realizam-se normalmente durante o mês de Agosto de cada ano.
+Art. 171.º Os concursos de admissão realizam-se normalmente durante o mês de Agosto de cada ano.
 
-###### Art. 172.º - 1 - A Escola Naval dará a maior divulgação, em tempo oportuno, às condições dos concursos para admissão de alunos.
+Art. 172.º - 1 - A Escola Naval dará a maior divulgação, em tempo oportuno, às condições dos concursos para admissão de alunos.
 
 2 - As normas gerais para a realização dos concursos referidos no número anterior são as que constam no anexo J a este Regulamento.
 
-###### Art. 173.º Em condições excepcionais, poderá ser autorizada a frequência dos cursos da Escola Naval a cidadãos estrangeiros, no âmbito de acordos estabelecidos ou a estabelecer com os respectivos governos.
+Art. 173.º Em condições excepcionais, poderá ser autorizada a frequência dos cursos da Escola Naval a cidadãos estrangeiros, no âmbito de acordos estabelecidos ou a estabelecer com os respectivos governos.
 
 ##### SUBSECÇÃO II — Alistamento
 
-###### Art. 174.º - 1 - Serão propostos para alistamento no corpo de alunos os candidatos aprovados no concurso de admissão que tenham obtido maiores cotas de mérito, até ao número de vacaturas fixadas.
+Art. 174.º - 1 - Serão propostos para alistamento no corpo de alunos os candidatos aprovados no concurso de admissão que tenham obtido maiores cotas de mérito, até ao número de vacaturas fixadas.
 
 2 - Se entre os candidatos aprovados no concurso referido no número anterior houver filhos de militares mortos em campanha, pode o Chefe do Estado-Maior da Armada determinar a sua admissão para além do número de vacaturas para que foi aberto concurso.
 
-###### Art. 175.º A ordenação final dos candidatos admitidos por intermédio de um mesmo concurso é feita por ordem decrescente das cotas de mérito do referido concurso.
+Art. 175.º A ordenação final dos candidatos admitidos por intermédio de um mesmo concurso é feita por ordem decrescente das cotas de mérito do referido concurso.
 
-###### Art. 176.º - 1 - No acto do alistamento os alunos assinam o respectivo compromisso de honra em cerimónia adequada.
+Art. 176.º - 1 - No acto do alistamento os alunos assinam o respectivo compromisso de honra em cerimónia adequada.
 
 2 - O alistamento é feito mediante portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 177.º Após o alistamento, os candidatos ingressam no corpo de alunos, passando a pertencer ao 1.º ano dos cursos correspondentes às classes para que foram admitidos.
+Art. 177.º Após o alistamento, os candidatos ingressam no corpo de alunos, passando a pertencer ao 1.º ano dos cursos correspondentes às classes para que foram admitidos.
 
-###### Art. 178.º - 1 - Aos alunos de cada admissão será dado como patrono um vulto nacional de relevo na história pátria, nomeadamente no campo naval, que pelas suas virtudes possa ser tomado como modelo.
+Art. 178.º - 1 - Aos alunos de cada admissão será dado como patrono um vulto nacional de relevo na história pátria, nomeadamente no campo naval, que pelas suas virtudes possa ser tomado como modelo.
 
 2 - Os cursos de uma mesma admissão serão designados pelo nome do respectivo patrono.
 
 ##### SUBSECÇÃO III — Documentos militares e elementos de identificação
 
-###### Art. 179.º Após o alistamento é distribuído a cada aluno um livrete de saúde e um bilhete de identidade, do modelo estabelecido e cujo uso é obrigatório.
+Art. 179.º Após o alistamento é distribuído a cada aluno um livrete de saúde e um bilhete de identidade, do modelo estabelecido e cujo uso é obrigatório.
 
-###### Art. 180.º - 1 - Os alunos são identificados pelo respectivo posto, classe, nome e pelo número que lhes cabe na organização do corpo de alunos.
+Art. 180.º - 1 - Os alunos são identificados pelo respectivo posto, classe, nome e pelo número que lhes cabe na organização do corpo de alunos.
 
 2 - O primeiro algarismo do número atribuído a cada aluno indica o ano a que pertence; os dois seguintes indicam a sua antiguidade dentro do respectivo curso, independentemente da classe a que pertencem.
 
 #### SECÇÃO II — Ordenamento hierárquico
 
-###### Art. 181.º Os alunos da Escola Naval têm o posto de cadete nos primeiros quatro anos dos respectivos cursos, sendo promovidos a aspirante com referência à data do início do 5.º ano.
+Art. 181.º Os alunos da Escola Naval têm o posto de cadete nos primeiros quatro anos dos respectivos cursos, sendo promovidos a aspirante com referência à data do início do 5.º ano.
 
-###### Art. 182.º - 1 - Enquanto cadetes, os alunos são considerados, na hierarquia militar, imediatamente abaixo dos aspirantes a oficial, mas não superiores nem equiparados aos sargentos ou às praças.
+Art. 182.º - 1 - Enquanto cadetes, os alunos são considerados, na hierarquia militar, imediatamente abaixo dos aspirantes a oficial, mas não superiores nem equiparados aos sargentos ou às praças.
 
 2 - Sem prejuízo do disposto no número anterior os sargentos e as praças devem ter para com os cadetes as deferências devidas aos oficiais.
 
 3 - Os cadetes são obrigados a tratar os sargentos e as praças com correcção, não podendo exigir deles qualquer espécie de subordinação.
 
-###### Art. 183.º - 1 - Os alunos frequentando um ano lectivo são considerados mais antigos que os alunos do mesmo posto que frequentem anos lectivos mais atrasados.
+Art. 183.º - 1 - Os alunos frequentando um ano lectivo são considerados mais antigos que os alunos do mesmo posto que frequentem anos lectivos mais atrasados.
 
 2 - A antiguidade relativa dos alunos que frequentam o 1.º ano é definida pela ordem da admissão, sendo considerados mais antigos os alunos com maior cota de mérito atribuída quando dessa admissão, independentemente da classe para a qual esta se efectua.
 
@@ -1292,15 +1346,15 @@ b) Instrução militar básica, estágios, cursos, embarques e tirocínio - os q
 
 ##### SUBSECÇÃO I — Obrigações
 
-###### Art. 184.º Os alunos da Escola Naval têm as obrigações fixadas por este Regulamento e, como militares da Armada, estão sujeitos às leis e regulamentos militares.
+Art. 184.º Os alunos da Escola Naval têm as obrigações fixadas por este Regulamento e, como militares da Armada, estão sujeitos às leis e regulamentos militares.
 
-###### Art. 185.º Ao serem alistados, os alunos passam a usufruir do regime jurídico da maioridade, no que se refere exclusivamente a questões relacionadas com as actividades militares.
+Art. 185.º Ao serem alistados, os alunos passam a usufruir do regime jurídico da maioridade, no que se refere exclusivamente a questões relacionadas com as actividades militares.
 
-###### Art. 186.º O alistamento implica para o aluno a obrigação de servir a Armada durante oito anos, a contar da promoção a guarda-marinha.
+Art. 186.º O alistamento implica para o aluno a obrigação de servir a Armada durante oito anos, a contar da promoção a guarda-marinha.
 
-###### Art. 187.º Durante a frequência do curso da Escola Naval, o cadete admitido como candidato civil deve manter o estado civil de solteiro.
+Art. 187.º Durante a frequência do curso da Escola Naval, o cadete admitido como candidato civil deve manter o estado civil de solteiro.
 
-###### Art. 188.º Os alunos da Escola Naval devem regular o seu procedimento por forma a cumprir escrupulosamente os deveres a que se refere o artigo 4.º do Regulamento de Disciplina Militar e, em especial:
+Art. 188.º Os alunos da Escola Naval devem regular o seu procedimento por forma a cumprir escrupulosamente os deveres a que se refere o artigo 4.º do Regulamento de Disciplina Militar e, em especial:
 
 a) Observar a mais completa subordinação, obediência e respeito aos seus superiores, seguindo cuidadosamente as suas indicações e conselhos;
 
@@ -1324,7 +1378,7 @@ j) Desempenhar com zelo e aprumo as funções que lhes competirem;
 
 l) Cumprir prontamente os preceitos do regime escolar e as ordens recebidas ou emanadas dos superiores.
 
-###### Art. 189.º Durante a permanência a bordo, os alunos devem ter em especial atenção o seguinte:
+Art. 189.º Durante a permanência a bordo, os alunos devem ter em especial atenção o seguinte:
 
 a) A dedicação ao serviço e o espírito de observação são preceitos fundamentais no exercício da sua actividade;
 
@@ -1336,43 +1390,43 @@ d) O seu procedimento, tanto a bordo como em terra, no serviço ou fora dele, es
 
 e) Que, em portos estrangeiros e nas relações com outras marinhas, da sua conduta se poderá ajuizar o grau de cultura e o nível moral e cívico da Nação.
 
-###### Art. 190.º No início do 2.º ano lectivo os alunos efectuam a ratificação solene do juramento de bandeira, segundo a fórmula tradicional, em cerimónia pública revestida da solenidade adequada.
+Art. 190.º No início do 2.º ano lectivo os alunos efectuam a ratificação solene do juramento de bandeira, segundo a fórmula tradicional, em cerimónia pública revestida da solenidade adequada.
 
 ##### SUBSECÇÃO II — Direitos
 
-###### Art. 191.º Os alunos da Escola Naval têm os direitos fixados por este Regulamento e os que lhes possam competir por força das leis e regulamentos militares.
+Art. 191.º Os alunos da Escola Naval têm os direitos fixados por este Regulamento e os que lhes possam competir por força das leis e regulamentos militares.
 
-###### Art. 192.º Os alunos da Escola Naval têm direito às remunerações previstas na legislação em vigor.
+Art. 192.º Os alunos da Escola Naval têm direito às remunerações previstas na legislação em vigor.
 
-###### Art. 193.º Os alunos são isentos do pagamento de propinas e recebem por empréstimo as publicações necessárias ao estudo das matérias que fazem parte dos planos de curso.
+Art. 193.º Os alunos são isentos do pagamento de propinas e recebem por empréstimo as publicações necessárias ao estudo das matérias que fazem parte dos planos de curso.
 
-###### Art. 194.º Os alunos têm direito a alimentação por conta do Estado, nos termos da legislação vigente.
+Art. 194.º Os alunos têm direito a alimentação por conta do Estado, nos termos da legislação vigente.
 
-###### Art. 195.º Os alunos têm direito a receber gratuitamente os artigos de fardamento que fazem parte da tabela superiormente aprovada.
+Art. 195.º Os alunos têm direito a receber gratuitamente os artigos de fardamento que fazem parte da tabela superiormente aprovada.
 
-###### Art. 196.º Os alunos têm direito a assistência médica, cirúrgica, medicamentosa e hospitalar nas mesmas circunstâncias que os oficiais.
+Art. 196.º Os alunos têm direito a assistência médica, cirúrgica, medicamentosa e hospitalar nas mesmas circunstâncias que os oficiais.
 
-###### Art. 197.º Os alunos têm direito às licenças e períodos de férias estabelecidos em regulamentação própria.
+Art. 197.º Os alunos têm direito às licenças e períodos de férias estabelecidos em regulamentação própria.
 
-###### Art. 198.º Dado o grau de risco que envolve certas actividades escolares, os alunos da Escola Naval beneficiam de regime especial a definir, quanto à invalidez resultante de doença ou desastre em serviço.
+Art. 198.º Dado o grau de risco que envolve certas actividades escolares, os alunos da Escola Naval beneficiam de regime especial a definir, quanto à invalidez resultante de doença ou desastre em serviço.
 
 ##### SUBSECÇÃO III — Funções
 
-###### Art. 199.º - 1 - No âmbito do corpo de alunos, os alunos comandam o corpo de alunos e as companhias nas formaturas de serviço interno e exercem ainda as funções de comandantes de pelotões e de secções e as que lhes forem atribuídas na organização do gabinete de actividades circum-escolares.
+Art. 199.º - 1 - No âmbito do corpo de alunos, os alunos comandam o corpo de alunos e as companhias nas formaturas de serviço interno e exercem ainda as funções de comandantes de pelotões e de secções e as que lhes forem atribuídas na organização do gabinete de actividades circum-escolares.
 
 2 - No âmbito da organização escolar, desempenham as funções que lhes estão cometidas por este Regulamento.
 
-###### Art. 200.º Os alunos colaboram nos serviços de escala, tanto na Escola como a bordo, desempenhando funções de responsabilidade crescente à medida que os seus conhecimentos e a sua prática forem aumentando.
+Art. 200.º Os alunos colaboram nos serviços de escala, tanto na Escola como a bordo, desempenhando funções de responsabilidade crescente à medida que os seus conhecimentos e a sua prática forem aumentando.
 
 #### SECÇÃO IV — Regime escolar
 
 ##### SUBSECÇÃO I — Generalidades
 
-###### Art. 201.º - 1 - Os aspirantes e cadetes admitidos com destino aos quadros permanentes estão sujeitos a regime de internato.
+Art. 201.º - 1 - Os aspirantes e cadetes admitidos com destino aos quadros permanentes estão sujeitos a regime de internato.
 
 2 - Pode ser facultado o regime de externato nocturno a outros alunos militares, qualquer que seja o seu posto, dos quadros permanentes ou não pertencendo a estes quadros.
 
-###### Art. 202.º - 1 - O horário escolar é elaborado na base de sete tempos diários de segunda-feira a sexta-feira.
+Art. 202.º - 1 - O horário escolar é elaborado na base de sete tempos diários de segunda-feira a sexta-feira.
 
 2 - De acordo com os meios disponíveis deverão programar-se curtos embarques de fim de semana.
 
@@ -1380,17 +1434,17 @@ e) Que, em portos estrangeiros e nas relações com outras marinhas, da sua cond
 
 4 - Quando necessário, os embarques referidos no n.º 2 podem prolongar-se até ao meio-dia de domingo.
 
-###### Art. 203.º Os planos de curso são elaborados por forma a não ultrapassar trinta e cinco tempos semanais.
+Art. 203.º Os planos de curso são elaborados por forma a não ultrapassar trinta e cinco tempos semanais.
 
-###### Art. 204.º Os alunos que já tenham obtido noutras escolas superiores aprovação em cadeiras que, nos termos da legislação vigente, sejam consideradas equivalentes às ministradas na Escola Naval, poderão ser dispensados da sua frequência, se assim o desejarem.
+Art. 204.º Os alunos que já tenham obtido noutras escolas superiores aprovação em cadeiras que, nos termos da legislação vigente, sejam consideradas equivalentes às ministradas na Escola Naval, poderão ser dispensados da sua frequência, se assim o desejarem.
 
-###### Art. 205.º Só poderão transitar para o ano seguinte dos respectivos cursos os alunos que, no final do ano lectivo, satisfaçam as seguintes condições de aproveitamento:
+Art. 205.º Só poderão transitar para o ano seguinte dos respectivos cursos os alunos que, no final do ano lectivo, satisfaçam as seguintes condições de aproveitamento:
 
 a) Classificação final igual ou superior a 10 valores em cada uma das cadeiras e instruções que fazem parte do respectivo plano de curso;
 
 b) Classificação igual ou superior a 10 valores em todos os embarques, estágios e tirocínios classificados relativos a esse ano.
 
-###### Art. 206.º - 1 - Os alunos que não consigam satisfazer as condições estabelecidas no artigo anterior podem ser autorizados por uma única vez durante todo o curso a repetir o ano perdido, desde que o requeiram e obtenham deferimento.
+Art. 206.º - 1 - Os alunos que não consigam satisfazer as condições estabelecidas no artigo anterior podem ser autorizados por uma única vez durante todo o curso a repetir o ano perdido, desde que o requeiram e obtenham deferimento.
 
 2 - Os alunos que, por motivo de doença, percam por faltas o ano lectivo só são autorizados a repetir a frequência desse ano desde que o requeiram e obtenham deferimento.
 
@@ -1398,17 +1452,17 @@ b) Classificação igual ou superior a 10 valores em todos os embarques, estági
 
 4 - Os alunos que não entregarem os requerimentos neste prazo serão propostos pelo comandante da Escola Naval para serem abatidos ao corpo de alunos, ao abrigo do n.º 1 da alínea c) do artigo 223.º deste Regulamento.
 
-###### Art. 207.º Os alunos repetentes de qualquer ano frequentam novamente todas as cadeiras e instruções desse ano, prevalecendo as classificações do ano de repetição.
+Art. 207.º Os alunos repetentes de qualquer ano frequentam novamente todas as cadeiras e instruções desse ano, prevalecendo as classificações do ano de repetição.
 
-###### Art. 208.º - 1 - O aluno que, em qualquer cadeira ou instrução, der um número de faltas igual ou superior a um quinto do número de aulas dessa cadeira ou instrução será excluído da frequência do ano lectivo.
+Art. 208.º - 1 - O aluno que, em qualquer cadeira ou instrução, der um número de faltas igual ou superior a um quinto do número de aulas dessa cadeira ou instrução será excluído da frequência do ano lectivo.
 
 2 - O comandante, ouvido o conselho escolar, poderá relevar as faltas a que se refere este artigo, quando reconheça que o aluno faltou por motivo de doença prolongada e tem aproveitamento.
 
-###### Art. 209.º Quando, por motivo de doença, um aluno faltar amiudadas vezes, o comandante ordenará que seja presente à Junta de Saúde Naval, com a indicação do motivo, e, se a Junta de Saúde Naval assim o entender, será proposto para ser abatido ao efectivo do corpo de alunos.
+Art. 209.º Quando, por motivo de doença, um aluno faltar amiudadas vezes, o comandante ordenará que seja presente à Junta de Saúde Naval, com a indicação do motivo, e, se a Junta de Saúde Naval assim o entender, será proposto para ser abatido ao efectivo do corpo de alunos.
 
 ##### SUBSECÇÃO II — Prémios escolares
 
-###### Art. 210.º - 1 - Aos alunos que se distinguirem pelas suas qualidades ou aproveitamento nos diversos cursos ministrados na Escola Naval são conferidos prémios, de acordo com a regulamentação superiormente aprovada.
+Art. 210.º - 1 - Aos alunos que se distinguirem pelas suas qualidades ou aproveitamento nos diversos cursos ministrados na Escola Naval são conferidos prémios, de acordo com a regulamentação superiormente aprovada.
 
 2 - A entrega dos prémios a que se refere o número anterior é feita em cerimónia pública de solenidade adequada.
 
@@ -1416,9 +1470,9 @@ b) Classificação igual ou superior a 10 valores em todos os embarques, estági
 
 ##### SUBSECÇÃO III — Licença de férias
 
-###### Art. 211.º O regime de licenças é da competência do comandante da Escola Naval.
+Art. 211.º O regime de licenças é da competência do comandante da Escola Naval.
 
-###### Art. 212.º - 1 - Os períodos de férias são os seguintes:
+Art. 212.º - 1 - Os períodos de férias são os seguintes:
 
 a) Natal - onze dias;
 
@@ -1430,13 +1484,13 @@ d) Férias grandes - trinta dias.
 
 2 - Os alunos do último ano não têm férias grandes.
 
-###### Art. 213.º - 1 - Os alunos que não desejem gozar as férias grandes fora da Escola Naval poderão ser mandados embarcar ou destacar para outra unidade em terra.
+Art. 213.º - 1 - Os alunos que não desejem gozar as férias grandes fora da Escola Naval poderão ser mandados embarcar ou destacar para outra unidade em terra.
 
 2 - Aos alunos que o requeiram poderá ser concedida pelo Chefe do Estado-Maior da Armada autorização para embarcarem em navios operacionais durante as férias grandes, desde que daí não resulte inconveniente para o serviço.
 
 #### SECÇÃO V — Regime disciplinar
 
-###### Art. 214.º As penas aplicáveis aos alunos por infracções disciplinares são as seguintes:
+Art. 214.º As penas aplicáveis aos alunos por infracções disciplinares são as seguintes:
 
 a) Repreensão escolar;
 
@@ -1448,23 +1502,23 @@ d) Prisão escolar até quinze dias;
 
 e) Expulsão.
 
-###### Art. 215.º - 1 - A repreensão escolar e a repreensão escolar agravada consistem em declarar que o aluno é repreendido por haver praticado qualquer acto que constitua infracção a um ou mais deveres militares.
+Art. 215.º - 1 - A repreensão escolar e a repreensão escolar agravada consistem em declarar que o aluno é repreendido por haver praticado qualquer acto que constitua infracção a um ou mais deveres militares.
 
 2 - A repreensão escolar é dada em particular e registada.
 
-###### Art. 216.º A detenção escolar consiste na permanência do aluno dentro do recinto da Escola Naval, do qual só pode sair em serviço, incluindo o escolar.
+Art. 216.º A detenção escolar consiste na permanência do aluno dentro do recinto da Escola Naval, do qual só pode sair em serviço, incluindo o escolar.
 
-###### Art. 217.º A prisão escolar consiste na permanência do aluno em compartimento apropriado, do qual só pode sair para actos de serviço, devidamente acompanhado.
+Art. 217.º A prisão escolar consiste na permanência do aluno em compartimento apropriado, do qual só pode sair para actos de serviço, devidamente acompanhado.
 
-###### Art. 218.º - 1 - A pena de expulsão consiste na baixa imediata do corpo de alunos.
+Art. 218.º - 1 - A pena de expulsão consiste na baixa imediata do corpo de alunos.
 
 2 - A pena de expulsão será aplicada quando se verifique falta de idoneidade moral ou grave infracção ao dever militar.
 
 3 - A aplicação da pena de expulsão requer o parecer prévio do conselho de disciplina escolar.
 
-###### Art. 219.º As penas de repreensão escolar agravada, detenção escolar, prisão escolar e expulsão são publicadas na ordem do dia à Escola Naval e registadas.
+Art. 219.º As penas de repreensão escolar agravada, detenção escolar, prisão escolar e expulsão são publicadas na ordem do dia à Escola Naval e registadas.
 
-###### Art. 220.º A competência disciplinar para aplicação das penas referidas no artigo 214.º é a seguinte:
+Art. 220.º A competência disciplinar para aplicação das penas referidas no artigo 214.º é a seguinte:
 
 a) Comandante:
 
@@ -1504,13 +1558,13 @@ d) Comandantes de companhia:
 
 3) Detenção escolar até três dias.
 
-###### Art. 221.º Os comandantes dos navios onde os alunos realizem embarques ou das unidades onde efectuem estágios e tirocínios têm a competência disciplinar a que se refere a alínea a) do artigo anterior, com excepção da pena de expulsão.
+Art. 221.º Os comandantes dos navios onde os alunos realizem embarques ou das unidades onde efectuem estágios e tirocínios têm a competência disciplinar a que se refere a alínea a) do artigo anterior, com excepção da pena de expulsão.
 
-###### Art. 222.º São anuladas as penas escolares sofridas pelos alunos à data da sua promoção a oficial.
+Art. 222.º São anuladas as penas escolares sofridas pelos alunos à data da sua promoção a oficial.
 
 #### SECÇÃO VI — Baixa do corpo de alunos
 
-###### Art. 223.º É abatido ao efectivo do corpo de alunos, mediante portaria do Chefe do Estado-Maior da Armada, o aluno que se encontre em qualquer das seguintes condições:
+Art. 223.º É abatido ao efectivo do corpo de alunos, mediante portaria do Chefe do Estado-Maior da Armada, o aluno que se encontre em qualquer das seguintes condições:
 
 a) Tenha concluído o seu curso e ingressado nos quadros dos oficiais da Armada;
 
@@ -1530,23 +1584,23 @@ d) Tenha sido punido com a pena de expulsão, por falta de qualidades militares 
 
 e) Tenha contraído matrimónio, enquanto cadete.
 
-###### Art. 224.º - 1 - Após a conclusão do curso, os alunos são promovidos a guardas-marinhas, sendo a sua posição na escala de antiguidades definida pelas cotas de mérito calculadas no final do último ano lectivo, conforme disposto no artigo 167.º
+Art. 224.º - 1 - Após a conclusão do curso, os alunos são promovidos a guardas-marinhas, sendo a sua posição na escala de antiguidades definida pelas cotas de mérito calculadas no final do último ano lectivo, conforme disposto no artigo 167.º
 
 2 - Estas promoções são referidas ao dia 1 de Outubro.
 
-###### Art. 225.º Durante a frequência do curso, qualquer aluno poderá requerer baixa do serviço da Armada.
+Art. 225.º Durante a frequência do curso, qualquer aluno poderá requerer baixa do serviço da Armada.
 
-###### Art. 226.º Os alunos que pela segunda vez não consigam satisfazer as condições estabelecidas no artigo 205.º são excluídos definitivamente do respectivo curso.
+Art. 226.º Os alunos que pela segunda vez não consigam satisfazer as condições estabelecidas no artigo 205.º são excluídos definitivamente do respectivo curso.
 
-###### Art. 227.º - 1 - Os alunos que durante o curso revelem incapacidade física para a carreira a que se destinam são propostos para exclusão.
+Art. 227.º - 1 - Os alunos que durante o curso revelem incapacidade física para a carreira a que se destinam são propostos para exclusão.
 
 2 - A incapacidade para o serviço a que se refere o número anterior é julgada pela Junta de Saúde Naval.
 
 3 - Quando essa incapacidade resulte de acidente em serviço ou por motivo do mesmo ficará o aluno ao abrigo da legislação em vigor que contempla tal situação.
 
-###### Art. 228.º Os alunos que em qualquer dos boletins de informação militar referidos no artigo 162.º obtenham classificação das qualidades militares inferior a 10 valores são propostos para exclusão.
+Art. 228.º Os alunos que em qualquer dos boletins de informação militar referidos no artigo 162.º obtenham classificação das qualidades militares inferior a 10 valores são propostos para exclusão.
 
-###### Art. 229.º - 1 - São propostos para exclusão os alunos que:
+Art. 229.º - 1 - São propostos para exclusão os alunos que:
 
 a) Durante um período de seis meses sofram punições que, por si ou por suas equivalências, excedam vinte dias de prisão escolar;
 
@@ -1558,23 +1612,23 @@ Um dia de prisão escolar;
 
 Dois dias de detenção escolar.
 
-###### Art. 230.º O aluno a quem for imposta a pena de expulsão é proposto para ser abatido ao efectivo do corpo de alunos.
+Art. 230.º O aluno a quem for imposta a pena de expulsão é proposto para ser abatido ao efectivo do corpo de alunos.
 
-###### Art. 231.º - 1 - Os alunos excluídos por força dos artigos 225.º, 228.º, 229.º e 230.º não podem concorrer novamente à Escola Naval com vista ao ingresso nos quadros permanentes dos oficiais da Armada.
+Art. 231.º - 1 - Os alunos excluídos por força dos artigos 225.º, 228.º, 229.º e 230.º não podem concorrer novamente à Escola Naval com vista ao ingresso nos quadros permanentes dos oficiais da Armada.
 
 2 - Os alunos referidos no número anterior ficam sujeitos a todas as obrigações militares estabelecidas por lei, não lhes sendo contado como tempo de serviço o tempo de permanência no corpo de alunos.
 
 3 - Estes alunos são obrigados a devolver os fardamentos que hajam recebido, em estado de conservação correspondente ao uso que tenham tido.
 
-###### Art. 232.º Aos alunos que, por qualquer motivo, tenham sido abatidos ao efectivo do corpo de alunos serão entregues, mediante requerimento, certificados das cadeiras que hajam concluído com aproveitamento.
+Art. 232.º Aos alunos que, por qualquer motivo, tenham sido abatidos ao efectivo do corpo de alunos serão entregues, mediante requerimento, certificados das cadeiras que hajam concluído com aproveitamento.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 233.º Este Regulamento entra em vigor no ano lectivo de 1977-1978.
+Art. 233.º Este Regulamento entra em vigor no ano lectivo de 1977-1978.
 
-###### Art. 234.º A duração de cinco anos referida no artigo 116.º só é aplicável aos cursos com admissão a partir do ano de 1976, inclusive.
+Art. 234.º A duração de cinco anos referida no artigo 116.º só é aplicável aos cursos com admissão a partir do ano de 1976, inclusive.
 
-###### Art. 235.º - 1 - Os planos de cursos que constam dos anexos E, F e G bem como o anexo H a este Regulamento são transitários, vigorando apenas para o ano lectivo de 1977-1978.
+Art. 235.º - 1 - Os planos de cursos que constam dos anexos E, F e G bem como o anexo H a este Regulamento são transitários, vigorando apenas para o ano lectivo de 1977-1978.
 
 2 - A revisão e actualização dos anexos referidos no número anterior será efectuada por portaria do Chefe do Estado-Maior da Armada, até que os planos dos cursos sejam estruturados para os cinco anos. A partir desse momento será dado cumprimento ao estipulado no artigo 9.º do presente Regulamento.
 
@@ -1582,21 +1636,21 @@ Dois dias de detenção escolar.
 
 ORGANOGRAMA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 ## ANEXO B — Corpo docente
 
 I - Cadeiras de natureza académica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 II - Cadeiras de natureza técnico-naval
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 III - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 ## ANEXO C — Normas gerais para os concursos de admissão de professores
 
@@ -1732,7 +1786,7 @@ b) Quando o candidato não tomar posse no prazo legal, a nomeação recairá no 
 
 ## ANEXO D — Programa anual das actividades escolares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 ## ANEXO E — Plano do curso de Marinha
 
@@ -1796,7 +1850,7 @@ Total ... 152
 
 b) Primeiro ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -1824,7 +1878,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 e) Estágio e embarques do 2.º ano:
 
@@ -1866,7 +1920,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -1902,7 +1956,7 @@ d) Realização de exercícios que permitam a aplicação dos conhecimentos ante
 
 g) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 i) Embarques e estágios do 4.º ano:
 
@@ -1938,7 +1992,7 @@ Total ... 14
 
 Para efeitos de cálculo das quotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques e dos cursos efectuados, são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H a este Regulamento.
 
@@ -2004,7 +2058,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -2034,7 +2088,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 e) Estágios e embarques do 2.º ano:
 
@@ -2082,7 +2136,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -2110,7 +2164,7 @@ c) Prática, como adjuntos, do desempenho das funções de oficial de dia e de q
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 i) Embarques e estágios do 4.º ano:
 
@@ -2148,7 +2202,7 @@ Total ... 14
 
 Para efeitos de cálculo das quotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques e dos cursos efectuados são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H.
 
@@ -2210,7 +2264,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -2240,7 +2294,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 e) Estágios e embarques do 2.º ano:
 
@@ -2290,7 +2344,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -2318,7 +2372,7 @@ c) Prática, como adjuntos, do desempenho das funções de oficial de dia e de q
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 i) Embarques e estágios do 4.º ano:
 
@@ -2358,23 +2412,23 @@ Para efeitos de cálculo das quotas de mérito, os coeficientes a atribuir às c
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H a este Regulamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 ## ANEXO H — Cadeiras e instruções
 
 I - Cadeiras de natureza académica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 II - Cadeiras de natureza técnico-naval
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 III - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf))](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/13201/00010039.pdf)
 
 ## ANEXO J — Normas gerais para os concursos de admissão de alunos
 
@@ -2528,7 +2582,7 @@ e) Ter melhores habilitações escolares, para além das que são exigidas para 
 
 f) Ter menos idade.
 
-## APÊNDICE I
+APÊNDICE I
 
 Provas de aptidão física
 

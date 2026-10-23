@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2014/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2014-572638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ec476859983fee1d905f583e79f6d6e1fddd8b64a3117cb2be99339c75f7da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0ae98a4b56961ae5f1bee40cc31cd7a253ee325b665c3f03a2e3d8a781e746b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
-- Mercado de Títulos
-- Sociedade Comercial
+- Banco de Portugal
+- CMVM
 - Código dos Valores Mobiliários
 - Definição de Competências
 - Emissão de Títulos
 - Empresa Pública
 - Fiscalização
-- Banco de Portugal
+- Informação do Consumidor
 - Mercado de Capitais
+- Mercado de Títulos
 - Mercado de Valores
 - Oferta Pública de Distribuição
 - Oferta Pública de Subscrição
 - OPV
 - Pessoa Colectiva de Direito Privado
 - Pessoa Colectiva de Direito Público
-- Informação do Consumidor
 - Registo de Valores Mobiliários
-- CMVM
+- Sociedade Comercial
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:1125313601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74605300:por
+  label: Alterado o art. 250.º-A do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99 de 13-nov, com a redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 22/2016 - Diário da República n.º 107/2016, Série I de 2016-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2016-74605300
+  date: '2016-06-03'
+- type: amended_by
+  target: pt:dre:107596682:por
+  label: Alterados os arts. 1.º, 10.º e 17.º do Dec Lei 69/2004, de 25-mar, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 77/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2017-107596682
+  date: '2017-06-30'
 - type: cites
   target: celex:32013R0575
   label: null
@@ -99,15 +111,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2004/03/25/p/dre
 article_structure:
-  article_count: 47
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:02Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +184,9 @@ Os artigos 1.º, 3.º, 4.º, 8.º, 10.º, 11.º, 12.º, 14.º a 17.º, 20.º e 2
 
 2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -182,7 +196,9 @@ b) [...];
 
 c) «Fundos próprios», os fundos próprios referidos na parte II e no capítulo 1 do título I da parte III do Regulamento (UE) n.º [575/2013](http://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A emissão de papel comercial depende do preenchimento de um dos seguintes requisitos pela entidade emitente:
 
@@ -212,7 +228,9 @@ b) Por entidade cujos capitais próprios, em euros ou o seu contravalor em euros
 
 c) Com recurso a sistemas, regimes ou linhas de garantia, apoios ou incentivos, públicos ou privados, incluindo regimes de garantia mútua.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -222,15 +240,21 @@ c) Com recurso a sistemas, regimes ou linhas de garantia, apoios ou incentivos, 
 
 4 - A entidade emitente de papel comercial pode promover a sua integração em sistema centralizado para efeitos de registo e liquidação de operações.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O papel comercial pode ser nominativo ou ao portador e deve observar a forma escritural.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Sem prejuízo do disposto no n.º 4 do artigo 8.º, a titularidade do papel comercial é registada nos termos dos artigos 61.º e seguintes do Código dos Valores Mobiliários.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - À qualificação da oferta de papel comercial como pública ou particular é aplicável, com as devidas adaptações, o disposto nos artigos 109.º e 110.º do Código dos Valores Mobiliários, sendo sempre havida como particular a oferta de papel comercial cujo valor nominal unitário seja o previsto na alínea a) do n.º 2 do artigo 4.º
 
@@ -242,13 +266,17 @@ Sem prejuízo do disposto no n.º 4 do artigo 8.º, a titularidade do papel come
 
 5 - [...].
 
-###### Artigo 14.º — Suspensão e retirada da oferta
+Artigo 14.º
+
+Suspensão e retirada da oferta
 
 1 - A Comissão do Mercado de Valores Mobiliários deve ordenar a suspensão ou a retirada da oferta se verificar que esta enferma de alguma ilegalidade ou violação de regulamento que seja, respetivamente, sanável ou insanável.
 
 2 - A decisão de suspensão ou retirada da oferta é divulgada pela Comissão do Mercado de Valores Mobiliários, a expensas do oferente, nos mesmos termos em que foi divulgada a nota informativa.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -272,7 +300,9 @@ b) Sociedade emitente de valores mobiliários admitidos à negociação em merca
 
 7 - Caso o papel comercial não seja admitido à negociação em mercado regulamentado, o intermediário financeiro ou o patrocinador da emissão, consoante aplicável, publicam semestralmente um relatório sobre o papel comercial emitido, nos termos a definir por regulamento da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O papel comercial pode ser admitido à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação.
 
@@ -282,7 +312,9 @@ b) Sociedade emitente de valores mobiliários admitidos à negociação em merca
 
 4 - Sem prejuízo do disposto no n.º 1 do artigo 233.º do Código dos Valores Mobiliários, o investidor qualificado que subscreva mais de 50% da emissão de papel comercial pode requerer a sua admissão à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação, sem necessidade de autorização de entidade emitente.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As entidades emitentes de papel comercial devem elaborar uma nota informativa sobre a emissão ou o programa de emissão, contendo informação sobre a sua situação patrimonial, económica e financeira, individual e consolidado, e do grupo em que se inserem, consoante o caso, e as características da emissão, com o conteúdo indicado no anexo ao presente diploma, do qual faz parte integrante.
 
@@ -302,11 +334,15 @@ b) Sociedade emitente de valores mobiliários admitidos à negociação em merca
 
 9 - No caso de ser utilizado um prospeto de base, relativamente a cada emissão de papel comercial, a informação complementar prevista no n.º 3 é prestada através das condições finais da oferta a divulgar nos termos previstos no Código dos Valores Mobiliários.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Aplica-se à informação incluída na nota informativa de ofertas públicas e de admissão à negociação de papel comercial o disposto nos artigos 149.º e seguintes do Código dos Valores Mobiliários.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 [...]:
 
@@ -364,15 +400,15 @@ As alterações introduzidas pelo presente diploma ao Decreto-Lei n.º 69/2004, 
 
 Visto e aprovado em Conselho de Ministros de 9 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 17 de fevereiro de 2014.**
+Promulgado em 17 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de fevereiro de 2014.**
+Referendado em 20 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 7.º)
 
@@ -382,27 +418,37 @@ Visto e aprovado em Conselho de Ministros de 9 de janeiro de 2014. - Pedro Passo
 
 Modelo de nota informativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03900/0163201641.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03900/0163201641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03900/0163201641.pdf)
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Republicação do Decreto-Lei n.º 69/2004, de 25 de março
 
-## TÍTULO I — Disposições gerais
+TÍTULO I
 
-###### Artigo 1.º — Objeto e âmbito
+Disposições gerais
+
+Artigo 1.º
+
+Objeto e âmbito
 
 1 - O presente diploma regula a disciplina aplicável aos valores mobiliários de natureza monetária designados por papel comercial.
 
 2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo inferior a um ano.
 
-###### Artigo 2.º — Capacidade
+Artigo 2.º
+
+Capacidade
 
 1 - Têm capacidade para emitir papel comercial as sociedades comerciais ou civis sob a forma comercial, as cooperativas, as empresas públicas e as demais pessoas coletivas de direito público ou privado.
 
 2 - [Revogado].
 
-###### Artigo 3.º — Capital próprio, património líquido e fundos próprios
+Artigo 3.º
+
+Capital próprio, património líquido e fundos próprios
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -412,9 +458,13 @@ b) «Património líquido», a diferença entre o montante total líquido dos be
 
 c) «Fundos próprios», os fundos próprios referidos na parte II e no capítulo 1 do título I da parte III do Regulamento (UE) n.º [575/2013](http://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013.
 
-## TÍTULO II — Emissão
+TÍTULO II
 
-###### Artigo 4.º — Requisitos de emissão
+Emissão
+
+Artigo 4.º
+
+Requisitos de emissão
 
 1 - A emissão de papel comercial depende do preenchimento de um dos seguintes requisitos pela entidade emitente:
 
@@ -444,21 +494,29 @@ b) Por entidade cujos capitais próprios, em euros ou o seu contravalor em euros
 
 c) Com recurso a sistemas, regimes ou linhas de garantia, apoios ou incentivos, públicos ou privados, incluindo regimes de garantia mútua.
 
-###### Artigo 5.º — Garantias
+Artigo 5.º
+
+Garantias
 
 [Revogado].
 
-###### Artigo 6.º — Tipicidade
+Artigo 6.º
+
+Tipicidade
 
 Salvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo inferior a um ano que não cumpram o disposto no presente diploma.
 
-###### Artigo 7.º — Modalidades de emissão
+Artigo 7.º
+
+Modalidades de emissão
 
 1 - O papel comercial pode ser objeto de emissão simples ou, de acordo com o programa de emissão, contínua ou por séries.
 
 2 - À emissão de papel comercial não é aplicável o disposto no artigo 169.º do Código dos Valores Mobiliários e no artigo 349.º do Código das Sociedades Comerciais.
 
-###### Artigo 8.º — Registo da emissão
+Artigo 8.º
+
+Registo da emissão
 
 1 - A emissão de papel comercial deve ser registada junto da respetiva entidade emitente ou em conta aberta junto de intermediário financeiro que, para o efeito, a represente.
 
@@ -468,23 +526,33 @@ Salvo disposição legal em contrário, é proibida a emissão de valores mobili
 
 4 - A entidade emitente de papel comercial pode promover a sua integração em sistema centralizado para efeitos de registo e liquidação de operações.
 
-###### Artigo 9.º — Reembolso
+Artigo 9.º
+
+Reembolso
 
 1 - O papel comercial pode ser reembolsado antes do fim do prazo de emissão, nos termos previstos nas condições de emissão ou do programa de emissão.
 
 2 - A aquisição de papel comercial pela respetiva entidade emitente equivale ao seu reembolso.
 
-###### Artigo 10.º — Forma de representação
+Artigo 10.º
+
+Forma de representação
 
 O papel comercial pode ser nominativo ou ao portador e deve observar a forma escritural.
 
-###### Artigo 11.º — Registo de titularidade
+Artigo 11.º
+
+Registo de titularidade
 
 Sem prejuízo do disposto no n.º 4 do artigo 8.º, a titularidade do papel comercial é registada nos termos dos artigos 61.º e seguintes do Código dos Valores Mobiliários.
 
-## TÍTULO III — Ofertas e admissão
+TÍTULO III
 
-###### Artigo 12.º — Modalidades e aprovação de nota informativa
+Ofertas e admissão
+
+Artigo 12.º
+
+Modalidades e aprovação de nota informativa
 
 1 - À qualificação da oferta de papel comercial como pública ou particular é aplicável, com as devidas adaptações, o disposto nos artigos 109.º e 110.º do Código dos Valores Mobiliários, sendo sempre havida como particular a oferta de papel comercial cujo valor nominal unitário seja o previsto na alínea a) do n.º 2 do artigo 4.º
 
@@ -496,17 +564,23 @@ Sem prejuízo do disposto no n.º 4 do artigo 8.º, a titularidade do papel come
 
 5 - À publicidade da oferta é aplicável, com as devidas adaptações, o disposto nos artigos 121.º e 122.º do Código dos Valores Mobiliários.
 
-###### Artigo 13.º — Instrução do pedido
+Artigo 13.º
+
+Instrução do pedido
 
 [Revogado].
 
-###### Artigo 14.º — Suspensão e retirada da oferta
+Artigo 14.º
+
+Suspensão e retirada da oferta
 
 1 - A Comissão do Mercado de Valores Mobiliários deve ordenar a suspensão ou a retirada da oferta se verificar que esta enferma de alguma ilegalidade ou violação de regulamento que seja, respetivamente, sanável ou insanável.
 
 2 - A decisão de suspensão ou retirada da oferta é divulgada pela Comissão do Mercado de Valores Mobiliários, a expensas do oferente, nos mesmos termos em que foi divulgada a nota informativa.
 
-###### Artigo 15.º — Assistência e colocação
+Artigo 15.º
+
+Assistência e colocação
 
 1 - As ofertas públicas de papel comercial devem ser realizadas com intervenção de intermediário financeiro, legalmente habilitado para o efeito, que presta, pelo menos, os seguintes serviços:
 
@@ -530,7 +604,9 @@ b) Sociedade emitente de valores mobiliários admitidos à negociação em merca
 
 7 - Caso o papel comercial não seja admitido à negociação em mercado regulamentado, o intermediário financeiro ou o patrocinador da emissão, consoante aplicável, publicam semestralmente um relatório sobre o papel comercial emitido, nos termos a definir por regulamento da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 16.º — Admissão à negociação
+Artigo 16.º
+
+Admissão à negociação
 
 1 - O papel comercial pode ser admitido à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação.
 
@@ -540,9 +616,13 @@ b) Sociedade emitente de valores mobiliários admitidos à negociação em merca
 
 4 - Sem prejuízo do disposto no n.º 1 do artigo 233.º do Código dos Valores Mobiliários, o investidor qualificado que subscreva mais de 50% da emissão de papel comercial pode requerer a sua admissão à negociação em mercado regulamentado ou em qualquer outra plataforma de negociação, sem necessidade de autorização de entidade emitente.
 
-## TÍTULO IV — Deveres de informação
+TÍTULO IV
 
-###### Artigo 17.º — Nota informativa
+Deveres de informação
+
+Artigo 17.º
+
+Nota informativa
 
 1 - As entidades emitentes de papel comercial devem elaborar uma nota informativa sobre a emissão ou o programa de emissão, contendo informação sobre a sua situação patrimonial, económica e financeira, individual e consolidado, e do grupo em que se inserem, consoante o caso, e as características da emissão, com o conteúdo indicado no anexo ao presente diploma, do qual faz parte integrante.
 
@@ -562,13 +642,17 @@ b) Sociedade emitente de valores mobiliários admitidos à negociação em merca
 
 9 - No caso de ser utilizado um prospeto de base, relativamente a cada emissão de papel comercial, a informação complementar prevista no n.º 3 é prestada através das condições finais da oferta a divulgar nos termos previstos no Código dos Valores Mobiliários.
 
-###### Artigo 18.º — Idioma
+Artigo 18.º
+
+Idioma
 
 1 - A nota informativa de oferta particular não está sujeita ao disposto no artigo 6.º do Código dos Valores Mobiliários.
 
 2 - À nota informativa de ofertas públicas de papel comercial é aplicável o disposto nos artigos 163.º-A e 237.º-A do Código dos Valores Mobiliários.
 
-###### Artigo 19.º — Divulgação
+Artigo 19.º
+
+Divulgação
 
 A nota informativa é divulgada gratuitamente aos investidores:
 
@@ -576,11 +660,15 @@ a) Nas ofertas públicas de papel comercial até ao início da oferta através d
 
 b) Nas ofertas particulares de papel comercial, junto do emitente, antes do início do período de subscrição da emissão.
 
-###### Artigo 20.º — Responsabilidade pelo conteúdo da informação
+Artigo 20.º
+
+Responsabilidade pelo conteúdo da informação
 
 Aplica-se à informação incluída na nota informativa de ofertas públicas e de admissão à negociação de papel comercial o disposto nos artigos 149.º e seguintes do Código dos Valores Mobiliários.
 
-###### Artigo 20.º-A — Outros deveres de informação
+Artigo 20.º-A
+
+Outros deveres de informação
 
 1 - A entidade emitente de papel comercial admitido à negociação em mercado regulamentado informa imediatamente o mercado sobre qualquer facto ou informação precisa de que tome conhecimento e que não sejam públicos, suscetíveis de influenciar de maneira sensível o preço do papel comercial.
 
@@ -594,9 +682,13 @@ Aplica-se à informação incluída na nota informativa de ofertas públicas e d
 
 6 - Salvo disposição legal em contrário, não são aplicáveis às entidades emitentes que tenham exclusivamente papel comercial admitido à negociação em mercado regulamentado quaisquer disposições sobre a estrutura e governo societário das sociedades com valores mobiliários admitidos à negociação em mercado regulamentado.
 
-## TÍTULO V — Disposições finais e transitórias
+TÍTULO V
 
-###### Artigo 21.º — Regulamentação
+Disposições finais e transitórias
+
+Artigo 21.º
+
+Regulamentação
 
 Compete à Comissão do Mercado de Valores Mobiliários elaborar os regulamentos necessários à concretização do disposto no presente diploma e aos demais aspetos relacionados com o papel comercial, nomeadamente sobre as seguintes matérias:
 
@@ -616,28 +708,40 @@ g) Relatório a publicar semestralmente pelo intermediário financeiro ou o patr
 
 h) Termos em que deve ser divulgada a oferta pública de papel comercial e locais de prestação ao público de informação relevante referida no n.º 1 do artigo anterior.
 
-###### Artigo 22.º — Supervisão
+Artigo 22.º
+
+Supervisão
 
 Compete à Comissão do Mercado de Valores Mobiliários fiscalizar o cumprimento do presente diploma e a supervisão dos mercados onde seja negociado papel comercial.
 
-###### Artigo 23.º — Informação estatística
+Artigo 23.º
+
+Informação estatística
 
 A informação estatística relativa à emissão de papel comercial é prestada ao Banco de Portugal nos termos a definir por este.
 
-###### Artigo 24.º — Direito transitório
+Artigo 24.º
+
+Direito transitório
 
 O presente diploma é aplicável às emissões de papel comercial deliberadas em data posterior à da sua entrada em vigor e, bem assim, às emissões de papel comercial efetuadas ao abrigo de novos programas ou de programas renovados em data posterior à da sua entrada em vigor.
 
-###### Artigo 25.º — Revogação
+Artigo 25.º
+
+Revogação
 
 São revogados o Decreto-Lei n.º 181/92, de 22 de agosto, com as alterações introduzidas pelos Decretos-Leis n.os 231/94, de 14 de setembro, 343/98, de 6 de novembro, e 26/2000, de 3 de março, e a Portaria n.º 815-A/94, de 14 de setembro.
 
-###### Artigo 26.º — Entrada em vigor
+Artigo 26.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor 30 dias após a sua publicação.
 
-## ANEXO — (a que se refere o artigo 17.º)
+ANEXO
+
+(a que se refere o artigo 17.º)
 
 Modelo de nota informativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03900/0163201641.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03900/0163201641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03900/0163201641.pdf)

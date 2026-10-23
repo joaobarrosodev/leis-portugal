@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/218/2015/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2015-70476206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbf95d0573308006ef8d10d3ab039e162dd80c4ee7964d21f2697ac5543a7525
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59a0f9b340323a2c4aac150fde3a1ca3c549b0df29a5a04de2e565d6551e9d69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Água
+- Águas Residuais
 - Aproximação das Legislações
 - Autoridade Nacional da ÁGUA
-- Gestão de Resíduos
 - Cádmio
-- Recursos Hídricos
 - Descarga de ÁGUA Residual
 - Fiscalização
-- Proteção do Ambiente
-- Águas Residuais
-- Tratamento de Resíduos
+- Gestão de Resíduos
 - Política do Ambiente
 - Poluição da água
 - Poluição Industrial
+- Proteção do Ambiente
+- Recursos Hídricos
 - Substância Perigosa
-- Agência Portuguesa do Ambiente
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -148,20 +148,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:158443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920327:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32013L0039
   label: null
   source: null
 article_structure:
-  article_count: 31
+  article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:40Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +316,9 @@ Os artigos 1.º a 4.º, 6.º e 8.º a 10.º do [Decreto-Lei n.º 103/2010](https
 
 4 - [Revogado].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -228,7 +330,9 @@ c) [...]
 
 d) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para efeitos do disposto no presente decreto-lei, entende-se por:
 
@@ -260,7 +364,9 @@ m) «Táxon do biota», um determinado táxon aquático com grau taxonómico de 
 
 2 - Sem prejuízo das definições previstas no número anterior, são aplicáveis as definições constantes do artigo 4.º da Lei da Água e os conceitos relativos a critérios de desempenho mínimo dos métodos analíticos estabelecidos no n.º 6 do artigo 4.º do [Decreto-Lei n.º 83/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030), de 20 de junho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Às massas de águas superficiais incluídas no âmbito do presente decreto-lei aplicam-se as NQA para as substâncias prioritárias e poluentes previstos na tabela da parte A do anexo II ao presente decreto-lei, de acordo com os requisitos previstos na parte B desse mesmo anexo, sem prejuízo do disposto nos números seguintes.
 
@@ -312,7 +418,9 @@ c) A justificação da frequência da monitorização aplicada nos termos do nú
 
 17 - Para o parâmetro TPH (hidrocarbonetos totais derivados do petróleo de C10 a C40) define-se o valor de 10 (mi)g/l como NQA-MA (norma de qualidade ambiental - média anual) para as águas superficiais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A APA, I. P., verifica a conformidade dos resultados da monitorização com as NQA aplicáveis, nos termos do artigo 4.º
 
@@ -340,7 +448,9 @@ a) [...]
 
 b) A dureza, o carbono orgânico dissolvido (COD), o pH ou outros parâmetros de qualidade da água que afetem a biodisponibilidade dos metais.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A APA, I. P., estabelece um inventário, que pode incluir mapas de emissões, descargas e perdas de todas as substâncias prioritárias e outros poluentes previstos na parte A do anexo II ao presente decreto-lei para cada região hidrográfica, com base na informação respeitante à sua caracterização, identificação das pressões e descrição dos impactos da atividade humana sobre o estado das massas de água e análise económica da utilização da água, e na informação obtida no âmbito do programa de monitorização previsto no artigo 54.º da Lei da Água e ao abrigo do [Decreto-Lei n.º 127/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2008-456784), de 21 de julho, alterado pelo [Decreto-Lei n.º 6/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629), de 10 de janeiro, e nos demais dados disponíveis.
 
@@ -362,7 +472,9 @@ b) A dureza, o carbono orgânico dissolvido (COD), o pH ou outros parâmetros de
 
 10 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A APA, I. P., pode designar zonas de mistura de substâncias prioritárias indicadas nos anexos I e II ao presente decreto-lei.
 
@@ -386,7 +498,9 @@ b) Proporcionada à rejeição, atendendo à concentração de poluentes no pont
 
 5 - A APA, I. P., disponibiliza as orientações técnicas para a identificação das zonas de mistura, de acordo com os procedimentos aprovados pela Comissão Europeia.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O incumprimento, em determinada massa de água, de uma ou mais NQA que conste da parte A do anexo II ao presente decreto-lei, não é considerado violação ao presente decreto-lei, quando seja demonstrado, cumulativamente, o seguinte:
 
@@ -430,7 +544,9 @@ c) Com os n.os 2), 5), 15), 20), 22), 23) e 28), tratando-se de substâncias par
 
 5 - Nos termos do disposto no n.º 17 do artigo 4.º, a monitorização deve realizar-se de três em três anos, salvo se os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade.
 
-###### Artigo 10.º-A — Lista de vigilância
+Artigo 10.º-A
+
+Lista de vigilância
 
 1 - A APA, I. P., monitoriza cada substância constante da lista de vigilância definida pela Comissão Europeia em estações de monitorização representativas durante um período mínimo de 12 meses.
 
@@ -484,15 +600,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Artur Álvaro Laureano Homem da Trindade - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 1 de outubro de 2015.**
+Promulgado em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de outubro de 2015.**
+Referendado em 5 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -502,13 +618,15 @@ Visto e aprovado em Conselho de Ministros de 17 de setembro de 2015. - Pedro Pas
 
 Listas das substâncias prioritárias no domínio da política da água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
 
-## ANEXO II — (a que se refere o n.º 1 do artigo 1.º)
+ANEXO II
+
+(a que se refere o n.º 1 do artigo 1.º)
 
 Normas de qualidade ambiental e outros poluentes
 
-# Parte A
+Parte A
 
 MA: média anual.
 
@@ -520,9 +638,9 @@ Unidades:
 
 (mi)g/Kg de peso húmido para a coluna 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
 
-# Parte B
+Parte B
 
 Aplicação das normas de qualidade ambiental (NQA) estabelecidas na parte A
 
@@ -842,13 +960,13 @@ Os atos e os procedimentos necessários à execução do presente decreto-lei na
 
 Listas das substâncias prioritárias no domínio da política da água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 1.º)
 
 Normas de qualidade ambiental e outros poluentes
 
-# Parte A
+Parte A
 
 MA: média anual.
 
@@ -860,9 +978,9 @@ Unidades:
 
 (mi)g/Kg de peso húmido para a coluna 8.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf))](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/19600/0866708685.pdf)
 
-# Parte B
+Parte B
 
 Aplicação das normas de qualidade ambiental (NQA) estabelecidas na parte A
 

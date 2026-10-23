@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 40/1997, 1º Suplemento, Série I-A de 1997-02-17
   number: '40'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 772-(2) a 772-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/040a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43-a/1997/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-1997-453502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26b7576452a042558a0fb29b80cb661912a6d456e4f64b6937edb8c87ddb75e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2baafa89992d386f7e1fe9e6e28021465b059f5bb69783f725cecbabe87b3ee3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,44 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
+- Contrato de Trabalho
 - Ensino Preparatório
 - Ensino Secundário
 - Pessoal Docente
-- Contrato de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:624793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534604:por
+  label: "Alterado o art. 58º do Dec Lei 18/88 de 21-Jan, na redacção do presente diploma, pelo DEC LEI.5-A/2001.2001.01.12.ME,\
+    \ DR.IS-A [10]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-2001-534604
+  date: '2001-01-12'
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:186123:por
+  label: "Revogado pelo DEC LEI.35/2003.2003.02.27.ME DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2003-186123
+  date: '2003-02-27'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:12Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +160,7 @@ d) ...
 
 2 - ...
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - As desistências do concurso ou de parte das preferências manifestadas são admitidas, desde que os respectivos pedidos dêem entrada no departamento que procedeu à abertura do concurso até ao termo do prazo das reclamações, a que se refere o n.º 1 do artigo anterior, não sendo, porém, admitida a introdução de qualquer outro tipo de alterações às preferências inicialmente manifestadas.
 
@@ -149,13 +168,13 @@ d) ...
 
 3 - ...
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - Os professores dos quadros na situação de licença sem vencimento de longa duração podem candidatar-se ao concurso sempre que, havendo requerido o regresso ao quadro de origem, até final do mês de Setembro do ano lectivo anterior àquele em que pretendem regressar, sejam informados da inexistência de vaga no grupo de docência a que pertencem.
 
 2 - Os docentes referidos no número anterior podem candidatar-se à primeira e à segunda parte do concurso, inseridos na primeira prioridade referida no n.º 1 do artigo 6.º do presente diploma, mantendo aquela prioridade até à obtenção de um lugar de quadro.
 
-###### Artigo 52.º
+Artigo 52.º
 
 1 - ...
 
@@ -173,7 +192,7 @@ d) ...
 
 4 - ...
 
-###### Artigo 58.º
+Artigo 58.º
 
 1 - ...
 
@@ -193,12 +212,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Fevereiro de 1997.**
+Referendado em 16 de Fevereiro de 1997.
 
 Pelo Primeiro-Ministro, António Manuel de Carvalho Ferreira Vitorino, Ministro da Presidência.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21198-1965-238267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea29ce817f4bcb1f2f71aa405aebcb66b7a94c3eff85fc97d6c40cd48b93e9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bb6add817330c33006f139699d1c343ef9b76a8cdebb648bc5e6546d72bf355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:13Z'
   warnings: []
   errors: []
 ---
@@ -111,8 +111,8 @@ Ministério do Exército, 26 de Março de 1965. - O Ministro do Exército, Joaqu
 
 QUADRO I
 
-## Anexo à Portaria n.º 21198, de 26 de Março de 1965
+Anexo à Portaria n.º 21198, de 26 de Março de 1965
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06800/03910392.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06800/03910392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06800/03910392.pdf)
 
 Ministério do Exército, 26 de Março de 1965. - O Ministro do Exército, Joaquim da Luz Cunha.

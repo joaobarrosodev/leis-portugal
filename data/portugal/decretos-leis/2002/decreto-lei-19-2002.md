@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/024a00/07110717.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2002/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2002-276035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ae1a8101a46399699ccc87718e63841a9ecf126a38110c173630c43c65df43d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57552913564c0b84c7821e283c328db61ea4d42280bce1b817720fbe5e12cdf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
 - Ministério da Juventude e do Desporto
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:432177:por
@@ -80,16 +80,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/217/2001/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/217/2001/08/03/p/dre
+- type: cites
+  target: pt:dre:375402:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:303469:por
+  label: "Rectificado pelo DECL-RECT.8-C/2002.2002.02.28.PCM, DR.IS-A [50]2ºSupl de 28/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-c-2002-303469
+  date: '2002-02-28'
+- type: repealed_by
+  target: pt:dre:432177:por
+  label: "Revogado pelo DEC LEI.213/2002.2002.10.22.PCM DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2002-432177
+  date: '2002-10-22'
 article_structure:
   article_count: 25
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:35Z'
   warnings: []
   errors: []
 ---
@@ -328,7 +342,9 @@ j) Assegurar, com o gabinete jurídico, a elaboração e actualização da parte
 
 3 - A actividade do GGRH é coordenada pelo técnico superior de mais elevada categoria que nele preste serviço, que terá direito, enquanto se mantiver nessas funções, a um acréscimo remuneratório correspondente a 30 pontos indiciários do regime geral, a adicionar ao índice detido, até ao limite da remuneração de chefe de divisão.
 
-###### Artigo 12.º — Secção de Pessoal, de Expediente e de Arquivo
+###### Artigo 12.º
+
+#### Secção de Pessoal, de Expediente e de Arquivo
 
 1 - À SPEA cabe o desenvolvimento de tarefas ligadas à gestão administrativa de pessoal e ao expediente e arquivo.
 
@@ -360,7 +376,9 @@ m) Assegurar a divulgação, pelos serviços do MJD, de circulares e informaçõ
 
 n) Realizar o expediente relativo à publicação no Diário da República dos diplomas legais e dos despachos emanados dos membros do Governo das áreas da juventude e do desporto, bem como dos demais actos que careçam de publicação oficial.
 
-###### Artigo 13.º — Secção de Contabilidade e Conta
+###### Artigo 13.º
+
+#### Secção de Contabilidade e Conta
 
 1 - À SCC cabe o desenvolvimento de tarefas ligadas à gestão orçamental.
 
@@ -376,7 +394,9 @@ d) Assegurar, com excepção dos recebimentos e pagamentos, a tramitação dos p
 
 e) Controlar as dotações orçamentais da SG, elaborando para o efeito adequados balancetes mensais de execução orçamental.
 
-###### Artigo 14.º — Secção de Património e Aprovisionamento
+###### Artigo 14.º
+
+#### Secção de Património e Aprovisionamento
 
 1 - À SPA cabe o desenvolvimento de tarefas ligadas à gestão patrimonial e ao aprovisionamento.
 
@@ -412,7 +432,9 @@ b) Manter mensalmente actualizada a conciliação bancária.
 
 A DSAT desenvolve as actividades necessárias ao exercício das competências da SG nos domínios da informática, das comunicações, da modernização, da informação e das relações públicas.
 
-###### Artigo 17.º — Divisão de Comunicações e Informática
+###### Artigo 17.º
+
+##### Divisão de Comunicações e Informática
 
 1 - A DCI é o serviço de apoio técnico ao qual incumbe desempenhar funções no âmbito da gestão das tecnologias dos sistemas de informação e modernização administrativa.
 
@@ -436,7 +458,9 @@ h) Promover a aplicação de medidas de aperfeiçoamento organizacional e de mod
 
 i) Coadjuvar os serviços do MJD no cumprimento das normas legais e regulamentares em matéria de modernização administrativa e qualidade, bem como propor experiências piloto no âmbito da qualidade.
 
-###### Artigo 18.º — Divisão de Informação, Relações Públicas e Imagem
+###### Artigo 18.º
+
+##### Divisão de Informação, Relações Públicas e Imagem
 
 1 - A DIRPI é o serviço de apoio técnico ao qual incumbe promover e assegurar funções nas áreas da informação, das relações públicas e da promoção institucional e imagem do MJD.
 
@@ -568,15 +592,15 @@ Até à entrada em vigor da Lei Orgânica da SGMJD, a SG exercerá, transitoriam
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida.
 
-**Promulgado em 4 de Janeiro de 2002.**
+Promulgado em 4 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2002.**
+Referendado em 10 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa de pessoal dirigente da Secretaria-Geral a que se refere o n.º 1 do artigo 24.º
 

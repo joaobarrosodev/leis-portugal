@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/2006/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2006-202667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff9d04874c91bd60b8a6c16a71bd2ac94ae25300b97c5be9c54e6f8d262d8f50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a30ca9cfe9f445def7a6d51eb7f939f629aeaae8b24fbddf7815439172ee0eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Energia Elétrica
 - Consumo de Energia
+- Energia Elétrica
 - Equipamento Eléctrico
 - Etiquetagem
 - Informação do Consumidor
@@ -94,16 +94,23 @@ relationships:
   target: celex:32003L0066
   label: null
   source: http://data.europa.eu/eli/dir/2003/66/oj
+- type: repealed_by
+  target: pt:dre:286756:por
+  label: Revogado, a partir de 20.07.2011, com produção de efeitos a 30.11.2011 [data da revogação da Directiva n.º 94/2/CE,
+    da Comissão, de 21 de Janeiro, pelo Regulamento Delegado (UE) n.º 1060/2010, da Comissão, de 28 de Setembro], pelo DEC
+    LEI.63/2011.09.05.2011.MEID, DR.IS [89] de 09.05.2011, nos termos do disposto no nº 5 do seu art. 24º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2011-286756
+  date: '2011-05-09'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:47Z'
   warnings: []
   errors: []
 ---
@@ -274,21 +281,21 @@ O presente decreto-lei revoga a Portaria n.º 1139/94, de 22 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 12 de Dezembro de 2005.**
+Promulgado em 12 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Dezembro de 2005.**
+Referendado em 13 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Etiqueta
 
 1 - Concepção da etiqueta. - A etiqueta deve ser conforme ao modelo seguinte:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
 
 2 - Notas relativas à etiqueta. - As notas que se seguem especificam os dados que devem ser incluídos na etiqueta:
 
@@ -312,7 +319,7 @@ IX) Quando for fornecida a indicação relativa ao ruído (nível de potência s
 
 3 - Impressão da etiqueta. - Definem-se a seguir certos aspectos da etiqueta:
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
 
 A letra indicadora dos aparelhos das classes A+ e A++ corresponderá às seguintes ilustrações e será colocada na mesma posição que a letra A indicadora dos aparelhos da classe A:
 
@@ -424,18 +431,18 @@ Os aparelhos abrangidos pelo presente diploma serão repartidos pelas seguintes 
 
 ## ANEXO V — Classe de eficiência energética
 
-# Parte 1 - Definições das classes A+ e A++
+Parte 1 - Definições das classes A+ e A++
 
 Um aparelho será classificado como A+ ou A++ consoante o intervalo especificado no quadro n.º 1 em que se situe o seu índice de eficiência energética alfa (I(índice (alfa))).
 
 Do QUADRO N.º 1 ao QUADRO N.º 3
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
 
-# Parte 2 - Definições das classes A a G
+Parte 2 - Definições das classes A a G
 
 A classe de eficiência energética dos aparelhos deverá ser determinada em conformidade com o quadro n.º 4.
 
 Do QUADRO N.º 4 ao QUADRO N.º 6
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00020007.pdf)

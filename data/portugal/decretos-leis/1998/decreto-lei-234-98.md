@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/1998/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1998-425291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e252c00191a9394db3c003c0dafc4515592cd7a400f5c8b33125eb9cf8f03bad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ea0d3fd6cb7995acc3c028881a99a8cb0f5350d134136ce867ba23d7e14d9a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Contra-ordenação
-- Recursos Hídricos
-- Poluição da água
 - Domínio Público Hídrico
+- Multa
+- Poluição da água
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:11Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +134,9 @@ Princípio geral
 
 5 - Salvo o disposto no artigo 48.º, as acções mencionadas nos números anteriores estão sujeitas à obtenção de licença, que pode ser outorgada pelo prazo máximo de 10 anos, nos termos do artigo 6.º, com as especificidades previstas na presente secção.
 
-###### Artigo 46.º — Requisitos gerais
+Artigo 46.º
+
+Requisitos gerais
 
 A licença referida no n.º 5 do artigo anterior só pode ser conferida desde que a actividade a licenciar:
 
@@ -142,7 +152,9 @@ e) ...
 
 f) ...
 
-###### Artigo 47.º — Pedido de atribuição de licença
+Artigo 47.º
+
+Pedido de atribuição de licença
 
 O pedido de atribuição de licença previsto no n.º 5 do artigo 45.º é instruído, para além dos referidos no artigo 16.º, com os seguintes elementos:
 
@@ -154,7 +166,9 @@ c) ...
 
 d) ...
 
-###### Artigo 48.º — Obrigatoriedade de limpeza e desobstrução
+Artigo 48.º
+
+Obrigatoriedade de limpeza e desobstrução
 
 1 - A DRA, sempre que verifique a necessidade de limpeza e desobstrução prevista no n.º 2 do artigo 45.º, notifica o respectivo proprietário ou possuidor para a elas procederem.
 
@@ -168,12 +182,12 @@ d) ...
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 8 de Julho de 1998.**
+Promulgado em 8 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1998.**
+Referendado em 14 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

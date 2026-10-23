@@ -25,7 +25,7 @@ publication:
   reference: Diário da República n.º 59/2001, 1º Suplemento, Série I-A de 2001-03-10
   number: '59'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1382-(2) a 1382-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/059a01/00020003.pdf
 entry_into_force_dates: []
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/16-e/2001/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/16-e-2001-428667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27514e85cd2122a27e843720dd2b6868f6b26da9b05e7adad0dbcb0027c46f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bffaf5eedd051f68ffcd7ecba41acf8ed2aff58fbc4c3654c611f38e1dcb711f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,26 +72,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XIV
-- Secretário de Estado da Solidariedade e da Segurança Social
-- Secretário de Estado para os Assuntos Europeus
 - Nomeação
 - Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado Adjunto e dos Transportes
 - Secretário de Estado da Administração Marítima e Portuária
 - Secretário de Estado da Habitação
+- Secretário de Estado da Solidariedade e da Segurança Social
 - Secretário de Estado das Obras Públicas
 - Secretário de Estado do Trabalho e Formação
+- Secretário de Estado para os Assuntos Europeus
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:34Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +100,7 @@ validation:
 
 de 10 de Março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -120,12 +120,12 @@ O Dr. António Maria Bustorff Dornelas Cysneiros Secretário de Estado do Trabal
 
 O Dr. José Manuel Simões de Almeida Secretário de Estado da Solidariedade e da Segurança Social.
 
-**Assinado em 10 de Março de 2001.**
+Assinado em 10 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 2001.**
+Referendado em 10 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

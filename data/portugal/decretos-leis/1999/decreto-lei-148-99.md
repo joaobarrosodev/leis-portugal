@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/1999/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1999-334370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14441a1b053c41ef1fa3205fe6ca43941a318e930fb743dec0012972e76d8ef0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7923bf16e3affc17f0fbb0d923eee748060481a423351fcfe5cb7e81904db6b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Açores
 - Aproximação das Legislações
-- Gado Caprino
-- Produto Cárneo
-- Multa
-- Leite
+- Aquicultura
+- Ave de Capoeira
 - Contra-ordenação
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direito Comunitário
-- Controlo Sanitário
-- Saúde Pública
 - Fiscalização
 - Gado Bovino
+- Gado Caprino
+- Gado Equino
+- Gado Ovino
 - Gado Suíno
-- Ave de Capoeira
 - Importação
 - Legislação Veterinária
-- MEL
-- Aquicultura
-- Gado Ovino
-- OVO
-- Madeira.região Autónoma
-- Proteção do Consumidor
-- Gado Equino
+- Leite
 - Limite Máximo de Resíduos
-- Sanção
-- Açores
+- Madeira.região Autónoma
+- MEL
+- Multa
+- OVO
+- Produção Animal
 - Produto Animal
+- Produto Cárneo
+- Proteção do Consumidor
+- Sanção
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31985L0358
@@ -126,13 +126,13 @@ relationships:
 article_structure:
   article_count: 32
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:25Z'
   warnings: []
   errors: []
 ---
@@ -631,15 +631,15 @@ f) O n.º 2 do ponto B da parte II do capitulo VI do anexo do Regulamento aprova
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em 16 de Abril de 1999.**
+Promulgado em 16 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Abril de 1999.**
+Referendado em 21 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Grupo A
 

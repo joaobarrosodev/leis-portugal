@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2005/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4de80efcaf70859c18634faa34958f42adec58c0a11396bdb4ee618ec9d5bec6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 351c2bf76a5b7ce21d29971e3dd8a60ab86fe8b52a735384f6d3a69f28249972
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - ADSE
-- Região Autónoma
 - Assistência a Familiares
+- Autarquia Local
 - Beneficiário
 - Cartão de Identificação
 - Cônjuge
-- Administração Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Organismo Autónomo
 - Cuidados Médicos
-- Protecção na Doença
-- Regime Geral da Segurança Social
 - Funcionário Público
+- Organismo Autónomo
+- Política de Saúde
+- Protecção na Doença
+- Região Autónoma
+- Regime Geral da Segurança Social
+- Serviço Nacional de Saúde
 - Subsistemas de Saúde
-- Autarquia Local
 - União de Facto
 relationships:
 - type: amended_by
   target: pt:dre:503835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197491:por
+  label: "Aditado o capítulo V (artigos 46.º a 48.º) ao Decreto-Lei n.º 118/83, de 25 de Fevereiro, republicado pelo presente\
+    \ diploma, pela LEI.53-D/2006.29.12.2006.AR, DR.IS [249]4ºSupl de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-d-2006-197491
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 9.º do Dec Lei 118/83 de 25-Fev, alterado e republicado pelo presente diploma, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 12.º do Dec Lei 118/83 de 25-Fev, alterado e republicado pelo presente diploma, pela LEI.3-B/2010.28.04.2010.AR,\
+    \ DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:503835:por
+  label: "Alterados os arts. 6.º e 18.º do Dec Lei 118/83, de 25-fev, na redação do presente diploma, pelo DEC LEI.161/2013.22.11.2013.MF,\
+    \ DR.IS [227] de 22.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2013-503835
+  date: '2013-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/2005/09/20/p/dre
   label: null
@@ -124,16 +148,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
+- type: cites
+  target: pt:dre:147854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 88
+  article_count: 66
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:13Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +264,9 @@ c) Concorrerem a favor da ADSE a título de comparticipação nas despesas de ad
 
 2 - Os encargos decorrentes dos benefícios concedidos pela ADSE são suportados pelos respectivos organismos nos termos do preceituado no artigo seguinte.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os funcionários e agentes a que se refere o presente diploma adquirem a qualidade de beneficiários titulares desde que, nessa qualidade, não estejam abrangidos por qualquer outro subsistema de saúde integrado na Administração Pública.
 
@@ -206,7 +288,9 @@ b) Pelos organismos autónomos ou Regiões e autarquias locais, relativamente ao
 
 5 - Os funcionários na situação de aposentação só podem inscrever-se como beneficiários titulares desde que não estejam abrangidos por outro subsistema de saúde integrado na Administração Pública.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Podem inscrever-se como beneficiários familiares:
 
@@ -218,7 +302,9 @@ c) ...
 
 2 - A inscrição dos familiares só é possível desde que provem não estar abrangidos, em resultado do exercício de actividade remunerada ou tributável, por regime de segurança social de inscrição obrigatória, enquanto se mantiver essa situação.
 
-###### Artigo 8.º — Cônjuges e membros de união de facto
+Artigo 8.º
+
+Cônjuges e membros de união de facto
 
 1 - ...
 
@@ -232,7 +318,9 @@ b) ...
 
 4 - O procedimento de inscrição na ADSE como beneficiários familiares das pessoas que vivam com o beneficiário titular em união de facto é regulado mediante portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Podem inscrever-se como beneficiários familiares:
 
@@ -250,7 +338,9 @@ b) Se sofrerem de incapacidade total e permanente ou de doença prolongada que o
 
 4 - Podem inscrever-se como beneficiários equiparados a descendentes, em qualquer das situações mencionadas nos n.os 1 e 2, os enteados e os filhos da pessoa que viva com o beneficiário titular em união de facto que estejam a seu cargo e, bem assim, os tutelados, os adoptados e os menores que, por via judicial ou administrativa, sejam confiados ao beneficiário titular, ao seu cônjuge ou à pessoa que viva com o beneficiário titular em união de facto.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Podem inscrever-se como beneficiários familiares os ascendentes dos beneficiários titulares que não possuam rendimentos próprios mensais iguais ou superiores:
 
@@ -262,7 +352,9 @@ b) [Anterior alínea b) do artigo 10.º]
 
 3 - Podem inscrever-se como beneficiários equiparados a ascendentes os adoptantes dos beneficiários titulares, nas condições dos números anteriores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +364,9 @@ b) [Anterior alínea b) do artigo 10.º]
 
 4 - Relativamente aos descendentes recém-nascidos, nos primeiros três meses, a fruição de benefícios que dependa da exibição de cartão de beneficiário é obtida através do cartão de qualquer dos progenitores que seja beneficiário titular.
 
-###### Artigo 12.º — Inscrição e direito de opção por outro subsistema de saúde
+Artigo 12.º
+
+Inscrição e direito de opção por outro subsistema de saúde
 
 1 - Os funcionários e agentes da administração central, regional e local que iniciem funções a partir de 1 de Janeiro de 2006, incluindo os dos serviços dotados de autonomia administrativa e financeira e ainda de outros organismos que, não sendo financeiramente autónomos, sejam dotados de verbas próprias para pagamento do seu pessoal, podem inscrever-se como beneficiários titulares.
 
@@ -288,7 +382,9 @@ b) [Anterior alínea b) do artigo 10.º]
 
 7 - O exercício do direito de opção por funcionário ou agente inscrito na ADSE determina o cancelamento dessa inscrição, bem como a dos respectivos familiares ou equiparados inscritos.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -304,11 +400,15 @@ c) [Anterior alínea b).]
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Mantêm a qualidade de beneficiários titulares os funcionários e agentes que por motivo de doença se encontrem em situação de licença ilimitada ou de licença sem vencimento de longa duração.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Suspende-se a qualidade de beneficiário titular aos funcionários e agentes que:
 
@@ -322,7 +422,9 @@ b) Entrem de licença sem vencimento por um ano ou de licença sem vencimento pa
 
 4 - O não cumprimento do disposto no número anterior constitui infracção disciplinar, nos termos do artigo 25.º do [Decreto-Lei n.º 476/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1980-462061), de 15 de Outubro, e do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A qualidade de beneficiário titular e familiar perde-se pela verificação dos seguintes eventos:
 
@@ -338,7 +440,9 @@ d) Renúncia, nos termos previstos no n.º 3 do artigo 12.º
 
 3 - O não cumprimento do disposto no número anterior constitui infracção disciplinar, nos termos do artigo 25.º do [Decreto-Lei n.º 476/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1980-462061), de 15 de Outubro, e do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -358,7 +462,9 @@ c) Automóvel de aluguer.
 
 6 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Os beneficiários da ADSE podem recorrer aos cuidados de saúde no estrangeiro nas seguintes condições:
 
@@ -366,7 +472,9 @@ a) Desde que não existam meios técnicos em Portugal para os cuidados exigidos,
 
 b) ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Nas condições referidas na alínea a) do artigo anterior, o beneficiário tem direito a uma comparticipação equivalente às despesas efectuadas com os cuidados de saúde recebidos de acordo com os montantes fixados nas tabelas aprovadas pelo despacho referido no artigo 35.º do presente diploma.
 
@@ -374,19 +482,25 @@ b) ...
 
 3 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Quando o beneficiário opte por cuidados de saúde no estrangeiro fora das condições prevista na alínea a) do artigo 31.º, a comparticipação é atribuída de acordo com os montantes fixados nas tabelas aprovadas pelo despacho referido no artigo 35.º do presente decreto-lei, excluindo-se qualquer comparticipação nas despesas com transportes e aposentadoria.
 
 2 - Sempre que o beneficiário se encontre deslocado no estrangeiro em missão oficial tem direito a comparticipação nas despesas com cuidados de saúde de acordo com os montantes fixados nas tabelas aprovadas pelo despacho referido no artigo 35.º do presente decreto-lei.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Desde que se verifiquem as condições previstas na alínea a) do artigo 31.º, a ADSE pode vir a adiantar uma verba de conformidade com a previsão dos encargos a suportar de acordo com as disponibilidades do seu orçamento.
 
 2 - A previsão dos encargos consta do relatório clínico da entidade referida na alínea a) do artigo 31.º ou da entidade onde os cuidados vão ser ministrados.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A ADSE não comparticipa em despesas com cuidados de saúde que tenham sido objecto de comparticipação por outros subsistemas de saúde, serviços sociais ou obras sociais integrados na Administração Pública.
 
@@ -396,7 +510,9 @@ b) ...
 
 4 - Para efeitos do disposto nos números anteriores, as despesas são consideradas autonomamente, ainda que decorrentes da prestação do mesmo cuidado de saúde.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -408,7 +524,9 @@ b) ...
 
 c) De doença abrangida pelo regime de concessão de assistência aos funcionários e agentes tuberculosos e seus familiares.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ....
 
@@ -420,19 +538,25 @@ c) De doença abrangida pelo regime de concessão de assistência aos funcionár
 
 5 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Aos beneficiários da ADSE é atribuído um cartão de modelo, características e validade aprovados por despacho do membro do Governo responsável pela área das finanças.
 
 2 - A emissão do cartão e as respectivas renovações são gratuitas, ficando a passagem de segunda via sujeita ao pagamento de taxa a fixar no despacho referido no número anterior.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ....
 
 2 - Exceptuam-se os casos em que, por motivos alheios à vontade dos beneficiários, estes não consigam obter os respectivos documentos dentro do prazo indicado no número anterior, podendo, quando tal aconteça, os documentos ser remetidos à ADSE fora do prazo estabelecido, acompanhados de requerimento devidamente fundamentado e dirigido ao director-geral da ADSE, que pode deferir ou indeferir consoante os fundamentos invocados.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 A ADSE pode assumir o pagamento de todas as prestações devidas pelos organismos autónomos, Regiões, autarquias locais e entidades referidas na alínea c) do artigo 3.º aos seus funcionários, mediante prévio acordo, tendo em conta o previsto nos artigos 4.º, 5.º e 6.º, n.º 2, do presente diploma.»
 
@@ -492,15 +616,15 @@ Os funcionários e agentes que exerçam o direito de opção referido no artigo 
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 22 de Dezembro de 2005.**
+Promulgado em 22 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2005.**
+Referendado em 22 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro
 

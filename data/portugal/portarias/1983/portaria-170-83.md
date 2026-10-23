@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-1983-311245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 837b7087469fd6a0a2fb6cb014d7d3c079d9a02a6b6a0fd34b3bcf93abcffde3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 143db2f3ca04b0ffb4b4e93c677e2e33a109d595746f9a60d456e50b9817678e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Clínica Geral
+- Concurso
+- Médico
+relationships:
+- type: cites
+  target: pt:dre:375870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608202:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:40Z'
   warnings: []
   errors: []
 ---
@@ -111,23 +134,23 @@ Regulamento dos Concursos de Habilitações para o Grau de Assistente de Clínic
 
 ### CAPÍTULO I — Concurso de habilitação para o grau de assistente de clínica geral (generalista)
 
-###### Artigo 1.º Os concursos de habilitação para o grau de assistente de clínica geral coincidem com os exames finais do internato complementar.
+Artigo 1.º Os concursos de habilitação para o grau de assistente de clínica geral coincidem com os exames finais do internato complementar.
 
-###### Art. 2.º A aprovação no concurso referido no número anterior confere o grau de assistente de clínica geral (generalista) devidamente avalizado pelo Estado, com passagem de diploma de idoneidade profissional correspondente.
+Art. 2.º A aprovação no concurso referido no número anterior confere o grau de assistente de clínica geral (generalista) devidamente avalizado pelo Estado, com passagem de diploma de idoneidade profissional correspondente.
 
-###### Art. 3.º O referido diploma é conferido pela coordenação do internato de generalistas da zona em que se realizou o concurso e homologado pelo Ministro dos Assuntos Sociais.
+Art. 3.º O referido diploma é conferido pela coordenação do internato de generalistas da zona em que se realizou o concurso e homologado pelo Ministro dos Assuntos Sociais.
 
-###### Art. 4.º A este concurso devem apresentar-se os médicos que iniciaram o respectivo internato complementar em 1 de Fevereiro de 1981 e que tenham cumprido os curricula estabelecidos para cada zona.
+Art. 4.º A este concurso devem apresentar-se os médicos que iniciaram o respectivo internato complementar em 1 de Fevereiro de 1981 e que tenham cumprido os curricula estabelecidos para cada zona.
 
-###### Art. 5.º A abertura do concurso é feita por aviso assinado pelo Ministro dos Assuntos Sociais, que fará publicar a composição dos júris de cada zona e o prazo de entrega da documentação.
+Art. 5.º A abertura do concurso é feita por aviso assinado pelo Ministro dos Assuntos Sociais, que fará publicar a composição dos júris de cada zona e o prazo de entrega da documentação.
 
-###### Art. 6.º Os concursos realizam-se em data e local a designar pelo coordenador de cada zona, tendo em conta a data em que os estágios tiveram início em 1981.
+Art. 6.º Os concursos realizam-se em data e local a designar pelo coordenador de cada zona, tendo em conta a data em que os estágios tiveram início em 1981.
 
-###### Art. 7.º Os júris são nomeados pelo Ministro dos Assuntos Sociais, sob proposta do coordenador de zona, que presidirá ao júri, sendo este composto por 3 elementos, não podendo nenhum deles possuir grau das carreiras inferior ao de assistente.
+Art. 7.º Os júris são nomeados pelo Ministro dos Assuntos Sociais, sob proposta do coordenador de zona, que presidirá ao júri, sendo este composto por 3 elementos, não podendo nenhum deles possuir grau das carreiras inferior ao de assistente.
 
-###### Art. 8.º Os interessados devem apresentar a sua candidatura mediante, requerimento à coordenação de estágio da zona respectiva, dentro do prazo estipulado no aviso de abertura do concurso, donde conste a identificação completa do candidato, data do nascimento e residência.
+Art. 8.º Os interessados devem apresentar a sua candidatura mediante, requerimento à coordenação de estágio da zona respectiva, dentro do prazo estipulado no aviso de abertura do concurso, donde conste a identificação completa do candidato, data do nascimento e residência.
 
-###### Art. 9.º - 1 - A documentação a entregar no prazo estipulado no aviso será a seguinte:
+Art. 9.º - 1 - A documentação a entregar no prazo estipulado no aviso será a seguinte:
 
 a) Certificado do cumprimento dos curricula estabelecidos por cada zona, emitido pelo respectivo coordenador de estágio;
 
@@ -139,13 +162,13 @@ d) Certificado de conclusão do internato policlínico.
 
 2 - Os documentos referidos podem, no todo ou em parte, ser substituídos por certificado comprovativo da sua entrega pelo candidato na ARS a que estava vinculado.
 
-###### Art. 10.º Nos 3 dias que seguem ao termo do prazo de abertura do concurso será afixada na respectiva coordenação de zona a lista dos concorrentes, com a indicação das faltas verificadas nos documentos apresentados.
+Art. 10.º Nos 3 dias que seguem ao termo do prazo de abertura do concurso será afixada na respectiva coordenação de zona a lista dos concorrentes, com a indicação das faltas verificadas nos documentos apresentados.
 
-###### Art. 11.º Os concorrentes dispõem de 5 dias úteis para solicitar eventuais rectificações, ou regularizar a documentação em falta.
+Art. 11.º Os concorrentes dispõem de 5 dias úteis para solicitar eventuais rectificações, ou regularizar a documentação em falta.
 
-###### Art. 12.º A coordenação tem 5 dias úteis para resolver as questões emergentes e afixar a lista definitiva dos candidatos admitidos a concurso, o local e a ordem de chamada para prestação de provas, assim como o seu calendário.
+Art. 12.º A coordenação tem 5 dias úteis para resolver as questões emergentes e afixar a lista definitiva dos candidatos admitidos a concurso, o local e a ordem de chamada para prestação de provas, assim como o seu calendário.
 
-###### Art. 13.º Durante o actual regime de transição e para este concurso, as provas serão as seguintes, a realizar pela ordem indicada:
+Art. 13.º Durante o actual regime de transição e para este concurso, as provas serão as seguintes, a realizar pela ordem indicada:
 
 1.ª prova - Exame de um doente por um período máximo de 60 minutos, seguido da elaboração do respectivo relatório num período máximo de 120 minutos. Durante este tempo poderão ser fixados exames complementares, que deverão ser comentados. O relatório deverá incluir discussão, diagnóstico e proposta terapêutica.
 
@@ -157,16 +180,16 @@ O interrogatório teórico é feito, pelo menos, por 2 membros do júri.
 
 3.ª prova - Apreciação curricular, que será feita por 2 membros do júri, durante um período máximo de 30 minutos.
 
-###### Art. 14.º A informação final do internato complementar será dada em votação de 0 a 20 valores, que resulta da apreciação global das 3 provas efectuadas no conjunto de titulação.
+Art. 14.º A informação final do internato complementar será dada em votação de 0 a 20 valores, que resulta da apreciação global das 3 provas efectuadas no conjunto de titulação.
 
-###### Art. 15.º Cada zona terá um livro de termos, onde serão lançados em acta, pelo júri respectivo, os resultados das provas efectuadas.
+Art. 15.º Cada zona terá um livro de termos, onde serão lançados em acta, pelo júri respectivo, os resultados das provas efectuadas.
 
 ### CAPÍTULO II
 
 Concurso de provimento para o lugar de assistente do clínica (generalista) do quadro da carreira de clínica geral.
 
-###### Art. 16.º Os médicos que ingressaram na carreira de clínica geral ao abrigo da [Portaria n.º 444-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/444-a-1980-582404), de 28 de Julho, por concurso aberto pelo aviso publicado no Diário da República, 2.ª série, n.º 178, de 4 de Agosto de 1980, e colocados segundo a lista definitiva publicada no Diário da República, 2.ª série, n.º 148, de 12 de Agosto de 1981, homologada por despacho de 4 de Fevereiro de 1981, nos lugares da carreira de clínica geral (generalista) por distrito e concelho, tendo obtido o grau pela aprovação no concurso de habilitação referido no capítulo I, serão automaticamente colocados no mesmo concelho no lugar de assistente de clínica geral (generalista) do quadro da carreira de clínica geral, aprovado pela [Portaria n.º 886/82](https://diariodarepublica.pt/dr/detalhe/portaria/886-1982-375870), de 21 de Setembro, em data a fixar em despacho do Ministro dos Assuntos Sociais.
+Art. 16.º Os médicos que ingressaram na carreira de clínica geral ao abrigo da [Portaria n.º 444-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/444-a-1980-582404), de 28 de Julho, por concurso aberto pelo aviso publicado no Diário da República, 2.ª série, n.º 178, de 4 de Agosto de 1980, e colocados segundo a lista definitiva publicada no Diário da República, 2.ª série, n.º 148, de 12 de Agosto de 1981, homologada por despacho de 4 de Fevereiro de 1981, nos lugares da carreira de clínica geral (generalista) por distrito e concelho, tendo obtido o grau pela aprovação no concurso de habilitação referido no capítulo I, serão automaticamente colocados no mesmo concelho no lugar de assistente de clínica geral (generalista) do quadro da carreira de clínica geral, aprovado pela [Portaria n.º 886/82](https://diariodarepublica.pt/dr/detalhe/portaria/886-1982-375870), de 21 de Setembro, em data a fixar em despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 17.º Os médicos nas condições do artigo anterior deverão ser empossados nos respectivos lugares com a designação de assistente de clínica geral (generalista), alterando-se assim a anterior designação dada pela [Portaria n.º 444-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/444-a-1980-582404), de 28 de Julho.
+Art. 17.º Os médicos nas condições do artigo anterior deverão ser empossados nos respectivos lugares com a designação de assistente de clínica geral (generalista), alterando-se assim a anterior designação dada pela [Portaria n.º 444-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/444-a-1980-582404), de 28 de Julho.
 
 Ministério dos Assuntos Sociais, 18 de Janeiro de 1983. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.

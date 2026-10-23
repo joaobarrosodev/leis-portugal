@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15400/26682669.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1987-420182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91cff26f3e0006f73464867610db3b2b4decc3131ebe91efee795eda8f427061
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60c0d74707cf22e71258789405e62160a37cb1b4ea3e0cbd9dbafd1ec757ec81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bilhete de Identidade
+- Centro de Identificação Civil e Criminal
+- Cidadão Estrangeiro
+- Impresso
 relationships:
 - type: amended_by
   target: pt:dre:379709:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644141:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:379709:por
+  label: "Revogado pelo DEC LEI.300/88.26.08.1988.MJ, DR.IS [197] de 26.08.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1988-379709
+  date: '1988-08-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:01Z'
   warnings: []
   errors: []
 ---
@@ -102,18 +119,18 @@ Considerando que desde já se torna necessário adaptar o modelo do actual bilhe
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, o seguinte:
 
-###### Artigo único. São aprovados os modelos de bilhete de identidade de cidadão nacional, de cidadão estrangeiro e de cidadão luso-brasileiro, emitidos pelo Centro de Identificação Civil e Criminal, anexos ao presente diploma.
+Artigo único. São aprovados os modelos de bilhete de identidade de cidadão nacional, de cidadão estrangeiro e de cidadão luso-brasileiro, emitidos pelo Centro de Identificação Civil e Criminal, anexos ao presente diploma.
 
 Aníbal António Cavaco Silva - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 22 de Junho de 1987.**
+Promulgado em 22 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1987.**
+Referendado em 24 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15400/26682669.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15400/26682669.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15400/26682669.pdf)

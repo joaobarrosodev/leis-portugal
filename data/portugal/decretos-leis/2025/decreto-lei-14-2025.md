@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05300/0001000022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2025/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2025-911089429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76939056a16276317d23ed8fda029f464f16ffd6195fa86bc6d2abf5bd9d8db0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad4a0ce99c781909954a6ef5061f6f7c72908fb39ac26ebb51a4901087a01085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Fundo de Garantia de Depósitos
-- Branqueamento de Capitais
-- Banca
 - Atividade Bancária
+- Banca
+- Branqueamento de Capitais
+- Fundo de Garantia de Depósitos
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regulamento CE
 - Sigilo Bancário
@@ -119,6 +119,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0059
   label: null
@@ -128,15 +136,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 18
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:44Z'
   warnings: []
   errors: []
 ---
@@ -295,7 +303,9 @@ rr) [...]
 
 4 - [...]
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - [...]
 
@@ -321,7 +331,9 @@ i) [Anterior alínea h).]
 
 3 - [...]
 
-###### Artigo 81.º-A — [...]
+Artigo 81.º-A
+
+[...]
 
 1 - [...]
 
@@ -351,7 +363,9 @@ i) [Anterior alínea h).]
 
 14 - [...]
 
-###### Artigo 138.º-AO — [...]
+Artigo 138.º-AO
+
+[...]
 
 1 - [...]
 
@@ -367,7 +381,7 @@ a) Fundos próprios;
 
 b) Créditos que cumpram as condições de elegibilidade previstas no artigo 72.º-A do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, com exceção do disposto nas alíneas b) e d) do n.º 2 do artigo 72.º-B do mesmo Regulamento;
 
-c) Os créditos a que se referem os n.<sup>os</sup>2, 3 e 4 do artigo 138.º-AQ.
+c) Os créditos a que se referem os n.os2, 3 e 4 do artigo 138.º-AQ.
 
 6 - O disposto no n.º 2 do artigo 77.º e no artigo 78.º-A do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, não é aplicável às entidades de liquidação em relação às quais o Banco de Portugal não tenha determinado o requisito referido no n.º 1.
 
@@ -377,7 +391,9 @@ c) Os créditos a que se referem os n.<sup>os</sup>2, 3 e 4 do artigo 138.º-AQ.
 
 9 - A dedução referida no número anterior só se aplica caso o montante agregado dessas participações seja igual ou superior a 7 % do montante total dos seus fundos próprios e créditos que cumpram os critérios de elegibilidade estabelecidos no n.º 1 do artigo 138.º-AR, calculado anualmente em 31 de dezembro como a média dos 12 meses anteriores.
 
-###### Artigo 138.º-AR — [...]
+Artigo 138.º-AR
+
+[...]
 
 1 - [...]
 
@@ -401,7 +417,9 @@ b) O montante dos fundos próprios emitidos nos termos da alínea b) do número 
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 138.º-AV — [...]
+Artigo 138.º-AV
+
+[...]
 
 1 - [...]
 
@@ -419,7 +437,7 @@ b) O montante dos fundos próprios emitidos nos termos da alínea b) do número 
 
 8 - [...]
 
-a) Reduzido pelo Banco de Portugal se considerar exequível e credível que esse montante seja suficiente para assegurar que a entidade de resolução consegue obter financiamento de forma autónoma e em condições sustentáveis junto dos mercados financeiros e sem recurso a apoio financeiro público extraordinário, para além do apoio prestado pelo Fundo de Resolução nos termos dos n.<sup>os</sup>11 a 14 do artigo 145.º-U e nos n.<sup>os</sup>3 e 4 do artigo 145.º-AA, e para garantir a continuidade da prestação das funções críticas pela entidade de resolução após a aplicação da estratégia de resolução;
+a) Reduzido pelo Banco de Portugal se considerar exequível e credível que esse montante seja suficiente para assegurar que a entidade de resolução consegue obter financiamento de forma autónoma e em condições sustentáveis junto dos mercados financeiros e sem recurso a apoio financeiro público extraordinário, para além do apoio prestado pelo Fundo de Resolução nos termos dos n.os11 a 14 do artigo 145.º-U e nos n.os3 e 4 do artigo 145.º-AA, e para garantir a continuidade da prestação das funções críticas pela entidade de resolução após a aplicação da estratégia de resolução;
 
 b) [...]
 
@@ -431,7 +449,9 @@ a) [...]
 
 b) Assegurar o cumprimento das condições previstas no n.º 2 do artigo 138.º-AS.
 
-###### Artigo 138.º-BB — [...]
+Artigo 138.º-BB
+
+[...]
 
 1 - [...]
 
@@ -453,7 +473,9 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 138.º-BC — [...]
+Artigo 138.º-BC
+
+[...]
 
 1 - [...]
 
@@ -487,7 +509,9 @@ iii) A adequação do mecanismo interno de transferência de perdas e de recapit
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 138.º-BD — [...]
+Artigo 138.º-BD
+
+[...]
 
 1 - [...]
 
@@ -505,7 +529,7 @@ iii) A adequação do mecanismo interno de transferência de perdas e de recapit
 
 8 - [...]
 
-a) Reduzido pelo Banco de Portugal se considerar exequível e credível que esse montante seja suficiente para assegurar que a entidade referida no artigo anterior consegue obter financiamento de forma autónoma e em condições sustentáveis junto dos mercados financeiros e sem recurso a apoio financeiro público extraordinário, para além do apoio prestado pelo Fundo de Resolução nos termos dos n.<sup>os</sup>11 a 14 do artigo 145.º-U e dos n.<sup>os</sup>3 e 4 do artigo 145.º-AA, e para garantir a continuidade da prestação das funções críticas pela entidade após o exercício dos poderes de redução ou de conversão previstos no artigo 145.º-I ou a resolução do grupo de resolução;
+a) Reduzido pelo Banco de Portugal se considerar exequível e credível que esse montante seja suficiente para assegurar que a entidade referida no artigo anterior consegue obter financiamento de forma autónoma e em condições sustentáveis junto dos mercados financeiros e sem recurso a apoio financeiro público extraordinário, para além do apoio prestado pelo Fundo de Resolução nos termos dos n.os11 a 14 do artigo 145.º-U e dos n.os3 e 4 do artigo 145.º-AA, e para garantir a continuidade da prestação das funções críticas pela entidade após o exercício dos poderes de redução ou de conversão previstos no artigo 145.º-I ou a resolução do grupo de resolução;
 
 b) [...]
 
@@ -513,7 +537,9 @@ b) [...]
 
 10 - [...]
 
-###### Artigo 138.º-BE — [...]
+Artigo 138.º-BE
+
+[...]
 
 1 - [...]
 
@@ -533,7 +559,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 138.º-BH — [...]
+Artigo 138.º-BH
+
+[...]
 
 1 - [...]
 
@@ -553,7 +581,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 138.º-BI — [...]
+Artigo 138.º-BI
+
+[...]
 
 1 - Quando for identificada mais do que uma entidade de resolução, incluindo entidades de países terceiros que seriam entidades de resolução se estivessem estabelecidas na União Europeia, num grupo que inclua uma instituição de importância sistémica global, é calculado, no contexto do processo de decisão conjunta referido no artigo anterior:
 
@@ -579,7 +609,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 138.º-BN — [...]
+Artigo 138.º-BN
+
+[...]
 
 1 - [...]
 
@@ -593,7 +625,9 @@ b) [...]
 
 6 - Para efeitos do número anterior, o Banco de Portugal determina e comunica à entidade de liquidação o conteúdo e a periodicidade dos deveres de comunicação, na medida do necessário para monitorizar o cumprimento do requisito determinado nos termos do n.º 4 do artigo 138.º-AO.
 
-###### Artigo 138.º-BO — [...]
+Artigo 138.º-BO
+
+[...]
 
 1 - [...]
 
@@ -603,11 +637,15 @@ b) [...]
 
 4 - Para efeitos do número anterior, o Banco de Portugal determina e comunica à entidade de liquidação o conteúdo e a periodicidade dos deveres de divulgação, na medida do necessário para monitorizar o cumprimento do requisito, conforme determinado pelo n.º 4 do artigo 138.º-AO.
 
-###### Artigo 138.º-BP — [...]
+Artigo 138.º-BP
+
+[...]
 
 O Banco de Portugal comunica à Autoridade Bancária Europeia os requisitos mínimos de fundos próprios e créditos elegíveis determinados ao abrigo do presente capítulo, incluindo as decisões tomadas ao abrigo do n.º 4 do artigo 138.º-BC.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - [...]
 
@@ -637,16 +675,18 @@ d) [...]
 
 ###### Artigo 3.º — Norma revogatória
 
-São revogados os n.<sup>os</sup>3 e 4 do artigo 138.º-AS do RGICSF.
+São revogados os n.os3 e 4 do artigo 138.º-AS do RGICSF.
 
 Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento.
 
-**Promulgado em 7 de março de 2025.**
+Promulgado em 7 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2025.**
+Referendado em 13 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118813347

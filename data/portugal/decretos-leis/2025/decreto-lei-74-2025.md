@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08700/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2025/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2025-917107824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5454d43e9c5ad55c678b92fee42f7f06d92748f40075ad3139a16147ae98fcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9e1089f8f45cb7bd6e80f1e72262e50bca9428d794c0d4acd19fedd810d797f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Aproximação das Legislações
-- Qualidade do AR
-- Poluição Atmosférica
-- Direito à Informação
-- Proteção do Ambiente
-- Política do Ambiente
-- Programa dos Tectos de Emissão Nacionais
 - Agência Portuguesa do Ambiente
+- Aproximação das Legislações
+- Direito à Informação
+- Política do Ambiente
+- Poluição Atmosférica
+- Programa dos Tectos de Emissão Nacionais
+- Proteção do Ambiente
+- Qualidade do AR
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:84/2018
+  label: Altera, a partir de 12 de maio de 2025, os anexos i e iv do Decreto-Lei n.º 84/2018, de 23 de outubro, Diário da
+    República n.º 204/2018, Série I
+  source: null
+  date: '2018-10-23'
 - type: cites
   target: celex:32016L2284
   label: null
@@ -88,6 +94,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/84/2018/10/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/84/2018/10/23/p/dre
+- type: cites
+  target: pt:dre:116747964:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32016L2284
   label: null
@@ -95,13 +105,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:00Z'
   warnings: []
   errors: []
 ---
@@ -134,15 +144,15 @@ Os anexos i e iv do [Decreto-Lei n.º 84/2018](https://diariodarepublica.pt/dr/d
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Maria da Graça Carvalho.
 
-**Promulgado em 29 de abril de 2025.**
+Promulgado em 29 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de abril de 2025.**
+Referendado em 30 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -222,9 +232,9 @@ Requisitos em matéria de comunicação de informação sobre emissões e proje�
 
 | Elemento | Poluentes | Série cronológica/anos de referência | Datas de comunicação |
 | --- | --- | --- | --- |
-| Dados matriciais nacionais de emissões por categoria de fonte (GNFR) | - SO<sub>2</sub>, NO<sub>X</sub>, COVNM, CO, NH<sub>3</sub>, PM<sub>10</sub>, PM<sub>2,5</sub>- Metais pesados (Cd, Hg, Pb)- POP (total de HAP, HCB, PCB, dioxinas/furanos)- CN (se existente) | De quatro em quatro anos por ano de comunicação menos 2 (X-2) a partir de 2017 | 1 de maio (<sup>3</sup>). |
-| Grandes Fontes Pontuais (GFP) por categoria de fonte (GNFR) | - SO<sub>2</sub>, NO<sub>X</sub>, COVNM, CO, NH<sub>3</sub>, PM<sub>10</sub>, PM<sub>2,5</sub> - Metais pesados (Cd, Hg, Pb)- POP (total de HAP, HCB, PCB, dioxinas/furanos)- CN (se existente) | De quatro em quatro anos por ano de comunicação menos 2 (X-2) a partir de 2017 | 1 de maio (<sup>3</sup>). |
-| Emissões projetadas por categoria de fontes da NFR | - SO<sub>2</sub>, NO<sub>X</sub>, NH<sub>3</sub>, COVNM, PM<sub>2,5</sub> e, se existente, CN | De dois em dois anos, abrangendo os anos de projeção de 2020, 2025, 2030 e, se disponíveis, 2040 e 2050 a partir de 2017 | 15 de março. |
+| Dados matriciais nacionais de emissões por categoria de fonte (GNFR) | - SO2, NOX, COVNM, CO, NH3, PM10, PM2,5- Metais pesados (Cd, Hg, Pb)- POP (total de HAP, HCB, PCB, dioxinas/furanos)- CN (se existente) | De quatro em quatro anos por ano de comunicação menos 2 (X-2) a partir de 2017 | 1 de maio (3). |
+| Grandes Fontes Pontuais (GFP) por categoria de fonte (GNFR) | - SO2, NOX, COVNM, CO, NH3, PM10, PM2,5 - Metais pesados (Cd, Hg, Pb)- POP (total de HAP, HCB, PCB, dioxinas/furanos)- CN (se existente) | De quatro em quatro anos por ano de comunicação menos 2 (X-2) a partir de 2017 | 1 de maio (3). |
+| Emissões projetadas por categoria de fontes da NFR | - SO2, NOX, NH3, COVNM, PM2,5 e, se existente, CN | De dois em dois anos, abrangendo os anos de projeção de 2020, 2025, 2030 e, se disponíveis, 2040 e 2050 a partir de 2017 | 15 de março. |
 
 QUADRO C
 
@@ -238,9 +248,13 @@ QUADRO C
 
 [...]
 
-# PARTE 1 — [...]
+PARTE 1
 
-# PARTE 2 — [...]
+[...]
+
+PARTE 2
+
+[...]
 
 1 - [...]
 
@@ -248,8 +262,14 @@ QUADRO C
 
 3 - [...]
 
-# PARTE 3 — [...]
+PARTE 3
 
-# PARTE 4
+[...]
+
+PARTE 4
 
 [...]»
+
+119006426
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:74px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { min-height:65px; } .Tbl12 { text-align:justify; text-align-last:justify; } .Tbl13 { min-height:44px; }

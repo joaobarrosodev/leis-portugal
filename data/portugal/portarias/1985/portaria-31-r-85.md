@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 10/1985, 3º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 72-(37) a 72-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf
 entry_into_force_dates: []
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5317881c458421d6225373c68abbc6da9dfdd5da5fb4e42d1673027d79350adf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 494cedbbe21287126ee21123f93766d21d9730b64f7b2cd07c5064ade2bf3864
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- Tarifa Geral de Transportes
+- Transporte de Passageiros
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249504:por
+  label: "Alteradas as tabelas 1, 2, 3, 20, 22, 23 e 26 da tarifa geral de transportes e os nºs. 5, 6, 7, 8, 14, 15, 16, 17,\
+    \ 18, 19 e 20 do Anexo II, pela PORT.894-G/85.1985.11.23.MF DR.IS [270]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-g-1985-249504
+  date: '1985-11-23'
+- type: amended_by
+  target: pt:dre:305644:por
+  label: "Alterados os nºs. 5, 6, 7, 8, 14, 15, 16, 17, 18, 19 e 20 do Anexo II do presente diploma, pela PORT.733-L/86.1986.12.04.MF\
+    \ DR.IS [279]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/733-l-1986-305644
+  date: '1986-12-04'
+- type: cites
+  target: pt:dre:273584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246493:por
+  label: "Revogada a parte I \"Passageiros e Bagagens\" da Tarifa Geral de Transportes dos Caminhos-de-Ferro, aprovada pela\
+    \ Port 403/75 de 30-Jun, com a redacção dada no presente diploma, pelo DEC LEI.58/2008.26.03.2008.MOPTC, DR.IS [60] de\
+    \ 26.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2008-246493
+  date: '2008-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:42Z'
   warnings: []
   errors: []
 ---
@@ -160,10 +191,10 @@ Para a aquisição deste bilhete deverá ser apresentada uma vez por ano declara
 
 Ministérios das Finanças e do Plano, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 11 de Janeiro de 1985.**
+Assinada em 11 de Janeiro de 1985.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00370043.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/039a00/09690978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/1995/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1995-202419
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e3a25664eaedef503ecadc6114de43037ef8b211b9baa340c97d0eadaeec0d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6c638c73bc430c79be083fc2928a31c26869cc9cb161cdd2ac1e6d2b4a84a64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Telefone
-- Sociedade Anónima
-- Rede Privada de Telecomunicações
-- Serviço Universal de Telecomunicações
+- Comunicações
 - Comunicações Nacionais
 - Contrato de Concessão
 - Controlo de Qualidade
-- Portugal Telecom
 - Instituto das Comunicações de Portugal
+- Portugal Telecom
+- Prestação de Serviços
+- Rede Privada de Telecomunicações
 - Serviço FIXO de Telefone
 - Serviço Público
-- Prestação de Serviços
-- Comunicações
+- Serviço Universal de Telecomunicações
+- Sociedade Anónima
+- Telefone
 - Telex
 relationships:
 - type: amended_by
   target: pt:dre:1080155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412047:por
+  label: "Derrogado o nº 1 do art. 4º do anexo ao presente diploma, no que respeita ao regime de exclusivo atribuído à concessionária\
+    \ no âmbito da oferta do serviço de circuitos alugados, pelo DEC LEI.120/96.1996.08.07.MEPAT, DR.IS-A [182]9\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1996-412047
+  date: '1996-08-07'
+- type: amended_by
+  target: pt:dre:581376:por
+  label: "Derrogado o nº 1 do art 4º das bases aprovadas pelo presente diploma, pelo DEC LEI.381-A/97.1997.12.30.MEPAT DR.IS-A\
+    \ [300]3ºSupl, no que respeita ao regime de exclusivo atribuído à concessionária no âmbito da oferta dos serviços de telex,\
+    \ circuitos alugados e telegráfico.\0o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/381-a-1997-581376
+  date: '1997-12-30'
+- type: amended_by
+  target: pt:dre:241799:por
+  label: "Derrogado o art. 21.º, no que respeita ao serviço de circuitos alugados que fica excluído das bases da Concessão\
+    \ do Serviço Público de Telecomunicações, pelo DEC LEI.290-A/99.1999.07.30.MEPAT DR.IS-A [176]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-a-1999-241799
+  date: '1999-07-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/1994/05/14/p/dre
   label: null
@@ -96,16 +115,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/292/1991/08/13/p/dre
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:693812:por
+  label: "Revogados os nº 4 do art. 4º, nº 4 do art. 24º, art. 25º e art. 32º das Bases aprovadas pelo presente diploma, pelo\
+    \ DEC LEI.458/99.1999.11.05.MEPAT, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-1999-693812
+  date: '1999-11-05'
+- type: repealed_by
+  target: pt:dre:682984:por
+  label: "Revogado o nº 1 do art. 4º das bases anexas ao presente diploma, no que respeita ao regime de exclusivo atribuído\
+    \ à concessionária no âmbito da oferta do serviço fixo de telefone, e excluído do âmbito do convénio previsto no art.\
+    \ 21º das mesmas bases, o serviço fixo de telefone, a partir da publicação do aviso previsto no nº 3 do art. 5º do Regulamento\
+    \ anexo ao mesmo Dec Lei, pelo DEC LEI.474/99.1999.11.08.MEPAT, DR.IS-A [260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-1999-682984
+  date: '1999-11-08'
+- type: repealed_by
+  target: pt:dre:189487:por
+  label: "Revogado o presente diploma e substituídas as Bases da Concessão do Serviço Público de Telecomunicações pelo DEC\
+    \ LEI.31/2003.2003.02.17.MF DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2003-189487
+  date: '2003-02-17'
 article_structure:
-  article_count: 48
+  article_count: 47
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:46Z'
   warnings: []
   errors: []
 ---
@@ -142,21 +213,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovadas as bases da concessão do serviço público de telecomunicações a celebrar com a Portugal Telecom, S. A., nos termos constantes do anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º São aprovadas as bases da concessão do serviço público de telecomunicações a celebrar com a Portugal Telecom, S. A., nos termos constantes do anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º É o Ministro das Obras Públicas, Transportes e Comunicações autorizado a outorgar, em nome do Governo, o contrato de concessão do serviço público de telecomunicações.
+Art. 2.º É o Ministro das Obras Públicas, Transportes e Comunicações autorizado a outorgar, em nome do Governo, o contrato de concessão do serviço público de telecomunicações.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1994. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Bases da concessão do serviço público de telecomunicações
 

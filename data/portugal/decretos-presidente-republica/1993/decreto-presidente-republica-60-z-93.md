@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 297/1993, 2º Suplemento, Série I-A de 1993-12-22
   number: '297'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7128-(11) a 7128-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/297a02/00110011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/60-z/1993/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/60-z-1993-426531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:16:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fbf00a2b23c4387033a47f72632c179b742d40b6e6a0eb944484daa76fcd131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5df2c33f23d18a0d40c7ebedbd2774afab078bc4253fdde665a2a590648327f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:16:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:16:00Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +86,16 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
 A pena acessória de expulsão do País aplicada a Fernando Jorge Lopes Moreira, de 29 anos de idade, no processo n.º 66/87 da 1.ª Secção do 3.º Juízo do Tribunal Judicial da Comarca de Oeiras é revogada, por indulto.
 
-**Assinado em 22 de Dezembro de 1993.**
+Assinado em 22 de Dezembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Dezembro de 1993.**
+Referendado em 22 de Dezembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

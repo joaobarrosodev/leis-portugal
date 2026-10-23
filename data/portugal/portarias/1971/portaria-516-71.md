@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/516-1971-632463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66f6f63bcf48299e06d8aada5b9e937dcbf5fb2e0e8c838a2affdf4e0a0e1911
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 800d9f1fce808102cb9ab6c1a4322eec7f35bf5a7b69f4c4ee3caa6fa7b6c623
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:51Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º Os artigos 2.º, 7.º, 7.º-A, 14.º, 17.º, 94.º e 94.º-A do plano de uniformes para oficiais, aspirantes a oficial e cadetes da Armada, aprovado pelo [Decreto n.º 42862](https://diariodarepublica.pt/dr/detalhe/decreto/42862-1960-282138), de 25 de Fevereiro de 1960, tomam a redacção seguinte:
 
-###### Art. 2.º O blusão para oficiais, aspirantes a oficial e cadetes (figs. 1 e 2) é do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 4, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 5, que serve para abotoar numa casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
+Art. 2.º O blusão para oficiais, aspirantes a oficial e cadetes (figs. 1 e 2) é do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 4, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 5, que serve para abotoar numa casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
 
 Na altura do peito, de cada lado, tem uma algibeira exterior, de 0,140 m de altura por 0,120 m de largura, fazendo um fole sobreposto de 0,040 m de largura. Por cima de cada algibeira, a uma distância de 0,010 m, existe uma portinhola, de duplo recorte, terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão de metal do padrão n.º 2, pregado sobre o fole da algibeira.
 
@@ -107,7 +115,7 @@ Nos ombros tem platinas fixas do mesmo tecido, com 0,040 m de largura, que aboto
 
 ...
 
-###### Art. 7.º O boné de bivaque para aspirantes a oficial, alunos da Escola Naval e cadetes (figs. 10 e 11) é do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, azul, com copa formada por três peças; duas laterais unidas, com costuras verticais, à frente e atrás da cabeça e uma superior unida, com costuras longitudinais, às peças laterais e vincada ao centro, no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás, e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
+Art. 7.º O boné de bivaque para aspirantes a oficial, alunos da Escola Naval e cadetes (figs. 10 e 11) é do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, azul, com copa formada por três peças; duas laterais unidas, com costuras verticais, à frente e atrás da cabeça e uma superior unida, com costuras longitudinais, às peças laterais e vincada ao centro, no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás, e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
 
 Tem duas abas laterais (rebuço) cosidas atrás uma à outra e interiormente em toda a periferia do boné; estas abas são voltadas para cima e têm de altura:
 
@@ -117,17 +125,17 @@ Do lado esquerdo leva uma âncora com 0,030 m de altura (fig. 6), bordada a fio 
 
 Interiormente é forrado com uma tira de carneira de 0,040 m de largura, que fica em contacto com a cabeça.
 
-###### Art. 7.º-A. O boné de trabalho para oficiais, aspirantes a oficial e cadetes é do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, azul, tem pala de lona forrada do mesmo tecido, levando um tapa-ouvidos e tapa-nuca, com colocação de uma âncora de metal oxigenado, conforme é descrito no artigo 86.º-B, centrada por cima da pala, e a 0,100 m de cada lado da âncora um orifício de 0,007 m de diâmetro, que serve de ventilador.
+Art. 7.º-A. O boné de trabalho para oficiais, aspirantes a oficial e cadetes é do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, azul, tem pala de lona forrada do mesmo tecido, levando um tapa-ouvidos e tapa-nuca, com colocação de uma âncora de metal oxigenado, conforme é descrito no artigo 86.º-B, centrada por cima da pala, e a 0,100 m de cada lado da âncora um orifício de 0,007 m de diâmetro, que serve de ventilador.
 
 ...
 
-###### Art. 14.º As calças azuis (padrão n.º 2) para oficiais, aspirantes a oficial e cadetes (figs. 18 e 19) são do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com abertura inclinada 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 5.
+Art. 14.º As calças azuis (padrão n.º 2) para oficiais, aspirantes a oficial e cadetes (figs. 18 e 19) são do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com abertura inclinada 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 5.
 
 Tem cós de 0,040 m de altura com sete passadeiras para o cinto. Largura inferior da perna entre 0,230 m e 0,280 m.
 
 ...
 
-###### Art. 17.º Os calções azuis para oficiais, aspirantes a oficial e cadetes (fig. 20) são do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, abotoados à frente com seis botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela de 0,040 m de largura. À frente, de cada lado, têm uma algibeira interior de pano cru de 0,150 m de largura por 0,250 m de comprimento, fazendo um ângulo de 20º com a costura lateral da perna.
+Art. 17.º Os calções azuis para oficiais, aspirantes a oficial e cadetes (fig. 20) são do tecido padrão existente na 3.ª Repartição da Direcção do Serviço de Abastecimento, abotoados à frente com seis botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela de 0,040 m de largura. À frente, de cada lado, têm uma algibeira interior de pano cru de 0,150 m de largura por 0,250 m de comprimento, fazendo um ângulo de 20º com a costura lateral da perna.
 
 Cós com a largura entre 0,050 m e 0,075 m, forrado a pano cru. Os calções apertam na cintura com duas tiras do mesmo tecido de 0,200 m de comprimento por 0,020 m de largura, que partem do lado direito do cós, cada uma das quais (fig. 21) enfia em duas argolas de latão cromado de tirar e pôr, fixadas por um botão preto do padrão n.º 6 na extremidade interior de uma tira idêntica, mas com 0,100 m de comprimento, que parte do lado esquerdo.
 
@@ -137,9 +145,9 @@ Largura inferior da perna entre 0,350 m e 0,400 m.
 
 ...
 
-###### Art. 94.º As polainas brancas para oficiais, aspirantes a oficial e cadetes são do modelo aprovado para os sargentos e praças da Armada.
+Art. 94.º As polainas brancas para oficiais, aspirantes a oficial e cadetes são do modelo aprovado para os sargentos e praças da Armada.
 
-###### Art. 94.º-A. Os polainitos pretos para oficiais, aspirantes a oficial e cadetes, de bezerro, waterproof, de cor preta, com 0,150 m de altura, com ranhuras para passagem de dois grampos das botas (artigo 7.º-B) e linguetas para encaixar nos grampos, tendo duas presilhas e fivelas para fechar e ajustar à perna.
+Art. 94.º-A. Os polainitos pretos para oficiais, aspirantes a oficial e cadetes, de bezerro, waterproof, de cor preta, com 0,150 m de altura, com ranhuras para passagem de dois grampos das botas (artigo 7.º-B) e linguetas para encaixar nos grampos, tendo duas presilhas e fivelas para fechar e ajustar à perna.
 
 ...
 
@@ -165,6 +173,6 @@ Neste caso não podem usar-se os calções a que se refere a alínea (k).
 
 3.º É acrescentado ao mesmo plano o artigo seguinte:
 
-###### Art. 7.º-B. As botas para oficiais, aspirantes a oficial e cadetes são do modelo aprovado para os sargentos e praças da Armada.
+Art. 7.º-B. As botas para oficiais, aspirantes a oficial e cadetes são do modelo aprovado para os sargentos e praças da Armada.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

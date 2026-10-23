@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19200/21852187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/717-1981-575923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:52:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa5ffa48ddf2b369e87c5a2ed9872ba68bcdc50d8428c63a65bf1db60e2716f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2417ec69e0ed339ac4782e84deb5c7932bac6f628e762c15fde7b2202ee6fd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:52:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Central de Compras do Estado
+- Despesas Públicas
+relationships:
+- type: cites
+  target: pt:dre:327299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393867:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:52:50Z'
   warnings: []
   errors: []
 ---
@@ -242,4 +254,4 @@ d) Quando se trate de estabelecer condições para fornecimentos de montante nã
 
 3.2 - Aos procedimentos negociados aplicar-se-á, com as necessárias adaptações, o determinado para os procedimentos restritos.
 
-**O Ministro das Finanças e do Plano, João António de Morais Leitão.**
+O Ministro das Finanças e do Plano, João António de Morais Leitão.

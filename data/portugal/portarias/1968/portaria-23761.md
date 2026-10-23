@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 288/1968, 1º Suplemento, Série I de 1968-12-07
   number: '288'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1798 - 1815
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23761-1968-294355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa40b6a7cf650c436c8a9923bf0d3424172d40eda9ae2a304a1fdb6b0a7ce027
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50da2d190d6de4803677f394bba85a96a451efeb604f54537acd477916ffa95a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:56Z'
   warnings: []
   errors: []
 ---
@@ -92,60 +100,60 @@ Conselho Ultramarino
 
 Orçamento da receita para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Orçamento da despesa para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Hospital do Ultramar
 
 Orçamento da receita para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Orçamento da despesa para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Jardim e Museu Agrícola do Ultramar
 
 Orçamento da receita para a ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Orçamento da despesa para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Agência-Geral do Ultramar
 
 Orçamento da receita para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Orçamento da despesa para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Centro de Documentação Técnico-Económica
 
 Orçamento da receita para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Orçamento da despesa para o ano económico de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Gabinete de Planeamento e Integração Económica
 
 Orçamento da receita para o ano de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Orçamento da despesa para o ano de 1969
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf))](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/28801/17981815.pdf)
 
 Direcção-Geral de Fazenda, 7 de Dezembro de 1968. - O Director-Geral em exercício, Luís da Câmara Leme de Faria.

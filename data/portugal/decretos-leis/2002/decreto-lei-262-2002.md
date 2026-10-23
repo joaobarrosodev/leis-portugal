@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/262/2002/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-2002-448153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f4446b0ff5efd4b016b52a4706a6185c0a6e6b44a7f43c87841488e4685fe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6e355aa6f3478cecaf90d132aef22f5c7e3be553b26c851b77b30774b4d8ebd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Geral Tributária
 - Arquivo
 - Centro de Estudos Fiscais
-- Pessoal Dirigente
 - Criação de Serviços
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral das Contribuições e Impostos
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral dos Impostos
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Extinção de Serviços
-- Administração Geral Tributária
 - Integração de Trabalhadores
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Direcção Geral das Contribuições e Impostos
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -85,6 +85,18 @@ relationships:
   target: pt:dre:145591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218365:por
+  label: "Alterados os arts. 2º, 9º, 16º, 18º, 19º e 23º do Dec Lei 366/99 de 18-Set, com a redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.237/2004.18.12.2004.MFAP, DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
+- type: amended_by
+  target: pt:dre:145591:por
+  label: "Mantido em vigor o disposto no nº 5 do art. 6º do Dec Lei 366/99, de 18-Set, na redacção do presente diploma, pelo\
+    \ DEC LEI.118/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2011-145591
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
@@ -125,16 +137,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:218950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576276:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520465:por
+  label: "Revogado, a partir de 01.04.2007, o decreto-Lei 51/98, de 11 de Março, na redacção do presente diploma, pelo DR.24/2007.29.03.2007.MFAP,\
+    \ DR.IS [63], com excepcção do disposto no n.º 6 do artigo 26.º e no artigo 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-2007-520465
+  date: '2007-03-29'
 article_structure:
-  article_count: 22
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:14Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +261,9 @@ f) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os serviços centrais integram direcções de serviços nas seguintes áreas:
 
@@ -261,11 +321,15 @@ Direcção de Finanças de Lisboa
 
 3 - São extintas a 1.ª e a 2.ª Direcções de Finanças de Lisboa, cessando as comissões de serviço dos respectivos directores e demais pessoal dirigente, sem prejuízo de se manterem as comissões de serviço dos directores-adjuntos, directores de serviço e chefes de divisão para os efeitos previstos na alínea b) do n.º 1 do artigo 20.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 As competências da Direcção de Finanças de Lisboa são as fixadas no n.º 1 do artigo 32.º do [Decreto-Lei n.º 408/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), de 14 de Dezembro.
 
-###### Artigo 4.º — Estrutura orgânica
+Artigo 4.º
+
+Estrutura orgânica
 
 1 - A Direcção de Finanças de Lisboa e a Direcção de Finanças do Porto dispõem de serviços operativos e de serviços de apoio técnico e administrativo.
 
@@ -405,7 +469,7 @@ Os saldos apurados à data da extinção revertem para a dotação provisional d
 
 ###### Artigo 12.º — Autorização de despesas
 
-**O presidente do conselho directivo pode autorizar as despesas que se revelem necessárias durante o processo de extinção da AGT.**
+O presidente do conselho directivo pode autorizar as despesas que se revelem necessárias durante o processo de extinção da AGT.
 
 ###### Artigo 13.º — Arquivo da AGT
 
@@ -443,12 +507,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 13 de Novembro de 2002.**
+Promulgado em 13 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Novembro de 2002.**
+Referendado em 14 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

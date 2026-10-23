@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2004/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2004-223430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ffbde943744fcf825e621351baad71d23a9353b21ae17a28d797bb26d4c6089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e71d9c1a66c586d6e14c50ed2cb3397950d53f846e440ea7ce6f6af1ff6b787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Instituição de Crédito
 - Código das Sociedades Comerciais
-- Contabilidade
 - Conta Bancária
-- Plano Oficial de Contabilidade
+- Contabilidade
+- Instituição de Crédito
 - Instituição Financeira
+- Plano Oficial de Contabilidade
 relationships:
 - type: amended_by
   target: pt:dre:493506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605330:por
+  label: "Alterados os arts. 66.º e 508.º-C do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set,\
+    \ na redacção do presente diploma, pelo DEC LEI.35/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2005-605330
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterado o art. 508º-C do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009, com produção de efeitos nos termos\
+    \ do art. 14º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
 - type: cites
   target: celex:31978L0660
   label: null
@@ -95,16 +108,27 @@ relationships:
   target: celex:32001L0065
   label: null
   source: http://data.europa.eu/eli/dir/2001/65/oj
+- type: corrected_by
+  target: pt:dre:273183:por
+  label: "Rectificado pela DECL-RECT.52/2004.09.06.2004.PCM, DR.IS-A [141] de 17.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/52-2004-273183
+  date: '2004-06-09'
+- type: repealed_by
+  target: pt:dre:492428:por
+  label: "Revogado pelo DEC LEI.158/2009.13.07.2009.MFAP, DR.IS [133] de 13.07.2009, nos termos do estabelecido no seu art.\
+    \ 16º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2009-492428
+  date: '2009-07-13'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:17Z'
   warnings: []
   errors: []
 ---
@@ -271,7 +295,9 @@ g) ...
 
 h) Os objectivos e as políticas da sociedade em matéria de gestão dos riscos financeiros, incluindo as políticas de cobertura de cada uma das principais categorias de transacções previstas para as quais seja utilizada a contabilização de cobertura, e a exposição por parte da sociedade aos riscos de preço, de crédito, de liquidez e de fluxos de caixa, quando materialmente relevantes para a avaliação dos elementos do activo e do passivo, da posição financeira e dos resultados, em relação com a utilização dos instrumentos financeiros.
 
-###### Artigo 508.º-C — [...]
+Artigo 508.º-C
+
+[...]
 
 1 - ...
 
@@ -293,12 +319,12 @@ O presente diploma aplica-se às contas e aos relatórios de gestão dos exercí
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 5 de Abril de 2004.**
+Promulgado em 5 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2004.**
+Referendado em 5 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

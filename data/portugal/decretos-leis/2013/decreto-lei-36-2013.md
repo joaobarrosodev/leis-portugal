@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2013/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2013-258755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff42c9887eb39464b6da1e517253845d88f0d62ce3808e1131458eb62cffdb2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbbd6106ac1ecb57aa1b06514a3c3a7c92c8b33406d5469edbd7c792b61e2a02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,13 @@ subjects:
 - Acesso à Informação
 - Administração Central
 - Administração Financeira do Estado
+- Administração Local
+- Administração Pública
+- Administração Regional de Saúde
 - ADSE
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Agência para a Modernização Administrativa
+- Agricultor
 - Ajudas de Custo
 - Ajuste Direto
 - Alienação de BENS
@@ -77,47 +83,59 @@ subjects:
 - Aposentação
 - Aquisição de Bens e Serviços
 - Atribuição de Verba
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Pessoal de Saúde
-- Modernização Administrativa
+- Caixa Geral de Aposentações
 - Cativação de Verba
+- Cobrança de Dívidas
 - Cobrança de Impostos
+- Contabilidade Pública
+- Contratação Pública
 - Contrato Administrativo
 - Definição de Competências
 - Despesas Públicas
-- Administração Regional de Saúde
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
 - Documento Único de Cobrança
 - Duodécimo
-- Administração Pública
+- Entidade de Serviços Partilhados da Administração Pública
 - Execução do Orçamento
 - Execução Fiscal
-- Caixa Geral de Aposentações
 - Fundos Autónomos
-- Recrutamento de Pessoal
 - Ministério das Finanças
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Direção Geral do Orçamento
-- Entidade de Serviços Partilhados da Administração Pública
+- Modernização Administrativa
 - Organismo Autónomo
+- Pessoal de Saúde
 - Plano Oficial de Contabilidade Pública
 - Prestação de Contas
-- Agricultor
 - Receita Própria
-- Cobrança de Dívidas
-- Agência para a Modernização Administrativa
-- Administração Local
-- Contabilidade Pública
+- Recrutamento de Pessoal
 - Transferência de Verbas
-- Autarquia Local
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:66689603:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 6º do Dec Lei 280/2007 de 07-ago, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:25344734:por
+  label: "Prorrogado, a título excecional, até 31.12.2014, o regime previsto no art. 37.º do presente diploma pelo DEC LEI.52/2014.07.04.2014.MF,\
+    \ DR.IS [68] de 07.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2014-25344734
+  date: '2014-04-07'
+- type: amended_by
+  target: pt:dre:66689603:por
+  label: Prorrogado, a título excecional, até 31.12.2015 o regime previsto no art. 37.º do presente diploma pelo(a) Decreto-Lei
+    n.º 36/2015 - Diário da República n.º 47/2015, Série I de 2015-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2015-66689603
+  date: '2015-03-09'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -126,16 +144,33 @@ relationships:
   target: celex:32004R1222
   label: null
   source: http://data.europa.eu/eli/reg/2004/1222/oj
+- type: corrected_by
+  target: pt:dre:261162:por
+  label: "Retificado o artigo 69.º, na parte que altera a alínea b) do n.º 3 do artigo 6.º do Decreto-Lei n.º 137/2010, de\
+    \ 28 de dezembro, pela DECL-RECT.25/2013.10.05.2013.PCM, DR.IS [90] de 10.05.2013 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/25-2013-261162
+  date: '2013-05-10'
+- type: repealed_by
+  target: pt:dre:498702:por
+  label: "Revoga o art. 77.º, pelo DEC LEI.105/2013.30.07.2013.MF, DR.IS [145] de 30.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2013-498702
+  date: '2013-07-30'
+- type: repealed_by
+  target: pt:dre:25676932:por
+  label: Revogado a partir de 01.08.2014 o Dec Lei 100/99, de 31-mar, na redação do presente diploma, pela LEI.35/2014.20.06.2014.AR,
+    DR.IS [117] de 20.06.2014��
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 article_structure:
   article_count: 80
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:03Z'
   warnings: []
   errors: []
 ---
@@ -1152,18 +1187,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Paulo Frederico Agostinho Braga Lino - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 6 de março de 2013.**
+Promulgado em 6 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de março de 2013.**
+Referendado em 8 de março de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 56.º)
 
 Transferências das entidades municipais para o SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/04900/0129401318.pdf))](https://files.diariodarepublica.pt/1s/2013/03/04900/0129401318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/04900/0129401318.pdf)

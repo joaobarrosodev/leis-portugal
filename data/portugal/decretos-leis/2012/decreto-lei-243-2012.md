@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/2012/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2012-191997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 770d00d2bc6fdc1948b36c31d5a88006813835245bec4c420996dbacc1a27a44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd21e4311c1369d78c3c44c27005daaac6163487e5c46aa9ded2fab6843b1a4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - CE Países
 - Código da Estrada
 - Instituto da Mobilidade e dos Transportes
-- Veículo
 - Sanção
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:114276584:por
@@ -91,16 +91,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/92/2003/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2003/04/30/p/dre
+- type: repealed_by
+  target: pt:dre:114276584:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 92/2003 de 30-abr, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2017-114276584
+  date: '2017-11-29'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:31Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +147,9 @@ Os artigos 12.º e 15.º do Decreto-Lei n.º 92/2003, de 30 de abril, alterado p
 
 Os encargos decorrentes da aplicação do presente decreto-lei e da respetiva regulamentação são integralmente suportados pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Nas situações não previstas no presente decreto-lei, aplicam-se subsidiariamente e com as devidas adaptações as normas constantes da Lei n.º 11/2011, de 26 de abril, e do Decreto-Lei n.º 144/2012, de 11 de julho.»
 
@@ -159,15 +167,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de outubro de 2012. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira.
 
-**Promulgado em 5 de novembro de 2012.**
+Promulgado em 5 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de novembro de 2012.**
+Referendado em 6 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -179,13 +187,15 @@ Modelo de relatório de inspeção na estrada, incluindo uma lista dos pontos a 
 
 (frente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf)
 
 (verso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf)
 
-## ANEXO II — (a que se refere o artigo 5.º)
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 Índice
 
@@ -209,4 +219,4 @@ Quando um método de inspeção é indicado como visual, significa que, para al�
 
 As inspeções técnicas na estrada podem abranger os pontos e utilizar os métodos a seguir enumerados. As anomalias são exemplos de deficiências que podem ser detetadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0649306499.pdf)»

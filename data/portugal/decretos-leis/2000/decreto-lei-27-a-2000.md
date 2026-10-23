@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 53/2000, 1º Suplemento, Série I-A de 2000-03-03
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 740-(2) a 740-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/053a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27-a/2000/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-a-2000-157600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bd9577fecb32e22f914973e83da4741e42e746795a878c365d7969f33a737d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abe94591563b06ec69a16d591edd24e89f4ef4ad32c174db0e852e29f7f21fd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério do Trabalho e da Solidariedade
 - Centro Regional de Segurança Social
+- Contratação Pública
 - Contrato Administrativo
 - Formas de Provimento
-- Rendimento Mínimo Garantido
-- Recrutamento de Pessoal
+- Ministério do Trabalho e da Solidariedade
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal Técnico Superior
 - Pessoal Técnico Superior de Serviço Social
-- Contratação Pública
+- Recrutamento de Pessoal
+- Rendimento Mínimo Garantido
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/196/1997/07/31/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:142111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:21Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +178,12 @@ O presente diploma produz efeitos desde 31 de Dezembro de 1999.
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 28 de Fevereiro de 2000.**
+Promulgado em 28 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Março de 2000.**
+Referendado em 1 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

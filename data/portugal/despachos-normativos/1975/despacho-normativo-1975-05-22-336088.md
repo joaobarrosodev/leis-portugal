@@ -48,41 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1975-336088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e5b8d38dd2829e5f30febce48a559171e129b2050f537738923e6a14900fc74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b74c27f71a0d3602b119c2247e30738a224b834717a90032baf861d1a1fe097
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Gestão
+- Fábrica de Óleos e Rações de Évora
+- Grémios da Lavoura
+- Instituto de Reorganização Agrária
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:2336620:por
+  label: "Aditado o presente diploma, pela constituição numa só unidade de integração vertical a Fábrica de Extracção e Refinação\
+    \ de Óleos Vegetais e a Fábrica de Rações e Baterias de Silos e pela adopção da denominação única Fábrica de Óleos e Rações\
+    \ de Évora - FORE, pelo DM.DD201.03.09.1975.MAP, DR.IIS [203] de 03.09.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-ministerial/1975-2336620
+  date: '1975-09-03'
+- type: cites
+  target: pt:dre:473369:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:22Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo
+# Despacho normativo
 
 Decorrentes do processo de liquidação em curso das Federações dos Grémios da Lavoura de Portalegre, Évora e Baixo Alentejo, têm vindo a deparar-se às respectivas comissões liquidatárias sérias dificuldades quanto à forma de assegurar uma conveniente e proveitosa gestão das Fábricas de Extracção e Refinação de Óleos Vegetais e de Rações e Baterias de Silos, ambas com sede em Évora.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2012/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2012-543006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c9a18bfa839d29448eae7505a8c38b2ff404420939c385315b8f13b83c56409
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cecfc195d977be70fbd4161af19ceeb2f393d7735407fe3ef118b1ba5bc94a28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Centro de Histocompatibilidade do Centro
 - Autoridade para os Serviços de Sangue e da Transplantação
-- Fiscal Único
+- Centro de Histocompatibilidade do Centro
 - Centro de Histocompatibilidade do Norte
 - Centro de Histocompatibilidade do SUL
-- Gestão Financeira
 - Conselho Consultivo do Sangue da Histocompatibilidade e da Transplantação
-- Instituto Português do Sangue e da Transplantação
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
+- Gestão Financeira
+- Instituto Português do Sangue e da Transplantação
 - Orgânica
 - Transferência de Competências
 relationships:
@@ -82,6 +82,20 @@ relationships:
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Instituto Português do Sangue e da
+    Transplantação, I. P., com orgânica aprovada pelo presente diploma, seja exercida pela Ministra da Saúde pelo(a) Decreto-Lei
+    n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da superintendência e tutela da Ministra da Saúde sobre o Instituto
+    Português do Sangue e da Transplantação, I.P, (IPST. I.P.) pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022,
+    Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
   label: null
@@ -98,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638545:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:22Z'
   warnings: []
   errors: []
 ---
@@ -286,12 +316,12 @@ São revogados o [Decreto-Lei n.º 270/2007](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 6 de Fevereiro de 2012.**
+Promulgado em 6 de Fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de Fevereiro de 2012.**
+Referendado em 8 de Fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

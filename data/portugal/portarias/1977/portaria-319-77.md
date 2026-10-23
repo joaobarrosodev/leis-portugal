@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/319-1977-253016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ac300e95247eb710a2d2ee39c1aee889931ffceb7bb2810641d809e444b42ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d1fc2f0873be70be42dfb9d441b7833fd055ff6241ab65cc567beb1a236fd30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cereal
+- Fixação de Preços
+- Indústria da Moagem
+- Madeira.região Autónoma
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:425320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425320:por
+  label: Determinado que fica sem efeito o n.º 10 do presente diploma pelo(a) Portaria n.º 202/78 - Diário da República n.º
+    85/1978, Série I de 1978-04-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/202-1978-425320
+  date: '1978-04-12'
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:35Z'
   warnings: []
   errors: []
 ---

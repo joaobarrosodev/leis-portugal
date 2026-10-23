@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06
   number: '68'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 35-(20) a 35-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06803/0002000024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12-a/2020/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e53483d09d5a1ad236e674fea860d565db7e1b7d12d2e034da780362ac7cccb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0081aa4e11d5b6959221e38b84511f44fb81ea1b029e60348e3b75c5027551e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Família
 - Aquisição de Bens e Serviços
-- Deferimento Tácito
-- Regime Laboral
 - Código do Trabalho
+- Combustível
+- Contratação de Pessoal
+- Deferimento Tácito
+- Descanso Semanal Complementar
 - Documentação
 - Documento Autentico
-- Saúde Pública
+- Doença Infecciosa
+- Duração do Trabalho
+- Epidemia
 - Estado de Emergência
-- Serviço Nacional de Saúde
-- Combustível
+- Faltas
 - Férias
-- Pagamento
+- Gestão de Recursos Humanos
+- Horário de Trabalho
 - Isolamento Profiláctico
 - Lei Geral do Trabalho em Funções Públicas
 - Licenciamento
-- Faltas
-- Contratação de Pessoal
-- Doença Infecciosa
-- Epidemia
-- Prorrogação de Prazo
+- Pagamento
 - Parentalidade
-- Prova
+- Prorrogação de Prazo
 - Proteção Social
-- Descanso Semanal Complementar
-- Duração do Trabalho
-- Horário de Trabalho
-- Gestão de Recursos Humanos
+- Protecção à Família
+- Prova
+- Regime Laboral
+- Saúde Pública
+- Serviço Nacional de Saúde
 - Subsídio
+- Suspensão de Prazo
 - TAXA Moderadora
 - Trabalhador
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Suspensão de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -144,16 +150,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/181/
   label: null
   source: http://data.dre.pt/eli/port/181/
+- type: cites
+  target: pt:dre:122541299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:45Z'
   warnings: []
   errors: []
 ---
@@ -200,11 +254,15 @@ Os artigos 6.º, 7.º, 10.º, 17.º, 22.º, 23.º, 24.º e 26.º do [Decreto-Lei
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A celebração de contratos de aquisição de serviços por parte dos órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial, do Ministério da Saúde, da DGRSP, do INMLCF, I. P., do HFAR, do LMPQF e do IASFA, I. P., é autorizada pelo dirigente máximo ou órgão máximo de gestão, sendo posteriormente comunicada aos membros do Governo responsáveis pelas áreas da saúde, da justiça e da defesa nacional, respetivamente.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - É identificado em cada agrupamento de escolas um estabelecimento de ensino e creches que promovam o acolhimento dos filhos ou outros dependentes a cargo dos profissionais de saúde, das forças e serviços de segurança e de socorro, incluindo os bombeiros voluntários, e das forças armadas, os trabalhadores dos serviços públicos essenciais, de gestão e manutenção de infraestruturas essenciais, bem como outros serviços essenciais, cuja mobilização para o serviço ou prontidão obste a que prestem assistência aos mesmos, na sequência da suspensão prevista no artigo anterior.
 
@@ -212,7 +270,9 @@ A celebração de contratos de aquisição de serviços por parte dos órgãos, 
 
 3 - Os trabalhadores das atividades enunciadas no n.º 1 são mobilizados pela entidade empregadora ou pela autoridade pública.
 
-###### Artigo 17.º — Suspensão e prorrogação de prazos
+Artigo 17.º
+
+Suspensão e prorrogação de prazos
 
 1 - [...].
 
@@ -220,7 +280,9 @@ A celebração de contratos de aquisição de serviços por parte dos órgãos, 
 
 3 - Os trabalhos de gestão de combustível definidos nos n.os 2, 10 e 13 do artigo 15.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, na sua redação atual, devem decorrer até 30 de abril.
 
-###### Artigo 22.º — Faltas do trabalhador
+Artigo 22.º
+
+Faltas do trabalhador
 
 1 - Fora dos períodos de interrupções letivas fixados nos anexos II e IV ao Despacho n.º 5754-A/2019, publicado no Diário da República, 2.ª série, n.º 115, 18 de junho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da [Portaria n.º 181/2019](https://diariodarepublica.pt/dr/detalhe/portaria/181-2019-122541299), de 11 de junho, consideram-se justificadas, sem perda de direitos salvo quanto à retribuição, as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência, quando determinado:
 
@@ -230,7 +292,9 @@ b) [...].
 
 2 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -256,7 +320,9 @@ c) Pagamento das correspondentes contribuições e quotizações.
 
 9 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no [Decreto-Lei n.º 10-G/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), de 26 de março.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -272,7 +338,9 @@ c) Pagamento das correspondentes contribuições e quotizações.
 
 7 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no [Decreto-Lei n.º 10-G/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-g-2020-130779506), de 26 de março.
 
-###### Artigo 26.º — Apoio extraordinário à redução da atividade económica de trabalhador independente
+Artigo 26.º
+
+Apoio extraordinário à redução da atividade económica de trabalhador independente
 
 1 - O apoio extraordinário à redução da atividade económica reveste a forma de um apoio financeiro aos trabalhadores abrangidos exclusivamente pelo regime dos trabalhadores independentes e que não sejam pensionistas, sujeitos ao cumprimento da obrigação contributiva em pelo menos 3 meses seguidos ou seis meses interpolados há pelo menos 12 meses:
 
@@ -310,13 +378,17 @@ a) Realizar teste laboratorial para despiste da doença;
 
 b) Consultas, atendimentos urgentes e atos complementares prescritos no âmbito desta patologia.
 
-###### Artigo 16.º-A — Força probatória das cópias digitalizadas e das fotocópias
+Artigo 16.º-A
+
+Força probatória das cópias digitalizadas e das fotocópias
 
 1 - É reconhecida às cópias digitalizadas e às fotocópias dos atos e contratos a força probatória dos respetivos originais, salvo se a pessoa a quem forem apresentadas requerer a exibição desse original.
 
 2 - A assinatura das cópias digitalizadas dos atos e contratos por via manuscrita ou por via de assinatura eletrónica qualificada não afeta a validade dos mesmos, ainda que coexistam no mesmo ato ou contrato formas diferentes de assinatura.
 
-###### Artigo 32.º-A — Marcação de férias
+Artigo 32.º-A
+
+Marcação de férias
 
 A aprovação e afixação do mapa de férias até ao dia 15 de abril, nos termos do n.º 9 do artigo 241.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, e por remissão da alínea i) do n.º 1 do artigo 4.º, do n.º 1 do artigo 122.º e do artigo 126.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, respetivamente, pode ter lugar até 10 dias após o termo do estado de emergência.»
 
@@ -326,12 +398,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de abril de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 6 de abril de 2020.**
+Promulgado em 6 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de abril de 2020.**
+Referendado em 6 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113170935

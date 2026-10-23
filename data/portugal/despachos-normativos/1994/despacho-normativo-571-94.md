@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/571/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/571-1994-231769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5484a9f8a046169177655c5fe6e48c685e281f01112a02b00694a92773281483
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79a3115006e0b8d8b8def2b0d04858880c5c8b126393409906166063bfb2e588
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desenvolvimento Industrial
-- Política Industrial
 - Indústria
 - Investimento
 - Modernização Industrial
+- Pedip II
+- Política Industrial
 - Regime de Apoio
 - Regime de Apoio à Dinamização do Capital de Risco
-- Pedip II
 - Sociedade de Capital de Risco
 relationships:
 - type: amended_by
   target: pt:dre:475098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475098:por
+  label: "Alterado o nº 2 pelo DN.43/98.1998.05.12.MECO DR.IS-B [135] de 15/Jun/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1998-475098
+  date: '1998-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/563/1994/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/563/1994/07/29/p/dre
+- type: cites
+  target: pt:dre:231884:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:22:02Z'
   warnings: []
   errors: []
 ---

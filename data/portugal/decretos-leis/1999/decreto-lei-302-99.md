@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/182a00/50805084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/302/1999/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1999-426159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c90fe044f3a69665ea969f991d22877dc6f1f362efbfe7498817e7e37094f24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90247945a84fc94dd83ca7b2e344a2131114d792a10d148713cb1c9edf58d355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,52 @@ subjects:
 - Atendimento Personalizado
 - Autonomia Administrativa
 - Autonomia Financeira
-- Modernização Administrativa
-- Pessoal Dirigente
+- Instituto para a Gestão das Lojas do Cidadão
 - Instituto Público
 - Integração de Trabalhadores
-- Instituto para a Gestão das Lojas do Cidadão
-- Orgânica
 - Loja do Cidadão
+- Modernização Administrativa
+- Orgânica
+- Pessoal Dirigente
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:521024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693822:por
+  label: "Alterado o art. 28º pelo DEC LEI.451/99.1999.11.05.PCM, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1999-693822
+  date: '1999-11-05'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Transitadas para o Instituto para a Gestão das Lojas do Cidadão, cuja orgânica foi a provada pelo presente diploma,\
+    \ as atribuições e competências associadas ao sistema integrado de informação administrativa ao cidadão (INFOCID) e serviço\
+    \ público directo, pelo DEC LEI.215/2002.22.10.2002.MF, DR.IS-A [244] de 22.10.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros do Instituto cuja orgânica consta no presente\
+    \ diploma, colocando-o na dependência do Ministro de Estado e da Administração Interna, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extinto, sendo objecto de fusão, o Instituto criado no presente diploma, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS\
+    \ [208] de 27.10.2006, nos termos dos seus artigos 32.º e 33.º, e integradas as suas atribuições na Agência para a Modernização\
+    \ Administrativa \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:521024:por
+  label: "Determinado, que a Agência para a Modernização Administrativa (AMA, IP), suceda nas atribuições do Instituto para\
+    \ a Gestão das Lojas do Cidadão (que se extingue), criado pelo presente diploma (ora revogado), pelo DEC LEI.116/2007.27.04.2007.PCM,\
+    \ DR.IS [82] de 27.04.2007, a partir de 01.05.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2007-521024
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
@@ -93,16 +126,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/176/1997/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/176/1997/10/21/p/dre
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672656:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:56Z'
   warnings: []
   errors: []
 ---
@@ -449,12 +494,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - António Carlos dos Santos - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

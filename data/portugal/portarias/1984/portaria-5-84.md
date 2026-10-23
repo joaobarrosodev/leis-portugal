@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-1984-531842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:06:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 510f940141890845d2020a60f5edb8b7d8e9fd41bcac0928123fd36d36099295
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9258d27844f2091ae77f1387f714b5426343b4e8191bcbf7c766e6a9155f4d5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:06:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Crédito à Habitação
+- Habitação
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:227201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385388:por
+  label: "Determindo que sejam acrescidos, em relação à Região Autónoma dos Açores, os valores fixados no quadro I anexo ao\
+    \ presente diploma, pela PORT.440/84.05.07.1984.MFP, DR.IS [154] de 05.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/440-1984-385388
+  date: '1984-07-05'
+- type: amended_by
+  target: pt:dre:385818:por
+  label: "Alterado o nº 4 pela PORT.467/84.1984.07.17.MFP DR.IS [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/467-1984-385818
+  date: '1984-07-17'
+- type: amended_by
+  target: pt:dre:400015:por
+  label: "Alterados relativamente à Região Autónoma dos Açores os valores constantes do quadro I anexo ao presente diploma,\
+    \ com a redacção constante da Port 559/84, de 03-Ago, pela PORT.796/84.11.10.1984.MFP, DR.IS [236] de 11.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/796-1984-400015
+  date: '1984-10-11'
+- type: amended_by
+  target: pt:dre:399996:por
+  label: "Alterados relativamente à Região Autónoma da Madeira os valores constantes do quadro I anexo ao presente diploma,\
+    \ alterado pela Port 559/84, de 03-Ago, pela PORT.799/84.12.10.1984.MFP, DR.IS [237] de 12.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-1984-399996
+  date: '1984-10-12'
+- type: amended_by
+  target: pt:dre:326125:por
+  label: "Alterados os n.ºs 1 e 12 e substituido o anexo I, pela PORT.124/85.1985.03.02.MFP DR.IS [51]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/124-1985-326125
+  date: '1985-03-02'
+- type: amended_by
+  target: pt:dre:180988:por
+  label: "Alterada, para aplicação na Região Autónoma da Madeira, os valores fixados no quadro I (classes de jogos) anexo\
+    \ ao presente diploma, pela PORT.640/85.24.08.1985.MFP, DR.IS [194] de 24.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-1985-180988
+  date: '1985-08-24'
+- type: amended_by
+  target: pt:dre:177049:por
+  label: "Alterada a al. a) do n.º 4, pela PORT.745/85.1985.10.01.MFP DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/745-1985-177049
+  date: '1985-10-01'
+- type: amended_by
+  target: pt:dre:169973:por
+  label: "Alterada a al. a) do nº 4 e os nºs 5 e 13, bem como os quadros II e III pela PORT.948/85.1985.12.17.MF DR.IS [290]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/948-1985-169973
+  date: '1985-12-17'
+- type: amended_by
+  target: pt:dre:222851:por
+  label: "Alterado o nº 7 pela PORT.55-B/86.1986.02.13.MF DR.IS [36]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/55-b-1986-222851
+  date: '1986-02-13'
+- type: amended_by
+  target: pt:dre:196175:por
+  label: "Alterados os nºs 1 e 12 e substituido o quadro I pela PORT.120/86.1986.04.01.MF DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1986-196175
+  date: '1986-04-01'
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227201:por
+  label: "Revogada pela PORT.217/86.1986.05.15.MF DR.IS [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-1986-227201
+  date: '1986-05-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:06:17Z'
   warnings: []
   errors: []
 ---
@@ -154,24 +222,24 @@ Escalão III - de 700001$00 a 900000$00.
 
 Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 30 de Dezembro de 1983.**
+Assinada em 30 de Dezembro de 1983.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.
 
 QUADRO I
 
 Classes de fogos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf)
 
 QUADRO II
 
 Incentivos financeiros para a aquisição, construção, recuperação, beneficiação ou ampliação de habitação própria permanente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf)
 
 QUADRO III
 
 Subsídio familiar para acesso a habitação própria permanente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00300/00150016.pdf)

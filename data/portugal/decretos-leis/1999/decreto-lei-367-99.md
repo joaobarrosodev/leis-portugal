@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/09/219a00/64666470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/367/1999/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1999-569883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98c871f106502ebfe6dec6bea51b6d2782f569c3fdc6a4235693b177a2411a68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1befceb4dc57d3902eedb634c984d5addbb7e0a10076af30a491b432e22d9c5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Normalização Contabilística
-- Conselho Geral
-- Definição de Competências
 - Comissão
+- Comissão de Normalização Contabilística
+- Comissão Executiva
+- Conselho Geral
+- Contabilidade Pública
+- Definição de Competências
 - Ministério das Finanças
+- Normalização
 - Orgânica
 - Presidente
 - Remuneração
-- Contabilidade Pública
-- Comissão Executiva
-- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:492427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2073981:por
+  label: "Alterada a composição do conselho geral da Comissão de Normalização Contabilística, por PORT.601/2001(2ªSÉRIE).2001.02.28.MF,\
+    \ DR.IIS [70] de 23/Mar/2001. \0ar/2001. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2001-2073981
+  date: '2001-03-23'
+- type: amended_by
+  target: pt:dre:888762:por
+  label: "Alterada a composição do conselho geral pela PORT.732/2005(2ªSérie).02.06.2005.MFAP, DR.IIS [129] de 07.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/732-2005-888762
+  date: '2005-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:150926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666362:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:492427:por
+  label: "Revogado pelo DEC LEI.160/2009.13.07.2009.MFAP, DR.IS [133] de 13.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2009-492427
+  date: '2009-07-13'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:12Z'
   warnings: []
   errors: []
 ---
@@ -409,12 +434,12 @@ São revogados os n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 410/89, de 21 de
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 30 de Agosto de 1999.**
+Promulgado em 30 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 1999.**
+Referendado em 9 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

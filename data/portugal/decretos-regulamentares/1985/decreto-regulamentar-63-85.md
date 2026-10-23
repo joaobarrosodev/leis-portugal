@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1985-177036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5db60ed023c828f082c10c2889d3e97acc90b9be8fd2086263f6c87998a27196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 513f3ea748f9f573d1bb27e3766643e59376eb41f2f6d470c80a79916c450630
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Estrada
+- Imposto de Mais-Valias
+- Mais-Valias
+- Obras Públicas
+- Prédio Rústico
+relationships:
+- type: cites
+  target: pt:dre:308338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:00Z'
   warnings: []
   errors: []
 ---
@@ -93,18 +107,18 @@ Assim, tendo em atenção o disposto no artigo 17.º da [Lei n.º 2030](https://
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 3.º do Decreto Regulamentar 4/83, de 25 de Janeiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do Decreto Regulamentar 4/83, de 25 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 3.º A mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o valor que teria na mesma data, sem o anúncio ou construção da obra rodoviária.
+Art. 3.º A mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o valor que teria na mesma data, sem o anúncio ou construção da obra rodoviária.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - Mário Ferreira Bastos Raposo - Carlos Montez Melancia.
 
-**Promulgado em 16 de Setembro de 1985.**
+Promulgado em 16 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Setembro de 1983.**
+Referendado em 18 de Setembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

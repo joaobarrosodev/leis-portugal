@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-1975-160508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e305b24a06d7fa3c86c1de100539883f3d00d43943b5a87588346c080987f18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2d1e920004b583c0bdc4dd8f8284b5b5ec23e32c1f2c357149ab9c27aafde86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,45 @@ relationships:
   target: pt:dre:430850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502776:por
+  label: Alterados os preços máximos do café-bebida e similares previstos no mapa anexo pelo(a) Portaria n.º 211/76 - Diário
+    do Governo n.º 84/1976, Série I de 1976-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-1976-502776
+  date: '1976-04-08'
+- type: amended_by
+  target: pt:dre:409279:por
+  label: Mantidas em vigor as características de peso das sanduíches, bolos de arroz, queques, caracóis, croissants e brioches
+    estabelecidas no mapa em anexo ao presente diploma pelo(a) Despacho - Diário da República n.º 258/1976, Série I de 1976-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1976-409279
+  date: '1976-11-04'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675061:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430850:por
+  label: Revogados os n.ºs 1 e 4, pelo(a) Portaria n.º 472/76 - Diário da República n.º 179/1976, Série I de 1976-08-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/472-1976-430850
+  date: '1976-08-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:39:02Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +174,4 @@ Servido nas esplanadas (ver nota b) - 3$50.
 
 (nota b) Já incluída a taxa de serviço de $70.
 
-**O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo. - O Secretário de Estado do Comércio Externo e Turismo, José Vera Jardim. - O Secretário de Estado do Trabalho, Carlos Alberto do Vale Gomes Carvalhas.**
+O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo. - O Secretário de Estado do Comércio Externo e Turismo, José Vera Jardim. - O Secretário de Estado do Trabalho, Carlos Alberto do Vale Gomes Carvalhas.

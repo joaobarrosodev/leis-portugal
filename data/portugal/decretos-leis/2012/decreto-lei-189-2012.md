@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/2012/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2012-175338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5173aade685cc0dd8fc935080055e2e565b7338272b0a1eccf5618ca326faa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b77fbb1ea807ae20713122c2f1e8d7c465f0789d787744520c008293749e981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,40 @@ relationships:
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério da Solidariedade, Emprego e Segurança Social, pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que os poderes sobre o Centro de Relações Laborais, com orgânica aprovada
+    pelo presente diploma, sejam exercidos pela Ministra do Trabalho, Solidariedade e Segurança Social pelo(a) Decreto-Lei
+    n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício dos poderes pela Ministra do Trabalho, Solidariedade e Segurança
+    Social sobre o Centro de Relações Laborais pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I
+    de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que sejam exercidos pela Ministra do Trabalho, Solidariedade e Segurança
+    Social os poderes previstos nos respetivos estatutos sobre o Centro de Relações Laborais pelo(a) Decreto-Lei n.º 32/2024
+    - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que sejam exercidos pela Ministra do Trabalho, Solidariedade e Segurança
+    Social os poderes previstos nos respetivos estatutos sobre o Centro de Relações Laborais pelo(a) Decreto-Lei n.º 87-A/2025
+    - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
   label: null
@@ -84,16 +118,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/180/1993/02/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/180/1993/02/16/p/dre
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649155:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:41Z'
   warnings: []
   errors: []
 ---
@@ -264,13 +306,13 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 28 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 10 de agosto de 2012.**
+Promulgado em 10 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 
@@ -278,4 +320,4 @@ Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das 
 
 (a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16200/0460604608.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16200/0460604608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16200/0460604608.pdf)

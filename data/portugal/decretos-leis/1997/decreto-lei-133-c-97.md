@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 124/1997, 1º Suplemento, Série I-A de 1997-05-30
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2624-(18) a 2624-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/124a01/00180019.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133-c/1997/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-c-1997-158180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b93fbccf9167c573981004aef955edbf31a37e8c38e62bc3b2927856f4bf78e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbb36819205140e6b6aba9959357b9a98db4135dc074239687aa2c8585367329
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,59 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Deficiente
-- Subsídio Familiar a Crianças e Jovens
 - Equipamento Social
 - Pensão de Invalidez
 - Pensão de Orfandade
 - Pensão de Velhice
 - Pensão Social
-- Proteção ao Deficiente
-- Proteção na Velhice
 - Prestações da Segurança Social
 - Prestações Familiares
+- Proteção ao Deficiente
+- Proteção na Velhice
 - Proteção Social
 - Regime Jurídico
 - Regime não Contributivo da Segurança Social
 - Segurança Social
 - Subsídio de Educação Especial
+- Subsídio Familiar a Crianças e Jovens
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: amended_by
   target: pt:dre:108269605:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:652702:por
+  label: "Derrogado o Dec Lei 160/80, de 27-Mai, na redacção do presente diploma, pelo DEC LEI.176/2003.02.08.2003.MSST, DR.IS-A\
+    \ [177] de 02.08.2003, na parte relativa às prestações por ele reguladas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2003-652702
+  date: '2003-08-02'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Alterados os arts. 2.º e 13.º do Dec Lei 160/80, de 27-mai, na redação do presente diploma pelo(a) Decreto-Lei n.º
+    126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06, nos termos do art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357518:por
+  label: "Revogado o art. 11.º do Dec Lei 160/80, de 27-Mai DR.IS [122] na redacção do presente diploma, pelo DEC LEI.265/99.1999.07.14.MTS\
+    \ DR.IS-A [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1999-357518
+  date: '1999-07-14'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:24Z'
   warnings: []
   errors: []
 ---
@@ -142,29 +164,39 @@ e) Subsídio por assistência de terceira pessoa;
 
 f) Equipamento social.
 
-###### Artigo 6.º — Subsídio familiar a crianças e jovens
+Artigo 6.º
+
+Subsídio familiar a crianças e jovens
 
 As crianças e jovens que, em observância do disposto nos artigos 4.º e 5.º, se enquadrem neste regime têm direito ao subsídio familiar previsto na alínea a) do artigo 2.º, nos termos estabelecidos no presente diploma e no regime geral de segurança social, em tudo o que o não contrarie.
 
-###### Artigo 7.º — Determinação do montante do subsídio familiar a crianças e jovens
+Artigo 7.º
+
+Determinação do montante do subsídio familiar a crianças e jovens
 
 1 - Os valores dos rendimentos a considerar para a definição dos escalões determinantes dos montantes dos subsídios familiares a crianças e jovens são os apurados nos termos do disposto nos artigos 4.º e 5.º
 
 2 - O montante do subsídio familiar a crianças e jovens é fixado em portaria.
 
-###### Artigo 8.º — Protecção às crianças e jovens portadores de deficiência
+Artigo 8.º
+
+Protecção às crianças e jovens portadores de deficiência
 
 1 - As crianças e jovens portadores de deficiência têm direito à bonificação do subsídio familiar a crianças e jovens e ao subsídio por frequência de estabelecimento de educação especial, de acordo com o estabelecido no regime geral de segurança social.
 
 2 - Os titulares do subsídio familiar a crianças e jovens com bonificação por deficiência podem optar pela pensão social, verificadas as condições exigidas para esta.
 
-###### Artigo 11.º — Subsídio por assistência de terceira pessoa
+Artigo 11.º
+
+Subsídio por assistência de terceira pessoa
 
 1 - O subsídio por assistência de terceira pessoa é uma prestação mensal que se destina a compensar o acréscimo de encargos familiares resultantes de situação de dependência que exija acompanhamento permanente de terceira pessoa dos deficientes e dos pensionistas, desde que os mesmos sejam titulares de prestações concedidas no âmbito deste diploma.
 
 2 - A prestação referida no número anterior é regulada nos termos definidos para o regime geral de segurança social, salvo no que respeita ao montante concedido em função da qualidade de pensionista.
 
-###### Artigo 13.º — Cumulação de prestações
+Artigo 13.º
+
+Cumulação de prestações
 
 1 - ...
 
@@ -178,12 +210,12 @@ O presente diploma entra em vigor em 1 de Julho de 1997.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 27 de Maio de 1997.**
+Promulgado em 27 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

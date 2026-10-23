@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 249/2007, 1º Suplemento, Série I de 2007-12-27
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9108-(2) a 9108-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/392-a/2007/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-a-2007-320091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50bdfe18bd4bd4398a302daac8f6b548420a55117c34a7dfb54b7dad781311f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af0eb9239d189b200808ff11351eaabd27272f9b4446bc9413797189f0709cbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA NON Aedificandi
+- Auto-estrada
 - Auto-estrada Douro Litoral
 - Contrato de Concessão
-- Rede de Estradas
-- Auto-estrada
-- Ministro de Estado e das Finanças
 - Ministro das Obras Públicas Transportes e Comunicações
-- ÁREA NON Aedificandi
+- Ministro de Estado e das Finanças
+- Rede de Estradas
 relationships:
 - type: amended_by
   target: pt:dre:67085601:por
@@ -90,16 +90,27 @@ relationships:
   target: celex:32004L0052
   label: null
   source: http://data.europa.eu/eli/dir/2004/52/oj
+- type: corrected_by
+  target: pt:dre:247742:por
+  label: "Rectificado pela DECL-RECT.7/2008.18.02.2008.PCM, DR.IS [34] de 18.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-2008-247742
+  date: '2008-02-18'
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, o art. 4.º do presente diploma pelo(a) Lei n.º 34/2015 - Diário da República n.º
+    81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
   article_count: 5
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:28Z'
   warnings: []
   errors: []
 ---
@@ -152,13 +163,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 26 de Dezembro de 2007.**
+Promulgado em 26 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Dezembro de 2007.**
+Referendado em 26 de Dezembro de 2007.
 
 Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.
 
@@ -288,7 +299,9 @@ bj) «Vocabulário de Estradas e Aeródromos» - designa a publicação, de 1962
 
 2 - Os termos definidos no número anterior no singular podem ser utilizados no plural e vice-versa, com a correspondente alteração do respectivo significado, salvo se do contexto resultar claramente o inverso.
 
-### CAPÍTULO II — Objecto e natureza da concessão
+CAPÍTULO II
+
+Objecto e natureza da concessão
 
 2 - Objecto
 
@@ -372,7 +385,9 @@ b) Pelas áreas de serviço, pelas áreas de repouso, pelo centro de assistênci
 
 7 - Revertem automaticamente para o concedente, no termo da concessão, e sem qualquer indemnização, custo ou preço a suportar por este, todos os bens e direitos que integram a concessão.
 
-### CAPÍTULO III — Delimitação física da concessão
+CAPÍTULO III
+
+Delimitação física da concessão
 
 7 - Delimitação física da concessão
 
@@ -408,7 +423,9 @@ e) Se não estiver concluída a construção de um dos sublanços da auto-estrad
 
 f) Se não estiver concluída a construção dos dois sublanços da auto-estrada que lhe fiquem contíguos, a sua extensão é provisoriamente determinada pela distância que mediar entre os últimos perfis transversais de auto-estrada construídos e a entrar em serviço.
 
-### CAPÍTULO IV — Duração da concessão
+CAPÍTULO IV
+
+Duração da concessão
 
 9 - Prazos da concessão
 
@@ -422,7 +439,9 @@ f) Se não estiver concluída a construção dos dois sublanços da auto-estrada
 
 5 - Para além dos casos em que tal matéria se encontre expressamente regulada no contrato de concessão, no final do prazo de cinco anos referido no n.º 2 da presente base aplicam-se, relativamente aos lanços referidos nesse número, e com as demais adaptações devidas, as regras das presentes bases e do contrato de concessão relativas ao termo da concessão.
 
-### CAPÍTULO V — Sociedade concessionária
+CAPÍTULO V
+
+Sociedade concessionária
 
 10 - Objecto social, sede e forma
 
@@ -524,7 +543,9 @@ j) Apresentar prontamente as informações complementares ou adicionais que lhe 
 
 A concessionária encontra-se sujeita à legislação fiscal em vigor, em cada momento, ao longo da concessão.
 
-### CAPÍTULO VI — Financiamento
+CAPÍTULO VI
+
+Financiamento
 
 18 - Responsabilidade do concedente e da concessionária
 
@@ -574,7 +595,9 @@ d) Numa composição resultante das alternativas anteriores.
 
 16 - Ocorrendo refinanciamento da concessão, o caso base ajustado substituirá o caso base.
 
-### CAPÍTULO VII — Expropriações
+CAPÍTULO VII
+
+Expropriações
 
 20 - Disposições aplicáveis
 
@@ -608,7 +631,9 @@ b) A apresentação ao concedente, nos prazos previstos no programa de trabalhos
 
 9 - A autorização para alienação das áreas sobrantes, nas condições previstas no Código das Expropriações, é da competência do MOPTC, revertendo o valor obtido com a alienação para o Tesouro.
 
-### CAPÍTULO VIII — Instituto de Infra-Estruturas Rodoviárias, I. P.
+CAPÍTULO VIII
+
+Instituto de Infra-Estruturas Rodoviárias, I. P.
 
 23 - Funções do InIR
 
@@ -616,7 +641,9 @@ b) A apresentação ao concedente, nos prazos previstos no programa de trabalhos
 
 2 - Cabe ao InIR designar os mandatários do Estado nos procedimentos de arbitragem que decorram no âmbito do disposto no capítulo xxvi.
 
-### CAPÍTULO IX — Concepção, projecto e construção da auto-estrada
+CAPÍTULO IX
+
+Concepção, projecto e construção da auto-estrada
 
 24 - Concepção, projecto, construção e aumento
 
@@ -636,7 +663,7 @@ do número de vias
 
 1 - A construção dos lanços de auto-estrada referidos no n.º 1 da base 2 obedece ao programa de trabalhos, no respeito pelas seguintes datas de início da construção e de entrada em serviço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 2 - Os lanços de auto-estrada referidos no n.º 2 da base 2 do contrato de concessão transferem-se para a concessionária de acordo com o disposto na base 45.
 
@@ -972,7 +999,9 @@ b) Nos sublanços com seis vias, deve entrar em serviço mais uma via em cada se
 
 7 - Cabe à concessionária a preservação da integridade dos imóveis que vierem a incorporar-se no património autónomo do InIR, enquanto a posse de tais imóveis não for transferida ao InIR, sendo que esta transmissão se opera mediante notificação pela concessionária ao InIR, acompanhada da planta cadastral correspondente.
 
-### CAPÍTULO X — Áreas de serviço
+CAPÍTULO X
+
+Áreas de serviço
 
 41 - Requisitos
 
@@ -1012,7 +1041,9 @@ b) Nos sublanços com seis vias, deve entrar em serviço mais uma via em cada se
 
 4 - Os contratos a que se refere o n.º 1 devem incluir cláusula que contenha a expressa anuência dos terceiros em causa à cessão da posição contratual prevista no n.º 2, aos efeitos que nesses contratos tem o resgate da concessão ou a rescisão do contrato de concessão previstos no número anterior e, bem assim, ao previsto no n.º 9, alínea d), da base 76 e o reconhecimento do efeito que, nesses contratos, tem o termo da concessão.
 
-### CAPÍTULO XI — Conservação e exploração da auto-estrada
+CAPÍTULO XI
+
+Conservação e exploração da auto-estrada
 
 44 - Conservação da auto-estrada
 
@@ -1144,7 +1175,7 @@ d) Velocidade instantânea.
 
 1 - Os equipamentos de classificação e contagem descritos na base anterior devem permitir classificar os veículos nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 2 - Os limites de erro absoluto aceitáveis para os equipamentos referidos no número anterior são os seguintes:
 
@@ -1158,7 +1189,7 @@ c) Erro na classificação entre as classes - (igual ou menor que) 8 %.
 
 a) Sem prejuízo do disposto na alínea c) do presente número, as classes de veículos, por ordem crescente do respectivo valor tarifário, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 b) A relação entre o valor das tarifas de portagem das classes 2, 3 e 4 e a tarifa da classe 1 não pode ser superior, respectivamente, a 1,75, a 2,25 e a 2,5;
 
@@ -1242,25 +1273,25 @@ b) O encerramento de vias devido i) a casos de força maior, ii) a imposição d
 
 8 - Sem prejuízo do disposto nos n.os 4 e 5 da presente base e adicionalmente às multas previstas nesses números, entra em vigor, imediatamente após a entrada em serviço do último sublanço a construir, um regime de penalizações e prémios relativos aos níveis de sinistralidade verificados na concessão, que é independente de responsabilidade da concessionária e baseia-se no cálculo dos seguintes índices de sinistralidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 9 - Sempre que se verifique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 10 - Sempre que se verifique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 11 - Os prémios e penalizações referidos no número anterior são calculados da seguinte forma:
 
 a) Prémio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 b) Multa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 12 - Os montantes dos prémios ou das penalizações, calculados nos termos do número anterior, são pagos pelo concedente ou pela concessionária, conforme aplicável, até 31 de Maio do ano seguinte àquele a que disserem respeito.
 
@@ -1314,7 +1345,9 @@ b) Multa:
 
 2 - A participação referida no número anterior deve conter uma discrição tão detalhada quanto possível dos actos ou factos identificados.
 
-### CAPÍTULO XII — Outros direitos do concedente
+CAPÍTULO XII
+
+Outros direitos do concedente
 
 57 - Contratação com terceiros
 
@@ -1354,7 +1387,9 @@ d) Apólices de seguro referidas na base 70, com excepção do respectivo cancel
 
 3 - A concessionária deve assegurar que os contratos e documentos a que se refere o n.º 1 da presente base contêm cláusula que exprima o assentimento das respectivas contrapartes ou emitentes ao regime jurídico descrito nos n.os 1 e 2.
 
-### CAPÍTULO XIII — Autorizações e aprovações do concedente
+CAPÍTULO XIII
+
+Autorizações e aprovações do concedente
 
 60 - Regime das autorizações e aprovações do concedente
 
@@ -1364,7 +1399,9 @@ d) Apólices de seguro referidas na base 70, com excepção do respectivo cancel
 
 3 - A falta de autorização ou aprovação do concedente, quando esta seja, nos termos do contrato de concessão, necessária, fere de nulidade os contratos e os demais actos a elas sujeitos.
 
-### CAPÍTULO XIV — Instalações de terceiros
+CAPÍTULO XIV
+
+Instalações de terceiros
 
 61 - Regime das instalações de terceiros
 
@@ -1376,7 +1413,9 @@ d) Apólices de seguro referidas na base 70, com excepção do respectivo cancel
 
 4 - A concessionária não pode cobrar qualquer taxa de utilização às entidades responsáveis pela gestão dos serviços instalados.
 
-### CAPÍTULO XV — Receitas da concessionária
+CAPÍTULO XV
+
+Receitas da concessionária
 
 62 - Limitação das receitas
 
@@ -1412,7 +1451,7 @@ b) Ser adaptado, em zonas especiais, a passagens regulares e frequentes do mesmo
 
 1 - As tarifas de portagem podem ser actualizadas anualmente, no primeiro mês de cada ano civil, tendo em atenção a evolução do IPC, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 2 - A proposta de actualização das tarifas de portagem é apresentada pela concessionária ao InIR e à IGF, devidamente justificada e com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
 
@@ -1498,7 +1537,9 @@ f) Veículos afectos ao InIR, à EP, à ANSR e à IGF no âmbito das suas funç�
 
 4 - A concessionária não pode conceder isenções de portagem para além dos casos estabelecidos no n.º 1 da presente base, a não ser por motivos inerentes ao serviço próprio da auto-estrada e mediante autorização prévia do InIR.
 
-### CAPÍTULO XVI — Modificações subjectivas na concessão
+CAPÍTULO XVI
+
+Modificações subjectivas na concessão
 
 67 - Cedência, alienação e oneração
 
@@ -1528,7 +1569,9 @@ f) Veículos afectos ao InIR, à EP, à ANSR e à IGF no âmbito das suas funç�
 
 7 - Todos os contratos celebrados pela concessionária com quaisquer terceiros devem conter cláusula que contenha a expressa anuência destes, sem reservas de qualquer natureza, à transformação operada nos termos do n.º 1 da presente base e à correspondente transferência dos direitos e deveres consignados no presente contrato, bem como à ausência de produção de quaisquer efeitos delas decorrentes no cumprimento pontual desses contratos e na sua manutenção em vigor, nos termos previamente acordados.
 
-### CAPÍTULO XVII — Garantias do cumprimento das obrigações da concessionária
+CAPÍTULO XVII
+
+Garantias do cumprimento das obrigações da concessionária
 
 69 - Garantias a prestar
 
@@ -1590,7 +1633,9 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do co
 
 8 - As condições constantes dos n.os 4 e 6 devem constar das apólices emitidas nos termos desta base.
 
-### CAPÍTULO XVIII — Fiscalização do cumprimento das obrigações da concessionária
+CAPÍTULO XVIII
+
+Fiscalização do cumprimento das obrigações da concessionária
 
 71 - Fiscalização pelo concedente
 
@@ -1620,7 +1665,9 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do co
 
 4 - A concessionária fica obrigada a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que o InIR lhe solicitar.
 
-### CAPÍTULO XIX — Responsabilidade extracontratual perante terceiros
+CAPÍTULO XIX
+
+Responsabilidade extracontratual perante terceiros
 
 73 - Responsabilidade geral pela culpa e pelo risco
 
@@ -1632,7 +1679,9 @@ A concessionária responde, nos termos da lei geral, por quaisquer prejuízos ca
 
 2 - Constitui especial dever da concessionária prover e exigir a qualquer terceiro com quem venha a contratar que assegure as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento.
 
-### CAPÍTULO XX — Incumprimento, cumprimento defeituoso do contrato e força maior
+CAPÍTULO XX
+
+Incumprimento, cumprimento defeituoso do contrato e força maior
 
 75 - Incumprimento e cumprimento defeituoso
 
@@ -1706,7 +1755,9 @@ f) Fica a concessionária responsável pelos efeitos da cessação de quaisquer 
 
 11 - Constitui estrita obrigação da concessionária a mitigação, por qualquer meio razoável e apropriado ao seu dispor, dos efeitos da verificação de um caso de força maior.
 
-### CAPÍTULO XXI — Extinção e suspensão da concessão
+CAPÍTULO XXI
+
+Extinção e suspensão da concessão
 
 77 - Resgate
 
@@ -1808,13 +1859,13 @@ O contrato de concessão caduca quando se verificar o fim do prazo da concessão
 
 4 - No termo da concessão cessam para a concessionária todos os direitos emergentes do contrato de concessão, sendo entregues ao concedente, livres de quaisquer ónus ou encargos, todos os bens que constituem o estabelecimento da concessão, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 Todos os bens não contemplados no quadro anterior devem ser entregues em estado que garanta 50 % da vida útil de cada um dos seus componentes.
 
 5 - No termo da concessão relativa aos lanços referidos nas alíneas a) a f), h) e i) do n.º 2 da base 2, cessam para a concessionária, relativamente a esses lanços, todos os direitos emergentes do contrato de concessão, sendo entregues ao concedente, livres de quaisquer ónus ou encargos, todos os bens que constituem o estabelecimento da concessão e que lhe estejam exclusivamente afectos, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 Todos os bens não contemplados no quadro anterior devem ser entregues em estado que garanta 25 % da vida útil de cada um dos seus componentes.
 
@@ -1828,7 +1879,9 @@ Todos os bens não contemplados no quadro anterior devem ser entregues em estado
 
 10 - Previamente ao termo da concessão, o concedente procederá a vistorias dos bens referidos na base 5, nas quais participarão representantes do concedente e da concessionária, destinadas à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado o respectivo auto.
 
-### CAPÍTULO XXII — Condição financeira da concessionária
+CAPÍTULO XXII
+
+Condição financeira da concessionária
 
 82 - Assunção de riscos
 
@@ -1946,7 +1999,9 @@ b) No caso da alínea b), equitativamente entre o concedente e a concessionária
 
 2 - O plano de pagamentos ou de recebimentos do valor referido no número anterior é objecto de acordo entre o concedente e a concessionária, devendo, em qualquer caso, o pagamento ou recebimento, conforme for o caso, ocorrer em 30 de Junho do ano a que respeita.
 
-### CAPÍTULO XXIII — Direitos de propriedade industrial e intelectual
+CAPÍTULO XXIII
+
+Direitos de propriedade industrial e intelectual
 
 87 - Direitos de propriedade industrial e intelectual
 
@@ -1954,19 +2009,23 @@ b) No caso da alínea b), equitativamente entre o concedente e a concessionária
 
 2 - Os direitos de propriedade intelectual relativos aos estudos e projectos elaborados para os fins específicos das actividades concessionadas e, bem assim, os projectos, planos, plantas, documentos e outros materiais referidos no número anterior são transmitidos gratuitamente ao concedente, e em regime de exclusividade, no termo da concessão, competindo à concessionária adoptar todas as medidas para o efeito necessárias.
 
-### CAPÍTULO XXIV — Vigência da concessão
+CAPÍTULO XXIV
+
+Vigência da concessão
 
 88 - Entrada em vigor
 
 O contrato de concessão entrará em vigor às 24 horas do dia da sua assinatura, contando-se a partir dessa data o prazo de vigência da concessão.
 
-### CAPÍTULO XXV — Disposições diversas
+CAPÍTULO XXV
+
+Disposições diversas
 
 89 - Taxa de gestão do contrato
 
 1 - A concessionária paga anualmente ao InIR uma taxa de gestão do contrato de concessão, para suporte das despesas do InIR com o acompanhamento, gestão e fiscalização da concessão, calculada de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf))](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/24901/0000200035.pdf)
 
 2 - A taxa de gestão referida no número anterior deve ser paga pela concessionária até ao dia 31 de Janeiro do ano seguinte a que se refere, utilizando o TMDA real verificado no ano a que se reporta.
 
@@ -2004,7 +2063,9 @@ Os prazos fixados no contrato de concessão contam-se em dias ou meses seguidos 
 
 A concessionária paga à EP, em prazo a fixar no contrato de concessão, os encargos suportados na preparação, lançamento e conclusão do concurso, que ascendem a um valor, não sujeito a IVA, a fixar no contrato de concessão.
 
-### CAPÍTULO XXVI — Resolução de diferendos
+CAPÍTULO XXVI
+
+Resolução de diferendos
 
 95 - Processo de resolução de diferendos
 

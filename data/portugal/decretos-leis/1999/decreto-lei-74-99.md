@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/063a00/14301432.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/1999/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1999-144987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be72b8831093f21a348742689fee2c7215b8ae5320d7990a0f5acb0caa0530b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9e6bc449e018bbc7286b3548132f4cf68fdda743766c86cf21e661577038773
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,104 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Estatuto
+- IRC
 - IRS
 - Isenção Fiscal
 - Mecenato
 - Mecenato Ambiental
+- Mecenato Científico-Tecnológico
 - Mecenato Cultural
 - Mecenato Desportivo
 - Mecenato Social
-- IRC
-- Mecenato Científico-Tecnológico
 - Regime Fiscal
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:492429:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570557:por
+  label: "Alterados os arts. 1.º e 2.º do presente diploma, bem como os arts. 1.º, 3.º e 5.º do Estatuto do Mecenato, aprovado\
+    \ pelo mesmo diploma, pela LEI.160/99.14.09.1999.AR, DR.IS-A [215] de 14.09.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/160-1999-570557
+  date: '1999-09-14'
+- type: amended_by
+  target: pt:dre:368070:por
+  label: "Alterada a al. c) do nº 1 do art. 5º do Estatuto do Mecenato aprovado pelo presente diploma, na redacção dada pela\
+    \ Lei 160/99 de 14-Set, pela LEI.176-A/99.1999.12.30.AR DR.IS-A [302]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/176-a-1999-368070
+  date: '1999-12-30'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 2º do Estatuto do Mecenato pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o art. 3º e aditados os arts. 3º-A, 4º-A e 5º-A ao Estatuto do Mecenato pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A\
+    \ [299]2º Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Aditado o art. 3º-A ao Estatuto pela LEI.30-G/2000.2000.12.29.AR DR.IS-A [299]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Aditado um cap. III, contendo um art. 6º, ao Estatuto do Mecenato pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl]\
+    \ de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:517241:por
+  label: "Alterado o art 1º do presente diploma, na redacção da Lei 160/99 14-Set, bem como os arts 1º (na redacção da Lei\
+    \ 160/99, de 14-Set), 3º (na redacção das Leis 160/99, 14-Set, e 30-C/2000, de 29-Dez ) 4º-A e 5º-A (ambos na redacção\
+    \ da Lei 30-C/2000, de 29-Dez) do Estatuto do Mecenato, aprovado também pelo presente diploma, pela LEI.26/2004.08.07.2004.AR,\
+    \ DR.IS-A [159] de 08.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2004-517241
+  date: '2004-07-08'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 40º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001, de 03-Jul, na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 40.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 39.º e 40.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov,\
+    \ na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/127-b/1997/12/20/p/dre
   label: null
@@ -91,16 +172,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/119/1997/07/14/p/dre
+- type: cites
+  target: pt:dre:150926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:389654:por
+  label: "Rectificado o nº 2 do art. 34º da Lei 30-C/2000, de 29-Dez, na parte que se refere ao art. 5º-A aditado ao Estatuto\
+    \ do Mecenato aprovado pelo presente diploma, pela DECL-RECT.7/2001.12.03.2001.AR, DR.IS-A [60] de 12.03.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-2001-389654
+  date: '2001-03-12'
+- type: repealed_by
+  target: pt:dre:197511:por
+  label: "Revogado o Estatuto, aprovado no presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249]Supl de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 article_structure:
   article_count: 8
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:54Z'
   warnings: []
   errors: []
 ---
@@ -143,15 +252,15 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1999, ficando salv
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 18 de Fevereiro de 1999.**
+Promulgado em 18 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTO DO MECENATO
 

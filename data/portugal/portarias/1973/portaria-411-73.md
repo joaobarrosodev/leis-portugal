@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/06/13600/10191020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1973-422658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:06:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2943bf59f402bf4198a5bf5cc71af34e8cb7cafe8c0eecd15d2fdccbe20033
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6df429da70063a4a74311259a11769696d1e66cf5018129ac51cbe8a77fc3f3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:06:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,44 @@ relationships:
   target: pt:dre:355502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335892:por
+  label: Alterado o n.º 9.º e revogados os n.ºs 5.º e 7.º pelo(a) Portaria n.º 346/75 - Diário do Governo n.º 131/1975, Série
+    I de 1975-06-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-1975-335892
+  date: '1975-06-07'
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:297447:por
+  label: "Revogados os n.ºs 6.º, 8.º e 9.º pela PORT.386/78.17.07.1978.MCT, DR.IS [162] de 17.07.1978\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/386-1978-297447
+  date: '1978-07-17'
+- type: repealed_by
+  target: pt:dre:355502:por
+  label: "Revogada pelo DEC LEI.343/88.28.09.1988.MAPA, DR.IS [225] de 28.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1988-355502
+  date: '1988-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:06:09Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +126,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 3.º Enquanto não forem publicadas normas definitivas, nos termos previstos no artigo 8.º do [Decreto-Lei n.º 38801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38801-1952-564839), de 25 de Junho de 1952, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 48454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48454-1968-272027), de 25 de Junho de 1968, o óleo de soja, depois de refinado, deverá apresentar as seguintes características:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13600/10191020.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13600/10191020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13600/10191020.pdf)
 
 4.º O óleo de semente de soja deve ser extraído apenas pelo solvente admitido nos termos do artigo 23.º do [Decreto-Lei n.º 46257](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46257-1965-238645), de 19 de Março de 1965.
 

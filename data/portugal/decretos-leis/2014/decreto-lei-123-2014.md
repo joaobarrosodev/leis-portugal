@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15300/0416204165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2014/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2014-55733177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd915a271943db5ec6ad6982d0001df46d51403c7c515ae1c04ef5247621b438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e299adfed6e9a966396743640ef92527c6e88179b1949e9a518c6723ab1525a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Ordenamento do Território
-- Estrada
+- Auto-estrada
 - Definição de Competências
-- Rede de Estradas
+- Estrada
 - Estrada Regional
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Auto-estrada
-- Segurança Rodoviária
+- Multa
+- Ordenamento do Território
+- Rede de Estradas
 - Rede Rodoviária Transeuropeia
 - Regime Jurídico
+- Segurança Rodoviária
 relationships:
 - type: amended_by
   target: pt:dre:204552602:por
@@ -95,6 +95,12 @@ relationships:
   target: celex:32008L0096
   label: null
   source: http://data.europa.eu/eli/dir/2008/96/oj
+- type: repealed_by
+  target: pt:dre:204552602:por
+  label: Revogado a partir de 08-01-2023 pelo(a) Decreto-Lei n.º 84-B/2022 - Diário da República n.º 236/2022, 2º Suplemento,
+    Série I de 2022-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-b-2022-204552602
+  date: '2022-12-09'
 - type: transposes
   target: celex:32008L0096
   label: null
@@ -102,13 +108,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:49Z'
   warnings: []
   errors: []
 ---
@@ -313,12 +319,12 @@ O presente decreto-lei entra em vigor no prazo de 60 dias após a sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 23 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 28 de julho de 2014.**
+Promulgado em 28 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2014.**
+Referendado em 31 de julho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

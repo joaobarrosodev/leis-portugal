@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2011/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2011-671453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ede32349a738ef43e1bae9f2539acb1e3189967ca37fc145b57c178277221c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b5ac8d7e291cf40fe3afeb38b6e3fa238b32a3d19ab4e2478c6a4a829d47a26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/80/2010/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/2010/10/12/p/dre
+- type: cites
+  target: pt:dre:185484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459961:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:13Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +173,9 @@ Modalidade e procedimentos
 
 4 - As propostas devem ter por objecto a totalidade das acções representativas do capital social do BPN, sem prejuízo do disposto no artigo 4.º
 
-###### Artigo 4.º — Capital reservado a trabalhadores
+Artigo 4.º
+
+Capital reservado a trabalhadores
 
 1 - Do capital social do BPN a reprivatizar é reservado um lote de acções para aquisição por trabalhadores do BPN ou por trabalhadores do grupo de sociedades detidas por este, através de uma oferta de venda em condições preferenciais relativamente às do concurso público ou da venda directa, em percentagem e nos termos a definir por resolução do Conselho de Ministros.
 
@@ -165,7 +191,9 @@ b) O exercício daquela faculdade ocorra até ao final do 3.º mês subsequente 
 
 c) Seja entregue ao trabalhador, simultaneamente e em contrapartida do exercício daquela faculdade, o montante em numerário equivalente ao preço final por acção devido pela entidade adquirente das acções ou, caso as acções se tenham entretanto valorizado, ao respectivo valor.
 
-###### Artigo 6.º — Indisponibilidade das acções adquiridas por trabalhadores
+Artigo 6.º
+
+Indisponibilidade das acções adquiridas por trabalhadores
 
 1 - ...
 
@@ -211,12 +239,12 @@ O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decre
 
 Visto e aprovado em Conselho de Ministros de 28 de Julho de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 15 de Agosto de 2011.**
+Promulgado em 15 de Agosto de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Agosto de 2011.**
+Referendado em 17 de Agosto de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

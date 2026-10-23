@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22477-1967-501595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fecf03dffd0612f209259625f7247daf71ffe1aa88e491be155f067348fedd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 973f982e38fcc7257eab4d2fa604e8d0f26d19519b799fe09ea4e24383d32d1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:23Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +88,20 @@ Ministério da Educação Nacional, 23 de Janeiro de 1967. - Pelo Ministro da Ed
 
 Regulamento do Prémio de Henrique Pimenta Diogo da Silva
 
-###### Artigo 1.º É instituído na Escola Superior de Belas-Artes de Lisboa um prémio com a designação de «Prémio de Henrique Pimenta Diogo da Silva», o qual será constituído pelo rendimento anual da importância de 50000$00, doada por D. Maria Palmira Diogo da Silva Garcia da Silva.
+Artigo 1.º É instituído na Escola Superior de Belas-Artes de Lisboa um prémio com a designação de «Prémio de Henrique Pimenta Diogo da Silva», o qual será constituído pelo rendimento anual da importância de 50000$00, doada por D. Maria Palmira Diogo da Silva Garcia da Silva.
 
-###### Art. 2.º A importância do Prémio será convertida em certificado de renda perpétua, assentado à Escola.
+Art. 2.º A importância do Prémio será convertida em certificado de renda perpétua, assentado à Escola.
 
-###### Art. 3.º O Prémio tem o duplo objectivo de oferecer aos alunos um estímulo ao estudo e aplicação e de prestar homenagem à memória de Henrique Pimenta Diogo da Silva, que, quando aluno do 3.º ano do curso de Pintura da antiga Escola de Belas-Artes de Lisboa, foi mobilizado como alferes miliciano do C. E. P. para combater em França, onde faleceu mutilado e prisioneiro dos Alemães, em consequência da batalha de La Lys, de 9 de Abril de 1918.
+Art. 3.º O Prémio tem o duplo objectivo de oferecer aos alunos um estímulo ao estudo e aplicação e de prestar homenagem à memória de Henrique Pimenta Diogo da Silva, que, quando aluno do 3.º ano do curso de Pintura da antiga Escola de Belas-Artes de Lisboa, foi mobilizado como alferes miliciano do C. E. P. para combater em França, onde faleceu mutilado e prisioneiro dos Alemães, em consequência da batalha de La Lys, de 9 de Abril de 1918.
 
-###### Art. 4.º O Prémio será adjudicado pelo conselho escolar ao aluno do 3.º ano do curso de Pintura que obtiver média mais elevada e não inferior a 14 valores.
+Art. 4.º O Prémio será adjudicado pelo conselho escolar ao aluno do 3.º ano do curso de Pintura que obtiver média mais elevada e não inferior a 14 valores.
 
 § único. No caso de igualdade de médias, deverá ser preferido o aluno que tiver melhor curriculum escolar.
 
-###### Art. 5.º Na falta de candidatos nas condições referidas no artigo anterior, será o Prémio adjudicado ao aluno finalista do curso complementar de Pintura que obtiver média mais elevada, sendo de respeitar, no caso de igualdade de médias, o disposto no § único do mesmo artigo.
+Art. 5.º Na falta de candidatos nas condições referidas no artigo anterior, será o Prémio adjudicado ao aluno finalista do curso complementar de Pintura que obtiver média mais elevada, sendo de respeitar, no caso de igualdade de médias, o disposto no § único do mesmo artigo.
 
-###### Art. 6.º O nome do aluno premiado será comunicado à instituidora do Prémio, ou, na sua falta, à sua família.
+Art. 6.º O nome do aluno premiado será comunicado à instituidora do Prémio, ou, na sua falta, à sua família.
 
-###### Art. 7.º A entrega do Prémio compete ao director da Escola e terá lugar, em princípio, no início do ano lectivo imediato ao da atribuição.
+Art. 7.º A entrega do Prémio compete ao director da Escola e terá lugar, em princípio, no início do ano lectivo imediato ao da atribuição.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 23 de Janeiro de 1967. - O Director-Geral, João Alexandre Ferreira de Almeida.

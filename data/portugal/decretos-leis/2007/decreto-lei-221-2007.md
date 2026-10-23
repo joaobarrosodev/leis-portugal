@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/35163519.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/221/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2007-638548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fefd6ecfcf607f6cd50394e0ad5c9673d75f81cc68620ecbd82974594b0da394
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f956d4e46e8c75336fb55c84a3a90951162b24ab5f5bb1f2e0b9eccc46ba5d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Ética para a Saúde
-- Conselho Nacional do Combate à Droga e a Toxicodependência
-- Instituto da Droga e da Toxicodependência
-- Definição de Competências
-- Conselho Diretivo
 - Conselho Consultivo
+- Conselho Diretivo
+- Conselho Nacional do Combate à Droga e a Toxicodependência
+- Definição de Competências
+- Instituto da Droga e da Toxicodependência
+- Ministério da Saúde
 - Orgânica
 - Presidente
-- Ministério da Saúde
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:543043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145186:por
+  label: "Extinto, sendo objecto de fusão, o Instituto da Droga e da Toxicodependência, I. P., e integradas as suas atribuições\
+    \ no Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências, com excepção das atribuições constantes da\
+    \ al. c) do nº 3 do art. 23º pelo, DEC LEI.124/2011.29.12.2011.MS, DR.IS [249] de 29.12.2011, \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544423:por
+  label: "Determinada a sucessão pelo SICAD das atribuições do ex-Instituto da Droga e da Toxicodependência, I.P., com exceção\
+    \ das referentes aos domínios: do licenciamento das unidades privadas prestadoras de cuidados de saúde na área das toxicodependências\
+    \ e da execução dos programas de intervenção local, do património e dos recursos humanos afetos às delegações regionais;\
+    \ bem como das referentes ao domínio das atividades regulares de fiscalização; e revogado, a partir de 01.02.2012 o presente\
+    \ diploma pelo DEC LEI.17/2012.26.01.2012.MS, DR.IS [19] de 26.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2012-544423
+  date: '2012-01-26'
+- type: amended_by
+  target: pt:dre:543922:por
+  label: "Determinado que as ARS, I. P., sucedem, de acordo com a respectiva área geográfica de intervenção e no domínio do\
+    \ licenciamento das unidades privadas prestadoras de cuidados de saúde na área das toxicodependências e da execução dos\
+    \ programas de intervenção local, do património e dos recursos humanos afectos às delegações regionais, nas atribuições\
+    \ do Instituto da Droga e Toxicodependência, I. P., pelo DEC LEI.22/2012.30.01.2012.MS, DR.IS [21] de 30.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2012-543922
+  date: '2012-01-30'
+- type: amended_by
+  target: pt:dre:543043:por
+  label: Determinada a sucessão pela IGAS, no domínio das actividades regulares de fiscalização, pelo DEC LEI.33/2012.13.02.2012.MS,
+    DR.IS [31] de 13.02.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2012-543043
+  date: '2012-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2003/01/06/p/dre
   label: null
@@ -120,16 +150,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:181067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:lei:318/2000
+  label: "Revoga, a partir de 01.06.2007, o Dec Lei nº 318/2000, de 14-Dez DR IS-A [287] e determina que o Instituto da Droga\
+    \ e da Toxicodependência, I. P. suceda nas atribuições dos centros regionais de alcoologia, cuja orgânica foi aprovada\
+    \ pelo citado diploma.\0\0"
+  source: null
+  date: '2000-12-14'
+- type: repeals
+  target: pt:numero:lei:269-A/2002
+  label: "Revoga a partir de 01.06.2007, o Dec Lei nº 269-A/2002, de 29-Nov DR IS-A [276] 1Supl \0\0"
+  source: null
+  date: '2002-11-29'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:09Z'
   warnings: []
   errors: []
 ---
@@ -362,12 +448,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

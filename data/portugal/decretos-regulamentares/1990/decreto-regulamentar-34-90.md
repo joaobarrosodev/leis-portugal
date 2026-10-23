@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25400/45364537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1990-566194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fcac3d34faf6ed8ea88b6c48ea2551eeac4ed134ecdbaf4cd19b49bdbefc907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bbd827eb62e42c4e00a2987efa08da5fe1db3c1697b31c7ad131d3383c2eff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atribuição de Verba
+- Bingo
+- Financiamento
+- Futebol
+- Jogos de Fortuna e Azar
 relationships:
 - type: amended_by
   target: pt:dre:692421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376808:por
+  label: "Alterado o 26º do DR 76/86 de 31-Dez, com a redacção constante do presente diploma, pelo DR.19/93.05.07.1993.MCT,\
+    \ DR.IS-B [155] de 05.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1993-376808
+  date: '1993-07-05'
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627248:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689375:por
+  label: Rectificado o art. único do presente diploma, na redacção que conferiu aos nºs 14 e 15 do art. 26º do DR 76/86 de
+    31-Dez, pela DECL.DD3107.1990.11.23.PCM, DR.IS [277]3ºSupl de 30.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689375
+  date: '1990-11-23'
+- type: repealed_by
+  target: pt:dre:692421:por
+  label: "Revogado o DR 76/86 de 31-Dez, na redacção dada pelo presente diploma, pelo DEC LEI.314/95.1995.11.24.MCT, DR.IS-A\
+    \ [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-1995-692421
+  date: '1995-11-24'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:57Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +136,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 277/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1982-394161), de 16 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. - O artigo 26.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, passa a ter a seguinte redacção:
+Artigo único. - O artigo 26.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 26.º — Distribuição de receitas brutas
 
@@ -161,12 +192,12 @@ Presidência do Conselho de Ministros, 30 de Agosto de 1990.
 
 Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro - Alfredo César Torres.
 
-**Promulgado em 25 de Outubro de 1990.**
+Promulgado em 25 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Outubro de 1990.**
+Referendado em 29 de Outubro de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

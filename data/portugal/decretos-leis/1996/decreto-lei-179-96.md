@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/1996/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd625d910c7187865e354a17ee2f73c8fc056e23624ebea0449dd722fa7ee01c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ab5646292dd2d8cf186549dc82e404abbc0e45de77f11d58616941aef3c2575
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Academia das Ciências de Lisboa
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:216771969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220170:por
+  label: "Alterado o art. 9º dos Estatutos aprovados pelo Dec Lei 5/78 de 12-Jan, com a redacção do presente diploma, pelo\
+    \ DEC LEI.90/2005.03.06.2005.MCTES, DR.IS-A [107] de 03.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2005-220170
+  date: '2005-06-03'
+- type: amended_by
+  target: pt:dre:69977687:por
+  label: Alterado o art. 49.º dos Estatutos da Academia das Ciências de Lisboa aprovados pelo Dec Lei 5/78, de 12-jan, na
+    redação do presente diploma pelo(a) Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2015-69977687
+  date: '2015-08-10'
+- type: cites
+  target: pt:dre:448080:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:57Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +126,7 @@ Os artigos 9.º, 12.º, 25.º, 27.º, 28.º, 29.º, 33.º, 49.º e 54.º dos est
 
 Cada uma das classes académicas é constituída por 30 sócios efectivos ou de número e por 60 sócios correspondentes, distribuídos pelas secções, nos termos, respectivamente, dos artigos 28.º e 29.º, e ainda por sócios correspondentes estrangeiros, até ao limite de 60, não sendo o seu número limitado por secção.
 
-###### Artigo 12.º
+Artigo 12.º
 
 Compete ao presidente da classe:
 
@@ -126,7 +142,7 @@ e) [Actual alínea f).]
 
 f) [Actual alínea g).]
 
-###### Artigo 25.º
+Artigo 25.º
 
 As categorias dos sócios da Academia são as seguintes:
 
@@ -140,25 +156,25 @@ d) Correspondentes;
 
 e) Correspondentes estrangeiros.
 
-###### Artigo 27.º
+Artigo 27.º
 
 Os sócios das categorias referidas nas alíneas c) e d) são escolhidos de entre cidadãos de nacionalidade portuguesa, originária ou adquirida, que tenham produzido obra literária ou científica de reconhecido mérito e se encontrem em condições de prestar à Academia colaboração efectiva.
 
-###### Artigo 28.º
+Artigo 28.º
 
 Integram cada uma das secções cinco sócios efectivos, correspondendo a cada um deles uma cadeira numerada na sala das sessões da Academia.
 
-###### Artigo 29.º
+Artigo 29.º
 
 Integram cada uma das secções 10 sócios correspondentes.
 
-###### Artigo 33.º
+Artigo 33.º
 
 As eleições de sócios efectivos e correspondentes consideram-se confirmadas pela participação regular em actos académicos ou colaboração em actividades da Academia no período de dois anos a contar da data da eleição.
 
 § único. ...
 
-###### Artigo 49.º
+Artigo 49.º
 
 Compete ao plenário de efectivos:
 
@@ -178,7 +194,7 @@ g) ...
 
 h) ...
 
-###### Artigo 54.º
+Artigo 54.º
 
 Os sócios correspondentes podem assistir às reuniões do plenário de efectivos quando para elas forem convocados e nelas poderão tomar parte em todos os debates e votar sobre questões literárias e científicas, mas não sobre assuntos económicos e disciplinares nem sobre a admissão de novos sócios.»
 
@@ -200,12 +216,12 @@ São revogados os artigos 18.º, 38.º e 39.º dos estatutos da Academia das Ci�
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1996. - António Manuel de Oliveira Guterres - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 10 de Setembro de 1996.**
+Promulgado em 10 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Setembro de 1996.**
+Referendado em 11 de Setembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

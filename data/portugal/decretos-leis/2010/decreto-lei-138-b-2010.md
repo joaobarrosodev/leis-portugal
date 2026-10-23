@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5970-(4) a 5970-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25001/0000400012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138-b/2010/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-b-2010-666881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a39b3d25727e81f7872d4472a200dd0282ae091bf4e49f97c16634e9b87991eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a708f14961eea42db86af80ac0d1ce2525c33f6341348b44d95ae38c69ce000b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ponte 25 de Abril
 - Concurso Público
-- Direcção Geral do Tesouro
 - Contrato de Concessão
-- Transporte Ferroviário
 - Definição de Competências
+- Direcção Geral do Tesouro
 - Fertagus
-- Lisboa
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Ministro de Estado e das Finanças
+- Lisboa
 - Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado e das Finanças
+- Ponte 25 de Abril
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:127380609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127380609:por
+  label: Alteradas as bases I, III, VI, VII, VIII, IX, XIV e XVIII, aditadas as bases VI-A, VIII-A e XIII-A e revogados os
+    n.ºs 2, 3, 4 e 5 da base III, a base III-A, o n.º 4 da base V, a al. b) do n.º 1 e a al. b) do n.º 5 da base VII, os n.ºs
+    4, 5 e 6 da base VIII, a base IX-A e a al. b) do n.º 1 da base XII das bases revistas da concessão da exploração do serviço
+    de transporte ferroviário de passageiros do eixo norte-sul da região de Lisboa, aprovadas em anexo ao Dec Lei 78/2005
+    de 13-abr, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 174-A/2019 - Diário da República n.º 243/2019,
+    1º Suplemento, Série I de 2019-12-18 que procedeu à republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-a-2019-127380609
+  date: '2019-12-18'
+- type: amends
+  target: pt:numero:decreto-lei:78/2005
+  label: "Altera as bases iii a x e xviii, adita as bases iii-A e ix-A, determina que as referências feitas ao Instituto Nacional\
+    \ de Transporte Ferroviário (INTF) se entendam feitas ao Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT,\
+    \ I. P.) e revoga os n.os 3 e 4 da base iv, a al. a) do n.º 1 da base xi, a base xiii e o n.º 7 da base xviii, todos das\
+    \ bases revistas da concessão da exploração do serviço de transporte ferroviário de passageiros do eixo norte-sul da região\
+    \ de Lisboa, aprovadas em anexo ao Decreto-Lei n.º 78/2005, de 13 de Abril, DR IS-A [72], procedendo, em anexo, à respectiva\
+    \ republicação\0\0"
+  source: null
+  date: '2005-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/2007/04/27/p/dre
   label: null
@@ -116,16 +136,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/565-a/1997/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/565-a/1997/07/28/p/dre
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639146:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:21Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +232,9 @@ As bases iii a x e xviii das bases revistas da concessão da exploração do ser
 
 5 - A denúncia do contrato de concessão prevista nos números anteriores não é para nenhum efeito havida como resgate e não confere ao concessionário o direito a qualquer indemnização por esse facto.
 
-###### Base IV — [...]
+Base IV
+
+[...]
 
 1 - ...
 
@@ -192,7 +246,9 @@ As bases iii a x e xviii das bases revistas da concessão da exploração do ser
 
 5 - ...
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - ...
 
@@ -210,7 +266,9 @@ As bases iii a x e xviii das bases revistas da concessão da exploração do ser
 
 8 - ...
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - ...
 
@@ -220,7 +278,9 @@ As bases iii a x e xviii das bases revistas da concessão da exploração do ser
 
 4 - ...
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 6, o concessionário apenas tem direito à reposição do equilíbrio financeiro da concessão quando:
 
@@ -248,7 +308,9 @@ d) Por qualquer outra modalidade.
 
 6 - Não há lugar à reposição do equilíbrio financeiro da concessão quando o valor susceptível de gerar uma diminuição de rendimentos ou um aumento de gastos seja inferior a (euro) 50 000.
 
-###### Base VIII — [...]
+Base VIII
+
+[...]
 
 1 - As tarifas devidas pelo concessionário pela utilização da infra-estrutura são apuradas de acordo com o directório da rede em vigor em cada momento, referido no artigo 30.º do [Decreto-Lei n.º 270/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2003-466832), de 28 de Outubro, alterado pelos Decretos-Leis n.os [231/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), de 14 de Junho, e [62/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456), de 9 de Junho.
 
@@ -262,7 +324,9 @@ d) Por qualquer outra modalidade.
 
 6 - Caso o mecanismo previsto nos números anteriores se revele insuficiente para assegurar a compensação do concessionário decorrente do previsto no n.º 2, há lugar à reposição do equilíbrio financeiro nos termos da base vii.
 
-###### Base IX — Regime tarifário base
+Base IX
+
+Regime tarifário base
 
 1 - Sem prejuízo do disposto no número seguinte, o concessionário pode fixar livremente o tarifário, mediante actualizações reportadas a 1 de Janeiro de cada ano, até um ponto percentual acima da taxa de inflação prevista no Orçamento do Estado para o ano em causa, nos termos e de acordo com a fórmula que venham a ser fixados no contrato de concessão.
 
@@ -278,7 +342,9 @@ b) Existam razões de interesse público que obstem à actualização proposta.
 
 5 - Ocorrendo a situação prevista na alínea b) do número anterior, o concessionário tem direito à reposição do equilíbrio financeiro da concessão nos termos previstos da base vii e no contrato de concessão.
 
-###### Base X — [...]
+Base X
+
+[...]
 
 1 - A exploração do serviço concessionado entre as estações de Roma-Areeiro e Setúbal cabe em exclusivo ao concessionário.
 
@@ -292,7 +358,9 @@ b) Existam razões de interesse público que obstem à actualização proposta.
 
 6 - O concessionário não tem direito a qualquer compensação pelos prejuízos resultantes de eventuais alterações verificadas no sistema de transportes da área metropolitana de Lisboa, designadamente a abertura de novas infra-estruturas de travessia no rio Tejo ou o incremento ou modernização dos serviços do transporte público rodoviário ou do transporte fluvial para a travessia do rio Tejo.
 
-###### Base XVIII — [...]
+Base XVIII
+
+[...]
 
 1 - A concessão só pode ser resgatada, mediante comunicação escrita do concedente, a partir de 30 de Junho de 2015.
 
@@ -340,7 +408,9 @@ c) Em 2019 - (euro) 1 428 983,53.
 
 5 - Os pagamentos previstos nos números anteriores devem ser efectuados à Direcção-Geral do Tesouro e Finanças.
 
-###### Base IX-A — Regime tarifário facultativo
+Base IX-A
+
+Regime tarifário facultativo
 
 1 - Sem prejuízo do disposto da base anterior, o concessionário pode, mediante autorização prévia do concedente, aumentar, em cada ano civil, o tarifário até ao limite definido para os restantes operadores de transportes da área metropolitana de Lisboa, nos termos e de acordo com o procedimento a fixar no contrato de concessão.
 
@@ -370,21 +440,23 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 16 de Dezembro de 2010.**
+Promulgado em 16 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Dezembro de 2010.**
+Referendado em 20 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
 Bases da concessão do eixo ferroviário norte-sul
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 1 - A concessão tem por objecto principal a exploração, pelo concessionário, em regime regular e contínuo, do serviço de transporte ferroviário suburbano de passageiros no eixo ferroviário norte-sul, entre as estações de Roma-Areeiro, Entrecampos, Sete Rios, Campolide, Pragal, Corroios, Foros de Amora, Fogueteiro, Coina, Penalva, Pinhal Novo, Venda do Alcaide, Palmela e Setúbal.
 
@@ -392,13 +464,17 @@ Bases da concessão do eixo ferroviário norte-sul
 
 3 - O concessionário explora ainda o serviço complementar de transporte rodoviário nos termos a prever no contrato de concessão.
 
-###### Base II — Outras actividades do concessionário
+Base II
+
+Outras actividades do concessionário
 
 1 - Ao objecto principal do contrato de concessão acrescerá, a título acessório, a exploração das estações, interfaces, silos e parques de estacionamento das estações da margem sul do rio Tejo do Pragal, Corroios, Foros de Amora, Fogueteiro, Coina e Penalva, assim como das áreas comerciais incluídas nessas estações e interfaces, nos termos do respectivo contrato de concessão de exploração anexo ao contrato de concessão.
 
 2 - O concessionário é obrigado a manter um sistema de informação contabilística por actividade; são actividades distintas: a) o serviço concessionado de transporte ferroviário; b) o serviço complementar de transporte rodoviário, e c) cada uma das actividades acessórias ao serviço concessionado de transporte tal como definidas no contrato de concessão.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - O contrato de concessão vigora até 31 de Dezembro de 2019, sem prejuízo do disposto nos números seguintes.
 
@@ -410,7 +486,9 @@ Bases da concessão do eixo ferroviário norte-sul
 
 5 - A denúncia do contrato de concessão prevista nos números anteriores não é para nenhum efeito havida como resgate e não confere ao concessionário o direito a qualquer indemnização por esse facto.
 
-###### Base III-A — Contrapartida em caso de não denúncia
+Base III-A
+
+Contrapartida em caso de não denúncia
 
 1 - Caso não seja usada a faculdade de denúncia prevista na base anterior, o concedente tem direito a receber do concessionário, até 31 de Dezembro do respectivo ano, como contrapartida anual da concessão:
 
@@ -428,7 +506,9 @@ c) Em 2019 - (euro) 1 428 983,53.
 
 5 - Os pagamentos previstos nos números anteriores devem ser efectuados à Direcção-Geral do Tesouro e Finanças.
 
-###### Base IV — Prestações de serviço público
+Base IV
+
+Prestações de serviço público
 
 1 - O concessionário é obrigado a realizar a exploração do serviço público concessionado nos termos previstos no contrato de concessão, garantindo uma oferta adequada aos níveis de procura, garantindo condições de qualidade, comodidade, rapidez e segurança, com respeito pelos limites de capacidade da infra-estrutura e de acordo com todos os parâmetros a definir no contrato de concessão.
 
@@ -440,7 +520,9 @@ c) Em 2019 - (euro) 1 428 983,53.
 
 5 - Na repartição da capacidade da infra-estrutura, a Rede Ferroviária Nacional-REFER, E. P. E., deve assegurar o programa de oferta previsto no contrato de concessão renegociado nos termos da legislação aplicável.
 
-###### Base V — Obrigações respeitantes à sociedade concessionária
+Base V
+
+Obrigações respeitantes à sociedade concessionária
 
 1 - O concessionário tem como objecto social exclusivo o exercício das actividades previstas nas presentes bases e no contrato de concessão.
 
@@ -458,7 +540,9 @@ c) Em 2019 - (euro) 1 428 983,53.
 
 8 - Para os efeitos do disposto no número anterior, «participação qualificada» tem o significado estabelecido no n.º 7 do artigo 13.º do [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de Dezembro, com a redacção vigente à data da publicação das presentes bases.
 
-###### Base VI — Regime de riscos
+Base VI
+
+Regime de riscos
 
 1 - O concessionário assume integral responsabilidade pelos riscos relativos à concessão, excepto quando o contrário resulte expressamente das presentes bases ou do contrato de concessão.
 
@@ -468,7 +552,9 @@ c) Em 2019 - (euro) 1 428 983,53.
 
 4 - Na determinação das receitas de bilheteira referentes ao serviço ferroviário a que alude o número anterior não serão considerados eventuais descontos decorrentes da prestação simultânea de outros serviços compreendidos no âmbito da actuação do concessionário.
 
-###### Base VII — Reposição do equilíbrio financeiro
+Base VII
+
+Reposição do equilíbrio financeiro
 
 1 - Sem prejuízo do disposto no n.º 6, o concessionário apenas tem direito à reposição do equilíbrio financeiro da concessão quando:
 
@@ -498,7 +584,9 @@ d) Por qualquer outra modalidade.
 
 7 - (Revogado.)
 
-###### Base VIII — Tarifas pela utilização da infra-estrutura e outros pagamentos
+Base VIII
+
+Tarifas pela utilização da infra-estrutura e outros pagamentos
 
 1 - As tarifas devidas pelo concessionário pela utilização da infra-estrutura são apuradas de acordo com o directório da rede em vigor em cada momento, referido no artigo 30.º do [Decreto-Lei n.º 270/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2003-466832), de 28 de Outubro, alterado pelos Decretos-Leis n.os [231/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146), de 14 de Junho, e [62/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456), de 9 de Junho.
 
@@ -512,7 +600,9 @@ d) Por qualquer outra modalidade.
 
 6 - Caso o mecanismo previsto nos números anteriores se revele insuficiente para assegurar a compensação do concessionário decorrente do previsto no n.º 2, há lugar à reposição do equilíbrio financeiro nos termos da base vii.
 
-###### Base IX — Regime tarifário base
+Base IX
+
+Regime tarifário base
 
 1 - Sem prejuízo do disposto no número seguinte, o concessionário pode fixar livremente o tarifário, mediante actualizações reportadas a 1 de Janeiro de cada ano, até 1 ponto percentual acima da taxa de inflação prevista na proposta de Orçamento do Estado para o ano em causa, nos termos e de acordo com a fórmula que venham a ser fixados no contrato de concessão.
 
@@ -528,13 +618,17 @@ b) Existam razões de interesse público que obstem à actualização proposta.
 
 5 - Ocorrendo a situação prevista na alínea b) do número anterior, o concessionário tem direito à reposição do equilíbrio financeiro da concessão nos termos previstos da base vii e no contrato de concessão.
 
-###### Base IX-A — Regime tarifário facultativo
+Base IX-A
+
+Regime tarifário facultativo
 
 1 - Sem prejuízo do disposto da base anterior, o concessionário pode, mediante autorização prévia do concedente, aumentar, em cada ano civil, o tarifário até ao limite definido para os restantes operadores de transportes da área metropolitana de Lisboa, nos termos e de acordo com o procedimento a fixar no contrato de concessão.
 
 2 - O acréscimo de receitas referentes ao serviço ferroviário decorrente da aplicação da presente base é partilhado entre o concessionário e o concedente, nos termos a fixar no contrato de concessão.
 
-###### Base X — Exclusividade
+Base X
+
+Exclusividade
 
 1 - A exploração do serviço concessionado entre as estações de Roma-Areeiro e Setúbal cabe em exclusivo ao concessionário.
 
@@ -548,7 +642,9 @@ b) Existam razões de interesse público que obstem à actualização proposta.
 
 6 - O concessionário não tem direito a qualquer compensação pelos prejuízos resultantes de eventuais alterações verificadas no sistema de transportes da área metropolitana de Lisboa, designadamente a abertura de novas infra-estruturas de travessia no rio Tejo ou o incremento ou modernização dos serviços do transporte público rodoviário ou do transporte fluvial para a travessia do rio Tejo.
 
-###### Base XI — Estabelecimento da concessão
+Base XI
+
+Estabelecimento da concessão
 
 1 - O estabelecimento da concessão compreende a universalidade dos bens e direitos afectos à mesma, incluindo, designadamente:
 
@@ -578,7 +674,9 @@ v) Outras relações ou posições jurídicas decorrentes de actos ou contratos 
 
 5 - O concessionário obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens afectos à concessão, efectuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho das prestações colocadas a seu cargo pelas presentes bases ou pelo contrato de concessão.
 
-###### Base XII — Contratos acessórios
+Base XII
+
+Contratos acessórios
 
 1 - São considerados instrumentais e dependentes do cumprimento pelo concessionário das obrigações inerentes às presentes bases e ao contrato de concessão os seguintes contratos que serão anexos ao contrato de concessão:
 
@@ -600,11 +698,15 @@ e) Outros contratos denominados como acessórios no contrato de concessão.
 
 5 - O concessionário garantirá que as entidades contratantes dos contratos referidos no n.º 1 terão pleno conhecimento da sua natureza instrumental e dependente relativamente a este contrato.
 
-###### Base XIII — Material circulante
+Base XIII
+
+Material circulante
 
 (Revogada.)
 
-###### Base XIV — Fiscalização e monitorização
+Base XIV
+
+Fiscalização e monitorização
 
 1 - A actividade do concessionário está sujeita à fiscalização e monitorização do concedente, o qual poderá promover as auditorias que entender necessárias.
 
@@ -624,7 +726,9 @@ d) Do livre acesso de todos os passageiros que utilizem o sistema aos serviços 
 
 e) Do cumprimento de todas as normas legais, regulamentares e contratuais aplicáveis à exploração da concessão, bem como das imposições e directrizes impostas pelas autoridades competentes.
 
-###### Base XV — Penalidades por mora ou cumprimento defeituoso
+Base XV
+
+Penalidades por mora ou cumprimento defeituoso
 
 1 - O incumprimento de qualquer das obrigações decorrentes das presentes bases ou do contrato de concessão pelo concessionário está sujeito a penalidades, cujos limites mínimos e máximos serão fixados, em função da gravidade da infracção, no contrato de concessão.
 
@@ -642,7 +746,9 @@ e) Do cumprimento de todas as normas legais, regulamentares e contratuais aplic�
 
 8 - O produto das multas aplicadas ao abrigo destas bases ou do contrato de concessão reverte para o IMTT, I. P., e para o Estado, na proporção de 40 % e 60 %, respectivamente.
 
-###### Base XVI — Sequestro
+Base XVI
+
+Sequestro
 
 1 - O concedente pode intervir na concessão sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da prestação a cargo do concessionário não autorizada e não devida a força maior, ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral dos bens afectos àquela, em termos susceptíveis de comprometerem os objectivos do transporte ferroviário suburbano de passageiros concessionado.
 
@@ -652,13 +758,17 @@ e) Do cumprimento de todas as normas legais, regulamentares e contratuais aplic�
 
 4 - Se o concessionário não quiser ou não puder retomar a exploração e gestão da concessão ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização ou funcionamento da mesma ou no estado geral dos bens a ela afectos, o concedente pode declarar a imediata resolução do contrato de concessão.
 
-###### Base XVII — Resolução
+Base XVII
+
+Resolução
 
 1 - O concedente pode resolver o contrato de concessão nos termos a definir naquele contrato.
 
 2 - A resolução prevista no n.º 1 implica, nomeadamente, a reversão, para o Estado, de todos os bens e direitos afectos à concessão.
 
-###### Base XVIII — Resgate
+Base XVIII
+
+Resgate
 
 1 - A concessão só pode ser resgatada, mediante comunicação escrita do concedente, a partir de 30 de Junho de 2015.
 
@@ -688,7 +798,9 @@ d) Verificar as efectivas entradas de fundos próprios dos accionistas da FERTAG
 
 7 - (Revogado.)
 
-###### Base XIX — Lei aplicável e arbitragem
+Base XIX
+
+Lei aplicável e arbitragem
 
 1 - O contrato de concessão rege-se pela lei portuguesa.
 

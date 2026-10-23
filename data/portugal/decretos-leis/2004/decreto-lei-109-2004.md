@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/111a00/29832992.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2004/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2004-264287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e053ae3d8d11cd226347e89354a406053db6963508a26c9308d665bb9a8657f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38cd8f35de90f381016ef8610dea4c2f88a0748a1b9f5dd58425d385c87f6278
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Direcção Geral de Viação
+- Documentos do Veículo
 - Gasóleo
 - Gasolina
 - Inspecção de Veículos
-- Documentos do Veículo
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:179784:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608684:por
+  label: "Alterado o n.º 10 do anexo ii (republicado pelo presente diploma), do Dec Lei 554/99, de 16-Dez, pelo DEC LEI.112/2009.18.05.2009.MOPTC,\
+    \ DR.IS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2009-608684
+  date: '2009-05-18'
 - type: cites
   target: celex:31970L0220
   label: null
@@ -109,16 +115,22 @@ relationships:
   target: celex:32003L0027
   label: null
   source: http://data.europa.eu/eli/dir/2003/27/oj
+- type: repealed_by
+  target: pt:dre:179784:por
+  label: "Revogado, a partir de 10.08.2012, o Dec Lei 554/99, de 16-dez, na redação do presente diploma, pelo DEC LEI.144/2012.11.07.2012.MEE,\
+    \ DR.IS [133] de 11.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2012-179784
+  date: '2012-07-11'
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:03Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +173,9 @@ Os artigos 7.º, 8.º, 9.º, 11.º, 12.º e 14.º do Decreto-Lei n.º 554/99, de
 
 2 - Os veículos referidos no número anterior podem ainda circular temporariamente desde que o seu condutor seja portador de documento de substituição dos documentos apreendidos, emitido pela autoridade fiscalizadora competente, nos termos do artigo 167.º do Código da Estrada.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Para comprovar a realização das inspecções periódicas é emitida pela entidade titular do centro de inspecção, por cada veículo inspeccionado, uma ficha de inspecção que contém uma vinheta destacável, que deve ser colocada em local visível do exterior do veículo.
 
@@ -175,7 +189,9 @@ Os artigos 7.º, 8.º, 9.º, 11.º, 12.º e 14.º do Decreto-Lei n.º 554/99, de
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -185,7 +201,9 @@ Os artigos 7.º, 8.º, 9.º, 11.º, 12.º e 14.º do Decreto-Lei n.º 554/99, de
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No acto da inspecção periódica deve o apresentante do veículo exibir os documentos previstos no n.º 2 do artigo 85.º do Código da Estrada, sem os quais a inspecção não pode ser efectuada.
 
@@ -195,7 +213,9 @@ Os artigos 7.º, 8.º, 9.º, 11.º, 12.º e 14.º do Decreto-Lei n.º 554/99, de
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +229,9 @@ Os artigos 7.º, 8.º, 9.º, 11.º, 12.º e 14.º do Decreto-Lei n.º 554/99, de
 
 6 - Sem prejuízo das coimas aplicáveis, o não cumprimento do disposto no n.º 3 implica a apreensão do documento de identificação do veículo, nos termos da alínea f) do n.º 1 do artigo 167.º do Código da Estrada.
 
-###### Artigo 14.º — Contra-ordenações
+Artigo 14.º
+
+Contra-ordenações
 
 1 - As infracções ao disposto nos n.os 1 e 5 do artigo 3.º e nos n.os 2 e 3 do artigo 12.º constituem contra-ordenações puníveis com coima de (euro) 250 a (euro) 1250.
 
@@ -343,15 +365,15 @@ O anexo II do Decreto-Lei n.º 554/99, de 16 de Dezembro, alterado pelo Decreto-
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 26 de Abril de 2004.**
+Promulgado em 26 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Abril de 2004.**
+Referendado em 27 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (anexo II do Decreto-Lei n.º 554/99, de 16 de Dezembro)
 

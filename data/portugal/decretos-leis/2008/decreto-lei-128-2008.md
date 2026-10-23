@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2008/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2008-456778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24b7d73c8f4565ecec0fb917eeb99ea8c486751c0b5e23523ebcb433373f297f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8093b59579c8c26c9ba6e977b4317d75f6f5943808ead6c51b8f3b4d0d7513f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,7 +69,6 @@ reuse:
 subjects:
 - Almeida
 - Assembleia Geral
-- Gestão de Resíduos
 - Belmonte
 - Capital Social
 - Celorico da Beira
@@ -82,19 +81,28 @@ subjects:
 - Fiscalização
 - Fornos de Algodres
 - Fundão
+- Gestão de Resíduos
+- Guarda
 - Manteigas
 - Órgãos Estatutários
-- Tratamento de Resíduos
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos da COVA da Beira
 - Transferência de Capitais
 - Transferência de Pessoal
 - Transferência Patrimonial
-- Guarda
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:25345600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345600:por
+  label: Aditados, a partir de 03.07.2014, os arts 8.º e 9.º e revogados os arts 3.º, 4.º e 7.º do presente diploma, bem como
+    alterados os arts 3.º, 5.º, 7.º, 8.º, 13.º e 18.º, aditado o art 24.º-A e revogados os n.ºs 3 e 4 do art 5.º, o art 6.º,
+    o n.º 2 do art 7.º e os n.ºs 1, 2 e 5 do art 8.º dos estatutos anexos, na redação e republicação atual como anexo II,
+    pelo(a) Decreto-Lei n.º 98/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2014-25345600
+  date: '2014-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2000/07/04/p/dre
   label: null
@@ -111,16 +119,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:300836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:16Z'
   warnings: []
   errors: []
 ---
@@ -191,15 +219,15 @@ Considera-se convocada a assembleia geral da sociedade, sem necessidade de cumpr
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 7 de Julho de 2008.**
+Promulgado em 7 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Julho de 2008.**
+Referendado em 9 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Estatutos de RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S. A.
 

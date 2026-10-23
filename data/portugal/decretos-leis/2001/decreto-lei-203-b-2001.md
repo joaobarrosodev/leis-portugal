@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 170/2001, 1º Suplemento, Série I-A de 2001-07-24
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4524-(2) a 4524-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/170a01/00020004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/203-b/2001/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-b-2001-517202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05fb458436bd6885d8356c6dfdcd63ab15255800b13d22fbf853f605367405b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f08c878f271f61f67f0833a2fab0ba992ecf525b7fa7845db250b6712b9ef4d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
-- Programa Polis
-- Ordenamento do Território
-- Covilhã
-- Renovação Urbana
-- Proteção do Ambiente
-- Política de Solos
-- VILA do Conde
-- Urbanismo
 - Coimbra
+- Covilhã
+- Ordenamento do Território
+- Política de Solos
+- Programa Polis
+- Proteção do Ambiente
+- Renovação Urbana
+- Urbanismo
+- VILA do Conde
 - VILA NOVA de GAIA
 - Viseu
 relationships:
@@ -84,6 +84,67 @@ relationships:
   target: pt:dre:602008:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611561:por
+  label: "Substituidas as plantas relativas á zona de intervenção de Almada-Costa da Caparica, publicadas no anexo ao Dec\
+    \ Lei 119/2000 de 04-Jul, alterado pelo presente diploma, pelo DEC LEI.251/2001.2001.09.21.MAOT,DR.IS-A [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2001-611561
+  date: '2001-09-21'
+- type: amended_by
+  target: pt:dre:576282:por
+  label: "Acrescentada a planta relativa à zona de intervenção de Setúbal ao anexo do Dec Lei 119/2000 de 04-Jul, com a redacção\
+    \ do presente diploma pelo DEC LEI.318/2001.2001.12.10.MAOT DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-2001-576282
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:303202:por
+  label: "Substituidas as plantas relativas às zonas de intervenção de Aveiro e da Guarda e acrescentadas as plantas relativas\
+    \ à zonas de intervenção de Chaves, Portalegre, Silves e Tomar do Anexo do Dec Lei 119/2000 de 04-Jul, na redacção dada\
+    \ pelo presente diploma e pelos Dec Lei 119/2000 de 04-Jul, 251/2001 de 21-Set e 318/2001 de 10-Dez, pelo DEC LEI.103/2002.2002.04.12.MAOT,\
+    \ DR.IS-A [86]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2002-303202
+  date: '2002-04-12'
+- type: amended_by
+  target: pt:dre:432451:por
+  label: "Prorrogada com excepção da planta relativa à zona de intervenção na cidade do Porto, pelo prazo de um ano, a vigência\
+    \ das medidas preventivas previstas no Dec Lei 119/2000, de 04-Jul, na redacção do Dec Lei 319/2000, de 14-Dez e do presente\
+    \ diploma, pelo DEC LEI.212/2002.2002.10.17.MCOTA DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2002-432451
+  date: '2002-10-17'
+- type: amended_by
+  target: pt:dre:405296:por
+  label: "Prorrogada pelo prazo de um ano, relativamente ás zonas de intervenção de Vila Real, Bragança, Covilhã, Guarda,\
+    \ Aveiro, Beja e Albufeira, a vigência das medidas preventivas previstas no Dec Lei 119/2000 de 04-Jul, alterado pelo\
+    \ presente diploma, nas áreas abrangidas pelas plantas publicadas em anexo, pelo DEC LEI.314/2002.2002.12.23.MCOTA, DR.IS-A\
+    \ [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-2002-405296
+  date: '2002-12-23'
+- type: amended_by
+  target: pt:dre:245331:por
+  label: "Substituídas as plantas relativas às zonas reservadas à intervenção da cidade de Coimbra constantes do anexo do\
+    \ Dec Lei 119/2000 de 04-Jul DR.IS-A [152], com a redacção que lhe foi conferida pelo presente diploma, pelo DEC LEI.149/2005.30.08.2005.MAOTDR,\
+    \ DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2005-245331
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:545388:por
+  label: "Substituída a planta relativa à zona de intervenção de Viseu constante do Anexo ao Dec Lei 119/2000, de 04-Jul,\
+    \ na redacção do presente diploma, pelo DEC LEI.232/2006.29.11.2006.MAOTDR, DR.IS [230] de 29.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-2006-545388
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:628829:por
+  label: "Substituída a planta relativa à zona de intervenção de Vila Nova de Gaia constante do Anexo ao Dec Lei 119/2000,\
+    \ de 04-Jul, na redacção presente diploma, pelo DEC LEI.388/2007.30.11.2007.MAOTDR, DR.IS [231] de 30.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/388-2007-628829
+  date: '2007-11-30'
+- type: amended_by
+  target: pt:dre:602008:por
+  label: "Prorrogada pelo prazo de um ano, a vigência das medidas preventivas aplicáveis à área abrangida pela planta relativa\
+    \ à zona de intervenção de Viseu, previstas no Dec Lei 119/2000, de 04-Jul, na redacção do presente diploma, pela RES.21/2009.24.02.2009.PCM,\
+    \ DR.IS [38] de 24.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/21-2009-602008
+  date: '2009-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2000/07/04/p/dre
   label: null
@@ -96,16 +157,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583238:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:04Z'
   warnings: []
   errors: []
 ---
@@ -134,14 +211,14 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Julho de 2001.**
+Promulgado em 19 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 2001.**
+Referendado em 23 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2001/07/170a01/00020004.pdf)

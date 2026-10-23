@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/063a00/23972409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2002/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2002-264572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 083e7e679e5bfc3bdf272cbfe7add8cb5a481184aa3a44cb7e3d76c52ad7a85e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eddc93036f2e87347b2a5d0b7f45ca140e003bcf478fae3f4b152abac023908
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,55 @@ subjects:
 - Centro Nacional de Informação Geográfica
 - Conselho Coordenador de Cartografia
 - Estatuto
+- Instituto Geográfico Português
 - Instituto Português de Cartografia e Cadastro
 - Integração de Trabalhadores
-- Instituto Geográfico Português
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:124324702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:166402:por
+  label: "Transferidas para a Região Autónoma da Madeira as atribuições do Instituto Geográfico Português, no respectivo âmbito\
+    \ regional e extinta a delegação do mesmo naquela Região Autónoma, pelo DEC LEI.13/2003.2003.01.28.MCOTA DR.IS-A [23]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2003-166402
+  date: '2003-01-28'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Instituto Geográfico Português (integrado no agora extinto Ministério das Cidades, Ordenamento do Território e Ambiente),\
+    \ pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas do Instituto, cujos estatutos foram\
+    \ aprovados no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro do Ambiente, do\
+    \ Ordenamento do Território e do Desenvolvimento Regional em articulação com o Ministro de Estado e da Administração Interna,\
+    \ pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:638574:por
+  label: "Alterados os arts. 6º e 7º do Dec Lei 193/95 de 28-Jul, com a redacção conferida no presente diploma, pelo DEC LEI.202/2007.25.05.2007.MAOTDR,\
+    \ DR.IS [101] de 25.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2007-638574
+  date: '2007-05-25'
+- type: amended_by
+  target: pt:dre:629421:por
+  label: "Extinta, nos termos do art. 4º, a delegação do IGP na Região Autónoma dos Açores, prevista no presente diploma,\
+    \ pelo DEC LEI.362/2007.02.11.2007.MAOTDR, DR.IS [211] de 02.11.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-2007-629421
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:56941586:por
+  label: Alterados, a partir de 18.11.2014, os arts. 6.º e 7.º do Dec Lei 193/95 de 28-jul, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 141/2014 - Diário da República n.º 181/2014, Série I de 2014-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2014-56941586
+  date: '2014-09-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1999/04/20/p/dre
   label: null
@@ -109,16 +149,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
+- type: cites
+  target: pt:dre:275836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632929:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520981:por
+  label: "Revogado pelo Decreto-Lei 133/2007, de 27 de Abril, DR.IS [82] e determinada a sucessão do IGP nas atribuições do\
+    \ Instituto Geográfico Português\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2007-520981
+  date: '2007-04-27'
 article_structure:
-  article_count: 61
+  article_count: 60
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:04Z'
   warnings: []
   errors: []
 ---
@@ -267,7 +353,9 @@ n) Um representante da Associação Nacional de Municípios Portugueses.
 
 3 - ...
 
-###### Artigo 7.º — Funcionamento
+Artigo 7.º
+
+Funcionamento
 
 1 - O Conselho Coordenador de Cartografia funciona no IGP, que lhe assegura o apoio logístico e administrativo e suporta os encargos financeiros decorrentes do seu funcionamento.
 
@@ -291,15 +379,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Manuel Pedro Cunha da Silva Pereira - José Mariano Rebelo Pires Gago - Alexandre António Cantigas Rosa.
 
-**Promulgado em 7 de Março de 2002.**
+Promulgado em 7 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Março de 2002.**
+Referendado em 8 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO GEOGRÁFICO PORTUGUÊS
 

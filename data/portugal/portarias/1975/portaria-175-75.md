@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-1975-161087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3413551847b6397cc9a2dfa380e92263b344884dbca361c7967c1cdb5b4ecb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfc5929fc56fb9850aa7307e3d72c2d5a9485c899538450df928352d1603a343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:40:16Z'
   warnings: []
   errors: []
 ---
@@ -133,14 +137,14 @@ Ministério do Equipamento Social e do Ambiente, 25 de Fevereiro de 1975. - O Se
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf))](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf))](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf)
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf))](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/06100/03850387.pdf)
 
-**O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

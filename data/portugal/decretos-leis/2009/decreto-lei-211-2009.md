@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17100/0587605886.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2009/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2009-489487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f4ba284a2ea1c9f22874b0bd0ffeee9a27419c2dc7912fbf5c0b48b18c8f9e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4a139f375ab271674e0d837db407cabe926cc442adc0b4c5b9e178e75c6dc23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
 - Aproximação das Legislações
-- Vida Selvagem
+- ASAE
+- Comércio
 - Comissão Científica
 - Controlo Aduaneiro
+- Controlo Sanitário
 - Convenção
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Controlo Sanitário
-- Fiscalização
-- Serviço de Protecção da Natureza e do Ambiente
-- Grupo de Trabalho
-- Polícia Florestal
-- Importação
-- ASAE
-- Licenciamento
-- GNR
-- Proteção do Ambiente
 - Espécie Protegida
 - Exportação
-- Madeira.região Autónoma
+- Fiscalização
+- GNR
+- Grupo de Trabalho
+- Importação
 - Instituto da Conservação da Natureza e da Biodiversidade
+- Licenciamento
+- Madeira.região Autónoma
+- Polícia Florestal
+- Proteção do Ambiente
 - Regulamento CE
 - Sanção
-- Açores
+- Serviço de Protecção da Natureza e do Ambiente
 - Taxa
-- Comércio
 - Transporte
+- Vida Selvagem
 - Vistoria
 relationships:
 - type: amended_by
@@ -130,16 +130,22 @@ relationships:
   target: celex:32009R0407
   label: null
   source: http://data.europa.eu/eli/reg/2009/407/oj
+- type: repealed_by
+  target: pt:dre:108185253:por
+  label: Revogado, a partir de 21.09.2017, pelo(a) Decreto-Lei n.º 121/2017 - Diário da República n.º 182/2017, Série I de
+    2017-09-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2017-108185253
+  date: '2017-09-20'
 article_structure:
   article_count: 37
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:34Z'
   warnings: []
   errors: []
 ---
@@ -772,12 +778,12 @@ O presente decreto-lei entra em vigor 15 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa -Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 20 de Agosto de 2009.**
+Promulgado em 20 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Agosto de 2009.**
+Referendado em 20 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

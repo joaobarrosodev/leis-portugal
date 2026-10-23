@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2001/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2001-319732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61f538f8a6658973fbf0962fa7c138197d9cc989bf93cbb1d17f5454e1d053cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d385c8980c957d2338b0ec2a50ab648d164344276c8f931ea74434715e77dfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços Prisionais
-- Prédio Militar
 - Estabelecimento Prisional
-- Integração de Trabalhadores
 - Forças Armadas
+- Integração de Trabalhadores
 - Militar
+- Prédio Militar
 - Santarém
 relationships:
 - type: amended_by
   target: pt:dre:519409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519409:por
+  label: "Alterados os artigos 6.º, 7.º e 8.º, bem como o mapa I anexo ao Decreto-Lei 416/98, de 31 de Dezembro, na redacção\
+    \ do presente diploma, pelo DEC LEI.115/2007.19.04.2007.MJ, DR.IS [77] de 19.04.2007 e republicado\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2007-519409
+  date: '2007-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/416/1998/12/31/p/dre
   label: null
@@ -86,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/61/1996/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/61/1996/04/26/p/dre
+- type: cites
+  target: pt:dre:285561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571389:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:48Z'
   warnings: []
   errors: []
 ---
@@ -122,13 +136,13 @@ São aditados ao [Decreto-Lei n.º 416/98](https://diariodarepublica.pt/dr/detal
 
 O pessoal militar a exercer funções no antigo prédio militar n.º 2 de Santarém à data de 1 de Julho de 2000 pode transitar para a Direcção-Geral dos Serviços Prisionais.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Sem prejuízo dos requisitos habilitacionais, a transição é feita para a carreira que integra as funções desempenhadas, na categoria menos elevada da carreira que integra escalão a que corresponde índice com remuneração base igual, ou, na falta de coincidência, índice com remuneração base superior mais aproximado, e, no caso de transição para o corpo da guarda prisional, de acordo com a tabela de correspondências definidas no mapa II anexo ao presente diploma.
 
 2 - A transição referida no número anterior depende de requerimento dos interessados, nos termos a determinar por despacho do director-geral dos Serviços Prisionais.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - O ingresso deste pessoal nos quadros da Direcção-Geral dos Serviços Prisionais depende da frequência de estágio, com aproveitamento.
 
@@ -136,7 +150,7 @@ O pessoal militar a exercer funções no antigo prédio militar n.º 2 de Santar
 
 3 - O regime do estágio referido no número anterior será aprovado por despacho do Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os candidatos aprovados no estágio são nomeados para o quadro de serviços externos da Direcção-Geral dos Serviços Prisionais.
 
@@ -150,15 +164,15 @@ O presente diploma produz efeitos em 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 31 de Janeiro de 2001.**
+Promulgado em 31 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2001.**
+Referendado em 7 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 

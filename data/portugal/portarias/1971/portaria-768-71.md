@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 304/1971, 1º Suplemento, Série I de 1971-12-31
   number: '304'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2074-(18) a 2074-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/768-1971-368236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d45930d31234e63c9eaf2a458a2f0006ce2e394823fcc4bd02acd8eb510e9e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c6507f6cb85751cb933d5756043a009de98e38aa8c58d7fceabb16e92f1705
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:350081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644537:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:52Z'
   warnings: []
   errors: []
 ---
@@ -121,17 +141,17 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Trabalho
 
 7.º O Estatuto dos Empregados dos Organismos Corporativos da Lavoura começará a vigorar no território do continente e ilhas adjacentes no dia 1 de Janeiro de 1972.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
 
 Estatuto dos Empregados dos Organismos Corporativos da Lavoura
 
-###### Artigo 1.º - 1. Os contratos de trabalho celebrados entre a Corporação da Lavoura, grémios da lavoura e suas federações e os empregados ao seu serviço que desempenhem as funções referidas no artigo 3.º regem-se pelas normas constantes do presente Estatuto.
+Artigo 1.º - 1. Os contratos de trabalho celebrados entre a Corporação da Lavoura, grémios da lavoura e suas federações e os empregados ao seu serviço que desempenhem as funções referidas no artigo 3.º regem-se pelas normas constantes do presente Estatuto.
 
 2. É aplicável aos contratos referidos no número anterior o [Decreto-Lei n.º 49408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49408-1969-176289), de 24 de Novembro de 1969, em tudo o que não esteja expressamente previsto no presente Estatuto.
 
-###### Art. 2.º As cláusulas dos contratos de trabalho que não respeitem as condições mínimas fixadas no presente Estatuto consideram-se nulas e automàticamente substituídas por estas.
+Art. 2.º As cláusulas dos contratos de trabalho que não respeitem as condições mínimas fixadas no presente Estatuto consideram-se nulas e automàticamente substituídas por estas.
 
-###### Art. 3.º Os empregados ao serviço dos organismos corporativos referidos no artigo 1.º que desempenhem as funções abaixo discriminadas são classificados nas seguintes categorias profissionais:
+Art. 3.º Os empregados ao serviço dos organismos corporativos referidos no artigo 1.º que desempenhem as funções abaixo discriminadas são classificados nas seguintes categorias profissionais:
 
 Grupo I
 
@@ -193,27 +213,27 @@ e) Servente - o empregado adstrito ao serviço de limpeza das instalações e qu
 
 f) Paquete - o empregado menor de 18 anos que presta os serviços enumerados para o contínuo, com predomínio do serviço externo.
 
-###### Art. 4.º - 1. A criação de categorias profissionais diferentes das previstas no artigo anterior fica dependente de aprovação do Instituto Nacional do Trabalho e Previdência (I. N. T. P.), ouvida a Corporação da Lavoura.
+Art. 4.º - 1. A criação de categorias profissionais diferentes das previstas no artigo anterior fica dependente de aprovação do Instituto Nacional do Trabalho e Previdência (I. N. T. P.), ouvida a Corporação da Lavoura.
 
 2. Ficam ressalvadas as categorias profissionais existentes à data da publicação do presente Estatuto e não enquadráveis nas previstas no artigo 3.º, as quais se extinguirão, porém, com a cessação dos correspondentes contratos de trabalho.
 
 3. Os empregados contratados nos termos dos números anteriores ficam sujeitos ao presente Estatuto no que lhes for aplicável.
 
-###### Art. 5.º - 1. Na classificação dos escriturários, cobradores, fiéis e contínuos serão respeitados os quadros de densidade constantes do anexo I.
+Art. 5.º - 1. Na classificação dos escriturários, cobradores, fiéis e contínuos serão respeitados os quadros de densidade constantes do anexo I.
 
 2. O número de aspirantes, dactilógrafos e praticantes não pode ser superior, no seu conjunto, a 50 por cento dos escriturários.
 
-###### Art. 6.º - 1. Os organismos são obrigados a remeter ao I. N. T. P., para aprovação, os quadros do pessoal, os quais se consideram aprovados se, no prazo de sessenta dias, a contar da sua entrada nos serviços competentes, não forem objecto de despacho.
+Art. 6.º - 1. Os organismos são obrigados a remeter ao I. N. T. P., para aprovação, os quadros do pessoal, os quais se consideram aprovados se, no prazo de sessenta dias, a contar da sua entrada nos serviços competentes, não forem objecto de despacho.
 
 2. Os pedidos de alteração dos quadros do pessoal serão sempre acompanhados de notas explicativas que os justifiquem.
 
-###### Art. 7.º - 1. Juntamente com as contas de exercício serão remetidas ao I. N. T. P. relações dos empregados ao serviço dos organismos em 31 de Dezembro de cada ano.
+Art. 7.º - 1. Juntamente com as contas de exercício serão remetidas ao I. N. T. P. relações dos empregados ao serviço dos organismos em 31 de Dezembro de cada ano.
 
 2. Relações idênticas serão remetidas simultâneamente aos sindicatos representativos daqueles empregados.
 
 3. As relações devem conter as seguintes indicações: nome completo do empregado, datas de nascimento, admissão e última promoção, habilitações literárias, categoria e remuneração auferida.
 
-###### Art. 8.º - 1. Não é permitido o exercício simultâneo das funções de dirigente e de empregado do mesmo organismo, ressalvado o disposto no § 2.º do artigo 4.º do [Decreto-Lei n.º 29243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29243-1938-350081), de 8 de Dezembro de 1938, e no § 1.º do artigo 18.º do [Decreto n.º 29494](https://diariodarepublica.pt/dr/detalhe/decreto/29494-1939-424684), de 22 de Março de 1939.
+Art. 8.º - 1. Não é permitido o exercício simultâneo das funções de dirigente e de empregado do mesmo organismo, ressalvado o disposto no § 2.º do artigo 4.º do [Decreto-Lei n.º 29243](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29243-1938-350081), de 8 de Dezembro de 1938, e no § 1.º do artigo 18.º do [Decreto n.º 29494](https://diariodarepublica.pt/dr/detalhe/decreto/29494-1939-424684), de 22 de Março de 1939.
 
 2. Os empregados não poderão exercer funções em mais do que um organismo corporativo, salvo autorização expressa do I. N. T. P.
 
@@ -221,9 +241,9 @@ f) Paquete - o empregado menor de 18 anos que presta os serviços enumerados par
 
 4. O disposto no número anterior não é, porém, aplicável ao exercício de cargos directivos nas secções de actividade que, nos sindicatos nacionais, enquadram os empregados dos organismos corporativos.
 
-###### Art. 9.º - 1. A idade mínima de admissão ao serviço é de 14 anos para a categoria de paquete, 17 anos para a de praticante e de 18 anos para as restantes categorias referidas no artigo 3.º
+Art. 9.º - 1. A idade mínima de admissão ao serviço é de 14 anos para a categoria de paquete, 17 anos para a de praticante e de 18 anos para as restantes categorias referidas no artigo 3.º
 
-###### Art. 10.º - 1. A partir da entrada em vigor do presente Estatuto, só poderão ser admitidos ou promovidos indivíduos que possuam as seguintes habilitações mínimas:
+Art. 10.º - 1. A partir da entrada em vigor do presente Estatuto, só poderão ser admitidos ou promovidos indivíduos que possuam as seguintes habilitações mínimas:
 
 Grupo I - 3.º ciclo do ensino liceal ou equiparação e, para o gerente e adjunto do gerente, as habilitações fixadas no [Decreto n.º 32467](https://diariodarepublica.pt/dr/detalhe/decreto/32467-1942-341657), de 4 de Dezembro de 1942;
 
@@ -241,17 +261,17 @@ Grupo III - Escolaridade obrigatória segundo a idade.
 
 6. Em casos excepcionais, poderá o Ministro das Corporações e Previdência Social autorizar o provimento nas categorias de secretário-geral e adjunto do secretário-geral de indivíduos ao serviço dos organismos à data da entrada em vigor do presente Estatuto não habilitados com curso superior, mas de comprovada competência e longa experiência.
 
-###### Art. 11.º - 1. A chefia dos serviços incumbe ao empregado de categoria profissional mais elevada, sem que tal implique a sua promoção.
+Art. 11.º - 1. A chefia dos serviços incumbe ao empregado de categoria profissional mais elevada, sem que tal implique a sua promoção.
 
 2. Nos organismos onde existam mais de seis empregados do grupo II, o chefe dos serviços terá uma categoria não inferior à de chefe de secção.
 
 3. O lugar de chefia de qualquer serviço só pode ser temporàriamente desempenhado por empregado de categoria imediatamente inferior durante os períodos de impossibilidade de prestação de serviço do respectivo chefe.
 
-###### Art. 12.º - 1. Nos contratos de trabalho sem prazo haverá sempre um período experimental de sessenta dias.
+Art. 12.º - 1. Nos contratos de trabalho sem prazo haverá sempre um período experimental de sessenta dias.
 
 2. Findo o período experimental, os contratos de trabalho revestirão a forma escrita, sendo obrigatòriamente remetidos ao I. N. T. P. nos dez dias subsequentes.
 
-###### Art. 13.º As promoções dos empregados são da competência da direcção e devem ser feitas, quanto possível, de entre os empregados das categorias imediatamente inferiores, tendo em consideração:
+Art. 13.º As promoções dos empregados são da competência da direcção e devem ser feitas, quanto possível, de entre os empregados das categorias imediatamente inferiores, tendo em consideração:
 
 1.º A competência, zelo e assiduidade ao serviço;
 
@@ -259,11 +279,11 @@ Grupo III - Escolaridade obrigatória segundo a idade.
 
 3.º A antiguidade.
 
-###### Art. 14.º Os paquetes serão promovidos a contínuos de 2.ª classe logo que atinjam 18 anos de idade.
+Art. 14.º Os paquetes serão promovidos a contínuos de 2.ª classe logo que atinjam 18 anos de idade.
 
-###### Art. 15.º Os praticantes serão promovidos a aspirantes ou dactilógrafos logo que completem um ano de estágio.
+Art. 15.º Os praticantes serão promovidos a aspirantes ou dactilógrafos logo que completem um ano de estágio.
 
-###### Art. 16.º - 1. Os aspirantes e dactilógrafos serão promovidos a terceiros-escriturários logo que completem três anos de serviço na categoria ou atinjam 24 anos de idade.
+Art. 16.º - 1. Os aspirantes e dactilógrafos serão promovidos a terceiros-escriturários logo que completem três anos de serviço na categoria ou atinjam 24 anos de idade.
 
 2. A promoção dos dactilógrafos a terceiros-escriturários é efectuada sem prejuízo de continuarem adstritos ao seu serviço próprio.
 
@@ -271,15 +291,15 @@ Grupo III - Escolaridade obrigatória segundo a idade.
 
 4. Os supranumerários não determinam abertura de vaga no quadro.
 
-###### Art. 17.º Deliberada a promoção de qualquer empregado, será celebrado adicional ao contrato de trabalho.
+Art. 17.º Deliberada a promoção de qualquer empregado, será celebrado adicional ao contrato de trabalho.
 
-###### Art. 18.º Ficam obrigados a prestar caução ou fiança idóneas os chefes de secção de contabilidade, os guarda-livros e os que tenham à sua guarda dinheiro, mercadorias ou valores, bem como os empregados responsáveis pela chefia dos serviços.
+Art. 18.º Ficam obrigados a prestar caução ou fiança idóneas os chefes de secção de contabilidade, os guarda-livros e os que tenham à sua guarda dinheiro, mercadorias ou valores, bem como os empregados responsáveis pela chefia dos serviços.
 
-###### Art. 19.º O período normal de trabalho é de trinta e seis horas semanais para os empregados das categorias referidas nos grupos I e II, bem como para os cobradores, e de quarenta e uma horas e trinta minutos para os empregados das restantes categorias referidas no grupo III.
+Art. 19.º O período normal de trabalho é de trinta e seis horas semanais para os empregados das categorias referidas nos grupos I e II, bem como para os cobradores, e de quarenta e uma horas e trinta minutos para os empregados das restantes categorias referidas no grupo III.
 
-###### Art. 20.º O secretário-geral fica desde já isento do horário de trabalho, compreendendo-se na sua remuneração a retribuição especial devida por aquela isenção.
+Art. 20.º O secretário-geral fica desde já isento do horário de trabalho, compreendendo-se na sua remuneração a retribuição especial devida por aquela isenção.
 
-###### Art. 21.º - 1. Os empregados têm direito, anualmente, a um período de férias remuneradas, que não será inferior a:
+Art. 21.º - 1. Os empregados têm direito, anualmente, a um período de férias remuneradas, que não será inferior a:
 
 a) Quinze dias, para os empregados com menos de três anos de serviço;
 
@@ -289,11 +309,11 @@ c) Vinte e oito dias, para os empregados com dez ou mais anos de serviço;
 
 2. O período de férias remuneradas não pode exceder trinta dias em cada ano.
 
-###### Art. 22.º - 1. Os empregados com bom e efectivo serviço têm direito, anualmente, a um subsídio de férias, cujo montante mínimo e máximo será igual, respectivamente, à remuneração correspondente aos períodos de férias fixados nos n.os 1 e 2 do artigo anterior.
+Art. 22.º - 1. Os empregados com bom e efectivo serviço têm direito, anualmente, a um subsídio de férias, cujo montante mínimo e máximo será igual, respectivamente, à remuneração correspondente aos períodos de férias fixados nos n.os 1 e 2 do artigo anterior.
 
 2. Para o efeito do disposto no número anterior e no n.º 1 do artigo 21.º, a antiguidade refere-se ao termo do ano civil a que as férias digam respeito, contando-se como completo o ano da admissão.
 
-###### Art. 23.º - 1. Na altura do seu casamento podem os empregados faltar até seis dias consecutivos, participando o facto à direcção do organismo com a antecedência de quinze dias.
+Art. 23.º - 1. Na altura do seu casamento podem os empregados faltar até seis dias consecutivos, participando o facto à direcção do organismo com a antecedência de quinze dias.
 
 2. Os empregados podem faltar até quatro dias seguidos por motivo de falecimento do cônjuge ou de parente ou afim no 1.º grau da linha recta e até dois dias em caso de falecimento de parente ou afim em qualquer outro grau da linha recta ou nos 2.º e 3.º graus da linha colateral.
 
@@ -303,21 +323,21 @@ c) Vinte e oito dias, para os empregados com dez ou mais anos de serviço;
 
 5. As faltas dadas ao abrigo do disposto nos n.os 1, 2 e 3 não determinam perda de remuneração nem importam qualquer redução no período de férias.
 
-###### Art. 24.º - 1. As faltas dadas na altura do parto ou por motivo de doença são justificadas por documento passado pela caixa de previdência ou pelo médico privativo do organismo corporativo ou ainda por atestado médico com a assinatura deste reconhecida por notário.
+Art. 24.º - 1. As faltas dadas na altura do parto ou por motivo de doença são justificadas por documento passado pela caixa de previdência ou pelo médico privativo do organismo corporativo ou ainda por atestado médico com a assinatura deste reconhecida por notário.
 
 2. O documento ou atestado referidos no número anterior devem ser apresentados ao organismo nos primeiros dias do período de faltas e no termo deste.
 
-###### Art. 25.º - 1. Aos organismos fica reservada a faculdade de concederem aos seus empregados, após o período experimental, complementos dos subsídios de doença que cubram a diferença entre o montante do subsídio recebido da caixa de previdência e a remuneração que lhes caberia se ao serviço estivessem.
+Art. 25.º - 1. Aos organismos fica reservada a faculdade de concederem aos seus empregados, após o período experimental, complementos dos subsídios de doença que cubram a diferença entre o montante do subsídio recebido da caixa de previdência e a remuneração que lhes caberia se ao serviço estivessem.
 
 2. Se o empregado não tiver direito ao subsídio de doença concedido pela caixa de previdência, por não terem decorrido ainda os respectivos períodos de garantia ou de espera, a comparticipação do organismo pode abranger a totalidade da remuneração.
 
-###### Art. 26.º Nos primeiros sessenta dias de faltas por altura do parto a empregada tem direito à concessão de um subsídio calculado nos termos do artigo anterior.
+Art. 26.º Nos primeiros sessenta dias de faltas por altura do parto a empregada tem direito à concessão de um subsídio calculado nos termos do artigo anterior.
 
-###### Art. 27.º - 1. O empregado impossibilitado de comparecer ao serviço por motivo de acidente de trabalho ou de doença profissional mantém o direito à remuneração por inteiro.
+Art. 27.º - 1. O empregado impossibilitado de comparecer ao serviço por motivo de acidente de trabalho ou de doença profissional mantém o direito à remuneração por inteiro.
 
 2. O respectivo pagamento cabe parcial ou totalmente ao organismo, conforme esteja ou não transferida a responsabilidade.
 
-###### Art. 28.º - 1. Os limites mínimos das remunerações garantidas aos empregados dos organismos corporativos abrangidos pela presente regulamentação são os constantes da tabela anexa (anexo II).
+Art. 28.º - 1. Os limites mínimos das remunerações garantidas aos empregados dos organismos corporativos abrangidos pela presente regulamentação são os constantes da tabela anexa (anexo II).
 
 2. Para efeitos de aplicação da tabela de remunerações, os organismos serão agrupados da seguinte forma:
 
@@ -331,27 +351,27 @@ Grupo D - Organismos com receita ordinária inferior a 300000$00 anuais.
 
 3. Por falta de disponibilidades financeiras e atento o volume de encargos com o pessoal, podem os organismos incluídos nos grupos C e D ser autorizados, por despacho do Secretário de Estado do Trabalho e Previdência, ouvida a comissão permanente prevista no artigo 39.º, a praticar remunerações inferiores às constantes da tabela referida no n.º 1 deste artigo, pelo prazo de um ano, contado a partir da data da entrada em vigor do presente Estatuto, prorrogável por iguais períodos.
 
-###### Art. 29.º Os empregados contratados em regime de tempo parcial têm direito a uma remuneração proporcional ao tempo de trabalho prestado.
+Art. 29.º Os empregados contratados em regime de tempo parcial têm direito a uma remuneração proporcional ao tempo de trabalho prestado.
 
-###### Art. 30.º Os empregados contratados em regime de tempo livre têm direito às remunerações acordadas, com base nos usos e costumes.
+Art. 30.º Os empregados contratados em regime de tempo livre têm direito às remunerações acordadas, com base nos usos e costumes.
 
-###### Art. 31.º - 1. O empregado que exerça a chefia dos serviços do organismo, com excepção do secretário-geral e do gerente, tem direito a um subsídio de chefia, que não será inferior a 500$00 em cada mês.
+Art. 31.º - 1. O empregado que exerça a chefia dos serviços do organismo, com excepção do secretário-geral e do gerente, tem direito a um subsídio de chefia, que não será inferior a 500$00 em cada mês.
 
 2. O caixa tem direito ao abono para falhas que lhe for atribuído pela direcção do organismo, no montante mínimo de 300$00 em cada mês.
 
-###### Art. 32.º - 1. Os organismos podem conceder aos seus empregados diuturnidades de 5 por cento por cada três anos de permanência na mesma categoria, até ao máximo de 25 por cento.
+Art. 32.º - 1. Os organismos podem conceder aos seus empregados diuturnidades de 5 por cento por cada três anos de permanência na mesma categoria, até ao máximo de 25 por cento.
 
 2. As diuturnidades cessam com a promoção do empregado e só começam a contar-se a partir da data em que este atinja 18 anos de idade.
 
-###### Art. 33.º - 1. Os empregados terão direito ao pagamento de ajudas de custo e transportes por deslocações efectuadas ao serviço dos organismos.
+Art. 33.º - 1. Os empregados terão direito ao pagamento de ajudas de custo e transportes por deslocações efectuadas ao serviço dos organismos.
 
 2. O pagamento de ajudas de custo e transportes deve obedecer ao regime que estiver estabelecido para os empregados das instituições de previdência.
 
-###### Art. 34.º - 1. Os empregados com bom e efectivo serviço têm direito a receber pelo Natal um subsídio variável, conforme as disponibilidades do organismo, no valor máximo de um mês de remuneração.
+Art. 34.º - 1. Os empregados com bom e efectivo serviço têm direito a receber pelo Natal um subsídio variável, conforme as disponibilidades do organismo, no valor máximo de um mês de remuneração.
 
 2. Os empregados que não completem o ano a que se refere o subsídio têm direito a receber tantos duodécimos quantos os meses de trabalho prestado.
 
-###### Art. 35.º - 1. Os organismos podem conceder aos seus empregados pensões complementares de reforma ou invalidez que cubram a diferença entre:
+Art. 35.º - 1. Os organismos podem conceder aos seus empregados pensões complementares de reforma ou invalidez que cubram a diferença entre:
 
 a) A pensão de reforma por velhice concedida pela previdência social e 50 por cento da remuneração do empregado com 65 anos de idade e dez de serviço, acrescendo 2 por cento por cada ano a mais de serviço até ao limite de vinte e cinco anos;
 
@@ -363,13 +383,13 @@ a) A remuneração mensal média que o empregado recebeu do organismo nos três 
 
 b) Os anos de trabalho prestado no organismo que o empregado serve na data da concessão da reforma.
 
-###### Art. 36.º O empregado com mais de três anos de serviço só pode ser despedido ocorrendo justa causa, que deve ser apreciada em processo disciplinar para o efeito instaurado.
+Art. 36.º O empregado com mais de três anos de serviço só pode ser despedido ocorrendo justa causa, que deve ser apreciada em processo disciplinar para o efeito instaurado.
 
-###### Art. 37.º - 1. O contrato de trabalho cessa quando o empregado atinja 65 anos de idade, salvo se, por acordo dos interessados, for prorrogado anualmente até aos 70 anos.
+Art. 37.º - 1. O contrato de trabalho cessa quando o empregado atinja 65 anos de idade, salvo se, por acordo dos interessados, for prorrogado anualmente até aos 70 anos.
 
 2. A cessação do contrato nos termos do número anterior implica a concessão pelo organismo de uma indemnização equivalente a meio mês ou um mês de retribuição por cada ano completo de serviço, conforme o empregado tenha menos ou mais de quinze anos de serviço, sempre que não for atribuída pensão complementar de reforma, nos termos do artigo 35.º
 
-###### Art. 38.º Sem prejuízo das normas constantes do presente Estatuto, os organismos ficam obrigados a elaborar, no prazo de seis meses, regulamentos internos dos quais constem normas sobre:
+Art. 38.º Sem prejuízo das normas constantes do presente Estatuto, os organismos ficam obrigados a elaborar, no prazo de seis meses, regulamentos internos dos quais constem normas sobre:
 
 a) Organização dos serviços, horários e disciplina do trabalho;
 
@@ -381,17 +401,17 @@ d) Requisitos exigíveis para atribuição do complemento do subsídio de doenç
 
 e) Outros pontos de justificado interesse nas relações de trabalho.
 
-###### Art. 39.º - 1. Para promover a execução e o aperfeiçoamento do presente Estatuto é competente a comissão permanente a que se refere o artigo 39.º do Estatuto dos Empregados dos Organismos Corporativos, aprovado pela [Portaria n.º 253/71](https://diariodarepublica.pt/dr/detalhe/portaria/253-1971-644537), de 13 de Maio, à qual serão agregados mais dois vogais, sendo um designado pela Corporação da Lavoura e o outro, conjuntamente, pelas federações regionais dos sindicatos dos empregados de escritório.
+Art. 39.º - 1. Para promover a execução e o aperfeiçoamento do presente Estatuto é competente a comissão permanente a que se refere o artigo 39.º do Estatuto dos Empregados dos Organismos Corporativos, aprovado pela [Portaria n.º 253/71](https://diariodarepublica.pt/dr/detalhe/portaria/253-1971-644537), de 13 de Maio, à qual serão agregados mais dois vogais, sendo um designado pela Corporação da Lavoura e o outro, conjuntamente, pelas federações regionais dos sindicatos dos empregados de escritório.
 
 2. As dúvidas e os casos omissos deste Estatuto serão resolvidos por despacho do Ministro das Corporações e Previdência Social, ouvida a comissão permanente a que se refere o número anterior.
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
 
 ## Anexo I — Quadros de densidades
 
 A) Escriturários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf)
 
 1. Havendo cinco ou mais escriturários, o quadro será organizado de acordo com as seguintes densidades:
 
@@ -405,10 +425,10 @@ c) 50 por cento de terceiros-escriturários.
 
 B) Cobradores, fiéis e contínuos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf)
 
 ## Anexo II — Tabela de remunerações mínimas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00180022.pdf)
 
-**O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.**
+O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.

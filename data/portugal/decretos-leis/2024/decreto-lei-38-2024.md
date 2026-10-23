@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2024/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2024-867843036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e976b084a0c67e9c66951e7d6542d4127a91b2c20eb81e3621e3727a7449e69d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 928d0f81dc7ebd4c288fdb5d39dab5ef65394e3d898a4dccf19aa27d1db61a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Incêndio
+- Código dos Contratos Públicos
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Hospital do Divino Espírito Santo
-- Ponta Delgada
-- Código dos Contratos Públicos
 - Governo
-- Açores
+- Hospital do Divino Espírito Santo
+- Incêndio
+- Ponta Delgada
+- Região Autónoma
 - Situação de Calamidade
 relationships:
 - type: cites
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/71/2024/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/71/2024/06/05/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867843037:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:18Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +152,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O presente decreto-lei estabelece medidas excecionais de contratação pública aplicáveis aos procedimentos por ajuste direto destinados à formação de contratos de empreitadas de obras públicas, fornecimento de bens e aquisição de serviços relacionados com a situação de calamidade declarada pela [Resolução do Conselho de Ministros n.º 71/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2024-867843037), de 5 de junho.
 
-2 - Os procedimentos de contratação pública adotados ao abrigo do presente decreto-lei são exclusivamente aplicáveis às intervenções necessárias para dar resposta às medidas de reação diferida quanto aos prejuízos ocorridos, bem como de reparação dos danos causados no edifício do Hospital do Divino Espírito Santo de Ponta Delgada, E. P. E. R., cujo reconhecimento de elegibilidade, inventariação e quantificação exata são fixados nos termos dos n.<sup>os</sup>2 e 3 da resolução do Conselho de Ministros referida no número anterior.
+2 - Os procedimentos de contratação pública adotados ao abrigo do presente decreto-lei são exclusivamente aplicáveis às intervenções necessárias para dar resposta às medidas de reação diferida quanto aos prejuízos ocorridos, bem como de reparação dos danos causados no edifício do Hospital do Divino Espírito Santo de Ponta Delgada, E. P. E. R., cujo reconhecimento de elegibilidade, inventariação e quantificação exata são fixados nos termos dos n.os2 e 3 da resolução do Conselho de Ministros referida no número anterior.
 
 ###### Artigo 2.º — Regime dos procedimentos de ajuste direto
 
@@ -168,12 +180,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e v
 
 Visto e aprovado em Conselho de Ministros de 23 de maio de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - Maria Margarida Blasco Martins Augusto.
 
-**Promulgado em 29 de maio de 2024.**
+Promulgado em 29 de maio de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de maio de 2024.**
+Referendado em 31 de maio de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117766236

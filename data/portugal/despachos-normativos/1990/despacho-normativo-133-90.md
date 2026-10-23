@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25800/45984600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/133-1990-566066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd3c4905b3bf2346b449da0032889db0d1e23ac34472d93daa3578daac71adbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7da26c282a08273c943bfba4b83c71375fb8233d3e7f9dd516c973c05126026c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estágio de Formação
+- Formação Profissional
+- Investigador
+- Regulamento de Estágio
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:301420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:549392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614668:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689380:por
+  label: Rectificado pela DECL.DD3112.1990.11.30.PCM, DR.IS [277]3ºSupl de 30/Nov/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689380
+  date: '1990-11-30'
+- type: repealed_by
+  target: pt:dre:301420:por
+  label: "Revogado pelo DN.203/91.18.09.1991.MAI, DR.IS-B [215] de 18.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/203-1991-301420
+  date: '1991-09-18'
 article_structure:
   article_count: 22
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:12Z'
   warnings: []
   errors: []
 ---
@@ -315,4 +338,4 @@ Da homologação das listas de classificação do curso de formação e da class
 
 O estágio é válido pelo prazo de dois anos a contar da data da publicação da lista de classificação final.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/25800/45984600.pdf))](https://files.diariodarepublica.pt/1s/1990/11/25800/45984600.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/25800/45984600.pdf)

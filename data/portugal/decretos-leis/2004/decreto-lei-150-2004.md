@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/151a00/39403940.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2004/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2004-517446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9e353babf9272d38f5d60266a37f8d8b9d40671cd21f06cda5ddee0b7aef213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d89e7997baa848ab10cfebbee5748681578905b37d719827514c41cb631d1505
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Seguradora
-- Pagamento
-- Seguro
+- Companhia de Seguros
 - Número Fiscal de Contribuinte
+- Pagamento
 - Prémio de Seguro
 - Regime Jurídico
-- Companhia de Seguros
+- Seguro
 - Seguro de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:249804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240271:por
+  label: "Alterado o art. 7.º do Dec Lei 142/2000, de 15-Jul, na redacção do presente diploma, pelo DEC LEI.122/2005.29.07.2005.MJ,\
+    \ DR.IS-A [145] de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2005-240271
+  date: '2005-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/1994/04/23/p/dre
   label: null
@@ -94,16 +100,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:187476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249804:por
+  label: "Revogado, a partir de 01.01.2009, o Dec Lei 142/2000, de 15-Jul, na redacção do presente diploma, pelo DEC LEI.72/2008.16.04.2008.MFAP,\
+    \ DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2008-249804
+  date: '2008-04-16'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:57Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +176,9 @@ Os artigos 7.º e 11.º do [Decreto-Lei n.º 142/2000](https://diariodarepublica
 
 4 - Nos seguros de crédito, quando o risco coberto seja o previsto na alínea b) do n.º 3 do artigo 2.º do [Decreto-Lei n.º 94-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-b-1998-474478), de 17 de Abril, e estejam identificados em documento contratual as datas de vencimento e os valores a pagar, bem como as consequências da falta de pagamento do prémio ou fracção, a empresa de seguros pode optar por não proceder ao envio do aviso previsto no n.º 1, recaindo sobre ela o ónus da prova da emissão e aceitação, pelo tomador de seguro, daquele documento contratual.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -166,12 +196,12 @@ Os artigos 7.º e 11.º do [Decreto-Lei n.º 142/2000](https://diariodarepublica
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 15 de Junho de 2004.**
+Promulgado em 15 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2004.**
+Referendado em 21 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

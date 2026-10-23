@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/18700/0684506854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/2007/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e9fc12da9497b442f778b81d789d8dbe7fd13bb15914bef31f4f02e59600330
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54a4406aca5abeb38ab2d89c5dd60d73f87caae6853b94bed1b9663b1712fd0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Função Pública
-- Tempo de Serviço
 - Aposentação
 - Assistência Médica
 - Assistência Medicamentosa
-- Instituto do Emprego e Formação Profissional
+- Bolsa de Estudos
 - Centro de Formação Profissional
-- Formação Profissional
 - Direcção Geral de Pessoal e Recrutamento Militar
+- Ensino Básico
+- Ensino Superior
 - Estatuto dos Militares das Forças Armadas
-- Serviço Militar
+- Forças Armadas
+- Formação Profissional
+- Função Pública
 - Incentivo Profissional
 - Inserção Profissional
+- Instituto do Emprego e Formação Profissional
 - Instrução Militar
-- Forças Armadas
+- Militar
 - Prestações de Desemprego
-- Ensino Básico
 - Recrutamento Militar
 - Regulamento
-- Ensino Superior
-- Bolsa de Estudos
 - Remuneração
-- Militar
+- Serviço Militar
+- Tempo de Serviço
 - Trabalhador Estudante
 relationships:
 - type: amended_by
   target: pt:dre:116640900:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 23º do Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado,\
+    \ aprovado pelo Dec Lei n.º 320-A/2000, de 15-Dez, na redacção do presente diploma, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010, com aplicação aos subsídios concedidos após a entrada em vigor da mesma lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 21º do Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato e de Voluntariado,\
+    \ aprovado pelo Dec Lei 320-A/2000, de 15-Dez, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS\
+    \ [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2004/05/21/p/dre
   label: null
@@ -136,16 +150,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:116640900:por
+  label: Revogado, a partir de 12.10.2018, o presente diploma, pelo(a) Decreto-Lei n.º 76/2018 - Diário da República n.º 196/2018,
+    Série I de 2018-10-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2018-116640900
+  date: '2018-10-11'
 article_structure:
-  article_count: 64
+  article_count: 57
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:05Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +242,9 @@ Os artigos 21.º, 23.º, 30.º, 33.º, 34.º, 39.º, 45.º e 47.º do Regulament
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 23.º — Subsídios para estudos superiores
+Artigo 23.º
+
+Subsídios para estudos superiores
 
 1 - ...
 
@@ -218,7 +280,9 @@ d) ...
 
 e) ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +304,9 @@ e) ...
 
 10 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Os militares que prestem ou tenham prestado serviço em RC pelo período mínimo de três anos beneficiam, durante e até ao limite dos dois anos subsequentes à data da cessação do contrato, de um contingente mínimo de 30 % do número total de vagas de admissão quer no conjunto dos concursos para ingresso nos QP dos ramos das Forças Armadas quer nos concursos para ingresso nos respectivos quadros de pessoal civil.
 
@@ -248,7 +314,9 @@ e) ...
 
 3 - Os avisos de concursos são disponibilizados nas unidades, estabelecimentos e órgãos militares nos quais prestem serviço militares em RC, bem como no sítio do Ministério da Defesa Nacional (MDN).
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Os militares que prestem ou tenham prestado serviço em RC, desde que cumpridos dois anos de serviço efectivo militar, obtido aproveitamento nas respectivas provas de admissão, beneficiam de precedência sobre os restantes candidatos no acesso aos cursos para ingresso nos quadros de praças da GNR, nos termos previstos no respectivo Estatuto.
 
@@ -264,7 +332,9 @@ b)...
 
 5 - O disposto nos n.os 1 e 2 não impede o preenchimento das vagas dos contingentes aí referidos não ocupadas por insuficiência de número de candidatos com as condições legais exigidas.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Durante a prestação de serviço efectivo, os militares em RC e RV têm direito às prestações abrangidas pelo subsistema de protecção familiar, bem como as referentes ao subsídio de maternidade, paternidade e adopção, nos termos estabelecidos para o pessoal dos QP.
 
@@ -272,7 +342,9 @@ b)...
 
 3 - (Revogado.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +356,9 @@ b)...
 
 5 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Em caso de candidatura a concursos para ingresso em quaisquer carreiras ou corpos especiais da Administração Pública, bem como nos casos em que a aplicação de algum dos incentivos previstos no presente Regulamento esteja associada à verificação de limites de idade, o tempo de serviço efectivo prestado em RC e RV é abatido à idade cronológica dos cidadãos, até ao limite de dois anos, sem prejuízo da verificação das demais condições legalmente previstas para a aplicação de cada incentivo.
 
@@ -306,15 +380,15 @@ São revogados o n.º 2 do artigo 20.º, os n.os 2 e 3 do artigo 39.º e o artig
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 12 de Setembro de 2007.**
+Promulgado em 12 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Setembro de 2007.**
+Referendado em 13 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (republicação do [Decreto-Lei n.º 320-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2000-393396), de 15 de Dezembro)
 

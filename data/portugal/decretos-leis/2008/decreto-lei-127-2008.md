@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2008/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2008-456784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58f7f9a8e13438ddd704c04c63a2321158b55e0873d5fa2726df04485a107868
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8aee976e6fe219686ab3e417712cabfcd017bbd5df07ced0473a2797bbd5b51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- ARH
-- Contra-ordenação
-- Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
-- Base de Dados
-- Inspecção Geral do Ambiente e do Ordenamento do Território
-- Registo Europeu das Emissões e Transferências de Poluentes
-- Sistema de Informação
-- Madeira.região Autónoma
-- Regime Jurídico
-- Poluição
 - Açores
 - Agência Portuguesa do Ambiente
+- ARH
+- Base de Dados
+- Comissão de Coordenação e Desenvolvimento Regional
+- Contra-ordenação
+- Fiscalização
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Madeira.região Autónoma
+- Poluição
+- Regime Jurídico
+- Registo Europeu das Emissões e Transferências de Poluentes
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:485629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485629:por
+  label: "Dada nova redacção aos arts. 3º, 4º, 5 e 8º e substituído o anexo pelo DEC LEI.6/2011.10.01.2011.MAOT, DR.IS [6]\
+    \ de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2011-485629
+  date: '2011-01-10'
 - type: cites
   target: celex:31991L0689
   label: null
@@ -112,13 +118,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:14Z'
   warnings: []
   errors: []
 ---
@@ -263,15 +269,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui José Simões Bayão de Sá Gomes - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 8 de Julho de 2008.**
+Promulgado em 8 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Julho de 2008.**
+Referendado em 9 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Notas técnicas
 
@@ -281,4 +287,4 @@ Visto e aprovado em Conselho de Ministros de 30 de Abril de 2008. - José Sócra
 
 Categorias de actividades referidas no artigo 4.º e respectiva autoridade competente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13900/0449804502.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13900/0449804502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13900/0449804502.pdf)

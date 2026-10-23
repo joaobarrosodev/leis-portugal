@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2005/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2005-573315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 771b1ee6f39bd2e7888cd79d1678a9038fbc3bf295e94e3e580bce390f7ea663
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6793747c9a124ccaa60379b6b27ceb0c83119dd0ae13314f375e0ab4fcefb314
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Navios
+- Agente de Navegação
+- Armador
+- Contra-ordenação
 - Embarcação
 - Garantia
-- Contra-ordenação
-- Agente de Navegação
-- Abate de Navios
-- Proteção do Ambiente
 - Plano MAR Limpo
 - Poluição Marinha
 - Poluição pelos Navios
-- Armador
+- Proteção do Ambiente
 - Responsabilidade Solidária
 relationships:
 - type: cites
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/25/1993/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/25/1993/04/15/p/dre
+- type: cites
+  target: pt:dre:222249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690248:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:05Z'
   warnings: []
   errors: []
 ---
@@ -269,12 +297,12 @@ São revogados o artigo 168.º do [Decreto-Lei n.º 265/72](https://diariodarepu
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 28 de Fevereiro de 2005.**
+Promulgado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 2005.**
+Referendado em 3 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

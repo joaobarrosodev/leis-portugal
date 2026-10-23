@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/16200/21422143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/461-1984-386017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2187a368c3a005b8eac2e8be586de2139a470baff863804bd79f5f07fa00b4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96ec0f9c07fcf655094335a9deede3af229491f7c3577593680b12a9a5bc4e91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacalhau
+- Comércio
+- Margens de Comercialização
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:549812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579689:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549812:por
+  label: "Revogada pela PORT.995/89.16.11.1989.MCT, DR.IS [264] de 16.11.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/995-1989-549812
+  date: '1989-11-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:05:19Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +125,6 @@ b) Retalhista: margem de 15%, calculada sobre o preço de aquisição à porta d
 
 Secretarias de Estado do Comércio Interno e das Pescas.
 
-**Assinada em 22 de Junho de 1984.**
+Assinada em 22 de Junho de 1984.
 
-**O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe. - O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.**
+O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe. - O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.

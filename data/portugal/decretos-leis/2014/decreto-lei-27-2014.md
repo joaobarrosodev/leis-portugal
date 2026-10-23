@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2014/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2014-572470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1c4e17a89288e5fc184471e15edb7a8af3198f344cbaad141c8d2f2f5277bb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c138a979c8a0bd1d8bc96bde64b75b804300b23a0f5eeca7e8190859606911a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,41 +68,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
 - Agrupamento de Produtores
-- Financiamento
+- Baldio
 - Circunscrição Florestal
-- Regime Florestal
-- Silvicultura
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Plano Director Municipal
 - Definição de Competências
-- Proteção da Floresta
+- Desenvolvimento Rural
+- Exploração Florestal
+- Financiamento
 - Fiscalização
 - Instituto da Conservação da Natureza e das Florestas
+- Inventário
+- Madeira.região Autónoma
+- Ordenamento do Território
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Proteção do Ambiente
-- Prédio Rústico
+- Plano Director Municipal
 - Plano Nacional de Defesa da Floresta contra Incêndios
-- Exploração Florestal
-- Produtor
 - Plano Regional de Ordenamento Florestal
-- Baldio
-- Madeira.região Autónoma
+- Política Florestal
+- Prédio Rústico
+- Produtor
+- Proteção da Floresta
+- Proteção do Ambiente
+- Regime Florestal
 - Regime Jurídico
 - Registo Predial
-- Política Florestal
-- Inventário
 - Sector Florestal
-- Açores
+- Silvicultura
 - ZONA de Intervenção Florestal
 relationships:
 - type: amended_by
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107507172:por
+  label: Alterados os arts. 3.º a 6.º, 10.º, 12.º, 15.º, 18.º,19.º, 22.º a 25.º, 28.º e 34.º-A do Dec Lei 127/2005, de 05-ago,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12,
+    que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2017-107507172
+  date: '2017-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -143,16 +150,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2012/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2012/07/05/p/dre
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 46
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:59Z'
   warnings: []
   errors: []
 ---
@@ -253,7 +308,9 @@ p) [...];
 
 q) «Zona de intervenção florestal» ou «ZIF» a área territorial contínua e delimitada, constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e administrada por uma única entidade.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -269,7 +326,9 @@ e) Concretizar territorialmente as orientações constantes na Estratégia Nacio
 
 f) [...].
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 [...]:
 
@@ -283,7 +342,9 @@ d) O princípio da gestão dos recursos consiste em elaborar e implementar em ca
 
 e) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A delimitação territorial das ZIF implica a sua compatibilização com matrizes regionais e municipais de organização da gestão e do território florestal já existentes, nomeadamente as estabelecidas pela Estratégia Nacional para as Florestas, pelos PROF, pelos PMDFCI e pelas orientações dos planos especiais, municipais e intermunicipais de ordenamento do território.
 
@@ -331,13 +392,17 @@ d) Ambiental: localização dominante em territórios ou em áreas classificadas
 
 9 - [Revogado].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A iniciativa do processo de constituição de ZIF pertence aos proprietários ou outros produtores florestais, que para o efeito se constituem em núcleo fundador, em conformidade com o disposto na alínea l) do artigo 3.º.
 
 2 - O núcleo fundador pode designar um representante comum para todas as questões para que seja solicitado ou chamado a intervir ou a pronunciar-se no âmbito do processo de constituição de ZIF.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para a constituição de uma ZIF é obrigatória a realização de, pelo menos, uma reunião promovida pelo núcleo fundador e a sua publicitação com a antecedência mínima de 15 dias, por edital nos locais de estilo, bem como nos sítios da Internet do ICNF, I.P., e dos municípios abrangidos pela ZIF e, facultativamente, por anúncios em jornais de âmbito nacional ou regional.
 
@@ -349,7 +414,9 @@ d) Ambiental: localização dominante em territórios ou em áreas classificadas
 
 5 - Na reunião está presente um representante do ICNF, I.P., que atesta a correspondência da ata respetiva com a discussão e as decisões ali tomadas.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -377,7 +444,9 @@ b) [...].
 
 5 - Nos casos em que não exista cadastro geométrico da propriedade rústica, o prazo para a elaboração dos elementos previstos na alínea d) do n.º 1 pode, por iniciativa do núcleo fundador e mediante autorização do conselho diretivo do ICNF, I.P., ser prorrogado por um prazo máximo de até três anos após a criação da ZIF.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Findo o período da última consulta pública referido no n.º 2 do artigo anterior, no prazo máximo de seis meses realiza-se uma reunião promovida pelo núcleo fundador, a publicitar com a antecedência mínima de 10 dias, por edital nos locais de estilo e no sítio da Internet do ICNF, I.P., na qual são apresentados e explicados os elementos referidos no n.º 1 do artigo anterior.
 
@@ -389,7 +458,9 @@ b) [...].
 
 5 - Na reunião está presente um representante do ICNF, I.P., que atesta a correspondência da ata com a discussão e decisões ali tomadas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pedido de criação de ZIF é formalizado em requerimento do núcleo fundador, apresentado no ICNF, I.P., no prazo máximo de três anos, a contar da realização da primeira consulta prévia, sob pena de rejeição liminar.
 
@@ -429,13 +500,17 @@ d) A ata da reunião realizada no âmbito da audiência final, atestada pelo rep
 
 9 - [Anterior n.º 6.]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As ZIF são criadas por deliberação do conselho diretivo do ICNF, I.P., publicitada nos sítios da Internet do ICNF, I.P., e dos respetivos municípios.
 
 2 - [Revogado].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A delimitação territorial de ZIF ou a sua área podem ser alteradas, com periodicidade nunca inferior a um ano, mediante autorização do conselho diretivo do ICNF, I.P.
 
@@ -455,13 +530,17 @@ a) Incumprimento grave e reiterado das normas do PGF ou do PEIF, que inviabilize
 
 b) Deixem de se verificar os requisitos ou condições fundamentais que justificaram a criação da ZIF, salvo se respeitarem à sua delimitação territorial ou área, desde que se mostrem cumpridos, neste caso, os pressupostos de alteração a que se refere o n.º 2.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - As decisões de alteração da delimitação territorial da ZIF ou da sua área e de extinção da ZIF, a que se referem os artigos 11.º e 12.º, são publicadas exclusivamente nos sítios da Internet do ICNF, I.P., e dos respetivos municípios.
 
 2 - Cabe ao ICNF, I.P., assegurar a publicidade e acessibilidade permanente das deliberações referidas no número anterior em local do respetivo sítio da Internet que assegure a visibilidade adequada.
 
-###### Artigo 13.º — Administração das zonas de intervenção florestal
+Artigo 13.º
+
+Administração das zonas de intervenção florestal
 
 1 - A administração de cada ZIF é assegurada pela respetiva entidade gestora.
 
@@ -471,7 +550,9 @@ b) Deixem de se verificar os requisitos ou condições fundamentais que justific
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]:
 
@@ -495,7 +576,9 @@ i) [Revogada].
 
 2 - [Revogado].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -535,25 +618,33 @@ o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitá
 
 5 - As alterações que ocorram ao número efetivo de aderentes à ZIF e à área pertencente a cada um deles devem ser comunicadas ao ICNF, I.P., pela entidade gestora, até 31 de dezembro do ano a que respeitarem.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF, por iniciativa dos proprietários ou outros produtores florestais, que têm de representar mais de 50% do universo dos proprietários e produtores florestais aderentes e deter, em conjunto, mais de metade dos espaços florestais existentes na área delimitada para a ZIF.
 
 2 - A substituição da entidade gestora deve ser comunicada ao ICNF, I.P., pela mesa da assembleia geral da ZIF, no prazo de 15 dias, a contar da data da realização da assembleia geral de aderentes, remetendo-lhe a respetiva ata, bem como a documentação necessária para a verificação dos requisitos previstos na alínea f) do artigo 3.º e nos n.os 2 e 3 do artigo 13.º.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
 2 - O regulamento interno define os objetivos específicos da ZIF, estabelece os deveres e direitos dos proprietários e produtores florestais aderentes e as respetivas regras de funcionamento, quer para as situações de gestão dos espaços florestais quer em caso de administração total do território.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As entidades gestoras das ZIF podem constituir um fundo comum destinado a financiar ações geradoras de benefícios comuns e de apoio aos proprietários e outros produtores florestais aderentes.
 
 2 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -565,7 +656,9 @@ o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitá
 
 5 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -579,7 +672,9 @@ o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitá
 
 6 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O PGF e o PEIF da ZIF são de cumprimento obrigatório em todo o território da ZIF.
 
@@ -587,7 +682,9 @@ o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitá
 
 3 - Quando o PGF próprio dos proprietários ou outros produtores florestais não aderentes não incluir os princípios e orientações previstos no n.º 2 do artigo 20.º, este deve compatibilizar-se com o PEIF da ZIF.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A aprovação dos PGF e dos PEIF da ZIF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal, com as alterações constantes no presente decreto-lei, no que respeita aos prazos.
 
@@ -607,7 +704,9 @@ o) Apresentar candidaturas a apoios públicos, com fundos nacionais ou comunitá
 
 9 - Caso o PEIF se refira à defesa da floresta contra incêndios, é obrigatoriamente submetido a parecer da respetiva comissão municipal de defesa da floresta, a emitir no prazo de 20 dias, interrompendo-se neste caso o prazo previsto no n.º 5.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A execução dos PGF e dos PEIF, nomeadamente a operacionalização das ações deles constantes, cabe aos proprietários e produtores florestais.
 
@@ -623,13 +722,17 @@ b) Quando o interesse público o aconselhe, nomeadamente quando seja desconhecid
 
 5 - Nas situações em que ocorra intervenção em propriedades de que se desconheça o proprietário ou outro produtor florestal, ou o seu paradeiro, no âmbito da execução do PGF ou do PEIF, a entidade gestora da ZIF deve efetuar a recolha e o registo das intervenções silvícolas e dos dados biométricos e manter em separado o respetivo arquivo histórico, obrigando-se à prestação de informação sempre que solicitada pelo ICNF, I.P., e pelos respetivos proprietários ou produtores florestais.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
 2 - Os instrumentos públicos de apoio financeiro referidos no número anterior devem discriminar positivamente as entidades gestoras de ZIF e podem ainda instituir apoios especiais à constituição e instalação de ZIF em zonas de minifúndio e ao funcionamento das ZIF em que os aderentes tenham delegado a gestão das suas áreas na entidade gestora.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]:
 
@@ -649,13 +752,17 @@ f) O incumprimento do disposto nos n.os 1 e 2 do artigo 24.º.
 
 3 - A tentativa e a negligência são puníveis, sendo os limites das coimas estabelecidos no n.º 1 reduzidos para metade.
 
-###### Artigo 34.º-A — [...]
+Artigo 34.º-A
+
+[...]
 
 1 - O ICNF, I.P., elabora um manual de procedimentos de apoio à constituição de ZIF, que contém modelos de regulamento interno, de plano de gestão florestal, de plano específico de intervenção florestal e de normas para a elaboração de peças gráficas.
 
 2 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Na ausência de cadastro geométrico da propriedade rústica, a informação constante do registo predial fornece informação sobre a descrição dos prédios abrangidos pela ZIF, identificando os titulares de direitos de propriedade e de outros direitos reais menores, e as matrizes prediais rústicas constituem presunção de titularidade bastante para os diversos atos necessários à concretização das ações de desenvolvimento florestal na área territorial da ZIF.
 
@@ -695,15 +802,15 @@ b) A alínea c) do n.º 1 e o n.º 4 do artigo 13.º do [Decreto-Lei n.º 16/200
 
 Visto e aprovado em Conselho de Ministros de 19 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 7 de fevereiro de 2014.**
+Promulgado em 7 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de fevereiro de 2014.**
+Referendado em 11 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -729,7 +836,7 @@ b) «Aderentes» os proprietários ou outros produtores florestais da área da Z
 
 c) «Baldios» os terrenos possuídos e geridos por comunidades locais, como tal definidos em diploma próprio;
 
-d) «Coeficiente de compacidade» ou índice de Gravelius o método de caracterização da forma de bacias hidrográficas, que é calculado com base na seguinte equação: K=0,282 x (P/[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0146401479.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0146401479.pdf)A), sendo P o perímetro e A a respetiva área;
+d) «Coeficiente de compacidade» ou índice de Gravelius o método de caracterização da forma de bacias hidrográficas, que é calculado com base na seguinte equação: K=0,282 x (P/[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0146401479.pdf)A), sendo P o perímetro e A a respetiva área;
 
 e) «Floresta» os terrenos ocupados com povoamentos florestais, áreas ardidas de povoamentos florestais, áreas de corte raso de povoamentos florestais e, ainda, outras áreas arborizadas;
 

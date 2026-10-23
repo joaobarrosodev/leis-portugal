@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 187/1977, 1º Suplemento, Série I de 1977-08-13
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1988-(1) a 1988-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/18701/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/523-a-1977-616645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c045cd34048f07360d42d168b2f747eeea2c9cbc6b0c25a635fabc12db5641bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9633e7c7c9d4bbf8b83a9a3d5359d9e9e27d8d97daf9b7fd2f6d5839c75a2c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogada pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:33Z'
   warnings: []
   errors: []
 ---
@@ -102,35 +112,35 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Florest
 
 2.º Os artigos 35.º, 36.º, 40.º, 41.º, 44.º, 45.º, 51.º, 54.º, 62.º, 64.º, 65.º, 66.º, 68.º, 69-A, 70.º e 71.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 35.º É permitido caçar lebres desde o primeiro domingo de Outubro até ao último domingo de Novembro.
+Art. 35.º É permitido caçar lebres desde o primeiro domingo de Outubro até ao último domingo de Novembro.
 
-###### Art. 36.º Cada caçador não pode caçar mais do que uma lebre em cada dia de caça.
+Art. 36.º Cada caçador não pode caçar mais do que uma lebre em cada dia de caça.
 
 ...
 
-###### Art. 40.º É permitida a caça às raposas e lobos desde o primeiro domingo de Outubro até ao último de Fevereiro.
+Art. 40.º É permitida a caça às raposas e lobos desde o primeiro domingo de Outubro até ao último de Fevereiro.
 
-###### Art. 41.º - 1. A caça de batida a estas espécies só é permitida a partir do último domingo de Novembro, exclusive, mediante autorização da Direcção-Geral dos Recursos Florestais, que fixará as condições em que poderá ser exercida.
+Art. 41.º - 1. A caça de batida a estas espécies só é permitida a partir do último domingo de Novembro, exclusive, mediante autorização da Direcção-Geral dos Recursos Florestais, que fixará as condições em que poderá ser exercida.
 
 2. A partir do último domingo de Dezembro não é permitida a caça «de salto» nem a de «à espera».
 
 ...
 
-###### Art. 44.º É permitido caçar perdizes desde o primeiro domingo de Outubro até ao último de Novembro.
+Art. 44.º É permitido caçar perdizes desde o primeiro domingo de Outubro até ao último de Novembro.
 
-###### Art. 45.º Cada caçador não pode caçar mais do que seis perdizes em cada dia de caça.
-
-...
-
-###### Art. 51.º É permitida a caça de sisões desde o primeiro domingo de Outubro ao último de Novembro.
+Art. 45.º Cada caçador não pode caçar mais do que seis perdizes em cada dia de caça.
 
 ...
 
-###### Art. 54.º É permitido caçar rolas desde o dia feriado de 15 de Agosto até ao último domingo de Novembro.
+Art. 51.º É permitida a caça de sisões desde o primeiro domingo de Outubro ao último de Novembro.
 
 ...
 
-###### Art. 62.º - 1. É permitida a caça aos patos, «à espera» ou de barco, com ou sem cães e negaças, nos locais designados pelo Serviço de Inspecção de Caça e Pesca, mediante proposta das comissões venatórias, desde o começo do crepúsculo da manhã do feriado de 15 de Agosto até ao último domingo de Janeiro.
+Art. 54.º É permitido caçar rolas desde o dia feriado de 15 de Agosto até ao último domingo de Novembro.
+
+...
+
+Art. 62.º - 1. É permitida a caça aos patos, «à espera» ou de barco, com ou sem cães e negaças, nos locais designados pelo Serviço de Inspecção de Caça e Pesca, mediante proposta das comissões venatórias, desde o começo do crepúsculo da manhã do feriado de 15 de Agosto até ao último domingo de Janeiro.
 
 Exceptuam-se:
 
@@ -148,9 +158,9 @@ c) A partir do último domingo de Dezembro até ao último de Janeiro, nos terre
 
 ...
 
-###### Art. 64.º É permitida a caça às galinhas-d'água e galeirões desde o dia feriado de 15 de Agosto até ao último domingo de Janeiro, com os mesmos condicionamentos e limites da caça aos patos.
+Art. 64.º É permitida a caça às galinhas-d'água e galeirões desde o dia feriado de 15 de Agosto até ao último domingo de Janeiro, com os mesmos condicionamentos e limites da caça aos patos.
 
-###### Art. 65.º É permitido caçar pombos bravos desde o dia feriado de 15 de Agosto até ao último domingo de Fevereiro, nas seguintes condições:
+Art. 65.º É permitido caçar pombos bravos desde o dia feriado de 15 de Agosto até ao último domingo de Fevereiro, nas seguintes condições:
 
 a) Desde 15 de Agosto até ao primeiro domingo de Outubro, exclusive, podem ser abatidos nos locais e com os condicionamentos estabelecidos para a caça às rolas;
 
@@ -160,17 +170,17 @@ c) A partir do último domingo de Dezembro até ao último de Fevereiro, os pomb
 
 d) A caça com auxílio de negaça só é permitida a partir do primeiro domingo de Outubro.
 
-###### Art. 66.º - 1. É permitida a caça às galinholas desde o primeiro domingo de Outubro ao último de Fevereiro.
+Art. 66.º - 1. É permitida a caça às galinholas desde o primeiro domingo de Outubro ao último de Fevereiro.
 
 2. A partir do último domingo de Dezembro, exclusive, só podem ser caçadas galinholas sem cães ou com cães «de parar» nos locais para o efeito definidos por edital.
 
 ...
 
-###### Art. 68.º - 1. É permitido caçar narcejas desde o primeiro domingo de Outubro até ao último de Fevereiro.
+Art. 68.º - 1. É permitido caçar narcejas desde o primeiro domingo de Outubro até ao último de Fevereiro.
 
 2 ...
 
-###### Art. 69.º-A - 1. É permitido caçar abipes e tarambolas desde o primeiro domingo de Outubro até ao último de Fevereiro, nas seguintes condições:
+Art. 69.º-A - 1. É permitido caçar abipes e tarambolas desde o primeiro domingo de Outubro até ao último de Fevereiro, nas seguintes condições:
 
 a) ...
 
@@ -178,7 +188,7 @@ b) Do último domingo de Dezembro, exclusive, até ao termo do período venatór
 
 2 ...
 
-###### Art. 70.º - 1. É permitido caçar tordos e estorninhos desde o dia feriado de 15 de Agosto ao último domingo de Fevereiro, nas seguintes condições:
+Art. 70.º - 1. É permitido caçar tordos e estorninhos desde o dia feriado de 15 de Agosto ao último domingo de Fevereiro, nas seguintes condições:
 
 a) Desde o dia 15 de Agosto até ao primeiro domingo de Outubro nos locais e com os condicionamentos definidos para a caça às rolas;
 
@@ -188,7 +198,7 @@ c) A partir do último domingo de Dezembro, «à espera» e sem cão nos locais 
 
 ...
 
-###### Art. 71.º - 1. É permitida a caça de corvos, gralhas, pegas e gaios desde o dia feriado de 15 de Agosto até ao último domingo de Fevereiro.
+Art. 71.º - 1. É permitida a caça de corvos, gralhas, pegas e gaios desde o dia feriado de 15 de Agosto até ao último domingo de Fevereiro.
 
 2 ...
 

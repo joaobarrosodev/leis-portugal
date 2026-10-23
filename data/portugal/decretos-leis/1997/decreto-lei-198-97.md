@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/198/1997/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1997-142516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b55a99ac3a2f4930565964c9119230f46185dc0d0b3ab54b89362bd1db5f6d9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b70d23fd6f1fe3eb349034cdce980d868ba17eb6274b51c366c63d446d5c178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
+- Administração Pública
 - Carreira Médica
 - Carreira Médica Hospitalar
-- Administração Pública
-- Serviço Nacional de Saúde
+- Médico
 - Promoção Profissional
 - Quadro de Pessoal
 - Regime de Pessoal
 - Remuneração
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:1569961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180025:por
+  label: "Alterado em 1 de Julho de 1999, de acordo com o mapa I anexo ao presente diploma, as escalas indiciárias das carreiras\
+    \ médicas constantes do mapa I anexo ao presente diploma, pelo mapa I anexo ao DEC LEI.19/99.1999.01.27.MS DR.IS-A [22]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1999-180025
+  date: '1999-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1992/07/04/p/dre
   label: null
@@ -87,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/213/1995/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/213/1995/08/17/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429394:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493010:por
+  label: "Revogado, a partir de 09.08.2009, pelo DEC LEI.177/2009.04.08.2009.MS, DR.IS [149] de 04.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2009-493010
+  date: '2009-08-04'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:50Z'
   warnings: []
   errors: []
 ---
@@ -155,20 +179,20 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação, produz
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 18 de Julho de 1997.**
+Promulgado em 18 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Julho de 1997.**
+Referendado em 24 de Julho de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf))](https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf))](https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/177a00/40334035.pdf)

@@ -47,40 +47,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/478-1980-470207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6566dda82ea2c3e20960d1f26ba4d6872565f30e5f532a6e5a3bc7425dd479ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b8f7d7c595f8093dff1efc06e36f0cfd8aef2e6e286138925eb978f8da720bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Custo da Construção
+- Habitação Social
+- Renda Limitada
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 192, DE 21/8/80. ALTERADOS O GRÁFICO E O QUADRO,\
+    \ A QUE SE REFERE A ALÍNEA B) DO NUMERO 3 DO NUMERO 1, ANEXOS, PELA PORTARIA NUMERO 963/83, PUBLICADA NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 256, DE 7/11/83.\06, DE 7/11/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:546382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392833:por
+  label: "Substituido o gráfico e o quadro a que se refere a al.b) do nº 3 do nº 1 pela PORT.474/82.1982.05.06.MHOPT DR.IS\
+    \ [104]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1982-392833
+  date: '1982-05-06'
+- type: amended_by
+  target: pt:dre:375244:por
+  label: "Alterada a al. c) do nº 3 do nº 1 pela PORT.917/82.1982.09.29.MHOPT DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/917-1982-375244
+  date: '1982-09-29'
+- type: amended_by
+  target: pt:dre:626801:por
+  label: "Alterada a al. c) do nº 3 e substituido o gráfico e o quadro a que se refere a al. b) do nº 3 do nº 1 pela PORT.1353/82.1982.12.31.MHOPT\
+    \ DR.IS [301]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1353-1982-626801
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:443562:por
+  label: "Substituido o gráfico e o quadro a que se refere a al. b) do nº 3 do nº 1 pela PORT.963/83.1983.11.07.MES DR.IS\
+    \ [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-1983-443562
+  date: '1983-11-07'
+- type: amended_by
+  target: pt:dre:661323:por
+  label: "Alterada a al.c) do nº 3 do nº 1 e substituido o gráfico e o quadro pela PORT.120/84.1984.02.23.MES DR.IS [46]D\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1984-661323
+  date: '1984-02-23'
+- type: amended_by
+  target: pt:dre:546382:por
+  label: "Alterada a al. c) do nº 3 do nº 1 e susbstuituido o gráfico e o quadro anexos pela PORT.167-C/85.1985.03.28.MES\
+    \ DR.IS [73]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-c-1985-546382
+  date: '1985-03-28'
+- type: cites
+  target: pt:dre:279661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:470860:por
+  label: Rectificada pela DECL.DD6946.08.08.1980.PCM, DR.IS [192] de 21.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470860
+  date: '1980-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:34Z'
   warnings: []
   errors: []
 ---
@@ -119,10 +181,10 @@ Quadro a que se refere a alínea b) do n.º 3 do n.º 1.º
 
 Variação do custo do metro quadrado de construção com a área bruta (Ab)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17900/20582059.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17900/20582059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17900/20582059.pdf)
 
 Gráfico a que se refere a alínea b) do n.º 3 do artigo 1.º
 
 Variação do custo do metro quadrado de construção com a área bruta (Ad)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17900/20582059.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17900/20582059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17900/20582059.pdf)

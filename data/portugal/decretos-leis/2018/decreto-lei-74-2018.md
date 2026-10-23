@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2018/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2018-116460404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b56609072e01fc5a634d0e5c3a440ea84f7101e8ca10d01656a5e7b7aca5a57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7554bbadf261a3235a6be8725694e6eabd79b8c5d5ad3431eb17d1d6c68049a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Extinção de Carreiras
-- Regime do Contrato de Trabalho em Funções Públicas
 - Ajudas de Custo
+- ASAE
+- Avaliação do Pessoal
 - Carreira de Inspecção Superior
+- Carreira Profissional
 - Carreira Técnica Superior de Inspecção
-- Formação Profissional
-- Pessoal Dirigente
 - Concurso
 - Concurso de Ingresso
+- Confidencialidade
 - Definição de Competências
-- Regime Laboral
-- Processo Disciplinar
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Remuneração Acessória
+- Extinção de Carreiras
+- Formação Profissional
+- Horário de Trabalho
 - Incompatibilidades
-- ASAE
+- Investigação Criminal
 - Livre Trânsito
 - Mobilidade Geográfica
 - Orgânica
 - Período Experimental
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Pessoal Técnico de Inspecção
 - Pessoal Técnico Superior de Inspecção
-- Confidencialidade
-- Regime de Pessoal
-- Horário de Trabalho
-- Remuneração
-- Avaliação do Pessoal
-- Investigação Criminal
 - Polícia Criminal
-- Uso e porte de arma
+- Processo Disciplinar
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Regime do Contrato de Trabalho em Funções Públicas
+- Regime Laboral
+- Remuneração
+- Remuneração Acessória
 - Trabalhador com Contrato de Trabalho em Funções Públicas
+- Uso e porte de arma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24
@@ -140,16 +140,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:175336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:03Z'
   warnings: []
   errors: []
 ---
@@ -552,24 +600,26 @@ Em tudo o que não esteja expressamente regulado no presente decreto-lei, aplica
 
 Visto e aprovado em Conselho de Ministros de 9 de agosto de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 30 de agosto de 2018.**
+Promulgado em 30 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de setembro de 2018.**
+Referendado em 13 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem o n.º 3 do artigo 2.º, o artigo 28.º, o n.º 1 do artigo 31.º, o n.º 5 do artigo 33.º e o n.º 2 do artigo 34.º)
 
 Estrutura da carreira especial de inspeção da Autoridade de Segurança Alimentar e Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf))](https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 32.º)
 
 Posições remuneratórias complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf))](https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/09/18300/0482604832.pdf)
+
+111660811

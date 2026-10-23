@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2005/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2005-549587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 972953ef9c13aa069d5539987d420c1d86996e0c923c908878603943596e5ccd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b9058e81a51a680089ea9c8b74ef4b0d4163e89cc7f93d2a120cf7841eb683f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Alienação de Acções
 - Alienação de BENS
-- Jogos de Fortuna e Azar
 - Capital Social
-- Estabelecimento de Jogos
-- Turismo
 - Contrato de Concessão
 - Contrato de Investimento
+- Estabelecimento de Jogos
+- Jogos de Fortuna e Azar
 - Propriedade do Estado
 - Tróia
+- Turismo
 - ZONA de JOGO
 relationships:
 - type: cites
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/28/2001/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/28/2001/03/09/p/dre
+- type: cites
+  target: pt:dre:401736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558976:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:26Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +159,9 @@ Os artigos 1.º e 5.º do [Decreto-Lei n.º 229/2000](https://diariodarepublica.
 
 2 - A IMOAREIA, S. A., pode alienar a totalidade ou parte das acções representativas do capital social da sociedade concessionária, sem prejuízo do disposto no n.º 3 do artigo 17.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, na sua redacção em vigor.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -213,12 +231,12 @@ As alterações a efectuar nos contratos de investimento, de concessão de jogo 
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Luís Guerra Nunes Mexia - Telmo Augusto Gomes de Noronha Correia.
 
-**Promulgado em 5 de Abril de 2005.**
+Promulgado em 5 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 2005.**
+Referendado em 7 de Abril de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2008/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2008-454571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dbb8e58022225c0082e74a917786a1fd90630b38ef74c75eac5b4c5bf0e461e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdd07538b1e279fc0c9fa46a3c0b1ff849dd6803cf572da591176d3eb8c4dde4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Modernização Administrativa
+- ASAE
+- Assinatura Digital
 - Código da Propriedade Industrial
 - Desenho e Modelo Industrial
-- Medicamento
 - Instituto Nacional da Propriedade Industrial
-- Simbolo de Identificação
-- ASAE
-- Patente
-- Propriedade Industrial
-- Marca Registada
-- Programa Simplex
-- Propriedade Intelectual
-- Assinatura Digital
-- Produto Fitofarmacêutico
 - Invenção
+- Marca Registada
+- Medicamento
+- Modernização Administrativa
+- Patente
+- Produto Fitofarmacêutico
+- Programa Simplex
+- Propriedade Industrial
+- Propriedade Intelectual
+- Simbolo de Identificação
 relationships:
 - type: cites
   target: celex:31992R1768
@@ -103,15 +103,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2006/1901/oj
 article_structure:
-  article_count: 542
-  section_count: 92
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 415
+  section_count: 93
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:34Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +194,9 @@ Os artigos 4.º a 6.º, 8.º, 10.º a 13.º, 16.º, 17.º, 19.º, 24.º, 25.º, 
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -202,11 +204,15 @@ Os artigos 4.º a 6.º, 8.º, 10.º a 13.º, 16.º, 17.º, 19.º, 24.º, 25.º, 
 
 3 - As sentenças relativas a acções propostas com base na protecção provisória não podem ser proferidas antes da concessão ou da recusa definitiva da patente, do modelo de utilidade ou do registo, suspendendo-se a instância finda a fase dos articulados.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os direitos emergentes de patentes e de modelos de utilidade bem como de registos de topografias de produtos semicondutores, de desenhos ou modelos e de marcas e outros sinais distintivos do comércio estão sujeitos a penhora e arresto, podendo ser dados em penhor ou sujeitos a outras apreensões de bens efectuadas nos termos legais.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +228,9 @@ Os direitos emergentes de patentes e de modelos de utilidade bem como de registo
 
 7 - O terceiro que possa prevalecer-se do disposto no número anterior pode, no prazo de dois meses a contar da data da publicação da menção do restabelecimento do direito, deduzir oposição contra a decisão que restabelece o requerente ou o titular dos seus direitos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +258,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +288,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 13 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +316,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 12 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +328,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As partes intervenientes no processo administrativo são notificadas das decisões finais do Instituto Nacional da Propriedade Industrial, sendo essas notificações efectuadas exclusivamente através de publicação no Boletim da Propriedade Industrial sempre que proferido despacho de concessão no âmbito de processos em que não tenha sido apresentada qualquer reclamação.
 
@@ -324,7 +340,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 4 - Nos casos previstos no n.º 1 em que a notificação é efectuada exclusivamente através de publicação no Boletim da Propriedade Industrial, o Instituto Nacional da Propriedade Industrial deve avisar os requerentes dessa publicação pelos meios que considere adequados.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -340,7 +358,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 7 - (Revogado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +372,9 @@ b) Indicar um endereço electrónico ou um número de fax.
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -370,7 +392,9 @@ f) A apresentação de requerimento cujo objecto seja impossível ou ininteligí
 
 2 - Nos casos previstos no número anterior, o acto requerido não pode ser submetido a despacho sem que o requerente seja previamente notificado para vir regularizá-lo, em prazo nele fixado.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -378,13 +402,17 @@ f) A apresentação de requerimento cujo objecto seja impossível ou ininteligí
 
 3 - As alterações ou correcções a que se refere o n.º 1 são publicadas, para efeitos de recurso, nos termos dos artigos 39.º e seguintes deste Código e averbadas nos respectivos processos.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Os títulos de concessão de direitos de propriedade industrial só são emitidos e entregues aos titulares mediante pedido e decorrido um mês sobre o termo do prazo de recurso ou, interposto este, depois de conhecida a decisão judicial ou arbitral definitiva.
 
 2 - (Revogado.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -398,7 +426,9 @@ f) A apresentação de requerimento cujo objecto seja impossível ou ininteligí
 
 6 - Sem prejuízo do disposto nos números anteriores, o Instituto Nacional da Propriedade Industrial pode fornecer informações sobre pedidos de registo de marcas, de logótipos, de recompensas, de denominações de origem e de indicações geográficas, mesmo antes de atingida a fase de publicidade.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -424,7 +454,9 @@ e) ...
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -438,7 +470,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -458,7 +492,9 @@ e) ...
 
 9 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - As patentes, os modelos de utilidade e os registos são total ou parcialmente nulos:
 
@@ -470,7 +506,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - As patentes, os modelos de utilidade e os registos são total ou parcialmente anuláveis quando o titular não tiver direito a eles, nomeadamente:
 
@@ -480,7 +518,9 @@ b) ...
 
 2 - Nos casos previstos na alínea b) do número anterior, o interessado pode, em vez da anulação e se reunir as condições legais, pedir a reversão total ou parcial do direito a seu favor.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -490,7 +530,9 @@ b) ...
 
 4 - Sempre que sejam intentadas as acções referidas no presente artigo, o tribunal deve comunicar esse facto ao Instituto Nacional da Propriedade Industrial, se possível por transmissão electrónica de dados, para efeito do respectivo averbamento.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -502,7 +544,9 @@ b) ...
 
 5 - A renúncia não prejudica os direitos derivados que estejam averbados, desde que os seus titulares, devidamente notificados, se substituam ao titular do direito principal, na medida necessária à salvaguarda desses direitos.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -514,7 +558,9 @@ b) ...
 
 5 - As comunicações a que se refere este artigo devem ser feitas, sempre que possível, por transmissão electrónica de dados.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -522,7 +568,9 @@ b) ...
 
 3 - O tribunal arbitral pode determinar a publicidade da decisão nos termos do n.º 3 do artigo 35.º
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - O interessado que pretenda recorrer à arbitragem, no âmbito dos litígios previstos no artigo anterior, pode requerer a celebração de compromisso arbitral, nos termos da lei de arbitragem voluntária, e aceitar submeter o litígio a arbitragem.
 
@@ -532,7 +580,9 @@ b) ...
 
 4 - Pode ser determinada a vinculação genérica do Instituto Nacional da Propriedade Industrial a centros de arbitragem voluntária institucionalizada com competência para dirimir os conflitos referidos no n.º 1 do artigo anterior, por meio de portaria do membro do Governo de que dependa este Instituto, a qual estabelece o tipo e o valor máximo dos litígios abrangidos, conferindo aos interessados o poder de se dirigirem a esses centros para a resolução de tais litígios.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -548,7 +598,9 @@ b) ...
 
 7 - Nos casos previstos no n.º 5, o modelo de utilidade caduca após a concessão de uma patente relativa à mesma invenção.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -562,7 +614,9 @@ b) ...
 
 c) Os métodos de tratamento cirúrgico ou terapêutico do corpo humano ou animal e os métodos de diagnóstico aplicados ao corpo humano ou animal, podendo ser patenteados os produtos, substâncias ou composições utilizados em qualquer desses métodos.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -584,7 +638,9 @@ f) [Anterior alínea e).]
 
 4 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -596,7 +652,9 @@ b) ...
 
 3 - A pedido do requerente, o prazo previsto no número anterior pode ser prorrogado, uma única vez, por igual período.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -616,7 +674,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 3 - Para efeito do que se dispõe no n.º 1 do artigo 11.º, é concedida prioridade ao pedido de patente que primeiro apresentar, para além dos elementos exigidos na alínea a) do n.º 1, a indicação do número e data do pedido anterior e do organismo onde o mesmo foi efectuado, quando for reivindicada a prioridade de um pedido anterior.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Ao requerimento devem juntar-se, redigidos em língua portuguesa, os seguintes elementos:
 
@@ -640,7 +700,9 @@ d) ...
 
 7 - Os elementos previstos nos números anteriores podem ser apresentados em língua inglesa, notificando-se o requerente, nos termos do artigo 65.º, para apresentar uma tradução para a língua portuguesa.
 
-###### Artigo 65.º — Exame quanto à forma e quanto às limitações
+Artigo 65.º
+
+Exame quanto à forma e quanto às limitações
 
 1 - Apresentado o pedido de patente no Instituto Nacional da Propriedade Industrial, é feito exame quanto à forma e quanto às limitações relativas ao objecto ou à patente, no prazo de um mês, para verificar se preenche os requisitos estabelecidos nos artigos 52.º, 53.º e 61.º a 63.º
 
@@ -648,7 +710,9 @@ d) ...
 
 3 - Se o não fizer no prazo estabelecido, o pedido é recusado e publicado o respectivo despacho no Boletim da Propriedade Industrial, não havendo, neste caso, lugar à publicação prevista no artigo 66.º
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Sendo apresentado de forma regular, ou regularizado nos termos do n.º 2 do artigo 65.º, o pedido de patente é publicado no Boletim da Propriedade Industrial com a transcrição do resumo e da classificação internacional de patentes.
 
@@ -660,7 +724,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -680,7 +746,9 @@ d) ...
 
 9 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -702,7 +770,9 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 3 - Constitui ainda motivo de recusa o reconhecimento de que o requerente pretende fazer concorrência desleal ou de que esta é possível independentemente da sua intenção.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -710,7 +780,9 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 3 - A tradução mencionada no número anterior é entregue no Instituto Nacional da Propriedade Industrial no prazo de um mês a contar da data do pedido de patente europeia apresentado em Portugal.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -720,7 +792,9 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 4 - Nos casos previstos nos n.os 1 e 2 e para efeitos do que se dispõe nos artigos 73.º e 88.º, o titular deve ainda mencionar se a invenção a que respeita a patente europeia é objecto de uma patente ou de um pedido de patente apresentado anteriormente em Portugal, indicando o respectivo número, data de pedido ou outras observações que considere relevantes.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - A tradução em português da descrição, das reivindicações e do resumo, bem como de uma cópia dos desenhos da patente europeia, deve ser apresentada no Instituto Nacional da Propriedade Industrial no prazo de três meses a contar da data da publicação no Boletim Europeu de Patentes do aviso de concessão da patente ou, se for esse o caso, a contar da data do aviso da decisão relativa à oposição ou à limitação da patente europeia.
 
@@ -728,13 +802,17 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 3 - Se o requerente não tiver dado satisfação a todas as exigências previstas no n.º 1 no prazo aí indicado, pode fazê-lo no prazo de um mês a contar do seu termo, mediante o pagamento de uma sobretaxa calculada com referência à taxa do pedido de patente nacional.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - O Instituto Nacional da Propriedade Industrial procede à publicação, no Boletim da Propriedade Industrial, de um aviso relativo à remessa das traduções referidas no artigo 79.º contendo as indicações necessárias à identificação da patente europeia e a eventuais limitações.
 
 2 - ...
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -746,7 +824,9 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 5 - ...
 
-###### Artigo 86.º — Transformação em pedido de patente nacional
+Artigo 86.º
+
+Transformação em pedido de patente nacional
 
 1 - ...
 
@@ -760,7 +840,9 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 6 - O pedido de patente é recusado se, no prazo de dois meses a contar da data da recepção do pedido de transformação, o requerente não pagar as taxas devidas por um pedido de patente nacional ou, se for o caso, não tiver apresentado uma tradução em português do texto original do pedido de patente europeia.
 
-###### Artigo 87.º — Transformação em pedido de modelo de utilidade português
+Artigo 87.º
+
+Transformação em pedido de modelo de utilidade português
 
 1 - (Revogado.)
 
@@ -768,7 +850,9 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 3 - O disposto no artigo anterior é aplicável, com as devidas adaptações, sempre que seja requerida a transformação em pedido de modelo de utilidade.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - Uma patente nacional que tenha por objecto uma invenção para a qual tenha sido concedida, com a mesma data de pedido ou de prioridade, uma patente europeia válida em Portugal, ao mesmo inventor ou com o seu consentimento, caduca a partir do momento em que:
 
@@ -780,7 +864,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -802,7 +888,9 @@ b) ...
 
 10 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - Sempre que um requerente desejar que o processo relativo a um pedido internacional prossiga em Portugal, deve apresentar, junto do Instituto Nacional da Propriedade Industrial, uma tradução, em português, de todos os elementos que integram o pedido internacional, no prazo estabelecido no Tratado de Cooperação, e satisfazer, em simultâneo, o pagamento da taxa correspondente ao pedido nacional.
 
@@ -810,7 +898,9 @@ b) ...
 
 3 - Se o requerente não tiver satisfeito todas as exigências previstas no n.º 1 no prazo nele indicado, pode fazê-lo no prazo de um mês a contar do seu termo, mediante o pagamento de uma sobretaxa calculada com referência à taxa do pedido de patente nacional.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -826,7 +916,9 @@ b) ...
 
 7 - A decisão que conceda ou denegue a remuneração é susceptível de recurso judicial ou arbitral, nos termos dos artigos 48.º a 50.º
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
@@ -834,7 +926,9 @@ b) ...
 
 3 - Havendo declaração de nulidade ou anulação de uma ou mais reivindicações, a patente continua em vigor relativamente às restantes sempre que subsistir matéria para uma patente independente.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - O pedido de certificado complementar de protecção para os medicamentos e para os produtos fitofarmacêuticos, apresentado junto do Instituto Nacional da Propriedade Industrial, deve incluir um requerimento, redigido em língua portuguesa, que indique ou contenha:
 
@@ -852,7 +946,9 @@ e) A assinatura ou a identificação electrónica do requerente ou do seu mandat
 
 3 - ...
 
-###### Artigo 116.º — Exame e publicação
+Artigo 116.º
+
+Exame e publicação
 
 1 - Apresentado o pedido no Instituto Nacional da Propriedade Industrial, é feito o respectivo exame, verificando-se se foi apresentado dentro do prazo e se preenche as condições previstas no artigo 115.º, no Regulamento (CEE) n.º [1768/92](http://data.europa.eu/eli/reg/1992/1768/oj?locale=pt), do Conselho, de 18 de Junho, e no Regulamento (CE) n.º [1610/96](http://data.europa.eu/eli/reg/1996/1610/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de Julho, relativos à criação dos certificados complementares de protecção para os medicamentos e para os produtos fitofarmacêuticos.
 
@@ -882,7 +978,9 @@ f) ...
 
 8 - O disposto no presente artigo é aplicável, com as necessárias adaptações, aos pedidos de prorrogação de validade dos certificados complementares de protecção.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - ...
 
@@ -896,7 +994,9 @@ f) ...
 
 6 - Nos casos previstos no n.º 4, o modelo de utilidade caduca após a concessão de uma patente relativa à mesma invenção.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -910,7 +1010,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - ...
 
@@ -932,7 +1034,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 4 - O documento previsto no número anterior pode ser apresentado em língua inglesa, notificando-se o requerente, nos termos do artigo 127.º, para apresentar uma tradução para a língua portuguesa.
 
-###### Artigo 127.º — Exame quanto à forma e quanto às limitações
+Artigo 127.º
+
+Exame quanto à forma e quanto às limitações
 
 1 - Apresentado o pedido de modelo de utilidade no Instituto Nacional da Propriedade Industrial, faz-se exame quanto à forma e quanto às limitações relativas ao objecto e ao modelo de utilidade, no prazo de um mês, para verificar se preenche os requisitos estabelecidos nos artigos 118.º, 119.º, 124.º e 125.º
 
@@ -940,7 +1044,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 3 - Se o não fizer no prazo estabelecido, o pedido é recusado e publicado o respectivo despacho no Boletim da Propriedade Industrial, não havendo, neste caso, lugar à publicação prevista no artigo 128.º
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - Sendo apresentado de forma regular ou regularizado nos termos do n.º 2 do artigo 127.º, o pedido de modelo de utilidade é publicado no Boletim da Propriedade Industrial, com a transcrição do resumo e da classificação internacional de patentes.
 
@@ -954,7 +1060,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 6 - ...
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - Não tendo sido requerido exame e não havendo oposição, o modelo de utilidade é concedido provisoriamente e o requerente notificado desta decisão.
 
@@ -962,7 +1070,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 3 - A validade do modelo de utilidade provisório cessa logo que tenha sido requerido o exame da invenção.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - ...
 
@@ -970,7 +1080,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 3 - Se o titular do modelo de utilidade, concedido provisoriamente, pretender propor acções judiciais ou arbitrais para defesa dos direitos que o mesmo confere, deve requerer, obrigatoriamente, junto do Instituto Nacional da Propriedade Industrial, o exame a que se refere o artigo seguinte, sendo aplicável o disposto no artigo 5.º
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -992,7 +1104,9 @@ f) Assinatura ou identificação electrónica do requerente ou do seu mandatári
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - ...
 
@@ -1016,15 +1130,21 @@ g) Tenha por objecto uma invenção para a qual tenha sido concedida, ao mesmo i
 
 4 - O motivo de recusa previsto na alínea g) do n.º 1 é também fundamento de caducidade do modelo de utilidade, aplicando-se o disposto no artigo 88.º, com as necessárias adaptações.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 Durante a vigência do modelo de utilidade, o seu titular pode usar, nos produtos, a expressão 'Modelo de utilidade n.º' e 'MU n.º' ou, no caso previsto no artigo 130.º, a expressão 'Modelo de utilidade provisório n.º' e 'MU provisório n.º'.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 É aplicável ao pedido de registo de topografias de produtos semicondutores o disposto nos artigos 61.º, 62.º e 65.º a 72.º, com as necessárias adaptações.
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - ...
 
@@ -1042,7 +1162,9 @@ e) ...
 
 3 - Constitui ainda motivo de recusa o reconhecimento de que o requerente pretende fazer concorrência desleal ou de que esta é possível independentemente da sua intenção.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - ...
 
@@ -1070,7 +1192,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - ...
 
@@ -1084,7 +1208,9 @@ b) ...
 
 6 - A pedido do requerente, os prazos previstos nos n.os 3 e 5 podem ser prorrogados, uma única vez, por igual período.
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - ...
 
@@ -1104,7 +1230,9 @@ f) A assinatura ou a identificação electrónica do requerente ou do seu mandat
 
 3 - ...
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - ...
 
@@ -1136,7 +1264,9 @@ b) Autorização para incluir no desenho ou modelo sinais com elevado valor simb
 
 9 - Quando nos pedidos de registo de desenho ou modelo for reivindicada uma combinação de cores, as representações gráficas ou fotográficas devem exibir as cores reivindicadas e a descrição, quando apresentada, deve fazer referência às mesmas.
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, um pedido pode incluir até 100 produtos, desde que pertençam à mesma classe da classificação internacional de desenhos e modelos industriais.
 
@@ -1146,7 +1276,9 @@ b) Autorização para incluir no desenho ou modelo sinais com elevado valor simb
 
 4 - Se se entender que alguns dos produtos incluídos num pedido múltiplo não constituem desenho ou modelo nos termos dos artigos 173.º e 174.º, o requerente é notificado para proceder à respectiva reformulação para patente ou modelo de utilidade, conservando-se como data do pedido a data do pedido inicial.
 
-###### Artigo 188.º — Exame quanto à forma e exame oficioso
+Artigo 188.º
+
+Exame quanto à forma e exame oficioso
 
 1 - Apresentado o pedido de registo no Instituto Nacional da Propriedade Industrial, são examinados, no prazo de um mês, os requisitos formais estabelecidos nos artigos 173.º e 174.º, nos n.os 3 e 5 do artigo 180.º e nos artigos 184.º a 187.º
 
@@ -1166,7 +1298,9 @@ b) Autorização para incluir no desenho ou modelo sinais com elevado valor simb
 
 9 - O disposto no presente artigo não obsta a que o Instituto Nacional da Propriedade Industrial, depois de decorridos os prazos previstos no artigo 17.º, possa suscitar o incumprimento dos requisitos mencionados no n.º 1 ou a existência das proibições mencionadas no n.º 2, notificando o requerente para corrigir ou sanar as objecções assinaladas nos termos e prazos previstos neste artigo.
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - Sendo apresentado de forma regular ou corrigidas as irregularidades e sanadas as objecções detectadas, nos termos do n.º 5 do artigo anterior, o pedido de registo é publicado no Boletim da Propriedade Industrial, com reprodução do desenho ou modelo e da classificação internacional dos desenhos e modelos industriais, para efeito de reclamação de quem se julgar prejudicado pela eventual concessão do registo.
 
@@ -1176,7 +1310,9 @@ b) Autorização para incluir no desenho ou modelo sinais com elevado valor simb
 
 4 - Sem prejuízo do disposto no artigo anterior e sempre que o requerente não apresente os necessários esclarecimentos ou autorizações, as expressões que infrinjam o disposto no n.º 2 do artigo 184.º são suprimidas, oficiosamente, tanto na indicação dos produtos e nas representações do desenho ou modelo como nas publicações a que o pedido der lugar.
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - Para além do que se dispõe no artigo 24.º, é recusado o registo de desenho ou modelo que contenha:
 
@@ -1216,7 +1352,9 @@ e) O desenho ou modelo constituir uma utilização não autorizada de uma obra p
 
 5 - Constitui também fundamento de recusa do registo de desenho ou modelo, quando invocado em reclamação, o reconhecimento de que o requerente pretende fazer concorrência desleal ou de que esta é possível independentemente da sua intenção.
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - ...
 
@@ -1226,25 +1364,33 @@ e) O desenho ou modelo constituir uma utilização não autorizada de uma obra p
 
 4 - Os registos modificados a que se refere o n.º 2 revertem para o domínio público no termo da validade do registo inicial.
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 1 - Para além do que se dispõe no artigo 33.º, o registo de desenho ou modelo é nulo quando na sua concessão tenha sido infringido o disposto nos n.os 1 a 3 e nas alíneas a) e c) do n.º 4 do artigo 197.º
 
 2 - (Revogado.)
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - Para além do que se dispõe no artigo 34.º, o registo de desenho ou modelo é anulável quando na sua concessão tenha sido infringido o disposto nas alíneas d) e e) do n.º 4 e no n.º 5 do artigo 197.º
 
 2 - (Revogado.)
 
-###### Artigo 210.º — [...]
+Artigo 210.º
+
+[...]
 
 1 - Pode ser declarado nulo, ou anulado, o registo de um ou mais produtos constantes do mesmo registo, mas não pode declarar-se a nulidade ou anular-se parcialmente o registo relativo a um produto.
 
 2 - Havendo declaração de nulidade ou anulação de um ou mais produtos, o registo continua em vigor na parte remanescente.
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - ...
 
@@ -1268,7 +1414,9 @@ i) A assinatura ou a identificação electrónica do requerente ou do respectivo
 
 2 - Para efeitos do que se dispõe no n.º 1 do artigo 11.º, é concedida prioridade ao pedido de registo que primeiro apresentar, para além dos elementos exigidos nas alíneas a) e b) do n.º 1, uma representação da marca pretendida.
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - Ao requerimento deve juntar-se uma representação gráfica do sinal ou, quando se trate de sons, as respectivas frases musicais, em suporte definido por despacho do presidente do conselho directivo do Instituto Nacional da Propriedade Industrial.
 
@@ -1292,7 +1440,9 @@ e) Autorização para incluir na marca sinais com elevado valor simbólico, nome
 
 6 - Quando nos elementos figurativos de uma marca constem elementos verbais, o requerente deve especificá-los no requerimento de pedido.
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - ...
 
@@ -1300,7 +1450,9 @@ e) Autorização para incluir na marca sinais com elevado valor simbólico, nome
 
 3 - Compete ao Instituto Nacional da Propriedade Industrial verificar a classificação a que se refere o número anterior, corrigindo-a, se for caso disso, através da inclusão dos termos precisos ou da supressão dos termos incorrectos.
 
-###### Artigo 237.º — Tramitação processual
+Artigo 237.º
+
+Tramitação processual
 
 1 - O Instituto Nacional da Propriedade Industrial procede ao estudo do processo, o qual consiste no exame da marca registanda e sua comparação com outras marcas e sinais distintivos do comércio.
 
@@ -1324,7 +1476,9 @@ e) Autorização para incluir na marca sinais com elevado valor simbólico, nome
 
 11 - ...
 
-###### Artigo 238.º — [...]
+Artigo 238.º
+
+[...]
 
 1 - ...
 
@@ -1362,7 +1516,9 @@ b) Levar o consumidor a supor, erradamente, que os produtos ou serviços provêm
 
 c) Produzir o desrespeito ou o desprestígio da Bandeira Nacional ou de algum dos seus elementos.
 
-###### Artigo 239.º — [...]
+Artigo 239.º
+
+[...]
 
 1 - Constitui ainda fundamento de recusa do registo de marca:
 
@@ -1388,7 +1544,9 @@ d) A infracção do disposto no artigo 226.º
 
 3 - No caso previsto na alínea d) do número anterior, em vez da recusa do registo pode ser concedida a sua transmissão, total ou parcial, a favor do titular, se este a tiver pedido.
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 1 - ...
 
@@ -1406,17 +1564,23 @@ e) ...
 
 3 - ...
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 1 - O requerente ou o titular de um registo de marca, de nacionalidade portuguesa, domiciliado ou estabelecido em Portugal pode assegurar a protecção da sua marca nas partes contratantes que constituem a União de Madrid, nos termos previstos no Acordo ou no Protocolo de Madrid.
 
 2 - (Revogado.)
 
-###### Artigo 250.º — [...]
+Artigo 250.º
+
+[...]
 
 O titular de um registo internacional pode sempre renunciar à protecção da sua marca, total ou parcialmente, no território de uma ou várias partes contratantes, nos termos previstos no Acordo ou no Protocolo de Madrid.
 
-###### Artigo 265.º — [...]
+Artigo 265.º
+
+[...]
 
 1 - ...
 
@@ -1426,7 +1590,9 @@ b) (Revogada.)
 
 2 - ...
 
-###### Artigo 266.º — [...]
+Artigo 266.º
+
+[...]
 
 1 - Para além do que se dispõe no artigo 34.º, o registo da marca é anulável quando, na sua concessão, tenha sido infringido o previsto nos artigos 239.º a 242.º
 
@@ -1436,7 +1602,9 @@ b) (Revogada.)
 
 4 - ...
 
-###### Artigo 270.º — [...]
+Artigo 270.º
+
+[...]
 
 1 - ...
 
@@ -1458,7 +1626,9 @@ b) (Revogada.)
 
 10 - ...
 
-###### Artigo 274.º — [...]
+Artigo 274.º
+
+[...]
 
 ...
 
@@ -1472,7 +1642,9 @@ d) O logótipo a que a recompensa está ligada, no todo ou em parte, quando for 
 
 e) A assinatura ou a identificação electrónica do requerente ou do respectivo mandatário.
 
-###### Artigo 275.º — [...]
+Artigo 275.º
+
+[...]
 
 1 - ...
 
@@ -1482,7 +1654,9 @@ e) A assinatura ou a identificação electrónica do requerente ou do respectivo
 
 4 - O registo das recompensas em que se incluam referências a logótipos supõe o seu registo prévio.
 
-###### Artigo 307.º — [...]
+Artigo 307.º
+
+[...]
 
 1 - ...
 
@@ -1496,7 +1670,9 @@ d) A assinatura ou a identificação electrónica do requerente ou do seu mandat
 
 2 - À concessão do registo são aplicáveis, com as necessárias adaptações, os termos do processo de registo nacional de marca.
 
-###### Artigo 319.º — [...]
+Artigo 319.º
+
+[...]
 
 1 - ...
 
@@ -1508,21 +1684,29 @@ d) A assinatura ou a identificação electrónica do requerente ou do seu mandat
 
 5 - ...
 
-###### Artigo 334.º — [...]
+Artigo 334.º
+
+[...]
 
 É punido com coima de (euro) 3000 a (euro) 30 000, caso se trate de pessoa colectiva, e de (euro) 750 a (euro) 3740, caso se trate de pessoa singular, quem, sem consentimento do titular do direito, usar no seu estabelecimento ou na sua entidade, em anúncios, correspondência, produtos, serviços ou por qualquer outra forma, sinal que constitua reprodução ou que seja imitação de logótipo já registado por outrem.
 
-###### Artigo 336.º — [...]
+Artigo 336.º
+
+[...]
 
 1 - É punido com coima de (euro) 3000 a (euro) 30 000, caso se trate de pessoa colectiva, e de (euro) 750 a (euro) 3740, caso se trate de pessoa singular, quem usar, como sinais distintivos não registados, qualquer dos sinais indicados nas alíneas a) e b) do n.º 4 e no n.º 6 do artigo 238.º, bem como na alínea d) do n.º 1 do artigo 239.º
 
 2 - ...
 
-###### Artigo 337.º — [...]
+Artigo 337.º
+
+[...]
 
 É punido com coima de (euro) 3000 a (euro) 30 000, caso se trate de pessoa colectiva, e de (euro) 750 a (euro) 3740, caso se trate de pessoa singular, quem, ilegitimamente, usar no nome ou na insígnia do seu estabelecimento, ou no logótipo, registado ou não, a firma ou a denominação social que não pertença ao requerente, ou apenas parte característica das mesmas, se for susceptível de induzir o consumidor em erro ou confusão, salvo se se provar o consentimento ou a legitimidade do seu uso.
 
-###### Artigo 338.º — [...]
+Artigo 338.º
+
+[...]
 
 ...
 
@@ -1532,15 +1716,21 @@ b) Usar ou aplicar, indevidamente, as indicações de patente, de modelo de util
 
 c) (Revogada.)
 
-###### Artigo 343.º — [...]
+Artigo 343.º
+
+[...]
 
 A instrução dos processos por contra-ordenação, prevista neste Código, cabe no âmbito de competência da Autoridade de Segurança Alimentar e Económica.
 
-###### Artigo 344.º — [...]
+Artigo 344.º
+
+[...]
 
 Compete ao conselho directivo do Instituto Nacional da Propriedade Industrial decidir e aplicar as coimas e as sanções acessórias previstas neste Código.
 
-###### Artigo 345.º — [...]
+Artigo 345.º
+
+[...]
 
 ...
 
@@ -1550,11 +1740,15 @@ b) 20 % para a Autoridade de Segurança Alimentar e Económica;
 
 c) ...
 
-###### Artigo 346.º — [...]
+Artigo 346.º
+
+[...]
 
 Pelos diversos actos previstos neste Código são devidas taxas, a fixar por portaria conjunta do membro do Governo responsável pela área das finanças e do membro do Governo de que dependa o Instituto Nacional da Propriedade Industrial, sob proposta deste Instituto.
 
-###### Artigo 348.º — [...]
+Artigo 348.º
+
+[...]
 
 1 - ...
 
@@ -1564,7 +1758,9 @@ Pelos diversos actos previstos neste Código são devidas taxas, a fixar por por
 
 4 - Sempre que, devido a decisão judicial ou arbitral ou a aplicação de disposições transitórias, a data de início de validade das patentes, dos modelos de utilidade ou dos registos não coincidir com a data referida nos números anteriores, a contagem das respectivas anuidades ou taxas periódicas faz-se a partir daquela data.
 
-###### Artigo 349.º — [...]
+Artigo 349.º
+
+[...]
 
 1 - Apenas são exigíveis as anuidades correspondentes ao 3.º ano de vigência e seguintes relativos a patentes, a modelos de utilidade e a topografias de produtos semicondutores, bem como o 2.º quinquénio e seguintes relativos a desenhos ou modelos.
 
@@ -1584,19 +1780,25 @@ Pelos diversos actos previstos neste Código são devidas taxas, a fixar por por
 
 9 - A falta do aviso referido no número anterior não constitui justificação para o não pagamento de taxas nas datas previstas.
 
-###### Artigo 351.º — [...]
+Artigo 351.º
+
+[...]
 
 1 - Os requerentes de patentes, de modelos de utilidade e de registos de topografias de produtos semicondutores e de desenhos ou modelos que façam prova de que não auferem rendimentos que lhes permitam custear as despesas relativas aos pedidos e manutenção desses direitos são isentos do pagamento de 80 % de todas as taxas, até à 7.ª anuidade e até ao 2.º quinquénio, se assim o requererem antes da apresentação do respectivo pedido.
 
 2 - Compete ao conselho directivo do Instituto Nacional da Propriedade Industrial a apreciação da prova mencionada no número anterior e a decisão do requerimento, por despacho.
 
-###### Artigo 352.º — [...]
+Artigo 352.º
+
+[...]
 
 1 - Oficiosamente ou a requerimento do interessado, são restituídas as taxas sempre que se reconhecer terem sido pagas indevidamente.
 
 2 - ...
 
-###### Artigo 353.º — [...]
+Artigo 353.º
+
+[...]
 
 1 - Enquanto pender acção em juízo ou em tribunal arbitral sobre algum direito de propriedade industrial, ou não for levantado o arresto ou a penhora que sobre o mesmo possa recair, bem como qualquer outra apreensão efectuada nos termos legais, não é declarada a caducidade da respectiva patente, do modelo de utilidade ou do registo por falta de pagamento de taxas periódicas que se forem vencendo.
 
@@ -1610,7 +1812,9 @@ Pelos diversos actos previstos neste Código são devidas taxas, a fixar por por
 
 6 - Finda a acção, ou levantado o arresto, a penhora ou qualquer outra apreensão efectuada nos termos legais, o tribunal deve comunicá-lo oficiosamente ao Instituto Nacional da Propriedade Industrial.
 
-###### Artigo 356.º — [...]
+Artigo 356.º
+
+[...]
 
 1 - ...
 
@@ -1654,13 +1858,17 @@ Forma da prática de actos
 
 3 - A aposição de assinatura electrónica qualificada ou avançada nos actos praticados pelos interessados ou pelo Instituto Nacional da Propriedade Industrial substitui e dispensa para todos os efeitos a assinatura autógrafa em suporte papel desde que sejam respeitados os requisitos exigíveis pelo Sistema de Certificação Electrónica do Estado.
 
-###### Artigo 17.º-A — Suspensão do estudo
+Artigo 17.º-A
+
+Suspensão do estudo
 
 1 - A requerimento do interessado e com o acordo da parte contrária, o estudo do processo pode ser suspenso por prazo não superior a seis meses.
 
 2 - O estudo pode ainda ser suspenso, oficiosamente ou a requerimento do interessado, pelo período em que se verifique uma causa prejudicial susceptível de afectar a decisão sobre o mesmo.
 
-###### Artigo 62.º-A — Pedido provisório de patente
+Artigo 62.º-A
+
+Pedido provisório de patente
 
 1 - Quem pretenda assegurar a prioridade de um pedido de patente e não disponha ainda de todos os elementos previstos no artigo anterior pode apresentar um pedido provisório, adiando a entrega desses elementos até ao prazo máximo de 12 meses.
 
@@ -1680,7 +1888,9 @@ e) Um documento que descreva o objecto do pedido de maneira a permitir a execuç
 
 4 - A pedido do requerente e antes de expirado o prazo de 12 meses a contar da apresentação do pedido provisório, é realizada uma pesquisa, com base no documento mencionado na alínea e) do n.º 2, sempre que neste exista matéria técnica pesquisável.
 
-###### Artigo 62.º-B — Conversão do pedido provisório de patente
+Artigo 62.º-B
+
+Conversão do pedido provisório de patente
 
 1 - Antes de expirado o prazo de 12 meses a contar da apresentação do pedido provisório, este pedido deve ser convertido num pedido definitivo de patente, acompanhado dos elementos previstos nos artigos 61.º e 62.º, devidamente redigidos em língua portuguesa.
 
@@ -1698,13 +1908,17 @@ e) Um documento que descreva o objecto do pedido de maneira a permitir a execuç
 
 8 - A falta do aviso referido no número anterior não constitui justificação para a não observância daquele prazo.
 
-###### Artigo 65.º-A — Relatório de pesquisa
+Artigo 65.º-A
+
+Relatório de pesquisa
 
 1 - Depois de efectuado o exame previsto no artigo anterior é realizada uma pesquisa ao estado da técnica, com base em todos os elementos constantes do processo, de modo a avaliar os requisitos de novidade e actividade inventiva.
 
 2 - O relatório de pesquisa, que não tem um carácter vinculativo, é imediatamente enviado ao requerente.
 
-###### Artigo 115.º-A — Pedido de prorrogação da validade de um certificado
+Artigo 115.º-A
+
+Pedido de prorrogação da validade de um certificado
 
 1 - Pode ser apresentado um pedido de prorrogação da validade de um certificado complementar de protecção quando este respeite a medicamentos para uso pediátrico.
 
@@ -1718,13 +1932,17 @@ e) Um documento que descreva o objecto do pedido de maneira a permitir a execuç
 
 6 - Quando o pedido de prorrogação respeite a um certificado complementar de protecção já concedido, o requerimento, para além dos elementos previstos no n.º 4, deve incluir a referência a este certificado.
 
-###### Artigo 127.º-A — Relatório de pesquisa
+Artigo 127.º-A
+
+Relatório de pesquisa
 
 1 - Depois de efectuado o exame previsto no artigo anterior e sempre que seja requerido o exame da invenção previsto no artigo 132.º, é realizada uma pesquisa ao estado da técnica, com base em todos os elementos constantes do processo, de modo a avaliar os requisitos de novidade e actividade inventiva.
 
 2 - O relatório de pesquisa, que não tem um carácter vinculativo, é imediatamente enviado ao requerente.
 
-###### Artigo 190.º-A — Formalidades subsequentes
+Artigo 190.º-A
+
+Formalidades subsequentes
 
 1 - Findo o prazo para oposição sem que tenha sido apresentada reclamação, o registo é concedido, total ou parcialmente, publicando-se despacho de concessão, total ou parcial, no Boletim da Propriedade Industrial.
 
@@ -1740,23 +1958,31 @@ e) Um documento que descreva o objecto do pedido de maneira a permitir a execuç
 
 7 - Dos despachos mencionados nos números anteriores é imediatamente efectuada notificação, nos termos do n.º 1 do artigo 16.º, com indicação do Boletim da Propriedade Industrial em que o respectivo despacho foi publicado.
 
-###### Artigo 304.º-A — Constituição do logótipo
+Artigo 304.º-A
+
+Constituição do logótipo
 
 1 - O logótipo pode ser constituído por um sinal ou conjunto de sinais susceptíveis de representação gráfica, nomeadamente por elementos nominativos, figurativos ou por uma combinação de ambos.
 
 2 - O logótipo deve ser adequado a distinguir uma entidade que preste serviços ou comercialize produtos, podendo ser utilizado, nomeadamente, em estabelecimentos, anúncios, impressos ou correspondência.
 
-###### Artigo 304.º-B — Direito ao registo
+Artigo 304.º-B
+
+Direito ao registo
 
 Tem legitimidade para requerer o registo de um logótipo qualquer entidade individual ou colectiva, de carácter público ou privado, que nele tenha interesse legítimo.
 
-###### Artigo 304.º-C — Unicidade do registo
+Artigo 304.º-C
+
+Unicidade do registo
 
 1 - O mesmo sinal, quando se destine a individualizar uma mesma entidade, só pode ser objecto de um registo de logótipo.
 
 2 - A mesma entidade pode ser individualizada através de diferentes registos de logótipo.
 
-###### Artigo 304.º-D — Pedido
+Artigo 304.º-D
+
+Pedido
 
 1 - O pedido de registo de logótipo é feito em requerimento, redigido em língua portuguesa, que indique ou contenha:
 
@@ -1770,7 +1996,9 @@ d) A assinatura ou a identificação electrónica do requerente ou do seu mandat
 
 2 - Para efeitos do que se dispõe no n.º 1 do artigo 11.º, é concedida prioridade ao pedido de registo que primeiro apresentar, para além dos elementos exigidos nas alíneas a) e b) do número anterior, uma representação do logótipo pretendido.
 
-###### Artigo 304.º-E — Instrução do pedido
+Artigo 304.º-E
+
+Instrução do pedido
 
 1 - Ao requerimento deve juntar-se uma representação gráfica do sinal, em suporte definido por despacho do presidente do conselho directivo do Instituto Nacional da Propriedade Industrial.
 
@@ -1784,17 +2012,23 @@ d) A assinatura ou a identificação electrónica do requerente ou do seu mandat
 
 6 - Quando nos elementos figurativos de um logótipo constem elementos verbais, o requerente deve especificá-los no requerimento de pedido.
 
-###### Artigo 304.º-F — Publicação do pedido
+Artigo 304.º-F
+
+Publicação do pedido
 
 1 - Da apresentação do pedido publica-se aviso no Boletim da Propriedade Industrial, para efeito de reclamação de quem se julgar prejudicado pela eventual concessão do registo.
 
 2 - A publicação deve conter a reprodução do logótipo e mencionar as indicações a que se refere o n.º 1 do artigo 304.º-D, com excepção do número de identificação fiscal e do endereço electrónico do requerente.
 
-###### Artigo 304.º-G — Tramitação processual
+Artigo 304.º-G
+
+Tramitação processual
 
 Ao registo dos logótipos são aplicáveis, com as necessárias adaptações, as formalidades processuais a que se refere o artigo 237.º, relativo às marcas.
 
-###### Artigo 304.º-H — Fundamentos de recusa do registo
+Artigo 304.º-H
+
+Fundamentos de recusa do registo
 
 1 - Para além do que se dispõe no artigo 24.º, o registo de um logótipo é recusado quando:
 
@@ -1828,7 +2062,9 @@ b) Levar o consumidor a supor, erradamente, que os produtos ou serviços provêm
 
 c) Produzir o desrespeito ou o desprestígio da Bandeira Nacional ou de algum dos seus elementos.
 
-###### Artigo 304.º-I — Outros fundamentos de recusa
+Artigo 304.º-I
+
+Outros fundamentos de recusa
 
 1 - Constitui ainda fundamento de recusa do registo:
 
@@ -1854,29 +2090,41 @@ b) A infracção de direitos de autor;
 
 c) O emprego de referências a determinada propriedade rústica ou urbana que não pertença ao requerente.
 
-###### Artigo 304.º-J — Declaração de consentimento
+Artigo 304.º-J
+
+Declaração de consentimento
 
 Ao registo dos logótipos é aplicável o disposto no artigo 243.º, com as necessárias adaptações.
 
-###### Artigo 304.º-L — Duração
+Artigo 304.º-L
+
+Duração
 
 A duração do registo é de 10 anos contados da data da respectiva concessão, podendo ser indefinidamente renovado por iguais períodos.
 
-###### Artigo 304.º-M — Indicação do logótipo
+Artigo 304.º-M
+
+Indicação do logótipo
 
 Durante a vigência do registo, o seu titular pode usar no logótipo a designação 'Logótipo registado', 'Log. registado' ou, simplesmente, 'LR'.
 
-###### Artigo 304.º-N — Direitos conferidos pelo registo
+Artigo 304.º-N
+
+Direitos conferidos pelo registo
 
 O registo do logótipo confere ao seu titular o direito de impedir terceiros de usar, sem o seu consentimento, qualquer sinal idêntico ou confundível, que constitua reprodução ou imitação do seu.
 
-###### Artigo 304.º-O — Inalterabilidade do logótipo
+Artigo 304.º-O
+
+Inalterabilidade do logótipo
 
 1 - O logótipo deve conservar-se inalterado, ficando qualquer mudança nos seus elementos sujeita a novo registo.
 
 2 - A inalterabilidade deve entender-se, com as necessárias adaptações, em obediência às regras estabelecidas nos n.os 2, 3 e 4 do artigo 261.º, relativo às marcas.
 
-###### Artigo 304.º-P — Transmissão
+Artigo 304.º-P
+
+Transmissão
 
 1 - Os registos de logótipo são transmissíveis se tal não for susceptível de induzir o consumidor em erro ou confusão.
 
@@ -1884,13 +2132,17 @@ O registo do logótipo confere ao seu titular o direito de impedir terceiros de 
 
 3 - Sem prejuízo do disposto no n.º 5 do artigo 31.º, a transmissão do estabelecimento envolve o respectivo logótipo, que pode continuar tal como está registado, salvo se o transmitente o reservar para outro estabelecimento, presente ou futuro.
 
-###### Artigo 304.º-Q — Nulidade
+Artigo 304.º-Q
+
+Nulidade
 
 1 - Para além do que se dispõe no artigo 33.º, o registo do logótipo é nulo quando, na sua concessão, tenha sido infringido o disposto nos n.os 1 e 3 a 5 do artigo 304.º-H.
 
 2 - É aplicável às acções de nulidade, com as necessárias adaptações, o disposto no n.º 2 do artigo 304.º-H.
 
-###### Artigo 304.º-R — Anulabilidade
+Artigo 304.º-R
+
+Anulabilidade
 
 1 - Para além do que se dispõe no artigo 34.º, o registo é anulável quando, na sua concessão, tenha sido infringido o disposto no artigo 304.º-I.
 
@@ -1898,7 +2150,9 @@ O registo do logótipo confere ao seu titular o direito de impedir terceiros de 
 
 3 - O direito de pedir a anulação do logótipo registado de má fé não prescreve.
 
-###### Artigo 304.º-S — Caducidade
+Artigo 304.º-S
+
+Caducidade
 
 Para além do que se dispõe no artigo 37.º, o registo caduca:
 
@@ -2010,19 +2264,21 @@ O Código da Propriedade Industrial, aprovado pelo Decreto-Lei n.º 36/2003, de 
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa - António José de Castro Guerra - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Julho de 2008.**
+Promulgado em 8 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Julho de 2008.**
+Referendado em 9 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — CÓDIGO DA PROPRIEDADE INDUSTRIAL
 
-## TÍTULO I — Parte geral
+## TÍTULO I
+
+## Parte geral
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -3796,7 +4052,7 @@ A duração do registo é de 10 anos, contados da data do respectivo pedido, ou 
 
 ###### Artigo 163.º — Indicação do registo
 
-Durante a vigência do registo, o seu titular pode usar, nos produtos semicondutores fabricados através da utilização de topografias protegidas, a letra «T» maiúscula, com uma das seguintes apresentações: T,"T", [T], [([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14300/0465104728.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14300/0465104728.pdf), T* ou T.
+Durante a vigência do registo, o seu titular pode usar, nos produtos semicondutores fabricados através da utilização de topografias protegidas, a letra «T» maiúscula, com uma das seguintes apresentações: T,"T", [T], [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14300/0465104728.pdf), T* ou T.
 
 ###### Artigo 164.º — Direitos conferidos pelo registo
 
@@ -4660,7 +4916,7 @@ A duração do registo é de 10 anos, contados a partir da data da respectiva co
 
 ###### Artigo 257.º — Indicação do registo
 
-Durante a vigência do registo, o seu titular pode usar nos produtos as palavras «Marca registada», as iniciais «M. R.», ou ainda simplesmente [([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14300/0465104728.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14300/0465104728.pdf).
+Durante a vigência do registo, o seu titular pode usar nos produtos as palavras «Marca registada», as iniciais «M. R.», ou ainda simplesmente [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14300/0465104728.pdf).
 
 ###### Artigo 258.º — Direitos conferidos pelo registo
 

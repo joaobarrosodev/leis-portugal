@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2005/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2005-584400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72349380b6f2edf51bf0cd7b4387a36626ba235a9a98381e53a88af4ae72fd84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c31ea6c6dd4bb24fa7e1efffcd586ec44c15d595c8620fca06573aac4ae4b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,45 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Embarcação
-- Transporte Marítimo
-- Pessoal do MAR
 - Embarcação de ALTA Velocidade
-- Segurança das Embarcações
 - Equipamento
 - Normas de Segurança
+- Pessoal do MAR
 - Salvaguarda da VIDA Humana no MAR
 - Segurança da Navegação
+- Segurança das Embarcações
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:125865390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482816:por
+  label: "Alterado o art. 24.º do Dec Lei n.º 280/2001, 23-Out, na redacção do presente diploma pelo DEC LEI.206/2005. 28-Nov\
+    \ DR.IS-A [228] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2005-482816
+  date: '2005-11-28'
+- type: amended_by
+  target: pt:dre:542417:por
+  label: Alterado o art. 3º do Dec Lei n.º 180/2004, de 27-jul, na redação do presente diploma, pelo DEC LEI.52/2012.07.03.2012.MAMAOT,
+    DR.IS [48] de 07.03.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2012-542417
+  date: '2012-03-07'
+- type: amended_by
+  target: pt:dre:552809:por
+  label: "Alterado, a partir de 24.04.2012, o art. 3º do Dec Lei 293/2001, de 20-nov, na redação do presente diploma, pelo\
+    \ DEC LEI.93/2012.19.04.2012.MAMAOT, DR.IS [78] de 19.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2012-552809
+  date: '2012-04-19'
+- type: amended_by
+  target: pt:dre:75194226:por
+  label: Aditado o art. 56.º-A (que revoga a secção II e todos os modelos constantes da secção V que remetem para os artigos
+    da secção II, ambas do anexo IV do Dec. Lei 280/2001 de 23-out, na redação do presente diploma) ao Dec. Lei 34/2015 de
+    04-mar, pelo(a) Decreto-Lei n.º 53/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2016-75194226
+  date: '2016-08-24'
 - type: cites
   target: celex:31993L0075
   label: null
@@ -132,16 +157,23 @@ relationships:
   target: celex:32002L0084
   label: null
   source: http://data.europa.eu/eli/dir/2002/84/oj
+- type: repealed_by
+  target: pt:dre:125865390:por
+  label: Revogado, com efeitos no dia 01.01.2020, o Dec Lei 280/2001 de 23-out, na redação do presente diploma, mantendo-se
+    válidas, pelo período nelas indicado, as cédulas marítimas emitidas ao seu abrigo, pelo(a) Decreto-Lei n.º 166/2019 -
+    Diário da República n.º 210/2019, Série I de 2019-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2019-125865390
+  date: '2019-10-31'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:47Z'
   warnings: []
   errors: []
 ---
@@ -398,12 +430,12 @@ xii) ...
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Paulo Sacadura Cabral Portas - António Victor Martins Monteiro - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 9 de Fevereiro de 2005.**
+Promulgado em 9 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Fevereiro de 2005.**
+Referendado em 14 de Fevereiro de 2005.
 
 O Primeiro-Ministo, Pedro Miguel de Santana Lopes.

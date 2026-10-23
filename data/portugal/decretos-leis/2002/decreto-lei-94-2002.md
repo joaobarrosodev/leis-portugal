@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/086a00/35673568.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2002-303192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a2482137677abc5a61ad0e0bc719083a41457d0bbffb3d89882eb9c370f3d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b15c8892b20a84bfaf830121d38beeccf765eeaf42447fd4327031cdb4008aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Assistente de Recinto Desportivo
 - Cartão de Identificação
-- Formação Profissional
-- Multa
 - Conselho de Segurança Privada
 - Conselho Nacional contra a Violência no Desporto
 - Contra-ordenação
-- Serviços de Segurança
 - Empresa de Segurança
+- Formação Profissional
+- Multa
 - Pessoal de Vigilância
+- PSP
 - Segurança Privada
+- Serviços de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:122996202:por
@@ -90,16 +90,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/1998/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/1998/08/04/p/dre
+- type: cites
+  target: pt:dre:425289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431225:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569761:por
+  label: "Revogado por força da revogação do Dec Lei 231/98, de 22-Jun, pelo DEC LEI.35/2004.21.02.2004.MAI, DR.IS-A [44]\
+    \ de 21.02.2004, a partir da respectiva entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2004-569761
+  date: '2004-02-21'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:47Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +158,17 @@ Obrigatoriedade de adopção do sistema de segurança privada
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 8.º — Formação profissional
+Artigo 8.º
+
+Formação profissional
 
 1 - ...
 
 2 - A definição do conteúdo e duração dos cursos de formação inicial referidos no número anterior constam de portaria a aprovar pelo Ministro da Administração Interna, e, no caso dos assistentes de recinto desportivo, de portaria conjunta dos Ministros da Administração Interna e da Juventude e do Desporto.
 
-###### Artigo 10.º — Elementos de uso obrigatório
+Artigo 10.º
+
+Elementos de uso obrigatório
 
 1 - O pessoal de vigilância, quando no exercício das funções previstas nas alíneas b), c) e e) do n.º 1 do artigo 2.º, deve obrigatoriamente usar:
 
@@ -162,7 +180,9 @@ b) Cartão profissional aposto visivelmente.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 17.º — Deveres especiais
+Artigo 17.º
+
+Deveres especiais
 
 1 - Constituem deveres especiais das entidades que prestem serviços de segurança privada:
 
@@ -184,7 +204,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 19.º — Natureza e composição
+Artigo 19.º
+
+Natureza e composição
 
 1 - ...
 
@@ -214,7 +236,9 @@ i) Um representante do Conselho Nacional contra a Violência no Desporto, criado
 
 5 - ...
 
-###### Artigo 31.º — Contra-ordenações e coimas
+Artigo 31.º
+
+Contra-ordenações e coimas
 
 1 - De acordo com o disposto no presente diploma, constituem contra-ordenações:
 
@@ -274,12 +298,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Alexandre António Cantigas Rosa - Luís Miguel de Oliveira Fontes.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

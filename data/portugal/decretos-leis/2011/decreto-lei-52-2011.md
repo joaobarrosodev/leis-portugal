@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2011/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2011-276805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e358abca3c30b73f931f0762174b088637c4590881791a9a66413696c3bf4e6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b2dc5399df93f3fa39e78e064377f70006beaa06f08c6f56024cef1b8e907ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
 - Acidente de Trabalho
-- Processo Civil
-- Instituição de Crédito
-- Sociedade Comercial
-- Código do Processo Civil
-- Multa
 - Câmara dos Solicitadores
+- Código do Processo Civil
 - Comunicações Eletrónicas
-- Ministério da Justiça
-- Pagamento
+- Custas Judiciais
+- Documento Eletrónico
+- Doença Profissional
+- Instituição de Crédito
 - Isenção de Taxas e Emolumentos
 - Lista
-- Documento Eletrónico
+- Ministério da Justiça
+- Multa
 - Notificação
-- Doença Profissional
+- Pagamento
 - Prazo
 - Prestação de Serviços
+- Processo Civil
+- Processo de Execução
+- Processo Declarativo
 - Providencia Cautelar
 - Regulamento
 - Remuneração
-- Processo de Execução
-- Custas Judiciais
+- Sociedade Comercial
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:499545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543045:por
+  label: "Dada nova redação aos arts. 6º , 7º, 17º, 20º, 21º, 25º, 26º e 27º, e às tabelas I, II e III do Regulamento das\
+    \ Custas Processuais, aprovado pelo Dec Lei 34/2008 de 26-fev, alterado pelo presente diploma, pela LEI.7/2012.13.02.2012.AR,\
+    \ DR.IS [31] de 13.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2012-543045
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:499545:por
+  label: "Dada nova redação aos arts. 7º, 26º, 40º e à tabela II do Regulamento das Custas Processuais, aprovado pelo Dec\
+    \ Lei 34/2008 de 26-fev, alterado pelo presente diploma, pelo DEC LEI.126/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2013-499545
+  date: '2013-08-30'
+- type: amends
+  target: pt:numero:lei:34/2008
+  label: "Altera, em 13.05.2011., os arts. 6.º ( na redacçao da Lei 64-A/2008, de 31-Dez), 7.º ( ora renumerado ), 13.º (ora\
+    \ renumerado, rectificado pela Decl Rect 22/2008, de 24-Abr, na redacção da Lei 3-B/2010, de 28-Abr), 17.º, 20.º, 21.º,\
+    \ 25.º, 26.º (na redacção da Lei 64-A/2008, de 31-Dez) e 27.º e as tabelas i, ii ( na redacçao da Lei 3-B/2010, de 28-Abr),\
+    \ iii e iv e adita, na mesma data, o art. 40º ao Regulamento das Custas Processuais, constante do anexo iii ao Dec Lei\
+    \ n.º 34/2008, de 26-Fev, DR IS [40]\0]\0"
+  source: null
+  date: '2008-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
@@ -135,16 +158,276 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:140330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:27Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +486,9 @@ Os artigos 6.º, 7.º, 13.º, 17.º, 20.º, 21.º, 25.º, 26.º, 27.º e as tabe
 
 6 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +504,9 @@ Os artigos 6.º, 7.º, 13.º, 17.º, 20.º, 21.º, 25.º, 26.º, 27.º e as tabe
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -235,7 +522,9 @@ Os artigos 6.º, 7.º, 13.º, 17.º, 20.º, 21.º, 25.º, 26.º, 27.º e as tabe
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +570,9 @@ b) Nas acções em que a consulta ou apreensão é efectuada pelo tribunal ou po
 
 15 - A forma de cobrança, de distribuição da receita de forma proporcional ao volume total de consultas e o modo e forma de pagamento anual da receita devida às instituições gestoras de bases de dados referidas no n.º 12, bem como os demais aspectos de gestão do sistema, são regulamentadas por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Sempre que seja previsível a necessidade de pagamento de encargos iguais ou superiores a metade de uma UC face às diligências previstas ou requeridas, a parte requerente ou interessada é notificada para efectuar o pagamento dos montantes respectivos antes de realizadas as diligências, salvo quando beneficie de isenção de custas ou de apoio judiciário.
 
@@ -293,11 +584,15 @@ b) Nas acções em que a consulta ou apreensão é efectuada pelo tribunal ou po
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Os encargos não pagos, incluindo os referidos no artigo anterior, são contados oficiosamente pela secretaria no prazo de 10 dias após o seu montante acumulado atingir ou superar 4 UC, devendo esta notificar o responsável não beneficiário de isenção de custas ou de apoio judiciário para realizar o seu pagamento, no mesmo prazo.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Até cinco dias após o trânsito em julgado ou após a notificação de que foi obtida a totalidade do pagamento ou do produto da penhora, consoante os casos, as partes que tenham direito a custas de parte remetem para o tribunal, para a parte vencida e para o agente de execução, quando aplicável, a respectiva nota discriminativa e justificativa.
 
@@ -305,7 +600,9 @@ Os encargos não pagos, incluindo os referidos no artigo anterior, são contados
 
 3 - Na acção executiva, a liquidação da responsabilidade do executado compreende as quantias indicadas na nota discriminativa, nos termos do número anterior.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -323,7 +620,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -371,7 +670,9 @@ Os artigos 447.º-A, 833.º-A e 861.º-A do Código de Processo Civil, aprovado 
 
 7 - ...
 
-###### Artigo 833.º-A — [...]
+Artigo 833.º-A
+
+[...]
 
 1 - ...
 
@@ -389,7 +690,9 @@ Os artigos 447.º-A, 833.º-A e 861.º-A do Código de Processo Civil, aprovado 
 
 8 - Apenas nos casos em que o exequente seja uma sociedade comercial que tenha dado entrada num tribunal, secretaria judicial ou balcão, no ano anterior, a 200 ou mais providências cautelares, acções, procedimentos ou execuções, é devida uma remuneração pelos serviços prestados na identificação do executado e na identificação e localização dos seus bens, às instituições públicas e privadas que prestem colaboração à execução nos termos deste artigo e constitui encargo, nos termos e para os efeitos do Regulamento das Custas Processuais.
 
-###### Artigo 861.º-A — [...]
+Artigo 861.º-A
+
+[...]
 
 1 - ...
 
@@ -429,15 +732,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto de Sousa Martins.
 
-**Promulgado em 17 de Março de 2011.**
+Promulgado em 17 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Março de 2011.**
+Referendado em 18 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -445,22 +748,22 @@ TABELA I
 
 (a que se referem os artigos 6.º, 7.º, 11.º, 12.º e 13.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
 
 TABELA II
 
 (a que se referem os n.os 1, 3 e 5 do artigo 7.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
 
 TABELA III
 
 (a que se referem os n.os 4 e 5 do artigo 8.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
 
 TABELA IV
 
 (a que se referem os n.os 2 e 5 do artigo 17.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07300/0226202268.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/10/240a00/67906807.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/208/2002/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a753c7a5a57978471e1b356e6363cc206cbed8b83a37e4f107f247c65fc1f2b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bcbf6b47c03ba13590f37e49aefb38b0a0e66388429bd992d27d389bcf334c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
+- Caixa de Previdência
 - Concurso
-- Conselho de Avaliação de Recursos
+- Conselho Coordenador da Administração Educativa
 - Conselho Coordenador do Ensino Particular e Cooperativo
 - Conselho de Acção Social Escolar
+- Conselho de Avaliação de Recursos
 - Conselho de Directores Regionais de Educação
-- Conselho Coordenador da Administração Educativa
-- Ministério da Educação
+- Conselho Nacional de Educação
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral de Formação Vocacional
+- Direcção Geral de Inovação e Desenvolvimento Curricular
 - Direcção Geral dos Recursos Humanos da Educação
 - Direcção Regional de Educação de Lisboa
 - Direcção Regional de Educação do Alentejo
@@ -85,26 +85,32 @@ subjects:
 - Direcção Regional de Educação do Norte
 - Editorial do Ministério da Educação
 - Extinção de Serviços
-- Secretaria Geral
 - Gabinete de Assuntos Europeus e de Relações Internacionais
 - Gabinete de Avaliação Educacional
 - Gabinete de Gestão Financeira
 - Gabinete de Informação e Avaliação do Sistema Educativo
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Inspecção Geral de Educação
 - Integração de Trabalhadores
-- Conselho Nacional de Educação
-- Caixa de Previdência
+- Ministério da Educação
 - Orgânica
-- Direcção Geral de Inovação e Desenvolvimento Curricular
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 - Serviços Sociais
-- Gestão de Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:569550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683402:por
+  label: "Prorrogado o regime de instalação da Direcção-Geral de Formação Vocacional estabelecido no art. 31º pelo DEC LEI.34/2006.17.02.2006.ME,\
+    \ DR.IS-A [35] de 17.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2006-683402
+  date: '2006-02-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -145,16 +151,135 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2000/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2000/07/06/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667972:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545651:por
+  label: "Revogado o presente diploma, e determina: - a extinção, sem qualquer transferência de competências, do Conselho\
+    \ Coordenador da Administração Educativa, nos termos do nº 2 do art. 22.º; - a extinção, sendo objecto de fusão, do Gabinete\
+    \ de Informação e Avaliação do Sistema Educativo, sendo as suas atribuições integradas no Gabinete de Estatística e Planeamento\
+    \ da Educação, nos termos da al. b) do nº 3 do art. 22.º; - a reestruturação da Direcção-Geral de Formação Vocacional,\
+    \ que passa a integrar a administração indirecta do Estado, ficando a designar-se Agência Nacional para a Qualificação,\
+    \ I.P., nos termos da al. a) do nº 4 do art. 22.º, e da Direcção Regional de Educação de Lisboa, que passa a denominar-se\
+    \ Direcção Regional de Educação de Lisboa e Vale do Tejo, nos termos da al. b) do nº 4 do art. 22.º, pelo DEC LEI.213/2006.27.10.2006.ME,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2006-545651
+  date: '2006-10-27'
+- type: repealed_by
+  target: pt:dre:569550:por
+  label: "Revogado, a partir de 01.09.2007, o Decreto Lei n.º 34/2006, de 17 de Fevereiro, que prorrogou o regime de instalação\
+    \ da Direcção-Geral de Formação Vocacional, criada no presente diploma, pelo DEC LEI.276-C/2007.31.07.2007.ME, DR.IS [146]3ºSupl\
+    \ de 31.07.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-c-2007-569550
+  date: '2007-07-31'
 article_structure:
   article_count: 37
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:02Z'
   warnings: []
   errors: []
 ---
@@ -1017,15 +1142,15 @@ r) O [Decreto-Lei n.º 542/99](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 6 de Agosto de 2002. - José Manuel Durão Barroso - Norberto Emílio Sequeira da Rosa - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta - Luís Filipe Pereira - António José de Castro Bagão Félix - Isaltino Afonso de Morais.
 
-**Promulgado em 25 de Setembro de 2002.**
+Promulgado em 25 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2002.**
+Referendado em 4 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 MAPA
 

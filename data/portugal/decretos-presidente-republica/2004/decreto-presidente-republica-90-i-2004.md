@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 282/2004, 1º Suplemento, Série I-A de 2004-12-02
   number: '282'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6956-(2) a 6956-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/282a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/90-i/2004/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/90-i-2004-265687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25d0e95552870f2d00844e6e228d795bc5a0947cd55f7b7a64b46f17a0b1f127
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fa7fdd0e5f822ffc08db9410750afa2b8cdb9a94c4ba51fe6c27be78e7db4ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XVI
-- Secretário de Estado do Desporto e Reabilitação
 - Nomeação
 - Secretário de Estado
 - Secretário de Estado da Juventude
+- Secretário de Estado do Desporto e Reabilitação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:23Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ validation:
 
 de 2 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -98,12 +98,12 @@ O Dr. Pedro Miguel de Azeredo Duarte Secretário de Estado da Juventude;
 
 Hermínio José Sobral Loureiro Gonçalves Secretário de Estado do Desporto e Reabilitação.
 
-**Assinado em 2 de Dezembro de 2004.**
+Assinado em 2 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Dezembro de 2004.**
+Referendado em 2 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2005/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2005-243495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab52161bbe5f56144d0533f49bcc3aa31754bb268504962d977e9f997a83454b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9edde75a47f338853569fddb1d6a1bb62282d5db6e5b98666ed36d0343afed1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,38 @@ subjects:
 - Autonomia Financeira
 - Direcção Geral de Protecção das Culturas
 - Ineti
-- Instituto Nacional de Investigação Agrária e das Pescas
+- Instituto de Investigação Científica e Tropical
 - Instituto de Meteorologia
+- Instituto Nacional de Investigação Agrária e das Pescas
 - Instituto Público
 - Instituto Tecnológico e Nuclear
 - Laboratório
-- Laboratório Nacional de Investigação Veterinária
 - Laboratório Nacional de Engenharia Civil
-- Instituto de Investigação Científica e Tropical
+- Laboratório Nacional de Investigação Veterinária
 - Regime Jurídico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:19Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +165,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2006.
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Luís Manuel Moreira de Campos e Cunha - Manuel António Gomes de Almeida de Pinho - Luís Medeiros Vieira - Mário Lino Soares Correia - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 2 de Agosto de 2005.**
+Promulgado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2005.**
+Referendado em 4 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/2014/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d400492f7d2fc6de28de478d7a439bee90e6e85965c34e187b33cdbeef8e966b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7349ea0e5126c6aa83a41636ffbc5aa01040ab8069dc2d78672396a46d0d0edf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Energia Elétrica
 - Consumidor
 - Consumo de Energia
 - Contra-ordenação
 - Contrato
 - Definição de Competências
+- Direção Geral de Energia e Geologia
+- Energia Elétrica
 - Equipamento Eléctrico
 - Factura
 - Fiscalização
 - Formulário Eletrónico
-- Direção Geral de Energia e Geologia
 - Licenciamento
 - Página na Internet
 - Produção de Energia Elétrica
@@ -94,16 +94,32 @@ relationships:
   target: celex:32008R0765
   label: null
   source: http://data.europa.eu/eli/reg/2008/765/oj
+- type: repealed_by
+  target: pt:dre:122476954:por
+  label: Revogadas as disposições do presente diploma aplicáveis à produção de eletricidade através de unidades de pequena
+    produção a partir de energias renováveis, baseadas em uma só tecnologia de produção, cuja potência de ligação à rede seja
+    igual ou inferior a 250 kW, destinada à venda total de energia à rede pelo(a) Decreto-Lei n.º 76/2019 - Diário da República
+    n.º 106/2019, Série I de 2019-06-03, com efeitos a 4 meses após a sua publicação e nos termos do disposto no n.º 3 do
+    seu art. 12.º, e mantido em vigor o presente diploma e respetiva regulamentação, na parte aplicável às unidades de produção
+    a partir de fontes de energia renovável até 1 MW e no que não contrarie o disposto no Dec Lei 76/2019
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2019-122476954
+  date: '2019-06-03'
+- type: repealed_by
+  target: pt:dre:125692189:por
+  label: Revogado, presente diploma, pelo(a) Decreto-Lei n.º 162/2019 - Diário da República n.º 206/2019, Série I de 2019-10-25,
+    sem prejuízo do disposto nos n.os 1 e 3 do seu art. 29.º, e nos termos do seu art. 32.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2019-125692189
+  date: '2019-10-25'
 article_structure:
   article_count: 48
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:17Z'
   warnings: []
   errors: []
 ---
@@ -602,7 +618,7 @@ e) «t» - O ano de emissão do certificado de exploração da respetiva UPAC.
 
 2 - O «V(índice Cieg,t)» referido na alínea c) do número anterior é calculado com base na seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/20200/0529805311.pdf))](https://files.diariodarepublica.pt/1s/2014/10/20200/0529805311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/20200/0529805311.pdf)
 
 Em que:
 
@@ -892,7 +908,7 @@ d) Contratar seguro de responsabilidade civil, nos termos da alínea h) do artig
 
 8 - Para os efeitos e nos termos do número anterior, o «V(índice Cieg,2014)» é calculado com base na seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/20200/0529805311.pdf))](https://files.diariodarepublica.pt/1s/2014/10/20200/0529805311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/20200/0529805311.pdf)
 
 Em que:
 
@@ -950,12 +966,12 @@ O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António Manuel Coelho da Costa Moura - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 15 de outubro de 2014.**
+Promulgado em 15 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de outubro de 2014.**
+Referendado em 16 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

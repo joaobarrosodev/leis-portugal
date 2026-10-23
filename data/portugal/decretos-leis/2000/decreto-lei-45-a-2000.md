@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 69/2000, 1º Suplemento, Série I-A de 2000-03-22
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1164-(2) a 1164-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/069a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45-a/2000/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-a-2000-474696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cabe23b7f83c31543758a5728768f48ce61dcc9c189d8db894504c4952c71e43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c18e48308d78382cadccce8b670583bada7520a8129719d551cca79d35c05309
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,48 +69,72 @@ subjects:
 - Autonomia Financeira
 - Autonomia Patrimonial
 - Centro Nacional de Pensões
-- Ministério do Trabalho e da Solidariedade
 - Centro Regional de Segurança Social
-- Pessoal Dirigente
 - Comissão de Coordenação do Fundo Social Europeu
 - Comissão Instaladora
-- Instituto de Solidariedade e Segurança Social
+- Conselho Diretivo
 - Criação de Serviços
+- Departamento de Cooperação
 - Departamento para os Assuntos do Fundo Social Europeu
 - Direcção Geral da Acção Social
+- Direcção Geral da Solidariedade e Segurança Social
 - Direcção Geral dos Regimes de Segurança Social
 - Extinção de Serviços
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
-- Conselho Diretivo
-- Instituto de Gestão do Fundo Social Europeu
+- Gestão de Recursos Humanos
 - Inspecção Geral
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Solidariedade e Segurança Social
 - Instituto Público
-- Departamento de Cooperação
-- Direcção Geral da Solidariedade e Segurança Social
+- Ministério do Trabalho e da Solidariedade
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Segurança Social
-- Gestão de Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:642012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457199:por
+  label: "Mantido em vigor o art. 29.º do Dec Lei 115/98, de 04-Maio, com as alterações introduzidas no presente diploma,\
+    \ pelo DEC LEI.5/2005.05.01.2005.MSSFC, DR.IS-A [3] de 05.01.2005, até à integração prevista no seu art. 33.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Determinada a extinção do IGFSE, I. P., e integradas as suas atribuições no IFDR, I. P., que passará a designar-se\
+    \ Instituto Financeiro para o Desenvolvimento Regional e Emprego, I. P., abreviadamente IFDRE, I. P., após a aprovação\
+    \ do documento que estabelece os princípios e as normas de aplicação do próximo período de programação financeira em Portugal,\
+    \ para 2014-2020, pelo DEC LEI.126-C/2011.29.12.2011.MEE, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1998/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/115/1998/05/04/p/dre
+- type: cites
+  target: pt:dre:516029:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:527834:por
+  label: "Revogado o Dec Lei 115/98, de 04-Maio, na redacção do presente diploma, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A\
+    \ [167] de 17.07.2004, e mantido em vigor o seu art. 29º de acordo com o nº 2 do art. 42º do referido diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
 article_structure:
-  article_count: 16
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:18Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +201,9 @@ j) Direcção-Geral da Solidariedade e Segurança Social (DGSSS).
 
 2 - ...
 
-###### Artigo 5.º — Organismos de âmbito nacional
+Artigo 5.º
+
+Organismos de âmbito nacional
 
 Prosseguem atribuições cometidas ao MTS, sob superintendência e tutela do respectivo Ministro, os seguintes organismos de âmbito nacional:
 
@@ -207,7 +233,9 @@ i) Instituto de Solidariedade e Segurança Social (ISSS);
 
 4) No âmbito da gestão dos fundos comunitários: o Instituto de Gestão do Fundo Social Europeu.
 
-###### Artigo 10.º — Inspecção-Geral do Ministério do Trabalho e da Solidariedade
+Artigo 10.º
+
+Inspecção-Geral do Ministério do Trabalho e da Solidariedade
 
 1 - ...
 
@@ -229,7 +257,9 @@ g) Colaborar com os serviços competentes na auditoria e fiscalização das acç
 
 3 - ...
 
-###### Artigo 13.º — Departamento de Cooperação
+Artigo 13.º
+
+Departamento de Cooperação
 
 1 - ...
 
@@ -239,7 +269,9 @@ g) Colaborar com os serviços competentes na auditoria e fiscalização das acç
 
 4 - O DC é dirigido por um director-geral, coadjuvado por um subdirector-geral.
 
-###### Artigo 18.º — Direcção-Geral da Solidariedade e Segurança Social
+Artigo 18.º
+
+Direcção-Geral da Solidariedade e Segurança Social
 
 1 - A Direcção-Geral da Solidariedade e Segurança Social, adiante designada por DGSSS, é o serviço de concepção, de coordenação e de apoio técnico e normativo nas áreas dos regimes de segurança social e da acção social.
 
@@ -261,15 +293,25 @@ g) Propor medidas integradas e assegurar a articulação com o Departamento de R
 
 3 - A DGSSS é dirigida por um director-geral, coadjuvado por três subdirectores-gerais.
 
-###### Artigo 19.º — (Anterior artigo 20.º)
+Artigo 19.º
 
-###### Artigo 20.º — (Anterior artigo 21.º)
+(Anterior artigo 20.º)
 
-###### Artigo 21.º — (Anterior artigo 22.º)
+Artigo 20.º
 
-###### Artigo 22.º — (Anterior artigo 23.º)
+(Anterior artigo 21.º)
 
-###### Artigo 23.º — Instituto de Solidariedade e Segurança Social
+Artigo 21.º
+
+(Anterior artigo 22.º)
+
+Artigo 22.º
+
+(Anterior artigo 23.º)
+
+Artigo 23.º
+
+Instituto de Solidariedade e Segurança Social
 
 1 - É criado o Instituto de Solidariedade e Segurança Social, adiante designado por ISSS.
 
@@ -277,7 +319,9 @@ g) Propor medidas integradas e assegurar a articulação com o Departamento de R
 
 3 - O ISSS poderá ter serviços desconcentrados de base regional, distrital e local, cujas competências e articulação serão definidas nos respectivos estatutos.
 
-###### Artigo 28.º — Instituto de Gestão de Fundos de Capitalização da Segurança Social
+Artigo 28.º
+
+Instituto de Gestão de Fundos de Capitalização da Segurança Social
 
 1 - O Instituto de Gestão de Fundos de Capitalização Financeira da Segurança Social, adiante abreviadamente designado por IGFCSS, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial, com a natureza de instituto público, sujeito à tutela e superintendência do Ministro do Trabalho e da Solidariedade, que tem por objectivo a gestão de fundos de capitalização no âmbito do financiamento da segurança social do Estado e de outros sistemas previdenciais.
 
@@ -331,7 +375,9 @@ h) Exercer as demais atribuições que lhe forem legalmente cometidas.
 
 5 - Os mandatos dos membros do conselho directivo têm a duração de três anos, podendo ser renovados, sendo as respectivas remunerações fixadas por despacho conjunto dos Ministros das Finanças, do Trabalho e da Solidariedade e da Reforma do Estado e da Administração Pública.
 
-###### Artigo 36.º-A — Extinção de outros serviços
+Artigo 36.º-A
+
+Extinção de outros serviços
 
 São igualmente extintos os seguintes serviços:
 
@@ -339,7 +385,9 @@ a) Direcção-Geral dos Regimes de Segurança Social;
 
 b) Direcção-Geral da Acção Social.
 
-###### Artigo 37.º-A — Sucessão de outros serviços e organismos
+Artigo 37.º-A
+
+Sucessão de outros serviços e organismos
 
 A Direcção-Geral da Solidariedade e Segurança Social sucede, em matéria de regimes de segurança social, à Direcção-Geral dos Regimes de Segurança Social e, em matéria de acção social, à Direcção-Geral da Acção Social.»
 
@@ -371,15 +419,15 @@ O anexo ao [Decreto-Lei n.º 115/98](https://diariodarepublica.pt/dr/detalhe/dec
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 14 de Março de 2000.**
+Promulgado em 14 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Março de 2000.**
+Referendado em 16 de Março de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — Mapa a que se refere o artigo 4.º
 

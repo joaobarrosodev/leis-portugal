@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2025/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69894399b4b2def19d535e4008d1de977ef20e56bc89b0a0be12cb8e5db9b28b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb5eecf16fc0afb7682d860910c6a89d77cf4ab8560ac0501b514052a4e710c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Contribuições da Segurança Social
 - Entidade Patronal
 - Pagamento de Contribuições
 - Pensionista
 - Proteção na Velhice
-- Protecção na Doença
 - Proteção Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Protecção na Doença
 - Segurança Social
 - TAXA Contributiva
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar:1-A/2011
+  label: Altera, a partir de 1 de janeiro de 2026, os artigos 5.º, 6.º, 8.º, 16.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º,
+    27.º, 28.º, 29.º, 30.º e 70.º e a epígrafe da subsecção i da secção ii do capítulo ii, adita o artigo 13.º-A e revoga
+    o n.º 2 do artigo 6.º, o n.º 2 do artigo 8.º, os artigos 9.º, 13.º, 14.º e 15.º, o n.º 6 do artigo 16.º, os n.ºs 2, 3
+    e 4 do artigo 21.º, os n.ºs 4 e 5 do artigo 22.º, os n.ºs 2 e 3 do artigo 25.º e os n.ºs 3 e 4 do artigo 70.º do Decreto
+    Regulamentar n.º 1-A/2011, de 3 de janeiro, Diário da República n.º 1/2011, 1º Suplemento, Série I
+  source: null
+  date: '2011-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/84/2019/06/28/p/dre
   label: null
@@ -99,16 +108,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:115620692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161587770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:21Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +174,9 @@ Os artigos 5.º, 6.º, 8.º, 16.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A entidade empregadora é obrigada a entregar ao trabalhador admitido o comprovativo da comunicação do vínculo ao regime geral de segurança social dos trabalhadores por conta de outrem.
 
@@ -153,13 +184,17 @@ Os artigos 5.º, 6.º, 8.º, 16.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26
 
 3 - Exceto no caso de trabalhadores estrangeiros, a obrigação referida no n.º 1 pode ser considerada cumprida quando o trabalhador tenha acesso à área reservada da Segurança Social Direta, através da qual é feita a comunicação da admissão e do vínculo do trabalhador.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
 
-1 - As declarações da entidade empregadora relativas à cessação e suspensão do contrato de trabalho, bem como à alteração da modalidade de contrato de trabalho e a alteração do valor das remunerações permanentes, previstas nos n.<sup>os</sup>1 e 2 do artigo 32.º do Código, são efetuadas até ao dia 10 do mês seguinte ao da sua ocorrência, no serviço da Segurança Social Direta ou através da Plataforma de Serviços de Interoperabilidade.
+[...]
+
+1 - As declarações da entidade empregadora relativas à cessação e suspensão do contrato de trabalho, bem como à alteração da modalidade de contrato de trabalho e a alteração do valor das remunerações permanentes, previstas nos n.os1 e 2 do artigo 32.º do Código, são efetuadas até ao dia 10 do mês seguinte ao da sua ocorrência, no serviço da Segurança Social Direta ou através da Plataforma de Serviços de Interoperabilidade.
 
 2 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os tempos de trabalho são declarados em dias.
 
@@ -173,7 +208,9 @@ Os artigos 5.º, 6.º, 8.º, 16.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26
 
 6 - (Revogado.)
 
-###### Artigo 20.º — Valores de remuneração e tempos de trabalho
+Artigo 20.º
+
+Valores de remuneração e tempos de trabalho
 
 1 - O sistema de segurança social apura os valores da remuneração e os dias de trabalho de cada trabalhador declarados pela entidade empregadora e os decorrentes da respetiva atualização, nos termos do disposto nos artigos 29.º, 32.º e 40.º do Código.
 
@@ -195,7 +232,9 @@ b) No apuramento mensal pelo sistema das remunerações dos trabalhadores, quand
 
 c) Quando a entidade empregadora não proceda à verificação e confirmação do apuramento de remunerações efetuado pelo sistema, sem prejuízo da atuação dos serviços ou de possíveis ações de fiscalização destinados ao apuramento oficioso da remuneração efetivamente considerada pela entidade empregadora nos meses em causa.
 
-###### Artigo 21.º — Validade da declaração à segurança social
+Artigo 21.º
+
+Validade da declaração à segurança social
 
 1 - A declaração é considerada validamente entregue em cada mês na data em que é confirmada ou na data-limite para aceitação pela entidade empregadora.
 
@@ -205,7 +244,9 @@ c) Quando a entidade empregadora não proceda à verificação e confirmação d
 
 4 - (Revogado.)
 
-###### Artigo 22.º — Verificação dos elementos da declaração
+Artigo 22.º
+
+Verificação dos elementos da declaração
 
 1 - [...]
 
@@ -217,13 +258,17 @@ c) Quando a entidade empregadora não proceda à verificação e confirmação d
 
 5 - (Revogado.)
 
-###### Artigo 23.º — Validade e eficácia da declaração à segurança social
+Artigo 23.º
+
+Validade e eficácia da declaração à segurança social
 
 1 - À validade, eficácia e valor probatório da declaração por transmissão eletrónica de dados ou através da utilização da Plataforma de Serviços de Interoperabilidade é aplicável o regime jurídico dos documentos eletrónicos.
 
 2 - À transmissão pelos meios referidos no número anterior não se aplica a possibilidade de deduzir impugnação ao abrigo do disposto na parte final do artigo 368.º do Código Civil.
 
-###### Artigo 24.º — Confirmação dos elementos das declarações à segurança social
+Artigo 24.º
+
+Confirmação dos elementos das declarações à segurança social
 
 1 - As instituições de segurança social podem exigir a confirmação dos elementos constantes das declarações que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais.
 
@@ -231,7 +276,9 @@ c) Quando a entidade empregadora não proceda à verificação e confirmação d
 
 3 - [...]
 
-###### Artigo 25.º — Certificação da declaração à segurança social
+Artigo 25.º
+
+Certificação da declaração à segurança social
 
 1 - A confirmação das declarações à segurança social pelas entidades empregadoras, bem como, quando ocorra, a aceitação das declarações preenchidas pelo sistema com base em declarações prévias, são certificadas através da disponibilização do comprovativo respetivo.
 
@@ -239,7 +286,9 @@ c) Quando a entidade empregadora não proceda à verificação e confirmação d
 
 3 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os elementos declarados à segurança social relativos a um determinado mês podem ser supridos ou corrigidos pela entidade empregadora nos dois meses seguintes ao mês da declaração a que os mesmos respeitam.
 
@@ -249,9 +298,11 @@ c) Quando a entidade empregadora não proceda à verificação e confirmação d
 
 4 - A declaração relativa a períodos anteriores à data do início de atividade comunicada na admissão do trabalhador, quando não se encontre prescrita a obrigação contributiva correspondente, só pode ser aceite após decisão favorável relativa à retroação da admissão do trabalhador, requerida ao serviço de segurança social competente mediante apresentação de prova inequívoca da prévia existência da relação de trabalho.
 
-5 - Para efeitos dos n.<sup>os</sup>2 e 3, no caso de decisão favorável é aplicável o disposto no artigo 30.º, designadamente no que respeita aos dados disponibilizados pela Segurança Social para pagamento das contribuições e quotizações devidas.
+5 - Para efeitos dos n.os2 e 3, no caso de decisão favorável é aplicável o disposto no artigo 30.º, designadamente no que respeita aos dados disponibilizados pela Segurança Social para pagamento das contribuições e quotizações devidas.
 
-###### Artigo 27.º — Suprimento oficioso da declaração à segurança social
+Artigo 27.º
+
+Suprimento oficioso da declaração à segurança social
 
 O suprimento oficioso da declaração, previsto no artigo 40.º-A do Código, ocorre, designadamente, quando:
 
@@ -263,11 +314,15 @@ c) Tenha sido rejeitada a declaração e considerada como não aceite nos termos
 
 d) [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 Nas situações previstas no artigo anterior, a instituição de segurança social notifica a entidade empregadora da falta detetada, convidando-a a suprir ou a justificar a mesma, no prazo de 10 dias, findo o qual é desencadeado o procedimento para suprimento oficioso da falta ou dos vícios da declaração.
 
-###### Artigo 29.º — Procedimento para suprimento da declaração à segurança social
+Artigo 29.º
+
+Procedimento para suprimento da declaração à segurança social
 
 1 - O cumprimento das obrigações referidas no artigo 40.º do Código é aferido mensalmente e o seu incumprimento determina a intervenção dos serviços ou o desencadear de uma ação de fiscalização ou de inspeção para apuramento oficioso dos elementos em falta e respetivo registo.
 
@@ -275,7 +330,9 @@ Nas situações previstas no artigo anterior, a instituição de segurança soci
 
 3 - Na falta de elementos relativos à remuneração base dos trabalhadores, o valor das remunerações a considerar corresponde ao valor da retribuição mínima mensal garantida reportada a 30 dias de trabalho, nas situações em que a base de incidência contributiva corresponda a remunerações efetivas.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Findo o prazo para a justificação ou suprimento da falta, os elementos apurados são registados oficiosamente, sendo remetido à entidade empregadora o respetivo comprovativo, conjuntamente com a indicação da forma de obtenção dos dados disponibilizados pela segurança social que devem ser obrigatoriamente utilizados para o pagamento voluntário das contribuições e quotizações devidas.
 
@@ -283,7 +340,9 @@ Nas situações previstas no artigo anterior, a instituição de segurança soci
 
 3 - O disposto no presente artigo é igualmente aplicável nas situações previstas no n.º 9 do artigo 40.º do Código.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O registo de remunerações a que se reporta o n.º 1 do artigo anterior referente a atividade mensal é feito com referência a 30 dias por cada entidade empregadora, salvo nos casos em que haja lugar ao registo de remunerações por equivalência à entrada de contribuições.
 
@@ -321,7 +380,7 @@ Declaração à segurança social
 
 6 - A transição para a Plataforma de Serviços de Interoperabilidade é definitiva.
 
-7 - O disposto nos n.<sup>os</sup>3 a 5 é aplicável à generalidade das comunicações e declarações das entidades empregadoras relativas à admissão de trabalhadores e à determinação da obrigação contributiva.»
+7 - O disposto nos n.os3 a 5 é aplicável à generalidade das comunicações e declarações das entidades empregadoras relativas à admissão de trabalhadores e à determinação da obrigação contributiva.»
 
 ###### Artigo 4.º — Alteração sistemática
 
@@ -329,7 +388,7 @@ A subsecção i da secção ii do capítulo ii do [Decreto Regulamentar n.º 1-A
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados o n.º 2 do artigo 6.º, o n.º 2 do artigo 8.º, os artigos 9.º, 13.º, 14.º e 15.º, o n.º 6 do artigo 16.º, os n.<sup>os</sup>2, 3 e 4 do artigo 21.º, os n.<sup>os</sup>4 e 5 do artigo 22.º, os n.<sup>os</sup>2 e 3 do artigo 25.º e os n.<sup>os</sup>3 e 4 do artigo 70.º do [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro, na sua redação atual.
+São revogados o n.º 2 do artigo 6.º, o n.º 2 do artigo 8.º, os artigos 9.º, 13.º, 14.º e 15.º, o n.º 6 do artigo 16.º, os n.os2, 3 e 4 do artigo 21.º, os n.os4 e 5 do artigo 22.º, os n.os2 e 3 do artigo 25.º e os n.os3 e 4 do artigo 70.º do [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro, na sua redação atual.
 
 ###### Artigo 6.º — Transição para o novo modelo de comunicação contributiva
 
@@ -349,12 +408,14 @@ O presente decreto regulamentar entra em vigor a 1 de janeiro de 2026.
 
 Visto e aprovado em Conselho de Ministros de 13 de novembro de 2025. - Luís Montenegro - Rosário Palma Ramalho.
 
-**Promulgado em 2 de dezembro de 2025.**
+Promulgado em 2 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2025.**
+Referendado em 4 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119856174

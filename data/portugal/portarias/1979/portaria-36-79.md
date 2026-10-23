@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-1979-392254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2eefba7e835bfc47a69837b3d6bc26c552efc9c470fa5f12ff64071ffe5432c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4a0ffcd261efc09ac16521d47c8e6583ceccf1bdcd1ec3e1069447a9dfdf163
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arcos de Valdevez
+- Melgaço
+- Monção
+- Pesca Desportiva
+- Pesca Fluvial
+- Ponte da Barca
+- Ponte de LIMA
+- Proteção dos Animais
+- Regulamento
+- RIO LIMA
+- VILA Verde
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:664548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA A ALÍNEA G) DO NUMERO 1 PELA PORTARIA 733/88, DE 10 DE NOVEMBRO, PUBLICADA NO DR.IS, 260, DE 881110. REVOGADA\
+    \ A ALÍNEA H) DO NUMERO 1 PELA PORTARIA 734/88, DE 10 DE NOVEMBRO, PUBLICADA NO DR.IS, 260, DE 881110. REVOGADA A ALÍNEA\
+    \ I) DO NUMERO 1 PELA PORTARIA 735/88, DE 10 DE NOVEMBRO, PUBLICADA NO DR.IS, 260, DE 881110. REPRISTINADAS AS ALÍNEAS\
+    \ G), H) E I) DO NUMERO 1, PELA PORTARIA 1086/93, DE 28 DE OUTUBRO, PUBLICADA NO DR.IS-B, 253, DE 931028.\0B, 253, DE\
+    \ 931028.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:610915:por
+  label: "Revogada a al. a) do nº4 do presente diploma, pela PORT.369/89.24.05.1989.MAPA, DR.IS [119] de 24.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-1989-610915
+  date: '1989-05-24'
+- type: repealed_by
+  target: pt:dre:3565899:por
+  label: "Revogada em parte, pela PORT.101/2001(2ªSÉRIE).2001.01.12.MADRP, DR.IIS [24] de 29/JAN/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2001-3565899
+  date: '2001-01-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:39Z'
   warnings: []
   errors: []
 ---

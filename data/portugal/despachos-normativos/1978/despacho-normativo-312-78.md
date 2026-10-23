@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/312-1978-326710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f06d30e9e9ccbe97b48d51e7b38dacd05d352604d6436120e312aec57e714313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d1d3cc756509d7813bae1e2dedede419cbc8e6b3dd3477c0dc36a3a9097955e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Pisee
+- Sociedade Nacional dos Armadores de Bacalhau
+relationships:
+- type: cites
+  target: pt:dre:295136:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:06Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +93,7 @@ Na sequência da elaboração do Plano para 1978, autorizado nos termos do n.º 
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1978 os projectos da Sociedade Nacional dos Armadores de Bacalhau (SNAB) a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27600/25312532.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27600/25312532.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27600/25312532.pdf)
 
 Considera-se ainda incluída no PISEE-78 a fase de cultura experimental, envolvendo uma despesa de 470 contos, do projecto de piscicultura ainda em estudo.
 
@@ -95,7 +101,7 @@ Considera-se ainda incluída no PISEE-78 a fase de cultura experimental, envolve
 
 3 - As despesas a financiar em 1978, já assinaladas em 1, serão cobertas de acordo com a seguinte distribuição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/27600/25312532.pdf))](https://files.diariodarepublica.pt/1s/1978/11/27600/25312532.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27600/25312532.pdf)
 
 As importâncias concedidas através do OGE, por conta das dotações apropriadas inscritas no PIDDAP-78, constituirão subsídios concedidos à empresa no âmbito da legislação em vigor.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19400/0561805620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2017/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2017-108265125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9552e5aca93a011288e8985660ff8a7a7c1a4b78d905426b47a0393496baf5c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4ea6172fa3d102b5ad40e11c1c6453fa6539261a65e685c2cf075b3f47664ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Catástrofe
+- Conservação e Restauro
 - Estabelecimento Comercial
 - Estabelecimento Industrial
 - Fiscalização
-- Catástrofe
-- Indústria da Construção
-- Licenciamento de Obras
-- Licença de Utilização
-- Normas de Construção
-- Urbanismo
-- Conservação e Restauro
-- Regime Jurídico
 - Habitação
+- Indústria da Construção
+- Licença de Utilização
+- Licenciamento de Obras
+- Normas de Construção
+- Regime Jurídico
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/2014/09/09/p/dre
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423756:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:40Z'
   warnings: []
   errors: []
 ---
@@ -203,12 +215,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2017. - António Luís Santos da Costa - Maria Constança Dias Urbano de Sousa - Eduardo Arménio do Nascimento Cabrita - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 30 de setembro de 2017.**
+Promulgado em 30 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de outubro de 2017.**
+Referendado em 3 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

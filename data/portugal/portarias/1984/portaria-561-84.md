@@ -48,40 +48,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-1984-381330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:07:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c9c8f4ef778b83f16bb35d0adffb829b27c06fccae19040316c16fe8767c5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15e7f5577ae6ae5452021e0e3406b526fecd740dcec079018867d8b13ad45f35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gratificação
+- Lisboa
+- Lotaria Nacional
+- Santa Casa da Misericórdia
+- Totobola
 relationships:
 - type: amended_by
   target: pt:dre:170341:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDA A TABELA ANEXA A PRESENTE PORTARIA, PELA TABELA ANEXA A PORTARIA NUMERO 902/85, PUBLICADA NO DIÁRIO\
+    \ DA REPÚBLICA, I SÉRIE, NUMERO 274, DE 28/11/85.\08/11/85.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:170341:por
+  label: Substituída, com efeitos a 01.01.1985, a tabela anexa pelo(a) Portaria n.º 902/85 - Diário da República n.º 274/1985,
+    Série I de 1985-11-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-1985-170341
+  date: '1985-11-28'
+- type: cites
+  target: pt:dre:397371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451449:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:07:44Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +124,12 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Admini
 
 Secretarias de Estado da Administração Pública, do Orçamento e da Segurança Social.
 
-**Assinada em 17 de Julho de 1984.**
+Assinada em 17 de Julho de 1984.
 
-**O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 ## ANEXO
 
 Tabela de gratificações da Mesa da Santa Casa da Misericórdia de Lisboa para as gerências da Lotaria Nacional e das Apostas Mútuas Desportivas e dos presidentes dos júris de sorteio e de escrutínio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18000/23812382.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18000/23812382.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18000/23812382.pdf)

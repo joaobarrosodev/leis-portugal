@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2002-303195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ce3bee2135b12d100525e09a95a5eff5266922492ece501280eefea4703c5af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b107152f9f3fbda16bf54a633d4d2359611841972e5f8e275689e7b72ae1a81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Sanção Disciplinar
+- Avaliação do Pessoal
+- Conselho dos Oficiais de Justiça
 - Defensor Oficioso
 - Definição de Competências
-- Processo Disciplinar
 - Estatuto dos Funcionários de Justiça
-- Pessoal de Justiça
-- Oficial de Justiça
 - Legitimidade
-- Conselho dos Oficiais de Justiça
 - Notificação
-- Avaliação do Pessoal
+- Oficial de Justiça
+- Pessoal de Justiça
+- Processo Disciplinar
+- Recurso
+- Sanção Disciplinar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+- type: cites
+  target: pt:dre:428653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:49Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +130,9 @@ Os artigos 6.º, 70.º, 72.º, 94.º, 97.º a 99.º, 111.º e 118.º do Estatuto
 
 3 - Os oficiais de justiça, no exercício das funções através das quais asseguram o expediente, autuação e regular tramitação dos processos, dependem funcionalmente do magistrado competente.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -130,13 +140,17 @@ Os artigos 6.º, 70.º, 72.º, 94.º, 97.º a 99.º, 111.º e 118.º do Estatuto
 
 3 - Nas classificações são sempre ponderadas as circunstâncias em que decorreu o exercício de funções, designadamente as condições de trabalho e o volume de serviço, informações, resultados de inspecções ou processos disciplinares, bem como outros elementos complementares, desde que, em qualquer caso, se reportem ao período abrangido pela inspecção.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - A classificação dos oficiais de justiça, com excepção dos secretários de tribunal superior, é precedida de inspecção pelo Conselho dos Oficiais de Justiça e de parecer do juiz-presidente.
 
 2 - Nos casos do Departamento Central de Investigação e Acção Penal e dos departamentos de investigação e acção penal o parecer é emitido pelo magistrado coordenador.
 
-###### Artigo 94.º — Instauração e instrução do processo
+Artigo 94.º
+
+Instauração e instrução do processo
 
 1 - São competentes para instaurar processo disciplinar contra oficiais de justiça, além do Conselho dos Oficiais de Justiça:
 
@@ -152,17 +166,23 @@ e) Os inspectores dos conselhos referidos na alínea anterior.
 
 2 - A nomeação do instrutor compete ao Conselho dos Oficiais de Justiça.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - Se o arguido estiver impossibilitado de elaborar a defesa, por motivo de ausência, doença, anomalia mental ou incapacidade física, a entidade que tiver instaurado o processo disciplinar requer à Ordem dos Advogados a nomeação de um defensor.
 
 2 - ...
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 O Conselho dos Oficiais de Justiça é o órgão que aprecia o mérito profissional e exerce o poder disciplinar sobre os oficiais de justiça, sem prejuízo da competência disciplinar atribuída a magistrados e do disposto no n.º 2 do artigo 68.º
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 O Conselho dos Oficiais de Justiça é composto pelo director-geral da Administração da Justiça, que preside, e pelos seguintes vogais:
 
@@ -176,7 +196,9 @@ d) [Anterior alínea c)];
 
 e) [Anterior alínea d)].
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - Compete ao Conselho dos Oficiais de Justiça:
 
@@ -200,7 +222,9 @@ i) ...
 
 2 - O Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais e o Conselho Superior do Ministério Público, consoante os casos, têm o poder de avocar bem como o poder de revogar as deliberações do Conselho dos Oficiais de Justiça proferidas no âmbito do disposto na alínea a) do número anterior.
 
-###### Artigo 118.º — Recursos
+Artigo 118.º
+
+Recursos
 
 1 - Das decisões do presidente, do vice-presidente ou dos vogais cabe recurso para o plenário do Conselho dos Oficiais de Justiça, a interpor no prazo de 20 dias úteis.
 
@@ -226,12 +250,12 @@ Na data em que se fizer a notificação da decisão ao arguido será dado conhec
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Diogo Campos Barradas de Lacerda Machado - Alberto de Sousa Martins.
 
-**Promulgado em 27 de Março de 2002.**
+Promulgado em 27 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

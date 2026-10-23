@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/51/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-2008-454823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d59b86fa25975a6847e8d7811cbfac876d43668f02c4de7c45eb1b7c80e0aecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88520d10d4f377a499bd8f63648dadc166b5ee02e769d1e098ca2c4c30bbe8fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Albânia
 - Comunidades Europeias
 - Convenção
-- Portugal
 - Cooperação Internacional
-- Albânia
 - Luxemburgo
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/36/2008/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/36/2008/07/29/p/dre
+- type: cites
+  target: pt:dre:454811:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:09Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +101,16 @@ validation:
 
 de 29 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Estabilização e de Associação entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a República da Albânia, por outro, assinado no Luxemburgo em 12 de Junho de 2006, incluindo os anexos i a v, os protocolos n.os 1 a 6 e a acta final com as declarações, aprovado pela [Resolução da Assembleia da República n.º 36/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-2008-454811), em 30 de Maio.
 
-**Assinado em 16 de Julho de 2008.**
+Assinado em 16 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Julho de 2008.**
+Referendado em 22 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

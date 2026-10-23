@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24371-1969-216277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11b51c2279224ab27b8608811fc7b132016a933c842c37ee6296e59d8cc9a536
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d993c20d033326e85fad3f676395707d1936a65c76f6a6c3bcbe92a31612ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:02Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +99,19 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.ª São alterados os artigos adiante designados, conforme as redacções que seguem:
 
-###### Art. 3.º Os subdirectores das escolas técnicas profissionais e os directores de curso são nomeados pelo governador, mediante proposta do director da escola, de entre os professores do ensino técnico profissional.
+Art. 3.º Os subdirectores das escolas técnicas profissionais e os directores de curso são nomeados pelo governador, mediante proposta do director da escola, de entre os professores do ensino técnico profissional.
 
-###### Art. 4.º - 1. O ano escolar começa em 1 de Outubro e termina em 30 de Setembro seguinte. O ano lectivo começa em 1 de Outubro e termina em 30 de Junho.
+Art. 4.º - 1. O ano escolar começa em 1 de Outubro e termina em 30 de Setembro seguinte. O ano lectivo começa em 1 de Outubro e termina em 30 de Junho.
 
 2. Nas províncias de governo-geral o ano escolar começa em 10 de Setembro e termina em 9 de Setembro seguinte. O ano lectivo começa em 10 de Setembro e termina em 30 de Junho.
 
 ...
 
-###### Art. 6.º - 1. O provimento dos lugares de mestre principal dos quadros é feito mediante concurso documental, a que podem apresentar-se os mestres da respectiva oficina ou curso prático com, pelo menos, cinco anos de serviço na categoria, classificado de Bom, e informação de suficiente aproveitamento nos cursos de preparação ou actualização para que tenham sido convocados.
+Art. 6.º - 1. O provimento dos lugares de mestre principal dos quadros é feito mediante concurso documental, a que podem apresentar-se os mestres da respectiva oficina ou curso prático com, pelo menos, cinco anos de serviço na categoria, classificado de Bom, e informação de suficiente aproveitamento nos cursos de preparação ou actualização para que tenham sido convocados.
 
 2. É aplicável ao provimento destes lugares o disposto no artigo 19.º do Decreto n.º 38850, de 15 de Outubro de 1954.
 
-###### Art. 7.º - 1. São extintos os actuais lugares de professores adjuntos ou do 1.º grau, bem como os de professores de Educação Física do quadro complementar do ensino técnico profissional do ultramar e são substituídos por igual número de lugares de professores efectivos, respectivamente, do mesmo grupo e da mesma disciplina, considerando-se providos nos novos lugares, com dispensa de todas as formalidades, os titulares dos lugares extintos.
+Art. 7.º - 1. São extintos os actuais lugares de professores adjuntos ou do 1.º grau, bem como os de professores de Educação Física do quadro complementar do ensino técnico profissional do ultramar e são substituídos por igual número de lugares de professores efectivos, respectivamente, do mesmo grupo e da mesma disciplina, considerando-se providos nos novos lugares, com dispensa de todas as formalidades, os titulares dos lugares extintos.
 
 2. Os professores a que se refere o número anterior que não possuam as habilitações legais mantêm a actual forma de provimento enquanto não adquirirem essas habilitações.
 
@@ -109,15 +121,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 10.º - 1. São extintos no quadro complementar dos liceus do ultramar os lugares de professor de Canto Coral, de Educação Física e de Religião e Moral e substituídos por lugares de professor do quadro comum dos liceus do ultramar da mesma disciplina, considerando-se providos nos novos lugares, com dispensa de todas as formalidades, os titulares dos lugares extintos.
+Art. 10.º - 1. São extintos no quadro complementar dos liceus do ultramar os lugares de professor de Canto Coral, de Educação Física e de Religião e Moral e substituídos por lugares de professor do quadro comum dos liceus do ultramar da mesma disciplina, considerando-se providos nos novos lugares, com dispensa de todas as formalidades, os titulares dos lugares extintos.
 
 2. ...
 
 3. Aplica-se aos professores referidos no n.º 1 o estabelecido no artigo 7.º, n.º 2.
 
-###### Art. 11.º - 1. Os vencimentos do pessoal docente dos ensinos liceal e técnico profissional nas categorias que figuram na tabela anexa a este diploma são os das letras constantes dessa tabela, com referência ao artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 11.º - 1. Os vencimentos do pessoal docente dos ensinos liceal e técnico profissional nas categorias que figuram na tabela anexa a este diploma são os das letras constantes dessa tabela, com referência ao artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 12.º - 1. O serviço docente obrigatório para as diferentes categorias de pessoal dos estabelecimentos de ensino liceal e técnico profissional é o seguinte:
+Art. 12.º - 1. O serviço docente obrigatório para as diferentes categorias de pessoal dos estabelecimentos de ensino liceal e técnico profissional é o seguinte:
 
 a) Doze horas para os professores ordinários dos institutos técnicos médios, com a redução de três horas após a concessão da 2.ª diuturnidade;
 
@@ -135,17 +147,17 @@ e) Trinta e duas horas para os regentes de trabalhos, mestres e técnicos auxili
 
 4. Quando devida, a remuneração do serviço extraordinário será abonada desde o início do ano escolar até 31 de Julho.
 
-###### Art. 13.º - 1. Os professores a que se refere n.º 5 do artigo 9.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), mandado aplicar ao ultramar, com alterações, pela [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968, podem ser transferidos, a requerimento seu e mediante despacho do Ministro do Ultramar, para vagas existentes no quadro docente do ensino técnico profissional do ultramar.
+Art. 13.º - 1. Os professores a que se refere n.º 5 do artigo 9.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), mandado aplicar ao ultramar, com alterações, pela [Portaria n.º 23625](https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512), de 25 de Setembro de 1968, podem ser transferidos, a requerimento seu e mediante despacho do Ministro do Ultramar, para vagas existentes no quadro docente do ensino técnico profissional do ultramar.
 
 ...
 
-###### Art. 15.º As pessoas habilitadas com o Exame de Estado para o extinto magistério do 1.º grau nos grupos 2.º, 3.º, 4.º e 6.º do ensino técnico profissional podem requerer o provimento no lugar de professor efectivo do respectivo grupo.
+Art. 15.º As pessoas habilitadas com o Exame de Estado para o extinto magistério do 1.º grau nos grupos 2.º, 3.º, 4.º e 6.º do ensino técnico profissional podem requerer o provimento no lugar de professor efectivo do respectivo grupo.
 
 2.ª Ficam autorizados os órgãos legislativos das províncias ultramarinas a fixar as remunerações mensais, por cada hora semanal do serviço docente extraordinário, aos professores do ensino técnico médio, do liceal, do técnico profissional e do ciclo preparatório do ensino secundário.
 
 Tabela a que se refere o artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/10/24000/13851386.pdf))](https://files.diariodarepublica.pt/1s/1969/10/24000/13851386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/10/24000/13851386.pdf)
 
 Ministério do Ultramar, 13 de Outubro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

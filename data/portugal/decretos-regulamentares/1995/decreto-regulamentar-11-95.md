@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/119b00/31893193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11/1995/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1995-505186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2b67c90830abb4f3de381479c497ab6ae938e0ae73959fd309feac14b2b096b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3d971c4bde17f8905f027d7a96174f35faf3fdc46967b8ea70d7c99a9c627a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão Executiva de Infraestruturas OTAN
 - Definição de Competências
 - Direcção Geral de Infra-estruturas
 - Extinção de Serviços
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:489499:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655675:por
+  label: "Extinta, a Direcção-Geral de Infra-Estruturas, cuja orgânica foi aprovada no presente diploma, sendo objecto de\
+    \ fusão, com a Direcção-Geral de Armamento e Equipamentos de Defesa, pelo DEC LEI.154-A/2009.06.07.2009.MDN, DR.IS [128]2ºSupl\
+    \ de 06.07.2009, nos termos do n.º 1 do seu artigo 32.º, e as suas atribuições integradas na Direcção-Geral de Armamento\
+    \ e Infra-Estruturas de Defesa, criada no citado Decreto-Lei \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
+- type: amended_by
+  target: pt:dre:489499:por
+  label: "Determinada a sucessão pela Direcção-Geral de Armamento e Infra-Estruturas de Defesa (DGAIED) das atribuições e\
+    \ competências da Direcção-Geral de Infra-Estruturas de Defesa (DGAED), constantes deste diploma, que é revogado, a partir\
+    \ de 01.11.2009, pelo DR.23/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/23-2009-489499
+  date: '2009-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:549448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:50Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +195,9 @@ b) A Divisão de Normalização e Tipificação (DNT);
 
 c) A Divisão de Estudos Ambientais (DEA).
 
-###### Artigo 6.º — Divisão de Planeamento e Programas
+###### Artigo 6.º
+
+##### Divisão de Planeamento e Programas
 
 À DPP compete:
 
@@ -190,7 +215,9 @@ f) Proceder à análise de custos de infra-estruturas militares e estabelecer re
 
 g) Colaborar no planeamento e programação de infra-estruturas não militares que, pela sua natureza, possam interessar à defesa nacional em caso de exercícios, catástrofe, emergência ou guerra.
 
-###### Artigo 7.º — Divisão de Normalização e Tipificação
+###### Artigo 7.º
+
+##### Divisão de Normalização e Tipificação
 
 À DNT compete:
 
@@ -206,7 +233,9 @@ e) Promover estudos e assegurar a coordenação dos aspectos normativos e funcio
 
 f) Propor áreas de Investigação e Desenvolvimento (I&D) no domínio das construções e tecnologia dos materiais de interesse para a defesa nacional.
 
-###### Artigo 8.º — Divisão de Estudos Ambientais
+###### Artigo 8.º
+
+##### Divisão de Estudos Ambientais
 
 À DEA compete:
 
@@ -232,7 +261,9 @@ a) A Divisão de Infra-Estruturas (DIE);
 
 b) A Divisão de Sistemas de Informação e Comunicações (DSIC).
 
-###### Artigo 10.º — Divisão de Infra-Estruturas
+###### Artigo 10.º
+
+##### Divisão de Infra-Estruturas
 
 À DIE compete:
 
@@ -264,7 +295,9 @@ n) Participar na fiscalização e controlo da gestão das infra-estruturas da re
 
 o) Propor a rentabilização económica e social das infra-estruturas da sua competência de actuação.
 
-###### Artigo 11.º — Divisão de Sistemas de Informação e Comunicações
+###### Artigo 11.º
+
+##### Divisão de Sistemas de Informação e Comunicações
 
 À DSIC compete:
 
@@ -306,7 +339,9 @@ a) A Divisão de Inventário, Cadastro e Gestão Patrimonial (DICGP);
 
 b) A Divisão de Servidões e Licenciamentos (DSL).
 
-###### Artigo 13.º — Divisão de Inventário, Cadastro e Gestão Patrimonial
+###### Artigo 13.º
+
+##### Divisão de Inventário, Cadastro e Gestão Patrimonial
 
 À DICGP compete:
 
@@ -322,7 +357,9 @@ e) Colaborar, no âmbito das suas competências, com as entidades responsáveis 
 
 f) Elaborar e manter actualizada uma base de dados, relativa à legislação aplicável à manutenção e gestão do património, com interesse para a defesa nacional.
 
-###### Artigo 14.º — Divisão de Servidões e Licenciamentos
+###### Artigo 14.º
+
+##### Divisão de Servidões e Licenciamentos
 
 À DSL compete:
 
@@ -344,7 +381,9 @@ a) A Secção de Administração Geral (SAG);
 
 b) A Secção de Pessoal e Expediente (SPE).
 
-###### Artigo 16.º — Secção de Administração Geral
+###### Artigo 16.º
+
+#### Secção de Administração Geral
 
 À SAG compete:
 
@@ -356,7 +395,9 @@ c) Promover a aquisição de material, equipamento, mobiliário e demais bens e 
 
 d) Assegurar a gestão dos bens patrimoniais da DGIE e manter organizado e actualizado o respectivo inventário.
 
-###### Artigo 17.º — Secção de Pessoal e Expediente
+###### Artigo 17.º
+
+#### Secção de Pessoal e Expediente
 
 À SPE compete:
 
@@ -422,16 +463,16 @@ Os concursos que se encontrem abertos à data da entrada em vigor do presente di
 
 Presidência do Conselho de Ministros, 13 de Março de 1995. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 26 de Abril de 1995.**
+Promulgado em 26 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1995.**
+Referendado em 27 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo a que se refere o artigo 24.º do Decreto Regulamentar n.º 11/95
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/119b00/31893193.pdf))](https://files.diariodarepublica.pt/1s/1995/05/119b00/31893193.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/119b00/31893193.pdf)

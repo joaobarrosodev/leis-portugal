@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/10/231b00/61026103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/705/1994/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/705-1994-620280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3abd21702f4474e43693162463fd3daead0dd163f58d2066a47aabaaf5581bac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1d83a8d2f95ea945f7d8847a399bf048e19d3c89824a34acd07cde95e3b7411
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/198/1992/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/198/1992/10/20/p/dre
+- type: cites
+  target: pt:dre:220739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556656:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226813:por
+  label: "Revogado pelo DN.43/96.23.10.1996.MC, DR.IS-B [246] de 23.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1996-226813
+  date: '1996-10-23'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:20Z'
   warnings: []
   errors: []
 ---

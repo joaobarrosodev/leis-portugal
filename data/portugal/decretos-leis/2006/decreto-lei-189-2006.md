@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/09/18400/69816990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/2006/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2006-541785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c23de7ad0d0d6fc10ff01fb02116e01c226ea49064af6884a60fbdfaf13a89b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c93e1cc8103b75523afd91dc08b0dc61d65df5b4842c8cbb656b20d265504ea3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Transporte Marítimo
 - Conselheiro de Segurança
 - Contra-ordenação
-- Transporte Ferroviário
-- Fiscalização
 - Direcção Geral dos Transportes Terrestres e Fluviais
-- Segurança Rodoviária
+- Fiscalização
 - Regime Jurídico
+- Segurança Rodoviária
+- Serviço Nacional de Bombeiros e Protecção Civil
 - Transporte de Mercadorias Perigosas
+- Transporte Ferroviário
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:300828:por
@@ -134,16 +134,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/322/2000/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322/2000/12/19/p/dre
+- type: repealed_by
+  target: pt:dre:300828:por
+  label: "Revogado, a partir de 04.05.2010, o Dec Lei 322/2000, de 19-Dez, alterado e republicado pelo presente diploma, pelo\
+    \ DEC LEI.41-A/2010.29.04.2010.MOPTC, DR.IS [83-Supl] de 29.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-a-2010-300828
+  date: '2010-04-29'
 article_structure:
-  article_count: 31
+  article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:19Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +190,9 @@ c) 'Mercadorias perigosas' as matérias, os objectos, as soluções e as mistura
 
 d) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -204,13 +212,17 @@ g) ...
 
 h) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As empresas às quais se aplica o presente diploma devem nomear pelo menos um conselheiro de segurança através de um documento escrito, o qual deve manter-se arquivado nas instalações da empresa à disposição das autoridades fiscalizadoras competentes, e dele dar conhecimento por escrito à Direcção-Geral dos Transportes Terrestres e Fluviais (DGTTF), no prazo de cinco dias úteis a contar do acto de nomeação, devendo esta disponibilizar a informação relativa a tal nomeação aos departamentos governamentais com responsabilidade em matéria de segurança interna.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os conselheiros de segurança devem possuir uma formação profissional específica, ministrada e avaliada por entidades formadoras reconhecidas, e uma formação académica mínima correspondente ao 12.º ano de escolaridade ou, não possuindo esta última, deter uma experiência profissional específica em áreas afins das funções a desempenhar pelos conselheiros de segurança que a DGTTF considere adequadas.
 
@@ -222,7 +234,9 @@ h) ...
 
 5 - Os exames relativos à formação inicial e de reciclagem são realizados pelas entidades formadoras reconhecidas e revestem a forma escrita, devendo incidir sobre as matérias constantes do anexo I, obedecendo o conteúdo e as condições da sua realização ao disposto no anexo III.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -232,13 +246,17 @@ h) ...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições do presente diploma compete à DGTTF ou ao INTF, consoante as suas atribuições legais.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -260,13 +278,17 @@ g) A falta de remessa do relatório a que se refere o n.º 5 do artigo 8.º, com
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A instrução dos processos de contra-ordenação previstos no presente decreto-lei compete à DGTTF ou ao INTF, consoante as suas atribuições legais.
 
 2 - A aplicação das coimas compete ao dirigente máximo da DGTTF ou ao conselho de administração do INTF.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 A representação no comité a que se refere o artigo 9.º da Directiva n.º [96/35/CE](http://data.europa.eu/eli/dir/1996/35/oj?locale=pt), do Conselho, de 3 de Junho, é assegurada pela DGTTF e pelo INTF.»
 
@@ -316,7 +338,9 @@ c) Conteúdo das tarefas a que se refere o n.º 1 do artigo 7.º do presente dip
 
 d) Elaboração e implementação de procedimentos relativos a medidas de emergência e à actividade das empresas, tendo em conta as matérias a que se refere o n.º 2 do artigo 5.º e que constam do anexo I.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - ...
 
@@ -330,7 +354,9 @@ d) Elaboração e implementação de procedimentos relativos a medidas de emerg�
 
 5 - As condições de realização dos exames podem ser sujeitas a intervenções de orientação por parte das autoridades indicadas no n.º 4 do artigo 5.º
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 1 - ...
 
@@ -362,7 +388,9 @@ l) ...
 
 m) ...
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 ...
 
@@ -398,15 +426,15 @@ As empresas que, tendo conselheiros de segurança nomeados, não realizaram a co
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 2006. - António Luís Santos Costa - António Luís Santos Costa - João José Amaral Tomaz - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
 
-**Promulgado em 4 de Setembro de 2006.**
+Promulgado em 4 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Setembro de 2006.**
+Referendado em 5 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 322/2000, de 19 de Dezembro
 

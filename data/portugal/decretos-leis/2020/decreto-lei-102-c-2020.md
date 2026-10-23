@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09
   number: '238'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 36-(221) a 36-(257)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102-c/2020/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03f51beb839e6d009abb321d3c9b23d801b68ec4df10a938c344af6556511586
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 919f0b649e2a4af4be71b9b8050a6235a32353513f27295f067306a7521eb16e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Transitária
 - Aproximação das Legislações
-- Certificado de Aptidão Profissional
+- Atividade Transitária
 - Carta de Condução
 - Certificação Profissional
+- Certificado de Aptidão Profissional
 - Condutor
-- Transporte de Mercadorias
 - Qualificação Profissional
+- Transporte de Mercadorias
 - Transporte de Passageiros
 relationships:
 - type: cites
@@ -164,6 +164,50 @@ relationships:
   target: eli:http://data.europa.eu/eli/d
   label: null
   source: http://data.europa.eu/eli/d
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147533136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32003L0059
   label: null
@@ -181,15 +225,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 83
+  article_count: 53
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:30Z'
   warnings: []
   errors: []
 ---
@@ -250,7 +294,9 @@ a) Veículos para os quais seja exigida uma carta de condução das categorias C
 
 b) Veículos para os quais seja exigida uma carta de condução das categorias D1, D1E, D e DE.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - (Anterior proémio do artigo.)
 
@@ -278,7 +324,9 @@ h) Que transportem material, equipamento ou máquinas destinadas a ser utilizado
 
 5 - São definidas por portaria dos membros do Governo responsáveis pela área dos transportes e pela respetiva área setorial as condições de verificação dos requisitos previstos nos n.os 3 e 4.
 
-###### Artigo 4.º — Qualificação de motorista
+Artigo 4.º
+
+Qualificação de motorista
 
 1 - Sem prejuízo das isenções previstas no artigo anterior, a qualificação de motorista para o exercício da condução dos veículos das categorias referidas no n.º 2 do artigo 2.º é obrigatória, sendo titulada por:
 
@@ -298,7 +346,9 @@ b) Carta de qualificação de motorista (CQM), para motoristas não residentes q
 
 7 - Um motorista nacional de país terceiro que conduza veículos utilizados no transporte de mercadorias por estrada deve comprovar que possui a qualificação e a formação exigidas através do certificado de motorista previsto no [Regulamento (CE) n.º 1072/2009](https://data.europa.eu/eli/reg/2009/1072/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, desde que esse certificado apresente o código 95 na secção de observações e que o motorista tenha cumprido os requisitos de qualificação e de formação previstos no presente decreto-lei.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +362,9 @@ b) Carta de qualificação de motorista (CQM), para motoristas não residentes q
 
 6 - O modelo do CAM é fixado por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O CAM obtido na sequência da qualificação inicial comum habilita o seu titular a que seja colocado na carta de condução o código 95 nas seguintes condições:
 
@@ -320,7 +372,9 @@ a) A partir da idade de 18 anos, veículos das categorias C e CE;
 
 b) A partir da idade de 21 anos, veículos das categorias D e DE.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O CAM obtido na sequência da qualificação inicial acelerada habilita o seu titular a obter a anotação do código 95 na carta de condução para exercer a condução nas seguintes condições:
 
@@ -330,7 +384,9 @@ b) A partir da idade de 21 anos, veículos das categorias C, CE, D1, D1E, e aind
 
 c) A partir da idade de 23 anos, veículos das categorias D e DE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A formação contínua é obrigatória e deve ser frequentada de cinco em cinco anos, antes do fim da validade do CAM, permitindo aos seus titulares atualizarem os conhecimentos fundamentais para a sua atividade, com especial destaque para a segurança rodoviária, segurança e saúde no trabalho e redução do impacto ambiental da condução.
 
@@ -342,11 +398,15 @@ c) A partir da idade de 23 anos, veículos das categorias D e DE.
 
 5 - A formação contínua deve abranger uma variedade de matérias e incluir pelo menos uma matéria relacionada com a segurança rodoviária, não descurando a evolução da legislação e da tecnologia.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os conteúdos dos cursos de formação previstos nos artigos 6.º a 9.º constam de Unidades de Formação de Curta Duração (UFCD) e integram o Catálogo Nacional de Qualificações (CNQ).
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -354,11 +414,15 @@ Os conteúdos dos cursos de formação previstos nos artigos 6.º a 9.º constam
 
 3 - A aferição de residência habitual faz-se de acordo com o disposto no artigo 12.º da [Diretiva 2006/126/CE](https://data.europa.eu/eli/dir/2006/126/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, e no artigo 19.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo [Decreto-Lei n.º 138/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2012-178550), de 5 de julho, na sua redação atual.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Para efeitos do disposto na alínea b) do artigo 13.º-A, a idoneidade consiste na verificação dos requisitos prévios de certificação estabelecidos na [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual.
 
-###### Artigo 17.º — Capacidade técnica
+Artigo 17.º
+
+Capacidade técnica
 
 1 - A capacidade técnica é aferida nos termos do disposto no anexo ii da [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual.
 
@@ -366,17 +430,23 @@ Para efeitos do disposto na alínea b) do artigo 13.º-A, a idoneidade consiste 
 
 3 - Na atividade formativa prevista no presente decreto-lei é obrigatória a celebração pela entidade formadora de um contrato de seguro de responsabilidade civil que cubra os danos decorrentes da atividade, incluindo a formação prática, em especial os danos resultantes de acidentes provocados pelo formando durante a formação prática, com condições a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 As entidades formadoras certificadas ao abrigo da [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual, são dispensadas da demonstração dos requisitos previstos no artigo 13.º, com exceção dos associados aos centros de formação e veículos afetos à formação.
 
-###### Artigo 20.º — Manutenção dos requisitos de certificação
+Artigo 20.º
+
+Manutenção dos requisitos de certificação
 
 1 - Os requisitos de certificação são de verificação permanente, devendo as entidades formadoras comprovar o seu cumprimento sempre que lhes seja solicitado pelo IMT, I. P.
 
 2 - As entidades formadoras devem comunicar ao IMT, I. P., no prazo de 10 dias, qualquer alteração aos requisitos de certificação.
 
-###### Artigo 21.º — Falta superveniente dos requisitos de certificação
+Artigo 21.º
+
+Falta superveniente dos requisitos de certificação
 
 1 - A falta superveniente de qualquer dos requisitos de certificação deve ser suprida no prazo de 60 dias, contados da sua ocorrência.
 
@@ -384,7 +454,9 @@ As entidades formadoras certificadas ao abrigo da [Portaria n.º 851/2010](https
 
 3 - A falta de regularização referida no n.º 1 implica a caducidade da certificação, sem prejuízo das medidas administrativas que venham a ser aplicadas.
 
-###### Artigo 22.º — Deveres das entidades formadoras
+Artigo 22.º
+
+Deveres das entidades formadoras
 
 São deveres das entidades formadoras certificadas:
 
@@ -406,7 +478,9 @@ h) Comunicar previamente ao IMT, I. P., cada ação de formação e eventuais al
 
 i) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requisitos de certificação.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O centro de formação é o espaço formativo dotado de capacidade técnica e dos demais meios necessários ao adequado exercício da atividade de formação, nos termos definidos por portaria do membro do Governo responsável pela área dos transportes.
 
@@ -416,7 +490,9 @@ i) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requ
 
 4 - Os requisitos que determinaram a autorização dos centros de formação são de verificação permanente, devendo as entidades formadoras comprovar o seu cumprimento sempre que tal lhes seja solicitado pelo IMT, I. P.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os cursos de formação previstos nos artigos 6.º a 9.º estão sujeitos a reconhecimento prévio pelo IMT, I. P., a conceder nos termos estabelecidos em portaria dos membros do Governo responsáveis pelas áreas da formação profissional e dos transportes.
 
@@ -426,7 +502,9 @@ i) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requ
 
 4 - A conclusão da formação é comprovada através de um certificado de qualificações emitido no âmbito do Sistema Nacional de Qualificações, sendo as UFCD capitalizáveis para uma qualificação do CNQ.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Em função da gravidade do incumprimento pelas entidades formadoras certificadas dos deveres e procedimentos estabelecidos no presente decreto-lei e em portaria do membro do Governo responsável pela área dos transportes, e sem prejuízo do disposto no capítulo iv, podem ser aplicadas, pelo conselho diretivo do IMT, I. P., as seguintes sanções administrativas:
 
@@ -450,7 +528,9 @@ h) Cancelamento da certificação da entidade formadora, com a cassação do cor
 
 3 - A entidade formadora cuja certificação tenha sido cancelada fica interdita de requerer nova certificação pelo período de três anos, contados da data do cancelamento, podendo ser reabilitada nos termos da lei geral.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Constituem contraordenações puníveis com coima de (euro) 500 a (euro) 1500:
 
@@ -468,11 +548,15 @@ c) A violação dos deveres referidos nas alíneas e), h) e i) do artigo 22.º, 
 
 3 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 As infrações ao disposto no presente decreto-lei são da responsabilidade da entidade formadora, salvo quanto às infrações ao n.º 1 do artigo anterior, relativamente às quais são responsáveis os respetivos autores.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -486,7 +570,9 @@ As infrações ao disposto no presente decreto-lei são da responsabilidade da e
 
 6 - ...
 
-###### Artigo 31.º — Processamento das contraordenações e registo
+Artigo 31.º
+
+Processamento das contraordenações e registo
 
 1 - O processamento das contraordenações previstas no presente decreto-lei compete ao IMT, I. P.
 
@@ -514,7 +600,9 @@ Rede de execução
 
 4 - O acesso à rede deve ser protegido e limitado à verificação do cumprimento dos requisitos associados à emissão do CAM e da qualificação do motorista, sendo o IMT, I. P., responsável pelo controlo e tratamento dos dados pessoais, nos termos da legislação aplicável.
 
-###### Artigo 11.º-A — Formação equiparada
+Artigo 11.º-A
+
+Formação equiparada
 
 1 - As Forças Armadas e as forças de segurança podem ministrar a formação prevista no presente decreto-lei, sendo esta equiparada à formação ministrada pelas entidades formadoras certificadas, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da defesa, da administração interna, do trabalho e dos transportes.
 
@@ -524,11 +612,15 @@ Rede de execução
 
 4 - As condições de manutenção e revalidação previstas no presente decreto-lei aplicam-se à qualificação obtida nos termos do n.º 2, conforme definido pela portaria referida no n.º 1.
 
-###### Artigo 12.º-A — Motoristas de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu
+Artigo 12.º-A
+
+Motoristas de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu
 
 Os cidadãos nacionais de outro Estado-Membro da União Europeia ou do Espaço Económico Europeu, e aí legalmente estabelecidos para o exercício da profissão de motorista de veículos pesados de passageiros ou mercadorias, podem exercer a profissão em território nacional de forma permanente ou temporária e ocasional, nos termos da [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, na sua redação atual, ficando sujeitos aos requisitos de exercício da profissão estabelecidos pelo presente decreto-lei, que lhes sejam aplicáveis, e às medidas de compensação estabelecidas em portaria dos membros do Governo responsáveis pelas áreas do trabalho e dos transportes.
 
-###### Artigo 13.º-A — Certificação de entidades formadoras de motoristas
+Artigo 13.º-A
+
+Certificação de entidades formadoras de motoristas
 
 A certificação de entidades que pretendam exercer a atividade de formação prevista no presente decreto-lei compete ao IMT, I. P., segue os trâmites previstos no artigo 5.º da [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual, e depende de que o requerente:
 
@@ -540,7 +632,9 @@ c) Detenha capacidade técnica;
 
 d) Tenha a sua situação tributária e contributiva regularizada perante a Autoridade Tributária e Aduaneira e a segurança social, respetivamente.
 
-###### Artigo 14.º-A — Processo de certificação de entidades formadoras
+Artigo 14.º-A
+
+Processo de certificação de entidades formadoras
 
 1 - O requerimento de certificação de entidade formadora é decidido pelo IMT, I. P., no prazo de 15 dias, considerando-se tacitamente deferido se a decisão não for proferida dentro do prazo referido.
 
@@ -550,15 +644,21 @@ d) Tenha a sua situação tributária e contributiva regularizada perante a Auto
 
 4 - O certificado é intransmissível, a qualquer título e para qualquer efeito.
 
-###### Artigo 17.º-A — Publicitação das entidades formadoras
+Artigo 17.º-A
+
+Publicitação das entidades formadoras
 
 A lista de entidades formadoras certificadas é divulgada no sítio na Internet do IMT, I. P., e comunicada ao serviço central competente do ministério responsável pela área da formação profissional, no prazo de 20 dias após emissão do certificado, para efeitos de divulgação na lista geral de entidades formadoras certificadas.
 
-###### Artigo 18.º-A — Entidades formadoras de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu
+Artigo 18.º-A
+
+Entidades formadoras de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu
 
 As entidades formadoras legalmente estabelecidas em Estado-Membro da União Europeia ou do Espaço Económico Europeu para o exercício da atividade de formação equivalente à estabelecida no presente decreto-lei podem ministrar a formação dos motoristas referidos no artigo 2.º, de forma ocasional e esporádica, em território nacional, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 27 de julho, na sua redação atual, mediante comunicação prévia e desde que observem o disposto no presente decreto-lei e em portaria do membro do Governo responsável pela área dos transportes.
 
-###### Artigo 34.º-A — Tramitação de atos e procedimentos
+Artigo 34.º-A
+
+Tramitação de atos e procedimentos
 
 1 - Todos os pedidos, comunicações e notificações estabelecidos no presente decreto-lei e nas portarias nele previstas são efetuados por meios eletrónicos, através da plataforma eletrónica de informação do IMT, I. P., acessível através do portal ePortugal, que integra o balcão único eletrónico de serviços a que aludem os artigos 5.º e 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, na sua redação atual.
 
@@ -568,13 +668,17 @@ As entidades formadoras legalmente estabelecidas em Estado-Membro da União Euro
 
 4 - O disposto no n.º 1 não prejudica a possibilidade de serem realizadas notificações para a morada única digital, através do serviço público de notificações eletrónicas, nos termos do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto, na sua redação atual.
 
-###### Artigo 34.º-B — Cooperação administrativa
+Artigo 34.º-B
+
+Cooperação administrativa
 
 1 - Para efeitos de aplicação do presente decreto-lei, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a profissionais e entidades formadoras provenientes de outros Estados-Membros, nos termos do disposto no n.º 2 do artigo 51.º da [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, na sua redação atual, e no capítulo vi do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, na sua redação atual, nomeadamente através do Sistema de Informação do Mercado Interno.
 
 2 - O IMT, I. P., deve disponibilizar os dados necessários para divulgação no portal ePortugal, de modo a facilitar o acesso às informações necessárias ao exercício de direitos pelos utilizadores, no âmbito do mercado interno, no domínio do reconhecimento das qualificações profissionais objeto do presente decreto-lei, incluindo o ensino e a formação profissionais, nos termos dos artigos 2.º e 4.º do [Regulamento (UE) n.º 2018/1724](https://data.europa.eu/eli/reg/2018/2018/oj?locale=pt), do Parlamento Europeu e do Conselho, de 2 de outubro de 2018.
 
-###### Artigo 34.º-C — Divulgação de informação pública
+Artigo 34.º-C
+
+Divulgação de informação pública
 
 A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no portal de dados abertos da Administração Pública, em www.dados.gov.pt.»
 
@@ -612,15 +716,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2020. - António Luís Santos da Costa - Eurico Jorge Nogueira Leite Brilhante Dias - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - João Pedro Soeiro de Matos Fernandes - Hugo Santos Mendes - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 7 de dezembro de 2020.**
+Promulgado em 7 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de dezembro de 2020.**
+Referendado em 8 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -1536,7 +1640,7 @@ b) Número de série;
 
 e) A menção «Modelo da União Europeia» na ou nas línguas do Estado-Membro que emite a carta e a menção «Carta de qualificação de motorista», nas restantes línguas oficiais da União, impressa a azul, a fim de constituir o pano de fundo da carta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf)
 
 f) Cores de referência:
 
@@ -1568,8 +1672,10 @@ Modelo de carta de qualificação de motorista
 
 Face 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf)
 
 Face 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23802/0022100257.pdf)
+
+100000282

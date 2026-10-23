@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0007200088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2024-836117870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a87727792ac28fb1e2412ca05a35a9635012442ac45a8bf5c11ea87f8a8cc37d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a24a4933397a234480598fcef2bd88d2fd397cf2b6372a3e944c04e597f2dd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema de Verificação de Incapacidades
-- Pensão por Incapacidade Permanente para o Trabalho
-- Faltas
-- Exame Médico
-- Pensão de Invalidez
-- Incapacidade Física
-- Protecção na Doença
-- Incapacidade Temporária
-- Segurança Social
 - Conselho Médico Nacional
+- Exame Médico
+- Faltas
+- Incapacidade Física
 - Incapacidade Permanente
+- Incapacidade Temporária
+- Pensão de Invalidez
+- Pensão por Incapacidade Permanente para o Trabalho
+- Protecção na Doença
+- Segurança Social
+- Sistema de Verificação de Incapacidades
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2017/10/06/p/dre
@@ -105,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629383:por
+  label: null
+  source: null
 article_structure:
-  article_count: 66
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:15Z'
   warnings: []
   errors: []
 ---
@@ -163,13 +191,17 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
 2 - A verificação das situações de incapacidade permanente, deficiência ou dependência, consubstancia-se na análise dos dados relativos às condições físicas, motoras, orgânicas, sensoriais e intelectuais dos beneficiários.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -177,7 +209,9 @@ f) [...]
 
 3 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -185,21 +219,29 @@ f) [...]
 
 3 - A verificação técnica das condições de deficiência por equipas multidisciplinares, ou por entidade certificadora, é assegurada por peritos médicos e técnicos da segurança social ou de outros organismos, nos termos e para os efeitos previstos em diplomas próprios.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Asseguram a assessoria técnica à coordenação, os assessores técnicos de coordenação e o conselho médico nacional.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os médicos relatores e os membros das comissões de verificação, de reavaliação e de recurso, bem como os assessores técnicos de coordenação, são recrutados pelos serviços competentes da segurança social de entre médicos de reputada experiência e idoneidade no âmbito da peritagem médico-social e ainda especialistas, nos casos em que se mostre conveniente a participação de médicos de determinada especialidade, incindindo, preferencialmente, sobre médicos cuja competência em peritagem médica se encontre reconhecida pela Ordem dos Médicos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
 2 - São definidos pelos serviços da segurança social os critérios de afetação dos processos dos beneficiários, tendo em vista a independência técnica e a garantia da equidade na avaliação das situações.
 
-###### Artigo 8.º — Âmbito
+Artigo 8.º
+
+Âmbito
 
 1 - O campo de aplicação pessoal do serviço de verificação de incapacidades é definido, prioritariamente, em função da residência dos beneficiários, sem prejuízo de, por motivos devidamente justificados, poder abranger beneficiários fora do âmbito da sua residência.
 
@@ -213,7 +255,9 @@ Os médicos relatores e os membros das comissões de verificação, de reavalia�
 
 6 - Os serviços da segurança social podem decidir que a verificação da incapacidade, deficiência e dependência dos beneficiários seja apreciada por médico relator ou comissão de verificação, de recurso ou de reavaliação que não sejam os do serviço que abrange os beneficiários.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os médicos relatores e as comissões de verificação, de reavaliação e de recurso exercem a sua atividade nas instalações dos serviços da segurança social, salvo em situações especialmente previstas no presente decreto-lei.
 
@@ -225,13 +269,17 @@ Os médicos relatores e os membros das comissões de verificação, de reavalia�
 
 5 - Quando se revele adequado, o exame clínico pode ser realizado por avaliação meramente documental, desde que a mesma seja bastante e apta à realização do referido exame.
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, os serviços da segurança social podem determinar a realização de exames médicos domiciliários.
 
 2 - É realizado exame domiciliário para verificação de incapacidade permanente sempre que o beneficiário esteja acamado, internado, institucionalizado, ou seja evidente a dificuldade ou penosidade da deslocação aos serviços da segurança social.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +287,9 @@ Os médicos relatores e os membros das comissões de verificação, de reavalia�
 
 3 - Os serviços da segurança social designam, de entre os dois peritos médicos, o que preside à comissão, o qual tem voto de qualidade, em caso de empate.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 [...]
 
@@ -251,7 +301,9 @@ c) Alterar a classificação da situação de incapacidade temporária para efei
 
 d) Elaborar relatórios de verificação de incapacidade temporária decorrentes da aplicação de instrumentos internacionais.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As comissões de reavaliação de incapacidade temporária são constituídas por dois peritos médicos, podendo integrar um terceiro médico indicado pelo beneficiário.
 
@@ -259,7 +311,9 @@ d) Elaborar relatórios de verificação de incapacidade temporária decorrentes
 
 3 - No caso de o beneficiário não indicar médico no requerimento de reavaliação, ou, indicando-o, o mesmo falte, a comissão de reavaliação delibera com a presença dos dois médicos referidos no número anterior, tendo o presidente voto de qualidade, em caso de empate.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 [...]
 
@@ -269,11 +323,15 @@ b) Determinar, com base nas capacidades remanescentes, a redução da capacidade
 
 c) [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O médico relator é designado pelos serviços da segurança social, incumbindo-lhe preparar os processos de verificação de incapacidade permanente, de deficiência ou de dependência e elaborar os relatórios médicos periciais que sirvam de base à deliberação das comissões de verificação e à aplicação de instrumentos internacionais de segurança social, bem como, em caso de doença profissional, promover a apreciação do beneficiário pelos serviços clínicos competentes.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -295,19 +353,25 @@ h) [...]
 
 2 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As comissões de verificação de incapacidade permanente são constituídas por dois peritos médicos, um dos quais preside.
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os peritos médicos das comissões de verificação de incapacidade permanente são designados pelos serviços da segurança social.
 
 2 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 [...]
 
@@ -325,7 +389,9 @@ f) Emitir os pareceres médicos que lhes forem solicitados pelos serviços da se
 
 g) Elaborar relatórios médicos periciais que sustentem a competente deliberação no âmbito da aplicação de instrumentos internacionais.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As comissões de recurso são constituídas por dois peritos médicos, podendo integrar um terceiro médico indicado pelo beneficiário.
 
@@ -341,13 +407,17 @@ g) Elaborar relatórios médicos periciais que sustentem a competente deliberaç
 
 7 - Compete ainda às comissões de recurso a elaboração de relatório que sustentem a deliberação no âmbito da aplicação de instrumentos internacionais.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Compete às comissões de recurso apreciar as deliberações das comissões de verificação e decidir sobre a situação de incapacidade do beneficiário.
 
 2 - Compete ainda às comissões de recurso a elaboração de relatório que sustente a competente deliberação no âmbito da aplicação de instrumentos internacionais.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Compete, em geral, aos assessores técnicos de coordenação garantir assessoria tendo em vista o bom funcionamento do sistema de verificação de incapacidades, propondo as medidas consideradas mais adequadas a uma eficaz, justa e objetiva avaliação da incapacidade para o trabalho e das situações de dependência ou de deficiência.
 
@@ -373,13 +443,17 @@ i) Dar parecer prévio, devidamente fundamentado, no âmbito da decisão de revi
 
 j) Dar parecer quanto à conveniência de realização de exames domiciliários, por videochamada, ou da dispensa da presença do beneficiário em exame clínico, atenta designadamente a informação do médico assistente e demais informação clínica apresentada pelo beneficiário.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os serviços da segurança social devem estabelecer, em regulamento interno, as normas de organização da assessoria técnica à coordenação que considerem convenientes, atentas as condições concretas do funcionamento do sistema de verificação de incapacidade.
 
 2 - Os regulamentos a que se refere o número anterior são aprovados pelos competentes organismos respetivos da segurança social.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O conselho médico nacional é o órgão de consulta, apoio e participação para as questões de natureza médico-funcional, no âmbito do sistema de verificação de incapacidades que funciona junto do Instituto da Segurança Social, I. P. (ISS, I. P.).
 
@@ -387,7 +461,9 @@ j) Dar parecer quanto à conveniência de realização de exames domiciliários,
 
 3 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 [...]
 
@@ -399,7 +475,9 @@ c) A recomendação aos serviços da segurança social da adoção das medidas c
 
 d) [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A verificação da subsistência de incapacidades temporárias tem lugar a todo o tempo, nas situações legalmente previstas ou naquelas em que se presuma a não existência ou cessação de incapacidades, designadamente:
 
@@ -427,7 +505,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - Nas situações previstas na alínea j) do n.º 1, o beneficiário pode solicitar, no prazo de 10 dias após a deliberação de não subsistência, nova verificação com a apresentação de novos elementos clínicos.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A seleção das situações de incapacidade temporária objeto de intervenção do sistema de verificação de incapacidades é da competência dos serviços da segurança social que abrangem os beneficiários.
 
@@ -435,7 +515,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - Na impossibilidade de acesso nos termos do número anterior, ou caso não seja prestado consentimento pelo titular, o beneficiário deve apresentar informação médica aquando da realização do exame médico pericial.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O beneficiário é convocado para exame médico através do sistema de notificações eletrónicas da segurança social, por sms para o número de telemóvel registado na segurança social, por mensagem por correio eletrónico registado na segurança social, presencialmente ou por qualquer outro meio previsto na lei.
 
@@ -445,13 +527,17 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 4 - (Revogado.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As deliberações das comissões de verificação são emitidas com base no exame médico realizado, na informação médica e nos meios auxiliares de diagnóstico disponíveis.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - O beneficiário é informado do teor da deliberação da comissão de verificação e, no caso de não subsistência da incapacidade temporária, da possibilidade de requerer a reavaliação e se fazer acompanhar, querendo, por um médico por si indicado.
 
@@ -461,7 +547,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 4 - A notificação referida no n.º 1, é realizada através do sistema de notificações eletrónicas da segurança social, por sms para o número de telemóvel registado na segurança social, por mensagem por correio eletrónico registado na segurança social, presencialmente ou por qualquer outro meio previsto na lei.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -473,13 +561,17 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 5 - Não é permitida a junção de novos elementos para a apreciação da comissão de reavaliação, exceto nos casos em que ocorreu a alteração da classificação de incapacidade e apenas para oposição a esta.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - (Revogado.)
 
 2 - Nos casos previstos na alínea b) do artigo 14.º, a manutenção do direito ao subsídio de doença fica dependente da deliberação da comissão de reavaliação.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -487,13 +579,17 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - À comunicação das deliberações aplica-se, com as necessárias adaptações, o disposto no artigo 34.º
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - A verificação e a revisão das situações de incapacidade permanente e de dependência têm lugar a requerimento dos interessados ou oficiosamente.
 
 2 - A verificação da eventual situação de incapacidade permanente pode ainda ter lugar nas situações de incapacidade temporária que atinjam 365 dias ou antes, sob proposta das comissões de verificação de incapacidade temporária ou do assessor técnico de coordenação.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os requerimentos para atribuição das prestações são acompanhados de informação médica, sempre que não disponível no Serviço Nacional de Saúde, a qual deve estar devidamente fundamentada e instruída.
 
@@ -505,7 +601,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 5 - O requerimento contém ainda informação sobre a impossibilidade física de deslocação do beneficiário, ou seu enquadramento numa das situações previstas nos artigos 10.º-A ou 10.º-B.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -513,7 +611,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - (Revogado.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O beneficiário da segurança social tem direito à informação médica, prestada nos termos regulados no presente diploma, por parte dos médicos dos serviços de saúde que lhe prestem assistência.
 
@@ -523,7 +623,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 4 - Quando não estiver disponível a informação constante do processo do beneficiário no Serviço Nacional de Saúde, deve o beneficiário apresentar a informação médica e os exames auxiliares de diagnóstico aquando da realização do exame pericial.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A informação médica deve identificar, de forma legível, o médico que a elaborou e estar atualizada e devidamente instruída com os relatórios de especialistas e meios elementos auxiliares de diagnóstico que fundamentam o respetivo parecer, efetuados há menos de dois anos relativamente à data do pedido.
 
@@ -531,7 +633,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - A necessidade de realização de exame domiciliário ou por videochamada, por o beneficiário se encontrar numa das situações previstas nos artigos 10.º-A ou 10.º-B, deve ser referida na informação médica.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Nas situações de verificação de incapacidade promovida oficiosamente, o beneficiário é informado de que deve comparecer acompanhado da necessária informação médica, bem como dos elementos auxiliares de diagnóstico ou relatórios de especialistas que a fundamentem, efetuados há menos de dois anos, aquando da convocatória para o exame médico a realizar pelo médico relator.
 
@@ -539,7 +643,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - (Revogado.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Os peritos médicos devem consultar diretamente, quando disponível, a informação constante do processo do beneficiário no Serviço Nacional de Saúde.
 
@@ -549,7 +655,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 4 - (Revogado.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - As deliberações das comissões são tomadas por maioria dos votos dos médicos que as compõem, devendo ser devidamente fundamentadas e identificando de forma clara os seus autores.
 
@@ -557,7 +665,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 3 - Nas situações em que se verifique empate na votação da comissão de recurso, o desempate é efetuado por recurso ao sentido do relatório médico pericial do médico relator.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -567,7 +677,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 4 - [...]
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -579,7 +691,9 @@ j) Situações de apresentação de novos elementos clínicos, após uma deliber
 
 5 - [...]
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 O relatório médico pericial, elaborado no sistema de informação da segurança social:
 
@@ -589,7 +703,9 @@ b) Expressa o estudo exaustivo da situação clínica do beneficiário em face d
 
 c) Conclui, de forma inequívoca, quanto à origem e natureza da situação verificada, referindo, com o maior desenvolvimento possível, a sintomatologia e a observação do aparelho ou órgãos afetados que deram origem à incapacidade, deficiência ou dependência.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - O médico relator deve concluir o relatório no prazo de 5 dias úteis contado a partir da data do exame do interessado ou da data do parecer do assessor técnico de coordenação que dispensou a presença do beneficiário a exame clínico do médico relator.
 
@@ -599,7 +715,9 @@ c) Conclui, de forma inequívoca, quanto à origem e natureza da situação veri
 
 4 - Quando o relatório não puder ser concluído nos prazos previstos nos n.os 1 e 3, o médico relator justifica o impedimento, solicitando a prorrogação por igual período.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -617,7 +735,9 @@ c) Conclui, de forma inequívoca, quanto à origem e natureza da situação veri
 
 8 - Nas situações em que se verifique empate na votação da comissão, por a mesma ser constituída apenas por dois elementos, o desempate é efetuado por recurso ao sentido do relatório médico pericial do médico relator, uma vez esgotados os meios previstos no n.º 3 do artigo 55.º
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - As comissões de verificação proferem deliberação no prazo de 5 dias úteis a contar da data de:
 
@@ -627,13 +747,17 @@ b) Realização do exame direto, quando tiver lugar.
 
 2 - (Revogado.)
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - A deliberação da comissão de verificação fica disponível nos sistemas de informação da segurança social para a tomada de decisão da atribuição da prestação pelo serviço de segurança social competente.
 
 2 - O serviço da segurança social dá conhecimento do facto ao requerente esclarecendo-o sobre o direito que lhe assiste de solicitar a sua apresentação à comissão de recurso.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Na sequência da comunicação prevista ao beneficiário, prevista no artigo anterior, não concordando com o teor da deliberação da comissão de verificação pode o beneficiário requerer, no prazo de 10 dias úteis, a realização de comissão de recurso.
 
@@ -641,7 +765,9 @@ b) Realização do exame direto, quando tiver lugar.
 
 3 - (Revogado.)
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - O requerente pode indicar no seu pedido de realização de comissão de recurso um médico para o representar, devendo indicar o seu nome, número de cédula e domicílio profissional.
 
@@ -649,7 +775,9 @@ b) Realização do exame direto, quando tiver lugar.
 
 3 - (Revogado.)
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - A comissão reúne no prazo de 10 dias úteis após a interposição de recurso, com a realização do exame do requerente, podendo ser feita nos termos dos artigos 10.º-A ou 10.º-B.
 
@@ -657,7 +785,9 @@ b) Realização do exame direto, quando tiver lugar.
 
 3 - A comissão delibera no próprio dia do exame, com base nos elementos constantes do processo analisado pela comissão de verificação.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Sempre que o serviço de segurança social competente, com base nas deliberações emitidas pelas respetivas comissões, decida que o beneficiário não reúne as condições de incapacidade determinantes da atribuição da prestação requerida, este só pode apresentar novo requerimento para o efeito decorridos seis meses após a data da respetiva deliberação.
 
@@ -665,13 +795,17 @@ b) Realização do exame direto, quando tiver lugar.
 
 3 - O prazo referido no n.º 1 não é aplicável aos casos em que se tenha verificado especial agravamento do estado de saúde do beneficiário e tal facto, devidamente fundamentado, seja objeto da informação.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
 2 - Se o médico relator verificar que a informação médica não comprova a existência de agravamento do estado de saúde do beneficiário, deve, no prazo de 10 dias, pronunciar-se sobre o fundamento invocado para agravamento.
 
-###### Artigo 66.º — Justificação de faltas
+Artigo 66.º
+
+Justificação de faltas
 
 1 - Se o interessado, devidamente convocado, não se apresentar ao exame médico pericial no dia, hora e local indicados nem justificar, no prazo de cinco dias úteis subsequentes, o motivo da não comparência, ou, justificando-o, não for atendível, é considerada falta injustificada.
 
@@ -693,13 +827,17 @@ c) Qualquer outro justo impedimento devidamente comprovado por documento idóneo
 
 7 - Apenas é permitido aos beneficiários um único adiamento justificado.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - A avaliação da justificação da falta do beneficiário ao exame médico pericial é da competência do serviço de segurança social que o tenha convocado, precedendo parecer do assessor técnico de coordenação, quando a justificação apresentada estiver ligada ao foro médico.
 
 2 - Na avaliação das causas determinantes da falta do beneficiário, a prevalência da convocatória só pode ser posta em causa a título excecional, designadamente quando as mesmas se apresentarem de forma imperativa ou suscitarem adiamentos de intervenções médicas ou paramédicas, geradores de agravamento do estado de saúde ou de inequívoco atraso da respetiva melhoria.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 [...]
 
@@ -719,13 +857,17 @@ g) [...]
 
 h) Em caso de regresso antecipado ao trabalho.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - Tendo em vista a conclusão do processo, o arquivamento do processo de verificação e respetiva fundamentação é comunicado ao serviço responsável pela atribuição da prestação.
 
 2 - (Revogado.)
 
-###### Artigo 70.º — Desmaterialização e devolução dos elementos auxiliares de diagnóstico
+Artigo 70.º
+
+Desmaterialização e devolução dos elementos auxiliares de diagnóstico
 
 1 - (Revogado.)
 
@@ -739,7 +881,9 @@ h) Em caso de regresso antecipado ao trabalho.
 
 6 - Sem prejuízo do referido nos n.os 3 e 4, o beneficiário deve manter na sua posse os documentos apresentados durante o prazo de cinco anos, a contar da data da deliberação da respetiva comissão.
 
-###### Artigo 71.º — Encargos dos serviços de segurança social
+Artigo 71.º
+
+Encargos dos serviços de segurança social
 
 1 - Compete aos serviços de segurança social no âmbito de atuação do SVI, suportar os encargos resultantes de:
 
@@ -761,7 +905,9 @@ h) [...]
 
 2 - Os encargos previstos nas alíneas a) e b) do n.º 1 compreendem as despesas com o transporte dos peritos médicos, nas situações previstas no n.º 5 do artigo 66.º, desde que não imputáveis ao beneficiário nos termos legalmente previstos.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...]
 
@@ -775,7 +921,9 @@ h) [...]
 
 6 - Os valores relacionados com as despesas a que se refere o n.º 1 são fixados por despacho do membro do Governo que tutela a área da segurança social.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - A contratação dos peritos médicos é feita pelo serviço de segurança social, em regime de prestação de serviços na modalidade de contrato de avença.
 
@@ -807,12 +955,14 @@ O presente decreto-lei entra em vigor no dia 1 de abril de 2024.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 28 de dezembro de 2023.**
+Promulgado em 28 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2023.**
+Referendado em 29 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117211888

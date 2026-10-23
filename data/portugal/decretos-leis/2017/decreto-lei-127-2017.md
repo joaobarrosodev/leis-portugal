@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19400/0560305607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2017/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2017-108265122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f76d6dea24c829af7dbd92a8c50642745a1e3d9106ac1f8947e0e98085fd1d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7a45c5b94dbaaac81d8439fbb67970f57897bf002f5a91638279f7a9e8c4d2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,45 +67,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
+- Atividade Seguradora
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Autoridade Europeia dos Seguros e Pensões Complementares de Reforma
-- Empresa
+- Banco de Portugal
 - Capital Social
 - CE Países
-- Gestão Financeira
+- CMVM
+- Companhia de Seguros
 - Contra-ordenação
+- Contrato de Seguro
 - Definição de Competências
+- Direito de Estabelecimento
+- Empresa
+- Empresa Estrangeira
 - Empresa Europeia
-- Gestão Administrativa
 - Fiscalização
 - Fundo de Pensões
-- Banco de Portugal
+- Gestão Administrativa
 - Gestão do Património
-- Pagamento
-- Seguro
-- Direito de Estabelecimento
-- Sociedade Gestora de Fundos de Pensões
-- Plano de Pensões
+- Gestão Financeira
 - Informação do Consumidor
+- Pagamento
+- Plano de Pensões
 - RAMO não VIDA
 - RAMO VIDA
 - Regime Jurídico
 - Resseguro
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
 - Seguro RAMO não VIDA
 - Seguro RAMO VIDA
-- CMVM
+- Sociedade Gestora de Fundos de Pensões
 - Sucursal
-- Empresa Estrangeira
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
 relationships:
 - type: amended_by
   target: pt:dre:145132199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterados os arts. 156.º e 328.º, aditados os arts. 31.º-A e 369.º-A e revogados o n.º 2 do art. 20.º, o n.º 6 do
+    art. 153.º e o n.º 3 do art. 176.º do regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado
+    pela Lei 147/2015, de 09-set, na versão republicada pelo presente diploma pelo(a) Lei n.º 35/2018 - Diário da República
+    n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:117821873:por
+  label: Adita, com efeitos a 01.10.2018, e nos termos do diposto no n.º 2 do art. 16.º, o art. 33.º-A à Lei 147/2015, de
+    09-set e alterados os arts. 153.º, 370.º e 371.º do regime jurídico de acesso e exercício da atividade seguradora e resseguradora,
+    constante do anexo i, bem como alterados os arts. 3.º, 16.º, 17.º, 21.º e 26.º do regime processual aplicável aos crimes
+    especiais do setor segurador e dos fundos de pensões e às contraordenações cujo processamento compete à Autoridade de
+    Supervisão de Seguros e Fundos de Pensões (ASF) e aditado o art. 7.º-A, constante do anexo ii da referida Lei, na versão
+    republicada pelo presente diploma, pelo(a) Lei n.º 7/2019 - Diário da República n.º 11/2019, Série I de 2019-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2019-117821873
+  date: '2019-01-16'
 - type: cites
   target: celex:32009L0138
   label: null
@@ -138,6 +156,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/147/2015/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/2015/09/09/p/dre
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0138
   label: null
@@ -147,15 +189,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 26
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:37Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +276,9 @@ q) [...];
 
 r) [...].
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -260,7 +304,9 @@ r) [...].
 
 12 - [...].
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...].
 
@@ -268,7 +314,9 @@ r) [...].
 
 3 - [...].
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -284,7 +332,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...].
 
@@ -298,7 +348,9 @@ d) [...].
 
 6 - Quando a estrutura temporal das taxas de juro sem risco relevante a utilizar no cálculo da melhor estimativa for definida em ato de execução da Comissão Europeia, as empresas de seguros e de resseguros utilizam essas informações técnicas no cálculo da melhor estimativa.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - [...].
 
@@ -318,7 +370,9 @@ d) [...].
 
 9 - Quando o spread fundamental para o cálculo do ajustamento de congruência for definido, para cada moeda pertinente e para cada duração, qualidade de crédito e classe de ativos pertinente, em ato de execução da Comissão Europeia, as empresas de seguros e de resseguros utilizam essas informações técnicas no cálculo do ajustamento de congruência.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...].
 
@@ -348,7 +402,9 @@ d) [...].
 
 14 - Relativamente às moedas e aos mercados nacionais para os quais o ajustamento de volatilidade previsto no número anterior não for adotado em ato de execução da Comissão Europeia, não pode ser aplicado qualquer ajustamento de volatilidade à estrutura temporal das taxas de juro sem risco relevante a utilizar no cálculo da melhor estimativa.
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - [...].
 
@@ -358,7 +414,9 @@ d) [...].
 
 4 - Compete à função prevista no n.º 2 gerir a receção e resposta às reclamações que lhe sejam apresentadas pelos tomadores de seguros, segurados, beneficiários ou terceiros lesados, de acordo com os critérios e procedimentos fixados no respetivo regulamento de funcionamento, sem prejuízo de o tratamento e apreciação das mesmas poder ser efetuado pelas unidades orgânicas relevantes.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - [...].
 
@@ -368,13 +426,17 @@ d) [...].
 
 4 - A empresa de resseguros deve apresentar à ASF os documentos que lhe sejam solicitados para os efeitos dos números anteriores.
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a atividade de resseguro em Portugal exercida pelas empresas de seguros ou de resseguros referidas no artigo anterior com sede em país relativamente ao qual a Comissão Europeia não tenha reconhecido a equivalência do regime de solvência face ao disposto na [Diretiva 2009/138/CE](https://data.europa.eu/eli/dir/2009/138/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, está sujeita à constituição de garantias, nos termos a fixar por norma regulamentar da ASF.
 
 2 - Celebrado acordo internacional que vincule o Estado Português, a atividade de resseguro em Portugal exercida pelas empresas de seguros ou de resseguros referidas no número anterior, com sede no país terceiro que é parte do acordo, rege-se pelas condições nele fixadas, a partir da data da aplicação do acordo internacional.
 
-###### Artigo 284.º — [...]
+Artigo 284.º
+
+[...]
 
 1 - [...].
 
@@ -402,7 +464,9 @@ d) [...].
 
 13 - [...].
 
-###### Artigo 296.º — [...]
+Artigo 296.º
+
+[...]
 
 1 - As empresas de seguros ou de resseguros participantes, as sociedades gestoras de participações no setor dos seguros e as companhias financeiras mistas que integrem um grupo relativamente ao qual a ASF detém a qualidade de supervisor do grupo, apresentam-lhe anualmente, em relação ao conjunto da atividade exercida no ano civil imediatamente anterior, os documentos de prestação de contas consolidadas e demais elementos definidos por norma regulamentar da mesma autoridade.
 
@@ -416,11 +480,15 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 297.º — [...]
+Artigo 297.º
+
+[...]
 
 As pessoas que dirigem efetivamente as sociedades gestoras de participações no setor dos seguros ou as companhias financeiras mistas às quais é aplicável o presente título devem possuir a qualificação e a idoneidade necessárias ao exercício das suas funções, aplicando-se, com as necessárias adaptações, o regime previsto nos artigos 43.º a 45.º e 65.º a 71.º
 
-###### Artigo 299.º — [...]
+Artigo 299.º
+
+[...]
 
 1 - No caso referido na alínea c) do n.º 1 do artigo 253.º, as autoridades de supervisão interessadas verificam se as empresas de seguros e de resseguros cuja empresa-mãe tem sede fora do território da União Europeia estão sujeitas a supervisão, por uma autoridade de supervisão do país terceiro, equivalente à prevista no título iii da [Diretiva 2009/138/CE](https://data.europa.eu/eli/dir/2009/138/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de novembro de 2009, em relação à supervisão a nível do grupo de empresas de seguros ou de resseguros referidas nas alíneas a) e b) da mesma disposição.
 
@@ -438,7 +506,9 @@ As pessoas que dirigem efetivamente as sociedades gestoras de participações no
 
 8 - [...].
 
-###### Artigo 306.º — [...]
+Artigo 306.º
+
+[...]
 
 1 - [...].
 
@@ -460,7 +530,9 @@ As pessoas que dirigem efetivamente as sociedades gestoras de participações no
 
 10 - [...].
 
-###### Artigo 311.º — [...]
+Artigo 311.º
+
+[...]
 
 1 - [...].
 
@@ -482,7 +554,9 @@ As pessoas que dirigem efetivamente as sociedades gestoras de participações no
 
 10 - [...].
 
-###### Artigo 312.º — [...]
+Artigo 312.º
+
+[...]
 
 1 - [...].
 
@@ -504,13 +578,17 @@ As pessoas que dirigem efetivamente as sociedades gestoras de participações no
 
 10 - [...].
 
-###### Artigo 340.º — [...]
+Artigo 340.º
+
+[...]
 
 1 - A decisão de abertura da liquidação nos termos do artigo 329.º, incluindo as sucursais estabelecidas em outros Estados membros, produz efeitos de acordo com a lei portuguesa nos demais Estados membros, sem nenhuma outra formalidade, logo que produza os seus efeitos em Portugal.
 
 2 - [...].
 
-###### Artigo 373.º — [...]
+Artigo 373.º
+
+[...]
 
 1 - [...]:
 
@@ -560,7 +638,9 @@ b) O pagamento de cada pensão seja assegurado até ao limite da capacidade fina
 
 10 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -604,7 +684,9 @@ s) [...];
 
 t) [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Dependem de prévia autorização da ASF as alterações aos contratos constitutivos de fundos de pensões fechados mencionados no n.º 1 do artigo 20.º que incidam sobre os elementos previstos nas alíneas d), e), g), h), i), l), o), p), r) e t) do n.º 2 do artigo 21.º
 
@@ -620,7 +702,9 @@ t) [...].
 
 7 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -664,7 +748,9 @@ i) [...].
 
 12 - Sem prejuízo do disposto nos n.os 2 e 7, a entidade gestora pode, relativamente a cada beneficiário e participante com idade igual ou superior à idade normal de reforma estabelecida no plano de pensões que dê o seu acordo prévio, proceder ao pagamento das pensões a que se referem as alíneas c) e d) do n.º 2 diretamente através do fundo de pensões ou de quota-parte deste, assegurando a respetiva gestão, nos termos gerais, até ao limite da capacidade financeira do património que lhes ficar afeto à data da extinção.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]:
 
@@ -692,12 +778,12 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2018.
 
 Visto e aprovado em Conselho de Ministros de 7 de setembro de 2017. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 2 de outubro de 2017.**
+Promulgado em 2 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de outubro de 2017.**
+Referendado em 6 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

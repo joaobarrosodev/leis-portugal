@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/257a00/75937598.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/449/1999/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1999-694012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd43f61daf52e448e2fb018a4f80c9c235a0a3ebbacb16336605f8f92a21f92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee1398213a0736f5585c837f396460da9111f7f19fe4a2f220f1a1d3145954ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Certificado de Qualidade
 - Denominação de Origem
-- Região Demarcada
 - Estatuto
 - Etiquetagem
-- Certificado de Qualidade
+- Região Demarcada
 - Região Demarcada dos Vinhos Verdes
 - Vinho Verde
 relationships:
@@ -79,6 +79,13 @@ relationships:
   target: pt:dre:343091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284950:por
+  label: "Alterados os arts. 11º e 18º dos Estatutos da Região Demarcada dos Vinhos Verdes, aprovados pelo Dec Lei 10/92 de\
+    \ 03-Fev, na redacção do presente diploma que os republicou em anexo, pelo DEC LEI.93/2006.25.05.2006.MADRP, DR.IS-A [101]\
+    \ de 25.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2006-284950
+  date: '2006-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1992/02/03/p/dre
   label: null
@@ -87,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/263/1999/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/263/1999/07/14/p/dre
+- type: cites
+  target: pt:dre:150313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357513:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:343091:por
+  label: Revogado, nos termos da al. z) do art. 23º e do nº 2 do art. 24º do Dec Lei 212/2004, de 23-Ago, pela PORT.668/2010.11.08.2010.MADRP,
+    DR.IS [155] de 11.08.2010
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-2010-343091
+  date: '2010-08-11'
 article_structure:
-  article_count: 28
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 24
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:03Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +156,9 @@ Vinificação
 
 4 - ...
 
-###### Artigo 10.º — Rendimento por hectare
+Artigo 10.º
+
+Rendimento por hectare
 
 1 - ...
 
@@ -139,7 +168,9 @@ Vinificação
 
 4 - No caso em que sejam excedidos os rendimentos por hectare mencionados nos números anteriores, não haverá lugar à interdição de utilizar a denominação para a totalidade da colheita, sendo o excedente destinado à produção de vinho de mesa, desde que apresente as características definidas para esse vinho.
 
-###### Artigo 11.º — Características dos vinhos produzidos
+Artigo 11.º
+
+Características dos vinhos produzidos
 
 1 - ...
 
@@ -165,7 +196,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 16.º — Instalações de vinificação, destilação, armazenagem e pré-embalagem
+Artigo 16.º
+
+Instalações de vinificação, destilação, armazenagem e pré-embalagem
 
 1 - ...
 
@@ -179,7 +212,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 18.º — Circulação e comercialização
+Artigo 18.º
+
+Circulação e comercialização
 
 1 - ...
 
@@ -201,15 +236,15 @@ São publicados em anexo ao presente diploma, com as alterações por ele introd
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Victor Manuel Coelho Barros.
 
-**Promulgado em 15 de Outubro de 1999.**
+Promulgado em 15 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos da Região Demarcada dos Vinhos Verdes
 
@@ -323,7 +358,9 @@ ii) Tintas - Alicante-Bouschet, Baga, Cabernet-Sauvignon, Doçal, Doce, Espadeir
 
 4 - O rendimento em mosto que resulta da separação dos bagaços não poderá ser superior a 75 l por 100 kg de uvas, rendimento máximo que é fixado em 60 l por 100 kg de uvas para o caso dos mostos destinados à produção dos vinhos da casta Alvarinho.
 
-###### Artigo 9.º — Título alcoométrico volúmico natural mínimo
+###### Artigo 9.º
+
+## Título alcoométrico volúmico natural mínimo
 
 Sem prejuízo de outros valores a publicar nos termos do artigo 3.º do presente diploma, para vinhos com indicações sub-regionais, os mostos destinados à elaboração de vinho verde devem possuir um título alcoométrico volúmico natural mínimo de 7,5% vol., com excepção dos vinhos de casta Alvarinho, cujo título alcoométrico volúmico natural mínimo dos mostos destinados à sua produção será de 10% vol.
 

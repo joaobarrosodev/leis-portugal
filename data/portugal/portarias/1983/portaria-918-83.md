@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/918-1983-441281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dc7ebf28c52d3035d54902e0d4f92913b14fc8c37000eebfaf490aaf0b495c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 900b35a0ca42528ae45eba94ec81ba43d9c274c0a8b563d1f21db357f45e3316
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Curso de Contabilidade e Administração
+- Curso de Línguas e Secretariado
+- Ensino Superior
+- Instituto Superior de Contabilidade e Administração
+- Plano de Estudos
+- Porto
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS PLANOS DE ESTUDOS DOS CURSOS CONSTANTES DOS ANEXOS I, II E III, PELA PORTARIA 238/86, DE 22 DE MAIO,\
+    \ PUBLICADO NO DR.IS, 117, DE 860522. ALTERADO O PLANO DE ESTUDOS DO CURSO DE CONTABILIDADE E ADMINISTRAÇÃO, CONSTANTE\
+    \ DO ANEXO I, PELA PORTARIA 941/87, DE 16 DE DEZEMBRO, PUBLICADO NO DR.IS, 288, DE 871216. AUTORIZADOS A FUNCIONÁRIO EM\
+    \ HORÁRIO NOCTURNO OS CURSOS A QUE SE REFERE O PRESENTE DIPLOMA, PELA PORTARIA 721/88, DE 29 DE OUTUBRO, PUBLICADO NO\
+    \ DR.IS, 251, DE 881029. ALTERADOS OS PLANOS DE ESTUDOS DOS CURSOS CONSTANTES DOS ANEXOS I, II E III, PELA PORTARIA 724/88,\
+    \ DE 31 DE OUTUBRO, PUBLICADA NO DR.IS, 252, DE 881031. ALTERADO O PLANO DE ESTUDOS DO CURSO DE CONTABILIDADE E ADMINISTRAÇÃO,\
+    \ CONSTANTE DO ANEXO I, PELA PORTARIA 1161/93, DE 8 DE NOVEMBRO, PUBLICADO NO DR.IS-B, 261, DE 931108. ALTERADOS OS PLANOS\
+    \ DE ESTUDOS DO CURSO DE BACHARELATO EM LÍNGUAS E SECRETARIADO, EM REGIME DIURNO E EM REGIME NOCTURNO, PELA PORTARIA 1188/93,\
+    \ DE 12 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 265, DE 931112.\02.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:619969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305060:por
+  label: "Alterado o plano de estudos do curso de Línguas e Secretariado, constante do Anexo II, pela PORT.916/91.04.09.1991.ME,\
+    \ DR.IS-B [203] de 04.09.1991 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/916-1991-305060
+  date: '1991-09-04'
+- type: amended_by
+  target: pt:dre:305074:por
+  label: "Alterado o plano de estudos do curso Aduaneiro, constante do Anexo III, pela PORT.917/91.04.09.1991.ME, DR.IS-B\
+    \ [203] de 04.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/917-1991-305074
+  date: '1991-09-04'
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:592743:por
+  label: "Revogada pela PORT.1127/2000.2000.11.28.ME DR.IS-B [275], nos termos do art. 31.º do Regulamento aprovado pela Port\
+    \ 413-A/98 de 17-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1127-2000-592743
+  date: '2000-11-28'
+- type: repealed_by
+  target: pt:dre:619969:por
+  label: "Revogada na parte em que autorizou o Instituto Superior de Contabilidade e Administração a conferir o grau de bacharel\
+    \ em contabilidade e administração, nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98 de 17-Jul, pela\
+    \ PORT.1160/2001.2001.10.03.ME, DR.IS-B [230]\030]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1160-2001-619969
+  date: '2001-10-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:16Z'
   warnings: []
   errors: []
 ---
@@ -141,9 +193,9 @@ Disciplinas facultativas
 
 Ministério da Educação.
 
-**Assinada em 13 de Setembro.**
+Assinada em 13 de Setembro.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Instituto Superior de Contabilidade e Administração do Porto
 
@@ -155,19 +207,19 @@ Grau: bacharelato
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 ## ANEXO II — Curso de Línguas e Secretariado
 
@@ -177,19 +229,19 @@ Grau: bacharelato
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 ## ANEXO III — Curso de Aduaneiro
 
@@ -199,16 +251,16 @@ Grau: bacharelato
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23100/35263528.pdf)

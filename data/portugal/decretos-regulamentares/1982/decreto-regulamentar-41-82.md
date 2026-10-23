@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16200/21282135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70a5473d0cddb9fc5e571608dc2cf258fce0214324dddc474209349928bf6644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19999639838c9474f4063edf886394f2deab212c0948bb81533f2106f58b87fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Atribuição de Verba
+- Bingo
+- Concurso
+- Conselho de Inspecção de Jogos
+- Contrato de Concessão
+- Crime
+- Definição de Competências
+- Direito de Acesso
+- Fiscalização
+- Jogos de Fortuna e Azar
+- Licenciamento
+- Multa
+- Pessoal dos Casinos
+- Regime Jurídico
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:627248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326945:por
+  label: "Dada nova redacção aos arts. 25º, 26º, e aditados o nº 7 ao art. 15º e o nº 4 ao art. 16º, assim como o art. 42º\
+    \ pelo DR.18/85.1985.03.10.MAI, DR.IS [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1985-326945
+  date: '1985-03-10'
+- type: amended_by
+  target: pt:dre:170319:por
+  label: "Dada nova redacção ao art. 26º do presente diploma, com a redacção constante do DR 18/85 de 19-Mar, pelo DR.76/85.25.11.1985.MCT,\
+    \ DR.IS [271] de 25.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/76-1985-170319
+  date: '1985-11-25'
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627248:por
+  label: "Revogado pelo DR.76/86.1986.12.31.PCM, DR.IS [300]11ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/76-1986-627248
+  date: '1986-12-31'
 article_structure:
   article_count: 41
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:24Z'
   warnings: []
   errors: []
 ---
@@ -594,8 +631,8 @@ c) As infracções muito graves, com a pena de suspensão de 61 a 180 dias.
 
 Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - Luís Fernando Cardoso Nandim de Carvalho.
 
-**Promulgado em 24 de Junho de 1982.**
+Promulgado em 24 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

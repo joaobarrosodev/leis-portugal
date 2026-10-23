@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/1992/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1992-258553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f3a6bdff6970f8f8aa581e1f5c20691762afb984e3eecf4c2cdde4559ae11e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7eb0751c4442b22327e7dc1a62a91b04313401b44e52ec8456f2a7983da37ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,29 @@ subjects:
 - Pessoal de Chefia
 - Regulamento
 - Regulamento das Alfândegas
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO RECTIFICAÇÃO 176/92, PUBLICADA NO DR.IS-B, 252 3SUPL, DE 921031.\0031.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:283481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:56Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +114,9 @@ Assim:
 
 Ao abrigo da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Ao Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, é aditado o artigo 494.º-A, com a seguinte redacção:
+Artigo único. Ao Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, é aditado o artigo 494.º-A, com a seguinte redacção:
 
-###### Art. 494.º-A. Excluem-se do disposto nos artigos 481.º a 494.º as rectificações das importâncias que, após a autorização de saída das mercadorias, mas antes de efectuado o seu pagamento no respectivo prazo, se reconheça terem sido liquidadas em montante diferente do legalmente devido, procedendo-se àquelas rectificações mediante autorização do chefe da estância aduaneira, quando se verifique uma das seguintes situações:
+Art. 494.º-A. Excluem-se do disposto nos artigos 481.º a 494.º as rectificações das importâncias que, após a autorização de saída das mercadorias, mas antes de efectuado o seu pagamento no respectivo prazo, se reconheça terem sido liquidadas em montante diferente do legalmente devido, procedendo-se àquelas rectificações mediante autorização do chefe da estância aduaneira, quando se verifique uma das seguintes situações:
 
 a) Erro evidente de cálculo do montante de direitos e demais imposições;
 
@@ -114,12 +126,12 @@ Presidência do Conselho de Ministros, 29 de Junho de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 27 de Julho de 1992.**
+Promulgado em 27 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Julho de 1992.**
+Referendado em 28 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

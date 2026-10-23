@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2001/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2001-516518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef757a72d528be48d4429b94928b9d305aecf9fc44636b95449ef9275a9c4717
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0fb2d04d996a0168938f46d7954b471b611061081b80ae3ac0f1f174d84914a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Veículo
 - Regulamento sobre a Protecção dos Ocupantes dos Automóveis em CASO de Colisão Frontal
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -97,13 +97,13 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:34Z'
   warnings: []
   errors: []
 ---
@@ -158,15 +158,15 @@ b) Recusar a homologação de âmbito nacional de um modelo de veículo.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa.
 
-**Promulgado em 19 de Julho de 2001.**
+Promulgado em 19 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 2001.**
+Referendado em 26 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO SOBRE A PROTECÇÃO DOS OCUPANTES DOS AUTOMÓVEIS EM CASO DE COLISÃO FRONTAL
 
@@ -534,19 +534,19 @@ Central - sim/não (ver nota 1).
 
 Critério do esforço de tracção do pescoço
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 Figura n.º 2
 
 Critério do esforço transverso do pescoço
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 Figura n.º 3
 
 Critério do esforço nos fémures
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 ## ANEXO IV — Método de ensaio
 
@@ -666,7 +666,7 @@ No caso dos bancos corridos, a referência será o ponto «H» do lugar do condu
 
 1.2 - Caso contrário, com base na aceleração (a) medida de acordo com o ponto 5.2.1 do anexo IV do presente Regulamento, calcula-se o valor do HPC através da seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 em que:
 
@@ -718,7 +718,7 @@ F(índice z) = esforço de compressão axial na direcção z;
 
 (F(índice c))(índice z) = esforço de compressão crítico na direcção z, tomado como 35,9 kN;
 
-M(índice R) = [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+M(índice R) = [[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 O índice das tíbias deve ser calculado em relação à parte de cada tíbia; todavia, o esforço F(índice z) pode ser medido em qualquer das duas posições. O valor obtido deve ser utilizado para os cálculos relativos ao T1 em cima e na base. Os momentos M(índice x) e M(índice y) são medidos separadamente em ambas as posições.
 
@@ -846,7 +846,7 @@ Figura n.º 1
 
 Curva de equivalência - Banda de tolerância para a curva V = f(t)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 ## ANEXO VIII — Aspectos técnicos das medições a realizar nos ensaios: instrumentação
 
@@ -956,7 +956,7 @@ Figura n.º 1
 
 Curva de resposta em frequência
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
 
 ## ANEXO IX — Definição da barreira deformável
 
@@ -1084,438 +1084,4 @@ S(n) = (F(n)/A); n = 1, 2, 3
 
 2.7 - Especificação relativa à resistência ao esmagamento da amostra. - Para que uma amostra do bloco alveolado seja certificada deve satisfizer as seguintes condições:
 
-0,308 MPa=
-
-1,540 MPa=
-
-2.8 - Especificação da resistência ao esmagamento do bloco alveolado. - Devem ser ensaiadas oito amostras de quatro locais igualmente espaçados no bloco alveolado. Para que um bloco seja certificado, sete dessas oito amostras devem satisfazer a especificação relativa ao esmagamento referida no ponto anterior.
-
-3 - Processo de colagem:
-
-3.1 - As superfícies das chapas de alumínio a colar devem ser completamente limpas, imediatamente antes da colagem, com um solvente adequado, tal como o 1,1,1 tricloretano, operação que deve ser efectuada pelo menos duas vezes ou conforme necessário para eliminar gorduras ou depósitos de sujidade. As superfícies limpas devem então ser lixadas com papel abrasivo de grau 120, não devendo ser utilizado papel abrasivo de carbonetos metálicos/de silício. As superfícies devem ser completamente lixadas, sendo o papel abrasivo mudado regularmente durante o processo para evitar que fique embotado, o que pode levar a um efeito de polimento. Na sequência desta operação, as superfícies devem ser novamente completamente limpas, como se indica acima, o que significa que, no total, as superfícies devem ser limpas com solvente pelo menos quatro vezes. Todas as poeiras e depósitos deixados como resultado do processo devem ser removidos, porque afectarão de modo adverso a qualidade da colagem.
-
-3.2 - A cola deve ser aplicada a uma superfície apenas utilizando um rolo de borracha com nervuras. Nos casos em que o bloco alveolado tiver de ser colado a uma chapa de alumínio, a cola deve ser aplicada a esta apenas. Deve ser uniformemente aplicado em toda a superfície, num máximo de 0,5 kg/m2, dando uma espessura máxima do filme de 0,5 mm.
-
-4 - Construção:
-
-4.1 - O bloco alveolado principal deve ser colado à chapa de apoio de tal modo que os eixos das células fiquem perpendiculares à chapa. A chapa de revestimento deve ser colada à face anterior do bloco. As superfícies superior e inferior da chapa de revestimento não devem ser coladas ao bloco alveolado principal mas sim posicionadas junto a este. A chapa de revestimento deve ser colada à chapa de apoio nas flanges de montagem.
-
-4.2 - O elemento pára-choques deve ser colado à parte da frente da chapa de revestimento de tal modo que os eixos das células fiquem perpendiculares à chapa. A parte inferior do elemento pára-choques deve estar nivelada com a aresta inferior da chapa de revestimento. A folha de revestimento do elemento pára-choques deve ser colada à face anterior do elemento pára-choques.
-
-4.3 - O elemento pára-choques deve então ser dividido em três sectores iguais por meio de dois rasgos horizontais. Estes rasgos devem ser cortados ao longo de toda a profundidade do elemento e estender-se por toda a largura do elemento. Os rasgos devem ser cortados com uma serra, sendo a sua largura igual à largura da lâmina utilizada, que não deve exceder 4,0 mm.
-
-4.4 - Devem ser abertos furos de 9,5 mm de diâmetro para a montagem da barreira nas flanges de montagem (indicados na figura n.º 5). Devem ser abertos cinco furos na flange superior a uma distância de 40 mm da aresta superior da flange e cinco na flange inferior, a uma distância de 40 mm da aresta inferior dessa flange. Os furos devem estar colocados a 100 mm, 300 mm, 500 mm, 700 mm e 900 mm de cada aresta da barreira. Todos os furos devem respeitar uma tolerância de (mais ou menos) 1 mm em relação às distâncias nominais.
-
-5 - Montagem:
-
-5.1 - A barreira deformável deve ser fixada de modo rígido à extremidade de uma massa não inferior a 7 x 10(elevado a 4) kg ou a qualquer espécie de estrutura a ela ligada. A fixação da face anterior da barreira deve ser tal que o veículo não contacte nenhuma parte da estrutura a mais de 75 mm da superfície superior da barreira (excluindo a flange superior) durante qualquer fase de colisão (ver nota 2). A face anterior do suporte ao qual a barreira deformável está ligada deve ser plana e contínua ao longo da altura e largura da face e situada num plano vertical (mais ou menos) 1º e perpendicular (mais ou menos) 1º ao eixo da pista de aceleração. A superfície de fixação não deve ser deslocada mais de 10 mm durante o ensaio. Se necessário, devem ser utilizados dispositivos adicionais de ancoramento ou de retenção para impedir a deslocação do bloco de betão. A aresta da barreira deformável deve ser alinhada com a aresta do bloco de betão adequada para o lado do veículo a ensaiar.
-
-5.2 - A barreira deformável deve ser fixada ao bloco de betão por meio de 10 parafusos, de pelo menos 8 mm de diâmetro, 5 na flange de montagem superior e 5 na inferior. Devem-se utilizar tiras de aperto de aço para as flanges de montagem superior e inferior (conforme figuras n.os 1 e 5). Essas tiras devem ter 60 mm de altura, 1000 mm de largura e pelo menos 3 mm de espessura. Devem ser abertos cinco furos de 9,5 mm de diâmetro em ambas as tiras, para corresponderem aos furos existentes na flange de montagem na barreira (nos termos do ponto 4). Estes dispositivos de fixação e de aperto devem resistir ao ensaio de colisão.
-
-(nota 1) De acordo com o processo de certificação descrito no ponto 2.
-
-(nota 2) Considera-se que uma massa cuja extremidade tenha uma altura compreendida entre 925 mm e 1000 mm e uma profundidade de, pelo menos, 1000 mm satisfaz este requisito.
-
-Da Figura n.º 1 à Figura n.º 5
-
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-ANEXO X
-
-Processo de certificação das pernas e pés do manequim
-
-1 - Ensaio de resistência da parte anterior do pé ao choque:
-
-1.1 - Este ensaio tem por objectivo medir a resposta do pé e do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-1.2 - Para o ensaio são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio.
-
-1.3 - Método de ensaio:
-
-1.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22 (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-1.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco.
-
-1.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo à direcção de impacte em contacto com o pé.
-
-1.3.4 - Montar a perna no suporte de acordo com a figura n.º 1. O suporte de ensaio deve ser fixado de maneira rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico (78051-319) do fémur deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique totalmente situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha PTFE.
-
-1.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 g (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 185 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero.
-
-1.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-1.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC (classe de frequência do canal) 600, como indicado no anexo VIII do presente Regulamento.
-
-1.4 - Especificações do comportamento:
-
-1.4.1 - Quando a planta de cada pé é percutida a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 1.3, o momento flector máximo da parte inferior da tíbia em torno do eixo y (M(índice y)) deve ser de 120 Nm (mais ou menos) 25 Nm.
-
-2 - Ensaio de resistência da parte posterior do pé (sem sapato) ao choque:
-
-2.1 - O objectivo do presente ensaio é medir a resposta da pele e da estrutura do pé do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-2.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio.
-
-2.3 - Método de ensaio:
-
-2.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-2.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar.
-
-2.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo.
-
-2.3.4 - Montar a perna no suporte de acordo com a figura n.º 2. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE.
-
-2.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 62 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero.
-
-2.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-2.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento.
-
-2.4 - Especificações do comportamento:
-
-2.4.1 - Quando o calcanhar de cada pé é percutido a 4,4 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 2.3, a aceleração máxima do pêndulo deve ser de 295 g (mais ou menos) 50 g.
-
-3 - Ensaio de resistência da parte posterior do pé (com sapato) ao choque:
-
-3.1 - O objectivo do presente ensaio é controlar a resposta do sapato e do calcanhar e da articulação do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-3.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio. Os pés do manequim devem ser equipados com os sapatos especificados no ponto 2.9.2 do anexo VI do presente Regulamento.
-
-3.3 - Método de ensaio:
-
-3.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-3.3.2 - Limpar, antes do ensaio, a superfície de impacte da parte inferior do sapato com um pano limpo e a face do pêndulo com álcool isopropílico ou equivalente. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar.
-
-3.3.3 - Alinhar o acelerómetro do pêndulo de maneira que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo.
-
-3.3.4 - Montar a perna no suporte de acordo com a figura n.º 3. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar do sapato assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que um plano em contacto com o calcanhar e a sola da parte inferior do sapato seja vertical (mais ou menos) 3º e perpendicular à direcção do impacte e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE.
-
-3.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm (mais ou menos) 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir o calcanhar do sapato num plano horizontal a uma distância de 62 mm (mais ou menos) 2 mm acima da base do calcanhar com o sapato em repouso sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo, vertical ou basculante no momento zero.
-
-3.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-3.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento.
-
-3.4 - Especificações do comportamento:
-
-3.4.1 - Quando o calcanhar do sapato é percutido a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 3.3, a força de compressão máxima (F(índice Z)) aplicada a cada tíbia deve ser de 3,3 kN (mais ou menos) 0,5 kN.
-
-Figura n.º 1
-
-Ensaio de resistência da parte anterior do pé ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 2
-
-Ensaio de resistência da parte posterior do pé (sem sapato) ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 3
-
-Ensaio de resistência da parte posterior do pé (com sapato) ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 4
-
-Pêndulo
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-1,540 MPa=
-
-2.8 - Especificação da resistência ao esmagamento do bloco alveolado. - Devem ser ensaiadas oito amostras de quatro locais igualmente espaçados no bloco alveolado. Para que um bloco seja certificado, sete dessas oito amostras devem satisfazer a especificação relativa ao esmagamento referida no ponto anterior.
-
-3 - Processo de colagem:
-
-3.1 - As superfícies das chapas de alumínio a colar devem ser completamente limpas, imediatamente antes da colagem, com um solvente adequado, tal como o 1,1,1 tricloretano, operação que deve ser efectuada pelo menos duas vezes ou conforme necessário para eliminar gorduras ou depósitos de sujidade. As superfícies limpas devem então ser lixadas com papel abrasivo de grau 120, não devendo ser utilizado papel abrasivo de carbonetos metálicos/de silício. As superfícies devem ser completamente lixadas, sendo o papel abrasivo mudado regularmente durante o processo para evitar que fique embotado, o que pode levar a um efeito de polimento. Na sequência desta operação, as superfícies devem ser novamente completamente limpas, como se indica acima, o que significa que, no total, as superfícies devem ser limpas com solvente pelo menos quatro vezes. Todas as poeiras e depósitos deixados como resultado do processo devem ser removidos, porque afectarão de modo adverso a qualidade da colagem.
-
-3.2 - A cola deve ser aplicada a uma superfície apenas utilizando um rolo de borracha com nervuras. Nos casos em que o bloco alveolado tiver de ser colado a uma chapa de alumínio, a cola deve ser aplicada a esta apenas. Deve ser uniformemente aplicado em toda a superfície, num máximo de 0,5 kg/m2, dando uma espessura máxima do filme de 0,5 mm.
-
-4 - Construção:
-
-4.1 - O bloco alveolado principal deve ser colado à chapa de apoio de tal modo que os eixos das células fiquem perpendiculares à chapa. A chapa de revestimento deve ser colada à face anterior do bloco. As superfícies superior e inferior da chapa de revestimento não devem ser coladas ao bloco alveolado principal mas sim posicionadas junto a este. A chapa de revestimento deve ser colada à chapa de apoio nas flanges de montagem.
-
-4.2 - O elemento pára-choques deve ser colado à parte da frente da chapa de revestimento de tal modo que os eixos das células fiquem perpendiculares à chapa. A parte inferior do elemento pára-choques deve estar nivelada com a aresta inferior da chapa de revestimento. A folha de revestimento do elemento pára-choques deve ser colada à face anterior do elemento pára-choques.
-
-4.3 - O elemento pára-choques deve então ser dividido em três sectores iguais por meio de dois rasgos horizontais. Estes rasgos devem ser cortados ao longo de toda a profundidade do elemento e estender-se por toda a largura do elemento. Os rasgos devem ser cortados com uma serra, sendo a sua largura igual à largura da lâmina utilizada, que não deve exceder 4,0 mm.
-
-4.4 - Devem ser abertos furos de 9,5 mm de diâmetro para a montagem da barreira nas flanges de montagem (indicados na figura n.º 5). Devem ser abertos cinco furos na flange superior a uma distância de 40 mm da aresta superior da flange e cinco na flange inferior, a uma distância de 40 mm da aresta inferior dessa flange. Os furos devem estar colocados a 100 mm, 300 mm, 500 mm, 700 mm e 900 mm de cada aresta da barreira. Todos os furos devem respeitar uma tolerância de (mais ou menos) 1 mm em relação às distâncias nominais.
-
-5 - Montagem:
-
-5.1 - A barreira deformável deve ser fixada de modo rígido à extremidade de uma massa não inferior a 7 x 10(elevado a 4) kg ou a qualquer espécie de estrutura a ela ligada. A fixação da face anterior da barreira deve ser tal que o veículo não contacte nenhuma parte da estrutura a mais de 75 mm da superfície superior da barreira (excluindo a flange superior) durante qualquer fase de colisão (ver nota 2). A face anterior do suporte ao qual a barreira deformável está ligada deve ser plana e contínua ao longo da altura e largura da face e situada num plano vertical (mais ou menos) 1º e perpendicular (mais ou menos) 1º ao eixo da pista de aceleração. A superfície de fixação não deve ser deslocada mais de 10 mm durante o ensaio. Se necessário, devem ser utilizados dispositivos adicionais de ancoramento ou de retenção para impedir a deslocação do bloco de betão. A aresta da barreira deformável deve ser alinhada com a aresta do bloco de betão adequada para o lado do veículo a ensaiar.
-
-5.2 - A barreira deformável deve ser fixada ao bloco de betão por meio de 10 parafusos, de pelo menos 8 mm de diâmetro, 5 na flange de montagem superior e 5 na inferior. Devem-se utilizar tiras de aperto de aço para as flanges de montagem superior e inferior (conforme figuras n.os 1 e 5). Essas tiras devem ter 60 mm de altura, 1000 mm de largura e pelo menos 3 mm de espessura. Devem ser abertos cinco furos de 9,5 mm de diâmetro em ambas as tiras, para corresponderem aos furos existentes na flange de montagem na barreira (nos termos do ponto 4). Estes dispositivos de fixação e de aperto devem resistir ao ensaio de colisão.
-
-(nota 1) De acordo com o processo de certificação descrito no ponto 2.
-
-(nota 2) Considera-se que uma massa cuja extremidade tenha uma altura compreendida entre 925 mm e 1000 mm e uma profundidade de, pelo menos, 1000 mm satisfaz este requisito.
-
-Da Figura n.º 1 à Figura n.º 5
-
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-ANEXO X
-
-Processo de certificação das pernas e pés do manequim
-
-1 - Ensaio de resistência da parte anterior do pé ao choque:
-
-1.1 - Este ensaio tem por objectivo medir a resposta do pé e do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-1.2 - Para o ensaio são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio.
-
-1.3 - Método de ensaio:
-
-1.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22 (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-1.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco.
-
-1.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo à direcção de impacte em contacto com o pé.
-
-1.3.4 - Montar a perna no suporte de acordo com a figura n.º 1. O suporte de ensaio deve ser fixado de maneira rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico (78051-319) do fémur deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique totalmente situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha PTFE.
-
-1.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 g (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 185 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero.
-
-1.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-1.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC (classe de frequência do canal) 600, como indicado no anexo VIII do presente Regulamento.
-
-1.4 - Especificações do comportamento:
-
-1.4.1 - Quando a planta de cada pé é percutida a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 1.3, o momento flector máximo da parte inferior da tíbia em torno do eixo y (M(índice y)) deve ser de 120 Nm (mais ou menos) 25 Nm.
-
-2 - Ensaio de resistência da parte posterior do pé (sem sapato) ao choque:
-
-2.1 - O objectivo do presente ensaio é medir a resposta da pele e da estrutura do pé do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-2.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio.
-
-2.3 - Método de ensaio:
-
-2.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-2.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar.
-
-2.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo.
-
-2.3.4 - Montar a perna no suporte de acordo com a figura n.º 2. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE.
-
-2.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 62 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero.
-
-2.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-2.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento.
-
-2.4 - Especificações do comportamento:
-
-2.4.1 - Quando o calcanhar de cada pé é percutido a 4,4 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 2.3, a aceleração máxima do pêndulo deve ser de 295 g (mais ou menos) 50 g.
-
-3 - Ensaio de resistência da parte posterior do pé (com sapato) ao choque:
-
-3.1 - O objectivo do presente ensaio é controlar a resposta do sapato e do calcanhar e da articulação do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-3.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio. Os pés do manequim devem ser equipados com os sapatos especificados no ponto 2.9.2 do anexo VI do presente Regulamento.
-
-3.3 - Método de ensaio:
-
-3.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-3.3.2 - Limpar, antes do ensaio, a superfície de impacte da parte inferior do sapato com um pano limpo e a face do pêndulo com álcool isopropílico ou equivalente. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar.
-
-3.3.3 - Alinhar o acelerómetro do pêndulo de maneira que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo.
-
-3.3.4 - Montar a perna no suporte de acordo com a figura n.º 3. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar do sapato assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que um plano em contacto com o calcanhar e a sola da parte inferior do sapato seja vertical (mais ou menos) 3º e perpendicular à direcção do impacte e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE.
-
-3.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm (mais ou menos) 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir o calcanhar do sapato num plano horizontal a uma distância de 62 mm (mais ou menos) 2 mm acima da base do calcanhar com o sapato em repouso sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo, vertical ou basculante no momento zero.
-
-3.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-3.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento.
-
-3.4 - Especificações do comportamento:
-
-3.4.1 - Quando o calcanhar do sapato é percutido a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 3.3, a força de compressão máxima (F(índice Z)) aplicada a cada tíbia deve ser de 3,3 kN (mais ou menos) 0,5 kN.
-
-Figura n.º 1
-
-Ensaio de resistência da parte anterior do pé ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 2
-
-Ensaio de resistência da parte posterior do pé (sem sapato) ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 3
-
-Ensaio de resistência da parte posterior do pé (com sapato) ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 4
-
-Pêndulo
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-2.8 - Especificação da resistência ao esmagamento do bloco alveolado. - Devem ser ensaiadas oito amostras de quatro locais igualmente espaçados no bloco alveolado. Para que um bloco seja certificado, sete dessas oito amostras devem satisfazer a especificação relativa ao esmagamento referida no ponto anterior.
-
-3 - Processo de colagem:
-
-3.1 - As superfícies das chapas de alumínio a colar devem ser completamente limpas, imediatamente antes da colagem, com um solvente adequado, tal como o 1,1,1 tricloretano, operação que deve ser efectuada pelo menos duas vezes ou conforme necessário para eliminar gorduras ou depósitos de sujidade. As superfícies limpas devem então ser lixadas com papel abrasivo de grau 120, não devendo ser utilizado papel abrasivo de carbonetos metálicos/de silício. As superfícies devem ser completamente lixadas, sendo o papel abrasivo mudado regularmente durante o processo para evitar que fique embotado, o que pode levar a um efeito de polimento. Na sequência desta operação, as superfícies devem ser novamente completamente limpas, como se indica acima, o que significa que, no total, as superfícies devem ser limpas com solvente pelo menos quatro vezes. Todas as poeiras e depósitos deixados como resultado do processo devem ser removidos, porque afectarão de modo adverso a qualidade da colagem.
-
-3.2 - A cola deve ser aplicada a uma superfície apenas utilizando um rolo de borracha com nervuras. Nos casos em que o bloco alveolado tiver de ser colado a uma chapa de alumínio, a cola deve ser aplicada a esta apenas. Deve ser uniformemente aplicado em toda a superfície, num máximo de 0,5 kg/m2, dando uma espessura máxima do filme de 0,5 mm.
-
-4 - Construção:
-
-4.1 - O bloco alveolado principal deve ser colado à chapa de apoio de tal modo que os eixos das células fiquem perpendiculares à chapa. A chapa de revestimento deve ser colada à face anterior do bloco. As superfícies superior e inferior da chapa de revestimento não devem ser coladas ao bloco alveolado principal mas sim posicionadas junto a este. A chapa de revestimento deve ser colada à chapa de apoio nas flanges de montagem.
-
-4.2 - O elemento pára-choques deve ser colado à parte da frente da chapa de revestimento de tal modo que os eixos das células fiquem perpendiculares à chapa. A parte inferior do elemento pára-choques deve estar nivelada com a aresta inferior da chapa de revestimento. A folha de revestimento do elemento pára-choques deve ser colada à face anterior do elemento pára-choques.
-
-4.3 - O elemento pára-choques deve então ser dividido em três sectores iguais por meio de dois rasgos horizontais. Estes rasgos devem ser cortados ao longo de toda a profundidade do elemento e estender-se por toda a largura do elemento. Os rasgos devem ser cortados com uma serra, sendo a sua largura igual à largura da lâmina utilizada, que não deve exceder 4,0 mm.
-
-4.4 - Devem ser abertos furos de 9,5 mm de diâmetro para a montagem da barreira nas flanges de montagem (indicados na figura n.º 5). Devem ser abertos cinco furos na flange superior a uma distância de 40 mm da aresta superior da flange e cinco na flange inferior, a uma distância de 40 mm da aresta inferior dessa flange. Os furos devem estar colocados a 100 mm, 300 mm, 500 mm, 700 mm e 900 mm de cada aresta da barreira. Todos os furos devem respeitar uma tolerância de (mais ou menos) 1 mm em relação às distâncias nominais.
-
-5 - Montagem:
-
-5.1 - A barreira deformável deve ser fixada de modo rígido à extremidade de uma massa não inferior a 7 x 10(elevado a 4) kg ou a qualquer espécie de estrutura a ela ligada. A fixação da face anterior da barreira deve ser tal que o veículo não contacte nenhuma parte da estrutura a mais de 75 mm da superfície superior da barreira (excluindo a flange superior) durante qualquer fase de colisão (ver nota 2). A face anterior do suporte ao qual a barreira deformável está ligada deve ser plana e contínua ao longo da altura e largura da face e situada num plano vertical (mais ou menos) 1º e perpendicular (mais ou menos) 1º ao eixo da pista de aceleração. A superfície de fixação não deve ser deslocada mais de 10 mm durante o ensaio. Se necessário, devem ser utilizados dispositivos adicionais de ancoramento ou de retenção para impedir a deslocação do bloco de betão. A aresta da barreira deformável deve ser alinhada com a aresta do bloco de betão adequada para o lado do veículo a ensaiar.
-
-5.2 - A barreira deformável deve ser fixada ao bloco de betão por meio de 10 parafusos, de pelo menos 8 mm de diâmetro, 5 na flange de montagem superior e 5 na inferior. Devem-se utilizar tiras de aperto de aço para as flanges de montagem superior e inferior (conforme figuras n.os 1 e 5). Essas tiras devem ter 60 mm de altura, 1000 mm de largura e pelo menos 3 mm de espessura. Devem ser abertos cinco furos de 9,5 mm de diâmetro em ambas as tiras, para corresponderem aos furos existentes na flange de montagem na barreira (nos termos do ponto 4). Estes dispositivos de fixação e de aperto devem resistir ao ensaio de colisão.
-
-(nota 1) De acordo com o processo de certificação descrito no ponto 2.
-
-(nota 2) Considera-se que uma massa cuja extremidade tenha uma altura compreendida entre 925 mm e 1000 mm e uma profundidade de, pelo menos, 1000 mm satisfaz este requisito.
-
-Da Figura n.º 1 à Figura n.º 5
-
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-## ANEXO X — Processo de certificação das pernas e pés do manequim
-
-1 - Ensaio de resistência da parte anterior do pé ao choque:
-
-1.1 - Este ensaio tem por objectivo medir a resposta do pé e do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-1.2 - Para o ensaio são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio.
-
-1.3 - Método de ensaio:
-
-1.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22 (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-1.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco.
-
-1.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo à direcção de impacte em contacto com o pé.
-
-1.3.4 - Montar a perna no suporte de acordo com a figura n.º 1. O suporte de ensaio deve ser fixado de maneira rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico (78051-319) do fémur deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique totalmente situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha PTFE.
-
-1.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 g (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 185 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero.
-
-1.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-1.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC (classe de frequência do canal) 600, como indicado no anexo VIII do presente Regulamento.
-
-1.4 - Especificações do comportamento:
-
-1.4.1 - Quando a planta de cada pé é percutida a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 1.3, o momento flector máximo da parte inferior da tíbia em torno do eixo y (M(índice y)) deve ser de 120 Nm (mais ou menos) 25 Nm.
-
-2 - Ensaio de resistência da parte posterior do pé (sem sapato) ao choque:
-
-2.1 - O objectivo do presente ensaio é medir a resposta da pele e da estrutura do pé do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-2.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio.
-
-2.3 - Método de ensaio:
-
-2.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-2.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar.
-
-2.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo.
-
-2.3.4 - Montar a perna no suporte de acordo com a figura n.º 2. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE.
-
-2.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 62 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero.
-
-2.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-2.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento.
-
-2.4 - Especificações do comportamento:
-
-2.4.1 - Quando o calcanhar de cada pé é percutido a 4,4 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 2.3, a aceleração máxima do pêndulo deve ser de 295 g (mais ou menos) 50 g.
-
-3 - Ensaio de resistência da parte posterior do pé (com sapato) ao choque:
-
-3.1 - O objectivo do presente ensaio é controlar a resposta do sapato e do calcanhar e da articulação do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura.
-
-3.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio. Os pés do manequim devem ser equipados com os sapatos especificados no ponto 2.9.2 do anexo VI do presente Regulamento.
-
-3.3 - Método de ensaio:
-
-3.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis.
-
-3.3.2 - Limpar, antes do ensaio, a superfície de impacte da parte inferior do sapato com um pano limpo e a face do pêndulo com álcool isopropílico ou equivalente. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar.
-
-3.3.3 - Alinhar o acelerómetro do pêndulo de maneira que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo.
-
-3.3.4 - Montar a perna no suporte de acordo com a figura n.º 3. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar do sapato assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que um plano em contacto com o calcanhar e a sola da parte inferior do sapato seja vertical (mais ou menos) 3º e perpendicular à direcção do impacte e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE.
-
-3.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm (mais ou menos) 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir o calcanhar do sapato num plano horizontal a uma distância de 62 mm (mais ou menos) 2 mm acima da base do calcanhar com o sapato em repouso sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo, vertical ou basculante no momento zero.
-
-3.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna.
-
-3.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento.
-
-3.4 - Especificações do comportamento:
-
-3.4.1 - Quando o calcanhar do sapato é percutido a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 3.3, a força de compressão máxima (F(índice Z)) aplicada a cada tíbia deve ser de 3,3 kN (mais ou menos) 0,5 kN.
-
-Figura n.º 1
-
-Ensaio de resistência da parte anterior do pé ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 2
-
-Ensaio de resistência da parte posterior do pé (sem sapato) ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 3
-
-Ensaio de resistência da parte posterior do pé (com sapato) ao choque
-
-Configuração do ensaio
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
-
-Figura n.º 4
-
-Pêndulo
-
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)
+0,308 MPa=1,540 MPa=2.8 - Especificação da resistência ao esmagamento do bloco alveolado. - Devem ser ensaiadas oito amostras de quatro locais igualmente espaçados no bloco alveolado. Para que um bloco seja certificado, sete dessas oito amostras devem satisfazer a especificação relativa ao esmagamento referida no ponto anterior. 3 - Processo de colagem: 3.1 - As superfícies das chapas de alumínio a colar devem ser completamente limpas, imediatamente antes da colagem, com um solvente adequado, tal como o 1,1,1 tricloretano, operação que deve ser efectuada pelo menos duas vezes ou conforme necessário para eliminar gorduras ou depósitos de sujidade. As superfícies limpas devem então ser lixadas com papel abrasivo de grau 120, não devendo ser utilizado papel abrasivo de carbonetos metálicos/de silício. As superfícies devem ser completamente lixadas, sendo o papel abrasivo mudado regularmente durante o processo para evitar que fique embotado, o que pode levar a um efeito de polimento. Na sequência desta operação, as superfícies devem ser novamente completamente limpas, como se indica acima, o que significa que, no total, as superfícies devem ser limpas com solvente pelo menos quatro vezes. Todas as poeiras e depósitos deixados como resultado do processo devem ser removidos, porque afectarão de modo adverso a qualidade da colagem. 3.2 - A cola deve ser aplicada a uma superfície apenas utilizando um rolo de borracha com nervuras. Nos casos em que o bloco alveolado tiver de ser colado a uma chapa de alumínio, a cola deve ser aplicada a esta apenas. Deve ser uniformemente aplicado em toda a superfície, num máximo de 0,5 kg/m2, dando uma espessura máxima do filme de 0,5 mm. 4 - Construção: 4.1 - O bloco alveolado principal deve ser colado à chapa de apoio de tal modo que os eixos das células fiquem perpendiculares à chapa. A chapa de revestimento deve ser colada à face anterior do bloco. As superfícies superior e inferior da chapa de revestimento não devem ser coladas ao bloco alveolado principal mas sim posicionadas junto a este. A chapa de revestimento deve ser colada à chapa de apoio nas flanges de montagem. 4.2 - O elemento pára-choques deve ser colado à parte da frente da chapa de revestimento de tal modo que os eixos das células fiquem perpendiculares à chapa. A parte inferior do elemento pára-choques deve estar nivelada com a aresta inferior da chapa de revestimento. A folha de revestimento do elemento pára-choques deve ser colada à face anterior do elemento pára-choques. 4.3 - O elemento pára-choques deve então ser dividido em três sectores iguais por meio de dois rasgos horizontais. Estes rasgos devem ser cortados ao longo de toda a profundidade do elemento e estender-se por toda a largura do elemento. Os rasgos devem ser cortados com uma serra, sendo a sua largura igual à largura da lâmina utilizada, que não deve exceder 4,0 mm. 4.4 - Devem ser abertos furos de 9,5 mm de diâmetro para a montagem da barreira nas flanges de montagem (indicados na figura n.º 5). Devem ser abertos cinco furos na flange superior a uma distância de 40 mm da aresta superior da flange e cinco na flange inferior, a uma distância de 40 mm da aresta inferior dessa flange. Os furos devem estar colocados a 100 mm, 300 mm, 500 mm, 700 mm e 900 mm de cada aresta da barreira. Todos os furos devem respeitar uma tolerância de (mais ou menos) 1 mm em relação às distâncias nominais. 5 - Montagem: 5.1 - A barreira deformável deve ser fixada de modo rígido à extremidade de uma massa não inferior a 7 x 10(elevado a 4) kg ou a qualquer espécie de estrutura a ela ligada. A fixação da face anterior da barreira deve ser tal que o veículo não contacte nenhuma parte da estrutura a mais de 75 mm da superfície superior da barreira (excluindo a flange superior) durante qualquer fase de colisão (ver nota 2). A face anterior do suporte ao qual a barreira deformável está ligada deve ser plana e contínua ao longo da altura e largura da face e situada num plano vertical (mais ou menos) 1º e perpendicular (mais ou menos) 1º ao eixo da pista de aceleração. A superfície de fixação não deve ser deslocada mais de 10 mm durante o ensaio. Se necessário, devem ser utilizados dispositivos adicionais de ancoramento ou de retenção para impedir a deslocação do bloco de betão. A aresta da barreira deformável deve ser alinhada com a aresta do bloco de betão adequada para o lado do veículo a ensaiar. 5.2 - A barreira deformável deve ser fixada ao bloco de betão por meio de 10 parafusos, de pelo menos 8 mm de diâmetro, 5 na flange de montagem superior e 5 na inferior. Devem-se utilizar tiras de aperto de aço para as flanges de montagem superior e inferior (conforme figuras n.os 1 e 5). Essas tiras devem ter 60 mm de altura, 1000 mm de largura e pelo menos 3 mm de espessura. Devem ser abertos cinco furos de 9,5 mm de diâmetro em ambas as tiras, para corresponderem aos furos existentes na flange de montagem na barreira (nos termos do ponto 4). Estes dispositivos de fixação e de aperto devem resistir ao ensaio de colisão. (nota 1) De acordo com o processo de certificação descrito no ponto 2. (nota 2) Considera-se que uma massa cuja extremidade tenha uma altura compreendida entre 925 mm e 1000 mm e uma profundidade de, pelo menos, 1000 mm satisfaz este requisito. Da Figura n.º 1 à Figura n.º 5 [(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf) ANEXO X Processo de certificação das pernas e pés do manequim 1 - Ensaio de resistência da parte anterior do pé ao choque: 1.1 - Este ensaio tem por objectivo medir a resposta do pé e do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura. 1.2 - Para o ensaio são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio. 1.3 - Método de ensaio: 1.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22 (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis. 1.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco. 1.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo à direcção de impacte em contacto com o pé. 1.3.4 - Montar a perna no suporte de acordo com a figura n.º 1. O suporte de ensaio deve ser fixado de maneira rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico (78051-319) do fémur deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique totalmente situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha PTFE. 1.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 g (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 185 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero. 1.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna. 1.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC (classe de frequência do canal) 600, como indicado no anexo VIII do presente Regulamento. 1.4 - Especificações do comportamento: 1.4.1 - Quando a planta de cada pé é percutida a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 1.3, o momento flector máximo da parte inferior da tíbia em torno do eixo y (M(índice y)) deve ser de 120 Nm (mais ou menos) 25 Nm. 2 - Ensaio de resistência da parte posterior do pé (sem sapato) ao choque: 2.1 - O objectivo do presente ensaio é medir a resposta da pele e da estrutura do pé do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura. 2.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio. 2.3 - Método de ensaio: 2.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis. 2.3.2 - Limpar, antes do ensaio, a superfície de impacte da pele e a face do pêndulo com álcool isopropílico ou equivalente. Aplicar talco. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar. 2.3.3 - Alinhar o acelerómetro do pêndulo de maneira a que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo. 2.3.4 - Montar a perna no suporte de acordo com a figura n.º 2. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5º. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que o plano da parte inferior do pé seja vertical e perpendicular à direcção do impacte (mais ou menos) 3º e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE. 2.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm + 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir a parte de baixo do pé a uma distância de 62 mm (mais ou menos) 2 mm da base do calcanhar que repousa sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo lateral, vertical ou basculante no momento zero. 2.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna. 2.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento. 2.4 - Especificações do comportamento: 2.4.1 - Quando o calcanhar de cada pé é percutido a 4,4 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 2.3, a aceleração máxima do pêndulo deve ser de 295 g (mais ou menos) 50 g. 3 - Ensaio de resistência da parte posterior do pé (com sapato) ao choque: 3.1 - O objectivo do presente ensaio é controlar a resposta do sapato e do calcanhar e da articulação do tornozelo do manequim Hybrid III a choques bem definidos provocados por um pêndulo de face dura. 3.2 - Para o ensaio, são utilizadas as partes inferiores das pernas do manequim Hybrid III, perna esquerda (86-5001-001) e perna direita (86-5001-002), equipadas com pé e tornozelo, esquerdos (78051-614) e direitos (78051-615), incluindo o joelho. O simulador dinamométrico (78051-319 Rev A) é utilizado para fixar a rótula (78051-16 Rev B) ao suporte de ensaio. Os pés do manequim devem ser equipados com os sapatos especificados no ponto 2.9.2 do anexo VI do presente Regulamento. 3.3 - Método de ensaio: 3.3.1 - Durante as quatro horas que antecedem o ensaio, cada perna deve ser mantida (impregnada) a uma temperatura de 22ºC (mais ou menos) 3ºC e a uma humidade relativa de 40% (mais ou menos) 30%. A duração da impregnação não inclui o tempo necessário para obter condições estáveis. 3.3.2 - Limpar, antes do ensaio, a superfície de impacte da parte inferior do sapato com um pano limpo e a face do pêndulo com álcool isopropílico ou equivalente. Verificar que não há danos visíveis na peça de absorção de energia do calcanhar. 3.3.3 - Alinhar o acelerómetro do pêndulo de maneira que o seu eixo sensível fique paralelo ao eixo longitudinal mediano do pêndulo. 3.3.4 - Montar a perna no suporte de acordo com a figura n.º 3. O suporte de ensaio deve ser fixado de forma rígida para evitar qualquer movimento durante o ensaio. O eixo mediano do simulador dinamométrico do fémur (78051-319) deve estar vertical (mais ou menos) 0,5. Regular a montagem de modo que a linha que une o gancho de articulação do joelho e o parafuso de fixação do tornozelo fiquem horizontais (mais ou menos) 3º com o calcanhar do sapato assente em duas folhas de um material de pequeno atrito (folha de PTFE). Assegurar-se de que a carne da tíbia fique situada perto da extremidade junto ao joelho. Ajustar o tornozelo por forma que um plano em contacto com o calcanhar e a sola da parte inferior do sapato seja vertical (mais ou menos) 3º e perpendicular à direcção do impacte e tal que o plano sagital mediano do pé esteja alinhado com o braço do pêndulo. Ajustar a articulação do joelho a 1,5 g (mais ou menos) 0,5 g antes de cada ensaio. Ajustar a articulação do tornozelo de modo a mantê-la liberta e apertar apenas o suficiente para garantir a estabilidade do pé assente na folha de PTFE. 3.3.5 - O pêndulo rígido compreende um cilindro horizontal com um diâmetro de 50 mm (mais ou menos) 2 mm, e um braço de apoio do pêndulo com um diâmetro de 19 mm (mais ou menos) 1 mm (figura n.º 4). O cilindro tem uma massa de 1,25 kg (mais ou menos) 0,02 kg, incluindo os instrumentos e todas as peças do braço de apoio no interior do cilindro. O braço do pêndulo tem uma massa de 285 g (mais ou menos) 5 g. A massa de cada uma das partes rotativas do eixo ao qual está ligado o braço de apoio não deve ser superior a 100 g. A distância entre o eixo horizontal central do cilindro do pêndulo e o eixo de rotação de todo o pêndulo deve ser de 1250 mm (mais ou menos) 1 mm. O cilindro de impacte é montado com o seu eixo longitudinal horizontal e perpendicular à direcção de impacte. O pêndulo deve percutir o calcanhar do sapato num plano horizontal a uma distância de 62 mm (mais ou menos) 2 mm acima da base do calcanhar com o sapato em repouso sobre a plataforma horizontal rígida, de modo que o eixo longitudinal mediano do braço do pêndulo tenha com a vertical um desvio máximo de 1º no momento de impacte. O pêndulo deve ser guiado para excluir qualquer movimento significativo, vertical ou basculante no momento zero. 3.3.6 - Aguardar pelo menos trinta minutos entre dois ensaios consecutivos na mesma perna. 3.3.7 - O sistema de aquisição de dados, incluindo transdutores, deve estar conforme as especificações relativas a uma CFC 600, como indicado no anexo VIII do presente Regulamento. 3.4 - Especificações do comportamento: 3.4.1 - Quando o calcanhar do sapato é percutido a 6,7 m/s (mais ou menos) 0,1 m/s, de acordo com o ponto 3.3, a força de compressão máxima (F(índice Z)) aplicada a cada tíbia deve ser de 3,3 kN (mais ou menos) 0,5 kN. Figura n.º 1 Ensaio de resistência da parte anterior do pé ao choque Configuração do ensaio [[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf) Figura n.º 2 Ensaio de resistência da parte posterior do pé (sem sapato) ao choque Configuração do ensaio [[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf) Figura n.º 3 Ensaio de resistência da parte posterior do pé (com sapato) ao choque Configuração do ensaio [[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf) Figura n.º 4 Pêndulo [[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)](https://files.diariodarepublica.pt/1s/2001/08/190a00/52205236.pdf)

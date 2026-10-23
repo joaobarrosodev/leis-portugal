@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/023a00/04440447.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2001/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2001-313619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12e7c56f585a3866b3920eee85ac5f78720e1677db64df37ff3df3584fff3281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73154911b8ad682a4b1e106d109cf817a3af02b10d635ade2095724e990e4e31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Circulação de Mercadorias
 - Especificação Técnica
 - Liberalização do Mercado
 - Normas de Segurança
-- Circulação de Mercadorias
 - Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
@@ -89,16 +89,23 @@ relationships:
   target: celex:31998L0030
   label: null
   source: http://data.europa.eu/eli/dir/1998/30/oj
+- type: repealed_by
+  target: pt:dre:683858:por
+  label: "Revogado pelo DEC LEI.30/2006.15.02.2006.MEI, DR.IS-A [33] de 15.02.2006, mantendo, contudo, a sua vigência nas\
+    \ matérias que não forem incompatíveis com aquele diploma até à entrada em vigor da respectiva legislação complementar.\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2006-683858
+  date: '2006-02-15'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:33Z'
   warnings: []
   errors: []
 ---
@@ -289,12 +296,12 @@ Para efeitos do presente diploma, consideram-se clientes elegíveis as entidades
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - Jaime José Matos da Gama - Mário Cristina de Sousa.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

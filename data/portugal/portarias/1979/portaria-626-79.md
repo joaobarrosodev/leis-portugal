@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/27400/30463047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-1979-367207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66da38572120198a00b48bfd11240aefde06267215e9837bffeab4bd5379de43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1909c14ae895cbbde7c8dff28b79b9a23e0450916fdab05f641ade287ea8610d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesticida
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:457607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:679025:por
+  label: "Alterada a lista anexa a que se refere o n.º 1 do presente diploma, pela PORT.96/80.10.03.1980.MCT, DR.IS [58] de\
+    \ 10.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/96-1980-679025
+  date: '1980-03-10'
+- type: cites
+  target: pt:dre:279245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457607:por
+  label: "Revogada pela PORT.942/80.07.11.1980.MCT, DR.IS [258] de 07.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-1980-457607
+  date: '1980-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:12Z'
   warnings: []
   errors: []
 ---
@@ -168,4 +193,4 @@ Anti-abrolhante:
 
 Profame 4%.
 
-**O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.**
+O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

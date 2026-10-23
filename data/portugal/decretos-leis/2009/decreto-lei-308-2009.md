@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/2009/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-2009-483156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 785f27782a40c7866fe552d7320eb467df4aa5371d5e11737cdd85b1db6d5b27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d016dd28badf67268671a170ada3730e59848786de013bc5bcfa253fd9baaa50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,22 @@ subjects:
 - Aproximação das Legislações
 - Definição de Competências
 - EP-Estradas de Portugal
-- Rede de Estradas
-- Segurança Rodoviária
-- Rede Rodoviária Transeuropeia
-- Sinalização
 - Instituto de Infra-Estruturas Rodoviárias
+- Rede de Estradas
+- Rede Rodoviária Transeuropeia
+- Segurança Rodoviária
+- Sinalização
 relationships:
 - type: amended_by
   target: pt:dre:25343693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343693:por
+  label: "Dada nova redação ao art. 5º do Dec Lei 75/2006 de 27-mar, alterado pelo presente diploma, pelo DEC LEI.75/2014.13.05.2014.MECO,\
+    \ DR.IS [91] de 13.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2014-25343693
+  date: '2014-05-13'
 - type: cites
   target: celex:32004L0054
   label: null
@@ -91,13 +97,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:10Z'
   warnings: []
   errors: []
 ---
@@ -144,12 +150,12 @@ O presente decreto-lei produz efeitos em 14 de Novembro de 2007.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Mário Lino Soares Correia.
 
-**Promulgado em 13 de Outubro de 2009.**
+Promulgado em 13 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Outubro de 2009.**
+Referendado em 15 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

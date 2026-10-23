@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15400/0569405695.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2015/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2015-69977688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc430710ed0546f99e05970f8ce3611f5092e94ee65d33836dff02464db5d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5fe28a59efbe97b9d599fb04cece95bd586ff1fb2f39159ab4e3778750568ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Recrutamento de Pessoal
 - Direção Geral dos Estabelecimentos Escolares
 - Estabelecimento de Ensino
+- Pessoal Dirigente
+- Recrutamento de Pessoal
 - Segurança Escolar
 relationships:
 - type: amended_by
   target: pt:dre:115312061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Determinado que são renováveis até ao limite de três vezes as comissões de serviço, constituídas antes da entrada
+    em vigor do Dec Lei 33/2018 de 15-maio, previstas nos n.ºs 2 e 3 do art. 7.º do Dec Lei 117/2009 de 18-maio, com a redação
+    dada pelo presente diploma, pelo(a) Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2009/05/18/p/dre
   label: null
@@ -100,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/29/2013/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/29/2013/01/29/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:23Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +193,9 @@ Os artigos 7.º e 8.º do [Decreto-Lei n.º 117/2009](https://diariodarepublica.
 
 8 - [Anterior n.º 7].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -180,12 +213,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 11 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 30 de julho de 2015.**
+Promulgado em 30 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de agosto de 2015.**
+Referendado em 3 de agosto de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

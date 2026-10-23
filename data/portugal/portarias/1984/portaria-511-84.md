@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/511-1984-381708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:06:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e1b89a028265907dc334b13a4f8f4e235b10684451e3cc3208ffbe2e802db70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 551a3f12f9f4f3f90439e24135201aa2b02c63303f19347d762a35fe4d176cc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:06:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Faculdade de Letras
+- Lisboa
+- Orgânica
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:06:35Z'
   warnings: []
   errors: []
 ---
@@ -110,17 +124,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação.
 
-**Assinada em 4 de Julho de 1984.**
+Assinada em 4 de Julho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO — Regulamento do Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa
 
 ### CAPÍTULO I
 
-###### Artigo 1.º O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa é uma unidade orgânica permanente, interdisciplinar, dirigida à realização continuada, no âmbito da língua e da cultura portuguesa, das tarefas de investigação, ensino e didáctica do português como língua segunda e como língua estrangeira compreendidas nos fins institucionais da Universidade de Lisboa.
+Artigo 1.º O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa é uma unidade orgânica permanente, interdisciplinar, dirigida à realização continuada, no âmbito da língua e da cultura portuguesa, das tarefas de investigação, ensino e didáctica do português como língua segunda e como língua estrangeira compreendidas nos fins institucionais da Universidade de Lisboa.
 
-###### Art. 2.º São objectivos do Departamento de Língua e Cultura Portuguesa, a realizar directamente ou em colaboração com outras entidades, nomeada e privilegiadamente o Instituto de Cultura e Língua Portuguesa, os seguintes:
+Art. 2.º São objectivos do Departamento de Língua e Cultura Portuguesa, a realizar directamente ou em colaboração com outras entidades, nomeada e privilegiadamente o Instituto de Cultura e Língua Portuguesa, os seguintes:
 
 a) Fomentar o desenvolvimento da língua e da cultura portuguesa, nos aspectos de índole teórica e aplicada ao ensino a estrangeiros e também a luso-descendentes;
 
@@ -140,11 +154,11 @@ h) Organizar ou apoiar cursos de formação de leitores de português (língua s
 
 i) Organizar ou apoiar cursos trimestrais/semestrais, anuais e intensivos de curta duração, nomeadamente de Verão, destinados a estudantes estrangeiros.
 
-###### Art. 3.º O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade.
+Art. 3.º O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade.
 
 ### CAPÍTULO II — (Órgãos de gestão)
 
-###### Art. 4.º O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa tem os seguintes órgãos:
+Art. 4.º O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa tem os seguintes órgãos:
 
 a) Conselho de departamento;
 
@@ -152,9 +166,9 @@ b) Conselho consultivo;
 
 c) Comissão executiva.
 
-###### Art. 5.º Serão membros permanentes do conselho de departamento os professores catedráticos, associados e auxiliares e os investigadores doutorados que se especializarem na área científica abrangida pelo Departamento, desempenhando provisoriamente as respectivas funções, nos termos do artigo 3.º da Portaria n.º 511/84, o grupo de professores doutorados proponentes do mesmo Departamento.
+Art. 5.º Serão membros permanentes do conselho de departamento os professores catedráticos, associados e auxiliares e os investigadores doutorados que se especializarem na área científica abrangida pelo Departamento, desempenhando provisoriamente as respectivas funções, nos termos do artigo 3.º da Portaria n.º 511/84, o grupo de professores doutorados proponentes do mesmo Departamento.
 
-###### Art. 6.º - 1 - São membros não permanentes 2 representantes dos assistentes, leitores e investigadores não doutorados na área departamental, eleitos pelos seus pares para mandatos bienais.
+Art. 6.º - 1 - São membros não permanentes 2 representantes dos assistentes, leitores e investigadores não doutorados na área departamental, eleitos pelos seus pares para mandatos bienais.
 
 2 - A eleição dos membros não permanentes terá lugar na primeira quinzena de Julho.
 
@@ -174,11 +188,11 @@ c) Comissão executiva.
 
 10 - O membro não permanente eleito por substituição assegurará o mandato do membro substituído até final do respectivo biénio.
 
-###### Art. 7.º - 1 - Farão ainda parte do conselho de departamento 2 representantes dos alunos do curso de licenciatura, eleitos pelo respectivo corpo discente.
+Art. 7.º - 1 - Farão ainda parte do conselho de departamento 2 representantes dos alunos do curso de licenciatura, eleitos pelo respectivo corpo discente.
 
 2 - A eleição destes 2 representantes dos alunos far-se-á de modo análogo ao que foi indicado no artigo 6.º para os representantes dos docentes e investigadores não doutorados.
 
-###### Art. 8.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento, eleito por todos os membros do conselho.
+Art. 8.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento, eleito por todos os membros do conselho.
 
 2 - O presidente é eleito para mandato bienal.
 
@@ -202,7 +216,7 @@ c) Comissão executiva.
 
 12 - O presidente poderá ser demitido por deliberação do conselho aprovada pela maioria absoluta dos membros em efectividade de funções.
 
-###### Art. 9.º - 1 - O conselho de departamento reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, metade dos seus membros.
+Art. 9.º - 1 - O conselho de departamento reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, metade dos seus membros.
 
 2 - A convocatória deverá ser escrita e enviada a cada um dos membros do conselho de departamento com uma antecedência mínima de 3 dias sobre a data da sessão.
 
@@ -212,7 +226,7 @@ c) Comissão executiva.
 
 5 - Das reuniões do conselho de departamento serão elaboradas actas, que, uma vez lidas e aprovadas, serão assinadas pelo presidente do conselho de departamento e pelo membro da comissão executiva que secretariou a respectiva reunião.
 
-###### Art. 10.º - 1 - Ao conselho de departamento compete:
+Art. 10.º - 1 - Ao conselho de departamento compete:
 
 a) Coordenar todos os meios ao dispor do Departamento, em ordem a assegurar a execução dos seus objectivos;
 
@@ -242,11 +256,11 @@ n) Deliberar sobre outras matérias que, nos termos da legislação universitár
 
 2 - As propostas de alteração deste Regulamento estarão sujeitas aos trâmites legais.
 
-###### Art. 11.º São membros natos do conselho consultivo o presidente do conselho de departamento, que presidirá, o presidente do Instituto de Cultura e Língua Portuguesa, ou o seu representante, os representantes dos presidentes dos conselhos directivo, científico e pedagógico da Faculdade de Letras e o secretário do Departamento.
+Art. 11.º São membros natos do conselho consultivo o presidente do conselho de departamento, que presidirá, o presidente do Instituto de Cultura e Língua Portuguesa, ou o seu representante, os representantes dos presidentes dos conselhos directivo, científico e pedagógico da Faculdade de Letras e o secretário do Departamento.
 
-###### Art. 12.º O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que seja convocado pelo presidente do conselho de departamento, por sua iniciativa ou por solicitação de qualquer dos membros daquele.
+Art. 12.º O conselho consultivo reúne ordinariamente duas vezes por ano e extraordinariamente sempre que seja convocado pelo presidente do conselho de departamento, por sua iniciativa ou por solicitação de qualquer dos membros daquele.
 
-###### Art. 13.º Ao conselho consultivo compete:
+Art. 13.º Ao conselho consultivo compete:
 
 a) Apreciar os programas de acção futura, os programas em curso e os programas realizados;
 
@@ -256,11 +270,11 @@ c) Apreciar o orçamento e as contas anuais e plurianuais;
 
 d) Emitir parecer sobre eventuais propostas de alteração a este Regulamento.
 
-###### Art. 14.º - 1 - A comissão executiva é constituída pelo presidente do conselho de departamento, que a ela presidirá, e por 2 outros membros por este designados, 1 dos quais exercerá as funções de secretário.
+Art. 14.º - 1 - A comissão executiva é constituída pelo presidente do conselho de departamento, que a ela presidirá, e por 2 outros membros por este designados, 1 dos quais exercerá as funções de secretário.
 
 2 - A designação dos membros referidos no número anterior carece de homologação pelo conselho de departamento.
 
-###### Art. 15.º À comissão executiva compete:
+Art. 15.º À comissão executiva compete:
 
 a) Preparar as reuniões do conselho de departamento e executar as suas deliberações;
 
@@ -272,7 +286,7 @@ d) Zelar pela conservação e manutenção das instalações e outros bens afect
 
 e) Elaborar as actas das reuniões do conselho de departamento.
 
-###### Art. 16.º À comissão executiva compete ainda providenciar pelo bom funcionamento do ensino, designadamente:
+Art. 16.º À comissão executiva compete ainda providenciar pelo bom funcionamento do ensino, designadamente:
 
 a) Fixar a duração dos períodos lectivos;
 
@@ -284,15 +298,15 @@ d) Organizar actividades culturais, complementares do ensino.
 
 § único. Para a execução destas tarefas a comissão executiva poderá agregar a si outros docentes do Departamento e, eventualmente, alunos, mediante parecer favorável do conselho de departamento.
 
-###### Art. 17.º - 1 - As deliberações do conselho de departamento só poderão ser alteradas, ouvido este, pelos órgãos centrais da Faculdade, quando as julguem incompatíveis com os interesses gerais prosseguidos por esta ou possam prejudicar o seu funcionamento.
+Art. 17.º - 1 - As deliberações do conselho de departamento só poderão ser alteradas, ouvido este, pelos órgãos centrais da Faculdade, quando as julguem incompatíveis com os interesses gerais prosseguidos por esta ou possam prejudicar o seu funcionamento.
 
 2 - Das alterações às deliberações do conselho de departamento cabe recurso para o reitor.
 
-###### Art. 18.º As atribuições da comissão de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas ao conselho de departamento.
+Art. 18.º As atribuições da comissão de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas ao conselho de departamento.
 
 ### CAPÍTULO III — (Organização pedagógica e científica)
 
-###### Art. 19.º - 1 - O Departamento promoverá a realização dos seguintes cursos:
+Art. 19.º - 1 - O Departamento promoverá a realização dos seguintes cursos:
 
 a) Cursos trimestrais e semestrais de iniciação e aperfeiçoamento em língua e cultura portuguesa;
 
@@ -314,13 +328,13 @@ e) Cursos de mestrado em Português como língua segunda e língua estrangeira e
 
 6 - Na organização dos diferentes cursos, sobretudo de licenciatura e mestrado, o Departamento terá em atenção as necessidades do ensino do Português no estrangeiro, quer nos leitorados e departamentos de português de nível universitário, quer em relação aos luso-descendentes.
 
-###### Art. 20.º - 1 - O Departamento promoverá, no âmbito da sua área específica, a investigação teórica e aplicada que conduza à elaboração de materiais para o ensino do Português como língua segunda e língua estrangeira e também para o ensino da língua nas comunidades lusófonas existentes no Mundo.
+Art. 20.º - 1 - O Departamento promoverá, no âmbito da sua área específica, a investigação teórica e aplicada que conduza à elaboração de materiais para o ensino do Português como língua segunda e língua estrangeira e também para o ensino da língua nas comunidades lusófonas existentes no Mundo.
 
 2 - Para os fins consignados no número anterior, o conselho de departamento definirá linhas e projectos de investigação e nomeará responsáveis pela sua orientação.
 
 ### CAPÍTULO IV — (Serviços técnicos)
 
-###### Art. 21.º - 1 - A actividade do Departamento é apoiada pelos seguintes serviços técnicos:
+Art. 21.º - 1 - A actividade do Departamento é apoiada pelos seguintes serviços técnicos:
 
 a) Serviços administrativos;
 
@@ -330,11 +344,11 @@ c) Laboratório de línguas.
 
 2 - Os serviços técnicos estão na dependência directa da comissão executiva, excepto se forem comuns a outros departamentos ou sectores da Faculdade.
 
-###### Art. 22.º - 1 - Aos serviços administrativos compete a execução e organização dos serviços de secretaria-geral, expediente, contabilidade e arquivo.
+Art. 22.º - 1 - Aos serviços administrativos compete a execução e organização dos serviços de secretaria-geral, expediente, contabilidade e arquivo.
 
 2 - Os serviços administrativos funcionam sob a responsabilidade do funcionário mais graduado neles destacado, sempre que possível um técnico superior.
 
-###### Art. 23.º Aos serviços de biblioteca, documentação e publicações compete:
+Art. 23.º Aos serviços de biblioteca, documentação e publicações compete:
 
 a) Assegurar as aquisições de livros, revistas, filmes e outros auxiliares didácticos;
 
@@ -350,13 +364,13 @@ f) Manter um serviço de reprodução de textos;
 
 g) Os serviços de biblioteca, documentação e publicações funcionam sob responsabilidade do funcionário mais graduado neles destacado.
 
-###### Art. 24.º - 1 - Ao laboratório de línguas compete apoiar o ensino e aperfeiçoamento da língua, através de exercícios diversos.
+Art. 24.º - 1 - Ao laboratório de línguas compete apoiar o ensino e aperfeiçoamento da língua, através de exercícios diversos.
 
 2 - O laboratório de línguas funcionará, do ponto de vista técnico, sob a responsabilidade do funcionário mais graduado, e, do ponto de vista pedagógico-didáctico, sob a responsabilidade de um docente, nomeado pelo conselho de departamento.
 
 ### CAPÍTULO V — (Pessoal)
 
-###### Art. 25.º No Departamento presta serviço pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico e auxiliar:
+Art. 25.º No Departamento presta serviço pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico e auxiliar:
 
 a) Do quadro a criar oportunamente;
 
@@ -364,7 +378,7 @@ b) Além do quadro, a contratar em categorias e moldes análogos aos do pessoal 
 
 § único. Para o desempenho das suas funções docentes e de investigação, o Departamento poderá recorrer, particularmente na fase inicial, à colaboração, previamente acordada, de pessoal docente e investigador de outros departamentos ou sectores da Faculdade de Letras ou de outras escolas.
 
-###### Art. 26.º Compete aos professores:
+Art. 26.º Compete aos professores:
 
 a) Participar no fomento e desenvolvimento da investigação e do ensino no Departamento através de uma actividade de investigação própria;
 
@@ -372,9 +386,9 @@ b) Assegurar o serviço docente que lhes for atribuído;
 
 c) Aceitar e desempenhar os lugares de gestão do Departamento para os quais forem eleitos.
 
-###### Art. 27.º Os assistentes estagiários são recrutados por concurso de entre os licenciados que, para além das condições legais, satisfaçam as condições de habilitações previstas na lei e que revelem capacidade para a investigação científica.
+Art. 27.º Os assistentes estagiários são recrutados por concurso de entre os licenciados que, para além das condições legais, satisfaçam as condições de habilitações previstas na lei e que revelem capacidade para a investigação científica.
 
-###### Art. 28.º Compete aos assistentes e assistentes estagiários:
+Art. 28.º Compete aos assistentes e assistentes estagiários:
 
 a) Participar nas linhas e projectos de investigação em que estejam integrados;
 
@@ -382,31 +396,31 @@ b) Assegurar as aulas de língua e de laboratório;
 
 c) Coadjuvar os professores na assistência às aulas práticas.
 
-###### Art. 29.º Para assegurar as aulas de língua e de laboratório poderão ser contratados leitores e ou assistentes convidados.
+Art. 29.º Para assegurar as aulas de língua e de laboratório poderão ser contratados leitores e ou assistentes convidados.
 
-###### Art. 30.º Para além do pessoal docente contratado para o novo Departamento, poderão, mediante aprovação superior, prestar serviço ao mesmo Departamento, em regime de acumulação, professores e assistentes de outros departamentos ou sectores da Faculdade de Letras ou de outras escolas.
+Art. 30.º Para além do pessoal docente contratado para o novo Departamento, poderão, mediante aprovação superior, prestar serviço ao mesmo Departamento, em regime de acumulação, professores e assistentes de outros departamentos ou sectores da Faculdade de Letras ou de outras escolas.
 
-###### Art. 31.º O pessoal investigador é recrutado mediante concursos abertos pelo Departamento, tendo de satisfazer requisitos de graduação e qualificação paralelos aos definidos para o pessoal docente de categoria equivalente, sem prejuízo das disposições legais especialmente aplicáveis.
+Art. 31.º O pessoal investigador é recrutado mediante concursos abertos pelo Departamento, tendo de satisfazer requisitos de graduação e qualificação paralelos aos definidos para o pessoal docente de categoria equivalente, sem prejuízo das disposições legais especialmente aplicáveis.
 
-###### Art. 32.º Compete aos investigadores participar no fomento e desenvolvimento da investigação dentro dos projectos em que estão integrados.
+Art. 32.º Compete aos investigadores participar no fomento e desenvolvimento da investigação dentro dos projectos em que estão integrados.
 
-###### Art. 33.º O pessoal técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico e auxiliar é recrutado pela Faculdade, por proposta do Departamento, mediante concursos abertos por este, desde que satisfaça as condições definidas na lei e as cláusulas constantes dos respectivos editais.
+Art. 33.º O pessoal técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico e auxiliar é recrutado pela Faculdade, por proposta do Departamento, mediante concursos abertos por este, desde que satisfaça as condições definidas na lei e as cláusulas constantes dos respectivos editais.
 
-###### Art. 34.º As actividades do pessoal técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico e auxiliar são definidas pela comissão executiva.
+Art. 34.º As actividades do pessoal técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico e auxiliar são definidas pela comissão executiva.
 
 ### CAPÍTULO VI — (Instalações e equipamento)
 
-###### Art. 35.º Serão atribuídas pela Faculdade de Letras e ou pela Universidade de Lisboa ao Departamento de Língua e Cultura Portuguesa instalações adequadas para a realização dos seus objectivos.
+Art. 35.º Serão atribuídas pela Faculdade de Letras e ou pela Universidade de Lisboa ao Departamento de Língua e Cultura Portuguesa instalações adequadas para a realização dos seus objectivos.
 
-###### Art. 36.º Cabe aos órgãos de gestão do Departamento a responsabilidade pela manutenção e segurança das respectivas instalações e serviços de apoio, bem como a superintendência do pessoal adstrito a tais tarefas.
+Art. 36.º Cabe aos órgãos de gestão do Departamento a responsabilidade pela manutenção e segurança das respectivas instalações e serviços de apoio, bem como a superintendência do pessoal adstrito a tais tarefas.
 
 ### CAPÍTULO VII — (Contratos e convénios)
 
-###### Art. 37.º O Departamento poderá celebrar contratos ou termos de tarefa com entidades singulares ou colectivas, nacionais ou estrangeiras, para a realização de trabalhos científicos e outros serviços de carácter eventual necessários ao desempenho das suas actividades.
+Art. 37.º O Departamento poderá celebrar contratos ou termos de tarefa com entidades singulares ou colectivas, nacionais ou estrangeiras, para a realização de trabalhos científicos e outros serviços de carácter eventual necessários ao desempenho das suas actividades.
 
-###### Art. 38.º O Departamento pode celebrar convénios de cooperação e intercâmbio científico com outras universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras.
+Art. 38.º O Departamento pode celebrar convénios de cooperação e intercâmbio científico com outras universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 39.º - 1 - Os contratos, termos de tarefa e convénios carecem de aprovação do conselho de departamento.
+Art. 39.º - 1 - Os contratos, termos de tarefa e convénios carecem de aprovação do conselho de departamento.
 
 2 - Os contratos e termos de tarefa são assinados pelo presidente da comissão executiva, enquanto os convénios são propostas à universidade.
 
@@ -422,13 +436,13 @@ d) A duração.
 
 ### CAPÍTULO VIII — (Prestação de serviços)
 
-###### Art. 40.º - 1 - O Departamento poderá prestar serviços a entidades nacionais ou estrangeiras, nomeadamente a organização e realização de cursos intensivos de língua ou de seminários de actualização cultural no âmbito da sua área específica.
+Art. 40.º - 1 - O Departamento poderá prestar serviços a entidades nacionais ou estrangeiras, nomeadamente a organização e realização de cursos intensivos de língua ou de seminários de actualização cultural no âmbito da sua área específica.
 
 2 - A prestação de serviço não deve prejudicar os fins e objectivos primordiais do Departamento.
 
 3 - Os contratos de prestação de serviço serão reduzidos a escrito e assinados pelo presidente da comissão executiva, após parecer favorável do conselho de departamento.
 
-###### Art. 41.º - 1 - O conselho de departamento fixará para cada caso o preço dos serviços prestados, atendendo a:
+Art. 41.º - 1 - O conselho de departamento fixará para cada caso o preço dos serviços prestados, atendendo a:
 
 a) Despesas com a utilização e amortização de equipamento utilizado;
 
@@ -440,17 +454,17 @@ d) Gratificação por horas extraordinárias do pessoal envolvido na orientaçã
 
 2 - As importâncias recebidas pelo Departamento pela prestação de serviços, depois de deduzida a correspondente à alínea d) do número anterior, serão entregues nos cofres do Estado e escrituradas em Conta de ordem no Orçamento Geral do Estado, podendo ser aplicadas no próprio ano ou em anos futuros, através de orçamento privativos.
 
-###### Art. 42.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 41.º, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
+Art. 42.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 41.º, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
 
 2 - Nos termos do número anterior, o conselho de departamento gozará da competência atribuída aos serviços com autonomia administrativa e financeira.
 
-###### Art. 43.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Universidade de Lisboa no Orçamento Geral do Estado.
+Art. 43.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Universidade de Lisboa no Orçamento Geral do Estado.
 
 2 - Enquanto não for possível estabelecer no Orçamento Geral do Estado dotação própria, os encargos resultantes de serviços e funcionamento do Departamento de Língua e Cultura Portuguesa serão satisfeitos pelas disponibilidades da Faculdade de Letras da Universidade de Lisboa e ou pela própria Universidade de Lisboa.
 
 ### CAPÍTULO X — (Disposições transitórias)
 
-###### Art. 44.º - 1 - O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa substitui o curso de Língua e Cultura Portuguesa para Estrangeiros, que actualmente funciona na Faculdade de Letras da mesma Universidade.
+Art. 44.º - 1 - O Departamento de Língua e Cultura Portuguesa da Faculdade de Letras da Universidade de Lisboa substitui o curso de Língua e Cultura Portuguesa para Estrangeiros, que actualmente funciona na Faculdade de Letras da mesma Universidade.
 
 2 - Os equipamentos próprios deste curso, assim como os respectivos fundos, transitam para o novo Departamento agora criado.
 

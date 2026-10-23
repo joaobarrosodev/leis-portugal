@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/225-1977-281426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49668814fe3db48a836beaa0b0ca4746c3ddca5648b0a846f5bf3916a9db8f6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b81c8a8fce46487cc26ef3df64616c30fdbb2ef466e56de7257e922903aeff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fixação de Preços
+- Importação
+- Medicamento
+- Preço de Venda
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:27Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Com o fim de obviar a tais inconvenientes, estabeleço o seguinte:
 
 2.º Os coeficientes a aplicar para todos os medicamentos cujo preço tenha sido aprovado até 16 de Agosto de 1977, ou cujo câmbio utilizado seja inferior ao dessa data, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/27000/27932794.pdf))](https://files.diariodarepublica.pt/1s/1977/11/27000/27932794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/27000/27932794.pdf)
 
 3.º As empresas interessadas enviarão à Direcção-Geral do Comércio não Alimentar listas, em triplicado, com as alterações resultantes, dentro do prazo máximo de trinta dias sobre a data deste despacho e das quais constem todas as indicações necessárias à sua conferência pelos respectivos serviços.
 

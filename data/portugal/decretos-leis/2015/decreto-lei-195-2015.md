@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2015/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2015-70280720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ae3a202c8d52272774989bbf89d1298bd662875fdec6822dc168c2433174c32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d19ad53d1df8787134265aba56e53e15ebfe12e78c557395a06edcfa340a6a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,31 +69,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Registo Português de Licenças de Emissão
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
 - Autoridade Nacional
+- Autoridade Nacional da Aviação Civil
+- Aviação Civil
 - Avião
-- Transporte Aéreo
 - Contra-ordenação
 - Controlo Técnico
-- Poluição Atmosférica
 - Fiscalização
 - Fundo Português de Carbono
-- Proteção do Ambiente
-- Sanção Penal
-- Prazo
 - Madeira.região Autónoma
-- Aviação Civil
-- Regulamento CE
-- TAXA de Prestação de Serviços
+- Poluição Atmosférica
+- Prazo
+- Proteção do Ambiente
+- Registo Português de Licenças de Emissão
 - Registo Português de Licenças de Emissão Integrado no Registo da União
-- Autoridade Nacional da Aviação Civil
-- Agência Portuguesa do Ambiente
+- Regulamento CE
+- Sanção Penal
+- TAXA de Prestação de Serviços
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:185224662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75150234:por
+  label: Alterados, a partir de 01.01.2017, os arts. 5.º e 7.º e revogados, a partir da mesma data, as als. c), d) e e) do
+    n.º 8 e o n.º 11 do referido art. 7.º do Dec. Lei 93/2010 de 27-jul, na versão republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-a-2016-75150234
+  date: '2016-08-12'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 27.º do Dec Lei 93/2010 de 27-jul, na versão republicada pelo presente
+    diploma, pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27 nos termos do art. 241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: celex:32003L0087
   label: null
@@ -198,6 +211,66 @@ relationships:
   target: eli:http://data.europa.eu/eli/re
   label: null
   source: http://data.europa.eu/eli/re
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32003L0087
   label: null
@@ -211,15 +284,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 54
+  article_count: 35
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:04Z'
   warnings: []
   errors: []
 ---
@@ -264,7 +337,9 @@ Os artigos 1.º a 5.º, 7.º a 12.º, 14.º a 18.º, 20.º, 22.º, 25.º e 27.º
 
 O presente decreto-lei estabelece o regime de comércio de licenças de emissão de gases com efeito de estufa das atividades da aviação, transpondo para a ordem jurídica nacional a [Diretiva n.º 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, alterada pela [Diretiva n.º 2008/101/CE](https://data.europa.eu/eli/dir/2008/101/oj?locale=pt), do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, e pela [Diretiva n.º 2009/29/CE](https://data.europa.eu/eli/dir/2009/29/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de abril de 2009, incluindo as atividades da aviação no regime europeu de comércio de licenças de emissão de gases com efeito de estufa, doravante designado por regime CELE, a fim de o melhorar e alargar.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -272,7 +347,9 @@ a) Titulares de uma licença de exploração válida emitida pela Autoridade Nac
 
 b) Titulares de uma licença de exploração proveniente de países terceiros e cuja estimativa mais elevada de emissões em relação aos voos realizados por esse operador no ano de base sejam atribuíveis ao Estado Português, independentemente de constarem da lista de operadores de aeronave da Comissão Europeia, publicada pelo [Regulamento (CE) n.º 748/2009](https://data.europa.eu/eli/reg/2009/748/oj?locale=pt), de 5 de agosto de 2009, alterado pelo Regulamento (UE) [2015/180](https://data.europa.eu/eli/reg/2015/180/oj?locale=pt), da Comissão, de 9 de fevereiro de 2015.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -310,7 +387,9 @@ q) 'Unidade de redução de emissões' ou 'URE', a definição constante da alí
 
 r) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Compete à Agência Portuguesa do Ambiente, I. P. (APA, I. P.):
 
@@ -334,7 +413,9 @@ i) [...];
 
 j) [...].
 
-###### Artigo 5.º — Competências de outras entidades
+Artigo 5.º
+
+Competências de outras entidades
 
 1 - Compete à ANAC acompanhar a aplicação, a nível nacional, do regime CELE, no que se refere às atividades de aviação constantes do anexo I, cabendo-lhe, nomeadamente validar, no âmbito das suas atribuições, os planos de monitorização de emissões e o plano de monitorização de dados relativos às toneladas-quilómetro, bem como os pedidos de acesso à reserva especial, que lhe são remetidos pelos operadores de aeronave.
 
@@ -346,7 +427,9 @@ j) [...].
 
 5 - Compete à Comissão do Mercado de Valores Mobiliários o exercício das competências previstas no artigo 43.º do [Regulamento (UE) n.º 1031/2010](https://data.europa.eu/eli/reg/2010/1031/oj?locale=pt), da Comissão, de 12 de novembro de 2010, bem como a supervisão das entidades previstas nos n.os 2 e 3 do artigo 18.º do mesmo regulamento e no âmbito das atividades aí referidas, nos termos fixados em legislação própria, sem prejuízo das competências atribuídas ao Banco de Portugal e a outras autoridades.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As licenças de emissão que não sejam atribuídas a título gratuito ficam sujeitas a venda em leilão.
 
@@ -390,7 +473,9 @@ e) 3 %, na cobertura de despesas resultantes do funcionamento do CELE, incluindo
 
 16 - A APA, I. P., informa a ANAC sempre que tiver celebrado Acordos com o Eurocontrol relativos à ferramenta EU ETS Support Facility.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -412,7 +497,9 @@ e) 3 %, na cobertura de despesas resultantes do funcionamento do CELE, incluindo
 
 10 - Nos casos em que os planos ou as suas atualizações não se encontrem devidamente instruídos de acordo com os requisitos previstos são objeto de indeferimento liminar.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -430,7 +517,9 @@ e) 3 %, na cobertura de despesas resultantes do funcionamento do CELE, incluindo
 
 8 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -466,7 +555,9 @@ c) [...].
 
 12 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As regras de utilização de URE e RCE são as definidas no anexo II ao presente decreto-lei, do qual faz parte integrante.
 
@@ -476,7 +567,9 @@ c) [...].
 
 4 - [Revogado].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -490,7 +583,9 @@ c) [...].
 
 6 - As formalidades relativas à transferência, atribuição, devolução e supressão de licenças são as definidas pelo [Regulamento (UE) n.º 389/2013](https://data.europa.eu/eli/reg/2013/389/oj?locale=pt) da Comissão, de 2 de maio de 2013.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O registo de dados normalizado protegido que garante uma contabilidade precisa sobre a concessão, detenção, transferência e anulação de licenças de emissão no âmbito do presente decreto-lei é o Registo Português de Licenças de Emissão, integrado no Registo da União (RPLE-RU), estabelecido pelo [Regulamento (UE) n.º 389/2013](https://data.europa.eu/eli/reg/2013/389/oj?locale=pt), da Comissão de 2 de maio de 2013, nos termos da [Diretiva n.º 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, e das Decisões n.º [280/2004/CE](https://diariodarepublica.pt/application/external/eurolex?0D2004), do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, e n.º [406/2009/CE](https://data.europa.eu/eli/dec/2009/406/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril de 2009, e encontra-se disponível no respetivo sítio na Internet da APA, I. P.
 
@@ -504,7 +599,9 @@ c) [...].
 
 6 - [Revogado].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A partir de 1 de janeiro de 2013, os operadores de aeronave que desenvolvam qualquer atividade constante do anexo I e de que resultem emissões de GEE devem monitorizar e comunicar as respetivas emissões em conformidade com o disposto no [Regulamento (UE) n.º 601/2012](https://data.europa.eu/eli/reg/2012/601/oj?locale=pt), da Comissão, de 21 de junho de 2012.
 
@@ -514,7 +611,9 @@ c) [...].
 
 4 - O operador de aeronave deve enviar à APA, I. P., até 31 de março, um relatório, devidamente verificado nos termos do n.º 1 do artigo 16.º, que contenha as informações relativas às emissões ocorridas no ano civil anterior.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O relatório de emissões apresentado pelo operador de aeronave nos termos do n.º 4 do artigo anterior, é verificado por verificadores acreditados, em conformidade com os critérios estabelecidos no [Regulamento (UE) n.º 600/2012](https://data.europa.eu/eli/reg/2012/600/oj?locale=pt), da Comissão, de 21 de junho de 2012, relativo à verificação dos relatórios respeitantes às emissões de GEE e às toneladas-quilómetro e à acreditação de verificadores em conformidade com a [Diretiva n.º 2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, e em conformidade com o [Regulamento (UE) n.º 389/2013](https://data.europa.eu/eli/reg/2013/389/oj?locale=pt), da Comissão, de 2 de maio de 2013.
 
@@ -532,13 +631,17 @@ c) [...].
 
 8 - Os requisitos e condições de exercício da atividade de verificador são os definidos no [Regulamento (UE) n.º 600/2012](https://data.europa.eu/eli/reg/2012/600/oj?locale=pt), da Comissão, de 21 de junho de 2012, e na regulamentação relativa à acreditação aplicável.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Sem prejuízo das competências próprias da ANAC, a fiscalização do cumprimento do presente decreto-lei compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT).
 
 2 - As situações que indiciem a prática de infração punível nos termos do presente decreto-lei devem ser comunicadas à IGAMAOT, devendo ser-lhe igualmente remetida, para o efeito, toda a documentação de que se disponha.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -548,7 +651,9 @@ c) [...].
 
 4 - O valor previsto no n.º 1 é atualizado em função do índice europeu de preços no consumidor.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Constitui contraordenação ambiental muito grave, nos termos do disposto na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto, a prática das seguintes infrações ao disposto no presente decreto-lei:
 
@@ -580,7 +685,9 @@ d) Incumprimento do dever de facultar os elementos previstos no n.º 1 do artigo
 
 5 - A tentativa e a negligência são puníveis nos termos do disposto na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -590,13 +697,17 @@ d) Incumprimento do dever de facultar os elementos previstos no n.º 1 do artigo
 
 4 - As decisões de proibição previstas no número anterior são aplicadas no território nacional, devendo a Comissão Europeia ser informada das medidas de execução dessas decisões.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A APA, I. P., deve colocar à disposição do público as decisões relativas à atribuição de licenças de emissão e os relatórios de emissões exigíveis ao abrigo do n.º 4 do artigo 15.º, assim como a informação prevista no n.º 7 do artigo 7.º
 
 2 - A informação disponibilizada ao público nos termos do número anterior deve ser publicitada no sítio na Internet da APA, I. P., em formatos abertos e estar acessível através do sistema de pesquisa online de informação pública a que se refere o artigo 49.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -628,15 +739,15 @@ São revogados os n.os 4 e 5 do artigo 7.º, o n.º 8 do artigo 8.º, os n.os 2 
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Isabel Cabral de Abreu Castelo Branco - Rui Manuel Parente Chancerelle de Machete - António Manuel Coelho da Costa Moura - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 28 de agosto de 2015.**
+Promulgado em 28 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de setembro de 2015.**
+Referendado em 1 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -646,9 +757,11 @@ Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos
 
 [...].
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf)
 
-## ANEXO II — (a que se refere o artigo 11.º)
+ANEXO II
+
+(a que se refere o artigo 11.º)
 
 Regras de utilização de Unidade de redução de emissões e redução certificada de emissões
 
@@ -1172,7 +1285,7 @@ O artigo 17.º do [Decreto-Lei n.º 233/2004](https://diariodarepublica.pt/dr/de
 
 A partir de 1 de janeiro de 2012 estão incluídos todos os voos com partida ou com chegada num aeródromo situado no território de um Estado membro ao qual se aplica o Tratado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf))](https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/17900/0792207938.pdf)
 
 ## ANEXO II — (a que se refere o artigo 11.º)
 

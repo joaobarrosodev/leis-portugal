@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-1974-411864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d81ccf04210d29683fe151df38ae153c212436697c982225a61d9204130f5351
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 569360ddc62f17b14924708d900a9935f1c865aed67cdfe8d0ece11dd7adeb1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,52 @@ relationships:
   target: pt:dre:311073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:266095:por
+  label: Rectificada a alínea c) do n.º III - 2, o n.º IV - 1 e o n.º VIII, pela DECL.DD9547.24.04.1974.PC, DG.IS [96]Supl
+    de 24.04.1974
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1974-266095
+  date: '1974-04-24'
+- type: repealed_by
+  target: pt:dre:311073:por
+  label: Revogado, a partir de 01.01.1976, o disposto no n.º 3 da norma II da presente portaria, pelo(a) Portaria n.º 752/75
+    - Diário do Governo n.º 289/1975, Série I de 1975-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/752-1975-311073
+  date: '1975-12-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:38Z'
   warnings: []
   errors: []
 ---

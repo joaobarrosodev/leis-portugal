@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1986-222606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35b6de77c77c94105f30faf19b21df36b669cedfc9604312da9389c337d24311
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c7979ccd75f72741b703d67b97145b77d13dc05d6185b9994f2a7a6a4a0b3c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços Sociais Universitários
+- Universidade de Trás-os-montes e ALTO Douro
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403325:por
+  label: Substituído o quadro de pessoal dos Serviços Sociais da Universidade de Trás-os-Montes e Alto Douro, pelo(a) Portaria
+    n.º 866/91 - Diário da República n.º 192/1991, Série I-B de 1991-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/866-1991-403325
+  date: '1991-08-22'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 35.º a 48.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:31Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +131,11 @@ Em cumprimento do disposto no artigo 39.º do [Decreto-Lei n.º 132/80](https://
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade de Trás-os-Montes e Alto Douro, adiante designados «SSUTAD», são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
+Artigo 1.º Os Serviços Sociais da Universidade de Trás-os-Montes e Alto Douro, adiante designados «SSUTAD», são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
-###### Art. 2.º Os SSUTAD têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+Art. 2.º Os SSUTAD têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUTAD beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Trás-os-Montes e Alto Douro e preencham as restantes condições legalmente fixadas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUTAD beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Trás-os-Montes e Alto Douro e preencham as restantes condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade de Trás-os-Montes e Alto Douro que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior, poderão beneficiar da acção desenvolvida pelos SSUTAD, nos termos do disposto nos números seguintes.
 
@@ -120,7 +151,7 @@ Em cumprimento do disposto no artigo 39.º do [Decreto-Lei n.º 132/80](https://
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º Os SSUTAD têm os seguintes órgãos:
+Art. 4.º Os SSUTAD têm os seguintes órgãos:
 
 a) Presidente;
 
@@ -128,9 +159,9 @@ e) Conselho geral;
 
 c) Conselho administrativo.
 
-###### Art. 5.º O cargo de presidente dos SSUTAD é inerente ao cargo de reitor da mesma Universidade.
+Art. 5.º O cargo de presidente dos SSUTAD é inerente ao cargo de reitor da mesma Universidade.
 
-###### Art. 6.º - 1 - Compete ao presidente dirigir superiormente os SSUTAD e orientar e coordenar as suas actividades, designadamente:
+Art. 6.º - 1 - Compete ao presidente dirigir superiormente os SSUTAD e orientar e coordenar as suas actividades, designadamente:
 
 a) Assegurar a gestão corrente dos SSUTAD;
 
@@ -152,11 +183,11 @@ h) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
-###### Art. 7.º - 1 - O vice-presidente dos SSUTAD é nomeado pelo Ministro da Educação e Cultura, sob proposta do presidente, de entre indivíduos com licenciatura e experiência adequadas ao cargo.
+Art. 7.º - 1 - O vice-presidente dos SSUTAD é nomeado pelo Ministro da Educação e Cultura, sob proposta do presidente, de entre indivíduos com licenciatura e experiência adequadas ao cargo.
 
 2 - O cargo de vice-presidente dos SSUTAD é equiparado, para todos os efeitos legais, ao cargo de subdirector-geral.
 
-###### Art. 8.º - 1 - O conselho geral é constituído por:
+Art. 8.º - 1 - O conselho geral é constituído por:
 
 a) O presidente dos SSUTAD, que preside;
 
@@ -184,7 +215,7 @@ f) Dois representantes das associações de estudantes da Universidade.
 
 8 - Poderão participar nas reuniões do conselho geral, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUTAD cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 9.º Compete ao conselho geral dos SSUTAD:
+Art. 9.º Compete ao conselho geral dos SSUTAD:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades a submeter à aprovação do CASES;
 
@@ -198,7 +229,7 @@ e) Aprovar o projecto de relatório anual de actividades, com vista à sua aprov
 
 f) Acompanhar o funcionamento e consultar a documentação dos serviços operativos e de apoio, podendo, para o efeito, delegar poderes em alguns dos seus membros.
 
-###### Art. 10.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente dos Serviços Sociais, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
+Art. 10.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente dos Serviços Sociais, por sua iniciativa ou a pedido de, pelo menos, dois dos seus membros.
 
 2 - A convocatória para a reunião do conselho geral será acompanhada da lista dos assuntos a tratar na reunião.
 
@@ -208,7 +239,7 @@ f) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 5 - O presidente tem voto de qualidade.
 
-###### Art. 11.º - 1 - O conselho administrativo dos SSUTAD é constituído por:
+Art. 11.º - 1 - O conselho administrativo dos SSUTAD é constituído por:
 
 a) O presidente dos Serviços Sociais, que preside;
 
@@ -224,7 +255,7 @@ d) O chefe de repartição de administração geral, que secretaria.
 
 4 - O membro do conselho administrativo a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública.
 
-###### Art. 12.º - 1 - Compete ao conselho administrativo dos SSUTAD:
+Art. 12.º - 1 - Compete ao conselho administrativo dos SSUTAD:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -250,7 +281,7 @@ i) Promover a organização e permanente actualização do inventário e cadastr
 
 3 - O conselho administrativo poderá delegar nos funcionários com cargos de chefia parte da sua competência para autorizar despesas, quando julgado conveniente à boa gestão dos serviços.
 
-###### Art. 13.º - 1 - O conselho administrativo dos SSUTAD reunirá ordinariamente duas vezes por mês e extraordinariamente por solicitação de qualquer dos seus membros.
+Art. 13.º - 1 - O conselho administrativo dos SSUTAD reunirá ordinariamente duas vezes por mês e extraordinariamente por solicitação de qualquer dos seus membros.
 
 2 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria simples dos seus membros.
 
@@ -266,13 +297,13 @@ i) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 14.º Os SSUTAD compreendem:
+Art. 14.º Os SSUTAD compreendem:
 
 a) Os serviços operativos;
 
 b) Os serviços de apoio.
 
-###### Art. 15.º - 1 - Os serviços operativos exercem as suas atribuições nos domínios:
+Art. 15.º - 1 - Os serviços operativos exercem as suas atribuições nos domínios:
 
 a) Do alojamento;
 
@@ -284,7 +315,7 @@ c) Das bolsas e empréstimos.
 
 3 - O vice-presidente será coadjuvado, em cada um dos domínios de acção dos serviços operativos, por um dos funcionários neles colocados, a designar para o efeito.
 
-###### Art. 16.º Em matéria de alojamento compete aos SSUTAD:
+Art. 16.º Em matéria de alojamento compete aos SSUTAD:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -304,7 +335,7 @@ h) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 i) Assegurar a lavagem e tratamento de roupas.
 
-###### Art. 17.º Em matéria de alimentação compete aos SSUTAD:
+Art. 17.º Em matéria de alimentação compete aos SSUTAD:
 
 a) Providenciar pela abertura e assegurar o funcionamento de cantinas, refeitórios, snacks e bares;
 
@@ -318,7 +349,7 @@ e) Enviar directamente aos serviços competentes as receitas das cantinas, refei
 
 f) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais.
 
-###### Art. 18.º Em matéria de bolsas e empréstimos compete aos SSUTAD:
+Art. 18.º Em matéria de bolsas e empréstimos compete aos SSUTAD:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;
 
@@ -330,13 +361,13 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais.
 
-###### Art. 19.º Os serviços de apoio serão dirigidos por um chefe de repartição e compreendem:
+Art. 19.º Os serviços de apoio serão dirigidos por um chefe de repartição e compreendem:
 
 a) Secção administrativa;
 
 b) Secção de aprovisionamento.
 
-###### Art. 20.º A secção administrativa exerce as suas atribuições nos domínios de contabilidade e orçamento, pessoal, expediente geral e arquivo, competindo-lhe:
+Art. 20.º A secção administrativa exerce as suas atribuições nos domínios de contabilidade e orçamento, pessoal, expediente geral e arquivo, competindo-lhe:
 
 a) Preparar e elaborar o projecto de orçamento ordinário dos SSUTAD, bem como os dos orçamentos suplementares e todos os processos de alteração orçamental, designadamente os de reforço e transferência de verbas e de antecipação de duodécimos;
 
@@ -380,7 +411,7 @@ u) Assegurar a adequada circulação de documentos e normas pelos serviços;
 
 v) Assegurar o apoio dactilográfico a todos os sectores dos Serviços Sociais.
 
-###### Art. 21.º Adstrita à secção administrativa funciona uma tesouraria, à qual compete:
+Art. 21.º Adstrita à secção administrativa funciona uma tesouraria, à qual compete:
 
 a) Efectuar os pagamentos e recebimentos;
 
@@ -390,7 +421,7 @@ c) Registar as folhas de cofre e remetê-las à contabilidade;
 
 d) Proceder ao balanço mensal da tesouraria.
 
-###### Art. 22.º A secção de aprovisionamento exerce as suas atribuições nos domínios de compras, gestão de stocks e património, competindo-lhe:
+Art. 22.º A secção de aprovisionamento exerce as suas atribuições nos domínios de compras, gestão de stocks e património, competindo-lhe:
 
 a) Proceder à prospecção de mercados, elaborando o respectivo processo de consultas;
 
@@ -430,7 +461,7 @@ s) Organizar os autos de abate e inutilização dos bens deteriorados e sem valo
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 23.º - 1 - Os SSUTAD arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 23.º - 1 - Os SSUTAD arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUTAD:
 
@@ -452,39 +483,39 @@ h) Quaisquer outras receitas que por lei ou a outro título lhes sejam atribuíd
 
 3 - As receitas referidas nas alíneas b) a h) serão entregues nos cofres do Estado e escrituradas em «Contas de ordem» no Orçamento do Estado, devendo ser movimentadas nos termos da lei geral aplicável.
 
-###### Art. 24.º - 1 - As disponibilidades dos SSUTAD serão depositadas na Caixa Geral de Depósitos, ou nas restantes instituições de crédito, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 24.º - 1 - As disponibilidades dos SSUTAD serão depositadas na Caixa Geral de Depósitos, ou nas restantes instituições de crédito, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos, devidamente legalizados.
 
-###### Art. 25.º Para a realização dos seus fins os SSUTAD administrarão os bens do domínio público a seu cargo.
+Art. 25.º Para a realização dos seus fins os SSUTAD administrarão os bens do domínio público a seu cargo.
 
-###### Art. 26.º A gestão económica e financeira dos SSUTAD será disciplinada pelos seguintes instrumentos de previsão:
+Art. 26.º A gestão económica e financeira dos SSUTAD será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividades financeiras, anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-###### Art. 27.º - 1 - Com base no programa de trabalho para cada ano económico o conselho administrativo dos SSUTAD promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+Art. 27.º - 1 - Com base no programa de trabalho para cada ano económico o conselho administrativo dos SSUTAD promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação e Cultura, após apreciação do conselho geral e do CASES, e ao visto do Ministro das Finanças nos prazos legais.
 
 3 - Os SSUTAD poderão submeter à aprovação superior no decurso de cada ano económico os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo, quer ainda para fins de alteração de rubricas, quer a ocorrer a despesas neles não previstas.
 
-###### Art. 28.º O conselho administrativo dos SSUTAD requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais que lhe estejam atribuídas no Orçamento do Estado e das constantes de contas de ordem.
+Art. 28.º O conselho administrativo dos SSUTAD requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais que lhe estejam atribuídas no Orçamento do Estado e das constantes de contas de ordem.
 
-###### Art. 29.º Os SSUTAD gozam da isenção de custas, encargos fiscais e licenças administrativas.
+Art. 29.º Os SSUTAD gozam da isenção de custas, encargos fiscais e licenças administrativas.
 
-###### Art. 30.º Os SSUTAD gozam das vantagens da Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.
+Art. 30.º Os SSUTAD gozam das vantagens da Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.
 
-###### Art. 31.º Nos contratos em que sejam outorgantes os SSUTAD servirá de oficial público o funcionário administrativo nomeado pelo Ministro da Educação e Cultura, sob proposta do presidente dos Serviços Sociais.
+Art. 31.º Nos contratos em que sejam outorgantes os SSUTAD servirá de oficial público o funcionário administrativo nomeado pelo Ministro da Educação e Cultura, sob proposta do presidente dos Serviços Sociais.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 32.º - 1 - Os SSUTAD dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 32.º - 1 - Os SSUTAD dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem poderá ser revisto o quadro do pessoal dos SSUTAD, por proposta do CASES, mediante portaria conjunta dos Ministros das Finanças e da Educação e Cultura e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 33.º O quadro do pessoal dos SSUTAD compreenderá os seguintes grupos profissionais:
+Art. 33.º O quadro do pessoal dos SSUTAD compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -498,7 +529,7 @@ e) Pessoal operário;
 
 f) Pessoal auxiliar.
 
-###### Art. 34.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 34.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior o funcionário:
 
@@ -516,21 +547,21 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 35.º As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
+Art. 35.º As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
 
-###### Art. 36.º O lugar de chefe de repartição será provido, por concurso, de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço, ou de entre diplomados com curso superior adequado e reconhecida competência para o desempenho das respectivas funções.
+Art. 36.º O lugar de chefe de repartição será provido, por concurso, de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço, ou de entre diplomados com curso superior adequado e reconhecida competência para o desempenho das respectivas funções.
 
-###### Art. 37.º As formas de recrutamento e regime de provimento para os lugares da carreira técnica superior são as previstas na lei geral.
+Art. 37.º As formas de recrutamento e regime de provimento para os lugares da carreira técnica superior são as previstas na lei geral.
 
-###### Art. 38.º As formas de recrutamento e regime de provimento do pessoal técnico são as previstas na lei geral.
+Art. 38.º As formas de recrutamento e regime de provimento do pessoal técnico são as previstas na lei geral.
 
-###### Art. 39.º As formas de recrutamento e regime de provimento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo são as previstas na lei geral.
+Art. 39.º As formas de recrutamento e regime de provimento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo são as previstas na lei geral.
 
-###### Art. 40.º - 1 - Os lugares de telefonista e de motorista são providos nos termos da lei geral.
+Art. 40.º - 1 - Os lugares de telefonista e de motorista são providos nos termos da lei geral.
 
 2 - O recrutamento, ingresso e acesso nos lugares de auxiliar administrativo far-se-ão nos termos da lei geral.
 
-###### Art. 41.º As carreiras de cozinheiro, cortador de carnes, empregado de bar/snack, operador de lavandaria, carpinteiro, fiel de armazém, operador de caixa, empregado de andar/quartos, costureira, auxiliar de alimentação e auxiliar de manutenção são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:
+Art. 41.º As carreiras de cozinheiro, cortador de carnes, empregado de bar/snack, operador de lavandaria, carpinteiro, fiel de armazém, operador de caixa, empregado de andar/quartos, costureira, auxiliar de alimentação e auxiliar de manutenção são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:
 
 a) O ingresso na categoria mais baixa da respectiva carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;
 
@@ -540,9 +571,9 @@ c) O cozinheiro principal será recrutado de entre cozinheiros de 1.ª classe co
 
 d) O recrutamento do encarregado de refeitório far-se-á de entre cozinheiros principais com, pelo menos, três anos de serviço na categoria e classificação de serviço não inferior a Bom ou, na sua falta, de entre cozinheiros de 1.ª classe com, pelo menos, seis anos de serviço na categoria e classificação não inferior a Bom.
 
-###### Art. 42.º O provimento do pessoal operário em lugares do quadro dos SSUTAD, bem como a progressão nas respectivas carreiras, far-se-á segundo o disposto na lei geral.
+Art. 42.º O provimento do pessoal operário em lugares do quadro dos SSUTAD, bem como a progressão nas respectivas carreiras, far-se-á segundo o disposto na lei geral.
 
-###### Art. 43.º Ao pessoal do serviço de alimentação compete, designadamente:
+Art. 43.º Ao pessoal do serviço de alimentação compete, designadamente:
 
 1) Aos cozinheiros:
 
@@ -590,7 +621,7 @@ c) Servir as refeições;
 
 d) Proceder à limpeza do seu local de trabalho e utensílios.
 
-###### Art. 44.º Compete aos empregados de andar/quartos:
+Art. 44.º Compete aos empregados de andar/quartos:
 
 a) Executar todas as tarefas relativas ao asseio e arranjo dos quartos, assim como dos corredores, acessos, locais de convívio e demais dependências dos alojamentos;
 
@@ -600,7 +631,7 @@ c) Recolher a roupa pessoal dos utentes das residências e assegurar o seu envio
 
 d) Colaborar no serviço de pequenos-almoços.
 
-###### Art. 45.º Compete aos operadores de lavandaria e costureiras:
+Art. 45.º Compete aos operadores de lavandaria e costureiras:
 
 a) Executar as tarefas de lavagem e tratamento de roupas, incluindo a preparação e funcionamento das máquinas de lavar;
 
@@ -610,7 +641,7 @@ c) Executar as tarefas de costura, conserto e aproveitamento das roupas;
 
 d) Manter a limpeza do seu local de trabalho e utensílios.
 
-###### Art. 46.º Compete aos operadores de caixa:
+Art. 46.º Compete aos operadores de caixa:
 
 a) Receber e vender senhas de refeição e extras;
 
@@ -620,7 +651,7 @@ c) Fazer entrega diária de todas as receitas relativas;
 
 d) Auxiliar na elaboração dos mapas de consumo do respectivo serviço.
 
-###### Art. 47.º Compete aos fiéis de armazém:
+Art. 47.º Compete aos fiéis de armazém:
 
 a) Receber, armazenar, conservar e distribuir os materiais e géneros alimentares necessários, arrumando-os convenientemente em locais apropriados;
 
@@ -628,7 +659,7 @@ b) Fornecer os produtos solicitados;
 
 c) Assegurar a limpeza do seu local de trabalho.
 
-###### Art. 48.º Aos encarregados responsáveis pelos vários sectores de alimentação e de alojamento compete, nomeadamente:
+Art. 48.º Aos encarregados responsáveis pelos vários sectores de alimentação e de alojamento compete, nomeadamente:
 
 a) Organizar, coordenar e orientar as áreas de actuação sob a sua responsabilidade;
 
@@ -640,7 +671,7 @@ d) Receber os produtos, conferindo as guias de remessa, verificar periodicamente
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 49.º - 1 - A integração em lugares do quadro anexo ao presente diploma do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 49.º - 1 - A integração em lugares do quadro anexo ao presente diploma do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou o agente já possui;
 
@@ -662,26 +693,26 @@ c) Para a categoria que resulte da aplicação da tabela de equivalências const
 
 8 - O pessoal não abrangido pelo artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e que esteja a prestar serviço nos SSUTAD à data da entrada em vigor do presente diploma transita para lugares do quadro anexo, de acordo com o disposto nas alíneas a), b) e c) do n.º 1, sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 50.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUTAD ao abrigo da legislação geral do trabalho, à data de entrada em vigor do presente diploma, opte pela não integração no quadro anexo a este decreto regulamentar será remunerado com vencimentos e outras regalias correspondentes às dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 50.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUTAD ao abrigo da legislação geral do trabalho, à data de entrada em vigor do presente diploma, opte pela não integração no quadro anexo a este decreto regulamentar será remunerado com vencimentos e outras regalias correspondentes às dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 51.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas do orçamento dos SSUTAD.
+Art. 51.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas do orçamento dos SSUTAD.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 32.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23000/29102918.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23000/29102918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23000/29102918.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 49.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23000/29102918.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23000/29102918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23000/29102918.pdf)

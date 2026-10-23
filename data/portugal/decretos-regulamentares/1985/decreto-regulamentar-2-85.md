@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1985-622286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e7fd99d733713dd1fc510c44222319fe15adf41681fa80a7f558fea1647262c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fbc5c818ea6bf7224171802ddf7900590e8f064f0bcb70874d514067a25cbb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Ovar
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:59Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +106,9 @@ Tendo em consideração o disposto no n.º 4 do artigo 30.º do Regulamento de E
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ou anteplanos de ampliação das infra-estruturas da linha do Norte, serão consideradas áreas non aedificandi as faixas de terreno confinantes com a linha férrea (à direita e à esquerda), conforme os limites e distâncias expressos nos desenhos n.os E-005 412, E-005 413, E-005 414, E-005 415, E-005 416, E-005 417, E-005 418, E-005 419, E-005 420, E-005 421, E-005 422, E-005 423, E-005 424, E-005 425, E-005 426, E-005 427, E-005 428 e E-005 429, anexos a este diploma e referidos ao eixo das entrevias actuais, também descritas no quadro anexo.
+Artigo 1.º Até à aprovação dos planos ou anteplanos de ampliação das infra-estruturas da linha do Norte, serão consideradas áreas non aedificandi as faixas de terreno confinantes com a linha férrea (à direita e à esquerda), conforme os limites e distâncias expressos nos desenhos n.os E-005 412, E-005 413, E-005 414, E-005 415, E-005 416, E-005 417, E-005 418, E-005 419, E-005 420, E-005 421, E-005 422, E-005 423, E-005 424, E-005 425, E-005 426, E-005 427, E-005 428 e E-005 429, anexos a este diploma e referidos ao eixo das entrevias actuais, também descritas no quadro anexo.
 
-###### Art. 2.º - 1 - A implantação de edifícios, arruamentos, passagens de nível ou quaisquer outros tipos de construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação do director-geral de Transportes Terrestres, sob parecer dos Caminhos de Ferro Portugueses.
+Art. 2.º - 1 - A implantação de edifícios, arruamentos, passagens de nível ou quaisquer outros tipos de construção na área referida no artigo anterior fica sujeita, caso a caso, a autorização e aprovação do director-geral de Transportes Terrestres, sob parecer dos Caminhos de Ferro Portugueses.
 
 2 - Quando se reconhecer que não há inconveniente para o interesse público ferroviário, será consentida vedação provisória pela linha que divide o terreno particular do chão do domínio público sem observância das distâncias referidas no artigo 1.º e respeitando-se tanto quanto possível a regularidade do alinhamento.
 
@@ -114,18 +124,18 @@ c) Renunciarem os proprietários a qualquer indemnização, no caso de futura ex
 
 5 - A renúncia assumida pelos proprietários nos termos da alínea c) do número anterior será sujeita a registo.
 
-###### Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos de projectadas ampliações.
+Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos de projectadas ampliações.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - João Rosado Correia.
 
-**Promulgado em 6 de Dezembro de 1984.**
+Promulgado em 6 de Dezembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Dezembro de 1984.**
+Referendado em 7 de Dezembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/00800/00450056.pdf))](https://files.diariodarepublica.pt/1s/1985/01/00800/00450056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/00800/00450056.pdf)

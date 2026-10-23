@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6584-(12) a 6584-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23601/0001200052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152-b/2017/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-b-2017-114337013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1e7a942a4d7a04fa6a8ba6ce3e1e0d675edff57ccce923e98f606ef826af3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91ba47dedb498911c6f227dd7533d57d79aa5908e74e3638a8fbebd28d26a514
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,45 +67,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Atividade Industrial
+- Açores
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Região Autónoma
+- Atividade Industrial
 - Auditoria
 - Autoridade Nacional
+- Avaliação de Impacte Ambiental
+- Câmara Municipal
+- Comissão CE
 - Comissão de Análise
 - Comissão de Avaliação de Impacte Ambiental
-- Obras Particulares
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comunicações Eletrónicas
+- Conselho Consultivo
+- Conselho Diretivo
 - Contra-ordenação
 - Definição de Competências
 - Direito de Participação
 - Fiscalização
-- Projeto de Investimento
-- Comissão CE
-- Comissão de Coordenação e Desenvolvimento Regional
+- Gestão do Ambiente
 - Hidrocarbonetos
-- Conselho Diretivo
-- Avaliação de Impacte Ambiental
 - Indústria
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Conselho Consultivo
-- Publicitação
 - Licenciamento
-- Obras Públicas
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Zona de Proteção
-- Política do Ambiente
 - Madeira.região Autónoma
-- Câmara Municipal
-- Açores
+- Obras Particulares
+- Obras Públicas
+- Política do Ambiente
+- Projeto de Investimento
+- Proteção do Ambiente
+- Publicitação
 - Rede Natura 2000
-- Agência Portuguesa do Ambiente
+- Região Autónoma
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:222583133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Atualizadas as taxas previstas no art. 49.º do Dec Lei 151-B/2013 de 31-out, na versão republicada pelo presente
+    diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31 nos termos do seu art. 245.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 49.º do Dec Lei 151-B/2013 de 31-out, na versão republicada pelo
+    presente diploma, pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27 nos termos do art.
+    241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -162,6 +175,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2017/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2017/06/02/p/dre
+- type: cites
+  target: pt:dre:106804082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107458720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70128402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0092
   label: null
@@ -171,15 +300,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 92
+  article_count: 62
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:07Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +387,9 @@ c) [...].
 
 8 - [Revogado].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -312,7 +443,9 @@ t) [Anterior alínea s).]
 
 u) [Anterior alínea t)].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A decisão de sujeição a AIA dos projetos submetidos a uma análise caso a caso, nos termos previstos na subalínea iii) da alínea b) do n.º 3, nas subalíneas ii) e iii) da alínea b) e alínea c) do n.º 4 e no n.º 5 do artigo 1.º, compete à entidade licenciadora ou competente para a autorização do projeto, a qual deve solicitar ao proponente, no prazo de cinco dias contados da correta instrução do requerimento de licenciamento ou autorização do projeto ou da alteração ou ampliação, a apresentação dos elementos identificados no anexo IV ao presente decreto-lei, do qual faz parte integrante.
 
@@ -340,7 +473,9 @@ a) As principais razões que a fundamentam, tendo como referência os critérios
 
 b) As características do projeto e/ou as medidas previstas para evitar ou prevenir o que, de outro modo, teria resultado em efeitos negativos significativos no ambiente, se aplicável, caso se conclua pela não necessidade de sujeição a AIA, as quais devem ser incluídas na licença a emitir pela entidade licenciadora ou competente para a autorização do projeto.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -362,7 +497,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -404,7 +541,9 @@ p) [...];
 
 q) [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -448,7 +587,9 @@ c) No caso do procedimento de verificação da conformidade ambiental do projeto
 
 7 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]:
 
@@ -478,7 +619,9 @@ h) [...].
 
 6 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A tramitação do procedimento de AIA, incluindo a fase de verificação da conformidade ambiental do projeto de execução, é efetuada nos termos do Regime de Licenciamento Único de Ambiente, aprovado pelo [Decreto-Lei n.º 75/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2015-67185043), de 11 de maio.
 
@@ -486,7 +629,9 @@ h) [...].
 
 3 - [Revogado].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -512,13 +657,17 @@ h) [...].
 
 12 - A análise da conformidade do EIA pode ser efetuada por entidade acreditada para o efeito, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas do ambiente e das tutelas dos projetos, devendo nesse caso o respetivo comprovativo de conformidade instruir o EIA, seguindo-se a apreciação técnica da CA referida no número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Após a emissão da decisão de conformidade do EIA prevista no artigo anterior, a autoridade de AIA promove, no prazo de cinco dias, a publicitação e a divulgação do procedimento de AIA nos termos dos artigos 28.º a 31.º, dando início à consulta pública, que decorre por um período de 30 dias.
 
 2 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -536,7 +685,9 @@ h) [...].
 
 8 - [Revogado].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A DIA pode ser favorável, favorável condicionada ou desfavorável, com fundamento na avaliação ponderada dos impactes ambientais associados às várias fases de desenvolvimento do projeto.
 
@@ -562,7 +713,9 @@ f) [...].
 
 6 - Nos casos em que a única objeção à emissão de decisão favorável seja a desconformidade ou incompatibilidade do projeto com planos ou programas territoriais, a autoridade de AIA emite uma DIA favorável condicionada à utilização dos procedimentos de dinâmica previstos no regime jurídico dos instrumentos de gestão territorial.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A DIA é emitida pela autoridade de AIA e notificada à entidade licenciadora ou competente para a autorização do projeto e ao respetivo proponente, salvo quanto a projetos em que a autoridade de AIA é simultaneamente proponente, caso em que é emitida pelo membro do Governo responsável pela área do ambiente.
 
@@ -586,7 +739,9 @@ c) Quando haja lugar à intervenção da entidade acreditada para verificação 
 
 8 - Nos casos previstos na parte final do n.º 1, a autoridade de AIA remete ao membro do Governo responsável pela área do ambiente a proposta de DIA até 10 dias antes do termo dos prazos fixados no presente artigo.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -604,7 +759,9 @@ c) Quando haja lugar à intervenção da entidade acreditada para verificação 
 
 8 - A autoridade de AIA ou a CA, considerando o previsto no n.º 5, e tendo em conta a análise técnica do RECAPE, do relatório da consulta pública e de outros elementos relevantes constantes do processo, elabora o parecer técnico final sobre a conformidade ambiental do projeto de execução e, quando essa tarefa recaia sobre a CA, remete-o à autoridade de AIA até 10 dias antes do termo do prazo previsto no n.º 7 do artigo seguinte.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -624,7 +781,9 @@ c) Quando haja lugar à intervenção da entidade acreditada para verificação 
 
 9 - No caso de deferimento tácito, a decisão da entidade licenciadora ou competente para a autorização do projeto indica as razões de facto e de direito que justificam a decisão, tendo em consideração o RECAPE e o projeto de execução, bem como os elementos referidos no n.º 8 do artigo anterior, quando disponíveis.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]:
 
@@ -636,7 +795,9 @@ b) Após notificação da decisão favorável sobre a conformidade ambiental do 
 
 3 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As medidas de minimização e de compensação ou programas de monitorização de uma DIA, ou de decisão sobre a conformidade ambiental do projeto de execução, podem ser alteradas sempre que haja motivo fundamentado ou circunstâncias que o justifiquem.
 
@@ -654,7 +815,9 @@ b) Após notificação da decisão favorável sobre a conformidade ambiental do 
 
 8 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -670,7 +833,9 @@ b) Após notificação da decisão favorável sobre a conformidade ambiental do 
 
 7 - [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - São de divulgação obrigatória no balcão único eletrónico, no prazo de cinco dias, os seguintes documentos:
 
@@ -708,7 +873,9 @@ n) [...].
 
 5 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -722,7 +889,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 33.º — Projetos com impactes em outros Estados-Membros da União Europeia
+Artigo 33.º
+
+Projetos com impactes em outros Estados-Membros da União Europeia
 
 1 - [...].
 
@@ -732,7 +901,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -740,7 +911,9 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A autoridade nacional de AIA assegura o cumprimento, junto da Comissão Europeia e nos prazos estabelecidos na Diretiva AIA, das respetivas obrigações de comunicação, designadamente no que respeita à experiência adquirida na aplicação deste regime, incluindo informação relativa a:
 
@@ -758,7 +931,9 @@ e) Estimativas gerais sobre o custo médio direto dos processos de AIA, incluind
 
 3 - Sem prejuízo do número anterior, as autoridades de AIA devem manter atualizada a informação sobre os procedimentos em curso no âmbito da aplicação do presente regime, publicitada na plataforma disponível no sítio na Internet da autoridade nacional de AIA, de modo a permitir o cumprimento das obrigações de comunicação mencionadas no n.º 1.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Para efeitos de determinação da coima aplicável às contraordenações ambientais, nos termos do disposto no artigo 21.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, que aprovou a lei-quadro das contraordenações ambientais, estas classificam-se em leves, graves e muito graves, correspondendo-lhes o montante das coimas previsto no artigo 22.º da referida lei.
 
@@ -784,15 +959,21 @@ f) [...].
 
 6 - A condenação pela prática das contraordenações ambientais previstas nos n.os 1 e 2 pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstrata aplicável.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 A entidade competente para a aplicação da coima pode proceder a apreensões cautelares e aplicar as sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 A afetação do produto das coimas resultante da aplicação das contraordenações ambientais previstas no artigo 39.º é feita nos termos dos artigos 70.º e 73.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [Revogado].
 
@@ -806,11 +987,15 @@ A afetação do produto das coimas resultante da aplicação das contraordenaç�
 
 6 - Sem prejuízo do disposto nos números anteriores, o proponente deve ter em conta, na informação a apresentar para efeitos de cumprimento das obrigações constantes no presente regime, e sempre que pertinente, os resultados disponíveis de outras avaliações de natureza ambiental.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Os prazos previstos no presente decreto-lei contam-se nos termos previstos no CPA.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo da sua adequação à especificidade regional, a introduzir através de decreto legislativo regional, cabendo a sua execução aos serviços competentes das respetivas administrações regionais.
 
@@ -848,7 +1033,9 @@ São alterados os artigos 33.º-M, 33.º-S e 33.º-T do [Decreto-Lei n.º 172/20
 
 3 - A licença de produção é emitida pela entidade licenciadora, condicionada à verificação da conformidade do projeto de execução com a respetiva DIA, nos termos do regime jurídico da avaliação de impacte ambiental (RJAIA), aprovado pelo [Decreto-Lei n.º 151-B/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-b-2013-513863), de 31 de outubro, no caso de a DIA a que se refere a alínea g) do n.º 3 do artigo 33.º-J ter sido emitida ainda em fase de estudo prévio ou anteprojeto.
 
-###### Artigo 33.º-S — [...]
+Artigo 33.º-S
+
+[...]
 
 1 - [...].
 
@@ -868,7 +1055,9 @@ São alterados os artigos 33.º-M, 33.º-S e 33.º-T do [Decreto-Lei n.º 172/20
 
 9 - [...].
 
-###### Artigo 33.º-T — [...]
+Artigo 33.º-T
+
+[...]
 
 1 - [Revogado].
 
@@ -906,15 +1095,15 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2018.
 
 Visto e aprovado em Conselho de Ministros de 16 de novembro de 2017. - Maria Manuel de Lemos Leitão Marques - Maria Teresa Gonçalves Ribeiro - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Fernando Manuel Ferreira Araújo - Paulo Alexandre dos Santos Ferreira - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 6 de dezembro de 2017.**
+Promulgado em 6 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de dezembro de 2017.**
+Referendado em 7 de dezembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -984,7 +1173,9 @@ g) Acumulação dos impactes com os de outros projetos existentes e/ou aprovados
 
 h) Possibilidade de redução do impacte de maneira eficaz.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 [...]
 
@@ -1032,7 +1223,9 @@ e) Descrição dos elementos da população e da saúde humana suscetíveis de s
 
 5 - Os critérios previstos no anexo III devem ser tomados em consideração aquando da compilação das informações previstas nos números anteriores, caso sejam aplicáveis face ao concreto projeto.
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 [...]
 
@@ -1086,7 +1279,9 @@ g) Das tecnologias e das substâncias utilizadas.
 
 14 - Lista de referência com uma discriminação das fontes utilizadas para as descrições e avaliações efetuadas.
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 [...]
 
@@ -2188,7 +2383,7 @@ d) 900 porcas reprodutoras.
 
 Projetos abrangidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23601/0001200052.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23601/0001200052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23601/0001200052.pdf)
 
 ## ANEXO III
 
@@ -2409,3 +2604,5 @@ p) Prazo para a emissão da DIA, no caso da consulta pública prevista no artigo
 q) Prazo para a emissão da decisão sobre a conformidade ambiental do projeto de execução, no caso da consulta pública prevista no n.º 6 do artigo 20.º;
 
 r) Indicação da possibilidade de impugnação administrativa, através de reclamação ou recurso hierárquico facultativo, nos termos do Código do Procedimento Administrativo, e contenciosamente, nos termos do Código de Processo dos Tribunais Administrativos, de qualquer decisão, ato ou omissão ao disposto no presente decreto-lei.
+
+110983003

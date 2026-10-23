@@ -46,40 +46,187 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1989-619145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed053c0039e083200fd94701c65b8c0c433fce2ef379c1327651b7eba055248b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8160561cdb61fba52150bc21c87421f9f487039a9f4e71b570cf74c95c237f01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Instituto da Vinha e do Vinho
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498983:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 13/91 - Diário da República
+    n.º 15/1991, Série I-B de 1991-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-1991-498983
+  date: '1991-01-18'
+- type: amended_by
+  target: pt:dre:598313:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 93/91 - Diário da República
+    n.º 95/1991, Série I-B de 1991-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/93-1991-598313
+  date: '1991-04-24'
+- type: amended_by
+  target: pt:dre:616851:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 96/91 - Diário da República
+    n.º 103/1991, Série I-B de 1991-05-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/96-1991-616851
+  date: '1991-05-06'
+- type: amended_by
+  target: pt:dre:288242:por
+  label: "Alterado quadro de pessoal, relativamente às carreiras de informática e de oficial administrativo, pela PORT.1034/91.09.10.1991.MF,\
+    \ DR.IS-B [232] de 09.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1034-1991-288242
+  date: '1991-10-09'
+- type: amended_by
+  target: pt:dre:591519:por
+  label: "Alterado o quadro de pessoal pelo DN.276/91.31.12.1991.MF, DR.IS-B [301] de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/276-1991-591519
+  date: '1991-12-31'
+- type: amended_by
+  target: pt:dre:175503:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de biblioteca e documentação, pela PORT.168/92.13.03.1992.MF,\
+    \ DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1992-175503
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:282765:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 135/92 - Diário da República
+    n.º 183/1992, Série I-B de 1992-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/135-1992-282765
+  date: '1992-08-10'
+- type: amended_by
+  target: pt:dre:628830:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 29/93 - Diário da República
+    n.º 56/1993, Série I-B de 1993-03-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-1993-628830
+  date: '1993-03-08'
+- type: amended_by
+  target: pt:dre:634686:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 38/93 - Diário da República
+    n.º 65/1993, Série I-B de 1993-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/38-1993-634686
+  date: '1993-03-18'
+- type: amended_by
+  target: pt:dre:632442:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 224/93 - Diário da República
+    n.º 200/1993, Série I-B de 1993-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/224-1993-632442
+  date: '1993-08-26'
+- type: amended_by
+  target: pt:dre:670717:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 318/93 - Diário da República
+    n.º 239/1993, Série I-B de 1993-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/318-1993-670717
+  date: '1993-10-12'
+- type: amended_by
+  target: pt:dre:668346:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 329/93 - Diário da República
+    n.º 240/1993, Série I-B de 1993-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/329-1993-668346
+  date: '1993-10-13'
+- type: amended_by
+  target: pt:dre:674612:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 366/93 - Diário da República
+    n.º 273/1993, Série I-B de 1993-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/366-1993-674612
+  date: '1993-11-22'
+- type: amended_by
+  target: pt:dre:674613:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 365/93 - Diário da República
+    n.º 273/1993, Série I-B de 1993-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/365-1993-674613
+  date: '1993-11-22'
+- type: amended_by
+  target: pt:dre:552322:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 382/93 - Diário da República
+    n.º 280/1993, Série I-B de 1993-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/382-1993-552322
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:167810:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 482/93 - Diário da República
+    n.º 300/1993, Série I-B de 1993-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/482-1993-167810
+  date: '1993-12-27'
+- type: amended_by
+  target: pt:dre:167816:por
+  label: Alterado o quadro de pessoal do Instituto da Vinha e do Vinho pelo(a) Despacho Normativo n.º 483/93 - Diário da República
+    n.º 300/1993, Série I-B de 1993-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/483-1993-167816
+  date: '1993-12-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:309352:por
+  label: Rectificado pela DECL.DD3847.1989.09.05.PCM DR.IS [226] DE 30/SET/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-309352
+  date: '1989-09-05'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, com excepção das disposições relativas à carreira de inspector vitivinícola, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:58Z'
   warnings: []
   errors: []
 ---
@@ -192,21 +339,21 @@ Presidência do Conselho de Ministros, 5 de Junho de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 19 de Julho de 1989.**
+Promulgado em 19 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Julho de 1989.**
+Referendado em 25 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA - I
 
 ## Anexo a que se refere o artigo 1º. do Decreto Regulamentar nº. 23 de 89
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18400/32163224.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18400/32163224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18400/32163224.pdf)
 
 MAPA - II
 
@@ -214,7 +361,7 @@ MAPA - II
 
 (Categorias e carreiras a extinguir, à medida que vagarem da base para o topo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18400/32163224.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18400/32163224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18400/32163224.pdf)
 
 MAPA III
 

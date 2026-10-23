@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2012/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2012-179072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6bdac2e103086e71c90a08724dde93ca5582bf244c6411e9188da4c3c6dbbfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 320f1bfa6c8f8d7a7e5bb8c3e84be5d7c8b871102ca47299fd20f4faef950484
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Infarmed
 - Contra-ordenação
 - Definição de Competências
 - Diretor
 - Farmacêutico
 - Farmácia de Oficina
 - Fiscalização
-- Medicamento
-- Transmissão da Propriedade
+- Infarmed
 - Licenciamento
+- Medicamento
 - Produto Farmacêutico
 - Regime Jurídico
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:888861493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257807:por
+  label: "Dada nova redação aos arts. 14º, 15º, 17º e 24º do Dec Lei 307/2007 de 31-ago, alterado e republicado pelo presente\
+    \ diploma, pela LEI.16/2013.08.02.2013.AR, DR.IS [28] de 08.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2013-257807
+  date: '2013-02-08'
+- type: amended_by
+  target: pt:dre:499269:por
+  label: "Dada nova redação aos arts. 6.º, 9.º, 20.º e 48.º e aditado o art. 9.º-A ao Dec Lei 307/2007 de 31-ago, alterado\
+    \ e republicado pelo presente diploma, pelo DEC LEI.128/2013.05.09.2013.MS, DR.IS [171] de 05.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2013-499269
+  date: '2013-09-05'
+- type: amended_by
+  target: pt:dre:164426:por
+  label: "Prorrogado por seis meses, a contar de 31.12.2013, o prazo previsto no n.º 3 do art. 59.º-A do Dec Lei 307/2007\
+    \ de 31-ago, alterado e republicado pelo presente diploma, pelo DEC LEI.167-D/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-d-2013-164426
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:56346571:por
+  label: Alterados os arts. 47º, 48º e 50º do Dec Lei 307/2007 de 31-ago, na redação do presente diploma, pelo(a) Lei n.º
+    51/2014 - Diário da República n.º 162/2014, Série I de 2014-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2014-56346571
+  date: '2014-08-25'
+- type: amended_by
+  target: pt:dre:75688299:por
+  label: Alterados, a partir de 08.12.2016, os arts. 12.º, 18.º, 19.º, 19.º-A, 20.º, 22.º, 25.º, 27.º, 30.º, 36.º, 38.º, 41.º,
+    44.º, 47.º-A, 53.º, 54.º e 59.º; e revogados, a partir de 08.12.2016, a al. c) do n.º 1 do art. 19.º, os n.ºs 4 e 5 do
+    art. 19.º-A, o n.º 2 do art. 38.º e a al. h) do n.º 1 do art. 47.º-A, todos do Dec Lei 307/2007 de 31-ago, com a redação
+    e republicação efetuadas pelo presente diploma, pelo(a) Decreto-Lei n.º 75/2016 - Diário da República n.º 214/2016, Série
+    I de 2016-11-08, que o republicou em anexo, na redação atual, determinando que para aqueles efeitos, onde se lê «INFARMED»
+    deve ler-se «INFARMED, I. P.».
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2016-75688299
+  date: '2016-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/actconst/612/2012/01/24/p/dre
   label: null
@@ -124,16 +159,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2011/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2011/06/16/p/dre
+- type: cites
+  target: pt:dre:144639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 105
+  article_count: 72
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:24Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +293,9 @@ Os artigos 4.º, 6.º, 8.º, 9.º, 12.º, 18.º a 23.º, 25.º, 28.º, 29.º, 33
 
 3 - São proibidos os atos ou acordos que violem ou conduzam à violação do princípio da livre escolha.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Exceto nos casos admitidos pelo estatuto da Ordem dos Farmacêuticos, as farmácias não podem recusar a dispensa de medicamento:
 
@@ -190,13 +307,17 @@ b) Prescrito em receita válida que lhes seja apresentada durante o horário de 
 
 3 - Na dispensa de medicamentos sujeitos a receita médica, as farmácias devem respeitar a prescrição médica, de acordo com a legislação em vigor.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
 2 - As farmácias disponibilizam aos utentes informação sobre o preço dos medicamentos, de acordo com a legislação em vigor.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo da possibilidade de apresentação do pedido por qualquer meio de comunicação, incluindo a página eletrónica na Internet de cada farmácia, a dispensa e entrega de medicamentos ao público só pode ser efetuada pelo pessoal da farmácia a que se referem os artigos 23.º e 24.º, nas instalações desta ou no domicílio do utente.
 
@@ -210,7 +331,9 @@ b) Prescrito em receita válida que lhes seja apresentada durante o horário de 
 
 6 - O disposto nos números anteriores é regulamentado por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +347,9 @@ c) As aquisições efetuadas ao abrigo da alínea c) do n.º 1 do artigo 92.º d
 
 3 - ...
 
-###### Artigo 18.º — Trespasse, cessão de exploração, sucessão mortis causa e outras situações transitórias
+Artigo 18.º
+
+Trespasse, cessão de exploração, sucessão mortis causa e outras situações transitórias
 
 1 - As farmácias não podem ser trespassadas nem a respetiva exploração ser cedida antes de decorridos cinco anos, a contar do dia da respetiva abertura ao público, na sequência de concurso público.
 
@@ -240,7 +365,9 @@ c) As aquisições efetuadas ao abrigo da alínea c) do n.º 1 do artigo 92.º d
 
 7 - Os atos, factos ou negócios jurídicos que impliquem alteração da propriedade da farmácia são comunicados ao INFARMED, pelo outorgante referido no alvará, ou pelo seu procurador, ou por qualquer interessado, no prazo de 30 dias a contar da respetiva ocorrência ou celebração, para efeitos de averbamento no alvará.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O outorgante referido no alvará, ou qualquer interessado, comunica ao INFARMED, no prazo de 30 dias, para efeito de averbamento no alvará, as seguintes situações:
 
@@ -252,7 +379,9 @@ c) Constituição, alteração ou extinção de ónus que recaiam sobre qualquer
 
 2 - É correspondentemente aplicável o preceituado nos n.os 5 a 7 do artigo anterior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A direção técnica da farmácia é assegurada, em permanência, durante o horário de trabalho, por farmacêutico diretor técnico, registado no INFARMED no prazo máximo de 10 dias após o início de funções, sem prejuízo do disposto no n.º 3.
 
@@ -274,7 +403,9 @@ d) Diretor ou responsável técnico, ou substituto deste, ao serviço de outra f
 
 6 - A proprietária deve assegurar a veracidade do registo referido no n.º 3.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Compete, em especial, ao diretor técnico:
 
@@ -300,13 +431,17 @@ j) ...
 
 2 - O diretor técnico pode ser coadjuvado por farmacêuticos, técnicos de farmácia e por pessoal devidamente habilitado, sob a sua direção e responsabilidade.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A cessação da função de diretor técnico deve ser comunicada ao INFARMED, pela proprietária da farmácia, para efeitos de registo.
 
 2 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Excetuando o disposto no artigo 57.º-A, as farmácias dispõem, pelo menos, de um diretor técnico e de outro farmacêutico.
 
@@ -314,7 +449,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O licenciamento de novas farmácias é precedido de um procedimento concursal que permita a pré-seleção dos candidatos que preencham os requisitos fixados no respetivo aviso de abertura.
 
@@ -328,7 +465,9 @@ j) ...
 
 6 - O INFARMED indefere os pedidos de emissão ou averbamento de alvará que não cumpram o preceituado no presente decreto-lei.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -350,7 +489,9 @@ f) ...
 
 4 - A informação a que se refere a alínea c) do n.º 1 deve estar iluminada durante a noite.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -362,7 +503,9 @@ f) ...
 
 5 - A transferência das instalações da farmácia para realização de obras, bem como a realização de obras, ampliação ou remodelação que impliquem a alteração da planta aprovada, depende de autorização do INFARMED, em termos a definir por regulamento deste.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - As farmácias podem fornecer ao público os seguintes produtos:
 
@@ -390,7 +533,9 @@ k) Produtos de conforto.
 
 2 - As farmácias não podem exportar medicamentos nem desenvolver atividade enquadrável no conceito de distribuição por grosso de medicamentos.
 
-###### Artigo 34.º — Aquisição e conservação
+Artigo 34.º
+
+Aquisição e conservação
 
 1 - As farmácias só podem adquirir medicamentos a fabricantes e distribuidores grossistas autorizados pelo INFARMED, salvo o preceituado nos artigos 80.º a 91.º e na alínea c) do n.º 1 do artigo 92.º do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 31 de agosto.
 
@@ -404,7 +549,9 @@ k) Produtos de conforto.
 
 6 - Aos medicamentos entregues pelos utentes nas farmácias aplica-se a segregação prevista no n.º 4.
 
-###### Artigo 35.º — Abastecimento de medicamentos
+Artigo 35.º
+
+Abastecimento de medicamentos
 
 1 - As farmácias devem dispor permanentemente dos três medicamentos a que se referem o n.º 2 do artigo 120.º-A do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de agosto, e o n.º 2 do artigo 3.º da [Lei n.º 14/2000](https://diariodarepublica.pt/dr/detalhe/lei/14-2000-336155), de 8 de Agosto, na redação dada a ambos pela [Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/lei/11-2012-542271), de 8 de março.
 
@@ -416,11 +563,15 @@ k) Produtos de conforto.
 
 5 - As farmácias detidas, exploradas ou geridas pela mesma pessoa singular, ou sociedade comercial, dentro dos limites previstos nos artigos 15.º e 17.º, podem fazer gestão conjunta de stocks e trocar medicamentos entre si.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 As farmácias podem prestar serviços farmacêuticos de promoção da saúde e do bem-estar dos utentes, nos termos a definir pela portaria do membro do Governo responsável pela área da saúde prevista na alínea f) do artigo 57.º
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +583,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -440,7 +593,9 @@ b) ...
 
 3 - Cessa igualmente o direito de reabrir a farmácia e é cassado o alvará, se o encerramento voluntário não tiver sido previamente comunicado, nos termos do artigo 39.º ou se tiver durado por mais de um ano.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Sem prejuízo de outras sanções que ao caso couberem, as farmácias, postos farmacêuticos móveis e postos de medicamentos podem ser encerrados pelo INFARMED quando não cumpram os requisitos de abertura e funcionamento, designadamente não disponham de alvará, ou o mesmo não contenha os averbamentos obrigatórios nos termos do presente decreto-lei, ou não disponham de diretor ou responsável técnico.
 
@@ -448,7 +603,9 @@ b) ...
 
 3 - O encerramento pode ser executado coercivamente pelo INFARMED quando a urgência do caso o justifique ou quando a proprietária não encerrar a farmácia depois de a obrigação de praticar tal ato lhe ser notificada, ficando, em ambos os casos, as despesas por conta da mesma.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Cada farmácia pode deter quatro postos farmacêuticos móveis.
 
@@ -460,7 +617,9 @@ b) ...
 
 5 - O regime do concurso e os requisitos de funcionamento dos postos farmacêuticos móveis são definidos por regulamento do INFARMED, publicado no Diário da República.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições do presente decreto-lei cabe ao INFARMED.
 
@@ -468,13 +627,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - As proprietárias das farmácias são responsabilizadas contraordenacionalmente pela prática das contraordenações previstas neste capítulo.
 
 2 - Podem ainda ser punidas como agentes outras pessoas, singulares ou coletivas, que pratiquem, por ação ou omissão, qualquer facto punível nos termos do presente decreto-lei.
 
-###### Artigo 47.º — Contraordenações leves
+Artigo 47.º
+
+Contraordenações leves
 
 1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação leve, punível com coima de (euro) 500 a (euro) 3740 ou de (euro) 500 a (euro) 20 000, consoante o agente seja pessoa singular ou coletiva:
 
@@ -498,7 +661,9 @@ i) A violação do disposto no artigo 37.º
 
 2 - A tentativa e a negligência são puníveis.
 
-###### Artigo 48.º — Contraordenações muito graves
+Artigo 48.º
+
+Contraordenações muito graves
 
 1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação punível com coima de (euro) 2000 a (euro) 3740 ou de (euro) 2000 a (euro) 44 890, consoante o agente seja pessoa singular ou coletiva:
 
@@ -536,7 +701,9 @@ b) As ações da sociedade comercial proprietária da farmácia, ou de sociedade
 
 3 - A tentativa e a negligência são puníveis.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 Podem ser aplicadas, em simultâneo com as coimas previstas nos artigos 47.º a 48.º, as seguintes sanções acessórias:
 
@@ -548,7 +715,9 @@ c) ...
 
 d) ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - O profissional de saúde que interfira na escolha do utente, em violação do disposto no n.º 2 do artigo 4.º, é punido com coima de (euro) 1500 a (euro) 3740.
 
@@ -558,13 +727,17 @@ d) ...
 
 4 - A tentativa e a negligência são puníveis.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - São nulos os negócios jurídicos celebrados contra o disposto no presente decreto-lei ou que produzam, ou possam produzir, um efeito prático idêntico ao que a lei quis proibir.
 
 2 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 O membro do Governo responsável pela área da saúde regulamenta, por portaria:
 
@@ -580,7 +753,9 @@ e) ...
 
 f) ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 O INFARMED assegura, no seu sítio na Internet, uma área destinada às comunicações, informações e pedidos das farmácias, designadamente os previstos nos artigos 8.º, 9.º, 12.º, 18.º a 20.º, 22.º, 31.º, 38.º, 39.º e 41.º»
 
@@ -602,7 +777,9 @@ Registo
 
 5 - O registo requerido após o decurso do prazo previsto no número anterior não prejudica os direitos entretanto adquiridos por terceiro de boa fé.
 
-###### Artigo 47.º-A — Contraordenações graves
+Artigo 47.º-A
+
+Contraordenações graves
 
 1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação grave, punível com coima de (euro) 1500 a (euro) 3740 ou de (euro) 1500 a (euro) 35 000, consoante o agente seja pessoa singular ou coletiva:
 
@@ -638,7 +815,9 @@ o) A inexistência de livro de reclamações, ou o não envio destas no prazo le
 
 2 - A tentativa e a negligência são puníveis.
 
-###### Artigo 57.º-A — Regime excecional de funcionamento
+Artigo 57.º-A
+
+Regime excecional de funcionamento
 
 1 - As farmácias cujo valor de faturação ao Serviço Nacional de Saúde (SNS) seja igual ou inferior a 60 % do valor da faturação média anual por farmácia ao SNS, no ano civil anterior, podem beneficiar de exceções que viabilizem a assistência e cobertura farmacêutica da população.
 
@@ -656,7 +835,9 @@ c) Redução do horário de funcionamento definido nos termos do artigo 30.º
 
 5 - As exceções referidas no n.º 2 aplicam-se, transitoriamente, no primeiro ano de atividade de uma farmácia aberta ao público na sequência de concurso público.
 
-###### Artigo 59.º-A — Farmácias do sector social da economia
+Artigo 59.º-A
+
+Farmácias do sector social da economia
 
 1 - O disposto no presente decreto-lei é aplicável às farmácias privativas que tenham sido abertas ao abrigo da 1.ª parte do n.º 4 da base ii da [Lei n.º 2125](https://diariodarepublica.pt/dr/detalhe/lei/2125-1965-238264), de 20 de março de 1965, com as adaptações decorrentes do facto de as mesmas apenas poderem fornecer medicamentos em condições especiais às pessoas que, nos termos dos estatutos ou regulamentos das entidades a que pertençam, tenham essa prerrogativa e nas condições ali expressamente estabelecidas.
 
@@ -686,15 +867,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de maio de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 23 de julho de 2012.**
+Promulgado em 23 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de julho de 2012.**
+Referendado em 26 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

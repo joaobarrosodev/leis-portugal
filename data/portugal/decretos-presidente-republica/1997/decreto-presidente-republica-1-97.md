@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/1/1997/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/1-1997-531999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432648256ac98978e301155c1067d09e4bda843ad4e3cf904c9b8a5fed2284c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10da8f4374ea4c014ffbf04f17c9d64fa057093b7909f97e4e10a7798cd6eab2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,68 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA Convencional
-- Armas e Munições
-- Proteção Civil
-- Convenção
-- Portugal
 - Armamento
-- ONU
-- Nova Iorque
+- Armas e Munições
+- Convenção
 - Doença
+- Nova Iorque
+- ONU
+- Portugal
+- Proteção Civil
 - Vítima de Guerra
 relationships:
 - type: amended_by
   target: pt:dre:628853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628853:por
+  label: "Aprovada a Emenda ao artigo i da Convenção sobre a proibição ou limitação do uso de certas armas convencionais que\
+    \ podem ser consideradas como produzindo efeitos traumáticos excessivos ou ferindo indiscriminadamente, ratificada pelo\
+    \ presente diploma, pela RES.54/2007.29.10.2007.AR, DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/54-2007-628853
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:628858:por
+  label: "Ratificada a Emenda ao artigo i da Convenção sobre a proibição ou limitação do uso de certas armas convencionais\
+    \ que podem ser consideradas como produzindo efeitos traumáticos excessivos ou ferindo indiscriminadamente, ratificada\
+    \ pelo pelo presente diploma, pelo DEC.116/2007.29.10.2007.PR, DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/116-2007-628858
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:628861:por
+  label: "Ratificado o Protocolo V à Convenção sobre a proibição ou limitação do uso de certas armas convencionais que podem\
+    \ ser consideradas como produzindo efeitos traumáticos excessivos ou ferindo indiscriminadamente, ratificada pelo presente\
+    \ diploma, pelo DEC.115/2007.29.10.2007.PR, DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/115-2007-628861
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:280953:por
+  label: "Tornado público ter Portugal efectuado uma objecção à reserva formulada pelos Estados Unidos da América, no momento\
+    \ do seu consentimento em ficar vinculado ao Protocolo sobre Armas Incendiárias (Protocolo III), no âmbito da Convenção\
+    \ sobre a Proibição ou Limitação do Uso de Certas Armas Convencionais Que Podem Ser Consideradas como Produzindo Efeitos\
+    \ Traumáticos Excessivos ou Ferindo Indiscriminadamente, aprovada para ratificação pela Res 1/97 de 13-Jan da AR, e ratificada\
+    \ pelo presente diploma, pelo AV.5/2011.27.01.2011.MNE, DR.IS [19] de 27.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5-2011-280953
+  date: '2011-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/1/1996/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/1/1996/01/02/p/dre
+- type: cites
+  target: pt:dre:621487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:29Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +137,16 @@ validation:
 
 de 13 de Janeiro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção sobre a Proibição ou Limitação do Uso de Certas Armas Convencionais Que Podem Ser Consideradas como Produzindo Efeitos Traumáticos Excessivos ou Ferindo Indiscriminadamente, assinada em Nova Iorque em 10 de Abril de 1981, incorporando os Protocolos I, II e III, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 1/96](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/1-1996-621487), em 27 de Setembro de 1996.
 
-**Assinado em 9 de Dezembro de 1996.**
+Assinado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Dezembro de 1996.**
+Referendado em 12 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

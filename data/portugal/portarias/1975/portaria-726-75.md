@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1975-311406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 916a454f8e9367e180c305fdd8a5f8eb9f5b88a724d0c2a4d3f95b7e6e67f8b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14f35aa86cd46edf86c329f4c833dbfc8ccc8071936f6d11fa611936dc2b8f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agricultor
+- Exploração Agrícola
+- Fertilizante
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:311810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312668:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:53Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ d) A área da exploração ou empresa agrícola de policultura, com aproveitamen
 
 2.º As quantidades máximas de adubos por hectare cultivado que cada beneficiário poderá adquirir são as equivalentes aos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/28200/19661966.pdf))](https://files.diariodarepublica.pt/1s/1975/12/28200/19661966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/28200/19661966.pdf)
 
 3.º Para os efeitos previstos no [Decreto-Lei n.º 606/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/606-1975-312668), de 3 de Novembro, a qualidade de beneficiário é certificada, no caso das unidades de produção geridas por trabalhadores, pelos centros regionais de reforma agrária e, no caso do pequeno e médio agricultor, pelas brigadas técnicas da Direcção-Geral dos Serviços Agrícolas ou pelas comissões liquidatárias dos grémios da lavoura.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 303/1974, 9º Suplemento, Série I de 1974-12-31
   number: '303'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 1670-(179) a 1670-(185)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf
 entry_into_force_dates: []
@@ -47,40 +47,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/873-1974-235970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b3d56415dfea76ad3ccbe1f97c6481dce869208fd49905620865e969924a580
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55bd84dcb04bbb05e71a11592cea1e2f844fe7175db4f2377c05d18e323203d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Marinha Mercante
+- Definição de Competências
+- Direcção Geral da Marinha do Comércio
+- Direcção Geral de Estudos Náuticos
+- Direcção Geral do Pessoal do MAR
+- Inspecção Geral de Navios
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:606572:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139073:por
+  label: Alterado o quadro de pessoal da Direcção-Geral do Pessoal do Mar constante do mapa II anexo pelo(a) Despacho Normativo
+    n.º 96/77 - Diário da República n.º 93/1977, Série I de 1977-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/96-1977-139073
+  date: '1977-04-21'
+- type: amended_by
+  target: pt:dre:229958:por
+  label: Alterado o quadro de pessoal da Inspecção-Geral de Navios constante do mapa IV anexo ao presente diploma, pela PORT.148-D/80.31.03.1980.PCM,
+    DR.IS [76]3ºSupl de 31.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-d-1980-229958
+  date: '1980-03-31'
+- type: amended_by
+  target: pt:dre:461827:por
+  label: "Alterado o quadro do pessoal da Direcção-Geral do Pessoal do Mar, pela PORT.720/80.25.09.1980.PCM, DR.IS [222] de\
+    \ 25.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1980-461827
+  date: '1980-09-25'
+- type: amended_by
+  target: pt:dre:462051:por
+  label: "Alterado o quadro da Inspecção-Geral de Navios, constante do mapa IV anexo ao presente diploma, pela PORT.816/80.13.10.1980.PCM,\
+    \ DR.IS [237] de 13.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/816-1980-462051
+  date: '1980-10-13'
+- type: amended_by
+  target: pt:dre:462577:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Estudos Náuticos, pela PORT.829/80.17.10.1980.PCM, DR.IS [241]\
+    \ de 17.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/829-1980-462577
+  date: '1980-10-17'
+- type: amended_by
+  target: pt:dre:457455:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Pessoal do Mar, pela PORT.924/80.04.11.1980.PCM, DR.IS [255] de\
+    \ 04.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/924-1980-457455
+  date: '1980-11-04'
+- type: amended_by
+  target: pt:dre:457604:por
+  label: "Alterado o quadro do pessoal da Direcção-Geral do Pessoal do Mar, pela PORT.939/80.07.11.1980.PCM, DR.IS [258] de\
+    \ 07.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/939-1980-457604
+  date: '1980-11-07'
+- type: amended_by
+  target: pt:dre:387988:por
+  label: "Alterado o quadro do pessoal da Direcção-Geral do Pessoal do Mar, pela PORT.287/81.23.03.1981.MFP, DR.IS [68] de\
+    \ 23.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/287-1981-387988
+  date: '1981-03-23'
+- type: amended_by
+  target: pt:dre:563781:por
+  label: "Substituídos os quadros de pessoal da Direcção-Geral dos Estudos Náuticos e da Direcção-Geral do Pessoal do Mar,\
+    \ pela PORT.854/81.25.09.1981.MFP, DR.IS [221] de 25.09.1981, nos seus anexos I e II \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-1981-563781
+  date: '1981-09-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA INSPECCAO-GERAL DE NAVIOS CONSTANTE DO MAPA IV ANEXO AO PRESENTE DIPLOMA, PELA PORT
+    963/81 DE 10-NOV DR.IS [259]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-11-10'
+- type: amended_by
+  target: pt:dre:606572:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Pessoal do Mar, pela PORT.412/82.1982.04.24.SEO-MF, DR.IS [95]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/412-1982-606572
+  date: '1982-04-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DA INSPECCAO-GERAL DE NAVIOS CONSTANTE DO MAPA IV ANEXO AO PRESENTE DIPLMA, PELA\
+    \ PORT 88/88 DE 09-FEV DR.IS [33] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-02-09'
+- type: cites
+  target: pt:dre:471517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622815:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:00Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +184,13 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e pelo Sec
 
 I) Conselho Superior de Marinha Mercante
 
-###### Artigo 1.º - 1. O Conselho Superior de Marinha Mercante é um organismo de carácter consultivo destinado a coadjuvar o Secretário de Estado da Marinha Mercante na resolução de problemas relativos à marinha mercante e na definição da política a adoptar para esse sector.
+Artigo 1.º - 1. O Conselho Superior de Marinha Mercante é um organismo de carácter consultivo destinado a coadjuvar o Secretário de Estado da Marinha Mercante na resolução de problemas relativos à marinha mercante e na definição da política a adoptar para esse sector.
 
 2. Ao Conselho Superior de Marinha Mercante cabe dar opinião ou emitir parecer sobre os assuntos que sejam submetidos à sua apreciação pelo Secretário de Estado da Marinha Mercante ou que entenda, por sua iniciativa, apreciar.
 
 3. O Conselho funciona na Secretaria de Estado da Marinha Mercante, na dependência directa do Secretário de Estado.
 
-###### Art. 2.º - 1. O Conselho Superior de Marinha Mercante terá a composição que for determinada por despacho do Secretário de Estado da Marinha Mercante, devendo, todavia, compreender a representação de:
+Art. 2.º - 1. O Conselho Superior de Marinha Mercante terá a composição que for determinada por despacho do Secretário de Estado da Marinha Mercante, devendo, todavia, compreender a representação de:
 
 a) Secretaria de Estado da Marinha Mercante;
 
@@ -129,11 +216,11 @@ j) Outras entidades ou actividades cuja participação seja considerada de inter
 
 3. O presidente do Conselho Superior de Marinha Mercante é designado por eleição entre os seus membros, aos quais cabe formular as regras de funcionamento do Conselho e o processo de deliberação a seguir.
 
-###### Art. 3.º Por cada sessão a que assistirem os membros do Conselho Superior de Marinha Mercante têm direito a um abono a fixar por despacho do Secretário de Estado da Marinha Mercante, de acordo com o Ministro das Finanças.
+Art. 3.º Por cada sessão a que assistirem os membros do Conselho Superior de Marinha Mercante têm direito a um abono a fixar por despacho do Secretário de Estado da Marinha Mercante, de acordo com o Ministro das Finanças.
 
 II) Direcção-Geral da Marinha de Comércio
 
-###### Art. 4.º - 1. São atribuições da Direcção-Geral da Marinha de Comércio a promoção do desenvolvimento e valorização dos transportes marítimos, o incremento da sua eficiência e da sua contribuição para o progresso económico, o estudo das possibilidades de participação e incentivação no comércio externo, além de outras que lhe sejam cometidas pelo Secretário de Estado da Marinha Mercante.
+Art. 4.º - 1. São atribuições da Direcção-Geral da Marinha de Comércio a promoção do desenvolvimento e valorização dos transportes marítimos, o incremento da sua eficiência e da sua contribuição para o progresso económico, o estudo das possibilidades de participação e incentivação no comércio externo, além de outras que lhe sejam cometidas pelo Secretário de Estado da Marinha Mercante.
 
 2. No âmbito das atribuições referidas no número anterior, compete, designadamente, à Direcção-Geral da Marinha de Comércio:
 
@@ -153,7 +240,7 @@ g) Cooperar com outros organismos nacionais e internacionais, no âmbito da sua 
 
 h) Aplicar ou propor a aplicação de penalidades previstas para infracções às disposições em vigor no domínio da marinha de comércio.
 
-###### Art. 5.º - 1. A Direcção-Geral da Marinha de Comércio compreende os seguintes serviços:
+Art. 5.º - 1. A Direcção-Geral da Marinha de Comércio compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Exploração, que compreende as Divisões de Transportes de Abastecimento, Transportes Internacionais e Assessoria Jurídica;
 
@@ -169,7 +256,7 @@ f) Repartição dos Serviços Administrativos.
 
 2. Junto da Direcção-Geral da Marinha de Comércio funciona o Fundo de Renovação da Marinha Mercante, que se rege por legislação especial.
 
-###### Art. 6.º - 1. À Direcção dos Serviços de Exploração compete:
+Art. 6.º - 1. À Direcção dos Serviços de Exploração compete:
 
 a) Promover a inscrição de proprietários, armadores e afretadores de navios de comércio e de agentes de navegação;
 
@@ -221,7 +308,7 @@ c) Elaborar publicações.
 
 III) Direcção-Geral do Pessoal do Mar
 
-###### Art. 7.º - 1. São atribuições da Direcção-Geral do Pessoal do Mar todas as que se relacionam com os assuntos do pessoal da marinha mercante e da marinha de recreio e, ainda, os relativos a todos os inscritos marítimos, salvo no que respeita à sua formação profissional.
+Art. 7.º - 1. São atribuições da Direcção-Geral do Pessoal do Mar todas as que se relacionam com os assuntos do pessoal da marinha mercante e da marinha de recreio e, ainda, os relativos a todos os inscritos marítimos, salvo no que respeita à sua formação profissional.
 
 2. No âmbito das atribuições referidas no número anterior, compete, designadamente, à Direcção-Geral do Pessoal do Mar ocupar-se de todos os assuntos relativos a:
 
@@ -241,7 +328,7 @@ g) Coordenação do funcionamento das delegações da marinha mercante em matér
 
 h) Elaboração de estudos e propostas de legislação referentes ao pessoal do mar e aos organismos que tenham por competência a execução dessa legislação.
 
-###### Art. 8.º A Direcção-Geral do Pessoal do Mar compreende os seguintes serviços:
+Art. 8.º A Direcção-Geral do Pessoal do Mar compreende os seguintes serviços:
 
 a) Direcção dos Serviços do Pessoal do Mar;
 
@@ -251,7 +338,7 @@ c) Direcção dos Serviços de Saúde e Higiene Marítima;
 
 d) Repartição dos Serviços Administrativos.
 
-###### Art. 9.º - 1. À Direcção dos Serviços do Pessoal do Mar compete superintender nos seguintes assuntos:
+Art. 9.º - 1. À Direcção dos Serviços do Pessoal do Mar compete superintender nos seguintes assuntos:
 
 a) Inscrição marítima e registo de armadores;
 
@@ -299,11 +386,11 @@ e) Doença e acidentes no trabalho.
 
 4. À Repartição dos Serviços Administrativos compete executar as actividades específicas dos sectores de secretaria, contabilidade e património e pessoal.
 
-###### Art. 10.º As taxas e emolumentos devidos pelos serviços prestados pelos organismos desta Direcção-Geral serão fixados em tabela a aprovar pelo Secretário de Estado da Marinha Mercante, com o acordo do Ministro das Finanças.
+Art. 10.º As taxas e emolumentos devidos pelos serviços prestados pelos organismos desta Direcção-Geral serão fixados em tabela a aprovar pelo Secretário de Estado da Marinha Mercante, com o acordo do Ministro das Finanças.
 
 IV) Direcção-Geral dos Estudos Náuticos
 
-###### Art. 11.º - 1. São atribuições da Direcção-Geral dos Estudos Náuticos todas as que respeitem a assuntos relativos aos estudos náuticos.
+Art. 11.º - 1. São atribuições da Direcção-Geral dos Estudos Náuticos todas as que respeitem a assuntos relativos aos estudos náuticos.
 
 2. No âmbito das atribuições referidas no número anterior, compete, designadamente, à Direcção-Geral dos Estudos Náuticos:
 
@@ -313,7 +400,7 @@ b) Superintender na criação e funcionamento dos estabelecimentos de ensino ná
 
 c) Superintender na constituição e actividade dos centros de estudo e investigação das matérias ligadas à ciência e ensino náuticos.
 
-###### Art. 12.º - 1. A Direcção-Geral dos Estudos Náuticos dispõe dos seguintes serviços:
+Art. 12.º - 1. A Direcção-Geral dos Estudos Náuticos dispõe dos seguintes serviços:
 
 a) Gabinete de Estudos e Coordenação Escolar, que compreende o Centro de Apoio à Telescola em Navios da Marinha Mercante e o Centro de Formação Permanente;
 
@@ -337,7 +424,7 @@ f) Associação de alunos;
 
 g) Outros elementos a convocar pelo director-geral.
 
-###### Art. 13.º - 1. Ao Gabinete de Estudos e Coordenação Escolar compete:
+Art. 13.º - 1. Ao Gabinete de Estudos e Coordenação Escolar compete:
 
 a) Estudar programas de apoio ao ensino da Telescola, visando a elevação do nível cultural e profissional do pessoal do mar;
 
@@ -363,7 +450,7 @@ c) Propor que sejam fixados aos alunos subsídios anuais para atender, prioritar
 
 V) Inspecção-Geral de Navios
 
-###### Art. 14.º - 1. São atribuições da Inspecção-Geral de Navios todas as que se relacionam com os aspectos técnicos relativos ao material das marinhas mercante e de recreio ou com a segurança das pessoas e bens embarcados, exercendo-se igualmente em toda a actividade da produção dos estaleiros na construção e reparação naval de embarcações ou órgãos para embarcações de ou para registo em portos nacionais ou na construção e reparação de embarcações ou órgãos de embarcações nacionais ou estrangeiras.
+Art. 14.º - 1. São atribuições da Inspecção-Geral de Navios todas as que se relacionam com os aspectos técnicos relativos ao material das marinhas mercante e de recreio ou com a segurança das pessoas e bens embarcados, exercendo-se igualmente em toda a actividade da produção dos estaleiros na construção e reparação naval de embarcações ou órgãos para embarcações de ou para registo em portos nacionais ou na construção e reparação de embarcações ou órgãos de embarcações nacionais ou estrangeiras.
 
 2. No âmbito das atribuições referidas no número anterior, compete, designadamente, à Inspecção-Geral de Navios ocupar-se dos assuntos relacionados com:
 
@@ -395,7 +482,7 @@ n) Estaleiros;
 
 o) Obras portuárias, no que se refere à segurança da navegação.
 
-###### Art. 15.º A Inspecção-Geral de Navios compreende os seguintes serviços:
+Art. 15.º A Inspecção-Geral de Navios compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Registo e Propriedade, que compreende as Divisões de Registo e de Arqueação;
 
@@ -407,7 +494,7 @@ d) Direcção dos Serviços de Legislação e Estudos, que compreende as Divisõ
 
 e) Repartição dos Serviços Administrativos.
 
-###### Art. 16.º - 1. À Direcção dos Serviços de Registo e Propriedade competem os seguintes assuntos:
+Art. 16.º - 1. À Direcção dos Serviços de Registo e Propriedade competem os seguintes assuntos:
 
 a) Registo;
 
@@ -509,13 +596,13 @@ i) Documentação.
 
 5. À Repartição dos Serviços Administrativos compete executar as actividades específicas dos sectores de secretaria, pessoal, contabilidade e património.
 
-###### Art. 17.º - 1. Os serviços de inspecção e vistorias serão executados de acordo com o Regulamento de Vistorias a aprovar por portaria do Secretário de Estado da Marinha Mercante.
+Art. 17.º - 1. Os serviços de inspecção e vistorias serão executados de acordo com o Regulamento de Vistorias a aprovar por portaria do Secretário de Estado da Marinha Mercante.
 
 2. Pelos serviços de inspecção e vistorias, nos quais participa todo o pessoal da Inspecção-Geral de Navios na medida das necessidades e conforme for decidido pelo inspector-geral, são cobradas receitas que, na parte devida, se destinam a emolumentos pessoais a atribuir aos funcionários que nelas participam, de acordo com as normas legais em vigor e com base na tabela de tarifas que for estabelecida de acordo com o Regulamento de Vistorias e as exigências das convenções internacionais em vigor.
 
 VI) Disposições comuns
 
-###### Art. 18.º - 1. São aprovados os quadros de pessoal constantes dos mapas anexos a esta portaria e que dela fazem parte integrante.
+Art. 18.º - 1. São aprovados os quadros de pessoal constantes dos mapas anexos a esta portaria e que dela fazem parte integrante.
 
 2. Para a admissão nos lugares abaixo designados serão exigíveis as seguintes habilitações mínimas, ou outras equivalentes ou que vierem a corresponder-lhes:
 
@@ -539,7 +626,7 @@ g) Operador-chefe de máquinas auxiliares e operador de máquinas auxiliares: ci
 
 5. Em casos excepcionais, a estabelecer caso por caso por despacho do Secretário de Estado da Marinha Mercante devidamente justificado, podem aquelas habilitações ser substituídas por outras escolares ou profissionais adequadas à natureza do lugar a preencher.
 
-###### Art. 19.º - 1. São preenchidos por escolha do Secretário de Estado da Marinha Mercante os seguintes lugares das Direcções-Gerais da Marinha de Comércio, do Pessoal do Mar, dos Estudos Náuticos e da Inspecção-Geral de Navios:
+Art. 19.º - 1. São preenchidos por escolha do Secretário de Estado da Marinha Mercante os seguintes lugares das Direcções-Gerais da Marinha de Comércio, do Pessoal do Mar, dos Estudos Náuticos e da Inspecção-Geral de Navios:
 
 a) Directores-gerais e inspector-geral: em comissão de serviço, pelo período de três anos, sucessivamente renovável, podendo o Secretário de Estado dar a comissão por finda a todo o tempo;
 
@@ -549,9 +636,9 @@ b) Inspectores superiores, adjuntos do inspector-geral, inspectores-chefes e dir
 
 3. Os directores-gerais e o inspector-geral são substituídos nas suas faltas e impedimentos pelo director de serviços que designarem.
 
-###### Art. 20.º As direcções-gerais e a Inspecção-Geral de Navios da Secretaria de Estado da Marinha Mercante poderão contratar pessoal além do quadro ou ajustar com entidades ou indivíduos a elas estranhos a realização de estudos ou trabalhos e a elaboração de pareceres, projectos, inquéritos ou outros trabalhos de carácter técnico ou económico, em regime de prestação eventual de serviços ou tarefa.
+Art. 20.º As direcções-gerais e a Inspecção-Geral de Navios da Secretaria de Estado da Marinha Mercante poderão contratar pessoal além do quadro ou ajustar com entidades ou indivíduos a elas estranhos a realização de estudos ou trabalhos e a elaboração de pareceres, projectos, inquéritos ou outros trabalhos de carácter técnico ou económico, em regime de prestação eventual de serviços ou tarefa.
 
-###### Art. 21.º - 1. As Direcções-Gerais da Marinha de Comércio, do Pessoal do Mar e dos Estudos Náuticos e a Inspecção-Geral de Navios gozam de autonomia administrativa, com os efeitos consagrados na lei geral, e dispõem de um conselho administrativo constituído pelo director-geral ou inspector-geral, pelo director de serviços designado como seu substituto legal, nos termos do n.º 3 do artigo 19.º, e pelo chefe da Repartição dos Serviços Administrativos.
+Art. 21.º - 1. As Direcções-Gerais da Marinha de Comércio, do Pessoal do Mar e dos Estudos Náuticos e a Inspecção-Geral de Navios gozam de autonomia administrativa, com os efeitos consagrados na lei geral, e dispõem de um conselho administrativo constituído pelo director-geral ou inspector-geral, pelo director de serviços designado como seu substituto legal, nos termos do n.º 3 do artigo 19.º, e pelo chefe da Repartição dos Serviços Administrativos.
 
 2. Não existindo titulares naqueles lugares, o conselho administrativo será integrado pelo director-geral ou inspector-geral e por dois directores de serviços.
 
@@ -559,17 +646,17 @@ b) Inspectores superiores, adjuntos do inspector-geral, inspectores-chefes e dir
 
 VII) Disposições finais e transitórias
 
-###### Art. 22.º Sem prejuízo da regulamentação que vier a ser estabelecida para as actuais capitanias e delegações marítimas que funcionam, nos termos do artigo 6.º do [Decreto-Lei n.º 256/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1974-622815), de 15 de Junho, como órgãos externos da Secretaria de Estado da Marinha Mercante, as direcções-gerais e a Inspecção-Geral de Navios desta Secretaria de Estado exercem, no respectivo âmbito de competência, a coordenação desses órgãos externos ou de outros que vierem a ser criados em sua substituição, os quais executarão as directrizes e instruções que daqueles órgãos superiores emanarem.
+Art. 22.º Sem prejuízo da regulamentação que vier a ser estabelecida para as actuais capitanias e delegações marítimas que funcionam, nos termos do artigo 6.º do [Decreto-Lei n.º 256/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1974-622815), de 15 de Junho, como órgãos externos da Secretaria de Estado da Marinha Mercante, as direcções-gerais e a Inspecção-Geral de Navios desta Secretaria de Estado exercem, no respectivo âmbito de competência, a coordenação desses órgãos externos ou de outros que vierem a ser criados em sua substituição, os quais executarão as directrizes e instruções que daqueles órgãos superiores emanarem.
 
-###### Art. 23.º Os órgãos dependentes das direcções-gerais e da Inspecção-Geral de Navios da Secretaria de Estado da Marinha Mercante reger-se-ão por regulamentos internos aprovados por despacho do Secretário de Estado, sob proposta do respectivo director-geral ou inspector-geral.
+Art. 23.º Os órgãos dependentes das direcções-gerais e da Inspecção-Geral de Navios da Secretaria de Estado da Marinha Mercante reger-se-ão por regulamentos internos aprovados por despacho do Secretário de Estado, sob proposta do respectivo director-geral ou inspector-geral.
 
-###### Art. 24.º Enquanto não estiver concluído o refeitório projectado para as escolas dependentes da Direcção-Geral dos Estudos Náuticos, o Secretário de Estado da Marinha Mercante poderá, de acordo com o Ministro das Finanças, fixar, por portaria, um subsídio para alimentação a alunos e outro pessoal da Escola Náutica e da Direcção-Geral de Estudos Náuticos e aos alunos que frequentam a Escola de Mestrança e Marinhagem em regime de internato, monitores e demais pessoal.
+Art. 24.º Enquanto não estiver concluído o refeitório projectado para as escolas dependentes da Direcção-Geral dos Estudos Náuticos, o Secretário de Estado da Marinha Mercante poderá, de acordo com o Ministro das Finanças, fixar, por portaria, um subsídio para alimentação a alunos e outro pessoal da Escola Náutica e da Direcção-Geral de Estudos Náuticos e aos alunos que frequentam a Escola de Mestrança e Marinhagem em regime de internato, monitores e demais pessoal.
 
-###### Art. 25.º Os encargos resultantes da execução da presente portaria não poderão exceder, no ano de 1975, as verbas inscritas no orçamento dos respectivos serviços.
+Art. 25.º Os encargos resultantes da execução da presente portaria não poderão exceder, no ano de 1975, as verbas inscritas no orçamento dos respectivos serviços.
 
-###### Art. 26.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Marinha Mercante.
+Art. 26.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 27.º Este diploma entra em vigor em 1 de Janeiro de 1975.
+Art. 27.º Este diploma entra em vigor em 1 de Janeiro de 1975.
 
 Ministérios das Finanças e do Equipamento Social e do Ambiente, 31 de Dezembro de 1974. - O Ministro das Finanças, José da Silva Lopes. - O Secretário de Estado da Marinha Mercante, José Carlos Gonçalves Viana.
 
@@ -577,13 +664,13 @@ MAPA I
 
 Direcção-Geral da Marinha de Comércio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
 
 MAPA II
 
 Direcção-Geral do Pessoal do Mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
 
 Nota. - Ao funcionário que desempenhar as funções de secretário do director-geral será atribuída a gratificação mensal de 500$00.
 
@@ -591,12 +678,12 @@ MAPA III
 
 Direcção-Geral dos Estudos Náuticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
 
 MAPA IV
 
 Inspecção-Geral de Navios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30309/01790185.pdf)
 
-**O Ministro das Finanças, José da Silva Lopes. - O Secretário de Estado da Marinha Mercante, José Carlos Gonçalves Viana.**
+O Ministro das Finanças, José da Silva Lopes. - O Secretário de Estado da Marinha Mercante, José Carlos Gonçalves Viana.

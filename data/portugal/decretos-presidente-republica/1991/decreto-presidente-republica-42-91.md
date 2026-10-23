@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/42/1991/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/42-1991-674433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:10:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fcccaf837bb71633243d97620b84895b09f5a4083d2952ff952bc5423bad5ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96dc1c7666df30ade75f8574722967cf41e9ad9a2c2376bf2068c247d5c11d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reino Unido
 - Convenção
 - Portugal
+- Reino Unido
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/25/1991/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/25/1991/08/17/p/dre
+- type: cites
+  target: pt:dre:674429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:10:44Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +97,16 @@ validation:
 
 de 17 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Especial por Troca de Notas, concluído em Lisboa em 4 de Julho de 1990, entre o Governo da República Portuguesa e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte para Supressão do artigo 19.º do Tratado Luso-Britânico de Comércio e Navegação de 12 de Agosto de 1914, aprovado pela [Resolução da Assembleia da República n.º 25/91](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/25-1991-674429), em 6 de Junho de 1991.
 
-**Assinado em 4 de Agosto de 1991.**
+Assinado em 4 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Agosto de 1991.**
+Referendado em 7 de Agosto de 1991.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

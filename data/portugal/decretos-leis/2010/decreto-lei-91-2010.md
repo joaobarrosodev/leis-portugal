@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/14100/0279502796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2010/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2010-334117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8e57a6659528cefc13413b6c19e173f5f521b9b729251293b0f17e5387a74d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 226fc2c6e7c1530b25e62200fcf719c0ddd514c315afa993118a63fca8c031cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ALTO Comissário da Saúde
-- Coordenador Nacional
 - ALTO Comissariado da Saúde
 - ALTO Comissário Adjunto da Saúde
-- Orgânica
+- ALTO Comissário da Saúde
+- Coordenador Nacional
 - Ministério da Saúde
+- Orgânica
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:543721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Saúde dos serviços, organismos e entidades identificados no Dec lei\
+    \ 212/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 18º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2006/10/27/p/dre
   label: null
@@ -92,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/234/2008/12/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234/2008/12/02/p/dre
+- type: cites
+  target: pt:dre:440817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638528:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145186:por
+  label: "Revogado a partir de 03.01.2012., o Dec Lei 212/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.124/2011.29.12.2011.MS,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: repealed_by
+  target: pt:dre:543721:por
+  label: "Revogado, a partir de 01.03.2012, o Dec Lei 218/2007, de 29-maio, na redacção do presente diploma, pelo DEC LEI.27/2012.08.02.2012.MS,\
+    \ DR.IS [28] de 08.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2012-543721
+  date: '2012-02-08'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:07Z'
   warnings: []
   errors: []
 ---
@@ -180,11 +211,15 @@ g) ...
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O ACS é dirigido por um alto-comissário, coadjuvado por um alto-comissário-adjunto.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +227,9 @@ O ACS é dirigido por um alto-comissário, coadjuvado por um alto-comissário-ad
 
 3 - O alto-comissário aufere a remuneração correspondente a subsecretário de Estado e o alto-comissário-adjunto a correspondente a titulares de cargos de direcção superior do 1.º grau.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Ao ACS compete acompanhar e prestar o apoio técnico, administrativo, financeiro e logístico à coordenação nacional na definição e no desenvolvimento de programas nacionais, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.
 
@@ -210,12 +247,12 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 13 de Julho de 2010.**
+Promulgado em 13 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Julho de 2010.**
+Referendado em 16 de Julho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

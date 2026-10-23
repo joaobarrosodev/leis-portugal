@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24208-1969-199086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfe88f92b5259ef8236c8eb73b6100d31fa2cf5c7e8ffcadb3f247ca03923ad9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3ffdc5f577947754a3d03e52972a869e6e5ce04d29643525d55310d82089552
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Avaliação de Conhecimentos
+- Instituto de Meios Audiovisuais de Educação
+- Pessoal Docente
+- Prestação de Serviços
+- Propinas
+- Telescola
 relationships:
 - type: amended_by
   target: pt:dre:388388:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:262813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525626:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307220:por
+  label: Revogado, o n.º 1.º da presente portaria, pelo(a) Portaria n.º 572/75 - Diário do Governo n.º 219/1975, Série I de
+    1975-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-1975-307220
+  date: '1975-09-22'
+- type: repealed_by
+  target: pt:dre:388388:por
+  label: "Revogada a Portaria 22701, de 02 de Junho de 1967, na redacção do presente diploma, pela PORT.262/81.12.03.1981.MFP,\
+    \ DR.IS [59] de 12.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1981-388388
+  date: '1981-03-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:30Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +132,13 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Edu
 
 I) Receitas
 
-###### Artigo 1.º - 1. É fixada em 80$00 a propina a pagar por cada aluno para admissão ao exame final do Ciclo Preparatório TV.
+Artigo 1.º - 1. É fixada em 80$00 a propina a pagar por cada aluno para admissão ao exame final do Ciclo Preparatório TV.
 
 2. Os alunos admitidos à segunda chamada pagarão, além da propina fixada no número anterior, uma propina suplementar do mesmo quantitativo.
 
 3. Aquelas importâncias serão entregues, em numerário, juntamente com o boletim a que se refere o artigo 5.º da [Portaria n.º 22643](https://diariodarepublica.pt/dr/detalhe/portaria/22643-1967-510038), de 21 de Abril de 1967.
 
-###### Art. 2.º Pela passagem de certidões e diplomas respeitantes ao Ciclo Preparatório TV são devidos os seguintes selos e emolumentos, além do papel selado dos requerimentos e das certidões:
+Art. 2.º Pela passagem de certidões e diplomas respeitantes ao Ciclo Preparatório TV são devidos os seguintes selos e emolumentos, além do papel selado dos requerimentos e das certidões:
 
 a) Selos:
 
@@ -117,11 +152,11 @@ Por cada certidão de frequência ou de exame final ... 5$00
 
 Por cada diploma de exame final ... 10$00
 
-###### Art. 3.º As propinas e emolumentos previstos nos artigos anteriores constituem receitas do Instituto de Meios Áudio-Visuais de Educação, em conformidade com o disposto no artigo 17.º, alínea f), do [Decreto-Lei n.º 48962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48962-1969-525626), de 14 de Abril de 1969.
+Art. 3.º As propinas e emolumentos previstos nos artigos anteriores constituem receitas do Instituto de Meios Áudio-Visuais de Educação, em conformidade com o disposto no artigo 17.º, alínea f), do [Decreto-Lei n.º 48962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48962-1969-525626), de 14 de Abril de 1969.
 
 II) Despesas
 
-###### Art. 4.º Pelo serviço de exames finais do Ciclo Preparatório TV serão abonadas as seguintes importâncias:
+Art. 4.º Pelo serviço de exames finais do Ciclo Preparatório TV serão abonadas as seguintes importâncias:
 
 a) 500$00 por cada ponto de exame a cada um dos professores incumbidos da sua elaboração;
 
@@ -135,10 +170,10 @@ e) 2$50 ao delegado do júri a que se refere o artigo 7.º do mesma portaria, po
 
 f) 5$00 a cada professor, por cada prova que apreciar, salvo quanto aos professores afectos ao serviço de contrôle e verificação de provas no Instituto ou na Telescola.
 
-###### Art. 5.º - 1. Os professores encarregados do serviço de exames têm direito, nos termos da lei, ao abono das despesas de transporte e de ajudas de custo quando devam deslocar-se da sua residência oficial.
+Art. 5.º - 1. Os professores encarregados do serviço de exames têm direito, nos termos da lei, ao abono das despesas de transporte e de ajudas de custo quando devam deslocar-se da sua residência oficial.
 
 2. O disposto no número anterior é extensivo aos monitores dos postos de recepção que também sejam designados para colaborar no serviço de exames, sendo as suas ajudas de custo as correspondentes ao grupo N a T da tabela a que se refere a [Portaria n.º 23745](https://diariodarepublica.pt/dr/detalhe/portaria/23745-1968-262813), de 4 de Dezembro de 1968.
 
-###### Art. 6.º As despesas resultantes da realização dos exames do Ciclo Preparatório TV constituem encargo do Instituto de Meios Áudio-Visuais de Educação.
+Art. 6.º As despesas resultantes da realização dos exames do Ciclo Preparatório TV constituem encargo do Instituto de Meios Áudio-Visuais de Educação.
 
 Ministérios das Finanças e da Educação Nacional, 30 de Julho de 1969. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Educação Nacional, José Hermano Saraiva.

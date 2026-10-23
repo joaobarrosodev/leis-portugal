@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/273/2007/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2007-636406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12eb0d73c5ab1ad21d68770a55ac2371a0d2b8d4bd7ee37d68e40fa2489b816c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d5f3f790508fdae5d641ea57f61bb0ba276c63a26288c0302477b4d14ed0e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,35 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Gestão Financeira
+- Conselho Consultivo
 - Definição de Competências
 - Denominação de Instituição
-- Instituto de Gestão do Crédito Público
 - Dívida Pública
 - Estatuto
 - Fundo de Regularização da Dívida Pública
-- Gestão do Património
-- Ministro das Finanças
-- Conselho Consultivo
-- Instituto de Gestão da Tesouraria e do Crédito Público
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Instituto de Gestão da Tesouraria e do Crédito Público
+- Instituto de Gestão do Crédito Público
+- Ministro das Finanças
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:174556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689576:por
+  label: "Alterado o art. 6.º dos Estatutos do Instituto de Gestão do Crédito Público, I. P., aprovados pelo Dec Lei 160/96,\
+    \ de 04-Set, na redacção do presente diploma, pelo DEC LEI.69-A/2009.24.03.2009.MFAP, DR.IS [58-Supl] de 24.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-2009-689576
+  date: '2009-03-24'
+- type: amends
+  target: pt:numero:decreto-regulamentar:21/2007
+  label: "Altera os artigos 2.º e 6.º e o mapa anexo ao Decreto Regulamentar n.º 21/2007, de 29 de Março, DR.IS [63]\0\0"
+  source: null
+  date: '2007-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/1996/09/04/p/dre
   label: null
@@ -126,16 +137,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/200
   label: null
   source: http://data.dre.pt/eli/lei/53/200
+- type: cites
+  target: pt:dre:229486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693818:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179531:por
+  label: "Revogado, a partir de 01.08.2012, o DR 21/2007, de 29-mar, na redacção do presente diploma, pelo DEC LEI.156/2012.18.07.2012.MF,\
+    \ DR.IS [138] de 18.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2012-179531
+  date: '2012-07-18'
+- type: repealed_by
+  target: pt:dre:174556:por
+  label: "Revogado, a partir de 01.09.2012, o Dec Lei 160/96, de 04-set, na redação do presente diploma, do Dec Lei 28/98,\
+    \ de 11-fev, da Lei 87-B/98, de 31-dez, dos Dec Lei 2/99, de 04-jan, 455/99, de 05-nov, 86/2007, de 29-mar e 69-A/2009,\
+    \ de 24-mar e transformado o Instituto de Gestão da Tesouraria e do Crédito Público, I. P., na Agência de Gestão da Tesouraria\
+    \ e da Dívida Pública - IGCP, E. P. E., e aprovados os respetivos estatutos, pelo DEC LEI.200/2012.27.08.2012.MF, DR.IS\
+    \ [165] de 27.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2012-174556
+  date: '2012-08-27'
 article_structure:
-  article_count: 18
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:07Z'
   warnings: []
   errors: []
 ---
@@ -200,13 +266,17 @@ d) Redução dos saldos de tesouraria para níveis de segurança mínimos tecnic
 
 O Instituto de Gestão da Tesouraria e do Crédito Público, I. P., abreviadamente designado por IGCP, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e património próprio, sujeita à tutela e superintendência do Ministro das Finanças.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O IGCP tem por missão gerir, de forma integrada, a tesouraria e o endividamento público directo do Estado, bem como coordenar o financiamento dos serviços e fundos dotados de autonomia administrativa e financeira, em obediência às orientações definidas pelo Governo através do Ministro das Finanças.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +312,9 @@ n) Prestar apoio, nos termos da lei, às Regiões Autónomas na organização de
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +364,9 @@ v) [Anterior alínea p).]
 
 3 - Os documentos relativos ao desempenho das atribuições e competências do IGCP, designadamente os respeitantes à emissão, subscrição, transmissão e reembolso de valores de dívida pública colocada junto de particulares, são arquivados em obediência às regras de arquivo previstas na lei para as instituições de crédito, com as necessárias adaptações.
 
-###### Artigo 11.º — Competências do conselho directivo
+Artigo 11.º
+
+Competências do conselho directivo
 
 Compete ao conselho directivo desempenhar todas as atribuições e praticar todos os actos cometidos ao IGCP nos termos da lei e que não se compreendam no âmbito da competência exclusiva dos outros órgãos do Instituto, designadamente:
 
@@ -328,19 +402,25 @@ p) ...
 
 q) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Compete ao conselho consultivo pronunciar-se obrigatoriamente sobre o plano e o relatório anuais da gestão da tesouraria, da dívida pública directa e do financiamento do Estado, e suas eventuais revisões.
 
 2 - Compete, ainda, ao conselho consultivo pronunciar-se sobre quaisquer assuntos que lhe forem submetidos pelo presidente do conselho directivo, por sua iniciativa ou a pedido da maioria dos seus membros.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O conselho consultivo reúne ordinariamente duas vezes por ano e, extraordinariamente, sempre que for convocado pelo respectivo presidente, por sua iniciativa ou a pedido da maioria dos membros do conselho.
 
 2 - As regras de funcionamento do conselho consultivo constam de regulamento próprio.
 
-###### Artigo 25.º — Receitas
+Artigo 25.º
+
+Receitas
 
 1 - ...
 
@@ -398,7 +478,9 @@ j) [Anterior alínea m).]
 
 l) [Anterior alínea n).]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -446,14 +528,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 19 de Julho de 2007.**
+Promulgado em 19 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Julho de 2007.**
+Referendado em 21 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14500/0486604870.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14500/0486604870.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14500/0486604870.pdf)

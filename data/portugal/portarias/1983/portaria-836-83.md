@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 188/1983, 1º Suplemento, Série I de 1983-08-17
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2944-(2) a 2944-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf
 entry_into_force_dates: []
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/836-1983-540835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc26a8f5b0aa11d5c151a02f9a51923ab78b3701b924e6a1653f9f2d52894a1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ef345d1842a9e49ea9ede663eec90edd228db73fc7955c32a5dbf28c849842e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:515202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515202:por
+  label: "Alterado o nº 4 do Anexo I, Anexo III e Anexo VI , da Port 387/83, de 07-Abr, na redacção do presente diploma, pela\
+    \ PORT.960-A/83.04.11.1983.ME, DR.IS [254-Supl] de 04.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-a-1983-515202
+  date: '1983-11-04'
+- type: cites
+  target: pt:dre:141653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472347:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:642925:por
+  label: Rectificada pela DECL.DD5638.20.10.1983.PCM, DR.IS [251]2ºSupl de 31.10.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-642925
+  date: '1983-10-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:11Z'
   warnings: []
   errors: []
 ---
@@ -365,40 +405,40 @@ São ainda admitidos à candidatura à 1.ª matrícula e inscrição no ano lect
 
 Ministério da Educação.
 
-**Assinada em 24 de Junho de 1983.**
+Assinada em 24 de Junho de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — 1.1 - Universidades e institutos universitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
 1.2 - Escolas superiores universitárias ainda não integradas em universidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
 1.3 - Ensino superior artístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
 1.4 - Ensino superior politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
 1.5 - Outros estabelecimentos de ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
 ## ANEXO VII — Mapa a que se refere o n.º 5 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
 
 ## ANEXO VIII — Quadro a que se refere o n.º 6 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18801/00020027.pdf)

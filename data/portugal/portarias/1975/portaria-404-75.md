@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 148/1975, 1º Suplemento, Série I de 1975-06-30
   number: '148'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 908-(52) a 908-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf
 entry_into_force_dates: []
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-1975-233960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b72280e33fb573c3b4b888c0032ae0433cbda894e99f7fd99ecf8bae4ca34235
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbe1f52949534514d5ac3aef582a251ee823b0807f2227d667d9d10aacb51f25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bagagem
+- Cascais
+- Compensação Financeira
+- CP
+- Política de Preços
+- Política de Transportes
+- Preço
+- Prestação de Serviços
+- Rede Ferroviária
+- Sociedade Estoril
+- TAXA de Prestação de Serviços
+- Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:281245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:281245:por
+  label: Revogado o capítulo VI do título II da Tarifa de Transportes - Parte I «Passageiros e bagagens», e, consequentemente,
+    o respetivo art. 85.º, passando a «Reservados» os arts. 79.º a 97.º, aprovada pelo presente diploma, pelo(a) Portaria
+    n.º 735/77 - Diário da República n.º 276/1977, Série I de 1977-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/735-1977-281245
+  date: '1977-11-29'
 article_structure:
-  article_count: 59
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:54Z'
   warnings: []
   errors: []
 ---
@@ -153,177 +181,177 @@ SOCIEDADE ANÓNIMA DE RESPONSABILIDADE LIMITADA
 
 Tarifa de Transportes
 
-# Parte I — PASSAGEIROS E BAGAGENS
+## Parte I — PASSAGEIROS E BAGAGENS
 
 SUMÁRIO
 
-## Título I - Disposições gerais
+Título I - Disposições gerais
 
-### Capítulo I - Campo de aplicação:
+Capítulo I - Campo de aplicação:
 
 ###### Artigo 1.º - Objecto.
 
-###### Artigo 2.º - Comboios de passageiros.
+Artigo 2.º - Comboios de passageiros.
 
-###### Artigo 3.º - Tipos de bilhetes e assinaturas.
+Artigo 3.º - Tipos de bilhetes e assinaturas.
 
-### Capítulo II - Contrato de transporte:
+Capítulo II - Contrato de transporte:
 
-###### Artigo 4.º - Normas aplicáveis. Obrigatoriedade de transporte.
+Artigo 4.º - Normas aplicáveis. Obrigatoriedade de transporte.
 
-###### Artigo 5.º - Obrigações dos passageiros.
+Artigo 5.º - Obrigações dos passageiros.
 
-###### Artigo 6.º - Exigência do título de transporte.
+Artigo 6.º - Exigência do título de transporte.
 
-###### Artigo 7.º - Indicação nos títulos de transporte.
+Artigo 7.º - Indicação nos títulos de transporte.
 
-###### Artigo 8.º - Validade dos bilhetes e assinaturas.
+Artigo 8.º - Validade dos bilhetes e assinaturas.
 
-###### Artigo 9.º - Revalidação ou não utilização de bilhetes.
+Artigo 9.º - Revalidação ou não utilização de bilhetes.
 
-###### Artigo 10.º - Ocupação de lugares.
+Artigo 10.º - Ocupação de lugares.
 
-###### Artigo 11.º - Falta de lugares.
+Artigo 11.º - Falta de lugares.
 
-###### Artigo 12.º - Paragens em trânsito.
+Artigo 12.º - Paragens em trânsito.
 
-###### Artigo 13.º - Mudança de classe.
+Artigo 13.º - Mudança de classe.
 
-###### Artigo 14.º - Passageiros sem bilhete ou com bilhete não válido.
+Artigo 14.º - Passageiros sem bilhete ou com bilhete não válido.
 
-###### Artigo 15.º - Apreensão de títulos de transporte nulos.
+Artigo 15.º - Apreensão de títulos de transporte nulos.
 
-###### Artigo 16.º - Passageiros conduzidos em macas, cadeiras de rodas, cadeirinhas ou carrinhos.
+Artigo 16.º - Passageiros conduzidos em macas, cadeiras de rodas, cadeirinhas ou carrinhos.
 
-###### Artigo 17.º - Volumes portáteis e animais admitidos nas carruagens.
+Artigo 17.º - Volumes portáteis e animais admitidos nas carruagens.
 
-###### Artigo 18.º - Horários. Venda de bilhetes.
+Artigo 18.º - Horários. Venda de bilhetes.
 
-###### Artigo 19.º - Faltas de correspondência. Supressão de comboios.
+Artigo 19.º - Faltas de correspondência. Supressão de comboios.
 
-### Capítulo III - Preços de transporte:
+Capítulo III - Preços de transporte:
 
-###### Artigo 20.º - Cálculo dos preços.
+Artigo 20.º - Cálculo dos preços.
 
-###### Artigo 21.º - Gratuitidade de transporte para crianças de idade inferior a 4 anos.
+Artigo 21.º - Gratuitidade de transporte para crianças de idade inferior a 4 anos.
 
-###### Artigo 22.º - Restituições e pagamentos suplementares.
+Artigo 22.º - Restituições e pagamentos suplementares.
 
-### Capítulo IV - Responsabilidade. Reclamações:
+Capítulo IV - Responsabilidade. Reclamações:
 
-###### Artigo 23.º - Responsabilidade relativa ao transporte de passageiros, volumes de mão e animais.
+Artigo 23.º - Responsabilidade relativa ao transporte de passageiros, volumes de mão e animais.
 
-###### Artigo 24.º - Responsabilidade relativa aos transportes de bagagens.
+Artigo 24.º - Responsabilidade relativa aos transportes de bagagens.
 
-###### Artigo 25.º - Reclamações.
+Artigo 25.º - Reclamações.
 
-### Capítulo V - Disposições diversas:
+Capítulo V - Disposições diversas:
 
-###### Artigo 26.º - Marcação de lugares e de compartimentos.
+Artigo 26.º - Marcação de lugares e de compartimentos.
 
-###### Artigo 27.º - Comboios especiais.
+Artigo 27.º - Comboios especiais.
 
-###### Artigo 28.º - Consulta, venda e modificações da tarifa.
+Artigo 28.º - Consulta, venda e modificações da tarifa.
 
 Artigos 29.º a 40.º - Reservados.
 
-## Título II - Passageiros isolados
+Título II - Passageiros isolados
 
-### Capítulo I - Bilhetes simples e de ida e volta:
+Capítulo I - Bilhetes simples e de ida e volta:
 
-###### Artigo 41.º - Bilhetes simples.
+Artigo 41.º - Bilhetes simples.
 
-###### Artigo 42.º - Bilhetes de ida e volta.
+Artigo 42.º - Bilhetes de ida e volta.
 
 Artigos 43.º a 45.º - Reservados.
 
-### Capítulo II - Assinaturas semanais:
+Capítulo II - Assinaturas semanais:
 
-###### Artigo 46.º - Utilização e aquisição.
+Artigo 46.º - Utilização e aquisição.
 
-###### Artigo 47.º - Preços dos bilhetes de assinatura.
+Artigo 47.º - Preços dos bilhetes de assinatura.
 
 Artigos 48.º e 49.º - Reservados.
 
-### Capítulo III - Assinaturas mensais, trimestrais, semestrais e anuais:
+Capítulo III - Assinaturas mensais, trimestrais, semestrais e anuais:
 
-###### Artigo 50.º - Tipos de assinaturas.
+Artigo 50.º - Tipos de assinaturas.
 
-###### Artigo 51.º - Assinaturas para jovens e estudantes.
+Artigo 51.º - Assinaturas para jovens e estudantes.
 
-###### Artigo 52.º - Requisição de cartões de identidade.
+Artigo 52.º - Requisição de cartões de identidade.
 
-###### Artigo 53.º - Entrega dos cartões de identidade e dos bilhetes.
+Artigo 53.º - Entrega dos cartões de identidade e dos bilhetes.
 
-###### Artigo 54.º - Validade e aquisição dos bilhetes.
+Artigo 54.º - Validade e aquisição dos bilhetes.
 
-###### Artigo 55.º - Intransmissibilidade dos cartões de identidade e dos bilhetes.
+Artigo 55.º - Intransmissibilidade dos cartões de identidade e dos bilhetes.
 
-###### Artigo 56.º - Modificação nas condições das assinaturas.
+Artigo 56.º - Modificação nas condições das assinaturas.
 
-###### Artigo 57.º - Extravio dos cartões e bilhetes.
+Artigo 57.º - Extravio dos cartões e bilhetes.
 
-###### Artigo 58.º - Assinaturas nulas.
+Artigo 58.º - Assinaturas nulas.
 
-###### Artigo 59.º - Rescisão de assinaturas.
+Artigo 59.º - Rescisão de assinaturas.
 
-###### Artigo 60.º - Esquecimento de assinatura válida.
+Artigo 60.º - Esquecimento de assinatura válida.
 
-###### Artigo 61.º - Obrigações dos assinantes.
+Artigo 61.º - Obrigações dos assinantes.
 
-###### Artigo 62.º - Infracções.
+Artigo 62.º - Infracções.
 
-###### Artigo 63.º - Preços dos bilhetes de assinatura.
+Artigo 63.º - Preços dos bilhetes de assinatura.
 
 Artigos 64.º a 77.º - Reservados.
 
-### Capítulo V - Bilhetes especiais:
+Capítulo V - Bilhetes especiais:
 
-###### Artigo 78.º - Bilhetes para crianças.
+Artigo 78.º - Bilhetes para crianças.
 
 Artigos 79.º a 84.º - Reservados.
 
-### Capítulo VI - Outros bilhetes:
+Capítulo VI - Outros bilhetes:
 
-###### Artigo 85.º - Bilhetes sem data.
+Artigo 85.º - Bilhetes sem data.
 
 Artigos 86.º a 97.º - Reservados.
 
 ## Título III - Bagagens
 
-### Capítulo único - Bagagens:
+Capítulo único - Bagagens:
 
-###### Artigo 98.º - Definição de bagagens.
+Artigo 98.º - Definição de bagagens.
 
-###### Artigo 99.º - Objectos excluídos do transporte.
+Artigo 99.º - Objectos excluídos do transporte.
 
-###### Artigo 100.º - Responsabilidade do passageiro.
+Artigo 100.º - Responsabilidade do passageiro.
 
-###### Artigo 101.º - Embalagem e acondicionamento.
+Artigo 101.º - Embalagem e acondicionamento.
 
-###### Artigo 102.º - Registo de bagagem. Senha de bagagem.
+Artigo 102.º - Registo de bagagem. Senha de bagagem.
 
-###### Artigo 103.º - Seguimento das bagagens.
+Artigo 103.º - Seguimento das bagagens.
 
-###### Artigo 104.º - Preços de transporte.
+Artigo 104.º - Preços de transporte.
 
-###### Artigo 105.º - Depósito de bagagens, volumes portáteis e biciclos com ou sem motor.
+Artigo 105.º - Depósito de bagagens, volumes portáteis e biciclos com ou sem motor.
 
 Artigos 106.º a 112.º - Reservados.
 
-## Título IV - Disposições complementares
+Título IV - Disposições complementares
 
-### Capítulo I - Acesso aos cais de embarque:
+Capítulo I - Acesso aos cais de embarque:
 
-###### Artigo 113.º - Acesso aos cais de embarque das estações.
+Artigo 113.º - Acesso aos cais de embarque das estações.
 
-###### Artigo 114.º - Disposição comum.
+Artigo 114.º - Disposição comum.
 
 Artigos 115.º a 121.º - Reservados.
 
-### Capítulo II - Aplicação das disposições da tarifa geral de transportes.
+Capítulo II - Aplicação das disposições da tarifa geral de transportes.
 
-###### Artigo 122.º - Passageiros e bagagens.
+Artigo 122.º - Passageiros e bagagens.
 
 Anexos
 
@@ -925,8 +953,8 @@ Em tudo o que não for contrário ao estabelecido na presente tarifa, vigoram as
 
 ## ANEXO I — Tabelas de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf))](https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf)
 
 ## ANEXO II — Taxas acessórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf))](https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14801/00520065.pdf)

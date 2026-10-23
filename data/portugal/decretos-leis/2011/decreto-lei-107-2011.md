@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/22000/0486904871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2011/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2011-146214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d9fa05af4c2ac8ec0b70a28fbbf5c8320bf83517808f40ffcdcb3b43d988633
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b01cc99a3e269d18ad52c8009d9c643840fac499993bd16be5ee9d8f975346d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Instituto da ÁGUA
+- Agência Portuguesa do Ambiente
+- ASAE
 - Carne
-- Multa
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Direção Geral da Agricultura e Desenvolvimento Rural
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Definição de Competências
-- Marca
-- Denominação de Instituição
-- Direcção Regional de Agricultura e Pescas
 - Controlo Sanitário
+- Definição de Competências
+- Denominação de Instituição
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura e Pescas
 - Exploração Pecuária
 - Fiscalização
 - Gabinete de Planeamento e Políticas
-- Instalação de Serviços
+- GADO
 - IFAP
-- ASAE
+- Instalação de Serviços
+- Instituto da ÁGUA
 - Licenciamento
+- Marca
+- Multa
+- Pecuária
 - Política Agrícola Comum
 - Registo de Animais
-- Pecuária
-- Taxa
-- Comércio
-- Transporte de Animais
 - Saúde Animal
+- Taxa
+- Transporte de Animais
 - Vistoria
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:496729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260886:por
+  label: "Alterados os arts. 66º e 67º e o anexo IV do Dec Lei 214/2008, de 10-nov, na redação do presente diploma, pelo DEC\
+    \ LEI.59/2013.08.05.2013.MAMAOT, DR.IS [88] de 08.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2013-260886
+  date: '2013-05-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/214/2008/11/10/p/dre
   label: null
@@ -120,16 +126,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:277655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496729:por
+  label: "Revogado o Dec Lei n.º 214/2008, de 10-nov, na redação do presente diploma, pelo DEC LEI.81/2013.14.06.2013.MAMAOT,\
+    \ DR.IS [113] de 14.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2013-496729
+  date: '2013-06-14'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:24Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +214,9 @@ Os artigos 66.º e 67.º do [Decreto-Lei n.º 214/2008](https://diariodarepublic
 
 7 - O prazo previsto no n.º 1 não prejudica a obrigatoriedade de cumprimento do disposto no artigo 10.º da Portaria n.º 631/2009, de 9 de Junho, bem como dos condicionalismos legais e regulamentares aplicáveis à actividade pecuária, designadamente em matéria de segurança, higiene e saúde no trabalho, ambiente, bem-estar animal e condições hígio-sanitárias, e recursos hídricos.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -204,15 +238,15 @@ O presente decreto-lei produz efeitos desde 1 de Outubro de 2011.
 
 Visto e aprovado em Conselho de Ministros de 13 de Outubro de 2011. - Pedro Passos Coelho - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 7 de Novembro de 2011.**
+Promulgado em 7 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Novembro de 2011.**
+Referendado em 9 de Novembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

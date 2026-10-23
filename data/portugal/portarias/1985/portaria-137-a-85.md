@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 58/1985, 1º Suplemento, Série I de 1985-03-11
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 620-(1) a 620-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-a-1985-594890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91ae757137d523509b3be7aa536675bd37accb81dd20dceb1f75293851e3cd64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7c9d1851f881cc8e4cec7f3b6d3c268ea836138191539ab0fdcb6af2a723d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Preço
+- Tarifa Aérea
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:498545:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305637:por
+  label: "Mantidas as disposições constantes nos n.ºs 5.º, 6.º, 7.º, 8.º, 9.º e 10.º e os anexos I e II do presente diploma,\
+    \ pela PORT.733-F/86.04.12.1986.MF, DR.IS [279-Supl] de 04.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/733-f-1986-305637
+  date: '1986-12-04'
+- type: amended_by
+  target: pt:dre:498545:por
+  label: "Acrescentada uma rubrica ao anexo I e altera o n.º 8.º do presente diploma, pela PORT.905/87.27.11.1987.MF, DR.IS\
+    \ [274] de 27.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-1987-498545
+  date: '1987-11-27'
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:10Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +132,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 1.º São aprovadas as tarifas de transporte aéreo de passageiros a praticar nos serviços regulares das linhas abaixo especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf)
 
 Nota - Aos valores tarifários acima especificados será ainda adicionado o valor corespondente ao imposto de selo.
 
@@ -154,9 +188,9 @@ Tarifa de 45 kg ... 57$00
 
 Ministérios das Finanças e do Plano, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 28 de Janeiro de 1985.**
+Assinada em 28 de Janeiro de 1985.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, Carlos Montez Melancia.
 
 ## ANEXO I — Condições de aplicação da tarifa para cidadãos portugueses residentes nos Açores
 
@@ -198,7 +232,7 @@ Os membros dos governos regionais e os indivíduos requisitados por esses govern
 
 Elementos das Forças Armadas, Guarda Fiscal e Polícia de Segurança Pública, quando deslocados em comissão de serviço na Região, são igualmente elegíveis mediante apresentação de documento devidamente autenticado pela unidade de comando a que pertençam comprovando residência há mais de 6 meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf)
 
 ## ANEXO II — Condições de aplicação da tarifa tipo tudo incluído para viagens turísticas em grupo
 
@@ -254,4 +288,4 @@ Viagem em conjunto - todos os passageiros pertencentes ao grupo devem viajar em 
 
 ## ANEXO III — Tarifas especiais de carga entre o continente e a Região Autónoma dos Açores e entre a Madeira e os Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05801/00010004.pdf)

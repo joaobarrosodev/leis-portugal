@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1998/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1998-522841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e871910201da4fb26a21195771eec75aeb68d45b44524e763177d51e4bb8b485
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8381de4bd81ca6cd10ca2271ab168ddd0483c6122ad46e2b7388d30c6f239a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,12 @@ reuse:
 subjects:
 - Adjudicação
 - Adjudicação por Concurso Público
+- Administração Pública
 - Alfândega
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
 - Comissão de Análise
+- Concorrência
 - Concurso
 - Concurso Internacional
 - Concurso Público
@@ -83,20 +85,18 @@ subjects:
 - Delegação de Competências
 - Despesas Públicas
 - Direito Público
-- Concorrência
 - Empreitada de Obras Públicas
-- União Europeia
-- Administração Pública
-- Ministro das Finanças
-- Primeiro-ministro
 - Jornal Oficial
-- Publicitação
+- Ministro das Finanças
 - Obras Públicas
 - Organismo Autónomo
 - Pessoa Coletiva
-- Serviço Público
 - Prestação de Serviços
+- Primeiro-ministro
+- Publicitação
 - Regime Jurídico
+- Serviço Público
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:374615:por
@@ -130,16 +130,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
+- type: corrected_by
+  target: pt:dre:574718:por
+  label: "Rectificado pela DECL-RECT.13-C/98.1998.08.31.PCM DR.IS-A [200]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-c-1998-574718
+  date: '1998-08-31'
 article_structure:
-  article_count: 30
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:03Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +179,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As competências atribuídas ao Conselho de Ministros pelo presente diploma consideram-se delegadas no Primeiro-Ministro, com a faculdade de subdelegação, caso a caso, no Ministro das Finanças.
 
@@ -184,7 +191,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +205,9 @@ b) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +239,9 @@ f) ...
 
 g) ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +273,9 @@ g) [Anterior alínea f).]
 
 4 - No caso da alínea g) do n.º 1, a possibilidade de recorrer ao procedimento por negociação sem publicação de anúncio ou ao ajuste directo apenas é possível no triénio subsequente à celebração do contrato inicial e deve ser indicada aquando da abertura do concurso para o primeiro contrato, devendo o custo total estimado dos serviços subsequentes ser tomado em consideração pelas entidades adjudicantes para efeitos de determinação do valor relevante.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +283,9 @@ g) [Anterior alínea f).]
 
 3 - Podem ainda as entidades adjudicantes mandar publicar no Jornal Oficial das Comunidades Europeias o anúncio referido no n.º 1, devendo, nesse caso, ser cumpridas as regras previstas no presente diploma para a publicação obrigatória.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - As especificações técnicas definem as características exigidas de um produto, tais como os níveis de qualidade ou de propriedade de utilização, a segurança, as dimensões, incluindo as prescrições aplicáveis ao produto, no que respeita ao sistema de garantia de qualidade, à terminologia, aos símbolos, aos ensaios e métodos de ensaio, à embalagem, à marcação e à rotulagem, e que permitem caracterizar objectivamente um material, um produto ou um bem a fornecer, de maneira que corresponda à utilização a que é destinado pela entidade pública contratante.
 
@@ -312,7 +329,9 @@ c) A outros documentos, designadamente, e por ordem de preferência, as normas n
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 47.º — Capacidade técnica
+Artigo 47.º
+
+Capacidade técnica
 
 1 - ...
 
@@ -332,13 +351,17 @@ e) ...
 
 4 - Caso as entidades adjudicantes exijam a apresentação de certificados emitidos por organismos independentes para certificação da conformidade do prestador de serviços com determinadas normas de garantia da qualidade, deve ser feita referência a sistemas de garantia da qualidade baseados no conjunto de normas europeias NE 29000, certificados por organismos conformes ao conjunto de normas europeias NE 45000.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Os requisitos constantes das alíneas a) e c) do artigo 17.º, do n.º 1 do artigo 45.º, das alíneas b) e c) do n.º 1 do artigo 46.º e da alínea a) do artigo 47.º, que constem de listas oficiais de fornecedores de serviços e bens, podem ser comprovados por certificados de inscrição emitidos pelas autoridades competentes dos Estados membros da União Europeia em que os prestadores se encontram inscritos, devendo esses certificados indicar os elementos de referência que permitiram a sua inscrição na lista e a classificação que na mesma lhes é atribuída.
 
 2 - A inscrição nas listas referidas no número anterior constitui presunção de que os prestadores não são culpados de falsas declarações relativamente às informações necessárias à sua inscrição nas mesmas.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -348,13 +371,17 @@ e) ...
 
 4 - As entidades adjudicantes que tenham aceite variantes, nos termos do presente artigo, não podem igualmente recusar uma variante pelo simples facto de ela poder conduzir, caso seja escolhida, a um contrato público de fornecimento, e não a um contrato público de serviços, ou vice-versa.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 a) Não contenham os elementos essenciais exigidos no programa de concurso ou não sejam instruídas com os documentos exigidos, nos termos do n.º 3 do artigo 53.º;
 
 b) ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - A comissão de análise deve propor a exclusão dos concorrentes quando:
 
@@ -366,7 +393,9 @@ b) Se verifique alguma das situações previstas nos artigos 18.º e 19.º
 
 3 - A comissão elabora um relatório fundamentado sobre as propostas admitidas e excluídas nos termos dos números anteriores.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +407,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -398,13 +429,17 @@ e) ...
 
 4 - As decisões de não adjudicação e de recomeço do concurso bem como os respectivos fundamentos devem ser notificados aos concorrentes.
 
-###### Artigo 79.º — Regime
+Artigo 79.º
+
+Regime
 
 1 - ...
 
 2 - ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -412,7 +447,9 @@ e) ...
 
 3 - Podem ainda as entidades adjudicantes mandar publicar no Jornal Oficial das Comunidades Europeias o anúncio referido no n.º 1, devendo, nesse caso, ser cumpridas as regras previstas no presente diploma para a publicação obrigatória.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 No concurso limitado por prévia qualificação haverá sempre um programa que especificará:
 
@@ -430,7 +467,9 @@ f) [Anterior alínea g).]
 
 g) [Anterior alínea h).]
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - As candidaturas podem ser feitas por carta, telegrama, telex, telefax e telefone ou outro meio equivalente, devendo ser feitas pelas vias mais rápidas possíveis, em caso de processo urgente.
 
@@ -438,7 +477,9 @@ g) [Anterior alínea h).]
 
 3 - O número de candidatos para apresentação de propostas deve ser suficiente para assegurar uma concorrência efectiva, não podendo, sempre que possível, ser inferior a cinco.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - Recebidas as candidaturas, proceder-se-á à verificação dos requisitos exigidos no programa de concurso e à selecção dos candidatos em função dos critérios referidos na alínea d) do artigo 81.º
 
@@ -446,7 +487,9 @@ g) [Anterior alínea h).]
 
 3 - O número de candidatos para apresentação de propostas deve ser suficiente para assegurar uma concorrência efectiva, não podendo, sempre que possível, ser inferior a cinco.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 O convite aos candidatos seleccionados será formulado simultaneamente por carta registada, com aviso de recepção, ou, em caso de processo urgente, pelas vias mais rápidas possíveis, devendo conter os seguintes elementos:
 
@@ -470,7 +513,9 @@ i) Caso não conste do anúncio, critério que presidirá à adjudicação, expl
 
 j) ...
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -482,7 +527,9 @@ j) ...
 
 5 - A documentação que deva instruir os pedidos de participação, nos termos dos artigos 44.º a 48.º, poderá ser substituída por declaração prestada, sob compromisso de honra, pelos participantes.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -504,13 +551,17 @@ f) Caso não conste do anúncio, o critério que presidirá à adjudicação, ex
 
 4 - Desde que solicitados em tempo útil, os esclarecimentos sobre o caderno de encargos devem ser prestados o mais tardar até seis dias antes da data limite fixada para a apresentação das propostas ou até quatro dias, em caso de processo urgente.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - Elaborado o relatório, ouvidos os demais participantes nos termos do disposto no artigo 67.º, a entidade pública contratante toma a decisão, sendo aplicável, com as devidas adaptações, o disposto nos artigos 70.º e 71.º
 
 2 - O procedimento prosseguirá nos termos dos artigos 72.º a 78.º
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - O procedimento por negociação, sem publicação prévia de anúncio, rege-se, com as devidas adaptações, pelas disposições que regulam o procedimento por negociação, com publicação prévia de anúncio, em tudo quanto não seja incompatível com a sua natureza ou com as disposições dos números seguintes.
 
@@ -520,7 +571,9 @@ f) Caso não conste do anúncio, o critério que presidirá à adjudicação, ex
 
 4 - O procedimento prossegue nos termos dos artigos 90.º e 91.º
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 Aos concursos para trabalhos de concepção aplicam-se as regras seguintes:
 
@@ -542,7 +595,9 @@ h) [Anterior alínea h) do n.º 1.]
 
 i) [Anterior alínea i) do n.º 1.]
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - Os procedimentos previstos nas normas constantes do presente capítulo são aplicáveis, cumulativamente com as disposições do capítulo anterior:
 
@@ -560,7 +615,9 @@ e) Aos concursos para trabalhos de concepção cujo valor dos prémios e de outr
 
 3 - Os contratos que tenham simultaneamente por objecto a aquisição dos serviços constantes dos anexos VI e VI-A serão celebrados de acordo com o regime previsto para a componente de maior expressão financeira.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - Para os procedimentos previstos nas normas constantes do presente capítulo, é obrigatório o envio de anúncio, pela entidade adjudicante, ao Serviço de Publicações Oficiais da Comunidade Europeia.
 
@@ -586,7 +643,9 @@ e) Aos concursos para trabalhos de concepção cujo valor dos prémios e de outr
 
 12 - Cada anúncio não pode exceder uma página do Jornal Oficial das Comunidades Europeias, a que correspondem cerca de 650 palavras, devendo as entidades adjudicantes poder comprovar a respectiva data de envio.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -598,7 +657,9 @@ c) Os fundamentos referidos no n.º 9 do artigo 42.º
 
 2 - ...
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - ...
 
@@ -646,7 +707,9 @@ c) ...
 
 20 - ...
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - ...
 
@@ -690,7 +753,9 @@ b) ...
 
 19 - ...
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - ...
 
@@ -732,7 +797,9 @@ c) Se for o caso, designação e endereço dos candidatos já admitidos em sede 
 
 17 - (Anterior n.º 16.)
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1 - ...
 
@@ -760,11 +827,15 @@ c) Se for o caso, designação e endereço dos candidatos já admitidos em sede 
 
 13 - No caso de contratos relativos a serviços do anexo VI-A, referência expressa à autorização ou não autorização da entidade contratante quanto à publicação do anúncio.
 
-## ANEXO VI — Aquisição de serviços a que se refere a alínea a) do n.º 1 do artigo 96.º
+ANEXO VI
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf)
+Aquisição de serviços a que se refere a alínea a) do n.º 1 do artigo 96.º
 
-## ANEXO VII — [...]
+[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf)](https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf)
+
+ANEXO VII
+
+[...]
 
 1 - ...
 
@@ -812,20 +883,20 @@ d) ...
 
 Aquisição de serviços a que se refere n.º 2 do artigo 96.º
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf)
+[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf)](https://files.diariodarepublica.pt/1s/1998/05/110a00/22222228.pdf)
 
-###### Artigo 3.º
+Artigo 3.º
 
 O presente diploma entra em vigor no prazo de 30 dias após a data da sua publicação e não se aplica aos concursos e procedimentos iniciados em data anterior à sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - João Cardona Gomes Cravinho.
 
-**Promulgado em 28 de Abril de 1998.**
+Promulgado em 28 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1998.**
+Referendado em 4 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

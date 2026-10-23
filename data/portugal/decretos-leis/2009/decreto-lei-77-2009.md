@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06400/0203202038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2009/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2009-603214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fa08258608198058138ce9ae0ec92514305958690e324f83e334276a2cccf1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43892c0c4ac1679c7f0249bc7aec298161086696b6a40e296c4b78cdb532cb5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Multa
 - Instituto da Mobilidade e dos Transportes Terrestres
 - Licenciamento
-- Veículo
+- Modernização Administrativa
 - Modernização Tecnológica
+- Multa
 - Programa Simplex
+- Veículo
 - Veículo de Aluguer
 relationships:
 - type: amended_by
@@ -87,16 +87,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/44/1992/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/1992/03/31/p/dre
+- type: cites
+  target: pt:dre:158428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178993:por
+  label: Revogado a partir de 02.02.2013 pelo DEC LEI.181/2012.06.08.2012.MEE, DR.IS [151] de 06.08.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2012-178993
+  date: '2012-08-06'
 article_structure:
-  article_count: 52
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 41
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:18Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +162,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 13.º, 16.º, 19.º, 23.º, 27.º
 
 2 - Para efeitos do presente diploma, entende-se por veículo de passageiros um automóvel ligeiro de passageiros, um motociclo ou um automóvel de passageiros de características especiais.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A actividade de aluguer de veículos de passageiros sem condutor tem por objecto a exploração de:
 
@@ -147,7 +182,9 @@ c) Automóveis de passageiros de características especiais, aprovados para o ef
 
 5 - Os conjuntos mínimos referidos nos números anteriores são definidos por portaria do membro do Governo responsável pela área dos transportes.
 
-###### Artigo 3.º — Exercício da actividade
+Artigo 3.º
+
+Exercício da actividade
 
 1 - ...
 
@@ -157,7 +194,9 @@ c) Automóveis de passageiros de características especiais, aprovados para o ef
 
 4 - ...
 
-###### Artigo 4.º — Conteúdo dos requerimentos para autorização do exercício da actividade
+Artigo 4.º
+
+Conteúdo dos requerimentos para autorização do exercício da actividade
 
 1 - Dos requerimentos para a autorização do exercício da actividade deve constar:
 
@@ -173,23 +212,31 @@ b) (Revogada.)
 
 c) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As empresas titulares de alvará podem ser autorizadas a abrir agências ou filiais, mediante despacho do presidente do conselho directivo do IMTT, I. P., a publicar no Diário da República.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As empresas que exercem a actividade de aluguer de veículos automóveis sem condutor devem dispor, no mínimo, de um estabelecimento para atendimento dos clientes.
 
 2 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O membro do Governo responsável pela área dos transportes pode determinar, ouvidas as entidades interessadas do sector, que os veículos automóveis de aluguer sem condutor sejam assinalados por forma a garantir a sua fácil identificação exterior, se tal se vier a revelar indispensável à fiscalização adequada da actividade.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +250,9 @@ O membro do Governo responsável pela área dos transportes pode determinar, ouv
 
 6 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -213,7 +262,9 @@ b) ...
 
 c) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As empresas exploradoras devem efectuar em cada ano civil, para efeitos de fiscalização e de controlo da actividade, um registo de todos os contratos de aluguer de veículos automóveis sem condutor, segundo a ordem da sua celebração.
 
@@ -225,7 +276,9 @@ c) ...
 
 5 - O IMTT, I. P., faculta ao Turismo de Portugal, I. P., os elementos que este solicitar referentes às empresas que explorem a actividade de aluguer de veículos automóveis sem condutor.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -267,7 +320,9 @@ d) De (euro) 50 a (euro) 250, nos casos previstos na alínea n) do número anter
 
 3 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A fiscalização do cumprimento do presente diploma incumbe ao IMTT, I. P., à Autoridade Nacional de Segurança Rodoviária, à Guarda Nacional Republicana e à Polícia de Segurança Pública.
 
@@ -293,21 +348,23 @@ São revogados a alínea b) do n.º 2 do artigo 4.º, o n.º 2 do artigo 6.º, o
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Rui Carlos Pereira - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 11 de Março de 2009.**
+Promulgado em 11 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Março de 2009.**
+Referendado em 12 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 354/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1986-222264), de 23 de Outubro
 
 ### CAPÍTULO I — Do exercício da actividade de aluguer de veículos automóveis sem condutor
 
-###### Artigo 1.º — Título
+###### Artigo 1.º
+
+## Título
 
 1 - O exercício da actividade de aluguer de veículos de passageiros sem condutor depende de autorização a conceder pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., doravante designado por IMTT, I. P., e é titulado por alvará de que constem os elementos de identificação do objecto do direito concedido.
 

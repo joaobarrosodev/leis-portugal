@@ -46,40 +46,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/416-1976-430456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad8b83469623c6d8d99bb6247ba9d53cb6899404442105e483f8dc215770b5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b3dfec0dd07af5de97631d00369964b5b1f4d9dca69062b2616f37074108433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alandroal
+- Arraiolos
+- Borba
+- Estremoz
+- Évora
+- Expropriação
+- Montemor-o-Novo
+- MORA
+- Portel
+- Prédio Rústico
+- Redondo
+- Reforma Agrária
+- Reguengos de Monsaraz
+- Viana do Alentejo
+- Vila Viçosa
 relationships:
 - type: amended_by
   target: pt:dre:471350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251381:por
+  label: Derrogada, relativamente à expropriação dos prédios rústicos Santa Catarina. - Situado na freguesia de Nossa Senhora
+    da Conceição, concelho de Alandroal, e Carradas de Baixo. - Situado na freguesia de Ciladas, concelho de Vila Viçosa,
+    pelo(a) Portaria n.º 481/77 - Diário da República n.º 175/1977, Série I de 1977-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/481-1977-251381
+  date: '1977-07-30'
+- type: amended_by
+  target: pt:dre:278518:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Tições», no concelho de Portel, pelo(a) Portaria
+    n.º 605/77 - Diário da República n.º 220/1977, Série I de 1977-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/605-1977-278518
+  date: '1977-09-22'
+- type: amended_by
+  target: pt:dre:328022:por
+  label: Derrogada, no que respeita aos prédios Aroeira de Baixo e Aroeira de Cima, pelo(a) Portaria n.º 623/78 - Diário da
+    República n.º 241/1978, Série I de 1978-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1978-328022
+  date: '1978-10-19'
+- type: amended_by
+  target: pt:dre:383788:por
+  label: "Derrogada em parte, pela PORT.110/79.10.03.1979.MAP, DR.IS [58] de 10.03.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-1979-383788
+  date: '1979-03-10'
+- type: amended_by
+  target: pt:dre:471902:por
+  label: "Derrogada em parte pela PORT.397/80.10.07.1980.MAP, DR.IS [157] de 10.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-1980-471902
+  date: '1980-07-10'
+- type: amended_by
+  target: pt:dre:471350:por
+  label: "Derrogada parcialmente pela PORT.408/80.15.07.1980.MAP, DR.IS [161] de 15.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/408-1980-471350
+  date: '1980-07-15'
+- type: cites
+  target: pt:dre:307380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:04:03Z'
   warnings: []
   errors: []
 ---

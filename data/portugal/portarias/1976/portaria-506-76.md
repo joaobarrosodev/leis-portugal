@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-1976-429641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:06:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64b83c6a8c11f8c6d8365b1f712a982782409531b393143281902a787dcce942
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2705ccf27d9886482723f46c454bd7a9a4da9292ea9d5aa1fbcc8e360bcf5ccf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:06:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Multa
+- Pesca
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:06:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 1. É suprimido o § único do artigo 194.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, sendo substituído por dois parágrafos com a seguinte redacção:
 
-###### Art. 194.º ...
+Art. 194.º ...
 
 § 1.º Quando uma embarcação for encontrada a exercer a sua actividade sem ter feito matrícula, ou cujo rol de tripulação não tenha validade, o seu proprietário incorrerá em multa que não excederá 10000$00 e cujo mínimo é de 2000$00 por tripulante; o comandante, mestre ou arrais, em multa que não excederá 10000$00 e cujo mínimo será calculado na base de 1000$00 por tripulante, e cada tripulante, em multa de 500$00 a 5000$00.
 
@@ -102,11 +118,11 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 2. O artigo 202.º do RIM passa a ter a seguinte redacção:
 
-###### Art. 202.º Depois de encerrado o contrato de matrícula, nenhum tripulante poderá ser aumentado ou abatido sem que a alteração conste do respectivo rol, devidamente rubricada pela autoridade marítima ou consular, se a houver, sob pena, para o comandante, mestre ou arrais, de multa que não excederá 10000$00 e cujo mínimo é de 1000$00 por tripulante abatido ou aumentado e, para os tripulantes encontrados a bordo não incluídos no rol de matrícula, de multa de 500$00 a 5000$00.
+Art. 202.º Depois de encerrado o contrato de matrícula, nenhum tripulante poderá ser aumentado ou abatido sem que a alteração conste do respectivo rol, devidamente rubricada pela autoridade marítima ou consular, se a houver, sob pena, para o comandante, mestre ou arrais, de multa que não excederá 10000$00 e cujo mínimo é de 1000$00 por tripulante abatido ou aumentado e, para os tripulantes encontrados a bordo não incluídos no rol de matrícula, de multa de 500$00 a 5000$00.
 
 3. É acrescentado ao artigo 202.º do RIM um § único com a seguinte redacção:
 
-###### Art. 202.º ...
+Art. 202.º ...
 
 § único. Nos casos de reincidência e para efeitos de cálculo dos mínimos e máximos das multas aplicáveis, os valores por tripulante são multiplicados por dois, três ou quatro, conforme se trate, respectivamente, de primeira, segunda ou demais reincidências.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/20600/0508005081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2018/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2018-116779791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa2d1ef16f0cf309f35b7a251e2f598fbd56e7522edffeb5d1fc082888f45d7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 169f28d84d09442e2b6044970df82d36401906dcd18dc411e272303e783da3a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Aveiro
+- Coimbra
 - Empreitada de Obras Públicas
 - Leiria
-- Coimbra
 - Viseu
 relationships:
 - type: cites
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:18Z'
   warnings: []
   errors: []
 ---
@@ -182,12 +194,14 @@ O presente decreto-lei produz efeitos desde 13 de outubro, considerando-se ratif
 
 Visto e aprovado em Conselho de Ministros de 18 de outubro de 2018. - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Ângelo Nelson Rosário de Souza - Ana Paula Mendes Vitorino.
 
-**Promulgado em 19 de outubro de 2018.**
+Promulgado em 19 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de outubro de 2018.**
+Referendado em 23 de outubro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111758911

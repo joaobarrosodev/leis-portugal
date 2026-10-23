@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 255/1985, 2º Suplemento, Série I de 1985-11-06
   number: '255'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3736-(5) a 3736-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/25502/00050005.pdf
 entry_into_force_dates: []
@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/53-1985-336502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f41cdeb02c1a61b6bf7f33407832336d966a8a13b04f9c78fe2cd748561e1a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c52d6d765ab3027d74e57dae053c4a801aa89df73bd3efad12a06210a41a8412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo X
+- Nomeação
+- Primeiro-ministro
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:38Z'
   warnings: []
   errors: []
 ---
@@ -84,12 +87,12 @@ validation:
 
 de 6 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 136.º da Constituição, ouvidos os partidos representados na Assembleia da República e tendo em conta os resultados eleitorais, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º da Constituição, ouvidos os partidos representados na Assembleia da República e tendo em conta os resultados eleitorais, o seguinte:
 
 É nomeado Primeiro-Ministro o Prof. Doutor Aníbal António Cavaco Silva.
 
-**Assinado em 6 de Novembro de 1985.**
+Assinado em 6 de Novembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

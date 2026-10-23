@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/2006/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2006-545821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8712bfb376f32f70ef1e13cdba2cdd6cb11e51ad09fa1cf6514f3b3cb43d85e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6b5891df782a743daa7a9a5ed44d4925295c93c32222b90ec4dc03acca62f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Algarve
+- Ordenamento do Território
 - Ordenamento Florestal
-- PROF do Algarve
-- Política de Solos
 - Plano Regional de Ordenamento Florestal
+- Política de Solos
+- PROF do Algarve
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 36º e 38º a 42º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -109,16 +115,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 51
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:38Z'
   warnings: []
   errors: []
 ---
@@ -183,15 +227,15 @@ O PROF Algarve entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 21 de Setembro de 2006.**
+Promulgado em 21 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Setembro de 2006.**
+Referendado em 25 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO ALGARVE (PROF ALGARVE)
 
@@ -881,7 +925,7 @@ viii) Espaços florestais com função de conservação de recursos genéticos, 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), amieiro (Alnus glutinosa), carvalho cerquinho (Quercus faginea), casuarina (Casuarina equisetifolia), choupos (Populus, spp.), folhado (Virbunum tinus L.), freixos (Fraxinus, spp.), Juniperus, spp., salgueiros (Salix, spp.), samouco (Myrica faya) e zambujeiro (Olea europea var. silvestris).
 
@@ -929,7 +973,7 @@ v) Espaços florestais com função de suporte à pastorícia, nas zonas onde se
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), carvalho americano (Quercus rubra), carvalho cerquinho (Quercus faginea), cedros (Cedrus, spp.), choupos (Populus, spp.), cipreste-de-Lawson (Chamaecyparis lawsoniana), freixos (Fraxinus, spp.), loureiro (Laurus nobilis), pinheiro das canárias (Pinus canariensis), pinheiro-insigne (Pinus radiata), pinheiro-negro (Pinus nigra), plátano (Platanus hibrida), pseutotsuga (Pseudotsuga menziessi), rododendro (Rhododendron ponticum), salgueiros (Salix, spp.), samouco (Myrica faya), ulmeiros (Ulmus, spp.), zambujeiro (Olea europea var. silvestris); a sul da Serra de Monchique: azinheira (Quercus rotundifolia), casuarina (Casuarina equisetifolia), pinheiro de Alepo (Pinus halepensis), taxódio-dístico (Taxodium distichum), zimbro (Juniperus turbinata); nas zonas de aluvião: nogueira-preta (Juglans nigra L.).
 
@@ -973,7 +1017,7 @@ vii) Espaços florestais com função de conservação de recursos genéticos, e
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), azinheira (Quercus rotundifolia), carvalho cerquinho (Quercus faginea), casuarina (Casuarina equisetifolia), choupos (Populus, spp.), freixos (Fraxinus, spp.), pinheiro de Alepo (Pinus halepensis), salgueiros (Salix, spp.), ulmeiros (Ulmus, spp.) e zambujeiro (Olea europea var. silvestris).
 
@@ -1017,7 +1061,7 @@ vii) Espaços florestais com função de conservação de recursos genéticos, e
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho cerquinho (Quercus faginea), casuarina (Casuarina equisetifolia), choupos (Populus, spp.), eucalipto (Eucalyptus globulus), nogueira-preta (Juglans nigra), pinheiro-insigne (Pinus radiata), pinheiro-negro (Pinus nigra), plátano (Platanus híbrida), salgueiros (Salix, spp.), ulmeiros (Ulmus, spp.) e zambujeiro (Olea europea var. silvestris).
 
@@ -1063,7 +1107,7 @@ vi) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho cerquinho (Quercus faginea), casuarina (Casuarina equisetifolia), choupos (Populus, spp.), freixos (Fraxinus, spp.), nogueira-preta (Juglans nigra), pinheiro-insigne (Pinus radiata), pinheiro-negro (Pinus nigra), plátano (Platanus híbrida), salgueiros (Salix, spp.), ulmeiros (Ulmus, spp.) e zambujeiro (Olea europea var. silvestris).
 
@@ -1101,7 +1145,7 @@ v) Espaços florestais com função de suporte à caça e conservação das esp�
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: carvalho cerquinho (Quercus faginea), casuarina (Casuarina equisetifolia), choupos (Populus, spp.), freixos (Fraxinus, spp.), Juniperus, spp., nogueira-preta (Juglans nigra), pinheiro bravo (Pinus pinaster), plátano (Platanus, spp.), salgueiros (Salix, spp.), sobreiro (Quercus suber) e zambujeiro (Olea europea var. silvestris).
 
@@ -1145,7 +1189,7 @@ iii) Espaços florestais com função produção de frutos e sementes, nas zonas
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: choupos (Populus, spp.), freixos (Fraxinus, spp.), freixos (Fraxinus, spp.), plátano (Platanus, spp.), Juniperus, spp., salgueiros (Salix, spp.) e ulmeiros (Ulmus, spp.).
 
@@ -1189,7 +1233,7 @@ vii) Espaços florestais com função de conservação de espécies da flora e d
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: casuarina (Casuarina equisetifolia), choupos (Populus, spp.), cipreste do Buçaco (Cupressus lusitanica), freixos (Fraxinus, spp.), Juniperus, spp., salgueiros (Salix, spp.) e zambujeiro (Olea europea var. silvestris).
 
@@ -1209,7 +1253,7 @@ vii) Espaços florestais com função de conservação de espécies da flora e d
 
 1 - Estão sujeitas a plano de gestão florestal (PGF) as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Politica Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de Plano de Gestão Florestal, as explorações florestais privadas com área mínima de 50 ha. Estão isentas da elaboração de PGF os proprietários das explorações integradas e aderentes às ZIF, com mais de 50 ha.
 
@@ -1243,7 +1287,7 @@ c) Áreas percorridas por incêndios de grandes dimensões.
 
 4 - No PROF Algarve são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -1265,27 +1309,27 @@ No relatório do PROF Algarve, estão consignadas medidas de intervenção comun
 
 1 - O PROF Algarve define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 2 - O PROF Algarve define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 3 - O PROF Algarve define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 4 - O PROF Algarve define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados, para as sub-regiões homogéneas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 5 - O PROF Algarve define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 6 - A percentagem de área queimada anual é monitorizada através dos seguintes indicadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 ###### Artigo 37.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
@@ -1391,12 +1435,12 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 ## ANEXO I — Normas genéricas de intervenção nos espaços florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 ## ANEXO II — Modelos de silvicultura para as principais espécies de árvores florestais e sistemas florestais produtivos mais relevantes para a região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
 
 ## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal do Algarve (PROF Algarve)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73027327.pdf)

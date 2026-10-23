@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/811-1973-411602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e63a8a9915336d3bd13287624d04cb38e7333a60db4db9e1315c4c1739d52b52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa7f75180136ea69ae56648f31444bb56e37402da1dae80ba1055ccfdf6e5035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Convenção
+- Eurocontrol
+- Navegação Aérea
+- Regulamento
+- Segurança Aérea
+- Taxa de rota
 relationships:
 - type: amended_by
   target: pt:dre:412427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:396738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681983:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 626/75 DE 31-OUT DG.IS [253]\0DG.IS [253]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1975-10-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:38Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +138,7 @@ REGULAMENTO DE TAXAS DE NAVEGAÇÃO AÉREA EM ROTA
 
 ### CAPÍTULO I — Definições
 
-###### Artigo 1.º Para os efeitos da aplicação do presente Regulamento, entender-se-á por:
+Artigo 1.º Para os efeitos da aplicação do presente Regulamento, entender-se-á por:
 
 Estada Membro. - Estado membro da Organização Eurocontrol e Parte no Acordo Multilateral Relativo à Percepção de Taxas de Rota, assinado em Bruxelas em 8 de Setembro de 1970.
 
@@ -120,7 +148,7 @@ Organização. - A Organização Europeia para a Segurança da Navegação Aére
 
 ### CAPÍTULO II — Espaço aéreo sujeito a taxa
 
-###### Art. 2.º As taxas de rota previstas no artigo 1.º do [Decreto-Lei n.º 451/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1971-633939), de 26 de Outubro, serão devidas por cada voo efectuado no espaço aéreo correspondente às seguintes regiões de informação de voo, conforme descritas no Manual de Informação Aeronáutica (AIP - Portugal);
+Art. 2.º As taxas de rota previstas no artigo 1.º do [Decreto-Lei n.º 451/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1971-633939), de 26 de Outubro, serão devidas por cada voo efectuado no espaço aéreo correspondente às seguintes regiões de informação de voo, conforme descritas no Manual de Informação Aeronáutica (AIP - Portugal);
 
 Região de Informação de Voo de Lisboa;
 
@@ -130,13 +158,13 @@ Região de Informação de Voo Oceânica de Santa Maria.
 
 ### CAPÍTULO III — Cálculo da taxa
 
-###### Art. 3.º As taxas de rota serão calculadas pela fórmula
+Art. 3.º As taxas de rota serão calculadas pela fórmula
 
 T(índice r) = t(índice i) x N
 
 em que T(índice r) é a taxa a perceber, t(índice i) a taxa unitária e N o número de unidades de serviço correspondentes ao voo sobre que a taxa incide.
 
-###### Art. 4.º - 1. A taxa unitária será estabelecida com base no franco francês constituído por 200 mg de ouro com o título de 900 milésimos de ouro fino, conforme declarado ao Fundo Monetário Internacional em 29 de Dezembro de 1959.
+Art. 4.º - 1. A taxa unitária será estabelecida com base no franco francês constituído por 200 mg de ouro com o título de 900 milésimos de ouro fino, conforme declarado ao Fundo Monetário Internacional em 29 de Dezembro de 1959.
 
 2. Esta taxa, em dólares dos Estados Unidos da América, será de:
 
@@ -146,13 +174,13 @@ b) 1,1676 para a Região de informação de Voo Oceânica de Santa Maria.
 
 3. A paridade do dólar dos Estados Unidos da América será a fixada pelo Fundo Monetário Internacional para o franco francês referido no n.º 1 deste artigo.
 
-###### Art. 5.º O número de unidades de serviço, designado por N, obtém-se pela aplicação da seguinte fórmula:
+Art. 5.º O número de unidades de serviço, designado por N, obtém-se pela aplicação da seguinte fórmula:
 
 N = d x p
 
 em que d é o coeficiente de distância de voo e p o coeficiente de peso da aeronave.
 
-###### Art. 6.º - 1. O coeficiente de distância é igual ao quociente da divisão por 100 do número que mede a distância ortodrómica expressa em quilómetros entre os seguintes pontos:
+Art. 6.º - 1. O coeficiente de distância é igual ao quociente da divisão por 100 do número que mede a distância ortodrómica expressa em quilómetros entre os seguintes pontos:
 
 a) Para as Regiões de Informação de Voo de Lisboa:
 
@@ -178,9 +206,9 @@ ii - Para os sobrevoos, sem escala, em função de distâncias ponderadas com ba
 
 3. Para os efeitos do disposto no n.º 1 deste artigo, as rotas mais frequentadas entre dois aeródromos serão revistas anualmente a fim de poderem ser consideradas eventuais modificações na estrutura das rotas ou do tráfego aéreo.
 
-###### Art. 7.º - 1. O coeficiente de peso é igual à raiz quadrada do quociente da divisão por 50 do peso máximo à descolagem da aeronave, expresso em toneladas métricas, tal como figura no certificado de navegabilidade:
+Art. 7.º - 1. O coeficiente de peso é igual à raiz quadrada do quociente da divisão por 50 do peso máximo à descolagem da aeronave, expresso em toneladas métricas, tal como figura no certificado de navegabilidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf)
 
 2. No caso de o explorador haver declarado aos organismos responsáveis pela cobrança de taxas que a frota de que dispõe inclui aeronaves correspondendo a versões diferentes do mesmo tipo, o coeficiente de peso para cada uma dessas aeronaves determinar-se-á na base do peso médio à descolagem de todas as aeronaves desse tipo utilizadas pelo referido explorador. O cálculo deste coeficiente por tipo de aeronave e por explorador efectuar-se-á pelo menos uma vez por ano.
 
@@ -190,7 +218,7 @@ ii - Para os sobrevoos, sem escala, em função de distâncias ponderadas com ba
 
 ### CAPÍTULO IV — Voos transatlânticos
 
-###### Art. 8.º - 1. Aos voos efectuados no espaço aéreo correspondente às Regiões de Informação de Voo de Lisboa, mas cujo aeródromo de partida (ou o aeródromo de primeiro destino) se situa nas zonas descritas na coluna 1 e, respectivamente, o aeródromo de primeiro destino (ou o aeródromo de partida) seja o indicado na coluna 2 do anexo ao presente regulamento não será aplicado o disposto nos artigos 3.º, 4.º, 5.º, 6.º e 11.º
+Art. 8.º - 1. Aos voos efectuados no espaço aéreo correspondente às Regiões de Informação de Voo de Lisboa, mas cujo aeródromo de partida (ou o aeródromo de primeiro destino) se situa nas zonas descritas na coluna 1 e, respectivamente, o aeródromo de primeiro destino (ou o aeródromo de partida) seja o indicado na coluna 2 do anexo ao presente regulamento não será aplicado o disposto nos artigos 3.º, 4.º, 5.º, 6.º e 11.º
 
 2. As taxas de rota devidas por estes voos serão fixadas a partir das distâncias médias ponderadas de sobrevoo, do espaço aéreo dos Estados Membros e Contratantes, com base nos dados de tráfego fornecidos à Organização pelos respectivos centros de contrôle da navegação aérea.
 
@@ -200,7 +228,7 @@ ii - Para os sobrevoos, sem escala, em função de distâncias ponderadas com ba
 
 ### CAPÍTULO V — Isenções e reduções
 
-###### Art. 9 Estão isentos de taxas de rota:
+Art. 9 Estão isentos de taxas de rota:
 
 1.º Voos realizados por aeronaves militares portuguesas;
 
@@ -220,11 +248,11 @@ ii - Para os sobrevoos, sem escala, em função de distâncias ponderadas com ba
 
 9.º Voos efectuados por aeronaves cujo peso máximo à descolagem seja inferior a 2 t métricas.
 
-###### Art. 10.º - 1. Não serão aplicadas taxas de rota aos voos abrangidos pelo disposto no artigo 8.º que, antes de atravessar o espaço aéreo referido no artigo 2.º, tenham sobrevoado um ou mais Estados Membros ou Estados Contratantes, perante os quais sejam passíveis daquelas taxas.
+Art. 10.º - 1. Não serão aplicadas taxas de rota aos voos abrangidos pelo disposto no artigo 8.º que, antes de atravessar o espaço aéreo referido no artigo 2.º, tenham sobrevoado um ou mais Estados Membros ou Estados Contratantes, perante os quais sejam passíveis daquelas taxas.
 
 2. As taxas de rota devidas por estes voos serão as correspondentes ao espaço aéreo do primeiro dos Estados Membros ou Contratantes referidos no número anterior.
 
-###### Art. 11.º - 1. Aos voos efectuados por aeronaves cujo peso máximo à descolagem indicado no respectivo certificado de navegabilidade seja igual ou superior a 2 t métricas e não superior a 5,7 t métricas e que se efectuem, no todo ou em parte, em regime de voo por instrumentos (IFR) será aplicada uma taxa unitária especial, em dólares dos Estados Unidos da América, de:
+Art. 11.º - 1. Aos voos efectuados por aeronaves cujo peso máximo à descolagem indicado no respectivo certificado de navegabilidade seja igual ou superior a 2 t métricas e não superior a 5,7 t métricas e que se efectuem, no todo ou em parte, em regime de voo por instrumentos (IFR) será aplicada uma taxa unitária especial, em dólares dos Estados Unidos da América, de:
 
 a) 1,4640 para as Regiões de Informação de Voo de Lisboa;
 
@@ -234,7 +262,7 @@ b) 0,6140 para a Região de Informação de Voo Oceânica de Santa Maria.
 
 ### CAPÍTULO VI — Modalidade de pagamento
 
-###### Art. 12.º - 1. As taxas de rota devidas pelos exploradores, nos termos do artigo 1.º do [Decreto-Lei n.º 451/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1971-633939), de 26 de Outubro, serão pagas à Organização, na sua sede, em Bruxelas, ou no estabelecimento bancário português indicado na respectiva factura, nos trinta dias seguintes ao envio pelo Serviço Central de Taxas da Organização da competente nota de débito.
+Art. 12.º - 1. As taxas de rota devidas pelos exploradores, nos termos do artigo 1.º do [Decreto-Lei n.º 451/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1971-633939), de 26 de Outubro, serão pagas à Organização, na sua sede, em Bruxelas, ou no estabelecimento bancário português indicado na respectiva factura, nos trinta dias seguintes ao envio pelo Serviço Central de Taxas da Organização da competente nota de débito.
 
 2. As importâncias correspondentes às taxas de rota devidas pelos exploradores serão facturadas e pagas em dólares dos Estados Unidos da América.
 
@@ -242,16 +270,16 @@ b) 0,6140 para a Região de Informação de Voo Oceânica de Santa Maria.
 
 ### CAPÍTULO VII — Aplicação e data de entrada em vigor
 
-###### Art. 13.º À Direcção-Geral da Aeronáutica Civil competirá assegurar a boa execução deste regulamento.
+Art. 13.º À Direcção-Geral da Aeronáutica Civil competirá assegurar a boa execução deste regulamento.
 
-###### Art. 14.º A presente portaria entra em vigor em 1 de Novembro de 1973, data a partir da qual se consideram revogadas as Portarias n.os 154/72, de 20 de Março, n.º 316/72, de 2 de Junho, e n.º 590/73, de 30 de Agosto.
+Art. 14.º A presente portaria entra em vigor em 1 de Novembro de 1973, data a partir da qual se consideram revogadas as Portarias n.os 154/72, de 20 de Março, n.º 316/72, de 2 de Junho, e n.º 590/73, de 30 de Agosto.
 
 Ministério das Comunicações, 29 de Outubro de 1973. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
-## Anexo a que se refere o artigo 8.º
+Anexo a que se refere o artigo 8.º
 
 Taxa devida por uma aeronave de coeficiente de peso igual à unidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26800/22182221.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

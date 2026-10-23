@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06000/0002200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2025/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2025-912444914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 458c61e9336b2d992553636e66d7cb925c712ba5d7467496a6dacd32423b5e6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35f356b5c9fc5ae6af63852e94f641eb496241b835ea9b218baaeb6e1c82bec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Assinatura Digital
 - Beneficiário
+- Chave Móvel Digital
 - Direcção Geral da Educação
-- Jovem
 - Instituto Português do Desporto e Juventude
+- Jovem
+- Madeira.região Autónoma
 - Página na Internet
 - Programa
-- Madeira.região Autónoma
 - Publicação
-- Assinatura Digital
-- Açores
-- Chave Móvel Digital
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -118,16 +118,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre
+- type: cites
+  target: pt:dre:175397117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:884941426:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:21Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +200,13 @@ O presente decreto-lei aprova o programa de oferta de assinaturas digitais de pu
 
 1 - O Programa consiste na oferta de uma assinatura digital, com validade de 2 anos, de uma publicação periódica, a todos os jovens entre os 15 e os 18 anos, inclusive, residentes em território nacional, doravante designados por beneficiários.
 
-2 - A subscrição, sob a forma digital, abrange as publicações periódicas portuguesas de informação geral ou de informação especializada em matéria económica, de âmbito nacional, como tal classificadas nos termos da [Lei n.º 2/99](https://diariodarepublica.pt/dr/detalhe/lei/2-1999-196218), de 13 de janeiro, alterada pelas Leis n.<sup>os</sup>[18/2003](https://diariodarepublica.pt/dr/detalhe/lei/18-2003-683219), de 11 de junho, [19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8 de maio, e [78/2015](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), de 29 de julho.
+2 - A subscrição, sob a forma digital, abrange as publicações periódicas portuguesas de informação geral ou de informação especializada em matéria económica, de âmbito nacional, como tal classificadas nos termos da [Lei n.º 2/99](https://diariodarepublica.pt/dr/detalhe/lei/2-1999-196218), de 13 de janeiro, alterada pelas Leis n.os[18/2003](https://diariodarepublica.pt/dr/detalhe/lei/18-2003-683219), de 11 de junho, [19/2012](https://diariodarepublica.pt/dr/detalhe/lei/19-2012-553391), de 8 de maio, e [78/2015](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), de 29 de julho.
 
 ###### Artigo 3.º — Publicações periódicas excluídas
 
 1 - São excluídas do Programa as publicações periódicas que:
 
-a) Não estejam registadas de acordo com o disposto no [Decreto Regulamentar n.º 8/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1999-310825), de 9 de junho, alterado pelos Decretos Regulamentares n.<sup>os</sup>[7/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), de 27 de fevereiro, [2/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), de 27 de janeiro, e [7/2021](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), de 6 de dezembro, ou não obedeçam aos demais requisitos nele previstos;
+a) Não estejam registadas de acordo com o disposto no [Decreto Regulamentar n.º 8/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1999-310825), de 9 de junho, alterado pelos Decretos Regulamentares n.os[7/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441), de 27 de fevereiro, [2/2009](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996), de 27 de janeiro, e [7/2021](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2021-175397117), de 6 de dezembro, ou não obedeçam aos demais requisitos nele previstos;
 
 b) Sejam gratuitas ou que, tendo sido gratuitas, passaram a ter preço de capa ou de assinatura no mês anterior à data da entrada em vigor do presente decreto-lei;
 
@@ -266,12 +302,14 @@ Para efeitos de eventual renovação, o Programa é avaliado até ao final do 1.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Pedro Miguel Duarte - Fernando Alexandre - Margarida Balseiro Lopes.
 
-**Promulgado em 21 de março de 2025.**
+Promulgado em 21 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de março de 2025.**
+Referendado em 21 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118858221

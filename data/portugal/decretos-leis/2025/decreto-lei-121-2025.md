@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2025/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2025-946246034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eab32f4a4b1d00558d2dbeba74476f38c0a07aed48d5050cff4637767302f0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 081e864cc64a36f4bc1dafa24f179f0b74c79acc4ae08f0732341046b767fb4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Reforma Tecnológica do Estado
+- Atendimento Público
 - Horário de Funcionamento
 - Instituto de Informática
 - Lista Nominativa
-- Sistema de Informação
+- Loja do Cidadão
+- Loja do Cidadão Virtual
 - Posto de Atendimento
 - Regime de Pessoal
-- Loja do Cidadão
-- Atendimento Público
+- Sistema de Informação
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Verbas
 - Transferência Patrimonial
-- Agência para a Reforma Tecnológica do Estado
-- Loja do Cidadão Virtual
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:196/2012
+  label: Determina que na gestão, manutenção e evolução do sistema de informação de suporte à gestão de atendimento nas Lojas
+    do Cidadão (SIGA), a Agência para a Reforma Tecnológica do Estado, I. P., sucede nas atribuições e competências, bem como
+    nos direitos, obrigações e posições contratuais, do Instituto de Informática, I. P., com orgânica aprovada pelo Decreto-Lei
+    n.º 196/2012, de 23 de agosto, Diário da República n.º 163/2012, Série I
+  source: null
+  date: '2012-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
   label: null
@@ -121,16 +129,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/353/1996/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/353/1996/08/16/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:09Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +209,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-1 - O presente decreto-lei procede à criação da Loja do Cidadão Virtual e à terceira alteração ao [Decreto-Lei n.º 187/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1999-316372), de 2 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), de 18 de dezembro, e [247-A/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-a-2008-331862), de 26 de dezembro, que regula o funcionamento dos postos de atendimento existentes nas Lojas do Cidadão e define o regime do respetivo pessoal.
+1 - O presente decreto-lei procede à criação da Loja do Cidadão Virtual e à terceira alteração ao [Decreto-Lei n.º 187/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1999-316372), de 2 de junho, alterado pelos Decretos-Leis n.os[237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), de 18 de dezembro, e [247-A/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-a-2008-331862), de 26 de dezembro, que regula o funcionamento dos postos de atendimento existentes nas Lojas do Cidadão e define o regime do respetivo pessoal.
 
 2 - O presente decreto-lei concretiza ainda a transferência da atribuição relacionada com a gestão, manutenção e evolução do sistema de informação de suporte à gestão de atendimento nas Lojas do Cidadão (SIGA), para a Agência para a Reforma Tecnológica do Estado, I. P. (ARTE, I. P.).
 
@@ -183,19 +231,27 @@ Os artigos 2.º, 4.º, 5.º, 6.º, 8.º, 9.º e 11.º do [Decreto-Lei n.º 187/9
 
 2 - O regime previsto no presente diploma prevalece, em matéria de funcionamento, de atendimento e de horário dos postos de atendimento, sobre normas regulamentares que se revelem incompatíveis.
 
-###### Artigo 4.º — Autoridade Tributária e Aduaneira
+Artigo 4.º
+
+Autoridade Tributária e Aduaneira
 
 Os postos de atendimento da Autoridade Tributária e Aduaneira regem-se pelo disposto no presente diploma e, subsidiariamente, pelo [Decreto-Lei n.º 118/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2011-145591), de 15 de dezembro, na sua redação atual, e respetiva portaria orgânica.
 
-###### Artigo 5.º — Instituto dos Registos e do Notariado, I. P.
+Artigo 5.º
+
+Instituto dos Registos e do Notariado, I. P.
 
 Os postos de atendimento do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), regem-se pelo disposto no presente diploma e, subsidiariamente, pelo [Decreto-Lei n.º 314/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1998-240033), de 17 de outubro, e demais legislação aplicável.
 
-###### Artigo 6.º — Instituto Português do Desporto e da Juventude, I. P.
+Artigo 6.º
+
+Instituto Português do Desporto e da Juventude, I. P.
 
 Os postos de atendimento do Instituto Português do Desporto e da Juventude, I. P., podem revestir a natureza de Posto de Informação Juvenil no quadro da Rede Nacional de Informação Juvenil, criada pela [Portaria n.º 353/96](https://diariodarepublica.pt/dr/detalhe/portaria/353-1996-405917), de 16 de agosto.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os postos de atendimento das Lojas do Cidadão definidas por despacho do membro do Governo responsável pela área da reforma do Estado funcionam ininterruptamente entre as 8 horas e 15 minutos e as 20 horas, de segunda-feira a sexta-feira, e entre as 8 horas e 15 minutos e as 14 horas e 15 minutos, ao sábado.
 
@@ -205,7 +261,9 @@ Os postos de atendimento do Instituto Português do Desporto e da Juventude, I. 
 
 4 - O despacho referido no n.º 1 é emitido após auscultação dos membros do Governo que tutelam as entidades referidas no n.º 6 do artigo 9.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O atendimento ao público das Lojas do Cidadão referidas no n.º 1 do artigo 8.º decorre obrigatória e ininterruptamente entre as 8 horas e 30 minutos e as 19 horas e 30 minutos, de segunda-feira a sexta-feira, e entre as 8 horas e 30 minutos e as 14 horas, ao sábado.
 
@@ -221,7 +279,9 @@ Os postos de atendimento do Instituto Português do Desporto e da Juventude, I. 
 
 7 - Constituem parâmetros de avaliação a valorar no âmbito do subsistema integrado de gestão e avaliação do desempenho na Administração Pública (SIADAP) 1 da entidade pública os tempos de resposta das solicitações apresentadas por cidadãos, utentes ou beneficiários e a otimização dos níveis de serviço.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O pessoal referido no n.º 2 do artigo 1.º fica subordinado, em matéria de duração e horário de trabalho, ao regime constante da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
@@ -269,12 +329,14 @@ O presente decreto-lei entra em vigor no primeiro dia do terceiro mês seguinte 
 
 Visto e aprovado em Conselho de Ministros de 16 de outubro de 2025. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento - Gonçalo Nuno da Cruz Saraiva Matias - Adriano Rafael Sousa Moreira.
 
-**Promulgado em 6 de novembro de 2025.**
+Promulgado em 6 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de novembro de 2025.**
+Referendado em 10 de novembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119763445

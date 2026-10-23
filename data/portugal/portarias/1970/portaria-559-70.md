@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-1970-147841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac6b43c3718b0fa9b43b49a8076cb1d629b38def32ceb74e504d8aa7931d8e9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 915ef59eb8fd511c44222d5c20e6b7901ba52ce9f0d47d3759684cd496b2f1b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:372642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:53Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +91,6 @@ de 2 de Novembro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do artigo 2.º do [Decreto n.º 37050](https://diariodarepublica.pt/dr/detalhe/decreto/37050-1948-372642), de 8 de Setembro de 1948, sejam emitidos e postos em circulação na província da Guiné 1 milhão de selos postais da taxa de 2$50, com as dimensões de 34,5 mm x 30,2 mm, comemorativos do 1.º centenário da sentença arbitral sobre a soberania de Bolama, tendo como motivos a efígie de Ulysses Grant e uma vista da praça com o seu nome, na referida cidade de Bolama, impressos nas seguintes cores: azul-ultramarino, verde-cromo, verde-tília, amarelo-torrado, ouro, preto, castanho, violeta, azul-mineral, vermelho, amarelo-palha e rosa.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial da Guiné. - J. da Silva Cunha.

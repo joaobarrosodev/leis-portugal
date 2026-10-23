@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/11/22800/0675006753.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/252/2012/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2012-191285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86120e7b36c3354ea0ab19bc6c6721430f3468df6c17fb55ac1aed9ef03d6c34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2db4cfb8f14b34157efc65422b8d47f73b72f12723ee5d75cd7617ef11120015
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Pnale
-- Efeito de Estufa
-- Licença de Emissão
+- Alteração Climática
 - Aproximação das Legislações
-- Multa
+- Atividade Industrial
 - Contra-ordenação
 - Definição de Competências
-- Poluição Atmosférica
+- Efeito de Estufa
 - Fiscalização
+- Licença de Emissão
 - Licenciamento
-- Proteção do Ambiente
+- Multa
+- Pnale
 - Poluição
-- Alteração Climática
+- Poluição Atmosférica
+- Proteção do Ambiente
 - Substância Perigosa
 - Taxa
 relationships:
@@ -116,16 +116,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
+- type: repealed_by
+  target: pt:dre:259892:por
+  label: "Revogado, a partir de 16.03.2013, ( sem prejuízo do disposto no art. 35.º do presente Dec Lei 38/2013 de 15-mar,\
+    \ que mantém em vigor até 30.06.2013 ou até à conclusão de todos os procedimentos relativos ao período 2008-2012, consoante\
+    \ o que ocorrer primeiro, as disposições relativas à monitorização e reporte anual de emissões, à devolução de licenças\
+    \ de emissão e aos procedimentos ao nível do Registo de Licenças de Emissão), o Dec Lei 233/2004, de 14-dez, na redação\
+    \ do presente diploma, pelo DEC LEI.38/2013.15.03.2013.MAMAOT, DR.IS [53] de 15.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2013-259892
+  date: '2013-03-15'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:46Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +175,9 @@ Os artigos 1.º e 2.º do Decreto-Lei n.º 233/2004, de 14 de dezembro, alterado
 
 O presente decreto-lei transpõe para a ordem jurídica nacional a Diretiva n.º [2003/87/CE](https://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Diretiva n.º [96/61/CE](https://data.europa.eu/eli/dir/1996/61/oj?locale=pt), do Conselho, alterada pela Diretiva n.º [2004/101/CE](https://data.europa.eu/eli/dir/2004/101/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de outubro, no que diz respeito aos mecanismos baseados em projetos do Protocolo de Quioto, bem como os n.os10, 11 e 13 do artigo 1.º da Diretiva n.º [2009/29/CE](https://data.europa.eu/eli/dir/2009/29/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -248,7 +259,9 @@ v) 3 % na cobertura de despesas resultantes do funcionamento do comércio europe
 
 7 - A entidade responsável pela administração do Fundo Português de Carbono comunica à Comissão Europeia as medidas aprovadas, bem como a utilização dada às receitas referidas no n.º 3.
 
-###### Artigo 16.º-C — Utilização de licenças de emissão da reserva para novas instalações do período 2008-2012
+Artigo 16.º-C
+
+Utilização de licenças de emissão da reserva para novas instalações do período 2008-2012
 
 Caso se verifiquem os pressupostos e se cumpram os formalismos necessários, à luz dos direitos europeu e nacional, para a utilização das licenças sobrantes da reserva para novas instalações, prevista no PNALE II, os proventos dessa utilização constituem receitas do Fundo Português de Carbono, o qual procede à sua aplicação nos seguintes termos:
 
@@ -260,15 +273,15 @@ b) 30 % dos proventos são aplicados de acordo com a distribuição prevista nas
 
 Visto e aprovado em Conselho de Ministros de 10 de outubro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 15 de novembro de 2012.**
+Promulgado em 15 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de novembro de 2012.**
+Referendado em 19 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 3.º)
 

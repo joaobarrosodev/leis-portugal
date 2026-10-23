@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19300/0729107296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2009-491395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc833dee4ec6e9e11c8767e31a8858526a855afbdfca39c660686bfa9917739e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0596d502940165a1821ec191440c3b1cb470306ca78ffcd33bc9b419e2852a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
 - Centro de Enfermagem
-- Medicina Privada
 - Concurso Público
-- Serviço de Saúde
 - Contra-ordenação
 - Deontologia Profissional
-- Administração Regional de Saúde
 - Entidade Reguladora da Saúde
 - Licenciamento
-- Administração Central do Sistema de Saúde
-- Sistema de Informação
+- Madeira.região Autónoma
+- Medicina Privada
 - Prestação de Serviços
 - Procriação Medicamente Assistida
-- Madeira.região Autónoma
-- Açores
+- Serviço de Saúde
+- Sistema de Informação
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669996:por
+  label: "Repristinados, a partir de 21.06.2011, os arts. 18º e 19º, a al. a) do nº1 do art. 20º, as als. c), d), e), f) e\
+    \ g) do nº1 do art. 24º e os arts. 31º, 32º, 33º e 34º do Dec Lei 180/2002, de 08-Ago, revogados pelo presente diploma,\
+    \ pelo DEC LEI.72/2011.16.06.2011.MS, DR.IS [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2011-669996
+  date: '2011-06-16'
+- type: amended_by
+  target: pt:dre:484124:por
+  label: "Alterados os arts. 3.º e 19.º e revogada a al. d) do n.º 4 do art. 3.º, pelo DEC LEI.164/2013.06.12.2013.MS, DR.IS\
+    \ [237] de 06.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2013-484124
+  date: '2013-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2009/05/27/p/dre
   label: null
@@ -127,16 +140,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1532/2008/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1532/2008/12/29/p/dre
+- type: cites
+  target: pt:dre:164245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56304801:por
+  label: Revogado, a partir de 01.09.2014, na redação do Dec Lei 164/2013 de 06-dez, pelo(a) Decreto-Lei n.º 127/2014 - Diário
+    da República n.º 161/2014, Série I de 2014-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2014-56304801
+  date: '2014-08-22'
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o Dec Lei 180/2002 de 08-ago, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:39Z'
   warnings: []
   errors: []
 ---
@@ -469,12 +582,12 @@ O presente decreto-lei produz efeitos, para cada tipologia, com a publicação d
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Ana Maria Teodoro Jorge.
 
-**Promulgado em 22 de Setembro de 2009.**
+Promulgado em 22 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Setembro de 2009.**
+Referendado em 23 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

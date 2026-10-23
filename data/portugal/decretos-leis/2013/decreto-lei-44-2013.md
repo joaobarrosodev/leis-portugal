@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2013/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2013-259949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2df85fd769701d895244cb0ac3d9842f0b138cdc3963dc0ad49feb66482fe8bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdc3cc15db5b6a5c5582a094ed80f97b13286a769477c410117a3748d050a27d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,45 +71,45 @@ subjects:
 - Acreditação
 - Aeronave com Motor
 - Aeroporto
-- PSP
-- CE Países
-- Cidadão Estrangeiro
-- Formação Profissional
-- Certificação Profissional
-- Multa
-- Definição de Competências
 - Autoridade Marítima Nacional
-- Instituto Nacional de Aviação Civil
+- Autoridade para as Condições do Trabalho
+- Aviação Civil
+- CE Países
+- Certificação Profissional
+- Cidadão Estrangeiro
+- Definição de Competências
+- Direito de Estabelecimento
 - Diretor
+- Documento Eletrónico
+- Empresa Estrangeira
 - Espaço Aéreo
 - Espaço de Aviação Comum Europeu
 - Especificação Técnica
 - Fiscalização
-- Publicitação
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
-- Licenciamento
-- Licença de Trabalho
-- Documento Eletrónico
-- Mercado Interno
+- Formação Profissional
 - GNR
+- Instituto Nacional de Aviação Civil
+- Licença de Trabalho
+- Licenciamento
+- Livre Prestação de Serviços
+- Mercado Interno
+- Multa
 - Operador de Trabalho Aéreo
 - Países Terceiros
 - Pessoal Navegante
-- Sistema de Informação
+- PSP
+- Publicitação
 - Qualificação Profissional
-- Aviação Civil
 - Regime Jurídico
 - Responsabilidade Civil
 - Sanção
 - Segurança Aérea
 - Segurança da Navegação
 - Seguro Obrigatório de Responsabilidade Civil
-- Empresa Estrangeira
+- Sistema de Informação
 - TAXA de Prestação de Serviços
 - Trabalho Aéreo
 - Tráfego Aéreo
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: celex:32003R2042
@@ -166,13 +166,13 @@ relationships:
 article_structure:
   article_count: 45
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:13Z'
   warnings: []
   errors: []
 ---
@@ -873,12 +873,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2013. - Pedro Passos Coelho - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira.
 
-**Promulgado em 11 de março de 2013.**
+Promulgado em 11 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2013.**
+Referendado em 13 de março de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

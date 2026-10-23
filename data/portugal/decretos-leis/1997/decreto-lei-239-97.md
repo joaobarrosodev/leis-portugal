@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/208a00/47754780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/1997/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1997-644295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b51a127b007343f503382c4f67aab2aed79878a73ad57bef3e81b759a6b6325c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db19d3573f515dd212d7c67ef739932b4fa75a2fe5b08d67fc1ab5da8ecb076d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Municípios
-- Região Autónoma
-- Gestão de Resíduos
-- Multa
-- Direção Geral da Saúde
-- Ministro da Saúde
-- Contra-ordenação
-- Direcção Regional do Ambiente e Recursos Naturais
-- Saúde Pública
-- Fiscalização
-- Transporte de Resíduos
-- Licenciamento
-- Instituto dos Resíduos
-- Ministro do Ambiente
-- Proteção do Ambiente
-- Madeira.região Autónoma
-- Estabelecimento Hospitalar
 - Açores
-- Eliminação de Resíduos
+- Associação de Municípios
 - Autarquia Local
+- Contra-ordenação
+- Direção Geral da Saúde
+- Direcção Regional do Ambiente e Recursos Naturais
+- Eliminação de Resíduos
+- Estabelecimento Hospitalar
+- Fiscalização
+- Gestão de Resíduos
+- Instituto dos Resíduos
+- Licenciamento
+- Madeira.região Autónoma
+- Ministro da Saúde
+- Ministro do Ambiente
+- Multa
+- Proteção do Ambiente
+- Região Autónoma
+- Saúde Pública
+- Transporte de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:540016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423053:por
+  label: "Derrogada, na parte aplicável aos RIB, o disposto na Secção II do Cap. III, pelo DEC LEI.321/99.1999.08.11.MAM DR.IS-A\
+    \ [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1999-423053
+  date: '1999-08-11'
 - type: cites
   target: celex:31991L0156
   label: null
@@ -102,16 +108,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/310/1995/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/310/1995/11/20/p/dre
+- type: repealed_by
+  target: pt:dre:540016:por
+  label: "Revogado pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
 article_structure:
   article_count: 27
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:50Z'
   warnings: []
   errors: []
 ---
@@ -376,7 +387,7 @@ A fiscalização do cumprimento do presente diploma incumbe ao Instituto dos Res
 
 ###### Artigo 19.º — Medidas cautelares
 
-**O Ministro da Saúde ou o Ministro do Ambiente podem, por despacho, em caso de emergência ou perigo grave para a saúde pública ou o ambiente, adoptar medidas cautelares adequadas, nomeadamente a suspensão de qualquer operação de gestão de resíduos.**
+O Ministro da Saúde ou o Ministro do Ambiente podem, por despacho, em caso de emergência ou perigo grave para a saúde pública ou o ambiente, adoptar medidas cautelares adequadas, nomeadamente a suspensão de qualquer operação de gestão de resíduos.
 
 ###### Artigo 20.º — Contra-ordenações
 
@@ -446,12 +457,12 @@ O regime previsto no presente diploma aplica-se às Regiões Autónomas dos Aço
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 16 de Agosto de 1997.**
+Promulgado em 16 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1997.**
+Referendado em 21 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

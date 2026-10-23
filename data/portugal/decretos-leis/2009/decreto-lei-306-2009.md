@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/306/2009/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2009-483154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 052510f61da8b65cc1baf98af135a9ce900929b554de21e9ce0af9a93b9d4fec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c68252fb5de63de9d8d3cb6acadc9e37d70d1b1b0d229333877f7ed4a53ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Coeficiente de Actualização
-- Comissão Arbitral Municipal
-- Obras Particulares
-- Obras de Conservação e Restauro
 - Arrendamento Urbano não Habitacional
-- Definição de Competências
-- Renovação Urbana
-- Direito de Preferência
-- Coeficiente de Conservação
-- Prédio Rústico
-- Regime Jurídico
-- Prédio Urbano
 - Arrendamento Urbano para Habitação
 - Autarquia Local
+- Coeficiente de Actualização
+- Coeficiente de Conservação
+- Comissão Arbitral Municipal
+- Definição de Competências
+- Direito de Preferência
+- Obras de Conservação e Restauro
+- Obras Particulares
+- Prédio Rústico
+- Prédio Urbano
+- Regime Jurídico
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:107514239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175304:por
+  label: "Alterados, a partir de 12.11.2012, os arts. 1º, 4º, 6º, 7º, 8º , 25º e 26º do Dec Lei 157/2006, de 08-ago, na redação\
+    \ do presente diploma, pela LEI.30/2012.14.08.2012.AR, DR.IS [157] de 14.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2012-175304
+  date: '2012-08-14'
+- type: amended_by
+  target: pt:dre:65949851:por
+  label: Alterados a partir de 18.01.2015 os arts. 1.º, 2.º, 4.º, 7.º, 8.º, 24.º e 25.º do Dec Lei 157/2006, de 08-ago, na
+    redação do presente diploma, pelo(a) Lei n.º 79/2014 - Diário da República n.º 245/2014, Série I de 2014-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-2014-65949851
+  date: '2014-12-19'
+- type: amended_by
+  target: pt:dre:107514239:por
+  label: Alterados a partir de 24.06.2017, os arts. 6.º e 7.º do Dec Lei 157/2006, de 08-ago, na redação do presente diploma,
+    DR.IS [152] pelo(a) Lei n.º 42/2017 - Diário da República n.º 114/2017, Série I de 2017-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2017-107514239
+  date: '2017-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2006/08/08/p/dre
   label: null
@@ -101,16 +119,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95-a/2009/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95-a/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:07Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +185,15 @@ d) À actualização da renda na sequência de obras de reabilitação.
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Cabe ao senhorio efectuar as obras necessárias à manutenção do estado de conservação do prédio arrendado, nos termos dos artigos 1074.º e 1111.º do Código Civil, bem como da legislação urbanística aplicável, nomeadamente do regime jurídico da urbanização e da edificação e do regime jurídico da reabilitação urbana.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As obras, nomeadamente de conservação e reconstrução, que obrigam, para a sua realização, à desocupação do locado são consideradas, para efeitos do presente decreto-lei, obras de remodelação ou restauro profundos.
 
@@ -165,7 +203,9 @@ Cabe ao senhorio efectuar as obras necessárias à manutenção do estado de con
 
 4 - As obras referidas nos números anteriores podem decorrer de intervenções urbanísticas realizadas em área de reabilitação urbana, no âmbito do regime jurídico da reabilitação urbana.
 
-###### Artigo 5.º — Vicissitudes contratuais em caso de remodelação, restauro ou demolição do locado
+Artigo 5.º
+
+Vicissitudes contratuais em caso de remodelação, restauro ou demolição do locado
 
 1 - Quando o senhorio pretenda realizar obras de remodelação ou restauro profundos, nomeadamente de conservação e reconstrução, pode haver lugar a denúncia do contrato ou suspensão da sua execução pelo período de decurso daquelas.
 
@@ -177,7 +217,9 @@ b) No caso de obras estruturais, se preveja a existência de local com caracter�
 
 3 - Quando o senhorio pretenda demolir o locado, pode haver lugar a denúncia do contrato.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Quando optar por denunciar o contrato para remodelação ou restauro profundos, nos termos do artigo anterior, o senhorio fica obrigado, em alternativa:
 
@@ -195,7 +237,9 @@ b) À garantia do realojamento do arrendatário por período não inferior a cin
 
 6 - Tratando-se de obra realizada no âmbito do regime da reabilitação urbana aplica-se o disposto no artigo 73.º daquele regime.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Quando o senhorio optar por denunciar o contrato para demolição do locado, nos termos do artigo 5.º, aplica-se o regime previsto no artigo anterior.
 
@@ -207,7 +251,9 @@ b) Decorra de plano de pormenor de reabilitação urbana.
 
 3 - A aplicação do regime de demolição regulado nos números anteriores não prejudica, caso se trate de edifício abrangido em área de reabilitação urbanística, a aplicação do regime jurídico da reabilitação urbanística.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A denúncia do contrato para remodelação ou restauro profundos ou para demolição é feita mediante acção judicial, onde se prove estarem reunidas as condições que a autorizam.
 
@@ -223,13 +269,17 @@ b) Decorra de plano de pormenor de reabilitação urbana.
 
 7 - Nas situações previstas no n.º 2 do artigo 24.º, bem como nas operações de reabilitação urbana no âmbito do respectivo regime, a sentença judicial é substituída por certidão emitida pela câmara municipal ou pela entidade gestora das operações de reabilitação urbana que ateste a necessidade de realização de obras de remodelação ou restauro profundos e de demolição, operando a denúncia efeitos a partir da entrega pelo senhorio dos valores referidos nos números anteriores.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Quando optar por suspender a execução do contrato para remodelação ou restauro profundos, pelo período de decurso das obras, nos termos do artigo 5.º, o senhorio fica obrigado a assegurar o realojamento do arrendatário durante esse tempo.
 
 2 - Aplica-se ao realojamento do arrendatário o disposto na alínea b) do n.º 1 e no n.º 5 do artigo 6.º ou, se for o caso, o disposto no artigo 73.º do regime jurídico da reabilitação urbana.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A suspensão da execução do contrato para remodelação ou restauro profundos é feita mediante comunicação do senhorio ao arrendatário:
 
@@ -253,13 +303,17 @@ c) Da data de início e duração previsível das obras.
 
 8 - O senhorio comunica ao arrendatário a conclusão das obras, devendo o arrendatário reocupar o locado no prazo de três meses, salvo justo impedimento, sob pena de caducidade do contrato de arrendamento.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A faculdade de demolição tem lugar quando se verifiquem uma das situações previstas no n.º 2 do artigo 7.º
 
 2 - Existe ainda a faculdade de demolição quando esta for considerada pelo município a solução tecnicamente mais adequada ou a demolição seja necessária à execução de plano municipal de ordenamento do território ou aprovação de área de reabilitação urbana.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Em caso de denúncia do contrato de arrendamento para realização de obras de remodelação ou restauro profundo ou para demolição do prédio, que ocorre mediante acção judicial, o arrendatário habitacional tem o direito de ser realojado, devendo na petição inicial da acção ser indicado o local destinado ao realojamento e a respectiva renda.
 
@@ -275,7 +329,9 @@ c) Da data de início e duração previsível das obras.
 
 7 - A morte do arrendatário realojado é causa de caducidade do contrato de arrendamento referido no número anterior, devendo o locado ser restituído no prazo de seis meses a contar do decesso.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Em caso de denúncia do contrato para realização de obras de remodelação ou restauro profundo ou para demolição do locado, o arrendatário não habitacional tem direito a uma indemnização no valor de todas as despesas e danos, patrimoniais e não patrimoniais, tendo em conta o valor das benfeitorias realizadas e dos investimentos efectuados em função do locado, não podendo o valor da indemnização ser inferior ao valor de cinco anos de renda, com o limite mínimo correspondente a 60 vezes a retribuição mínima mensal garantida.
 
@@ -283,7 +339,9 @@ c) Da data de início e duração previsível das obras.
 
 3 - No caso de a indemnização apurada ser de montante superior ao referido no número anterior, a denúncia do contrato não produz efeitos sem que se comprove depositada a totalidade daquela quantia.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O senhorio que realize obras de reabilitação ou que participe em operação urbanística de reabilitação nos três anos antes de proceder à actualização da renda nos termos da secção ii do NRAU, das quais resulte a atribuição à totalidade do prédio ou fracção onde se situa o locado de nível de conservação bom ou excelente, nos termos do [Decreto-Lei n.º 156/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2006-538618), de 8 de Agosto, pode actualizar a renda anual tendo por base a fórmula seguinte:
 
@@ -303,12 +361,12 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.
 
-**Promulgado em 15 de Outubro de 2009.**
+Promulgado em 15 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Outubro de 2009.**
+Referendado em 16 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

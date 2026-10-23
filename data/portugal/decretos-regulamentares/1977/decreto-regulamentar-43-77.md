@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1977-253067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26d0e57a293500eeb4b2bb4670966b7f73121327bff6a17ad7e9f3d9e0c43c70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbf67f9fbd6b47a4f858f77cc61c420c5132febe31805735c5a7c189f21e719c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Direcção Geral de Portos
+- Junta Autónoma dos Portos
+- Pessoal Assalariado
+- Pessoal Contratado
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:165862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:251217:por
+  label: Rectificado pela DECL.DD7946.25.07.1977.PCM, DR.IS [170] de 25.07.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-251217
+  date: '1977-07-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:03Z'
   warnings: []
   errors: []
 ---
@@ -95,27 +114,27 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O pessoal contratado e assalariado nos termos dos artigos 52.º e 53.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, passará a prestar serviço em regime de contrato com as designações e categorias constantes do mapa anexo ao presente diploma.
+Artigo 1.º - 1. O pessoal contratado e assalariado nos termos dos artigos 52.º e 53.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, passará a prestar serviço em regime de contrato com as designações e categorias constantes do mapa anexo ao presente diploma.
 
 2. O disposto no número anterior é aplicável ao pessoal contratado e assalariado além do quadro, admitido pela Direcção-Geral de Portos ao abrigo do [Decreto-Lei n.º 610/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/610-1971-165862), de 30 de Dezembro.
 
-###### Art. 2.º - 1. O pessoal referido no artigo anterior é integrado nas categorias correspondentes do mapa anexo, mediante listas nominativas aprovadas pelo Ministro dos Transportes e Comunicações, com dispensa de todas as formalidades, excepto o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 2.º - 1. O pessoal referido no artigo anterior é integrado nas categorias correspondentes do mapa anexo, mediante listas nominativas aprovadas pelo Ministro dos Transportes e Comunicações, com dispensa de todas as formalidades, excepto o visto do Tribunal de Contas e a publicação no Diário da República.
 
 2. Para efeitos da integração referida no número anterior são dispensadas as habilitações mínimas superiores à escolaridade obrigatória segundo a idade do candidato para provimento em lugares que não ultrapassem a letra N.
 
-###### Art. 3.º O Estatuto das Juntas Autónomas dos Portos e a lei orgânica da Direcção-Geral de Portos fixarão os quadros de pessoal e as respectivas normas de provimento.
+Art. 3.º O Estatuto das Juntas Autónomas dos Portos e a lei orgânica da Direcção-Geral de Portos fixarão os quadros de pessoal e as respectivas normas de provimento.
 
-###### Art. 4.º O presente diploma produzirá todos os efeitos legais, inclusive quanto a vencimentos, desde 1 de Janeiro de 1977.
+Art. 4.º O presente diploma produzirá todos os efeitos legais, inclusive quanto a vencimentos, desde 1 de Janeiro de 1977.
 
-###### Art. 5.º As dúvidas resultantes da aplicação deste diploma serão resolvidas mediante despacho conjunto do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública, e também do Ministro das Finanças, quando for caso disso.
+Art. 5.º As dúvidas resultantes da aplicação deste diploma serão resolvidas mediante despacho conjunto do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública, e também do Ministro das Finanças, quando for caso disso.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 7 de Junho de 1977.**
+Promulgado em 7 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 1.º do Decreto Regulamentar n.º 43/77
 
@@ -325,4 +344,4 @@ Mestres de ofício ... L
 
 Mestres de 2.ª classe ... M
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

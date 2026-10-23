@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/2009/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2009-490259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d208cd8dacd18c553739b5fb9e21380d67aa02878f5272d240f4657d7c83fb03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0046b346bc22b0e9ce07546e85d64c42503c323864b8dc78c1f26fe305b1a75e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
-- Região Autónoma
+- Autoridade Florestal Nacional
 - Certificado Fitossanitário
 - Contra-ordenação
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Direcção Geral de Protecção das Culturas
 - Controlo Sanitário
-- Nemátodo
-- Saúde Pública
+- Definição de Competências
+- Direcção Geral de Protecção das Culturas
+- Direcção Regional de Agricultura e Pescas
+- Exportação
 - Fiscalização
 - Importação
-- Exportação
-- Proteção Fitossanitária
-- Autoridade Florestal Nacional
+- Nemátodo
 - Produção Vegetal
-- Agricultura
-- Taxa
 - Produto Agrícola
+- Proteção Fitossanitária
+- Região Autónoma
+- Saúde Pública
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616805:por
+  label: "Alterados os anexos II, IV e V do Dec Lei 154/2005 de 06-Set, com a redacção constante deste diploma, pelo DEC LEI.7/2010.25.01.2010.MADRP,\
+    \ DR.IS [16] de 25.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2010-616805
+  date: '2010-01-25'
+- type: amended_by
+  target: pt:dre:613403:por
+  label: "Alterados os arts. 4º e 9º , bem como os anexos II e IV, do Dec Lei 154/2005, de 06-Set, na redacção do presente\
+    \ diploma, pelo DEC LEI.32/2010.13.04.2010.MADRP, DR.IS [71] de 13.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2010-613403
+  date: '2010-04-13'
+- type: amended_by
+  target: pt:dre:58801094:por
+  label: Alterados os arts. 3º, 4º, 5º, 9º e 26º bem como os anexos I, II, IV, V e X do Dec Lei 154/2005, de 06-set, na redação
+    do presente diploma pelo(a) Decreto-Lei n.º 170/2014 - Diário da República n.º 216/2014, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2014-58801094
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados os anexos I, II, IV, V e X do Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos i, ii, iv e v ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -109,16 +145,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15, sem prejuízo
+    do disposto no art. 28.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:10Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +271,9 @@ dd) ...
 
 ee) ...
 
-###### Artigo 4.º — Serviços responsáveis
+Artigo 4.º
+
+Serviços responsáveis
 
 1 - Compete à Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR), organismo que detém a qualidade de autoridade fitossanitária nacional, a aplicação e o controlo do disposto no presente decreto-lei e legislação complementar, em articulação com as direcções regionais de agricultura e pescas (DRAP) e a Autoridade Florestal Nacional (AFN), nos termos previstos em diploma próprio.
 
@@ -241,7 +285,9 @@ ee) ...
 
 5 - As pessoas colectivas, públicas ou privadas, referidas no número anterior, devem ter consagrado nos seus diplomas orgânicos ou nos seus estatutos que prosseguem exclusivamente fins de interesse público, não podendo estas ou os seus membros tirar qualquer proveito pessoal dos resultados do exercício das actividades que lhes venham a ser delegadas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O inspector fitossanitário é o agente oficial, possuindo licenciatura ou bacharelato na área das ciências agrárias, com disciplinas de protecção vegetal, pertencente aos serviços responsáveis em matéria de protecção fitossanitária, habilitado igualmente com formação específica ministrada sob responsabilidade da DGADR para efectuar as inspecções fitossanitárias e demais medidas previstas no presente decreto-lei.
 
@@ -251,7 +297,9 @@ ee) ...
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeitos do cumprimento das medidas de protecção fitossanitária, os seguintes operadores económicos devem estar obrigatoriamente inscritos no registo oficial:
 
@@ -271,7 +319,9 @@ e) Os operadores económicos referidos na Portaria n.º 1339-A/2008, de 20 de No
 
 3 - O registo oficial dos operadores económicos pode ser suspenso ou cancelado quando se verifique que aqueles agentes não cumprem as medidas de protecção fitossanitária em vigor ou exerçam actividades para as quais não detenham as autorizações oficiais específicas referidas no número anterior.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima de montante mínimo de (euro) 100 e máximo de (euro) 3740, ou mínimo de (euro) 250 e máximo de (euro) 44 890, consoante o agente seja pessoa singular ou colectiva:
 
@@ -307,14 +357,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Carlos Manuel Baptista Lobo - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Ascenso Luís Seixas Simões - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/18100/0662106696.pdf))](https://files.diariodarepublica.pt/1s/2009/09/18100/0662106696.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/18100/0662106696.pdf)

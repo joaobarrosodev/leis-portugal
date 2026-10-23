@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/2007/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2007-520853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6856ad7c8fac28d4fa4b11c2cf92f404dc53abaa193671e6e0ed0cdfba92b9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0afefc310e9498e2fc7933539fbb05c1788ae16a0ab44de511becc7775584d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,21 @@ subjects:
 - Comissão de Acompanhamento
 - Comissão de Trabalhadores
 - Fundo de Pensões
+- Informação do Consumidor
 - Instituto de Seguros de Portugal
 - Sociedade Gestora de Fundos de Pensões
-- Informação do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:70237675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70237675:por
+  label: Alterados, com efeitos a partir de 01.01.2016, os arts 53.º e 61.º do Dec Lei 12/2006 de 20-jan, na redação do presente
+    diploma, pelo(a) Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09 que procede à republicação
+    do citado Dec Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/147-2015-70237675
+  date: '2015-09-09'
 - type: cites
   target: celex:32003L0041
   label: null
@@ -86,15 +93,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/12/2006/01/20/p/dre
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:18Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +168,9 @@ Os artigos 53.º e 61.º do Decreto-Lei n.º 12/2006, de 20 de Janeiro, passam a
 
 13 - O Instituto de Seguros de Portugal, na norma regulamentar referida no n.º 11, pode prever as situações em que, mediante acordo entre o associado ou associados e os representantes dos participantes e beneficiários, pode ser constituída uma única comissão de acompanhamento para vários planos de pensões e ou fundos de pensões.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -187,12 +196,12 @@ O presente decreto-lei entra em vigor no prazo de 60 dias após a sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - António Fernandes da Silva Braga - Fernando Teixeira dos Santos - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 24 de Abril de 2007.**
+Promulgado em 24 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 26 de Abril de 2007.**
+Referendado em 26 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

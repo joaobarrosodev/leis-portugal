@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/50/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/50-2008-454807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab01e1c41a4a9846a9105b577c48ebcea13ec91c49f870f536b86af30eb45257
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8112308a1ec433cc43d531a4e6384d32a61129ab7531990c62195ec948e03585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
+- Bruxelas
 - CE Países
-- Transporte Aéreo
 - Comunidade Europeia
 - Convenção
+- EUA
 - Portugal
-- Bruxelas
+- Transporte Aéreo
 - Washington
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/37/2008/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/37/2008/07/29/p/dre
+- type: cites
+  target: pt:dre:454816:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:09Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +102,16 @@ validation:
 
 de 29 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Transporte Aéreo entre a Comunidade Europeia e os Seus Estados Membros, por um lado, e os Estados Unidos da América, por outro, assinado em Bruxelas em 25 de Abril de 2007 e em Washington em 30 de Abril de 2007, incluindo os anexos n.os 1 a 5 e a Declaração Comum, aprovado pela [Resolução da Assembleia da República n.º 37/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-2008-454816), em 30 de Maio.
 
-**Assinado em 16 de Julho de 2008.**
+Assinado em 16 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Julho de 2008.**
+Referendado em 22 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

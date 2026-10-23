@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24493-1969-213021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ba5800caf92508ff87b040e0c938a4d082e34ca7e1cc5e5b5915504cd6c40d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a168d78ce01a7234c9a5243261f0a6a1c30a8bc3d588686901f61a874519141
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:33Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ a) Uma da importância de 6000000$00, destinada a reforçar, com as quantias que
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2032.º «Deslocações do pessoal»:
+Artigo 2032.º «Deslocações do pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 3000000$00
 
@@ -108,9 +120,9 @@ b) Um da importância de 5800000$00, destinado a reforçar, com as quantias que 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2032.º, n.º 5), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole» ... 4000000$00
+Artigo 2032.º, n.º 5), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por quaisquer outros motivos - A pagar na metrópole» ... 4000000$00
 
-###### Artigo 2033.º «Diversas despesas»:
+Artigo 2033.º «Diversas despesas»:
 
 N.º 8), alínea a) «Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - A pagar na metrópole» ... 800000$00
 

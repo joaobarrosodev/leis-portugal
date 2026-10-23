@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/2005/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2005-220172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05eeca7534a44eefd53b52634f554689f377791904618d422d2fad2455c5d629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7de22c83e223260043bb5d437c110f1eb5b769d3c1a1a4030bdc2af9bc4940de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,34 @@ relationships:
   target: pt:dre:123407853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123407853:por
+  label: Alterado o art. 1.º, na redação do presente diploma, do Dec Lei 283/93 de 18-ago, pelo(a) Decreto-Lei n.º 96/2019
+    - Diário da República n.º 139/2019, Série I de 2019-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2019-123407853
+  date: '2019-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/283/1993/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/283/1993/08/18/p/dre
+- type: cites
+  target: pt:dre:329453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382977:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:32Z'
   warnings: []
   errors: []
 ---
@@ -123,12 +137,12 @@ O artigo 1.º do [Decreto-Lei n.º 283/93](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 2005. - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 16 de Maio de 2005.**
+Promulgado em 16 de Maio de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Maio de 2005.**
+Referendado em 19 de Maio de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

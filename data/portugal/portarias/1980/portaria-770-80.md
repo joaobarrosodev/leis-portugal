@@ -46,40 +46,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/770-1980-461588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cb4e5da7d4372e17a32ebd27e1b2ca125a77c7653daeb2a16e1e75d7ff968f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd05f289ea9b2e1e9ef890b6a28d84e92bca26693096750d8cbbf4329c59bfbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de EGAS Moniz
+- Lisboa
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:431991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609102:por
+  label: "Alterado o quadro de pessoal pela PORT.313/82.1982.03.24.MFP DR.IS [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-1982-609102
+  date: '1982-03-24'
+- type: amended_by
+  target: pt:dre:309689:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção da Port 313/82, de 24-Mar, pela PORT.191/83.1983.03.02.MFP\
+    \ DR.IS [50] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-1983-309689
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:660760:por
+  label: "Alterada pela PORT.52/84.1984.01.25.PCM, DR.IS [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-1984-660760
+  date: '1984-01-25'
+- type: amended_by
+  target: pt:dre:386592:por
+  label: "PORT.368/84.1984.06.14.PCM DR.IS [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/368-1984-386592
+  date: '1984-06-14'
+- type: amended_by
+  target: pt:dre:396368:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção das Port 313/82, de 24-Mar, 191/83, de\
+    \ 02-Mar, 52/84, de 25-Jan e 368/84, de 14-Jun, pela PORT.957/84.1984.12.22.PCM DR.IS [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/957-1984-396368
+  date: '1984-12-22'
+- type: amended_by
+  target: pt:dre:182664:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção das Port 313/82, de 24-Mar,191/83, de 02-Mar,\
+    \ 52/84, de 25-Jan, 368/84, de 14-Jun e 957/84, de 22-Dez, pela PORT.442/85.1985.07.09.PCM DR.IS [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1985-182664
+  date: '1985-07-09'
+- type: amended_by
+  target: pt:dre:662544:por
+  label: "Alterado o quadro de pessoal (aprovado pelo presente diploma, na redacção das Port 313/82 de 24-Mar, 191/83 de 02-Mar,\
+    \ 52/84 de 25-Jan, 368/84 de 14-Jun, 957/84 de 22-Dez e 442/85 de 09-Jul) pela PORT.165/87.1987.03.10.MF, DR.IS [57]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1987-662544
+  date: '1987-03-10'
+- type: amended_by
+  target: pt:dre:662319:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção das Ports. 313/82, de 24-Mar e 442/85,\
+    \ de 09-Jul, pela PORT.208/87.1987.03.23.MF DR.IS [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/208-1987-662319
+  date: '1987-03-23'
+- type: amended_by
+  target: pt:dre:287386:por
+  label: "Alterado na exacta medida do actual quadro de pessoal do Centro de Neurocirurgia de Lisboa, aprovado pela Port 640/80,\
+    \ de 16-Set, o quadro de pessoal do Hospital de Egas Moniz, aprovado pelo presente diploma, pelo DEC LEI.84/88.09.03.1988.MS,\
+    \ DR.IS [57] de 09.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-1988-287386
+  date: '1988-03-09'
+- type: amended_by
+  target: pt:dre:612259:por
+  label: "Extinto o lugar de chefe de serviço do Hospital de Egas Moniz, aprovado pelo presente diploma, pela PORT.142/89.27.02.1989.MF,\
+    \ DR.IS [48] de 27.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1989-612259
+  date: '1989-02-27'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital de Egas Moniz pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORT 857/91 DE 20-AGO DR.IS [190]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO HOSPITAL DE EGAS MONIZ, PELA PORT 1043/93 DE 18-OUT DR.IS-B [244]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-18'
+- type: amended_by
+  target: pt:dre:668720:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 1018/95 DE 21-AGO DR.IS-B [192]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1043-1993-668720
+  date: '1995-08-21'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:44Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +195,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital de Egas Moniz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/22800/30853087.pdf))](https://files.diariodarepublica.pt/1s/1980/10/22800/30853087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/22800/30853087.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/2005/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2005-464776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a869d2c9fe7c4d0073532a97146f0bd1eaf88e74a03cbb6e24fbbf159e19f80b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a24a8f01f08cd34068ec8dbdcd20ef8c7bd413273d00c50631866e67233cadc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
 - Bonificação de Pensões
 - Cálculo de Pensões
-- Marinha
 - Idade de Reforma
-- Pessoal Militarizado
 - Incapacidade Física
+- Marinha
+- Pessoal Militarizado
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2005/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2005/06/30/p/dre
+- type: cites
+  target: pt:dre:233731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564784:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632448:por
+  label: "Revogado o nº 2 do art. 3º pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:00Z'
   warnings: []
   errors: []
 ---
@@ -160,15 +177,15 @@ c) Seja julgado física ou psiquicamente incapaz para todo o serviço mediante p
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado.
 
-**Promulgado em 9 de Dezembro de 2005.**
+Promulgado em 9 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Dezembro de 2005.**
+Referendado em 15 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Tabela anexa a que se refere o n.º 2 do artigo 3.º
 

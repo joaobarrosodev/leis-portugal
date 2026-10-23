@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1990-557856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1699a1cee3139822b1a9d34202f752b635bd5e56a03f494a83f2c88f5c6763c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 661450dd6a0d5b077960db76942a7ac7a7cfadd9f9be2828b4ae25c61566a022
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Albufeiras
+- Artes de Pesca
+- Contra-ordenação
+- Crime
+- Embarcação
+- Gestão dos Recursos
+- Jurisdição
+- Licenciamento
+- Mar Territorial
+- Multa
+- Pesca
+- Proteção do Ambiente
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:70309904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292958:por
+  label: "Alterados os arts. 10º e 52º do DR 43/87 de 17-Jul, com a redacção conferida no presente diploma, pelo DR.7/2000.30.05.2000.MADRP,\
+    \ DR.IS-B [125] de 30.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2000-292958
+  date: '2000-05-30'
+- type: amended_by
+  target: pt:dre:70309904:por
+  label: Alterado o art. 45.º do DR 43/87 de 17-jul, com a redação do presente diploma, pelo(a) Decreto Regulamentar n.º 16/2015
+    - Diário da República n.º 181/2015, Série I de 2015-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-2015-70309904
+  date: '2015-09-16'
+- type: corrected_by
+  target: pt:dre:624208:por
+  label: Rectificado o art. 1º (na redacção que conferiu ao art. 11º, ao nº 2 do art. 30º e às als. c) do nº 1 e do nº 2 do
+    art. 82º do DR 43/87 de 17-Jul), e os anexos I, IV, V e VI (que substituíram os anexos com a mesma numeração do citado
+    diploma) pela DECL.DD3137.1990.10.31.PCM, DR.IS [252]2ºSupl de 31.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-624208
+  date: '1990-10-31'
+- type: repealed_by
+  target: pt:dre:217326:por
+  label: "Revogado o art. 82.º do DR 43/87, de 17-Jul, com a redacção dada pelo presente diploma, pelo DEC LEI.383/98.1998.11.27.MADRP\
+    \ DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1998-217326
+  date: '1998-11-27'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:48Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +139,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 2 do artigo 3.º e no artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 10.º, 11.º, 18.º, 19.º, 23.º, 30.º, 34.º, 45.º, 52.º e 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 10.º, 11.º, 18.º, 19.º, 23.º, 30.º, 34.º, 45.º, 52.º e 82.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 10.º — [...]
 
@@ -261,7 +299,7 @@ b) De 10 dias a um ano, no caso das contra-ordenações tipificadas nas restante
 
 10 - Os bens apreendidos nos termos do número anterior são considerados perdidos a favor do Estado, desde que não seja possível identificar o seu proprietário.
 
-###### Art. 2.º É aditado ao Decreto Regulamentar n.º 43/87, de 17 de Julho, o artigo 51.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao Decreto Regulamentar n.º 43/87, de 17 de Julho, o artigo 51.º-A, com a seguinte redacção:
 
 ###### Artigo 51.º-A — Outros condicionalismos ao exercício da pesca
 
@@ -269,38 +307,38 @@ b) De 10 dias a um ano, no caso das contra-ordenações tipificadas nas restante
 
 2 - O exercício da pesca por embarcações que sejam licenciadas para utilizarem, em áreas determinadas, artes de pesca com características diferentes das genericamente estabelecidas pode ser sujeito a condicionalismos de actividade adicionais aos já existentes, nomeadamente no que se refere ao respectivo licenciamento e áreas de operação, a estabelecer por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 3.º São revogados os artigos 35.º, 36.º, 37.º e 38.º do Decreto Regulamentar n.º 43/87, de 17 de Julho.
+Art. 3.º São revogados os artigos 35.º, 36.º, 37.º e 38.º do Decreto Regulamentar n.º 43/87, de 17 de Julho.
 
-###### Art. 4.º São eliminados os anexos II e III ao Decreto Regulamentar n.º 43/87, de 17 de Julho.
+Art. 4.º São eliminados os anexos II e III ao Decreto Regulamentar n.º 43/87, de 17 de Julho.
 
-###### Art. 5.º Os anexos I, IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, são substituídos pelos anexos ao presente diploma, com a mesma numeração, que dele fazem parte integrante.
+Art. 5.º Os anexos I, IV, V e VI ao Decreto Regulamentar n.º 43/87, de 17 de Julho, são substituídos pelos anexos ao presente diploma, com a mesma numeração, que dele fazem parte integrante.
 
 Presidência do Conselho de Ministros 25 de Junho de 1990.
 
 Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha.
 
-**Promulgado em 13 de Julho de 1990.**
+Promulgado em 13 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Julho de 1990.**
+Referendado em 20 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Malhagens mínimas das redes de arrastar (referidas no artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
 
 ## ANEXO IV — Tamanhos mínimos (em centímetros) de espécies protegidas a que se refere o anexo II do Regulamento (CEE) n.º [3094/86](http://data.europa.eu/eli/reg/1986/3094/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
 
 ## ANEXO V — Tamanhos mínimos de outras espécies de acordo com o anexo III do Regulamento (CEE) n.º [3094/86](http://data.europa.eu/eli/reg/1986/3094/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
 
 ## ANEXO VI — Tamanhos mínimos de outras espécies fixados ao abrigo do artigo 14.º do Regulamento (CEE) n.º [3094/86](http://data.europa.eu/eli/reg/1986/3094/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21000/36843689.pdf)

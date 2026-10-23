@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11800/0306403067.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2012/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2012-178815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e60c8a7a1c5a5dcec7219a300f388e2c2c091c288c06d1dfcc7c992e6f59cd07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2523376bdea5db84b2bb6c03db8870cfa1330b4d6f07eb75dff336ab05aaa50a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
 - Instituto Financeiro para o Desenvolvimento Regional
 - Orgânica
 - Presidente
@@ -77,6 +77,27 @@ relationships:
   target: pt:dre:503034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Integrado na Presidência do Conselho de Ministros (cuja orgânica consta do Dec Lei 126-A/2011 de 29-dez) o Instituto\
+    \ Financeiro para o Desenvolvimento Regional, I.P, (IFDR, I.P.), anteriormente no âmbito do Ministério da Economia e do\
+    \ Emprego (cuja orgânica consta do Dec Lei 126-C/2011 de 29-dez) pelo DEC LEI.60/2013.09.05.2013.PCM, DR.IS [89] de 09.05.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Integrado na Presidência do Conselho de Ministros, cuja orgânica consta do Dec Lei 126-A/2011, de 29-dez, pelo DEC\
+    \ LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:503034:por
+  label: "Extinto o Instituto Financeiro para o Desenvolvimento Regional, I.P., sucedendo-lhe a Agência para o Desenvolvimento\
+    \ e Coesão, I.P. integrada na Presidência do Conselho de Ministros, cuja orgânica consta do Dec Lei 126-A/2011, de 29-dez,\
+    \ e revogado o presente diploma, pelo DEC LEI.140/2013.18.10.2013.PCM, DR.IS [202] de 18.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2013-503034
+  date: '2013-10-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
   label: null
@@ -89,16 +110,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:521029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:45Z'
   warnings: []
   errors: []
 ---
@@ -285,12 +318,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 26 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 13 de junho de 2012.**
+Promulgado em 13 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de junho de 2012.**
+Referendado em 14 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

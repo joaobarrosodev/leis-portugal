@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/2009/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2961aba1cbd0f9338a6e2bde37715d363d0a137ea710f40705d4411b35e4b0ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec99f4065ab84ae83d3d0e2572845e627e2d1b89ff11dfea119ff49b2b1aeeae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,93 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação de Obras Públicas
+- Administração Pública
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Garantia
+- Associação
+- Autarquia Local
+- Código dos Contratos Públicos
 - Concurso Público
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Empreitada de Obras Públicas
 - Empresa Pública
-- Administração Pública
+- Estabelecimento Hospitalar
 - Fundação Pública
+- Garantia
 - Indemnização
 - Instituição de Investigação
 - Locação Financeira
 - Obras Públicas
 - Organismo do Estado
-- Código dos Contratos Públicos
 - Prazo
-- Estabelecimento Hospitalar
-- Associação
-- Autarquia Local
 - Vistoria
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:108086621:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614148:por
+  label: "Alterados, a partir de 01.09.2010, os arts. 299º e 326º e aditado o art. 299º-A ao Código dos Contratos Públicos,\
+    \ aprovado pelo Dec Lei 18/2008, de 29-Jan, republicado pelo presente diploma, pela LEI.3/2010.27.04.2010.AR, DR.IS [81]\
+    \ de 27.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-2010-614148
+  date: '2010-04-27'
+- type: amended_by
+  target: pt:dre:179776:por
+  label: "Alterados os art.s 2º, 5º, 55º, 58º, 86º e 370º do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008,\
+    \ de 29-jan, na redação do presente diploma, pelo DEC LEI.149/2012.12.07.2012.MEE, DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2012-179776
+  date: '2012-07-12'
+- type: amended_by
+  target: pt:dre:108086621:por
+  label: Alterados os arts. 1.º, 2.º (o último na redação do Dec Lei 149/2012 de 12-jul), 4.º, 5.º(o último na redação do
+    Dec Lei 149/2012 de 12-jul), 9.º, 10.º, 11.º, 13.º, 14.º, 16.º, 17.º, 18.º, 19.º, 20.º (os dois últimos na redação do
+    Dec Lei 149/2012 de 12-jul), 21.º, 22.º, 24.º, 25.º, 26.º, 27.º (o último na redação do Dec Lei 149/2012 de 12-jul), 29.º,
+    31.º (o último na redação do Dec Lei 149/2012 de 12-jul), 32.º, 33.º, 34.º, 35.º, 36.º, 39.º, 40.º, 42.º, 43.º (os dois
+    últimos na redação do Dec Lei 149/2012 de 12-jul), 47.º, 49.º, 50.º, 52.º, 55.º (o último na redação do Dec Lei 149/2012
+    de 12-jul), 57.º, 59.º, 60.º, 62.º, 64.º, 66.º, 67.º, 69.º, 70.º, 71.º, 72.º, 73.º, 74.º, 75.º, 77.º (o último na redação
+    do Dec Lei 131/2010 de 14-dez), 78.º, 78.º-A (o último na redação do Dec Lei 131/2010 de 14-dez), 79.º, 81.º, 86.º (o
+    último na redação do Dec Lei 149/2012 de 12-jul), 88.º, 89.º, 96.º, 98.º, 101.º, 104.º (o último na redação do Dec Lei
+    131/2010 de 14-dez), 105.º, 112.º, 113.º, 114.º (o último na redação do Dec Lei 149/2012 de 12-jul), 115.º, 117.º, 118.º,
+    122.º, 123.º, 127.º (o último na redação da Lei 64-B/2011 de 30-dez), 128.º, 131.º, 132.º, 133.º, 135.º, 136.º, 139.º,
+    146.º (o último na redação do Dec Lei 149/2012 de 12-jul), 147.º, 149.º, 151.º, 155.º, 156.º, 157.º, 158.º, 164.º, 165.º,
+    168.º, 173.º, 174.º, 179.º, 184.º,187.º, 188.º, 189.º, 190.º, 191.º, 198.º, 206.º, 237.º, 238.º, 240.º, 245.º, 252.º,
+    253.º, 256.º, 257.º, 258.º, 259.º, 260.º, 261.º, 267.º, 275.º, 276.º (o último na redação do Dec Lei 149/2012 de 12-jul),
+    280.º, 283.º, 284.º, 285.º (o último na redação do Dec Lei 214-G/2015 de 02-out), 287.º, 295.º, 302.º, 307.º, 312.º, 313.º,
+    314.º, 315.º, 318.º, 319.º, 329.º, 338.º, 348.º, 354.º, 370.º (o último na redação do Dec Lei 149/2012 de 12-jul), 372.º,
+    378.º (o último na redação do Dec Lei 149/2012 de 12-jul), 380.º, 384.º, 410.º, 413.º, 429.º, 454.º (o último na redação
+    do Dec Lei 149/2012 de 12-jul), 455.º, 456.º, 457.º, 458.º, 460.º, 461.º, 462.º, 463.º, 464.º, 465.º (o último na redação
+    do Dec Lei 149/2012 de 12-jul), 470.º e 472.º (o último na redação do Dec Lei 131/2010 de 14-dez), os anexos i, ii (ambos
+    na redação do Dec Lei 149/2012 de 12-jul), iii e v (o último na redação do Dec Lei 149/2012 de 12-jul), bem como a sistemática
+    da epígrafe do capítulo i do título ii da parte ii, a epígrafe do capítulo i do título iii da parte ii, a epígrafe da
+    secção iii do capítulo i do título iii da parte ii, a epígrafe do título i da parte iii, a epígrafe da parte iv e a epígrafe
+    do artigo 381.º, aditados os arts. 1.º-A, 5.º-A, 5.º-B, 6.º-A, 6.º-B, 27.º-A, 30.º-A, 35.º-A, 46.º-A, 49.º-A, 54.º-A,
+    55.º-A, 62.º-A, 87.º-A, 218.º-A a 218.º-D, 219.º-A a 219.º-J, 241.º-A a 241.º-D, 250.º-A a 250.º-D, 256.º-A, 266.º-A a
+    266.º-C, 290.º-A, 299.º-B, 301.º-A, 318.º-A, 321.º-A, 410.º-A, 420.º-A, 454.º-A a 454.º-C, 464.º-A, 474.º, 475.º e 476.º,
+    os anexos vii, viii, ix, x, xi, xii, xiii e xiv, um capítulo vi ao título iii da parte ii com a epígrafe «Parceria para
+    a inovação», um capítulo iv ao título iv da parte ii com a epígrafe «Serviços sociais e outros serviços específicos»,
+    um título vi-A à parte ii com a epígrafe «Alienação de bens móveis», um capítulo i à parte iv com a epígrafe «Governação»
+    e um capítulo ii à parte iv com a epígrafe «Regime sancionatório», e revogados os nºs 4 e 6 do art. 1.º, os n.ºs 5, 6
+    e 7 do art. 5.º, o art. 6.º, as als. c), d), e), f), g), h) e i) do n.º 1 do art. 9.º, o n.º 3 do art. 10.º, os n.ºs 2
+    e 3 do art. 20.º, o n.º 3 do art. 22.º, a al. f) do n.º 1 e a al. c) do n.º 2 do art. 24.º, o n.º 2 do art. 27.º, a al.
+    e) do n.º 1 e os n.ºs 2, 3 e 4 do art. 29.º, o art. 30.º, os n.ºs 7, 8 e 9 do art. 32.º, o n.º 2 do art. 33.º, os n.ºs
+    13 e 14 do art. 49.º, a al. g) do n.º 1 do art. 55.º, a al. d) do n.º 1 do art. 57.º, o art. 61.º, os n.ºs 2 e 3 do art.
+    62.º, o n.º 2 do art. 80.º, os n.ºs 3, 4, 5, 6 e 7 do art. 81.º, os arts. 82.º, 83.º e 84.º, o n.º 5 do art. 86.º, o n.º
+    2 do art. 98.º, o n.º 2 do art. 100.º, o n.º 5 do art. 105.º, o art. 108.º, o n.º 3 do art. 115.º, o n.º 2 do art. 127.º,
+    os n.ºs 4 e 8 do art. 131.º, os n.ºs 3 e 6 do art. 132.º, os n.ºs 3, 4 e 5 do art. 133.º, o art. 134.º, o n.º 4 do art.
+    136.º, o n.º 2 do art. 157.º, o n.º 2 do art. 160.º, a al. i) do n.º 1 do art. 164.º, a al. e) do n.º 1 e os n.ºs 2 e
+    5 do art. 165.º, a al. j) do n.º 2 do art. 189.º, os arts. 219.º, 220.º, 221.º, 222.º, 223.º, 224.º, 225.º, 226.º, 227.º,
+    228.º, 229.º, 230.º, 231.º, 232.º, 233.º, 234.º, 235.º e 236.º, o art. 239.º, os arts. 241.º, 242.º, 243.º e 244.º, o
+    n.º 5 do art. 253.º, o n.º 3 do art. 261.º, o n.º 3 do art. 283.º, o art. 283.º-A, o n.º 6 do art. 295.º, o n.º 2 do art.
+    357.º, o n.º 2 do art. 358.º, os arts. 376.º e 377.º, o n.º 5 do art. 378.º, o n.º 4 do art. 454.º, o n.º 2 do art. 461.º,
+    o n.º 2 do art. 465.º, o art. 466.º e o anexo iv do Código dos Contratos Públicos, aprovado pelo Dec Lei 18/2008 de 29-jan,
+    na versão republicada do código pelo presente diploma, pelo(a) Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017,
+    2º Suplemento, Série I de 2017-08-31, nos termos do disposto nos seus arts. 12.º e 13.º, que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -132,15 +192,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
 article_structure:
-  article_count: 498
-  section_count: 97
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 479
+  section_count: 103
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:37Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +257,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +279,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 ...
 
@@ -241,7 +305,9 @@ i) ...
 
 j) ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +325,9 @@ c) Um estudo prévio, nos casos previstos no n.º 3 do artigo 43.º, competindo 
 
 5 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +337,9 @@ c) Um estudo prévio, nos casos previstos no n.º 3 do artigo 43.º, competindo 
 
 4 - Na celebração de contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços pelas entidades mencionadas no n.º 3 do artigo 5.º, pode o programa do procedimento concursal permitir que os documentos que constituem a proposta e os documentos de habilitação a entregar sejam redigidos em língua estrangeira, indicando quais os idiomas admitidos.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - O adjudicatário deve apresentar reprodução dos documentos de habilitação referidos no artigo 81.º através da plataforma electrónica utilizada pela entidade adjudicante ou, no caso de a mesma se encontrar indisponível, através de correio electrónico ou de outro meio de transmissão escrita e electrónica de dados.
 
@@ -281,7 +351,9 @@ c) Um estudo prévio, nos casos previstos no n.º 3 do artigo 43.º, competindo 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +371,9 @@ c) Redigidos em língua portuguesa ou, no caso previsto no n.º 2 artigo 82.º, 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +385,9 @@ c) Redigidos em língua portuguesa ou, no caso previsto no n.º 2 artigo 82.º, 
 
 5 - Não podem igualmente ser convidadas a apresentar propostas entidades que tenham executado obras, fornecido bens móveis ou prestado serviços à entidade adjudicante, a título gratuito, no ano económico em curso ou nos dois anos económicos anteriores, excepto se o tiverem feito ao abrigo do Estatuto do Mecenato.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -343,7 +419,9 @@ j) O prazo para a apresentação, pelo adjudicatário, dos documentos de habilit
 
 5 - ...
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - Quando tiver sido tempestivamente apresentada mais de uma proposta e do convite constar a indicação de que as propostas apresentadas são objecto de negociação, nos termos da alínea a) do n.º 2 do artigo 115.º, há lugar a uma fase de negociação, conduzida pelo júri, que deve incidir apenas sobre os atributos das propostas.
 
@@ -351,7 +429,9 @@ j) O prazo para a apresentação, pelo adjudicatário, dos documentos de habilit
 
 3 - À exclusão de propostas a que se refere o número anterior é aplicável, com as necessárias adaptações, o regime de audiência prévia constante do artigo 123.º
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -397,7 +477,9 @@ q) ...
 
 6 - ...
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - ...
 
@@ -443,7 +525,9 @@ r) ...
 
 5 - ...
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - ...
 
@@ -451,7 +535,9 @@ r) ...
 
 3 - ...
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos candidatos efectuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda determinar a exclusão de qualquer candidatura se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos no n.º 2 do artigo 184.º
 
@@ -461,7 +547,9 @@ r) ...
 
 4 - ...
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - ...
 
@@ -483,7 +571,9 @@ r) ...
 
 10 - ...
 
-###### Artigo 361.º — [...]
+Artigo 361.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +589,9 @@ r) ...
 
 7 - ...
 
-###### Artigo 370.º — [...]
+Artigo 370.º
+
+[...]
 
 1 - ...
 
@@ -511,7 +603,9 @@ r) ...
 
 5 - ...
 
-###### Artigo 373.º — [...]
+Artigo 373.º
+
+[...]
 
 1 - ...
 
@@ -523,13 +617,17 @@ r) ...
 
 5 - ...
 
-###### Artigo 381.º — Indemnização por supressão de trabalhos
+Artigo 381.º
+
+Indemnização por supressão de trabalhos
 
 1 - Quando, por virtude da ordem de supressão de trabalhos ou de outros actos ou factos imputáveis ao dono da obra, os trabalhos executados pelo empreiteiro tenham um valor inferior em mais de 20 % ao preço contratual, este tem direito a uma indemnização correspondente a 10 % do valor da diferença verificada.
 
 2 - ...
 
-###### Artigo 394.º — [...]
+Artigo 394.º
+
+[...]
 
 1 - ...
 
@@ -573,19 +671,19 @@ O presente decreto-lei só é aplicável aos procedimentos de formação de cont
 
 Visto e aprovado em Conselho de Ministros de 27 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - Fernando Medina Maciel Almeida Correia - Ana Maria Teodoro Jorge - Valter Victorino Lemos - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Promulgado em 23 de Setembro de 2009.**
+Promulgado em 23 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Setembro de 2009.**
+Referendado em 24 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — CÓDIGO DOS CONTRATOS PÚBLICOS
 
-# PARTE I — Âmbito de aplicação
+## PARTE I — Âmbito de aplicação
 
 ## TÍTULO I — Disposições gerais
 
@@ -883,7 +981,7 @@ c) Outros elementos que a Comissão Europeia considere necessários para provar 
 
 2 - As entidades adjudicantes devem comunicar à Comissão Europeia, a pedido desta, os contratos celebrados ao abrigo do disposto na alínea a) do n.º 1 do artigo 13.º ou os que não digam directa e principalmente respeito a uma ou a várias das actividades exercidas por essas entidades nos sectores da água, da energia, dos transportes e dos serviços postais.
 
-# PARTE II — Contratação pública
+## PARTE II — Contratação pública
 
 ## TÍTULO I — Tipos e escolha de procedimentos
 
@@ -975,7 +1073,9 @@ b) A escolha do concurso público ou do concurso limitado por prévia qualifica�
 
 2 - Para a formação de contratos sem valor, excepto se se tratar de um dos contratos mencionados no número anterior, pode ser adoptado qualquer um dos procedimentos nele referidos.
 
-###### Artigo 22.º — Divisão em lotes
+###### Artigo 22.º
+
+##### Divisão em lotes
 
 1 - Quando prestações do mesmo tipo, susceptíveis de constituírem objecto de um único contrato, sejam divididas em vários lotes, correspondendo cada um deles a um contrato separado, a escolha, nos termos do disposto nos artigos anteriores, do ajuste directo, do concurso público ou do concurso limitado por prévia qualificação cujo anúncio não seja publicado no Jornal Oficial da União Europeia, só permite a celebração do contrato relativo a cada lote desde que:
 
@@ -4043,7 +4143,7 @@ b) O adjudicatário seja uma empresa associada do concessionário de obras públ
 
 2 - No acto de atribuição dos direitos especiais ou exclusivos, as entidades adjudicantes devem mencionar a obrigação prevista no número anterior.
 
-# PARTE III — Regime substantivo dos contratos administrativos
+## PARTE III — Regime substantivo dos contratos administrativos
 
 ## TÍTULO I — Contratos administrativos em geral
 
@@ -5739,7 +5839,7 @@ d) O somatório do preço atribuído aos serviços a mais nos termos do disposto
 
 6 - Aos serviços a mais e aos serviços a menos é aplicável, com as necessárias adaptações, o disposto nos artigos 371.º a 375.º e 379.º a 381.º
 
-# PARTE IV — Regime contra-ordenacional
+## PARTE IV — Regime contra-ordenacional
 
 ###### Artigo 455.º — Restrição do âmbito de aplicação
 
@@ -5813,7 +5913,7 @@ As decisões definitivas de aplicação da sanção acessória prevista no artig
 
 O desrespeito pelo infractor da decisão de aplicação definitiva da sanção acessória prevista no artigo 460.º constitui crime de desobediência nos termos do disposto no artigo 348.º do Código Penal.
 
-# PARTE V — Disposições finais
+## PARTE V — Disposições finais
 
 ###### Artigo 465.º — Obrigação de comunicação
 
@@ -5981,7 +6081,7 @@ f) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou ap
 
 (a que se refere o n.º 1 do artigo 127.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0718207277.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0718207277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0718207277.pdf)
 
 ## ANEXO IV — Expressão matemática que traduz o requisito mínimo de capacidade financeira
 
@@ -5999,7 +6099,7 @@ t - A taxa de juro Euribor, a seis meses, acrescida de duzentos pontos base, div
 
 R - O valor médio dos resultados operacionais do candidato nos últimos três exercícios, calculado com recurso à seguinte função:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19200/0718207277.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19200/0718207277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19200/0718207277.pdf)
 
 2 - No caso de o candidato se ter constituído há menos de três exercícios, para efeitos do cálculo de "R" só são tidos em conta os resultados operacionais do candidato nos exercícios concluídos, sendo o denominador da função adaptado em conformidade.
 

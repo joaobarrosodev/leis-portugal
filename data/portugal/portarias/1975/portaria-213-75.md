@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-1975-161501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e3d4ee5ca9938410fae3a0ff1418d434ab59e84432efc06963acfc2955ae998
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85fbfd83837a9d8e8994999f1faf311e3df6b3edf9ee59ea1d85b614ed379383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:167398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:12Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +98,6 @@ Ministérios das Finanças, do Equipamento Social e do Ambiente e da Educação 
 
 Ajustamentos introduzidos na localização e agrupamento de edifícios e salas previstos no plano de construções, aprovado pelo [Decreto n.º 43674](https://diariodarepublica.pt/dr/detalhe/decreto/43674-1961-167398), de 8 de Maio de 1961
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/07400/04870487.pdf))](https://files.diariodarepublica.pt/1s/1975/03/07400/04870487.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/07400/04870487.pdf)
 
-**O Ministro das Finanças, José da Silva Lopes. - O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes. - O Ministro da Educação e Cultura, Manuel Rodrigues de Carvalho.**
+O Ministro das Finanças, José da Silva Lopes. - O Ministro do Equipamento Social e do Ambiente, José Augusto Fernandes. - O Ministro da Educação e Cultura, Manuel Rodrigues de Carvalho.

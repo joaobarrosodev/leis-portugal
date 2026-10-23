@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/540-1974-474322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58f960c28b91eec1f198ea8e4a4994d60225e5df9509637824aa7d663747fe4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 322655a8076ac94cafa311e2ad7a3280fe58031c0d733d98749fe30d59988818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:50Z'
   warnings: []
   errors: []
 ---
@@ -108,22 +108,22 @@ Ministério da Comunicação Social, 27 de Julho de 1974. - O Ministro da Comuni
 
 Modelo a que se refere a alínea a) do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf))](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
 
 Nota. - No canto superior esquerdo terá impressa uma faixa a verde e a vermelho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf))](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
 
 Dimensões: 114 mm x 76 mm
 
 Modelo a que se referem as alíneas b), c) e d) do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf))](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
 
 Nota. - No canto superior esquerdo terá impressa uma faixa a verde e a vermelho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf))](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/08/20100/09630964.pdf)
 
 Dimensões: 114 mm x 76 mm
 
-**O Ministro da Comunicação Social, José Eduardo Fernandes de Sanches Osório.**
+O Ministro da Comunicação Social, José Eduardo Fernandes de Sanches Osório.

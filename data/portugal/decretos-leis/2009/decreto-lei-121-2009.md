@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2009/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2009-608755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8791ac95ce6623aa68752be06c1fd96f095b1c2582aaa12e67e6f92df214aee0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 277bea6f8edbf277c1dfdfb6e05f7fd100a8edb61021f0cd46a2a30f33cd1023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Administração Interna
-- Tecnologia da Informação
 - Coordenador
-- Segurança Interna
 - Criação de Serviços
 - Definição de Competências
-- Sistema Retributivo
-- TIC
 - Isenção de Horário de Trabalho
+- Ministério da Administração Interna
+- Pessoal Dirigente
 - Prestação de Serviços
-- REDE Nacional de Segurança Interna
-- Unidade de Tecnologias de Informação de Segurança
+- Rede Nacional de Segurança Interna
+- Segurança Interna
+- Sistema Retributivo
+- Tecnologia da Informação
+- TIC
 - Trabalhador
+- Unidade de Tecnologias de Informação de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Administração Interna do serviço identificado no presente diploma pelo\
+    \ DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 14º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:642011:por
+  label: "Extinta, nos termos dos arts. 16.º e 18.º, a Unidade de Tecnologias de Informação de Segurança, cuja orgânica foi\
+    \ aprovada pelo presente diploma, sendo objecto de fusão e as suas atribuições integradas na Direcção-Geral de Infra-Estruturas\
+    \ e Equipamentos, pelo DEC LEI.126-B/2011.29.12.2011.MAI, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-b-2011-642011
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção e o desenvolvimento da Rede Nacional de Segurança Interna, disponibilizada
+    às Forças e Serviços de Segurança e restantes organismos do Ministério da Administração Interna, prevista no presente
+    diploma, seja exercida pelo Ministro da Administração Interna, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República
+    n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a direção e o desenvolvimento da Rede Nacional de Segurança Interna disponibilizada
+    às Forças e Serviços de Segurança e restantes organismos do Ministério da Administração Interna, prevista no presente
+    diploma, seja exercida pelo Ministro da Administração Interna pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º
+    89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
@@ -96,16 +125,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179349:por
+  label: "Revogado, a partir de 01.08.2012, pelo DEC LEI.160/2012.26.07.2012.MAI, DR.IS [144] de 26.07.2012, com exceção do\
+    \ art. 8º, aplicável aos trabalhadores que desempenham funções na área das tecnologias de informação, de segurança dos\
+    \ sistemas de informação e comunicação da Direção-Geral de Infraestruturas e Equipamentos (DGIE).\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2012-179349
+  date: '2012-07-26'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:09Z'
   warnings: []
   errors: []
 ---
@@ -242,18 +290,18 @@ Aos chefes de equipas multidisciplinares é atribuído, em função da natureza 
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira.
 
-**Promulgado em 8 de Maio de 2009.**
+Promulgado em 8 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Maio de 2009.**
+Referendado em 12 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 MAPA
 
 (a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09800/0324603248.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09800/0324603248.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09800/0324603248.pdf)

@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/155/2003/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-2003-671024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0947df0e83b70e7dc91432921dce28fa63ce533bcfc4b71e881e4f92b1ecda85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c89fa7ca8b42dd476d31ebb8a01ea8727656cc1d1d469160d90bf76303d1111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Segurança das Embarcações
+- Embarcação de Pesca
 - Fiscalização
 - Frota de Pesca
 - Normas de Segurança
-- Embarcação de Pesca
+- Segurança das Embarcações
 relationships:
 - type: amended_by
   target: pt:dre:280895:por
@@ -99,16 +97,21 @@ relationships:
   target: celex:32002L0035
   label: null
   source: http://data.europa.eu/eli/dir/2002/35/oj
+- type: corrected_by
+  target: pt:dre:426742:por
+  label: "Rectificado pela DECL-RECT.11-A/2003.2003.08.27.PCM, DR.IS-A [200]5ºSupl de 30/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-a-2003-426742
+  date: '2003-08-27'
 article_structure:
   article_count: 4
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:54Z'
   warnings: []
   errors: []
 ---
@@ -165,15 +168,15 @@ iii) Se tenha iniciado a montagem compreendendo pelo menos 50 t ou 1% do peso es
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2003. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 17 de Junho de 2003.**
+Promulgado em 17 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I
 
@@ -363,7 +366,7 @@ Relativamente às embarcações que operem noutras zonas:
 
 Regra 14
 
-##### Subdivisão e estabilidade em avaria
+Subdivisão e estabilidade em avaria
 
 As embarcações de comprimento igual ou superior a 100 m em que o número total de pessoas embarcadas seja igual ou superior a 100 devem poder manter-se a flutuar com estabilidade positiva após alagamento de um qualquer compartimento considerado em avaria, tendo em conta o tipo de embarcação, o serviço a que se destina e a área de operação (ver nota 5). Os cálculos serão efectuados de acordo com as orientações referidas na nota de fim de documento n.º 5.
 
@@ -455,7 +458,7 @@ Fonte principal de energia eléctrica
 
 (v. também a regra 19 do capítulo IV)
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -1371,7 +1374,7 @@ Caderno de estabilidade
 
 Regra 11
 
-##### Subdivisão dos porões de peixe com panas amovíveis
+Subdivisão dos porões de peixe com panas amovíveis
 
 A carga de pescado deve ser convenientemente estivada para evitar que corra e, assim, provoque um caimento ou um adornamento perigoso ao navio. Os escantilhões das panas dos porões de peixe, caso existam, devem ser a contento da Administração (ver nota 8).
 
@@ -1389,13 +1392,13 @@ A imersão máxima de serviço admissível deve ser sujeita a aprovação da Adm
 
 Regra 14
 
-##### Subdivisão e estabilidade em avaria
+Subdivisão e estabilidade em avaria
 
 Os navios de comprimento igual ou superior a 100 m, em que o número total de pessoas embarcadas seja igual ou superior a 100, devem poder, a contento da Administração, manter-se a flutuar com estabilidade positiva após alagamento de um qualquer compartimento que se considere em avaria, tendo em consideração o tipo do navio, o serviço a que se destina e a área de navegação (ver nota 10).
 
 ### CAPÍTULO IV — Máquinas e instalações eléctricas e locais de máquinas periodicamente não atendidas
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -1483,7 +1486,7 @@ Locais de máquinas periodicamente não atendidas:
 
 10 - Os navios devem dispor de documentação que a Administração considere satisfatória para demonstrar que está em condições de operar com locais de máquinas periodicamente não atendidas.
 
-# PARTE B — Instalações de máquinas
+## PARTE B — Instalações de máquinas
 
 (v. também regra 3)
 
@@ -1609,7 +1612,7 @@ Instalações de esgoto
 
 b) As bombas de esgoto de accionamento mecânico devem ser capazes de imprimir à água uma velocidade não inferior a 2 m/s no colector de esgoto, cujo diâmetro interno deve ser, pelo menos:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)
 
 No entanto, o actual diâmetro interno do colector de esgoto principal pode ser arredondado ao tamanho normalizado mais próximo, desde que tal seja aceite pela Administração.
 
@@ -1687,7 +1690,7 @@ b) Quando for impossível na prática realizar este sistema de contenção de fu
 
 7 - Devem ser afixadas a bordo do navio instruções adequadas sobre métodos de condução das instalações frigoríficas e procedimentos de emergência.
 
-# PARTE C — Instalações eléctricas
+## PARTE C — Instalações eléctricas
 
 (v. também a regra 3)
 
@@ -1829,7 +1832,7 @@ d) Exista um certificado de aprovação para utilização segura numa atmosfera 
 
 11 - Devem ser montados pára-raios em todos os mastros e mastaréus de madeira. Nos navios construídos em materiais não condutores, os pára-raios devem ser ligados, por condutores apropriados, a uma chapa de cobre fixada no casco do navio bastante abaixo da linha de água.
 
-# PARTE D — Locais de máquinas periodicamente não atendidas
+## PARTE D — Locais de máquinas periodicamente não atendidas
 
 (v. também regra 3)
 
@@ -1939,7 +1942,7 @@ Deve existir um sistema de segurança que, em caso de deficiência grave de func
 
 (v. também a regra 19 do capítulo IV)
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -2041,7 +2044,7 @@ ou os que contêm uma caldeira alimentada a combustível líquido ou uma instala
 
 15 - «Locais de máquinas» são todos os locais de máquinas de categoria A e todos os outros locais que contenham o aparelho propulsor, caldeiras, instalações de tratamento de combustível, máquinas a vapor e motores de combustão interna, geradores, aparelho de governo, máquinas eléctricas principais, estações de embarque de combustível, máquinas frigoríficas, de estabilização, de ventilação e de condicionamento de ar e outros locais semelhantes assim como os respectivos troncos de acesso.
 
-# PARTE B — Medidas de segurança contra incêndio aplicáveis aos navios de comprimento igual ou superior a 60 m
+## PARTE B — Medidas de segurança contra incêndio aplicáveis aos navios de comprimento igual ou superior a 60 m
 
 Regra 3
 
@@ -2387,7 +2390,7 @@ Bombas de incêndio
 
 3 - a) As bombas de incêndio que não sejam bombas de emergência devem ter potência suficiente para fornecer, para efeitos de combate a incêndio, água a uma pressão mínima de 0,25 N/mm3, com um caudal total (Q) não inferior a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)
 
 Contudo, não é necessário que o caudal total das bombas de incêndio seja superior a 180 m3/h
 
@@ -2545,7 +2548,7 @@ Aceitação de equipamento diferente do especificado
 
 Cada vez que for previsto, na presente parte, um determinado tipo de dispositivo, aparelho, agente extintor ou instalação, pode-se utilizar qualquer outro tipo de dispositivo, aparelho, etc., desde que a Administração não o considere menos eficaz.
 
-# PARTE C — Medidas de segurança contra incêndio em navios de comprimento igual ou superior a 45 m mas inferior a 60 m
+## PARTE C — Medidas de segurança contra incêndio em navios de comprimento igual ou superior a 45 m mas inferior a 60 m
 
 Regra 28
 
@@ -2711,7 +2714,7 @@ b) Uma bomba de accionamento mecânico movido pelas máquinas principais com a c
 
 7 - O caudal total (Q) das bombas de incêndio principais de accionamento mecânico deve ser pelo menos igual a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)](https://files.diariodarepublica.pt/1s/2003/07/163a00/40334118.pdf)
 
 8 - Quando se instalem duas bombas independentes de accionadas mecanicamente, o caudal de cada bomba não deve ser inferior a 40% do caudal prescrito no n.º 7.
 
@@ -2871,7 +2874,7 @@ A fim de garantir a segurança da tripulação, devem prever-se escadas inclinad
 
 ### CAPÍTULO VII — Meios de salvação
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -2933,7 +2936,7 @@ Realização de provas durante a fabricação
 
 A Administração deve obrigar, se necessário, a que os meios de salvação sejam submetidos a ensaios durante a produção, afim de assegurar que a sua fabricação está de acordo com os padrões e protótipos aprovados.
 
-# PARTE B — Requisitos relativos ao navio
+## PARTE B — Requisitos relativos ao navio
 
 Regra 5
 
@@ -3155,7 +3158,7 @@ ii) Numa estação de serviço que seja credenciada para os inspeccionar, dispon
 
 9 - Nos navios cuja faina de pesca possa originar dificuldade no cumprimento dos requisitos dos n.os 7 e 8, a Administração pode permitir a extensão dos intervalos de assistência dos equipamentos até aos 24 meses, desde que considere que os mesmos são concebidos de modo que se mantenham em condições satisfatórias até ao próximo período de revisão.
 
-# PARTE C — Requisitos dos meios de salvação
+## PARTE C — Requisitos dos meios de salvação
 
 Regra 17
 
@@ -4567,7 +4570,7 @@ iv) Utilização dos aparelhos respiratórios.
 
 ### CAPÍTULO IX — Radiocomunicações
 
-# PARTE A — Aplicação e definições
+## PARTE A — Aplicação e definições
 
 Regra 1
 
@@ -4659,7 +4662,7 @@ h) Transmitir e receber radiocomunicações gerais de e para os sistemas ou rede
 
 i) Transmitir e receber comunicações ponte-a-ponte.
 
-# PARTE B — Requisitos aplicáveis aos navios
+## PARTE B — Requisitos aplicáveis aos navios
 
 Regra 5
 

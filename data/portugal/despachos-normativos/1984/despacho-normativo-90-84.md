@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/09600/13931396.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/90-1984-654962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:30:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f84e3f191691adbf760915797619d0b22afb493f5c27d3dedc651aff11485990
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b0df515f2f7f331398face75cc0768f811df8879ad7e3bae84aa4f8b9c6056d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:30:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Classificação de Empresas
+- Empresa
+- Pequenas e Médias Empresas
+- PME
 relationships:
 - type: amended_by
   target: pt:dre:419657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181466:por
+  label: Determinada a revisão anual dos montantes previstos nos n.ºs 1.2 e 4.8 pelo(a) Despacho Normativo n.º 43/85 - Diário
+    da República n.º 133/1985, Série I de 1985-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/43-1985-181466
+  date: '1985-06-12'
+- type: amended_by
+  target: pt:dre:227597:por
+  label: Determinada a revisão anual dos montantes previstos nos n.ºs 1.2 e 4.8 pelo(a) Despacho Normativo n.º 35/86 - Diário
+    da República n.º 107/1986, Série I de 1986-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/35-1986-227597
+  date: '1986-05-10'
+- type: cites
+  target: pt:dre:159907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568892:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DESPACHO NORMATIVO NUMERO 52/87, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 142, DE 870624.\0\
+    70624.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:419657:por
+  label: Revogado o presente diploma, com a redação dada pelo DN 35/86 de 10-Mai, pelo(a) Despacho Normativo n.º 52/87 - Diário
+    da República n.º 142/1987, Série I de 1987-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/52-1987-419657
+  date: '1987-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:30:54Z'
   warnings: []
   errors: []
 ---
@@ -163,4 +203,4 @@ Ministério da Indústria e Energia, 12 de Abril de 1984. - Pelo Ministro da Ind
 
 ## ANEXO I — Indústrias extractivas e transformadoras, conforme CAE 1973
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/04/09600/13931396.pdf))](https://files.diariodarepublica.pt/1s/1984/04/09600/13931396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/09600/13931396.pdf)

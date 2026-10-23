@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/348-1978-298255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d86c382b4873d06633afcfe9eb2ec62e6797ace83046c1812774200ef1e38155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bf7513fd52ad1f4cb4e0f2deff46258dd8981bb768b9acc7cc382b2c0dd0713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Transportes Terrestres
+- Fixação de Preços
+- Período de Aferição
+- Preço
+- Taximetro
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:510218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482618:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:510218:por
+  label: "Revogada pela PORT.629-A/79.28.11.1979.MCT, DR.IS [275]Supl de 28.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-a-1979-510218
+  date: '1979-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:38:56Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +219,7 @@ Ministérios do Comércio e Turismo e dos Transportes e Comunicações, 23 de Ju
 
 Tabela de conversão dos preços correspondentes aos serviços prestados em automóveis-táxi nas cidades de Lisboa, Porto e Setúbal e concelho de Oeiras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf)
 
 Nota. - Esta tabela deverá ser afixada em todos os veículos até à regularização dos taxímetros.
 
@@ -208,7 +229,7 @@ Acima destes valores deverá ser aplicada uma sobretaxa de 30% sobre o valor mar
 
 Tabela de conversão dos preços correspondentes aos serviços prestados em automóveis-táxi na cidade de Coimbra e concelho de Cascais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf)
 
 Nota. - Esta tabela deverá ser afixada em todos os veículos até à regularização dos taxímetros.
 
@@ -220,10 +241,10 @@ Tabela de conversão dos preços correspondentes aos serviços prestados em auto
 
 (Seis lugares)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14800/11801182.pdf)
 
 Nota. - Esta tabela deverá ser afixada em todos os veículos até à regularização dos taxímetros.
 
 Acima destes valores deverá ser aplicada uma sobretaxa de 25% sobre o valor marcado no taxímetro.
 
-**O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

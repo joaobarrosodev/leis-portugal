@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 26-(46) a 26-(46)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00703/00460046.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-c1-1980-508647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 657ddb415cc07a86bc85ed881513cdd4fbd6db9d89d584636c3022f3897e1b2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dccab227acd8bcbb2bb2f8281c52b3c0567eb53e5efe13a4bf4511df5706a7ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁGIO
+- Contribuições e Impostos
+- Divisa
+- Operação Cambial
+relationships:
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:48Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +95,6 @@ de 9 de Janeiro
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, e nos termos do disposto no § único do artigo 59.º da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria, e que tenha por base o ouro ou moeda estrangeira, sejam adoptados o ágio e o câmbio médio seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00460046.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00460046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00460046.pdf)
 
 Secretaria de Estado do Orçamento, 15 de Novembro de 1979. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.

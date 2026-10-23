@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1982-600082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b57bc0a3dcbabf49a487ad4e1b9eb46f9e627b23b9d7ad7626f900e1273b0b0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb937079681ab58efa285617356f9140f6195cc1591fb874c3c4a7f334aadd41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506178:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:391978:por
+  label: Rectificado pela DECL.DD3324.1982.05.21.PCM DR.IS [124] DE 01/JUN/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-391978
+  date: '1982-05-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:05Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +101,7 @@ Atendendo à necessidade de reorganizar o regime de leilões nas alfândegas:
 
 Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https://diariodarepublica.pt/dr/detalhe/decreto/17-1976-506178), de 14 de Janeiro, que a título experimental sejam introduzidas as seguintes alterações no Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941:
 
-###### Art. 638.º ...
+Art. 638.º ...
 
 ...
 
@@ -98,7 +113,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 § 4.º Do disposto neste artigo exceptuam-se os valores em espécie, em pedras preciosas, jóias e papéis de crédito encontrados nos espólios e que tenham sido transferidos para a Caixa Geral de Depósitos, Crédito e Previdência nos termos do artigo 698.º
 
-###### Art. 639.º Os donos das mercadorias demoradas além dos prazos legais de armazenagem podem despachá-las desde que assim o requeiram no prazo de 6 meses contados a partir da sujeição da mercadoria ao regime de hasta pública.
+Art. 639.º Os donos das mercadorias demoradas além dos prazos legais de armazenagem podem despachá-las desde que assim o requeiram no prazo de 6 meses contados a partir da sujeição da mercadoria ao regime de hasta pública.
 
 § 1.º ...
 
@@ -110,7 +125,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 644.º ...
+Art. 644.º ...
 
 § 1.º ...
 
@@ -120,21 +135,21 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 649.º ...
+Art. 649.º ...
 
 § único. Esta conferência far-se-á em vista da documentação aludida no artigo antecedente.
 
-###### Art. 650.º O encarregado do armazém registará, em livro próprio, as entradas constantes da documentação, na qual fará a competente anotação, devendo o duplicado ou talão das guias e dos boletins ser devolvido à entidade remetente.
+Art. 650.º O encarregado do armazém registará, em livro próprio, as entradas constantes da documentação, na qual fará a competente anotação, devendo o duplicado ou talão das guias e dos boletins ser devolvido à entidade remetente.
 
-###### Art. 651.º O encarregado do armazém autuará o original da guia ou o boletim com o número constante do registo de entrada, apresentando em seguida o processo e os volumes ao verificador.
+Art. 651.º O encarregado do armazém autuará o original da guia ou o boletim com o número constante do registo de entrada, apresentando em seguida o processo e os volumes ao verificador.
 
-###### Art. 652.º (Eliminado.)
+Art. 652.º (Eliminado.)
 
 ...
 
-###### Art. 654.º Feita a verificação proceder-se-á à contagem, que será exarada no próprio processo e se efectuará nos termos prescritos no livro III, sendo dispensada a reverificação.
+Art. 654.º Feita a verificação proceder-se-á à contagem, que será exarada no próprio processo e se efectuará nos termos prescritos no livro III, sendo dispensada a reverificação.
 
-###### Art. 655.º Nos incidentes que surjam na verificação ou na contagem, devem, de igual modo, seguir-se os trâmites referidos no livro III, o mesmo se entendendo de quaisquer formalidades especiais a que o despacho das respectivas mercadorias esteja sujeito, incluindo a desinfecção daquelas que por lei a devam ter.
+Art. 655.º Nos incidentes que surjam na verificação ou na contagem, devem, de igual modo, seguir-se os trâmites referidos no livro III, o mesmo se entendendo de quaisquer formalidades especiais a que o despacho das respectivas mercadorias esteja sujeito, incluindo a desinfecção daquelas que por lei a devam ter.
 
 § 1.º ...
 
@@ -142,7 +157,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 § 3.º ...
 
-###### Art. 656.º O encarregado do armazém procederá, depois da verificação, à formação de lotes, de harmonia com as designações comerciais, os valores dados às mercadorias e as instruções que o director da alfândega tiver por conveniente determinar, designadamente para os efeitos do disposto no § 2.º do artigo 661.º
+Art. 656.º O encarregado do armazém procederá, depois da verificação, à formação de lotes, de harmonia com as designações comerciais, os valores dados às mercadorias e as instruções que o director da alfândega tiver por conveniente determinar, designadamente para os efeitos do disposto no § 2.º do artigo 661.º
 
 § 1.º O mesmo encarregado fará no processo a descrição dos lotes, que registará e transcreverá em livro de listas, devendo igualmente indicar neste livro o número do processo, as contramarcas, marcas e números dos volumes, os nomes dos donos, quando sejam conhecidos, e o valor por que as mercadorias irão à praça e indicar também no livro de entradas o número das listas e dos lotes.
 
@@ -150,9 +165,9 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 658.º (Eliminado.)
+Art. 658.º (Eliminado.)
 
-###### Art. 659.º O encarregado do armazém elaborará um edital contendo a lista de mercadorias a leiloar, a qual será anunciada em dois números seguidos de dois jornais de grande tiragem de Lisboa e Porto.
+Art. 659.º O encarregado do armazém elaborará um edital contendo a lista de mercadorias a leiloar, a qual será anunciada em dois números seguidos de dois jornais de grande tiragem de Lisboa e Porto.
 
 § 1.º Nestes anúncios será dado conhecimento do dia, hora e local da venda, da designação comercial da mercadoria e do tempo para exame da mercadoria, o qual não poderá ser inferior a 5 dias úteis.
 
@@ -164,7 +179,7 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 661.º A venda será presidida nos termos do artigo 643.º, devendo o presidente ser coadjuvado pelo encarregado de armazém e por outro ou outros funcionários que entendam necessário, inclusive para exercer as funções de pregoeiro.
+Art. 661.º A venda será presidida nos termos do artigo 643.º, devendo o presidente ser coadjuvado pelo encarregado de armazém e por outro ou outros funcionários que entendam necessário, inclusive para exercer as funções de pregoeiro.
 
 § 1.º ...
 
@@ -172,11 +187,11 @@ Determino, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https:
 
 ...
 
-###### Art. 663.º Enquanto são anotados os resultados a que o artigo anterior se refere, o encarregado de armazém lavrará auto de arrematação, que subscreverá depois de assinado pelo presidente e pelo arrematante, limitando-se a fazer constar no processo respectivo a falta de arrematação, quando for o caso.
+Art. 663.º Enquanto são anotados os resultados a que o artigo anterior se refere, o encarregado de armazém lavrará auto de arrematação, que subscreverá depois de assinado pelo presidente e pelo arrematante, limitando-se a fazer constar no processo respectivo a falta de arrematação, quando for o caso.
 
 No caso de arrematação, o auto identificará as mercadorias com a indicação da sua designação comercial ou mais corrente, as suas qualidades e respectivas quantidades, marcas, números, cores ou outros sinais que possam servir para a sua identificação.
 
-###### Art. 664.º Quando a mercadoria tenha sido arrematada, o encarregado de armazém passará as competentes guias de pagamento, sem embargo de poder ser exigida imediatamente quantia até 25% do valor da arrematação.
+Art. 664.º Quando a mercadoria tenha sido arrematada, o encarregado de armazém passará as competentes guias de pagamento, sem embargo de poder ser exigida imediatamente quantia até 25% do valor da arrematação.
 
 § 1.º ...
 
@@ -186,25 +201,25 @@ No caso de arrematação, o auto identificará as mercadorias com a indicação 
 
 § 4.º ...
 
-###### Art. 665.º (Eliminado.)
+Art. 665.º (Eliminado.)
 
-###### Art. 666.º Efectuada a entrega do preço da arrematação, a mercadoria será entregue pelo encarregado de armazém ao arrematante, a seu pedido, o qual deverá ser formulado no prazo de 5 dias após o pagamento.
+Art. 666.º Efectuada a entrega do preço da arrematação, a mercadoria será entregue pelo encarregado de armazém ao arrematante, a seu pedido, o qual deverá ser formulado no prazo de 5 dias após o pagamento.
 
 § 1.º (Eliminado.)
 
 § 2.º Quando o arrematante não solicite no prazo referido no corpo deste artigo a entrega das mercadorias, o encarregado do armazém indicá-lo-á, fazendo o processo concluso ao director da alfândega para resolver.
 
-###### Art. 667.º (Eliminado.)
+Art. 667.º (Eliminado.)
 
 ...
 
-###### Art. 670.º (Eliminado.)
+Art. 670.º (Eliminado.)
 
-###### Art. 671.º Cumprido o disposto nos artigos antecedentes, o processo será presente ao serviço de contabilidade e pessoal para efeitos de liquidação no prazo de 30 dias.
+Art. 671.º Cumprido o disposto nos artigos antecedentes, o processo será presente ao serviço de contabilidade e pessoal para efeitos de liquidação no prazo de 30 dias.
 
 § único. (Eliminado.)
 
-###### Art. 672.º As mercadorias demoradas e abandonadas a que se referem os n.os 1.º e 2.º e o § 2.º do artigo 638.º quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando-se como tal, para este efeito, o preço do artigo depois de despachado, se tivesse sido importado normalmente, irão a 2.ª praça, e se nesta não obtiverem lanço que cubra os direitos e outras imposições a que estiverem sujeitas na importação serão retiradas do leilão.
+Art. 672.º As mercadorias demoradas e abandonadas a que se referem os n.os 1.º e 2.º e o § 2.º do artigo 638.º quando em 1.ª praça não obtiverem lanço que cubra o seu valor, considerando-se como tal, para este efeito, o preço do artigo depois de despachado, se tivesse sido importado normalmente, irão a 2.ª praça, e se nesta não obtiverem lanço que cubra os direitos e outras imposições a que estiverem sujeitas na importação serão retiradas do leilão.
 
 § 1.º As mercadorias ainda não abandonadas, sujeitas a hasta pública, quando não arrematadas em 1.ª praça considerar-se-ão abandonadas a favor do Estado se não forem importadas ou reexportadas no prazo de 8 dias contados a partir da realização da respectiva praça.
 
@@ -224,7 +239,7 @@ c) Inutilização.
 
 ...
 
-###### Art. 674.º ...
+Art. 674.º ...
 
 § 1.º ...
 
@@ -238,13 +253,13 @@ b) (Eliminada.)
 
 § 4.º (Eliminado.)
 
-###### Art. 675.º A importância líquida dos direitos e outras imposições das mercadorias abandonadas entrarão em receita do Estado.
+Art. 675.º A importância líquida dos direitos e outras imposições das mercadorias abandonadas entrarão em receita do Estado.
 
 § 1.º Tratando-se de mercadorias demoradas ou nas condições previstas nos n.os 3.º e 4.º do artigo 638.º, o produto líquido da sua venda, depois de deduzidos os respectivos direitos e outras imposições e encargos de armazenagem e transporte, será depositado, à ordem do Estado, para entrar em receita se não for reclamado no prazo de 1 mês.
 
 § 2.º O pregoeiro receberá 1% do produto global da arrematação, não podendo perceber em cada mês mais de um terço da quantia correspondente à respectiva letra do vencimento.
 
-###### Art. 676.º Sem embargo do disposto no § 1.º do artigo 665.º, do produto das mercadorias achadas no mar ou por ele arrojadas e das salvadas de naufrágio, a que se referem os n.os 3.º e 4.º do artigo 638.º, devem deduzir-se por sua ordem:
+Art. 676.º Sem embargo do disposto no § 1.º do artigo 665.º, do produto das mercadorias achadas no mar ou por ele arrojadas e das salvadas de naufrágio, a que se referem os n.os 3.º e 4.º do artigo 638.º, devem deduzir-se por sua ordem:
 
 a) As despesas de transporte, guarda e beneficiação;
 

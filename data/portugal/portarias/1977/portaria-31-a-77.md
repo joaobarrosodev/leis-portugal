@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 17/1977, 1º Suplemento, Série I de 1977-01-21
   number: '17'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 124-(4) a 124-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-a-1977-617282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ed2b0d3adfb8b5b15d4333185985983fb4a4eff1504749057af67cc03b02bab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e551e1c3d02ac67aff6db758429cf4ead3e353ebfe3281ba0d7fd5d8405cd9d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Energia Elétrica
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:219559:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:140360:por
+  label: Rectificada pela DECL.DD8078.08.03.1977.PCM, DR.IS [56] de 08.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-140360
+  date: '1977-03-08'
+- type: corrected_by
+  target: pt:dre:250030:por
+  label: Rectificada a Declaração DD8078, de 8 de Março de 1977, que rectifica o presente diploma, pelo DECL.DD8364.27.06.1977.PCM,
+    DR.IS [146] de 27.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250030
+  date: '1977-06-27'
+- type: repealed_by
+  target: pt:dre:219559:por
+  label: "Revogada pela PORT.171/78.29.03.1978.MIT, DR.IS [73]Supl de 29.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/171-1978-219559
+  date: '1978-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:20Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +164,7 @@ Ministérios da Indústria e Tecnologia e do Comércio e Turismo, 20 de Janeiro 
 
 SISTEMA TARIFÁRIO DO SECTOR ELÉCTRICO ANEXO À PORTARIA CONJUNTA DOS MINISTROS DA INDÚSTRIA E TECNOLOGIA E DO COMÉRCIO E TURISMO.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito e estrutura do sistema tarifário)
 
@@ -154,7 +172,7 @@ SISTEMA TARIFÁRIO DO SECTOR ELÉCTRICO ANEXO À PORTARIA CONJUNTA DOS MINISTROS
 
 2. Este sistema tarifário apresenta uma estrutura que considera como elementos intervenientes na facturação do fornecimento de energia eléctrica a potência e as energias activa e reactiva. Os preços a praticar dependem do nível de tensão e dos períodos de entrega da energia eléctrica e são apresentados nos quadros 1 e 2, que fazem parte integrante deste sistema tarifário.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Níveis de tensão)
 
@@ -168,7 +186,7 @@ Alta tensão - tensão igual ou superior a 60000 V.
 
 2. Os valores de tensão indicados referem-se a valores nominais de tensão entre fases.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Períodos tarifários)
 
@@ -190,7 +208,7 @@ Horas cheias - principal período de fornecimento, com excepção das horas de v
 
 4. Sempre que a energia consumida não seja objecto de medições diferenciadas por postos horários, será, em regra, facturada ao preço de horas cheias.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Potência a facturar em alta e média tensão)
 
@@ -212,7 +230,7 @@ onde P(índice 1) é a maior potência tomada nos últimos doze meses; P(índice
 
 7. A potência a facturar dá origem à cobrança mensal de uma taxa por kilowatt, definida no quadro 1, exigível enquanto durar o contrato de fornecimento.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Potência a facturar em baixa tensão)
 
@@ -234,7 +252,7 @@ A justificação referida deverá indicar a potência instalada e os consumos an
 
 O distribuidor poderá recusar a redução de potência solicitada sempre que a correspondente utilização da nova potência no mês de maior consumo verificado nos últimos doze meses seja superior a sessenta horas.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Energia activa a facturar)
 
@@ -252,7 +270,7 @@ onde p é o preço do fuelóleo fornecido à EDP, em escudos por quilograma, no 
 
 O adicional será aplicado independentemente da tensão de entrega e do período tarifário considerado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Energia reactiva a facturar)
 
@@ -260,7 +278,7 @@ Quando a energia reactiva medida fora das horas de vazio for superior a 60% da e
 
 Nos fornecimentos em alta e média tensão em que a respectiva contagem seja efectuada em baixa tensão, à energia reactiva medida será adicionado o valor de 10% da energia activa medida no mesmo período, para atender à contribuição do transformador para o consumo de energia reactiva.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Disposições complementares)
 
@@ -290,7 +308,7 @@ Todos os consumidores que actualmente são facturados pela tarifa doméstica esp
 
 11. Qualquer pedido de religação com prazo inferior a doze meses implica o pagamento das taxas fixas mensais correspondentes à nova potência relativamente ao período da interrupção de fornecimento.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Dúvidas)
 
@@ -300,16 +318,16 @@ Tarifas de energia eléctrica em alta tensão e média tensão
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf)
 
 Tarifas de energia eléctrica em (ver nota a) (ver nota b)
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf))](https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/01701/00040008.pdf)
 
 (nota a) Os consumidores alimentados em baixa tensão podem optar pela tarifa de média tensão com a sobretaxa de 40$00 por kilowatt-mês, podendo ser-lhes exigido um local apropriado para a instalação de um posto de transformação e a diferença das taxas de ramal e chegada correspondentes.
 
 (nota b) Os consumidores não domésticos a que à data da entrada em vigor deste tarifário corresponda a aplicação de tarifas com preços de último escalão de energia de horas cheias iguais ou superiores a 1$00 por kilowatt-hora serão onerados com uma taxa suplementar de $40 por kilowatt-hora na energia de horas cheias.
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

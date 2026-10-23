@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/1979, 6º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 3446-(115) a 3446-(117)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29906/01150117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/712-a-1979-157074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfdf56b813d835ff1c6f34a190d4ee8c632c5343ee9f9ed2279dfaa8fd1ee1ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afd2b0bc4a1ebae9450360278b7c7ab29f5a0e035091b98ac27cc0c65a4232bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- INIC
+- Instituto Nacional de Investigação Científica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:644362:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179282:por
+  label: "Aumentado um lugar ao quadro de pessoal aprovado pelo presente diploma, na redacção dada pelo Dec 58/83, de 11-Jul,\
+    \ pela PORT.665/85.07.09.1985.PCM, DR.IS [206] de 07.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/665-1985-179282
+  date: '1985-09-07'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453242:por
+  label: "Revogado o n.º 4 pelo DEC.58/83.11.07.1983.ME, DR.IS [157] de 11.07.1983, em tudo o que o contrariar \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/58-1983-453242
+  date: '1983-07-11'
+- type: repealed_by
+  target: pt:dre:644362:por
+  label: "Revogada pela DR.29/91.24.05.1991.ME, DR.IS-B [119] de 24.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/29-1991-644362
+  date: '1991-05-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:23Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +153,6 @@ Ministérios das Finanças e da Cultura e da Ciência e Secretaria de Estado da 
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29906/01150117.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29906/01150117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29906/01150117.pdf)
 
-**O Ministro da Cultura e da Ciência, Adérito de Oliveira Sedas Nunes.**
+O Ministro da Cultura e da Ciência, Adérito de Oliveira Sedas Nunes.

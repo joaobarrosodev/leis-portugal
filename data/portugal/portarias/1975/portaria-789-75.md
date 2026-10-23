@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 300/1975, 2º Suplemento, Série I de 1975-12-31
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2160-(19) a 2160-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30002/00190020.pdf
 entry_into_force_dates: []
@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1975-355284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d628e4e161a1e5908ea44be5b7069ecf3380d9d65503828019248d083260201
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7593da8e35087ea26a4807100d457badeb5ef657fdd0966baaebdf55ca27cb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Actualização de Pensões
+- Acumulação de Pensões
+- Caixa de Previdência
+- Caixa Geral de Aposentações
+- Caixa Nacional de Pensões
+- Cálculo de Pensões
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensões
+relationships:
+- type: cites
+  target: pt:dre:236109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:24Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +143,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 7. A tabela inserta no n.º 1 da norma VII da [Portaria n.º 865/74](https://diariodarepublica.pt/dr/detalhe/portaria/865-1974-236109), de 31 de Dezembro, será substituída pela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30002/00190020.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30002/00190020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/30002/00190020.pdf)
 
 8. Passa a ser igual ao salário mínimo nacional o salário base mensal mínimo para efeitos de continuação voluntária do pagamento de contribuições, a que se referem o n.º 1 da norma VII da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e o n.º 5 da [Portaria n.º 522/71](https://diariodarepublica.pt/dr/detalhe/portaria/522-1971-632742), de 27 de Setembro.
 

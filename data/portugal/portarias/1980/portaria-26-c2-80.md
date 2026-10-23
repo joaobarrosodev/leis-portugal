@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 26-(65) a 26-(68)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-c2-1980-508648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6e8ef5553e5fb979cea0720a27c4196390d06f4e7ace02503853e4d5bff3978
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b37749de512df32bc068506f0c18dab74dfa8bd648a8e61a9233fbfb404601e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Psicologia
+- Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:177657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461804:por
+  label: "Aditado o artigo 5.º-A pela PORT.732/80.26.09.1980.MECI, DR.IS [223] de 26.09.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/732-1980-461804
+  date: '1980-09-26'
+- type: cites
+  target: pt:dre:138166:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:475340:por
+  label: Rectificada pela DECL.DD6936.07.05.1980.PCM, DR.IS [105] de 07.05.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-475340
+  date: '1980-05-07'
+- type: repealed_by
+  target: pt:dre:177657:por
+  label: "Revogada, na redacção dada na Port 732/80, de 26-Set, pela PORT.794/85.19.10.1985.ME, DR.IS [241] de 19.10.1985,\
+    \ sem prejuízo do disposto nos seus nºs 8.º e 9.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/794-1985-177657
+  date: '1985-10-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:51Z'
   warnings: []
   errors: []
 ---
@@ -150,37 +175,37 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 QUADRO IV
 
 4.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 QUADRO V
 
 5.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 QUADRO VI
 
 Opções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 Observações. - A Comissão Instaladora fixará anualmente quais as opções que os alunos poderão escolher. Nenhuma opção poderá funcionar com menos de dez alunos. A Comissão Instaladora poderá fixar um número máximo de alunos a admitir em cada opção.
 
@@ -188,7 +213,7 @@ QUADRO VII
 
 Seminários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
 
 Observações. - A Comissão Instaladora fixará anualmente quais os seminários que os alunos poderão escolher. A Comissão Instaladora poderá fixar um número mínimo e máximo de alunos para o funcionamento de cada seminário.
 
@@ -196,4 +221,4 @@ Observações. - A Comissão Instaladora fixará anualmente quais os seminários
 
 Curso de Psicologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00703/00650068.pdf)

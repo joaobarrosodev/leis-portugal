@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23900/18161817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-1973-413176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ab049ec3611351be4202794c7f0ad903ab4b4e15d07b4aab4803cdc36cf0770
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdd8c6a50254f6035c222965a213609ba81465ebdf9d19562ed0d94c1b0bb0ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,38 @@ relationships:
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337214:por
+  label: Alterada pelo(a) Portaria n.º 395/75 - Diário do Governo n.º 147/1975, Série I de 1975-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1975-337214
+  date: '1975-06-28'
+- type: cites
+  target: pt:dre:235078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432030:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:48Z'
   warnings: []
   errors: []
 ---
@@ -135,6 +157,6 @@ Ministério da Marinha, 10 de Setembro de 1973. - O Ministro da Marinha, Manuel 
 
 Quadro das classes e postos dos reservistas da reserva M (MM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23900/18161817.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23900/18161817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23900/18161817.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

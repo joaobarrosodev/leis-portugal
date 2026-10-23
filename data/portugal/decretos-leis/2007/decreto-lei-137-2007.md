@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26752678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2007-521029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74972fc72f48a273bf8e3ae9162a54cd3f7b610acdfba6e9e5a59c44034854b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dd38507305d810c6c71164d894e2ef053b394a14e83389a0342d0e60c028ac5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,78 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Instituto Financeiro para o Desenvolvimento Regional
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Orgânica
+- Pessoal Dirigente
 - Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:178815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482658:por
+  label: "Determinada a transição do Instituto Financeiro para o Desenvolvimento Regional, I. P., cuja orgânica foi aprovada\
+    \ pelo presente diploma, para o Ministério da Economia, da Inovação e do Desenvolvimento, pelo DEC LEI.321/2009.11.12.2009.PCM,\
+    \ DR.IS [239] de 11.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-2009-482658
+  date: '2009-12-11'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a integração no Ministério da Economia e do Emprego do Instituto Financeiro para o Desenvolvimento Regional,\
+    \ I.P. (IFDR,I.P.), anteriormente integrado no Ministério da Economia, Inovação e Desenvolvimento, cuja orgânica consta\
+    \ do presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amends
+  target: pt:numero:decreto-lei:54-A/2000
+  label: "Extingue, integrando as respectivas atribuições no IFDR, nos termos do artigo 14.º, a Estrutura de Apoio Técnico\
+    \ à Comissão de Gestão do QCA III, instituída pelo Decreto-Lei n.º 54-A/2000, de 7 de Abril, DR.IS-A [83]Supl e pela Resolução\
+    \ do Conselho de Ministros n.º 27/2000, de 16 de Maio\0\0"
+  source: null
+  date: '2000-04-07'
+- type: amends
+  target: pt:numero:decreto-lei:191/2000
+  label: "Extingue, integrando as respectivas atribuições no IFDR, nos termos do artigo 14.º, a Estrutura de apoio técnico\
+    \ à Coordenação do Fundo de Coesão, instituída pelo Decreto-Lei n.º 191/2000, de 16 de Agosto, DR.IS-A [188] e pela Resolução\
+    \ do Conselho de Ministros n.º 155/2000 (2.ªSérie), de 6 de Dezembro\0\0"
+  source: null
+  date: '2000-08-16'
+- type: amends
+  target: pt:numero:decreto-lei:168/2001
+  label: "Extingue, integrando as respectivas atribuições no IFDR, nos termos do artigo 14.º, a Estrutura de Apoio Técnico\
+    \ ao Controlo de 2.º nível do QCA III, instituída pelo Decreto-Lei n.º 168/2001, de 25 de Maio, DR.IS-A [121] e pela Resolução\
+    \ do Conselho de Ministros n.º 172/2001 (2.ªSérie), de 26 de Dezembro\0o\0"
+  source: null
+  date: '2001-05-25'
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:130/2001
+  label: "Extingue, integrando as respectivas atribuições no IFDR, nos termos do artigo 14.º, a Estrutura de Apoio Técnico\
+    \ à Iniciativa Comunitária Interreg III, instituída pela Resolução do Conselho de Ministros n.º 130/2001 (2.ªSérie), de\
+    \ 16 de Novembro, DR.IIS [266]\0\0"
+  source: null
+  date: '2001-11-16'
 - type: cites
   target: celex:32004L0018
   label: null
   source: http://data.europa.eu/eli/dir/2004/18/oj
+- type: repealed_by
+  target: pt:dre:178815:por
+  label: "Revogado, a partir de 01.07.2012, pelo DEC LEI.125/2012.20.06.2012.MEE, DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2012-178815
+  date: '2012-06-20'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:29Z'
   warnings: []
   errors: []
 ---
@@ -316,12 +363,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Humberto Delgado Ubach Chaves Rosa.
 
-**Promulgado em 20 de Abril de 2007.**
+Promulgado em 20 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Abril de 2007.**
+Referendado em 23 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2007-638525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 102de549a648bffb641668104acfb1fb3638f75a16543d12eb21aa5fac5ee195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90945d70a359d08fb4d0cb5f4b819f5fdbe2d2648473f3bcbcef709912741dfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Administração Regional de Saúde do Alentejo
 - Administração Regional de Saúde do Algarve
-- Centro de Histocompatibilidade do Centro
-- Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Administração Regional de Saúde do Centro
 - Administração Regional de Saúde do Norte
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Património
-- Fiscal Único
+- Centro de Histocompatibilidade do Centro
 - Centro de Histocompatibilidade do Norte
 - Centro de Histocompatibilidade do SUL
-- Contrato Individual de Trabalho
-- Definição de Competências
-- Serviço Nacional de Saúde
-- Extinção de Serviços
-- Recrutamento de Pessoal
-- Conselho Diretivo
-- Conselho Consultivo
 - Centro de Saúde
-- Orgânica
-- Presidente
-- Plano Nacional de Saúde
+- Conselho Consultivo
+- Conselho Diretivo
+- Contrato Individual de Trabalho
 - Cuidados Médicos
+- Definição de Competências
+- Extinção de Serviços
+- Fiscal Único
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Orgânica
+- Património
+- Plano Nacional de Saúde
+- Presidente
+- Recrutamento de Pessoal
+- Serviço Nacional de Saúde
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:543006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603228:por
+  label: "Alterada a redacção do art. 11.º pelo DEC LEI.81/2009.02.04.2009.MS, DR.IS [65] de 02.04.2009 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2009-603228
+  date: '2009-04-02'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Saúde dos serviços, organismos e entidades identificados no Dec lei\
+    \ 212/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 18º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:145186:por
+  label: "Reestruturadas as ARS Norte, I. P., ARS Centro, I. P., e a ARS Lisboa e Vale do Tejo, I. P., que transferem, respectivamente,\
+    \ as atribuições dos Centros de Histocompatibilidade do Norte, do Centro e do Sul para o Instituto Português do Sangue\
+    \ e da Transplantação, I. P., pelo DEC LEI.124/2011.29.12.2011.MS, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543006:por
+  label: "Determinada a sucessão do Instituto Português do Sangue e da Transplantação, I.P. (IPST,I.P.) nas atribuições dos\
+    \ Centros de Histocompatibilidade do Norte, Centro e Sul, constantes do art. 8º pelo DEC LEI.39/2012.16.02.2012.MS, DR.IS\
+    \ [34] de 16.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2012-543006
+  date: '2012-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -134,16 +160,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:309005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogado, a partir de 11.10.2009, o Dec Lei 217/99 de 15-Jun, alterado pelo presente diploma, pelo DEC LEI.279/2009.06.10.2009.MS,\
+    \ DR.IS [193] de 06.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
+- type: repealed_by
+  target: pt:dre:145186:por
+  label: "Revogado a partir de 03.01.2012., o Dec Lei 212/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.124/2011.29.12.2011.MS,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: repealed_by
+  target: pt:dre:543922:por
+  label: "Revogado, a partir de 01.02.2012 e com exceção do art. 22º, pelo DEC LEI.22/2012.30.01.2012.MS, DR.IS [21] de 30.01.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2012-543922
+  date: '2012-01-30'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:10Z'
   warnings: []
   errors: []
 ---
@@ -498,12 +598,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

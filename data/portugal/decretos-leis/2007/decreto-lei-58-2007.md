@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05100/15681569.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2007/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2007-518467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ae4b35dde8feb6c132e396e34f62b4b901594dcbd50b57003e91726a1719e61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 771b3eb11567b692341c13a08b0c383842a018d9c0af0475ae14edba665cfded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
 - Autoridade Marítima Nacional
-- Inspecção de Navios
-- Embargo
-- Segurança Pública
 - Direcção Geral da Marinha
+- Embarcação
+- Embargo
+- Inspecção de Navios
 - Proteção do Ambiente
 - Regulamento
 - Regulamento de Inspecção de Navios Estrangeiros
 - Segurança da Navegação
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:553454:por
@@ -108,16 +108,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/195/1998/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/195/1998/07/10/p/dre
+- type: repealed_by
+  target: pt:dre:553454:por
+  label: "Revogado pelo DEC LEI.61/2012.14.03.2012.MAMAOT, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2012-553454
+  date: '2012-03-14'
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:03Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +159,9 @@ Os artigos 14.º, 19.º-A e 24.º do Regulamento de Inspecção de Navios Estran
 
 5 - ...
 
-###### Artigo 19.º-A — [...]
+Artigo 19.º-A
+
+[...]
 
 1 - ...
 
@@ -166,7 +173,9 @@ Os artigos 14.º, 19.º-A e 24.º do Regulamento de Inspecção de Navios Estran
 
 5 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O Ministério da Defesa Nacional (MDN) e o Ministério das Obras Públicas, Transportes e Comunicações (MOPTC) devem tomar as medidas necessárias para assegurar a cooperação entre a Autoridade Marítima Nacional (AMN), o IPTM, as autoridades portuárias e outras entidades interessadas, nomeadamente organizações comerciais, com vista a que as autoridades competentes possam ter acesso a todas as informações úteis sobre a identificação e estado dos navios que escalem os portos nacionais.
 
@@ -180,18 +189,20 @@ Os artigos 14.º, 19.º-A e 24.º do Regulamento de Inspecção de Navios Estran
 
 6 - ...
 
-###### Artigo 2.º — Norma revogatória
+Artigo 2.º
+
+Norma revogatória
 
 São revogados os n.os 3, 4 e 5 do artigo 5.º do RINE, aprovado pelo Decreto-Lei n.º 195/98, de 10 de Julho, com as alterações introduzidas pelos Decretos-Leis n.os 156/2000, de 22 de Julho, e 284/2003, de 8 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - João António da Costa Mira Gomes - Mário Lino Soares Correia.
 
-**Promulgado em 26 de Fevereiro de 2007.**
+Promulgado em 26 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 28 de Fevereiro de 2007.**
+Referendado em 28 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

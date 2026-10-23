@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-1975-335751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a479edab0d31c9eaff3a18e019effb4294f114713a8973ea1ce093abc8e7f829
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74bf4eb4aec4f88d41c6a935c0ec3a766a16eed02fc60013ddd234e8ea7212b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lotação
+- Marinha
+- Unidade Naval
+relationships:
+- type: cites
+  target: pt:dre:413050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:44:45Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +101,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, que as lo
 
 Estado-Maior da Armada, 13 de Maio de 1975. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo, vice-almirante.
 
-## Anexo a que se refere a Portaria n.º 358/75, de 11 de Junho
+Anexo a que se refere a Portaria n.º 358/75, de 11 de Junho
 
 Lotações, completa e normal, dos navios-patrulhas da classe «Cacine»
 
@@ -196,4 +207,4 @@ Marinheiros cozinheiros ... 2
 
 (nota d) Quando no serviço de assistência à navegação aérea e marítima embarca mais um marinheiro radiotelegrafista.
 
-**O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo, vice-almirante.**
+O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo, vice-almirante.

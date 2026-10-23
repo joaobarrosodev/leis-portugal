@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/2000/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2000-561379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01df9dc087c565f9873144ba920dd34aa2ddf6c51226cf35ccba3e0595777da8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aaf80e38ca73c4cff4bbd63d72aab4a8301fbb5a5c31d12cd3ed48b1bd3c9e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Brucelose
-- Doença Animal
-- Gado Caprino
-- Multa
 - Comunidade Europeia
 - Contra-ordenação
-- Decisão CE
 - Controlo Sanitário
-- Saúde Pública
+- Decisão CE
+- Doença Animal
 - Exploração Pecuária
 - Gado Bovino
-- Indemnização
+- Gado Caprino
 - Gado Ovino
+- Indemnização
+- Multa
 - Pecuária
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:213808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447913:por
+  label: "Aditado o Anexo B pelo DEC LEI.265/2002.2002.11.26.MADRP DR.IS-A [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-2002-447913
+  date: '2002-11-26'
+- type: amended_by
+  target: pt:dre:213808:por
+  label: "Substituído o anexo B do presente diploma, com a redacção dada pelo Dec Lei 265/2002 de 26-Nov, pelo anexo E do\
+    \ DEC LEI.227/2004.07.12.2004.MAPF, DR.IS-A [286] de 07.12.2004, e remetidas para aquele anexo E, relativamente ao estatuto\
+    \ de efectivo ou exploração indemne ou oficialmente indemne de brucelose, as referências feitas ao teste de rosa de Bengala\
+    \ e fixação do complemento. \0o. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-2004-213808
+  date: '2004-12-07'
 - type: cites
   target: celex:31964L0432
   label: null
@@ -109,13 +122,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:40Z'
   warnings: []
   errors: []
 ---
@@ -596,15 +609,15 @@ d) A Portaria n.º 1051/91, de 15 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2000. - António Manuel de Oliveira Guterres - António do Pranto Nogueira Leite - Vítor Manuel Sampaio Caetano Ramalho - António Luís Santos Costa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 11 de Setembro de 2000.**
+Promulgado em 11 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Setembro de 2000.**
+Referendado em 14 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Classificação sanitária de efectivos
 

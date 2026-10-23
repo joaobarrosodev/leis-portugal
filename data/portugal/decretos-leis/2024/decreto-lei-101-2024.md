@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/23500/0004600105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2024/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2024-898867717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80f77ca9d70ac9cac9f294daaf49b14498bda4791755ef624cef1479f809a082
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43c84a4993e17eb263c92ab7b5dab6aab0c43baedb070e30a80d226a13a71ca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Português de Licenças de Emissão
+- Agência Portuguesa do Ambiente
+- Alteração Climática
+- Aproximação das Legislações
 - Efeito de Estufa
 - Licença de Emissão
-- Aproximação das Legislações
-- Venda em Hasta Pública
 - Poluição
-- Regulamento CE
-- Alteração Climática
-- TAXA de Prestação de Serviços
+- Registo Português de Licenças de Emissão
 - Registo Português de Licenças de Emissão Integrado no Registo da União
-- Agência Portuguesa do Ambiente
+- Regulamento CE
+- TAXA de Prestação de Serviços
+- Venda em Hasta Pública
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:12/2020
+  label: Altera, a partir de 9 de dezembro de 2024, nos termos dos artigos 6.º e 9.º do presente diploma, os artigos 1.º,
+    2.º (a alteração das alíneas a) e b) do n.º 2 deste último produz efeitos a partir de 1 de janeiro de 2026), 3.º, 4.º,
+    5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 14.º, 15.º, 20.º, 21.º, 22.º, 24.º, 26.º, 30.º, 32.º, 33.º, 36.º, 37.º, 41.º,
+    42.º, 44.º, 45.º e os anexos II, III e IV, adita os artigos 10.º-A, 10.º-B, 12.º-A, 12.º-B, 12.º-C, 33.º-A, 33.º-B, 41.º-A
+    e os anexos ii-A e v, e revoga a alínea k) do artigo 3.º, o n.º 5 do artigo 7.º, a alínea e) do n.º 1 do artigo 9.º, o
+    artigo 11.º, o n.º 10 do artigo 12.º, o n.º 3 do artigo 16.º, o n.º 1 do artigo 22.º, os n.ºs 5, 6 e 7 do artigo 33.º
+    e o n.º 6 do anexo ii do Decreto-Lei n.º 12/2020, de 6 de abril, Diário da República n.º 68/2020, Série I
+  source: null
+  date: '2020-04-06'
 - type: cites
   target: celex:32003L0087
   label: null
@@ -223,6 +234,46 @@ relationships:
   target: eli:http://data.europa.eu/eli/
   label: null
   source: http://data.europa.eu/eli/
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171992307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173707578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185043:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32003L0087
   label: null
@@ -236,15 +287,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 100
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 66
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:19Z'
   warnings: []
   errors: []
 ---
@@ -303,7 +354,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 1
 
 O presente decreto-lei estabelece o regime jurídico aplicável ao comércio de licenças de emissão de gases com efeito de estufa (GEE), transpondo para a ordem jurídica interna a Diretiva [2003/87/CE](http://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, alterada pelas Diretivas [2004/101/CE](http://data.europa.eu/eli/dir/2004/101/oj?locale=pt) e [2008/101/CE](http://data.europa.eu/eli/dir/2008/101/oj?locale=pt), ambas do Parlamento Europeu e do Conselho, respetivamente de 27 de outubro de 2004 e de 19 de novembro de 2008, pelo [Regulamento (CE) n.º 219/2009](http://data.europa.eu/eli/reg/2009/219/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de março de 2009, pela [Diretiva 2009/29/CE](http://data.europa.eu/eli/dir/2009/29/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril de 2009, pela [Decisão n.º 1359/2013/UE](http://data.europa.eu/eli/dec/2013/1359/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, pelo [Regulamento (UE) n.º 421/2014](http://data.europa.eu/eli/reg/2014/421/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, pela [Decisão (UE) n.º 2015/1814](http://data.europa.eu/eli/dec/2015/1814/oj?locale=pt), do Parlamento Europeu e do Conselho, de 6 de outubro de 2015, pelo [Regulamento (UE) n.º 2017/2392](http://data.europa.eu/eli/reg/2017/2392/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de dezembro de 2017, pela [Diretiva (UE) 2018/410](http://data.europa.eu/eli/dir/2018/410/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de março de 2018, pela Decisão Delegada (UE) [2020/1071](http://data.europa.eu/eli/dec/2020/1071/oj?locale=pt), da Comissão, de 18 de maio de 2020, pelo [Regulamento Delegado (UE) 2021/1416](http://data.europa.eu/eli/reg/2021/1416/oj?locale=pt), da Comissão, de 17 de junho de 2021, pela [Decisão (UE) 2023/136](http://data.europa.eu/eli/dec/2023/136/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de janeiro de 2023, pelo [Regulamento (UE) 2023/435](http://data.europa.eu/eli/reg/2023/435/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de fevereiro de 2023, e pelas Diretivas (UE) [2023/958](http://data.europa.eu/eli/dir/2023/958/oj?locale=pt) e [2023/959](http://data.europa.eu/eli/dir/2023/959/oj?locale=pt), ambas do Parlamento Europeu e do Conselho, de 10 de maio de 2023.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se às atividades desenvolvidas por instalações fixas, enumeradas no anexo ii ao presente decreto-lei e do qual faz parte integrante, e aos GEE enumerados no anexo i ao presente decreto-lei e do qual faz parte integrante, sem prejuízo do disposto no capítulo ii do [Decreto-Lei n.º 127/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), de 30 de agosto, na sua redação atual, que estabelece o regime de emissões industriais (REI) aplicável à prevenção e ao controlo integrados da poluição, bem como às regras destinadas a evitar e ou reduzir as emissões para o ar, a água e o solo e à produção de resíduos, transpondo a [Diretiva n.º 2010/75/UE](http://data.europa.eu/eli/dir/2010/75/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativa às emissões industriais (prevenção e controlo integrado da poluição).
 
@@ -315,7 +368,9 @@ b) Instalações em que, durante o anterior período relevante de cinco anos ref
 
 3 - O artigo 33.º-B aplica-se à atividade, desenvolvida por entidades regulamentadas, enumerada no anexo v ao presente decreto-lei e do qual faz parte integrante, e aos GEE enumerados no anexo i ao presente decreto-lei.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Sem prejuízo do disposto no artigo 33.º-B, para efeitos do presente decreto-lei, entende-se por:
 
@@ -355,7 +410,9 @@ q) [...]
 
 r) ‘Plano de Neutralidade Climática (PNC)’, o plano de neutralidade climática estabelecido pelo operador de acordo com o disposto no artigo 12.º-C.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A Agência Portuguesa do Ambiente, I. P. (APA, I. P.), é a autoridade nacional competente nos termos e para os efeitos da Diretiva [2003/87/CE](http://data.europa.eu/eli/dir/2003/87/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, na sua redação atual, competindo-lhe:
 
@@ -411,7 +468,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -425,13 +484,17 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os operadores de instalações que desenvolvam as atividades enumeradas no anexo ii ao presente decreto-lei ou que, por força da aplicação do artigo 41.º, venham a ser abrangidas pelo presente regime, devem estar habilitados por um TEGEE emitido pela APA, I. P.
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -473,7 +536,9 @@ f) [...]
 
 14 - O TEGEE constitui-se como um título autónomo, regendo-se pelas regras estabelecidas no presente decreto-lei.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A APA, I. P., emite o TEGEE, integrado no TUA, que permite a emissão dos gases referidos no anexo i ao presente decreto-lei, para uma parte ou para a totalidade da instalação, mediante prova de que o operador é capaz de monitorizar e comunicar as informações relativas a emissões de acordo com o Regulamento de Execução (UE) n.º [2018/2066](http://data.europa.eu/eli/reg/2018/2066/oj?locale=pt), da Comissão, de 19 de dezembro de 2018.
 
@@ -491,7 +556,9 @@ d) Indicação da obrigação de devolver as licenças de emissão correspondent
 
 e) Plano de monitorização que cumpra os requisitos definidos no Regulamento de Execução (UE) n.º [2018/2066](http://data.europa.eu/eli/reg/2018/2066/oj?locale=pt), da Comissão, de 19 de dezembro de 2018.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -523,7 +590,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O operador comunica, através do módulo LUA da plataforma SILiAmb - Sistema Integrado de Licenciamento do Ambiente ou da plataforma da entidade coordenadora pelo respetivo procedimento de licenciamento da atividade económica, as alterações da natureza ou do funcionamento da instalação que possam exigir a atualização do TEGEE pela APA, I. P.
 
@@ -549,7 +618,9 @@ b) [...]
 
 10 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Para o período com início a 1 de janeiro de 2021, o método de cálculo para efeitos de atribuição de licenças de emissão gratuitas às instalações abrangidas pelo regime CELE tem por base as medidas de execução plenamente harmonizadas que estabelecem parâmetros de referência (benchmark) ex ante, a nível da União, estabelecidas no [Regulamento Delegado (UE) n.º 2019/331](http://data.europa.eu/eli/reg/2019/331/oj?locale=pt), da Comissão, de 19 de dezembro de 2018.
 
@@ -579,7 +650,9 @@ b) As subinstalações de aquecimento urbano, para as quais a atribuição de li
 
 10 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os operadores das instalações existentes e os operadores das instalações excluídas ao abrigo do capítulo iv, que pretendam solicitar a atribuição de licenças de emissão a título gratuito, devem submeter à APA, I. P., o relatório de dados de referência, previamente sujeito a um processo de verificação por um verificador acreditado de acordo com o Regulamento de Execução (UE) n.º [2018/2067](http://data.europa.eu/eli/reg/2018/2067/oj?locale=pt), da Comissão, de 19 de dezembro de 2018, juntamente com o PMM referido no artigo 16.º e, caso aplicável, o PNC referido no artigo 12.º-C.
 
@@ -589,7 +662,7 @@ a) Instalações existentes, que não pretendam efetuar o pedido referido no nú
 
 b) Instalações não elegíveis para beneficiar de atribuição de licenças de emissão a título gratuito nos termos da alínea a) do n.º 3 do artigo 12.º;
 
-c) Instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.<sup>os</sup>1 e 2 do artigo 33.º
+c) Instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.os1 e 2 do artigo 33.º
 
 3 - [...]
 
@@ -603,7 +676,9 @@ c) Instalações de incineração de resíduos urbanos com uma potência térmic
 
 8 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A quantidade de licenças de emissão a título gratuito reservada a novas instalações é gerida a nível da União.
 
@@ -617,7 +692,9 @@ c) Instalações de incineração de resíduos urbanos com uma potência térmic
 
 6 - As licenças de emissão reservadas a novas instalações são atribuídas pela Comissão Europeia atendendo à ordem de chegada dos pedidos a contar da data da notificação prevista no número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -625,7 +702,7 @@ c) Instalações de incineração de resíduos urbanos com uma potência térmic
 
 a) As instalações que tenham solicitado à APA, I. P., a exclusão opcional do regime CELE em cada período de atribuição, ao abrigo do artigo 27.º, e que tenham sido consideradas elegíveis pela APA, I. P., juntamente com a respetiva medida equivalente de redução de emissões, caso aplicável;
 
-b) As instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.<sup>os</sup>1 e 2 do artigo 33.º
+b) As instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.os1 e 2 do artigo 33.º
 
 3 - [...]
 
@@ -633,7 +710,9 @@ b) As instalações de incineração de resíduos urbanos com uma potência tér
 
 5 - A lista das instalações referida na alínea a) do n.º 2 é publicitada na página eletrónica da APA, I. P., juntamente com a respetiva medida equivalente de redução de emissões, caso aplicável, e as medidas de monitorização de emissões previstas no artigo 30.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A APA, I. P., atribui ao operador de instalação, até 30 de junho de cada ano, uma parte da quantidade total de licenças de emissão prevista para o período de atribuição 2021-2025, e para o período de atribuição 2026-2030, correspondente à quantidade anual determinada de acordo com as regras estipuladas no artigo 12.º e no [Regulamento Delegado (UE) n.º 2019/331](http://data.europa.eu/eli/reg/2019/331/oj?locale=pt), da Comissão, de 19 de dezembro de 2018.
 
@@ -641,7 +720,9 @@ b) As instalações de incineração de resíduos urbanos com uma potência tér
 
 3 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -665,7 +746,9 @@ f) [Anterior alínea e).]
 
 5 - Caso a Comissão Europeia notifique uma data-limite para a atribuição de licenças de emissão relativas ao período de atribuição 2021-2025, a atribuição nas situações previstas nas alíneas e) e f) do n.º 1 ocorre após a emissão da licença ambiental, sendo concedidas as licenças de emissão previstas nos termos do artigo anterior, e desde que a mesma ocorra até ao último dia do ano civil de 2025.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -685,7 +768,9 @@ b) Caso a conta de depósito de operador não disponha de licenças de emissão 
 
 7 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -709,7 +794,9 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 7 - As formalidades relativas à transferência, reconhecimento, devolução e anulação de licenças são as definidas pelo [Regulamento Delegado (UE) n.º 2019/1122](http://data.europa.eu/eli/reg/2019/1122/oj?locale=pt), da Comissão, de 12 de março de 2019.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - A manutenção do Registo Português de Licenças de Emissão integrado no Registo da União (RPLE-RU), enquanto registo de dados normalizado protegido, que garante uma contabilidade precisa sobre a atribuição, detenção e transferência e anulação de licenças de emissão, rege-se pelo [Regulamento Delegado (UE) n.º 2019/1122](http://data.europa.eu/eli/reg/2019/1122/oj?locale=pt), da Comissão, de 12 de março de 2019.
 
@@ -719,9 +806,11 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 4 - [...]
 
-5 - Na sequência da revogação ou caducidade do TEGEE nos termos dos n.<sup>os</sup>1 ou 2 do artigo 9.º, a APA, I. P., procede ao encerramento da conta de depósito de operador de uma instalação, nos termos do [Regulamento Delegado (UE) n.º 2019/1122](http://data.europa.eu/eli/reg/2019/1122/oj?locale=pt), da Comissão, de 12 de março de 2019.
+5 - Na sequência da revogação ou caducidade do TEGEE nos termos dos n.os1 ou 2 do artigo 9.º, a APA, I. P., procede ao encerramento da conta de depósito de operador de uma instalação, nos termos do [Regulamento Delegado (UE) n.º 2019/1122](http://data.europa.eu/eli/reg/2019/1122/oj?locale=pt), da Comissão, de 12 de março de 2019.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -739,7 +828,9 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 8 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Os operadores de instalações que desenvolvam qualquer atividade constante do anexo ii ao presente decreto-lei monitorizam e comunicam as respetivas emissões de acordo com as orientações gerais e as orientações específicas para cada atividade, fixadas em conformidade com o Regulamento de Execução (UE) n.º [2018/2066](http://data.europa.eu/eli/reg/2018/2066/oj?locale=pt), da Comissão, de 19 de dezembro de 2018.
 
@@ -749,7 +840,9 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 4 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -765,9 +858,11 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 7 - (Revogado.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
 
-1 - O operador que não devolva, até 30 de setembro de cada ano civil, as licenças de emissão correspondentes às emissões verificadas no ano anterior, tal como comunicadas nos termos do n.º 3 do artigo 32.º, ou estimadas nos termos dos n.<sup>os</sup>1 ou 7 do artigo 33.º-A, consoante aplicável, fica sujeito ao pagamento de uma penalização, pelas emissões excedentárias, de € 100,00 por cada tonelada de CO<sub>2</sub> equivalente emitida, pela instalação relativamente à qual não devolveu as licenças.
+[...]
+
+1 - O operador que não devolva, até 30 de setembro de cada ano civil, as licenças de emissão correspondentes às emissões verificadas no ano anterior, tal como comunicadas nos termos do n.º 3 do artigo 32.º, ou estimadas nos termos dos n.os1 ou 7 do artigo 33.º-A, consoante aplicável, fica sujeito ao pagamento de uma penalização, pelas emissões excedentárias, de € 100,00 por cada tonelada de CO2 equivalente emitida, pela instalação relativamente à qual não devolveu as licenças.
 
 2 - [...]
 
@@ -783,7 +878,9 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 8 - [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -823,7 +920,9 @@ e) A violação da obrigação do operador ter um plano de monitorização e de 
 
 5 - [...]
 
-###### Artigo 41.º — Procedimentos para a inclusão unilateral de atividades e gases adicionais
+Artigo 41.º
+
+Procedimentos para a inclusão unilateral de atividades e gases adicionais
 
 1 - Na sequência de decisões adotadas ao nível da União, o regime CELE pode ser aplicado a atividades e GEE não enumerados no anexo ii ao presente decreto-lei, desde que essa inclusão seja aprovada pela Comissão Europeia, tendo em conta todos os critérios pertinentes, nomeadamente as consequências sobre o mercado interno, as potenciais distorções da concorrência, a integridade ambiental do regime e a fiabilidade do sistema previsto para a monitorização e comunicação de informações.
 
@@ -831,7 +930,9 @@ e) A violação da obrigação do operador ter um plano de monitorização e de 
 
 3 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -841,7 +942,9 @@ e) A violação da obrigação do operador ter um plano de monitorização e de 
 
 4 - O Fundo Ambiental assegura a publicitação e divulgação da fonte de financiamento das ações e projetos, sempre que a mesma provenha das receitas das vendas em leilão de licenças de emissão.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -861,7 +964,9 @@ e) Pela apreciação do pedido de plano de monitorização e da sua atualizaçã
 
 4 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -889,7 +994,9 @@ Plano de monitorização das instalações de incineração de resíduos urbanos
 
 6 - O prazo previsto no número anterior inicia-se após o pagamento da taxa prevista no artigo 44.º e suspende-se com o pedido de elementos e/ou informações, previsto no n.º 4, até à receção pela APA, I. P., de resposta ou decurso do prazo para a sua apresentação.
 
-###### Artigo 10.º-B — Atualização do plano de monitorização das instalações de incineração de resíduos urbanos
+Artigo 10.º-B
+
+Atualização do plano de monitorização das instalações de incineração de resíduos urbanos
 
 1 - O operador deve submeter à APA, I. P., um pedido de atualização do plano de monitorização sempre que ocorram as alterações previstas nas alíneas a) e b) do n.º 2 do artigo 10.º
 
@@ -901,7 +1008,9 @@ Plano de monitorização das instalações de incineração de resíduos urbanos
 
 5 - Sem prejuízo do disposto no n.º 1, o operador deve remeter um pedido de atualização do plano de monitorização sempre que sejam publicadas novas disposições relativas à monitorização e comunicação de informações relativas às emissões de GEE nos termos da Diretiva 2003/87/CE, do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, que assim o exijam.
 
-###### Artigo 12.º-A — Condicionalidade da atribuição de licenças de emissão a título gratuito na implementação de medidas de melhoria da eficiência energética
+Artigo 12.º-A
+
+Condicionalidade da atribuição de licenças de emissão a título gratuito na implementação de medidas de melhoria da eficiência energética
 
 1 - Sem prejuízo do disposto no número seguinte, a quantidade de licenças de emissão a atribuir a título gratuito é reduzida, em 20 %, à instalação abrangida pela obrigação de realizar uma auditoria energética ou de implementar um sistema de gestão de energia certificado nos termos do artigo 12.º do Decreto-Lei n.º 68-A/2015, de 30 de abril, na sua redação atual, se as recomendações constantes do relatório de auditoria ou do sistema de gestão da energia certificado não forem implementadas.
 
@@ -913,11 +1022,13 @@ b) Os custos desses investimentos são desproporcionados;
 
 c) Outras medidas foram implementadas que conduzem a reduções das emissões de GEE equivalentes às recomendadas no relatório de auditoria ou no sistema de gestão de energia certificado para a instalação em causa.
 
-3 - A informação em matéria de eficiência energética no âmbito do artigo 12.º do Decreto-Lei n.º 68-A/2015, de 30 de abril, na sua redação atual, mencionada nos n.<sup>os</sup>1 e 2, é disponibilizada pela APA, I. P., à Direção-Geral de Energia e Geologia, a qual procede à sua apreciação no prazo de 30 dias.
+3 - A informação em matéria de eficiência energética no âmbito do artigo 12.º do Decreto-Lei n.º 68-A/2015, de 30 de abril, na sua redação atual, mencionada nos n.os1 e 2, é disponibilizada pela APA, I. P., à Direção-Geral de Energia e Geologia, a qual procede à sua apreciação no prazo de 30 dias.
 
 4 - A condicionalidade da atribuição de licenças de emissão a título gratuito na implementação de medidas de melhoria da eficiência energética obedece ao disposto nos artigos 22.º-A e 22.º-C do Regulamento Delegado (UE) n.º 2019/331, da Comissão, de 19 de dezembro de 2018.
 
-###### Artigo 12.º-B — Condicionalidade da atribuição de licenças de emissão a título gratuito no Plano de Neutralidade Climática
+Artigo 12.º-B
+
+Condicionalidade da atribuição de licenças de emissão a título gratuito no Plano de Neutralidade Climática
 
 1 - Sem prejuízo do disposto no número seguinte, a quantidade de licenças de emissão a atribuir a título gratuito é reduzida, em 20 %, à instalação cujos níveis de emissão de GEE estejam acima do percentil 80 dos níveis de emissão para os parâmetros de referência mencionados no n.º 1 do artigo 12.º dos produtos relevantes.
 
@@ -929,7 +1040,9 @@ b) O cumprimento das metas e dos objetivos intermédios estabelecidos no PNC é 
 
 3 - A condicionalidade da atribuição de licenças de emissão a título gratuito no PNC obedece ao disposto nos artigos 22.º-B e 22.º-C do Regulamento Delegado (UE) n.º 2019/331, da Comissão, de 19 de dezembro de 2018.
 
-###### Artigo 12.º-C — Plano de Neutralidade Climática
+Artigo 12.º-C
+
+Plano de Neutralidade Climática
 
 1 - O PNC é apresentado pelo operador à APA, I. P., com a submissão do pedido de atribuição de licenças de emissão a título gratuito.
 
@@ -947,7 +1060,9 @@ c) Uma estimativa do impacto de cada uma das medidas e investimentos referidos n
 
 5 - A atualização do PNC pelo operador de instalação obedece ao disposto no artigo 22.º-D do Regulamento Delegado (UE) n.º 2019/331, da Comissão, de 19 de dezembro de 2018.
 
-###### Artigo 33.º-A — Estimativa de emissões pela autoridade competente
+Artigo 33.º-A
+
+Estimativa de emissões pela autoridade competente
 
 1 - Se até 31 de março não ocorrer a entrega do relatório de emissões anual de uma instalação, mencionado no n.º 3 do artigo 32.º, ou se o mesmo não tiver sido considerado satisfatório pelo verificador, a APA, I. P., procede à estimativa das emissões da instalação, que corresponde às emissões verificadas no ano do incumprimento, e notifica o operador respetivo.
 
@@ -959,17 +1074,19 @@ c) Uma estimativa do impacto de cada uma das medidas e investimentos referidos n
 
 5 - Na ausência de instalações definidas pela mesma CAE da instalação, a estimativa de emissões da instalação corresponde ao valor médio das emissões verificadas, para o ano em questão, do conjunto de instalações para as quais ocorreu a entrega do relatório de emissões anual, mencionado no n.º 3 do artigo 32.º
 
-6 - A estimativa anual determinada nos termos dos n.<sup>os</sup>2, 3, 4 e 5 é, ainda, ajustada de forma proporcional à data em que ocorra uma das situações seguintes, caso aplicável:
+6 - A estimativa anual determinada nos termos dos n.os2, 3, 4 e 5 é, ainda, ajustada de forma proporcional à data em que ocorra uma das situações seguintes, caso aplicável:
 
 a) O início do funcionamento da instalação;
 
 b) A suspensão da atividade, comprovada através de documento emitido pela entidade coordenadora de licenciamento da atividade, remetido à APA, I. P., pelo operador;
 
-c) A revogação ou a caducidade do TEGEE, ao abrigo dos n.<sup>os</sup>1 e 2 do artigo 9.º, respetivamente.
+c) A revogação ou a caducidade do TEGEE, ao abrigo dos n.os1 e 2 do artigo 9.º, respetivamente.
 
 7 - O operador de instalação, no prazo de 30 dias contados a partir da notificação mencionada no n.º 1, pode apresentar à APA, I. P., uma nova estimativa de emissões, tendo por base um relatório de emissões anual, verificado por verificador acreditado, em conformidade com os critérios estabelecidos no Regulamento de Execução (UE) n.º 2018/2067, da Comissão, de 19 de dezembro de 2018.
 
-###### Artigo 33.º-B — Comunicação de emissões pelas entidades regulamentadas
+Artigo 33.º-B
+
+Comunicação de emissões pelas entidades regulamentadas
 
 1 - As entidades regulamentadas, que desenvolvam a atividade constante do anexo v ao presente decreto-lei, comunicam as suas emissões históricas relativas ao ano de 2024 até 30 de abril de 2025.
 
@@ -991,7 +1108,9 @@ c) «Combustível», qualquer produto energético a que se refere o artigo 2.º,
 
 d) «Introdução no consumo», a introdução no consumo na aceção do artigo 6.º, n.º 3, da Diretiva (UE) 2020/262, do Conselho, de 19 de dezembro de 2019.
 
-###### Artigo 41.º-A — Permanência no Comércio Europeu de Licenças de Emissão
+Artigo 41.º-A
+
+Permanência no Comércio Europeu de Licenças de Emissão
 
 1 - A instalação abrangida pelo regime CELE devido à exploração de unidades de combustão com uma potência térmica nominal total superior a 20 MW e que, devido à alteração do seu processo de produção para reduzir as respetivas emissões de GEE, deixe de atingir esse limiar, pode permanecer abrangida pelo regime CELE, por opção do operador.
 
@@ -999,7 +1118,7 @@ d) «Introdução no consumo», a introdução no consumo na aceção do artigo 
 
 3 - Para efeitos do número anterior, o operador da instalação solicita à APA, I. P., a permanência da instalação no regime CELE, indicando o termo do período de cinco anos que pretende que a instalação permaneça abrangida.
 
-4 - A APA, I. P., verifica a elegibilidade da instalação ao abrigo das condições estabelecidas no n.º 1 e, confirmando-se a mesma, notifica a Comissão Europeia das alterações em relação à lista apresentada nos termos dos n.<sup>os</sup>1 e 2 do artigo 15.º».
+4 - A APA, I. P., verifica a elegibilidade da instalação ao abrigo das condições estabelecidas no n.º 1 e, confirmando-se a mesma, notifica a Comissão Europeia das alterações em relação à lista apresentada nos termos dos n.os1 e 2 do artigo 15.º».
 
 ###### Artigo 4.º — Alteração aos anexos II, III e IV ao Decreto-Lei n.º 12/2020, de 6 de abril
 
@@ -1015,13 +1134,13 @@ São aditados, ao Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atua
 
 2 - Os operadores que se enquadrem na situação prevista no número anterior e que apresentem o pedido de título de emissão de gases com efeito de estufa no prazo aí estipulado, são considerados instalação existente nos termos da alínea e) do artigo 3.º do Decreto-Lei n.º 12/2020, de 6 de abril, com a redação dada pelo presente decreto-lei, para efeitos do pedido de atribuição de licenças de emissão, para o período 2026-2030, previsto no artigo 13.º do Decreto-Lei n.º 12/2020, de 6 de abril, com a redação dada pelo presente decreto-lei.
 
-3 - No período compreendido entre 1 de janeiro de 2024 e a data de entrada em vigor do presente decreto-lei, para efeitos dos n.<sup>os</sup>1 e 3 do artigo 32.º do Decreto-Lei n.º 12/2020, de 6 de abril, com a redação dada pelo presente decreto-lei, o operador que se enquadre na situação prevista no n.º 1 e que apresente o pedido de título de emissão de gases com efeito de estufa no prazo aí estipulado, pode recorrer a uma metodologia de monitorização simplificada de acordo com o previsto no Regulamento de Execução (UE) 2018/2066, da Comissão, de 19 de outubro de 2018.
+3 - No período compreendido entre 1 de janeiro de 2024 e a data de entrada em vigor do presente decreto-lei, para efeitos dos n.os1 e 3 do artigo 32.º do Decreto-Lei n.º 12/2020, de 6 de abril, com a redação dada pelo presente decreto-lei, o operador que se enquadre na situação prevista no n.º 1 e que apresente o pedido de título de emissão de gases com efeito de estufa no prazo aí estipulado, pode recorrer a uma metodologia de monitorização simplificada de acordo com o previsto no Regulamento de Execução (UE) 2018/2066, da Comissão, de 19 de outubro de 2018.
 
-4 - Mantêm-se em vigor, até 31 de dezembro de 2025, o n.º 2 do artigo 2.º, os n.<sup>os</sup>3, 4 e 5 do artigo 12.º e o n.º 5 do anexo ii ao Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atual.
+4 - Mantêm-se em vigor, até 31 de dezembro de 2025, o n.º 2 do artigo 2.º, os n.os3, 4 e 5 do artigo 12.º e o n.º 5 do anexo ii ao Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atual.
 
 ###### Artigo 7.º — Norma revogatória
 
-Sem prejuízo do disposto no n.º 1 do artigo 9.º, são revogados a alínea k) do artigo 3.º, o n.º 5 do artigo 7.º, a alínea e) do n.º 1 do artigo 9.º, o artigo 11.º, o n.º 10 do artigo 12.º, o n.º 3 do artigo 16.º, o n.º 1 do artigo 22.º, os n.<sup>os</sup>5 a 7 do artigo 33.º e o n.º 6 do anexo ii ao Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atual.
+Sem prejuízo do disposto no n.º 1 do artigo 9.º, são revogados a alínea k) do artigo 3.º, o n.º 5 do artigo 7.º, a alínea e) do n.º 1 do artigo 9.º, o artigo 11.º, o n.º 10 do artigo 12.º, o n.º 3 do artigo 16.º, o n.º 1 do artigo 22.º, os n.os5 a 7 do artigo 33.º e o n.º 6 do anexo ii ao Decreto-Lei n.º 12/2020, de 6 de abril, na sua redação atual.
 
 ###### Artigo 8.º — Republicação
 
@@ -1037,27 +1156,27 @@ Sem prejuízo do disposto no n.º 1 do artigo 9.º, são revogados a alínea k) 
 
 Visto e aprovado em Conselho de Ministros de 17 de outubro de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - Paulo Artur dos Santos de Castro de Campos Rangel - Maria da Graça Carvalho.
 
-**Promulgado em 27 de novembro de 2024.**
+Promulgado em 27 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2024.**
+Referendado em 29 de novembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere artigo 4.º)
 
 «ANEXO II
 
-[a que se referem o n.º 1 do artigo 2.º, as alíneas d), e) e g) do artigo 3.º, o n.º 1 do artigo 6.º, a alínea b) do n.º 1 do artigo 9.º, o n.º 1 do artigo 10.º-A, a alínea c) do n.º 2 do artigo 13.º, a alínea b) do n.º 2 do artigo 15.º, o n.º 2 do artigo 26.º, a alínea b) do n.º 1 do artigo 27.º, o n.º 2 do artigo 28.º, os n.<sup>os</sup> 6 e 8 do artigo 30.º, o n.º 1 do artigo 32.º, o n.º 1 do artigo 41.º, o n.º 2 do anexo iv e alínea a) do anexo v]
+[a que se referem o n.º 1 do artigo 2.º, as alíneas d), e) e g) do artigo 3.º, o n.º 1 do artigo 6.º, a alínea b) do n.º 1 do artigo 9.º, o n.º 1 do artigo 10.º-A, a alínea c) do n.º 2 do artigo 13.º, a alínea b) do n.º 2 do artigo 15.º, o n.º 2 do artigo 26.º, a alínea b) do n.º 1 do artigo 27.º, o n.º 2 do artigo 28.º, os n.os 6 e 8 do artigo 30.º, o n.º 1 do artigo 32.º, o n.º 1 do artigo 41.º, o n.º 2 do anexo iv e alínea a) do anexo v]
 
 Atividades do Comércio Europeu de Licenças de Emissão
 
-|  | Atividades | Gases com Efeito de Estufa |
+|  | Atividades | Gases com Efeito<br>de Estufa |
 | --- | --- | --- |
-| 1 | Combustão de combustíveis em instalações com uma potência térmica nominal total superior a 20 MW (excluem-se as instalações de incineração de resíduos perigosos ou resíduos urbanos).A partir de 1 de janeiro de 2024, a combustão de combustíveis em instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.<sup>os</sup> 1 e 2 do artigo 33.º | [...] |
+| 1 | Combustão de combustíveis em instalações com uma potência térmica nominal total superior a 20 MW (excluem-se as instalações de incineração de resíduos perigosos ou resíduos urbanos).A partir de 1 de janeiro de 2024, a combustão de combustíveis em instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.os 1 e 2 do artigo 33.º | [...] |
 | 2 | Refinação de óleo, quando são exploradas unidades de combustão com uma potência térmica nominal total superior a 20 MW. | [...] |
 | 3 | [...] | [...] |
 | 4 | [...] | [...] |
@@ -1080,7 +1199,7 @@ Atividades do Comércio Europeu de Licenças de Emissão
 | 21 | [...] | [...] |
 | 22 | [...] | [...] |
 | 23 | [...] | [...] |
-| 24 | Produção de hidrogénio (H<sub>2</sub>) e gás de síntese com uma capacidade de produção superior a 5 toneladas por dia. | [...] |
+| 24 | Produção de hidrogénio (H2) e gás de síntese com uma capacidade de produção superior a 5 toneladas por dia. | [...] |
 | 25 | [...] | [...] |
 | 26 | [...] | [...] |
 | 27 | Transporte de GEE para armazenamento geológico num local de armazenamento permitido ao abrigo da Diretiva n.º 2009/31/CE, à exceção das emissões abrangidas por outra atividade prevista na Diretiva n.º 2003/87/CE. | [...] |
@@ -1102,7 +1221,9 @@ Atividades do Comércio Europeu de Licenças de Emissão
 
 8 - [...]
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 Os valores máximos de emissões anuais de CO2 equivalente são definidos por instalação e decrescem nos termos seguintes, conforme as percentagens de redução de emissões que se apresentam na tabela abaixo:
 
@@ -1118,7 +1239,9 @@ Redução de emissões, em percentagem, face às emissões do ano de 2005 durant
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Redução de emissões (%) | 23,2 | 25,4 | 27,6 | 29,8 | 32,0 | 44,5 | 48,8 | 53,2 | 57,6 | 62,0 |
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1 - O operador de uma instalação excluída do regime Comércio Europeu de Licenças de Emissão ao abrigo do capítulo iv monitoriza as emissões da instalação de acordo com os requisitos estabelecidos no Regulamento de Execução (UE) n.º 2018/2066, da Comissão, de 19 de dezembro de 2018, e com as disposições de simplificação seguintes:
 
@@ -1152,13 +1275,15 @@ Fator CBAM, em percentagem, durante o período compreendido entre a entrada em v
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fator CBAM (%) | 100 | 97,5 | 95 | 90 | 77,5 | 51,5 | 39 | 26,5 | 14 |
 
-## ANEXO V — [a que se referem o n.º 1 e as alíneas a) e b) do n.º 2 do artigo 33.º-B]
+ANEXO V
+
+[a que se referem o n.º 1 e as alíneas a) e b) do n.º 2 do artigo 33.º-B]
 
 Atividade do Comércio Europeu de Licenças de Emissão para os Setores dos Edifícios, do Transporte Rodoviário e Outros Setores
 
-| Atividade | Gases com efeito de estufa | Gases com efeito de estufa |
+| Atividade | Gases com efeito de estufa |  |
 | --- | --- | --- |
-| Introdução no consumo de combustíveis utilizados em processos de combustão nos setores dos edifícios, do transporte rodoviário e outros setores. Excluem-se desta categoria de atividades: | Dióxido de carbono | Dióxido de carbono |
+| Introdução no consumo de combustíveis utilizados em processos de combustão nos setores dos edifícios, do transporte rodoviário e outros setores. Excluem-se desta categoria de atividades: | Dióxido de carbono |  |
 | a) A introdução no consumo de combustíveis utilizados nas atividades enumeradas no anexo ii, salvo se forem utilizados em processos de combustão nas atividades de transporte de gases com efeito de estufa para armazenamento geológico, conforme estabelecido na vigésima sétima linha do quadro desse anexo, ou para combustão em instalações excluídas ao abrigo do n.º 2 do artigo 27.º; |  |  |
 | b) A introdução no consumo de combustíveis cujo fator de emissão é zero; |  |  |
 | c) A introdução no consumo de resíduos perigosos ou urbanos utilizados como combustível. |  |  |
@@ -1211,7 +1336,7 @@ i) 30 de junho de 2019, para o período 2021-2025;
 
 ii) 30 de junho de 2024, para o período 2026-2030;
 
-f) «Licença de emissão», a licença, transferível em conformidade com as disposições do presente decreto-lei, para emitir uma tonelada de dióxido de carbono (CO<sub>2</sub>) equivalente durante um determinado período;
+f) «Licença de emissão», a licença, transferível em conformidade com as disposições do presente decreto-lei, para emitir uma tonelada de dióxido de carbono (CO2) equivalente durante um determinado período;
 
 g) «Nova instalação», qualquer instalação que desenvolva uma ou mais atividades enumeradas no anexo ii ao presente decreto-lei e que tenha obtido um título de emissão de GEE, pela primeira vez, após:
 
@@ -1237,7 +1362,7 @@ o) «Subinstalação», os fatores de produção, resultados e emissões corresp
 
 p) «Título de emissão de gases com efeito de estufa (TEGEE)», o título emitido de acordo com o disposto no capítulo ii e que faz parte integrante do Título Único Ambiental (TUA);
 
-q) «Tonelada equivalente de dióxido de carbono», uma tonelada métrica de CO<sub>2</sub> ou uma quantidade de outro gás com efeito de estufa referido no anexo i ao presente decreto-lei, com um potencial de aquecimento global equivalente;
+q) «Tonelada equivalente de dióxido de carbono», uma tonelada métrica de CO2 ou uma quantidade de outro gás com efeito de estufa referido no anexo i ao presente decreto-lei, com um potencial de aquecimento global equivalente;
 
 r) «Plano de Neutralidade Climática (PNC)», o plano de neutralidade climática estabelecido pelo operador de acordo com o disposto no artigo 12.º-C.
 
@@ -1309,9 +1434,11 @@ a) Acreditar e supervisionar os verificadores de relatórios de emissões anuais
 
 b) Coordenar a sua atuação com a da APA, I. P., para assegurar a necessária articulação de procedimentos e comunicação de resultados.
 
-4 - Compete à Comissão do Mercado de Valores Mobiliários o exercício das competências previstas no artigo 43.º do Regulamento (UE) n.º 1031/2010, bem como a supervisão das entidades previstas nos n.<sup>os</sup>2 e 3 do artigo 18.º do referido regulamento e no âmbito das atividades aí mencionadas, nos termos fixados em legislação própria, sem prejuízo das competências atribuídas ao Banco de Portugal e a outras entidades.
+4 - Compete à Comissão do Mercado de Valores Mobiliários o exercício das competências previstas no artigo 43.º do Regulamento (UE) n.º 1031/2010, bem como a supervisão das entidades previstas nos n.os2 e 3 do artigo 18.º do referido regulamento e no âmbito das atividades aí mencionadas, nos termos fixados em legislação própria, sem prejuízo das competências atribuídas ao Banco de Portugal e a outras entidades.
 
-### CAPÍTULO II — TÍTULO DE EMISSÃO DE GASES COM EFEITO DE ESTUFA
+### CAPÍTULO II
+
+## TÍTULO DE EMISSÃO DE GASES COM EFEITO DE ESTUFA
 
 ###### Artigo 6.º — Obrigatoriedade de existência de título de emissão de gases com efeito de estufa
 
@@ -1515,7 +1642,7 @@ b) Os custos desses investimentos são desproporcionados;
 
 c) Outras medidas foram implementadas que conduzem a reduções das emissões de GEE equivalentes às recomendadas no relatório de auditoria ou no sistema de gestão de energia certificado para a instalação em causa.
 
-3 - A informação em matéria de eficiência energética no âmbito do artigo 12.º do Decreto-Lei n.º 68-A/2015, de 30 de abril, na sua redação atual, mencionada nos n.<sup>os</sup>1 e 2, é disponibilizada pela APA, I. P., à Direção-Geral de Energia e Geologia, a qual procede à sua apreciação no prazo de 30 dias.
+3 - A informação em matéria de eficiência energética no âmbito do artigo 12.º do Decreto-Lei n.º 68-A/2015, de 30 de abril, na sua redação atual, mencionada nos n.os1 e 2, é disponibilizada pela APA, I. P., à Direção-Geral de Energia e Geologia, a qual procede à sua apreciação no prazo de 30 dias.
 
 4 - A condicionalidade da atribuição de licenças de emissão a título gratuito na implementação de medidas de melhoria da eficiência energética obedece ao disposto nos artigos 22.º-A e 22.º-C do Regulamento Delegado (UE) n.º 2019/331, da Comissão, de 19 de dezembro de 2018.
 
@@ -1559,13 +1686,13 @@ a) Instalações existentes, que não pretendam efetuar o pedido referido no nú
 
 b) Instalações não elegíveis para beneficiar de atribuição de licenças de emissão a título gratuito nos termos da alínea a) do n.º 3 do artigo 12.º;
 
-c) Instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.<sup>os</sup>1 e 2 do artigo 33.º
+c) Instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.os1 e 2 do artigo 33.º
 
 3 - Para efeitos do disposto nos números anteriores, devem ser utilizados os modelos fornecidos pela Comissão Europeia e disponibilizados pela APA, I. P., no respetivo sítio na Internet.
 
-4 - A submissão dos elementos mencionados nos n.<sup>os</sup>1 e 2 pelos operadores das instalações existentes nos termos da subalínea ii) da alínea e) do artigo 3.º, para o período de atribuição 2026-2030, deve ocorrer até 30 de maio de 2024.
+4 - A submissão dos elementos mencionados nos n.os1 e 2 pelos operadores das instalações existentes nos termos da subalínea ii) da alínea e) do artigo 3.º, para o período de atribuição 2026-2030, deve ocorrer até 30 de maio de 2024.
 
-5 - Os operadores das instalações que sejam detentores de um TEGEE, pela primeira vez, entre 1 de junho e 30 de junho de 2024 podem submeter os elementos mencionados nos n.<sup>os</sup>1 e 2 até 30 de julho de 2024.
+5 - Os operadores das instalações que sejam detentores de um TEGEE, pela primeira vez, entre 1 de junho e 30 de junho de 2024 podem submeter os elementos mencionados nos n.os1 e 2 até 30 de julho de 2024.
 
 6 - A APA, I. P., analisa o pedido considerando as regras do Regulamento Delegado (UE) n.º 2019/331, e solicita ao operador os elementos em falta, informações complementares ou a retificação de informação, caso aplicável.
 
@@ -1589,13 +1716,13 @@ c) Instalações de incineração de resíduos urbanos com uma potência térmic
 
 ###### Artigo 15.º — Lista nacional de instalações abrangidas
 
-1 - A APA, I. P., apresenta à Comissão Europeia para apreciação a lista nacional de instalações abrangidas pelo regime CELE (Lista NIMs) no período de atribuição 2021-2025, e no período de atribuição 2026-2030, da qual constam as instalações existentes, nos termos das subalíneas i) e ii) da alínea e) do artigo 3.º, respetivamente, juntamente com os elementos submetidos à APA, I. P., nos termos do artigo 3.º do Decreto-Lei n.º 10/2019, de 18 de janeiro, e dos n.<sup>os</sup>1 e 2 do artigo 13.º, respetivamente.
+1 - A APA, I. P., apresenta à Comissão Europeia para apreciação a lista nacional de instalações abrangidas pelo regime CELE (Lista NIMs) no período de atribuição 2021-2025, e no período de atribuição 2026-2030, da qual constam as instalações existentes, nos termos das subalíneas i) e ii) da alínea e) do artigo 3.º, respetivamente, juntamente com os elementos submetidos à APA, I. P., nos termos do artigo 3.º do Decreto-Lei n.º 10/2019, de 18 de janeiro, e dos n.os1 e 2 do artigo 13.º, respetivamente.
 
 2 - A lista deve identificar:
 
 a) As instalações que tenham solicitado à APA, I. P., a exclusão opcional do regime CELE em cada período de atribuição, ao abrigo do artigo 27.º, e que tenham sido consideradas elegíveis pela APA, I. P., juntamente com a respetiva medida equivalente de redução de emissões, caso aplicável;
 
-b) As instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.<sup>os</sup>1 e 2 do artigo 33.º
+b) As instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, abrangidas pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.os1 e 2 do artigo 33.º
 
 3 - A lista para o período de atribuição 2026-2030 é apresentada pela APA, I. P., à Comissão Europeia até 30 de setembro de 2024.
 
@@ -1627,7 +1754,7 @@ b) As instalações de incineração de resíduos urbanos com uma potência tér
 
 6 - A decisão final sobre a atualização do PMM é emitida pela APA, I. P., no prazo de 30 dias.
 
-7 - O prazo previsto no número anterior inicia-se após o pagamento da taxa prevista no artigo 44.º e suspende-se com o pedido de elementos e ou informações, previsto nos n.<sup>os</sup>3 e 4, até à receção pela APA, I. P., de resposta ou decurso do prazo para a sua apresentação.
+7 - O prazo previsto no número anterior inicia-se após o pagamento da taxa prevista no artigo 44.º e suspende-se com o pedido de elementos e ou informações, previsto nos n.os3 e 4, até à receção pela APA, I. P., de resposta ou decurso do prazo para a sua apresentação.
 
 8 - Tratando-se de alterações não significativas da instalação nos termos do Regulamento Delegado (UE) n.º 2019/331, o operador deve proceder à necessária alteração ao PMM, devendo as mesmas ser comunicadas à APA, I. P., durante os meses de junho e dezembro, consoante ocorram, respetivamente, no primeiro ou no segundo semestre do ano a que dizem respeito.
 
@@ -1777,7 +1904,7 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 4 - O operador da instalação deve manter os dados da conta devidamente atualizados, respeitando o procedimento publicitado no sítio na Internet da APA, I. P.
 
-5 - Na sequência da revogação ou caducidade do TEGEE nos termos dos n.<sup>os</sup>1 ou 2 do artigo 9.º, a APA, I. P., procede ao encerramento da conta de depósito de operador de uma instalação, nos termos do Regulamento Delegado (UE) n.º 2019/1122, da Comissão, de 12 de março de 2019.
+5 - Na sequência da revogação ou caducidade do TEGEE nos termos dos n.os1 ou 2 do artigo 9.º, a APA, I. P., procede ao encerramento da conta de depósito de operador de uma instalação, nos termos do Regulamento Delegado (UE) n.º 2019/1122, da Comissão, de 12 de março de 2019.
 
 ### CAPÍTULO IV — EXCLUSÃO OPCIONAL DE INSTALAÇÕES
 
@@ -1785,17 +1912,17 @@ b) Emissões de GEE que sejam considerados como tendo sido capturados e utilizad
 
 1 - Pode ser excluída do regime CELE a instalação que cumpra cumulativamente as seguintes condições:
 
-a) Tenha comunicado à APA, I. P., emissões verificadas inferiores a 25 000 toneladas de CO<sub>2</sub> equivalente, exceto as emissões de biomassa, em cada um dos três anos civis anteriores à notificação referida no n.º 8 do artigo 3.º do Decreto-Lei n.º 10/2019, de 18 de janeiro, e no n.º 3 do artigo 15.º do presente decreto-lei, consoante aplicável;
+a) Tenha comunicado à APA, I. P., emissões verificadas inferiores a 25 000 toneladas de CO2 equivalente, exceto as emissões de biomassa, em cada um dos três anos civis anteriores à notificação referida no n.º 8 do artigo 3.º do Decreto-Lei n.º 10/2019, de 18 de janeiro, e no n.º 3 do artigo 15.º do presente decreto-lei, consoante aplicável;
 
 b) Apresente uma potência térmica inferior a 35 MW, no caso de ser abrangida pela atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis, em cada um dos três anos civis anteriores à notificação referida no n.º 8 do artigo 3.º do Decreto-Lei n.º 10/2019, de 18 de janeiro, e no n.º 3 do artigo 15.º do presente decreto-lei, consoante aplicável.
 
-2 - Pode ser excluída do regime CELE a instalação que tenha comunicado à APA, I. P., emissões verificadas inferiores a 2500 toneladas de CO<sub>2</sub> equivalente, exceto as emissões de biomassa, nos termos da alínea a) do número anterior.
+2 - Pode ser excluída do regime CELE a instalação que tenha comunicado à APA, I. P., emissões verificadas inferiores a 2500 toneladas de CO2 equivalente, exceto as emissões de biomassa, nos termos da alínea a) do número anterior.
 
 3 - Podem ainda ser excluídos do regime CELE os hospitais.
 
 ###### Artigo 28.º — Medida equivalente de redução de emissões
 
-1 - As instalações excluídas do regime CELE nos termos dos n.<sup>os</sup>1 e 3 do artigo anterior ficam sujeitas à medida equivalente de redução de emissões correspondente à aplicação de valores máximos de emissões anuais de CO<sub>2</sub> equivalente para o período 2021 a 2030 tal como definidos no anexo iii ao presente decreto-lei e do qual faz parte integrante.
+1 - As instalações excluídas do regime CELE nos termos dos n.os1 e 3 do artigo anterior ficam sujeitas à medida equivalente de redução de emissões correspondente à aplicação de valores máximos de emissões anuais de CO2 equivalente para o período 2021 a 2030 tal como definidos no anexo iii ao presente decreto-lei e do qual faz parte integrante.
 
 2 - As disposições estabelecidas no presente artigo deixam de se aplicar caso a instalação deixe de desenvolver qualquer atividade enumerada no anexo ii ao presente decreto-lei ou caso ocorra diminuição da capacidade instalada para valores inferiores aos fixados no mesmo anexo.
 
@@ -1805,29 +1932,29 @@ b) Apresente uma potência térmica inferior a 35 MW, no caso de ser abrangida p
 
 2 - O pedido de exclusão referido no número anterior deve ocorrer no âmbito da submissão mencionada no n.º 4 do artigo 13.º
 
-3 - A APA, I. P., verifica a elegibilidade da instalação ao abrigo das condições estabelecidas no artigo 27.º e, confirmando-se a mesma, notifica a Comissão Europeia da exclusão, nos termos dos n.<sup>os</sup>1 e 2 do artigo 15.º, para aprovação.
+3 - A APA, I. P., verifica a elegibilidade da instalação ao abrigo das condições estabelecidas no artigo 27.º e, confirmando-se a mesma, notifica a Comissão Europeia da exclusão, nos termos dos n.os1 e 2 do artigo 15.º, para aprovação.
 
 4 - Uma vez aprovada a exclusão pela Comissão Europeia, a APA, I. P., publicita, no seu sítio na Internet, a lista de instalações excluídas do regime CELE.
 
 ###### Artigo 30.º — Monitorização, verificação e comunicação de emissões
 
-1 - As instalações excluídas do regime CELE ao abrigo das condições estabelecidas no n.º 1 do artigo 27.º ficam sujeitas a medidas de monitorização das emissões de CO<sub>2</sub> equivalente destinadas a avaliar, em qualquer ano civil, se as suas emissões:
+1 - As instalações excluídas do regime CELE ao abrigo das condições estabelecidas no n.º 1 do artigo 27.º ficam sujeitas a medidas de monitorização das emissões de CO2 equivalente destinadas a avaliar, em qualquer ano civil, se as suas emissões:
 
-a) São iguais ou superiores a 25 000 de CO<sub>2</sub> equivalente, exceto as emissões de biomassa;
+a) São iguais ou superiores a 25 000 de CO2 equivalente, exceto as emissões de biomassa;
 
-b) São superiores aos valores máximos de emissões anuais de CO<sub>2</sub> equivalente fixados nos termos do n.º 1 do artigo 28.º
+b) São superiores aos valores máximos de emissões anuais de CO2 equivalente fixados nos termos do n.º 1 do artigo 28.º
 
-2 - As instalações excluídas do regime CELE ao abrigo da condição estabelecida no n.º 2 do artigo 27.º ficam sujeitas a medidas de monitorização das emissões de CO<sub>2</sub> equivalente destinadas a avaliar, em qualquer ano civil, se as suas emissões são iguais ou superiores a 2500 de CO<sub>2</sub> equivalente, exceto as emissões de biomassa.
+2 - As instalações excluídas do regime CELE ao abrigo da condição estabelecida no n.º 2 do artigo 27.º ficam sujeitas a medidas de monitorização das emissões de CO2 equivalente destinadas a avaliar, em qualquer ano civil, se as suas emissões são iguais ou superiores a 2500 de CO2 equivalente, exceto as emissões de biomassa.
 
-3 - Os hospitais ficam sujeitos a medidas de monitorização das emissões de CO<sub>2</sub> equivalente destinadas a avaliar, em qualquer ano civil, se as suas emissões são superiores aos valores máximos de emissões anuais de CO<sub>2</sub> equivalente fixados ao abrigo do n.º 1 do artigo 28.º
+3 - Os hospitais ficam sujeitos a medidas de monitorização das emissões de CO2 equivalente destinadas a avaliar, em qualquer ano civil, se as suas emissões são superiores aos valores máximos de emissões anuais de CO2 equivalente fixados ao abrigo do n.º 1 do artigo 28.º
 
 4 - A monitorização das emissões da instalação é efetuada de acordo com os requisitos estabelecidos no Regulamento de Execução (UE) n.º 2018/2066, da Comissão, de 19 de dezembro de 2018, e com as disposições de simplificação previstas no anexo iv ao presente decreto-lei e do qual faz parte integrante.
 
-5 - O operador de uma instalação excluída do regime CELE envia à APA, I. P., até 31 de março, um relatório relativo à monitorização das emissões anuais, devidamente verificado nos termos dos n.<sup>os</sup>1 e 2 do artigo 33.º, que contenha as informações relativas às emissões da instalação ocorridas no ano civil anterior.
+5 - O operador de uma instalação excluída do regime CELE envia à APA, I. P., até 31 de março, um relatório relativo à monitorização das emissões anuais, devidamente verificado nos termos dos n.os1 e 2 do artigo 33.º, que contenha as informações relativas às emissões da instalação ocorridas no ano civil anterior.
 
 6 - O relatório de emissões anuais referido no número anterior deverá incluir o valor da potência térmica instalada para as instalações excluídas do regime CELE ao abrigo das condições estabelecidas no n.º 1 do artigo 27.º, e que desenvolva a atividade n.º 1 do anexo ii ao presente decreto-lei referente à combustão de combustíveis.
 
-7 - Se, até 31 de março, não ocorrer a entrega do relatório de uma instalação excluída do regime CELE ao abrigo das condições estabelecidas nos n.<sup>os</sup>1 ou 3 do artigo 27.º, ou se o mesmo não tiver sido considerado satisfatório pelo verificador, a APA, I. P., procede à estimativa das emissões da instalação, considerando para o efeito o dobro do valor máximo de emissão estabelecido para o ano a que se referem as emissões.
+7 - Se, até 31 de março, não ocorrer a entrega do relatório de uma instalação excluída do regime CELE ao abrigo das condições estabelecidas nos n.os1 ou 3 do artigo 27.º, ou se o mesmo não tiver sido considerado satisfatório pelo verificador, a APA, I. P., procede à estimativa das emissões da instalação, considerando para o efeito o dobro do valor máximo de emissão estabelecido para o ano a que se referem as emissões.
 
 8 - As disposições estabelecidas no presente artigo não se aplicam nas situações em que a instalação deixe de desenvolver qualquer atividade referida no anexo ii ao presente decreto-lei ou caso ocorra diminuição da capacidade instalada para valores inferiores aos fixados no mesmo anexo.
 
@@ -1835,9 +1962,9 @@ b) São superiores aos valores máximos de emissões anuais de CO<sub>2</sub> eq
 
 1 - É reintegrada no regime CELE:
 
-a) A instalação que comunique, nos termos do n.º 5 do artigo anterior, emissões iguais ou superiores a 25 000 ou 2500 toneladas de CO<sub>2</sub> equivalente, exceto as emissões de biomassa, consoante sejam aplicáveis os critérios estabelecidos nos n.<sup>os</sup>1 ou 2 do artigo 27.º;
+a) A instalação que comunique, nos termos do n.º 5 do artigo anterior, emissões iguais ou superiores a 25 000 ou 2500 toneladas de CO2 equivalente, exceto as emissões de biomassa, consoante sejam aplicáveis os critérios estabelecidos nos n.os1 ou 2 do artigo 27.º;
 
-b) A instalação que comunique, nos termos dos n.<sup>os</sup>5 e 6 do artigo anterior, uma potência térmica igual ou superior a 35 MW;
+b) A instalação que comunique, nos termos dos n.os5 e 6 do artigo anterior, uma potência térmica igual ou superior a 35 MW;
 
 c) A instalação que não submeta o relatório de emissões anual nos termos do n.º 5 do artigo anterior, ou quando o mesmo não tenha sido considerado satisfatório pelo verificador;
 
@@ -1899,13 +2026,13 @@ d) A instalação sujeita à medida equivalente estabelecida no artigo 28.º, ca
 
 5 - Na ausência de instalações definidas pela mesma CAE da instalação, a estimativa de emissões da instalação corresponde ao valor médio das emissões verificadas, para o ano em questão, do conjunto de instalações para as quais ocorreu a entrega do relatório de emissões anual, mencionado no n.º 3 do artigo 32.º
 
-6 - A estimativa anual determinada nos termos dos n.<sup>os</sup>2, 3, 4 e 5 é, ainda, ajustada de forma proporcional à data em que ocorra uma das situações seguintes, caso aplicável:
+6 - A estimativa anual determinada nos termos dos n.os2, 3, 4 e 5 é, ainda, ajustada de forma proporcional à data em que ocorra uma das situações seguintes, caso aplicável:
 
 a) O início do funcionamento da instalação;
 
 b) A suspensão da atividade, comprovada através de documento emitido pela entidade coordenadora de licenciamento da atividade, remetido à APA, I. P., pelo operador;
 
-c) A revogação ou a caducidade do TEGEE, ao abrigo dos n.<sup>os</sup>1 e 2 do artigo 9.º, respetivamente.
+c) A revogação ou a caducidade do TEGEE, ao abrigo dos n.os1 e 2 do artigo 9.º, respetivamente.
 
 7 - O operador de instalação, no prazo de 30 dias contados a partir da notificação mencionada no n.º 1, pode apresentar à APA, I. P., uma nova estimativa de emissões, tendo por base um relatório de emissões anual, verificado por verificador acreditado, em conformidade com os critérios estabelecidos no Regulamento de Execução (UE) n.º 2018/2067, da Comissão, de 19 de dezembro de 2018.
 
@@ -1943,7 +2070,7 @@ d) «Introdução no consumo», a introdução no consumo na aceção do artigo 
 
 1 - O operador de instalação cujas emissões anuais comunicadas nos termos do n.º 5 do artigo 30.º, ou estimadas ao abrigo do seu n.º 7, são superiores ao valor limite de emissão fixado para esse ano nos termos do n.º 1 do artigo 28.º fica sujeito ao pagamento de uma penalização.
 
-2 - A penalização referida no número anterior consiste no produto da média aritmética do preço das licenças de emissão vendidas em leilão, cuja receita reverta para Portugal, no ano a que respeitam as emissões por cada tonelada de CO<sub>2</sub> equivalente emitida pela instalação acima do respetivo valor limite.
+2 - A penalização referida no número anterior consiste no produto da média aritmética do preço das licenças de emissão vendidas em leilão, cuja receita reverta para Portugal, no ano a que respeitam as emissões por cada tonelada de CO2 equivalente emitida pela instalação acima do respetivo valor limite.
 
 3 - Compete à APA, I. P., proceder à emissão da nota de liquidação no valor da respetiva penalização e com o seu envio ao operador.
 
@@ -1955,7 +2082,7 @@ d) «Introdução no consumo», a introdução no consumo na aceção do artigo 
 
 ###### Artigo 36.º — Penalização por emissões excedentárias
 
-1 - O operador que não devolva, até 30 de setembro de cada ano civil, as licenças de emissão correspondentes às emissões verificadas no ano anterior, tal como comunicadas nos termos do n.º 3 do artigo 32.º, ou estimadas nos termos dos n.<sup>os</sup>1 ou 7 do artigo 33.º-A, consoante aplicável, fica sujeito ao pagamento de uma penalização, pelas emissões excedentárias, de € 100,00 por cada tonelada de CO<sub>2</sub> equivalente emitida, pela instalação relativamente à qual não devolveu as licenças.
+1 - O operador que não devolva, até 30 de setembro de cada ano civil, as licenças de emissão correspondentes às emissões verificadas no ano anterior, tal como comunicadas nos termos do n.º 3 do artigo 32.º, ou estimadas nos termos dos n.os1 ou 7 do artigo 33.º-A, consoante aplicável, fica sujeito ao pagamento de uma penalização, pelas emissões excedentárias, de € 100,00 por cada tonelada de CO2 equivalente emitida, pela instalação relativamente à qual não devolveu as licenças.
 
 2 - O pagamento da penalização prevista no número anterior não dispensa o operador da obrigação de devolver uma quantidade de licenças de emissão equivalente às emissões excedentárias por ocasião da devolução das licenças de emissão relativas ao ano civil subsequente.
 
@@ -1975,7 +2102,7 @@ d) «Introdução no consumo», a introdução no consumo na aceção do artigo 
 
 1 - Constituem contraordenação ambiental muito grave, punível nos termos da lei-quadro das contraordenações ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto, na sua redação atual, as seguintes condutas:
 
-a) A violação pelo operador da obrigação de estar habilitado com um TEGEE, nos termos previstos nos n.<sup>os</sup>1 e 2 do artigo 6.º, sem prejuízo do n.º 11 do artigo 7.º e do n.º 6 do artigo 10.º;
+a) A violação pelo operador da obrigação de estar habilitado com um TEGEE, nos termos previstos nos n.os1 e 2 do artigo 6.º, sem prejuízo do n.º 11 do artigo 7.º e do n.º 6 do artigo 10.º;
 
 b) A violação pelo operador da obrigação de ser titular de uma conta no RPLE-RU nos termos previstos no n.º 3 do artigo 26.º
 
@@ -1985,7 +2112,7 @@ a) A omissão ou falsificação da informação solicitada no âmbito dos proced
 
 b) A violação da obrigação de comunicação das alterações que conduzem à atualização do TEGEE, ao abrigo do n.º 1 do artigo 10.º;
 
-c) O incumprimento do prazo para submissão do pedido de atribuição de licenças de emissão a título gratuito previsto nos n.<sup>os</sup>4 e 5 do artigo 13.º;
+c) O incumprimento do prazo para submissão do pedido de atribuição de licenças de emissão a título gratuito previsto nos n.os4 e 5 do artigo 13.º;
 
 d) A violação da obrigação do operador ter um PMM e de comunicação das alterações que conduzem à sua atualização, nos termos dos artigos 16.º e 17.º, respetivamente;
 
@@ -2001,7 +2128,7 @@ i) A violação da obrigação de manter atualizada a informação relativa aos 
 
 3 - Constituem contraordenação ambiental leve, punível nos termos da lei-quadro das contraordenações ambientais as seguintes condutas:
 
-a) O incumprimento dos requisitos de monitorização constantes do TEGEE, de acordo com o previsto na alínea e) do n.º 3 do artigo 8.º e nos n.<sup>os</sup>1 e 2 do artigo 32.º;
+a) O incumprimento dos requisitos de monitorização constantes do TEGEE, de acordo com o previsto na alínea e) do n.º 3 do artigo 8.º e nos n.os1 e 2 do artigo 32.º;
 
 b) O incumprimento do prazo para envio do relatório contendo as informações relativas às emissões da instalação, de acordo com o previsto no n.º 3 do artigo 32.º;
 
@@ -2013,7 +2140,7 @@ e) A violação da obrigação do operador ter um plano de monitorização e de 
 
 4 - A tentativa e a negligência são puníveis nos termos do disposto na lei-quadro das contraordenações ambientais.
 
-5 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da lei-quadro das contraordenações ambientais, a condenação pela prática das infrações muito graves e graves previstas nos n.<sup>os</sup>1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
+5 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da lei-quadro das contraordenações ambientais, a condenação pela prática das infrações muito graves e graves previstas nos n.os1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
 
 ###### Artigo 38.º — Instrução e decisão dos processos
 
@@ -2047,7 +2174,7 @@ O produto das coimas previstas no presente decreto-lei é repartido de acordo co
 
 3 - Para efeitos do número anterior, o operador da instalação solicita à APA, I. P., a permanência da instalação no regime CELE, indicando o termo do período de cinco anos que pretende que a instalação permaneça abrangida.
 
-4 - A APA, I. P., verifica a elegibilidade da instalação ao abrigo das condições estabelecidas no n.º 1 e, confirmando-se a mesma, notifica a Comissão Europeia das alterações em relação à lista apresentada nos termos dos n.<sup>os</sup>1 e 2 do artigo 15.º
+4 - A APA, I. P., verifica a elegibilidade da instalação ao abrigo das condições estabelecidas no n.º 1 e, confirmando-se a mesma, notifica a Comissão Europeia das alterações em relação à lista apresentada nos termos dos n.os1 e 2 do artigo 15.º
 
 ###### Artigo 42.º — Divulgação e informação
 
@@ -2113,7 +2240,7 @@ a) As definições constantes das alíneas b), c), f), i), k), l), q) e t) do ar
 
 b) As competências da APA, I. P., constantes da alínea n) do n.º 1 do artigo 4.º;
 
-c) A comunicação de dados de atividade e de redução significativa da capacidade nos termos dos n.<sup>os</sup>7, 8, 9 e 11 do artigo 9.º;
+c) A comunicação de dados de atividade e de redução significativa da capacidade nos termos dos n.os7, 8, 9 e 11 do artigo 9.º;
 
 d) As disposições constantes dos artigos 10.º, 11.º, 12.º, 13.º, 14.º e 18.º
 
@@ -2127,7 +2254,7 @@ a) Procedimentos relativos à avaliação de pedido de acesso à reserva de lice
 
 b) Envio da documentação prevista no n.º 8 do artigo 23.º para o conjunto de instalações especificadas no seu anexo iv;
 
-c) Procedimentos relativos à aplicação de penalizações por emissões excedentárias previstos no artigo 25.º, recorrendo ao método de estimativa constante nos n.<sup>os</sup>6 e 7 do artigo 23.º;
+c) Procedimentos relativos à aplicação de penalizações por emissões excedentárias previstos no artigo 25.º, recorrendo ao método de estimativa constante nos n.os6 e 7 do artigo 23.º;
 
 d) Procedimentos de contraordenação previstos no artigo 26.º
 
@@ -2155,27 +2282,27 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Gases com efeito de estufa
 
-Dióxido de carbono (CO<sub>2</sub>).
+Dióxido de carbono (CO2).
 
-Metano (CH<sub>4</sub>).
+Metano (CH4).
 
-Óxido nitroso (N<sub>2</sub>O)
+Óxido nitroso (N2O)
 
 Hidrofluorocarbonetos (HFC).
 
 Perfluorocarbonetos (PFC).
 
-Hexafluoreto de enxofre (SF<sub>6</sub>).
+Hexafluoreto de enxofre (SF6).
 
 ## ANEXO II
 
-[a que se referem o n.º 1 do artigo 2.º, as alíneas d), e) e g) do artigo 3.º, o n.º 1 do artigo 6.º, a alínea b) do n.º 1 do artigo 9.º, o n.º 1 do artigo 10.º-A, a alínea c) do n.º 2 do artigo 13.º, a alínea b) do n.º 2 do artigo 15.º, o n.º 2 do artigo 26.º, a alínea b) do n.º 1 do artigo 27.º, o n.º 2 do artigo 28.º, os n.<sup>os</sup>6 e 8 do artigo 30.º, o n.º 1 do artigo 32.º, o n.º 1 do artigo 41.º, o n.º 2 do anexo iv e alínea a) do anexo v].
+[a que se referem o n.º 1 do artigo 2.º, as alíneas d), e) e g) do artigo 3.º, o n.º 1 do artigo 6.º, a alínea b) do n.º 1 do artigo 9.º, o n.º 1 do artigo 10.º-A, a alínea c) do n.º 2 do artigo 13.º, a alínea b) do n.º 2 do artigo 15.º, o n.º 2 do artigo 26.º, a alínea b) do n.º 1 do artigo 27.º, o n.º 2 do artigo 28.º, os n.os6 e 8 do artigo 30.º, o n.º 1 do artigo 32.º, o n.º 1 do artigo 41.º, o n.º 2 do anexo iv e alínea a) do anexo v].
 
 Atividades do Comércio Europeu de Licenças de Emissão
 
-|  | Atividades | Gases com Efeito de Estufa |
+|  | Atividades | Gases com Efeito<br>de Estufa |
 | --- | --- | --- |
-| 1 | Combustão de combustíveis em instalações com uma potência térmica nominal total superior a 20 MW (excluem-se as instalações de incineração de resíduos perigosos ou resíduos urbanos).A partir de 1 de janeiro de 2024, a combustão de combustíveis em instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.<sup>os</sup>1 e 2 do artigo 33.º | Dióxido de carbono. |
+| 1 | Combustão de combustíveis em instalações com uma potência térmica nominal total superior a 20 MW (excluem-se as instalações de incineração de resíduos perigosos ou resíduos urbanos).A partir de 1 de janeiro de 2024, a combustão de combustíveis em instalações de incineração de resíduos urbanos com uma potência térmica nominal total superior a 20 MW, para efeitos dos artigos 10.º-A, 10.º-B e 32.º e dos n.os1 e 2 do artigo 33.º | Dióxido de carbono. |
 | 2 | Refinação de óleo, quando são exploradas unidades de combustão com uma potência térmica nominal total superior a 20 MW. | Dióxido de carbono. |
 | 3 | Produção de coque | Dióxido de carbono. |
 | 4 | Instalações de ustulação ou sinterização de minério metálico (incluindo de minério sulfurado), incluindo peletização. | Dióxido de carbono. |
@@ -2198,8 +2325,8 @@ Atividades do Comércio Europeu de Licenças de Emissão
 | 21 | Produção de glioxal e ácido glioxílico | Dióxido de Carbono e óxido nitroso. |
 | 22 | Produção de amoníaco. | Dióxido de carbono. |
 | 23 | Produção de produtos químicos orgânicos a granel por craqueamento, reformação, oxidação parcial ou completa ou processos similares, com uma capacidade de produção superior a 100 toneladas por dia. | Dióxido de carbono. |
-| 24 | Produção de hidrogénio (H<sub>2</sub>) e gás de síntese com uma capacidade de produção superior a 5 toneladas por dia. | Dióxido de carbono. |
-| 25 | Produção de carbonato de sódio anidro (Na<sub>2</sub> CO<sub>3</sub>) e bicarbonato de sódio (NaHCO<sub>3</sub>). | Dióxido de carbono. |
+| 24 | Produção de hidrogénio (H2) e gás de síntese com uma capacidade de produção superior a 5 toneladas por dia. | Dióxido de carbono. |
+| 25 | Produção de carbonato de sódio anidro (Na2 CO3) e bicarbonato de sódio (NaHCO3). | Dióxido de carbono. |
 | 26 | Captura de Gases com Efeito de Estufa (GEE) provenientes de instalações abrangidas pelo regime Comércio Europeu de Licenças de Emissão (CELE) para fins de transporte e armazenamento geológico num local de armazenamento permitido ao abrigo da Diretiva n.º 2009/31/CE. | Dióxido de carbono. |
 | 27 | Transporte de GEE para armazenamento geológico num local de armazenamento permitido ao abrigo da Diretiva n.º 2009/31/CE, à exceção das emissões abrangidas por outra atividade prevista na Diretiva n.º 2003/87/CE. | Dióxido de carbono. |
 | 28 | Armazenamento geológico de GEE num local de armazenamento permitido ao abrigo da Diretiva n.º 2009/31/CE. | Dióxido de carbono. |
@@ -2230,13 +2357,13 @@ Definição do fator CBAM aplicável à atribuição de licenças de emissão a 
 
 Fator CBAM, em percentagem, durante o período compreendido entre a entrada em vigor do Regulamento (UE) 2023/956, do Parlamento Europeu e do Conselho, de 10 de maio de 2023, e 2033
 
-|  | Até 2025, inclusive | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 |
+|  | Até 2025,<br>inclusive | 2026 | 2027 | 2028 | 2029 | 2030 | 2031 | 2032 | 2033 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fator CBAM (%) | 100 | 97,5 | 95 | 90 | 77,5 | 51,5 | 39 | 26,5 | 14 |
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 28.º)
 
-Os valores máximos de emissões anuais de CO<sub>2</sub> equivalente são definidos por instalação e decrescem nos termos seguintes, conforme as percentagens de redução de emissões que se apresentam na tabela abaixo:
+Os valores máximos de emissões anuais de CO2 equivalente são definidos por instalação e decrescem nos termos seguintes, conforme as percentagens de redução de emissões que se apresentam na tabela abaixo:
 
 a) Entre 2021 e 2025, inclusive, mediante a aplicação do fator de 2,2 %, tendo por base uma trajetória de redução de emissões de 43 %, em 2030, em relação ao valor de emissões verificadas da instalação em 2005, conforme comunicadas nos termos dos artigos 32.º e 33.º
 
@@ -2264,7 +2391,7 @@ d) Dispensa do recurso a laboratório acreditado para efeitos da determinação 
 
 e) Dispensa do requisito de comunicação das melhorias previsto no artigo 69.º do Regulamento de Execução (UE) n.º 2018/2066, da Comissão, de 19 de dezembro de 2018.
 
-2 - As regras de simplificação referidas no número anterior não se aplicam às instalações que desenvolvem atividades que resultem na emissão de N<sub>2</sub>O nos termos do anexo ii ao presente decreto-lei.
+2 - As regras de simplificação referidas no número anterior não se aplicam às instalações que desenvolvem atividades que resultem na emissão de N2O nos termos do anexo ii ao presente decreto-lei.
 
 ## ANEXO V — (a que se referem o n.º 1 e as alíneas a) e b) do n.º 2 do artigo 33.º-B)
 
@@ -2284,3 +2411,5 @@ Atividade do Comércio Europeu de Licenças de Emissão para os Setores dos Edif
 | Os outros setores correspondem às seguintes fontes de emissões, definidas nas Orientações de 2006 do PIAC para os inventários nacionais de gases com efeito de estufa: |  |
 | a) Indústrias energéticas (código da categoria de fonte 1A1), excluindo as categorias definidas no segundo parágrafo, alínea a), do presente anexo; |  |
 | b) Indústrias transformadoras e construção (código da categoria de fonte 1A2). |  |
+
+118414779

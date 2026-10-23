@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/2001/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2001-621140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23376e12500f6f91e4ce987f8780243edc227f00d836413e422aa572332d9218
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 021b43606bc0e20ce6472353e7d55f712dd7f2e1575956a40c455ec99c8a7836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
 - Criação de Empresas
+- Desporto
 - Estatuto
 - EURO 2004
 - EURO 2004-sociedade Promotora da Realização em Portugal da FASE Final do Campeonato Europeu de Futebol 2004
 - Federação Portuguesa de Futebol
 - Futebol
-- Recrutamento de Pessoal
 - Gestão do Património
 - Isenção Fiscal
-- Desporto
+- Recrutamento de Pessoal
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/30/2001/02/07/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/64/2001/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/64/2001/05/31/p/dre
+- type: cites
+  target: pt:dre:319875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411871:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
+  article_count: 43
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:34Z'
   warnings: []
   errors: []
 ---
@@ -145,15 +161,15 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 11.º e 12.º do [Decreto-Lei n.º 33/2
 
 2 - ...
 
-###### Artigo 2.º
+Artigo 2.º
 
 São accionistas da EURO 2004, S. A., a Union des Associations Européennes de Football (UEFA), a Federação Portuguesa de Futebol (FPF) e o Estado.
 
-###### Artigo 3.º
+Artigo 3.º
 
 A EURO 2004, S. A., tem por objecto social a concepção, planeamento, promoção e realização em Portugal da fase final do Campeonato Europeu de Futebol em 2004, de acordo com o caderno de encargos de candidatura à organização da fase final do referido Campeonato e outros normativos da UEFA.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A EURO 2004, S. A., é constituída com um capital social de (euro) 5000000, correspondendo 54,8% à UEFA, 40,2% à FPF e 5% ao Estado.
 
@@ -167,7 +183,7 @@ c) A participação do Estado, que é de 5% e que corresponde a (euro) 250000, e
 
 3 - O capital social da EURO 2004, S. A., é representado por 50000 acções, no valor de (euro) 100 cada, correspondendo um voto a cada 10 acções.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -177,7 +193,7 @@ c) A participação do Estado, que é de 5% e que corresponde a (euro) 250000, e
 
 4 - A UEFA e a FPF poderão, em caso de conflitualidade, recorrer ex ante ao Tribunal Arbitral do Desporto de Lausana.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - ...
 
@@ -187,7 +203,7 @@ c) A participação do Estado, que é de 5% e que corresponde a (euro) 250000, e
 
 4 - A isenção a que se refere o número anterior é integral, aplicando-se igualmente às partes proporcionais correspondentes às participações que não são detidas pelo Estado.
 
-###### Artigo 12.º
+Artigo 12.º
 
 Fica desde já convocada a assembleia geral da EURO 2004, S. A., para se reunir, na sede social, no 10.º dia posterior ao da entrada em vigor do presente diploma, para eleição dos órgãos sociais.»
 
@@ -225,13 +241,17 @@ Denominação e duração
 
 2 - A EURO 2004, S. A., é uma sociedade anónima de capitais mistos com duração até ao dia 31 de Dezembro de 2004.
 
-###### Artigo 2.º — Sede
+Artigo 2.º
+
+Sede
 
 1 - A sede social é na Avenida de D. João II, lote 1.07.2.1, ala B, 3.º, Lisboa.
 
 2 - Por deliberação do conselho de administração, pode ser mudada a sede social para outro local do mesmo concelho ou concelho limítrofe e podem ser criadas comissões organizadoras locais, delegações ou outras formas de representação em Portugal e no estrangeiro.
 
-###### Artigo 4.º — Prossecução do objecto social
+Artigo 4.º
+
+Prossecução do objecto social
 
 Para a realização do objecto social, incumbe especialmente à EURO 2004, S. A.:
 
@@ -251,7 +271,9 @@ g) Superintender e gerir toda a vertente logística, administrativa e desportiva
 
 h) Coordenar com as entidades competentes um sistema de segurança no perímetro de segurança de cada um dos estádios onde se irão disputar os jogos da fase final do Campeonato Europeu de Futebol de 2004.
 
-###### Artigo 5.º — Capital social
+Artigo 5.º
+
+Capital social
 
 1 - A EURO 2004, S. A., é constituída com um capital social de (euro) 5000000, correspondendo 54,8% à UEFA, 40,2% à FPF e 5% ao Estado, podendo, em qualquer momento, ser aumentado por deliberação dos seus accionistas.
 
@@ -263,7 +285,9 @@ b) A participação da FPF, que é de 40,2% e que corresponde a (euro) 2010000, 
 
 c) A participação do Estado, que é de 5% e que corresponde a (euro) 250000, encontra-se totalmente subscrita e realizada, através do Instituto Nacional do Desporto.
 
-###### Artigo 6.º — Acções
+Artigo 6.º
+
+Acções
 
 1 - O capital social da EURO 2004, S. A., é representado por 50000 acções, no valor de (euro) 100 cada, correspondendo um voto a cada 10 acções.
 
@@ -283,7 +307,9 @@ b) Em caso de recusa de consentimento, a Sociedade procederá à aquisição das
 
 7 - A falta de exercício do direito de preferência confere ao accionista alienante o direito a transmitir livremente as acções a terceiros, sem prejuízo do disposto no n.º 4 do presente artigo.
 
-###### Artigo 7.º — Órgãos sociais
+Artigo 7.º
+
+Órgãos sociais
 
 ...
 
@@ -293,11 +319,15 @@ b) ...
 
 c) Fiscal único.
 
-###### Artigo 8.º — Composição
+Artigo 8.º
+
+Composição
 
 A assembleia geral é composta pelos accionistas com direito a voto.
 
-###### Artigo 9.º — Competências
+Artigo 9.º
+
+Competências
 
 Compete à assembleia geral:
 
@@ -323,25 +353,33 @@ j) Deliberar, por unanimidade de votos, sobre o aumento de capital;
 
 l) Deliberar sobre qualquer outro assunto para que tenha sido convocada, sem prejuízo das competências próprias dos outros órgãos sociais.
 
-###### Artigo 10.º — Mesa
+Artigo 10.º
+
+Mesa
 
 1 - A mesa da assembleia geral é constituída por um presidente e por um secretário.
 
 2 - ...
 
-###### Artigo 11.º — Reuniões
+Artigo 11.º
+
+Reuniões
 
 1 - A assembleia geral reúne ordinariamente uma vez por ano e extraordinariamente sempre que para tal for convocada nos termos da lei ou a requerimento do conselho de administração.
 
 2 - A convocação da assembleia geral pode ser efectuada por carta registada com aviso de recepção.
 
-###### Artigo 12.º — Composição
+Artigo 12.º
+
+Composição
 
 1 - O conselho de administração é composto por um presidente, que é simultaneamente o presidente da Federação Portuguesa de Futebol, um vice-presidente e cinco administradores.
 
 2 - O vice-presidente e três administradores são indicados pela UEFA, sendo os dois restantes administradores indicados pela FPF.
 
-###### Artigo 13.º — Competências
+Artigo 13.º
+
+Competências
 
 1 - O conselho de administração é o órgão de gestão da sociedade, podendo delegar as suas funções numa comissão executiva.
 
@@ -383,13 +421,17 @@ b) Coordenar a actividade do conselho de administração e dirigir as respectiva
 
 c) Zelar pela correcta execução das deliberações do conselho de administração.
 
-###### Artigo 14.º — Reuniões
+Artigo 14.º
+
+Reuniões
 
 1 - O conselho de administração reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, ou por um administrador.
 
 2 - O Ministro da Juventude e do Desporto designará o representante do Estado, que terá assento nas reuniões do conselho de administração, sem direito a voto.
 
-###### Artigo 19.º — Fiscalização
+Artigo 19.º
+
+Fiscalização
 
 1 - A fiscalização da actividade social é exercida por um fiscal único, eleito em assembleia geral, que também elege o suplente.
 
@@ -397,7 +439,9 @@ c) Zelar pela correcta execução das deliberações do conselho de administraç
 
 3 - A EURO 2004, S. A., será auditada por uma empresa especializada e designada pelo conselho de administração.
 
-###### Artigo 20.º — Competências
+Artigo 20.º
+
+Competências
 
 Além das competências constantes da lei, cabe, em especial, ao fiscal único:
 
@@ -407,7 +451,9 @@ b) Dirigir, através dos respectivos relatórios, recomendações ao conselho de
 
 c) Pronunciar-se sobre qualquer assunto que lhe tenha sido submetido pelo conselho de administração.
 
-###### Artigo 22.º — Representação
+Artigo 22.º
+
+Representação
 
 1 - Sem prejuízo do número seguinte, a EURO 2004, S. A., obriga-se pela assinatura do presidente do conselho de administração e de um administrador designado pela UEFA ou de um representante nomeado nos termos da alínea o) do n.º 2 do artigo 13.º dos Estatutos.
 
@@ -415,7 +461,9 @@ c) Pronunciar-se sobre qualquer assunto que lhe tenha sido submetido pelo consel
 
 3 - O ano económico pode, por deliberação do conselho de administração, começar em 1 de Agosto e terminar em 31 de Julho do ano seguinte.
 
-###### Artigo 23.º — Dissolução e liquidação
+Artigo 23.º
+
+Dissolução e liquidação
 
 1 - Sem prejuízo do disposto na lei, a EURO 2004, S. A., dissolve-se pelo decurso do prazo pelo qual é constituída, entrando imediatamente em liquidação.
 
@@ -437,15 +485,15 @@ O [Decreto-Lei n.º 33/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - José António Fonseca Vieira da Silva - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Rui Nobre Gonçalves - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida.
 
-**Promulgado em 20 de Setembro de 2001.**
+Promulgado em 20 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Setembro de 2001.**
+Referendado em 27 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (Decreto Lei n.º 33/2000, de 14 de Março)
 

@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15000/0408004086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2014/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2014-55235780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c21d8f2266db849efb1f73148d092068b9ca81ad94ed344ee2490106d950adec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e568f2ddf7ba29e5decbca3249b053623db108eec38463cca187651e9edd3a33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,50 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Controlo de Qualidade
+- Eliminação de Resíduos
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
 - Especificação Técnica
 - Fabrico Industrial
 - Normas de Segurança
 - Proteção do Ambiente
-- Eliminação de Resíduos
+- Saúde Pública
 - Substância Perigosa
 relationships:
 - type: amended_by
   target: pt:dre:122242530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74788785:por
+  label: Alterados o art. 9.º e os anexos i e ii do Dec Lei 79/2013, de 11-jun, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 30/2016 - Diário da República n.º 120/2016, Série I de 2016-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2016-74788785
+  date: '2016-06-24'
+- type: amended_by
+  target: pt:dre:107495708:por
+  label: Alterado o anexo II do Dec Lei 79/2013 de 11-jun, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    61/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2017-107495708
+  date: '2017-06-09'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterado, com efeitos a partir de 01.07.2018, o anexo I ao Dec Lei 79/2013 de 11-jun, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado, com efeitos a 01.07.2018, o anexo I do Decreto-Lei n.º 79/2013, de 11-jun, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:122242530:por
+  label: Alterado, a partir de 01.07.2019, o anexo i do Dec Lei 79/2013 de 11-jun, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2019-122242530
+  date: '2019-05-08'
 - type: cites
   target: celex:32014L0001
   label: null
@@ -148,15 +178,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:44Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +227,9 @@ Os artigos 1.º e 9.º do Decreto-Lei n.º 79/2013, de 11 de junho, passam a ter
 
 O presente decreto-lei estabelece regras relativas à restrição da utilização de determinadas substâncias perigosas em equipamentos elétricos e eletrónicos (EEE), com o objetivo de contribuir para a proteção da saúde humana e do ambiente, incluindo uma valorização e eliminação, ecologicamente corretas, dos resíduos de EEE, e transpõe para a ordem jurídica interna a [Diretiva n.º 2011/65/UE](https://data.europa.eu/eli/dir/2011/65/oj?locale=pt), do Parlamento Europeu e do Conselho, de 8 de junho de 2011, relativa à restrição do uso de determinadas substâncias perigosas em EEE, alterada pelas Diretivas Delegadas n.º [2012/50/UE](https://data.europa.eu/eli/dir/2012/50/oj?locale=pt) e n.º [2012/51/UE](https://data.europa.eu/eli/dir/2012/51/oj?locale=pt), ambas da Comissão, de 10 de outubro de 2012, e pelas Diretivas Delegadas n.os [2014/1/UE](https://data.europa.eu/eli/dir/2014/1/oj?locale=pt), [2014/2/UE](https://data.europa.eu/eli/dir/2014/2/oj?locale=pt), [2014/3/UE](https://data.europa.eu/eli/dir/2014/3/oj?locale=pt), [2014/4/UE](https://data.europa.eu/eli/dir/2014/4/oj?locale=pt), [2014/5/UE](https://data.europa.eu/eli/dir/2014/5/oj?locale=pt), [2014/6/UE](https://data.europa.eu/eli/dir/2014/6/oj?locale=pt), [2014/7/UE](https://data.europa.eu/eli/dir/2014/7/oj?locale=pt), [2014/8/UE](https://data.europa.eu/eli/dir/2014/8/oj?locale=pt), [2014/9/UE](https://data.europa.eu/eli/dir/2014/9/oj?locale=pt), [2014/10/UE](https://data.europa.eu/eli/dir/2014/10/oj?locale=pt), [2014/11/UE](https://data.europa.eu/eli/dir/2014/11/oj?locale=pt), [2014/12/UE](https://data.europa.eu/eli/dir/2014/12/oj?locale=pt), [2014/13/UE](https://data.europa.eu/eli/dir/2014/13/oj?locale=pt), [2014/14/UE](https://data.europa.eu/eli/dir/2014/14/oj?locale=pt), [2014/15/UE](https://data.europa.eu/eli/dir/2014/15/oj?locale=pt), [2014/16/UE](https://data.europa.eu/eli/dir/2014/16/oj?locale=pt), todas da Comissão, de 18 de outubro de 2013, e pelas Diretivas Delegadas n.os [2014/69/UE](https://data.europa.eu/eli/dir/2014/69/oj?locale=pt), [2014/70/UE](https://data.europa.eu/eli/dir/2014/70/oj?locale=pt), [2014/71/UE](https://data.europa.eu/eli/dir/2014/71/oj?locale=pt), [2014/72/UE](https://data.europa.eu/eli/dir/2014/72/oj?locale=pt), [2014/73/UE](https://data.europa.eu/eli/dir/2014/73/oj?locale=pt), [2014/74/UE](https://data.europa.eu/eli/dir/2014/74/oj?locale=pt), [2014/75/UE](https://data.europa.eu/eli/dir/2014/75/oj?locale=pt) e [2014/76/UE](https://data.europa.eu/eli/dir/2014/76/oj?locale=pt), todas da Comissão, de 13 de março de 2014.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]:
 
@@ -231,15 +263,15 @@ Os anexos I e II ao Decreto-Lei n.º 79/2013, de 11 de junho, passam a ter a red
 
 Visto e aprovado em Conselho de Ministros de 12 de junho de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 28 de julho de 2014.**
+Promulgado em 28 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2014.**
+Referendado em 31 de julho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -247,9 +279,11 @@ Visto e aprovado em Conselho de Ministros de 12 de junho de 2014. - Pedro Passos
 
 Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15000/0408004086.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15000/0408004086.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15000/0408004086.pdf)
 
-## ANEXO II — Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º no que respeita aos dispositivos médicos e aos instrumentos de monitorização e controlo
+ANEXO II
+
+Aplicações isentas da restrição prevista no n.º 1 do artigo 5.º no que respeita aos dispositivos médicos e aos instrumentos de monitorização e controlo
 
 Equipamentos que utilizam ou detetam radiação ionizante
 

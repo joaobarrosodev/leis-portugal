@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13900/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2020/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2020-138382325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1643972056467d7d5948959c44369036543b9a273d604202885a9670039a464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d859fdfe8f0c8c74945183762dadc4f8bac6ca7c26ab97c0d263e8df25ebbb2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Alemanha
+- Definição de Competências
+- Força Naval
+- Itália
+- Marinha
 - Ministério da Defesa Nacional
 - Portugal
-- Definição de Competências
-- Submarino
-- Marinha
-- Força Naval
-- Representante do Estado
-- Alemanha
-- Itália
-- Representante Nacional no Programa Comum para a Sustentação Logística dos Submarinos
 - Programa Comum para a Sustentação Logística dos Submarinos
+- Representante do Estado
+- Representante Nacional no Programa Comum para a Sustentação Logística dos Submarinos
+- Submarino
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:35Z'
   warnings: []
   errors: []
 ---
@@ -172,12 +176,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho.
 
-**Promulgado em 9 de julho de 2020.**
+Promulgado em 9 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de julho de 2020.**
+Referendado em 13 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113394828

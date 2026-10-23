@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-1985-171954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55b7d05272d96a817f49be59a21c88cea5f13714bf417aaea1d74b3e6f8f9d10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e561ea16ac8e0c59dea3f9c0e85c204134931fa02ad163b0190043e26ee345d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bagdade
+- Embaixador
+- Iraque
+- Nomeação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:57Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +89,16 @@ validation:
 
 de 16 de Novembro
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o conselheiro de embaixada Fernando António de Lacerda Andresen Guimarães para o cargo de embaixador de Portugal em Bagdade.
 
-**Assinado em 18 de Outubro de 1985.**
+Assinado em 18 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
-**Referendado em 4 de Novembro de 1985.**
+Referendado em 4 de Novembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

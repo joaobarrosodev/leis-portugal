@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 270/1985, 1º Suplemento, Série I de 1985-11-23
   number: '270'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3904-(10) a 3904-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/11/27001/00100010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/114-1985-249495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:31:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b79b841c13c2d142149d4e77c33c12bdcf71fb00ed668f6c9c0216238823a41e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d3180ce6337800cbde9ae81ced189850f8737120e58027ab6c8754e873a1b7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:31:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Farinha
+- Indústria da Panificação
+- Indústria de Massas Alimentícias
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:305631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:162776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:249503:por
+  label: Rectificado pela DECL.DD5106.27.11.1985.PCM, DR.IS [270]2ºSupl de 23.11.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-249503
+  date: '1985-11-27'
+- type: repealed_by
+  target: pt:dre:305631:por
+  label: "Revogado pelo DN.101-B/86.04.12.1986.MIC, DR.IS [279]Supl de 04.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/101-b-1986-305631
+  date: '1986-12-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:31:26Z'
   warnings: []
   errors: []
 ---

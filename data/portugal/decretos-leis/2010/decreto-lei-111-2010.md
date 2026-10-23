@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2010/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4945a8e9fc3546555ed340b188d8758c34b9d18b4bac34cc2ff7a6848130a9b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370bc81a240d3bc9ff4f59ee4e26a5d4d2adb966aa7294d19a04d375db5840a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
-- Horário de Funcionamento
 - Câmara Municipal
 - Comércio
+- Estabelecimento Comercial
+- Horário de Funcionamento
 relationships:
 - type: amended_by
   target: pt:dre:66229856:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277581:por
+  label: "Alterado, a partir de 02.05.2011, o art. 5º do Dec Lei 48/96, de 15-Maio, na redacção do presente diploma, pelo\
+    \ DEC LEI.48/2011.01.04.2011.PCM, DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2011-277581
+  date: '2011-04-01'
+- type: amended_by
+  target: pt:dre:66229856:por
+  label: Alterados, a partir de 01.03.2015, os 3.º e 5.º do Dec. Lei 48/96 de 15-mai, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16 sem prejuízo do disposto nos n.ºs 2 e
+    3 do art. 17.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/1996/08/10/p/dre
   label: null
@@ -91,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/153/1996/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/153/1996/05/15/p/dre
+- type: cites
+  target: pt:dre:168060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469020:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:52Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +170,7 @@ a) Restringir os limites fixados no artigo 1.º, a vigorar em todas as épocas d
 
 b) Alargar os limites fixados no artigo 1.º, a vigorar em todas as épocas do ano ou apenas em épocas determinadas, em localidades em que os interesses de certas actividades profissionais, nomeadamente ligadas ao turismo, o justifiquem.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -185,12 +214,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2010. - José Sócrates Carvalho Pinto de Sousa - Sérgio Trigo Tavares Vasques - José Manuel Vieira Conde Rodrigues - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 7 de Outubro de 2010.**
+Promulgado em 7 de Outubro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Outubro de 2010.**
+Referendado em 11 de Outubro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

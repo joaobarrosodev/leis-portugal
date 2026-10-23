@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 80/1982, 1º Suplemento, Série I de 1982-04-06
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 802-(3) a 802-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08001/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-a-1982-235352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cbe7e8dd7424b303305572fe4bbbd74aa5df99abb9eb271b69b8bb2e6cef9a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da3e3b379e456641bd94082e7c48cecfee7bf2ca94c8cfb9498e654de17e31d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Bebidas
+- Margens de Comercialização
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:273873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:235350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:395482:por
+  label: Rectificado pela DECL.DD3833.1982.06.22.SG-PCM, DR.IS [149] de 01/Jul/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-395482
+  date: '1982-06-22'
+- type: repealed_by
+  target: pt:dre:273873:por
+  label: "Revogado pela PORT.262/2000.2000.05.13.MECO, DR.IS-B [111] de 13/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2000-273873
+  date: '2000-05-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:35Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +122,6 @@ QUADRO ANEXO
 
 Margens máximas de comercialização e preços máximos de venda ao público a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08001/00030005.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08001/00030005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08001/00030005.pdf)
 
-**O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.**
+O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.

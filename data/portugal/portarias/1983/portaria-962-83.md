@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/962-1983-443565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 781753e00dbdd66ae5f28e5c1c4832ce4643f05b40f9c3da22f4db31d3318197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dc926c68c57a7f94bb1527ed12126e9967cd063294831ffddb1b8edcf3dc2c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Comércio
+- Controlo de Qualidade
+- EPAC
+- Etiquetagem
 relationships:
 - type: amended_by
   target: pt:dre:228257:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228257:por
+  label: "Revogada pelo DEC LEI.179/86.1986.07.04.MAPA DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1986-228257
+  date: '1986-07-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:22Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +134,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, 
 
 6.º Os limites de trincas para o arroz branqueado ou glaceado são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25500/37603760.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25500/37603760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25500/37603760.pdf)
 
 7.º As demais características de padronização serão divulgadas pela Empresa Pública de Abastecimento de Cereais (EPAC).
 
@@ -114,6 +144,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, 
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 26 de Outubro de 1983.**
+Assinada em 26 de Outubro de 1983.
 
-**O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.**
+O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto.

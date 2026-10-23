@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 198/2018, 1º Suplemento, Série I de 2018-10-15
   number: '198'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4974-(4) a 4974-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19801/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/72-j/2018/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/72-j-2018-116689561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:33:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c342de5b31a9a3de4f9af7d5ef467fb89d7bcbe833229b39526e7ab9ff9c7b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eedb879eb52ebc81a3b13e4f6e64215af1c554cf723dd027c3e1c2d67254826d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:33:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Ministro Adjunto
 - Governo XXI
+- Ministro Adjunto
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:33:45Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,18 @@ validation:
 
 de 15 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira do cargo de Ministro Adjunto.
 
-**Assinado em 15 de outubro de 2018**
+Assinado em 15 de outubro de 2018
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de outubro de 2018.**
+Referendado em 15 de outubro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111730114

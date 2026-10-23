@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/647-1978-327329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 742a641bc517b1534b2ff57b6f061be205ee802eeb67c6580c8b478ae30f2cfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 181bd5e1a5e353032432586f08e43c171dbb726e137cd661b91545a0d78cbf81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Proteção do Ambiente
+- Regulamento
+- Reserva Natural do Sapal de Castro Marim
 relationships:
 - type: amended_by
   target: pt:dre:575352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:361091:por
+  label: "Alterado o art. 19.º da Port 337/78, de 24-Jun, alterado pelo presente diploma, pela PORT.813/88.19.12.1988.MF,\
+    \ DR.IS [291] de 19.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-1988-361091
+  date: '1988-12-19'
+- type: amended_by
+  target: pt:dre:575352:por
+  label: "Alterado o art. 19.º da Port 337/78, de 24-Jun, na redacção do presente diploma, pela PORT.490/90.30.06.1990.MF,\
+    \ DR.IS [149] de 30.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/490-1990-575352
+  date: '1990-06-30'
+- type: cites
+  target: pt:dre:298435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:476680:por
+  label: Rectificada pela DECL.DD7051.08.01.1979.PCM, DR.IS [6] de 08.01.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-476680
+  date: '1979-01-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:46:24Z'
   warnings: []
   errors: []
 ---

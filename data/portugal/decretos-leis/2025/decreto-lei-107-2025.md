@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2025/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2025-935441900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec6592ca04b3d6a15b797f7f4ee97c2ba52637b713ee88513334797fc03cc440
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ebf7799ec44f82d8005acc598c50448ba9a110f016384a4d03825d09a650dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Abastecimento
 - Administração do Porto de Lisboa
 - Armazenagem
-- Porto de Lisboa
 - Cereal
 - Contrato de Concessão
+- Porto de Lisboa
 - Serviço Público
 - SILO
 - Terminal Aeroportuário
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/55/2010/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/55/2010/01/21/p/dre
+- type: cites
+  target: pt:dre:177455548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911131668:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:45Z'
   warnings: []
   errors: []
 ---
@@ -165,13 +189,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 28 de agosto de 2025. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 10 de setembro de 2025.**
+Promulgado em 10 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de setembro de 2025.**
+Referendado em 11 de setembro de 2025.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
 
@@ -403,9 +427,9 @@ b) As obras, equipamentos, máquinas, aparelhagens e respetivos acessórios, e t
 
 10 - A autorização da Concedente referida no número anterior considera-se concedida relativamente à celebração pela Concessionária dos contratos de aluguer, locação operacional ou figuras contratuais afins, que tenham por objeto os bens e equipamentos que, nos termos do plano de investimentos, se prevê que sejam disponibilizados à Concessionária por recurso a essas tipologias contratuais, mas essa autorização não implica qualquer promessa de assunção, por parte da Concedente, da posição contratual da Concessionária nesses contratos em caso de sequestro, resolução ou resgate da concessão.
 
-11 - As contratações efetuadas pela Concessionária ao abrigo dos n.<sup>os</sup>9 e 10, não a eximem de qualquer das obrigações previstas no Contrato perante a Concedente, permanecendo a Concessionária a única responsável perante a Concedente, pelo cumprimento integral e pontual das obrigações que decorrem do Contrato.
+11 - As contratações efetuadas pela Concessionária ao abrigo dos n.os9 e 10, não a eximem de qualquer das obrigações previstas no Contrato perante a Concedente, permanecendo a Concessionária a única responsável perante a Concedente, pelo cumprimento integral e pontual das obrigações que decorrem do Contrato.
 
-12 - Não são oponíveis à Concedente quaisquer pretensões, exceções ou meios de defesa que resultem das relações contratuais estabelecidas com terceiros pela Concessionária nos termos dos n.<sup>os</sup>9 e 10.
+12 - Não são oponíveis à Concedente quaisquer pretensões, exceções ou meios de defesa que resultem das relações contratuais estabelecidas com terceiros pela Concessionária nos termos dos n.os9 e 10.
 
 BASE XI
 
@@ -817,7 +841,7 @@ Alteração das circunstâncias
 
 3 - Ressalvando as situações de absoluta impossibilidade de cumprimento do Contrato, a resolução do contrato pela Concessionária, nos termos previstos no número anterior, apenas é admitida se não implicar grave prejuízo para a realização do interesse público subjacente à relação jurídica contratual ou, mesmo que implique tal prejuízo, se a manutenção do contrato puser em causa a viabilidade económico-financeira da Concessionária ou se revele excessivamente onerosa, devendo, neste último caso, ser devidamente ponderados os interesses públicos e privados subjacentes ao Contrato.
 
-4 - Verificando-se a resolução do Contrato nos termos previstos nos n.<sup>os</sup>2 e 3, revertem e transferem-se para a Concedente o conjunto de bens, instalações e equipamentos móveis e fixos que integrem o Estabelecimento da Concessão, nos termos fixados no n.º 8 da Base XLIV.
+4 - Verificando-se a resolução do Contrato nos termos previstos nos n.os2 e 3, revertem e transferem-se para a Concedente o conjunto de bens, instalações e equipamentos móveis e fixos que integrem o Estabelecimento da Concessão, nos termos fixados no n.º 8 da Base XLIV.
 
 5 - Se a resolução do Contrato pela Concessionária se encontrar vedada por força do disposto no n.º 3, assiste à Concessionária o direito a uma compensação financeira, segundo critérios de equidade, pelos prejuízos decorrentes da manutenção do contrato.
 
@@ -905,7 +929,7 @@ Multas contratuais
 
 9 - Nos casos em que seja atingido o limite previsto no número anterior e a Concedente decida não proceder à resolução do contrato, por dela resultar grave dano para o interesse público, aquele limite é elevado para 30 %.
 
-10 - Para efeitos dos limites previstos nos n.<sup>os</sup>7 e 8, no caso de prorrogações do prazo contratual, o valor máximo das sanções a aplicar tem por referência o preço contratual relativo ao seu período de vigência inicial.
+10 - Para efeitos dos limites previstos nos n.os7 e 8, no caso de prorrogações do prazo contratual, o valor máximo das sanções a aplicar tem por referência o preço contratual relativo ao seu período de vigência inicial.
 
 11 - A aplicação das sanções cabe ao conselho de administração da Concedente, devendo obrigatoriamente ser precedida de audição da Concessionária, nos termos dos artigos 121.º e seguintes do Código do Procedimento Administrativo.
 
@@ -1013,9 +1037,9 @@ d) Pelo exercício do direito de resolução.
 
 10 - Para os efeitos dos números anteriores, a Concessionária deve manter permanentemente atualizada, para apresentação à Concedente quando por esta requerido:
 
-a) Relação dos bens existentes a essa data como parte do estabelecimento e que, nos termos dos n.<sup>os</sup>2 e 6, devem reverter ou ser transferidos gratuitamente para a Concedente no termo da Concessão, com indicação do seu estado de conservação, condições de funcionamento e segurança, certificado por empresa terceira com reconhecida competência a nível nacional;
+a) Relação dos bens existentes a essa data como parte do estabelecimento e que, nos termos dos n.os2 e 6, devem reverter ou ser transferidos gratuitamente para a Concedente no termo da Concessão, com indicação do seu estado de conservação, condições de funcionamento e segurança, certificado por empresa terceira com reconhecida competência a nível nacional;
 
-b) Relação dos bens e equipamentos que, nos termos dos n.<sup>os</sup>3 e 6, devem reverter ou ser transferidos para a Concedente mediante indemnização, dele constando o respetivo valor contabilístico líquido de amortizações;
+b) Relação dos bens e equipamentos que, nos termos dos n.os3 e 6, devem reverter ou ser transferidos para a Concedente mediante indemnização, dele constando o respetivo valor contabilístico líquido de amortizações;
 
 c) Relação de direitos detidos pela Concessionária sobre terceiros que se considerem necessários para a continuidade dos serviços concedidos.
 
@@ -1043,7 +1067,7 @@ a) Ao valor mínimo entre (i) a soma dos valores de Cash-Flow de Projeto previst
 
 b) Ao valor apurado com base no número anterior acresce o valor contabilístico líquido estimado no final do período de concessão, atualizado para a data do resgate com base na TIR de Projeto prevista no Caso Base, de instalações e equipamentos que, não fazendo parte do Plano de Investimentos, sejam propriedade da Concessionária e façam parte do Estabelecimento da Concessão, desde que a construção ou aquisição desses bens, equipamentos e instalações tenha sido previamente autorizada pela Concedente, com aprovação do respetivo custo e prazo de amortização, e desde que esse valor corresponda a uma compensação devida pela Concedente no final do período de Concessão e não tenham dado causa à reposição do equilíbrio financeiro da Concessão, nos termos previstos na Base XXXIII;
 
-c) Ao resultado apurado nos termos dos n.<sup>os</sup>5 e 6, deve deduzir-se o valor respeitante à poupança obtida pela Concessionária com a extinção antecipada da concessão.
+c) Ao resultado apurado nos termos dos n.os5 e 6, deve deduzir-se o valor respeitante à poupança obtida pela Concessionária com a extinção antecipada da concessão.
 
 6 - Os números anteriores são restritos apenas à parte resgatada, no caso do resgate previsto no n.º 2.
 
@@ -1284,3 +1308,5 @@ BASE LXI
 Lei aplicável
 
 O contrato de concessão está sujeito à lei portuguesa, com expressa renúncia à aplicação de qualquer outra.
+
+119530545

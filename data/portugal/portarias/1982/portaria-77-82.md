@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-1982-601522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:24:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f16efc1f29a71ae1401f695da3b7a9122dd7ceb9eba1da1597ce6bb9327dee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 702f1cb75892d4c13146a369e92a4ae20f7f7ecd716074d5a0cf248397e38124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:24:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Departamento Central de Planeamento
+- Pessoal Técnico Auxiliar
+- Pessoal Técnico Superior
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:24:37Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +119,15 @@ I
 
 Da admissão às provas
 
-###### Artigo 1.º - 1 - A admissão às provas de selecção para os lugares de ingresso e de acesso dos quadros de pessoal técnico superior, técnico auxiliar e de informática do DCP é feita nos termos dos artigos 25.º a 31.º do [Decreto-Lei n.º 516/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1980-457673), de 31 de Outubro, e do presente Regulamento.
+Artigo 1.º - 1 - A admissão às provas de selecção para os lugares de ingresso e de acesso dos quadros de pessoal técnico superior, técnico auxiliar e de informática do DCP é feita nos termos dos artigos 25.º a 31.º do [Decreto-Lei n.º 516/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1980-457673), de 31 de Outubro, e do presente Regulamento.
 
 2 - Por despacho do Secretário de Estado do Planeamento podem ainda ser admitidos às provas de selecção para lugares de acesso indivíduos já vinculados à função pública de categoria igual à do lugar a prover ou imediatamente anterior na correspondente carreira e que satisfaçam as condições legalmente exigidas quanto ao tempo e à classificação de serviço.
 
-###### Art. 2.º A realização do concurso será autorizada por despacho do Secretário de Estado do Planeamento, sob proposta do director-geral do DCP.
+Art. 2.º A realização do concurso será autorizada por despacho do Secretário de Estado do Planeamento, sob proposta do director-geral do DCP.
 
-###### Art. 3.º Os candidatos terão o prazo de 30 dias, a contar da data da publicação do correspondente aviso de abertura, para apresentar o requerimento, dirigido ao director-geral, solicitando admissão às provas.
+Art. 3.º Os candidatos terão o prazo de 30 dias, a contar da data da publicação do correspondente aviso de abertura, para apresentar o requerimento, dirigido ao director-geral, solicitando admissão às provas.
 
-###### Art. 4.º - 1 - Após a organização dos processos pela Direcção de Serviços de Administração Geral do DCP, será elaborada lista provisória dos candidatos admitidos e excluídos, a qual será enviada para publicação no Diário da República até ao 20.º dia posterior ao do encerramento do prazo de candidaturas.
+Art. 4.º - 1 - Após a organização dos processos pela Direcção de Serviços de Administração Geral do DCP, será elaborada lista provisória dos candidatos admitidos e excluídos, a qual será enviada para publicação no Diário da República até ao 20.º dia posterior ao do encerramento do prazo de candidaturas.
 
 2 - Se do exame feito aos documentos se reconhecer que existem deficiências, dúvidas ou omissões, e desde que não haja outras razões de exclusão, serão os respectivos candidatos admitidos condicionalmente e avisados para, no prazo de 10 dias a contar da publicação da lista provisória, suprirem as faltas verificadas, sob pena de exclusão.
 
@@ -121,7 +139,7 @@ Da admissão às provas
 
 6 - Findo o prazo indicado no n.º 2, será publicada no Diário da República a lista definitiva dos candidatos admitidos e excluídos, ou, no caso de não haver reclamações, será publicada a declaração da conversão da lista provisória em definitiva.
 
-###### Art. 5.º - 1 - Juntamente com a lista definitiva serão publicados o calendário e o local da realização das provas.
+Art. 5.º - 1 - Juntamente com a lista definitiva serão publicados o calendário e o local da realização das provas.
 
 2 - As provas não poderão ter lugar antes de passados 15 dias sobre a data da publicação da lista referida no número anterior.
 
@@ -129,13 +147,13 @@ II
 
 Dos processos de candidatura
 
-###### Art. 6.º Os candidatos aos lugares de ingresso deverão instruir os seus requerimentos com os seguintes documentos:
+Art. 6.º Os candidatos aos lugares de ingresso deverão instruir os seus requerimentos com os seguintes documentos:
 
 a) Documento comprovativo da sua formação académica de base, com indicação da instituição ou instituições de ensino frequentadas, anos e classificação de curso e, no caso de a formação ter sido obtida no estrangeiro, da respectiva concessão de equivalência;
 
 b) Qualquer outro documento revelador de preparação especial que entendam ser de apreciar.
 
-###### Art. 7.º Os candidatos aos lugares de acesso deverão apresentar:
+Art. 7.º Os candidatos aos lugares de acesso deverão apresentar:
 
 a) Currículo documentado, englobando, devidamente discriminados, os seguintes elementos:
 
@@ -151,13 +169,13 @@ b) No caso de candidatos a assessor, trabalho escrito a que se refere o n.º 2 d
 
 c) Quaisquer documentos comprovativos de preparação especial que entendam ser de apreciar pelo júri.
 
-###### Art. 8.º Os demais documentos exigidos por lei serão entregues quando houver lugar ao provimento, sendo os candidatos avisados do prazo que lhes for concedido para o efeito.
+Art. 8.º Os demais documentos exigidos por lei serão entregues quando houver lugar ao provimento, sendo os candidatos avisados do prazo que lhes for concedido para o efeito.
 
 III
 
 Das provas de selecção
 
-###### Art. 9.º A selecção dos candidatos aos lugares de ingresso e de estagiário de informática será feita mediante as seguintes provas:
+Art. 9.º A selecção dos candidatos aos lugares de ingresso e de estagiário de informática será feita mediante as seguintes provas:
 
 a) Avaliação curricular;
 
@@ -165,7 +183,7 @@ b) Entrevista, feita pelo júri designado para o efeito, para discussão do curr
 
 c) Teste psicotécnico para complemento da entrevista.
 
-###### Art. 10.º - 1 - A selecção dos candidatos aos lugares de acesso, à excepção dos de assessor, far-se-á de entre indivíduos com o mínimo de 3 anos na categoria imediatamente anterior, tendo em conta:
+Art. 10.º - 1 - A selecção dos candidatos aos lugares de acesso, à excepção dos de assessor, far-se-á de entre indivíduos com o mínimo de 3 anos na categoria imediatamente anterior, tendo em conta:
 
 A classificação de serviço referente à média dos últimos 3 anos;
 
@@ -175,7 +193,7 @@ A antiguidade na categoria.
 
 3 - Serão excluídos os candidatos com a média de classificação inferior a 12 valores ou a Suficiente no último triénio.
 
-###### Art. 11.º - 1 - As provas destinadas à selecção de candidatos aos lugares de assessor constarão, além do disposto no artigo anterior, da discussão oral, durante um período mínimo de 45 minutos, de um trabalho escrito apresentado para o efeito.
+Art. 11.º - 1 - As provas destinadas à selecção de candidatos aos lugares de assessor constarão, além do disposto no artigo anterior, da discussão oral, durante um período mínimo de 45 minutos, de um trabalho escrito apresentado para o efeito.
 
 2 - Os trabalhos a apresentar pelos candidatos, que terão que ser originais, versarão sobre matérias relacionadas com as atribuições dos serviços a que pertencem os lugares a prover ou sobre assuntos técnicos específicos, os quais serão definidos pelo director-geral e anunciados juntamente com o aviso de abertura das provas.
 
@@ -183,29 +201,29 @@ A antiguidade na categoria.
 
 4 - Os trabalhos a que se referem os números anteriores terão de ser dactilografados ou impressos e entregues, em 3 exemplares, no DCP, até 15 dias antes do início das provas.
 
-###### Art. 12.º No dia, hora e local designados para a prestação de provas, o júri procederá à chamada dos concorrentes, identificando-os pelo bilhete de identidade.
+Art. 12.º No dia, hora e local designados para a prestação de provas, o júri procederá à chamada dos concorrentes, identificando-os pelo bilhete de identidade.
 
 IV
 
 Da classificação das provas
 
-###### Art. 13.º - 1 - A apreciação curricular será feita tendo em vista a adequação da qualificação técnica à natureza do cargo a prover.
+Art. 13.º - 1 - A apreciação curricular será feita tendo em vista a adequação da qualificação técnica à natureza do cargo a prover.
 
 2 - À apreciação feita nos termos do número anterior será atribuída a classificação de Suficiente, Bom e Muito bom, a qual será considerada conjuntamente com as classificações obtidas nas provas referidas nos artigos 14.º e 15.º
 
-###### Art. 14.º - 1 - A prova realizada através da entrevista, em que será debatido o currículo nos aspectos em que suscite dúvidas e feita uma abordagem de temas relacionados com as funções correspondentes aos lugares a prover, será valorizada de 0 a 20 valores.
+Art. 14.º - 1 - A prova realizada através da entrevista, em que será debatido o currículo nos aspectos em que suscite dúvidas e feita uma abordagem de temas relacionados com as funções correspondentes aos lugares a prover, será valorizada de 0 a 20 valores.
 
 2 - Na classificação da prova referida no número anterior, o júri terá em conta o grau de preparação dos candidatos, com base em habilitações especiais e experiência profissional, bem como os conhecimentos técnicos revelados e as capacidades potenciais para o desempenho das funções.
 
-###### Art. 15.º - 1 - Os trabalhos apresentados pelos candidatos a lugares de assessor serão valorizados de 0 a 20 valores.
+Art. 15.º - 1 - Os trabalhos apresentados pelos candidatos a lugares de assessor serão valorizados de 0 a 20 valores.
 
 2 - Na classificação referida no número anterior, o júri terá em conta os conhecimentos científicos e técnicos revelados, o grau de preparação especializada e o contributo dos trabalhos para o aperfeiçoamento da organização e funcionamento dos serviços do DCP.
 
-###### Art. 16.º O júri poderá solicitar aos candidatos elementos esclarecedores sobre a documentação apresentada no âmbito do artigo 7.º
+Art. 16.º O júri poderá solicitar aos candidatos elementos esclarecedores sobre a documentação apresentada no âmbito do artigo 7.º
 
-###### Art. 17.º Serão excluídos os candidatos que não alcançarem média igual ou superior a 10 valores na classificação global das provas referidas nos artigos 14.º e 15.º
+Art. 17.º Serão excluídos os candidatos que não alcançarem média igual ou superior a 10 valores na classificação global das provas referidas nos artigos 14.º e 15.º
 
-###### Art. 18.º - 1 - Da decisão do júri sobre a classificação das provas poderão os candidatos reclamar, no prazo de 5 dias a contar da data da publicação da lista no Diário da República, mediante requerimento, dirigido ao director-geral, em que exponham os fundamentos da reclamação.
+Art. 18.º - 1 - Da decisão do júri sobre a classificação das provas poderão os candidatos reclamar, no prazo de 5 dias a contar da data da publicação da lista no Diário da República, mediante requerimento, dirigido ao director-geral, em que exponham os fundamentos da reclamação.
 
 2 - No caso de haver reclamação, as provas serão revistas por todos os membros do júri em reunião a que poderão estar presentes os reclamantes.
 
@@ -213,7 +231,7 @@ Da classificação das provas
 
 4 - Sendo atendida qualquer reclamação, será enviada para publicação no Diário da República, no prazo de 5 dias a contar da data da decisão, a rectificação da lista.
 
-###### Art. 19.º Em igualdade de classificação serão observados para a respectiva graduação, pela ordem indicada, os seguintes factores de preferência:
+Art. 19.º Em igualdade de classificação serão observados para a respectiva graduação, pela ordem indicada, os seguintes factores de preferência:
 
 1) Nas categorias de ingresso:
 
@@ -233,19 +251,19 @@ c) Maior antiguidade no DCP;
 
 d) Maior antiguidade na função pública.
 
-###### Art. 20.º Os candidatos serão chamados segundo a ordem por que forem classificados, para o preenchimento das vagas existentes e das que vierem a abrir-se no prazo de validade do concurso, que será de 1 ano.
+Art. 20.º Os candidatos serão chamados segundo a ordem por que forem classificados, para o preenchimento das vagas existentes e das que vierem a abrir-se no prazo de validade do concurso, que será de 1 ano.
 
 V
 
 Do júri
 
-###### Art. 21.º - 1 - O júri será constituído pelo director-geral, ou seu representante, que presidirá, e por 2 vogais a designar por despacho do Secretário de Estado do Planeamento.
+Art. 21.º - 1 - O júri será constituído pelo director-geral, ou seu representante, que presidirá, e por 2 vogais a designar por despacho do Secretário de Estado do Planeamento.
 
 2 - Os vogais poderão ser designados de entre o pessoal dirigente superior ou de entre assessores pertencentes aos quadros de pessoal do DCP, ou ainda de entre personalidades estranhas a este departamento e de reconhecido mérito nas matérias relacionadas com as provas a realizar.
 
 3 - Serão ainda designados 2 vogais suplentes, que poderão substituir os efectivos nas suas faltas.
 
-###### Art. 22.º - 1 - O júri só poderá deliberar estando presentes todos os seus membros e as deliberações serão tomadas por maioria de votos, tendo o presidente direito a voto de desempate.
+Art. 22.º - 1 - O júri só poderá deliberar estando presentes todos os seus membros e as deliberações serão tomadas por maioria de votos, tendo o presidente direito a voto de desempate.
 
 2 - Das reuniões dos júris serão lavradas actas, das quais deverão constar todas as deliberações tomadas e, bem assim, as declarações de voto, se as houver.
 
@@ -253,14 +271,14 @@ VI
 
 Das faltas às provas
 
-###### Art. 23.º Os candidatos que, por motivo de força maior, reconhecido como tal pelo júri, não compareçam às provas poderão ser autorizados a prestá-las em data a indicar pelo presidente do júri, desde que o requeiram no prazo de 3 dias a contar da realização da 1.ª prova a que faltarem.
+Art. 23.º Os candidatos que, por motivo de força maior, reconhecido como tal pelo júri, não compareçam às provas poderão ser autorizados a prestá-las em data a indicar pelo presidente do júri, desde que o requeiram no prazo de 3 dias a contar da realização da 1.ª prova a que faltarem.
 
-###### Art. 24.º Tratando-se de doença devidamente comprovada por atestado médico, os interessados deverão comunicar ao júri, por escrito, o fim da mesma, desde que esta ocorra antes do termo da validade do atestado, de acordo com o regime de faltas aplicado à função pública, sem prejuízo, porém, do disposto no número anterior.
+Art. 24.º Tratando-se de doença devidamente comprovada por atestado médico, os interessados deverão comunicar ao júri, por escrito, o fim da mesma, desde que esta ocorra antes do termo da validade do atestado, de acordo com o regime de faltas aplicado à função pública, sem prejuízo, porém, do disposto no número anterior.
 
 VII
 
 Da resolução de dúvidas
 
-###### Art. 25.º As dúvidas que surgirem na aplicação do presente Regulamento, bem como os casos omissos, serão resolvidas por despacho do Secretário de Estado do Planeamento, sob proposta do director-geral.
+Art. 25.º As dúvidas que surgirem na aplicação do presente Regulamento, bem como os casos omissos, serão resolvidas por despacho do Secretário de Estado do Planeamento, sob proposta do director-geral.
 
 Ministérios das Finanças e do Plano e da Reforma Administrativa, 23 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alberto Heleno do Nascimento Regueira, Secretário de Estado do Planeamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

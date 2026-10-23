@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2013/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2013-498487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee96d40d8046dc6bf24432e8ecb64288e7fdf81d85697331db685cd8a7b91d10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a05bd802c9e67027c1d4102c5824acb6b75d6acc68cf2fc20b004a59821b9cc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,31 @@ subjects:
 - Doutoramento
 - Ensino no Estrangeiro
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Habilitações Literárias
 - Licenciatura
 - Mestrado
 - Regime Jurídico
-- Ensino Superior
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:840716143:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75319452:por
+  label: Alterados, a partir de 14.09.2016, os arts. 1.º, 3.º, 4.º, 12.º, 14.º, 16.º, 22.º, 24.º, 26.º, 27.º, 30.º, 34.º,
+    36.º, 38.º, 41.º, 42.º, 43.º, 45.º, 45.º-B, 46.º-A, 48.º, 49.º, 50.º, 51.º, 54.º-A, 57.º, 59.º, 60.º e 75.º, aditados
+    os arts. 40.º-A, 40.º-B, 40.º-C, 40.º-D, 40.º-E, 40.º-F, 40.º-G, 40.º-H, 40.º-I, 40.º-J, 40.º-K, 40.º-L, 40.º-M, 40.º-N,
+    40.º-O, 40.º-P, 40.º-Q, 40.º-R, 40.º-S, 40.º-T, 40.º-U, 40.º-V, 40.º-W, 40.º-X, 40.º-Y, 40.º-Z, 40.º-AA, 40.º-AB, 40.º-AC,
+    40.º-AD, 49.º-A e 51.º-A, alterada a epígrafe do capítulo V do título II, aditadas as secções (com as respetivas epígrafes
+    e artigos) i, ii, iii, iv, v, vi, vii e viii ao capítulo V do título II, passados os arts. 80.º-A e 80.º-B para o título
+    VII, e revogados o n.º 4 do art. 34.º e os arts. 39.º, 40.º, 56.º e 82.º, todos do Dec. Lei 74/2006 de 24-mar, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 63/2016 - Diário da República n.º 176/2016, Série I de 2016-09-13,
+    nos termos do n.º 1 do seu art. 10.º, que republica o Dec. Lei 74/2006 com a redação atual
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2016-75319452
+  date: '2016-09-13'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -91,15 +104,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
 article_structure:
-  article_count: 149
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 110
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:35Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +191,9 @@ k) «Corpo docente próprio», o conjunto dos docentes que, independentemente do
 
 l) «Regime de tempo integral», o regime de exercício da docência em que se encontram os que fazem do ensino e investigação a sua atividade profissional exclusiva ou predominante, não podendo ser considerados como tal em mais de um estabelecimento de ensino superior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -224,7 +239,9 @@ c) Especializado quando um mínimo de 50% do corpo docente total é constituído
 
 8 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -250,7 +267,9 @@ j) [Anterior alínea i)];
 
 k) [Anterior alínea j)].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -306,7 +325,9 @@ ii) Um mínimo de 20% do corpo docente total é constituído por doutores especi
 
 9 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -316,7 +337,9 @@ b) Uma dissertação de natureza científica ou um trabalho de projeto, originai
 
 2 - Os valores mínimos a que se refere o número anterior não se aplicam ao ciclo de estudos integrado a que se refere o artigo anterior.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -330,7 +353,9 @@ b) Uma dissertação de natureza científica ou um trabalho de projeto, originai
 
 6 - [Anterior n.º 5].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 [...]:
 
@@ -366,7 +391,9 @@ o) [...];
 
 p) [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os ramos do conhecimento e especialidades em que cada universidade ou instituto universitário confere o grau de doutor são fixados pelo seu órgão legal e estatutariamente competente.
 
@@ -394,13 +421,17 @@ c) Especializado quando o corpo docente total é constituído por um mínimo de 
 
 5 - A verificação da satisfação dos requisitos referidos nos números anteriores é feita no âmbito do processo de acreditação.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
 2 - Compete ao órgão científico legal e estatutariamente competente da universidade ou do instituto universitário decidir quanto ao pedido, após apreciação do currículo do requerente e da adequação da tese aos objetivos visados pelo grau de doutor, nos termos do artigo 28.º
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A tese, ou os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º, são objeto de apreciação e discussão pública por um júri nomeado pelo órgão legal e estatutariamente competente da universidade ou do instituto universitário.
 
@@ -430,7 +461,9 @@ b) Em caso de empate.
 
 10 - [Anterior n.º 7].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]:
 
@@ -444,7 +477,9 @@ d) [...].
 
 2 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Os estabelecimentos de ensino superior podem associar-se com outros estabelecimentos de ensino superior, nacionais ou estrangeiros, para a realização dos ciclos de estudos conducentes aos graus e diplomas a que se referem os capítulos anteriores, coordenando os recursos humanos e materiais dos estabelecimentos de ensino associados.
 
@@ -452,7 +487,9 @@ d) [...].
 
 3 - Tendo em vista o disposto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, não é permitida a adoção do regime de franquia nos ciclos de estudos conferentes de graus.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Quando todos os estabelecimentos de ensino associados forem legalmente competentes para a atribuição do grau ou diploma, este pode ser atribuído:
 
@@ -464,7 +501,9 @@ c) [Anterior alínea c) do corpo do artigo].
 
 2 - Quando algum dos estabelecimentos de ensino associados não for legalmente competente para atribuir o grau ou diploma, nomeadamente por pertencer a subsistema que não possua competência para tal, apenas o estabelecimento ou estabelecimentos de ensino competentes o podem atribuir.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [Revogado].
 
@@ -472,7 +511,9 @@ c) [Anterior alínea c) do corpo do artigo].
 
 3 - A emissão do documento a que se refere o número anterior é acompanhada da emissão do suplemento ao diploma nos termos do Decreto-Lei n.º 42/2005, de 22 de fevereiro, alterado pelo Decreto-Lei n.º 107/2008, de 25 de junho, pelo estabelecimento de ensino superior português.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]:
 
@@ -492,7 +533,9 @@ f) Podem atribuir créditos pela experiência profissional devidamente comprovad
 
 3 - A atribuição de créditos ao abrigo da alínea f) do n.º 1 pode ser total ou parcialmente condicionada à realização de procedimentos de avaliação de conhecimentos específicos.
 
-###### Artigo 46.º-A — [...]
+Artigo 46.º-A
+
+[...]
 
 1 - [...].
 
@@ -510,7 +553,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -526,7 +571,9 @@ c) [...].
 
 7 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - As teses de doutoramento, os trabalhos previstos nas alíneas a) e b) do n.º 2 do artigo 31.º e as dissertações de mestrado ficam sujeitas ao depósito obrigatório de uma cópia digital num repositório integrante da rede do Repositório Científico de Acesso Aberto de Portugal, operado pela Fundação para a Ciência e Tecnologia, I. P..
 
@@ -540,13 +587,17 @@ c) [...].
 
 6 - Os estabelecimentos de ensino superior devem facultar o acesso sem restrições da Direção-Geral de Estatísticas da Educação e Ciência aos conteúdos depositados na rede do Repositório Científico de Acesso Aberto de Portugal para fins de recolha e processamento de indicadores estatísticos.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - A acreditação de um ciclo de estudos consiste na verificação do preenchimento dos requisitos legais exigidos para a sua criação e funcionamento.
 
 2 - A acreditação abrange todos os estabelecimentos de ensino superior e todos os ciclos de estudos conferentes de grau académico.
 
-###### Artigo 53.º — Competência para a acreditação
+Artigo 53.º
+
+Competência para a acreditação
 
 1 - A acreditação realiza-se no quadro do sistema europeu de garantia de qualidade no ensino superior, compete à Agência de Avaliação e Acreditação do Ensino Superior, criada pelo Decreto-Lei n.º 369/2007, de 5 de novembro, e concretiza-se nos termos por ele fixados.
 
@@ -556,13 +607,17 @@ c) [...].
 
 4 - A acreditação realiza-se no respeito pela autonomia científica e pedagógica dos estabelecimentos de ensino superior, nos termos definidos pelo Decreto-Lei n.º 369/2007, de 5 de novembro.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo seguinte, a entrada em funcionamento de ciclos de estudos que visem conferir graus académicos carece de acreditação prévia pela Agência de Avaliação e Acreditação do Ensino Superior, e de subsequente registo pela Direção-Geral do Ensino Superior.
 
 2 - A acreditação e o subsequente registo de um ciclo de estudos implica o reconhecimento do grau ou dos graus conferidos.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - A acreditação de um ciclo de estudos num estabelecimento de ensino superior pode ser efetuada através:
 
@@ -572,7 +627,9 @@ b) Da acreditação do estabelecimento de ensino superior para a ministração d
 
 2 - [Revogado].
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]:
 
@@ -594,7 +651,9 @@ a) De domínios científicos em que comprovadamente não exista pessoal docente 
 
 b) Do ensino artístico.
 
-###### Artigo 59.º — Validade da acreditação
+Artigo 59.º
+
+Validade da acreditação
 
 1 - A acreditação é conferida pelo prazo estabelecido na decisão do processo de acreditação de um ciclo de estudos, nos termos do disposto em Regulamento aprovado pelo Conselho de Administração da Agência de Agência de Avaliação e Acreditação do Ensino Superior, ou pelo prazo de um ano, em caso de deferimento tácito.
 
@@ -604,7 +663,9 @@ b) Do ensino artístico.
 
 4 - Os cursos acreditados pela Agência de Avaliação e Acreditação do Ensino Superior só podem ser ministrados nos locais para onde foram acreditados e registados, ou a distância se isso constar expressamente do ato de acreditação, ou, em caso de deferimento tácito, do respetivo pedido.
 
-###### Artigo 60.º — Revogação da acreditação
+Artigo 60.º
+
+Revogação da acreditação
 
 1 - O incumprimento dos requisitos legais ou das disposições estatutárias e a não observância dos critérios científicos e pedagógicos que justificaram a acreditação determinam a sua revogação, após audiência prévia do estabelecimento de ensino em causa.
 
@@ -612,15 +673,21 @@ b) Do ensino artístico.
 
 3 - A partir da revogação da acreditação, não podem ser admitidos novos alunos, embora, dentro dos prazos de cessação do funcionamento do ciclo de estudos definidos pela Agência de Avaliação e Acreditação do Ensino Superior, possam ser atribuídos os respetivos graus aos alunos já inscritos.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 A alteração dos elementos caraterizadores de um ciclo de estudos, modificando ou não os seus objetivos, fica sujeita ao regime fixado pelo presente título.
 
-###### Artigo 76.º — Competência
+Artigo 76.º
+
+Competência
 
 A aprovação das alterações compete aos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 A publicação das alterações deve mencionar expressamente o número e a data de registo na Direção-Geral do Ensino Superior.»
 
@@ -658,7 +725,9 @@ b) Só produz efeitos após a admissão no ciclo de estudos e para esse mesmo ci
 
 7 - A Agência de Avaliação e Acreditação do Ensino Superior inclui na avaliação dos ciclos de estudos a análise das práticas dos estabelecimentos de ensino em matéria de creditação.
 
-###### Artigo 45.º-B — Formações não passíveis de creditação
+Artigo 45.º-B
+
+Formações não passíveis de creditação
 
 Não é passível de creditação:
 
@@ -666,7 +735,9 @@ a) O ensino ministrado em ciclos de estudos cujo funcionamento não foi autoriza
 
 b) O ensino ministrado em ciclos de estudos acreditados e registados fora da localidade e instalações a que se reporta a acreditação e o registo.
 
-###### Artigo 54.º-A — Procedimento de acreditação e registo de ciclos de estudos
+Artigo 54.º-A
+
+Procedimento de acreditação e registo de ciclos de estudos
 
 1 - O procedimento de acreditação dos ciclos de estudos é fixado por regulamento da Agência de Avaliação e Acreditação do Ensino Superior.
 
@@ -686,7 +757,9 @@ b) O ensino ministrado em ciclos de estudos acreditados e registados fora da loc
 
 9 - Findo aquele prazo, considera-se tacitamente deferido o pedido de registo e este efetuado para todos os efeitos legais.
 
-###### Artigo 59.º-A — Publicidade da acreditação e do registo
+Artigo 59.º-A
+
+Publicidade da acreditação e do registo
 
 1 - Os estabelecimentos de ensino superior identificam obrigatoriamente no seu sítio na Internet os ciclos de estudos conferentes de grau académico, com a menção:
 
@@ -698,13 +771,17 @@ b) Do número e data do registo.
 
 3 - Às infrações a que se refere o presente artigo aplica-se o disposto nos artigos 164.º a 169.º da Lei n.º 62/2007, de 10 de setembro.
 
-###### Artigo 60.º-A — Tramitação desmaterializada
+Artigo 60.º-A
+
+Tramitação desmaterializada
 
 1 - Todos os pedidos, comunicações e notificações, ou em geral quaisquer declarações, relacionadas com a acreditação e registo de ciclos de estudos que visem conferir graus académicos, entre os interessados e outros intervenientes nos procedimentos previstos no presente diploma, devem ser efetuados através do balcão único eletrónico dos serviços referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, excetuados os relativos a procedimentos contraordenacionais.
 
 2 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, os atos aí referidos podem ser praticados por qualquer outro meio legalmente admissível.
 
-###### Artigo 76.º-A — Elementos caraterizadores de um ciclo de estudos
+Artigo 76.º-A
+
+Elementos caraterizadores de um ciclo de estudos
 
 Consideram-se elementos caraterizadores de um ciclo de estudos:
 
@@ -730,7 +807,9 @@ j) O número de horas de contacto;
 
 k) Os estabelecimentos de ensino superior associados, no caso dos ciclos de estudos acreditados para ministração em regime de associação.
 
-###### Artigo 76.º-B — Entrada em funcionamento das alterações
+Artigo 76.º-B
+
+Entrada em funcionamento das alterações
 
 1 - A entrada em funcionamento das alterações aos elementos caraterizadores de um ciclo de estudos fica sujeita:
 
@@ -740,27 +819,39 @@ b) Quando modifiquem os seus objetivos, a um procedimento de acreditação nos t
 
 2 - Compete ao conselho de administração da Agência de Avaliação e Acreditação do Ensino Superior, ouvida a Direção-Geral do Ensino Superior, através de deliberação a publicar na 2.ª série do Diário da República, definir as situações em que uma alteração aos elementos caraterizadores de um ciclo de estudos implica uma modificação dos objetivos do mesmo.
 
-###### Artigo 76.º-C — Instrução do processo de registo
+Artigo 76.º-C
+
+Instrução do processo de registo
 
 Os procedimentos de registo a que se refere a alínea a) do n.º 1 do artigo anterior são aprovados por despacho do diretor-geral do Ensino Superior.
 
-###### Artigo 79.º-A — Indeferimento liminar
+Artigo 79.º-A
+
+Indeferimento liminar
 
 São liminarmente indeferidos os requerimentos de registo apresentados à Direção-Geral do Ensino Superior ao abrigo do disposto na alínea a) do n.º 1 do artigo 76.º-B que se refiram a alterações abrangidas pela deliberação a que se refere o n.º 2 do artigo 76.º-B.
 
-###### Artigo 79.º-B — Prazo de decisão
+Artigo 79.º-B
+
+Prazo de decisão
 
 O registo a que se refere a alínea a) do n.º 1 do artigo 76.º-B considera-se tacitamente deferido se não for objeto de decisão no prazo de 60 dias após a receção do respetivo pedido.
 
-###### Artigo 79.º-C — Prazo
+Artigo 79.º-C
+
+Prazo
 
 Salvo motivos ponderosos, cuja pertinência é avaliada e decidida pela Agência de Avaliação e Acreditação do Ensino Superior, as alterações a que se refere a alínea b) do n.º 1 do artigo 76.º-B só podem ocorrer após o funcionamento efetivo do ciclo de estudos por um período igual ao da sua duração normal, contado a partir da acreditação ou da última alteração ao abrigo da mesma norma.
 
-###### Artigo 80.º-A — Cooperação administrativa
+Artigo 80.º-A
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.
 
-###### Artigo 80.º-B — Título de doutor honoris causa
+Artigo 80.º-B
+
+Título de doutor honoris causa
 
 1 - As universidades e os institutos universitários podem atribuir o título de doutor honoris causa.
 
@@ -800,15 +891,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de junho de 2013. - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 29 de julho de 2013.**
+Promulgado em 29 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de agosto de 2013.**
+Referendado em 1 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1856,7 +1947,9 @@ A publicação das alterações deve mencionar expressamente o número e a data 
 
 As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-Membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.
 
-###### Artigo 80.º-B — Título de doutor honoris causa
+###### Artigo 80.º-B
+
+## Título de doutor honoris causa
 
 1 - As universidades e os institutos universitários podem atribuir o título de doutor honoris causa.
 

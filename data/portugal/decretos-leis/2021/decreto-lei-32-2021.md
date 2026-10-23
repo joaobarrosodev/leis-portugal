@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09200/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2021/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2021-163158834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c755c258e51e7f59a698e338b465e15aa850adb7724c367d096a425a59dbdb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0db9c2cadd4475753f2240af4d5081da938089f2a9617700bd09b0cb09596a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Instituto da Segurança Social
-- Financiamento
-- Empresa
-- Bolsa de Formação
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Contribuições da Segurança Social
-- Local de Divertimento
-- Controlo Sanitário
-- Entidade Patronal
-- Estabelecimento de Bebidas
-- Fiscalização
 - Apoio ao Investimento
-- LAY OFF
-- Epidemia
-- Política Económica
+- Atividade Industrial
+- Bolsa de Formação
+- Contrato de Trabalho
+- Contribuições da Segurança Social
+- Controlo Sanitário
 - Emprego
-- Política de Emprego
+- Empresa
+- Entidade Patronal
+- Epidemia
+- Estabelecimento de Bebidas
+- Financiamento
+- Fiscalização
+- Formação Profissional
+- Horário de Trabalho
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- LAY OFF
+- Local de Divertimento
 - Microempresa
 - Pequenas e Médias Empresas
-- Contrato de Trabalho
-- Regime Jurídico
-- Horário de Trabalho
 - PME
+- Política de Emprego
+- Política Económica
+- Regime Jurídico
 - Segurança Social
 - Trabalhador por Conta de Outrem
 relationships:
@@ -98,6 +98,12 @@ relationships:
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101-a/2020/11/27/p/dre
   label: null
@@ -134,16 +140,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145714398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148853501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149971740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154202310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154946852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160149401:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:21Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +246,9 @@ iii) Até 100 % no mês de junho de 2021, para o empregador dos setores de bares
 
 5 - Para efeitos de fiscalização, a percentagem de trabalhadores referida na subalínea ii) da alínea d) do n.º 1 é aferida pela declaração de remunerações do mês de junho.
 
-###### Artigo 14.º-A — [...]
+Artigo 14.º-A
+
+[...]
 
 1 - [...].
 
@@ -240,12 +284,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 29 de abril de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Miguel Jorge de Campos Cruz - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 6 de maio de 2021.**
+Promulgado em 6 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de maio de 2021.**
+Referendado em 11 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114228317

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/026a00/08720880.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2002/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2002-276448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fd75d6d117c75f9d47b2892de2cd6004c4024cebb31c0d79b8d6283baa6d9c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99a5998dd6fbdbf9548d5f33855778484f4bae02009ae73ec16a472c37810651
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Turismo
-- Embarcação
-- Turismo
-- Multa
 - Contra-ordenação
+- Embarcação
 - Embarcação de Recreio
 - Fiscalização
 - Instituto Marítimo-portuário
 - Licenciamento
+- Multa
+- Navegação Marítima
 - Operador Turístico
 - Regulamento
 - Regulamento da Actividade Marítimo-turística
 - Sanção
 - Segurança da Navegação
-- Navegação Marítima
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:58248462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196969:por
+  label: "Prorrogado desde o seu termo até 31 de Dezembro de 2002 o prazo previsto no n.º 1 do art. 4.º do presente diploma,\
+    \ pelo DEC LEI.178/2002.2002.07.31.MOPTH DR.IS-A [175]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2002-196969
+  date: '2002-07-31'
+- type: amended_by
+  target: pt:dre:466833:por
+  label: "Alterados os arts. 3.º, 4.º (na redacção do Dec Lei 178/2002, de 31-Jul), 6.º, 7.º, 8.º, 11.º, 17.º, 18.º, 20.º,\
+    \ 21.º, 22.º, 23.º, 27.º, 29.º, 30.º, 31.º, 23.º, 33.º, 34.º, 35.º, 36.º e 37.º e os anexos I e II do Regulamento da Actividade\
+    \ Marítimo-Turística publicado em anexo ao presente diploma e aditado ao mesmo Regulamento os arts. 19.º-A e 36.º-A, todos\
+    \ do presente Dec Lei, pelo DEC LEI.269/2003.28.10.2003.MOPTH, DR.IS-A [250] de 28.10.2003, republicando-o em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-2003-466833
+  date: '2003-10-28'
+- type: amended_by
+  target: pt:dre:636971:por
+  label: "Alterado o art. 3º (na redacção do Dec Lei 178/2002, de 31-Jul), os arts. 21º e 35º (na redacção do Dec Lei 269/2003,\
+    \ de 28-Out) e aditado o art. 35º-A e o Anexo IV ao Regulamento da Actividade Marítimo-Turística, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.289/2007.17.08.2007.MOPTC, DR.IS [158] de 17.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-2007-636971
+  date: '2007-08-17'
+- type: amended_by
+  target: pt:dre:608703:por
+  label: "Alterados, a partir de 14.06.2009, os arts. 1.º e 2.º e revogados, a partir da mesma data, os arts 3.º a 15º, 29º\
+    \ a 32º e os anexos I e II, todos do Regulamento da Actividade Marítimo-Turística, aprovado pelo presente diploma, pelo\
+    \ DEC LEI.108/2009.15.05.2009.MEI, DR.IS [94] de 15.05.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2009-608703
+  date: '2009-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/2000/09/01/p/dre
   label: null
@@ -102,16 +130,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre
+- type: cites
+  target: pt:dre:282701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661085:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:303471:por
+  label: "Rectificado o anexo I, pela DECL-RECT.8-E/2002.28.02.2002.PCM, DR.IS-A [50]2ºSupl de 28.02.2002, procedendo de novo\
+    \ à sua publicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-e-2002-303471
+  date: '2002-02-28'
+- type: repealed_by
+  target: pt:dre:58248462:por
+  label: Revogado pelo(a) Decreto-Lei n.º 149/2014 - Diário da República n.º 196/2014, Série I de 2014-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2014-58248462
+  date: '2014-10-10'
 article_structure:
   article_count: 46
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:03Z'
   warnings: []
   errors: []
 ---
@@ -172,15 +239,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 18 de Janeiro de 2002.**
+Promulgado em 18 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Janeiro de 2002.**
+Referendado em 23 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DA ACTIVIDADE MARÍTIMO-TURÍSTICA
 

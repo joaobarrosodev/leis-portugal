@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14300/0001300033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2021/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2021-168296688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 500b19b6af6c2d62bb7e915f775a68da0abcfe8fb483c5408ed7310443485955
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acc0fb2db81867612097e64e652c3100d180bbd5318ba5c5196081f0d4e5f0cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Armas e Munições
 - Campo de Tiro
 - Carreira de TIRO
-- Regulamentação de Atos Legislativos
 - Federação Desportiva
 - Instituto Português do Desporto e Juventude
 - Licenciamento
+- PSP
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Utilidade Pública Desportiva
 relationships:
@@ -125,6 +125,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/702/2009/0
   label: null
   source: http://data.dre.pt/eli/port/702/2009/0
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123436957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0477
   label: null
@@ -134,15 +178,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 80
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 62
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:55Z'
   warnings: []
   errors: []
 ---
@@ -207,15 +251,15 @@ O presente decreto regulamentar entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Eduardo Arménio do Nascimento Cabrita - Tiago Brandão Rodrigues - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 12 de julho de 2021.**
+Promulgado em 12 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de julho de 2021.**
+Referendado em 15 de julho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem os artigos 3.º e 4.º)
 
@@ -269,7 +313,9 @@ v) ...
 
 x) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -303,17 +349,23 @@ j) Indicação de pelo menos um responsável técnico.
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A PSP emite parecer relativamente ao licenciamento de operações urbanísticas que envolvam obras de construção ou modificação de complexos, carreiras e campos de tiro, nos termos do disposto no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
 2 - As carreiras de tiro podem ainda ser genéricas ou para tiro desportivo, consoante, respetivamente, nelas se possa praticar qualquer tipo de tiro ou apenas modalidades tuteladas por federação de tiro desportivo reconhecida nos termos da lei que regula o tiro desportivo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os postos de tiro devem dispor de um espaço com as dimensões mínimas de 1 m de largura por 1,5 m de comprimento, lateralmente divididos entre si por painéis, fixos ou amovíveis, em material que detenha os invólucros ou cartuchos ejetados, com as seguintes dimensões:
 
@@ -331,21 +383,29 @@ b) [Anterior alínea a).]
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Os proprietários devem garantir a adequada limpeza dos solos, a remoção e recolha dos resíduos e projéteis e assegurar o seu encaminhamento para tratamento adequado, privilegiando soluções de valorização.
 
-###### Artigo 14.º — Iluminação
+Artigo 14.º
+
+Iluminação
 
 A iluminação artificial da área de tiro deve evitar o encandeamento dos atiradores, sendo proibida a iluminação direta do plano frontal dos postos de tiro.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Nas carreiras de tiro interiores é instalado um sistema de ventilação de ar e de exaustão de gases que assegure uma atmosfera respirável e segura para os seus frequentadores, garantindo-se, quando aplicável, o cumprimento do [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -371,19 +431,27 @@ c) ...
 
 9 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 As carreiras de tiro devem estar lateralmente delimitadas por paredes, muros ou taludes que assegurem a sua estanquidade e anulem os ricochetes dos projéteis que neles embatam.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 A cobertura dos postos de tiro, o pavimento dos corredores de trânsito, os espaldões e as paredes, muros e taludes delimitadores das carreiras de tiro devem ser construídos em material que detenha os projéteis que neles embatam.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Quando a carreira de tiro não possua vedação permanente, deve ser sinalizada qualquer sessão de tiro, através de cartazes indicativos acompanhados de bandeiras vermelhas de sinalização, colocados num perímetro de segurança a 50 m da área da carreira de tiro, com o espaçamento de 25 m entre si.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - As carreiras de tiro exteriores para tiro dinâmico são constituídas por uma ou mais boxes de tiro.
 
@@ -393,7 +461,9 @@ Quando a carreira de tiro não possua vedação permanente, deve ser sinalizada 
 
 4 - São admissíveis boxes de tiro com formato diferente do acima referido, aplicando-se correspondentemente o regime previsto nos números anteriores.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Cada box de tiro deve ter um espaldão frontal e muros, paredes ou taludes laterais, contíguos, com a altura média de 3 m e nunca inferior a 2 m em qualquer ponto da sua extensão, medidos do leito da box de tiro.
 
@@ -401,11 +471,15 @@ Quando a carreira de tiro não possua vedação permanente, deve ser sinalizada 
 
 3 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 As boxes de tiro das carreiras de tiro interiores para tiro dinâmico têm as mesmas características das boxes de tiro das carreiras de tiro exteriores para tiro dinâmico, com exceção da altura média que não pode ser inferior a 2 m, devido à cobertura.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -413,7 +487,9 @@ As boxes de tiro das carreiras de tiro interiores para tiro dinâmico têm as me
 
 3 - Os atiradores estão obrigados a usar auriculares supressores de som e de óculos de proteção.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Os responsáveis pelos complexos, carreiras e campos de tiro ficam obrigados a inserir na plataforma eletrónica disponibilizada pela PSP um registo nominal dos atiradores que frequentam as instalações, as armas utilizadas e o número de disparos efetuados, bem como de todas as ocorrências que contrariem as normas previstas na lei e no presente regulamento.
 
@@ -421,7 +497,9 @@ As boxes de tiro das carreiras de tiro interiores para tiro dinâmico têm as me
 
 3 - ...
 
-###### Artigo 54.º — Períodos de funcionamento
+Artigo 54.º
+
+Períodos de funcionamento
 
 1 - ...
 
@@ -431,7 +509,9 @@ As boxes de tiro das carreiras de tiro interiores para tiro dinâmico têm as me
 
 4 - (Revogado.)
 
-###### Artigo 55.º — Normas ambientais
+Artigo 55.º
+
+Normas ambientais
 
 Os complexos, carreiras e campos de tiro devem obedecer aos normativos ambientais gerais e específicos em vigor, nomeadamente:
 
@@ -447,7 +527,9 @@ d) Ao regime da gestão de fluxos específicos de resíduos sujeitos ao princíp
 
 Regulamento Técnico e de Funcionamento e Segurança dos Complexos, Carreiras e Campos de Tiro
 
-### CAPÍTULO I — Parte geral
+### CAPÍTULO I
+
+## Parte geral
 
 ###### Artigo 1.º — Definições
 
@@ -1018,3 +1100,5 @@ b) Ao disposto no Regime Geral da Gestão de Resíduos, aprovado pelo [Decreto-L
 c) Ao regime de proteção de captações de águas subterrâneas destinadas ao abastecimento público, regulado pelo [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, artigo 37.º da Lei da Água, aprovada pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, e [Portaria n.º 702/2009](https://diariodarepublica.pt/dr/detalhe/portaria/702-2009-492213), de 6 de julho;
 
 d) Ao regime da gestão de fluxos específicos de resíduos sujeitos ao princípio da responsabilidade alargada do produtor, aprovado pelo [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro.
+
+114426127

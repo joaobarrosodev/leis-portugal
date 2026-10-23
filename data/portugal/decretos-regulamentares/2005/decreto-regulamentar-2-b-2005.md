@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 59/2005, 2º Suplemento, Série I-B de 2005-03-24
   number: '59'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2614-(6) a 2614-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/059b02/00060007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2-b/2005/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-b-2005-383020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 718461bf60a989001c62a7b700876e589196c1d6b71b744ce94300e94a0e2bab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0683040afaa8248d75d97db7ec57acc1c0db09dfc8e77537419a3e30c64911c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Código da Estrada
-- Multa
-- Veículo
-- Estacionamento
 - Câmara Municipal
+- Código da Estrada
+- Estacionamento
+- Multa
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:649721:por
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649721:por
+  label: "Revogado pelo DEC LEI.81/2006.20.04.2006.MEI, DR.IS-A [78] de 20.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2006-649721
+  date: '2006-04-20'
 article_structure:
   article_count: 13
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:18Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +169,9 @@ O acesso a parques de estacionamento não deve ser susceptível de causar embara
 
 3 - Pelo pagamento da taxa devida pelo estacionamento, nos termos previsto no número anterior, deverá ser emitido recibo do mesmo, ainda que o pagamento seja feito através de meios automáticos.
 
-###### Artigo 5.º — Título de estacionamento
+###### Artigo 5.º
+
+## Título de estacionamento
 
 1 - Quando o estacionamento estiver sujeito ao pagamento prévio de uma taxa, o título de estacionamento deve ser colocado, sempre que possível, no interior do veículo, junto do pára-brisas, de forma bem visível e legível do exterior.
 
@@ -216,14 +235,14 @@ O presente diploma entra em vigor 90 dias após publicação.
 
 Visto e aprovado em Conselho de Ministro de 24 de Março de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Mário Lino Soares Correia.
 
-**Promulgado em 24 de Março de 2005.**
+Promulgado em 24 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 2005.**
+Referendado em 24 de Março de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/059b02/00060007.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/33/2002/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2002-288784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e23dba35316a543cae0ee97c302cf77b7e39a45799f2fbd0b953af2cd9622457
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e10fb35692d8a93f46ab7448174590a92f37fcc908ecfc0b2380cab6c96407fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Cidadão Nacional
-- Terceira Idade
 - Comunidades Portuguesas
 - Emigrante
+- Financiamento
 - Proteção Social
 - Regulamento
 - Subsídio de Apoio Social
+- Terceira Idade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:45Z'
   warnings: []
   errors: []
 ---
@@ -190,15 +194,15 @@ O presente decreto regulamentar produz efeitos a partir do dia 1 de Janeiro de 2
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - José Manuel Simões de Almeida.
 
-**Promulgado em 13 de Março de 2002.**
+Promulgado em 13 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Março de 2002.**
+Referendado em 21 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO I — (a que se refere o artigo 1.º, n.º 1)
 

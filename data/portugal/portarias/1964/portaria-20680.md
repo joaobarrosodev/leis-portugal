@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20680-1964-578740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5854f1f3d9b71dde3c8d84cea73351c87ebe4972b32b3a3a5b6393527f88cb34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d31b6b7c07383d5c7fa3038e90d6d937fc585679ddf2d0484c97893cc7002308
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:601356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:08Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +119,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Interior, nos termos 
 
 Único. O artigo 9.º, a alínea d) do artigo 57.º, os §§ 1.º e 2.º do artigo 63.º e os quadros II e III referidos nos artigos 63.º e 64.º da Portaria 18836, de 24 de Novembro de 1961, alterada pela Portaria 19211, de 31 de Maio de 1962, passam a ter a seguinte redacção:
 
-###### Art. 9.º Aos subscritores que, por qualquer motivo, deixem de pertencer à Polícia de Segurança Pública, excepto por passagem à situação de aposentação, é facultativo, quando assim o declararem por escrito, continuar ou não como subscritores do Cofre, tendo direito, neste último caso, a receber 75 por cento das quotas pagas.
+Art. 9.º Aos subscritores que, por qualquer motivo, deixem de pertencer à Polícia de Segurança Pública, excepto por passagem à situação de aposentação, é facultativo, quando assim o declararem por escrito, continuar ou não como subscritores do Cofre, tendo direito, neste último caso, a receber 75 por cento das quotas pagas.
 
 ...
 
-###### Art. 57.º ...
+Art. 57.º ...
 
 ...
 
@@ -115,7 +131,7 @@ d) Promover a publicação de um balancete trimestral demonstrativo da situaçã
 
 ...
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 ...
 
@@ -129,12 +145,12 @@ Quadro II a que se refere o artigo 63.º
 
 Pessoal ao serviço do Cofre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/16300/08870888.pdf))](https://files.diariodarepublica.pt/1s/1964/07/16300/08870888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/16300/08870888.pdf)
 
 Quadro III a que se referem os artigos 63.º e 64.º
 
 Pessoal auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/16300/08870888.pdf))](https://files.diariodarepublica.pt/1s/1964/07/16300/08870888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/16300/08870888.pdf)
 
 Ministério do Interior, 13 de Julho de 1964. - O Ministro da Interior, Alfredo Rodrigues dos Santos Júnior.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2009/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2009-488136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e8e35074c0410caab5b4c654955ffa92e1acb47ceebea18b2938391bdc61b5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42951c43bc07e0d35ece81c87bef6893e9e9d3e087aec3ed60712df9853b25ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Saneamento Básico
+- Abastecimento de Água
+- Águas Residuais
 - Contrato de Concessão
 - Fiscalização
-- Águas Residuais
-- Tratamento de Resíduos
+- Gestão de Resíduos
 - Preço
+- Saneamento Básico
 - Serviços Municipalizados de Água e Saneamento
-- Abastecimento de Água
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:498094:por
@@ -120,16 +120,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/176/1999/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/176/1999/10/25/p/dre
+- type: cites
+  target: pt:dre:165054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667895:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498094:por
+  label: "Revogado o Dec Lei 379/93, de 05-nov, na redação do presente diploma, pelo DEC LEI.92/2013.11.07.2013.MAMAOT, DR.IS\
+    \ [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2013-498094
+  date: '2013-07-11'
 article_structure:
   article_count: 51
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:20Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +274,9 @@ As bases ii, iv, viii, x, xiii, xiv, xv, xvi, xix, xx, xxiii, xxvi, xxviii e xxx
 
 3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, aditado pelo [Decreto-Lei n.º 221/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2003-500059), de 20 de Setembro.
 
-###### Base IV — [...]
+Base IV
+
+[...]
 
 1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
 
@@ -212,7 +284,9 @@ As bases ii, iv, viii, x, xiii, xiv, xv, xvi, xix, xx, xxiii, xxvi, xxviii e xxx
 
 3 - (Revogado.)
 
-###### Base VIII — [...]
+Base VIII
+
+[...]
 
 1 - ...
 
@@ -222,7 +296,9 @@ As bases ii, iv, viii, x, xiii, xiv, xv, xvi, xix, xx, xxiii, xxvi, xxviii e xxx
 
 4 - (Revogado.)
 
-###### Base X — Inventário e relatório técnico
+Base X
+
+Inventário e relatório técnico
 
 1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
 
@@ -246,7 +322,9 @@ e) A menção dos ónus ou encargos que sobre ele recaem.
 
 6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - ...
 
@@ -272,7 +350,9 @@ e) Assegurar a recuperação dos encargos que legalmente impendam sobre a presta
 
 f) [Anterior alínea f) do n.º 2.]
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
 
@@ -280,7 +360,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 3 - A regulamentação do procedimento previsto na parte final do número anterior é objecto de despacho do membro do Governo responsável pela área do ambiente.
 
-###### Base XV — [...]
+Base XV
+
+[...]
 
 1 - ...
 
@@ -306,7 +388,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - (Anterior n.º 3.)
 
-###### Base XVI — Exercício dos poderes do concedente
+Base XVI
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de tratamento de resíduos urbanos que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.
 
@@ -316,11 +400,15 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Base XX — [...]
+Base XX
+
+[...]
 
 1 - ...
 
@@ -330,7 +418,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
 
-###### Base XXIII — [...]
+Base XXIII
+
+[...]
 
 1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
 
@@ -340,7 +430,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - A caução só pode ser levantada após o decurso de um ano sobre o termo da concessão.
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 1 - ...
 
@@ -350,7 +442,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionária envia semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
 
@@ -358,7 +452,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se pode pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Base XXXVI — [...]
+Base XXXVI
+
+[...]
 
 1 - No termo da concessão e sem prejuízo do disposto no artigo 4.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, na redacção dada pelo [Decreto-Lei n.º 14/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2002-239267), de 26 de Janeiro, e nas bases viii e ix das presentes bases, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
@@ -414,7 +510,9 @@ As bases ii, iv, viii, ix, xi, xiv, xv, xix, xxi, xxiii, xxiv, xxvi, xxvii, xxvi
 
 3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do [Decreto-Lei n.º 319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, aditado pelo [Decreto-Lei n.º 222/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2003-500058), de 20 de Setembro.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
 
@@ -422,7 +520,9 @@ As bases ii, iv, viii, ix, xi, xiv, xv, xix, xxi, xxiii, xxiv, xxvi, xxvii, xxvi
 
 3 - (Revogado.)
 
-###### Base VIII — [...]
+Base VIII
+
+[...]
 
 1 - ...
 
@@ -434,7 +534,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) ...
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - ...
 
@@ -444,7 +546,9 @@ b) ...
 
 4 - (Revogado.)
 
-###### Base XI — Inventário e relatório técnico
+Base XI
+
+Inventário e relatório técnico
 
 1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
 
@@ -468,7 +572,9 @@ e) A menção dos ónus ou encargos que sobre ele recaem.
 
 6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - ...
 
@@ -494,7 +600,9 @@ e) Assegurar a recuperação dos encargos que legalmente impendam sobre a presta
 
 f) [Anterior alínea f) do n.º 2.]
 
-###### Base XV — [...]
+Base XV
+
+[...]
 
 1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
 
@@ -502,7 +610,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 3 - A regulamentação do procedimento previsto na parte final do número anterior é objecto de despacho do membro do Governo responsável pela área do ambiente.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - ...
 
@@ -512,7 +622,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionária envia semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
 
-###### Base XXI — [...]
+Base XXI
+
+[...]
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
 
@@ -520,7 +632,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se poderá pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Base XXIII — [...]
+Base XXIII
+
+[...]
 
 1 - ...
 
@@ -546,7 +660,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - (Anterior n.º 3.)
 
-###### Base XXIV — Exercício dos poderes do concedente
+Base XXIV
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.
 
@@ -556,11 +672,15 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
 
@@ -570,7 +690,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - A caução só pode ser levantada após o decurso de um ano sobre o termo da concessão.
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - ...
 
@@ -582,7 +704,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 5 - Os utilizadores podem recusar o pagamento dos valores mínimos no caso de se verificar o atraso na realização dos investimentos necessários à prestação do serviço no respectivo território por motivo que seja imputável à concessionária.
 
-###### Base XXXI — [...]
+Base XXXI
+
+[...]
 
 1 - A água fornecida será medida à entrada dos reservatórios de chegada a cada utilizador do sistema, excepto se outros pontos de entrega forem acordados entre as partes.
 
@@ -592,7 +716,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
 
-###### Base XLIII — [...]
+Base XLIII
+
+[...]
 
 1 - No termo da concessão e sem prejuízo do disposto no [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, no artigo 4.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, na redacção dada pelo [Decreto-Lei n.º 14/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2002-239267), de 26 de Janeiro, e nas bases ix e x das presentes bases, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
@@ -648,7 +774,9 @@ As bases ii, iv, viii, ix, xi, xiv, xv, xix, xxi, xxiii, xxiv, xxvi, xxvii, xxvi
 
 3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do [Decreto-Lei n.º 162/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1996-241638), de 4 de Setembro, aditado pelo [Decreto-Lei n.º 223/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2003-500055), de 20 de Setembro.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
 
@@ -656,7 +784,9 @@ As bases ii, iv, viii, ix, xi, xiv, xv, xix, xxi, xxiii, xxiv, xxvi, xxvii, xxvi
 
 3 - (Revogado.)
 
-###### Base VIII — [...]
+Base VIII
+
+[...]
 
 1 - ...
 
@@ -668,7 +798,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) ...
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - ...
 
@@ -678,7 +810,9 @@ b) ...
 
 4 - (Revogado.)
 
-###### Base XI — Inventário e relatório técnico
+Base XI
+
+Inventário e relatório técnico
 
 1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
 
@@ -702,7 +836,9 @@ e) A menção dos ónus ou encargos que sobre ele recaem.
 
 6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - ...
 
@@ -728,7 +864,9 @@ e) Assegurar a recuperação dos encargos que legalmente impendam sobre a presta
 
 f) [Anterior alínea f) do n.º 2.]
 
-###### Base XV — [...]
+Base XV
+
+[...]
 
 1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
 
@@ -736,7 +874,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 3 - A regulamentação do procedimento previsto na parte final do número anterior é objecto de despacho do membro do Governo responsável pela área do ambiente.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - ...
 
@@ -746,7 +886,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionária envia semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
 
-###### Base XXI — [...]
+Base XXI
+
+[...]
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
 
@@ -754,7 +896,9 @@ f) [Anterior alínea f) do n.º 2.]
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se poderá pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Base XXIII — [...]
+Base XXIII
+
+[...]
 
 1 - ...
 
@@ -780,7 +924,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - (Anterior n.º 3.)
 
-###### Base XXIV — Exercício dos poderes do concedente
+Base XXIV
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de recolha tratamento e rejeição de efluentes que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.
 
@@ -790,11 +936,15 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
 
@@ -804,7 +954,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - A caução só poderá ser levantada após o decurso de um ano sobre o termo da concessão.
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - ...
 
@@ -818,7 +970,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 6 - Os utilizadores podem recusar o pagamento dos valores mínimos, no caso de se verificar o atraso na realização dos investimentos necessários à prestação do serviço no respectivo território por motivo que seja imputável à concessionária.
 
-###### Base XXIX — [...]
+Base XXIX
+
+[...]
 
 1 - Os serviços prestados pela concessionária devem ser objecto de medição para efeitos de facturação, salvo disposições transitórias previstas contratualmente, e ser facturados mensalmente, com um prazo de pagamento de 60 dias.
 
@@ -828,7 +982,9 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
 
-###### Base XLI — [...]
+Base XLI
+
+[...]
 
 1 - No termo da concessão e sem prejuízo do disposto no [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, no artigo 4.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, na redacção dada pelo [Decreto-Lei n.º 14/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2002-239267), de 26 de Janeiro, e nas bases ix e x das presentes bases, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
@@ -884,15 +1040,15 @@ O presente decreto-lei entra em vigor em 1 de Janeiro de 2010.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - João Manuel Machado Ferrão.
 
-**Promulgado em 8 de Agosto de 2009.**
+Promulgado em 8 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Agosto de 2009.**
+Referendado em 14 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Republicação do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro
 
@@ -1128,11 +1284,15 @@ I
 
 Disposições e princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão do serviço público em regime de exclusivo tem por conteúdo a concepção, a construção, a exploração e a gestão de um sistema multimunicipal de tratamento de resíduos sólidos urbanos.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A actividade da concessão compreende o processamento dos resíduos sólidos urbanos, ou a tal equiparados nos termos da lei, gerados nas áreas dos municípios utilizadores e entregues por quem deva proceder à sua recolha, incluindo a sua valorização energética ou a sua reciclagem em termos economicamente viáveis, e a disponibilização de subprodutos.
 
@@ -1144,7 +1304,9 @@ b) A aquisição, manutenção e renovação de todos os equipamentos e meios de
 
 3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, aditado pelo [Decreto-Lei n.º 221/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2003-500059), de 20 de Setembro.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A concessionária do serviço público de exploração e gestão do sistema multimunicipal de recolha e tratamento de resíduos sólidos urbanos obriga-se a assegurar o regular, contínuo e eficiente tratamento dos resíduos sólidos urbanos gerados nas áreas dos municípios utilizadores.
 
@@ -1158,7 +1320,9 @@ b) A aquisição, manutenção e renovação de todos os equipamentos e meios de
 
 6 - Para o efeito do disposto nos números anteriores, são ainda consideradas as receitas que advenham ou possam advir dos processos de tratamento e valorização dos recursos sólidos urbanos, nomeadamente da produção de energia ou da venda de produtos resultantes.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
 
@@ -1166,7 +1330,9 @@ b) A aquisição, manutenção e renovação de todos os equipamentos e meios de
 
 3 - (Revogado.)
 
-###### Base V — Princípios aplicáveis às relações com os utilizadores
+Base V
+
+Princípios aplicáveis às relações com os utilizadores
 
 1 - A concessionária é obrigada, mediante contrato, a assegurar aos utilizadores o tratamento dos resíduos sólidos urbanos gerados nas suas áreas, devendo proceder, relativamente aos utilizadores, sem discriminações ou diferenças que não resultem apenas da aplicação de critérios ou condicionalismos legais ou regulamentares ou, ainda, de diversidade manifesta das condições técnicas de entrega e dos correspondentes custos.
 
@@ -1178,7 +1344,9 @@ II
 
 Dos bens e meios afectos à concessão
 
-###### Base VI — Estabelecimento da concessão
+Base VI
+
+Estabelecimento da concessão
 
 1 - Integram o estabelecimento da concessão:
 
@@ -1196,7 +1364,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrig
 
 b) A totalidade das relações jurídicas que se encontrem em cada momento conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
 
-###### Base VII — Bens e outros meios afectos à concessão
+Base VII
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infra-estruturas.
 
@@ -1208,7 +1378,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) A totalidade das relações jurídicas que se encontrem em cada momento conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
 
-###### Base VIII — Propriedade dos bens afectos à concessão
+Base VIII
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam ao Estado e aos municípios.
 
@@ -1218,13 +1390,17 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento conex
 
 4 - (Revogado.)
 
-###### Base IX — Infra-estruturas pertencentes aos municípios ou a associações de municípios
+Base IX
+
+Infra-estruturas pertencentes aos municípios ou a associações de municípios
 
 1 - Os aterros sanitários ou outras infra-estruturas relacionadas com o tratamento ou recolha de resíduos sólidos urbanos pertencentes aos municípios utilizadores ou a associações de municípios de que todos ou alguns destes façam parte poderão ser pelos mesmos cedidos à concessionária, a título gratuito ou oneroso, para exploração da concessão.
 
 2 - Em qualquer caso, tornando-se desnecessária a utilização pela concessionária das infra-estruturas referidas no número anterior estas serão devolvidas aos municípios cedentes nas condições inicialmente acordadas.
 
-###### Base X — Inventário e relatório técnico
+Base X
+
+Inventário e relatório técnico
 
 1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
 
@@ -1248,7 +1424,9 @@ e) A menção dos ónus ou encargos que sobre ele recaem.
 
 6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
 
-###### Base XI — Manutenção dos bens e meios afectos à concessão
+Base XI
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
@@ -1258,7 +1436,9 @@ III
 
 Condições financeiras
 
-###### Base XII — Financiamento
+Base XII
+
+Financiamento
 
 1 - A concessionária adoptará e executará, tanto na construção das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
 
@@ -1272,7 +1452,9 @@ c) As receitas provenientes da valorização dos recursos sólidos urbanos, nome
 
 d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
-###### Base XIII — Critérios para a fixação das tarifas
+Base XIII
+
+Critérios para a fixação das tarifas
 
 1 - As tarifas são fixadas por forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -1298,7 +1480,9 @@ e) Assegurar a recuperação dos encargos que legalmente impendam sobre a presta
 
 f) Assegurar uma adequada remuneração dos capitais próprios da concessionária.
 
-###### Base XIV — Fixação e revisão das tarifas
+Base XIV
+
+Fixação e revisão das tarifas
 
 1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
 
@@ -1310,7 +1494,9 @@ IV
 
 Exploração da concessão
 
-###### Base XV — Poderes do concedente
+Base XV
+
+Poderes do concedente
 
 1 - Além de outros poderes conferidos pelas presentes bases ou pela lei ao concedente:
 
@@ -1336,7 +1522,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - O contrato de concessão pode ainda prever outros poderes de fiscalização do concedente, designadamente o poder de apreciar certos actos de gestão da concessionária mediante a respectiva, suspensão, autorização ou aprovação.
 
-###### Base XVI — Exercício dos poderes do concedente
+Base XVI
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de tratamento de resíduos urbanos que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.
 
@@ -1346,7 +1534,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
 
-###### Base XVII — Fiscalização
+Base XVII
+
+Fiscalização
 
 1 - O concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -1354,7 +1544,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 3 - A concessionária enviará todos os anos ao membro do Governo responsável pela área do ambiente, até ao termo do 1.º semestre do ano seguinte a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais deverão respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pelo concedente.
 
-###### Base XVIII — Regulamentos de tratamento dos resíduos sólidos urbanos
+Base XVIII
+
+Regulamentos de tratamento dos resíduos sólidos urbanos
 
 1 - Os regulamentos de tratamento dos resíduos sólidos urbanos serão elaborados pela concessionária e submetidos a parecer dos municípios utilizadores, a emitir no prazo de 60 dias.
 
@@ -1362,11 +1554,15 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 3 - Os procedimentos referidos no número anterior serão igualmente aplicáveis às modificações posteriores dos mesmos regulamentos.
 
-###### Base XIX — Responsabilidade civil extracontratual
+Base XIX
+
+Responsabilidade civil extracontratual
 
 A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Base XX — Medição e facturação
+Base XX
+
+Medição e facturação
 
 1 - Os resíduos sólidos urbanos a processar pela concessionária serão pesados no ponto de entrega acordado com cada utilizador do sistema multimunicipal, devendo ser registados os valores diários para cada um deles, podendo ser consideradas as origens e características dos resíduos entregues, desde que tal se encontre previsto nos contratos de entrega de resíduos sólidos urbanos.
 
@@ -1376,15 +1572,21 @@ A partir da data de produção de efeitos do contrato de concessão, a responsab
 
 4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
 
-###### Base XXI — Concessão do sistema de recolha de resíduos sólidos urbanos
+Base XXI
+
+Concessão do sistema de recolha de resíduos sólidos urbanos
 
 1 - A concessionária não se poderá opor à transmissão da posição contratual de cada um dos utilizadores para uma concessionária do respectivo sistema municipal de recolha e transporte de resíduos sólidos urbanos.
 
 2 - Em caso de transmissão da posição contratual de utilizadores, estes respondem solidariamente com o cessionário respectivo.
 
-###### Base XXII — (Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
+Base XXII
 
-###### Base XXIII — Caução referente à exploração
+(Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
+
+Base XXIII
+
+Caução referente à exploração
 
 1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
 
@@ -1396,7 +1598,9 @@ V
 
 Construção das infra-estruturas
 
-###### Base XXIV — Utilização do domínio público
+Base XXIV
+
+Utilização do domínio público
 
 1 - A concessionária terá o direito de utilizar o domínio público do Estado ou dos municípios utilizadores, neste caso mediante afectação, para efeitos de implantação e exploração das infra-estruturas da concessão.
 
@@ -1406,13 +1610,17 @@ Construção das infra-estruturas
 
 4 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas é aplicável o disposto no Código das Expropriações, correndo por conta da concessionária as compensações a que houver lugar.
 
-###### Base XXV — Servidões e expropriações
+Base XXV
+
+Servidões e expropriações
 
 1 - A concessionária poderá constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
 
 2 - As servidões e expropriações resultam da aprovação dos respectivos projectos pelo membro do Governo ou de declaração de utilidade pública, simultânea ou subsequente, nos termos da lei aplicável, correndo por conta da concessionária as indemnizações a que derem lugar.
 
-###### Base XXVI — Prazos de construção e data para a entrada em serviço dos sistemas multimunicipais
+Base XXVI
+
+Prazos de construção e data para a entrada em serviço dos sistemas multimunicipais
 
 1 - Os contratos de concessão deverão fixar prazos em cujo termo todas as obras necessárias ao regular funcionamento do sistema deverão estar concluídas.
 
@@ -1422,13 +1630,17 @@ Construção das infra-estruturas
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionária enviará semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
 
-###### Base XXVII — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XXVII
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constitui encargo e é da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde perante o concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
 
-###### Base XXVIII — Aprovação dos projectos de construção
+Base XXVIII
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
 
@@ -1436,13 +1648,17 @@ Construção das infra-estruturas
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se pode pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Base XXIX — (Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
+Base XXIX
+
+(Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
 
 VI
 
 Sanções
 
-###### Base XXX — Multas contratuais
+Base XXX
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de (euro) 4987,98 a (euro) 249 398,95, segundo a sua gravidade, a qual será aferida em função dos riscos para a segurança do sistema e para a sanidade pública e dos prejuízos resultantes.
 
@@ -1454,7 +1670,9 @@ Sanções
 
 5 - As multas que não forem pagas voluntariamente até 30 dias após a data da notificação poderão ser levantadas da caução prestada pela concessionária.
 
-###### Base XXXI — Sequestro
+Base XXXI
+
+Sequestro
 
 1 - O concedente poderá intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -1468,13 +1686,17 @@ VII
 
 Modificação e extinção da concessão
 
-###### Base XXXII — Trespasse da concessão
+Base XXXII
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem prévia autorização do membro do Governo responsável pela área do ambiente.
 
 2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse.
 
-###### Base XXXIII — Subconcessão
+Base XXXIII
+
+Subconcessão
 
 1 - A concessionária não pode, salvo havendo consentimento por parte do membro do Governo responsável pela área do ambiente, subconceder, no todo ou em parte, a concessão.
 
@@ -1482,11 +1704,15 @@ Modificação e extinção da concessão
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXXIV — Modificação da concessão
+Base XXXIV
+
+Modificação da concessão
 
 Sem prejuízo do disposto no n.º 3 da base iii, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária.
 
-###### Base XXXV — Rescisão do contrato
+Base XXXV
+
+Rescisão do contrato
 
 1 - O concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -1512,13 +1738,17 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
 
-###### Base XXXVI — Termo do prazo de concessão
+Base XXXVI
+
+Termo do prazo de concessão
 
 1 - No termo da concessão e sem prejuízo do disposto no artigo 4.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, na redacção dada pelo [Decreto-Lei n.º 14/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2002-239267), de 26 de Janeiro, e nas bases viii e ix do presente diploma, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
 2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema.
 
-###### Base XXXVII — Resgate da concessão
+Base XXXVII
+
+Resgate da concessão
 
 1 - O concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual, e mediante aviso prévio feito à concessionária, por carta registada com aviso de recepção, com, pelo menos, um ano de antecedência.
 
@@ -1534,7 +1764,9 @@ VIII
 
 Contencioso
 
-###### Base XXXVIII — Arbitragem
+Base XXXVIII
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão poderá o Estado celebrar convenções de arbitragem.
 
@@ -1620,11 +1852,15 @@ I
 
 Disposições e princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão tem por conteúdo a concepção, a construção, a exploração e a gestão, em regime de exclusivo, de um sistema multimunicipal de captação, tratamento e abastecimento de água para consumo público.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A actividade da concessão compreende a captação de água, o respectivo tratamento e o seu fornecimento aos utilizadores.
 
@@ -1638,7 +1874,9 @@ c) O controlo dos parâmetros de qualidade da água distribuída.
 
 3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do [Decreto-Lei n.º 319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, aditado pelo [Decreto-Lei n.º 222/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2003-500058), de 20 de Setembro.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A concessionária do serviço público de captação, tratamento e abastecimento de água obriga-se a assegurar o regular, contínuo e eficiente abastecimento de água aos municípios utilizadores.
 
@@ -1650,7 +1888,9 @@ c) O controlo dos parâmetros de qualidade da água distribuída.
 
 5 - A reposição referida no número anterior poderá efectuar-se, consoante opção do concedente, ouvido o concessionário, mediante a revisão das tarifas, de acordo com os critérios mencionados na base xiv, ou pela prorrogação do prazo da concessão ou ainda por compensação directa à concessionária.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
 
@@ -1658,11 +1898,15 @@ c) O controlo dos parâmetros de qualidade da água distribuída.
 
 3 - (Revogado.)
 
-###### Base V — Características da água
+Base V
+
+Características da água
 
 A água distribuída pela concessionária deverá obedecer aos parâmetros legais da água para consumo humano.
 
-###### Base VI — Princípios aplicáveis às relações com os utilizadores
+Base VI
+
+Princípios aplicáveis às relações com os utilizadores
 
 A concessionária é obrigada, mediante contrato de fornecimento, a assegurar o abastecimento de água aos utilizadores devendo tratá-los sem discriminações ou diferenças que não resultem apenas da aplicação de critérios ou de condicionalismos legais ou regulamentares ou ainda de diversidade manifesta das condições técnicas de fornecimento.
 
@@ -1670,7 +1914,9 @@ II
 
 Dos bens e meios afectos à concessão
 
-###### Base VII — Estabelecimento da concessão
+Base VII
+
+Estabelecimento da concessão
 
 1 - Integram a concessão:
 
@@ -1682,7 +1928,9 @@ c) Todas as obras, máquinas e aparelhagem e respectivos acessórios utilizados 
 
 2 - As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos de construção.
 
-###### Base VIII — Bens e outros meios afectos à concessão
+Base VIII
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infra-estruturas.
 
@@ -1694,7 +1942,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) A totalidade das relações jurídicas que se encontrem em cada momento necessariamente conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de água ou de materiais necessários à distribuição de água para consumo.
 
-###### Base IX — Propriedade dos bens afectos à concessão
+Base IX
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam ao Estado e aos municípios.
 
@@ -1704,7 +1954,9 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 4 - (Revogado.)
 
-###### Base X — Redes de distribuição, estações de elevação e reservatórios de água pertencentes aos municípios
+Base X
+
+Redes de distribuição, estações de elevação e reservatórios de água pertencentes aos municípios
 
 1 - As redes de distribuição de água para consumo público pertencentes aos municípios utilizadores poderão, mediante prévio acordo, ser por estes cedidas à concessionária, a título gratuito ou oneroso, na parte em que sejam indispensáveis à exploração por parte desta.
 
@@ -1712,7 +1964,9 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 3 - O contrato de concessão poderá também prever, mediante prévio acordo com os municípios utilizadores, que certos órgãos e reservatórios, designadamente destinados ao armazenamento de água na ligação com os sistemas municipais, sejam construídos ou ampliados por aqueles municípios, ficando na sua propriedade e constando o seu elenco e características de mapa anexo ao contrato.
 
-###### Base XI — Inventário e relatório técnico
+Base XI
+
+Inventário e relatório técnico
 
 1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
 
@@ -1736,7 +1990,9 @@ e) A menção dos ónus ou encargos que sobre ele recaem.
 
 6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
 
-###### Base XII — Manutenção dos bens e meios afectos à concessão
+Base XII
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
@@ -1746,7 +2002,9 @@ III
 
 Condições financeiras
 
-###### Base XIII — Financiamento
+Base XIII
+
+Financiamento
 
 1 - A concessionária adoptará e executará, tanto na construção das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
 
@@ -1760,7 +2018,9 @@ c) As receitas provenientes das tarifas cobradas pela concessionária;
 
 d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
-###### Base XIV — Critérios para a fixação das tarifas
+Base XIV
+
+Critérios para a fixação das tarifas
 
 1 - As tarifas serão fixadas por forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -1786,7 +2046,9 @@ e) Assegurar a recuperação dos encargos que legalmente impendam sobre a presta
 
 f) Assegurar uma adequada remuneração dos capitais próprios da concessionária.
 
-###### Base XV — Fixação e revisão das tarifas
+Base XV
+
+Fixação e revisão das tarifas
 
 1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
 
@@ -1798,11 +2060,15 @@ IV
 
 Construção das infra-estruturas
 
-###### Base XVI — Construção das infra-estruturas
+Base XVI
+
+Construção das infra-estruturas
 
 A construção das infra-estruturas para efeitos das presentes bases compreende também, para além da sua concepção e projecto, a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e, bem assim, a constituição das necessárias servidões.
 
-###### Base XVII — Utilização do domínio público
+Base XVII
+
+Utilização do domínio público
 
 1 - A concessionária terá o direito de utilizar o domínio público do Estado ou dos municípios utilizadores, neste caso mediante afectação, para efeitos de implantação e exploração das infra-estruturas da concessão.
 
@@ -1810,13 +2076,17 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 3 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas é aplicável o disposto no Código das Expropriações, correndo por conta da concessionária as compensações a que houver lugar.
 
-###### Base XVIII — Servidões e expropriações
+Base XVIII
+
+Servidões e expropriações
 
 1 - A concessionária poderá constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
 
 2 - As servidões e expropriações resultam da aprovação dos respectivos projectos pelo membro do Governo ou de declaração de utilidade pública, simultânea ou subsequente, nos termos da lei aplicável, correndo por conta da concessionária as indemnizações a que derem lugar.
 
-###### Base XIX — Prazos de construção e data limite para a entrada em serviço dos sistemas multimunicipais
+Base XIX
+
+Prazos de construção e data limite para a entrada em serviço dos sistemas multimunicipais
 
 1 - Os contratos de concessão deverão fixar prazos em cujo termo todas as obras necessárias ao regular abastecimento de água deverão estar concluídas.
 
@@ -1826,13 +2096,17 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionária enviará semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
 
-###### Base XX — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XX
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constitui encargo e é da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde perante o concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
 
-###### Base XXI — Aprovação dos projectos de construção
+Base XXI
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
 
@@ -1840,7 +2114,9 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se poderá pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Base XXII — Prazos a observar na construção
+Base XXII
+
+Prazos a observar na construção
 
 A concessionária assegurará que os trabalhos sejam efectuados nos prazos fixados.
 
@@ -1848,7 +2124,9 @@ V
 
 Relações com o concedente
 
-###### Base XXIII — Poderes do concedente
+Base XXIII
+
+Poderes do concedente
 
 1 - Além de outros poderes conferidos pelas presentes bases ou pela lei ao concedente:
 
@@ -1874,7 +2152,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - O contrato de concessão poderá ainda prever outros poderes de fiscalização do concedente, designadamente o poder de apreciar certos actos de gestão da concessionária mediante a respectiva suspensão, autorização ou aprovação.
 
-###### Base XXIV — Exercício dos poderes do concedente
+Base XXIV
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente, com a faculdade de delegação em comissão de acompanhamento da concessão.
 
@@ -1884,7 +2164,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
 
-###### Base XXV — Fiscalização
+Base XXV
+
+Fiscalização
 
 1 - O concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -1892,11 +2174,15 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 3 - A concessionária enviará todos os anos ao membro do Governo responsável pela área do ambiente, até ao termo do 1.º semestre do ano seguinte a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais deverão respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pelo concedente.
 
-###### Base XXVI — Responsabilidade civil extracontratual
+Base XXVI
+
+Responsabilidade civil extracontratual
 
 A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Base XXVII — Caução referente à exploração
+Base XXVII
+
+Caução referente à exploração
 
 1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
 
@@ -1910,7 +2196,9 @@ VI
 
 Relações com os utilizadores
 
-###### Base XXVIII — Obrigação de fornecimento
+Base XXVIII
+
+Obrigação de fornecimento
 
 1 - A concessionária obriga-se a fornecer a cada um dos utilizadores, mediante contrato, a água necessária para alimentar os respectivos sistemas municipais, com ressalva das situações de força maior ou de caso imprevisto ou razões técnicas julgadas atendíveis pelo membro do Governo responsável pela área do ambiente.
 
@@ -1922,7 +2210,9 @@ Relações com os utilizadores
 
 5 - Os utilizadores podem recusar o pagamento dos valores mínimos no caso de se verificar o atraso na realização dos investimentos necessários à prestação do serviço no respectivo território por motivo que seja imputável à concessionária.
 
-###### Base XXIX — Ajustamentos extraordinários da oferta de água ao consumo
+Base XXIX
+
+Ajustamentos extraordinários da oferta de água ao consumo
 
 1 - Extraordinariamente, os utilizadores podem pedir um volume de água superior ao máximo contratado, podendo a concessionária satisfazê-los desde que não ponha em causa o consumo dos outros municípios utilizadores do mesmo sistema multimunicipal.
 
@@ -1930,13 +2220,17 @@ Relações com os utilizadores
 
 3 - No caso de ser necessário racionar a água fornecida pela concessionária, o valor mínimo a que se referem os n.os 2 e 3 da base anterior servirá de referência para a redução proporcional o fornecimento de água aos utilizadores.
 
-###### Base XXX — Acordos entre utilizadores do mesmo sistema multimunicipal
+Base XXX
+
+Acordos entre utilizadores do mesmo sistema multimunicipal
 
 1 - O utilizador de um sistema multimunicipal pode acordar com outro utilizador do mesmo sistema que a concessionária forneça àquele um volume de água correspondente ao valor máximo deste.
 
 2 - A concessionária só não agirá em conformidade com a vontade dos utilizadores concordes, desde que existam causas técnicas que impossibilitem ou dificultem substancialmente a execução desse acordo.
 
-###### Base XXXI — Medição e facturação da água fornecida
+Base XXXI
+
+Medição e facturação da água fornecida
 
 1 - A água fornecida será medida à entrada dos reservatórios de chegada a cada utilizador do sistema, excepto se outros pontos de entrega forem acordados entre as partes.
 
@@ -1946,7 +2240,9 @@ Relações com os utilizadores
 
 4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
 
-###### Base XXXII — Regulamento de exploração e serviço
+Base XXXII
+
+Regulamento de exploração e serviço
 
 1 - Os regulamentos de exploração e serviço serão elaborados pela concessionária e submetidos a parecer dos municípios utilizadores, a emitir no prazo de 60 dias.
 
@@ -1956,7 +2252,9 @@ Relações com os utilizadores
 
 4 - Os utilizadores obrigam-se a respeitar os regulamentos de exploração e serviço que a concessionária emane, desde que devidamente aprovados.
 
-###### Base XXXIII — Ligação técnica entre o sistema multimunicipal e os sistemas municipais
+Base XXXIII
+
+Ligação técnica entre o sistema multimunicipal e os sistemas municipais
 
 1 - A concessionária assegurará as condições técnicas necessárias à ligação entre o sistema multimunicipal e os diversos sistemas municipais da área correspondente ao seu sistema multimunicipal.
 
@@ -1964,23 +2262,31 @@ Relações com os utilizadores
 
 3 - Os encargos com a ligação técnica entre os dois sistemas referidos nos números anteriores serão facturados autonomamente pela concessionária a cada um dos utilizadores.
 
-###### Base XXXIV — Reparações
+Base XXXIV
+
+Reparações
 
 A concessionária é responsável pela conservação e reparação dos meios necessários à ligação técnica dos sistemas multimunicipal e municipal.
 
-###### Base XXXV — Concessão do sistema municipal do utilizador
+Base XXXV
+
+Concessão do sistema municipal do utilizador
 
 1 - A concessionária não se poderá opor à transmissão da posição contratual de cada um dos utilizadores para uma concessionária do respectivo sistema municipal de tratamento e distribuição de água para consumo público.
 
 2 - Em caso de transmissão da posição contratual de utilizadores, estes respondem solidariamente com o cessionário respectivo.
 
-###### Base XXXVI — (Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
+Base XXXVI
+
+(Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
 
 VII
 
 Sanções
 
-###### Base XXXVII — Multas contratuais
+Base XXXVII
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de (euro) 4987,98 a (euro) 249 398,95, segundo a sua gravidade a qual será aferida em função dos riscos para a segurança do sistema e para a sanidade pública e dos prejuízos resultantes.
 
@@ -1992,7 +2298,9 @@ Sanções
 
 5 - As multas que não forem pagas voluntariamente até 30 dias após a data da notificação poderão ser levantadas da caução prestada pela concessionária.
 
-###### Base XXXVIII — Sequestro
+Base XXXVIII
+
+Sequestro
 
 1 - O concedente poderá intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometerem a regularidade da exploração.
 
@@ -2006,13 +2314,17 @@ VIII
 
 Modificação e extinção da concessão
 
-###### Base XXXIX — Trespasse da concessão
+Base XXXIX
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem prévia autorização do membro do Governo responsável pela área do ambiente.
 
 2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse.
 
-###### Base XL — Subconcessão
+Base XL
+
+Subconcessão
 
 1 - A concessionária não pode, salvo havendo consentimento por parte do membro do Governo responsável pela área do ambiente, subconceder no todo ou em parte, a concessão.
 
@@ -2020,11 +2332,15 @@ Modificação e extinção da concessão
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XLI — Modificação da concessão
+Base XLI
+
+Modificação da concessão
 
 Sem prejuízo do disposto no n.º 3 da base iii, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária.
 
-###### Base XLII — Rescisão do contrato
+Base XLII
+
+Rescisão do contrato
 
 1 - O concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -2050,13 +2366,17 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
 
-###### Base XLIII — Termo do prazo de concessão
+Base XLIII
+
+Termo do prazo de concessão
 
 1 - No termo da concessão e sem prejuízo do disposto no [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, no artigo 4.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, na redacção dada pelo [Decreto-Lei n.º 14/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2002-239267), de 26 de Janeiro, e nas bases ix e x das presentes bases, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
 2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema.
 
-###### Base XLIV — Resgate da concessão
+Base XLIV
+
+Resgate da concessão
 
 1 - O concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual, mediante aviso prévio feito à concessionária, por carta registada com aviso de recepção, com, pelo menos, um ano de antecedência.
 
@@ -2072,7 +2392,9 @@ IX
 
 Contencioso
 
-###### Base XLV — Arbitragem
+Base XLV
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão poderá o Estado celebrar convenções de arbitragem.
 
@@ -2156,11 +2478,15 @@ I
 
 Disposições e princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão de serviço público tem por conteúdo a exploração e a gestão, em regime exclusivo, de um sistema multimunicipal de recolha, tratamento e rejeição de efluentes.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A actividade da concessão compreende a recolha de efluentes canalizados pelos serviços municipais competentes e o respectivo tratamento e rejeição.
 
@@ -2174,7 +2500,9 @@ c) O controlo dos parâmetros sanitários dos efluentes tratados e dos meios rec
 
 3 - A concessionária pode exercer outras actividades para além daquelas que constituem o objecto da concessão desde que autorizadas pelo concedente, nos termos previstos nos n.os 8 e 9 do artigo 6.º do [Decreto-Lei n.º 162/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1996-241638), de 4 de Setembro, aditado pelo [Decreto-Lei n.º 223/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2003-500055), de 20 de Setembro.
 
-###### Base III — Regime de concessão
+Base III
+
+Regime de concessão
 
 1 - A concessionária do serviço público de recolha, tratamento e rejeição de efluentes obriga-se a assegurar, de forma regular, contínua e eficiente, a recolha, tratamento e rejeição de efluentes canalizados pelos municípios utilizadores cujo destino seja o sistema.
 
@@ -2186,7 +2514,9 @@ c) O controlo dos parâmetros sanitários dos efluentes tratados e dos meios rec
 
 5 - A reposição referida no número anterior terá lugar nos termos a determinar no contrato de concessão, que poderá integrar, por opção do concedente, ouvida a concessionária, a prorrogação do prazo da concessão, a compensação directa à concessionária ou ainda a revisão das tarifas, nos termos dos critérios mencionados na base xiv, desde que a concessionária dê o seu acordo.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - O contrato de concessão da gestão dos serviços de titularidade estatal tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração.
 
@@ -2194,11 +2524,15 @@ c) O controlo dos parâmetros sanitários dos efluentes tratados e dos meios rec
 
 3 - (Revogado pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
 
-###### Base V — Características dos efluentes
+Base V
+
+Características dos efluentes
 
 O contrato de concessão fixará as obrigações da concessionária quanto às características da recolha, tratamento e rejeição dos efluentes.
 
-###### Base VI — Princípios aplicáveis às relações com utilizadores
+Base VI
+
+Princípios aplicáveis às relações com utilizadores
 
 1 - A concessionária é obrigada, mediante contrato, a assegurar aos utilizadores a recolha, tratamento e rejeição dos efluentes que estes lhe entreguem.
 
@@ -2210,7 +2544,9 @@ II
 
 Dos bens e meios afectos à concessão
 
-###### Base VII — Estabelecimento da concessão
+Base VII
+
+Estabelecimento da concessão
 
 1 - Integram a concessão:
 
@@ -2222,7 +2558,9 @@ c) Todas as obras, máquinas e aparelhagens e respectivos acessórios utilizados
 
 2 - As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos de construção.
 
-###### Base VIII — Bens e outros afectos à concessão
+Base VIII
+
+Bens e outros afectos à concessão
 
 1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infra-estruturas.
 
@@ -2234,7 +2572,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) A totalidade das relações jurídicas que se encontrem em cada momento necessariamente conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de materiais.
 
-###### Base IX — Propriedade dos bens afectos à concessão
+Base IX
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão, e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam ao Estado e aos municípios.
 
@@ -2244,7 +2584,9 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 4 - (Revogado pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
 
-###### Base X — Redes de colectores e outros órgãos pertencentes aos municípios
+Base X
+
+Redes de colectores e outros órgãos pertencentes aos municípios
 
 1 - As redes de colectores de recolha de efluentes pertencentes aos municípios utilizadores poderão, mediante prévio acordo, ser por estes cedidas à concessionária, a título gratuito ou oneroso, na parte em que sejam indispensáveis à exploração por parte desta.
 
@@ -2252,7 +2594,9 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 3 - O contrato de concessão poderá prever, mediante prévio acordo com os municípios utilizadores, que certos órgãos, designadamente destinados à recolha e rejeição de efluentes, sejam construídos ou ampliados por aqueles municípios, ficando na sua propriedade e constando o seu elenco e características de um anexo ao contrato.
 
-###### Base XI — Inventário e relatório técnico
+Base XI
+
+Inventário e relatório técnico
 
 1 - A concessionária deve elaborar e manter actualizado um inventário dos bens afectos à concessão.
 
@@ -2276,7 +2620,9 @@ e) A menção dos ónus ou encargos que sobre ele recaem.
 
 6 - Os documentos a enviar ao concedente e à entidade reguladora, nos termos dos n.os 3 e 4, são objecto de certificação por auditor independente, o qual não pode certificar mais de dois documentos consecutivos.
 
-###### Base XII — Manutenção dos bens e meios afectos à concessão
+Base XII
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
@@ -2286,7 +2632,9 @@ III
 
 Condições financeiras
 
-###### Base XIII — Financiamento
+Base XIII
+
+Financiamento
 
 1 - A concessionária adoptará e executará, tanto na construção das infra-estruturas como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão, que dele faz parte integrante.
 
@@ -2302,7 +2650,9 @@ d) Outras fontes de financiamento, designadamente empréstimos.
 
 3 - O contrato de concessão integrará a previsão das condições aplicáveis às comparticipações financeiras e subsídios referidos na alínea b) do número anterior.
 
-###### Base XIV — Critérios para a fixação das tarifas ou valores garantidos
+Base XIV
+
+Critérios para a fixação das tarifas ou valores garantidos
 
 1 - As tarifas ou valores garantidos serão fixados por forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema, o equilíbrio económico-financeiro e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -2328,7 +2678,9 @@ e) Assegurar a recuperação dos encargos que legalmente impendam sobre a presta
 
 f) Assegurar uma adequada remuneração dos capitais próprios da concessionária.
 
-###### Base XV — Fixação e revisão das tarifas ou valores garantidos
+Base XV
+
+Fixação e revisão das tarifas ou valores garantidos
 
 1 - O contrato de concessão deve incluir uma previsão da trajectória tarifária para o período da concessão, expressa a preços constantes do ano de outorga do contrato, tendo em atenção os critérios definidos na base anterior.
 
@@ -2340,11 +2692,15 @@ IV
 
 Construção das infra-estruturas
 
-###### Base XVI — Construção das infra-estruturas
+Base XVI
+
+Construção das infra-estruturas
 
 A construção das infra-estruturas para efeito das presentes bases compreende, além da concepção, o projecto, a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e a constituição das servidões necessárias.
 
-###### Base XVII — Utilização do domínio público
+Base XVII
+
+Utilização do domínio público
 
 1 - A concessionária terá o direito de utilizar o domínio público do Estado ou dos municípios utilizadores, neste caso mediante afectação, para efeitos de implantação e exploração das infra-estruturas da concessão.
 
@@ -2352,7 +2708,9 @@ A construção das infra-estruturas para efeito das presentes bases compreende, 
 
 3 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas, é aplicado o disposto no Código das Expropriações, correndo por conta da concessionária as compensações respeitantes à parte do sistema implantada sob sua direcção.
 
-###### Base XVIII — Servidões e expropriações
+Base XVIII
+
+Servidões e expropriações
 
 1 - A concessionária poderá constituir servidões e requerer declarações de utilidade pública para efeito das expropriações necessárias à implantação e exploração das infra-estruturas.
 
@@ -2360,7 +2718,9 @@ A construção das infra-estruturas para efeito das presentes bases compreende, 
 
 3 - A aprovação do projecto pelo membro do Governo responsável pela área do ambiente precede a declaração de utilidade pública.
 
-###### Base XIX — Prazos de construção e data limite para a entrada em serviço do sistema multimunicipal
+Base XIX
+
+Prazos de construção e data limite para a entrada em serviço do sistema multimunicipal
 
 1 - O contrato de concessão deverá fixar prazos em cujo termo todas as obras nele previstas deverão estar concluídas.
 
@@ -2370,13 +2730,17 @@ A construção das infra-estruturas para efeito das presentes bases compreende, 
 
 4 - Durante toda a fase de construção das infra-estruturas, a concessionária enviará semestralmente ao concedente e à entidade reguladora um relatório sobre o estado de avanço das obras.
 
-###### Base XX — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XX
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constitui encargo, sendo responsabilidade da concessionária, a concepção, o projecto, a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde perante o concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
 
-###### Base XXI — Aprovação dos projectos de construção
+Base XXI
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, devem ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da entidade reguladora e demais entidades competentes.
 
@@ -2384,7 +2748,9 @@ A construção das infra-estruturas para efeito das presentes bases compreende, 
 
 3 - Sem prejuízo de prazos previstos em procedimentos especiais, a aprovação referida no n.º 1 considera-se concedida caso não seja expressamente recusada no prazo de 60 dias, devendo previamente ser submetida a parecer não vinculativo da câmara municipal territorialmente competente, a qual se poderá pronunciar nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Base XXII — Prazos a observar na construção
+Base XXII
+
+Prazos a observar na construção
 
 A concessionária assegurará que os trabalhos sejam efectuados nos prazos fixados.
 
@@ -2392,7 +2758,9 @@ V
 
 Relações com o concedente
 
-###### Base XXIII — Poderes do concedente
+Base XXIII
+
+Poderes do concedente
 
 1 - O concedente, além de outros poderes conferidos pelas presentes bases ou pela lei, tem os seguintes poderes de tutela:
 
@@ -2418,7 +2786,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - O contrato de concessão poderá ainda prever outros poderes de fiscalização do concedente, designadamente o poder de apreciar certos actos de gestão da concessionária mediante a respectiva suspensão, autorização ou aprovação.
 
-###### Base XXIV — Exercício dos poderes do concedente
+Base XXIV
+
+Exercício dos poderes do concedente
 
 1 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de recolha tratamento e rejeição de efluentes que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.
 
@@ -2428,7 +2798,9 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - Os actos da concessionária dependentes de autorização ou aprovação do concedente consideram-se autorizados ou aprovados na falta de decisão proferida no prazo de 60 dias a contar da data de apresentação do pedido de autorização ou aprovação, salvo prazo diferente estabelecido nas presentes bases.
 
-###### Base XXV — Fiscalização
+Base XXV
+
+Fiscalização
 
 1 - O concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -2438,11 +2810,15 @@ ii) Os orçamentos de exploração, de investimento e financeiros, devidamente c
 
 4 - As condições financeiras da concessão estão ainda sujeitas a fiscalização pela Inspecção-Geral de Finanças, nos termos previstos nos n.os 1 e 2 desta base, sem prejuízo dos poderes gerais que lhe são atribuídos por lei.
 
-###### Base XXVI — Responsabilidade civil extracontratual
+Base XXVI
+
+Responsabilidade civil extracontratual
 
 A partir da data de produção de efeitos do contrato de concessão, a responsabilidade civil extracontratual da concessionária deve estar coberta por seguro, cujo capital mínimo e condições mínimas são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Base XXVII — Caução referente à exploração
+Base XXVII
+
+Caução referente à exploração
 
 1 - No termo da concessão, a concessionária deve assegurar adequados níveis de operacionalidade e conservação dos bens e meios afectos à prestação dos serviços.
 
@@ -2456,7 +2832,9 @@ VI
 
 Relações com os utilizadores
 
-###### Base XXVIII — Obrigação de recolha
+Base XXVIII
+
+Obrigação de recolha
 
 1 - A concessionária obriga-se a recolher de cada um dos utilizadores, mediante contrato, os efluentes provenientes dos respectivos sistemas municipais, com ressalva das situações previstas no contrato de concessão e no próprio contrato de recolha e, designadamente, das situações respeitantes a casos específicos de efluentes industriais que, pela sua especial agressividade ou toxicidade, ponham em causa a conservação do próprio sistema.
 
@@ -2470,7 +2848,9 @@ Relações com os utilizadores
 
 6 - Os utilizadores podem recusar o pagamento dos valores mínimos, no caso de se verificar o atraso na realização dos investimentos necessários à prestação do serviço no respectivo território por motivo que seja imputável à concessionária.
 
-###### Base XXIX — Medição e factura dos efluentes
+Base XXIX
+
+Medição e factura dos efluentes
 
 1 - Os serviços prestados pela concessionária devem ser objecto de medição para efeitos de facturação, salvo disposições transitórias previstas contratualmente, e ser facturados mensalmente, com um prazo de pagamento de 60 dias.
 
@@ -2480,7 +2860,9 @@ Relações com os utilizadores
 
 4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e facturação.
 
-###### Base XXX — Regulamentos de exploração e serviço
+Base XXX
+
+Regulamentos de exploração e serviço
 
 1 - Os regulamentos de exploração e serviço serão elaborados pela concessionária e submetidos a parecer dos municípios utilizadores, a emitir no prazo de 60 dias.
 
@@ -2490,7 +2872,9 @@ Relações com os utilizadores
 
 4 - Os regulamentos de exploração e serviço que a concessionária emane vinculam os utilizadores, desde que devidamente aprovados.
 
-###### Base XXXI — Ligação técnica entre o sistema multimunicipal e os sistemas municipais
+Base XXXI
+
+Ligação técnica entre o sistema multimunicipal e os sistemas municipais
 
 1 - A concessionária assegurará as condições técnicas necessárias à ligação entre o sistema multimunicipal e os diversos sistemas municipais da área correspondente ao seu sistema multimunicipal.
 
@@ -2498,23 +2882,31 @@ Relações com os utilizadores
 
 3 - Os encargos com a ligação técnica entre os dois sistemas referidos nos números anteriores serão facturados pela concessionária a cada um dos utilizadores.
 
-###### Base XXXII — Reparações
+Base XXXII
+
+Reparações
 
 A concessionária é responsável pela conservação e reparação dos meios necessários à ligação técnica dos sistemas multimunicipais e municipal.
 
-###### Base XXXIII — Concessão do sistema municipal do utilizador
+Base XXXIII
+
+Concessão do sistema municipal do utilizador
 
 1 - A concessionária não poderá opor-se à transmissão da posição contratual de um ou mais utilizadores para uma concessionária do respectivo sistema municipal de recolha, tratamento e rejeição de efluentes.
 
 2 - Em caso de transmissão da posição contratual dos utilizadores, estes respondem solidariamente com o concessionário respectivo.
 
-###### Base XXXIV — (Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
+Base XXXIV
+
+(Revogada pelo Decreto-Lei n.º 195/2009, de 20 de Agosto.)
 
 VII
 
 Sanções
 
-###### Base XXXV — Multas contratuais
+Base XXXV
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de (euro) 4987,97 a (euro) 249 398,95, segundo a sua gravidade, a qual será aferida em função dos riscos para segurança do sistema e regularidade da exploração e em função dos prejuízos resultantes.
 
@@ -2526,7 +2918,9 @@ Sanções
 
 5 - As multas que não forem pagas voluntariamente até 30 dias após a data da notificação poderão ser levantadas da caução prestada pela concessionária.
 
-###### Base XXXVI — Sequestro
+Base XXXVI
+
+Sequestro
 
 1 - O concedente poderá intervir na exploração do serviço concedido sempre que se verifique, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização, funcionamento ou estado geral das instalações e do equipamento susceptíveis de comprometerem a regularidade da exploração.
 
@@ -2540,7 +2934,9 @@ VIII
 
 Modificação e extensão da concessão
 
-###### Base XXXVII — Trespasse da concessão
+Base XXXVII
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem autorização do membro do Governo responsável pela área do ambiente.
 
@@ -2548,7 +2944,9 @@ Modificação e extensão da concessão
 
 3 - O trespasse não pode ser efectuado para entidade que não satisfaça as condições do n.º 3 do artigo 4.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, com a redacção dada pelo [Decreto-Lei n.º 372/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1993-664316), de 29 de Outubro.
 
-###### Base XXXVIII — Subconcessão
+Base XXXVIII
+
+Subconcessão
 
 1 - A concessionária não pode subconceder a concessão, no todo ou em parte, sem autorização do membro do Governo responsável pela área do ambiente.
 
@@ -2556,11 +2954,15 @@ Modificação e extensão da concessão
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXXIX — Modificação da concessão
+Base XXXIX
+
+Modificação da concessão
 
 Sem prejuízo do disposto no n.º 3 da base iii, o contrato de concessão apenas pode ser alterado por acordo entre o concedente e a concessionária.
 
-###### Base XL — Rescisão do contrato
+Base XL
+
+Rescisão do contrato
 
 1 - O concedente poderá dar por finda a concessão mediante a rescisão do contrato quando tenha ocorrido qualquer dos actos seguintes:
 
@@ -2586,13 +2988,17 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
 
-###### Base XLI — Termo do prazo de concessão
+Base XLI
+
+Termo do prazo de concessão
 
 1 - No termo da concessão e sem prejuízo do disposto no [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, no artigo 4.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, na redacção dada pelo [Decreto-Lei n.º 14/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2002-239267), de 26 de Janeiro, e nas bases ix e x das presentes bases, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
 2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, bem como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema.
 
-###### Base XLII — Resgate da concessão
+Base XLII
+
+Resgate da concessão
 
 1 - O concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos metade do prazo contratual, mediante aviso prévio feito à concessionária por carta registada com aviso de recepção com, pelo menos, um ano de antecedência.
 
@@ -2608,6 +3014,8 @@ IX
 
 Contencioso
 
-###### Base XLIII — Arbitragem
+Base XLIII
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão poderá o Estado celebrar convenções de arbitragem.

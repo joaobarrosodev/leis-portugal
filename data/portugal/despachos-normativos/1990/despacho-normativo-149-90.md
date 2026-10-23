@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/149-1990-564669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 225a4376161b76291dceb11dc102e30a4f51408383488161f1f0f6647283822a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42c2e9eb225a73fc8b58007b2cbe08b7809e6a46e10328eeb413329cf3953dbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fruto
+- Produto Hortícola
+- Restituição a Exportação
+relationships:
+- type: cites
+  target: pt:dre:547595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547599:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:36Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +96,7 @@ validation:
 
 1 - Nos termos do disposto no n.º 5.º da [Portaria n.º 814/89](https://diariodarepublica.pt/dr/detalhe/portaria/814-1989-547595), de 14 de Setembro, os produtos da Organização Nacional do Mercado para o sector das frutas e produtos hortícolas frescos aos quais será concedida uma restituição à exportação e respectivos montantes passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27300/48324832.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27300/48324832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27300/48324832.pdf)
 
 2 - Para beneficiarem das restituições à exportação indicadas no número anterior, os exportadores deverão observar os procedimentos instituídos pela [Portaria n.º 814/89](https://diariodarepublica.pt/dr/detalhe/portaria/814-1989-547595), de 14 de Setembro.
 

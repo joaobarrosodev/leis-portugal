@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/1999/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1bca799687b7caebcbb2fa2ea8dd1fe518fa4beb5c570a22cdd6f3f4c17aa32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8c3dffbf1e1c17572b77c86005780d4208ce945909efcef59adb0aaa2292ab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,45 @@ reuse:
 subjects:
 - Defensor do Contribuinte
 - Definição de Competências
+- Instituto de Informática
 - Ministério das Finanças
 - Ministro das Finanças
-- Instituto de Informática
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:608072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603511:por
+  label: "Alterado o art. 10º do Dec Lei 158/96 de 03-Set na redacção do presente diploma, pelo DEC LEI.289/2001.2001.11.13.MF\
+    \ DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-2001-603511
+  date: '2001-11-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608072:por
+  label: "Revogado o Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção do presente diploma, pelo DEC LEI.47/2005.24.02.2005.MFAP,\
+    \ DR.IS-A [39] de 24.02.2005, nos termos do seu art. 35.º e 38.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2005-608072
+  date: '2005-02-24'
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:55Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +140,9 @@ b) Conselho de Directores-Gerais (CDG).
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As atribuições cometidas ao Ministério das Finanças são prosseguidas pelas seguintes entidades:
 
@@ -142,7 +160,9 @@ f) Instituto de Informática.
 
 2 - As entidades referidas no número anterior estão sujeitas a tutela de legalidade de todos os seus actos e a tutela de mérito quanto aos actos que digam respeito à sua própria organização e funcionamento interno, em termos inspectivos, revogatórios e substitutivos, com fundamento na ilegalidade ou no demérito dos seus actos, de acordo com o fim da tutela.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Sem prejuízo dos poderes de tutela, estão sob a superintendência do Ministro das Finanças, a qual se exerce através do poder de orientação da respectiva actividade, através da adopção de directivas e de recomendações, as seguintes entidades:
 
@@ -156,7 +176,9 @@ d) Caixa Geral de Aposentações (CGA).
 
 e) Instituto de Informática.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +200,9 @@ e) Instituto de Informática.
 
 10 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -220,12 +244,12 @@ Defensor do Contribuinte
 
 Visto e aprovado Conselho de Ministros de 17 de Dezembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.
 
-**Promulgado em 18 de Janeiro de 1999.**
+Promulgado em 18 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 1999.**
+Referendado em 19 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 49/1994, 4º Suplemento, Série I-B de 1994-02-28
   number: '49'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 936-(16) a 936-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/049b04/00160017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/114-a/1994/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/114-a-1994-425715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c648d07884b64eec8386094c39ae3b43a9966cc61378d099382b4b0c525df9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88bb1814908ec3ba0401f2615f6db62b637294f74cba4c6e49df188d0633dfbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Árvore
-- Gado Caprino
 - CEE
 - Cereal
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Gado Caprino
 - Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Regulamento CE
 - Sistema Integrado de Gestão e Controlo
 relationships:
@@ -82,6 +82,11 @@ relationships:
   target: pt:dre:141197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O PRAZO PREVISTO NA AL D) DO NUM 4 PELO DN 412/94, DE 4-MAI DR.IS-B [123] DE 27-MAI/1994.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-27'
 - type: cites
   target: celex:31968R0805
   label: null
@@ -106,16 +111,26 @@ relationships:
   target: celex:31992R3887
   label: null
   source: http://data.europa.eu/eli/reg/1992/3887/oj
+- type: repealed_by
+  target: pt:dre:141197:por
+  label: "Revogado pelo DN.5/95.28.01.1995.MA, DR.IS-B [24] de 28.01.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-1995-141197
+  date: '1995-01-28'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DN 5/95 DE 21-DEZ 1994 DR.IS-B [24] DE 28/JAN/1995.\0 28/JAN/1995."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:13Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/270/2000/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2000-622303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3e0625eed0870a495c7e5a83595be5551f3cdec619bb96178e98d9899ee3237
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c258b4648132428c00b4c14951e6fe175d93fa75b8293a6cd9b505f3d042274b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Imóveis
-- Ministério da Administração Interna
-- Propriedade Horizontal
-- Habitação Social
+- Arrendamento Urbano para Habitação
 - GNR
+- Habitação
+- Habitação Social
+- Ministério da Administração Interna
 - Património do Estado
 - Preço de Venda
 - Prédio Devoluto
-- Registo Predial
-- Habitação
-- Serviços Sociais
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
+- Propriedade Horizontal
+- Registo Predial
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:456492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 2.º, 6.º, 11.º e 14.º pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/262/1999/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/262/1999/07/08/p/dre
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374995:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:23Z'
   warnings: []
   errors: []
 ---
@@ -268,15 +281,15 @@ O presente diploma entra em vigor a 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Nuno Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
 
-**Promulgado em 24 de Outubro de 2000.**
+Promulgado em 24 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Outubro de 2000.**
+Referendado em 26 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Tabela a que se refere o artigo 8.º, n.º 7
 

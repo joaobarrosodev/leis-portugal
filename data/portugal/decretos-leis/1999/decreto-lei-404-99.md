@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/404/1999/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1999-666878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65a1d4cc283a62256f3625698f3ec177ffbc9a6ad1c142a232b40ef1034214bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 806d4820e1262c61385bc92772d5864cd5da7002f11e577dc2380d5eed3d4c16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,25 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Saúde do VALE do AVE
 - Escola Superior de Saúde do VALE do Sousa
+- Estabelecimento de Ensino
 - Instituto Politécnico de Saúde do Norte
 - Interesse Público
-- Estabelecimento de Ensino
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:172266452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172266452:por
+  label: Alterado a partir de 05-10-2021, e com efeitos a partir da data de início do ano letivo de 2021-2022, o reconhecimento
+    de interesse público do CESPU - Instituto Politécnico de Saúde do Norte, que passa a denominar-se Instituto Politécnico
+    de Saúde do Norte - CESPU. pelo(a) Decreto-Lei n.º 79/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2021-172266452
+  date: '2021-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -103,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675650:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:02Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +186,12 @@ b) A Escola Superior de Saúde do Vale do Sousa, reconhecida de interesse públi
 
 Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1999. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 29 de Setembro de 1999.**
+Promulgado em 29 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

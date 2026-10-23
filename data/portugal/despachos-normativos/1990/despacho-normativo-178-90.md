@@ -46,40 +46,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/178-1990-564040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0ded145491bf16ae79177548c22e39016b40c6a17ac588c7ef885daf1d4fbbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6acfb4887717d2fb346729d07fc945ccf043c0cff70421eed8bbbff3401fac13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Superior
+- Estatuto
+- Universidade dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:572665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572665:por
+  label: "Homologadas: a alteração dos arts. 18º, 19º, 24º, 37º, 38º, 41º, 43º, e 88º, da epígrafe da subsec. II da sec. II\
+    \ do cap. IV do tit. II, do nº 1 do art. 46º; a renumeração das subsecs. IV e V da sec. II do cap. II do tit. II – que\
+    \ passam a constituir as subsecs. V e VI; a reorganização do cap. III do tit. II; a substituição das ocorrências dos substantivos\
+    \ departamento ou departamentos pelos sintagmas “unidade orgânica” ou “unidades orgânicas”, respectivamente; a supressão\
+    \ do art. 22º; o aditamento da subsec. IV - integrando os arts. 55º-A, 55º-B e 55º-C - à sec. II do cap. II do tit. II,\
+    \ e do art. 73º.-A, todos dos Estatutos da Universidade dos Açores pelo DN.16/2005.17.02.2005.MCIES, DR.IS-B [53] de 16.03.2005,\
+    \ que os republica na íntegra\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/16-2005-572665
+  date: '2005-02-17'
+- type: cites
+  target: pt:dre:334168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662290:por
+  label: null
+  source: null
 article_structure:
   article_count: 117
   section_count: 55
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:21Z'
   warnings: []
   errors: []
 ---
@@ -1298,4 +1345,4 @@ Os presentes Estatutos entram em vigor no prazo de 10 dias a contar da data da s
 
 Do ANEXO I ao ANEXO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/29700/52265240.pdf))](https://files.diariodarepublica.pt/1s/1990/12/29700/52265240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/29700/52265240.pdf)

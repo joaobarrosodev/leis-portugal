@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 75/2022, 2º Suplemento, Série I de 2022-04-18
   number: '75'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8-(14) a 8-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07502/0001400017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30-d/2022/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-d-2022-182213909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 315536a4d0d857e01418a2c0e07667ea216b72e0e8e4f57d597bfd23cfd884c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142a7b70fbc4d3eece79dd4aada02c9065006189decc864c8054d779e341b397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Pobreza
-- Financiamento
-- Empresa
 - Cidadão Nacional
 - Cobrança de Impostos
-- Transporte Rodoviário
-- Contribuições da Segurança Social
-- Definição de Competências
 - Combustível
-- Execução Fiscal
-- Pagamento
-- Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Contribuições da Segurança Social
 - Contribuições e Impostos
+- Definição de Competências
+- Empresa
+- Execução Fiscal
+- Execução por Dívidas
+- Família
+- Financiamento
+- Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Imposto Único de Circulação
+- Insuficiência Económica
+- IRC
 - IRS
 - IVA
-- Insuficiência Económica
-- Imposto Único de Circulação
-- Veículo
+- Pagamento
 - Pagamento a Prestações
 - Pagamento de Contribuições
-- Transporte de Mercadorias
-- Prazo
-- IRC
-- Processo Tributário
 - Pequenas e Médias Empresas
-- Execução por Dívidas
 - PME
+- Pobreza
+- Prazo
+- Processo Tributário
 - Segurança Social
 - Subsídio
 - Trabalhador Independente
+- Transporte de Mercadorias
+- Transporte Rodoviário
 - Tributação
 - Ucrânia
+- Veículo
 - Veículo de Aluguer
 relationships:
 - type: cites
@@ -108,16 +108,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/28-a/2022/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28-a/2022/03/25/p/dre
+- type: cites
+  target: pt:dre:176800374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181066898:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:02Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +214,9 @@ f) O subsídio social de desemprego.
 
 3 - Ainda para efeitos da alínea b) do n.º 1, são contemplados os agregados familiares em que uma das crianças é titular de abono de família do 1.º ou 2.º escalão e em que o apuramento do rendimento de referência do mesmo agregado corresponde a situações de pobreza extrema segundo os parâmetros definidos nos termos do Inquérito para as Condições de Vida e Rendimento, do Instituto Nacional de Estatística.
 
-###### Artigo 6.º — Pagamento
+Artigo 6.º
+
+Pagamento
 
 O valor do apoio extraordinário é de (euro) 60,00 por agregado familiar e é pago pela segurança social:
 
@@ -238,12 +248,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de abril de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 14 de abril de 2022.**
+Promulgado em 14 de abril de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de abril de 2022.**
+Referendado em 18 de abril de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115235058

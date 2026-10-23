@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19500/0000400037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2024/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2024-890194533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1c782dcd3f53eb77c1338bcc51364e782c4411829a68b733c0b2a1bbccc4555
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d66d6f9111083fcebe7d78973308c27d1dc3a6bbf8d6e66fb7cef58c7cefb7b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,22 @@ subjects:
 - BENS Imóveis
 - Desenvolvimento Regional
 - Domínio Privado do Estado
-- Indemnização
-- Protecção do Património
-- Património Natural
-- Habitação
 - Fundo Revive Natureza
+- Habitação
+- Indemnização
+- Património Natural
+- Protecção do Património
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:161/2019
+  label: Altera, a partir de 13 de outubro de 2024, os artigos 7.º, 11.º, 13.º e 15.º, bem como os artigos 16.º e 20.º do
+    anexo i e o anexo ii, adita os artigos 7.º-A, 14.º-A e 14.º-B, revoga o artigo 14.º e os n.ºs 6 e 7 do artigo 15.º, bem
+    como a alínea i) do artigo 9.º e os n.ºs 10, 11, 12 e 13 do artigo 16.º do Regulamento do Fundo Revive Natureza, constante
+    do anexo i e republica o Decreto-Lei n.º 161/2019, de 25 de outubro, Diário da República n.º 206/2019, Série I, prorrogando
+    por 30 anos, nos termos do artigo 5.º do presente diploma, o prazo inicial do Fundo estabelecido no artigo 5.º do referido
+    diploma
+  source: null
+  date: '2019-10-25'
 - type: cites
   target: celex:32013R0231
   label: null
@@ -108,16 +118,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:125692188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144454579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
 article_structure:
   article_count: 55
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:00Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +266,7 @@ Outros direitos contratuais do Fundo Revive Natureza
 
 3 - O despacho previsto no número anterior identifica os imóveis e o direito a constituir, sendo título bastante para todos os efeitos legais, nomeadamente no que respeita ao registo predial, de direitos de superfície ou outros direitos sujeitos a registo, sem prejuízo da possibilidade de suprimento de elementos em falta por declaração complementar dos requerentes.
 
-4 - Salvo se outro prazo for expressamente previsto no despacho referido no n.º 2, o prazo da afetação é o que se encontra previsto no artigo 5.º, considerando-se automaticamente prorrogado através de decisão de prorrogação da duração inicial do Fundo, nos termos dos n.<sup>os</sup>1, 2 e 3 do artigo 22.º do anexo i ao presente decreto-lei e do qual faz parte integrante
+4 - Salvo se outro prazo for expressamente previsto no despacho referido no n.º 2, o prazo da afetação é o que se encontra previsto no artigo 5.º, considerando-se automaticamente prorrogado através de decisão de prorrogação da duração inicial do Fundo, nos termos dos n.os1, 2 e 3 do artigo 22.º do anexo i ao presente decreto-lei e do qual faz parte integrante
 
 5 - Aplica-se, à afetação prevista nos números anteriores, com as necessárias adaptações, o regime previsto nos artigos 11.º e 12.º, consoante a natureza dominial, ou não, do imóvel.
 
@@ -288,9 +310,9 @@ Outros direitos contratuais do Fundo Revive Natureza
 
 São revogados:
 
-a) O artigo 14.º e os n.<sup>os</sup> 6 e 7 do artigo 15.º do [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro;
+a) O artigo 14.º e os n.os 6 e 7 do artigo 15.º do [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro;
 
-b) A alínea i) do artigo 9.º e os n.<sup>os</sup>10, 11, 12 e 13 do artigo 16.º do Regulamento do Fundo Revive Natureza, constante do anexo i ao [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro.
+b) A alínea i) do artigo 9.º e os n.os10, 11, 12 e 13 do artigo 16.º do Regulamento do Fundo Revive Natureza, constante do anexo i ao [Decreto-Lei n.º 161/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2019-125692188), de 25 de outubro.
 
 ###### Artigo 8.º — Republicação
 
@@ -300,15 +322,15 @@ b) A alínea i) do artigo 9.º e os n.<sup>os</sup>10, 11, 12 e 13 do artigo 16.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - João Rui da Silva Gomes Ferreira - Maria da Graça Carvalho.
 
-**Promulgado em 31 de julho de 2024.**
+Promulgado em 31 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de agosto de 2024.**
+Referendado em 8 de agosto de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 4.º)
 
@@ -352,11 +374,11 @@ Visto e aprovado em Conselho de Ministros de 25 de junho de 2024. - Luís Monten
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
-## ANEXO II — [a que se referem os n.<sup>os</sup> 1 e 5 do artigo 11.º, o n.º 5 do artigo 15.º e a alínea a) do n.º 2 do artigo 15.º do anexo I]
+## ANEXO II — [a que se referem os n.os 1 e 5 do artigo 11.º, o n.º 5 do artigo 15.º e a alínea a) do n.º 2 do artigo 15.º do anexo I]
 
 Imóveis
 
-# PARTE I — [LISTA ORIGINAL]
+## PARTE I — [LISTA ORIGINAL]
 
 | Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo matricial | N.º descrição registo predial (freguesia) | Afetação |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -381,7 +403,7 @@ Imóveis
 | Antigo Posto Fiscal de São Pedro de Moel | São Pedro de Moel | Rua Doutor Nicolau Bettencourt, n.º 3, 2430-496 São Pedro de Moel | Leiria | Marinha Grande | Marinha Grande | U-1836.º | 16425 (Marinha Grande) | MAI/GNR |
 | Casa do Pinheiro Manso (E-106) | S. Pedro de Moel | Rua Dr. Adolfo Leitão, n.º 18, S. Pedro de Moel, 2430-010 Marinha Grande | Leiria | Marinha Grande | Marinha Grande | U-1864.º | Sem informação | ICNF, I. P. |
 | Chalet de S. Pedro (E-105) | S. Pedro de Moel | Rua D. Fernando I, n.º 1, 2430-508 S. Pedro de Moel | Leiria | Marinha Grande | Marinha Grande | U-1837.º | Sem informação | ICNF, I. P. |
-| Parque do Engenho | Engenho, Marinha Grande | Parque Florestal do Engenho, Av. José Gregório, 2430-275 Marinha Grande | Leiria | Marinha Grande | Marinha Grande | 1908.º, 1909.º, 1910.º, 2683.º, 2684.º, 2685, 2686.º, 2687.º, 2688.º, 3636.º e 3637.º (Urbanos) | Sem informação | ICNF, I. P. |
+| Parque do Engenho | Engenho, Marinha Grande | Parque Florestal do Engenho, Av. José Gregório, 2430-275 Marinha Grande | Leiria | Marinha Grande | Marinha Grande | 1908.º, 1909.º,<br>1910.º, 2683.º,<br>2684.º, 2685,<br>2686.º, 2687.º,<br>2688.º, 3636.º<br>e 3637.º (Urbanos) | Sem informação | ICNF, I. P. |
 | Casa Florestal de Praia/"Posto GNR na Praia de Vieira" (E-012-1.ª e 2.ª) | Praia da Vieira | Rua D. Dinis, tornejando para a Estrada Regional 349 (Estrada da Praia), Praia da Vieira, 2430-671 Vieira de Leiria | Leiria | Marinha Grande | Vieira de Leiria | U-3697.º | 732 [Parte] (Marinha Grande) | ICNF, I. P. (E-012 1.ª) MAI/GNR (E-012 2.ª) |
 | Casas Florestais do Bloco do Talhão 1 (E-154-1.ª e 2.ª) | Vieira de Leiria | Mata Nacional de Leiria, Guarda do Talhão 1, Estrada da Praia, 2430-720 Vieira de Leiria. | Leiria | Marinha Grande | Vieira de Leiria | U-3696.º | Sem informação | ICNF, I. P. |
 | Antigo Posto Fiscal da Comporta ("garagem") | Comporta | Comporta, s/ n.º, 7580-610 Comporta | Setúbal | Alcácer do Sal | Comporta | U-12.º | 712 (Comporta) | MAI/GNR |
@@ -389,9 +411,9 @@ Imóveis
 | Antigo Posto Fiscal de Viana do Castelo | Viana do Castelo | Rua João Tomás da Costa, 14-A, 4900-509 Viana do Castelo | Viana do Castelo | Viana do Castelo | UF Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela | U-4473.º | 635 [Viana do Castelo (Santa Maria Maior)] | MAI/GNR |
 | Antigo Posto Fiscal da Carvalha | Campos | Rua da Guarda Fiscal, n.º 1, 4920-006 Campos VNC | Viana do Castelo | Vila Nova de Cerveira | Campos e Vila Meã | U-25.º | 1017 (Campos) | MAI/GNR |
 
-# PARTE II — [NOVA LISTA] DO DOMÍNIO PRIVADO DO ESTADO
+## PARTE II — [NOVA LISTA] DO DOMÍNIO PRIVADO DO ESTADO
 
-| Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo matricial | N.º descrição registo predial | Proprietário | Afetatário |
+| Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo<br>matricial | N.º descrição registo predial | Proprietário | Afetatário |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Minas de Aparis | Mina de Aparis | Mina de Aparis ex-Complexo Mineiro | Beja | Barrancos |  | U-2362.º |  | Estado |  |
 | Herdade da Contenda | Santo Aleixo da Restauração | Vale Malhão, 7875-101 Santo Aleixo da Restauração | Beja | Moura | UF de Safara e Santo Aleixo da Restauração | U-1627.º |  | Estado |  |
@@ -525,13 +547,13 @@ O Fundo é constituído pelo prazo inicial de 30 anos, prorrogável nos termos p
 
 2 - A atribuição de direitos que possibilitem a exploração turística de imóveis do domínio privado regula-se pelo disposto do Código Civil, sem prejuízo das vinculações que resultam do presente decreto-lei.
 
-3 - A atribuição de direitos que possibilitem a exploração de imóveis abrangidos por regimes do domínio público, nos termos dos n.<sup>os</sup>2 e 3 do artigo 4.º, é feita com recurso às figuras contratuais típicas do respetivo regime dominial.
+3 - A atribuição de direitos que possibilitem a exploração de imóveis abrangidos por regimes do domínio público, nos termos dos n.os2 e 3 do artigo 4.º, é feita com recurso às figuras contratuais típicas do respetivo regime dominial.
 
-4 - Para efeitos do disposto nos n.<sup>os</sup>2 e 3, entende-se por atribuição tanto o procedimento tendente à constituição do título habilitante da exploração, como o próprio contrato, ato ou instrumento que consubstancia o título.
+4 - Para efeitos do disposto nos n.os2 e 3, entende-se por atribuição tanto o procedimento tendente à constituição do título habilitante da exploração, como o próprio contrato, ato ou instrumento que consubstancia o título.
 
 5 - O conselho geral do Fundo aprova os regulamentos necessários à atribuição dos direitos de exploração dos imóveis, acautelando, no que respeita aos imóveis abrangidos por regimes do domínio público, a consagração de regras procedimentais adequadas ao estatuto dominial respetivo.
 
-6 - O conselho geral pode optar, na elaboração da regulação mencionada no número anterior, pela adesão, total ou parcial, a regimes legalmente estabelecidos para procedimentos pré-contratuais, não aplicáveis à atividade do Fundo, fazendo as adaptações tidas por convenientes, desde que fiquem salvaguardadas as exigências estabelecidas no artigo 2.º e nos n.<sup>os</sup>1, 3 e 5.
+6 - O conselho geral pode optar, na elaboração da regulação mencionada no número anterior, pela adesão, total ou parcial, a regimes legalmente estabelecidos para procedimentos pré-contratuais, não aplicáveis à atividade do Fundo, fazendo as adaptações tidas por convenientes, desde que fiquem salvaguardadas as exigências estabelecidas no artigo 2.º e nos n.os1, 3 e 5.
 
 ###### Artigo 9.º — Critérios relevantes para a atribuição de direitos
 
@@ -617,7 +639,7 @@ b) € 500 000 000, quando as carteiras não incluam ativos adquiridos através 
 
 3 - O despacho previsto no número anterior identifica os imóveis e o direito a constituir, sendo título bastante para todos os efeitos legais, nomeadamente no que respeita ao registo predial, de direitos de superfície ou outros direitos sujeitos a registo, sem prejuízo da possibilidade de suprimento de elementos em falta por declaração complementar dos requerentes.
 
-4 - Salvo se outro prazo for expressamente previsto no despacho referido no n.º 2, o prazo da afetação é o que se encontra previsto no artigo 5.º, considerando-se automaticamente prorrogado através de decisão de prorrogação da duração inicial do Fundo, nos termos dos n.<sup>os</sup>1, 2 e 3 do artigo 22.º do anexo i ao presente decreto-lei e do qual faz parte integrante.
+4 - Salvo se outro prazo for expressamente previsto no despacho referido no n.º 2, o prazo da afetação é o que se encontra previsto no artigo 5.º, considerando-se automaticamente prorrogado através de decisão de prorrogação da duração inicial do Fundo, nos termos dos n.os1, 2 e 3 do artigo 22.º do anexo i ao presente decreto-lei e do qual faz parte integrante.
 
 5 - Aplica-se, à afetação prevista nos números anteriores, com as necessárias adaptações, o regime previsto nos artigos 11.º e 12.º, consoante a natureza dominial, ou não, do imóvel.
 
@@ -687,7 +709,7 @@ São órgãos do Fundo o conselho geral e o revisor oficial de contas (ROC).
 
 ###### Artigo 5.º — Suplência
 
-**O presidente do conselho geral é substituído nas suas ausências e impedimentos pelo representante do Turismo de Portugal, I. P.**
+O presidente do conselho geral é substituído nas suas ausências e impedimentos pelo representante do Turismo de Portugal, I. P.
 
 ###### Artigo 6.º — Mandatos
 
@@ -835,7 +857,7 @@ c) O Turismo de Portugal, I. P., realiza em numerário a subscrição das unidad
 
 5 - Apurado o valor da subscrição inicial em espécie das unidades do Fundo, a sociedade gestora procede à determinação do valor das unidades do Fundo que corresponde ao total do capital subscrito pelo Estado Português, pelo ICNF, I. P., e pelo Turismo de Portugal, I. P., a dividir pelo número de unidades do Fundo referido no n.º 1.
 
-6 - Concluído o processo de avaliação previsto nos n.<sup>os</sup> 3 e 4, a atividade do Fundo inicia-se no dia da liquidação financeira da subscrição do Turismo de Portugal, I. P., procedendo a sociedade gestora à emissão dos boletins de subscrição de cada um dos participantes com a informação do capital inicial do Fundo, do valor e do número de unidades do Fundo subscritas.
+6 - Concluído o processo de avaliação previsto nos n.os 3 e 4, a atividade do Fundo inicia-se no dia da liquidação financeira da subscrição do Turismo de Portugal, I. P., procedendo a sociedade gestora à emissão dos boletins de subscrição de cada um dos participantes com a informação do capital inicial do Fundo, do valor e do número de unidades do Fundo subscritas.
 
 ###### Artigo 16.º — Aumento e redução de capital do Fundo Revive Natureza
 
@@ -933,11 +955,11 @@ d) Os projetos e obras respeitantes aos ativos do Fundo são valorizados de acor
 
 4 - Em caso de dissolução e liquidação do Fundo, com a consequente extinção das unidades do Fundo, o produto da liquidação é distribuído pelos participantes na proporção das unidades do Fundo detidas, aplicando-se o disposto no n.º 3 do artigo 17.º, com as necessárias adaptações.
 
-## ANEXO II — [a que se referem os n.<sup>os</sup> 1 e 5 do artigo 11.º, o n.º 5 do artigo 15.º e a alínea a) do n.º 2 do artigo 15.º do anexo I]
+## ANEXO II — [a que se referem os n.os 1 e 5 do artigo 11.º, o n.º 5 do artigo 15.º e a alínea a) do n.º 2 do artigo 15.º do anexo I]
 
 Imóveis
 
-# PARTE I — [LISTA ORIGINAL]
+## PARTE I — [LISTA ORIGINAL]
 
 | Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo matricial | N.º descrição registo predial (freguesia) | Afetação |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -962,7 +984,7 @@ Imóveis
 | Antigo Posto Fiscal de São Pedro de Moel | São Pedro de Moel | Rua Doutor Nicolau Bettencourt, n.º 3, 2430-496 São Pedro de Moel | Leiria | Marinha Grande | Marinha Grande | U-1836.º | 16425 (Marinha Grande) | MAI/GNR |
 | Casa do Pinheiro Manso (E-106) | S. Pedro de Moel | Rua Dr. Adolfo Leitão, n.º 18, S. Pedro de Moel, 2430-010 Marinha Grande | Leiria | Marinha Grande | Marinha Grande | U-1864.º | Sem informação | ICNF, I. P. |
 | Chalet de S. Pedro (E-105) | S. Pedro de Moel | Rua D. Fernando I, n.º 1, 2430-508 S. Pedro de Moel | Leiria | Marinha Grande | Marinha Grande | U-1837.º | Sem informação | ICNF, I. P. |
-| Parque do Engenho | Engenho, Marinha Grande | Parque Florestal do Engenho, Av. José Gregório, 2430-275 Marinha Grande | Leiria | Marinha Grande | Marinha Grande | 1908.º, 1909.º, 1910.º, 2683.º, 2684.º, 2685, 2686.º, 2687.º, 2688.º, 3636.º e 3637.º (Urbanos) | Sem informação | ICNF, I. P. |
+| Parque do Engenho | Engenho, Marinha Grande | Parque Florestal do Engenho, Av. José Gregório, 2430-275 Marinha Grande | Leiria | Marinha Grande | Marinha Grande | 1908.º, 1909.º,<br>1910.º, 2683.º,<br>2684.º, 2685,<br>2686.º, 2687.º,<br>2688.º, 3636.º e 3637.º (Urbanos) | Sem informação | ICNF, I. P. |
 | Casa Florestal de Praia/"Posto GNR na Praia de Vieira" (E-012-1.ª e 2.ª) | Praia da Vieira | Rua D. Dinis, tornejando para a Estrada Regional 349 (Estrada da Praia), Praia da Vieira, 2430-671 Vieira de Leiria. | Leiria | Marinha Grande | Vieira de Leiria | U-3697.º | 732 [Parte] (Marinha Grande) | ICNF, I. P. (E-012 1.ª) MAI/GNR (E-012 2.ª) |
 | Casas Florestais do Bloco do Talhão 1 (E-154-1.ª e 2.ª) | Vieira de Leiria | Mata Nacional de Leiria, Guarda do Talhão 1, Estrada da Praia, 2430-720 Vieira de Leiria | Leiria | Marinha Grande | Vieira de Leiria | U-3696.º | Sem informação | ICNF, I. P. |
 | Antigo Posto Fiscal da Comporta ("garagem") | Comporta | Comporta, s/ n.º, 7580-610 Comporta | Setúbal | Alcácer do Sal | Comporta | U-12.º | 712 (Comporta) | MAI/GNR |
@@ -970,9 +992,9 @@ Imóveis
 | Antigo Posto Fiscal de Viana do Castelo | Viana do Castelo | Rua João Tomás da Costa, 14-A, 4900-509 Viana do Castelo | Viana do Castelo | Viana do Castelo | UF Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela | U-4473.º | 635 [Viana do Castelo (Santa Maria Maior)] | MAI/GNR |
 | Antigo Posto Fiscal da Carvalha | Campos | Rua da Guarda Fiscal, n.º 1, 4920-006 Campos VNC | Viana do Castelo | Vila Nova de Cerveira | Campos e Vila Meã | U-25.º | 1017 (Campos) | MAI/GNR |
 
-# PARTE II — [NOVA LISTA] DO DOMÍNIO PRIVADO DO ESTADO
+## PARTE II — [NOVA LISTA] DO DOMÍNIO PRIVADO DO ESTADO
 
-| Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo matricial | N.º descrição registo predial | Proprietário | Afetatário |
+| Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo<br>matricial | N.º descrição registo predial | Proprietário | Afetatário |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Minas de Aparis | Mina de Aparis | Mina de Aparis ex-Complexo Mineiro | Beja | Barrancos |  | U-2362.º |  | Estado |  |
 | Herdade da Contenda | Santo Aleixo da Restauração | Vale Malhão, 7875-101 Santo Aleixo da Restauração | Beja | Moura | UF de Safara e Santo Aleixo da Restauração | U-1627.º |  | Estado |  |
@@ -1010,7 +1032,7 @@ Imóveis
 | Casa dos Técnicos da Aldeia Nova do Barroso |  |  | Vila Real | Montalegre | Chã | U-897.º | 1774 | Estado | Junta de Colonização Interna |
 | Centro Social da Aldeia Nova do Barroso |  |  | Vila Real | Montalegre | Chã | U-898.º | 1776 | Estado | Junta de Colonização Interna |
 
-## ANEXO III — [a que se referem os n.<sup>os</sup>1 e 5 do artigo 11.º, o n.º 5 do artigo 15.º e a alínea b) do n.º 2 do artigo 15.º do anexo I]
+## ANEXO III — [a que se referem os n.os1 e 5 do artigo 11.º, o n.º 5 do artigo 15.º e a alínea b) do n.º 2 do artigo 15.º do anexo I]
 
 Imóveis do domínio privado do Instituto da Conservação da Natureza e das Florestas, I. P.
 
@@ -1031,7 +1053,7 @@ Imóveis do domínio privado do Instituto da Conservação da Natureza e das Flo
 
 Imóveis do domínio público do Estado
 
-| Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo matricial | N.º descrição registo predial (freguesia) | Afetação |
+| Designação | Lugar | Rua e n.º de polícia | Distrito | Concelho | Freguesia | Artigo<br>matricial | N.º descrição registo predial (freguesia) | Afetação |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Antigo Posto Fiscal do Burgau | Burgau | Rua da Praia, 8650-113 Burgau | Faro | Vila do Bispo | Budens | U-1079.º | 4773 e 4619 (Budens) | MAI/GNR |
 | Antigo Posto Fiscal de Pampelido | Pampelido | Rua Bravos de Pampelido, 4455-423 Perafita | Porto | Matosinhos | UF Perafita, Lavra e Santa Cruz do Bispo | U-3841.º | 3408 (Perafita) | MAI/GNR |
@@ -1039,7 +1061,7 @@ Imóveis do domínio público do Estado
 | Antigo Posto Fiscal da Amorosa | Amorosa | Rua da Amorosa, n.º 1536, 4935-580 Chafé | Viana do Castelo | Viana do Castelo | Chafé | U-582.º | 651 (Chafé) | MAI/GNR |
 | Antigo Posto Fiscal da Foz do Lima | Cabedelo | Avenida do Cabedelo-Cais Novo, 4930-648 Viana do Castelo | Viana do Castelo | Viana do Castelo | Darque | U-798.º | 3300 (Darque) | MAI/GNR |
 
-## ANEXO V — (a que se referem os n.<sup>os</sup>1 e 6 do artigo 13.º)
+## ANEXO V — (a que se referem os n.os1 e 6 do artigo 13.º)
 
 Imóveis em baldios
 
@@ -1098,3 +1120,7 @@ Imóveis em baldios
 | Casa Florestal da Serra do Crasto (C-037) | Perímetro Florestal da Serra do Crasto | Viseu | Viseu | Abraveses |
 | Casa dos Cantoneiros ou Adoabrigo (C-128) | Perímetro Florestal de São Miguel e São Lourenço | Viseu | Viseu | Côta |
 | Casa de Cantoneiros do Crasto (C-129) | Perímetro Florestal da Serra do Crasto | Viseu | Viseu | Orgens |
+
+118017643
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { text-decoration:none; text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:24px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-c<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/161-2019-125692188'title='Decreto-Lein.º161/2019'>DECRETO-LEIN.º161/2019</a>er-left-style:solid; vertical-align:top; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/280-2007-637402'title='Decreto-Lein.º280/2007'>Decreto-Lein.º280/2007</a>or:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/lei/16-2015-66581992'title='Lein.º16/2015'>Lein.º16/2015</a>-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; <arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/82-2020-144454579'title='Decreto-Lein.º82/2020'>Decreto-Lein.º82/2020</a>d; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-st<arel='nofollownoopenernoreferrer'target='_blank'href='https://data.europa.eu/eli/reg/2013/231/oj?locale=pt'title='LinkparaRegulamentodaUniãoEuropeia'>RegulamentoDelegado(UE)n.º231/2013</a>0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { min-height:32px; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/decreto-lei/280-2007-637402'title='Decreto-Lein.º280/2007'>Decreto-Lein.º280/2007</a>er-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; b<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/lei/75-2017-108010871'title='Lein.º75/2017'>Lein.º75/2017</a>:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { text-decoration:none; } .Tbl22 { min-height:25px; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; verti<arel='nofollownoopenernoreferrer'target='_blank'href='/dr/detalhe/lei/10-2017-106549657'title='Lein.º10/2017'>Lein.º10/2017</a} .Tbl24 { min-height:33px; } .Tbl25 { min-height:57px; } .Tbl26 { min-height:41px; } .Tbl27 { min-height:34px; } .Tbl28 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl30 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl31 { min-height:17px; } .Tbl32 { min-height:27px; } .Tbl33 { text-align:justify; text-align-last:justify; } .Tbl34 { min-height:31px; } .Tbl35 { min-height:29px; } .Tbl36 { min-height:39px; } .Tbl37 { min-height:58px; } .Tbl38 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

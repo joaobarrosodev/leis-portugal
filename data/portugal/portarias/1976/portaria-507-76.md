@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-1976-429635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:06:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f16e85831631eda52875e6c3ff1d2be6256965fa21b4927cd1bda9e7a4c32d81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c86890bd42186e517fb7b9c73cbd89d415aad746cfb468267eac5084b95fa217
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:06:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimentos Fabris das Forças Armadas
+- Força Aérea
+- Gestão de Recursos Humanos
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:407547:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407547:por
+  label: Alterado o quadro III pelo(a) Portaria n.º 754/76 - Diário da República n.º 296/1976, Série I de 1976-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-1976-407547
+  date: '1976-12-21'
+- type: cites
+  target: pt:dre:506782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:06:18Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +128,7 @@ Grupo XV - Pessoal oficinal
 
 (EMFA, COMRA1 e direcções de serviço)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/18800/19891990.pdf))](https://files.diariodarepublica.pt/1s/1976/08/18800/19891990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/18800/19891990.pdf)
 
 QUADRO III
 
@@ -122,6 +136,6 @@ Grupo XV - Pessoal oficial
 
 (Unidades da Força Aérea)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/08/18800/19891990.pdf))](https://files.diariodarepublica.pt/1s/1976/08/18800/19891990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/08/18800/19891990.pdf)
 
-**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva.**
+O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva.

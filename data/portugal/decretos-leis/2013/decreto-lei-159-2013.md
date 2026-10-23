@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/2013/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2013-504159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8f5f7bc0d7f3a4e235e8a7de8d040605a1ae3af310a3d31f39ace1b12540fcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bd22219920f1d598087762e2a5a9d308d93a1a1f71d905961c8b46aa4341fb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
+- Belas-artes
 - Estatuto
+- Fundação
 - Fundação Privada
 - Fundação Ricardo Espírito Santo Silva
-- Publicitação
 - Legalidade Administrativa
 - Lei Quadro
 - Página na Internet
-- Belas-artes
+- Publicitação
 - Utilidade Pública
 relationships:
+- type: amended_by
+  target: pt:dre:125389661:por
+  label: Renovado, com efeitos desde 19.11.2018, o estatuto de utilidade pública da Fundação Ricardo do Espírito Santo Silva
+    concedido pelo Dec Lei 39190 de 27-abr 1953, e mantido pelo presente diploma, pelo(a) Despacho n.º 9364/2019 - Diário
+    da República n.º 200/2019, Série II de 2019-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9364-2019-125389661
+  date: '2019-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/24/2012/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/2012/07/09/p/dre
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528393:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:24Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +166,12 @@ O disposto no artigo anterior produz efeitos na data da publicação, no Portal 
 
 Visto e aprovado em Conselho de Ministros de 3 de outubro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Maria de Barros Serra Marques Guedes.
 
-**Promulgado em 13 de novembro de 2013.**
+Promulgado em 13 de novembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de novembro de 2013.**
+Referendado em 15 de novembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

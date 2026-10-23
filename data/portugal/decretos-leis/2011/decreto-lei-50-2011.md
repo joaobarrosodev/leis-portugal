@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2011/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2011-276832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4603c2386eaa97de827988548235ab34411cc1ec76228b02b7b72eb56ec7cb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 509a533e0f9243019e547353b597dd15f6591599aa723b93a581455ec85a6723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Certificação Profissional
-- Plano de Estudos
+- Currículo Nacional
 - Diploma
 - Ensino Oficial
-- Exame
 - Ensino Secundário
-- Currículo Nacional
-- Avaliação de Conhecimentos
+- Exame
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:178548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542849:por
+  label: "Dada nova redação ao art. 11º do Dec Lei 74/2004 de 26-mar, alterado pelo presente diploma, pelo DEC LEI.42/2012.22.02.2012.MECI,\
+    \ DR.IS [38] de 22.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2012-542849
+  date: '2012-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
   label: null
@@ -120,16 +126,184 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/710/2001/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/710/2001/07/11/p/dre
+- type: cites
+  target: pt:dre:148620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178548:por
+  label: "Revogado, com produção de efeitos a partir do ano letivo de 2012-2013, o Dec Lei 74/2004, de 26-mar, na redação\
+    \ do presente diploma, pelo DEC LEI.139/2012.05.07.2012.MECI, DR.IS [129] de 05.07.2012, que mantém a vigência até ao\
+    \ final do ano letivo de 2013-2014 das normas relativas à organização e funcionamento dos cursos tecnológicos criados\
+    \ pelo aquele decreto-lei.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2012-178548
+  date: '2012-07-05'
 article_structure:
-  article_count: 27
+  article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:25Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +354,9 @@ Os artigos 3.º, 6.º e 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepu
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +372,9 @@ Os artigos 3.º, 6.º e 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepu
 
 7 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -238,37 +416,37 @@ Os anexos n.os 1, 1.1, 1.2, 1.3 e 1.4 do [Decreto-Lei n.º 74/2004](https://diar
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 2 de Março de 2011.**
+Promulgado em 2 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Março de 2011.**
+Referendado em 7 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
 ## ANEXO N.º 1 — Matriz dos cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.1 — Curso científico-humanístico de Ciências e Tecnologias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.2 — Curso científico-humanístico de Ciências Socioeconómicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.3 — Curso científico-humanístico de Línguas e Humanidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.4 — Curso científico-humanístico de Artes Visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -558,84 +736,84 @@ n) Os artigos 6.º, 7.º e 8.º do [Decreto-Lei n.º 4/98](https://diariodarepub
 
 ## ANEXO I — Matriz dos cursos científico-humanísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.1 — Curso científico-humanístico de Ciências e Tecnologias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.2 — Curso científico-humanístico de Ciências Socioeconómicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.3 — Curso científico-humanístico de Línguas e Humanidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 1.4 — Curso científico-humanístico de Artes Visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2 — Matriz dos cursos tecnológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.1 — Curso tecnológico de Construção Civil e Edificações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.2 — Curso tecnológico de Electrotecnia e Electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.3 — Curso tecnológico de Informática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.4 — Curso tecnológico de Design de Equipamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.5 — Curso tecnológico de Multimédia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.6 — Curso tecnológico de Administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.7 — Curso tecnológico de Marketing
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.8 — Curso tecnológico de Ordenamento do Território e Ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.9 — Curso tecnológico de Acção Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 2.10 — Curso tecnológico de Desporto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 3 — Matriz dos cursos artísticos especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 4 — Matriz dos cursos científico-humanísticos do ensino recorrente
 
 [carga horária - unidades lectivas de noventa minutos (a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 5 — Matriz dos cursos tecnológicos do ensino recorrente
 
 [carga horária - unidades lectivas de noventa minutos (a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
 
 ## ANEXO N.º 6 — Matriz dos cursos profissionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0209702126.pdf)

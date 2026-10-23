@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/28/1995/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1995-691654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd0678dca0b5dea292a024766d7d895884c1fa17bbbbf5b88f2a5452d4f8cd36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51df35b72bc418d0ad7931727740b9e18933f39b5ad52cbea2ddfee9939c8b16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Comissão Directiva
+- Conselho Consultivo
 - Criação de Serviços
 - Definição de Competências
-- Conselho Consultivo
+- Ordenamento do Território
 - Parque Natural do Vale do Guadiana
-- Proteção do Ambiente
-- Zona de Proteção
 - Política de Solos
+- Proteção do Ambiente
 - Protecção do Património
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:67198365:por
@@ -84,16 +84,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 4.º e o art. 6.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015, Série
+    I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:10Z'
   warnings: []
   errors: []
 ---
@@ -216,18 +226,18 @@ j) Sobrevoo por aeronaves com motor abaixo os 1000 pés.
 
 Presidência do Conselho de Ministros, 17 de Julho de 1995. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Filipe da Conceição Pereira - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 
 Do ponto de intercepção com o caminho de Monte Barbeiro-Azinhal, o limite inflecte no sentido sudoeste, seguindo o caminho Azinhal-Balança até ao cruzamento próximo de Balança, segue no sentido sudeste pelo caminho existente até ao entroncamento com o caminho Algodor-estrada n.º 123. Toma-se o sentido sul em direcção à estrada nacional n.º 123, até ao entroncamento com a mesma, seguindo a estrada n.º 123 na direcção este até a Alcaria Ruiva, contornando o limite urbano até cruzar com um caminho. Segue pelo caminho no sentido sudeste até ao entroncamento com a estrada Alvares-Corte da Velha, tomando-se a direcção sul até ao cruzamento com a ribeira de Alcavar. Acompanha a ribeira até ao cruzamento que conduz à povoação Corte Pão e Água. O limite cruza com a estrada que se desenvolve no sentido sudoeste até ao cruzamento com a ribeira de Oeiras, onde o limite prossegue para sul no caminho de Minas de Água Santa-Brites Gomes até norte da povoação de Brites Gomes até ao cruzamento com a ribeira de Carreiros. Toma a direcção sudeste pela estrada até ao entroncamento com a estrada n.º 122, onde inflecte para sul, passando pelos aglomerados Álamo, Almoinha Velha e Espirito Santo, até ao encontro com a ribeira do Vascão, que é o limite até à confluência com o rio Guadiana. Aí, segue no sentido norte pelo rio Guadiana até ao aglomerado de Pomarão, onde segue pela estrada entre Pomarão-Santana de Gambas até ao aglomerado de Santana de Gambas. Toma o sentido norte, pelo caminho que liga o aglomerado de Monte Sapos, até ao atravessamento da linha de água, seguindo até ao encontro com o limite do Plano Geral de Urbanização de Mina de São Domingos, acompanhando o limite este do Plano até à estrada n.º 265, seguindo-se até ao cruzamento com o caminho para o Monte de Palhetos de Cima. Passando pelo Monte de Palhetos do Meio, Palhetos de Baixo, prossegue para norte, coincidindo com o caminho que leva aos Montes do Ababos e do Moinho até ao marco geodésico da Lentisqueira. Segue no caminho norte em linha recta até confluir com a ribeira de Alfamar, acompanhando a linha de água até ao cruzamento com o caminho para o Monte Barranco-Vale do Poço. O limite inflecte para norte até ao cruzamento com o caminho para o Monte de Malagueiros, no sentido nordeste até ao cruzamento com a linha de água localizada a norte do marco geodésico de Jardais, até à confluência com outra linha de água. Acompanha a linha de água a oeste, do ponto anterior, até nova confluência onde inflecte para norte, seguindo a linha de água até à primeira inflexão da mesma para este. O limite faz-se pela ligação entre o ponto anterior e o ponto à cota 175 m, por linha recta até ligar ao início da terceira linha de água abaixo do vale da Mestra. Segue a linha de água até ao encontro com o caminho, seguindo-se até ao entroncamento com o caminho do Monte da Aroeira-Vale da Mestra. Toma o caminho do Monte da Aroeira-Vale da Mestra até ao entroncamento com o caminho para o Monte da Salvada, seguindo pelo mesmo até ao Monte, donde faz a ligação em linha recta e o entroncamento de dois caminhos, localizados na margem direita da ribeira de Limas. Toma o caminho para Monte das Palmeiras até ao encontro da cota 100 m, fazendo a ligação em linha recta com o ponto de confluência de linhas de água a oeste do mesmo. Segue a linha de água, considerando o ponto de encontro de caminhos (o caminho principal liga Monte das Palmeiras-Monte da Cascadeira), tomando-se o caminho de orientação oeste-este, na sua totalidade. O limite em linha recta, perpendicular ao rio Guadiana, liga o ponto anterior à primeira linha de água (com orientação paralela ao rio Guadiana). Inflecte para sul acompanhando a linha de água até ao ponto de confluência de águas próximo, onde inflecte novamente para oeste, seguindo a linha de água no sentido de montante até ao final da mesma, onde conflue com linha de água a oeste, passando por Corte Sobreira, seguindo-se até à confluência com a ribeira da Talica, onde inflecte para noroeste, acompanhando a ribeira até nova intercepção de linhas de água, onde inflecte para oeste, estabelecendo-se o limite por linha recta até à cota 164 m. Daí até ao ponto de confluência de linhas de água, a oeste do mesmo, estabelece-se o limite por ligação em linha recta, seguindo pela linha de água de orientação oeste-este até ao fim da mesma. Do ponto anterior até ao ponto de cota 181 m é estabelecido em linha recta dando continuidade para sudoeste pelo caminho para Monte Delgado até ao entroncamento com outro caminho, seguindo pelo caminho sudoeste até novo entroncamento, onde inflecte no sentido sudoeste, seguindo pelo caminho que passa a norte de Baxiqueiro, entroncado no caminho que liga o Monte da Vinha a Bexiqueiro, desde o ponto anterior até ao Monte da Vinha. Inflecte para norte por caminho desde o ponto anterior até ao cruzamento com outro caminho, inflectindo para oeste por caminho durante 1 km, a partir do qual o limite toma o sentido norte, cruzando sucessivamente três linhas de água. Acompanha a última linha de água até Carrasco, a partir do qual o limite é definitivo em linha recta no sentido este até ao cruzamento com a linha de água que corre entre Malhada de Cabreiros e Monte Branco, precisamente no segundo ponto de confluência de linhas de água. Do ponto anterior até à cota 127 m, estabelece o limite por ligação em linha recta. O limite, no sentido noroeste, liga o ponto anterior à linha de água mais próxima e no local em que a mesma inflecte no sentido sudoeste. Acompanha a linha de água até ao cruzamento com o primeiro caminho seguindo em linha recta até ao entroncamento de dois outros caminhos, acompanhando o caminho para o Monte Novo na sua extensão recta, ponto a partir do qual, e com igual orientação, encontra linha de água que corre entre o marco geodésico de Joinas e o Monte Novo. Segue, no sentido sul, a linha de água até à confluência na ribeira de Cobres, onde acompanha o caminho até Água Salgada. Prossegue por caminho para sul até ao primeiro entroncamento, onde inflecte para oeste, inflectindo novamente para sul no próximo entroncamento, acompanha o caminho que passa por cruzamento à cota 152 m. Segue no caminho para sul até ao entroncamento com o caminho Monte da Grade-marco geodésico Medronheiros, onde passa a acompanhar caminho de orientação sudoeste até ao segundo entroncamento com o caminho Monte da Grade-Vale-Fresco. Aí passa a seguir o caminho Monte da Grade-Vale-Fresco. Do ponto anterior e no sentido sul, o limite acompanha o caminho até Azinhal, primeiro ponto determinado.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/267b00/71117113.pdf))](https://files.diariodarepublica.pt/1s/1995/11/267b00/71117113.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/267b00/71117113.pdf)

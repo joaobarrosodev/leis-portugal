@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26012602.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/47/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-2007-521017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f666c6b439007bf04f92d37e4b23e1f2f38c01ea6f3432fc22c7684acb26a67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b52f4a293a60b8944293ee3312d0e6c0b3c65ee9ce299ef2f67d1b54bfa1f706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Cidadão
-- Pessoal Dirigente
-- Comissão Interministerial para as Comunidades Portuguesas
-- Definição de Competências
 - Centro Emissor para a REDE Consular
+- Comissão Interministerial para as Comunidades Portuguesas
 - Comissão Organizadora do Recenseamento Eleitoral dos Portuguêses no Estrangeiro
+- Definição de Competências
 - Diretor Geral
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Subdirector Geral
 relationships:
@@ -120,16 +120,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684059:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:655174:por
+  label: "Rectificado pela DECL-RECT.59-D/2007.26.06.2007.PCM, DR.IS [121]Supl de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-d-2007-655174
+  date: '2007-06-26'
+- type: repealed_by
+  target: pt:dre:544168:por
+  label: "Revogado a partir de 01.02.2012, pelo DR.9/2012.19.01.2012.MNE, DR.IS [14] de 19.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-2012-544168
+  date: '2012-01-19'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:45Z'
   warnings: []
   errors: []
 ---
@@ -246,16 +308,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26012602.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26012602.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26012602.pdf)

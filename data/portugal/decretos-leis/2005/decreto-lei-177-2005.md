@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/177/2005/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2005-595909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b87b4c0fa79bb6183ee470239e6175951f9ec6e54fc9c973853efdc3c3e238
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2432ff9fc80240e4f43ee758fbf2d693053b14b5c92ffd477525f1e36c93724e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Código da Estrada
 - Direcção Geral de Viação
 - Homologação
-- Veículo
 - Regulamento
 - Regulamento Relativo as Massas e Dimensões dos Ciclomotores Motociclos Triciclos e Quadriciclos
+- Veículo
 relationships:
 - type: cites
   target: celex:31993L0093
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 12
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:04Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +138,15 @@ As alterações necessárias à adaptação ao progresso técnico das prescriç�
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa.
 
-**Promulgado em 10 de Outubro de 2005.**
+Promulgado em 10 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 2005.**
+Referendado em 13 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — REGULAMENTO RELATIVO ÀS MASSAS E DIMENSÕES DOS CICLOMOTORES, MOTOCICLOS, TRICICLOS E QUADRICICLOS
 

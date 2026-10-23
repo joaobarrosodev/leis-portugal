@@ -46,40 +46,188 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-1983-454872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae123ca7d09f07066159430c2d5df30d5ccc45d641f372b297fef845e7a6f20e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 184fb39e4d1eee430981d5f9b43ac84c6b4296a0cf4999ad7d31b8e32b02fbf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Fiscal
+- Águeda
+- Alcobaça
+- Barcelos
+- Braga
+- Câmara de Lobos
+- Castelo Branco
+- Coimbra
+- Covilhã
+- Criação de Serviços
+- Direcção Geral das Contribuições e Impostos
+- Évora
+- Extinção de Serviços
+- Faro
+- Feira.povoação
+- Figueira da Foz
+- Funchal
+- Gondomar
+- Lagoa.Açores
+- Lajes do Pico
+- Loures
+- Lourinhã
+- Machico
+- Madalena.Açores
+- Marco de Canaveses
+- Matosinhos
+- Miranda do Corvo
+- Mogadouro
+- Moimenta da Beira
+- Moita
+- Montemor-o-Velho
+- Odemira
+- Oliveira de Azeméis
+- Ovar
+- Palmela
+- Paredes
+- Pombal
+- Ponta Delgada
+- Ponta do SOL
+- Portimão
+- Porto Santo
+- Póvoação
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Repartição de Finanças
+- Ribeira Brava
+- Santa CRUZ
+- Santa CRUZ da Graciosa
+- Santa CRUZ das Flores
+- Santana
+- Santarém
+- são Roque do PICO
+- Seixal
+- Setúbal
+- Torres Vedras
+- Velas
+- Viana do Castelo
+- VILA do Conde
+- VILA do Porto
+- Vila Franca de Xira
+- VILA Franca do Campo
+- VILA NOVA de GAIA
+- VILA Verde
 relationships:
 - type: amended_by
   target: pt:dre:452929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380954:por
+  label: "Alterado o n.º 16.º pela PORT.615/84.21.08.1984.MFP, DR.IS [193] de 21.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/615-1984-380954
+  date: '1984-08-21'
+- type: amended_by
+  target: pt:dre:328860:por
+  label: "Alterado o nº 16 pela PORT.41/85.1985.01.21.MFP, DR.IS [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/41-1985-328860
+  date: '1985-01-21'
+- type: amended_by
+  target: pt:dre:178309:por
+  label: "Dada nova redacção ao n.º 21 do presente diploma, pela PORT.777/85.15.10.1985.MFP, DR.IS [237] de 15.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/777-1985-178309
+  date: '1985-10-15'
+- type: amended_by
+  target: pt:dre:354722:por
+  label: "Alterado o nº 17º pela PORT.678/88.11.10.1988.MF, DR.IS [235] de 11.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-1988-354722
+  date: '1988-10-11'
+- type: amended_by
+  target: pt:dre:527389:por
+  label: "Extinta a 3.ª Repartição de Finanças do Concelho de Setúbal, criada no presente diploma, pela PORT.515/95.31.05.1995.MF,\
+    \ DR.IS-B [126] de 31.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1995-527389
+  date: '1995-05-31'
+- type: amended_by
+  target: pt:dre:628844:por
+  label: "Extintos, nos termos do nº 2º, os Serviços de Finanças de Ovar 1 e 2 e revogado o nº 21º pela PORT.1413/2007.30.10.2007.MFAP,\
+    \ DR.IS [209] de 30.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1413-2007-628844
+  date: '2007-10-30'
+- type: amended_by
+  target: pt:dre:628846:por
+  label: "Extintos nos termos do nº2 os Serviços de Finanças de Oliveira de Azeméis 1, 2 e 3 e revogado o nº20, pela PORT.1415/2007.30.10.2007.MFAP,\
+    \ DR.IS [209] de 30.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1415-2007-628846
+  date: '2007-10-30'
+- type: amended_by
+  target: pt:dre:452929:por
+  label: "Extinto o Serviço de Finanças de Gondomar 3, criado pelo presente diploma, pela PORT.1122/2008.07.10.2008.MFAP,\
+    \ DR.IS [194] de 07.10.2008, nos termos do seu art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1122-2008-452929
+  date: '2008-10-07'
+- type: cites
+  target: pt:dre:309933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492472:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:556023:por
+  label: "Revogada, em tudo o que diga respeito aos desdobramentos das Repartições de Finanças dos concelhos de Águeda, Barcelos,\
+    \ Évora, Faro, Paredes, Vila do Conde, Santarém, Moita, Palmela, Viana do Castelo e Ponta Delgada, salvo no tocante a\
+    \ pessoal, pela PORT.973/90.11.10.1990.MF, DR.IS [235] de 11.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/973-1990-556023
+  date: '1990-10-11'
+- type: repealed_by
+  target: pt:dre:629404:por
+  label: "Revogado o nº 24.º e extinto nos termos do nº 2º, os serviços de finanças de Pombal 1 e 2, criados pelo supracitado\
+    \ número, pela PORT.1421/2007.31.10.2007.MFAP, DR.IS [210] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1421-2007-629404
+  date: '2007-10-31'
+- type: repealed_by
+  target: pt:dre:629405:por
+  label: "Revogado o nº 9 e extinto nos termos do nº 2º, os serviços de finanças da Covilhâ 1 e 2, criados pelo supracitado\
+    \ número, pela PORT.1422/2007.31.10.2007.MFAP, DR.IS [210] de 31.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1422-2007-629405
+  date: '2007-10-31'
+- type: repealed_by
+  target: pt:dre:248239:por
+  label: "Revogado o nº 30 e considerados extintos os serviços de finanças de Torres Vedras 1 e 2, criados pela presente diploma,\
+    \ pela PORT.113/2008.06.02.2008.MFAP, DR.IS [26] de 06.02.2008, nos termos do seu art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2008-248239
+  date: '2008-02-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:09Z'
   warnings: []
   errors: []
 ---
@@ -468,7 +616,7 @@ Vila do Porto.
 
 Ministério das Finanças e do Plano.
 
-**Assinada em 15 de Julho de 1983.**
+Assinada em 15 de Julho de 1983.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
 
@@ -476,4 +624,4 @@ MAPA
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18400/28942901.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18400/28942901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/18400/28942901.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11500/0389603897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2015/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2015-67498687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0af753d0cd9282fd893d8b5e5bb0905568b4d19c9b450af469abb0e8bd1f527e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8bfeb79c951c4c3d23eb4bf792bc1ed87d6a275a629bfa107f1f4de7e1d62e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Álcool
 - Alcoolismo
+- ASAE
 - Bebida
 - Bebida Alcoólica
+- Comércio
 - Consumo
-- Saúde
-- Local de Divertimento
-- Álcool
-- Saúde Pública
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
-- Jovem
 - Idade Mínima
 - Incapacidade Psíquica
-- ASAE
-- Menoridade
-- Saúde Mental
+- Jovem
+- Local de Divertimento
 - Madeira.região Autónoma
-- Açores
-- Comércio
+- Menoridade
+- Saúde
+- Saúde Mental
+- Saúde Pública
 - TEOR Álcoolico
 - Venda
 relationships:
@@ -93,20 +93,30 @@ relationships:
   target: pt:dre:108041482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108041482:por
+  label: Altera o art. 4.º do Dec Lei 50/2013 de 16-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º 102/2017
+    - Diário da República n.º 162/2017, Série I de 2017-08-23 nos termos do seu art. 12.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2017-108041482
+  date: '2017-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/2013/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/2013/04/16/p/dre
+- type: cites
+  target: pt:dre:260432:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:25Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +189,9 @@ c) A quem se apresente notoriamente embriagado ou aparente possuir anomalia psí
 
 9 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -201,12 +213,12 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Sérgio Paulo Lopes da Silva Monteiro - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 3 de junho de 2015.**
+Promulgado em 3 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de junho de 2015.**
+Referendado em 4 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

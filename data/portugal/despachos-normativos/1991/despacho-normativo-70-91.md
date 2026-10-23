@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/70/1991/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/70-1991-621568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db5920ae8c763aa3bb77e9b045d3024a2c3b3b0a281d35efc22df6e6140a8124
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19ce9914ba0c8953e535a78029d94c467b2b39db3833d143cc0188518d22e620
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bolsa de Formação Profissional
-- Instituto do Emprego e Formação Profissional
 - Formação Profissional
 - FSE
+- Instituto do Emprego e Formação Profissional
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:290381:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459584:por
+  label: "Rectificada a alínea a) do n.º 1 do artigo 4.º pela DECL-RECT.81/91.30.04.1991.PCM, DR.IS-B [99]2ºSupl de 30.04.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/81-1991-459584
+  date: '1991-04-30'
+- type: repealed_by
+  target: pt:dre:290381:por
+  label: "Revogado, em relação às acções que se tenham iniciado a partir de 1 de Janeiro de 1994, pelo DN.464/94.28.06.1994.MESS,\
+    \ DR.IS-B [147] de 28.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/464-1994-290381
+  date: '1994-06-28'
+- type: repealed_by
+  target: pt:dre:290382:por
+  label: "Revogado, em relação às acções que se tenham iniciado a partir de 1 de Janeiro de 1994, pelo DN.465/94.28.06.1994.MESS,\
+    \ DR.IS-B [147] de 28.06.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/465-1994-290382
+  date: '1994-06-28'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:35Z'
   warnings: []
   errors: []
 ---

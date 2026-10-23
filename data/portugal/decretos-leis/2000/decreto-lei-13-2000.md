@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2000/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2000-414405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07d37d9210d310876cb24383cf26129b380c1ab0c5f0e7fe06fff6b6ac6f38ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de3c308614c0076bf4e87a18562287595a0d8f0f55b3c442577bfbf8a9fe9b6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
+- Câmara Municipal
 - Chiado
 - Compensação Financeira
-- Renovação Urbana
 - Extinção de Serviços
-- Lisboa
 - Fundo Extraordinário de Ajuda à Reconstrução do Chiado
+- Garantia
 - JURO Bonificado
 - Linha de Crédito
-- Câmara Municipal
-- Regime Jurídico
+- Lisboa
 - Prédio Urbano
+- Regime Jurídico
+- Renovação Urbana
 - Subsídio não Reembolsável
 relationships:
 - type: cites
@@ -95,16 +95,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/342/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:213800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:09Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +195,7 @@ j) ...
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - O FEARC extinguir-se-á em 31 de Dezembro de 2001, sem qualquer outra possibilidade de prorrogação, e a sua liquidação, a cargo da comissão directiva, deverá estar encerrada no prazo de seis meses.
 
@@ -183,12 +207,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2000.
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 31 de Janeiro de 2000.**
+Promulgado em 31 de Janeiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Fevereiro de 2000.**
+Referendado em 10 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

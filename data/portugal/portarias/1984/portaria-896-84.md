@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28200/37333734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/896-1984-401502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd9db8ecaddbeba69047aa71167c87315c5488c003047b94530dc5092117471c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4b8b278602c0c08aa13f68291f095d7fca8e896faa42397ec6e40b764bf8e54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Espinho
+- Ordenamento do Território
+- Plano de Urbanização
+- Política de Solos
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:75239679:por
+  label: Tornada pública a revogação do Plano Parcial de Urbanização da Zona Sul de Espinho pelo Aviso n.º 10906/2016 - Diário
+    da República n.º 168/2016, Série II de 2016-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10906-2016-75239679
+  date: '2016-09-01'
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:15:49Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +110,17 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Habitaç
 
 Secretaria de Estado da Habitação e Urbanismo.
 
-**Assinada em 16 de Novembro de 1984.**
+Assinada em 16 de Novembro de 1984.
 
-**O Secretário de Estado da Habitação e Urbanismo, Fernando Manuel dos Santos Gomes.**
+O Secretário de Estado da Habitação e Urbanismo, Fernando Manuel dos Santos Gomes.
 
 Regulamento das Disposições do Plano Parcial de Urbanização da Zona a Sul de Espinho
 
-###### Artigo 1.º Constitui parte integrante do Regulamento o presente articulado e as peças escritas e gráficas que constituem o Plano.
+Artigo 1.º Constitui parte integrante do Regulamento o presente articulado e as peças escritas e gráficas que constituem o Plano.
 
-###### Art. 2.º Toda e qualquer forma de utilização do solo que não esteja em conformidade com o Regulamento não será autorizada.
+Art. 2.º Toda e qualquer forma de utilização do solo que não esteja em conformidade com o Regulamento não será autorizada.
 
-###### Art. 3.º Nas zonas classificadas como de particular interesse ecológico e de manifesto interesse científico, tal como a área abrangida pela reserva natural da Barrinha de Esmoriz, é aplicável o que se segue:
+Art. 3.º Nas zonas classificadas como de particular interesse ecológico e de manifesto interesse científico, tal como a área abrangida pela reserva natural da Barrinha de Esmoriz, é aplicável o que se segue:
 
 1 - Na reserva natural é proibido:
 
@@ -139,34 +158,34 @@ d) Pesca com redes.
 
 3 - As presentes medidas de defesa da reserva natural da Barrinha vigorarão até à aprovação de novo regulamento mais específico que venha a ser elaborado por departamento competente nesta matéria.
 
-###### Art. 4.º Fica proibido na área do Plano o lançamento de esgotos, detritos, formação de lixeiras, entulheiras ou qualquer forma poluidora.
+Art. 4.º Fica proibido na área do Plano o lançamento de esgotos, detritos, formação de lixeiras, entulheiras ou qualquer forma poluidora.
 
-###### Art. 5.º É proibida a extracção de areias e outros inertes.
+Art. 5.º É proibida a extracção de areias e outros inertes.
 
-###### Art. 6.º É proibido o acesso de viaturas exteriores à conservação e limpeza da área do Plano, com excepção dos casos previstos.
+Art. 6.º É proibido o acesso de viaturas exteriores à conservação e limpeza da área do Plano, com excepção dos casos previstos.
 
-###### Art. 7.º As zonas de mata deverão ser sempre consideradas como suporte ecológico e de protecção, pelo que não é permitido o seu corte ou desbaste sem parecer avalizado por técnico qualificado. Estas zonas deverão situar-se, em princípio, a uma distância não inferior a 100 m do eixo da pista e a altura das espécies a plantar ficará condicionada ao prévio parecer da Direcção-Geral da Aeronáutica Civil.
+Art. 7.º As zonas de mata deverão ser sempre consideradas como suporte ecológico e de protecção, pelo que não é permitido o seu corte ou desbaste sem parecer avalizado por técnico qualificado. Estas zonas deverão situar-se, em princípio, a uma distância não inferior a 100 m do eixo da pista e a altura das espécies a plantar ficará condicionada ao prévio parecer da Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 8.º Nas zonas classificadas como agrícolas será proibida qualquer outra actividade que não aquela.
+Art. 8.º Nas zonas classificadas como agrícolas será proibida qualquer outra actividade que não aquela.
 
 1 - São permitidas obras de melhoramento fundiário desde que não conduzam a alterações do lençol freático.
 
 2 - São proibidas as construções de vedações de alvenaria ou aramadas a separar prédios ou parcelas rústicas.
 
-###### Art. 9.º Qualquer pretensão que seja incluída no programa só poderá ser considerada após a aprovação pela Câmara do respectivo projecto.
+Art. 9.º Qualquer pretensão que seja incluída no programa só poderá ser considerada após a aprovação pela Câmara do respectivo projecto.
 
-###### Art. 10.º As realizações consideradas no programa deverão fazer prova, aquando da apresentação dos respectivos projectos, de uma correcta integração paisagística.
+Art. 10.º As realizações consideradas no programa deverão fazer prova, aquando da apresentação dos respectivos projectos, de uma correcta integração paisagística.
 
-###### Art. 11.º Os projectos para a habitação só serão considerados quando respondam às previsões do programa e se localizem na zona prevista na planta de síntese e constituam o destaque de um plano de pormenor previamente aprovado.
+Art. 11.º Os projectos para a habitação só serão considerados quando respondam às previsões do programa e se localizem na zona prevista na planta de síntese e constituam o destaque de um plano de pormenor previamente aprovado.
 
-###### Art. 12.º As instalações de equipamento de apoio às praias serão motivo de projectos de conjunto, obedecendo a um programa previamente estabelecido, que contemple as indicações contidas nas respectivas propostas.
+Art. 12.º As instalações de equipamento de apoio às praias serão motivo de projectos de conjunto, obedecendo a um programa previamente estabelecido, que contemple as indicações contidas nas respectivas propostas.
 
-###### Art. 13.º Qualquer tipo de construção realizada ou simplesmente iniciada que não esteja em conformidade com o Plano e o seu Regulamento será demolida. O infractor não só não terá direito a qualquer indemnização, como pagará à Câmara Municipal de Espinho as multas e encargos dos trabalhos de demolição, transporte de materiais para fora do local e a recomposição do terreno.
+Art. 13.º Qualquer tipo de construção realizada ou simplesmente iniciada que não esteja em conformidade com o Plano e o seu Regulamento será demolida. O infractor não só não terá direito a qualquer indemnização, como pagará à Câmara Municipal de Espinho as multas e encargos dos trabalhos de demolição, transporte de materiais para fora do local e a recomposição do terreno.
 
-###### Art. 14.º Os projectos de arquitectura serão elaborados e subscritos por arquitectos ao abrigo do n.º 4 do artigo 3.º do [Decreto n.º 13/73](https://diariodarepublica.pt/dr/detalhe/decreto/13-1973-683666). Os projectos de estrutura de edifícios e de infra-estruturas serão elaborados e subscritos por engenheiros civis, engenheiros técnicos e engenheiros electrotécnicos e engenheiros mecânicos, consoante as respectivas especialidades a tratar, em conformidade com os artigos 4.º e 5.º do mesmo decreto.
+Art. 14.º Os projectos de arquitectura serão elaborados e subscritos por arquitectos ao abrigo do n.º 4 do artigo 3.º do [Decreto n.º 13/73](https://diariodarepublica.pt/dr/detalhe/decreto/13-1973-683666). Os projectos de estrutura de edifícios e de infra-estruturas serão elaborados e subscritos por engenheiros civis, engenheiros técnicos e engenheiros electrotécnicos e engenheiros mecânicos, consoante as respectivas especialidades a tratar, em conformidade com os artigos 4.º e 5.º do mesmo decreto.
 
-###### Art. 15.º Qualquer ajustamento às previsões do presente Plano apenas poderá ser considerado desde que daí advenha uma melhoria e, consequentemente, se traduza em vantagem para o conjunto geral do Plano. Estes casos são submetidos à consideração da Direcção-Geral de Planeamento Urbanístico.
+Art. 15.º Qualquer ajustamento às previsões do presente Plano apenas poderá ser considerado desde que daí advenha uma melhoria e, consequentemente, se traduza em vantagem para o conjunto geral do Plano. Estes casos são submetidos à consideração da Direcção-Geral de Planeamento Urbanístico.
 
-###### Art. 16.º A Câmara Municipal de Espinho estabelecerá o montante das multas e ou outras sanções a aplicar aos infractores do Plano.
+Art. 16.º A Câmara Municipal de Espinho estabelecerá o montante das multas e ou outras sanções a aplicar aos infractores do Plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28200/37333734.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28200/37333734.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28200/37333734.pdf)

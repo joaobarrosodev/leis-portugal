@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/86/1995/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/86-1995-644891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a835b9511b25daa500d6e74c083ebb11a22f29aa9ed2ad84e923d1e9623413cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f462ca3a1af57d9fdc4fa92fd4b1850c1f164d53173b5a52ecdf802cd3961e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Investigação Científica e Tecnológica
+- Apoio ao Investimento
 - Cooperação Interempresas
 - Cooperação Técnica
 - Definição de Competências
 - Desenvolvimento Industrial
-- Política Industrial
-- Mudança Tecnológica
 - Direcção Geral da Indústria
+- Empresa
+- Equipamento Agrícola
 - Equipamento Eléctrico
+- Equipamento Industrial
 - Equipamento Térmico
-- Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
 - Indústria
-- QCA
+- Investigação Científica e Tecnológica
 - Modernização Industrial
 - Modernização Tecnológica
-- Proteção do Ambiente
+- Mudança Tecnológica
+- Pedip II
+- Pequenas e Médias Empresas
+- Política Industrial
 - Prestação de Serviços
 - Prodibeta
+- Projeto de Investimento
+- Proteção do Ambiente
+- QCA
 - Regime de Apoio
-- Pequenas e Médias Empresas
-- Equipamento Agrícola
-- Equipamento Industrial
 - Sinaipedip
-- Pedip II
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -100,6 +100,28 @@ relationships:
   target: pt:dre:667748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DN 545/94 DE 11-JUL DR.IS-B [174] DE 29/JUL/1994, NA REDACÇÃO DADA PELO DN 40/95 DE 09-JUL DR.IS-B [181] DE 07/AGO/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DN 768/94 DE 22-NOV DR.IS-B [280]SUPL DE 05/DEZ/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-12-05'
+- type: amended_by
+  target: pt:dre:321948:por
+  label: "Alterado o art. 1.º e os arts. 6.º e 10.º do anexo IV do presente diploma, posteriormente alterado pelo DN 14/96\
+    \ de 10-Abr, pelo DN.25/99.1999.04.07.MECO DR.IS-B [110] DE 12/MAI/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/25-1999-321948
+  date: '1999-04-07'
+- type: amended_by
+  target: pt:dre:667748:por
+  label: "Dada nova redacção ao anexo III, alterado pelos DN 14/96 de 10-Abr e 25/99 de 12-Mai, pelo DN.47/99.1999.09.22.MECO,\
+    \ DR.IS-B [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/47-1999-667748
+  date: '1999-09-22'
 - type: cites
   target: celex:31994D0170
   label: null
@@ -107,13 +129,13 @@ relationships:
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:40Z'
   warnings: []
   errors: []
 ---
@@ -576,7 +598,7 @@ Critério complementar
 
 Serão objecto de um tratamento mais favorável os projectos que se insiram nas seguintes áreas prioritárias da política industrial:
 
-Que se traduzam na fabricação ou adaptação de produtos provenientes de processos de I&DT apoiados pelo PEDIP II ou por programas comunitários integrados no programa quadro de I&DT;
+Que se traduzam na fabricação ou adaptação de produtos provenientes de processos de I&DT apoiados pelo PEDIP II ou por programas comunitários integrados no programa quadro de I&DT
 
 Que visem o fabrico de equipamentos e ou sistemas produtivos que apresentem redução significativa de impacte ambiental;
 
@@ -610,7 +632,7 @@ Percentagem do incentivo
 
 A percentagem do incentivo a atribuir é função da valia industrial do projecto, calculada em conformidade com a metodologia constante do anexo A, e será atribuída de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf))](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
 
 2.º
 
@@ -924,7 +946,7 @@ g) Realização de planos de marketing e comerciais suportados por um plano cons
 
 2 - O incentivo, com excepção do que se refere à formação profissional, é função da classificação obtida nos critérios de selecção, de acordo com o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf))](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
 
 3 - A percentagem do incentivo a atribuir é de 60% no nível máximo e de 50% no nível intermédio do incentivo.
 
@@ -938,7 +960,7 @@ g) Realização de planos de marketing e comerciais suportados por um plano cons
 
 ## ANEXO B — Limites máximos de incentivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf))](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
 
 ## ANEXO C — Critérios de enquadramento
 
@@ -1212,7 +1234,7 @@ Incentivo
 
 2 - Os limites máximos do incentivo a atribuir são os constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf))](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/299b00/82588268.pdf)
 
 3 - Com excepção do que se refere à formação profissional, o montante total do incentivo não poderá exceder dois terços do custo total do investimento.
 

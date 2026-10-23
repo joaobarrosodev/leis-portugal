@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/797-1973-411579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d853ee2b7079ff68c0ad5aff43828d300ccabd3ee2da13d8ea21c4cc87b26c4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29942d647259a4dd091c26ceaabffa2a229ef7dffff69cb889fdf540dc70d105
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:138820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:18Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +104,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 Centro Mecanográfico do Depósito Geral de Material da Força Aérea, como órgão periférico da Central Mecanográfica da Força Aérea;
 
-#### Secção de Mecanografia e Estatística da Direcção do Serviço de Material;
+Secção de Mecanografia e Estatística da Direcção do Serviço de Material;
 
-#### Secção de Mecanografia e Estatística da Direcção do Serviço de Intendência e Contabilidade;
+Secção de Mecanografia e Estatística da Direcção do Serviço de Intendência e Contabilidade;
 
-#### Secção de Mecanografia e Estatística da Direcção do Serviço de Pessoal.
+Secção de Mecanografia e Estatística da Direcção do Serviço de Pessoal.
 
 2.º O Centro Mecanográfico do Depósito Geral de Material da Força Aérea tem por finalidade essencial o tratamento mecanográfico de actividades de abastecimento exercidas no Depósito, competindo-lhe especialmente:
 
@@ -124,6 +136,6 @@ Secretaria de Estado da Aeronáutica, 26 de Outubro de 1973. - O Secretário de 
 
 Quadros de pessoal privativos da Direcção do Serviço de Mecanografia e Estatística, Centro Mecanográfico do D. G. M. F. A. e Secções de Mecanografia e Estatística de Direcções dos Serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/11/26700/22002201.pdf))](https://files.diariodarepublica.pt/1s/1973/11/26700/22002201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/11/26700/22002201.pdf)
 
-**O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.

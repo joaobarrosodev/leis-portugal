@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/10500/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/33/2025/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/33-2025-920154710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32d0668d9f2120aaf838032d5f001071cfc4e87b1152c16de070d717cb6bfb78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eb7e86ad18fce2e1e2e5c803289e0b66856701d0551851dd8b2487fc8196677
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bruxelas
+- Embaixador
 - Exoneração
 - Portugal
-- Embaixador
-- Bruxelas
 relationships:
+- type: amends
+  target: pt:numero:decreto-presidente-republica:16/2023
+  label: Exonera, com efeitos a 5 de maio de 2025, o nomeado pelo Decreto do Presidente da República n.º 16/2023, de 19 de
+    janeiro, Diário da República n.º 14/2023, Série I
+  source: null
+  date: '2023-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40-a/1998/02/27/p/dre
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:34Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +103,18 @@ validation:
 
 de 2 de junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o embaixador Jorge Tito de Vasconcelos Nogueira Dias Cabral do cargo de Embaixador de Portugal em Bruxelas, com efeitos a 5 de maio de 2025, transitando para a situação de disponibilidade, por ter atingido o limite de idade nos termos previstos no n.º 2 do artigo 30.º e do artigo 50.º do [Decreto-Lei n.º 40-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1998-399178), de 27 de fevereiro, na redação atual.
 
-**Assinado em 16 de maio de 2025.**
+Assinado em 16 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de maio de 2025.**
+Referendado em 29 de maio de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.**
+O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.
+
+119123763

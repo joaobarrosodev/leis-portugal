@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18100/0812308140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/199/2015/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2015-70309902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e23b50d8e4a994c0b3c705c0027da9c55fa33dadc6b35fda155b82026475f092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9715da4786141d224f7ebfeefb8f6896955f4a751457cbf2310d41bc72423f66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agricultura
+- Aproveitamento Hidroagrícola
 - Atividade Agrícola
-- Programa de Desenvolvimento Rural
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Região Autónoma
-- Desenvolvimento Rural
 - Comissão Consultiva
-- Ordenamento do Território
-- Plano Director Municipal
-- Direção Geral da Agricultura e Desenvolvimento Rural
 - Contra-ordenação
 - Definição de Competências
+- Desenvolvimento Rural
+- Direção Geral da Agricultura e Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
 - Direito de Preferência
 - Entidade Nacional da Reserva Agrícola Nacional
-- Reserva Agrícola Nacional
+- Entidade Regional da Reserva Agrícola Nacional
 - Fiscalização
-- Aproveitamento Hidroagrícola
 - Interesse Público
-- Programa Nacional da Política de Ordenamento do Território
+- Madeira.região Autónoma
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Ordenamento do Território
 - Parecer
-- Proteção do Ambiente
-- Zona de Proteção
+- Plano Director Intermunicipal
+- Plano Director Municipal
 - Política de Solos
 - Prédio Rústico
-- Madeira.região Autónoma
-- Sistema Nacional de Áreas Classificadas
-- Regime Jurídico
-- Agricultura
-- Entidade Regional da Reserva Agrícola Nacional
-- Açores
+- Programa de Desenvolvimento Rural
+- Programa Nacional da Política de Ordenamento do Território
+- Proteção do Ambiente
 - Rede Fundamental de Conservação da Natureza
-- Plano Director Intermunicipal
+- Região Autónoma
+- Regime Jurídico
+- Reserva Agrícola Nacional
+- Sistema Nacional de Áreas Classificadas
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:901535572:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:207272800:por
+  label: Alterado, com efeitos a 01.03.2023, o art.23.º e revogado o n.º 9 do art. 23.º do Dec Lei 73/2009 de 31-mar na versão
+    republicada do presente diploma,pelo(a) Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2023-207272800
+  date: '2023-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
   label: null
@@ -131,16 +137,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/162/2011/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/162/2011/04/18/p/dre
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
-  article_count: 78
+  article_count: 56
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:10Z'
   warnings: []
   errors: []
 ---
@@ -219,13 +261,17 @@ p) [...];
 
 q) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A RAN articula-se com o quadro estratégico e normativo estabelecido no Programa do Desenvolvimento Rural, no Programa Nacional da Política de Ordenamento do Território, na Estratégia Nacional para as Florestas, nos programas setoriais com incidência territorial e nos programas regionais.
 
 2 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -233,7 +279,9 @@ q) [...].
 
 3 - As áreas beneficiadas por obras de aproveitamento hidroagrícola não inseridas em solo urbano identificado nos planos territoriais de âmbito intermunicipal ou municipal são classificadas como RAN.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -245,17 +293,23 @@ q) [...].
 
 5 - Nos casos previstos no número anterior, os planos territoriais de âmbito intermunicipal ou municipal de ordenamento do território em vigor na área em causa são objeto de alteração por adaptação, nos termos previstos no regime jurídico dos instrumentos de gestão territorial.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Não integram a RAN as terras ou solos que integrem o solo urbano identificado nos planos territoriais de âmbito intermunicipal ou municipal.
 
 2 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 As áreas da RAN são obrigatoriamente identificadas nas plantas de condicionantes dos planos territoriais de âmbito intermunicipal ou municipal.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A delimitação da RAN ocorre no âmbito da elaboração, alteração ou revisão dos planos territoriais de âmbito intermunicipal ou municipal.
 
@@ -267,7 +321,9 @@ As áreas da RAN são obrigatoriamente identificadas nas plantas de condicionant
 
 5 - [...].
 
-###### Artigo 14.º — Acompanhamento e aprovação da proposta de delimitação da RAN
+Artigo 14.º
+
+Acompanhamento e aprovação da proposta de delimitação da RAN
 
 1 - A entidade responsável pela proposta de elaboração, alteração ou revisão de plano territorial de âmbito intermunicipal ou municipal, elabora a proposta de delimitação da RAN, incluindo informação relativa aos critérios que presidiram à elaboração da proposta, da exclusão e integração de áreas constantes da delimitação em vigor.
 
@@ -301,7 +357,9 @@ As áreas da RAN são obrigatoriamente identificadas nas plantas de condicionant
 
 16 - [Revogado].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -311,7 +369,9 @@ As áreas da RAN são obrigatoriamente identificadas nas plantas de condicionant
 
 4 - Os erros materiais, patentes e manifestos, na cartografia da RAN são comunicados pela DRAP territorialmente competente ao município, que procede à respetiva retificação no prazo de 90 dias.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -323,7 +383,9 @@ b) No prazo para a execução de plano territorial de âmbito intermunicipal ou 
 
 3 - Decorridos os prazos previstos nos números anteriores e para efeitos de reintegração, a câmara municipal promove obrigatoriamente a alteração do plano territorial que contenha a delimitação nos termos da alteração por adaptação prevista no regime jurídico dos instrumentos de gestão territorial.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - As utilizações não agrícolas de áreas integradas na RAN só podem verificar-se quando, cumulativamente, não causem graves prejuízos para os objetivos a que se refere o artigo 4.º e não exista alternativa viável fora das terras ou solos da RAN, no que respeita às componentes técnica, económica, ambiental e cultural, devendo localizar-se, preferencialmente, nas terras e solos classificados como de menor aptidão, e quando estejam em causa:
 
@@ -363,7 +425,9 @@ p) Obras decorrentes de exigências legais supervenientes relativas à regulariz
 
 4 - As utilizações não agrícolas previstas nas alíneas b) e c) do n.º 1 constituem, respetivamente, o agricultor e o proprietário na obrigação de alteração do domicílio fiscal para a área da residência própria e permanente ali referida.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As utilizações não agrícolas de áreas integradas na RAN para as quais seja necessária concessão, aprovação, licença, autorização administrativa ou comunicação prévia estão sujeitas a parecer prévio vinculativo das respetivas entidades regionais da RAN, a emitir no prazo de 20 dias.
 
@@ -385,7 +449,9 @@ p) Obras decorrentes de exigências legais supervenientes relativas à regulariz
 
 10 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Podem ser autorizadas, a título excecional, utilizações não agrícolas de áreas integradas na RAN para a realização de ações de relevante interesse público que sejam reconhecidas como tal por despacho dos membros do Governo responsáveis pela área do desenvolvimento rural e demais áreas envolvidas em razão da matéria, desde que não se possam realizar de forma adequada em áreas não integradas na RAN.
 
@@ -415,7 +481,9 @@ e) Cópia de alvarás de autorização de utilização válidos, anteriormente e
 
 9 - A emissão de pareceres dos serviços competentes em razão da matéria objeto da pretensão requerida não se encontra sujeita ao pagamento de taxa.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - No caso da situação prevista na alínea b) do n.º 1 do artigo 22.º, os prédios que constituem a exploração agrícola são inalienáveis por um prazo de 10 anos subsequentes à construção ou ampliação, salvo por dívidas relacionadas com a aquisição dos bens imóveis da exploração e de que estes sejam garantia ou por dívidas tributárias.
 
@@ -429,7 +497,9 @@ e) Cópia de alvarás de autorização de utilização válidos, anteriormente e
 
 6 - Compete ao interessado efetuar o registo predial do referido ónus no prazo de 30 dias após a emissão do título a que se refere o número anterior, dando conhecimento à DRAP desse ato, preferencialmente por via eletrónica.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 [...]:
 
@@ -451,7 +521,9 @@ h) [Anterior alínea f).];
 
 i) [Anterior alínea g)].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]:
 
@@ -473,7 +545,9 @@ h) Emitir o parecer e elaborar a proposta referidos no n.º 8 do artigo 25.º
 
 2 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]:
 
@@ -493,11 +567,15 @@ e) A comunicação do registo do ónus de inalienabilidade previsto no n.º 6 do
 
 4 - O fornecimento de informação por parte das diferentes entidades com competência no âmbito do presente decreto-lei e legislação complementar é concretizado de forma desmaterializada através da disponibilização da adequada interligação técnica com a Plataforma de Interoperabilidade da Administração Pública pelos respetivos sistemas de informação.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 São nulos todos os atos administrativos praticados em violação do disposto nos artigos 22.º a 25.º
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]:
 
@@ -515,13 +593,17 @@ d) O incumprimento do disposto no n.º 5 do artigo 29.º
 
 4 - [...].
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - A fiscalização do disposto no presente decreto-lei compete às DRAP e aos municípios, sem prejuízo das competências atribuídas por lei às autoridades policiais e demais entidades fiscalizadoras.
 
 2 - As DRAP devem comunicar à Inspeção-Geral de Finanças todas as situações em que verifiquem haver violação do disposto no presente decreto-lei, por parte das autarquias locais.
 
-###### Artigo 44.º — Reposição da legalidade
+Artigo 44.º
+
+Reposição da legalidade
 
 1 - Após audição dos interessados e independentemente de aplicação das coimas, compete ao diretor regional de agricultura e pescas territorialmente competente determinar que os responsáveis pelas ações violadoras do regime da RAN procedam à respetiva conformação com a legislação aplicável, fixando o prazo e os termos que devem ser observados.
 
@@ -535,7 +617,9 @@ d) O incumprimento do disposto no n.º 5 do artigo 29.º
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -545,7 +629,9 @@ d) O incumprimento do disposto no n.º 5 do artigo 29.º
 
 4 - O pagamento a que se refere o n.º 1 deve ser efetuado preferencialmente através da Plataforma de pagamentos da Administração Pública.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [Revogado].
 
@@ -587,15 +673,15 @@ O presente decreto-lei aplica-se apenas aos procedimentos que se iniciem após a
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 4 de setembro de 2015.**
+Promulgado em 4 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de setembro de 2015.**
+Referendado em 10 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 

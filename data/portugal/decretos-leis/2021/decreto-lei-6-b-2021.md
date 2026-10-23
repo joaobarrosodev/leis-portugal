@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 31-(2) a 31-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01001/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6-b/2021/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-b-2021-154202309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f2524618438075c65381c371f9706f9bb88ce19d60b3c331c3656918b5b9999
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8d48cb5ba45a4ebec004473faed973703ea782ead558c66c9be49a14b8834d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Autoridade da Mobilidade e dos Transportes
 - Compensação Financeira
-- Estado de Emergência
-- Informação
-- Operador Económico
 - Doença Infecciosa
 - Epidemia
+- Estado de Emergência
+- Financiamento
+- Informação
+- Operador Económico
 - Prestação de Serviços
 - Transporte de Passageiros
 - Transporte Público
-- Autoridade da Mobilidade e dos Transportes
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2020/01/03/p/dre
   label: null
@@ -118,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:127764896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:06Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +210,9 @@ Os artigos 2.º a 6.º do [Decreto-Lei n.º 14-C/2020](https://diariodarepublica
 
 4 - Para o ano de 2021, podem ser disponibilizadas ao abrigo do presente decreto-lei as verbas aprovadas pela [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, que aprovou o Orçamento do Estado para 2021, nos termos e limites a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -178,19 +222,25 @@ Os artigos 2.º a 6.º do [Decreto-Lei n.º 14-C/2020](https://diariodarepublica
 
 4 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As verbas destinadas ao PROTransP em 2020 e 2021 podem, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, ser utilizadas para o financiamento de serviços de transporte público considerados como serviços essenciais, ao abrigo do Despacho n.º 3547-A/2020, publicado no Diário da República, 2.ª série, n.º 57-B, 1.º suplemento, de 22 de março de 2020.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As compensações relativas à venda do passe 4_18@escola.tp, do passe sub23@superior.tp e do passe Social+ referentes ao segundo, terceiro e quarto trimestre de 2020 e ao ano de 2021 são pagas aos operadores de transporte com base no histórico de compensações dos meses homólogos de 2019.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -234,12 +284,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Tiago Brandão Rodrigues - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 14 de janeiro de 2021.**
+Promulgado em 14 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de janeiro de 2021.**
+Referendado em 14 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113890507

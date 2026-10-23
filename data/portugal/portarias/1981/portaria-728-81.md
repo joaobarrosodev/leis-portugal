@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/728-1981-577945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:53:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e244a70ecf45f35249a18cdcb35bed0bd25cb5baca92466920e5a3fb6ecf8607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b63bd696a435e1121ba67469f1edc8fa353ec399ea662df5ba2da343d7187b83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:53:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Letras
+- Mestrado
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:665894:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380917:por
+  label: "Alterado o n.º 5 do anexo VII, pela PORT.1178/82.1982.12.22.ME DR.IS [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1178-1982-380917
+  date: '1982-12-22'
+- type: amended_by
+  target: pt:dre:312443:por
+  label: "Alterado o anexo I pela PORT.363/83.02.04.1983.ME, DR.IS [76] de 02.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/363-1983-312443
+  date: '1983-04-02'
+- type: amended_by
+  target: pt:dre:454052:por
+  label: "Alterados os anexos II e VI pela PORT.813/83.03.08.1983.ME, DR.IS [177] de 03.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-1983-454052
+  date: '1983-08-03'
+- type: amended_by
+  target: pt:dre:381725:por
+  label: "Alterada a al. j) do nº 1 e o Anexo X do presente diploma, na redacção das Ports. 1178/82, de 22-Dez, 363/83, de\
+    \ 04-Abr e 813/83, de 03-Ago, pela PORT.525/84.1984.07.28.ME DR.IS [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-1984-381725
+  date: '1984-07-28'
+- type: amended_by
+  target: pt:dre:665894:por
+  label: "Alterado o n.º 3.2 do anexo VIII ao presente diploma, na redacção das Ports. 1178/82, de 22-Dez, 363/83, de 04-Abr,\
+    \ 813/83, de 03-Ago e 525/84, de 28-Jul, pela PORT.324/87.1987.04.21.MEC DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-1987-665894
+  date: '1987-04-21'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:53:10Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17700/0755307558.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/2015/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2015-70241306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a2a5299d2ab565d345cd17d9a5ff1c379c36f3a9131fb9fe5ce422ca5e90120
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5c9ba6256276f7544447bb75b9a4bbedb5097915cf12af562b68e1efeeea9bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação Mutualista
-- Valores Mobiliários
-- Sociedade Anónima
-- Instituição de Crédito
-- Sociedade Comercial
+- Atividade Bancária
+- Banca
+- Banco de Portugal
 - Caixa de Crédito Agrícola
 - Caixa de Crédito Agrícola Mútuo
 - Caixa Económica
+- CMVM
 - Código das Associações Mútualistas
 - Código das Sociedades Comerciais
-- IPSS
-- Banco de Portugal
-- Banca
-- Atividade Bancária
-- Santa Casa da Misericórdia
 - Crédito
 - Economia Social
+- Instituição de Crédito
+- Instituição Financeira
+- IPSS
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- CMVM
-- Instituição Financeira
+- Santa Casa da Misericórdia
+- Sociedade Anónima
+- Sociedade Comercial
+- Valores Mobiliários
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/292/1998/09/18/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:241440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:01Z'
   warnings: []
   errors: []
 ---
@@ -239,15 +255,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2015. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis.
 
-**Promulgado em 2 de setembro de 2015.**
+Promulgado em 2 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de setembro de 2015.**
+Referendado em 4 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

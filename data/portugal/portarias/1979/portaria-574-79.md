@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 252/1979, 1º Suplemento, Série I de 1979-10-31
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2774-(144) a 2774-(267)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-1979-585068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2506dadf6929c8d980414559a5bcf4c076a0640a4f4a001acccec11b3a16ca7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba319c4dc2bf52a4b8e409e93b58de5b6c159444c7cfa28d4ce3c4730552a56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Manual Escolar
+- Programa
+relationships:
+- type: cites
+  target: pt:dre:381133:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:57Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +118,7 @@ a) Português - L. T. ou (L. T. + L. A.);
 
 b) Língua Estrangeira (Francês, Inglês, Alemão):
 
-# Livro do aluno - (L. T. + L. A.) ou (L. T. + L. I.) acompanhado do livro do professor - (L. T. + L. I.) ou (L. T. + L. A. + L. I.);
+Livro do aluno - (L. T. + L. A.) ou (L. T. + L. I.) acompanhado do livro do professor - (L. T. + L. I.) ou (L. T. + L. A. + L. I.);
 
 c) História - L. I. + L. A.;
 
@@ -202,17 +210,17 @@ Para atingir estes objectivos devem ter-se em conta os aspectos que se explicita
 
 Quadro de desenvolvimento programático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Quadro de desenvolvimento programático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Sugestão de núcleos temáticos
 
 Para a estruturação das unidades didácticas em que se organizem as actividades indicadas neste programa-proposta, parece útil a sugestão de núcleos temáticos que se prendam à realidade vivida e que sejam adequados ao nível etário dos alunos. Simples sugestão, ela não invalida, e antes pressupõe, que o professor ou grupo de professores, considerando os interesses manifestados pelos alunos, encontrem e planifiquem outros esquemas de núcleos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Nota. - As indicações didácticas, que propositadamente não se incluíram no programa, serão posteriormente enviadas, enriquecidas por documentação relativa a algumas das actividades propostas.
 
@@ -264,7 +272,7 @@ Meios áudio-visuais.
 
 Quadro de desenvolvimento programático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Os núcleos temáticos
 
@@ -274,7 +282,7 @@ Sendo a educação um fenómeno humano, é evidente que ela se debruça sobre os
 
 «O homem - um ser no mundo com o mundo.»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Obras de leitura integral (para selecção)
 
@@ -668,7 +676,7 @@ rien;
 
 à / au / à l' / à la / aux + nome de lugar;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 derrière / devant / sous / sur, en face (de), dans, en bas (de), en haut (de), là / ici / chez, loin (de), près (de), à proximité de (em frases do tipo: «C'est un bel appartement bien situé à proximité de tous commerces»).
 
@@ -776,7 +784,7 @@ O programa é seguido de um apêndice contendo realizações linguísticas que c
 
 Realizações linguísticas para concretização dos objectivos propostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Bibliografia utilizada para a elaboração do actual programa de Francês
 
@@ -908,9 +916,9 @@ Mistos: mobylette - bicyclette - moto;
 
 «Magasins», «grands magasins», «grandes surfaces»:
 
-2.1.2.1 - Objectos: [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+2.1.2.1 - Objectos: [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
-2.1.2.2 - Produtos: [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+2.1.2.2 - Produtos: [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2.1.3 - Serviços públicos:
 
@@ -1156,7 +1164,7 @@ IV - Objectos e noções
 
 Noções gerais e específicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 V - Actos de comunicação
 
@@ -1224,7 +1232,7 @@ Tu sais quoi faire?
 
 2 - Formular um convite:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Venez donc dîner à la maison jeudi soir.
 
@@ -1328,7 +1336,7 @@ Il faut que je vous dise que ...
 
 Figure toi que ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Tiens-toi bien (fam.).
 
@@ -1336,7 +1344,7 @@ Tiens-toi bien (fam.).
 
 Je vous ordonne de me donner cette lettre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 J'exige que vous me donniez cette lettre (immédiatement).
 
@@ -1354,11 +1362,11 @@ Parlez-lui en.
 
 (Si j'ai un conseil à vous donner.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Vous feriez bien (mieux) de lui en parler.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Il lui a conseillé de ...
 
@@ -1382,7 +1390,7 @@ Je vous en prie, ne me laissez pas seul.
 
 Je vous en supplie, ne me laissez pas seul.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Vous ne pouvez pas me laisser seul.
 
@@ -1400,7 +1408,7 @@ Si on allait au cinéma?
 
 On pourrait aller au cinéma.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Qu'est-ce que tu dirais d'aller ou cinéma?
 
@@ -1426,15 +1434,15 @@ Vous pourriez peut-être lui en parler.
 
 Pourquoi ne pas lui en parler?
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 11 - Fazer uma advertência:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Attention, il y a des risques d'avalanche.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Je te préviens!
 
@@ -1454,7 +1462,7 @@ Je vous interdis d'ouvrir cette lettre.
 
 N'ouvrez pas cette lettre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Défense de fumer.
 
@@ -1532,13 +1540,13 @@ C'est bien?
 
 Ça te plaît?
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 16 - Pedir informações (vide «Formular perguntas»):
 
 Tu veux bien me dire si ...?
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Dis-moi si ...
 
@@ -1560,7 +1568,7 @@ Comment as-tu fait?
 
 17 - Interpelar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 S'il vous plaît!
 
@@ -1632,7 +1640,7 @@ Vous faites erreur.
 
 19 - Cumprimentar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Salut.
 
@@ -1644,7 +1652,7 @@ Comment ça va?
 
 20 - Responder a um cumprimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Salut.
 
@@ -1658,7 +1666,7 @@ Et vous mêmes?
 
 21 - Despedir-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Salut.
 
@@ -1714,7 +1722,7 @@ C'est tout.
 
 II y avait Paul, Marie et Pierre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 24 - Contar:
 
@@ -1770,13 +1778,13 @@ Je te serais reconnaissant de ...
 
 Je te saurais gré de ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Ça m'ennuierait que ...
 
 Je m'interèsse à la musique.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 J'apprécie (beaucoup) Paul.
 
@@ -1818,7 +1826,7 @@ Je compte sur lui.
 
 Il est digne de confiance.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 N'aie pas peur.
 
@@ -1828,7 +1836,7 @@ Ne t'inquiète pas.
 
 Tout ira bien.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Je me méfie de Paul.
 
@@ -1856,13 +1864,13 @@ Je t'aurai (au tournant) (fam.).
 
 Salaud! (fam.).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Cela me rend fier.
 
 Il y a de quoi être fier.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Je me fais honte.
 
@@ -1918,19 +1926,19 @@ Je serais (content, heureux) que ...
 
 Ça (ne) te derangerait (pas) de ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Ça ne fait rien.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Dans l'espoir que ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Pourvu qu'il vienne!
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 J'ai peur qu'il (ne) vienne (pas).
 
@@ -1944,7 +1952,7 @@ Je suis content qu'il se soit décidé.
 
 Je suis content de vous.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 (Comme) ça me fait plaisir de te voir!
 
@@ -1962,7 +1970,7 @@ J'ai la (très grande) joie de vous annoncer que ...
 
 À mon grand regret, il n'est pas venu.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Hélas, il n'est pas venu.
 
@@ -1984,7 +1992,7 @@ J'aime bien Paul.
 
 Paul est mon ami.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 J'aime Paul.
 
@@ -2056,7 +2064,7 @@ J'en ai marre (fam.).
 
 Paul est sans doute malade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Il y a de fortes chances pour que Paul ait la jambe cassée.
 
@@ -2072,7 +2080,7 @@ Je ne pense pas que ...
 
 31 - Exprimir uma indecisão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Je ne sais pas ce que je veux.
 
@@ -2108,7 +2116,7 @@ Tous mes compliments.
 
 Bravo!
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Tu as (bien) ou raison de faire ça.
 
@@ -2118,11 +2126,11 @@ Je suis fier de toi.
 
 Tu peux être fier.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Tu fais bien de me le dire.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Merci de me le rappeler.
 
@@ -2184,7 +2192,7 @@ Pourquoi pas! (intonation).
 
 33 - Exprimir uma crítica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 II n'y a pas de quoi être fier.
 
@@ -2244,7 +2252,7 @@ J'aurais parié que non.
 
 Je l'ignore.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Je me le demande.
 
@@ -2730,7 +2738,7 @@ Composição dirigida sobre temas já estudados.
 
 5 - Instrumentos didácticos
 
-# Livro de textos
+## Livro de textos
 
 O livro, profusamente ilustrado com imagens sugestivas (fotografias, desenhos, reproduções de textos impressos, anúncios, por exemplo), deverá conter textos curtos em prosa e em verso - diálogos, narrativas, cartas, poesias, etc. - que possibilitem um ensino activo da língua e documentem com autenticidade o pensamento e a temática expostos na rubrica «Núcleos vocabulares e situacionais».
 
@@ -3324,11 +3332,11 @@ A selecção de funções e do material linguístico implícito que a seguir se 
 
 7.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 8.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Tópicos/Funções/Noções
 
@@ -3342,11 +3350,11 @@ No inventário de expoentes lexicais (Specific Notions), que não pretende ser d
 
 7.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 8.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Estruturas e categorias gramaticais
 
@@ -4220,29 +4228,29 @@ Quanto ao tipo e significado do tom - unidade básica de entoação em inglês -
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2 - O tom de perguntas do tipo «yes - no» é normalmente ascendente (rising tone):
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 3 - Em incitamentos, negações (corteses), ordens, convites, cumprimentos, despedidas, etc., também se observa o tom ascendente (rising tone):
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 4 - Um tom descendente-ascendente (fall-rise) expressa muitas vezes uma certa reserva ou qualquer coisa que fica em suspenso:
 
 Exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 5 - O tom do núcleo determina o tipo de tom da unidade tonal que se lhe segue. Assim, normalmente, após um tom descendente (falling tone) o resto da unidade mantém a mesma direcção:
 
-Exemplo: [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+Exemplo: [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Bibliografia
 
@@ -4614,7 +4622,7 @@ Composição dirigida sobre temas já estudados.
 
 5 - Instrumentos didácticos
 
-# Livro de textos. - O livro, profusamente ilustrado com imagens sugestivas (fotografias, desenhos, reproduções de textos impressos, anúncios, por exemplo), deverá conter textos curtos em prosa e em verso - diálogos, narrativas, cartas, poesias, etc. - que possibilitem um ensino activo da língua e documentem com autenticidade o pensamento e a temática expostos na rubrica «Núcleos vocabulares e situacionais».
+Livro de textos. - O livro, profusamente ilustrado com imagens sugestivas (fotografias, desenhos, reproduções de textos impressos, anúncios, por exemplo), deverá conter textos curtos em prosa e em verso - diálogos, narrativas, cartas, poesias, etc. - que possibilitem um ensino activo da língua e documentem com autenticidade o pensamento e a temática expostos na rubrica «Núcleos vocabulares e situacionais».
 
 O livro de textos será utilizado apenas como um dos vários instrumentos de trabalho de que o professor e alunos dispõem. Sempre que necessário, o professor (e, nalguns casos, o próprio aluno) poderá completar, ampliar ou enriquecer um tema em estudo com outros textos ou documentos que ache oportunos ou mais válidos.
 
@@ -4956,7 +4964,7 @@ Estruturas básicas
 
 3 - Pronomes (nominativo, acusativo e dativo):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 4 - Adjectivos - como atributo.
 
@@ -5026,7 +5034,7 @@ Chama-se a atenção para o facto de se tratar apenas de uma sugestão de trabal
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Bibliografia
 
@@ -5118,7 +5126,7 @@ A exploração adequada dos dados recolhidos conduzirá à formulação de hipó
 
 Finalmente, pretende-se a estruturação dos conhecimentos adquiridos por meio da análise dos condicionalismos, das consequências dos momentos de ruptura, das resistências que conduzem à inteligibilidade do processo histórico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Bibliografia
 
@@ -5234,7 +5242,7 @@ Sumário
 
 2 - Bibliografia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Bibliografia
 
@@ -6304,7 +6312,7 @@ Translações: definição, determinação da imagem de um ponto dado e problema
 
 As seguintes consequências imediatas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Quadrilátero convexo com dois lados iguais e paralelos é paralelogramo; os lados opostos de um paralelogramo são iguais;
 
@@ -6334,35 +6342,35 @@ As diagonais de um rectângulo são iguais.
 
 3 - Números racionais:
 
-3.1 - O conjunto [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf):
+3.1 - O conjunto [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf):
 
 Números inteiros (relativos); sua representação num eixo. Valor absoluto de um número inteiro; números simétricos. As relações < e > entre números inteiros.
 
-Adição em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf). Propriedades da adição: associativa, comutativa, existência de elemento neutro, existência de elemento oposto para cada elemento.
+Adição em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf). Propriedades da adição: associativa, comutativa, existência de elemento neutro, existência de elemento oposto para cada elemento.
 
 Adição sucessiva e generalizada das propriedades comutativa e associativa.
 
-Subtracção em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf); identificação da diferença de dois números com a soma do aditivo com o simétrico do subtractivo.
+Subtracção em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf); identificação da diferença de dois números com a soma do aditivo com o simétrico do subtractivo.
 
-Adição algébrica. Simplificação da escrita. Uso de parênteses. Aplicação do estudo da adição à resolução de equações do tipo x (mais ou menos) a = b (a, b,(pertence a) [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)).
+Adição algébrica. Simplificação da escrita. Uso de parênteses. Aplicação do estudo da adição à resolução de equações do tipo x (mais ou menos) a = b (a, b,(pertence a) [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)).
 
-3.2 - O conjunto [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf):
+3.2 - O conjunto [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf):
 
-Números racionais (relativos). Sua representação num eixo. As relações < e > entre números racionais. Extensão a [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) do estudo da adição e da subtracção em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+Números racionais (relativos). Sua representação num eixo. As relações < e > entre números racionais. Extensão a [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) do estudo da adição e da subtracção em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
-Multiplicação em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf). Propriedades da multiplicação: associativa, comutativa, existência de elemento neutro, existência de elemento oposto para cada elemento em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), existência de elemento absorvente. Propriedade distributiva da multiplicação em relação à adição algébrica.
+Multiplicação em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf). Propriedades da multiplicação: associativa, comutativa, existência de elemento neutro, existência de elemento oposto para cada elemento em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), existência de elemento absorvente. Propriedade distributiva da multiplicação em relação à adição algébrica.
 
 Multiplicação sucessiva e generalização das propriedades comutativa e associativa.
 
 Potência de expoente natural e base racional.
 
-##### Divisão em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf); identificação do quociente de dois números racionais com o produto do dividendo pelo inverso do divisor.
+Divisão em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf); identificação do quociente de dois números racionais com o produto do dividendo pelo inverso do divisor.
 
 Cálculo do valor de expressões numéricas.
 
-Cálculo do valor numérico de expressões designatórias quando as variáveis são concretizadas em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+Cálculo do valor numérico de expressões designatórias quando as variáveis são concretizadas em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
-Utilização do estudo das operações em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) na resolução de questões sobre aplicações.
+Utilização do estudo das operações em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) na resolução de questões sobre aplicações.
 
 4 - Problemas e equações:
 
@@ -6422,7 +6430,7 @@ c) 77/15 x 5/(11 x 3);
 
 5) Determina o valor numérico, sob a forma de dízima ou de fracção irredutível, de expressões não mais complicadas que:
 
-a) [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf);
+a) [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf);
 
 b) -2a(elevado a 2) + 3ab(elevado a 3), para a = -0,5 e b = -2/3, por exemplo;
 
@@ -6454,9 +6462,9 @@ c) A papelaria da escola comprou 300 cadernos por uma certa quantia. Se tivesse 
 
 Quanto custou cada caderno?
 
-d) A figura representa um pentágono decomposto num rectângulo de base 8 cm e num triângulo cuja altura [DM] mede 3 cm. Sabendo que a altura do rectângulo excede [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) em 1 cm, que [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e ainda que o perímetro do pentágono é 30 cm, calcule a área desse pentágono;
+d) A figura representa um pentágono decomposto num rectângulo de base 8 cm e num triângulo cuja altura [DM] mede 3 cm. Sabendo que a altura do rectângulo excede [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) em 1 cm, que [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e ainda que o perímetro do pentágono é 30 cm, calcule a área desse pentágono;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 9) Reconhece se uma correspondência dada é aplicação;
 
@@ -6480,19 +6488,19 @@ d) A figura representa um pentágono decomposto num rectângulo de base 8 cm e n
 
 a) Sabendo que CD bissecta o ângulo BCE e dadas as amplitudes do ângulo BCD e de um dos ângulos internos em A, ou em B, ordenar os lados do triângulo ABC;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
-b) Sabendo que, na figura junta, [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), mostrar que AC é perpendicular ao segmento BD no seu ponto médio;
+b) Sabendo que, na figura junta, [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), mostrar que AC é perpendicular ao segmento BD no seu ponto médio;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
-c) Na figura junta, mostrar que [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), sabendo que:
+c) Na figura junta, mostrar que [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), sabendo que:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
-d) Na figura junta, [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf). Mostrar que [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+d) Na figura junta, [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf). Mostrar que [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Nota. - Além destes comportamentos, são ainda de considerar os que dizem respeito ao uso directo dos conhecimentos previstos neste programa.
 
@@ -6504,7 +6512,7 @@ Nota. - Além destes comportamentos, são ainda de considerar os que dizem respe
 
 Regras relativas ao cálculo com potências de expoente natural; potência de um monómio.
 
-Adição, subtracção e multiplicação de polinómios com base nas propriedades das operações correspondentes em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+Adição, subtracção e multiplicação de polinómios com base nas propriedades das operações correspondentes em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
 Transformação de produtos em somas (pela propriedade distributiva da multiplicação em relação à adição e pelos casos notáveis da multiplicação).
 
@@ -6534,19 +6542,19 @@ Determinação do comprimento do lado de um quadrado de área dada; revisão da 
 
 Teorema de Pitágoras estabelecido por considerações relativas a áreas; sua aplicação à resolução de problemas.
 
-2.2 - O conjunto [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+2.2 - O conjunto [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
-Determinação da medida do comprimento da diagonal de um quadrado, tomando o lado para unidade. Demonstração da irracionalidade de [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) (não exigível aos alunos). Números irracionais. Informação de que a todo o número racional corresponde uma dízima finita ou infinita periódica (e reciprocamente) e de que a todo o número irracional corresponde uma dízima infinita não periódica (e reciprocamente). Referência à irracionalidade de [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+Determinação da medida do comprimento da diagonal de um quadrado, tomando o lado para unidade. Demonstração da irracionalidade de [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) (não exigível aos alunos). Números irracionais. Informação de que a todo o número racional corresponde uma dízima finita ou infinita periódica (e reciprocamente) e de que a todo o número irracional corresponde uma dízima infinita não periódica (e reciprocamente). Referência à irracionalidade de [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Representação de números reais num eixo.
 
-Correspondência biunívoca entre [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e o conjunto dos pontos de uma recta: a recta real.
+Correspondência biunívoca entre [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e o conjunto dos pontos de uma recta: a recta real.
 
 Valores aproximados por defeito e por excesso de uma medida a menos de dada unidade decimal.
 
-Cálculo de um valor aproximado da soma e do produto de dois números positivos dos quais um, pelo menos, é irracional (aceita-se tacitamente a extensão a [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) das operações definidas em [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e respectivas propriedades, assim como a extensão das relações < e >).
+Cálculo de um valor aproximado da soma e do produto de dois números positivos dos quais um, pelo menos, é irracional (aceita-se tacitamente a extensão a [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) das operações definidas em [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) e respectivas propriedades, assim como a extensão das relações < e >).
 
 3 - Estudo da circunferência:
 
@@ -6586,7 +6594,7 @@ Aplicação do estudo feito neste capítulo à resolução de problemas.
 
 Composição de translações e adição de vectores. Propriedades da adição de vectores: associativa, comutativa, existência de elemento neutro e existência de elemento oposto para cada elemento (vector simétrico de outro).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 4.2 - Homotetias:
 
@@ -6604,17 +6612,17 @@ Aplicação do estudo feito neste capítulo à resolução de problemas métrico
 
 5 - Aplicações numéricas:
 
-5.1 - Gráfico cartesiano de uma aplicação de [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf):
+5.1 - Gráfico cartesiano de uma aplicação de [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf):
 
 Referencial cartesiano. Correspondência biunívoca entre o conjunto dos pares ordenados de números reais e o conjunto de pontos do plano.
 
-Gráficos de aplicações tais como: [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
+Gráficos de aplicações tais como: [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf).
 
 Determinação de valores aproximados de objectos e de imagens conhecido o gráfico.
 
 5.2 - Proporcionalidade directa:
 
-A aplicação [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) (proporcionalidade directa). Cálculo de imagens ou de objectos por qualquer dos seguintes processos: utilizando uma proporção, utilizando a constante de proporcionalidade, utilizando uma das propriedades:
+A aplicação [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) (proporcionalidade directa). Cálculo de imagens ou de objectos por qualquer dos seguintes processos: utilizando uma proporção, utilizando a constante de proporcionalidade, utilizando uma das propriedades:
 
 Quando se multiplica o objecto por um número a imagem vem multiplicada por esse número;
 
@@ -6624,7 +6632,7 @@ Reconhecimento de variáveis directamente proporcionais em fórmulas simples, ta
 
 Reconhecimento de que o gráfico cartesiano de uma proporcionalidade directa é uma recta que passa na origem.
 
-A aplicação [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) como proporcionalidade entre y e o quadrado de x.
+A aplicação [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) como proporcionalidade entre y e o quadrado de x.
 
 Resolução de problemas da vida corrente, entre os quais alguns envolvendo percentagens.
 
@@ -6632,7 +6640,7 @@ Nota. - A propósito do estudo das aplicações y = kx + b, (lambda) = kx(elevad
 
 5.3 - Proporcionalidade inversa:
 
-A aplicação [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) (proporcionalidade inversa). Cálculo de imagens e de objectos por um dos seguintes processos: utilizando a constante de proporcionalidade (xy = k), utilizando a propriedade - quando se multiplica o objecto por um número, a imagem vem dividida por esse número.
+A aplicação [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf) (proporcionalidade inversa). Cálculo de imagens e de objectos por um dos seguintes processos: utilizando a constante de proporcionalidade (xy = k), utilizando a propriedade - quando se multiplica o objecto por um número, a imagem vem dividida por esse número.
 
 Reconhecimento de variáveis inversamente proporcionais em fórmulas simples, tais como b x h = A (constante).
 
@@ -6666,9 +6674,9 @@ c) 2x(elevado a 3) - 12x(elevado a 2) + 18x
 
 4) Simplifica expressões não mais complicadas que:
 
-a) [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+a) [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
-b) [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+b) [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 c) (2x(elevado a 2))/(5v(elevado a 3)) x (v(elevado a 2))/(4x(elevado a 4))
 
@@ -6690,7 +6698,7 @@ f) S = ((10 + b)/2) h, em ordem a h e em ordem a b;
 
 7) Resolve sistemas de duas equações com duas incógnitas, de grau de dificuldade análogo ao de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 8) Resolve problemas de dificuldade análoga a:
 
@@ -6704,21 +6712,21 @@ b) Um comerciante que paga 18000$00 por mês aos seus dois empregados decidiu at
 
 a) A, B e D são pontos de uma dada circunferência. A recta AB intersecta no ponto C a tangente à circunferência no ponto D e faz com ele um ângulo de 40º.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Supondo que BD = 80º, determine as amplitudes dos arcos AB e AD;
 
 b) [CD] e [BA] são as bases de um trapézio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 c) A corda CD é perpendicular ao raio OA da circunferência de centro O. A recta OB intersecta em D a tangente à circunferência no ponto A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 d) [AB] e [CD] são cordas paralelas ao diâmetro de um semicírculo de raio 13 cm.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 e) Determine o perímetro de um círculo conhecida a área do quadrado inscrito;
 
@@ -6736,11 +6744,11 @@ c) Dados um segmento e uma recta não perpendicular a esse segmento, determine u
 
 d) Demonstre que: se os ângulos adjacentes a uma das bases de um trapézio são iguais, então o trapézio é isósceles.
 
-12) Determina somas como [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), quando esses vectores são dados e os resultados podem ser obtidos através de pontos assinalados em figuras dadas;
+12) Determina somas como [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf), quando esses vectores são dados e os resultados podem ser obtidos através de pontos assinalados em figuras dadas;
 
-13) Reconhece se um dado gráfico é de uma função do tipo [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf);
+13) Reconhece se um dado gráfico é de uma função do tipo [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf);
 
-14) Traça o gráfico cartesiano de funções numéricas do tipo [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf);
+14) Traça o gráfico cartesiano de funções numéricas do tipo [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf);
 
 15) Dada uma proporcionalidade por meio de uma fórmula, exprime essa proporcionalidade por meio de uma proporção e vice-versa;
 
@@ -6806,7 +6814,7 @@ Atendendo a estes dados, a Educação Visual visa os seguintes
 
 Objectivos específicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Aprofundamento do conhecimento dos elementos visuais, da sua interacção e intervenção funcional, numa atitude de descodificação (leitura de mensagem) do desenvolvimento visual.
 
@@ -6816,13 +6824,13 @@ Cabe à Educação Visual, portanto, explorar os campos da interioridade humana 
 
 Para tal, propõem-se duas áreas de acção escolar ou DUAS ZONAS DE DESCOBERTA correspondendo a:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Como resultante do processo, deverá surgir a intervenção valorizadora no meio.
 
 Resumindo, esquematicamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Todo o trabalho a realizar sobre o envolvimente visual se deverá fazer a partir do meio próximo, nas suas dimensões física, estética e social.
 
@@ -6832,7 +6840,7 @@ Será ainda necessário abrir os alunos a uma visão esclarecida sobre a região
 
 Em síntese, propõem-se as seguintes inserções:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Procurar-se-á:
 
@@ -6850,7 +6858,7 @@ Que o grau de aprofundamento seja função dos próprios alunos e do condicionam
 
 Será, ainda, preocupação constante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Avaliação
 
@@ -6874,7 +6882,7 @@ O enquadramento no contexto social do meio próximo e a colaboração positiva n
 
 Para cada uma das zonas de descoberta serão indicados alguns conteúdos relativos ao objecto e conteúdos relativos à organização formal, considerados fundamentais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Indicam-se sugestões de trabalho a realizar pelos alunos e alguns auxiliares didácticos.
 
@@ -6896,7 +6904,7 @@ Esta última incide em:
 
 2.2.3 - Comunicação através de signos visuais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Uma vez decidida a orientação de cada unidade de trabalho, poderá ser afixado na sala de aula um esquema com as indicações da zona em estudo, conteúdos, sugestões de trabalho e auxiliares didácticos respectivos, procurando-se que os alunos, individualmente e em grupo, sejam crescentemente autónomos na sua concretização.
 
@@ -6906,27 +6914,27 @@ Apresentam-se, a seguir, as respectivas fichas de orientação.
 
 1 - Expressão não condicionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2 - Objecto e organização formal
 
 2.1 - Elementos visuais e sua inter-relação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2.2 - Relação forma-função
 
 2.2.1 - Formas naturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2.2.2 - Objectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2.2.3 - Comunicação através de signos visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 4 - Auxiliares didácticos
 
@@ -7158,11 +7166,11 @@ O nível etário do aluno e a perspectiva de que o 8.º ano da escolaridade poss
 
 Assim, mantendo-se os objectivos do ano anterior, acentuar-se-á:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Para esta realização e para o enraizamento de uma atitude positiva do aluno na sua vida futura, como criador e fruidor, será necessário que se acentue também:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Na sequência do que atrás se expôs, cabe à Educação Visual desenvolver a compreensão visual especialmente através do estudo do envolvimento, incidindo no mundo das formas visuais.
 
@@ -7178,7 +7186,7 @@ Expressão e comunicação visual.
 
 Como resultante do processo escolar, deverá surgir a intervenção valorizadora no meio, como atitude permanente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Manter-se-á a orientação pedagógica apontada no ano anterior, segundo a qual:
 
@@ -7202,7 +7210,7 @@ Que o grau de aprofundamento seja função dos próprios alunos e das caracterí
 
 Será ainda preocupação constante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 Avaliação
 
@@ -7220,13 +7228,13 @@ Intervenção valorizadora no meio e colaboração positiva no trabalho de grupo
 
 A zona objecto e organização formal integra, no desenvolvimento da programação do ano anterior, duas áreas de estudos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 No quadro seguinte as duas áreas de estudos são apresentadas com a indicação das alíneas específicas a desenvolver, tendo em vista a resultante pretendida.
 
 Verificar-se-á que na aplicação do programa existe necessariamente uma interpenetração das matérias contempladas nas alíneas, as quais se apresentam isoladas apenas por conveniência de sistematização e apresentação programática.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 No desenvolvimento das alíneas, através de fichas de orientação, serão indicadas as unidades de trabalho que as integram.
 
@@ -7240,13 +7248,13 @@ Fichas de orientação
 
 Relação forma-função - Objectos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 2 - Objecto e organização formal
 
 Expressão e comunicação visual - Mensagens visuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/01440267.pdf)
 
 III - Auxiliares didácticos
 

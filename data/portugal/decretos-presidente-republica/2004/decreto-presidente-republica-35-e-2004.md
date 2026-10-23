@@ -33,7 +33,7 @@ publication:
   reference: Diário da República n.º 167/2004, 1º Suplemento, Série I-A de 2004-07-17
   number: '167'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4424-(2) a 4424-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/167a01/00020003.pdf
 entry_into_force_dates: []
@@ -60,18 +60,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/35-e/2004/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/35-e-2004-150744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98578e75c9bd7af030f03e7f5871374cd3d2602b3100fde52afd0db56e0444d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7f789bee79cbc850ffbdc878ba15f40210f75c439d7cc196312b6b2bdaa2e17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,43 +79,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
-- Ministro da Saúde
-- Ministro da Agricultura Pescas e Florestas
-- Ministro da Justiça
 - Governo XVI
 - Ministro Adjunto do Primeiro-ministro
+- Ministro da Administração Interna
+- Ministro da Agricultura Pescas e Florestas
 - Ministro da Ciência Inovação e Ensino Superior
+- Ministro da Cultura
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Saúde
 - Ministro da Segurança Social da Família e da Criança
 - Ministro das Cidades Administração Local Habitação e Desenvolvimento Regional
+- Ministro das Finanças e da Administração Pública
+- Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado da Defesa Nacional e dos Assuntos do Mar
 - Ministro de Estado das Actividades Económicas e do Trabalho
 - Ministro de Estado e da Presidência
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Turismo
-- Ministro da Cultura
-- Ministro para os Assuntos Parlamentares
 - Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
+- Ministro para os Assuntos Parlamentares
 - Nomeação
-- Ministro das Finanças e da Administração Pública
 - Secretário de Estado da Presidência do Conselho de Ministros
-- Ministro da Educação
-- Ministro das Obras Públicas Transportes e Comunicações
-- Ministro da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:316896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316893:por
+  label: "Exonerado o Dr. Domingos Manuel Martins Jerónimo do cargo de Secretário de Estado da Presidência do Conselho de\
+    \ Ministros, pelo DEC.90-A/2004.24.11.2004.PR, DR.IS-A [276-Supl] de 24.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-a-2004-316893
+  date: '2004-11-24'
+- type: amended_by
+  target: pt:dre:316896:por
+  label: "Exonerados o Dr. Henrique José Monteiro Chaves e o Dr. Rui Manuel Lobo Gomes da Silva, respectivamente, dos cargos\
+    \ de Ministro Adjunto do Primeiro-Ministro e Ministro dos Assuntos Parlamentares, pelo DEC.90-D/2004.24.11.2004.PR, DR.IS-A\
+    \ [276-Supl] de 24.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-d-2004-316896
+  date: '2004-11-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:48Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +137,7 @@ validation:
 
 de 17 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -168,12 +181,12 @@ O Dr. Rui Manuel Lobo Gomes da Silva Ministro dos Assuntos Parlamentares;
 
 O Dr. Domingos Manuel Martins Jerónimo Secretário de Estado da Presidência do Conselho de Ministros.
 
-**Assinado em 17 de Julho de 2004.**
+Assinado em 17 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Julho de 2004.**
+Referendado em 17 de Julho de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

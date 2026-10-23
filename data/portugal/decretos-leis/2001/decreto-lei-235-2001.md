@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/2001/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2001-631836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eb6078510194556112415bb4770d484b6088cdc2dd9ef33dbd9535ca1f2565f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bdc37ff9e3dc6fecce0d77a0cd1599470bad8e075df5b6440104a76b1ab9991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,33 @@ subjects:
 - Capital Social
 - Código Cooperativo
 - Código das Sociedades Comerciais
-- Estabelecimento Mercantil Individual de Responsabilidade Limitada
 - Cooperativa
-- Sociedades
+- Estabelecimento Mercantil Individual de Responsabilidade Limitada
 - Registo Comercial
+- Sociedades
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/343/1998/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/343/1998/11/06/p/dre
+- type: cites
+  target: pt:dre:219121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:45Z'
   warnings: []
   errors: []
 ---
@@ -126,12 +134,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa.
 
-**Promulgado em 11 de Agosto de 2001.**
+Promulgado em 11 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Agosto de 2001.**
+Referendado em 16 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

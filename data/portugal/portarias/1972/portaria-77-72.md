@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-1972-398114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b89808907a9e3560a7d80e0c66d05fd723783c2c8708a8b835ea3635dad478b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 410720861ba62ce858a38c97af43e21202a39b03b726d4b5cd7668f970930033
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:19Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +92,16 @@ Regulamento do Prémio
 
 Engenheiro Gilberto Guerreiro Ranhada
 
-###### Artigo 1.º É criado, por iniciativa de José Ranhada e seus filhos Henrique Guerreiro Ranhada e Maria Judite Guerreiro Ranhada Monteiro, o Prémio Engenheiro Gilberto Guerreiro Ranhada, destinado a galardoar o aluno do 7.º ano do Liceu de Viana do Castelo que obtenha a melhor classificação na disciplina de Matemática.
+Artigo 1.º É criado, por iniciativa de José Ranhada e seus filhos Henrique Guerreiro Ranhada e Maria Judite Guerreiro Ranhada Monteiro, o Prémio Engenheiro Gilberto Guerreiro Ranhada, destinado a galardoar o aluno do 7.º ano do Liceu de Viana do Castelo que obtenha a melhor classificação na disciplina de Matemática.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 20000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta de Crédito Público, assentado ao Liceu de Viana do Castelo.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 20000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta de Crédito Público, assentado ao Liceu de Viana do Castelo.
 
-###### Art. 3.º - 1. 80 por cento do rendimento do referido fundo serão anualmente atribuídos ao aluno ou aluna do Liceu de Viana do Castelo que tenha obtido a melhor classificação na disciplina de Matemática no 7.º ano.
+Art. 3.º - 1. 80 por cento do rendimento do referido fundo serão anualmente atribuídos ao aluno ou aluna do Liceu de Viana do Castelo que tenha obtido a melhor classificação na disciplina de Matemática no 7.º ano.
 
 2. Os 20 por cento a capitalizar serão convertidos em novos títulos, à medida que os fundos acumulados o permitam.
 
 3. Se se verificar igualdade de classificação, o reitor, ouvido o respectivo director do 3.º ciclo, indicará o aluno ou aluna a quem deve ser concedido o Prémio, tendo em atenção as classificações anteriores e o seu comportamento.
 
-###### Art. 4.º A entrega do Prémio referente a um ano lectivo será feita na sessão de abertura das aulas do ano imediato.
+Art. 4.º A entrega do Prémio referente a um ano lectivo será feita na sessão de abertura das aulas do ano imediato.
 
 Pelo Director-Geral do Ensino Secundário, João Rodrigo Narciso Furtado.

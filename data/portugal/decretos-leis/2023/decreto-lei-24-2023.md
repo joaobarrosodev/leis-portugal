@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/06900/0000900017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2023/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2023-211499215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ce086382999c3d3d573ab9900fff9408b02f1f65132672b91e2fade9ab8ee7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89024f1de3942352768ac5bfe89bfe31a29e0895ef0f8990a5605c27347599a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Alvará
 - Ambulância
-- INEM
-- Multa
 - Contra-ordenação
+- INEM
 - Inspecção de Veículos
-- Veículo
+- Multa
 - Transporte de Doentes
+- Veículo
 - Vistoria
 relationships:
 - type: cites
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/260/2014/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/260/2014/12/15/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797338:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:38Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +174,9 @@ b) Se deixarem de se verificar os requisitos previstos no artigo 3.º do present
 
 c) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os veículos utilizados no transporte de doentes devem ser previamente vistoriados pelo Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), que emite um certificado de vistoria.
 
@@ -174,17 +196,23 @@ e) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - São definidas, por decreto regulamentar, as situações em que o Instituto da Mobilidade e dos Transportes, I. P., pode ordenar a inspeção de veículos.
 
 2 - Sem prejuízo do disposto no número anterior e do regime geral aplicável às inspeções de veículos automóveis, os veículos para o transporte de doentes são obrigatoriamente sujeitos a inspeção quando tenham sofrido acidente que obrigue à interrupção da circulação por um prazo superior a 90 dias.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A regulamentação, coordenação e fiscalização técnica de toda a atividade de transporte de doentes, bem como a definição dos requisitos a preencher pelo pessoal afeto à atividade transportadora, compete ao membro do Governo responsável pela área da saúde, sem prejuízo da competência do membro do Governo responsável pela área da administração interna quanto à coordenação e fiscalização dos transportes, características dos veículos e sua utilização.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Constitui contraordenação, punível com coima de (euro) 1000,00 a (euro) 3000,00, para pessoas singulares, e até ao limite de (euro) 25 000,00, para pessoas coletivas:
 
@@ -206,7 +234,9 @@ f) O exercício da atividade de transporte de doentes por tripulantes que não e
 
 4 - A tentativa e a negligência são puníveis, sendo, nestes casos, o limite máximo e mínimo da coima reduzidos a metade.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Às contraordenações previstas no presente decreto-lei aplica-se o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
 
@@ -220,7 +250,9 @@ a) 60 % para o Estado;
 
 b) 40 % para o INEM, I. P.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -246,7 +278,9 @@ c) A devolução de veículos ou equipamentos cedidos pelo INEM, I. P., ao agent
 
 2 - As sanções acessórias referidas nas alíneas a) e b) do número anterior têm a duração máxima de dois anos contados a partir da data da decisão condenatória definitiva.
 
-###### Artigo 12.º-B — Medida cautelar
+Artigo 12.º-B
+
+Medida cautelar
 
 1 - Quando se revele necessário para a instrução do processo de contraordenação ou existam fortes indícios da prática de facto que constitua contraordenação nos termos do artigo 12.º, o INEM, I. P., pode apreender, provisoriamente, objetos ou documentos que serviram ou estavam destinados à prática de uma contraordenação.
 
@@ -278,15 +312,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de março de 2023. - António Luís Santos da Costa - Maria Isabel Solnado Porto Oneto - Sofia Alves de Aguiar Batalha - Manuel Francisco Pizarro de Sampaio e Castro - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 27 de março de 2023.**
+Promulgado em 27 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de abril de 2023.**
+Referendado em 3 de abril de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -473,3 +507,5 @@ b) 40 % para o INEM, I. P.
 ###### Artigo 15.º — Competência dos órgãos das Regiões Autónomas
 
 As competências conferidas pelo presente decreto-lei são exercidas, nas Regiões Autónomas dos Açores e da Madeira, pelos órgãos e serviços que nelas prossigam idênticas atribuições.
+
+116341153

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2012/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aee615f1d41a03237bd2287e28b872767282af278689f23e5fe414f3c326210c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31bf2acd1cb5432c5148b0ed35d967d4c2f52c3240428868cb0561b99794c1c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,184 +68,201 @@ subjects:
 - Acesso à Informação
 - Acidente de Trabalho
 - Acumulação de Pensões e Remunerações
-- Função Pública
+- Administração Central do Sistema de Saúde
+- Administração Local
+- Administração Pública
+- Administração Regional de Saúde
 - ADSE
-- PSP
-- QREN
+- Agricultor
 - Agrupamento de Escolas
 - Ajudas de Custo
 - Ajuste Direto
-- NATO
 - Alienação de BENS
 - Alienação de Fogos
 - Alteração Orçamental
-- Contrato de Seguro
 - Aposentação
 - Aposentado
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Arrendamento Urbano para Habitação
+- Assembleia da República
 - Associação Pública
 - Atribuição de Verba
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
 - Autorização Legislativa
-- Pessoal de Saúde
-- Financiamento
 - AVAL do Estado
-- Garantia
-- Ensino não Superior
+- Avaliação do Pessoal
+- Base de Dados
 - BEI
-- Médico
+- Caixa Geral de Aposentações
+- Camões - Instituto da Cooperação e da Língua
 - Carreira de Técnico Superior de Saúde
-- Moeda Eletrónica
 - CASA do Estado
-- Educação Especial
-- Inspeção Geral de Finanças
 - Centro de Cultura e Desporto
-- Ministério da Defesa Nacional
-- Formação Profissional
-- Pessoal Dirigente
+- Cobrança de Dívidas
 - Cobrança de Impostos
 - Combate à Fraude
-- Gestão Financeira
 - Complemento Especial de Pensão
 - Concurso Público
-- Sistema de Verificação de Incapacidades
-- Instituto Portuário e dos Transportes Marítimos
+- Contabilidade Pública
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Prestação de Serviços
+- Contrato de Seguro
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
 - Contribuições da Segurança Social
-- Política de Cooperação
+- Créditos do Estado
 - Dação em Cumprimento
 - Definição de Competências
 - Deslocação em Serviço
 - Despesas Públicas
+- Desporto
 - Direção Geral da Administração Escolar
-- Administração Regional de Saúde
 - Direção Geral das Autarquias Locais
-- Instituto de Gestão do Crédito Público
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
 - Diretor Geral
 - Dívidas ao Estado
 - Dívidas das Autarquias Locais
 - Documento Único de Cobrança
+- Doença Profissional
 - Duodécimo
+- Educação Especial
 - Empreitada de Obras Públicas
-- Empresa Pública Municipal
 - Empresa Pública
+- Empresa Pública Municipal
+- Ensino não Superior
+- Ensino Superior
+- Entidade de Serviços Partilhados da Administração Pública
+- Estabelecimento de Ensino
 - Estatuto
-- Administração Pública
-- Serviço Nacional de Saúde
+- Evasão Fiscal
 - Execução do Orçamento
-- Caixa Geral de Aposentações
+- Financiamento
+- Formação Profissional
 - Fraude Fiscal
-- Setor Empresarial do Estado
+- FSE
+- Função Pública
+- Funcionário Público
 - Fundo de Estabilização Financeira da Segurança Social
-- Secretaria Geral
 - Fundo de Maneio
-- Projeto de Investimento
+- Fundo para as Relações Internacionais
 - Gabinete Governamental
-- Créditos do Estado
+- Garantia
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Gestor
-- Ministério da Solidariedade e Segurança Social
-- Ministério das Finanças
-- Pagamento
-- IRS
-- Indústria Aeronáutica
-- Base de Dados
-- TIC
-- Ministério da Educação e Ciência
+- Governo
 - IFAP
+- Indústria Aeronáutica
+- Inspeção Geral de Finanças
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto Financeiro para o Desenvolvimento Regional
+- Instituto Portuário e dos Transportes Marítimos
 - Instituto Público
 - Interpretação do Direito
-- Publicitação
+- IRS
 - Junta Médica
 - Juros
-- Veículo
 - Linha de Crédito
 - Locação Financeira
-- Ministério
-- Santa Casa da Misericórdia
-- FSE
+- Médico
 - Membros do Governo
-- Administração Central do Sistema de Saúde
-- Direção Geral do Orçamento
-- Entidade de Serviços Partilhados da Administração Pública
-- Instituto da Habitação e da Reabilitação Urbana
-- Camões - Instituto da Cooperação e da Língua
-- Fundo para as Relações Internacionais
+- Ministério
+- Ministério da Defesa Nacional
+- Ministério da Educação e Ciência
+- Ministério da Saúde
+- Ministério da Solidariedade e Segurança Social
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
 - Missão de PAZ
 - Missão Humanitária
+- Mobilidade de Pessoal
+- Moeda Eletrónica
+- NATO
 - Obras Públicas
-- Orçamento Geral do Estado
 - Operações de Tesouraria
 - Orçamento
 - Orçamento da Segurança Social
-- Assembleia da República
-- Doença Profissional
+- Orçamento Geral do Estado
+- Pagamento
+- Pensões
 - Pessoa Colectiva de Direito Público
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
+- Pessoal de Saúde
+- Pessoal Dirigente
+- Pessoal Docente
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Plano Oficial de Contabilidade Pública
-- Poc-educação
 - Pocal
+- Poc-educação
+- Política de Cooperação
 - Política Salarial
-- Sistema de Informação
 - Prazo
-- Evasão Fiscal
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Serviço Público
 - Prestação de Contas
 - Prestação de Serviços
-- Pensões
 - Prestações da Segurança Social
 - Profissão Independente
-- Agricultor
+- Projeto de Investimento
 - Prorrogação de Prazo
-- Receita Pública
-- Cobrança de Dívidas
 - Proteção Social
-- Ministério da Saúde
+- PSP
+- Publicitação
+- QREN
+- Receita Pública
 - Reformado
-- Administração Local
-- Contrato de Trabalho
-- Ensino Superior
+- Região Autónoma
 - Remuneração
 - Renda Apoiada
 - Reposição de Verbas
-- Mobilidade de Pessoal
 - Sanção
-- Ministério dos Negócios Estrangeiros
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Sector Público Administrativo
 - Segurança Social
+- Serviço Nacional de Saúde
+- Serviço Público
 - Serviços Municipalizados
-- Avaliação do Pessoal
-- Funcionário Público
-- Gestão de Recursos Humanos
-- Governo
-- Contabilidade Pública
+- Setor Empresarial do Estado
+- Sistema de Informação
+- Sistema de Verificação de Incapacidades
 - Subsídio
 - Subsídio de Educação Especial
-- Arrendamento Urbano para Habitação
 - Subsídio de Transporte
+- TIC
 - Transferência de Competências
 - Transferência de Verbas
-- Desporto
-- Autarquia Local
+- Veículo
 - Veículo do Estado
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:916268331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190201:por
+  label: "Alterado o art. 30º pela LEI.64/2012.20.12.2012.AR, DR.IS [246] de 20.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2012-190201
+  date: '2012-12-20'
+- type: amended_by
+  target: pt:dre:258755:por
+  label: "Alterado o art. 6º do Dec Lei 137/2010 de 28-dez , na redação do presente diploma, pelo DEC LEI.36/2013.11.03.2013.MF,\
+    \ DR.IS [49] de 11.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2013-258755
+  date: '2013-03-11'
+- type: amended_by
+  target: pt:dre:115940704:por
+  label: Alterado o art. 59.º da Lei Geral Tributária aprovada pelo Dec Lei 398/98, de 17-dez, na redação do presente diploma
+    pelo(a) Lei n.º 39/2018 - Diário da República n.º 152/2018, Série I de 2018-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2018-115940704
+  date: '2018-08-08'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -254,16 +271,22 @@ relationships:
   target: celex:32004R1222
   label: null
   source: http://data.europa.eu/eli/reg/2004/1222/oj
+- type: corrected_by
+  target: pt:dre:553576:por
+  label: "Retificados o nº 5 do art. 52º e nº 1 do art. 57º, pela DECL-RECT.14/2012.16.03.2012.PCM, DR.IS [55] de 16.03.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/14-2012-553576
+  date: '2012-03-16'
 article_structure:
-  article_count: 97
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 95
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:15Z'
   warnings: []
   errors: []
 ---
@@ -1024,7 +1047,7 @@ O artigo 24.º da Lei n.º 64-B/2011, de 30 de dezembro, apenas se aplica às en
 
 Os órgãos ou serviços com autonomia financeira processadores das remunerações dos trabalhadores em funções públicas referidos nas alíneas s) e u) do n.º 9 do artigo 19.º da Lei n.º 55-A/2010, de 31 de dezembro, procedem à entrega das quantias correspondentes às reduções remuneratórias previstas naquela disposição e aos subsídios cujo pagamento seja suspenso nos termos do artigo 21.º da Lei n.º 64-B/2011, de 30 de dezembro, nos cofres do Estado, nos termos a definir por despacho do membro do Governo responsável pela área das finanças.
 
-### CAPITULO VI
+CAPITULO VI
 
 Prestação de informação
 
@@ -1240,7 +1263,9 @@ Os artigos 7.º e 8.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 7 de cada mês, disponibiliza na sua página eletrónica, em área de acesso reservado, as seguintes informações:
 
@@ -1266,7 +1291,9 @@ Os artigos 16.º e 17.º do Estatuto das Pensões de Sobrevivência, aprovado pe
 
 3 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 7 de cada mês, disponibiliza na sua página eletrónica, em área de acesso reservado, as seguintes informações:
 
@@ -1452,18 +1479,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Fernando Ferreira Santo - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo. - João Filipe Cortez Rodrigues Queiró - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 7 de fevereiro de 2012.**
+Promulgado em 7 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de fevereiro de 2012.**
+Referendado em 9 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 61.º)
 
 Transferências das entidades municipais para o SNS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03100/0069900725.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03100/0069900725.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03100/0069900725.pdf)

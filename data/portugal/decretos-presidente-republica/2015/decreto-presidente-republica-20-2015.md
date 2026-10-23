@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03800/0105101051.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/20/2015/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-2015-66581990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aafb4e293c44159e792664fdb387f6cab16a80f2f831f1755cf6b80e39eb771a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22771ab0d0b7d65a67287bc31fce3c1115455fd03f6c17ec3a5a69c1a48b5090
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,29 @@ reuse:
 subjects:
 - Budapeste
 - Carreira Diplomática
-- Portugal
 - Embaixador
 - Nomeação
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:127582930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127582930:por
+  label: Exonerada pelo(a) Decreto do Presidente da República n.º 93/2019 - Diário da República n.º 250/2019, Série I de 2019-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/93-2019-127582930
+  date: '2019-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:45Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +99,16 @@ validation:
 
 de 24 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a) da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria José Teixeira de Morais Pires para o cargo de Embaixadora de Portugal em Budapeste.
 
-**Assinado em 12 de fevereiro de 2015.**
+Assinado em 12 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de fevereiro de 2015.**
+Referendado em 20 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, Pedro Passos Coelho. - O Ministro de Estado e dos Negócios Estrangeiros, Rui Manuel Parente Chancerelle de Machete.

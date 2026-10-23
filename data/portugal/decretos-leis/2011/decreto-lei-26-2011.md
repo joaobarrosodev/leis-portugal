@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2011/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2011-279776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea6188b9bbd28781a89cb6a6b49c77695bb5d8596a1e94a079485a64b42ea161
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8a489dda19feb1589f674bd3d83c37d992b1d2ec330fb8a9eab122ed8b1f719
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Multa
+- ASAE
+- Comércio
+- Comissão CE
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
+- Equipamento sob Pressão
 - Fiscalização
-- Comissão CE
-- ASAE
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
+- Multa
 - Normas de Segurança
 - Proteção do Consumidor
 - Regulamento
-- Equipamento sob Pressão
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:835674293:por
@@ -103,16 +103,28 @@ relationships:
   target: celex:32009L0105
   label: null
   source: http://data.europa.eu/eli/dir/2009/105/oj
+- type: repealed_by
+  target: pt:dre:106663844:por
+  label: Revogado o presente diploma pelo(a) Decreto-Lei n.º 37/2017 - Diário da República n.º 63/2017, Série I de 2017-03-29
+    sem prejuízo do previsto no seu art. 41.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2017-106663844
+  date: '2017-03-29'
+- type: repealed_by
+  target: pt:dre:835674293:por
+  label: Revogado, a partir de 27 de dezembro de 2023, com efeitos a 2 de janeiro de 2024, o artigo 2.º pelo(a) Decreto-Lei
+    n.º 128/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2023-835674293
+  date: '2023-12-26'
 article_structure:
   article_count: 17
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:01Z'
   warnings: []
   errors: []
 ---
@@ -367,15 +379,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto de Sousa Martins - José Carlos das Dores Zorrinho.
 
-**Promulgado em 3 de Fevereiro de 2011.**
+Promulgado em 3 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Fevereiro de 2011.**
+Referendado em 7 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se referem os artigos 4.º, 5.º, 10.º e 14.º)
 
@@ -451,7 +463,7 @@ Estes últimos materiais devem ter, à temperatura mínima de serviço, um along
 
 a) «Relatório de controlo» o documento pelo qual o fabricante atesta que os produtos entregues estão em conformidade com as especificações da encomenda e no qual apresenta os resultados dos ensaios de inspecção de rotina efectuados em fábrica, em especial a composição química e as características mecânicas, realizados em produtos resultantes de um processo de fabrico idêntico ao utilizado no fabrico do produto fornecido, mas não necessariamente nos produtos entregues;
 
-b) «Alongamento após ruptura, [([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03100/0079300801.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03100/0079300801.pdf)», expresso em percentagem;
+b) «Alongamento após ruptura, [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03100/0079300801.pdf)», expresso em percentagem;
 
 c) «Alongamento após ruptura, L(índice o) = 80 mm (A 80mm)», expresso em percentagem.
 
@@ -673,7 +685,7 @@ O fabricante ou o seu mandatário devem estar em condições de apresentar, a pe
 
 Declaração de conformidade «CE»
 
-# Parte A
+Parte A
 
 1 - O fabricante que satisfizer as obrigações decorrentes da parte B deve apor a marcação «CE», referida no artigo 8.º, nos recipientes que declarar conformes:
 
@@ -683,7 +695,7 @@ b) Com um modelo aprovado.
 
 2 - Pelo processo de declaração de conformidade «CE» e sempre que o produto de (PS x V) for superior a 200 bar litro, o fabricante fica sujeito à vigilância «CE», a qual tem por finalidade, de acordo com o segundo parágrafo da parte C, velar pela correcta aplicação, por parte do fabricante, das obrigações decorrentes do n.º 2 da parte B. É assegurada pelo organismo notificado que tiver emitido o certificado «CE» de tipo referido no primeiro parágrafo do n.º 4 do anexo iv, no caso de os recipientes serem fabricados em conformidade com um modelo aprovado ou, no caso contrário, pelo organismo a que tenha sido enviada a documentação técnica de fabrico, em conformidade com a alínea a) do n.º 1 do artigo 7.º
 
-# Parte B
+Parte B
 
 1 - Quando o fabricante recorrer ao procedimento referido na parte A, envia, antes do início do fabrico, ao organismo notificado que tiver emitido o certificado «CE» de tipo ou o certificado de conformidade, um documento que defina os processos de fabrico bem como o conjunto das disposições preestabelecidas e sistemáticas que são aplicadas para assegurar a conformidade dos recipientes com as normas referidas no artigo 5.º ou com o modelo aprovado.
 
@@ -709,7 +721,7 @@ c) O certificado «CE» de tipo ou o certificado de conformidade, se for caso di
 
 d) Um relatório sobre os exames e ensaios efectuados.
 
-# Parte C
+Parte C
 
 O organismo notificado que tiver emitido o certificado «CE» de tipo ou o certificado de conformidade examina, antes da data de início do fabrico, o documento referido no n.º 1 da parte B, bem como a documentação técnica de fabrico referida no n.º 3 do anexo ii, a fim de verificar se são adequados, quando os recipientes não forem fabricados em conformidade com um modelo aprovado.
 

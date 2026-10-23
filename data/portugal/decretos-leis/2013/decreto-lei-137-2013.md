@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/137/2013/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2013-500071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b21b5b4348f373b1a1ac2df491e793e206f8fc2da02648172414a83e2e10003
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a361a11eb743b0b200ef0b60a72dd52071a42bd3596104d721ad7c129c780dfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- ACES
+- Açores
 - Autoridade Sanitária
-- Saúde Materna
-- Doença Mental
 - Coordenador
-- Saúde
 - Definição de Competências
 - Diretor
 - Doença de Declaração Obrigatória
+- Doença Infecciosa
+- Doença Mental
+- Estatística
+- Madeira.região Autónoma
+- OMS
+- Orgânica
+- Plano Nacional de Saúde
+- Região Autónoma
+- Saúde
+- Saúde Materna
+- Saúde Mental
 - Saúde Pública
 - Serviço Nacional de Saúde
-- Orgânica
-- OMS
-- Doença Infecciosa
-- Saúde Mental
-- Plano Nacional de Saúde
-- Madeira.região Autónoma
-- Estatística
-- Açores
-- ACES
 - Unidade de Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:187049881:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70686133:por
+  label: Alterados os arts 11.º, 15.º (este na redação dos Decs Leis 81/2009 de 02-abr, 248/2009 de 22-set, 253/2012 de 27-nov
+    e do presente diploma que procedeu à republicação no anexo II), 25.º e 35.º, aditados os arts 37.º-A e 42.º-B e alterada
+    a secção II do capítulo III, a qual passou a ser composta pelos arts 35.º a 37.º-A, todos do Dec Lei 28/2008 de 22-fev,
+    pelo(a) Decreto-Lei n.º 239/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-2015-70686133
+  date: '2015-10-14'
+- type: amended_by
+  target: pt:dre:118748850:por
+  label: Alterado, com efeitos a 01.01.2019, o art. 32.º do Dec Lei 28/2008 de 22-fev, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 23/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2019-118748850
+  date: '2019-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/
   label: null
@@ -134,16 +148,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:191138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608237:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:484377:por
+  label: Retificados o art. 3.º do presente diploma, na parte em que alterou a al. a) do n.º 2 do art. 3.º do Dec Lei 81/2009
+    de 02-abr, e al. a) do n.º 2 do art. 3.º do anexo II que o republicou, pelo(a) Declaração de Retificação n.º 52/2013 -
+    Diário da República n.º 235/2013, Série I de 2013-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/52-2013-484377
+  date: '2013-12-04'
+- type: repealed_by
+  target: pt:dre:187049881:por
+  label: Revogada, a partir de 05.08.2022, com efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023, o Dec
+    Lei 28/2008 de 22-fev, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 52/2022 - Diário da República
+    n.º 150/2022, Série I de 2022-08-04, sem prejuízo do disposto no seu art.104.º e nos termos do seu art. 105.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2022-187049881
+  date: '2022-08-04'
 article_structure:
-  article_count: 68
+  article_count: 66
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:56Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +262,9 @@ Os artigos 12.º e 15.º do [Decreto-Lei n.º 28/2008](https://diariodarepublica
 
 4 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -246,7 +324,9 @@ Designação
 
 O processo de designação do diretor do departamento de saúde pública e do coordenador da unidade de saúde pública envolve as diligências e formalidades previstas para a designação da autoridade de saúde, nos termos da legislação especial aplicável.
 
-###### Artigo 10.º-A — Regiões Autónomas
+Artigo 10.º-A
+
+Regiões Autónomas
 
 O presente decreto-lei é aplicável no território nacional, sem prejuízo da salvaguarda das competências dos órgãos de governo próprio das Regiões Autónomas.»
 
@@ -266,15 +346,15 @@ São revogados o n.º 2 do artigo 6.º e o artigo 10.º do [Decreto-Lei n.º 81/
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 30 de setembro de 2013.**
+Promulgado em 30 de setembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de outubro de 2013.**
+Referendado em 2 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 7.º)
 

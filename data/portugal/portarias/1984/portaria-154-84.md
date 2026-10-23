@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-1984-661956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2a65236d9011c84202735ae2c698788af0f3a1de6a0f95e1be2985ff9e3f0db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e026b8e867257ee59ec48e8b60200541ed0d5c2eac68949970e253c5c551bfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Polícia Judiciária
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:498728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400213:por
+  label: "Aditado o quadro único da Polícia Judiciária e extinta na carreira de pessoal técnico superior de documentação,\
+    \ tradução técnica e interpretação, os lugares aditados ao mapa II anexo ao Dec Lei 458/82, de 24-Nov, na redacção do\
+    \ presente diploma, pelo DEC LEI.339/84.22.10.1984.PCM, DR.IS [245] de 22.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1984-400213
+  date: '1984-10-22'
+- type: amended_by
+  target: pt:dre:401031:por
+  label: "Alargado o quadro de pessoal da Polícia Judiciária, aprovado pelo Decreto-Lei 458/82, de 24 de Novembro, na redacção\
+    \ do presente diploma, pela PORT.877/84.03.12.1984.PCM, DR.IS [279] de 03.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/877-1984-401031
+  date: '1984-12-03'
+- type: amended_by
+  target: pt:dre:498728:por
+  label: "Alterado o quadro de pessoal da Polícia Judiciária aprovado pelo Dec Lei 458/82 de 24-Nov, com as alterações do\
+    \ presente diploma, pela PORT.919/87.03.12.1987.MF, DR.IS [278] de 03.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/919-1987-498728
+  date: '1987-12-03'
+- type: cites
+  target: pt:dre:380091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:42Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +138,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças e do Plano.
 
-**Assinada em 3 de Fevereiro de 1984.**
+Assinada em 3 de Fevereiro de 1984.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/06600/09040904.pdf))](https://files.diariodarepublica.pt/1s/1984/03/06600/09040904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/06600/09040904.pdf)

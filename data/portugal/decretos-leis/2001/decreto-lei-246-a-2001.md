@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 214/2001, 1º Suplemento, Série I-A de 2001-09-14
   number: '214'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5896-(2) a 5896-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/214a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246-a/2001/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-2001-371041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cd3507139bf5082d3b38d774b17dacf02d9114ec0f96f621c0df13a3bd8ec65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 418e7f29a01d9c21e3c8c4f69141e27ffbe4ed8772b96829d6197a294f10b49b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,43 @@ relationships:
   target: pt:dre:553633:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272404:por
+  label: "Alterado o anexo VI do Dec Lei 186-A/99, de 31-Mai, com a redacção do presente diploma, pelo DEC LEI.148/2004.21.06.2004.MJ,\
+    \ DR.IS-A [144] de 21.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2004-272404
+  date: '2004-06-21'
+- type: amended_by
+  target: pt:dre:561977:por
+  label: "Alterado o mapa VI anexo ao Dec Lei 186-A/99, de 31-Mai, na redacção do presente diploma, pelo Dec Lei 219/2004,\
+    \ de 26-Out, DR.IS-A [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2004-561977
+  date: '2004-10-26'
+- type: amended_by
+  target: pt:dre:635828:por
+  label: "Revisto o Dec Lei 186-A/99 de 31-Mai e alterado o mapa VI anexo àquele diploma, com as alterações constantes do\
+    \ presente diploma, pelo DEC LEI.250/2007.29.06.2007.MJ, DR.IS [124] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2007-635828
+  date: '2007-06-29'
+- type: amended_by
+  target: pt:dre:670020:por
+  label: "Dada nova redacção aos mapas II e VI do Dec Lei 186-A/99 de 31-Mai, alterados pelo presente diploma, pelo DEC LEI.74/2011.20.06.2011.MJ,\
+    \ DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2011-670020
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:167413:por
+  label: "Alterado o mapa VI do Dec Lei 186-A/99, de 31-Maio, na redacção do presente diploma, pelo DEC LEI.113-A/2011.29.11.2011.MJ,\
+    \ DR.IS [229-Supl] de 29.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-a-2011-167413
+  date: '2011-11-29'
+- type: amended_by
+  target: pt:dre:553633:por
+  label: "Alterado o mapa VI do Regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais aprovado pelo Dec\
+    \ Lei 186-A/99, de 31-Maio, na redação do presente diploma, pelo DEC LEI.67/2012.20.03.2012.MJ, DR.IS [57] de 20.03.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2012-553633
+  date: '2012-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre
   label: null
@@ -82,16 +119,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:04Z'
   warnings: []
   errors: []
 ---
@@ -130,15 +175,15 @@ Os processos pendentes à data da entrada em vigor do presente diploma para exec
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Alexandre António Cantigas Rosa.
 
-**Promulgado em 11 de Setembro de 2001.**
+Promulgado em 11 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2001.**
+Referendado em 13 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — MAPA II
 

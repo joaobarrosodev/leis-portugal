@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/262a00/78847895.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/484/1999/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/484-1999-683040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83d7c372cc75dba071bd8951c0e7db90dae87b03f837b4ee847fb08b8195846f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c9a6a4bd7dd128c83787e2f7bc0a974ec125f2ab686ede2144b1a38c399f3a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,47 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Observatório de Segurança Rodoviária
-- Pessoal Dirigente
 - Direcção Geral de Viação
 - Direcção Regional de Viação de Lisboa e VALE do TEJO
 - Direcção Regional de Viação do Alentejo
 - Direcção Regional de Viação do Algarve
 - Direcção Regional de Viação do Centro
 - Direcção Regional de Viação do Norte
+- Observatório de Segurança Rodoviária
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:456561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545640:por
+  label: "Extinta a Direcção-Geral de Viação, criada pelo art. 7º do Dec Lei 488/71 de 09-Nov e cuja orgância consta do presente\
+    \ diploma, pelo DEC LEI.203/2006.27.10.2006.MAI, DR.IS [208] de 27.10.2006, nos termos do disposto no respectivo art.\
+    \ 16º, sendo as suas atribuições no domínio da prevenção e segurança rodoviárias e das contra-ordenações de trânsito integradas\
+    \ na Autoridade Nacional de Segurança Rodoviária, as suas atribuições relativas a veículos e condutores integradas no\
+    \ Insituto da Mobilidade e dos Transportes Terrestres e as restantes atribuições integradas no Instituto das Infra-Estruturas\
+    \ Rodoviárias, ambos no âmbito do MOPTC\0PTC\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2006-545640
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520991:por
+  label: "Determinada a sucessão do Instituto da Mobilidade e dos transportes Terrestres (IMTT, I.P.) nas atribuições da DGV\
+    \ relativas a condutores e veículos constantes do presente diploma, cujas alíneas e) e f) do artigo 3.º, o artigo 11.º\
+    \ e o artigo 12.º são revogados a partir de 01.05.2007 pelo DEC LEI.147/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-2007-520991
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma (já revogado), extintas a partir da entrada\
+    \ em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS\
+    \ [133] de 11.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/1995/05/31/p/dre
   label: null
@@ -102,16 +128,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520462:por
+  label: "Revogado e determinado que a Autoridade Nacional de Segurança Rodoviária suceda nas atribuições da Direcção-Geral\
+    \ de Viacção,cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.77/2007.29.03.2007.MAI, DR.IS [63] de 29.03.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2007-520462
+  date: '2007-03-29'
 article_structure:
   article_count: 51
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:43Z'
   warnings: []
   errors: []
 ---
@@ -1020,15 +1085,15 @@ O presente diploma entra em vigor no dia 1 do 2.º mês posterior à publicaçã
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 22 de Outubro de 1999.**
+Promulgado em 22 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Outubro de 1999.**
+Referendado em 26 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 34.º
 

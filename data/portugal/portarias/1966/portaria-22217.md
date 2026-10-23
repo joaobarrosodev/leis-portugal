@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22217-1966-480485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30e52c3200ff160c02d16a1587b85e987bc384e06c5d203205aae9fce63d63d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bd8c342f177720465f9a79192eff5fba4d15ad16e1697af4978ab0feaa3ba26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:51Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +120,7 @@ Serviços de saúde e assistência
 
 Despesas com o pessoal:
 
-###### Artigo 116.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual - Para satisfação dos encargos criados pelo artigo 1.º do [Decreto n.º 36528](https://diariodarepublica.pt/dr/detalhe/decreto/36528-1947-638491), de 4 de Outubro de 1947» ... 21000$00
+Artigo 116.º, n.º 2), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual - Para satisfação dos encargos criados pelo artigo 1.º do [Decreto n.º 36528](https://diariodarepublica.pt/dr/detalhe/decreto/36528-1947-638491), de 4 de Outubro de 1947» ... 21000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -104,13 +128,13 @@ Serviços de economia e estatística geral
 
 Despesas com o pessoal:
 
-###### Artigo 235.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
+Artigo 235.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
 
 Serviços de aeronáutica civil
 
 Despesas com o pessoal:
 
-###### Artigo 253.º «Remunerações certas ao pessoal em exercício»:
+Artigo 253.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 2) «Pessoal contratado - Vencimento contratual» ... 107000$00
 
@@ -126,11 +150,11 @@ Serviços de aeronáutica civil
 
 Despesas com o pessoal:
 
-###### Artigo 253.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual» ... 110000$00
+Artigo 253.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual» ... 110000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 306.º, n.º 40) «Diversas despesas - Encargos com estágios na província, nos termos do [Decreto n.º 44314](https://diariodarepublica.pt/dr/detalhe/decreto/44314-1962-516182), de 23 de Abril de 1962» ... 90000$00
+Artigo 306.º, n.º 40) «Diversas despesas - Encargos com estágios na província, nos termos do [Decreto n.º 44314](https://diariodarepublica.pt/dr/detalhe/decreto/44314-1962-516182), de 23 de Abril de 1962» ... 90000$00
 
 ... 200000$00
 
@@ -140,7 +164,7 @@ d) Reforçar com as importâncias que se indicam as seguintes verbas da tabela d
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 256.º «Diversas despesas»:
+Artigo 256.º «Diversas despesas»:
 
 N.º 1), alínea b) «Passagens a estudantes nos termos do [Decreto n.º 45653](https://diariodarepublica.pt/dr/detalhe/decreto/45653-1964-471773), de 11 de Abril de 1964 - Passagens de férias» ... 7100$00
 

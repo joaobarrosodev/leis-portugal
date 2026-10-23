@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22803-1967-313462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47ff77323204efe466beed740d6594b41e87e43e8430662c01778cc6dee035b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 040c740ce17e4c13fbd9aea7775115c4d7b38b09e8655bf06c69b15bd1532f37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:26Z'
   warnings: []
   errors: []
 ---
@@ -84,6 +88,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 2.º e § 1.º do artigo 5.º do [Decreto-Lei n.º 40876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40876-1956-298634), de 24 de Novembro de 1956, sejam criados na Colónia Penal do Bié os seguintes lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/07/17400/14011401.pdf))](https://files.diariodarepublica.pt/1s/1967/07/17400/14011401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/07/17400/14011401.pdf)
 
 Ministério da Justiça, 27 de Julho de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.

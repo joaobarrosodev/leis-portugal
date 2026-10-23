@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 76/1979, 2º Suplemento, Série I de 1979-03-31
   number: '76'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 530-(3) a 530-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07602/00030003.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-b-1979-595345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a551106d1a5cd5b6a67e3f721e3a521149794f64d841cfa4d531a71a068cbcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1cc7719403fc7147f9beef1aab6b11281458055495f4ccc5ad228dcbab1d06d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Café
+- Importação
+- Mercado Abastecedor
+relationships:
+- type: cites
+  target: pt:dre:201864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298443:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:51:27Z'
   warnings: []
   errors: []
 ---

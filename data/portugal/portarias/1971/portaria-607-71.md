@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/607-1971-631405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 987b022d1a255739dedf9f43c7bc470a19346b73589a3d2dee4165a847b8e98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59d4748ba1fa5c1ae2cff321e35a26b03f8686175457349566eddd5a0646382c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630424:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:02Z'
   warnings: []
   errors: []
 ---
@@ -91,4 +99,4 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que o n.º 3
 
 3.º A classificação a que se refere o número anterior será efectuada por um júri constituído pelo director do Serviço do Pessoal, pelos subdirector, director do Gabinete de Estudos e director do Serviço de Hidrografia, do Instituto Hidrográfico, pelo chefe da 1.ª Repartição da Direcção do Serviço de Instrução e pelo professor de Geodesia e Hidrografia da Escola Naval.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

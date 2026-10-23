@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/06/114a00/38183819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2005/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2005-227006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 079a97828233c9ca80b4c27aacb47cc144340b38598462fd4a213cbdc15cce73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad41d6cf1d6fcfcb006eade4e399dc2c32a180010e4e1ef0c7d17750855ad40d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Pessoal Dirigente
-- Definição de Competências
-- Remuneração
 - Centro Distrital de Operações de Socorro
 - Centro Nacional de Operações de Socorro
 - Comandante Operacional Distrital
 - Comandante Operacional Nacional
+- Definição de Competências
+- Pessoal Dirigente
+- Remuneração
+- Serviço Nacional de Bombeiros e Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:513609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552522:por
+  label: "Alterados os arts. 9º e 29º do Dec Lei 43/2003 de 25-Mar, com a redacção conferida pelo presente diploma, pelo DEC\
+    \ LEI.21/2006.02.02.2006.MAI, DR.IS-A [24] de 02.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2006-552522
+  date: '2006-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/49/2003/03/25/p/dre
   label: null
@@ -87,16 +93,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/113/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:231117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404107:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520461:por
+  label: "Revogado o Decreto Lei 49/2003, de 25 de Março, na redacção do presente diploma, pelo DEC LEI.75/2007.29.03.2007.MAI,\
+    \ DR.IS [63] com excepcção do disposto nos n.ºs 2 e 3 do artigo 9.º, nos n.ºs 5 e 6 do artigo 29.º e nos artigos 42.º,\
+    \ 43.º e 49.º-A, e determinado que a Autoridade Nacional de Protecção Civil suceda nas atribuições, bem como nos direitos\
+    \ e obrigações, do Serviço Nacional de Bombeiros e Protecção Civil criado pelo primeiro diploma referido.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2007-520461
+  date: '2007-03-29'
+- type: repealed_by
+  target: pt:dre:513609:por
+  label: "Revogado pelo DEC LEI.73/2013.31.05.2013.MAI, DR.IS [105] de 31.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2013-513609
+  date: '2013-05-31'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:44Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +190,9 @@ a) A Divisão de Vigilância e Alerta;
 
 b) A Divisão de Planeamento de Emergência.
 
-###### Artigo 29.º — Centros distritais de operações de socorro
+Artigo 29.º
+
+Centros distritais de operações de socorro
 
 1 - Em cada distrito existe um centro distrital de operações de socorro (CDOS), estruturado de acordo com as necessidades resultantes dos riscos naturais, tecnológicos e da actividade humana que se verifiquem na respectiva área territorial.
 
@@ -171,7 +200,9 @@ b) A Divisão de Planeamento de Emergência.
 
 3 - O comandante operacional distrital é substituído nas suas ausências e impedimentos por um comandante de corpo de bombeiros por si designado.
 
-###### Artigo 30.º — Atribuições
+Artigo 30.º
+
+Atribuições
 
 1 - ...
 
@@ -199,7 +230,9 @@ i) [Anterior alínea l).]
 
 4 - ...
 
-###### Artigo 31.º — Comandante operacional distrital
+Artigo 31.º
+
+Comandante operacional distrital
 
 1 - Compete ao comandante operacional distrital:
 
@@ -257,12 +290,12 @@ Mantêm-se as comissões de serviço dos coordenadores dos centros distritais de
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha.
 
-**Promulgado em 30 de Maio de 2005.**
+Promulgado em 30 de Maio de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 2005.**
+Referendado em 6 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

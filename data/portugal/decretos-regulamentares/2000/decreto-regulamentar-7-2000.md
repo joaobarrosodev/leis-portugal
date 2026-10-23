@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2000/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c947d61cb8e0481d221c67963177bdcf23ad746fc8006bb330b9c56f3fd97122
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05b73571538b84f682c832e52af83470cfe25c8fa383282373a6129d7cafe6be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Embarcação
+- Açores
+- Albufeiras
+- Aquicultura
+- Artes de Pesca
 - Autoridade Nacional
-- Multa
 - Definição de Competências
 - Direcção Geral das Pescas e Aquicultura
-- Mar Territorial
-- Albufeiras
-- União Europeia
+- Embarcação
+- Embarcação de Pesca
+- Espécie Protegida
 - Fiscalização
-- RIO TEJO
-- Pesca
 - Gestão dos Recursos
 - Inspecção Geral das Pescas
 - Instituto de Investigação das Pescas e do Mar
+- Jurisdição
 - Licenciamento
-- Recursos do Mar
-- Aquicultura
-- Peixe
-- Artes de Pesca
-- Espécie Protegida
 - Madeira.região Autónoma
+- Mar Territorial
+- Multa
+- Peixe
+- Pesca
+- Recursos do Mar
 - Regulamento CE
-- Embarcação de Pesca
+- RIO TEJO
 - Sinalização Marítima
-- Açores
 - Taxa
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:70309904:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520253:por
+  label: "Alterados os arts. 75º e 77º do DR 43/87 de 17-Jul, com a redacção conferida no presente diploma, pelo DR.15/2007.28.03.2007.MADRP,\
+    \ DR.IS [62] de 28.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-2007-520253
+  date: '2007-03-28'
+- type: amended_by
+  target: pt:dre:70309904:por
+  label: Alterados os arts. 64.º, 67.º, 68.º, 72.º e 75.º do DR 43/87 de 17-jul, com a redação do presente diploma, pelo(a)
+    Decreto Regulamentar n.º 16/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/16-2015-70309904
+  date: '2015-09-16'
 - type: cites
   target: celex:31984R2108
   label: null
@@ -110,16 +122,22 @@ relationships:
   target: celex:31998R0850
   label: null
   source: http://data.europa.eu/eli/reg/1998/850/oj
+- type: corrected_by
+  target: pt:dre:316742:por
+  label: "Rectificado [no referente à al. b) do nº 1 do art. 63º] pela DECL-RECT.7-O/2000.2000.07.31.PCM,DR.IS-B [175]5º Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-o-2000-316742
+  date: '2000-07-31'
 article_structure:
-  article_count: 87
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:44Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +174,9 @@ Objecto
 
 O presente diploma tem por objecto definir as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, sem auxílio de embarcações, com embarcações nacionais ou com embarcações estrangeiras afretadas por pessoas singulares ou colectivas nacionais ou de um Estado membro da União Europeia ou ainda de um Estado parte do Acordo Económico Europeu, bem como estabelecer, relativamente àquelas embarcações, as áreas de operação e os respectivos requisitos e características para a actividade desenvolvida nas referidas águas ou fora delas e ainda regulamentar o regime de autorização e licenciamento do exercício da pesca, da actividade das embarcações e da utilização das artes de pesca.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente diploma entende-se por:
 
@@ -166,7 +186,9 @@ b) 'Águas interiores marítimas' as águas que se situam entre as linhas de fec
 
 c) 'Águas interiores não marítimas' todas as águas designadamente rios, estuários, rias, lagoas, portos artificiais e docas, que se encontram para dentro das respectivas linhas de fecho naturais e estão sob jurisdição das capitanias dos portos nos termos da legislação em vigor, com excepção dos troços internacionais.
 
-###### Artigo 3.º — Métodos de pesca
+Artigo 3.º
+
+Métodos de pesca
 
 1 - Em águas oceânicas e em águas interiores marítimas: a pesca só pode ser exercida por meio dos seguintes métodos de pesca:
 
@@ -188,35 +210,51 @@ g) Pesca por rede de emalhar.
 
 3 - As disposições reguladoras das características das artes e condições do exercício da pesca por qualquer dos métodos referidos no n.º 1 são aprovadas por portaria do membro do Governo responsável pelo sector das pescas e outros competentes em razão da matéria.
 
-###### Artigo 4.º — Apanha
+Artigo 4.º
+
+Apanha
 
 Por apanha entende-se qualquer método de pesca que se caracteriza por ser uma actividade individual em que, de um modo geral, não são utilizados utensílios especialmente fabricados para esse fim, mas apenas as mãos ou os pés, ou eventualmente um animal, sem provocar ferimentos graves nas capturas.
 
-###### Artigo 5.º — Pesca à linha
+Artigo 5.º
+
+Pesca à linha
 
 Por pesca à linha entende-se qualquer método de pesca que se caracteriza pela existência de linhas e, em regra, de um ou mais anzóis.
 
-###### Artigo 6.º — Pesca por armadilha
+Artigo 6.º
+
+Pesca por armadilha
 
 Por pesca por armadilha entende-se qualquer método de pesca passivo pelo qual a presa é atraída ou encaminhada para dispositivo que lhe dificulta ou impossibilita a fuga, sem que para tal tenha abandonado o seu elemento natural.
 
-###### Artigo 7.º — Pesca por arte de arrasto
+Artigo 7.º
+
+Pesca por arte de arrasto
 
 Por pesca por arte de arrasto entende-se qualquer método de pesca que utiliza estruturas rebocadas essencialmente compostas por bolsa, em geral grande, e podendo ser prolongada para os lados por 'asas' relativamente pequenas.
 
-###### Artigo 8.º — Pesca por arte envolvente-arrastante
+Artigo 8.º
+
+Pesca por arte envolvente-arrastante
 
 Por pesca por arte envolvente-arrastante entende-se qualquer método de pesca que utiliza estruturas de rede, com frequência dotadas de bolsa central e grandes 'asas' laterais que arrastam e, prévia ou simultaneamente, envolvem ou cercam.
 
-###### Artigo 9.º — Pesca por arte de cerco
+Artigo 9.º
+
+Pesca por arte de cerco
 
 Por pesca por arte de cerco entende-se qualquer método de pesca que utiliza parede de rede sempre longa e alta, que é largada de modo a cercar completamente as presas e a reduzir a capacidade de fuga.
 
-###### Artigo 10.º — Pesca por rede de emalhar
+Artigo 10.º
+
+Pesca por rede de emalhar
 
 Por pesca por rede de emalhar entende-se qualquer método de pesca que utiliza estrutura de rede com forma rectangular, constituída por um, dois ou três panos de diferente malhagem, mantidos em posição vertical devido a cabo de flutuação e cabo de lastros, que pode actuar isolada ou em 'caçadas' (conjunto de várias peças, ficando os espécimes presos na própria rede).
 
-###### Artigo 48.º — Tamanhos mínimos dos peixes, crustáceos e moluscos
+Artigo 48.º
+
+Tamanhos mínimos dos peixes, crustáceos e moluscos
 
 1 - De acordo com os artigos 17.º e 19.º do Regulamento (CE) n.º [850/98](https://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março, os peixes, crustáceos e moluscos cujos tamanhos forem inferiores às dimensões mínimas fixadas no anexo XII devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos.
 
@@ -224,19 +262,25 @@ Por pesca por rede de emalhar entende-se qualquer método de pesca que utiliza e
 
 3 - A medição do tamanho dos peixes, crustáceos e moluscos faz-se em conformidade com o anexo XIII do Regulamento (CE) n.º [850/98](https://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março.
 
-###### Artigo 50.º — Determinação do vazio da malha
+Artigo 50.º
+
+Determinação do vazio da malha
 
 1 - A malhagem das redes é verificada pela determinação do vazio da malha com bitola, cuja descrição, modo de utilização e demais regras de medição estão definidos no Regulamento (CEE) n.º [2108/84](https://data.europa.eu/eli/reg/1984/2108/oj?locale=pt), com as alterações introduzidas pelo Regulamento (CE) n.º [2550/97](https://data.europa.eu/eli/reg/1997/2550/oj?locale=pt), sem prejuízo do disposto no número seguinte.
 
 2 - A medição de armadilhas de rede rígida é feita de tal forma que a bitola entre no vazio da malha rodando em qualquer das direcções no plano perpendicular àquela.
 
-###### Artigo 51.º — Operações de transformação
+Artigo 51.º
+
+Operações de transformação
 
 1 - De acordo com o artigo 42.º do Regulamento (CE) n.º [850/98](https://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março, é proibido efectuar a bordo de um navio de pesca qualquer transformação física ou química dos peixes para a produção de farinha, óleo ou produtos similares.
 
 2 - ...
 
-###### Artigo 52.º — Métodos e práticas de pesca proibidos
+Artigo 52.º
+
+Métodos e práticas de pesca proibidos
 
 1 - É proibida a pesca nas águas interiores não marítimas com utilização dos seguintes métodos de pesca:
 
@@ -256,7 +300,9 @@ e) Fisgas, excepto como auxiliar da pesca da lampreia nas estacadas.
 
 4 - ...
 
-###### Artigo 53.º — Métodos e artes de pesca e condições da sua utilização
+Artigo 53.º
+
+Métodos e artes de pesca e condições da sua utilização
 
 1 - A pesca nas águas interiores não marítimas pode ser exercida por meio dos seguintes métodos de pesca e artes nas condições e para as espécies referidas nas alíneas seguintes:
 
@@ -282,13 +328,17 @@ h) Outras artes que tenham um âmbito de utilização marcadamente local, cujas 
 
 4 - ...
 
-###### Artigo 54.º — Pesca do meixão
+Artigo 54.º
+
+Pesca do meixão
 
 1 - É proibida a pesca do meixão.
 
 2 - Sem prejuízo do disposto no número anterior, por portaria do membro do Governo responsável pelo sector da pesca será estabelecido o regime de pesca do meixão com utilização de rapeta, para a safra de 2000-2001.
 
-###### Artigo 56.º — Captura de espécies destinadas ao repovoamento de estabelecimentos de aquicultura
+Artigo 56.º
+
+Captura de espécies destinadas ao repovoamento de estabelecimentos de aquicultura
 
 1 - A captura de espécies destinadas a repovoamento de estabelecimentos de aquicultura está sujeita a autorização e licenciamento a requerer à Direcção-Geral das Pescas e Aquicultura (DGPA) ou aos órgãos de governo próprio das Regiões Autónomas caso tais capturas ocorram em águas abrangidas nas respectivas Regiões.
 
@@ -296,7 +346,9 @@ h) Outras artes que tenham um âmbito de utilização marcadamente local, cujas 
 
 3 - À captura de espécies para repovoamento não são aplicáveis as condicionantes previstas no artigo 52.º ou os normativos respeitantes a tamanhos mínimos.
 
-###### Artigo 63.º — Embarcações de pesca local
+Artigo 63.º
+
+Embarcações de pesca local
 
 1 - As embarcações de pesca local são as que podem operar nas seguintes áreas:
 
@@ -312,7 +364,9 @@ c) [Anterior alínea b).]
 
 4 - Tendo em conta a topografia dos fundos marinhos e a especificidade da actividade da pesca na subárea da zona económica exclusiva dos Açores, o limite previsto na alínea a) do n.º 1 será de 12 milhas da costa.
 
-###### Artigo 64.º — Embarcações de pesca costeira
+Artigo 64.º
+
+Embarcações de pesca costeira
 
 1 - ...
 
@@ -342,7 +396,9 @@ b) ...
 
 10 - (Anterior n.º 8.)
 
-###### Artigo 66.º — Características e requisitos técnicos das embarcações
+Artigo 66.º
+
+Características e requisitos técnicos das embarcações
 
 1 - ...
 
@@ -358,7 +414,9 @@ d) Certificação técnica e demais documentação de bordo exigível nos termos
 
 e) Condições e outros factores de higiene e segurança, nomeadamente os constantes da legislação em vigor.
 
-###### Artigo 67.º — Requisitos das embarcações de pesca local
+Artigo 67.º
+
+Requisitos das embarcações de pesca local
 
 1 - Os requisitos específicos a que as embarcações de pesca local devem obedecer, com ressalva do disposto no n.º 2 do artigo seguinte, são:
 
@@ -374,7 +432,9 @@ b) ...
 
 3 - Em situações devidamente identificadas e de âmbito marcadamente local, podem ser autorizadas a pescar nas águas interiores não marítimas embarcações com requisitos técnicos diferentes dos fixados nos números anteriores e nas condições a estabelecer nos regulamentos de incidência local a que se refere o artigo 59.º
 
-###### Artigo 68.º — Requisitos das embarcações de pesca costeira
+Artigo 68.º
+
+Requisitos das embarcações de pesca costeira
 
 1 - Os requisitos específicos das embarcações de pesca costeira são:
 
@@ -388,7 +448,9 @@ c) Autonomia - estabelecida de acordo com a área de operação fixada para a em
 
 3 - Serão também classificadas como embarcações de pesca local, na Região Autónoma dos Açores, as embarcações de convés aberto com comprimento de fora a fora superior a 9 m e inferior a 14 m que não respeitem as exigências estabelecidas por lei para as de pesca costeira, relativamente a meios de salvação e equipamentos de navegação e de radiocomunicações.
 
-###### Artigo 69.º — Requisitos das embarcações de pesca do largo
+Artigo 69.º
+
+Requisitos das embarcações de pesca do largo
 
 Os requisitos específicos das embarcações de pesca do largo são:
 
@@ -396,7 +458,9 @@ a) Arqueação - com GT superior a 100;
 
 b) ...
 
-###### Artigo 72.º — Autorização para o afretamento de embarcações
+Artigo 72.º
+
+Autorização para o afretamento de embarcações
 
 1 - ...
 
@@ -406,7 +470,9 @@ b) ...
 
 4 - À autorização para o afretamento de embarcações de pesca nacionais aplica-se o disposto nos n.os 1 e 2, com as necessárias adaptações.
 
-###### Artigo 74.º — Licenciamento
+Artigo 74.º
+
+Licenciamento
 
 1 - O exercício da pesca e a utilização de artes ou utensílios com ou sem o auxílio de embarcações, seja em águas sob soberania e jurisdição nacional, em águas comunitárias de países terceiros ou em alto mar, estão sujeitos a licenciamento, a requerer anualmente.
 
@@ -416,7 +482,9 @@ b) ...
 
 4 - O licenciamento previsto no número anterior não implica o averbamento no livrete de actividade das artes especificamente usadas para os fins ali discriminados.
 
-###### Artigo 75.º — Trâmites do licenciamento
+Artigo 75.º
+
+Trâmites do licenciamento
 
 1 - Compete à Direcção-Geral das Pescas e Aquicultura (DGPA) a concessão do licenciamento, excepto nos casos seguintes, em que a competência cabe aos órgãos próprios das Regiões Autónomas:
 
@@ -438,13 +506,17 @@ b) Licenciamento para o exercício da actividade da pesca e respectivas artes, s
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 76.º — Concessão das licenças
+Artigo 76.º
+
+Concessão das licenças
 
 1 - A renovação das licenças de pesca será sempre concedida aos que a tiverem requerido nos termos do artigo anterior, salvo recusa expressa da DGPA, a comunicar ao requerente, com conhecimento à capitania do porto do registo, até 30 de Novembro de cada ano, com fundamento nos critérios e condições fixados no despacho previsto no artigo 74.º-A.
 
 2 - No caso previsto nos n.os 4 e 6 do artigo anterior, o prazo de que a DGPA dispõe para notificar os requerentes é de 90 dias.
 
-###### Artigo 77.º — Emissão e formalização das licenças
+Artigo 77.º
+
+Emissão e formalização das licenças
 
 1 - ...
 
@@ -462,7 +534,9 @@ c) Para efeitos do disposto no n.º 1, compete às capitanias do porto de regist
 
 5 - A DGPA procederá à anulação das licenças não levantadas até ao dia 31 de Janeiro do ano a que respeitam, bem como das não levantadas nos termos da parte final do número anterior.
 
-###### Artigo 80.º — Livrete de actividade das embarcações
+Artigo 80.º
+
+Livrete de actividade das embarcações
 
 1 - ...
 
@@ -504,35 +578,41 @@ f) O incumprimento reiterado das normas reguladoras do exercício da pesca.»
 
 5 - As referências feitas no Decreto Regulamentar n.º 43/87, de 17 de Julho, a «Ministro da Agricultura, Alimentação e Pescas», «Direcção-Geral das Pescas (DGP)» e «Instituto Nacional de Investigação das Pescas (INIP) são substituídas, respectivamente, por, «membro do Governo responsável pelo sector das pescas», «Direcção-Geral das Pescas e Aquicultura (DGPA)» e «Instituto de Investigação das Pescas e do Mar (IPIMAR)».
 
-###### Artigo 4.º
+Artigo 4.º
 
 O presente diploma só produz efeitos na data da publicação das portarias a que se refere o n.º 3 do artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na actual redacção.
 
-###### Artigo 5.º
+Artigo 5.º
 
 É republicado em anexo o texto do Decreto Regulamentar n.º 43/87, de 17 de Julho, com as alterações que lhe foram introduzidas pelos Decretos Regulamentares n.os 3/89, de 28 de Janeiro, e 28/90, de 11 de Setembro, e pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Maio de 2000.**
+Promulgado em 8 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2000.**
+Referendado em 12 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — TÍTULO I
+ANEXO
+
+TÍTULO I
 
 Disposições gerais
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 O presente diploma tem por objecto definir as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, sem auxílio de embarcações, com embarcações nacionais ou com embarcações estrangeiras afretadas por pessoas singulares ou colectivas nacionais ou de um Estado membro da União Europeia ou ainda de um Estado parte do Acordo Económico Europeu, bem como estabelecer, relativamente àquelas embarcações as áreas de operação e os respectivos requisitos e características para a actividade desenvolvida nas referidas águas ou fora delas e ainda regulamentar o regime de autorização e licenciamento do exercício da pesca, da actividade das embarcações e da utilização das artes de pesca.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente diploma entende-se por:
 
@@ -542,11 +622,17 @@ b) «Águas interiores marítimas» as águas que se situam entre as linhas de f
 
 c) «Águas interiores não marítimas» todas as águas, designadamente rios, estuários, rias, lagoas, portos artificiais e docas, que se encontram para dentro das respectivas linhas de fecho naturais e estão sobre jurisdição das capitanias dos portos nos termos da legislação em vigor, com excepção dos troços internacionais.
 
-## TÍTULO II — Da pesca em águas oceânicas e em águas interiores marítimas
+TÍTULO II
 
-### CAPÍTULO I — Métodos de pesca
+Da pesca em águas oceânicas e em águas interiores marítimas
 
-###### Artigo 3.º — Métodos de pesca
+CAPÍTULO I
+
+Métodos de pesca
+
+Artigo 3.º
+
+Métodos de pesca
 
 1 - Em águas oceânicas e em águas interiores marítimas a pesca só pode ser exercida por meio dos seguintes métodos de pesca:
 
@@ -568,31 +654,45 @@ g) Pesca por rede de emalhar.
 
 3 - As disposições reguladoras das características das artes e condições do exercício da pesca por qualquer dos métodos referidos no n.º 1 são aprovadas por portaria do membro do Governo responsável pelo sector das pescas e outros competentes em razão da matéria.
 
-###### Artigo 4.º — Apanha
+Artigo 4.º
+
+Apanha
 
 Por apanha entende-se qualquer método de pesca que se caracteriza por ser uma actividade individual em que, de um modo geral, não são utilizados utensílios especialmente fabricados para esse fim, mas apenas as mãos ou os pés, ou eventualmente um animal, sem provocar ferimentos graves nas capturas.
 
-###### Artigo 5.º — Pesca à linha
+Artigo 5.º
+
+Pesca à linha
 
 Por pesca à linha entende-se qualquer método de pesca que se caracteriza pela existência de linhas e, em regra, de um ou mais anzóis.
 
-###### Artigo 6.º — Pesca por armadilha
+Artigo 6.º
+
+Pesca por armadilha
 
 Por pesca por armadilha entende-se qualquer método de pesca passivo pelo qual a presa é atraída ou encaminhada para dispositivo que lhe dificulta ou impossibilita a fuga, sem que para tal tenha abandonado o seu elemento natural.
 
-###### Artigo 7.º — Pesca por arte de arrasto
+Artigo 7.º
+
+Pesca por arte de arrasto
 
 Por pesca por arte de arrasto entende-se qualquer método de pesca que utiliza estruturas rebocadas essencialmente compostas por bolsa, em geral grande, e podendo ser prolongada para os lados por «asas» relativamente pequenas.
 
-###### Artigo 8.º — Pesca por arte envolvente-arrastante
+Artigo 8.º
+
+Pesca por arte envolvente-arrastante
 
 Por pesca por arte envolvente-arrastante entende-se qualquer método de pesca que utiliza estruturas de rede, com frequência dotadas de bolsa central e grandes «asas» laterais que arrastam e, previa ou simultaneamente, envolvem ou cercam.
 
-###### Artigo 9.º — Pesca por arte de cerco
+Artigo 9.º
+
+Pesca por arte de cerco
 
 Por pesca por arte de cerco entende-se qualquer método de pesca que utiliza parede de rede sempre longa e alta, que é largada de modo a cercar completamente as presas e a reduzir a capacidade de fuga.
 
-###### Artigo 10.º — Pesca por rede de emalhar
+Artigo 10.º
+
+Pesca por rede de emalhar
 
 Por pesca por rede de emalhar entende-se qualquer método de pesca que utiliza estrutura de rede com forma rectangular, constituída por um, dois ou três panos de diferente malhagem, mantidos em posição vertical devido a cabo de flutuação e cabo de lastros, que pode actuar isolada ou em «caçadas» (conjunto de várias peças, ficando os espécimes presos na própria rede).
 
@@ -600,19 +700,27 @@ Artigos 11.º a 39.º
 
 (Revogados.)
 
-### CAPÍTULO II — Sinalização e exercício da pesca
+CAPÍTULO II
 
-###### Artigo 40.º — Sinalização e exercício da pesca
+Sinalização e exercício da pesca
+
+Artigo 40.º
+
+Sinalização e exercício da pesca
 
 No exercício da pesca, em obediência à parte aplicável da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, por ratificação, pelo Decreto-Lei n.º 48509, de 30 de Julho de 1968, as embarcações devem sinalizar as suas artes como se especifica nos artigos 41.º, 42.º, 43.º, 44.º e 45.º, assinalar as diferentes fases da faina de pesca como se especifica no artigo 46.º e exercer a sua actividade como estabelece o artigo 47.º
 
-###### Artigo 41.º — Sinalização das artes de pesca
+Artigo 41.º
+
+Sinalização das artes de pesca
 
 1 - As redes e os aparelhos de linhas e anzóis de deriva são sinalizados em cada extremidade e a intervalos não superiores a 2 milhas por bóias, cada uma com um mastro, guarnecido, de dia, com uma bandeira ou reflector de radar e, de noite, com um farol.
 
 2 - A extremidade de uma arte que esteja amarrada a uma embarcação não necessita de ser sinalizada.
 
-###### Artigo 42.º — Sinalização das artes fundeadas horizontalmente
+Artigo 42.º
+
+Sinalização das artes fundeadas horizontalmente
 
 1 - As redes, aparelhos de linhas e anzóis e outras artes de pesca fundeados e dispostos horizontalmente na água são sinalizados em cada extremidade e a intervalos não superiores a 1 milha por bóias, cada uma com um mastro, guarnecido da forma seguinte:
 
@@ -630,11 +738,15 @@ c) Bóias intermédias - cada uma, de dia, com uma bandeira ou um reflector e, d
 
 5 - Para efeitos do disposto neste artigo, consideram-se como oeste os quadrantes sudoeste e noroeste da agulha, incluindo o norte, e como leste os quadrantes nordeste e sueste da agulha, incluindo o sul.
 
-###### Artigo 43.º — Sinalização das artes fundeadas não horizontalmente
+Artigo 43.º
+
+Sinalização das artes fundeadas não horizontalmente
 
 As artes e outros instrumentos de pesca fundeados que não se disponham horizontalmente na água são sinalizados por uma bota com um mastro, guarnecido, de dia, com uma bandeira ou um reflector de radar e, de noite, com um farol.
 
-###### Artigo 44.º — Caracterização da sinalização das artes
+Artigo 44.º
+
+Caracterização da sinalização das artes
 
 A sinalização das artes e instrumentos de pesca, que tem por fim a segurança da navegação de superfície, obedece às seguintes disposições:
 
@@ -656,17 +768,23 @@ d) As bandeiras devem ser quadradas, de 50 cm de lado, sendo:
 
 e) Os faróis devem ser de luz branca, visíveis a uma distância não inferior a 2 milhas em condições de boa visibilidade.
 
-###### Artigo 45.º — Identificação das artes e apetrechos de pesca
+Artigo 45.º
+
+Identificação das artes e apetrechos de pesca
 
 1 - Para efeitos de identificação e controlo das artes e apetrechos de pesca, pode o membro do Governo responsável pelo sector das pescas estabelecer, por portaria, sistemas de identificação para os mesmos.
 
 2 - As artes e os apetrechos de pesca encontrados em abandono e sem identificação serão considerados arrojos de mar e entregues ao Instituto de Investigação das Pescas e do Mar (IPIMAR), quando as autoridades de controlo verificarem a impossibilidade de identificação do proprietário.
 
-###### Artigo 46.º — Assinalamento das fases da faina da pesca
+Artigo 46.º
+
+Assinalamento das fases da faina da pesca
 
 No exercício da pesca as embarcações devem mostrar os faróis, bandeiras e balões prescritos no Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM).
 
-###### Artigo 47.º — Normas para o exercício da pesca por embarcações
+Artigo 47.º
+
+Normas para o exercício da pesca por embarcações
 
 1 - Sem prejuízo do cumprimento do RIEAM, todas as embarcações devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
 
@@ -704,9 +822,13 @@ c) Envidar todos os esforços para recobrar artes de pesca que tenham perdido e,
 
 d) Tentar recobrar as artes que tenham feito perder por colisão ou qualquer outra forma de interferência, ficando responsáveis pelo pagamento de todos os prejuízos, excepto se as artes não estavam marcadas conforme se dispõe no presente regulamento.
 
-### CAPÍTULO III — Disposições comuns
+CAPÍTULO III
 
-###### Artigo 48.º — Tamanhos mínimos dos peixes, crustáceos e moluscos
+Disposições comuns
+
+Artigo 48.º
+
+Tamanhos mínimos dos peixes, crustáceos e moluscos
 
 1 - De acordo com os artigos 17.º a 19.º do Regulamento (CE) n.º [850/98](https://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março, os peixes, crustáceos e moluscos cujos tamanhos forem inferiores às dimensões mínimas fixadas no anexo XII devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos.
 
@@ -714,27 +836,39 @@ d) Tentar recobrar as artes que tenham feito perder por colisão ou qualquer out
 
 3 - A medição do tamanho dos peixes, crustáceos e moluscos faz-se em conformidade com o anexo XIII do Regulamento (CE) n.º [850/98](https://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março.
 
-###### Artigo 49.º — Áreas ou períodos de interdição ou restrição da pesca
+Artigo 49.º
+
+Áreas ou períodos de interdição ou restrição da pesca
 
 Tendo em conta as informações científicas disponíveis sobre o estado e a evolução dos recursos biológicos e ponderando as implicações económicas e sociais no sector da pesca, poderão ser constituídas, modificadas ou extintas, por portaria do membro do Governo responsável pelo sector das pescas, áreas ou períodos de interdição ou restrição da pesca.
 
-###### Artigo 50.º — Determinação do vazio da malha
+Artigo 50.º
+
+Determinação do vazio da malha
 
 1 - A malhagem das redes é verificada pela determinação do vazio da malha com bitola, cuja descrição, modo de utilização e demais regras de medição estão definidos no Regulamento (CEE) n.º [2108/84](https://data.europa.eu/eli/reg/1984/2108/oj?locale=pt), com as alterações introduzidas pelo Regulamento (CE) n.º [2550/97](https://data.europa.eu/eli/reg/1997/2550/oj?locale=pt), sem prejuízo do disposto no número seguinte.
 
 2 - A medição de armadilhas de rede rígida é feita de tal forma que a bitola entre no vazio da malha rodando em qualquer das direcções no plano perpendicular àquela.
 
-###### Artigo 51.º — Operações de transformação
+Artigo 51.º
+
+Operações de transformação
 
 1 - De acordo com o artigo 42.º do Regulamento (CE) n.º [850/98](https://data.europa.eu/eli/reg/1998/850/oj?locale=pt), de 30 de Março, é proibido efectuar a bordo de um navio de pesca qualquer transformação física ou química dos peixes para a produção de farinha, óleo ou produtos similares.
 
 2 - O disposto no número anterior não se aplica à transformação de restos de peixe.
 
-###### Artigo 51.º-A — (Revogado.)
+Artigo 51.º-A
 
-## TÍTULO III — Da pesca em águas interiores não marítimas
+(Revogado.)
 
-###### Artigo 52.º — Métodos e práticas de pesca proibidos
+TÍTULO III
+
+Da pesca em águas interiores não marítimas
+
+Artigo 52.º
+
+Métodos e práticas de pesca proibidos
 
 1 - É proibida a pesca nas águas interiores não marítimas com utilização dos seguintes métodos de pesca:
 
@@ -758,7 +892,9 @@ b) A utilização de fontes luminosas - candeio - para efeito de chamariz de pei
 
 4 - O disposto nas alíneas b) e d) do n.º 1 não se aplica ao exercício da pesca nas águas interiores não marítimas do rio Tejo.
 
-###### Artigo 53.º — Métodos e artes de pesca e condições da sua utilização
+Artigo 53.º
+
+Métodos e artes de pesca e condições da sua utilização
 
 1 - A pesca nas águas interiores não marítimas pode ser exercida por meio dos seguintes métodos de pesca e artes nas condições e para as espécies referidas nas alíneas seguintes:
 
@@ -784,17 +920,23 @@ h) Outras artes que tenham um âmbito de utilização marcadamente local, cujas 
 
 4 - Os regulamentos de incidência local previstos no artigo 59.º deste diploma poderão estabelecer outros requisitos e condicionamentos das artes de pesca referidas no n.º 1.
 
-###### Artigo 54.º — Pesca do meixão
+Artigo 54.º
+
+Pesca do meixão
 
 1 - É proibida a pesca do meixão.
 
 2 - Sem prejuízo do disposto no número anterior, por portaria do membro do Governo responsável pelo sector da pesca será estabelecido o regime de pesca do meixão com utilização de rapeta, para a safra 2000-2001.
 
-###### Artigo 55.º — Sinalização e identificação das artes de pesca
+Artigo 55.º
+
+Sinalização e identificação das artes de pesca
 
 As artes de pesca deverão ser devidamente sinalizadas e identificadas de acordo com as disposições a estabelecer nos regulamentos de incidência local previstos no artigo 59.º deste diploma.
 
-###### Artigo 56.º — Captura de espécies destinadas ao repovoamento de estabelecimentos de aquicultura
+Artigo 56.º
+
+Captura de espécies destinadas ao repovoamento de estabelecimentos de aquicultura
 
 1 - A captura de espécies destinadas a repovoamento de estabelecimentos de aquicultura está sujeita a autorização e licenciamento a requerer à Direcção-Geral das Pescas e Aquicultura (DGPA) ou aos órgãos do Governo próprio das Regiões Autónomas caso tais capturas ocorram em águas abrangidas nas respectivas Regiões.
 
@@ -802,7 +944,9 @@ As artes de pesca deverão ser devidamente sinalizadas e identificadas de acordo
 
 3 - À captura de espécies para repovoamento não são aplicáveis as condicionantes previstas no artigo 52.º ou os normativos respeitantes a tamanhos mínimos.
 
-###### Artigo 57.º — Locais de pesca proibidos
+Artigo 57.º
+
+Locais de pesca proibidos
 
 O exercício da pesca nas águas interiores não marítimas é proibido:
 
@@ -810,7 +954,9 @@ a) De maneira a causar prejuízos à navegação;
 
 b) Nas proximidades de certos locais, nomeadamente esgotos, docas, portos de abrigo, embarcadouros, estaleiros de construção naval, pontes-cais e de acesso rodoviário, acessos a estabelecimentos de aquicultura, a viveiros de moluscos bivalves e as zonas de produção natural de recursos vivos, em condições e a distâncias mínimas a definir nos regulamentos de incidência local previstos no artigo 59.º deste diploma.
 
-###### Artigo 58.º — Proibição da pesca em zonas insalubres
+Artigo 58.º
+
+Proibição da pesca em zonas insalubres
 
 1 - Por motivo de ordem sanitária a pesca pode ser proibida em determinadas zonas do continente consideradas insalubres, ou durante períodos bem definidos, por despacho conjunto do membro do Governo responsável pelo sector das pescas e do Ministro da Saúde, mediante proposta da DGPA, ouvidos o IPIMAR e a autoridade sanitária.
 
@@ -818,21 +964,31 @@ b) Nas proximidades de certos locais, nomeadamente esgotos, docas, portos de abr
 
 3 - A medida prevista no número anterior tem carácter temporário e carece de confirmação, por despacho conjunto do membro do Governo responsável pelo sector das pescas e do Ministro da Saúde nos 30 dias imediatos.
 
-###### Artigo 59.º — Regulamentos de pesca de incidência local
+Artigo 59.º
+
+Regulamentos de pesca de incidência local
 
 1 - Sob proposta da DGPA e ouvidos o IPIMAR e as capitanias de porto da respectiva área, o membro do Governo responsável pelo sector das pescas estabelecerá, mediante portaria, as normas reguladoras do exercício da pesca em áreas determinadas de águas interiores não marítimas e com marcada especificidade local.
 
 2 - Nas Regiões Autónomas compete aos respectivos órgãos do Governo Regional a fixação dos regulamentos referidos no número anterior.
 
-###### Artigo 60.º — (Revogado.)
+Artigo 60.º
 
-###### Artigo 61.º — Outras disposições aplicáveis
+(Revogado.)
+
+Artigo 61.º
+
+Outras disposições aplicáveis
 
 As disposições constantes do capítulo III do título II do presente diploma aplicam-se, com as necessárias adaptações, ao exercício da pesca em águas interiores não marítimas.
 
-## TÍTULO IV — Das áreas de operação, requisitos e características das embarcações
+TÍTULO IV
 
-###### Artigo 62.º — Classificação das embarcações
+Das áreas de operação, requisitos e características das embarcações
+
+Artigo 62.º
+
+Classificação das embarcações
 
 As embarcações de pesca, considerando a área em que podem operar, classificam-se em:
 
@@ -842,7 +998,9 @@ b) Embarcações de pesca costeira;
 
 c) Embarcações de pesca do largo.
 
-###### Artigo 63.º — Embarcações de pesca local
+Artigo 63.º
+
+Embarcações de pesca local
 
 1 - As embarcações de pesca local são as que podem operar nas seguintes áreas:
 
@@ -858,7 +1016,9 @@ c) Quando de convés fechado - dentro da área de jurisdição da capitania em q
 
 4 - Tendo em conta a topografia dos fundos marinhos e a especificidade da actividade da pesca na subárea da zona económica exclusiva dos Açores, o limite previsto na alínea a) do n.º 1 será de 12 milhas da costa.
 
-###### Artigo 64.º — Embarcações de pesca costeira
+Artigo 64.º
+
+Embarcações de pesca costeira
 
 1 - As embarcações de pesca costeira são as que podem operar nas áreas definidas nos n.os 2, 3 e 4, sem prejuízo do disposto no n.º 5.
 
@@ -894,13 +1054,17 @@ b) No banco Chaucer.
 
 10 - Fora das regiões referidas nos números anteriores as embarcações de pesca costeira só podem operar a partir de bases, flutuantes ou em terra, de navios-mãe ou em frotas combinadas.
 
-###### Artigo 65.º — Embarcações de pesca do largo
+Artigo 65.º
+
+Embarcações de pesca do largo
 
 1 - Sem prejuízo do disposto no número seguinte, as embarcações de pesca do largo são as que podem operar em qualquer área, excepto para dentro das 12 milhas de distância à linha da costa portuguesa ou ao alinhamento dos cabos Raso, Espichel e Sines.
 
 2 - A limitação de área de operação estabelecida no número anterior não se aplica às embarcações de pesca do largo que se dediquem, exclusiva ou principalmente, à pesca de tunídeos e similares com isco vivo nas águas adjacentes às subáreas da zona económica exclusiva dos Açores e da Madeira.
 
-###### Artigo 66.º — Características e requisitos técnicos das embarcações
+Artigo 66.º
+
+Características e requisitos técnicos das embarcações
 
 1 - As embarcações de pesca devem possuir as características e os requisitos técnicos que lhes permitam exercer a actividade para que estão autorizadas em condições de segurança, com mar grosso e vento fresco, tendo em conta a natureza e extensão das viagens e a distância e localização dos pesqueiros mais afastados em que estão autorizados a operar.
 
@@ -916,7 +1080,9 @@ d) Certificação técnica e demais documentação de bordo exigível nos termos
 
 e) Condições e outros factores de higiene e segurança, nomeadamente os constantes da legislação em vigor.
 
-###### Artigo 67.º — Requisitos das embarcações de pesca local
+Artigo 67.º
+
+Requisitos das embarcações de pesca local
 
 1 - Os requisitos específicos a que as embarcações de pesca local devem obedecer, com ressalva do disposto no n.º 2 do artigo seguinte, são:
 
@@ -932,7 +1098,9 @@ b) Potência do motor - não superior a 35 cv ou 25 kW.
 
 3 - Em situações devidamente identificadas e de âmbito marcadamente local, podem ser autorizadas a pescar nas águas interiores não marítimas embarcações, com requisitos técnicos diferentes dos fixados nos números anteriores e nas condições a estabelecer nos regulamentos de incidência local a que se refere o artigo 59.º
 
-###### Artigo 68.º — Requisitos das embarcações de pesca costeira
+Artigo 68.º
+
+Requisitos das embarcações de pesca costeira
 
 1 - Os requisitos específicos das embarcações de pesca costeira são:
 
@@ -946,7 +1114,9 @@ c) Autonomia - estabelecida de acordo com a área de operação fixada para a em
 
 3 - Na Região Autónoma dos Açores, as embarcações que tenham comprimento fora a fora entre 9 m e 14 m poderão ser classificados como embarcações de pesca local, mediante definição em diploma próprio dos órgãos de governo regionais, das áreas de operação e das exigências relativas a meios de salvação e equipamentos de navegação e de radiocomunicações.
 
-###### Artigo 69.º — Requisitos das embarcações de pesca do largo
+Artigo 69.º
+
+Requisitos das embarcações de pesca do largo
 
 Os requisitos específicos das embarcações de pesca do largo são:
 
@@ -954,11 +1124,17 @@ a) Arqueação - com GT superior a 100;
 
 b) Autonomia - mínimo de 15 dias.
 
-## TÍTULO V — Do regime de autorização e licenciamento
+TÍTULO V
 
-### CAPÍTULO I — Autorizações
+Do regime de autorização e licenciamento
 
-###### Artigo 70.º — Autorização para aquisição, construção e modificação de embarcações de pesca
+CAPÍTULO I
+
+Autorizações
+
+Artigo 70.º
+
+Autorização para aquisição, construção e modificação de embarcações de pesca
 
 1 - A aquisição, construção e modificação de embarcações de pesca a registar ou registadas em portos nacionais estão sujeitas a autorização prévia.
 
@@ -968,7 +1144,9 @@ b) Autonomia - mínimo de 15 dias.
 
 4 - As autorizações previstas no n.º 1, uma vez concedidas e não utilizadas, poderão caducar nas condições e prazos a definir por despacho do membro do Governo responsável pelo sector das pescas.
 
-###### Artigo 71.º — Elementos do pedido
+Artigo 71.º
+
+Elementos do pedido
 
 Os pedidos de autorização referidos no artigo anterior deverão ser acompanhados dos seguintes elementos:
 
@@ -980,7 +1158,9 @@ c) Justificação técnica e económica do projecto;
 
 d) Discriminação dos custos do projecto e prova da capacidade financeira do requerente.
 
-###### Artigo 72.º — Autorização para o afretamento de embarcações
+Artigo 72.º
+
+Autorização para o afretamento de embarcações
 
 1 - Os pedidos para a concessão de autorização para o afretamento de embarcações de pesca estrangeiras devem ser dirigidos às entidades mencionadas no artigo 9.º do Decreto-Lei n.º 278/87, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro.
 
@@ -1000,7 +1180,9 @@ e) Minuta do contrato de afretamento acordada entre as partes.
 
 4 - À autorização para o afretamento de embarcações de pesca nacionais aplica-se o disposto nos n.os 1 e 2, com as necessárias adaptações.
 
-###### Artigo 73.º — Autorização para o exercício da actividade e para o uso de artes
+Artigo 73.º
+
+Autorização para o exercício da actividade e para o uso de artes
 
 1 - A concessão das autorizações referidas nos artigos 70.º e 72.º, abrangerá automaticamente a autorização para o exercício da pesca pelas embarcações ali mencionadas, bem como para a utilização das artes e para a exploração de espécies expressamente consignadas no acto de autorização.
 
@@ -1016,9 +1198,13 @@ c) Áreas de operação e espécies a explorar, bem como os períodos de utiliza
 
 4 - O membro do Governo responsável pelo sector das pescas ou os órgãos próprios das Regiões Autónomas poderão, no âmbito das suas competências, definidas no artigo 8.º do Decreto-Lei n.º 278/87, fixar números máximos de autorizações para o exercício da pesca, para a actividade das embarcações e para a utilização das artes de pesca.
 
-### CAPÍTULO II — Licenciamento
+CAPÍTULO II
 
-###### Artigo 74.º — Licenciamento
+Licenciamento
+
+Artigo 74.º
+
+Licenciamento
 
 1 - O exercício da pesca e a utilização de artes ou utensílios com ou sem o auxílio de embarcações, seja em águas sob soberania e jurisdição nacional, em águas comunitárias de países terceiros ou em alto mar, estão sujeitos a licenciamento a requerer anualmente.
 
@@ -1028,7 +1214,9 @@ c) Áreas de operação e espécies a explorar, bem como os períodos de utiliza
 
 4 - O licenciamento previsto no número anterior não implica o averbamento no livrete de actividade das artes especificamente usadas para os fins ali discriminados.
 
-###### Artigo 74.º-A — Critérios e condições
+Artigo 74.º-A
+
+Critérios e condições
 
 Os critérios e condições relativos ao licenciamento para o exercício da actividade da pesca são fixados por despacho do membro do Governo responsável do sector das pescas ou pelos órgãos de governo próprio das Regiões Autónomas no caso de competência para o licenciamento lhes estar atribuída, tendo em consideração:
 
@@ -1044,7 +1232,9 @@ e) As características e o estado das embarcações; e
 
 f) O incumprimento reiterado das normas reguladoras do exercício da pesca.
 
-###### Artigo 75.º — Trâmites do licenciamento
+Artigo 75.º
+
+Trâmites do licenciamento
 
 1 - Compete à DGPA a concessão do licenciamento, excepto nos casos seguintes, em que a competência cabe aos órgãos próprios das regiões autónomas:
 
@@ -1066,13 +1256,17 @@ b) Licenciamento para o exercício da actividade da pesca e respectivas artes, s
 
 8 - As falsas declarações sobre os elementos referidos no n.º 3 serão punidas nos termos da lei.
 
-###### Artigo 76.º — Concessão das licenças
+Artigo 76.º
+
+Concessão das licenças
 
 1 - A renovação das licenças de pesca será sempre concedida aos que a tiverem requerido nos termos do artigo anterior, salvo recusa expressa da DGPA, a comunicar ao requerente, com conhecimento à capitania do porto de registo, até 30 de Novembro de cada ano, com fundamento nos critérios e condições fixados no despacho previsto no artigo 74.º-A.
 
 2 - No caso previsto nos n.os 4 e 6 do artigo anterior, o prazo de que a DGPA dispõe para notificar os requerentes é de 90 dias.
 
-###### Artigo 77.º — Emissão e formalização das licenças
+Artigo 77.º
+
+Emissão e formalização das licenças
 
 1 - As licenças de pesca serão tituladas por documento de modelo a aprovar pelo membro do Governo responsável pelo sector das pescas, a emitir pela DGPA.
 
@@ -1090,15 +1284,21 @@ c) Para efeitos do disposto no n.º 1, compete às capitanias do porto de regist
 
 5 - A DGPA procederá à anulação das licenças não levantadas até ao dia 31 de Janeiro do ano a que respeitam, bem como das não levantadas nos termos da parte final do número anterior.
 
-###### Artigo 78.º — Taxas
+Artigo 78.º
+
+Taxas
 
 A concessão de licenças de pesca está sujeita ao pagamento de taxas pelos respectivos beneficiários, cujos montantes e formas de cobrança serão estabelecidos por despachos conjuntos do membro do Governo responsável pelo sector das pescas e dos Ministros da Defesa Nacional e das Finanças.
 
-###### Artigo 79.º — Vistoria das artes e das condições de conservação
+Artigo 79.º
+
+Vistoria das artes e das condições de conservação
 
 As características das artes e de outros instrumentos de pesca, bem como as condições para conservação do pescado a bordo das embarcações, devem ser aprovadas na altura da concessão da licença inicial e verificadas com a periodicidade de pelo menos uma vez em cada três anos pela DGPA ou pelos órgãos competentes das Regiões Autónomas consoante se trate de embarcações, registadas nos portos do continente ou nos portos daquelas Regiões.
 
-###### Artigo 80.º — Livrete de actividade das embarcações
+Artigo 80.º
+
+Livrete de actividade das embarcações
 
 1 - As embarcações de pesca deverão possuir um livrete de actividade, a emitir pela DGPA, segundo modelo e em condições a aprovar pelo membro do Governo responsável pelo sector das pescas.
 
@@ -1112,7 +1312,9 @@ c) As artes e outros instrumentos que estão autorizados a usar, bem como as sua
 
 3 - A licença só será concedida após o averbamento no livrete de actividade dos elementos referidos no número anterior.
 
-###### Artigo 81.º — Regulamentação complementar
+Artigo 81.º
+
+Regulamentação complementar
 
 O membro do Governo responsável pelo sector das pescas e os órgãos próprios das Regiões Autónomas no âmbito das suas competências, fixarão os procedimentos administrativos específicos para a concessão das autorizações e das licenças de pesca referidas no presente capítulo.
 

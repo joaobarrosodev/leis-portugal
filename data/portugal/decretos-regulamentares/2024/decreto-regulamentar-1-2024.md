@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01200/0000600050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2024/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2024-837022979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa9da2724a8d993694b88f5672f2d7548eb595de52faa5ef9d08b8cd7f65957b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 036fc951803752bc57980414b7de8e944f2422fc788dd8609d2160ebfdf6449a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Admissão de Estrangeiros
+- Agência para a Integração Migrações e Asilo I. P.
 - Aicep
-- Residência de Estrangeiros
 - Cidadão Estrangeiro
 - Circulação de Pessoas
-- Segurança Interna
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Entrada de Estrangeiros
 - Fiscalização
+- GNR
+- Imigração
 - Imigrante
 - Investimento Estrangeiro
-- GNR
+- Regulamentação de Atos Legislativos
+- Residência de Estrangeiros
+- Segurança Interna
 - Transporte de Passageiros
-- Admissão de Estrangeiros
 - Unidade de Coordenação de Fronteiras e Estrangeiros
-- Agência para a Integração Migrações e Asilo I. P.
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar:84/2007
+  label: Altera, a partir de 18 de janeiro de 2024, nos termos do artigo 5.º do presente diploma, os artigos 2.º, 3.º, 5.º,
+    6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 12.º-A, 14.º, 18.º, 18.º-A, 21.º, 23.º-C, 24.º-A, 24.º-B, 33.º, 35.º, 38.º, 39.º, 40.º,
+    43.º, 44.º, 45.º, 46.º, 49.º, 49.º-A, 50.º, 51.º, 53.º, 54.º, 55.º, 56.º, 57.º, 58.º-A, 58.º-B, 59.º, 60.º, 61.º, 62.º,
+    62.º-A, 62.º-B, 63.º, 64.º, 65.º, 65.º-A, 65.º-D a 65.º-H, 65.º-J, 65.º-K, 66.º, 67.º, 71.º, 73.º a 90.º, 92.º, 92.º-B
+    e 92.º-C e determina que o capítulo i passa a título i com a designação «Entrada e saída de território nacional», o capítulo
+    ii passa a título ii com a designação «Vistos», O capítulo iii passa a capítulo ii do título iii com a designação «Prorrogação
+    de permanência», o capítulo iv passa a capítulo iii do título iii com a designação «Autorização de residência e cartão
+    azul UE», o capítulo v passa a título iv com a designação «Estatuto de residente de longa duração, o capítulo vi passa
+    a título v com a designação «Afastamento», a secção i do capítulo vi passa a capítulo i do título v com a designação «Disposições
+    gerais», a secção ii do capítulo vi passa a capítulo ii do título v com a designação «Reconhecimento mútuo de decisões
+    de expulsão», a secção iii do capítulo vi passa a capítulo iii do título v com a designação «Apoio ao afastamento por
+    via aérea durante o trânsito aeroportuário», o capítulo vii passa a título vi com a designação «Taxas e encargos» e o
+    capítulo viii passa a título vii com a designação «Disposições complementares, transitórias e finais, adita os artigos
+    42.º-A, 42.º-B, 42.º-C, 42.º-D, 42.º-E, 42.º-F, 42.º-G, 42.º-H, 42.º-I, 42.º-J, 42.º-K, 42.º-L, 42.º-M, 42.º-N, 42.º-O,
+    42.º-P, 42.º-Q, 42.º-R, 42.º-S, 42.º-T, 42.º-U, 57.º-A e 92.º-D, o título iii com a designação «Permanência em território
+    nacional» e o capítulo i do título iii com a designação «Disposições comuns aos pedidos relativos à permanência em território
+    nacional», que integra os artigos 42.º-A a 42.º-U, e revoga o n.º 10 do artigo 10.º, a alínea d) do n.º 1 do artigo 12.º,
+    os n.ºs 4, 5 e 6 do artigo 14.º, o n.º 2 do artigo 50.º, o artigo 52.º, o n.º 3 do artigo 56.º, o n.º 3 do artigo 61.º,
+    as alíneas a), b) e d) do n.º 2, a alínea d) do n.º 7 e o n.º 8 do artigo 63.º, os n.ºs 2 e 3 do artigo 64.º, os n.ºs
+    2, 4 e 5 do artigo 65.º-A, os n.ºs 1, 3, 4, 5 e 6 do artigo 65.º-D e os n.ºs 1, 2, 4, 5, 6, 11 e 12 do artigo 65.º-E e
+    o artigo 92.º-A do Decreto Regulamentar n.º 84/2007, de 5 de novembro, Diário da República n.º 212/2007, Série I
+  source: null
+  date: '2007-11-05'
 - type: cites
   target: celex:32001L0040
   label: null
@@ -136,16 +161,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1563/2007/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1563/2007/12/11/p/dre
+- type: cites
+  target: pt:dre:107684448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222779383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67540636:por
+  label: null
+  source: null
 article_structure:
-  article_count: 106
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:11Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +267,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 12.º-A, 14.�
 
 2 - Estão isentas de desembaraço da GNR as embarcações de tráfego local, de pesca local e costeira e os rebocadores e embarcações auxiliares locais ou costeiras.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -192,7 +279,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 12.º-A, 14.�
 
 4 - As autorizações de acesso, referidas no número anterior, são comunicadas ao órgão local da Autoridade Marítima Nacional, no mais curto espaço de tempo, para fins de controlo e segurança das pessoas e bens no porto e nos navios ou embarcações.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -214,11 +303,15 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 As autoridades competentes para a emissão de documentos devem disponibilizar à força de segurança competente, por via adequada, incluindo a eletrónica, o acesso aos pedidos respeitantes à sua concessão ou emissão, facultando a consulta do respetivo processo e duplicados sempre que tal seja requerido ou se justifique.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -228,7 +321,9 @@ As autoridades competentes para a emissão de documentos devem disponibilizar à
 
 4 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -238,11 +333,15 @@ As autoridades competentes para a emissão de documentos devem disponibilizar à
 
 4 - Sempre que existam dúvidas relativamente à situação do menor, a força de segurança competente realiza todas as diligências necessárias à sua identificação, com vista a garantir a sua proteção e adequado encaminhamento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A Unidade de Coordenação de Fronteiras e Estrangeiros (UCFE) estabelece os procedimentos e as soluções tecnológicas adequadas para a transmissão pelas transportadoras aéreas, armadores ou agentes de navegação, dos dados previstos no artigo 42.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, nos termos a definir por portaria do membro do Governo do qual depende o Secretário-Geral do Sistema de Segurança Interna e pelo membro do Governo responsável pela área da administração interna.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao [Decreto-Lei n.º 51/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2021-165129790), de 15 de junho, é apresentado em formulário próprio, em formato físico ou eletrónico.
 
@@ -266,7 +365,9 @@ A Unidade de Coordenação de Fronteiras e Estrangeiros (UCFE) estabelece os pro
 
 11 - O modelo de formulário previsto no n.º 1 está também disponível em suporte eletrónico no sítio na Internet disponibilizado pelo Ministério dos Negócios Estrangeiros.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -302,7 +403,9 @@ c) Dos elementos previstos na alínea f) do n.º 1, desde que apresentem um term
 
 7 - [...]
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - Para os efeitos previstos na alínea f) do n.º 1 do artigo 12.º, devem ser tidos em consideração os meios provenientes de subvenções, bolsas de estudo, contrato ou promessa de contrato de trabalho, contrato de sociedade ou contrato ou proposta escrita de contrato de prestação de serviços.
 
@@ -318,7 +421,9 @@ c) Dos elementos previstos na alínea f) do n.º 1, desde que apresentem um term
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Dos pareceres positivos relativos a vistos de residência, emitidos pela AIMA, I. P., nos termos da alínea a) do n.º 1 do artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, consta, sempre que no pedido for indicada a data da viagem, o agendamento para apresentação na AIMA, I. P., do interessado para apresentação do pedido de autorização de residência, salvo nos casos em que a recolha de dados biométricos e demais elementos necessários à instrução do pedido de autorização de residência tenha sido obtida pela rede consular e seja disponibilizada à AIMA, I. P., para os referidos efeitos.
 
@@ -332,7 +437,9 @@ c) Dos elementos previstos na alínea f) do n.º 1, desde que apresentem um term
 
 6 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -342,7 +449,9 @@ c) Dos elementos previstos na alínea f) do n.º 1, desde que apresentem um term
 
 4 - [...]
 
-###### Artigo 18.º-A — [...]
+Artigo 18.º-A
+
+[...]
 
 1 - [...]
 
@@ -352,7 +461,9 @@ b) Comprovativo da disponibilidade de recursos estáveis e regulares, suficiente
 
 2 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A instrução do pedido de visto de estada temporária previsto no artigo 57.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é completada pelos documentos que atestem o cumprimento dos requisitos previstos nas alíneas a) e b) do mesmo artigo.
 
@@ -362,7 +473,9 @@ b) Comprovativo da disponibilidade de recursos estáveis e regulares, suficiente
 
 4 - [...]
 
-###### Artigo 23.º-C — [...]
+Artigo 23.º-C
+
+[...]
 
 1 - [...]
 
@@ -372,7 +485,9 @@ b) [...]
 
 2 - A autoridade consular comunica imediatamente à AIMA, I. P., ao IEFP, I. P., e à UCFE a concessão dos vistos referidos no número anterior.
 
-###### Artigo 24.º-A — [...]
+Artigo 24.º-A
+
+[...]
 
 1 - [...]
 
@@ -384,7 +499,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 24.º-B — [...]
+Artigo 24.º-B
+
+[...]
 
 1 - [...]
 
@@ -396,7 +513,9 @@ b) [...]
 
 3 - Para efeitos do disposto no n.º 4 do artigo 65.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, a articulação com os competentes serviços da Autoridade Tributária e Aduaneira, da segurança social e da SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., para a obtenção e a atribuição dos números de identificação fiscal, de segurança social e do Serviço Nacional de Saúde, é da responsabilidade da AIMA, I. P., que os deve transmitir de forma eletrónica ao titular do visto, logo que dos mesmos tenha conhecimento.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -414,7 +533,9 @@ b) [...]
 
 8 - A autoridade consular comunica imediatamente à AIMA, I. P., e à UCFE a concessão de visto de residência para frequência de programa de estudos de ensino superior, nos termos do n.º 11 do artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Para efeitos de emissão dos pareceres obrigatórios da AIMA, I. P., e da UCFE previstos nos n.os 1 e 2 do artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, o processo, devidamente instruído e acompanhado do parecer do posto consular, é disponibilizado às referidas entidades, nos termos definidos por portaria do membro do Governo do qual depende o Secretário-Geral do Sistema de Segurança Interna e dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e migrações.
 
@@ -432,7 +553,7 @@ b) [...]
 
 8 - A aplicação do disposto no artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é assegurada através do sistema nacional de vistos, nos termos definidos por portaria do membro do Governo do qual depende o Secretário-Geral do Sistema de Segurança Interna e dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e migrações.
 
-###### Artigo 38.º
+Artigo 38.º
 
 Relação de vistos concedidos e comunicação da emissão dos vistos concedidos com dispensa de parecer obrigatório da Agência para a Integração, Migrações e Asilo, I. P.
 
@@ -448,11 +569,15 @@ Relação de vistos concedidos e comunicação da emissão dos vistos concedidos
 
 6 - Os processos de vistos concedidos sem pareceres ou consulta prévia da AIMA, I. P., ou da UCFE nos termos das normas referidas no número anterior devem ser enviados às referidas entidades, mencionando expressamente o domicílio indicado em território nacional e, quando aplicável, os dados relativos a subscritores dos termos de responsabilidade para efeitos do disposto no n.º 6 do artigo 12.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, nos termos definidos por portaria do membro do Governo do qual depende o Secretário-Geral do Sistema de Segurança Interna e dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das migrações.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Nos termos das disposições regulamentares da União Europeia e da legislação interna, e sem prejuízo das atribuições da UCFE relativamente à gestão do sistema nacional de vistos de fronteira, a AIMA, I. P., organiza o sistema nacional de vistos no quadro do sistema europeu de informações de vistos.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -460,7 +585,9 @@ Nos termos das disposições regulamentares da União Europeia e da legislação
 
 3 - Comprovadas as circunstâncias mencionadas no n.º 1, a AIMA, I. P., prorroga a permanência nos termos do artigo 71.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, pelo tempo de duração correspondente ao do destacamento.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os pedidos de prorrogação de permanência são apresentados pelo requerente ou pelo seu representante legal nos termos definidos no presente decreto regulamentar.
 
@@ -478,7 +605,9 @@ Nos termos das disposições regulamentares da União Europeia e da legislação
 
 8 - O disposto no n.º 1 não isenta o requerente da aposição pela AIMA, I. P., da respetiva vinheta.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Sem prejuízo dos elementos específicos exigíveis para cada tipo de prorrogação, os pedidos são instruídos com os seguintes elementos:
 
@@ -500,7 +629,9 @@ f) Quando em visita familiar, informação comprovativa do vínculo invocado.
 
 4 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -512,7 +643,9 @@ f) Quando em visita familiar, informação comprovativa do vínculo invocado.
 
 5 - [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -524,7 +657,9 @@ b) Informação comprovativa da justificação invocada.
 
 3 - É automaticamente deferido o pedido de prorrogação dos vistos previstos no artigo 52.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, salvo se ocorrer algum dos motivos de recusa previsto na alínea c) do n.º 1 daquele artigo ou tenha havido inscrição no registo criminal de qualquer facto que justifique ponderação da prorrogação.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de prorrogação de permanência apresentado por titular de visto de estada temporária emitido para efeitos de tratamento médico é acompanhado de informação comprovativa de que o requerente continua em tratamento médico e tem assegurado o internamento, o tratamento ambulatório, em estabelecimento de saúde oficial ou oficialmente reconhecido, ou se encontra em lista de inscritos ou no sistema integrado de gestão de inscritos para cirurgia.
 
@@ -572,11 +707,15 @@ c) Informação comprovativa de alojamento.
 
 11 - [...]
 
-###### Artigo 49.º-A — [...]
+Artigo 49.º-A
+
+[...]
 
 O pedido de prorrogação de permanência apresentado por titular de visto para procura de trabalho, nos termos da alínea c) do n.º 1 do artigo 57.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), na sua redação atual, é acompanhado da informação comprovativa da inscrição para emprego junto do IEFP, I. P., e da manutenção das condições da estada prevista, sendo apreciado tendo em consideração as razões que justificaram a sua concessão.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - O pedido de prorrogação de permanência apresentado por titular de visto de residência é acompanhado de:
 
@@ -586,7 +725,9 @@ b) Informação comprovativa da permanência em território nacional, salvo se o
 
 2 - (Revogado.)
 
-###### Artigo 51.º — Apresentação do pedido
+Artigo 51.º
+
+Apresentação do pedido
 
 1 - O pedido de concessão e de renovação de autorização de residência deve ser preferencialmente submetido de forma desmaterializada em plataforma digital acessível através do portal único de serviços.
 
@@ -644,7 +785,9 @@ c) O presidente do conselho diretivo da AIMA, I. P., designa a pessoa ou pessoas
 
 19 - Para efeitos do disposto no n.º 5 do artigo 7.º do [Decreto-Lei n.º 176/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2003-652702), de 2 de agosto, na sua redação atual, entende-se que foram formulados há mais de 30 dias, para efeitos, nomeadamente, de atribuição da prestação de abono de família a crianças e jovens e do número de identificação de segurança social, os pedidos de concessão e de renovação de autorização de residência das pessoas que exerçam as responsabilidades parentais ou a quem tenha sido confiada a guarda dos menores em questão, cujo processo se encontre pendente de decisão na AIMA, I. P.
 
-###### Artigo 53.º — Pedido de concessão de autorização de residência temporária
+Artigo 53.º
+
+Pedido de concessão de autorização de residência temporária
 
 1 - Para além dos elementos específicos exigíveis em função da finalidade da residência, e sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização apresentado por titular do visto é acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -670,7 +813,9 @@ f) Informação sobre os antecedentes criminais em Portugal.
 
 6 - A recusa da concessão de autorização de residência temporária com fundamento em razões de saúde pública obedece aos procedimentos e regras fixados nos n.os 3, 4 e 5 do artigo 77.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência para exercício de atividade profissional subordinada apresentado por titular de visto de residência para a mesma finalidade deve ser acompanhado da informação comprovativa do vínculo laboral.
 
@@ -696,7 +841,9 @@ c) Informação comprovativa da inscrição junto da administração fiscal e da
 
 9 - O pedido de concessão de autorização de residência para exercício de atividade profissional subordinada, referido nos n.os 1 e 2, permite a inscrição no IEFP, I. P., e a frequência de formação profissional, bem como a perceção dos respetivos apoios sociais, em conformidade com a legislação aplicável.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência para exercício de atividade profissional independente nos termos do n.º 1 do artigo 89.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, apresentado por titular de visto de residência para a mesma finalidade deve ser acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -716,7 +863,9 @@ c) Quando aplicável, informação comprovativa da verificação dos requisitos 
 
 6 - O pedido de concessão de autorização de residência para desenvolvimento de projeto empreendedor ou criação de empresa de base inovadora previsto no n.º 4 do artigo 89.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado de informação comprovativa da celebração de contrato de incubação com incubadora certificada, nos termos da legislação aplicável.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência nos termos do presente artigo pode ser apresentado pelos centros de investigação, os estabelecimentos de ensino superior ou outras entidades públicas ou privadas, nomeadamente empresas, que acolham atividade de docência, altamente qualificada e cultural.
 
@@ -726,7 +875,9 @@ c) Quando aplicável, informação comprovativa da verificação dos requisitos 
 
 4 - O pedido de concessão de autorização de residência temporária ou de cartão azul UE previstos, respetivamente, nos artigos 90.º e 121.º-B da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, são acompanhados da informação comprovativa de qualquer dos requisitos previstos nos n.os 1 daqueles artigos.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência para estudo em estabelecimento de ensino secundário ou superior ou para frequência de cursos de nível 4 ou 5 do Quadro Nacional de Qualificações (QNQ) ou cursos de formação profissional ministrados por estabelecimentos de ensino ou de formação profissional deve ser acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -776,7 +927,9 @@ c) Informação comprovativa da inscrição na segurança social, nas situaçõe
 
 9 - Ao estudante do ensino secundário, pós-secundário ou profissional pode ser dispensado, mediante requerimento, visto de residência desde que demonstre a entrada e permanência legais em território nacional.
 
-###### Artigo 58.º-A — [...]
+Artigo 58.º-A
+
+[...]
 
 1 - A comunicação de mobilidade prevista no artigo 91.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e sem prejuízo do disposto no artigo 42.º-A deve ser acompanhada dos documentos dos quais constem os seguintes os elementos:
 
@@ -796,13 +949,17 @@ e) Informação comprovativa da admissão em instituição de ensino superior ao
 
 4 - [...]
 
-###### Artigo 58.º-B — [...]
+Artigo 58.º-B
+
+[...]
 
 1 - O pedido de autorização de residência previsto no artigo 91.º-C da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é instruído nos termos previstos nos artigos 53.º e 54.º
 
 2 - Se no prazo de 30 dias a contar da data de apresentação do pedido referido no número anterior a AIMA, I. P., não comunicar por escrito a sua oposição nos termos do n.º 5 do artigo 91.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser imediatamente emitida declaração a confirmar a autorização de residência em território nacional para efeitos de estudo ou investigação.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - As autoridades públicas, designadamente a autoridade judiciária, os órgãos de polícia criminal competentes para a investigação dos crimes de tráfico de pessoas ou de ação de auxílio à imigração ilegal, autoridades policiais ou as associações que atuem no âmbito da proteção das vítimas devem informar, por escrito, o cidadão estrangeiro, com conhecimento à AIMA, I. P., da possibilidade de beneficiar da concessão de autorização de residência nos termos da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
@@ -814,7 +971,9 @@ e) Informação comprovativa da admissão em instituição de ensino superior ao
 
 5 - A comunicação referida no n.º 2 é realizada preferencialmente por canal digital.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência apresentado por titular do estatuto de residente de longa duração concedido por um Estado-Membro da União Europeia é acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -884,7 +1043,9 @@ f) Informação de antecedentes criminais do Estado-Membro que concedeu o títul
 
 7 - A concessão de cartão azul UE ou de autorização de residência no âmbito do reagrupamento familiar nos termos dos números anteriores bem como as decisões de renovação, indeferimento e cancelamento são comunicadas pela AIMA, I. P., preferencialmente por via eletrónica, às autoridades do Estado-Membro da União Europeia que concederam o estatuto de residente de longa duração ou o cartão azul UE.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência com dispensa de visto nos termos do artigo 122.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -984,7 +1145,9 @@ b) Informação comprovativa de doença prolongada que obste ao retorno ao país
 
 27 - [...]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o procedimento oficioso de concessão de autorização de residência, desencadeado ao abrigo do artigo 123.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser instruído com os documentos dos quais constem os seguintes elementos:
 
@@ -1000,7 +1163,9 @@ e) Informação comprovativa do exercício da atividade relevante no domínio ci
 
 2 - Para efeitos da alínea b) do n.º 1 do artigo 123.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, a AIMA, I. P., deve considerar, ponderadas as circunstâncias concretas do caso, como razões humanitárias a inserção no mercado laboral por um período superior a um ano.
 
-###### Artigo 62.º-A — [...]
+Artigo 62.º-A
+
+[...]
 
 Sem prejuízo do disposto no artigo 42.º-A, o pedido de autorização de residência prevista no artigo 123.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -1016,7 +1181,9 @@ e) Informação sobre antecedentes criminais do país da anterior residência;
 
 f) Informação sobre antecedentes criminais em Portugal pela AIMA, I. P.
 
-###### Artigo 62.º-B — [...]
+Artigo 62.º-B
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de autorização de residência ao abrigo do artigo 124.º-B da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos elementos referidos no n.º 1 do referido artigo, bem como da informação comprovativa da entrada legal em território nacional.
 
@@ -1024,7 +1191,9 @@ f) Informação sobre antecedentes criminais em Portugal pela AIMA, I. P.
 
 3 - [...]
 
-###### Artigo 63.º — Pedido de renovação de autorização de residência temporária
+Artigo 63.º
+
+Pedido de renovação de autorização de residência temporária
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de renovação de autorização de residência temporária deve ser acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -1088,7 +1257,9 @@ e) Quando aplicável, informação comprovativa da toda frequência de estágio 
 
 16 - [...]
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de concessão de autorização de residência apresentado por titular de autorização de residência temporária há pelo menos cinco anos é acompanhado dos documentos dos quais constem os seguintes elementos:
 
@@ -1110,7 +1281,9 @@ e) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 5 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - O pedido de renovação do título de autorização de residência permanente é acompanhado de requerimento para consulta de informação sobre antecedentes criminais em Portugal pela AIMA, I. P.
 
@@ -1122,7 +1295,9 @@ e) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 5 - [...]
 
-###### Artigo 65.º-A — [...]
+Artigo 65.º-A
+
+[...]
 
 1 - [...]
 
@@ -1152,7 +1327,9 @@ e) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 14 - [...]
 
-###### Artigo 65.º-D — [...]
+Artigo 65.º-D
+
+[...]
 
 1 - (Revogado.)
 
@@ -1190,7 +1367,9 @@ e) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 18 - A AIMA, I. P. pode solicitar a entidades nacionais competentes parecer sobre o cumprimento dos requisitos legais em razão do investimento.
 
-###### Artigo 65.º-E — [...]
+Artigo 65.º-E
+
+[...]
 
 1 - (Revogado.)
 
@@ -1226,7 +1405,9 @@ e) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 17 - A AIMA, I. P., pode solicitar a entidades nacionais competentes parecer sobre o cumprimento dos requisitos legais em razão do investimento.
 
-###### Artigo 65.º-F — [...]
+Artigo 65.º-F
+
+[...]
 
 1 - [...]
 
@@ -1234,11 +1415,15 @@ e) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 3 - Mediante protocolo entre o Ministério da Economia, o Ministério dos Negócios Estrangeiros e a AIMA, I. P., podem ser abertos postos de atendimento para informação a investidores, nas instalações da AICEP, E. P. E., ou do Turismo de Portugal, I. P.
 
-###### Artigo 65.º-G — [...]
+Artigo 65.º-G
+
+[...]
 
 A AIMA, I. P., pode, através do Ministério dos Negócios Estrangeiros, consultar os postos da rede diplomática e consular, sempre que, na apreciação de pedidos de concessão ou renovação de autorizações de residência para atividade de investimento e reagrupamento familiar relacionado, careça de informações complementares sobre os meios de prova apresentados ou sobre outros elementos objetivos específicos do pedido, que necessitem de verificação no país de proveniência ou de última residência habitual do requerente.
 
-###### Artigo 65.º-H — [...]
+Artigo 65.º-H
+
+[...]
 
 1 - É criado um grupo de acompanhamento constituído pelo conselho diretivo da AIMA, I. P., pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, pelo presidente da AICEP, E. P. E., por um representante do membro do Governo responsável pela área da cultura e por um representante dos membros do Governo responsáveis pelas áreas da educação e da ciência.
 
@@ -1256,15 +1441,21 @@ c) [...]
 
 d) Avaliar, a cada dois anos, as atividades de investimento previstas na alínea d) do n.º 1 do artigo 3.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, quanto aos seus impactos na atividade científica e cultural, na promoção do investimento direto estrangeiro e na criação de postos de trabalho.
 
-###### Artigo 65.º-J — Manual de procedimentos da AIMA, I. P.
+Artigo 65.º-J
+
+Manual de procedimentos da AIMA, I. P.
 
 A AIMA, I. P., elabora um manual de procedimentos interno relativo à tramitação dos processos de autorização de residência para atividade de investimento, que é aprovado pelo membro do Governo responsável pela área das migrações.
 
-###### Artigo 65.º-K — [...]
+Artigo 65.º-K
+
+[...]
 
 Aos cidadãos titulares de autorização de residência para atividade de investimento prevista na alínea d) do n.º 1 do artigo 3.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e seus familiares, que cumpram os requisitos previstos no artigo 80.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e requeiram a concessão de autorização de residência permanente, será emitida uma autorização de residência para atividade de investimento permanente, excecionando a este regime o previsto na alínea b) do n.º 2 e nos n.os 3 e 4 do artigo 85.º do mesmo diploma.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - O cidadão residente em território nacional que pretenda beneficiar do direito ao reagrupamento familiar apresenta o respetivo pedido no sistema de informação de suporte à atividade da AIMA, I. P., o qual deve conter a identificação do requerente e dos membros da família a que o pedido respeita.
 
@@ -1272,7 +1463,9 @@ Aos cidadãos titulares de autorização de residência para atividade de invest
 
 3 - [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 42.º-A, o pedido de reagrupamento familiar é instruído com os documentos dos quais constem os seguintes elementos:
 
@@ -1308,7 +1501,9 @@ g) Informação comprovativa da situação de união de facto, conforme prevista
 
 4 - Em caso de dúvida, podem ser solicitados, a título complementar, comprovativos do laço familiar.
 
-###### Artigo 71.º — Entrega do título
+Artigo 71.º
+
+Entrega do título
 
 1 - A indicação do local de entrega do título de residência é efetuada mediante comunicação remetida para a morada do titular indicada nos termos do artigo 51.º
 
@@ -1320,7 +1515,9 @@ g) Informação comprovativa da situação de união de facto, conforme prevista
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Pode ser solicitada pelo interessado segunda via do título de residência em caso de mau estado de conservação, perda ou extravio, destruição, furto ou roubo, salvo se houver lugar à sua renovação, nos termos dos artigos 78.º ou 121.º-E da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
@@ -1332,7 +1529,9 @@ g) Informação comprovativa da situação de união de facto, conforme prevista
 
 5 - O pedido de segunda via de título de residência por perda, extravio, destruição, furto ou roubo determina a inserção de indicação de objeto furtado, desviado ou extraviado no SII AIMA, devendo este facto ser transmitido pela AIMA, I. P., à UCFE para inserção da mesma indicação no Sistema Integrado de Informação UCFE (SII UCFE) e no Sistema de Informação Schengen e impede que o seu titular o utilize se o recuperar, devendo neste caso proceder à sua entrega junto da AIMA, I. P.
 
-###### Artigo 74.º — Pedido de concessão do estatuto de residente de longa duração
+Artigo 74.º
+
+Pedido de concessão do estatuto de residente de longa duração
 
 1 - Sem prejuízo do disposto no artigo 42.º-A do presente decreto regulamentar, ao pedido de concessão do estatuto de residente de longa duração previsto no n.º 1 do artigo 125.º ou no n.º 1 do artigo 121.º-J da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é aplicável, com as necessárias adaptações, o disposto no artigo 51.º, sendo o pedido instruído com os documentos dos quais constem os seguintes elementos:
 
@@ -1356,7 +1555,9 @@ g) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 4 - Aos cidadãos estrangeiros a quem seja concedido o estatuto de residente de longa duração é emitido um título de residência, nos termos dos artigos 121.º-J ou 130.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, válido por cinco anos.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - O pedido de renovação do título de residente de longa duração é acompanhado da informação sobre antecedentes criminais em Portugal obtida pela AIMA, I. P.
 
@@ -1364,13 +1565,17 @@ g) Informação legalmente reconhecida e comprovativa do conhecimento de portugu
 
 3 - [...]
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - A decisão de cancelamento do estatuto de residente de longa duração é proferida em processo próprio, a instruir pela AIMA, I. P., sempre que ocorra uma das situações mencionadas numa das alíneas do n.º 1 do artigo 131.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
 2 - [...]
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Os residentes de longa duração que tenham perdido o estatuto de residente de longa duração por ausência de território nacional ou da União Europeia podem readquiri-lo, nos termos e condições do artigo 131.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, mediante requerimento apresentado nos termos do artigo 51.º do presente decreto regulamentar, acompanhado de documento de viagem e dos seguintes elementos:
 
@@ -1382,11 +1587,15 @@ c) Informação comprovativa de alojamento.
 
 2 - [...]
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 A concessão do estatuto de residente de longa duração a cidadão titular de autorização de residência ou de cartão azul UE emitidos, respetivamente, ao abrigo dos artigos 116.º e 118.º ou 121.º-I da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é comunicada pela AIMA, I. P., preferencialmente por via eletrónica, às autoridades do Estado-Membro da União Europeia que concedeu o estatuto de residente de longa duração ou o cartão azul UE.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Quando procedam à identificação de cidadão estrangeiro nos termos do artigo 250.º do Código de Processo Penal, as autoridades policiais referidas no n.º 7 do artigo 146.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, podem consultar a AIMA, I. P., a fim de:
 
@@ -1400,7 +1609,9 @@ c) [...]
 
 3 - Quando procedam à identificação de cidadão estrangeiro nos termos dos n.os 1 e 7 do artigo 146.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, ou sempre que o cidadão estrangeiro seja detido para identificação, nos termos do n.º 1 do artigo 146.º da mesma lei, tal facto é sempre comunicado à AIMA, I. P., para efeitos de observância da alínea b) do n.º 1 e do n.º 2.
 
-###### Artigo 80.º — Admissão após benefício de apoio ao regresso voluntário
+Artigo 80.º
+
+Admissão após benefício de apoio ao regresso voluntário
 
 1 - Os cidadãos estrangeiros que beneficiem de apoio ao regresso voluntário previsto no artigo 139.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, devem ser informados das obrigações a que ficam sujeitos, pela AIMA, I. P., ou pelas organizações com quem sejam estabelecidos programas de cooperação.
 
@@ -1414,7 +1625,9 @@ c) [...]
 
 6 - A AIMA, I. P., remete ao beneficiário documento comprovativo de que efetuou o pagamento e de que a medida de não admissão foi eliminada.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...]
 
@@ -1422,7 +1635,9 @@ c) [...]
 
 3 - A recolha de informação e as comunicações previstas nos números anteriores são efetuadas, preferencialmente por via eletrónica, junto das autoridades do Estado-Membro da União Europeia que concedeu o estatuto de residente de longa duração ou o cartão azul UE, através de ponto de contacto designado pelo presidente do conselho diretivo da AIMA, I. P.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - Notificada a decisão de afastamento e após o decurso do prazo referido no n.º 1 do artigo 160.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, a força de segurança territorialmente competente procede à sua execução, conduzindo o cidadão à fronteira.
 
@@ -1436,7 +1651,9 @@ c) [...]
 
 6 - Para efeitos do disposto nos n.os 4 e 5 do artigo 151.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, a entidade competente deve comunicar à força de segurança territorialmente competente, com a antecedência mínima de 60 dias, os elementos de identificação dos cidadãos que reúnam os requisitos para expulsão antecipada por decurso do prazo legal de cumprimento de pena de prisão.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - Sempre que tenha conhecimento de decisão de expulsão tomada por autoridade administrativa competente de outro Estado-Membro da União Europeia ou de Estado Parte na Convenção de Aplicação do Acordo de Schengen contra um nacional de Estado terceiro que se encontre em território nacional, a AIMA, I. P., organiza um processo onde seja recolhida, junto da autoridade competente do outro Estado, a documentação necessária à verificação dos elementos previstos no artigo 169.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, nomeadamente a identificação da entidade que proferiu a decisão, os fundamentos da mesma e a natureza executória da medida, acompanhada de informação sobre a situação regular ou irregular do cidadão em território nacional.
 
@@ -1444,21 +1661,29 @@ c) [...]
 
 3 - Nos restantes casos, recolhidos os elementos referidos no n.º 1, o presidente do conselho diretivo da AIMA, I. P., determina o envio do processo ao tribunal competente a fim de ser proferida decisão de reconhecimento por entidade judicial, de acordo com o disposto nos artigos 152.º a 158.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...]
 
 2 - A decisão de reconhecimento é executada pela força de segurança competente, no mais curto prazo, através da condução do cidadão à fronteira.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 A AIMA, I. P., é o ponto de contacto nacional para efeitos da aplicação da [Decisão n.º 2004/191/CE](http://data.europa.eu/eli/dec/2004/191/oj?locale=pt), do Conselho da União Europeia, de 23 de fevereiro, a qual define os critérios e modalidades práticas adequados para a compensação dos desequilíbrios financeiros que possam resultar da [Diretiva n.º 2001/40/CE](http://data.europa.eu/eli/dir/2001/40/oj?locale=pt), do Conselho, de 28 de maio, transposta nos artigos 169.º a 172.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 86.º — Pedidos de reembolso a apresentar pela AIMA, I. P.
+Artigo 86.º
+
+Pedidos de reembolso a apresentar pela AIMA, I. P.
 
 No caso de a força de segurança territorialmente competente proceder, na sequência de decisão de reconhecimento proferida nos termos do artigo 83.º, à execução de medida de expulsão tomada há menos de quatro anos por outro Estado-Membro da União Europeia ou de Estado Parte na Convenção de Aplicação do Acordo de Schengen, a AIMA, I. P., apresenta por escrito à autoridade competente do respetivo Estado, no prazo máximo de um ano a contar da data de execução da decisão de expulsão, pedido de reembolso acompanhado dos documentos comprovativos dos custos das operações do afastamento.
 
-###### Artigo 87.º — Pedidos de reembolso apresentados à AIMA, I. P.
+Artigo 87.º
+
+Pedidos de reembolso apresentados à AIMA, I. P.
 
 1 - A AIMA, I. P., informa de imediato o ponto de contacto do respetivo Estado-Membro da União Europeia ou de Estado Parte na Convenção de Aplicação do Acordo de Schengen da receção de pedido de reembolso que lhe tenha sido dirigido por motivo de execução de uma decisão de afastamento proferida por autoridade competente nacional.
 
@@ -1480,7 +1705,9 @@ e) [...]
 
 5 - Em caso de aceitação do pagamento, a AIMA, I. P., efetua o pagamento num prazo máximo de três meses a contar da data de resposta ao pedido de reembolso.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - [...]
 
@@ -1500,13 +1727,17 @@ f) [...]
 
 3 - Sempre que necessário, a AIMA, I. P., e a autoridade competente do outro Estado consultam-se mutuamente, a fim de chegarem a acordo sobre outros custos para além dos mencionados no n.º 1 ou sobre custos adicionais.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - Na sequência da prestação das medidas de apoio requeridas por outro Estado-Membro da União Europeia a Portugal, a Polícia de Segurança Pública (PSP) apura os montantes dos encargos que deverão ser suportados por esse Estado-Membro e, logo que possível, informa em conformidade a respetiva autoridade central, remetendo a documentação contabilística pertinente.
 
 2 - As despesas com as medidas de apoio prestadas por outro Estado-Membro na sequência de prévio pedido formulado pela PSP são suportadas pela PSP segundo as regras contabilísticas aplicáveis e pela forma acordada com a autoridade central do Estado-Membro em causa.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - As taxas e demais encargos a cobrar pelos atos e procedimentos administrativos previstos no presente decreto regulamentar são fixados por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e das migrações.
 
@@ -1514,11 +1745,15 @@ f) [...]
 
 3 - As taxas devidas pelos procedimentos inerentes à emissão de documentos de viagem da competência da AIMA, I. P., à concessão e à renovação de autorizações de residência e de estatuto de residente de longa duração são liquidadas no momento da apresentação do pedido, através do serviço de Pagamentos da Administração Pública (PAP) disponibilizado pela Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos fixados pela [Resolução do Conselho de Ministros n.º 42/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-2015-67540636), de 19 de junho.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 A AIMA, I. P., e a Autoridade para as Condições de Trabalho estabelecem os mecanismos de cooperação adequados para monitorizar e fiscalizar as práticas de emissão e concretização de promessas de contrato de trabalho ou manifestações individualizadas de interesse, por forma a garantir a aplicação rigorosa do sistema de admissão de trabalhadores previsto no artigo 59.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 92.º-B — [...]
+Artigo 92.º-B
+
+[...]
 
 [...]
 
@@ -1526,7 +1761,9 @@ a) [...]
 
 b) À AIMA, I. P., e ao IEFP, I. P., por via eletrónica, os vistos para procura de trabalho concedidos.
 
-###### Artigo 92.º-C — Identificação de estrangeiros
+Artigo 92.º-C
+
+Identificação de estrangeiros
 
 1 - A recolha e tratamento de fotografias, imagens faciais e dados dactiloscópicos para efeitos de identificação de estrangeiros, nacionais de Estados-Membros da União Europeia, apátridas e cidadãos nacionais no âmbito do SII AIMA e do SII UCFE verificam-se nos termos e para os efeitos previstos na lei nacional e na regulamentação aplicável ao Sistema de Informação de Schengen, e com respeito pelas normas mínimas de qualidade dos dados e de segurança e pelas especificações técnicas previstas nesses instrumentos e constantes de portaria do membro do Governo do qual depende o Secretário-Geral do Sistema de Segurança Interna e dos membros do Governo responsáveis pelas áreas da administração interna e das migrações.
 
@@ -1556,7 +1793,9 @@ Obtenção de informação comprovativa
 
 8 - Sempre que aplicável devem ser utilizados os princípios do Modelo comum de desenho e desenvolvimento de serviços públicos digitais, disponibilizado pela AMA, I. P.
 
-###### Artigo 42.º-B — Elementos de identificação e outros elementos constantes de documento de viagem válido
+Artigo 42.º-B
+
+Elementos de identificação e outros elementos constantes de documento de viagem válido
 
 1 - Os elementos de identificação e outros elementos relevantes constantes de passaporte ou outro documento de viagem válido são comprovados nos termos seguintes:
 
@@ -1566,7 +1805,9 @@ b) Apresentação do documento em suporte físico, sempre que o pedido seja apre
 
 2 - Quando apresentado em suporte físico, os dados do documento de viagem são recolhidos nos termos da alínea a) do n.º 1, com as necessárias adaptações.
 
-###### Artigo 42.º-C — Informação sobre antecedentes criminais em países terceiros
+Artigo 42.º-C
+
+Informação sobre antecedentes criminais em países terceiros
 
 A informação sobre antecedentes criminais do requerente em países terceiros é comprovada nos termos seguintes:
 
@@ -1574,11 +1815,15 @@ a) Através de consulta ao sistema de informação do registo criminal do país 
 
 b) Quando não seja possível aceder à informação nos termos previstos na alínea anterior, através de certificado de registo criminal do país de nacionalidade ou do país de residência onde reside há mais de um ano, consoante os casos.
 
-###### Artigo 42.º-D — Informação sobre antecedentes criminais em Portugal
+Artigo 42.º-D
+
+Informação sobre antecedentes criminais em Portugal
 
 A informação sobre antecedentes criminais em Portugal é comprovada através de consulta ao sistema de informação do registo criminal português.
 
-###### Artigo 42.º-E — Informação comprovativa da entrada e permanência legal em território nacional
+Artigo 42.º-E
+
+Informação comprovativa da entrada e permanência legal em território nacional
 
 1 - A informação sobre a entrada legal em território nacional é comprovada através de consulta do Sistema de Entrada/Saída (SES) e do Sistema de Controlo de Fronteiras, e, nas situações em que seja exigido visto, também através de consulta ao sistema de intercâmbio de dados sobre vistos entre Estados-Membros Schengen.
 
@@ -1586,7 +1831,9 @@ A informação sobre antecedentes criminais em Portugal é comprovada através d
 
 3 - Quando não seja possível aceder à informação nos termos previstos no número anterior, ou exista necessidade de apresentação de elementos complementares, a informação sobre a entrada legal em território nacional é comprovada através da apresentação do passaporte ou de outro documento de viagem válido com aposição dos respetivos carimbos.
 
-###### Artigo 42.º-F — Informação comprovativa da disposição de meios de subsistência, da capacidade financeira, de recursos estáveis e regulares e de rendimentos médios mensais
+Artigo 42.º-F
+
+Informação comprovativa da disposição de meios de subsistência, da capacidade financeira, de recursos estáveis e regulares e de rendimentos médios mensais
 
 1 - Sem prejuízo do disposto na [Portaria n.º 1563/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1563-2007-628798), de 11 de dezembro, a informação sobre a disposição de meios de subsistência, a capacidade financeira, a disponibilidade de recursos estáveis e regulares e sobre rendimentos médios mensais é comprovada, consoante os casos, através dos seguintes elementos:
 
@@ -1622,7 +1869,9 @@ l) Comprovativos de que possui meios financeiros disponíveis em Portugal, inclu
 
 6 - Quando não seja possível aceder a informação da responsabilidade do IRN, I. P., nos termos previstos na alínea i) do n.º 1, a mesma é comprovada mediante certidão ou disponibilização do respetivo código de acesso.
 
-###### Artigo 42.º-G — Informação comprovativa da existência ou manutenção de vínculo laboral ou de procura de trabalho
+Artigo 42.º-G
+
+Informação comprovativa da existência ou manutenção de vínculo laboral ou de procura de trabalho
 
 1 - A informação sobre a existência de vínculo laboral, a sua manutenção e a demais informação legalmente exigida relativa a vínculo laboral em território nacional é comprovada através de consulta ao sistema de informação da segurança social ou da Autoridade Tributária.
 
@@ -1632,7 +1881,9 @@ l) Comprovativos de que possui meios financeiros disponíveis em Portugal, inclu
 
 4 - A informação comprovativa da inscrição para emprego é comprovada através de consulta ao sistema de informação do IEFP, I. P.
 
-###### Artigo 42.º-H — Informação comprovativa do exercício ou da manutenção de atividade profissional independente ou de atividade desportiva amadora
+Artigo 42.º-H
+
+Informação comprovativa do exercício ou da manutenção de atividade profissional independente ou de atividade desportiva amadora
 
 1 - A informação sobre o exercício ou manutenção do exercício de uma atividade profissional independente em território nacional e a demais informação legalmente exigida relativamente ao mesmo é comprovada através de consulta ao sistema de informação da segurança social e da Autoridade Tributária.
 
@@ -1650,7 +1901,9 @@ c) Documento demonstrativo de serviços prestados a uma ou mais entidades.
 
 5 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada através de declaração emitida pela respetiva federação nacional, com respeito pelo n.º 8 do artigo 51.º
 
-###### Artigo 42.º-I — Informação sobre a verificação dos requisitos do exercício de profissão sujeita a qualificações ou certificações especiais
+Artigo 42.º-I
+
+Informação sobre a verificação dos requisitos do exercício de profissão sujeita a qualificações ou certificações especiais
 
 1 - A informação sobre o exercício de profissão regulamentada que se encontre sujeita a qualificações ou certificações especiais é comprovada através de consulta às bases de dados da entidade pública responsável pelo reconhecimento de qualificações profissionais, pela respetiva ordem profissional ou outra entidade reguladora da profissão.
 
@@ -1658,7 +1911,7 @@ c) Documento demonstrativo de serviços prestados a uma ou mais entidades.
 
 3 - A informação sobre o exercício de profissão não regulamentada que exija qualificações profissionais elevadas ou habilitações técnicas para a atividade ou setor ou sobre a experiência profissional e as qualificações compatíveis com as funções a desempenhar é comprovada através de declaração emitida por entidade representativa ou pela entidade empregadora, com respeito pelo disposto no n.º 8 do artigo 51.º
 
-###### Artigo 42.º-J
+Artigo 42.º-J
 
 Informação comprovativa da titularidade de bolsa ou de manutenção de bolsa de investigação, do exercício de atividade de investigação científica e da mobilidade de longa duração
 
@@ -1666,7 +1919,7 @@ Informação comprovativa da titularidade de bolsa ou de manutenção de bolsa d
 
 2 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada, consoante os casos, através de declaração emitida por entidade competente que ateste o vínculo laboral, a relação de prestação de serviços, a concessão de bolsa de investigação científica ou a outorga de convenção de acolhimento, com respeito pelo disposto no n.º 8 do artigo 51.º
 
-###### Artigo 42.º-K
+Artigo 42.º-K
 
 Informação comprovativa do exercício ou manutenção da atividade estudantil ou de mobilidade, de frequência de estágio profissional e do exercício ou manutenção de atividade de voluntariado
 
@@ -1684,7 +1937,9 @@ Informação comprovativa do exercício ou manutenção da atividade estudantil 
 
 7 - O disposto nos números anteriores aplica-se à prorrogação de permanência.
 
-###### Artigo 42.º-L — Informação comprovativa da residência fiscal
+Artigo 42.º-L
+
+Informação comprovativa da residência fiscal
 
 1 - A informação comprovativa da residência fiscal em território nacional é comprovada através de consulta às bases de dados da Autoridade Tributária.
 
@@ -1692,7 +1947,9 @@ Informação comprovativa do exercício ou manutenção da atividade estudantil 
 
 3 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada através de declaração oficial emitida pelo país de residência, com respeito pelo disposto no n.º 9 do artigo 51.º
 
-###### Artigo 42.º-M — Informação comprovativa de proteção adequada na eventualidade de doença
+Artigo 42.º-M
+
+Informação comprovativa de proteção adequada na eventualidade de doença
 
 1 - A informação comprovativa de proteção adequada na eventualidade de doença é comprovada através de consulta às bases do Serviço Nacional de Saúde (SNS).
 
@@ -1708,7 +1965,9 @@ c) Tratando-se de informação relativa a seguro de saúde contratado junto de c
 
 4 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada, consoante o caso, através de declaração emitida por estabelecimento ou serviço do SNS ou pelo estabelecimento de saúde oficial ou oficialmente reconhecido, com respeito pelo disposto no n.º 8 do artigo 51.º
 
-###### Artigo 42.º-N — Informação comprovativa de inscrição e da situação contributiva regularizada junto da segurança social e da Autoridade Tributária e de seguro social voluntário
+Artigo 42.º-N
+
+Informação comprovativa de inscrição e da situação contributiva regularizada junto da segurança social e da Autoridade Tributária e de seguro social voluntário
 
 1 - A informação comprovativa da inscrição e da situação contributiva regularizada junto da segurança social e da Autoridade Tributária é comprovada, consoante o caso, através de consulta às bases da segurança social ou da Autoridade Tributária.
 
@@ -1716,7 +1975,9 @@ c) Tratando-se de informação relativa a seguro de saúde contratado junto de c
 
 3 - Quando não seja possível aceder à informação nos termos previstos nos números anteriores, deve a mesma ser comprovada, consoante o caso, através de declaração emitida por estabelecimento ou serviço do SNS, com respeito pelo disposto no n.º 8 do artigo 51.º
 
-###### Artigo 42.º-O — Informação comprovativa de alojamento
+Artigo 42.º-O
+
+Informação comprovativa de alojamento
 
 1 - A informação comprovativa de alojamento é demonstrada através dos seguintes elementos e meios:
 
@@ -1728,19 +1989,25 @@ c) Quando não seja possível aceder à informação nos termos previstos na al�
 
 2 - O disposto nos números anteriores é aplicável à demonstração da informação comprovativa da manutenção de acolhimento, incluindo situações de prorrogação de permanência.
 
-###### Artigo 42.º-P — Informação relativa a sociedade comercial ou civil, titularidade de participações sociais ou exercício de funções em órgãos sociais
+Artigo 42.º-P
+
+Informação relativa a sociedade comercial ou civil, titularidade de participações sociais ou exercício de funções em órgãos sociais
 
 1 - A informação comprovativa de situações referentes a sociedade comercial ou civil, à titularidade de participações sociais ou ao exercício de funções em órgãos sociais é comprovada através de consulta às bases de dados do IRN, I. P.
 
 2 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada mediante certidão ou disponibilização do respetivo código de acesso.
 
-###### Artigo 42.º-Q — Informação relativa a contrato de incubação
+Artigo 42.º-Q
+
+Informação relativa a contrato de incubação
 
 1 - A informação comprovativa da existência de contrato de incubação, e demais informação legalmente exigida relativamente ao mesmo, é comprovada através de consulta às bases de dados do IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.).
 
 2 - Quando não seja possível aceder à informação nos termos previstos no número anterior, deve a mesma ser comprovada através de declaração emitida pelo IAPMEI, I. P., com respeito pelo disposto no n.º 8 do artigo 51.º
 
-###### Artigo 42.º-R — Informação comprovativa do exercício ou manutenção da atividade de investimento
+Artigo 42.º-R
+
+Informação comprovativa do exercício ou manutenção da atividade de investimento
 
 1 - A informação relativa ao exercício ou manutenção da atividade de investimento, e demais informação legalmente exigida relativamente à mesma, é comprovada, consoante a tipologia do investimento:
 
@@ -1758,7 +2025,9 @@ f) Através de declaração de entidade registadora, com respeito pelo disposto 
 
 2 - Sem prejuízo do disposto no número anterior, quando não seja possível aceder à informação nos termos previstos nas alíneas a) a f) do n.º 1, a informação é comprovada, consoante a tipologia do investimento, através de declaração emitida pelas entidades aí identificadas, com respeito pelo disposto no n.º 8 do artigo 51.º
 
-###### Artigo 42.º-S — Informação comprovativa de outras situações
+Artigo 42.º-S
+
+Informação comprovativa de outras situações
 
 1 - A informação comprovativa da existência de situações jurídicas que permitam a concessão de autorização de residência com dispensa de visto é comprovada, consoante os casos, através da consulta às bases de dados das seguintes entidades:
 
@@ -1804,7 +2073,9 @@ q) AIMA, I. P., e áreas governativas da ciência e do ensino superior, no que c
 
 6 - Quando não seja possível demonstrar a perda de nacionalidade nos termos da alínea i) do n.º 1 e do n.º 3, a situação é comprovada mediante certidão ou disponibilização do respetivo código de acesso.
 
-###### Artigo 42.º-T — Informação comprovativa do exercício do direito ao reagrupamento familiar
+Artigo 42.º-T
+
+Informação comprovativa do exercício do direito ao reagrupamento familiar
 
 1 - A informação relativa ao exercício do direito ao reagrupamento familiar é comprovada, consoante a natureza do vínculo, através da consulta às bases de dados das seguintes entidades:
 
@@ -1824,7 +2095,7 @@ d) Autoridade Tributária no tocante aos ascendentes do 1.º grau de linha reta 
 
 5 - O disposto nos números anteriores é aplicável à comprovação do laço familiar no âmbito da prorrogação de permanência.
 
-###### Artigo 42.º-U
+Artigo 42.º-U
 
 Informação comprovativa da titularidade de autorização de residência ou de estatuto de residente de longa duração noutro Estado-Membro da União ou de apresentação de pedido de autorização de residência
 
@@ -1834,13 +2105,17 @@ Informação comprovativa da titularidade de autorização de residência ou de 
 
 3 - A informação comprovativa da apresentação de pedido de autorização de residência para efeitos de prorrogação de permanência é comprovada através de acesso à base de dados da AIMA, I. P.
 
-###### Artigo 57.º-A — Documentos relativos à matrícula
+Artigo 57.º-A
+
+Documentos relativos à matrícula
 
 1 - No momento da efetivação da matrícula, os estudantes estrangeiros apresentam às instituições de ensino superior os documentos referidos no n.º 1 do artigo 57.º
 
 2 - As instituições de ensino superior remetem os documentos referidos no número anterior à Direção-Geral do Ensino Superior (DGES), que os envia, por via eletrónica, à AIMA, I. P.
 
-###### Artigo 92.º-D — Comunicações relativas a estudantes estrangeiros
+Artigo 92.º-D
+
+Comunicações relativas a estudantes estrangeiros
 
 1 - As instituições de ensino superior comunicam à Direção-Geral do Ensino Superior (DGES):
 
@@ -1914,12 +2189,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Bernardo Forjaz Vieira Ivo Cruz - Maria Isabel Solnado Porto Oneto - Ana Catarina Veiga dos Santos Mendonça Mendes - Elvira Maria Correia Fortunato - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 9 de janeiro de 2024.**
+Promulgado em 9 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de janeiro de 2024.**
+Referendado em 12 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117248257

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-1983-442925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2503e22a6bac3ecf6ec2022ba1e140dd1e8c9bcd113097e460165d1694d0756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f5f79a21d013c592b8c4d863d3e263d60184c5659601a6e4a4189b9fa05b77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+- Licenciatura
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600916:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:41Z'
   warnings: []
   errors: []
 ---
@@ -93,10 +103,10 @@ Ao abrigo do artigo 13.º do [Decreto-Lei n.º 316/83](https://diariodarepublica
 
 Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar a estrutura orgânica do quadro de professores catedráticos e associados do Instituto Superior de Ciências do Trabalho e da Empresa, bem como a distribuição dos lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/22300/33903391.pdf))](https://files.diariodarepublica.pt/1s/1983/09/22300/33903391.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/22300/33903391.pdf)
 
 Ministério da Educação.
 
-**Assinada em 29 de Julho de 1983.**
+Assinada em 29 de Julho de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

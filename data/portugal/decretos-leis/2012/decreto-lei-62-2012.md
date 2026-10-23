@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2012/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2012-553458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdae07ec6363e21b6204926d4ccbdc643f2e674777c94af6057438be723f427f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 462fe8b5c713fe5474de3c7e5a06bf967dc4a3d76ce868a49bec6c47f227795f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Desenvolvimento Rural
 - Definição de Competências
-- REDE Rural Nacional
+- Desenvolvimento Rural
+- Financiamento
 - Política Agrícola
+- Proder
+- REDE Rural Nacional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2008/01/04/p/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/2010/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:335686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605545:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:45Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +164,9 @@ d) (Revogada.)
 
 2 - ...
 
-###### Artigo 20.º — Órgão de gestão e gestor do PRRN
+Artigo 20.º
+
+Órgão de gestão e gestor do PRRN
 
 1 - O órgão de gestão do PRRN é a autoridade de gestão do PRODER e do PRRN.
 
@@ -180,12 +194,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 9 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 1 de março de 2012.**
+Promulgado em 1 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de março de 2012.**
+Referendado em 5 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

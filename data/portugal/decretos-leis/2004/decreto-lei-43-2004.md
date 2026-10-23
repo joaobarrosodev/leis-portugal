@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/052a00/11081109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2004/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2004-551860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea9d321f1c2f22468da274b663f82060d98d4009e612ff01f67827f124561188
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 721bd2f430d47fd35c3e277c247d476c509b9a408426a358d6cf98147c21d83b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Comércio
 - Contra-ordenação
-- Fiscalização
-- Incineração de Resíduos
 - Equipamento de Veículo
+- Fiscalização
+- Gestão de Resíduos
+- Incineração de Resíduos
 - Política do Ambiente
 - Produtor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:114337042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Alterado o art. 17.º do Dec Lei n.º 111/2001, de 06-Abr, na redacção do presente diploma, pelo DEC LEI.73/2011.17.06.2011.MAOT,\
+    \ DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: amends
+  target: pt:numero:decreto-lei:111/2001
+  label: "Altera os artigos 4.º, 9.º e 17.º do Decreto-Lei n.º 111/2001, de 6 de Abril DR.IS-A [82]\0\0"
+  source: null
+  date: '2001-04-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2001/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/111/2001/04/06/p/dre
+- type: cites
+  target: pt:dre:362316:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 111/2001 de 06-abr, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:28Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +170,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 9.º — Regras para a comercialização e recolha
+Artigo 9.º
+
+Regras para a comercialização e recolha
 
 1 - Aquando da comercialização de pneus, os produtores e distribuidores discriminam, num item específico a consagrar na respectiva factura, o valor correspondente à contrapartida financeira fixada a favor da entidade gestora.
 
@@ -159,7 +182,9 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Constitui contra-ordenação, punível com coima de (euro) 50 a (euro) 3740, no caso de pessoa singular, e de (euro) 500 a (euro) 44891, no caso de pessoa colectiva:
 
@@ -183,12 +208,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 12 de Fevereiro de 2004.**
+Promulgado em 12 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Fevereiro de 2004.**
+Referendado em 8 de Fevereiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

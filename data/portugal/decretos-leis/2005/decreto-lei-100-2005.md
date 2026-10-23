@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2005/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2005-226186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba78087a575b5b7ee3a0f064bbe278720bec708a12de2acb1a1c64d88ddb5f21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0df5e838b3e9604e6601d18f564d4defb5ed49245e8bb90415f2366c91be106c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Fiscalização
 - Instituto de Socorros a Náufragos
 - Pessoal de Assistência aos Banhistas nas Praias
+- Pessoal de Vigilância
 - Polícia Marítima
 - Regime Jurídico
-- Pessoal de Vigilância
 - Vigilância nas Praias
 - ZONA Balnear
 relationships:
@@ -80,20 +80,43 @@ relationships:
   target: pt:dre:494253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537262:por
+  label: "Dada nova redacção ao artigo 13.º-A da Lei 44/2004, de 19 de Agosto, aditada pelo presente diploma, pelo DEC LEI.129/2006.07.07.2006.MAOTDR,\
+    \ DR.IS [130] de 07.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2006-537262
+  date: '2006-07-07'
+- type: amended_by
+  target: pt:dre:636071:por
+  label: "Alterado o art. 13º-A da Lei 44/2004, de 19-Ago, DR.IS-A [195], aditado pelo presente diploma, pelo DEC LEI.256/2007.13.07.2007.MDN,\
+    \ DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2007-636071
+  date: '2007-07-13'
+- type: amended_by
+  target: pt:dre:494253:por
+  label: "Alterado, a partir de 01.11.2009., o nº 1 e revogados, a partir da mesma data, os nºs 2 e 3, todos do art. 4.º da\
+    \ Lei n.º 44/2004, de 19-Ago, na redacção do presente diploma, pelo DEC LEI.135/2009.03.06.2009.MAOTDR, DR.IS [107] de\
+    \ 03.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2009-494253
+  date: '2009-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:34Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +155,9 @@ Os artigos 4.º, 5.º e 8.º da [Lei n.º 44/2004](https://diariodarepublica.pt/
 
 4 - ...
 
-###### Artigo 5.º — Competências
+Artigo 5.º
+
+Competências
 
 O cumprimento da garantia da assistência aos banhistas compete às seguintes entidades:
 
@@ -150,7 +175,9 @@ f) [Anterior alínea g).]
 
 g) [Anterior alínea h).]
 
-###### Artigo 8.º — Obrigações dos concessionários
+Artigo 8.º
+
+Obrigações dos concessionários
 
 São obrigações dos concessionários:
 
@@ -184,12 +211,12 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia - Augusto Ernesto Santos Silva.
 
-**Promulgado em 6 de Junho de 2005.**
+Promulgado em 6 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Junho de 2005.**
+Referendado em 8 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

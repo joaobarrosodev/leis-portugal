@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24268-1969-214919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d67504804d03d11cf4356d1f560bf89d7b26a62b41772a9c26b08e26d96cdf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d94f4aa09d8905ba8a93470f143acc1686a2edc8966627c7f08b85ec6de96e7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:195421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665713:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:45Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ b) Presentes às juntas de inspecção e mandados baixar aos hospitais militares
 
 4.º O artigo 7.º, para o presente efeito, deve considerar-se com a seguinte redacção:
 
-###### Art. 7.º Em caso de dúvidas na aplicação da presente portaria, deve recorrer-se às disposições de carácter regulamentar constantes do Regulamento para o Abono de Alimentação e Alojamento por conta do Estado em Tempo de Paz, posto em vigor pelo [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958.
+Art. 7.º Em caso de dúvidas na aplicação da presente portaria, deve recorrer-se às disposições de carácter regulamentar constantes do Regulamento para o Abono de Alimentação e Alojamento por conta do Estado em Tempo de Paz, posto em vigor pelo [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958.
 
 5.º Não tem aplicação no ultramar o disposto nas alíneas d) e h) do n.º 1.º do artigo 1.º, o n.º 2.º do mesmo artigo e o artigo 6.º do referido [Decreto-Lei n.º 44941](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44941-1963-195421), de 28 de Março de 1963.
 

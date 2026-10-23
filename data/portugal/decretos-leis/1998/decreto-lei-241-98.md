@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/1998/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1998-435237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 798a9a3784bc91984246e20cebae7a008942efc7ac4dc2610fc6007e3bea9c83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08b40af8c505508932226b36b083ce1a09fb7b782a9eddb8025db0d6b38aa99c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Aposentação
+- Caixa Geral de Aposentações
 - Estatuto
 - Estatuto da Aposentação
-- Caixa Geral de Aposentações
-- Junta Médica
 - Exame Médico
-- Pensão de Invalidez
+- Junta Médica
 - Militar
+- Pensão de Invalidez
 relationships:
 - type: amended_by
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:24Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +141,9 @@ a) ...;
 
 b) ...;
 
-###### Artigo 119.º — Exame médico
+Artigo 119.º
+
+Exame médico
 
 1 - O exame de militares ou equiparados, para os efeitos previstos no n.º 2 do artigo anterior, compete a uma junta médica, composta por dois médicos indicados pela CGA, sendo presidida por um destes, e um médico indicado pelo competente serviço de saúde militar.
 
@@ -151,12 +157,12 @@ b) ...;
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1998. - António Manuel de Oliveira Guterres - José Rodrigues Pereira Penedos - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 21 de Julho de 1998.**
+Promulgado em 21 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2025-992627241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae4ea02ade4cdf95de9faabd60c625ccc82a1442bcb00515701e559f02bbf1f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59e676dac02ae86bed945c27ead6a1aa315944f20ef32fdc1c21909a76b09439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Destacamento de Pessoal
-- União Europeia
-- Estatuto
+- Administração Local
 - Administração Pública
+- Autarquia Local
+- Destacamento de Pessoal
+- Estatuto
+- Estatuto do Perito Nacional Destacado
 - Perito Nacional
 - Recursos Humanos
-- Administração Local
-- Autarquia Local
-- Estatuto do Perito Nacional Destacado
+- Região Autónoma
+- União Europeia
 relationships:
+- type: amends
+  target: pt:numero:lei:104/2019
+  label: Altera, a partir de 29 de dezembro de 2025, o artigo 12.º da Lei n.º 104/2019, de 6 de setembro, Diário da República
+    n.º 171/2019, Série I
+  source: null
+  date: '2019-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/192/1995/07/28/p/dre
   label: null
@@ -112,16 +118,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/347/2023/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/347/2023/11/13/p/dre
+- type: cites
+  target: pt:dre:124500718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224139047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901667918:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:347/2023
+  label: Revoga, a partir de 29 de dezembro de 2025 e nos termos do n.º 1 do artigo 4.º, a Portaria n.º 347/2023, de 13 de
+    novembro, Diário da República n.º 219/2023, Série I
+  source: null
+  date: '2023-11-13'
 article_structure:
   article_count: 40
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:22Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +200,7 @@ O presente decreto-lei:
 
 a) Aprova o Estatuto do Perito Nacional Destacado;
 
-b) Procede à terceira alteração à [Lei n.º 104/2019](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), de 6 de setembro, alterada pelas Leis n.<sup>os</sup>[82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, e [45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), de 31 de dezembro, que reformula e amplia o Sistema de Informação da Organização do Estado.
+b) Procede à terceira alteração à [Lei n.º 104/2019](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), de 6 de setembro, alterada pelas Leis n.os[82/2023](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), de 29 de dezembro, e [45-A/2024](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), de 31 de dezembro, que reformula e amplia o Sistema de Informação da Organização do Estado.
 
 ###### Artigo 2.º — Alteração à [Lei n.º 104/2019](https://diariodarepublica.pt/dr/detalhe/lei/104-2019-124500718), de 6 de setembro
 
@@ -230,15 +278,15 @@ r) O exercício de funções como perito nacional destacado na União Europeia o
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro.
 
-**Promulgado em 10 de dezembro de 2025.**
+Promulgado em 10 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de dezembro de 2025.**
+Referendado em 11 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -322,7 +370,7 @@ O perito nacional destacado pode continuar a beneficiar e a efetuar descontos pa
 
 ###### Artigo 10.º — Avaliação de desempenho
 
-O exercício de funções como perito nacional destacado releva, como prestado na carreira de origem, para efeitos de desenvolvimento da respetiva carreira, sendo aplicável à sua avaliação de desempenho o disposto nos n.<sup>os</sup>5 a 7 do artigo 42.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na sua redação atual, para efeitos de desenvolvimento da carreira de origem.
+O exercício de funções como perito nacional destacado releva, como prestado na carreira de origem, para efeitos de desenvolvimento da respetiva carreira, sendo aplicável à sua avaliação de desempenho o disposto nos n.os5 a 7 do artigo 42.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de dezembro, na sua redação atual, para efeitos de desenvolvimento da carreira de origem.
 
 ###### Artigo 11.º — Deveres do perito nacional destacado
 
@@ -414,7 +462,7 @@ c) Quando o trabalhador tenha obtido acesso à dotação centralizada prevista n
 
 ###### Artigo 19.º — Procedimento de prorrogação de destacamento
 
-1 - O pedido de prorrogação do destacamento é apresentado pelo serviço de destino junto do serviço de origem, via embaixada, missão ou representação permanente de Portugal junto da União Europeia ou missão portuguesa junto da organização internacional em que exerce funções, aplicando-se as regras previstas nos n.<sup>os</sup>2 e 3 do artigo anterior.
+1 - O pedido de prorrogação do destacamento é apresentado pelo serviço de destino junto do serviço de origem, via embaixada, missão ou representação permanente de Portugal junto da União Europeia ou missão portuguesa junto da organização internacional em que exerce funções, aplicando-se as regras previstas nos n.os2 e 3 do artigo anterior.
 
 2 - A prorrogação do destacamento carece da anuência do trabalhador.
 
@@ -553,3 +601,5 @@ d) Com a reforma do perito nacional destacado, por velhice ou invalidez.
 ###### Artigo 35.º — Legislação subsidiária
 
 A tudo o que não esteja previsto no presente Estatuto aplica-se subsidiariamente, com as necessárias adaptações, a LTFP no que se refere à cedência de interesse público.
+
+119918228

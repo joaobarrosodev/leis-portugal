@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04700/0144101466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2015/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2015-66689603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 622f4584cec7a141a6927378ce86023d5dbde61decf7d199dfc321e369f3a8da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af1766d4fe6fe05ca118dcec2f9bf5a74ec79677ae6558db449f5ac95b94748f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,175 +65,181 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Internacional da Cultura Portuguesa
 - Academia Internacional de Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
 - Acidente de Trabalho
+- Açores
 - ADM
 - Administração Central
+- Administração Central do Sistema de Saúde
 - Administração Financeira do Estado
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Administração Regional de Saúde
 - ADSE
+- Agência de Gestão da Tesouraria e da Dívida Pública
 - Agência para o Desenvolvimento e Coesão
 - Agrupamento de Escolas
 - Ajuste Direto
-- NATO
 - Alienação de BENS
 - Alienação de Imóveis
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Associação de Municípios
-- Região Autónoma
 - Assistência Médica
+- Associação de Municípios
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
-- Garantia
-- Médico
-- Hospital das Forças Armadas
-- Moeda Eletrónica
+- BENS Imóveis do Estado
+- Biblioteca Nacional de Portugal
+- Bolsa de Estudos
+- Caixa Geral de Aposentações
+- Camões - Instituto da Cooperação e da Língua
+- CASA PIA de Lisboa
 - Cativação de Verba
+- Ceger
 - Cejur
-- Ministério da Defesa Nacional
-- Investigação Científica e Tecnológica
+- Cobrança de Dívidas
 - Código de Procedimento e de Processo Tributário
+- Código dos Contratos Públicos
 - Combate à Fraude
-- Inspecção Geral das Actividades Culturais
-- Gestão Financeira
-- Fundação para a Ciência e a Tecnologia
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comissão para a Cidadania e a Igualdade de Género
 - Comunicação Social
-- Deficiente das Forças Armadas
-- ERC
+- Contabilidade Pública
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato de Aluguer
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Contribuições da Segurança Social
 - Controlo Orçamental
-- Política de Cooperação
-- Segurança Interna
+- Créditos da Segurança Social
+- Créditos do Estado
+- Cuidados Médicos
 - Dação em Cumprimento
+- Deficiente das Forças Armadas
 - Definição de Competências
 - Despesas Públicas
 - Direção Geral da Administração Escolar
-- Administração Regional de Saúde
 - Direção Geral das Autarquias Locais
 - Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Direção Geral do Orçamento
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral da Administração Pública
+- Direcção Geral das Artes
 - Direcção Regional de Economia
 - Dívidas ao Estado
+- Doença Profissional
 - Dotação Orçamental
 - Empreitada de Obras Públicas
+- Empresa Pública
 - Empréstimo Externo
 - Empréstimo Público
-- Empresa Pública
-- Administração Pública
-- Serviço Nacional de Saúde
+- Ensino Básico
+- Ensino Secundário
+- Ensino Superior
+- Entidade de Serviços Partilhados da Administração Pública
+- ERC
+- Estabelecimento de Ensino
+- Evasão Fiscal
 - Execução do Orçamento
-- Fundo Social Municipal
-- Caixa Geral de Aposentações
-- Lisboa
+- Financiamento
+- Forças Armadas
+- FSE
+- Função Pública
+- Funcionário Público
+- Fundação para a Ciência e a Tecnologia
 - Fundo de Estabilização Financeira da Segurança Social
-- Secretaria Geral
-- Ministério da Economia
 - Fundo de Maneio
-- BENS Imóveis do Estado
-- Titularização de Créditos
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Fundo para as Relações Internacionais
+- Fundo Social Municipal
 - Fundos Autónomos
 - Fundos CE
 - Gabinete de Estratégia Planeamento e Avaliação Culturais
 - Gabinete Governamental
 - Gabinete Nacional de Segurança
-- Comissão de Coordenação e Desenvolvimento Regional
-- Créditos do Estado
-- Gestão Orçamental
-- Ministério das Finanças
-- Pagamento
-- Indemnização Compensatória
 - Gabinete para os Meios de Comunicação Social
+- Garantia
+- Gestão de Créditos
+- Gestão Financeira
+- Gestão Orçamental
+- Hospital das Forças Armadas
+- Indemnização Compensatória
+- Inspecção Geral das Actividades Culturais
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Gestão Financeira e Equipamentos da Justiça
-- CASA PIA de Lisboa
-- Instituto Nacional de Medicina Legal e Ciências Forenses
-- Tribunal de Contas
-- Ensino Secundário
-- Veículo
-- Locação Financeira
-- Santa Casa da Misericórdia
-- FSE
-- Contratação de Pessoal
-- Membros do Governo
 - Instituto de Investigação Científica e Tropical
-- Academia Nacional de Belas-artes
-- Biblioteca Nacional de Portugal
-- Direcção Geral das Artes
-- Administração Central do Sistema de Saúde
-- Agência de Gestão da Tesouraria e da Dívida Pública
-- Direcção Geral da Administração Pública
-- Direção Geral do Orçamento
-- Entidade de Serviços Partilhados da Administração Pública
-- Camões - Instituto da Cooperação e da Língua
-- Fundo para as Relações Internacionais
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Investigação Científica e Tecnológica
+- Lisboa
+- Locação Financeira
+- Madeira.região Autónoma
+- Médico
+- Membros do Governo
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
 - Missão de PAZ
 - Missão Humanitária
-- Sistema de Normalização Contabilística
-- Orçamento Geral do Estado
-- Forças Armadas
+- Moeda Eletrónica
+- NATO
 - Operações de Tesouraria
 - Orçamento da Segurança Social
+- Orçamento Geral do Estado
 - Organismo do Estado
+- Pagamento
 - Património do Estado
 - PCM-Entidades
-- Doença Profissional
 - Pessoa Colectiva de Direito Público
-- Plano Oficial de Contabilidade Pública
-- Código dos Contratos Públicos
-- Prazo
-- Evasão Fiscal
-- Estabelecimento de Ensino
 - Pessoal Docente
+- Plano Oficial de Contabilidade Pública
+- Política de Cooperação
+- Prazo
+- Prédio Urbano
+- Presidência do Conselho de Ministros
 - Prestação de Contas
 - Prestações da Segurança Social
-- Ceger
-- Ensino Básico
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Cuidados Médicos
-- Madeira.região Autónoma
 - Programação Militar
-- Presidência do Conselho de Ministros
+- Proteção Social
 - Protecção na Doença
 - Receita Própria
 - Receita Pública
-- Cobrança de Dívidas
-- Proteção Social
-- Administração Local
-- Contrato de Trabalho
-- Ensino Superior
-- Bolsa de Estudos
+- Região Autónoma
 - Reposição de Verbas
 - Responsabilidade Financeira
-- Comissão para a Cidadania e a Igualdade de Género
-- Ministério dos Negócios Estrangeiros
+- Santa Casa da Misericórdia
+- Secretaria Geral
+- Segurança Interna
 - Segurança Social
+- Serviço Nacional de Saúde
 - Serviços Periféricos
-- Funcionário Público
-- Administração Regional
-- Açores
-- Contabilidade Pública
-- Prédio Urbano
+- Sistema de Normalização Contabilística
 - Tesouraria de Finanças
-- Créditos da Segurança Social
-- Gestão de Créditos
+- Titularização de Créditos
 - Transferência de Verbas
 - Transferência Patrimonial
-- Autarquia Local
+- Tribunal de Contas
+- Veículo
 - Veículo do Estado
-- Academia Internacional da Cultura Portuguesa
-- Academia Portuguesa de História
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:115312061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Alterado o art. 2.º do Dec Lei 103/2006 de 07-jun, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -282,16 +288,296 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 77
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:37Z'
   warnings: []
   errors: []
 ---
@@ -1338,15 +1624,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2015. - Pedro Passos Coelho - Luís Miguel Gubert Morais Leitão - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Álvaro Barbosa de Campos Ferreira - José Pedro Correia de Aguiar-Branco - Fernando Manuel de Almeida Alexandre - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 2 de março de 2015.**
+Promulgado em 2 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de março de 2015.**
+Referendado em 5 de março de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 3 do artigo 20.º)
 
@@ -1460,4 +1746,4 @@ Centro Protocolar de Formação Profissional para Jornalistas
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 57.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04700/0144101466.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04700/0144101466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04700/0144101466.pdf)

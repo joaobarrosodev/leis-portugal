@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20500/0000900030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2023/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7478a7defb96d7603cff0033427de6077409882f24848ffd43bba3c34cb900dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17a5444b10c7be4c426afb9c4a03e5d0a9b829926dfcead00e79dbbabb0d18ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
+- Angola
 - Centro de Ensino e Língua Portuguesa
 - Centro de Formação Profissional
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho de Patronos
 - Conselho Pedagógico
 - Contrato
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Diretor
+- Educação Pré-escolar
 - Encarregado de Educação
+- Ensino Básico
 - Ensino Português no Estrangeiro
-- Gestão Administrativa
 - Escola Portuguesa de Luanda
+- Estabelecimento de Ensino
 - Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Recrutamento de Pessoal
-- Angola
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Luanda
 - Orgânica
-- Política de Educação
-- Estabelecimento de Ensino
+- Pessoal Dirigente
 - Pessoal Docente
-- Ensino Básico
-- Gestão de Recursos Humanos
-- Educação Pré-escolar
+- Política de Educação
+- Recrutamento de Pessoal
+- Regulamentação de Atos Legislativos
 - Subdiretor
 relationships:
 - type: cites
@@ -130,16 +130,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/266/2012/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/266/2012/08/30/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171594980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173517002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736208:por
+  label: null
+  source: null
 article_structure:
-  article_count: 82
+  article_count: 61
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:16Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +238,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 3 - A Escola sediada na cidade de Luanda constitui-se como Escola sede.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -222,7 +264,9 @@ b) A celebração de protocolos de colaboração com entidades públicas ou priv
 
 7 - Para a prossecução dos seus objetivos, os membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação podem autorizar a Escola a obter, nos termos do direito local, personalidade jurídica, de direito público ou de direito privado.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -244,7 +288,9 @@ h) [...]
 
 i) A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A gestão da Escola e a prestação do serviço público de educação é efetuada diretamente pelo Estado português.
 
@@ -252,7 +298,9 @@ i) A autonomia, a administração e a gestão da Escola funcionam sob o princíp
 
 3 - Sem prejuízo das especificidades previstas no presente decreto-lei, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, na sua redação atual.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A Escola dispõe dos seguintes órgãos:
 
@@ -264,7 +312,9 @@ c) [...]
 
 2 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -282,7 +332,9 @@ e) O diretor da Escola ou o subdiretor em quem aquele delegue, sem direito de vo
 
 3 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -306,7 +358,9 @@ i) Aprovar o regulamento interno, sob proposta da direção da Escola;
 
 j) [Anterior alínea f).]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -320,7 +374,9 @@ j) [Anterior alínea f).]
 
 6 - A duração do mandato de cada membro do conselho de patronos, com exceção do presidente, é de três anos, podendo ser renovado.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A direção da Escola é composta por um diretor, um subdiretor e um subdiretor para cada polo, quando exista.
 
@@ -338,7 +394,9 @@ b) Um subdiretor e um adjunto, por aquele designado, respeitando o disposto no n
 
 6 - O adjunto é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O diretor tem os poderes de administração e gestão da Escola nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.
 
@@ -406,7 +464,9 @@ c) Definir o regime de funcionamento da Escola.
 
 7 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que aquele designar.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica, de orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
 
@@ -424,15 +484,21 @@ b) Participação das demais estruturas de coordenação e supervisão pedagógi
 
 6 - Caso o polo ofereça somente educação pré-escolar e o 1.º ciclo do ensino básico, o subdiretor deve participar nas reuniões do conselho pedagógico pelo menos uma vez de dois em dois meses, não sendo considerado para efeitos do limite máximo de membros previsto no n.º 2.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Sem prejuízo das competências atribuídas por lei ou pelo regulamento interno, cabe ao conselho pedagógico exercer as competências definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, na sua redação atual.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O regulamento interno fixa, nos termos do regime jurídico referido no n.º 3 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Aos docentes da Escola é aplicável o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado em anexo ao [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril, na sua redação atual.
 
@@ -446,7 +512,9 @@ O regulamento interno fixa, nos termos do regime jurídico referido no n.º 3 do
 
 6 - (Revogado.)
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 O valor das propinas é fixado pela direção, após parecer do conselho de patronos, e aprovado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.»
 
@@ -468,11 +536,15 @@ c) Relatório de atividades e financeiro.
 
 2 - A contabilidade da Escola deve ser organizada de forma analítica, de modo a permitir a avaliação dos resultados de gestão.
 
-###### Artigo 14.º-B — Património
+Artigo 14.º-B
+
+Património
 
 O património da Escola é constituído pela universalidade de bens, direitos e obrigações de que é titular.
 
-###### Artigo 14.º-C — Receitas
+Artigo 14.º-C
+
+Receitas
 
 1 - Constituem receitas da Escola:
 
@@ -490,7 +562,9 @@ f) Outras receitas que lhe sejam atribuídas por lei, subsídios, subvenções, 
 
 2 - Os saldos apurados no fim de cada exercício, relativamente às receitas próprias, transitam para o exercício seguinte.
 
-###### Artigo 16.º-A — Garantias
+Artigo 16.º-A
+
+Garantias
 
 1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.
 
@@ -508,19 +582,25 @@ d) Com seguros de saúde para si e para os membros do seu agregado familiar.
 
 4 - Nos termos do acordo existente entre o Estado Português e o Estado Angolano, os docentes podem optar pela aplicação da tributação sobre os rendimentos do trabalho que lhes seja mais favorável.
 
-###### Artigo 16.º-B — Proteção social
+Artigo 16.º-B
+
+Proteção social
 
 1 - Ao pessoal docente e não docente contratado localmente para o exercício de funções na Escola aplica-se a legislação relativa à segurança social angolana, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre as Repúblicas Portuguesa e Angolana.
 
 2 - Complementarmente, em condições a fixar por despacho do membro do Governo responsável pela área da educação e sob proposta da direção, pode ser celebrado contrato de seguro para cobertura das eventualidades não abrangidas pelo regime de proteção social angolano, sendo esses encargos suportados, nas percentagens de 35 % e 65 %, pelo docente e pela Escola, respetivamente, não podendo a comparticipação do trabalhador, para a formação do prémio de seguro, exceder o montante que o mesmo teria de suportar com a inscrição no regime geral de segurança social português para proteção nas mesmas eventualidades.
 
-###### Artigo 16.º-C — Mapa de pessoal
+Artigo 16.º-C
+
+Mapa de pessoal
 
 1 - A Escola é dotada de um mapa de pessoal que integra todos os trabalhadores docentes e não docentes, independentemente do tipo de vínculo laboral, nos termos da legislação portuguesa.
 
 2 - O pessoal docente e não docente da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
-###### Artigo 40.º-A — Avaliação
+Artigo 40.º-A
+
+Avaliação
 
 1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior previsto no [Decreto-Lei n.º 55/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2018-115652962), de 6 de julho, na sua redação atual, com as necessárias adaptações.
 
@@ -530,7 +610,9 @@ d) Com seguros de saúde para si e para os membros do seu agregado familiar.
 
 4 - A avaliação do pessoal não docente é feita nos termos da legislação angolana.
 
-###### Artigo 42.º-A — Contrato de autonomia
+Artigo 42.º-A
+
+Contrato de autonomia
 
 1 - Ao contrato de autonomia é aplicável o disposto no [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, na sua redação atual, com as necessárias adaptações.
 
@@ -594,15 +676,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de setembro de 2023. - António Luís Santos da Costa - João Titterington Gomes Cravinho - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa.
 
-**Promulgado em 11 de outubro de 2023.**
+Promulgado em 11 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2023.**
+Referendado em 17 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -1097,3 +1179,5 @@ Até ao final do ano escolar de 2009-2010 podem ser contratados para o exercíci
 ###### Artigo 44.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+116965332

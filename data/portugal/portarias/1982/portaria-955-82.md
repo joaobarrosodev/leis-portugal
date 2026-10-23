@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/955-1982-376596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce6f7c649cd0ba6e89c91f7c99258125b4d89cacd97eb9a4fa266a391912faf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 773a1dc152c293323d134f0b1c02b1e666ca5380025f04750645067fa34049b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579304:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:04Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +125,7 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 1.º São aprovadas as seguintes tarifas do transporte aéreo de passageiros a praticar em serviços regulares nas linhas abaixo especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf))](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf)
 
 2.º Não são permitidas paragens voluntárias (stopovers) em Funchal ou Porto Santo, excepto para passageiros de tarifa normal.
 
@@ -196,8 +225,8 @@ Na altura da emissão e pagamento do bilhete os passageiros devem preencher e en
 
 Se o passageiro ainda não estiver registado como contribuinte, deverá entregar, na altura da emissão e pagamento do bilhete, atestado da junta de freguesia comprovativo da sua residência permanente há, pelo menos, 6 meses, guardando para si cópia do mesmo, que exibirá quando do embarque, reservando-se o transportador o direito de o verificar em qualquer altura, designadamente para efeitos de recusa do transporte. O atestado de residência terá, para este efeito, a validade de 3 meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf))](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf)
 
 ## ANEXO II — Tarifas especiais de carga entre o continente e a Região Autónoma da Madeira e entre a Madeira e os Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf))](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/23400/33003302.pdf)

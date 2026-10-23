@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/266-1979-383423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f044088bbaa7dd0222d04e26ffb356bc5d1c79fd99f0f6f5ac680401032fba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d747384f5f99a45d574e83fcf7da2fb4e0eb6b0e5f44d33c8b16ee787cc30bcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Superior Militar
+- Regulamento
+- Regulamento Interno
+relationships:
+- type: cites
+  target: pt:dre:256064:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:27Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ REGULAMENTO INTERNO DO INSTITUTO SUPERIOR MILITAR (ISM)
 
 ### CAPÍTULO I — Constituição orgânica
 
-###### Artigo 1.º O Instituto Superior Militar (ISM) tem a seguinte constituição orgânica geral:
+Artigo 1.º O Instituto Superior Militar (ISM) tem a seguinte constituição orgânica geral:
 
 a) Comando;
 
@@ -108,7 +115,7 @@ d) Serviços Gerais e de Administração.
 
 ### CAPÍTULO II — Do Comando
 
-###### Art. 2.º O Comando é constituído por:
+Art. 2.º O Comando é constituído por:
 
 a) Comandante;
 
@@ -116,9 +123,9 @@ b) Órgãos de conselho;
 
 c) Gabinetes de apoio.
 
-###### Art. 3.º O comandante, coronel do Exército, no activo, nomeado pelo CEME, é responsável perante este pela actividade geral do Instituto.
+Art. 3.º O comandante, coronel do Exército, no activo, nomeado pelo CEME, é responsável perante este pela actividade geral do Instituto.
 
-###### Art. 4.º Ao 2.º comandante, tenente-coronel do Exército, no activo, compete:
+Art. 4.º Ao 2.º comandante, tenente-coronel do Exército, no activo, compete:
 
 Coadjuvar o comandante, exercendo as atribuições que por delegação lhe sejam conferidas;
 
@@ -126,17 +133,17 @@ Substituir o comandante na sua ausência ou impedimento, assumindo então todas 
 
 Superintender em todos os assuntos de natureza administrativa.
 
-###### Art. 5.º Os órgãos de conselho compreendem:
+Art. 5.º Os órgãos de conselho compreendem:
 
 a) Conselho de Comando;
 
 b) Conselho Escolar.
 
-###### Art. 6.º - 1 - O Conselho de Comando, ao qual preside o comandante, é constituído pelo 2.º comandante, director de instrução, comandante do Corpo de Alunos, director dos Serviços Gerais e de Administração e por quem mais for designado, a título eventual, pelo comandante.
+Art. 6.º - 1 - O Conselho de Comando, ao qual preside o comandante, é constituído pelo 2.º comandante, director de instrução, comandante do Corpo de Alunos, director dos Serviços Gerais e de Administração e por quem mais for designado, a título eventual, pelo comandante.
 
 2 - O Conselho de Comando tem por finalidade analisar todos os assuntos que lhe sejam apresentados pelo comandante e recomendar normas e procedimentos para a maior eficiência da acção do Comando e da actividade geral de todos os serviços do ISM.
 
-###### Art. 7.º - 1 - O Conselho Escolar, ao qual preside o comandante, é constituído pelo 2.º comandante, director de instrução e por todos os professores efectivos, adjuntos e instrutores, e por quem mais for designado, a título eventual, pelo comandante.
+Art. 7.º - 1 - O Conselho Escolar, ao qual preside o comandante, é constituído pelo 2.º comandante, director de instrução e por todos os professores efectivos, adjuntos e instrutores, e por quem mais for designado, a título eventual, pelo comandante.
 
 2 - No âmbito do Conselho Escolar podem constituir-se grupos de trabalho para estudo e discussão de assuntos específicos a serem, posteriormente, apreciados no plenário do Conselho.
 
@@ -148,11 +155,11 @@ b) Admissão de professores e instrutores e seu provimento definitivo;
 
 c) Programas de estágios, missões e visitas de estudo.
 
-###### Art. 8.º - 1 - O Conselho de Comando reunirá quando for convocado pelo comandante.
+Art. 8.º - 1 - O Conselho de Comando reunirá quando for convocado pelo comandante.
 
 2 - A todas as reuniões do Conselho Escolar em que sejam tratados assuntos de interesse para a segunda parte do curso D deve estar presente o director deste curso ou um seu delegado.
 
-###### Art. 9.º - 1 - O Conselho Escolar reunirá quando for convocado pelo comandante e, ordinariamente:
+Art. 9.º - 1 - O Conselho Escolar reunirá quando for convocado pelo comandante e, ordinariamente:
 
 a) Num dos dias da primeira metade de Outubro de cada ano, para elaboração do plano anual de trabalhos;
 
@@ -166,7 +173,7 @@ e) No final de cada época de exames, para apuramento das médias dos alunos.
 
 2 - As resoluções do Conselho Escolar constarão de actas redigidas pelo respectivo secretário, professor menos graduado ou mais moderno.
 
-###### Art. 10.º Os gabinetes de apoio à acção do Comando compreendem:
+Art. 10.º Os gabinetes de apoio à acção do Comando compreendem:
 
 a) Gabinete de Estudos e Planeamento;
 
@@ -174,9 +181,9 @@ b) Gabinete de Justiça e Procuradoria;
 
 c) Gabinete de Informação Interna, Relações Públicas e Acção Cultural (GIIRPAC).
 
-###### Art. 11.º O Gabinete de Estudos e Planeamento tem por função elaborar os estudos e planos que lhe forem determinados pelo comandante, designadamente os que envolvam a coordenação dos diversos departamentos do Instituto ou que pela sua natureza não caibam na competência própria daqueles departamentos.
+Art. 11.º O Gabinete de Estudos e Planeamento tem por função elaborar os estudos e planos que lhe forem determinados pelo comandante, designadamente os que envolvam a coordenação dos diversos departamentos do Instituto ou que pela sua natureza não caibam na competência própria daqueles departamentos.
 
-###### Art. 12.º O Gabinete de Justiça e Procuradoria tem por funções:
+Art. 12.º O Gabinete de Justiça e Procuradoria tem por funções:
 
 a) Apoiar a acção do Comando em matéria de justiça e disciplina;
 
@@ -186,7 +193,7 @@ c) Dar o parecer e prestar o apoio técnico-jurídico que lhe for solicitado pel
 
 d) Facultar conselho jurídico ao pessoal do ISM, em particular aos alunos, desempenhando, a pedido dos próprios interessados, funções de procuradoria para obtenção de documentos legais e outras diligências necessárias junto dos organismos e entidades oficiais e particulares.
 
-###### Art. 13.º O Gabinete de Informação Interna, Relações Públicas e Acção Cultural tem por funções:
+Art. 13.º O Gabinete de Informação Interna, Relações Públicas e Acção Cultural tem por funções:
 
 a) Promover a informação interna, com vista ao esclarecimento do pessoal militar e civil que presta serviço no ISM;
 
@@ -200,7 +207,7 @@ e) Promover, orientar e coordenar as actividades sociais, culturais, recreativas
 
 ### CAPÍTULO III — Da Direcção de Instrução
 
-###### Art. 14.º A Direcção de Instrução tem por funções:
+Art. 14.º A Direcção de Instrução tem por funções:
 
 a) A direcção, o estudo, o planeamento e coordenação do ensino, com vista a obter a melhor orientação pedagógica e o maior rendimento da instrução;
 
@@ -208,7 +215,7 @@ b) Em coordenação com o GIIRPAC, estabelecer as ligações de âmbito técnico
 
 c) A orientação dos assuntos relativos à biblioteca e museu.
 
-###### Art. 15.º A Direcção de Instrução compreende:
+Art. 15.º A Direcção de Instrução compreende:
 
 a) Director de instrução;
 
@@ -222,11 +229,11 @@ e) Secção de expediente e arquivo escolar;
 
 f) Biblioteca e museu.
 
-###### Art. 16.º Ao director de instrução, tenente-coronel ou major, no activo, compete coadjuvar o comandante, cumprindo e fazendo cumprir as suas ordens e determinações em todos os assuntos e serviços, especialmente nos relacionados com a vida escolar do ISM.
+Art. 16.º Ao director de instrução, tenente-coronel ou major, no activo, compete coadjuvar o comandante, cumprindo e fazendo cumprir as suas ordens e determinações em todos os assuntos e serviços, especialmente nos relacionados com a vida escolar do ISM.
 
-###### Art. 17.º Os professores integrados no corpo docente, além dos deveres gerais que lhes incumbem como auxiliares do comandante, são os responsáveis pelo ensino das disciplinas a seu cargo e pelo cumprimento do determinado sobre a função e regime escolar do ISM.
+Art. 17.º Os professores integrados no corpo docente, além dos deveres gerais que lhes incumbem como auxiliares do comandante, são os responsáveis pelo ensino das disciplinas a seu cargo e pelo cumprimento do determinado sobre a função e regime escolar do ISM.
 
-###### Art. 18.º - 1 - O professor efectivo militar mais graduado ou antigo de cada curso ministrado no ISM será o director do curso.
+Art. 18.º - 1 - O professor efectivo militar mais graduado ou antigo de cada curso ministrado no ISM será o director do curso.
 
 2 - Se o professor efectivo militar mais graduado ou antigo for, simultaneamente, professor de dois ou mais cursos, será, em princípio, director de apenas um desses cursos.
 
@@ -240,7 +247,7 @@ b) Aconselhar e orientar os alunos por forma que estes colham o melhor aproveita
 
 c) Colaborar com o director de instrução no âmbito das respectivas competências.
 
-###### Art. 19.º Ao departamento de coordenação escolar compete:
+Art. 19.º Ao departamento de coordenação escolar compete:
 
 a) Planear e programar os cursos;
 
@@ -250,7 +257,7 @@ c) Planear e programar, em coordenação com o comandante do Corpo de Alunos, as
 
 d) Controlar as actividades de ensino e o rendimento geral dos cursos, estudando e propondo novos métodos de ensino, quando se tornar necessário e for julgado conveniente.
 
-###### Art. 20.º Ao departamento de apoio escolar compete:
+Art. 20.º Ao departamento de apoio escolar compete:
 
 a) Assegurar a obtenção, manutenção e distribuição dos meios (material, equipamento audiovisual e outros) auxiliares de ensino necessários para os diversos cursos que se ministram no ISM;
 
@@ -260,17 +267,17 @@ c) Promover a obtenção ou elaboração, e a distribuição interna, de publica
 
 d) Preparar os cadernos para as provas de exame de frequência e de exame final, de acordo com as directivas e instruções do comando do ISM.
 
-###### Art. 21.º - 1 - O aluno mais graduado ou antigo de cada curso ministrado no ISM será o chefe de curso.
+Art. 21.º - 1 - O aluno mais graduado ou antigo de cada curso ministrado no ISM será o chefe de curso.
 
 2 - Compete ao chefe de curso representar os alunos do curso perante o respectivo director, transmitindo-lhe as opiniões relativas ao ensino e apresentando-lhe outras propostas ou problemas pertinentes.
 
 ### CAPÍTULO IV — Do Corpo de Alunos
 
-###### Art. 22.º O Corpo de Alunos enquadra e engloba os alunos, cabendo-lhe desempenhar papel fundamental na educação moral, cívica e militar dos mesmos,
+Art. 22.º O Corpo de Alunos enquadra e engloba os alunos, cabendo-lhe desempenhar papel fundamental na educação moral, cívica e militar dos mesmos,
 
 proporcionando-lhes as condições necessárias ao conhecimento e prática de todas as virtudes militares e cívicas e o indispensável desembaraço físico.
 
-###### Art. 23.º O Corpo de Alunos compreende:
+Art. 23.º O Corpo de Alunos compreende:
 
 a) Comandante;
 
@@ -278,15 +285,15 @@ b) Companhias de alunos;
 
 c) Secretaria.
 
-###### Art. 24.º Ao comandante do Corpo de Alunos, tenente-coronel ou major do Exército, no activo, compete coadjuvar o comandante, cumprindo e fazendo cumprir as suas ordens e determinações, competindo-lhe ainda, em especial, superintender na preparação militar cívica e moral dos alunos, tendo sempre presente que os mesmos serão futuros oficiais do quadro permanente.
+Art. 24.º Ao comandante do Corpo de Alunos, tenente-coronel ou major do Exército, no activo, compete coadjuvar o comandante, cumprindo e fazendo cumprir as suas ordens e determinações, competindo-lhe ainda, em especial, superintender na preparação militar cívica e moral dos alunos, tendo sempre presente que os mesmos serão futuros oficiais do quadro permanente.
 
-###### Art. 25.º Os comandantes das companhias de alunos coadjuvam o comandante do Corpo de Alunos, cumprindo e fazendo cumprir as suas ordens e determinações, sendo os responsáveis pelo comando e administração da sua companhia.
+Art. 25.º Os comandantes das companhias de alunos coadjuvam o comandante do Corpo de Alunos, cumprindo e fazendo cumprir as suas ordens e determinações, sendo os responsáveis pelo comando e administração da sua companhia.
 
 ### CAPÍTULO V — Dos Serviços Gerais e de Administração
 
-###### Art. 26.º Os Serviços Gerais e de Administração têm por finalidade garantir o apoio de serviços, a administração e o expediente geral do ISM.
+Art. 26.º Os Serviços Gerais e de Administração têm por finalidade garantir o apoio de serviços, a administração e o expediente geral do ISM.
 
-###### Art. 27.º Os Serviços Gerais e de Administração compreendem:
+Art. 27.º Os Serviços Gerais e de Administração compreendem:
 
 a) Direcção (director, Secção de Pessoal e Secção de Logística);
 
@@ -300,17 +307,17 @@ e) Serviços gerais;
 
 f) Formação.
 
-###### Art. 28.º Ao director dos Serviços Gerais e de Administração, tenente-coronel ou major, no activo ou na reserva, compete coadjuvar o 2.º comandante, cumprindo e fazendo cumprir as suas ordens e determinações em todos os assuntos e serviços, designadamente nos de carácter administrativo e de apoio geral do ISM.
+Art. 28.º Ao director dos Serviços Gerais e de Administração, tenente-coronel ou major, no activo ou na reserva, compete coadjuvar o 2.º comandante, cumprindo e fazendo cumprir as suas ordens e determinações em todos os assuntos e serviços, designadamente nos de carácter administrativo e de apoio geral do ISM.
 
-###### Art. 29.º O presidente da Secção Financeira, tenente-coronel ou major, no activo ou na reserva, será responsável perante o comando pela boa gestão financeira da unidade e providenciará no accionamento de todas as ordens e determinações de carácter administrativo emanadas do comandante do ISM ou dos competentes órgãos do respectivo canal administrativo.
+Art. 29.º O presidente da Secção Financeira, tenente-coronel ou major, no activo ou na reserva, será responsável perante o comando pela boa gestão financeira da unidade e providenciará no accionamento de todas as ordens e determinações de carácter administrativo emanadas do comandante do ISM ou dos competentes órgãos do respectivo canal administrativo.
 
-###### Art. 30.º O comandante da formação é o responsável perante o director dos Serviços Gerais e de Administração por todos os serviços e atribuições da sua subunidade, competindo-lhe, em especial, manter em bom nível a administração, disciplina, moral e instrução do pessoal.
+Art. 30.º O comandante da formação é o responsável perante o director dos Serviços Gerais e de Administração por todos os serviços e atribuições da sua subunidade, competindo-lhe, em especial, manter em bom nível a administração, disciplina, moral e instrução do pessoal.
 
-###### Art. 31.º O funcionamento da cantina do ISM, com os seus órgãos anexos, orientar-se-á pela adequada regulamentação superiormente imposta e difundida e pelas disposições apropriadas que a OS da unidade publica.
+Art. 31.º O funcionamento da cantina do ISM, com os seus órgãos anexos, orientar-se-á pela adequada regulamentação superiormente imposta e difundida e pelas disposições apropriadas que a OS da unidade publica.
 
-###### Art. 32.º Os alojamentos do internato do ISM e o funcionamento das messes serão regulados pelas disposições gerais aplicáveis e por NEP's da unidade.
+Art. 32.º Os alojamentos do internato do ISM e o funcionamento das messes serão regulados pelas disposições gerais aplicáveis e por NEP's da unidade.
 
-###### Art. 33.º Aos médicos, além do desempenho do serviço da sua especialidade, compete:
+Art. 33.º Aos médicos, além do desempenho do serviço da sua especialidade, compete:
 
 Estudar, propor e accionar as normas de higiene e profilaxia do pessoal e instalações;
 
@@ -318,17 +325,17 @@ Colaborar na instrução de todo o pessoal através de conferências e palestras
 
 ### CAPÍTULO VI — Vida interna e administração escolar
 
-###### Art. 34.º Durante a frequência dos cursos, os alunos são obrigados a fazer uso do uniforme, segundo o plano de uniformes do respectivo ramo das forças armadas.
+Art. 34.º Durante a frequência dos cursos, os alunos são obrigados a fazer uso do uniforme, segundo o plano de uniformes do respectivo ramo das forças armadas.
 
-###### Art. 35.º - 1 - Os alunos dos cursos do ISM serão nomeados diariamente para funções de aluno de dia, de prevenção e de piquete; aos alunos nomeados para estas funções compete o desempenho dos serviços que nas unidades são inerentes, respectivamente, ao oficial de dia, de promoção e de piquete.
+Art. 35.º - 1 - Os alunos dos cursos do ISM serão nomeados diariamente para funções de aluno de dia, de prevenção e de piquete; aos alunos nomeados para estas funções compete o desempenho dos serviços que nas unidades são inerentes, respectivamente, ao oficial de dia, de promoção e de piquete.
 
 2 - O aluno de dia será dispensado de comparecer às aulas no dia em que estiver de serviço, devendo, contudo, comparecer a qualquer exame, de frequência ou final, que porventura se realize nesse dia.
 
 3 - No período de 11 de Agosto a 15 de Outubro, correspondente à licença das férias grandes de Verão, o serviço diário da unidade será desempenhado por pessoal do QO do ISM; neste período serão nomeados um oficial de dia e um sargento de dia e de piquete, e, sempre que a situação o justifique, será também nomeado um oficial de prevenção e de piquete.
 
-###### Art. 36.º Os alunos do ISM estão sujeitos às leis, disciplina e regulamentos militares.
+Art. 36.º Os alunos do ISM estão sujeitos às leis, disciplina e regulamentos militares.
 
-###### Art. 37.º Os limites de competência disciplinar dos comandos do ISM, aos vários níveis, são equivalentes aos que a seguir se discriminam:
+Art. 37.º Os limites de competência disciplinar dos comandos do ISM, aos vários níveis, são equivalentes aos que a seguir se discriminam:
 
 a) Comandante do ISM - comandante de regimento;
 
@@ -342,4 +349,4 @@ e) Comandante de formação - comandante de companhia;
 
 f) Professores ou instrutores militares quando chefiando missões ou comandando destacamento - comandante de batalhão ou grupo.
 
-**O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.**
+O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.

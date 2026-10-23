@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16800/0000900012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2024/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2024-886311870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c540bd0487a5752e2c909965ac3d195c68c28b35066cdca428c3b74ea05eba8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a5876ed7a82d622d0370f6abadba3ecabc2d77c667a6f2c99fdaa3a4a9d9f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Integração Migrações e Asilo I. P.
+- Conselho Consultivo
 - Conselho Consultivo para os Assuntos da Imigração
+- Conselho Nacional para as Migrações e Asilo
 - Criação de Serviços
 - Definição de Competências
 - Migração
-- Conselho Consultivo
-- Agência para a Integração Migrações e Asilo I. P.
-- Conselho Nacional para as Migrações e Asilo
 relationships:
+- type: amends
+  target: pt:numero:lei:73/2021
+  label: Altera, a partir de 4 de setembro de 2024, o artigo 3.º da Lei n.º 73/2021, de 12 de novembro, Diário da República
+    n.º 220/2021, Série I
+  source: null
+  date: '2021-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/2024/01/29/p/dre
   label: null
@@ -93,16 +99,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870297959:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:41/2023
+  label: Revoga, a partir de 1 de janeiro de 2025, a alínea c) do artigo 4.º e o artigo 7.º do anexo ao Decreto-Lei n.º 41/2023,
+    de 2 de junho, Diário da República n.º 107/2023, Série I
+  source: null
+  date: '2023-06-02'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:44Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +159,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 a) À sexta alteração à [Lei n.º 73/2021](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), de 12 de novembro, na sua redação atual, que aprova a reestruturação do sistema português de controlo de fronteiras, procedendo à reformulação do regime das forças e serviços que exercem a atividade de segurança interna e fixando outras regras de reafetação de competências e recursos do Serviço de Estrangeiros e Fronteiras;
 
-b) À terceira alteração ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [41-A/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), de 28 de junho, que cria a Agência para a Integração, Migrações e Asilo, I. P.
+b) À terceira alteração ao [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, alterado pelos Decretos-Leis n.os[17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, e [41-A/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), de 28 de junho, que cria a Agência para a Integração, Migrações e Asilo, I. P.
 
 ###### Artigo 2.º — Natureza e missão
 
@@ -267,12 +299,14 @@ São revogados a alínea c) do artigo 4.º e o artigo 7.º do anexo ao [Decreto-
 
 Visto e aprovado em Conselho de Ministros de 8 de agosto de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - Paulo Artur dos Santos de Castro de Campos Rangel - António Leitão Amaro - Maria Clara da Silva Maia de Figueiredo - Margarida Blasco - Manuel Alexandre Mateus Homem Cristo - Ana Margarida Pinheiro Povo - Pedro Reis - Jorge Manuel de Almeida Campino - Margarida Balseiro Lopes.
 
-**Promulgado em 22 de agosto de 2024.**
+Promulgado em 22 de agosto de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de agosto de 2024.**
+Referendado em 23 de agosto de 2024.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+118062696

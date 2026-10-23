@@ -48,40 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1977-141784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae87859b5820bd10563620bb6e03411518743c67e23471a19cdb68f4a10fc8d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e158a60c506e45d3af879224e08cd70b3407653f7bdd6786fa5190a3fa28e928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Energia Elétrica
+- Regulamento de Segurança de Linhas Eléctricas de ALTA Tensão
+- Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento
 relationships:
 - type: amended_by
   target: pt:dre:640954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282328:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139442:por
+  label: Rectificado pela DECL.DD8130.06.04.1977.PCM, DR.IS [81] de 06.04.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139442
+  date: '1977-04-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:23Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +110,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 32.º, 38.º, 54.º, 61.º, 62.º e 67.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento, aprovado pelo [Decreto n.º 42895](https://diariodarepublica.pt/dr/detalhe/decreto/42895-1960-282328), de 31 de Março de 1960, passam a ter a redacção que consta do anexo I.
+Artigo 1.º Os artigos 32.º, 38.º, 54.º, 61.º, 62.º e 67.º do Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento, aprovado pelo [Decreto n.º 42895](https://diariodarepublica.pt/dr/detalhe/decreto/42895-1960-282328), de 31 de Março de 1960, passam a ter a redacção que consta do anexo I.
 
-###### Art. 2.º Os artigos 178.º e 185.º do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, aprovado pelo Decreto n.º 46847, de 27 de Janeiro de 1966, passam a ter a redacção que consta do anexo II.
+Art. 2.º Os artigos 178.º e 185.º do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, aprovado pelo Decreto n.º 46847, de 27 de Janeiro de 1966, passam a ter a redacção que consta do anexo II.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 2 de Fevereiro de 1977.**
+Promulgado em 2 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — REGULAMENTO DE SEGURANÇA DE SUBESTAÇÕES E POSTOS DE TRANSFORMAÇÃO E DE SECCIONAMENTO
 
@@ -116,7 +128,7 @@ Alterações
 
 ...
 
-###### Art. 32.º Identificação dos condutores. - Os condutores deverão ser devidamente identificados por meio de pintura, enfitamento ou revestimento equivalente, quando nus, ou por meio de coloração da superfície exterior do respectivo isolamento, quando isolados.
+Art. 32.º Identificação dos condutores. - Os condutores deverão ser devidamente identificados por meio de pintura, enfitamento ou revestimento equivalente, quando nus, ou por meio de coloração da superfície exterior do respectivo isolamento, quando isolados.
 
 § 1.º As cores a empregar para a identificação dos condutores são as que constam de norma própria.
 
@@ -124,7 +136,7 @@ Alterações
 
 ...
 
-###### Art. 38.º Seccionamento. - Nas instalações, as entradas e saídas de linhas aéreas ou subterrâneas de alta tensão deverão ser equipadas com seccionadores, que serão de corte simultâneo em todas as fases quando essas linhas não possuam interruptores na própria instalação. Os órgãos e aparelhos de alta tensão, quando fora de serviço, deverão poder ficar sem tensão por meio de seccionadores, que, de preferência, sejam visíveis de local de fácil acesso.
+Art. 38.º Seccionamento. - Nas instalações, as entradas e saídas de linhas aéreas ou subterrâneas de alta tensão deverão ser equipadas com seccionadores, que serão de corte simultâneo em todas as fases quando essas linhas não possuam interruptores na própria instalação. Os órgãos e aparelhos de alta tensão, quando fora de serviço, deverão poder ficar sem tensão por meio de seccionadores, que, de preferência, sejam visíveis de local de fácil acesso.
 
 Comentário. - Recomenda-se a utilização de seccionadores com comando mecânico, nas entradas e saídas de linhas de alta tensão.
 
@@ -144,7 +156,7 @@ Comentário. - Considera-se, para efeitos do disposto no § 4.º, que uma rede d
 
 ...
 
-###### Art. 54.º Ligação à terra dos circuitos de baixa tensão e de telecomunicação. - Os circuitos de baixa tensão, bem como os seus limitadores de tensão, deverão ser ligados à terra de serviço de baixa tensão quando esses circuitos ultrapassem a zona de influência da terra de protecção e existam na instalação circuitos de alta tensão ligados a outros exteriores a essa zona de influência ou ligados à terra de serviço de alta tensão.
+Art. 54.º Ligação à terra dos circuitos de baixa tensão e de telecomunicação. - Os circuitos de baixa tensão, bem como os seus limitadores de tensão, deverão ser ligados à terra de serviço de baixa tensão quando esses circuitos ultrapassem a zona de influência da terra de protecção e existam na instalação circuitos de alta tensão ligados a outros exteriores a essa zona de influência ou ligados à terra de serviço de alta tensão.
 
 Os circuitos de telecomunicação nas mesmas condições e os seus limitadores de tensão deverão ser ligados a uma terra separada ou à terra de serviço de baixa tensão.
 
@@ -178,7 +190,7 @@ Comentário. - Com o disposto no § 6.º visa-se permitir a observância do pres
 
 ...
 
-###### Art. 61.º Protecção contra sobretensões. - As instalações deverão ser protegidas contra sobretensões perigosas, de origem interna ou atmosférica, sempre que se justifique, quer pela importância das instalações, quer pelo valor das sobretensões e frequência com que se verificam. Procurar-se-á evitar o aparecimento de sobretensões ou atenuar os seus efeitos pelo recurso a meios adequados.
+Art. 61.º Protecção contra sobretensões. - As instalações deverão ser protegidas contra sobretensões perigosas, de origem interna ou atmosférica, sempre que se justifique, quer pela importância das instalações, quer pelo valor das sobretensões e frequência com que se verificam. Procurar-se-á evitar o aparecimento de sobretensões ou atenuar os seus efeitos pelo recurso a meios adequados.
 
 § 1.º No caso de postos de transformação alimentados por redes aéreas será obrigatória a existência de protecção contra sobretensões de origem atmosférica por meio de pára-raios.
 
@@ -194,7 +206,7 @@ b) Se o posto de transformação for implantado em zona frequentada pelo públic
 
 c) Se a linha de alimentação do posto de transformação não dispuser de religação automática rápida.
 
-###### Art. 62.º Protecção contra curto-circuitos. - Cada instalação ou cada uma das suas partes deverá obrigatoriamente ser protegida contra curto-circuitos, a fim de evitar perturbações na rede de alimentação. Para esse efeito, poderão ser utilizados disjuntores ou corta-circuitos fusíveis com poder de corte adequado à potência de curto-circuito.
+Art. 62.º Protecção contra curto-circuitos. - Cada instalação ou cada uma das suas partes deverá obrigatoriamente ser protegida contra curto-circuitos, a fim de evitar perturbações na rede de alimentação. Para esse efeito, poderão ser utilizados disjuntores ou corta-circuitos fusíveis com poder de corte adequado à potência de curto-circuito.
 
 Comentários. - 1. Na localização dos órgãos de protecção contra curto-circuitos, além do objectivo fundamental de evitar perturbações na rede de alimentação, deve procurar-se que a eliminação de qualquer defeito se faça com o máximo de selectividade, para reduzir ao mínimo os prejuízos do serviço.
 
@@ -210,7 +222,7 @@ Comentários. - 1. Na localização dos órgãos de protecção contra curto-cir
 
 ...
 
-###### Art. 67.º Materiais. - Os quadros, aparelhos e demais equipamento, assim como os materiais que os constituem, deverão obedecer às disposições deste Regulamento e, ainda, às normas e especificações nacionais ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
+Art. 67.º Materiais. - Os quadros, aparelhos e demais equipamento, assim como os materiais que os constituem, deverão obedecer às disposições deste Regulamento e, ainda, às normas e especificações nacionais ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
 
 § 1.º A fiscalização do Governo poderá exigir a realização de ensaios ou a apresentação de certificados passados ou confirmados por entidades idóneas.
 
@@ -218,7 +230,7 @@ Comentários. - 1. Na localização dos órgãos de protecção contra curto-cir
 
 ...
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.
 
 ## ANEXO II — REGULAMENTO DE SEGURANÇA DE LINHAS AÉREAS DE ALTA TENSÃO
 
@@ -226,7 +238,7 @@ Alterações
 
 ...
 
-###### Art. 178.º Linhas aéreas sobre recintos escolares e campos de desporto. - O estabelecimento de linhas aéreas sobre recintos escolares e campos de desporto não será permitido.
+Art. 178.º Linhas aéreas sobre recintos escolares e campos de desporto. - O estabelecimento de linhas aéreas sobre recintos escolares e campos de desporto não será permitido.
 
 § único. A fiscalização do Governo poderá permitir o estabelecimento de linhas aéreas por cima de campos de desporto de importância secundária e o de linhas aéreas de 3.ª classe por cima de recintos escolares, desde que despesas inerentes ou dificuldades técnicas o tornem aconselhável, tomando-se, porém, as convenientes medidas de segurança.
 
@@ -234,7 +246,7 @@ Comentário. - Recomenda-se que no estabelecimento das linhas referidas no § ú
 
 ...
 
-###### Art. 185.º Ligação à terra dos apoios metálicos e de betão armado. - Os apois metálicos e de betão armado deverão ser individualmente ligados à terra.
+Art. 185.º Ligação à terra dos apoios metálicos e de betão armado. - Os apois metálicos e de betão armado deverão ser individualmente ligados à terra.
 
 § 1.º A ligação individual à terra dos apoios metálicos implantados directamente no solo será dispensada quando apresentarem uma resistência de terra não superior a 20 (Ómega) e não houver instalados neles interruptores ou seccionadores.
 
@@ -260,4 +272,4 @@ Comentários. - 1. Por «protecções eficientes de defeito fase-terra» entende
 
 ...
 
-**O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.**
+O Ministro da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2018/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2018-114778985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 375c312fa56597b3faf0642c2771242f92f24da036b160fdc3e687b38fcdc292
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22eb572e6597730c273e43da6af861a13f56e11f001fa31308da2b33d02c4ecd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,12 @@ subjects:
 - Cooperação Consular
 - Definição de Competências
 - Emolumento Consular
-- Pagamento
+- Ministério dos Negócios Estrangeiros
 - Nacional das Comunidades
+- Pagamento
 - Países Terceiros
 - Protecção e Assistência Consular
 - Regulamento Consular
-- Ministério dos Negócios Estrangeiros
 - Serviços Periféricos
 relationships:
 - type: cites
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2009/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2009/03/31/p/dre
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603208:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:10Z'
   warnings: []
   errors: []
 ---
@@ -169,17 +177,23 @@ Acesso à proteção consular
 
 2 - O disposto no número anterior não se aplica aos consulados honorários.
 
-###### Artigo 47.º-B — Cidadão e Estado membro não representados no território de país terceiro
+Artigo 47.º-B
+
+Cidadão e Estado membro não representados no território de país terceiro
 
 1 - Considera-se como cidadão não representado no território de país terceiro todo e qualquer cidadão que tenha a nacionalidade de um Estado membro da União Europeia que não se encontre representado nesse país terceiro, nos termos previstos no número seguinte.
 
 2 - Considera-se que um Estado membro da União Europeia não se encontra representado num país terceiro, quando não dispuser de embaixada ou consulado com caráter permanente nesse país ou se, na circunstância concreta, a embaixada, consulado ou cônsul honorário não estiver em condições de conceder proteção consular efetiva ao cidadão.
 
-###### Artigo 47.º-C — Membros da família de cidadão não representado no território de país terceiro
+Artigo 47.º-C
+
+Membros da família de cidadão não representado no território de país terceiro
 
 Os membros da família de cidadão não representado no território de país terceiro, que não sejam cidadãos da União Europeia, e que o acompanhem, gozam de proteção consular, nas mesmas condições em que esta é concedida aos membros da família de cidadão português no estrangeiro, que não sejam cidadãos da União Europeia, e que o acompanhem.
 
-###### Artigo 47.º-D — Identificação
+Artigo 47.º-D
+
+Identificação
 
 1 - O requerente de proteção consular deve comprovar que é cidadão da União Europeia, mediante apresentação de passaporte ou bilhete de identidade válidos.
 
@@ -189,7 +203,9 @@ Os membros da família de cidadão não representado no território de país ter
 
 4 - Quando tal não seja possível, a identidade e a existência do vínculo familiar podem ser comprovadas por quaisquer meios, nomeadamente a verificação junto das autoridades diplomáticas ou consulares do Estado membro da nacionalidade do cidadão a que se refere o n.º 1.
 
-###### Artigo 47.º-E — Compromisso de reembolso
+Artigo 47.º-E
+
+Compromisso de reembolso
 
 1 - O cidadão não representado no território de país terceiro socorrido pelos postos e pelas secções consulares compromete-se a reembolsar ao Estado membro de que é nacional as despesas correspondentes aos atos de proteção consular que lhe foi prestada, mediante assinatura de uma declaração.
 
@@ -197,17 +213,23 @@ Os membros da família de cidadão não representado no território de país ter
 
 3 - O modelo de declaração de compromisso de reembolso das despesas de proteção consular de cidadão não representado no território de país terceiro consta do anexo i ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 47.º-F — Procedimento
+Artigo 47.º-F
+
+Procedimento
 
 1 - Salvo em situações de urgência, que requeiram uma ação imediata por parte da secção ou posto consular requerido, a prestação de proteção consular a cidadãos não representados no território de país terceiro é precedida de consulta do Ministério dos Negócios Estrangeiros do Estado membro de que a pessoa declara ser nacional, através do ponto de contacto competente, ou, se for caso disso, da embaixada ou do consulado competente desse Estado, com indicação de toda a informação relevante disponível, incluindo os custos previsíveis dos atos a praticar, para efeitos de concessão da proteção consular pelo Estado membro não representado ou de envio das informações complementares que se revelem necessárias.
 
 2 - O modelo de pedido de reembolso das despesas de proteção consular prestada a cidadão não representado no território de país terceiro consta do anexo ii ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 47.º-G — Relação de despesas dos atos de proteção consular
+Artigo 47.º-G
+
+Relação de despesas dos atos de proteção consular
 
 Os titulares dos postos e secções consulares devem remeter mensalmente ao Ministério dos Negócios Estrangeiros a relação das despesas correspondentes aos atos de proteção consular prestada a cidadãos não representados no território de país terceiro.
 
-###### Artigo 47.º-H — Procedimento em caso de crise
+Artigo 47.º-H
+
+Procedimento em caso de crise
 
 1 - Os Estados membros da União Europeia representados num país terceiro coordenam os planos de emergência entre si e com a delegação da União Europeia a fim de assegurar a plena proteção dos cidadãos não representados em caso de crise.
 
@@ -223,15 +245,15 @@ O presente decreto-lei entra em vigor em 1 de maio de 2018.
 
 Visto e aprovado em Conselho de Ministros de 25 de janeiro de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 19 de fevereiro de 2018.**
+Promulgado em 19 de fevereiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de fevereiro de 2018.**
+Referendado em 22 de fevereiro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -239,12 +261,16 @@ Visto e aprovado em Conselho de Ministros de 25 de janeiro de 2018. - Augusto Er
 
 (a que se refere o n.º 3 do artigo 47.º-E)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf))](https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf)
 
-## ANEXO II — (a que se refere o n.º 2 do artigo 47.º-F)
+ANEXO II
+
+(a que se refere o n.º 2 do artigo 47.º-F)
 
 Formulário de pedido de reembolso
 
 Pedido de reembolso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf))](https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/02/04200/0109801101.pdf)
+
+111158596

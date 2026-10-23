@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 142/1983, 1º Suplemento, Série I de 1983-06-23
   number: '142'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2264-(2) a 2264-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14201/00020003.pdf
 entry_into_force_dates: []
@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/714-a-1983-627018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7acab08e8e7e6eccfb770c3c736d9acf8fee817e4701a07d7f2aee35d52b10c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7865a8853826d3086d3e30e124432c395f33ba364b8124e8c998751af5d05d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fertilizante
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:228240:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:396684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627011:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435806:por
+  label: Rectificada pela DECL.DD6381.26.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435806
+  date: '1983-07-26'
+- type: repealed_by
+  target: pt:dre:661697:por
+  label: "Revogada a al. c) do nº 5 do nº 1 pela PORT.191/84.1984.03.31.MFP DR.IS [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-1984-661697
+  date: '1984-03-31'
+- type: repealed_by
+  target: pt:dre:162786:por
+  label: "Revogados os nºs 1º e 2º pela PORT.31-L/85.1985.01.12.MFP, DR.IS [10]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-l-1985-162786
+  date: '1985-01-12'
+- type: repealed_by
+  target: pt:dre:194273:por
+  label: "Revogado o n.º 1 do n.º 3.º pela PORT.54/86.10.02.1986.MF, DR.IS [34] de 10.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/54-1986-194273
+  date: '1986-02-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:47:03Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +191,10 @@ QUIMIGAL, 22500 t.
 
 Ministérios das Finanças e do Plano, da Indústria e Energia, da Agricultura, Florestas e Alimentação, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 23 de Junho de 1983.**
+Assinada em 23 de Junho de 1983.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.
 
 Quadro a que se referem os n.os 2 e 8 do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14201/00020003.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14201/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14201/00020003.pdf)

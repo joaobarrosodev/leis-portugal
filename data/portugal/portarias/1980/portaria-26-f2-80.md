@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 7/1980, 5º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 26-(79) a 26-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00705/00790081.pdf
 entry_into_force_dates: []
@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-f2-1980-508606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afc8fe8fd450e4100b6a14180767ad99a0d43c10d5d7635472889536aa3e1b9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33163c583d70ac538e2445865782fd96a422299fc5e47a6f55c51b21c0c28c76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Obrigações
+- Saneamento Económico e Financeiro
+- Setenave
+relationships:
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:03Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +188,7 @@ A afectação do empréstimo obrigacionista determina-se com referência às res
 
 Deste modo, a participação de cada um dos bancos na tomada do referido empréstimo é a seguinte (em contos):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00705/00790081.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00705/00790081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/00705/00790081.pdf)
 
 5.º
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/2004/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2004-514674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fadad4fe2dd99077359edf8248a3c7a30bfe92bed16386e86a850cc3dedbc7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d63cb36b185dc124caad403b5cb7a16b6a0973ea6e6b310ff32b1bfe843ce2b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Fiscalização
 - Homologação
-- Veículo
-- Segurança Rodoviária
 - Normas de Segurança
-- Equipamento de Veículo
 - Regulamento
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -92,14 +92,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2003/102/oj
 article_structure:
   article_count: 10
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:43Z'
   warnings: []
   errors: []
 ---
@@ -164,13 +164,13 @@ b) Proibida a matrícula, venda e entrada em circulação de veículos novos que
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 14 de Julho de 2004.**
+Promulgado em 14 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Julho de 2004.**
+Referendado em 16 de Julho de 2004.
 
 Pelo Primeiro-Ministro, Maria Manuela Dias Ferreira Leite.
 
@@ -406,11 +406,11 @@ Total: ...
 
 1.5.1 - Ensaios referidos nos n.os 1 a 5 do artigo 3.º do presente Regulamento:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 1.5.2 - Ensaios referidos nos n.os 6 a 10 do artigo 3.º do presente Regulamento:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 1.6 - Observações (por exemplo, válido tanto para veículos com condução à esquerda como para veículos com condução à direita): ...
 
@@ -418,7 +418,7 @@ Total: ...
 
 Disposições técnicas necessárias para a realização dos ensaios referidos no artigo 3.º do presente Regulamento
 
-# PARTE I
+## PARTE I
 
 1 - Aspectos gerais. - Aquando da execução das medições a que se refere a presente parte, o veículo deve ser colocado na sua atitude normal de circulação, em conformidade com o n.º 2.3. Se o veículo exibir emblemas, mascotes ou outras estruturas que cedam ou se retraiam sob o efeito de uma pequena carga, esta deve ser aplicada antes e ou durante a execução das medições. Os componentes do veículo susceptíveis de mudar de forma ou de posição, como os faróis retrácteis, com excepção dos componentes da suspensão ou dos dispositivos activos para a protecção dos peões, serão fixados na forma ou posição que os institutos responsáveis pelos ensaios, em consulta com o fabricante, considerarem mais adequada, durante a execução das medições.
 
@@ -504,7 +504,7 @@ Uma vez determinada, é a linha posterior de referência da tampa do compartimen
 
 2.10 - «Critério do comportamento funcional da cabeça (HPC)» o valor máximo (conforme t(índice 1) e t(índice 2)) resultante das funções temporais do acelerómetro, calculado pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 2.11 - «Pára-brisas» o vidro frontal que observe todos os requisitos relevantes do anexo I da Directiva n.º [77/649/CEE](https://data.europa.eu/eli/dir/1977/649/oj?locale=pt).
 
@@ -512,9 +512,11 @@ Uma vez determinada, é a linha posterior de referência da tampa do compartimen
 
 Da Fig. 1a à Fig. 10
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
-# PARTE II — CAPÍTULO I
+## PARTE II
+
+### CAPÍTULO I
 
 Condições gerais aplicáveis
 
@@ -618,7 +620,7 @@ Os momentos de inércia do fémur e da tíbia, em relação a um eixo horizontal
 
 Da Fig. 1 à Fig. 3
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 ### CAPÍTULO III — Ensaios da anca contra pára-choques
 
@@ -666,7 +668,7 @@ Da Fig. 1 à Fig. 3
 
 4.1 - A massa total do pêndulo-anca, incluindo os componentes de propulsão e de guiamento que fazem parte integrante dele durante o impacte, deve ser de 9,5 kg (mais ou menos) 0,1 kg. A massa do pêndulo-anca pode ser ajustada a partir deste valor até (mais ou menos) 1 kg, desde que seja também modificada a velocidade de impacte requerida, aplicando-se a seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 4.2 - A massa total do elemento anterior e dos outros componentes em frente dos complexos de transdutores de carga, juntamente com as partes dos complexos de transdutores de carga situadas em frente dos elementos activos, mas excluindo a espuma e a pele, deve ser de 1,95 kg (mais ou menos) 0,05 kg.
 
@@ -680,7 +682,7 @@ Da Fig. 1 à Fig. 3
 
 4.7 - O comprimento entre as linhas centrais do transdutor de carga deve ser de 310 mm (mais ou menos) 1 mm e o diâmetro do elemento anterior de 50 mm (mais ou menos) 1 mm.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 ### CAPÍTULO IV — Ensaios da anca contra a borda dianteira da tampa do compartimento do motor
 
@@ -772,7 +774,7 @@ A massa do pêndulo-anca pode ser ajustada até 10%, sob condição de a velocid
 
 Da Fig. 4b à Fig. 8
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 ### CAPÍTULO V — Ensaios de cabeça de criança/cabeça pequena de adulto contra o topo da tampa do compartimento do motor
 
@@ -802,7 +804,7 @@ Contudo, os serviços técnicos responsáveis deverão utilizar o número de ens
 
 3.3.1 - O fabricante determinará quais as zonas do topo da tampa do compartimento do motor onde o critério do comportamento funcional da cabeça (HPC) não poderá exceder os valores de 1000 (zona A do topo da tampa do compartimento do motor) e de 2000 (zona B do topo da tampa do compartimento do motor), em conformidade com os requisitos técnicos definidos no n.º 3 do artigo 3.º do presente Regulamento (fig. 9).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 3.3.2 - A identificação da área de impacte do topo da tampa do compartimento do motor, bem como da «zona A» e da «zona B», será efectuada com base num desenho fornecido pelo fabricante perspectivado de um plano horizontal sobranceiro ao veículo e paralelo ao pavimento. Para tal, o fabricante facultará um número suficiente de coordenadas x e y para marcação das áreas no veículo real ao longo do contorno externo do veículo na direcção z.
 
@@ -856,7 +858,7 @@ A direcção de impacte é a especificada no n.º 3.4.2.4 e a velocidade de impa
 
 4.4.2 - Os eixos sensíveis dos restantes acelerómetros serão perpendiculares uns aos outros, paralelos à face de montagem A, e a sua massa sísmica estará posicionada nos limites de uma esfera de tolerância com 10 mm de raio. O centro do campo de tolerância deve coincidir com o centro da esfera do pêndulo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 ### CAPÍTULO VI — Ensaios de cabeça de adulto contra o pára-brisas
 
@@ -926,7 +928,7 @@ A direcção de impacte é a especificada no n.º 3.4.2.4 e a velocidade de impa
 
 Da Fig. 11 à Fig. 12
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
 ### CAPÍTULO VII — Ensaios de cabeça de criança e de cabeça de adulto contra o topo da tampa do compartimento do motor
 
@@ -1018,9 +1020,9 @@ O efeito da gravidade deve ser tido em conta se o ângulo de impacte for obtido 
 
 Da Fig. 13 à Fig. 14
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
 
-## APÊNDICE I
+APÊNDICE I
 
 Certificação dos pêndulos
 
@@ -1148,4 +1150,4 @@ Resumo dos requisitos de resposta dos pêndulos-cabeça
 
 Da Fig. 1 à Fig. 7
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)](https://files.diariodarepublica.pt/1s/2004/08/180a00/50185042.pdf)

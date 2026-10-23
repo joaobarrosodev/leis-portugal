@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/2/1995/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-1995-360747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d98e788b71e45c975e27e55b1ee790e508af91677790746f18ada4c8522deeef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0acb6a91f9715d843d32f85e0fcf9f067b9d203a636632dc60b95e67c27f934e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Beira Interior
-- Turismo
-- Desenvolvimento Rural
-- Desenvolvimento Regional
 - Apoio ao Investimento
-- Projeto de Investimento
+- Beira Interior
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Financiamento
 - Fundo de Turismo
 - Património Histórico
-- Desenvolvimento Económico
 - Programa de Promoção do Potencial de Desenvolvimento Regional
+- Projeto de Investimento
 - Protecção do Património
 - Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:566808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:566808:por
+  label: "Mantido em vigor pelo DEC LEI.247/95.1995.09.20.MCT, DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1995-566808
+  date: '1995-09-20'
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:03Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +128,7 @@ Assim, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 149/80](https://d
 
 Presidência do Conselho de Ministros e Ministérios das Finanças, do Planeamento e da Administração do Território, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, 12 de Dezembro de 1994. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Secretário de Estado Adjunto e do Tesouro, Walter Valdemar Pêgo Marques. - O Secretário de Estado das Obras Públicas, Álvaro Severiano da Silva Magalhães. - A Secretária de Estado do Planeamento e do Desenvolvimento Regional, Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
 
-## Anexo ao Despacho Normativo n.º 2/95
+Anexo ao Despacho Normativo n.º 2/95
 
 Regulamento da Intervenção «Aldeias Históricas de Portugal - Beira Interior»
 
@@ -325,7 +334,7 @@ Paralelamente, a CCRC informará o Fundo de Turismo para este proceder à entreg
 
 12 - O Fundo de Turismo poderá fiscalizar a aplicação e cumprimento do presente Regulamento, podendo solicitar aos interessados os elementos que julgar necessários àquela fiscalização.
 
-## Anexo a que se refere o n.º 7.2.1 do Regulamento anexo ao Despacho Normativo n.º 2/95
+Anexo a que se refere o n.º 7.2.1 do Regulamento anexo ao Despacho Normativo n.º 2/95
 
 Critérios de selecção e ponderação
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/272a00/73827385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/2002/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe8ab85ff517868dff2917d82387365b21d647814848f7c9d970e3f037b7d5f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a1640956f4de10aaaec7fec553b06a3282a0ba14f56f02ba283c4284e308cf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aproximação das Legislações
-- Direção Geral de Veterinária
 - Definição de Competências
-- Saúde Pública
+- Direção Geral de Veterinária
 - Medicamento
 - Medicina Veterinária
+- Produção Animal
 - Produto Veterinário
 - Proteção do Consumidor
 - Regulamento
-- Sistema Nacional de Farmacovigilância e Toxicologia Veterinária
 - Saúde Animal
+- Saúde Pública
+- Sistema Nacional de Farmacovigilância e Toxicologia Veterinária
 relationships:
 - type: amended_by
   target: pt:dre:454810:por
@@ -96,16 +96,21 @@ relationships:
   target: celex:32001L0082
   label: null
   source: http://data.europa.eu/eli/dir/2001/82/oj
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogado, a partir de 27.09.2008, pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:15Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +159,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO DO SISTEMA NACIONAL DE FARMACOVIGILÂNCIA E TOXICOLOGIA VETERINÁRIA
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25000/0596205963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2018/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2018-117514515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f98b70a49e82974300f4f9382d5c1c90b225d17c52f076963a5b82aba09150c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 209686967ec5231fc7222c2c237af60c4d33f9cd41f832c838c2212dcaf21c4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ subjects:
 - ADSE
 - Assistência Médica
 - Assistência Medicamentosa
+- Cirurgia
 - Comparticipação do Estado
+- DOENÇA ONCOLÓGICA
+- Doente Oncológico
+- Estabelecimento Hospitalar
 - Internamento Hospitalar
-- Serviço Nacional de Saúde
+- Material Médico-Cirúrgico
 - Medicamento
 - Preço
 - Proteção Social
 - Regime Convencionado
-- Estabelecimento Hospitalar
-- Cirurgia
-- Material Médico-Cirúrgico
 - Serviço de Atendimento Permanente
+- Serviço Nacional de Saúde
 - Subsistemas de Saúde
-- DOENÇA ONCOLÓGICA
-- Doente Oncológico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2013/07/30/p/dre
@@ -124,16 +124,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:105726273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:07Z'
   warnings: []
   errors: []
 ---
@@ -198,12 +270,14 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 26 de dezembro de 2018.**
+Promulgado em 26 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de dezembro de 2018.**
+Referendado em 26 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111943867

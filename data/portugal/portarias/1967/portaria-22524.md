@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22524-1967-505032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9581a6691eb08a7aa840d441b924627435d8092cd605e2352ed95634f73f91d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e81e8aba0557528e4491d92efc46ded56d9764b09756cd9951b7a717507db8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471773:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:29Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2597.º «Deslocações de pessoal»:
+Artigo 2597.º «Deslocações de pessoal»:
 
 N.º 2) «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
@@ -105,7 +121,7 @@ b) «Por quaisquer outros motivos»:
 
 1) «A pagar na metrópole» ... 7000000$00
 
-###### Artigo 2598.º «Diversas despesas»:
+Artigo 2598.º «Diversas despesas»:
 
 N.º 2) «Passagens a conceder aos estudantes, nos termos do [Decreto n.º 45653](https://diariodarepublica.pt/dr/detalhe/decreto/45653-1964-471773), de 11 de Abril de 1964»:
 
@@ -117,17 +133,17 @@ Para contrapartida são utilizados os recursos provenientes do excesso de cobran
 
 ### CAPÍTULO 1.º — Impostos directos gerais
 
-###### Artigo 5.º «Sisa sobre a transmissão de imobiliários por título oneroso» ... 1500000$00
+Artigo 5.º «Sisa sobre a transmissão de imobiliários por título oneroso» ... 1500000$00
 
 ### CAPÍTULO 2.º — Impostos indirectos
 
-###### Artigo 13.º «Direitos de importação»:
+Artigo 13.º «Direitos de importação»:
 
 b) «Mercadorias de origem ou procedência estrangeira» ... 10500000$00
 
 ### CAPÍTULO 4.º — Taxas - Rendimentos de diversos serviços
 
-###### Artigo 64.º «Rendimento do Serviço de Aeronáutica Civil» ... 800000$00
+Artigo 64.º «Rendimento do Serviço de Aeronáutica Civil» ... 800000$00
 
 ... 12800000$00
 

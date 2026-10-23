@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/559/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/559-1994-231770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9d6dc1a3b5f8e16f97c619acc2de5662356c50a2dba114c797ce07fdd165c45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb44d35f7c470c3410a1d3fb7ef47e8262ce6c6ea07f2fda4c73cff2a1816c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Industrial
+- Financiamento
 - Projeto de Investimento
 - Regime de Apoio às Estruturas Associativas
 - Sinaipedip
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:231889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:43Z'
   warnings: []
   errors: []
 ---
@@ -279,7 +295,7 @@ k) Despesas com formação profissional de técnicos da associação, de acordo 
 
 2 - O incentivo, com excepção do que se refere à formação profissional e à assistência técnica para preparação do diagnóstico e plano de acção de médio prazo, é função do grau de eficácia, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42744277.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42744277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42744277.pdf)
 
 3 - A percentagem máxima de incentivo a atribuir é de 65% nos casos em que o grau de eficácia é de Muito bom e de 55% nos casos em que este seja de Bom ou de Médio.
 
@@ -331,4 +347,4 @@ Nota. - O diagnóstico e plano de acção de médio prazo deverá ser acompanhad
 
 ## ANEXO B — Limites máximos de incentivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42744277.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42744277.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42744277.pdf)

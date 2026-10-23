@@ -19,8 +19,8 @@ summary: Nomeia, sob proposta do Primeiro-Ministro, o Dr. Mestre em Direito Fili
   Delgado Ubach Chaves Rosa Secretário de Estado do Ambiente, o Prof. Doutor João Manuel Machado Ferrão Secretário de Estado
   do Ordenamento do Território e das Cidades, o Prof. Doutor Rui Nuno Garcia de Pina Neves Baleiras Secretário de Estado do
   Desenvolvimento Regional, o Prof. Doutor António José de Castro Guerra Secretário de Estado Adjunto, da Indústria e da Inovação,
-  o Dr. Fernando Pereira Serrasqueiro Secretário de Estado do Comércio, Serviços e Defesa do Consumidor, o Dr. Bernardo Luís
-  Amador Trindade Secretário de Estado do Turismo, o Dr. Luís Medeiros Vieira Secretário de Estado Adjunto, da Agricultura
+  o Dr. Fernando Pereira Serrasqueiro        Secretário de Estado do Comércio, Serviços e Defesa do Consumidor, o Dr. Bernardo
+  Luís Amador Trindade Secretário de Estado do Turismo, o Dr. Luís Medeiros Vieira Secretário de Estado Adjunto, da Agricultura
   e das Pescas, o Engenheiro Rui Nobre Gonçalves Secretário de Estado do Desenvolvimento Rural e das Florestas, o Dr. Paulo
   Jorge Oliveira Ribeiro de Campos Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, a Engenheira Mestre
   em Transportes Ana Paula Mendes Vitorino Secretária de Estado dos Transportes, o Dr. Mestre em Economia Pedro Manuel Dias
@@ -46,7 +46,7 @@ publication:
   reference: Diário da República n.º 51/2005, 1º Suplemento, Série I-A de 2005-03-14
   number: '51'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2256-(3) a 2256-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/051a01/00030003.pdf
 entry_into_force_dates: []
@@ -73,18 +73,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/20-b/2005/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-b-2005-527980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97e5e4ebee3104ca65de6f24e028b105ac053cad3441a002c88fbef7e6e20172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e978f8c8c1009b73616349aa1a519b1381a18002751b3437b84ce58549b6457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -92,58 +92,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Turismo
+- Governo XVII
+- Nomeação
+- Secretário de Estado
 - Secretário de Estado Adjunto da Agricultura e das Pescas
 - Secretário de Estado Adjunto da Indústria e da Inovação
+- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto e da Administração Interna
+- Secretário de Estado Adjunto e da Administração Local
 - Secretário de Estado Adjunto e da Educação
+- Secretário de Estado Adjunto e da Justiça
+- Secretário de Estado Adjunto e da Reabilitação
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Pública
+- Secretário de Estado da Ciência Tecnologia e Ensino Superior
 - Secretário de Estado da Cultura
 - Secretário de Estado da Defesa Nacional e dos Assuntos do MAR
 - Secretário de Estado da Educação
-- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
-- Secretário de Estado do Desenvolvimento Rural e das Florestas
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Subsecretário de Estado da Administração Interna
-- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
-- Secretário de Estado Adjunto e da Reabilitação
-- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude e do Desporto
 - Secretário de Estado da Saúde
-- Secretário de Estado do Emprego e Formação Profissional
-- Secretário de Estado dos Transportes
-- Secretário de Estado Adjunto e da Administração Interna
-- Secretário de Estado da Ciência Tecnologia e Ensino Superior
-- Secretário de Estado da Justiça
-- Governo XVII
-- Secretário de Estado Adjunto e da Saúde
-- Secretário de Estado do Ambiente
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
-- Nomeação
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado
-- Secretário de Estado Adjunto e da Administração Local
-- Secretário de Estado Adjunto e da Justiça
-- Secretário de Estado da Administração Pública
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Desenvolvimento Rural e das Florestas
+- Secretário de Estado do Emprego e Formação Profissional
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Secretário de Estado dos Transportes
+- Secretário de Estado para os Assuntos Europeus
+- Subsecretário de Estado da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:281575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281575:por
+  label: "Exonerados o Dr. Ascenso Luís Seixas Simões do cargo de Secretário de Estado da Protecção Civil, o engenheiro Rui\
+    \ Nobre Gonçalves do cargo de Secretário de Estado do Desenvolvimento Rural e das Florestas e o Dr. Fernando António Portela\
+    \ Rocha Andrade do cargo de Subsecretário de Estado da Administração Interna pelo DEC.15-C/2008.01.02.2008.PR, DR.IS [23-Supl]\
+    \ de 01.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/15-c-2008-281575
+  date: '2008-02-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:54Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +160,7 @@ validation:
 
 de 14 de Março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -226,12 +234,12 @@ O Prof. Doutor Manuel Frederico Tojal de Valsassina Heitor Secretário de Estado
 
 O Prof. Doutor Mário Vieira de Carvalho Secretário de Estado da Cultura.
 
-**Assinado em 14 de Março de 2005.**
+Assinado em 14 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2005.**
+Referendado em 14 de Março de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

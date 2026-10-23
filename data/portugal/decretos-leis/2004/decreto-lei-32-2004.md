@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2004/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2004-580776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efcbf1c43e9649e31b992a98ef473c9c452351123207a6f9fd4d0b989f6d027c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9567404c44e5d206717ee7d9cb01a42d453e670bad5e9be2f84cfaac68fce518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,29 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
+- Comércio
 - Controlo de Qualidade
-- Direção Geral de Veterinária
 - Controlo Sanitário
-- Saúde Pública
+- Direção Geral de Veterinária
 - Fiscalização
 - Importação
+- Produto Animal
 - Regulamento CE
 - Regulamento dos Controlos Veterinários e Zootécnicos Aplicaveis ao Comércio Intracomunitário de Animais Vivos e Produtos
   Animais
-- Comércio
-- Produto Animal
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346359:por
+  label: "Alterada a denominação do anexo I da Port 492/95, de 23-Mai, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP,\
+    \ DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 - type: cites
   target: celex:31989L0662
   label: null
@@ -107,15 +113,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2002/1774/oj
 article_structure:
-  article_count: 7
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:18Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +168,7 @@ O n.º 7 do anexo A do Regulamento dos Controlos Veterinários e Zootécnicos Ap
 
 3 - ...
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -184,9 +190,13 @@ c) ...
 
 4 - ...
 
-## ANEXO I — [...]
+ANEXO I
 
-### CAPÍTULO 2 — [...]
+[...]
+
+CAPÍTULO 2
+
+[...]
 
 A) ...
 
@@ -198,7 +208,7 @@ ii) ...
 
 iii) ...
 
-### CAPÍTULO 5
+CAPÍTULO 5
 
 Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão de farinha de chifre), unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco) destinados ao consumo humano.
 
@@ -210,7 +220,9 @@ Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e p
 
 3) ...
 
-### CAPÍTULO 6 — Proteínas animais transformadas destinadas ao consumo humano
+CAPÍTULO 6
+
+Proteínas animais transformadas destinadas ao consumo humano
 
 I - ...
 
@@ -252,7 +264,9 @@ b) ...
 
 c) ...
 
-### CAPÍTULO 7 — [...]
+CAPÍTULO 7
+
+[...]
 
 A - [...]
 
@@ -270,7 +284,9 @@ c) ...
 
 2 - ...
 
-### CAPÍTULO 9 — [...]
+CAPÍTULO 9
+
+[...]
 
 1 - ...
 
@@ -288,7 +304,9 @@ b) ...
 
 c) ...
 
-### CAPÍTULO 11 — [...]
+CAPÍTULO 11
+
+[...]
 
 a) ...
 
@@ -322,12 +340,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 28 de Janeiro de 2004.**
+Promulgado em 28 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 2004.**
+Referendado em 29 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

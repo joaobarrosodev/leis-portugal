@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/681-1970-154471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ba330eee38161e2ee2c4a60fa7fae74bd0c44058910bea2c802d496169a82ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cafe59ae62e4e43428ffe81ddee98528c919c52c229a7c49bd4fbd40cfa7da1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Exército
+- Forças Armadas
+- Manutenção Militar
+- Pessoal Civil
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:390993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365523:por
+  label: "Alteradas as alíneas a) e b) do n.º 1 do art. 3.º pela PORT.513/79.22.09.1979.CR, DR.IS [220] de 22.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/513-1979-365523
+  date: '1979-09-22'
+- type: amended_by
+  target: pt:dre:681633:por
+  label: "Alterada a alínea a) do n.º 1 do artigo 3.º (na redacção da Portaria 513/79, de 22 de Setembro), o artigo 5.º, o\
+    \ n.º 3 do artigo 7.º, os artigos 8.º, 12.º e 13.º e o n.º 3 do artigo 17.º do Regulamento aprovado pelo presente diploma,\
+    \ pela PORT.178/80.18.04.1980.CR, DR.IS [91] de 18.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-1980-681633
+  date: '1980-04-18'
+- type: amended_by
+  target: pt:dre:390993:por
+  label: "Aditados os nºs 5 e 6 ao artigo 3.º pela PORT.189/81, 17.02.1981.CR, DR.IS [40] de 17.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-1981-390993
+  date: '1981-02-17'
+- type: cites
+  target: pt:dre:198754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:50Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +133,7 @@ Regulamento do Fundo de Protecção e Acção Social dos Estabelecimentos Fabris
 
 ### CAPÍTULO I — Aspectos gerais
 
-###### Artigo 1.º - 1. O Fundo de Protecção e Acção Social (F. P. A. S.), criado pelo artigo 48.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, com vista a assegurar ao pessoal civil dos estabelecimentos fabris do Exército uma eficaz assistência, compreende:
+Artigo 1.º - 1. O Fundo de Protecção e Acção Social (F. P. A. S.), criado pelo artigo 48.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, com vista a assegurar ao pessoal civil dos estabelecimentos fabris do Exército uma eficaz assistência, compreende:
 
 a) Uma parte comum a todos os estabelecimentos, designada neste Regulamento por «Fundo comum»;
 
@@ -104,7 +143,7 @@ b) Outra parte privativa de cada estabelecimento, que se designa neste Regulamen
 
 3. O pessoal em serviço nas dependências dos estabelecimentos fabris no ultramar terá direito às regalias previstas no presente diploma, na parte que lhe puder ser aplicável, sem prejuízo do que estiver especialmente estabelecido nas províncias ultramarinas sobre o assunto.
 
-###### Art. 2.º - 1. As receitas para o Fundo de Protecção e Acção Social serão provenientes:
+Art. 2.º - 1. As receitas para o Fundo de Protecção e Acção Social serão provenientes:
 
 a) De uma percentagem dos respectivos lucros líquidos, a fixar anualmente, por despacho do Ministro do Exército, para cada um dos estabelecimentos;
 
@@ -118,7 +157,7 @@ d) De quaisquer pagamentos efectuados pelo pessoal civil de acordo com o present
 
 3. Para o fundo comum concorrerá também qualquer subsídio que venha a ser previsto no Orçamento Geral do Estado ou de qualquer outra proveniência.
 
-###### Art. 3.º - 1. Para efeitos de protecção social é considerada família do servidor o cônjuge e, quando a cargo do servidor:
+Art. 3.º - 1. Para efeitos de protecção social é considerada família do servidor o cônjuge e, quando a cargo do servidor:
 
 a) Filhos legítimos ou perfilhados do funcionário ou do seu cônjuge enquanto menores;
 
@@ -142,13 +181,13 @@ c) Ascendentes do funcionário ou do seu cônjuge a respeito dos quais se verifi
 
 4. Não se verifica o direito à protecção social a conceder pelo Fundo de Protecção e Acção Social relativamente a familiares do servidor ou equiparados que usufruam, por direito próprio, de idênticos benefícios concedidos por outra organização de assistência ou previdência.
 
-###### Art. 4.º As importâncias destinadas ao fundo comum e ao fundo privativo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência em contas especiais.
+Art. 4.º As importâncias destinadas ao fundo comum e ao fundo privativo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência em contas especiais.
 
 ### CAPÍTULO II — Do fundo comum
 
-###### Art. 5.º O fundo comum será gerido pelo Quartel-Mestre-General, assistido pela Comissão Coordenadora de Protecção e Acção Social nos estabelecimentos fabris do Exército (C. C. P. A. S.), a qual é criada ao abrigo do § único do artigo 8.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, aditado pelo artigo 2.º do [Decreto-Lei n.º 49188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754), de 13 de Agosto de 1969.
+Art. 5.º O fundo comum será gerido pelo Quartel-Mestre-General, assistido pela Comissão Coordenadora de Protecção e Acção Social nos estabelecimentos fabris do Exército (C. C. P. A. S.), a qual é criada ao abrigo do § único do artigo 8.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, aditado pelo artigo 2.º do [Decreto-Lei n.º 49188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49188-1969-198754), de 13 de Agosto de 1969.
 
-###### Art. 6.º - 1. A Comissão Coordenadora de Protecção e Acção Social é constituída por um oficial general na reserva, oriundo do serviço de administração militar, designado pelo Quartel-Mestre-General, que presidirá, pelos directores dos estabelecimentos fabris e por um secretário-geral, oficial superior na reserva.
+Art. 6.º - 1. A Comissão Coordenadora de Protecção e Acção Social é constituída por um oficial general na reserva, oriundo do serviço de administração militar, designado pelo Quartel-Mestre-General, que presidirá, pelos directores dos estabelecimentos fabris e por um secretário-geral, oficial superior na reserva.
 
 2. As decisões da Comissão são tomadas por maioria absoluta de votos, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -158,7 +197,7 @@ a) Um secretário técnico, oficial com patente não inferior a capitão ou civi
 
 b) O pessoal civil julgado indispensável, colocado em regime de diligência na Comissão Coordenadora de Protecção e Acção Social após ser contratado por um dos estabelecimentos fabris ou outro serviço dependente do quartel-mestre-general.
 
-###### Art. 7.º - 1. Os serviços administrativos relativos ao fundo comum serão accionados através do conselho administrativo da Chefia do Serviço de Orçamento e Administração.
+Art. 7.º - 1. Os serviços administrativos relativos ao fundo comum serão accionados através do conselho administrativo da Chefia do Serviço de Orçamento e Administração.
 
 2. Quaisquer ordens que impliquem retiradas de fundos das contas especiais a que se refere o artigo 4.º só são válidas se contiverem as assinaturas:
 
@@ -168,27 +207,27 @@ b) Do presidente do conselho administrativo da Chefia do Serviço de Orçamento 
 
 3. O conselho administrativo da Chefia do Serviço de Orçamento e Administração elaborará, trimestralmente, em duplicado, um balancete de conta, que, depois de entregue na Comissão Coordenadora de Protecção e Acção Social e visado pelos seus membros, será submetido à aprovação do Quartel-Mestre-General.
 
-###### Art. 8.º Através de acordos ou contratos a celebrar com as entidades competentes deve o fundo comum assegurar a assistência a prestar ao pessoal e famílias nas modalidades de medicina, cirurgia, obstetrícia e especialidades médicas e cirúrgicas e ainda, em regra, o fornecimento de próteses, em regime de internamento, ambulatório e domiciliário.
+Art. 8.º Através de acordos ou contratos a celebrar com as entidades competentes deve o fundo comum assegurar a assistência a prestar ao pessoal e famílias nas modalidades de medicina, cirurgia, obstetrícia e especialidades médicas e cirúrgicas e ainda, em regra, o fornecimento de próteses, em regime de internamento, ambulatório e domiciliário.
 
-###### Art. 9.º - 1. O funcionamento e a organização de colónias de férias serão objecto de normas especiais a elaborar pela Comissão Coordenadora de Protecção e Acção Social e a aprovar pelo Quartel-Mestre-General.2. Enquanto não forem criadas as colónias de férias previstas no n.º 1, podem ser pagas despesas com a frequência de colónias de férias dos filhos do pessoal dos estabelecimentos fabris.
+Art. 9.º - 1. O funcionamento e a organização de colónias de férias serão objecto de normas especiais a elaborar pela Comissão Coordenadora de Protecção e Acção Social e a aprovar pelo Quartel-Mestre-General.2. Enquanto não forem criadas as colónias de férias previstas no n.º 1, podem ser pagas despesas com a frequência de colónias de férias dos filhos do pessoal dos estabelecimentos fabris.
 
 3. Podem igualmente ser pagas despesas com a frequência de colónias de férias quando, depois de criadas, não existam vagas nas colónias de férias dos estabelecimentos fabris.
 
-###### Art. 10.º Cabe aos directores dos estabelecimentos fabris propor, por conta do fundo comum, a construção de habitações de renda compatível com os vencimentos ou salários auferidos ou a concessão de subsídios de habitação enquanto não for viável a construção ou para aqueles que não beneficiem de tal regalia e vivam em maiores dificuldades.
+Art. 10.º Cabe aos directores dos estabelecimentos fabris propor, por conta do fundo comum, a construção de habitações de renda compatível com os vencimentos ou salários auferidos ou a concessão de subsídios de habitação enquanto não for viável a construção ou para aqueles que não beneficiem de tal regalia e vivam em maiores dificuldades.
 
-###### Art. 11.º A regulamentação respeitante às pensões de sobrevivência será o objecto de estatuto especial.
+Art. 11.º A regulamentação respeitante às pensões de sobrevivência será o objecto de estatuto especial.
 
-###### Art. 12.º A concessão de subsídios de aposentação ou compensações de pensão ao pessoal civil através do fundo comum será da competência do Quartel-Mestre-General, em face de processo devidamente elaborado pelos estabelecimentos fabris.
+Art. 12.º A concessão de subsídios de aposentação ou compensações de pensão ao pessoal civil através do fundo comum será da competência do Quartel-Mestre-General, em face de processo devidamente elaborado pelos estabelecimentos fabris.
 
-###### Art. 13.º Os estabelecimentos fabris, para beneficiarem do apoio referido na alínea g) do artigo 6.º, apresentarão à Comissão Coordenadora de Protecção e Acção Social, para despacho do Quartel-Mestre-General, propostas fundamentadas com indicação da verba necessária.
+Art. 13.º Os estabelecimentos fabris, para beneficiarem do apoio referido na alínea g) do artigo 6.º, apresentarão à Comissão Coordenadora de Protecção e Acção Social, para despacho do Quartel-Mestre-General, propostas fundamentadas com indicação da verba necessária.
 
 ### CAPÍTULO III — Do fundo privativo
 
-###### Art. 14.º A gerência do fundo privativo de cada um dos estabelecimentos fabris pertence ao respectivo director, como parte integrante das suas funções, e é por intermédio desse fundo que se exercerá protecção social em cada estabelecimento.
+Art. 14.º A gerência do fundo privativo de cada um dos estabelecimentos fabris pertence ao respectivo director, como parte integrante das suas funções, e é por intermédio desse fundo que se exercerá protecção social em cada estabelecimento.
 
-###### Art. 15.º As despesas de protecção e acção social, obrigatòriamente realizadas dentro das disponibilidades do respectivo fundo privativo, são autorizadas pelos directores, dentro dos limites da sua competência administrativa e do que fica estabelecido no presente Regulamento.
+Art. 15.º As despesas de protecção e acção social, obrigatòriamente realizadas dentro das disponibilidades do respectivo fundo privativo, são autorizadas pelos directores, dentro dos limites da sua competência administrativa e do que fica estabelecido no presente Regulamento.
 
-###### Art. 16.º A protecção e acção social a exercer pelos estabelecimentos fabris abrangerá as seguintes modalidades:
+Art. 16.º A protecção e acção social a exercer pelos estabelecimentos fabris abrangerá as seguintes modalidades:
 
 a) Assistência na doença;
 
@@ -204,7 +243,7 @@ f) Subsídios diversos.
 
 1. Assistência na doença
 
-###### Art. 17.º - 1. A assistência na doença é realizada através de:
+Art. 17.º - 1. A assistência na doença é realizada através de:
 
 a) Assistência médica;
 
@@ -224,11 +263,11 @@ b) Se resultar de acto de terceiro por que ele deva indemnização.
 
 3. O montante das comparticipações dos servidores no pagamento dos serviços prestados, tanto ao abrigo das normas do presente capítulo como dos capítulos seguintes, consta das tabelas anexas ao presente Regulamento, que serão actualizadas periòdicamente por despacho do Ministro do Exército.
 
-###### Art. 18.º - 1. As assistências médica e medicamentosa serão concedidas, na prevenção da doença, enquanto durar a doença e, na convalescença, aos servidores e respectivas famílias.
+Art. 18.º - 1. As assistências médica e medicamentosa serão concedidas, na prevenção da doença, enquanto durar a doença e, na convalescença, aos servidores e respectivas famílias.
 
 2. A assistência médica domiciliária será prestada apenas aos próprios servidores e nas condições expressas nos n.os 4 e 5 do artigo 19.º
 
-###### Art. 19.º - 1. A assistência médica será prestada:
+Art. 19.º - 1. A assistência médica será prestada:
 
 a) Gratuitamente, nos postos dos estabelecimentos fabris (clínica geral, pediatria, obstetrícia e estomatologia);
 
@@ -244,7 +283,7 @@ c) Por médicos escolhidos pelo servidor.
 
 5. Os tratamentos de enfermagem são gratuitos e são prestados nos postos clínicos dos estabelecimentos fabris ou no domicílio, quando a enfermidade não permitir a deslocação do doente.
 
-###### Art. 20.º - 1. A assistência hospitalar far-se-á em instituições de carácter hospitalar com as quais exista acordo nos termos do artigo 8.º deste Regulamento, podendo ter lugar em regime de internato, ambulatório ou domiciliário, em todas as modalidades (medicina, cirurgia, obstetrícia, especialidades médicas e cirúrgicas e, ainda, em regra, o fornecimento de próteses).
+Art. 20.º - 1. A assistência hospitalar far-se-á em instituições de carácter hospitalar com as quais exista acordo nos termos do artigo 8.º deste Regulamento, podendo ter lugar em regime de internato, ambulatório ou domiciliário, em todas as modalidades (medicina, cirurgia, obstetrícia, especialidades médicas e cirúrgicas e, ainda, em regra, o fornecimento de próteses).
 
 2. O internamento só poderá fazer-se mediante autorização ou confirmação dos médicos contratados pelos estabelecimentos fabris ou daqueles com os quais haja acordo.
 
@@ -288,13 +327,13 @@ b) As próteses estomatológicas (placas e implantações de dentes) e ópticas,
 
 12. As dívidas incobráveis serão suportadas pelo Fundo de Protecção e Acção Social.
 
-###### Art. 21.º O fornecimento de medicamentos receitados aos servidores e seus familiares será assegurado:
+Art. 21.º O fornecimento de medicamentos receitados aos servidores e seus familiares será assegurado:
 
 a) Pelo Laboratório Militar de Produtos Químicos e Farmacêuticos;
 
 b) Pelas farmácias que aceitem prestar esse serviço aos estabelecimentos fabris, nos termos oficialmente acordados com o Grémio Nacional das Farmácias, quando por qualquer motivo o servidor não possa recorrer ao Laboratório Militar de Produtos Químicos e Farmacêuticos, nomeadamente quando as sucursais e delegações se encontrem encerradas.
 
-###### Art. 22.º - 1. Os meios auxiliares de diagnóstico e terapêutica, incluindo as próteses estomatológicas (placas e implantação de dentes) e ópticas serão fornecidas:
+Art. 22.º - 1. Os meios auxiliares de diagnóstico e terapêutica, incluindo as próteses estomatológicas (placas e implantação de dentes) e ópticas serão fornecidas:
 
 a) Pelos serviços próprios dos estabelecimentos;
 
@@ -306,13 +345,13 @@ d) Em clínicas particulares à escolha do beneficiário.
 
 2. O limite de comparticipação é calculado com base no preçário das tabelas de encargos devidos pela assistência prestada nos hospitais gerais aos pensionistas de enfermaria.3. Só terão direito a comparticipação pelo Fundo de Protecção e Acção Social as despesas feitas que forem requisitadas por médicos.
 
-###### Art. 23.º - 1. Os subsídios pecuniários na doença poderão ser concedidos ao pessoal necessitado com mais de um ano de serviço e boas informações, quando na situação de doente, devidamente comprovada pelo clínico do respectivo estabelecimento.
+Art. 23.º - 1. Os subsídios pecuniários na doença poderão ser concedidos ao pessoal necessitado com mais de um ano de serviço e boas informações, quando na situação de doente, devidamente comprovada pelo clínico do respectivo estabelecimento.
 
 2. Estes subsídios, somados com os vencimentos ou salários auferidos na respectiva situação, não poderão ir além dos vencimentos ou salários normais da categoria.
 
 2. Protecção materno-infantil
 
-###### Art. 24.º - 1. A protecção materno-infantil compreende um conjunto de serviços prestados às servidoras ou mulheres dos servidores na gravidez, no parto e no puerpério, e assistência na criação dos filhos até aos 4 anos de idade, compreendendo:
+Art. 24.º - 1. A protecção materno-infantil compreende um conjunto de serviços prestados às servidoras ou mulheres dos servidores na gravidez, no parto e no puerpério, e assistência na criação dos filhos até aos 4 anos de idade, compreendendo:
 
 a) Assistência médica;
 
@@ -330,7 +369,7 @@ f) Subsídios pecuniários.
 
 3. O aborto não provocado é considerado como parto para os efeitos previstos neste capítulo.
 
-###### Art. 25.º - 1. Podem ser concedidos subsídios pecuniários às servidoras parturientes:
+Art. 25.º - 1. Podem ser concedidos subsídios pecuniários às servidoras parturientes:
 
 a) A que se aplicar o artigo 5.º e seu parágrafo do [Decreto-Lei n.º 42800](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42800-1960-627230), de 11 de Janeiro de 1960, quando por motivo de parto ultrapassem os trinta dias previstos no corpo do artigo;
 
@@ -340,27 +379,27 @@ b) Quando o parto se verificar em casa e for assistido por médico ou parteira d
 
 3. O subsídio referido na alínea a) do n.º 1 deste artigo só poderá ser concedido mediante parecer fundamentado de um médico do estabelecimento, quando expressamente declare que a servidora não pode apresentar-se ao serviço por motivo de parto.
 
-###### Art. 26.º - 1. Os estabelecimentos fabris procurarão criar junto dos respectivos locais de trabalho creches e infantários destinados, em especial, a auxiliar a criação dos filhos dos seus empregados femininos com menos de 4 anos de idade.
+Art. 26.º - 1. Os estabelecimentos fabris procurarão criar junto dos respectivos locais de trabalho creches e infantários destinados, em especial, a auxiliar a criação dos filhos dos seus empregados femininos com menos de 4 anos de idade.
 
 2. Em casos excepcionais e quando as vagas o permitirem, poderão as direcções dos estabelecimentos fabris autorizar a admissão dos filhos do pessoal masculino, até ao limite da referida idade.
 
 3. Quando existam na proximidade do estabelecimento fabril organizações oficiais ou particulares que possam assegurar, em boas condições de higiene infantil, a assistência prevista neste artigo, poderão os directores dos estabelecimentos fabris contratar com tais entidades a prestação desses serviços mediante pagamento pelo respectivo fundo privativo.
 
-###### Art. 27.º Serão condições preferenciais a considerar na admissão nas creches e infantários as condições habitacionais do agregado familiar.
+Art. 27.º Serão condições preferenciais a considerar na admissão nas creches e infantários as condições habitacionais do agregado familiar.
 
-###### Art. 28.º Junto dos estabelecimentos fabris poderão funcionar escolas pré-primárias e escolas primárias quando o número de filhos do pessoal o justifique.
+Art. 28.º Junto dos estabelecimentos fabris poderão funcionar escolas pré-primárias e escolas primárias quando o número de filhos do pessoal o justifique.
 
-###### Art. 29.º - 1. Nas escolas pré-primárias serão admitidos os filhos do pessoal a partir dos 4 anos até à idade de matrícula nas escolas primárias.
+Art. 29.º - 1. Nas escolas pré-primárias serão admitidos os filhos do pessoal a partir dos 4 anos até à idade de matrícula nas escolas primárias.
 
 2. Aplica-se a este artigo o disposto no n.º 3 do artigo 26.º
 
-###### Art. 30.º - 1. As escolas primárias deverão ser oficiais e funcionar em colaboração com a direcção do estabelecimento fabril, consoante os programas do Ministério da Educação Nacional.
+Art. 30.º - 1. As escolas primárias deverão ser oficiais e funcionar em colaboração com a direcção do estabelecimento fabril, consoante os programas do Ministério da Educação Nacional.
 
 2. Quando não for possível ou não se justificar a criação nos estabelecimentos fabris de escolas primárias, serão aproveitadas as escolas oficiais mais próximas, custeando o Fundo de Protecção e Acção Social as respectivas despesas com livros e material didáctico.
 
 3. Auxilio na alimentação
 
-###### Art. 31.º - 1. Os estabelecimentos fabris poderão fornecer almoços ao seu pessoal, em regime de comparticipação, sempre que a natureza do serviço imponha trabalhos para além do horário normal; poderão igualmente ser fornecidas outras refeições sob o mesmo regime.
+Art. 31.º - 1. Os estabelecimentos fabris poderão fornecer almoços ao seu pessoal, em regime de comparticipação, sempre que a natureza do serviço imponha trabalhos para além do horário normal; poderão igualmente ser fornecidas outras refeições sob o mesmo regime.
 
 2. Os encargos pelo fornecimento de refeições a suportar pelo pessoal e pelo Fundo de Protecção e Acção Social serão periòdicamente fixadas pelo quartel-mestre-general, sob proposta da Comissão Coordenadora de Protecção e Acção Social.
 
@@ -368,7 +407,7 @@ b) Quando o parto se verificar em casa e for assistido por médico ou parteira d
 
 4. Acção educacional, cultural e recreativa
 
-###### Art. 32.º - 1. Poderão ser promovidos pelos estabelecimentos fabris:
+Art. 32.º - 1. Poderão ser promovidos pelos estabelecimentos fabris:
 
 a) Almoços ou jantares de confraternização do seu pessoal prèviamente autorizados superiormente;
 
@@ -380,17 +419,17 @@ d) Outras actividades que, pela sua natureza e sem prejuízo do serviço, possam
 
 2. As actividades mencionadas podem ser promovidas pelos centros de alegria no trabalho já existentes ou a criar nos estabelecimentos fabris.
 
-###### Art. 33.º - 1. Os estabelecimentos fabris poderão fornecer subsídios para propinas, livros e material didáctico a todos os aprendizes que frequentem cursos industriais com bom aproveitamento no ano lectivo anterior.
+Art. 33.º - 1. Os estabelecimentos fabris poderão fornecer subsídios para propinas, livros e material didáctico a todos os aprendizes que frequentem cursos industriais com bom aproveitamento no ano lectivo anterior.
 
 2. Idênticas facilidades poderão ser concedidas aos funcionários ou a seus filhos que frequentem quaisquer cursos com bom aproveitamento.
 
 5. Assistência moral
 
-###### Art. 34.º A assistência moral terá por finalidade principal a valorização do agregado familiar do pessoal dos estabelecimentos fabris.
+Art. 34.º A assistência moral terá por finalidade principal a valorização do agregado familiar do pessoal dos estabelecimentos fabris.
 
 6. Subsídios diversos
 
-###### Art. 35.º - 1. Além dos subsídios já definidos neste Regulamento, os estabelecimentos fabris poderão atribuir subsídios pecuniários nos seguintes casos:
+Art. 35.º - 1. Além dos subsídios já definidos neste Regulamento, os estabelecimentos fabris poderão atribuir subsídios pecuniários nos seguintes casos:
 
 a) Pelo nascimento de filhos;
 
@@ -408,11 +447,11 @@ e) De comprovada necessidade.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 36.º Os casos omissos e as dúvidas suscitadas na execução deste Regulamento serão resolvidos por despacho do Ministro do Exército, sob parecer do Quartel-Mestre-General.
+Art. 36.º Os casos omissos e as dúvidas suscitadas na execução deste Regulamento serão resolvidos por despacho do Ministro do Exército, sob parecer do Quartel-Mestre-General.
 
-###### Art. 37.º Fica revogada a [Portaria n.º 21102](https://diariodarepublica.pt/dr/detalhe/portaria/21102-1965-238787), de 11 de Fevereiro de 1965.
+Art. 37.º Fica revogada a [Portaria n.º 21102](https://diariodarepublica.pt/dr/detalhe/portaria/21102-1965-238787), de 11 de Fevereiro de 1965.
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.
 
 TABELA I
 
@@ -420,7 +459,7 @@ Comparticipação do servidor em consultas
 
 (Artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
 
 TABELA II
 
@@ -428,7 +467,7 @@ Comparticipação do servidor referente a tratamento e internamento hospitalar
 
 (Artigo 20.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
 
 Nota. - O servidor pode recorrer a aposentos diferentes aos que lhe cabem nesta tabela, responsabilizando-se, no entanto, pelo excesso do custo que daí advier.
 
@@ -448,7 +487,7 @@ Comparticipação do servidor referente a meios auxiliares de diagnóstico e ter
 
 (Artigo 22.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
 
 TABELA V
 
@@ -456,7 +495,7 @@ Fornecimento de alimentos e tónicos
 
 (Artigo 24.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf))](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/30100/20102015.pdf)
 
 TABELA VI
 
@@ -478,4 +517,4 @@ Lembrança do Natal - Lotes ou lembranças a fixar pelo quartel-mestre-general.
 
 Nota. - Os restantes benefícios previstos que dêem lugar a Subsídio ou comparticipação serão fixados quando forem aprovados pelo Ministro do Exército os respectivos regulamentos.
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

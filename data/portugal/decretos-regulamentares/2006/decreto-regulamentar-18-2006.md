@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/2006/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-2006-545823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a5464cfbeadb97e790ec074681db4ca6042c0d6a60d7f0280c41aa1efc31b26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bc2bd068341c367a283297bf14cbf4d5f8ad010cd8723fa5441e65824456ea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alentejo
 - Ordenamento do Território
 - Ordenamento Florestal
-- PROF do Baixo Alentejo
-- Política de Solos
-- Alentejo
 - Plano Regional de Ordenamento Florestal
+- Política de Solos
+- PROF do Baixo Alentejo
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 32º e 34º a 38º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 32º e 34º\
+    \ a 38º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -109,16 +121,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 47
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:39Z'
   warnings: []
   errors: []
 ---
@@ -197,15 +247,15 @@ O PROF BA entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 21 de Setembro de 2006.**
+Promulgado em 21 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Setembro de 2006.**
+Referendado em 25 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO BAIXO ALENTEJO (PROF BA)
 
@@ -811,7 +861,7 @@ iv) Espaços florestais com função de enquadramento de aglomerados urbanos e m
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), amieiro (Alnus glutinosa), carvalho-cerquinho (Quercus faginea), choupo-branco (Populus alba), eucalipto (Eucalyptus globulus), freixo (Fraxinus angustifolia), pinheiro-bravo (Pinus pinaster), pinheiro de-Alepo (Pinus halepensis), azinheira (Quercus ilex spp. Rotundifolia) e salgueiro (Salix alba).
 
@@ -849,7 +899,7 @@ iv) Espaços florestais com função de enquadramento de infra-estruturas de equ
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), casuarina (Casuarina cunninghamiana), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), pinheiro-manso (Pinus pinea), sobreiro (Quercus suber) e salgueiro (Salix alba).
 
@@ -897,7 +947,7 @@ v) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), amieiro (Alnus glutinosa), casuarina (Casuarina cunninghamiana), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), pinheiro-manso (Pinus pinea) e salgueiro (Salix alba).
 
@@ -935,7 +985,7 @@ vi) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia) e salgueiro (Salix alba).
 
@@ -979,7 +1029,7 @@ iv) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: alfarrobeira (Ceratonia siliqua), amieiro (Alnus glutinosa), casuarina (Casuarina cunninghamiana), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), medronheiro (Arbutus unedo), pinheiro-manso (Pinus pinea), salgueiro (Salix alba).
 
@@ -1025,7 +1075,7 @@ vi) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: azinheira (Quercus rotundifolia) alfarrobeira (Ceratonia siliqua), amieiro (Alnus glutinosa), casuarina (Casuarina cunninghamiana), choupo-branco (Populus alba), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), pinheiro-de-Alepo (Pinus halepensis) e salgueiro (Salix alba).
 
@@ -1045,7 +1095,7 @@ vi) Espaços florestais com função de conservação de recursos genéticos, em
 
 1 - Estão sujeitas a Plano de Gestão Florestal (PGF) as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Política Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de Plano de Gestão Florestal, as explorações florestais privadas com área mínima de 100 ha.
 
@@ -1081,7 +1131,7 @@ c) Áreas percorridas por incêndios de grandes dimensões.
 
 4 - No PROF BA são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -1103,27 +1153,27 @@ No relatório do PROF BA, estão consignadas medidas de intervenção comuns à 
 
 1 - O PROF BA define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 2 - O PROF BA define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 3 - O PROF BA define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 4 - O PROF BA define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados, para as sub-regiões homogéneas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 5 - O PROF BA define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 6 - O PROF BA define como metas, para 2025 e 2045, os seguintes valores de percentagem de área queimada anualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 ###### Artigo 33.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
@@ -1231,14 +1281,14 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 ## ANEXO I — Normas genéricas de intervenção nos espaços florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 ## ANEXO II — Modelos de silvicultura
 
 Modelos de silvicultura para as principais espécies de árvores florestais e sistemas florestais produtivos mais relevantes para a região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
 
 ## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal do Baixo Alentejo (PROF BA)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20300/73277347.pdf)

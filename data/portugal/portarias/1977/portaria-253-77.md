@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10900/10281029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-1977-251453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7becaae92f5decdbec3b28093db51f84a8e0dd608c4e4c158a07753de8d1113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b70c40ca3044f98695d1d635ee33537fdf7849dbe991c9be77258fc987434038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Crianças
+- Armazenagem
+- Comércio
+- Margens de Comercialização
+- Preço de Venda
+- Preço Máximo
+- Produto Dietetico
+- Retalhista
 relationships:
 - type: amended_by
   target: pt:dre:280701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280701:por
+  label: Revogada, pelo(a) Portaria n.º 688/77 - Diário da República n.º 262/1977, Série I de 1977-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/688-1977-280701
+  date: '1977-11-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:17:55Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +125,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º - 1. Os preços máximos no armazém do fabricante e na venda ao público, incluindo o imposto de transacções, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/05/10900/10281029.pdf))](https://files.diariodarepublica.pt/1s/1977/05/10900/10281029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/10900/10281029.pdf)
 
 2. A margem mínima do retalhista é de 15$00 por quilograma.
 

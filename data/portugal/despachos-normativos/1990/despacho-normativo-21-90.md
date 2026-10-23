@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-1990-333305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33053eb252009bcc292b4361ad8bda417d9e9831e02bfcbdd2fbe75063040256
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06451fdaf5d7b30328dc16aa297fd648e2963c56e707d9f8baf7ed1072493c63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contingentação
+- Direcção Geral do Comércio Externo
+- Importação
+- Produto Industrial
 relationships:
 - type: amended_by
   target: pt:dre:565395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565395:por
+  label: "Substituída a lista C referida no n.º 1 pelo DN.129/90.25.10.1990.MCT, DR.IS [247] de 25.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/129-1990-565395
+  date: '1990-10-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:28Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +133,4 @@ Relativamente a cada contingente, consideram-se como importadores habituais as e
 
 Ministério do Comércio e Turismo, 16 de Fevereiro de 1990 - O Secretário de Estado do Comércio Externo, Miguel António Igrejas Horta e Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06000/11731175.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06000/11731175.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06000/11731175.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11700/0310503116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/2017/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2017-107535174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56c5a6b70957c3ba2260f41673b5487bc670f9811ad5cce361242fb4377beac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 143392aa0ca0785e52192a311c760d0a4209e592059cffe2c8532c4b7de53696
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Entidade Regional de Turismo
+- Agência Portuguesa do Ambiente
+- ARH do Norte
 - ARTE Rupestre
-- Fiscal Único
-- Fundação Côa Parque
-- Fundação
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
 - Direção Geral do Património Cultural
-- Património Arqueológico
+- Entidade Regional de Turismo
 - Estatuto
+- Fiscal Único
+- Fundação
+- Fundação Côa Parque
 - Fundação Pública
-- Conselho Diretivo
-- Conselho Consultivo
 - Instituto de Turismo de Portugal
-- Museu de Arte e Arqueologia do Vale do Côa
 - Lei Quadro
-- ARH do Norte
+- Museu de Arte e Arqueologia do Vale do Côa
 - Parque Arqueológico do Vale do Côa
+- Património Arqueológico
 - Turismo do Douro
 - Vale do Rio Côa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: eli:htt
@@ -130,16 +130,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/79/2016/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/79/2016/11/30/p/dre
+- type: cites
+  target: pt:dre:105283925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
+  article_count: 47
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:10Z'
   warnings: []
   errors: []
 ---
@@ -192,13 +240,17 @@ Os artigos 2.º, 4.º, 5.º e 6.º do [Decreto-Lei n.º 35/2011](https://diariod
 
 5 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
 2 - A Fundação tem, ainda, como fins o desenvolvimento de ações em matéria de valorização, exploração e gestão integrada do património e dos recursos naturais do Vale do Rio Côa, dinamização de atividades culturais, artísticas, turísticas, de lazer e de sensibilização e educação ambiental, bem como de outras intervenções que contribuam para o desenvolvimento económico e social da área prevista nos anexos II e III ao presente decreto-lei.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -208,7 +260,9 @@ Os artigos 2.º, 4.º, 5.º e 6.º do [Decreto-Lei n.º 35/2011](https://diariod
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [Revogado].
 
@@ -242,7 +296,9 @@ Os artigos 1.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º
 
 2 - A Fundação encontra-se sujeita à superintendência e tutela do membro do Governo responsável pela área da cultura.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -258,7 +314,9 @@ e) Promover o património científico e tecnológico no âmbito da valorização
 
 f) Gerir e coordenar o Museu do Côa e o Parque Arqueológico do Vale do Côa (PAVC) e explorar os seus recursos, com o objetivo de consolidar o Vale do Côa enquanto polo de investigação científica e de atração turística, a nível nacional e internacional, garantindo as condições necessárias à sua fruição pública.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -290,7 +348,9 @@ j) [...].
 
 5 - [Revogado].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A Fundação goza de autonomia financeira, administrativa e patrimonial, estando a sua ação subordinada às normas dos presentes estatutos, à Lei-Quadro das Fundações e à demais legislação aplicável.
 
@@ -308,7 +368,9 @@ c) Constituir ou participar no capital de sociedades comerciais ou de outras pes
 
 d) [...].
 
-###### Artigo 8.º — Órgãos e funções
+Artigo 8.º
+
+Órgãos e funções
 
 1 - [Anterior proémio do corpo do artigo]:
 
@@ -324,7 +386,9 @@ c) O fiscal único.
 
 4 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da Fundação.
 
-###### Artigo 9.º — Composição e regime aplicável ao conselho diretivo
+Artigo 9.º
+
+Composição e regime aplicável ao conselho diretivo
 
 1 - O conselho diretivo da Fundação é composto por um presidente, um vice-presidente e dois vogais não executivos.
 
@@ -362,7 +426,9 @@ e) A realização de conferências, palestras, ações de formação de curta du
 
 10 - Aos membros do conselho diretivo aplica-se o disposto no artigo 58.º da Lei-Quadro das Fundações.
 
-###### Artigo 10.º — Competência do conselho diretivo
+Artigo 10.º
+
+Competência do conselho diretivo
 
 1 - Sem prejuízo de outras competências conferidas por lei, compete designadamente ao conselho diretivo:
 
@@ -398,7 +464,9 @@ n) Celebrar protocolos de colaboração e parceria com outras entidades, nomeada
 
 4 - O conselho diretivo pode delegar competências em qualquer dos seus membros.
 
-###### Artigo 11.º — Presidente do conselho diretivo
+Artigo 11.º
+
+Presidente do conselho diretivo
 
 Compete ao presidente do conselho diretivo:
 
@@ -412,7 +480,9 @@ d) Atribuir a cada membro do conselho diretivo o pelouro, ou pelouros, que enten
 
 e) Representar a Fundação no plano nacional ou internacional e desempenhar as demais competências que lhe sejam cometidas pelo conselho diretivo.
 
-###### Artigo 12.º — Funcionamento do conselho diretivo
+Artigo 12.º
+
+Funcionamento do conselho diretivo
 
 1 - O conselho diretivo não pode reunir ou deliberar sem que se encontre presente a maioria dos seus membros.
 
@@ -422,13 +492,17 @@ e) Representar a Fundação no plano nacional ou internacional e desempenhar as 
 
 4 - O conselho diretivo pode reunir em qualquer ponto do país, fora das instalações da Fundação, sempre que o presidente o convoque.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A Fundação obriga-se pela assinatura conjunta de dois membros do conselho diretivo, sendo um deles o presidente.
 
 2 - O conselho diretivo pode, em casos devidamente justificados, constituir mandatários, atribuindo-lhes competência para atos específicos previamente aprovados, podendo nesse caso a Fundação ficar obrigada apenas pela respetiva assinatura.
 
-###### Artigo 14.º — Faltas, impedimentos e cessação do mandato
+Artigo 14.º
+
+Faltas, impedimentos e cessação do mandato
 
 1 - [Revogado].
 
@@ -436,7 +510,9 @@ e) Representar a Fundação no plano nacional ou internacional e desempenhar as 
 
 3 - No caso de cessação do mandato ou de impedimento definitivo do presidente ou de outro membro do conselho diretivo, é designado um novo membro nos termos dos n.os 2 a 5 do artigo 9.º, o qual completa o mandato em curso.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 O conselho consultivo é composto por:
 
@@ -490,7 +566,9 @@ x) Um representante do Agrupamento de Escolas Tenente Coronel Adão Carrapatoso,
 
 y) Um representante do Parque de Siega Verde.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação e decisão do conselho diretivo, competindo-lhe emitir parecer, a pedido do conselho diretivo, sobre todas as matérias consideradas relevantes.
 
@@ -504,7 +582,9 @@ c) O orçamento e os planos anuais e plurianuais de atividades da Fundação.
 
 3 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O mandato do conselho consultivo coincide com o do conselho diretivo, sendo o mandato do presidente renovável apenas uma vez.
 
@@ -516,7 +596,9 @@ c) O orçamento e os planos anuais e plurianuais de atividades da Fundação.
 
 5 - [...].
 
-###### Artigo 23.º — Designação e competências
+Artigo 23.º
+
+Designação e competências
 
 1 - O fiscal único é designado e tem as competências previstas na Lei-Quadro dos Institutos Públicos para os institutos públicos de regime comum, aplicável nos termos da Lei-Quadro das Fundações.
 
@@ -532,7 +614,9 @@ d) Alertar o conselho diretivo para qualquer assunto que deva ser ponderado e pr
 
 3 - O fiscal único é remunerado e cumpre um mandato de cinco anos, nos termos previstos no artigo 27.º da Lei-Quadro dos Institutos Públicos.
 
-###### Artigo 25.º — Regime financeiro e de pessoal
+Artigo 25.º
+
+Regime financeiro e de pessoal
 
 1 - A Fundação está sujeita ao disposto no n.º 2 do artigo 52.º da Lei-Quadro das Fundações.
 
@@ -560,15 +644,15 @@ b) O artigo 5.º, os n.os 2 a 5 do artigo 6.º, o n.º 1 do artigo 14.º, a sec�
 
 Visto e aprovado em Conselho de Ministros de 6 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Paulo Alexandre dos Santos Ferreira - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 16 de maio de 2017.**
+Promulgado em 16 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de junho de 2017.**
+Referendado em 7 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1076,4 +1160,4 @@ e) Pelo Douro, no limite do concelho de Vila Nova de Foz Côa, até à foz do C�
 
 Mapa com a delimitação da área incluída na gestão da Côa Parque - Fundação para a Salvaguarda e Valorização do Vale do Côa, F. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/11700/0310503116.pdf))](https://files.diariodarepublica.pt/1s/2017/06/11700/0310503116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/11700/0310503116.pdf)

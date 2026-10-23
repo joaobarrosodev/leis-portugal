@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/48/2000/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/48-2000-615795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 028cf539b6a903345f67d8e13d06359f56de27e9473368fab85b14c1358d7f15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c2c1695fcf2991256264a6ec1792985c23cb6f8c47fb5ba19a240fd0b3769b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Aquisição de Imóveis
-- Residência de Estrangeiros
 - CE Países
-- Igualdade de Tratamento
 - Convenção
-- Portugal
-- União Europeia
-- Igualdade de Oportunidades
 - Direito de Estabelecimento
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
 - Livre Circulação de Pessoas
+- Luxemburgo
 - Mobilidade Geográfica
+- Portugal
 - Prestação de Serviços
+- Residência de Estrangeiros
 - Segurança Social
 - Trabalhador Assalariado
 - Trabalhador Estrangeiro
 - Trabalhador Independente
-- Luxemburgo
-- Admissão de Estrangeiros
+- União Europeia
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:33Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +104,16 @@ validation:
 
 de 13 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a Comunidade Europeia e os Seus Estados Membros, por um lado, e a Confederação Suíça, por outro, sobre a Livre Circulação de Pessoas, incluindo os seus anexos e protocolos, bem como a Acta Final com as declarações, assinado no Luxemburgo em 21 de Junho de 1999, aprovado, para ratificação, pela resolução da Assembleia da República n.º 72/2000, em 26 de Julho de 2000.
 
-**Assinado em 19 de Outubro de 2000.**
+Assinado em 19 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Outubro de 2000.**
+Referendado em 31 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

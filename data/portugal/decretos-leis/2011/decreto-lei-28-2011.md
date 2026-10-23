@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2011/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2011-279840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a191a6e077d5031b8dc9e9f218c62d641f78076ed9157a81dc4497969d1ab0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4e2133ee5b7efcdb937e4626b671d56f509e8a0b572e8836b3bceb7596b4bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Saúde Pública
+- Comércio
 - Especificação Técnica
 - Etiquetagem
+- Produto Alimentar
 - Proteção do Consumidor
-- Comércio
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31995L0031
@@ -113,13 +113,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:03Z'
   warnings: []
   errors: []
 ---
@@ -162,24 +162,24 @@ O presente decreto-lei produz efeitos a partir de 31 de Março de 2011.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Ana Maria Teodoro Jorge.
 
-**Promulgado em 11 de Fevereiro de 2011.**
+Promulgado em 11 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2011.**
+Referendado em 17 de Fevereiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
 Critérios específicos a que devem obedecer os edulcorantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0115201165.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0115201165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0115201165.pdf)
 
 ## ANEXO II — (a que se refere o artigo 3.º)
 
 Critérios específicos a que devem obedecer os edulcorantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/02/03900/0115201165.pdf))](https://files.diariodarepublica.pt/1s/2011/02/03900/0115201165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/02/03900/0115201165.pdf)

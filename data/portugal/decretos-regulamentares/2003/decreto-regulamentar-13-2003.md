@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/13/2003/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c27208f974dbe24df2ef91da957bbcc2345d94db9057d8407dc2237da843529
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4328eea9a08d979d9b7f88e640dffc026c7774d910dbb03c535cb15338c72d79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Fiscalização Rodoviária
-- Segurança Rodoviária
 - Regulamento de Sinalização do Trânsito
+- Segurança Rodoviária
 - Sinalização
 - Trânsito
 relationships:
@@ -91,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/41/2002/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/41/2002/08/20/p/dre
+- type: cites
+  target: pt:dre:171679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276660:por
+  label: "Rectificada relativamente à entidade eminente pelo presente diploma, pelo DECL-RECT.9-D/2003.2003.06.30.PCM DR.IS-B\
+    \ [148]4ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-d-2003-276660
+  date: '2003-06-30'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:20Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +157,12 @@ Outros sinais de direcção
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2003. - José Manuel Durão Barroso - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 3 de Junho de 2003.**
+Promulgado em 3 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Junho de 2003.**
+Referendado em 5 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

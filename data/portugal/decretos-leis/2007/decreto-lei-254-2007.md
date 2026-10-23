@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/254/2007/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2007-636175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8051f8987e7beddfe7f7f869c261b57dd124a29b8330f94f7ad92ba4eb27804c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: deb5c8bcece55fea8240213a662586a0256f8019e88ae9455708499dd7ebe9bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Proteção Civil
+- Autoridade Nacional de Protecção Civil
+- Câmara Municipal
+- Catástrofe
 - Contra-ordenação
 - Cooperação Transfronteira
-- Segurança no Trabalho
 - Fiscalização
-- Catástrofe
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Proteção do Ambiente
+- Madeira.região Autónoma
 - Plano de Emergência
 - Poluição Transfronteiriça
-- Madeira.região Autónoma
+- Proteção Civil
+- Proteção do Ambiente
 - Qualidade do Ambiente
-- Câmara Municipal
-- Autoridade Nacional de Protecção Civil
-- Açores
+- Segurança no Trabalho
 - Substância Perigosa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:69951097:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571936:por
+  label: "Dada nova redação ao art. 1.º e ao anexo I pelo DEC LEI.42/2014.18.03.2014.MAOTE, DR.IS [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2014-571936
+  date: '2014-03-18'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -123,16 +128,22 @@ relationships:
   target: celex:32003R2003
   label: null
   source: http://data.europa.eu/eli/reg/2003/2003/oj
+- type: repealed_by
+  target: pt:dre:69951097:por
+  label: Revogado (a partir de 06.08.2015) o presente diploma, na redação do Dec Lei 42/2014 de 18-mar, pelo(a) Decreto-Lei
+    n.º 150/2015 - Diário da República n.º 151/2015, Série I de 2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2015-69951097
+  date: '2015-08-05'
 article_structure:
   article_count: 40
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:45Z'
   warnings: []
   errors: []
 ---
@@ -791,15 +802,15 @@ Aos procedimentos já iniciados e ainda não concluídos à data da entrada em v
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - José Manuel dos Santos de Magalhães - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 18 de Junho de 2007.**
+Promulgado em 18 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Junho de 2007.**
+Referendado em 21 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — [a que se refere a alínea f) do artigo 2.º]
 
@@ -817,13 +828,13 @@ Disposições técnicas relativas às substâncias perigosas
 
 6 - Para os efeitos do presente decreto-lei, entende-se por «líquido» qualquer substância não definida como gás e que não se encontre no estado sólido à temperatura de 20ºC e à pressão normal de 101,3 kPa.
 
-# Parte 1
+Parte 1
 
 Substâncias designadas
 
 No caso de uma substância ou grupo de substâncias enumerados na parte 1 serem igualmente abrangidos por uma categoria da parte 2, devem ser consideradas as quantidades de limiar estabelecidas na parte 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf))](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf)
 
 Notas
 
@@ -877,7 +888,7 @@ Aos adubos a que se referem as n. 1 e 2 que não preencham os requisitos do n.º
 
 Factores internacionais de toxicidade equivalente [ITEF - International Toxic Equivalent Factors] (ITEF) para os congéneres de preocupação (NATO/CCMS)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf))](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf)
 
 (nota 1) Um teor de azoto de 15,75% em massa resultante do nitrato de amónio corresponde a 45% de nitrato de amónio.
 
@@ -887,11 +898,11 @@ Factores internacionais de toxicidade equivalente [ITEF - International Toxic Eq
 
 (nota 4) Um teor de azoto de 28% em massa resultante do nitrato de amónio corresponde a 80% de nitrato de amónio.
 
-# Parte 2
+Parte 2
 
 Categorias de substâncias e preparações não designadas especificamente na parte 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf))](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13300/44084424.pdf)
 
 Notas
 
@@ -919,21 +930,21 @@ Incluem-se nesta definição os artigos pirotécnicos que, para efeitos do prese
 
 As matérias e os objectos da classe 1 são classificados em qualquer das divisões 1.1 a 1.6, de acordo com o sistema de classificação RPE. As referidas divisões são as seguintes:
 
-##### Divisão 1.1: «Matérias e objectos que apresentem um risco de explosão em massa (explosão em massa é uma explosão que afecta de um modo praticamente instantâneo quase toda a carga)»;
+Divisão 1.1: «Matérias e objectos que apresentem um risco de explosão em massa (explosão em massa é uma explosão que afecta de um modo praticamente instantâneo quase toda a carga)»;
 
-##### Divisão 1.2: «Matérias e objectos que apresentem um risco de projecções sem risco de explosão em massa»;
+Divisão 1.2: «Matérias e objectos que apresentem um risco de projecções sem risco de explosão em massa»;
 
-##### Divisão 1.3: «Matérias e objectos que apresentem um risco de incêndio com um risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa:
+Divisão 1.3: «Matérias e objectos que apresentem um risco de incêndio com um risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa:
 
 a) Cuja combustão dá lugar a uma radiação térmica considerável; ou
 
 b) Que ardem de forma sucessiva, com efeitos mínimos de sopro ou de projecções, ou ambos.»;
 
-##### Divisão 1.4: «Matérias e objectos que apenas apresentam um perigo mínimo no caso de ignição ou de iniciação durante o transporte. Os efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância. Um incêndio exterior não deve provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume»;
+Divisão 1.4: «Matérias e objectos que apenas apresentam um perigo mínimo no caso de ignição ou de iniciação durante o transporte. Os efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância. Um incêndio exterior não deve provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume»;
 
-##### Divisão 1.5: «Matérias muito pouco sensíveis que apresentem um risco de explosão em massa, mas cuja sensibilidade é tal que, em condições normais de transporte, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação. Como prescrição mínima, não devem explodir durante o ensaio ao fogo exterior»;
+Divisão 1.5: «Matérias muito pouco sensíveis que apresentem um risco de explosão em massa, mas cuja sensibilidade é tal que, em condições normais de transporte, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação. Como prescrição mínima, não devem explodir durante o ensaio ao fogo exterior»;
 
-##### Divisão 1.6: «Objectos extremamente pouco sensíveis que não apresentem um risco de explosão em massa. Esses objectos só contêm matérias detonantes extremamente pouco sensíveis e apresentam uma probabilidade negligenciável de iniciação ou de propagação acidentais. O risco é limitado à explosão de um único objecto».
+Divisão 1.6: «Objectos extremamente pouco sensíveis que não apresentem um risco de explosão em massa. Esses objectos só contêm matérias detonantes extremamente pouco sensíveis e apresentam uma probabilidade negligenciável de iniciação ou de propagação acidentais. O risco é limitado à explosão de um único objecto».
 
 Incluem-se igualmente nesta definição as substâncias ou preparações pirotécnicas contidas em objectos. No que se refere a objectos que contenham substâncias ou preparações explosivas ou pirotécnicas, se a quantidade da substância ou preparação contida no objecto for conhecida, essa quantidade será considerada para efeitos do presente decreto-lei. Se a quantidade não for conhecida, todo o objecto será tratado como explosivo para efeitos do presente decreto-lei.
 

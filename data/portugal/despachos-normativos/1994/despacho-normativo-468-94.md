@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/468/1994/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/468-1994-291433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bdb833ec549c8440bb4e55bb0520fd829099b6ea4d96b22b21b8b96cf6daa6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f402e89a370ce4a5128442cfdde2fa0308be729d2f1a49e71b95ec4107235197
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Turismo
-- Desenvolvimento Regional
 - Apoio ao Investimento
+- Desenvolvimento Regional
 - Fundo de Turismo
-- Sistema de Incentivos Financeiros ao Investimento no Turismo
 - Infraestrutura Turística
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:176018:por
@@ -85,16 +85,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/486/1994/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/486/1994/07/04/p/dre
+- type: cites
+  target: pt:dre:238975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291431:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176018:por
+  label: "Revogado pelo DN.29/98.1998.03.24.MECO DR.IS-B [95] de 23/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/29-1998-176018
+  date: '1998-03-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:37Z'
   warnings: []
   errors: []
 ---
@@ -189,6 +202,6 @@ e) Pequenas e médias empresas: as empresas que, no ano anterior ao da candidatu
 
 Ministério do Comércio e Turismo, 23 de Junho de 1994. - O Secretário de Estado do Turismo, Alexandre Carlos de Mello Vieira Costa Relvas.
 
-## Anexo ao Despacho Normativo n.º 468/94
+Anexo ao Despacho Normativo n.º 468/94
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf))](https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/152b00/35233525.pdf)

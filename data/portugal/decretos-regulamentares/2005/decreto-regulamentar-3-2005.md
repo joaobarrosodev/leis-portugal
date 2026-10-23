@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2005/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2005-693871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acdbe8e19c5776d4469e486543ed1a8015330667d32680515eff2363f51924bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7f8a35932f3f7d627cbff69c34a0d5f20bf476eca9c651764cd51651510484b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,32 @@ subjects:
 - Controlo de Qualidade
 - Definição de Competências
 - Direcção Geral de Viação
-- Rede de Estradas
-- Veículo
+- Dispositivo de Protecção
 - Laboratório Nacional de Engenharia Civil
-- Segurança Rodoviária
 - Normas de Segurança
 - Prevenção Rodoviária Portuguesa
-- Dispositivo de Protecção
+- Rede de Estradas
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/33/2004/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/2004/07/28/p/dre
+- type: cites
+  target: pt:dre:501799:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:18Z'
   warnings: []
   errors: []
 ---
@@ -204,27 +208,27 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - Daniel Viegas Sanches - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 24 de Março de 2005.**
+Promulgado em 24 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Março de 2005.**
+Referendado em 31 de Março de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — [quadro a que se refere a alínea d) do artigo 2.º]
 
 Raio mínimo normal (em planta)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33203323.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33203323.pdf)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33203323.pdf)
 
 ## ANEXO II — [quadro a que se refere a alínea e) do artigo 2.º]
 
 Sobrelevação em curva
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33203323.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33203323.pdf)](https://files.diariodarepublica.pt/1s/2005/05/090b00/33203323.pdf)
 
 ## ANEXO III — Medição do coeficiente de atrito transversal através de equipamento tipo SCRIM
 

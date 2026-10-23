@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/06900/0001800019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25/2023/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2023-211499216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55b97981eae32f40cec8c7fe50e29d336f7c7fd83dc82de1b82835dbe79f7f87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83916449e720d3166b8b68692279df8cc4a1ba9ade25c2097e283e7b7fbcc4c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
 - Arrendamento Urbano não Habitacional
-- Portugal
-- China
-- Macau
-- Cooperação Tecnológica
 - Centro Científico e Cultural de Macau
-- Orgânica
+- China
 - Cooperação Científica
+- Cooperação Tecnológica
+- Macau
+- Orgânica
+- Património
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/20/2012/01/27/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:228665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:40Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +118,7 @@ O Centro Científico e Cultural de Macau, I. P. (CCCM, I. P.), tem por missão p
 
 O CCCM, I. P., criado em 1995, tem concentrado a sua atuação na convergência entre a atividade de investigação relativa aos séculos xvi a xviii e o desenvolvimento do primeiro centro de documentação e na preservação museológica.
 
-**Assinado em dezembro de 2018, o Memorando de Entendimento entre o Ministério da Ciência, Tecnologia e Ensino Superior da República Portuguesa e o Ministério da Ciência e Tecnologia da República Popular da China veio dar um novo papel de relevo ao CCCM, I. P., para a promoção das atividades de cooperação e para a implementação do acordo «China-Portugal Ciência e Tecnologia 2030».**
+Assinado em dezembro de 2018, o Memorando de Entendimento entre o Ministério da Ciência, Tecnologia e Ensino Superior da República Portuguesa e o Ministério da Ciência e Tecnologia da República Popular da China veio dar um novo papel de relevo ao CCCM, I. P., para a promoção das atividades de cooperação e para a implementação do acordo «China-Portugal Ciência e Tecnologia 2030».
 
 O referido Memorando de Entendimento estabelece a cooperação sobre o património cultural, história da ciência e tecnologia e interações contemporâneas emergentes, designadamente o desenvolvimento de uma nova agenda de investigação e desenvolvimento e de programas de formação avançada destinados a promover a história da ciência e das relações culturais e científicas emergentes entre a Europa e a Ásia, através da colaboração da China e de instituições chinesas com o CCCM, I. P.
 
@@ -144,12 +156,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de março de 2023. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Elvira Maria Correia Fortunato.
 
-**Promulgado em 29 de março de 2023.**
+Promulgado em 29 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de março de 2023.**
+Referendado em 30 de março de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116341048

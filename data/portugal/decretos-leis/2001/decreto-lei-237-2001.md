@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/2001/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2001-631838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 726c6dfbe29370a928af45adbf65b33645c56cb739fc8036f879c63bb7314947
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7ebb7b8f3d192ccc13bb26b125a290dd97bc2ff60b0de56f058994cff97e39d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
 subjects:
 - Acreditação
 - Advogado
-- Modernização Administrativa
 - Código das Sociedades Comerciais
 - Código do Notariado
 - Contrato
+- Modernização Administrativa
 - Prova
 - Reconhecimento Notarial
 relationships:
@@ -81,6 +81,37 @@ relationships:
   target: pt:dre:279421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 80º do Código do Notariado, aprovado pelo Dec Lei 207/95 de 14-Ago, com a redacção do presente diploma,\
+    \ pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterados os arts. 23º, 182º, 202º, 219º, 221º e 277º do Código das Sociedades Comerciais, aprovado pelo Dec Lei
+    262/86 de 02-Set, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 80º e revogadas as al.s c), e) e h) a l) do nº 2 do art. 80º do Código do Notariado, aprovado pelo\
+    \ Dec Lei 207/95, de 14-Ago, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterado, a partir de 24.05.2010, o art. 277º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86,\
+    \ de 02-Set, na redacção do presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:279421:por
+  label: "Alterados, a partir de 06.04.2011, os arts. 202º e 219º do Código das Sociedades Comerciais, aprovado pelo Dec Lei\
+    \ 262/86, de 02-Set, na redacção do presente diploma, pelo DEC LEI.33/2011.07.03.2011.PCM, DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2011-279421
+  date: '2011-03-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
   label: null
@@ -101,16 +132,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64-a/2000/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64-a/2000/04/22/p/dre
+- type: cites
+  target: pt:dre:217704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583855:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:213407:por
+  label: "Revogado o Dec Lei 513-Q/79, de 26-Dez, na redacção do presente diploma, pelo DEC LEI.229/2004.10.12.2004.MJ, DR.IS-A\
+    \ [288] de 10.12.2004, a partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2004-213407
+  date: '2004-12-10'
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:49Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +224,9 @@ Usufruto e penhor de participações
 
 4 - ...
 
-###### Artigo 182.º — Transmissão entre vivos de parte social
+Artigo 182.º
+
+Transmissão entre vivos de parte social
 
 1 - ...
 
@@ -173,7 +236,9 @@ Usufruto e penhor de participações
 
 4 - ...
 
-###### Artigo 202.º — Entradas
+Artigo 202.º
+
+Entradas
 
 1 - ...
 
@@ -191,7 +256,9 @@ b) Depois de outorgada a escritura, caso os sócios autorizem os gerentes a efec
 
 c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pela falta de registo.
 
-###### Artigo 219.º — Unidade e montante da quota
+Artigo 219.º
+
+Unidade e montante da quota
 
 1 - ...
 
@@ -207,7 +274,9 @@ c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pel
 
 7 - ...
 
-###### Artigo 221.º — Divisão de quotas
+Artigo 221.º
+
+Divisão de quotas
 
 1 - ...
 
@@ -225,7 +294,9 @@ c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pel
 
 8 - ...
 
-###### Artigo 277.º — Entradas
+Artigo 277.º
+
+Entradas
 
 1 - ...
 
@@ -325,12 +396,12 @@ Os reconhecimentos e as traduções efectuados pelas entidades previstas no arti
 
 Visto e aprovado em Conselho de Ministros de 19 de Julho de 2001. - António Manuel de Oliveira Guterres - António Luís Santos Costa.
 
-**Promulgado em 17 de Agosto de 2001.**
+Promulgado em 17 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Agosto de 2001.**
+Referendado em 23 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

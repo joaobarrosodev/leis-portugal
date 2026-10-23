@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20300/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2020/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91eb420c3897265f50e140966a3aa3129c48be40867b7da7911c11000f4d9116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11a14747acdc5ed4f752b108af95c87cadd4c978f8377e4c4180d0e39ebeda72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
 subjects:
 - Acção de Formação
 - Autorização Legislativa
-- Financiamento
-- Empresa
-- Instituto do Emprego e Formação Profissional
-- Contra-ordenação
-- Regulamentação de Atos Legislativos
 - Código do Trabalho
-- Fiscalização
-- Período Normal de Trabalho
-- Doença Infecciosa
-- Epidemia
-- Política Económica
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Contra-ordenação
 - Desemprego
+- Doença Infecciosa
 - Emprego
+- Empresa
+- Epidemia
+- Financiamento
+- Fiscalização
+- Instituto do Emprego e Formação Profissional
+- Período Normal de Trabalho
+- Política Económica
 - Redução do Período Normal de Trabalho
 - Regime Contributivo da Segurança Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Trabalhador por Conta de Outrem
 - Viabilidade Económica
@@ -91,6 +91,12 @@ relationships:
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14-g/2020/04/13/p/dre
   label: null
@@ -115,16 +121,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136260572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:31Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +195,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 10.º, 11.º, 13.º, 15.º e 16.º do [
 
 Para efeitos do presente decreto-lei, considera-se situação de crise empresarial aquela em que se verifique uma quebra de faturação igual ou superior a 25 %, no mês civil completo imediatamente anterior ao mês civil a que se refere o pedido inicial de apoio ou de prorrogação, face ao mês homólogo do ano anterior ou face à média mensal dos dois meses anteriores a esse período ou, ainda, para quem tenha iniciado a atividade há menos de 12 meses, face à média da faturação mensal entre o início da atividade e o penúltimo mês completo anterior ao mês civil a que se refere o pedido inicial de apoio ou de prorrogação.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -185,7 +217,9 @@ b) Programa Operacional Competitividade e Internacionalização (POCI).
 
 7 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -207,7 +241,9 @@ d) No caso de empregador com quebra de faturação igual ou superior a 75 %, a r
 
 2 - Para efeitos de fiscalização, a redução do PNT é aferida em termos médios, por trabalhador, no final de cada mês, com respeito pelos limites máximos do PNT diário e semanal previstos no artigo 203.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, ou os previstos em instrumento de regulamentação coletiva de trabalho aplicável.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +265,9 @@ d) No caso de empregador com quebra de faturação igual ou superior a 75 %, a r
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -243,7 +281,9 @@ d) No caso de empregador com quebra de faturação igual ou superior a 75 %, a r
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O plano de formação referido na alínea a) do n.º 5 do artigo 4.º confere direito a uma bolsa no valor de 70 % do indexante dos apoios sociais (IAS) por trabalhador abrangido, suportada pelo IEFP, I. P., destinada ao empregador, que tem direito ao montante equivalente a 30 % do IAS, e ao trabalhador, que tem direito ao montante equivalente a 40 % do IAS, e deve:
 
@@ -273,7 +313,9 @@ c) No mesmo âmbito, os parceiros sociais com assento na comissão permanente de
 
 6 - Os planos de formação referidos nas alíneas a) e b) do n.º 5 do artigo 4.º podem ser acumulados.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Para efeitos de acesso ao apoio extraordinário à retoma progressiva de atividade com redução temporária do PNT, o empregador deve remeter requerimento eletrónico, em formulário próprio a disponibilizar pela segurança social, até ao final do mês seguinte àquele a que o pedido inicial de apoio ou de prorrogação diz respeito.
 
@@ -303,7 +345,9 @@ c) No mesmo âmbito, os parceiros sociais com assento na comissão permanente de
 
 14 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 [...]:
 
@@ -311,7 +355,9 @@ a) Caso exerça atividade remunerada fora da empresa, comunicar o facto ao empre
 
 b) [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -321,7 +367,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Constitui contraordenação leve a violação do disposto no n.º 2 do artigo 4.º e no n.º 8 do artigo 6.º
 
@@ -347,12 +395,14 @@ b) [...]
 
 Visto e aprovado em Conselho de Ministros de 8 de outubro de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 13 de outubro de 2020.**
+Promulgado em 13 de outubro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de outubro de 2020.**
+Referendado em 14 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113642809

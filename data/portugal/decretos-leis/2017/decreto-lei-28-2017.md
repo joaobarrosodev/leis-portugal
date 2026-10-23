@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05300/0137101389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2017/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2017-106607298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 399fbfbb9b91c20c854a4dba3e8bb1f37f5d49a79d05d2264ea27ce021bf2f2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51494623a93325dc993dd18497b79c6bfa1e2b6b3bb5eacd0cc210e6d797d64d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
 - Destacamento de Pessoal
-- Regulamentação de Atos Legislativos
 - Direção Geral da Administração Escolar
-- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Carreira Profissional
-- Recrutamento de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Secundário
 - Estabelecimento de Ensino
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
 - Pessoal Docente
 - Profissionalização em Exercicio
-- Qualificação Profissional
-- Ensino Básico
-- Madeira.região Autónoma
 - Quadro de Pessoal
-- Contrato de Trabalho
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Região Autónoma
 - Regime Jurídico
-- Mobilidade de Pessoal
-- Açores
-- Educação Pré-escolar
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 10.º e 42.º do Dec Lei 132/2012 de 27-jun, com a redação dada pelo presente diploma, e na versão
+    republicada pelo Dec Lei 83-A/2014 de 23-maio, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de
+    2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: celex:31999L0070
   label: null
@@ -138,16 +145,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64297587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73788169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74277007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
 article_structure:
-  article_count: 100
+  article_count: 77
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:29Z'
   warnings: []
   errors: []
 ---
@@ -202,17 +337,23 @@ Os artigos 1.º, 2.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 16.º, 17.º,
 
 2 - Prevê, ainda, os procedimentos necessários à operacionalização da mobilidade de docentes colocados nos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e contratação dos formadores e técnicos especializados.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente decreto-lei é aplicável aos docentes de carreira cujo vínculo de emprego público é titulado por contrato de trabalho em funções públicas por tempo indeterminado e aos portadores de qualificação profissional para a docência, sem prejuízo do disposto no artigo 38.º
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se ao território de Portugal continental.
 
 2 - O presente decreto-lei é, ainda, aplicável aos docentes de carreira vinculados às Regiões Autónomas da Madeira e dos Açores para efeitos de concurso interno e de mobilidade interna.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +391,9 @@ j) ...
 
 k) Calendário indicativo das várias fases dos concursos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +425,9 @@ d) Formulação das preferências por agrupamentos de escolas ou escolas não ag
 
 11 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -290,7 +435,9 @@ d) Formulação das preferências por agrupamentos de escolas ou escolas não ag
 
 3 - Os candidatos aos concursos previstos nas alíneas b) e c) do n.º 2 do artigo 6.º são obrigatoriamente opositores ao concurso externo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +477,9 @@ b) Contratos de duração temporária.
 
 11 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -356,7 +505,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +531,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os candidatos colocados na sequência do concurso interno ou externo devem obrigatoriamente aceitar a colocação na aplicação informática a disponibilizar pela Direção-Geral da Administração Escolar, no prazo de cinco dias úteis.
 
@@ -388,7 +541,9 @@ d) ...
 
 3 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -400,7 +555,9 @@ d) ...
 
 5 - Os docentes que no ano de integração na carreira não obtenham colocação no concurso de mobilidade interna devem apresentar-se no 1.º dia útil do mês de setembro no agrupamento de escolas ou escola não agrupada indicada como escola de validação, enquanto aguardam colocação.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - (Anterior proémio do corpo do artigo.)
 
@@ -412,7 +569,9 @@ c) Impossibilidade de os docentes não integrados na carreira serem colocados em
 
 2 - Para os efeitos da alínea b) do número anterior, é instaurado processo disciplinar pelo diretor do agrupamento de escolas ou escola não agrupada a que o docente se encontra vinculado ou onde se encontra colocado, consoante seja docente vinculado a agrupamento de escolas ou escola não agrupada ou a quadro de zona pedagógica, o qual é imediatamente remetido à Inspeção-Geral da Educação e Ciência, para efeitos de instrução.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -428,7 +587,9 @@ d) Os docentes de carreira das Regiões Autónomas da Madeira e dos Açores.
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 ...
 
@@ -438,7 +599,9 @@ b) ...
 
 c) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -446,7 +609,9 @@ c) ...
 
 3 - O vínculo de emprego público dos candidatos colocados no âmbito do concurso externo é estabelecido por contrato de trabalho em funções públicas por tempo indeterminado.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 ...
 
@@ -460,7 +625,9 @@ d) [Anterior alínea c).]
 
 e) Candidatos não colocados no concurso externo, bem como candidatos à contratação inicial.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -488,7 +655,9 @@ d) 3.ª prioridade - docentes de carreira vinculados a agrupamentos de escolas e
 
 9 - Aos docentes referidos nas alíneas a) e b) do n.º 1 que possuam qualificação profissional para outro grupo de recrutamento, além daquele em que se encontram providos, é dada a faculdade de, também para esse grupo, poderem manifestar preferência, ocupando horário, desde que não existam outros docentes providos nesses grupos de recrutamento, também candidatos a mobilidade interna e abrangidos pelas mesmas alíneas, por colocar e tenham manifestado a mesma preferência.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -502,7 +671,9 @@ d) 3.ª prioridade - docentes de carreira vinculados a agrupamentos de escolas e
 
 6 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -512,7 +683,9 @@ d) 3.ª prioridade - docentes de carreira vinculados a agrupamentos de escolas e
 
 4 - Os candidatos à contratação de escola, quando colocados, são retirados da reserva de recrutamento, sem prejuízo do disposto no n.º 20 do artigo 39.º
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -538,7 +711,9 @@ d) 3.ª prioridade - docentes de carreira vinculados a agrupamentos de escolas e
 
 12 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -560,7 +735,9 @@ d) ...
 
 6 - (Revogado.)
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -608,7 +785,9 @@ c) Entrevista de avaliação de competências com uma ponderação de 35 %, apli
 
 20 - Os candidatos colocados ao abrigo da contratação de escola que tenham sido opositores à reserva de recrutamento e cuja colocação caduque podem regressar ao concurso referido no artigo 36.º para efeitos de nova colocação.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - O contrato de trabalho a termo resolutivo produz efeitos a partir do 1.º dia útil imediatamente a seguir ao da aceitação, e tem a duração mínima de 30 dias e máxima até ao final do ano escolar, incluindo período de férias.
 
@@ -656,7 +835,9 @@ Horário anual
 
 3 - A qualificação estabelecida no número anterior produz os mesmos efeitos que a estabelecida no n.º 1, com exceção dos remuneratórios.
 
-###### Artigo 50.º-A — Consolidação da mobilidade
+Artigo 50.º-A
+
+Consolidação da mobilidade
 
 Pode ser consolidada a mobilidade dos docentes portadores de deficiência visual total, amblíopes ou portadores de deficiência motora, de carácter permanente e que implique a locomoção em cadeira de rodas, desde que satisfaçam os seguintes requisitos:
 
@@ -708,15 +889,15 @@ São revogados os n.os 3 e 11 do artigo 9.º, a alínea c) do n.º 3 do artigo 1
 
 Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Tiago Brandão Rodrigues.
 
-**Promulgado em 27 de fevereiro de 2017.**
+Promulgado em 27 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de março de 2017.**
+Referendado em 7 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
@@ -1646,4 +1827,4 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se refere o n.º 5 do artigo 43.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/05300/0137101389.pdf))](https://files.diariodarepublica.pt/1s/2017/03/05300/0137101389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/05300/0137101389.pdf)

@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/316-1978-326702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 634500b0d7a00aa541a2fcde6807c1396173c45d1d1e72f264fda92e2c5a968b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34ac6601d23a14327b9f8bfefa6bace87528157fce6672c94919fae701beffce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa
+- Empréstimo
+- Financiamento
+- Fundo de Desenvolvimento da Mão-de-obra
+- Gabinete de Gestão do Fundo de Desemprego
+- Pequenas e Médias Empresas
+- PME
+- Política de Emprego
+- Posto de Trabalho
+- Promoção de Emprego
 relationships:
 - type: amended_by
   target: pt:dre:195181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279211:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:195181:por
+  label: Revogado o presente diploma pela PORT.156/86.21.04.1986.MTSS, DR.IS [92] de 21.04.1986, que o manteve, contudo, em
+    vigor, com as adaptações introduzidas pela Port 802/82 de 24-Ago, sempre que estiver em causa a manutenção de postos de
+    trabalho no artesanato
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-1986-195181
+  date: '1986-04-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:11Z'
   warnings: []
   errors: []
 ---

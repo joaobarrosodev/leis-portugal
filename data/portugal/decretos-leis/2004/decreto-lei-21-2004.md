@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2004/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2004-608181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba4ab8275cc6b7bf92beab5fdda40befe8156a2b399745ae701a0e9492b5ab9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed56a5799428a2089ff1472dd02514411636abdab0ea5c23350d0fef7bf7e015
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,21 +71,50 @@ subjects:
 - Aproximação das Legislações
 - Batata
 - Controlo de Qualidade
-- Direcção Geral de Protecção das Culturas
 - Controlo Sanitário
+- Direcção Geral de Protecção das Culturas
 - Floricultura
+- Fruticultura
 - Materiais de Viveiro
 - Planta Decorativa
-- Produção Agrícola
 - Plantula
+- Produção Agrícola
 - Produção Vegetal
-- Fruticultura
 - Semente
 relationships:
 - type: amended_by
   target: pt:dre:73807561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541592:por
+  label: "Determinada a aplicabilidade das disposições do Dec Lei 277/91 de 08-Ago, alterado pelo presente diploma, somente\
+    \ aos materiais de propagação vegetativa de fruteiras, de morangueiro, citrícolas e jovens plantas hortícolas, pelo DEC\
+    \ LEI.194/2006.27.09.2006.MADRP, DR.IS [187] de 27.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2006-541592
+  date: '2006-09-27'
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o Dec Lei 216/2001, de 03-Ago, na redacção do presente diploma, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS\
+    \ [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
+- type: amends
+  target: pt:numero:decreto-lei:237/2000
+  label: "Altera o art. 15.º do Decreto-Lei n.º 237/2000, de 26 de Setembro DR.IS-A [223]\0\0"
+  source: null
+  date: '2000-09-26'
+- type: amends
+  target: pt:numero:decreto-lei:216/2001
+  label: "Adita o art. 16.º-A ao Decreto-Lei n.º 216/2001, de 3 de Agosto DR.IS-A [179]\0\0"
+  source: null
+  date: '2001-08-03'
+- type: amends
+  target: pt:numero:decreto-lei:75/2002
+  label: "Altera o artigo 23.º do Decreto-Lei n.º 75/2002, de 26 de Março DR.IS-A [72]\0\0"
+  source: null
+  date: '2002-03-26'
 - type: cites
   target: celex:31966L0401
   label: null
@@ -130,16 +159,32 @@ relationships:
   target: celex:32003L0061
   label: null
   source: http://data.europa.eu/eli/dir/2003/61/oj
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogado o art. 5º do presente diploma, pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
+- type: repealed_by
+  target: pt:dre:641704:por
+  label: "Revogado o art. 2º pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
+- type: repealed_by
+  target: pt:dre:73807561:por
+  label: Revogado o Dec Lei 216/2001, de 03-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 14/2016 - Diário
+    da República n.º 48/2016, Série I de 2016-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2016-73807561
+  date: '2016-03-09'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:16Z'
   warnings: []
   errors: []
 ---
@@ -302,12 +347,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 12 de Janeiro de 2004.**
+Promulgado em 12 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Janeiro de 2004.**
+Referendado em 13 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

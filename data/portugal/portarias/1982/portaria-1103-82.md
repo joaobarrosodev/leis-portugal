@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df1ecb8f55d5178eb518b9881abd6bf4ab70069bf1681cb40b4e4889400c1b69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aad65ff02dcfbf6e4a9f2747149e6e43478c6ca7208be3ab6fa06b1ef65a06e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Médica Hospitalar
+- Concurso
+- Médico
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:496103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308350:por
+  label: "Alterado o artigo 10.º, o n.º 2 do artigo 14.º, n.º 4 do artigo 16.º, o artigo 30.º, n.º 2 do artigo 46.º, n.º 1\
+    \ do artigo 54.º, eliminado o n.º 2 do artigo 12.º, e revogado o n.º 8 do artigo 17.º do Regulamento, pela PORT.58/83.25.01.1983.MAS,\
+    \ DR.IS [20] de 25.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1983-308350
+  date: '1983-01-25'
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382418:por
+  label: "Revogado os arts. 9º a 28º inclusive, pela PORT.599/84.11.08.1984.MS, DR.IS [186] de 11.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1984-382418
+  date: '1984-08-11'
+- type: repealed_by
+  target: pt:dre:227047:por
+  label: "Revogados os capítulos III e IV, pela PORT.231/86.21.05.1986.MS, DR.IS [116] de 21.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/231-1986-227047
+  date: '1986-05-21'
+- type: repealed_by
+  target: pt:dre:220131:por
+  label: "Revogado o capítulo V pela PORT.502/86.08.09.1986.MS, DR.IS [206] de 08.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/502-1986-220131
+  date: '1986-09-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:00Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +128,25 @@ Regulamento dos Concursos para os Graus e Lugares dos Quadros de Pessoal da Carr
 
 ### CAPÍTULO I — Concurso de habilitação para assistente hospitalar
 
-###### Artigo 1.º Os concursos de habilitação para o grau de assistente hospitalar coincidem com os exames finais do internato complementar e são os que se acham previstos no regulamento do referido processo formativo.
+Artigo 1.º Os concursos de habilitação para o grau de assistente hospitalar coincidem com os exames finais do internato complementar e são os que se acham previstos no regulamento do referido processo formativo.
 
-###### Art. 2.º A aprovação no concurso referido no número anterior confere o grau de assistente hospitalar na área profissional em causa, devidamente avalisado pelo Estado, com passagem de diploma de idoneidade profissional correspondente, conforme o modelo anexo ao regulamento referido no artigo anterior.
+Art. 2.º A aprovação no concurso referido no número anterior confere o grau de assistente hospitalar na área profissional em causa, devidamente avalisado pelo Estado, com passagem de diploma de idoneidade profissional correspondente, conforme o modelo anexo ao regulamento referido no artigo anterior.
 
-###### Art. 3.º O referido diploma de idoneidade é conferido pela instituição onde se realizou o concurso e homologado pelo Departamento de Recursos Humanos.
+Art. 3.º O referido diploma de idoneidade é conferido pela instituição onde se realizou o concurso e homologado pelo Departamento de Recursos Humanos.
 
-###### Art. 4.º Pode o mesmo diploma ser conferido pela Direcção-Geral dos Hospitais mediante requerimento aos médicos que à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, estejam já habilitados com o internato complementar ou da especialidade ou tenham habilitação profissional legalmente correspondente e, bem assim, aos médicos que na mesma data fossem detentores de título de especialista pela Ordem dos Médicos.
+Art. 4.º Pode o mesmo diploma ser conferido pela Direcção-Geral dos Hospitais mediante requerimento aos médicos que à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, estejam já habilitados com o internato complementar ou da especialidade ou tenham habilitação profissional legalmente correspondente e, bem assim, aos médicos que na mesma data fossem detentores de título de especialista pela Ordem dos Médicos.
 
-###### Art. 5.º O referido diploma tem validade nacional e é prova do direito ao exercício diferenciado e autónomo na área profissional respectiva.
+Art. 5.º O referido diploma tem validade nacional e é prova do direito ao exercício diferenciado e autónomo na área profissional respectiva.
 
-###### Art. 6.º O mesmo diploma pode ser exigido em qualquer contrato com os serviços do Estado para o exercício profissional diferenciado na área profissional em causa.
+Art. 6.º O mesmo diploma pode ser exigido em qualquer contrato com os serviços do Estado para o exercício profissional diferenciado na área profissional em causa.
 
-###### Art. 7.º O previsto no número anterior não prejudica os contratos em vigor à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
+Art. 7.º O previsto no número anterior não prejudica os contratos em vigor à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto.
 
-###### Art. 8.º A validade do referido diploma será extensiva aos países com os quais Portugal mantenha acordo de reciprocidade sobre a matéria.
+Art. 8.º A validade do referido diploma será extensiva aos países com os quais Portugal mantenha acordo de reciprocidade sobre a matéria.
 
 ### CAPÍTULO II — Concurso de provimento para assistente hospitalar
 
-###### Art. 9.º - 1 - Os concursos de provimento de lugares de assistente hospitalar podem, nos termos do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ser exclusivamente curriculares ou incluírem provas práticas de competência.
+Art. 9.º - 1 - Os concursos de provimento de lugares de assistente hospitalar podem, nos termos do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ser exclusivamente curriculares ou incluírem provas práticas de competência.
 
 2 - Os concursos com provas práticas são obrigatórios nos hospitais centrais.
 
@@ -124,7 +154,7 @@ Regulamento dos Concursos para os Graus e Lugares dos Quadros de Pessoal da Carr
 
 4 - Nos restantes casos os concursos serão exclusivamente curriculares.
 
-###### Art. 10.º Podem concorrer aos concursos referidos no artigo 9.º:
+Art. 10.º Podem concorrer aos concursos referidos no artigo 9.º:
 
 a) Os médicos habilitados com o grau de assistente hospitalar;
 
@@ -132,7 +162,7 @@ b) Os médicos que, ocupando já um lugar de assistente hospitalar, o queiram fa
 
 c) Os médicos cujo currículo seja considerado idóneo pelo Ministro dos Assuntos Sociais.
 
-###### Art. 11.º - 1 - A abertura do concurso é da responsabilidade do conselho de gerência do hospital interessado.
+Art. 11.º - 1 - A abertura do concurso é da responsabilidade do conselho de gerência do hospital interessado.
 
 2 - No caso dos hospitais centrais, o respectivo conselho de gerência proporá superiormente o número de vagas a pôr a concurso.
 
@@ -146,11 +176,11 @@ c) Os médicos cujo currículo seja considerado idóneo pelo Ministro dos Assunt
 
 7 - Uma vez recebido tal requerimento, deve o conselho de gerência abrir imediatamente concurso pelo prazo de 20 dias, referindo as disposições legais que obrigam a abertura de concurso mediante a apresentação de uma candidatura.
 
-###### Art. 12.º - 1 - Os concursos de provimento em lugares de assistente hospitalar realizam-se nos hospitais ou estabelecimentos interessados.
+Art. 12.º - 1 - Os concursos de provimento em lugares de assistente hospitalar realizam-se nos hospitais ou estabelecimentos interessados.
 
 2 - Nos casos previstos no n.º 3 do artigo 9.º, os concursos realizam-se no hospital central que dê apoio ao estabelecimento interessado.
 
-###### Art. 13.º - 1 - As candidaturas devem ser apresentadas directamente no hospital ou estabelecimento interessado, em requerimento dirigido ao conselho de gerência respectivo, acompanhado de:
+Art. 13.º - 1 - As candidaturas devem ser apresentadas directamente no hospital ou estabelecimento interessado, em requerimento dirigido ao conselho de gerência respectivo, acompanhado de:
 
 a) Original a título devolutivo ou fotocópia autenticada do diploma referido no artigo 3.º;
 
@@ -166,7 +196,7 @@ f) Documento comprovativo do tempo de serviço do hospital ou estabelecimento a 
 
 2 - Os documentos referidos podem no todo ou em parte ser substituídos por certificado comprovativo da sua entrega pelo candidato em estabelecimento ao qual estivesse vinculado.
 
-###### Art. 14.º - 1 - Os júris dos concursos para provimento de lugares de assistente hospitalar têm a seguinte constituição:
+Art. 14.º - 1 - Os júris dos concursos para provimento de lugares de assistente hospitalar têm a seguinte constituição:
 
 a) O director ou director clínico do estabelecimento, que preside;
 
@@ -178,13 +208,13 @@ c) Um assistente ou chefe de serviço hospitalar nomeado pela comissão inter-ho
 
 3 - A homologação do júri competirá à comissão inter-hospitalar da zona.
 
-###### Art. 15.º - 1 - Nos 3 dias que se seguirem ao termo do prazo de abertura do concurso será afixada no respectivo hospital ou estabelecimento a lista dos concorrentes com indicação das faltas verificadas nos documentos apresentados e simultaneamente afixada a composição do júri.
+Art. 15.º - 1 - Nos 3 dias que se seguirem ao termo do prazo de abertura do concurso será afixada no respectivo hospital ou estabelecimento a lista dos concorrentes com indicação das faltas verificadas nos documentos apresentados e simultaneamente afixada a composição do júri.
 
 2 - Os concorrentes dispõem de 5 dias após a afixação para solicitar qualquer eventual rectificação à lista referida e também para regularizar a documentação em falta.
 
 3 - Todas as questões suscitadas serão resolvidas pelo conselho de gerência no prazo de 5 dias, findo o qual será afixada a lista definitiva dos candidatos admitidos a concurso dentro dos 3 dias seguintes.
 
-###### Art. 16.º - 1 - Afixada no estabelecimento em causa a lista definitiva dos candidatos admitidos a concurso, o júri reunirá para apreciar e classificar em mérito relativo os candidatos, devendo estar concluído no prazo de 10 dias a contar da afixação da lista definitiva dos candidatos admitidos.
+Art. 16.º - 1 - Afixada no estabelecimento em causa a lista definitiva dos candidatos admitidos a concurso, o júri reunirá para apreciar e classificar em mérito relativo os candidatos, devendo estar concluído no prazo de 10 dias a contar da afixação da lista definitiva dos candidatos admitidos.
 
 2 - No caso de o concurso ser exclusivamente curricular, a apreciação é feita mediante análise dos currículos, podendo o júri, se assim o entender, ouvir os candidatos em entrevista.
 
@@ -194,7 +224,7 @@ c) Um assistente ou chefe de serviço hospitalar nomeado pela comissão inter-ho
 
 5 - No caso de o concurso incluir provas práticas, a apreciação é feita segundo o critério que se refere nos artigos 17.º, 18.º e 19.º do presente Regulamento, devendo estar concluído no prazo de 30 dias a contar da afixação da lista definitiva dos candidatos admitidos.
 
-###### Art. 17.º - 1 - Os concursos de provimento em assistente hospitalar que incluem provas práticas constarão das seguintes provas, a processar-se pela ordem que vem mencionada:
+Art. 17.º - 1 - Os concursos de provimento em assistente hospitalar que incluem provas práticas constarão das seguintes provas, a processar-se pela ordem que vem mencionada:
 
 a) Discussão do curriculum vitae;
 
@@ -218,7 +248,7 @@ b) Melhor classificação na prova curricular.
 
 8 - O direito de veto mencionado no n.º 2 do artigo 14.º só poderá ser exercido quanto a decisões de classificações de candidatos e o membro do júri que o exerça deverá expor ao júri o seu critério de decisão.
 
-###### Art. 18.º Na apreciação do curriculum vitae serão obrigatoriamente considerados os seguintes elementos e valorizados segundo ordem decrescente:
+Art. 18.º Na apreciação do curriculum vitae serão obrigatoriamente considerados os seguintes elementos e valorizados segundo ordem decrescente:
 
 a) Aprovação em mérito absoluto em concurso de provas práticas e teóricas, públicas e eliminatórias, para lugares do quadro permanente dos hospitais centrais, segundo as respectivas classificações;
 
@@ -234,7 +264,7 @@ f) Desempenho do cargo ou funções médicas com reconhecido mérito;
 
 g) Outros títulos de valorização profissional.
 
-###### Art. 19.º Quando se trate de concurso para assistente hospitalar de medicina interna, de cirurgia geral ou de outras áreas profissionais clínicas, médicas ou cirúrgicas, a prova prática consistirá em duas fases:
+Art. 19.º Quando se trate de concurso para assistente hospitalar de medicina interna, de cirurgia geral ou de outras áreas profissionais clínicas, médicas ou cirúrgicas, a prova prática consistirá em duas fases:
 
 a) Uma primeira, em que o candidato terá 2 horas para observação de 2 doentes, pertencentes ao foro do ramo clínico ou área profissional em causa, sorteados pelos candidatos de entre um mínimo de 4 doentes escolhidos para o efeito pelo júri no próprio dia em que se realize a prova.
 
@@ -260,7 +290,7 @@ A terapêutica que julgar indicada em face das conclusões obtidas;
 
 O prognóstico.
 
-###### Art. 20.º - 1 - Quando se trate de concurso para assistente hospitalar de área radiológica, a prova prática consistirá no exame radiológico, segundo as normas abaixo indicadas, de 2 doentes, sorteados pelo candidato de entre um mínimo de 4, escolhidos para o efeito pelo júri no próprio dia em que se realize a prova.
+Art. 20.º - 1 - Quando se trate de concurso para assistente hospitalar de área radiológica, a prova prática consistirá no exame radiológico, segundo as normas abaixo indicadas, de 2 doentes, sorteados pelo candidato de entre um mínimo de 4, escolhidos para o efeito pelo júri no próprio dia em que se realize a prova.
 
 2 - Os doentes deverão ser convenientemente preparados para os exames que eventualmente venham a ser efectuados, com ou sem utilização de contrastes.
 
@@ -274,7 +304,7 @@ O prognóstico.
 
 7 - Terminada a elaboração dos relatórios e após um intervalo máximo de 30 minutos, o candidato lerá os mesmos perante o júri.
 
-###### Art. 21.º - 1 - Quando se trate de concurso para assistente hospitalar de radioterapia, a prova prática consistirá no estudo de 2 doentes em que esteja indicada a terapêutica por radiações, seguida da exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
+Art. 21.º - 1 - Quando se trate de concurso para assistente hospitalar de radioterapia, a prova prática consistirá no estudo de 2 doentes em que esteja indicada a terapêutica por radiações, seguida da exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
 
 2 - Os 2 doentes serão sorteados pelo candidato de entre um mínimo de 4, escolhidos para o efeito pelo júri no próprio dia da prova.
 
@@ -290,7 +320,7 @@ O prognóstico.
 
 8 - Finda a exposição do primeiro caso clínico, iniciará o candidato a exposição do segundo, de acordo com uma sequência idêntica à indicada nos números precedentes.
 
-###### Art. 22.º - 1 - Quando se trate de concursos para assistente hospitalar de patologia clínica, a prova prática compreenderá a montagem de uma técnica laboratorial e a execução de 3 outras técnicas laboratoriais com interpretação dos resultados, seguida de elaboração do relatório no qual esses resultados sejam expressos e acompanhados de quaisquer comentários que o candidato considere pertinentes.
+Art. 22.º - 1 - Quando se trate de concursos para assistente hospitalar de patologia clínica, a prova prática compreenderá a montagem de uma técnica laboratorial e a execução de 3 outras técnicas laboratoriais com interpretação dos resultados, seguida de elaboração do relatório no qual esses resultados sejam expressos e acompanhados de quaisquer comentários que o candidato considere pertinentes.
 
 2 - A técnica laboratorial a montar será de bioquímica, de microbiologia ou de hematologia e será da livre escolha do candidato de entre uma lista de 10 técnicas para cada um dos sectores referidos, elaborada pelo júri e apresentada ao candidato no dia da prova.
 
@@ -304,7 +334,7 @@ O prognóstico.
 
 7 - Após um intervalo de 30 minutos, dispõe o candidato de mais 1 hora para elaborar o relatório mencionado no n.º 1, que lerá perante o júri.
 
-###### Art. 23.º - 1 - Quando se trate de concurso para assistente hospitalar de fisiatria, a prova prática consistirá no estudo de 2 doentes em que esteja indicado o recurso a medicina física e de reabilitação, seguido de exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
+Art. 23.º - 1 - Quando se trate de concurso para assistente hospitalar de fisiatria, a prova prática consistirá no estudo de 2 doentes em que esteja indicado o recurso a medicina física e de reabilitação, seguido de exposição oral em que sejam especificadas as conclusões resultantes desse estudo e preconizados os métodos terapêuticos para cada um dos casos e respectivas técnicas de aplicação.
 
 2 - Os 2 doentes serão sorteados pelo candidato de entre um mínimo de 4, escolhidos para o efeito pelo júri no próprio dia da prova.
 
@@ -320,7 +350,7 @@ O prognóstico.
 
 8 - Finda a exposição do primeiro caso clínico, iniciará o candidato a exposição do segundo, de acordo com uma sequência idêntica nos números precedentes.
 
-###### Art. 24.º - 1 - Quando se trate de concurso para assistente hospitalar de imuno-hemoterapia, a prova prática constará de uma parte clínica e de uma parte laboratorial, consistindo a primeira no estudo e observação de um doente para tratamento do qual se admita o recurso à utilização do sangue, seus componentes, fracções ou derivados, seguido de exposição oral, em que sejam especificadas as conclusões desse estudo e indicados os produtos a aplicar, suas dosagens e técnicas de aplicação.
+Art. 24.º - 1 - Quando se trate de concurso para assistente hospitalar de imuno-hemoterapia, a prova prática constará de uma parte clínica e de uma parte laboratorial, consistindo a primeira no estudo e observação de um doente para tratamento do qual se admita o recurso à utilização do sangue, seus componentes, fracções ou derivados, seguido de exposição oral, em que sejam especificadas as conclusões desse estudo e indicados os produtos a aplicar, suas dosagens e técnicas de aplicação.
 
 2 - O doente para a parte clínica será sorteado pelo candidato de entre um mínimo de 2, escolhidos para o efeito pelo júri no próprio dia de prova.
 
@@ -338,7 +368,7 @@ O prognóstico.
 
 9 - O candidato dispõe de 1 hora para executar a prova e elaborar um relatório contendo os resultados obtidos, que lerá em seguida perante o júri.
 
-###### Art. 25.º - 1 - Quando se trate de concurso para assistente hospitalar de anatomia patológica, a prova constará da execução de uma autópsia, seguida da elaboração do respectivo relatório e da leitura de 5 preparações histológicas, seguida da indicação por escrito dos respectivos diagnósticos.
+Art. 25.º - 1 - Quando se trate de concurso para assistente hospitalar de anatomia patológica, a prova constará da execução de uma autópsia, seguida da elaboração do respectivo relatório e da leitura de 5 preparações histológicas, seguida da indicação por escrito dos respectivos diagnósticos.
 
 Pode a execução da autópsia ser substituída, se o júri assim o entender, pela discussão de um relatório de autópsia que o candidato tenha executado, devidamente autenticado pelo director do serviço onde o candidato foi interno, e que o candidato deverá juntar aos exemplares do seu currículo.
 
@@ -352,7 +382,7 @@ Pode a execução da autópsia ser substituída, se o júri assim o entender, pe
 
 6 - Em seguida, o candidato lerá, perante o júri, o relatório da autópsia e a lista dos diagnósticos das preparações histológicas que examinou.
 
-###### Art. 26.º - 1 - Quando se trate de concurso para assistente de anestesiologia, a prova prática consistirá na observação de 1 doente para internamento cirúrgico, seguida de exposição oral sobre os resultados dessa observação, com indicação da técnica anestésica a seguir, e execução perante o júri da anestesia do doente observado.
+Art. 26.º - 1 - Quando se trate de concurso para assistente de anestesiologia, a prova prática consistirá na observação de 1 doente para internamento cirúrgico, seguida de exposição oral sobre os resultados dessa observação, com indicação da técnica anestésica a seguir, e execução perante o júri da anestesia do doente observado.
 
 2 - O doente será sorteado pelo candidato de entre um mínimo de 2 escolhidos para o efeito pelo júri.
 
@@ -364,9 +394,9 @@ Pode a execução da autópsia ser substituída, se o júri assim o entender, pe
 
 6 - Terminada a exposição, e caso o júri concorde com a técnica anestésica proposta, procederá o candidato à anestesia do doente.
 
-###### Art. 27.º De todas as reuniões do júri e sessões de provas será elaborada acta e, findo o concurso, serão os resultados afixados no próprio estabelecimento ou hospital e enviados para publicação no Diário da República.
+Art. 27.º De todas as reuniões do júri e sessões de provas será elaborada acta e, findo o concurso, serão os resultados afixados no próprio estabelecimento ou hospital e enviados para publicação no Diário da República.
 
-###### Art. 28.º - 1 - Havendo coincidência de datas nos prazos de abertura de concurso de vários estabelecimentos ou hospitais na primeira série de concursos que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se simultaneamente a 3 estabelecimentos ou hospitais, no máximo.
+Art. 28.º - 1 - Havendo coincidência de datas nos prazos de abertura de concurso de vários estabelecimentos ou hospitais na primeira série de concursos que se realize após a publicação do presente diploma, os médicos interessados poderão candidatar-se simultaneamente a 3 estabelecimentos ou hospitais, no máximo.
 
 2 - Serão admitidos para os lugares a concurso os candidatos aprovados por ordem decrescente dos méritos relativos.
 
@@ -378,9 +408,9 @@ Pode a execução da autópsia ser substituída, se o júri assim o entender, pe
 
 ### CAPÍTULO III — Concurso de habilitação para chefe de serviço hospitalar
 
-###### Art. 29.º Os concursos de habilitação para chefe de serviço hospitalar realizam-se uma vez por ano nos meses de Maio/Junho e a respectiva aprovação confere o grau de chefe de serviço hospitalar, que tem validade nacional devidamente avalizada pelo Estado.
+Art. 29.º Os concursos de habilitação para chefe de serviço hospitalar realizam-se uma vez por ano nos meses de Maio/Junho e a respectiva aprovação confere o grau de chefe de serviço hospitalar, que tem validade nacional devidamente avalizada pelo Estado.
 
-###### Art. 30.º Podem concorrer ao concurso referido no artigo anterior:
+Art. 30.º Podem concorrer ao concurso referido no artigo anterior:
 
 a) Os médicos com o grau de assistente hospitalar há mais de 5 anos, desde que tenham sido aprovados em pelo menos 2 concursos públicos com provas práticas eliminatórias;
 
@@ -388,31 +418,31 @@ b) Os médicos que, à data da publicação do [Decreto-Lei n.º 310/82](https:/
 
 c) Os médicos cujo currículo seja considerado suficiente pelo Ministro dos Assuntos Sociais.
 
-###### Art. 31.º A abertura do concurso é feita pelo órgão central responsável, que fará publicar a composição do júri e o prazo de entrega da documentação.
+Art. 31.º A abertura do concurso é feita pelo órgão central responsável, que fará publicar a composição do júri e o prazo de entrega da documentação.
 
-###### Art. 32.º Os concursos realizam-se em data e local a designar pelo júri.
+Art. 32.º Os concursos realizam-se em data e local a designar pelo júri.
 
-###### Art. 33.º Os júris do concurso de habilitação para chefe de serviço hospitalar são nomeados pela Direcção-Geral dos Hospitais e são constituídos por 5 médicos com o grau da carreira não inferior a chefe de serviço precedendo concurso na área profissional em causa, ou, caso impossível, em área afim.
+Art. 33.º Os júris do concurso de habilitação para chefe de serviço hospitalar são nomeados pela Direcção-Geral dos Hospitais e são constituídos por 5 médicos com o grau da carreira não inferior a chefe de serviço precedendo concurso na área profissional em causa, ou, caso impossível, em área afim.
 
-###### Art. 34.º Os interessados devem apresentar a sua candidatura em requerimento ao Departamento de Recursos Humanos, acompanhada de 10 exemplares do curriculum vitae e da documentação prevista no artigo 13.º deste Regulamento.
+Art. 34.º Os interessados devem apresentar a sua candidatura em requerimento ao Departamento de Recursos Humanos, acompanhada de 10 exemplares do curriculum vitae e da documentação prevista no artigo 13.º deste Regulamento.
 
-###### Art. 35.º - 1 - Devem ser afixadas no Departamento de Recursos Humanos, na Direcção-Geral dos Hospitais e nas comissões inter-hospitalares as listas provisórias dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, dentro de 10 dias após terminar o prazo de abertura do concurso.
+Art. 35.º - 1 - Devem ser afixadas no Departamento de Recursos Humanos, na Direcção-Geral dos Hospitais e nas comissões inter-hospitalares as listas provisórias dos concorrentes, com indicação das faltas verificadas nos documentos apresentados, dentro de 10 dias após terminar o prazo de abertura do concurso.
 
 2 - Os concorrentes dispõem de 5 dias após a afixação para solicitar qualquer eventual rectificação à lista referida ou para regularizar a documentação em falta.
 
 3 - Todas as questões suscitadas serão decididas pelo Departamento de Recursos Humanos no prazo de mais 10 dias, findo o qual será afixada nos locais previstos no n.º 1 a lista definitiva dos candidatos admitidos a concurso dentro dos 3 dias seguintes.
 
-###### Art. 36.º Se o número de concorrentes admitidos a concurso for superior a 12, o júri será alargado de modo que as provas se realizem nas 3 zonas hospitalares, mantendo em cada zona 5 elementos de idêntica categoria.
+Art. 36.º Se o número de concorrentes admitidos a concurso for superior a 12, o júri será alargado de modo que as provas se realizem nas 3 zonas hospitalares, mantendo em cada zona 5 elementos de idêntica categoria.
 
-###### Art. 37.º - 1 - 1 mês depois do encerramento do prazo de abertura do concurso, o júri reunirá para apreciar globalmente os currículos de todos os candidatos, podendo excluir da discussão pública aqueles candidatos que considere terem curriculum vitae manifestamente insuficiente.
+Art. 37.º - 1 - 1 mês depois do encerramento do prazo de abertura do concurso, o júri reunirá para apreciar globalmente os currículos de todos os candidatos, podendo excluir da discussão pública aqueles candidatos que considere terem curriculum vitae manifestamente insuficiente.
 
 2 - Os candidatos excluídos nesta fase não poderão candidatar-se de novo durante 2 anos subsequentes.
 
-###### Art. 38.º Da apreciação global dos currículos dos candidatos o júri dará parte com a afixação da lista de candidatos admitidos no próprio dia em que se processa a reunião prevista no artigo 36.º
+Art. 38.º Da apreciação global dos currículos dos candidatos o júri dará parte com a afixação da lista de candidatos admitidos no próprio dia em que se processa a reunião prevista no artigo 36.º
 
-###### Art. 39.º O júri deverá em seguida marcar a data, zona e local em que se realizam as provas de discussão pública, podendo os candidatos tirar à sorte na presença do júri a ordem pela qual prestarão provas.
+Art. 39.º O júri deverá em seguida marcar a data, zona e local em que se realizam as provas de discussão pública, podendo os candidatos tirar à sorte na presença do júri a ordem pela qual prestarão provas.
 
-###### Art. 40.º - 1 - A discussão dos currículos deve ser feita por todos os membros do júri, cada um dos quais terá um máximo de 20 minutos para o efeito.
+Art. 40.º - 1 - A discussão dos currículos deve ser feita por todos os membros do júri, cada um dos quais terá um máximo de 20 minutos para o efeito.
 
 2 - Na apreciação dos currículos serão obrigatoriamente considerados os seguintes elementos valorizados segundo a ordem decrescente que se segue:
 
@@ -430,25 +460,25 @@ f) Desempenho de funções ou cargos médicos com reconhecido mérito;
 
 g) Outros títulos de valorização profissional.
 
-###### Art. 41.º - 1 - No fim de cada sessão de provas o júri dará a classificação em termos de aprovado ou excluído.
+Art. 41.º - 1 - No fim de cada sessão de provas o júri dará a classificação em termos de aprovado ou excluído.
 
 2 - Os candidatos excluídos não poderão candidatar-se de novo durante o ano subsequente, mas em futuros concursos não poderão ser excluídos logo na fase prevista no artigo 37.º do presente diploma.
 
-###### Art. 42.º As cópias das actas finais do concurso deverão ser enviadas ao Departamento de Recursos Humanos, o qual emitirá o diploma comprovativo do concurso do grau de chefe de serviço hospitalar, conforme modelo anexo a este Regulamento.
+Art. 42.º As cópias das actas finais do concurso deverão ser enviadas ao Departamento de Recursos Humanos, o qual emitirá o diploma comprovativo do concurso do grau de chefe de serviço hospitalar, conforme modelo anexo a este Regulamento.
 
 ### CAPÍTULO IV — Concurso de provimento para chefe de serviço hospitalar
 
-###### Art. 43.º Podem concorrer ao concurso de provimento de lugares de chefe de serviço hospitalar:
+Art. 43.º Podem concorrer ao concurso de provimento de lugares de chefe de serviço hospitalar:
 
 a) Os médicos possuidores do grau de chefe de serviço hospitalar;
 
 b) Os médicos cujo curriculum vitae seja considerado idóneo pelo Ministro dos Assuntos Sociais.
 
-###### Art. 44.º Os concursos de provimento de lugares de chefe de serviço hospitalar são da responsabilidade do hospital ou estabelecimento interessado, que proporá superiormente o número de vagas a pôr a concurso, e realizam-se no mesmo hospital ou estabelecimento.
+Art. 44.º Os concursos de provimento de lugares de chefe de serviço hospitalar são da responsabilidade do hospital ou estabelecimento interessado, que proporá superiormente o número de vagas a pôr a concurso, e realizam-se no mesmo hospital ou estabelecimento.
 
-###### Art. 45.º Dentro do prazo de abertura do concurso os interessados concretizarão a sua candidatura mediante requerimento dirigido ao conselho de gerência, acompanhado da documentação prevista no artigo 13.º deste Regulamento, com 4 exemplares do curriculum vitae.
+Art. 45.º Dentro do prazo de abertura do concurso os interessados concretizarão a sua candidatura mediante requerimento dirigido ao conselho de gerência, acompanhado da documentação prevista no artigo 13.º deste Regulamento, com 4 exemplares do curriculum vitae.
 
-###### Art. 46.º - 1 - O júri de apreciação é constituído por:
+Art. 46.º - 1 - O júri de apreciação é constituído por:
 
 a) O director ou director clínico do hospital ou estabelecimento, que presidirá;
 
@@ -460,34 +490,34 @@ c) 1 chefe de serviço da mesma área profissional indicado pela comissão inter
 
 3 - A homologação do júri competirá à comissão inter-hospitalar da zona.
 
-###### Art. 47.º Seguir-se-á a mesma tramitação prevista no artigo 15.º do presente diploma, devendo todo o processo estar concluído no prazo de 30 dias.
+Art. 47.º Seguir-se-á a mesma tramitação prevista no artigo 15.º do presente diploma, devendo todo o processo estar concluído no prazo de 30 dias.
 
-###### Art. 48.º - 1 - Afixada no estabelecimento interessado a lista definitiva dos candidatos admitidos a concurso, o júri reunirá para apreciar e classificar em mérito relativo os candidatos para fins de provimento dos lugares em causa, ocupando-se estes por ordem decrescente do mérito relativo dos candidatos.
+Art. 48.º - 1 - Afixada no estabelecimento interessado a lista definitiva dos candidatos admitidos a concurso, o júri reunirá para apreciar e classificar em mérito relativo os candidatos para fins de provimento dos lugares em causa, ocupando-se estes por ordem decrescente do mérito relativo dos candidatos.
 
 2 - Se o entender, o júri poderá ouvir os candidatos em entrevista.
 
-###### Art. 49.º Vigoram para este concurso as normas previstas nos artigos 27.º e 28.º do presente Regulamento.
+Art. 49.º Vigoram para este concurso as normas previstas nos artigos 27.º e 28.º do presente Regulamento.
 
 ### CAPÍTULO V — Normas finais e transitórias
 
-###### Art. 50.º Os júris para concursos de provimento de lugares para assistente ou chefe de serviços hospitalares de psiquiatria em estabelecimentos e serviços oficiais sob tutela do Instituto de Assistência Psiquiátrica serão homologados pelo respectivo delegado de zona, que assumirá simultaneamente todas as atribuições e competências que neste diploma são conferidas em idênticas circunstâncias às comissões inter-hospitalares.
+Art. 50.º Os júris para concursos de provimento de lugares para assistente ou chefe de serviços hospitalares de psiquiatria em estabelecimentos e serviços oficiais sob tutela do Instituto de Assistência Psiquiátrica serão homologados pelo respectivo delegado de zona, que assumirá simultaneamente todas as atribuições e competências que neste diploma são conferidas em idênticas circunstâncias às comissões inter-hospitalares.
 
-###### Art. 51.º Dos actos classificativos dos júris previstos neste diploma não cabe recurso hierárquico.
+Art. 51.º Dos actos classificativos dos júris previstos neste diploma não cabe recurso hierárquico.
 
-###### Art. 52.º Consideram-se como estabelecimentos ou hospitais centrais e como tal sujeitos aos concursos nos moldes previstos neste diploma as seguintes instituições dependentes do Instituto de Assistência Psiquiátrica: Hospital de Miguel Bombarda, Hospital de Júlio de Matos, Centro de Saúde Mental Infantil de Lisboa, Hospital de Sobral Cid, Centro de Saúde Infantil de Coimbra, Centro de Saúde Mental Ocidental do Porto, Hospital do Conde de Ferreira, Centro de Saúde Mental Infantil e Juvenil do Porto e Centro de Saúde Mental de Vila Nova de Gaia.
+Art. 52.º Consideram-se como estabelecimentos ou hospitais centrais e como tal sujeitos aos concursos nos moldes previstos neste diploma as seguintes instituições dependentes do Instituto de Assistência Psiquiátrica: Hospital de Miguel Bombarda, Hospital de Júlio de Matos, Centro de Saúde Mental Infantil de Lisboa, Hospital de Sobral Cid, Centro de Saúde Infantil de Coimbra, Centro de Saúde Mental Ocidental do Porto, Hospital do Conde de Ferreira, Centro de Saúde Mental Infantil e Juvenil do Porto e Centro de Saúde Mental de Vila Nova de Gaia.
 
-###### Art. 53.º As competências atribuídas neste diploma às comissões inter-hospitalares pertencerão nas regiões autónomas às respectivas Secretarias Regionais dos Assuntos Sociais.
+Art. 53.º As competências atribuídas neste diploma às comissões inter-hospitalares pertencerão nas regiões autónomas às respectivas Secretarias Regionais dos Assuntos Sociais.
 
-###### Art. 54.º - 1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a contar a partir da data de entrada em vigor do presente diploma.
+Art. 54.º - 1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a contar a partir da data de entrada em vigor do presente diploma.
 
 2 - Os concursos que decorrem à data da publicação do presente diploma deverão concluir-se dentro do prazo indicado no número anterior, já que a ele ficam também sujeitos os candidatos desses mesmos concursos.
 
-###### Art. 55.º As dúvidas sobre a matéria deste Regulamento serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+Art. 55.º As dúvidas sobre a matéria deste Regulamento serão resolvidas por despacho do Ministro dos Assuntos Sociais.
 
-###### Art. 56.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 56.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministério dos Assuntos Sociais, 10 de Novembro de 1982. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde.
 
 MODELO ANEXO AO ARTIGO 42.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/27100/39123918.pdf))](https://files.diariodarepublica.pt/1s/1982/11/27100/39123918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27100/39123918.pdf)

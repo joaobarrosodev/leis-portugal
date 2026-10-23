@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/380-1975-337051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aa4768bee6478495a73692170a534e4c9a4239c3cd293917aa815a57e4332a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cbe3be7f20377f22174bdb08104bc6a12bbe49adf4d14f76276f684481d5ec2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:447960:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado, no sentido clarificar, que o art. 4.º-B do Regulamento da Inscrição Marítima, Matrícula e Lotações dos
+    Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, na redação do presente diploma,
+    pelo (a) Portaria n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336358:por
+  label: Retificada pelo(a) Declaração - Diário do Governo n.º 172/1975, Série I de 1975-07-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-336358
+  date: '1975-07-28'
+- type: corrected_by
+  target: pt:dre:226395:por
+  label: Retificado o n.º 3.º pelo(a) Declaração - Diário do Governo n.º 197/1975, 1º Suplemento, Série I de 1975-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-226395
+  date: '1975-08-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:19Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +133,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 1.º O artigo 2.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passa a ter a seguinte redacção:
 
-###### Art. 2.º Os marítimos dividem-se em três grupos:
+Art. 2.º Os marítimos dividem-se em três grupos:
 
 a) Tripulação;
 
@@ -117,7 +149,7 @@ c) Auxiliar.
 
 2. O artigo 4.º do mesmo Regulamento passa a 4-A e o 4-A a 4-B, sendo a redacção do artigo 4.º a seguinte:
 
-###### Art. 4.º No grupo trabalhadores do mar nos quadros de terra são criadas as seguintes categorias:
+Art. 4.º No grupo trabalhadores do mar nos quadros de terra são criadas as seguintes categorias:
 
 Superintendente da marinha mercante;
 
@@ -127,7 +159,7 @@ Vigia da marinha mercante.
 
 3. No título V do referido Regulamento, o capítulo IV «Do pessoal auxiliar» passa a capítulo IV-A, sob a mesma denominação, e o seu artigo 133.º passa a 133.º-B, sendo intercalado um capítulo intitulado «Dos trabalhadores do mar nos quadros de terra», constituído pelos artigos 133.º e 133.º-A, com a seguinte redacção:
 
-###### Art. 133.º A categoria de superintendente será atribuída aos oficiais da marinha mercante que possuam o curso complementar da Escola Náutica.
+Art. 133.º A categoria de superintendente será atribuída aos oficiais da marinha mercante que possuam o curso complementar da Escola Náutica.
 
 § 1.º Os superintendentes da marinha mercante colaboram em geral nos serviços de terra das empresas armadoras e afins ou embarcando para funções especiais, tendo por finalidade apoiar as tripulações dos navios na coordenação, planificação e contrôle de todas as acções relativas à actividade dos navios e à formação, treino e orientação técnica do pessoal de bordo ou de terra ligado à mesma actividade, podendo desempenhar, nomeadamente, as seguintes funções:
 
@@ -177,7 +209,7 @@ Estudar novos métodos de trabalho portuário e sua aplicação, bem como propos
 
 § 3.º Aos indivíduos que, à data da publicação deste diploma, exerçam as funções de superintendente da marinha mercante e não disponham do curso complementar da Escola Náutica é permitido que continuem no desempenho dessas funções.
 
-###### Art. 133.º-A. A categoria de vigia será atribuída aos trabalhadores do mar que tenham exercido a profissão de marinheiros da marinha mercante, dando-se preferência aos mais idosos e/ou com mais tempo de embarque.
+Art. 133.º-A. A categoria de vigia será atribuída aos trabalhadores do mar que tenham exercido a profissão de marinheiros da marinha mercante, dando-se preferência aos mais idosos e/ou com mais tempo de embarque.
 
 § 1.º Ao vigia da marinha mercante competirá, nomeadamente, o desempenho das seguintes funções:
 

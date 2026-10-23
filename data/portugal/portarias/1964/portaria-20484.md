@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20484-1964-470837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe1b13ec2e1d172d5887640c23f2d9ad81b226705dbeb7a2878efb0aded4f4a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb6830a4701ca1267da956e3673c5c8b8266142682d332316e4379a861a9244b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:433249:por
+  label: "Alterado o § 3.º do art. 3.º, pelo DEC LEI.28141.05.11.1937.MEN, DG.IS [258] de 05.11.1937.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28141-1937-433249
+  date: '1937-11-05'
+- type: cites
+  target: pt:dre:337818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:56Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 1.º Ao artigo 129.º são acrescentados um § 1.º e um 2.º com as seguintes redacções:
 
-###### Art. 129.º ...
+Art. 129.º ...
 
 § 1.º A autorização nas condições expressas neste artigo não é aplicável aos alunos dos dois primeiros períodos.
 
@@ -96,12 +105,12 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 2.º O § 2.º do artigo 130.º passa a ter a seguinte redacção:
 
-###### Art. 130.º ...
+Art. 130.º ...
 
 § 2.º Não serão autorizados a beneficiar do disposto neste artigo e serão excluídos os cadetes que nos dois primeiros períodos não obtenham frequência ou reprovem no exame em mais que uma cadeira, aula prática ou instrução, e ainda os que em qualquer período do curso obtenham cota de frequência inferior a cinco valores.
 
 3.º O artigo 132.º passa a ter a seguinte redacção:
 
-###### Art. 132.º Cada aluno pode beneficiar durante o seu curso apenas uma única vez da concessão estabelecida nos artigos 123.º, 130.º e 131.º e nos parágrafos do artigo 129.º, e até duas vezes da estabelecida no corpo do artigo 129.º, desde que se trate de cadeiras e períodos diferentes.
+Art. 132.º Cada aluno pode beneficiar durante o seu curso apenas uma única vez da concessão estabelecida nos artigos 123.º, 130.º e 131.º e nos parágrafos do artigo 129.º, e até duas vezes da estabelecida no corpo do artigo 129.º, desde que se trate de cadeiras e períodos diferentes.
 
 Ministério da Marinha, 1 de Abril de 1964. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

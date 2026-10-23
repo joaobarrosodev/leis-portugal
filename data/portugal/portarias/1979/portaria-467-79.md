@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-1979-370648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae2818d1f9a68d3a8b64cd9bee738e87262e1563064cd9e24acf0dc207e5d0bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9ef7dfb0085d7de2288fcceade533721c4618fd934458ae5826dd0b790a4ce5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração da Fazenda Naval
+- Marinha
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:167631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526658:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:20Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +115,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 ...
 
-###### Art. 75.º A utilização das verbas descritas no orçamento da Marinha ou de outra forma colocadas sob a gestão do titular deste departamento que implique despesas com obras ou aquisição de bens e serviços é feita por deliberação dos respectivos conselhos administrativos, nas seguintes condições:
+Art. 75.º A utilização das verbas descritas no orçamento da Marinha ou de outra forma colocadas sob a gestão do titular deste departamento que implique despesas com obras ou aquisição de bens e serviços é feita por deliberação dos respectivos conselhos administrativos, nas seguintes condições:
 
 a) Na Direcção de Abastecimento, Fábrica Nacional de Cordoaria, Hospital da Marinha, Direcção das Infra-Estruturas Navais, Direcção-Geral do Material Naval e Direcção-Geral dos Serviços de Fomento Marítimo, até à importância de 800000$00;
 
@@ -106,7 +129,7 @@ b) As despesas que visem permitir a utilização ou fruição temporárias de co
 
 § 2.º Consideram-se despesas com a aquisição de serviços as que tenham por objecto principal a sua obtenção, ainda que, simultaneamente, possam implicar fornecimento de materiais. Incluem-se no âmbito destas despesas as destinadas a estudos que tenham por objectivo a realização de trabalhos de natureza intelectual, independentemente da forma pela qual o pagamento dos honorários devidos seja documentado, e que sejam preliminares ou acessórios de determinado empreendimento, quer os referidos estudos se não tenham iniciado na data da encomenda, quer nessa data se encontrem concluídos ou em elaboração.
 
-###### Art. 76.º As despesas de importância superior às indicadas no artigo anterior, e até ao limite de 50000000$00, carecem de ser autorizadas pelo Chefe do Estado-Maior da Armada.
+Art. 76.º As despesas de importância superior às indicadas no artigo anterior, e até ao limite de 50000000$00, carecem de ser autorizadas pelo Chefe do Estado-Maior da Armada.
 
 § 1.º O Chefe do Estado-Maior da Armada poderá delegar no superintendente dos Serviços Financeiros da Armada, dentro dos limites que fixar, a competência para autorizar a realização de despesas, quer as subordinadas ao estabelecido neste artigo, quer as abrangidas pelas demais disposições deste Regulamento, nomeadamente as dos artigos 77.º e 77.º-A.
 
@@ -114,7 +137,7 @@ b) As despesas que visem permitir a utilização ou fruição temporárias de co
 
 § 3.º ...
 
-###### Art. 77.º Só podem ser efectuadas mediante autorização do Chefe do Estado-Maior da Armada as despesas:
+Art. 77.º Só podem ser efectuadas mediante autorização do Chefe do Estado-Maior da Armada as despesas:
 
 a) Com a realização de construções e grandes reparações, incluindo os respectivos estudos que não constem de planos anuais de aplicação das respectivas dotações orçamentais superiormente aprovadas;
 
@@ -128,13 +151,13 @@ d) Que devam considerar-se excepcionais para o serviço que as tenha de realizar
 
 § 2.º ...
 
-###### Art. 78.º ...
+Art. 78.º ...
 
 § 1.º ...
 
 § 2.º Sempre que possível, deverá o ajuste directo ser precedido de consulta a três entidades, pelo menos. A consulta é obrigatória para a realização de despesas superiores a 10000$00 ou a 100000$00 quando, respectivamente, se trate de despesas com aquisição de bens e serviços ou de despesas com obras.
 
-###### Art. 79.º As obras ou aquisições de bens e serviços estão sujeitas à realização de concurso, quando:
+Art. 79.º As obras ou aquisições de bens e serviços estão sujeitas à realização de concurso, quando:
 
 a) Se trate da realização de obras de importância superior a 400000$00;
 
@@ -146,7 +169,7 @@ a) As obras forem de importância superior a 4000000$00;
 
 b) As aquisições de bens e serviços forem de importância superior a 1000000$00.
 
-###### Art. 79.º-A ...
+Art. 79.º-A ...
 
 a) ...
 
@@ -164,7 +187,7 @@ g) Quando se trate de encomenda ou obtenção de estudos;
 
 h) (Eliminada.)
 
-###### Art. 79.º-B ...
+Art. 79.º-B ...
 
 a) ...
 
@@ -174,7 +197,7 @@ c) Quando as obras forem de valor não superior a 400000$00 e as aquisições de
 
 § único. Não será dispensada, salvo havendo motivo imperioso que o justifique, a celebração de contrato escrito quando a execução da obra deva demorar mais de cento e vinte dias ou o fornecimento haja de durar mais de noventa.
 
-###### Art. 79.º-C São competentes para autorizar despesas com dispensa da realização de concurso, público ou limitado, e da celebração de contrato escrito:
+Art. 79.º-C São competentes para autorizar despesas com dispensa da realização de concurso, público ou limitado, e da celebração de contrato escrito:
 
 a) Até 70000$00, os conselhos administrativos das unidades navais e dos organismos indicados na alínea b) do artigo 75.º;
 
@@ -186,9 +209,9 @@ c) Até 25000000$00, o Chefe do Estado-Maior da Armada.
 
 ...
 
-###### Art. 83.º A observância dos prazos fixados nos artigos 80.º a 82.º tem lugar quando outros não tenham sido estipulados em relação a um qualquer ano económico no diploma orçamental respectivo.
+Art. 83.º A observância dos prazos fixados nos artigos 80.º a 82.º tem lugar quando outros não tenham sido estipulados em relação a um qualquer ano económico no diploma orçamental respectivo.
 
-###### Art. 84.º Depois do dia 14 de Fevereiro, ou da data que esteja fixada como termo do prazo dos pagamentos referentes a um ano económico, os encargos relativos a anos anteriores são satisfeitos de conta das verbas adequadas do orçamento que estiver em vigor no momento em que for efectuado o seu pagamento.
+Art. 84.º Depois do dia 14 de Fevereiro, ou da data que esteja fixada como termo do prazo dos pagamentos referentes a um ano económico, os encargos relativos a anos anteriores são satisfeitos de conta das verbas adequadas do orçamento que estiver em vigor no momento em que for efectuado o seu pagamento.
 
 § 1.º A satisfação dos encargos relativos a anos anteriores depende de adequada justificação das razões do seu não pagamento em tempo oportuno.
 
@@ -202,19 +225,19 @@ c) Até 25000000$00, o Chefe do Estado-Maior da Armada.
 
 ...
 
-###### Art. 99.º (Eliminado.)
+Art. 99.º (Eliminado.)
 
 ...
 
-###### Art. 116.º (Eliminado.)
+Art. 116.º (Eliminado.)
 
-###### Art. 181.º Os contratos que dêem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização não podem ser celebrados sem prévia autorização conferida em portaria referendada pelo Chefe do Estado-Maior da Armada e pelo Ministro das Finanças e do Plano, salvo quando resultarem da execução de planos plurianuais legalmente aprovados ou quando os seus encargos não excederem o limite anual de 1500000$00 e o prazo de execução de três anos.
+Art. 181.º Os contratos que dêem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização não podem ser celebrados sem prévia autorização conferida em portaria referendada pelo Chefe do Estado-Maior da Armada e pelo Ministro das Finanças e do Plano, salvo quando resultarem da execução de planos plurianuais legalmente aprovados ou quando os seus encargos não excederem o limite anual de 1500000$00 e o prazo de execução de três anos.
 
 § 1.º Tanto as portarias a que se refere o artigo anterior como os próprios contratos devem fixar o limite máximo do encargo correspondente a cada ano económico.
 
 § 2.º ...
 
-###### Art. 182.º ...
+Art. 182.º ...
 
 § 1.º Os contratos cuja renda anual não exceda 720000$00 carecem unicamente de autorização do Chefe do Estado-Maior da Armada.
 

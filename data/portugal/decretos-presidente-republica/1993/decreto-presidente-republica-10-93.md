@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/10/1993/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/10-1993-692657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c388c87b9df84621b92dc6d97c7fdeb1029c3e225b0bcc7315f992ff53e33a9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 684d102504c0171737ef3334a0904e2fbf1731ef9f9f33da2fc1f5bf275dddee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Brigada Mista Independente
-- Exoneração
 - Comandante
+- Exoneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404104:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:14:07Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +99,12 @@ validation:
 
 de 22 de Abril
 
-**O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e da alínea d) do n.º 6 do artigo 6.º da [Lei n.º 111/91](https://diariodarepublica.pt/dr/detalhe/lei/111-1991-404104), de 29 de Agosto, o seguinte:**
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e da alínea d) do n.º 6 do artigo 6.º da [Lei n.º 111/91](https://diariodarepublica.pt/dr/detalhe/lei/111-1991-404104), de 29 de Agosto, o seguinte:
 
 É exonerado, por iniciativa do Chefe do Estado-Maior-General das Forças Armadas e sob proposta aprovada pelo Conselho Superior de Defesa Nacional, do cargo de comandante da 1.ª Brigada Mista Independente o brigadeiro Ernesto Rodrigues Gaspar da Rosa.
 
-**Assinado em 12 de Abril de 1993.**
+Assinado em 12 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.

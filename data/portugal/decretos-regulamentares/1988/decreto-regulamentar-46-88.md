@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 297/1988, 1º Suplemento, Série I de 1988-12-26
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5090-(7) a 5090-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1988-312838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c0b3acd181698a5c56af1ef03913bb900e8d434c641f47bb0d8763db7468e7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d26197643c3376e1319cf70569d5dd4772fa0cf817e99fe9b02ce88b6f26b57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto da Juventude
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:651703:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621700:por
+  label: "Alterado o quadro de pessoal do Instituto da Juventude aprovado pela PORT.1210/92.1992.12.24.PCM DR.IS-B [296]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1210-1992-621700
+  date: '1992-12-24'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:442499:por
+  label: Rectificado pela DECL.DD900.1989.01.05.PCM,DR.IS [26]3ºSupl de 31/Jan/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-442499
+  date: '1989-01-31'
+- type: repealed_by
+  target: pt:dre:651703:por
+  label: "Revogado pelo DEC LEI.333/93.1993.09.29.PCM DR.IS-A [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/333-1993-651703
+  date: '1993-09-29'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:32Z'
   warnings: []
   errors: []
 ---
@@ -442,18 +484,18 @@ Presidência do Conselho de Ministro, 5 de Dezembro de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - António Fernando Couto dos Santos.
 
-**Promulgado em 18 de Dezembro de 1988.**
+Promulgado em 18 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Dezembro de 1988.**
+Referendado em 20 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf))](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf))](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf))](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/29701/00070013.pdf)

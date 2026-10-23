@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-1972-673831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3b2ebff9822c17841ef30a9c95cd20c0b3a0c40bd5c4901708faec1f11fc882
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a952c4cf2d4fbf12886940d18d6dc7efadf52e1d186041b0854f61037a3ff19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389203:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:25Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +100,8 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 2.º Além daquelas tabuletas, poderão ser utilizados outros sinais indicativos de proibições, permissões e condicionamentos de modelos já legalmente aprovados, nomeadamente o modelo 1 definido na [Portaria n.º 23006](https://diariodarepublica.pt/dr/detalhe/portaria/23006-1967-389203), de 9 de Novembro de 1967, aplicável para a balizagem de zonas previstas no n.º 2 do artigo 168.º do Decreto n.º 47847, de 14 de Agosto de 1967.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/06/14700/08290830.pdf))](https://files.diariodarepublica.pt/1s/1972/06/14700/08290830.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/06/14700/08290830.pdf)
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

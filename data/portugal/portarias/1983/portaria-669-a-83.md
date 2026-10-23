@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 131/1983, 1º Suplemento, Série I de 1983-06-08
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2080-(13) a 2080-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13101/00130015.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-a-1983-225790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c8e73f773f3078e9d3b62d5f4e704de281a17583f737aa9e74b2fbfa2554817
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cb2c6e552af0df38d9adebd24d7637326de6ee3988f093ff2ddc72fe6b4d16f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação de Pesca
+- Pesca por ARTE de Arrasto
+- Pescado
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:683272:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:57Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +102,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Pescas,
 
 1.º O artigo 1.º do Regulamento da Pesca de Arrasto Costeira, aprovado e posto em execução pela [Portaria n.º 49/73](https://diariodarepublica.pt/dr/detalhe/portaria/49-1973-683272), de 24 de Janeiro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º A pesca abrangida por este diploma é apenas a pesca industrial de arrasto costeira, ou seja, aquela que é exercida por artes rebocadas sobre o leito do mar, ou entre este e a sua superfície, por 1 ou 2 embarcações denominadas arrastões.
+Artigo 1.º A pesca abrangida por este diploma é apenas a pesca industrial de arrasto costeira, ou seja, aquela que é exercida por artes rebocadas sobre o leito do mar, ou entre este e a sua superfície, por 1 ou 2 embarcações denominadas arrastões.
 
 2.º O artigo 4.º do referido Regulamento passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - Quando se trate de novas aquisições ou construções, os requisitos técnicos e de segurança aos quais os arrastões costeiros devem obedecer são os seguintes:
+Art. 4.º - 1 - Quando se trate de novas aquisições ou construções, os requisitos técnicos e de segurança aos quais os arrastões costeiros devem obedecer são os seguintes:
 
 a) Arqueação bruta:
 
@@ -166,7 +174,7 @@ Devem ter obrigatoriamente um odómetro e uma bitola de medição da malhagem, a
 
 3.º O artigo 27.º do referido Regulamento passa a ter a seguinte redacção:
 
-###### Art. 27.º - 1 - O número de embarcações que podem descarregar nos portos do continente é de:
+Art. 27.º - 1 - O número de embarcações que podem descarregar nos portos do continente é de:
 
 a) Arrastões de peixe - 112;
 
@@ -176,7 +184,7 @@ b) Arrastões de crustáceos - 45.
 
 4.º O artigo 2.º do referido Regulamento passa a ter a seguinte redacção:
 
-###### Art. 29.º As embarcações existentes, bem como as que resultem de novas construções ou aquisições que visem substituir aquelas, não podem transferir os seus registos ou registarem em porto situado em zona de descarga diferente daquela em que estão registados, salvo despacho em contrário do director-geral das Pescas.
+Art. 29.º As embarcações existentes, bem como as que resultem de novas construções ou aquisições que visem substituir aquelas, não podem transferir os seus registos ou registarem em porto situado em zona de descarga diferente daquela em que estão registados, salvo despacho em contrário do director-geral das Pescas.
 
 5.º Ficam revogadas todas as disposições legais em contrário.
 
@@ -184,6 +192,6 @@ b) Arrastões de crustáceos - 45.
 
 Secretaria de Estado das Pescas.
 
-**Assinada em 3 de Junho de 1983.**
+Assinada em 3 de Junho de 1983.
 
-**O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.**
+O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.

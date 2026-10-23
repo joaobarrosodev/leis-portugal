@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cde4d18a98b25535c87408c9f62d637f85fde4aa6de987289e8e878c8ecc5d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d181c4569d44d8090437ca32ece1dd5f5afc72b94d557831ec7bfd380d7c3e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Regulamento
+- Regulamento da VIDA Interna e Administração dos Alunos da Academia Militar
+relationships:
+- type: cites
+  target: pt:dre:252004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370819:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:59Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +103,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, o segu
 
 1.º Ao artigo 11.º do Regulamento da Vida Interna e Administração dos Alunos da Academia Militar, aprovado pela [Portaria n.º 281/77](https://diariodarepublica.pt/dr/detalhe/portaria/281-1977-252004), de 21 de Maio, é aditado um n.º 3, com a seguinte redacção:
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
@@ -100,7 +111,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, o segu
 
 2.º O artigo 16.º do Regulamento da Vida Interna e Administração dos Alunos da Academia Militar, aprovado pela portaria referida no número anterior, passa a ter a seguinte redacção:
 
-###### Art. 16.º - 1 - A competência disciplinar dos oficiais da Academia Militar exercendo funções de comando sobre os alunos é a indicada no quadro anexo a este diploma.
+Art. 16.º - 1 - A competência disciplinar dos oficiais da Academia Militar exercendo funções de comando sobre os alunos é a indicada no quadro anexo a este diploma.
 
 2 - Os oficiais das unidades, estabelecimentos ou órgãos militares que exerçam funções de comando, direcção ou chefia sobre os alunos da Academia Militar neles apresentados têm sobre estes a competência disciplinar indicada no quadro anexo, em correspondência com as funções de comando dos oficiais da Academia Militar.
 
@@ -118,6 +129,6 @@ Estado-Maior do Exército, 8 de Abril de 1982. - O Chefe do Estado-Maior do Exé
 
 Quadro a que se refere o n.º 2 do artigo 16.º do Regulamento da Vida Interna e Administração dos Alunos da Academia Militar, aprovado pela [Portaria n.º 281/77](https://diariodarepublica.pt/dr/detalhe/portaria/281-1977-252004), de 21 de Maio, com a redacção que lhe foi dada pela Portaria n.º 497/82, de 15 de Maio de 1982.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/11000/12521253.pdf))](https://files.diariodarepublica.pt/1s/1982/05/11000/12521253.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/11000/12521253.pdf)
 
-**O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general.**
+O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general.

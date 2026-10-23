@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/05900/0156701573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2017/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62f585d43bd31d691d271831fdb06cbc5f9425724c05150bd877ccb08d11fdf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e19d073eaa516eb9e06316d1f76031ea548ab49cfafa74aa5ebba7e60dfeaf15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença Animal
-- Gado Caprino
+- Abate de Animais
+- Base de Dados
 - Carne
 - Circulação de GADO
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Doença Animal
+- Epidemia
 - Exploração Pecuária
 - Fiscalização
 - Gado Bovino
-- Gado Suíno
-- Abate de Animais
-- Base de Dados
-- IFAP
-- Gado Ovino
-- Epidemia
-- Registo de Animais
+- Gado Caprino
 - Gado Equino
-- Snira
-- Comércio
-- Transporte de Animais
-- Saúde Animal
+- Gado Ovino
+- Gado Suíno
+- IFAP
 - Plataforma Eletrónica
+- Registo de Animais
+- Saúde Animal
+- Snira
+- Transporte de Animais
 relationships:
 - type: cites
   target: celex:32000R1760
@@ -123,16 +123,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095700:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:34Z'
   warnings: []
   errors: []
 ---
@@ -241,7 +257,9 @@ hh) [...]
 
 ii) (Revogada.)
 
-###### Artigo 3.º — Registo dos estabelecimentos
+Artigo 3.º
+
+Registo dos estabelecimentos
 
 1 - Todos os estabelecimentos onde animais ou produtos germinais sejam detidos ou abatidos, ou os seus subprodutos processados, devem possuir um registo no SNIRA que é expresso num número de registo de estabelecimento (NRE) nos termos do artigo 93.º do [Regulamento (UE) n.º 2016/429](https://data.europa.eu/eli/reg/2016/429/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março de 2016, que é precedido pela sigla PT.
 
@@ -257,7 +275,9 @@ ii) (Revogada.)
 
 7 - Ao registo do estabelecimento no SNIRA devem ficar associados um ou mais operadores pelos respetivos números de identificação fiscal.
 
-###### Artigo 4.º — Condições para registo dos estabelecimentos não sujeitos ao Novo Regime da Atividade Pecuária nem ao Sistema da Indústria Responsável
+Artigo 4.º
+
+Condições para registo dos estabelecimentos não sujeitos ao Novo Regime da Atividade Pecuária nem ao Sistema da Indústria Responsável
 
 Para efeitos de registo do estabelecimento nas situações referidas no n.º 4 do artigo anterior, o operador deve:
 
@@ -271,11 +291,15 @@ d) Indicar a categoria, as espécies, o número de animais ou a quantidade de pr
 
 e) Outros aspetos que sejam definidos pela autoridade competente para determinação do risco sanitário do estabelecimento.
 
-###### Artigo 4.º-A — Atribuição de marca
+Artigo 4.º-A
+
+Atribuição de marca
 
 A cada instalação, efetivo ou grupo de animais que constitua um núcleo de produção ou unidade epidemiológica no âmbito de um estabelecimento registado no SNIRA, é atribuída uma marca que o permita individualizar.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os detentores dos animais devem fornecer à autoridade competente, a pedido desta, todas as informações relativas à origem, identificação e destino dos animais ou dos produtos germinais que tiverem possuído, detido, transportado, comercializado ou abatido.
 
@@ -285,11 +309,15 @@ A cada instalação, efetivo ou grupo de animais que constitua um núcleo de pro
 
 4 - Os prazos para as obrigações de comunicação ao SNIRA, por via da plataforma do iDigital, são contínuos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Pelos serviços prestados pela administração, designadamente pelo registo dos operadores e dos estabelecimentos, autorização de comercialização de meios de identificação, bem como pela atribuição da numeração dos meios de identificação das marcas auriculares e dos meios de identificação eletrónica e emissão de documentos, podem ser cobradas taxas cujo montante e condições de aplicação e cobrança são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.
 
-###### Artigo 15.º — Emissão de documentos
+Artigo 15.º
+
+Emissão de documentos
 
 1 - A emissão das guias de circulação e demais documentos são asseguradas a partir do SNIRA, mediante acesso direto dos operadores ou por via das organizações de agricultores acreditadas perante o SNIRA.
 
@@ -301,7 +329,9 @@ Pelos serviços prestados pela administração, designadamente pelo registo dos 
 
 5 - [...].
 
-###### Artigo 16.º — Inutilização dos meios de identificação, passaportes e documentação de suporte ao registo e movimentação animal
+Artigo 16.º
+
+Inutilização dos meios de identificação, passaportes e documentação de suporte ao registo e movimentação animal
 
 1 - Compete aos detentores de animais, aos operadores de matadouros, aos operadores das unidades de processamento dos cadáveres de animais mortos, bem como às entidades acreditadas no âmbito do SNIRA, proceder à inutilização dos meios de identificação, passaportes e demais documentação que tenha sido utilizada para suporte ao registo e movimentação animal.
 
@@ -309,11 +339,15 @@ Pelos serviços prestados pela administração, designadamente pelo registo dos 
 
 3 - A documentação referida no n.º 1 que tenha sido utilizada para suporte ao registo e movimentação animal, deve ser arquivada pelo período de três anos.
 
-###### Artigo 18.º — Pastagens de transumância e outras de utilização comunitária
+Artigo 18.º
+
+Pastagens de transumância e outras de utilização comunitária
 
 A utilização e a movimentação sazonal dos bovinos, ovinos, caprinos e equídeos para baldios ou pastagens de utilização comunitária (PUC), onde os efetivos de diferentes detentores são reunidos, são reguladas por despacho do membro do Governo responsável pela área da agricultura.
 
-###### Artigo 20.º — Introdução no mercado de meios de identificação
+Artigo 20.º
+
+Introdução no mercado de meios de identificação
 
 1 - A introdução no mercado de meios de identificação oficial carece de autorização da DGAV, que deve estabelecer as normas específicas de utilização do sistema de identificação em animais, nomeadamente os requisitos técnicos das marcas auriculares e dos equipamentos.
 
@@ -325,7 +359,9 @@ A utilização e a movimentação sazonal dos bovinos, ovinos, caprinos e equíd
 
 5 - As empresas ou organizações que sejam autorizadas a comercializar meios de identificação oficial ficam obrigadas a registar no SNIRA, sempre antes da sua entrega, os meios de identificação oficial que tenha vendido ou cedido a outra organização autorizada ou a um detentor de animais.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - É imposta uma limitação aos movimentos a todos os animais para ou a partir do estabelecimento em causa sempre que um ou mais animais não reúnam concomitantemente os seguintes requisitos:
 
@@ -349,7 +385,9 @@ d) (Revogada.)
 
 7 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -439,7 +477,9 @@ gg) [...].
 
 8 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os animais que circulem ou sejam encontrados num estabelecimento em circunstâncias indiciárias da prática de alguma das contraordenações previstas no presente decreto-lei, são desde logo apreendidos, sendo, neste caso, aplicável à apreensão a tramitação processual prevista no presente artigo.
 
@@ -501,15 +541,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Luís Manuel Capoulas Santos.
 
-**Promulgado em 20 de fevereiro de 2017.**
+Promulgado em 20 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de março de 2017.**
+Referendado em 15 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -517,7 +557,9 @@ Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António L
 
 Identificação, registo e circulação de bovinos
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 [...]:
 
@@ -529,7 +571,9 @@ c) Registo de existências;
 
 d) [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Todos os bovinos de uma exploração devem ser identificados pelo menos com dois meios de identificação, em conformidade com as normas previstas no artigo 4.º do [Regulamento n.º 1760/2000](https://data.europa.eu/eli/reg/2000/1760/oj?locale=pt), de 17 de julho de 2000, tendo em consideração as alterações estabelecidas pelo [Regulamento n.º 653/2014](https://data.europa.eu/eli/reg/2014/653/oj?locale=pt) de 15 de maio de 2014, ambos do Parlamento Europeu e do Conselho, e que tenham sido autorizados pela Direção-Geral de Alimentação e Veterinária.
 
@@ -551,15 +595,25 @@ d) [...].
 
 6 - Para efeitos do disposto no n.º 3, a DGAV estabelece critérios específicos que visem, nomeadamente, a restrição de autorizações de aplicação do regime nele previsto a determinadas regiões geográficas ou raças.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
 
-###### Artigo 4.º — [...]
+[...]
 
-###### Artigo 5.º — [...]
+Artigo 4.º
 
-###### Artigo 6.º — [...]
+[...]
 
-###### Artigo 7.º — [...]
+Artigo 5.º
+
+[...]
+
+Artigo 6.º
+
+[...]
+
+Artigo 7.º
+
+[...]
 
 1 - O detentor de bovino que pretenda comercializar bovinos para outro Estado membro, em conformidade com a legislação comunitária, ou para país terceiro, deve solicitar a emissão prévia de um passaporte por cada animal, onde são reportadas as informações constantes da base de dados informatizada.
 
@@ -575,11 +629,15 @@ d) [...].
 
 7 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O registo de existências é facultativo e pode ser obtido a partir da plataforma eletrónica do SNIRA.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O detentor que pretenda movimentar bovinos entre explorações ou outros estabelecimentos deve assegurar previamente o registo do movimento previsto, bem como fazer circular os bovinos acompanhados de guia de circulação emitida pelo SNIRA.
 
@@ -589,9 +647,13 @@ O registo de existências é facultativo e pode ser obtido a partir da plataform
 
 4 - Qualquer alteração a um registo de movimento previamente realizado deve ser averbado pelo detentor de origem na guia de circulação que acompanha os animais e na versão que o detentor de origem deve reter.
 
-## ANEXO II — Marcação, identificação, registo e circulação de ovinos e caprinos
+ANEXO II
 
-###### Artigo 1.º — [...]
+Marcação, identificação, registo e circulação de ovinos e caprinos
+
+Artigo 1.º
+
+[...]
 
 1 - [...]:
 
@@ -605,13 +667,21 @@ d) Base de dados nacional informatizada.
 
 2 - (Revogado.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
 
-###### Artigo 3.º — [...]
+[...]
 
-###### Artigo 4.º — [...]
+Artigo 3.º
 
-###### Artigo 5.º — [...]
+[...]
+
+Artigo 4.º
+
+[...]
+
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -621,13 +691,21 @@ d) Base de dados nacional informatizada.
 
 4 - Os ovinos e caprinos destinados ao abate antes dos 12 meses que sejam movimentados para estabelecimentos de recria e acabamento devem manter a marca referida no n.º 2 e devem ser marcados novamente antes da sua saída com o código da exploração de recria ou um código individual que permita identificar a origem do movimento.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
 
-###### Artigo 7.º — [...]
+[...]
 
-###### Artigo 8.º — [...]
+Artigo 7.º
 
-###### Artigo 9.º — [...]
+[...]
+
+Artigo 8.º
+
+[...]
+
+Artigo 9.º
+
+[...]
 
 1 - O detentor que pretenda movimentar ovinos ou caprinos entre explorações ou outros estabelecimentos deve assegurar previamente o registo do movimento previsto, bem como fazer circular os animais acompanhados de guia de circulação emitida pelo Sistema Nacional de Informação e Registo Animal (SNIRA).
 
@@ -637,13 +715,21 @@ d) Base de dados nacional informatizada.
 
 4 - Qualquer alteração a um registo de movimento previamente realizado deve ser averbado pelo detentor de origem na guia de circulação que acompanha os animais e na versão que o detentor de origem deve reter.
 
-## ANEXO III — Marcação, identificação, registo e circulação de suínos
+ANEXO III
 
-###### Artigo 1.º — [...]
+Marcação, identificação, registo e circulação de suínos
 
-###### Artigo 2.º — [...]
+Artigo 1.º
 
-###### Artigo 3.º — [...]
+[...]
+
+Artigo 2.º
+
+[...]
+
+Artigo 3.º
+
+[...]
 
 1 - Os detentores de animais da espécie suína devem manter um registo atualizado por estabelecimento ou por núcleo de produção se existir mais de um núcleo de produção de suínos por estabelecimento, em que se indique:
 
@@ -655,7 +741,9 @@ b) Registos de todas as deslocações, com o número de animais envolvidos em ca
 
 3 - Este registo é facultativo para os detentores que tenham acesso ao Sistema Nacional de Informação e Registo Animal (SNIRA) e insiram diretamente ou façam inserir por via das organizações acreditadas no SNIRA, os movimentos e das alterações de efetivo previstas nos artigos seguintes.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O detentor que pretenda movimentar suínos entre explorações ou outros estabelecimentos deve assegurar previamente o registo do movimento previsto, bem como fazer circular os animais acompanhados de guia de circulação emitida pelo SNIRA.
 
@@ -665,6 +753,8 @@ b) Registos de todas as deslocações, com o número de animais envolvidos em ca
 
 4 - Qualquer alteração a um registo de movimento previamente realizado deve ser averbado pelo detentor de origem na guia de circulação que acompanha os animais e na versão que o detentor de origem deve reter.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Os detentores que queiram beneficiar da derrogação de manutenção do registo de existências previsto no n.º 3 do artigo 3.º do presente anexo, devem declarar no SNIRA, até ao décimo dia do mês seguinte, as alterações que tenham sido observadas aos seus efetivos, nomeadamente os leitões desmamados na exploração, bem como os animais de recria da exploração que tenham sido destinados à reprodução, assim como as mortes e outras alterações dos efetivos ainda não registados no SNIRA.

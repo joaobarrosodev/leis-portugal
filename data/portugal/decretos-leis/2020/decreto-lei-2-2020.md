@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2020/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2020-128071719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eb04d703aedf84fbd617489720a8aea1c356b09fbe0ae024551ce42e6009370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 154fb8f88638d85e3dc53f71b17548196a05ce62ac2b7588a9bb54d13c60cadf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Modernização Administrativa
 - Carta de Condução
 - Código da Estrada
 - Definição de Competências
-- Instituto da Mobilidade e dos Transportes Terrestres
+- Espaço do Cidadão
 - Instituto da Mobilidade e dos Transportes
-- Veículo
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Matrícula
 - Prazo
-- Agência para a Modernização Administrativa
 - Regulamento CE
 - Regulamento da Habilitação Legal para Conduzir
-- Matrícula
 - Regulamento de Matrícula dos Automóveis seus Reboques Motociclos Ciclomotores Triciclos Quadriciclos Máquinas Industriais
   e Máquinas Industriais Rebocáveis
-- Espaço do Cidadão
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
@@ -128,16 +128,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/20/2002/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/2002/08/21/p/dre
+- type: cites
+  target: pt:dre:107648315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114315241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:57Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +324,9 @@ Os artigos 3.º, 5.º, 9.º e 10.º do Regulamento de Matrícula dos Automóveis
 
 9 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -266,7 +360,9 @@ d) A partir da data de início da emissão de números de matrícula do formato 
 
 12 - As chapas de matrícula dos veículos matriculados antes da data a que se refere a alínea d) do n.º 1, correspondentes aos modelos previstos nos anexos ii, iii e iv, mantêm-se válidas para os veículos em circulação, podendo ser substituídas por chapas do modelo correspondente, constante do anexo v.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As chapas de matrícula dos modelos constantes dos anexos iii, iv e v devem corresponder a um modelo homologado pelo IMT, I. P.
 
@@ -276,7 +372,9 @@ d) A partir da data de início da emissão de números de matrícula do formato 
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A inscrição de números de matrícula em chapas de matrícula dos modelos constantes dos anexos iii, iv e v só pode ser efetuada por manipuladores que possuam uma autorização para o efeito, concedida pelo fabricante das chapas de matrícula, titular da respetiva homologação.
 
@@ -342,7 +440,9 @@ c) No prazo de dois anos a contar da data de fixação de residência do seu tit
 
 7 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -398,46 +498,48 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de dezembro de 2019. - Pedro Gramaxo de Carvalho Siza Vieira - Alexandra Ludomila Ribeiro Fernandes Leitão - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 8 de janeiro de 2020.**
+Promulgado em 8 de janeiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de janeiro de 2020.**
+Referendado em 10 de janeiro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 ## ANEXO V — Modelo I - Automóveis (frente e retaguarda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo II - Automóveis (retaguarda)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo III - Reboques
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo IV - Motociclos de cilindrada superior a 50 cm3 e triciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo V - Ciclomotores, motociclos de cilindrada não superior a 50 cm3 e quadriciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo VI - Ciclomotores de três rodas e quadriciclos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo VII - Máquinas industriais e máquinas industriais rebocáveis (frente, retaguarda ou lateral)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
 
 Modelo VIII - Máquinas industriais e máquinas industriais rebocáveis (retaguarda ou lateral)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf))](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/00900/0000400012.pdf)
+
+112916514

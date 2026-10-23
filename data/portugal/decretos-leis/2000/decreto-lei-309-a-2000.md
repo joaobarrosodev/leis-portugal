@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 277/2000, 1º Suplemento, Série I-A de 2000-11-30
   number: '277'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6906-(2) a 6906-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/277a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/309-a/2000/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-a-2000-296406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c118a8110e7325b0a59da0dc15c16fb03905ac9412b084f65da6d16e5cdf98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33a3e160d318472ad14dadcabc2dfd0ed2c47ab874553d174536e454571b7869
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio Domiciliário
 - Complemento por Dependência
-- Sistema de Verificação de Incapacidades
+- Deficiente Mental
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensionista
 - Prestações da Segurança Social
 - Prestações Pecuniárias
-- Apoio Domiciliário
 - Regime Geral da Segurança Social
 - Regime não Contributivo da Segurança Social
 - Segurança Social
+- Sistema de Verificação de Incapacidades
 - Subsídio por Assistência de Terceira Pessoa
-- Deficiente Mental
 relationships:
 - type: amended_by
   target: pt:dre:256986:por
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/265/1999/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/265/1999/07/14/p/dre
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:13Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +157,12 @@ O disposto no presente diploma produz efeitos a partir de 1 de Dezembro de 2000.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 30 de Novembro de 2000.**
+Promulgado em 30 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Novembro de 2000.**
+Referendado em 30 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.

@@ -47,36 +47,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/246-1978-329436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:44:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bb04971b4f8ff8aa1d3d042d033c1af9a3eab84957ee331516493220d58790a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4f02abb74bdf9b36212ab0d5b1301ed5104b101da256d910e86f0760328695bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:44:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação
+- Junta Nacional dos Produtos Pecuários
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:44:57Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +87,7 @@ validation:
 
 1 - Face à evolução das importações (quantidade e cotações) de carnes e lacticínios verificada nos primeiros sete meses de 1978 e as previsões até ao final do ano, é estabelecido novo plano de importações a executar pela JNPP, que constitui revisão ao plano constante do despacho conjunto dos SECIA e SECI de 6 de Maio de 1978:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21800/19991999.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21800/19991999.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21800/19991999.pdf)
 
 2 - Mantém-se o disposto no n.º 2 do referido despacho conjunto de 4 de Maio de 1978.
 

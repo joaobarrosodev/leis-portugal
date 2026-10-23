@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1980-460621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dd8099a67e3c5fa197f1be2aad211907f6544d790cc6e2bd2bbfec943bc82de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9996607e44a750dc3e932e02cf6a5d9a9944760de2cfa70781f1caac8a1cb158
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Proteção do Ambiente
+- Regulamento do Serviço do Corpo de Vigilantes da Natureza
+- Serviço do Corpo de Vigilantes da Natureza
+relationships:
+- type: cites
+  target: pt:dre:280731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312191:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:35Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +105,7 @@ Nestas condições:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - É aprovado o Regulamento de Serviço do Corpo de Vigilantes da Natureza, no âmbito do Serviço Nacional de Parques, Reservas e Património Paisagístico, que se publica em anexo ao presente decreto regulamentar.
+Artigo único. - 1 - É aprovado o Regulamento de Serviço do Corpo de Vigilantes da Natureza, no âmbito do Serviço Nacional de Parques, Reservas e Património Paisagístico, que se publica em anexo ao presente decreto regulamentar.
 
 2 - As dúvidas suscitadas na aplicação deste Regulamento serão resolvidas por despacho do membro do Governo responsável pelo ordenamento e ambiente ou por despacho conjunto deste e de outros membros do Governo, quando estiverem em causa matérias das respectivas competências.
 
@@ -102,7 +113,7 @@ Regulamento de Serviço do Corpo de Vigilantes da Natureza
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º O Corpo de Vigilantes da Natureza referido na alínea j) do artigo 20.º do [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, tem as seguintes atribuições:
+Artigo 1.º O Corpo de Vigilantes da Natureza referido na alínea j) do artigo 20.º do [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, tem as seguintes atribuições:
 
 a) Zelar pelo cumprimento dos regulamentos dos parques, reservas e sítios classificados geridos pelo Serviço Nacional de Parques, Reservas e Património Paisagístico;
 
@@ -122,7 +133,7 @@ h) Prestar o seu auxílio a todas as autoridades, civis ou militares, quando dev
 
 ### CAPÍTULO II — Da competência
 
-###### Art. 2.º - 1 - O Corpo de Vigilantes da Natureza tem direito ao uso e porte de armas de defesa e caça para efeitos do cumprimento da alínea a) do artigo 1.º do presente diploma.
+Art. 2.º - 1 - O Corpo de Vigilantes da Natureza tem direito ao uso e porte de armas de defesa e caça para efeitos do cumprimento da alínea a) do artigo 1.º do presente diploma.
 
 2 - Este direito é extensivo aos directores dos parques e reservas e aos técnicos do Serviço, por despacho do membro do Governo responsável pelo ordenamento e ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
@@ -130,7 +141,7 @@ h) Prestar o seu auxílio a todas as autoridades, civis ou militares, quando dev
 
 4 - Todos os vigilantes são competentes para requisitar, em casos urgentes e imediatos, o auxílio das autoridades.
 
-###### Art. 3.º No cumprimento das atribuições que são definidas pelo presente diploma, compete ao Corpo de Vigilantes da Natureza:
+Art. 3.º No cumprimento das atribuições que são definidas pelo presente diploma, compete ao Corpo de Vigilantes da Natureza:
 
 a) Participar qualquer infracção que possa afectar as finalidades dos parques e reservas, levantando os competentes autos de notícia;
 
@@ -138,7 +149,7 @@ b) Registar, diariamente, em caderneta adequada, as ocorrências e quaisquer fac
 
 ### CAPÍTULO III — Do processo
 
-###### Art. 4.º Além dos requisitos exigidos pelo Código de Processo Penal, os autos de notícia levantados pelos vigilantes da Natureza deverão indicar:
+Art. 4.º Além dos requisitos exigidos pelo Código de Processo Penal, os autos de notícia levantados pelos vigilantes da Natureza deverão indicar:
 
 a) O nome do infractor ou, quando este for desconhecido, da pessoa ou pessoas que se suspeite terem praticado a infracção;
 
@@ -148,16 +159,16 @@ c) O valor dos danos causados.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 5.º - 1 - É obrigatório para todo o Corpo de Vigilantes da Natureza o uso do respectivo cartão de identificação do modelo anexo ao presente diploma.
+Art. 5.º - 1 - É obrigatório para todo o Corpo de Vigilantes da Natureza o uso do respectivo cartão de identificação do modelo anexo ao presente diploma.
 
 2 - O cartão de identificação será passado pelo Serviço Nacional de Parques, Reservas e Património Paisagístico e assinado pelo seu presidente.
 
 Francisco Sá Carneiro.
 
-**Promulgado em 8 de Setembro de 1980.**
+Promulgado em 8 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21800/28272828.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21800/28272828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21800/28272828.pdf)

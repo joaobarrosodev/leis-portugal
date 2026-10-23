@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 115/2006, 2º Suplemento, Série I-A de 2006-06-16
   number: '115'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4330-(8) a 4330-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/115a02/00080012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116-b/2006/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-b-2006-548240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 014ddf60dd58894150ad3b24fce722832f319cda49aa646d1a8931122fca103b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b3540d34f4fc37171228f45842e2231da6bd753133bc705da0dd7be418ab5fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ceger
 - Certificação Electrónica
-- Pessoal Dirigente
-- Entidade Certificadora
 - Definição de Competências
 - Diretor
+- Entidade Certificadora
 - Orgânica
-- Ceger
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 relationships:
@@ -104,16 +104,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/899/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/899/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:199447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672131:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521251:por
+  label: "Revogados o Dec Lei 429/89 de 15-Fev, alterado pelo Dec Lei 184/98 de 06-Jul, este último alterado pelo presente\
+    \ diploma, pelo DEC LEI.163/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007, a partir de 01.06.2007,\07,\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2007-521251
+  date: '2007-05-03'
 article_structure:
-  article_count: 25
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:04Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +190,9 @@ Os artigos 1.º, 2.º, 3.º e 7.º do [Decreto-Lei n.º 184/98](https://diarioda
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - São atribuições do CEGER:
 
@@ -186,13 +226,17 @@ o) [Anterior alínea j).]
 
 2 - As funções de certificação electrónica no âmbito do procedimento legislativo são subordinadas aos princípios da neutralidade e do respeito pela separação de poderes, adequando-se os seus procedimentos às determinações que, em conformidade com a lei, sejam definidas por conselho de acompanhamento interinstitucional, composto por um representante de cada um dos órgãos de soberania aderentes a convenção de certificação electrónica.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O CEGER é dirigido por um director, o qual é equiparado, para todos os efeitos legais, a director-geral.
 
 2 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O lugar de director é provido por despacho do Primeiro-Ministro, devendo a escolha recair em pessoa de elevada competência profissional e que possua experiência válida para o exercício das funções.
 
@@ -212,15 +256,15 @@ São revogados o n.º 2 do artigo 3.º, o artigo 9.º e o artigo 16.º do [Decre
 
 Visto e aprovado em Conselho de Ministros de 4 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira.
 
-**Promulgado em 8 de Junho de 2006.**
+Promulgado em 8 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 12 de Junho de 2006.**
+Referendado em 12 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (republicação do [Decreto-Lei n.º 184/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1998-485945), de 6 de Julho)
 
@@ -386,4 +430,4 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Do MAPA I ao MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115a02/00080012.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115a02/00080012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115a02/00080012.pdf)

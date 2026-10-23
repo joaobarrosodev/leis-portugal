@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/06400/0173101732.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2015/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2015-66895092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 941ecd04cb3dc71afd9d80056e746366b99d07ad53f8fe99cf72ab002977bba5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8e572426fad09c9ae8dcae8301b2405b63a02563b5f0c3043cc0fa3dae3699d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Gestão Financeira
 - Definição de Competências
-- IPSS
+- Financiamento
 - Fundo de Reestruturação do Setor Solidário
+- Gestão Financeira
+- IPSS
 relationships:
 - type: amended_by
   target: pt:dre:122747583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75644169:por
+  label: Alterados, a partir de 04.11.2016, os arts. 6.º, 8.º, 11.º e 16.º do Dec. Lei 165-A/2013 de 23-dez, todos na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 68/2016 - Diário da República n.º 211/2016, Série I de 2016-11-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2016-75644169
+  date: '2016-11-03'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterados, a partir de 29.06.2019 e nos termos do art. 210.º, os arts. 6.º, 8.º, 11.º e 16.º do Dec Lei 165-A/2013
+    de 23-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I
+    de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165-a/2013/12/23/p/dre
   label: null
@@ -85,15 +98,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:44Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +143,9 @@ Os artigos 6.º, 7.º, 8.º 11.º e 16.º do [Decreto-Lei n.º 165-A/2013](https
 
 3 - A percentagem referida no número anterior é estabelecida por portaria do membro do Governo responsável pelas áreas da solidariedade e da segurança social, após acordo com a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas e a União das Mutualidades Portuguesas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]:
 
@@ -142,13 +157,17 @@ c) [...];
 
 d) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Constituem despesas de funcionamento do FRSS as despesas de administração e gestão e outras previstas em sede de regulamento interno, nomeadamente as despesas suportadas pelas entidades identificadas nas alíneas b), c) e d) do n.º 2 do artigo 11.º com as atividades previstas nos termos do artigo 16.º
 
 2 - As despesas referidas no número anterior não podem ultrapassar, em cada ano, 3 % do ativo líquido do fundo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -178,7 +197,9 @@ d) [...].
 
 10 - O apoio técnico e administrativo ao FRSS e ao conselho de gestão é prestado diretamente pelas entidades identificadas nas alíneas b) a d) do n.º 2, nos termos a definir no regulamento interno.
 
-###### Artigo 16.º — Acompanhamento das candidaturas e entidades apoiadas
+Artigo 16.º
+
+Acompanhamento das candidaturas e entidades apoiadas
 
 1 - As entidades identificadas nas alíneas b) a d) do n.º 2 do artigo 11.º, prestam apoio técnico:
 
@@ -200,12 +221,12 @@ O FRSS rege-se pelas regras previstas no presente decreto-lei, pela portaria que
 
 Visto e aprovado em Conselho de Ministros de 29 de janeiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 18 de março de 2015.**
+Promulgado em 18 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de março de 2015.**
+Referendado em 23 de março de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

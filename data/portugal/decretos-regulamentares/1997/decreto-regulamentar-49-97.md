@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/49/1997/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f521fd10cf8f05a348ef87c6ddee7436d54644641fcd17bb7da63dad24608ed3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e39ee11aaf1c96eb26a45a8851f76e9c6061112d41d1e29f86fcb5cf7941eb76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - CAÇA
 - Contra-ordenação
 - Definição de Competências
+- Diversidade Biológica
 - Fiscalização
 - Instituto da Conservação da Natureza
 - Proteção do Ambiente
-- Diversidade Biológica
 - Reserva Natural
 - Reserva Natural do PAUL de Boquilobo
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:67198365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:579534:por
+  label: "Alterados os arts. 3º, 6º e 8º deste diploma, assim como os limites da Reserva Natural do Paul do Boquilobo aqui\
+    \ definidos e, revogados os anexos I e II, pelo DR.2/2005.23.03.2005.MAOT, DR.IS-B [58] de 23.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2005-579534
+  date: '2005-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169/1996/09/18/p/dre
   label: null
@@ -95,16 +101,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/881/1993/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/881/1993/09/15/p/dre
+- type: cites
+  target: pt:dre:219475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659971:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246552:por
+  label: "Revogados os arts. 10º, 11º, 12º, 13º e 16.º, na redacção do DR 2/2005, de 23-Mar, pela RES.50/2008.19.03.2008.PCM,\
+    \ DR.IS [56] de 19.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/50-2008-246552
+  date: '2008-03-19'
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:46Z'
   warnings: []
   errors: []
 ---
@@ -353,15 +407,15 @@ Presidência do Conselho de Ministros, 11 de Setembro de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 24 de Outubro de 1997.**
+Promulgado em 24 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites da Reserva Natural
 
@@ -373,4 +427,4 @@ Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referid
 
 Oeste: o caminho de ferro, para norte, desde a antiga passagem de nível até a um ponto situado no enfiamento do Caminho dos Canteiros.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf))](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)

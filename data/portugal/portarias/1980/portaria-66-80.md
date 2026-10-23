@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/04900/02530254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-1980-679595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aef85000c1bcb44354e7faad214ce6bb93e9a450e1a9608b3696ccde88fa639
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe95f59b9e9a6f64aefd0ec8cd8eb3b24c2486b7e31a60fb76fd6c8fc52668aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Higiene Corporal
+- Margens de Comercialização
+- Produto Cosmetico
 relationships:
 - type: amended_by
   target: pt:dre:227809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS NUMEROS 8 E 10 PELA PORTARIA NUMERO 580/84, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 183,\
+    \ DE 8/8/84.\0/8/84.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:660924:por
+  label: "Revogada a al. a) do nº 1 e nº 2, pela PORT.68/84.1984.01.28.MCT, DR.IS [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-1984-660924
+  date: '1984-01-28'
+- type: repealed_by
+  target: pt:dre:382246:por
+  label: "Revogados os n.ºs 8.º e 10.º do presente diploma, pela PORT.580/84.08.08.1984.MCT, DR.IS [183] de 08.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-1984-382246
+  date: '1984-08-08'
+- type: repealed_by
+  target: pt:dre:227809:por
+  label: "Revogada pela PORT.398/86.1986.07.25.MIC DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-1986-227809
+  date: '1986-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:01Z'
   warnings: []
   errors: []
 ---

@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/888-1983-442717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db1483b20a6d517d0553a716d2e6fb0b4912985fa9a4782db0ea2c3f714a33f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df70d719ed2c55432ff105bffc32ae11e5dc4be7659213253282337184a662b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- GNR
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:562435:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:31Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +100,16 @@ Manda o Governo da República Portuguesa, pelos Ministros da Administração Int
 
 a) Guarda Nacional Republicana:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf))](https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf)
 
 b) Polícia de Segurança Pública:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf))](https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/22200/33693370.pdf)
 
 2.º A presente portaria produz efeitos desde o dia 1 de Maio de 1982.
 
 Ministérios da Administração Interna e das Finanças e do Plano.
 
-**Assinada em 12 de Setembro de 1983.**
+Assinada em 12 de Setembro de 1983.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.

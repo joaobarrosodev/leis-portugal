@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a505a3bc8623b76ceea98cb80dc225f4ed41fe369cff7a8cc67bb5922fd70c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 320df91ed9b5f2fd63bb32fc1e20b0040dabdac30dc6988a5a08b84f81928310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:506013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:419184:por
+  label: Rectificado o n.º 3 do artigo artigo 2.º, o n.º 2 do artigo 8.º, alínea b) do artigo 14.º, o n.º 3 do artigo 19.º
+    e a 2.ª regra do artigo 23.º pela DECL.DD9260.10.08.1973.PC, DG.IS [187] de 10.08.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-419184
+  date: '1973-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:07:09Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +114,9 @@ REGULAMENTO DOS CONCURSOS MÉDICOS DOS HOSPITAIS DISTRITAIS
 
 ### CAPÍTULO I — Da abertura e prazos dos concursos
 
-###### Artigo 1.º Os concursos para os lugares dos quadros de pessoal médico permanente dos hospitais distritais regem-se pelo disposto nesta portaria, em tudo o que não estiver previsto no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
+Artigo 1.º Os concursos para os lugares dos quadros de pessoal médico permanente dos hospitais distritais regem-se pelo disposto nesta portaria, em tudo o que não estiver previsto no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
 
-###### Art. 2.º - 1. Estes concursos são de âmbito nacional e organizados anualmente pela Direcção-Geral dos Hospitais.
+Art. 2.º - 1. Estes concursos são de âmbito nacional e organizados anualmente pela Direcção-Geral dos Hospitais.
 
 2. Até 31 de Dezembro de cada ano, cada um dos hospitais distritais enviará à Direcção-Geral dos Hospitais uma relação dos lugares vagos com indicação dos respectivos ramos ou especialidades.
 
@@ -120,7 +130,7 @@ REGULAMENTO DOS CONCURSOS MÉDICOS DOS HOSPITAIS DISTRITAIS
 
 7. A validade destes concursos é de seis meses, a contar da data da sua abertura.
 
-###### Art. 3.º - 1. Durante o prazo de abertura do concurso os candidatos enviarão à Direcção-Geral dos Hospitais a seguinte documentação:
+Art. 3.º - 1. Durante o prazo de abertura do concurso os candidatos enviarão à Direcção-Geral dos Hospitais a seguinte documentação:
 
 a) Requerimento em papel selado dirigido ao director-geral dos Hospitais, solicitando a admissão ao concurso, de que constem o nome completo, a idade, a residência oficial do candidato, e indicação da especialidade e do grau da carreira a que pretende concorrer;
 
@@ -132,7 +142,7 @@ d) Oito exemplares impressos ou dactilografados da dissertação, no caso de con
 
 e) Documentos comprovativos dos elementos curriculares apresentados, nomeadamente das classificações obtidas nos internatos.
 
-###### Art. 4.º - 1. Dentro dos quinze dias seguintes ao encerramento do prazo do concurso, a Direcção-Geral dos Hospitais enviará a todos os hospitais centrais e distritais, com indicação da data em que deverá ser afixada, a lista dos candidatos, agrupados por ramos ou especialidades, com indicação das faltas verificadas nos documentos apresentados.
+Art. 4.º - 1. Dentro dos quinze dias seguintes ao encerramento do prazo do concurso, a Direcção-Geral dos Hospitais enviará a todos os hospitais centrais e distritais, com indicação da data em que deverá ser afixada, a lista dos candidatos, agrupados por ramos ou especialidades, com indicação das faltas verificadas nos documentos apresentados.
 
 2. Os candidatos dispõem de cinco dias, após a afixação, para solicitar quaisquer rectificações à lista referida no n.º 1 e regularizar a sua documentação.
 
@@ -148,17 +158,17 @@ e) Documentos comprovativos dos elementos curriculares apresentados, nomeadament
 
 ### CAPÍTULO II — Da constituição dos júris
 
-###### Art. 5.º - 1. Durante o mês de Dezembro de cada ano, a Direcção-Geral dos Hospitais designará os hospitais onde, no ano seguinte, deverão ser realizadas as provas dos concursos.
+Art. 5.º - 1. Durante o mês de Dezembro de cada ano, a Direcção-Geral dos Hospitais designará os hospitais onde, no ano seguinte, deverão ser realizadas as provas dos concursos.
 
 2. Compete às direcções dos hospitais designados organizar e propor ao director-geral dos Hospitais a constituição nominal dos júris respectivos.
 
 3. Os júris são nomeados pelo director-geral dos Hospitais e serão constituídos por um presidente e quatro vogais.
 
-###### Art. 6.º - 1. Tanto no caso de concursos para especialistas, como no de concursos para directores de serviço, os júris serão constituídos por três membros permanentes, um dos quais é o presidente, pertencentes aos quadros de medicina interna ou de cirurgia geral e dois membros variáveis, pertencentes aos quadros do ramo ou especialidade a que concorrem os candidatos.
+Art. 6.º - 1. Tanto no caso de concursos para especialistas, como no de concursos para directores de serviço, os júris serão constituídos por três membros permanentes, um dos quais é o presidente, pertencentes aos quadros de medicina interna ou de cirurgia geral e dois membros variáveis, pertencentes aos quadros do ramo ou especialidade a que concorrem os candidatos.
 
 2. Os presidentes dos júris pertencerão obrigatoriamente aos quadros dos hospitais designados nos termos do n.º 1 do artigo 5.º do presente Regulamento.
 
-###### Art. 7.º - 1. O júri do concurso para especialistas será presidido por um director de serviço de hospital central e terá quatro vogais com categoria não inferior à de especialista, sendo dois de hospital central e dois de hospital distrital.
+Art. 7.º - 1. O júri do concurso para especialistas será presidido por um director de serviço de hospital central e terá quatro vogais com categoria não inferior à de especialista, sendo dois de hospital central e dois de hospital distrital.
 
 2. O júri do concurso para directores de serviço será presidido por um director de serviço de hospital central tendo quatro vogais, dois de hospital central com a categoria não inferior a chefe de serviço e, sempre que possível, dois de hospital distrital com a categoria de director de serviço.
 
@@ -166,11 +176,11 @@ e) Documentos comprovativos dos elementos curriculares apresentados, nomeadament
 
 ### CAPÍTULO III — Do concurso para especialistas
 
-###### Art. 8.º - 1. O ingresso nos quadros de pessoal permanente dos hospitais distritais, na categoria de especialistas, faz-se por concurso documental de acordo com o disposto no n.º 1 do artigo 16.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
+Art. 8.º - 1. O ingresso nos quadros de pessoal permanente dos hospitais distritais, na categoria de especialistas, faz-se por concurso documental de acordo com o disposto no n.º 1 do artigo 16.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
 
 2. Podem concorrer a estes lugares os médicos titulares com o internato complementar ou de especialidades e aqueles a quem a respectiva Ordem haja conferido o título de especialistas.
 
-###### Art. 9.º - 1. A classificação dos candidatos em mérito relativo para cada uma das especialidades ou ramos obedecerá à seguinte ordem de preferência:
+Art. 9.º - 1. A classificação dos candidatos em mérito relativo para cada uma das especialidades ou ramos obedecerá à seguinte ordem de preferência:
 
 a) Maior classificação no internato complementar ou de especialidades;
 
@@ -190,15 +200,15 @@ b) Em igualdade de classificação, os médicos que hajam adquirido preparação
 
 4. Os médicos graduados podem optar pela classificação a que se refere o número anterior ou pela que obtiverem no concurso de admissão à categoria de graduados.
 
-###### Art. 10.º A classificação dos concorrentes em mérito relativo, feita separadamente por ramos ou especialidades, será afixada nos locais referidos no artigo 4.º, n.º 1.
+Art. 10.º A classificação dos concorrentes em mérito relativo, feita separadamente por ramos ou especialidades, será afixada nos locais referidos no artigo 4.º, n.º 1.
 
-###### Art. 11.º - 1. Os candidatos aprovados devem requerer dentro do prazo de quinze dias à Direcção-Geral dos Hospitais a sua colocação nas vagas, podendo indicar, por ordem de preferência, três hospitais em que estejam interessados.
+Art. 11.º - 1. Os candidatos aprovados devem requerer dentro do prazo de quinze dias à Direcção-Geral dos Hospitais a sua colocação nas vagas, podendo indicar, por ordem de preferência, três hospitais em que estejam interessados.
 
 2. A distribuição dos candidatos pelas vagas será efectuada pela Direcção-Geral dos Hospitais, obedecendo à ordem de classificação em mérito relativo e será tornada pública, através de listas afixadas em todos os hospitais centrais e distritais, decorridos não mais de quinze dias após ter terminado o prazo a que se refere o n.º 1 deste artigo.
 
 3. As listas definitivas serão publicadas simultaneamente pela Direcção-Geral dos Hospitais no Diário do Governo, após homologação ministerial, seguindo-se, através dos hospitais respectivos o processo de nomeação e posse dos candidatos distribuídos em cada um deles.
 
-###### Art. 12.º - 1. Se, operada a distribuição nos termos dos artigos anteriores, restarem vagas, os candidatos não distribuídos e em condições de as ocuparem poderão requerer nelas colocação até à data em que termina a validade do concurso.
+Art. 12.º - 1. Se, operada a distribuição nos termos dos artigos anteriores, restarem vagas, os candidatos não distribuídos e em condições de as ocuparem poderão requerer nelas colocação até à data em que termina a validade do concurso.
 
 2. Estes requerimentos, em papel selado, serão entregues na Direcção-Geral dos Hospitais.
 
@@ -218,7 +228,7 @@ c) Indicação do concurso de que se trata, do número de ordem que lhe foi atri
 
 ### CAPÍTULO IV — Dos concursos para directores de serviço
 
-###### Art. 13.º - 1. Podem candidatar-se ao cargo de director de serviço dos hospitais distritais, nos termos do n.º 1 do artigo 18.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro:
+Art. 13.º - 1. Podem candidatar-se ao cargo de director de serviço dos hospitais distritais, nos termos do n.º 1 do artigo 18.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro:
 
 a) Chefe de serviço de hospital central (grau 5);
 
@@ -232,7 +242,7 @@ c) Especialistas de hospital distrital (grau 4).
 
 4. O candidato que falte à prestação de qualquer prova, no dia e hora marcada, será desde logo eliminado.
 
-###### Art. 14.º Na apreciação do curriculum serão obrigatoriamente considerados, por ordem de importância relativa, os seguintes elementos:
+Art. 14.º Na apreciação do curriculum serão obrigatoriamente considerados, por ordem de importância relativa, os seguintes elementos:
 
 a) Exercício com zelo, assiduidade e competência de cargos ou funções hospitalares dos quadros permanentes, entrando em linha de conta com o tempo de exercício dessas funções ou cargos;
 
@@ -246,15 +256,15 @@ e) Desempenho de outras funções ou cargos públicos, com reconhecido mérito;
 
 f) Outros títulos de valorização profissional.
 
-###### Art. 15.º - 1. A discussão do curriculum deverá ser feita, pelo menos, por três dos membros do júri, cada um dos quais disporá, para o efeito, de quinze minutos.
+Art. 15.º - 1. A discussão do curriculum deverá ser feita, pelo menos, por três dos membros do júri, cada um dos quais disporá, para o efeito, de quinze minutos.
 
 2. O candidato disporá do mesmo tempo para responder a cada um dos arguentes.
 
-###### Art. 16.º - 1. Após a discussão pública do curriculum, as classificações serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada membro do júri segundo uma escala de 0 a 20 valores.
+Art. 16.º - 1. Após a discussão pública do curriculum, as classificações serão estabelecidas pela média aritmética, arredondada para a décima mais próxima, das classificações individuais atribuídas por cada membro do júri segundo uma escala de 0 a 20 valores.
 
 2. As classificações serão tornadas públicas no fim de cada sessão de provas, sendo excluídos os candidatos cuja classificação seja inferior a 10 valores.
 
-###### Art. 17.º - 1. A dissertação deverá ser original e versar um tema técnico do ramo clínico ou especialidade a que respeita o concurso, não se excluindo a possibilidade de os elementos básicos utilizados na dissertação terem sido objecto de publicações ou comunicações prévias, mesmo em colaboração, devendo, neste caso, o candidato esclarecer qual a sua contribuição pessoal.
+Art. 17.º - 1. A dissertação deverá ser original e versar um tema técnico do ramo clínico ou especialidade a que respeita o concurso, não se excluindo a possibilidade de os elementos básicos utilizados na dissertação terem sido objecto de publicações ou comunicações prévias, mesmo em colaboração, devendo, neste caso, o candidato esclarecer qual a sua contribuição pessoal.
 
 2. A dissertação não poderá exceder cinquenta páginas de texto dactilografadas a dois espaços.
 
@@ -262,9 +272,9 @@ f) Outros títulos de valorização profissional.
 
 4. O candidato disporá do mesmo tempo para responder a cada um dos arguentes.
 
-###### Art. 18.º A classificação da dissertação faz-se de harmonia com o disposto no artigo 16.º do presente Regulamento.
+Art. 18.º A classificação da dissertação faz-se de harmonia com o disposto no artigo 16.º do presente Regulamento.
 
-###### Art. 19.º - 1. A classificação final de cada um dos candidatos será a média aritmética, arredondada para a décima mais próxima, das classificações obtidas nas duas provas.
+Art. 19.º - 1. A classificação final de cada um dos candidatos será a média aritmética, arredondada para a décima mais próxima, das classificações obtidas nas duas provas.
 
 2. A classificação final dos candidatos, que, ao abrigo do disposto no n.º 1 do artigo 18.º do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), não tenham apresentado a dissertação, será a da prova de apreciação do curriculum vitae.
 
@@ -274,32 +284,32 @@ f) Outros títulos de valorização profissional.
 
 5. Imediatamente após a conclusão das provas, o júri tornará pública a ordenação em mérito relativo dos candidatos aprovados, sem menção de classificações, e enviará uma cópia autenticada à Direcção-Geral dos Hospitais que deve providenciar no sentido da sua afixação nos locais especificados no n.º 1 do artigo 4.º do presente Regulamento.
 
-###### Art. 20.º Os candidatos aprovados constantes da lista a que se refere o n.º 3 do artigo anterior devem requerer ao director-geral dos Hospitais a sua colocação em qualquer das vagas postas a concurso, de harmonia com o disposto no artigo 11.º do presente Regulamento.
+Art. 20.º Os candidatos aprovados constantes da lista a que se refere o n.º 3 do artigo anterior devem requerer ao director-geral dos Hospitais a sua colocação em qualquer das vagas postas a concurso, de harmonia com o disposto no artigo 11.º do presente Regulamento.
 
-###### Art. 21.º - 1. A distribuição dos candidatos pelas vagas será efectuada pela Direcção-Geral dos Hospitais, obedecendo-se à respectiva ordem em mérito relativo e será tornada pública através de listas afixadas em todos os hospitais centrais e distritais, decorridos não mais de quinze dias após ter terminado o prazo de entrega dos requerimentos a que se refere o artigo 20.º deste Regulamento.
+Art. 21.º - 1. A distribuição dos candidatos pelas vagas será efectuada pela Direcção-Geral dos Hospitais, obedecendo-se à respectiva ordem em mérito relativo e será tornada pública através de listas afixadas em todos os hospitais centrais e distritais, decorridos não mais de quinze dias após ter terminado o prazo de entrega dos requerimentos a que se refere o artigo 20.º deste Regulamento.
 
 2. Efectuada a distribuição, proceder-se-á de acordo com o disposto no n.º 3 do citado artigo 11.º
 
-###### Art. 22.º - 1. Se, operada a distribuição nos termos do artigo anterior, restarem vagas, os candidatos não distribuídos em condições de as ocuparem poderão requerer nelas colocação até à data em que termina a validade do concurso.
+Art. 22.º - 1. Se, operada a distribuição nos termos do artigo anterior, restarem vagas, os candidatos não distribuídos em condições de as ocuparem poderão requerer nelas colocação até à data em que termina a validade do concurso.
 
 2. Para o efeito, seguem-se os trâmites e processo a que se refere o artigo 12.º do presente Regulamento.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 23.º Ao abrigo do disposto no artigo 50.º, n.º 1, do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), e até 1 de Outubro de 1974 é estabelecido um regime transitório, no decurso do qual vigoram as seguintes regras:
+Art. 23.º Ao abrigo do disposto no artigo 50.º, n.º 1, do [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), e até 1 de Outubro de 1974 é estabelecido um regime transitório, no decurso do qual vigoram as seguintes regras:
 
 1.ª Nos concursos para especialistas os médicos graduados ou internos graduados, que à data da publicação do presente Regulamento hajam terminado, com aproveitamento, o respectivo período completo de graduação, gozam de preferência sobre os médicos que não tenham alcançado aquela qualificação;
 
 2.ª A ordenação sobre os concorrentes considerados na regra anterior será feita de acordo com as normas estabelecidas no artigo 9.º do presente Regulamento.
 
-###### Art. 24.º Durante o ano de 1973 e sob proposta fundamentada da Direcção-Geral dos Hospitais, poderá ser autorizada, por despacho ministerial, a realização de concursos fora da época especificada no n.º 4 do artigo 2.º deste Regulamento.
+Art. 24.º Durante o ano de 1973 e sob proposta fundamentada da Direcção-Geral dos Hospitais, poderá ser autorizada, por despacho ministerial, a realização de concursos fora da época especificada no n.º 4 do artigo 2.º deste Regulamento.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 25.º - 1. As dúvidas que se suscitarem na execução do presente regulamento serão submetidas à Direcção-Geral dos Hospitais, que as decidirá colhendo, quando necessário, despacho ministerial.
+Art. 25.º - 1. As dúvidas que se suscitarem na execução do presente regulamento serão submetidas à Direcção-Geral dos Hospitais, que as decidirá colhendo, quando necessário, despacho ministerial.
 
 2. À mesma Direcção-Geral compete emitir as instruções necessárias à sua aplicação.
 
-###### Art. 26.º O Ministro da Saúde e Assistência poderá determinar por despacho a aplicação deste Regulamento aos estabelecimentos especializados que exerçam funções de hospitais distritais, introduzindo-lhe por essa forma as adaptações convenientes.
+Art. 26.º O Ministro da Saúde e Assistência poderá determinar por despacho a aplicação deste Regulamento aos estabelecimentos especializados que exerçam funções de hospitais distritais, introduzindo-lhe por essa forma as adaptações convenientes.
 
 Ministério da Saúde e Assistência, 19 de Junho de 1973. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

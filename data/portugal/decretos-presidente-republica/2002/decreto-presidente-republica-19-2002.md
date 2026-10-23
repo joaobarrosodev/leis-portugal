@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/19/2002/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/19-2002-263036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f5b94d6e57a0cdfd9399f14c4c8c6a3a97cc12d33c50a6920f8acbe6bee4f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cdc1099cfc9126b4a3670cf20fe48d41a2147a83896e2bec4e4992e5be5c510
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,29 @@ reuse:
 subjects:
 - CE Países
 - Convenção
-- Portugal
 - Decisão CE
-- União Europeia
+- Portugal
 - Privilegios e Imunidades
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/21/2002/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/21/2002/03/21/p/dre
+- type: cites
+  target: pt:dre:263033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:05Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +100,16 @@ validation:
 
 de 21 de Março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Decisão dos Representantes dos Governos dos Estados-Membros da União Europeia, reunidos no Conselho, de 15 de Outubro de 2001, Relativa aos Privilégios e Imunidades Concedidos ao Instituto de Estudos de Segurança e ao Centro de Satélites da União Europeia, bem como aos Seus Órgãos e aos Membros do Seu Pessoal, aprovada pela [Resolução da Assembleia da República n.º 21/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/21-2002-263033), em 20 de Dezembro de 2001.
 
-**Assinado em 7 de Março de 2002.**
+Assinado em 7 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Março de 2002.**
+Referendado em 12 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

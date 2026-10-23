@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/31/1991/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1991-633545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7376ec07606b4a8153665ea98463690ff45b079d9f97235afc68ec486fcfc99e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca91343376b35c9608ca7247568cec359ad2065b38f00c601db704956055f96d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfama
-- Lisboa
 - ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Câmara Municipal
+- Lisboa
 - Mouraria
 - Prorrogação de Prazo
-- Câmara Municipal
 - Venda de Imóveis
 relationships:
 - type: amended_by
   target: pt:dre:223385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223385:por
+  label: "Prorrogado o prazo fixado no nº 2 do art. 1º do DR 13/88 de 12-Mar, com a prorrogação determinada pelo presente\
+    \ diploma, pelo DR.8/95.1995.04.26.MPLAT, DR.IS-B [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-1995-223385
+  date: '1995-04-26'
+- type: cites
+  target: pt:dre:220959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:48Z'
   warnings: []
   errors: []
 ---
@@ -107,20 +129,20 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É prorrogado por três anos, a contar do seu termo, o prazo fixado no n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 13/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1988-285936), de 12 de Março.
+Artigo 1.º É prorrogado por três anos, a contar do seu termo, o prazo fixado no n.º 2 do artigo 1.º do [Decreto Regulamentar n.º 13/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1988-285936), de 12 de Março.
 
-###### Art. 2.º O disposto no presente diploma produz efeitos desde 18 de Março de 1991.
+Art. 2.º O disposto no presente diploma produz efeitos desde 18 de Março de 1991.
 
 Presidência do Conselho de Ministros, 15 de Abril de 1991.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 16 de Maio de 1991.**
+Promulgado em 16 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Maio de 1991.**
+Referendado em 19 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

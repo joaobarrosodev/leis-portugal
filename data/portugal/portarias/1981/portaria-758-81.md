@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-1981-564867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7609f7df603b8f56f202e41d79165a5ca73fd15025c161a18b62e69b77d76917
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd478549a328dc5e0939e5d87ebb18b0816bb2772ff0f17a3085e58f55418d4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Mestrado em Biotecnologia
+- Mestrado em Geologia de Engenharia
+- Mestrado em Mecânica dos Solos
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:01Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +213,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf)
 
 4 - Licenciatura a que se refere o n.º 5.º, n.º 1:
 
@@ -219,7 +235,7 @@ Um ano lectivo.
 
 3 - Áreas obrigatórias e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf)
 
 4 - Licenciaturas a que se refere o n.º 5.º, n.º 1:
 
@@ -243,7 +259,7 @@ Três semestres lectivos.
 
 3 - Áreas e unidades de crédito necessárias à obtenção do curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20300/23562358.pdf)
 
 I - Área de especialização em Biologia Molecular;
 

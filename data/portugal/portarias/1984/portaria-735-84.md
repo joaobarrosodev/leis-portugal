@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/735-1984-399451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ec02681e41d256348e87dab98e5fbfd4f4912b354a7a8246f4d2718267be91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c09605aed2f01f3667017ab0116803dd12afa28bba4f2b3ff7d0859ed9e6a9ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Especialização em Navios de Gases Liquefeitos
+- Escola Náutica Infante Dom Henrique
+- Marinha Mercante
+- Produto Químico
+- Trabalhador Portuário
+- Trabalho Portuário
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:485956:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622277:por
+  label: "Alterada pela PORT.24/85.1985.01.09.MM DR.IS [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-1985-622277
+  date: '1985-01-09'
+- type: cites
+  target: pt:dre:311178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:57Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +148,10 @@ Manda o Governo da República Portuguesa, pelo Ministro do Mar, o seguinte:
 
 Ministério do Mar.
 
-**Assinada em 22 de Agosto de 1984.**
+Assinada em 22 de Agosto de 1984.
 
 Pelo Ministro do Mar, José de Almeida Serra, Secretário de Estado da Marinha Mercante.
 
 ## ANEXO I — Modelo do certificado de qualificação a que se refere o n.º 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21900/29152916.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21900/29152916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21900/29152916.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/343/2007/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-2007-641443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ef0654a936042415fe3890993356cdbcc2ca5eb968ec228e7215496cad00807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 461cc7795414785b476c99cad6af06b52cf838b77eaaef8036f9ea492ac7b121
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
-- Normas de Segurança
-- Equipamento de Veículo
-- Regulamento
 - Normalização
+- Normas de Segurança
+- Regulamento
+- Veículo
 relationships:
 - type: cites
   target: celex:31993L0014
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:36Z'
   warnings: []
   errors: []
 ---
@@ -138,15 +138,15 @@ O processo de concessão da homologação no que diz respeito à travagem de um 
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Regulamento Relativo à Travagem dos Veículos a Motor de Duas e Três Rodas
 
@@ -332,7 +332,7 @@ Ensaios de travagem e comportamento funcional dos dispositivos de travagem
 
 1.1.2 - A distância de travagem é a distância percorrida pelo veículo desde o momento em que o condutor começa a accionar o comando do sistema de travagem até ao momento em que o veículo pára; a velocidade inicial v(índice 1) do veículo é a velocidade no momento em que o condutor começa a accionar o comando do sistema de travagem; a velocidade inicial não deve ser inferior a 98 % da velocidade prescrita para o ensaio em questão. A desaceleração média totalmente desenvolvida (d(índice m)) é dada pela desaceleração média em função da distância no intervalo v(índice b) a v(índice e) e é calculada através da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
 
 No que respeita à exactidão, os instrumentos utilizados devem permitir medir as velocidades e as distâncias com desvios que, às velocidades especificadas para o ensaio, não excedam (mais ou menos) 1 %. A desaceleração média totalmente desenvolvida, d(índice m), pode ser determinada por métodos que não envolvam a medição de velocidades e distâncias; nesse caso, a exactidão na determinação de d(índice m) deve ser de (mais ou menos) 3 %;
 
@@ -428,13 +428,13 @@ Esquema 1
 
 Método de molhagem para travões de disco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
 
 Esquema 2
 
 Método de molhagem [travões de garfo (caliper brake) e de acção sobre o cubo da roda (stirrup brake)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
 
 1.4 - Ensaio do tipo i (ensaio de perda de eficiência):
 
@@ -512,11 +512,11 @@ Velocidade de ensaio V = 60 km/h (1) para os motociclos;
 
 2.1.2.2 - Travagem exclusivamente com o travão da frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
 
 2.1.2.3 - Travagem exclusivamente com o travão de trás:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
 
 2.1.3 - Eficiência da travagem sem carga:
 
@@ -538,7 +538,7 @@ Velocidade de ensaio V = 60 km/h (2), para os motociclos e triciclos;
 
 2.2.3.1 - Travagem exclusivamente com o dispositivo combinado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19800/0744707456.pdf)
 
 2.2.3.2 - Travagem com o segundo dispositivo de travagem de serviço ou com o dispositivo de travagem de emergência, para todas as categorias.
 

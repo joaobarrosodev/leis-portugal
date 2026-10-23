@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2010/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2010-334327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65430a9732032340b31f7a8793dc5adb284824a259b97b4a3356f52014ef0e98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd45ebcb83bd89589e26d54ed2f503db3da8ffec4484a89ccdb5423d202ae231
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
 subjects:
 - Definição de Competências
 - Despesas de Representação
-- SISI
-- Secretário Geral
 - Gabinete Coordenador de Segurança
+- Secretário Geral
 - Secretário Geral do Sistema de Segurança Interna
+- SISI
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:59Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +183,7 @@ O funcionamento da sala de situação adequa-se, por determinação do Secretár
 
 ###### Artigo 9.º — Operadores de equipamentos e sistemas tecnológicos
 
-**O Secretário-Geral pode, nos termos da lei, requisitar às forças e serviços de segurança elementos com os conhecimentos técnicos necessários para operar os equipamentos e sistemas tecnológicos instalados na sala de situação.**
+O Secretário-Geral pode, nos termos da lei, requisitar às forças e serviços de segurança elementos com os conhecimentos técnicos necessários para operar os equipamentos e sistemas tecnológicos instalados na sala de situação.
 
 ###### Artigo 10.º — Directrizes e instruções do Secretário-Geral
 
@@ -191,12 +195,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Alberto de Sousa Martins - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 1 de Julho de 2010.**
+Promulgado em 1 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Julho de 2010.**
+Referendado em 5 de Julho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

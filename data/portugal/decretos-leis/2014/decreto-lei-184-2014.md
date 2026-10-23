@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2014-65983261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a3528ff88e47317ab6be3bbcddddf884d9fa9e12064e2f10605022a1e3e1f56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 825691c2947a674afc32f386e473e0b368b17bc1a27bd6d42457ff93cd0a4b05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Hospital das Forças Armadas
 - Centro de Informações e Segurança Militares
 - Chefe do Estado Maior General das Forças Armadas
 - Comando Operacional Conjunto
-- Ensino Superior Militar
 - Criação de Serviços
 - Definição de Competências
+- Ensino Superior Militar
 - Estado Maior Conjunto
+- Estado Maior General das Forças Armadas
 - Extinção de Serviços
+- Forças Armadas
+- Hospital das Forças Armadas
 - Instituto de Estudos Superiores Militares
 - Integração de Serviços
+- Militar
 - Missão Militar
 - Missão no Estrangeiro
-- Forças Armadas
 - Orgânica
 - Quadro de Pessoal
 - Quartel General de Operações Especiais
-- Militar
-- Estado Maior General das Forças Armadas
+- Reestruturação de Serviços
 - Unidade de Apoio Posupnato
 - Unidades de Apoio
 relationships:
@@ -124,16 +124,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/6/2003/01/20/p/dre
+- type: cites
+  target: pt:dre:172728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657443:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123725410:por
+  label: Revogado, na data da extinção do LMPQF como estabelecimento fabril do Exército, o n.º 2 do art. 53.º do presente
+    Decreto Lei, pelo(a) Decreto-Lei n.º 102/2019 - Diário da República n.º 149/2019, Série I de 2019-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2019-123725410
+  date: '2019-08-06'
+- type: repealed_by
+  target: pt:dre:178080766:por
+  label: Revogado pelo(a) Decreto-Lei n.º 19/2022 - Diário da República n.º 16/2022, Série I de 2022-01-24, a partir da data
+    prevista no art. 67.º e nos termos do disposto no n.º 1 do art. 64.º e da al. a) do art. 65.º todos daquele diploma, que
+    determinou, nos termos do disposto no n.º 2 do seu art. 55.º, a extinção, sendo objeto de fusão, a partir daquela data
+    e nos termos supracitados, do Adjunto para o Planeamento e Coordenação, da Direção de Comunicações e Sistemas de Informação
+    - sendo as suas atribuições integradas no CCICE, do Comando de Apoio Geral - sendo as suas atribuições integradas na Divisão
+    de Recursos (DIREC), na Unidade de Apoio ao EMGFA (UNAPEMGFA), no Comando Conjunto para as Operações Militares (CCOM)
+    e no Hospital das Forças Armadas (HFAR), do Gabinete de Ligação aos Adidos Militares – sendo as suas atribuições integradas
+    na Divisão de Planeamento Estratégico Militar (DIPLAEM).
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2022-178080766
+  date: '2022-01-24'
 article_structure:
   article_count: 55
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:46Z'
   warnings: []
   errors: []
 ---
@@ -620,7 +670,9 @@ b) A DIREC.
 
 3 - As divisões de estado-maior prosseguem, no âmbito das competências do CEMGFA e sem sobreposição com as competências específicas de outros órgãos e serviços do MDN, as atribuições previstas nos artigos seguintes.
 
-###### Artigo 26.º — Divisão de Planeamento Estratégico Militar
+###### Artigo 26.º
+
+##### Divisão de Planeamento Estratégico Militar
 
 1 - A DIPLAEM tem por missão prestar apoio de estado-maior nos âmbitos do planeamento estratégico militar, da prospetiva estratégica militar e transformação, das relações militares internacionais, do planeamento de forças, da doutrina militar conjunta e combinada, da organização e métodos e da atividade de avaliação.
 
@@ -682,7 +734,9 @@ d) A Repartição de Doutrina Militar Conjunta, Organização e Métodos;
 
 2 - As repartições são chefiadas por capitães-de-mar-e-guerra ou coronéis.
 
-###### Artigo 28.º — Divisão de Recursos
+###### Artigo 28.º
+
+##### Divisão de Recursos
 
 1 - A DIREC tem por missão prestar apoio de estado-maior no planeamento, de nível estratégico militar, dos recursos humanos, do ensino superior militar, da logística, da saúde militar e das finanças.
 
@@ -1338,30 +1392,30 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2015.
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 19 de dezembro de 2014.**
+Promulgado em 19 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de dezembro de 2014.**
+Referendado em 23 de dezembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 49.º)
 
 Cargos de comando, direção ou chefia de oficial general:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf))](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 49.º)
 
 Quadro de pessoal militar do EMGFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf))](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 49.º)
 
 Quadro de pessoal em cargos internacionais e missões militares colocados no EMGFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf))](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/25000/0638206397.pdf)

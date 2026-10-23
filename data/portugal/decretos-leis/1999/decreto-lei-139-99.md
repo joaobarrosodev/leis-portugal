@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/1999/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1999-531827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d86202a39048c3d2c0feb0bf5f4152506c9e9beda0aea1284c77bd8d84b4fe5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aee9eb4d7ef3c795b6e13bc281369de2fc81aa84f1f5195b82613b3d0eba641
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Livro de Reclamações
-- Espetáculos e Divertimentos Públicos
-- Turismo
+- Câmara Municipal
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Turismo
+- Espetáculos e Divertimentos Públicos
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Fiscalização
@@ -81,16 +80,36 @@ subjects:
 - Indústria Hoteleira
 - Interesse para o Turismo
 - Licenciamento
-- Câmara Municipal
+- Livro de Reclamações
 - Segurança das Instalações
 - Serviço Nacional de Bombeiros
 - Taxa
+- Turismo
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:250611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577710:por
+  label: "Alterada a al f) do nº 1 do art. 38º e o art. 46º do Dec Lei 168/97 de 04-Jul, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.222/2000.2000.09.09.MECO,DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2000-577710
+  date: '2000-09-09'
+- type: amended_by
+  target: pt:dre:239225:por
+  label: "Aditado o art. 2º-A ao Dec Lei 168/97 de 04-Jul, com a redacção conferida pelo presente diploma, pelo DEC LEI.9/2002.2002.01.24.PCM\
+    \ DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2002-239225
+  date: '2002-01-24'
+- type: amended_by
+  target: pt:dre:250611:por
+  label: "Alterados os arts. 1º. 2º, 3º, 4º, 6º a 19º, 23º, 26º, 28º a 38º, 41º, 44º e 46º a 54º, bem como prorrogado por\
+    \ mais dois anos o prazo previsto no nº 2 do art. 49º do Dec Lei 168/97 de 04-Jul, com a redacção do presente diploma,\
+    \ pelo DEC LEI.57/2002.2002.03.11.MECO DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2002-250611
+  date: '2002-03-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
   label: null
@@ -119,16 +138,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:406331:por
+  label: "Rectificado pela DECL-RECT.10-AR/99.1999.06.24.PCM, DR.IS-A [150]2ºSUPL de 30/Jun/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-ar-1999-406331
+  date: '1999-06-24'
 article_structure:
-  article_count: 78
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 61
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:19Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +235,9 @@ Estabelecimentos de restauração e de bebidas
 
 6 - ...
 
-###### Artigo 8.º — Parecer da entidade competente no âmbito das instalações eléctricas
+Artigo 8.º
+
+Parecer da entidade competente no âmbito das instalações eléctricas
 
 1 - No caso dos estabelecimentos previstos no n.º 4 do artigo 1.º, a emissão da licença de construção carece de parecer favorável a emitir pela Associação Inspectora de Instalações Eléctricas, para as de serviço particular de 5.ª categoria, nos termos do disposto no [Decreto-Lei n.º 272/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1992-597570), de 3 de Dezembro, ou pelas delegações regionais do Ministério da Economia, para todas as outras instalações.
 
@@ -185,7 +247,9 @@ Estabelecimentos de restauração e de bebidas
 
 4 - Para os efeitos do disposto no número anterior, o requerente deverá apresentar, juntamente com o projecto de arquitectura, o projecto de instalação eléctrica, excepto se for de 5.ª categoria de potência inferior a 50 kVA, nos termos do disposto no [Decreto-Lei n.º 272/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1992-597570), de 3 de Dezembro.
 
-###### Artigo 12.º — Vistoria
+Artigo 12.º
+
+Vistoria
 
 1 - ...
 
@@ -213,7 +277,9 @@ f) Um representante de outra associação patronal do sector, no caso de o reque
 
 7 - ...
 
-###### Artigo 16.º — Intimação judicial para um comportamento
+Artigo 16.º
+
+Intimação judicial para um comportamento
 
 1 - ...
 
@@ -221,7 +287,9 @@ f) Um representante de outra associação patronal do sector, no caso de o reque
 
 3 - As associações patronais do sector da restauração e bebidas que tenham personalidade jurídica podem intentar, em nome dos seus associados, os pedidos de intimação previstos no presente artigo.
 
-###### Artigo 21.º — Vistoria para efeitos de classificação
+Artigo 21.º
+
+Vistoria para efeitos de classificação
 
 1 - ...
 
@@ -245,11 +313,15 @@ d) Um representante de outra associação patronal do sector, no caso de o reque
 
 7 - ...
 
-###### Artigo 31.º — Período de funcionamento
+Artigo 31.º
+
+Período de funcionamento
 
 Os estabelecimentos de restauração e de bebidas devem estar abertos ao público durante todo o ano, salvo se a entidade exploradora comunicar à respectiva câmara municipal ou à Direcção-Geral do Turismo, no caso dos estabelecimentos classificados, qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, até ao dia 1 de Outubro de cada ano, em que período pretende encerrar o estabelecimento no ano seguinte.
 
-###### Artigo 32.º — Estado das instalações e do equipamento
+Artigo 32.º
+
+Estado das instalações e do equipamento
 
 1 - ...
 
@@ -257,7 +329,9 @@ Os estabelecimentos de restauração e de bebidas devem estar abertos ao públic
 
 3 - A câmara municipal ou a Direcção-Geral do Turismo, no caso dos estabelecimentos classificados, qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, pode determinar a reparação das deteriorações e avarias verificadas, fixando prazo para o efeito, consultando as autoridades de saúde quando estiverem em causa o cumprimento de requisitos de instalação e funcionamento relativos à higiene e saúde pública e as entidades responsáveis pelo controlo oficial da higiene dos géneros alimentícios, nos termos previstos no [Decreto-Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1998-197365), de 18 de Março.
 
-###### Artigo 35.º — Competência de fiscalização
+Artigo 35.º
+
+Competência de fiscalização
 
 1 - Compete às câmaras municipais:
 
@@ -275,11 +349,15 @@ d) ...
 
 4 - Quando as acções de fiscalização previstas nos números anteriores forem efectuadas a pedido dos órgãos regionais ou locais de turismo, da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal ou das associações patronais do sector, a câmara municipal ou a Direcção-Geral do Turismo, consoante os casos, deve enviar àquelas entidades, no prazo de oito dias a contar da data da sua realização, cópia do auto de fiscalização.
 
-###### Artigo 36.º — Serviços de inspecção
+Artigo 36.º
+
+Serviços de inspecção
 
 Aos funcionários da Direcção-Geral do Turismo, das câmaras municipais e, quando for caso disso, dos órgãos regionais ou locais em serviço de inspecção deve ser facultado o acesso aos estabelecimentos de restauração e de bebidas e apresentados os documentos justificadamente solicitados.
 
-###### Artigo 38.º — Contra-ordenações
+Artigo 38.º
+
+Contra-ordenações
 
 1 - Para além das previstas no regulamento a que se refere o n.º 5 do artigo 1.º e das estabelecidas no artigo 54.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, constituem contra-ordenações:
 
@@ -331,7 +409,9 @@ s) A violação do disposto no n.º 2 do artigo 49.º
 
 7 - ...
 
-###### Artigo 39.º — Sanções acessórias
+Artigo 39.º
+
+Sanções acessórias
 
 1 - ...
 
@@ -345,37 +425,51 @@ s) A violação do disposto no n.º 2 do artigo 49.º
 
 6 - ...
 
-###### Artigo 41.º — Competência sancionatória
+Artigo 41.º
+
+Competência sancionatória
 
 1 - A aplicação das coimas e das sanções acessórias previstas no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º compete às câmaras municipais, com excepção dos estabelecimentos de restauração e de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho.
 
 2 - ...
 
-###### Artigo 42.º — Produto das coimas
+Artigo 42.º
+
+Produto das coimas
 
 1 - O produto das coimas aplicadas pela Direcção-Geral do Turismo por infracção ao disposto no presente diploma e ao regulamento a que se refere o n.º 5 do artigo 1.º reverte em 60% para os cofres do Estado e em 40% para a Direcção-Geral do Turismo.
 
 2 - O produto das coimas aplicadas pelas câmaras municipais por infracção ao disposto no presente diploma e ao regulamento a que se refere o n.º 5 do artigo 1.º constitui receita dos respectivos municípios.
 
-###### Artigo 43.º — Embargo e demolição
+Artigo 43.º
+
+Embargo e demolição
 
 Os presidentes das câmaras municipais são competentes para embargar e ordenar a demolição das obras realizadas em violação do disposto no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º, por sua iniciativa ou mediante comunicação da Direcção-Geral do Turismo, no caso dos estabelecimentos de restauração e de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 44.º — Interdição de utilização
+Artigo 44.º
+
+Interdição de utilização
 
 Os presidentes das câmaras municipais e o director-geral do Turismo, no caso dos estabelecimentos de restauração e de bebidas classificados, dos qualificados como típicos ou declarados de interesse para o turismo, nos termos previstos no artigo 57.º do [Decreto-Lei n.º 167/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1997-156001), de 4 de Julho, são competentes para determinar a interdição temporária da utilização de partes individualizadas, instalações ou equipamentos dos estabelecimentos de restauração e de bebidas, sem prejuízo das competências atribuídas às autoridades de saúde e às autoridades responsáveis pela fiscalização e controlo da qualidade alimentar nessa matéria respectivamente pelos Decretos-Leis n.os [336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, e [67/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1998-197365), de 18 de Março, que, pelo seu deficiente estado de conservação ou pela falta de cumprimento do disposto no presente diploma e no regulamento a que se refere o n.º 5 do artigo 1.º, sejam susceptíveis de pôr em perigo a saúde pública ou a segurança dos utentes, ouvidas as autoridades de saúde pública com competência territorial.
 
-###### Artigo 45.º — Taxas
+Artigo 45.º
+
+Taxas
 
 Pelas vistorias requeridas pelos interessados à Direcção-Geral do Turismo são devidas taxas de montante a fixar, bem como a repartição do mesmo pelas entidades envolvidas, por portaria conjunta dos Ministros das Finanças e da Economia.
 
-###### Artigo 46.º — Registo
+Artigo 46.º
+
+Registo
 
 1 - É organizado pela Direcção-Geral do Turismo, em colaboração com as câmaras municipais e a FERECA - Federação da Restauração, Cafés, Pastelarias e Similares de Portugal, o registo central dos estabelecimentos de restauração e de bebidas classificados, nos termos e prazos a estabelecer em portaria do membro do Governo responsável pela área do turismo.
 
 2 - As entidades exploradoras dos estabelecimentos de restauração e de bebidas devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos do registo previstos na portaria a que se refere o número anterior no prazo de 30 dias a contar da data em que tenha lugar essa alteração.
 
-###### Artigo 49.º — Regime aplicável aos estabelecimentos de restauração e de bebidas existentes
+Artigo 49.º
+
+Regime aplicável aos estabelecimentos de restauração e de bebidas existentes
 
 1 - ...
 
@@ -397,17 +491,19 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 30 de Março de 1999.**
+Promulgado em 30 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Abril de 1999.**
+Referendado em 15 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Âmbito
 
@@ -795,7 +891,9 @@ d) Proceder à organização e instrução dos processos referentes às contra-o
 
 Aos funcionários da Direcção-Geral do Turismo, das câmaras municipais e, quando for caso disso, dos órgãos regionais ou locais, em serviço de inspecção deve ser facultado o acesso aos estabelecimentos de restauração e de bebidas e apresentados os documentos justificadamente solicitados.
 
-###### Artigo 37.º — Livro de reclamações
+###### Artigo 37.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos de restauração e de bebidas deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 

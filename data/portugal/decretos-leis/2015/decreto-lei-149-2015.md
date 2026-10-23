@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15000/0536105371.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2015/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2015-69935162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eff7cafdc4cf2a5ce39d251a60fece103408340340977363b3c97a25e57b3f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67d27ba3cdccffff0779aa2c0f10f40a032fb052dec225a8fb376df76cbe7120
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património Cultural Imaterial
-- Ficheiro Informático
-- Recolha de Dados
-- BENS Classificados
-- Direção Geral do Património Cultural
-- Património Cultural
-- Conselho Nacional de Cultura
 - Base de Dados
-- Página na Internet
+- BENS Classificados
+- Conselho Nacional de Cultura
+- Direção Geral do Património Cultural
+- Ficheiro Informático
 - Internet
-- Protecção do Património
 - Inventário
+- Página na Internet
+- Património Cultural
+- Património Cultural Imaterial
+- Protecção do Património
+- Recolha de Dados
 relationships:
 - type: amended_by
   target: pt:dre:1049507264:por
@@ -123,16 +123,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/12/2008/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/12/2008/03/26/p/dre
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
+  article_count: 35
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:10Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +277,9 @@ e) [Anterior alínea e) do n.º 2].
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -223,7 +293,9 @@ e) [Anterior alínea e) do n.º 2].
 
 6 - A Direção-Geral das Artes presta, em articulação com a Direção-Geral do Património Cultural e as direções regionais de cultura, o apoio à divulgação e à valorização de manifestações do património cultural imaterial, sempre que adequado.
 
-###### Artigo 6.º — Inventário Nacional do Património Cultural Imaterial
+Artigo 6.º
+
+Inventário Nacional do Património Cultural Imaterial
 
 1 - A proteção legal do património cultural imaterial, através de registo no «Inventário Nacional do Património Cultural Imaterial», constitui componente indispensável da salvaguarda do património cultural imaterial à escala nacional.
 
@@ -237,7 +309,9 @@ a) No registo de inventariação, sempre que a sua viabilidade futura não se en
 
 b) No registo de salvaguarda urgente, sempre que a sua viabilidade futura se encontre comprometida, designadamente devido a ameaças e riscos significativos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A base de dados referida no n.º 3 do artigo anterior compreende os domínios identificados no n.º 3 do artigo 1.º, que integram categorias predefinidas de manifestações de património cultural imaterial, e deve permitir, designadamente, o acesso aos respetivos elementos de documentação bibliográfica, fotográfica, fonográfica ou audiovisual do património inventariado.
 
@@ -247,7 +321,9 @@ b) No registo de salvaguarda urgente, sempre que a sua viabilidade futura se enc
 
 4 - [Revogado.]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O pedido de proteção legal de uma manifestação do património cultural imaterial é dirigido à Direção-Geral do Património Cultural através de formulário eletrónico próprio disponibilizado na página eletrónica do «Inventário Nacional do Património Cultural Imaterial».
 
@@ -261,7 +337,9 @@ b) No registo de salvaguarda urgente, sempre que a sua viabilidade futura se enc
 
 6 - O formulário eletrónico referido no n.º 1, as respetivas normas de preenchimento e os elementos relevantes a constar da fundamentação do pedido de proteção legal de uma manifestação do património cultural imaterial são aprovados por portaria do membro do Governo responsável pela área da cultura.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O pedido de proteção legal de uma manifestação do património cultural imaterial é arquivado, dispensando a consulta pública prevista no presente decreto-lei, quando o objeto do pedido:
 
@@ -273,7 +351,9 @@ c) Não demonstre, manifestamente, ter resultado do consentimento das comunidade
 
 d) [Anterior alínea b)].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Na apreciação dos pedidos de proteção legal são tidos em conta, individual ou conjuntamente, os seguintes critérios:
 
@@ -293,15 +373,21 @@ g) [...]
 
 h) [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Na aplicação dos critérios referidos no artigo anterior, a Direção-Geral do Património Cultural pondera os contextos que, pelo seu valor de testemunho, possuam com aqueles uma relação interpretativa e informativa, designadamente os bens móveis ou imóveis que constituem o suporte material da manifestação do património cultural imaterial.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A Direção-Geral do Património Cultural convida ao aperfeiçoamento do pedido de inventariação quando não estiverem satisfeitos os elementos referidos no n.º 2 do artigo 8.º, e, se o julgar necessário, quando se tratem de informações necessárias ao desenvolvimento normal do procedimento ou que impeçam a tomada de decisão.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sempre que estejam em causa decisões sobre o registo no «Inventário Nacional do Património Cultural Imaterial», a Direção-Geral do Património Cultural pede parecer às direções regionais de cultura e às câmaras municipais relevantes em função da abrangência territorial da manifestação do património cultural imaterial, a emitir no prazo de 40 dias, caso as mesmas entidades não sejam o proponente do procedimento de proteção legal.
 
@@ -315,7 +401,9 @@ A Direção-Geral do Património Cultural convida ao aperfeiçoamento do pedido 
 
 6 - São aplicáveis subsidiariamente aos pareceres previsto no presente artigo as regras constantes do Código do Procedimento Administrativo, independentemente da natureza da entidade consultada.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A Direção-Geral do Património Cultural promove consulta pública do projeto de decisão de proteção legal de uma manifestação do património cultural imaterial através de aviso a publicar no Diário da República, o qual deve prever o recurso a meios eletrónicos para a participação, nomeadamente o recurso a meios eletrónicos específicos para a Administração Pública e a plataformas de participação cívica de âmbito geral.
 
@@ -333,13 +421,17 @@ d) [...].
 
 4 - As direções regionais de cultura, em articulação com a Direção-Geral do Património Cultural, promovem a mais ampla divulgação da consulta pública junto das câmaras municipais relevantes, em função da abrangência da manifestação do património cultural imaterial, bem como das comunidades, grupos ou indivíduos a que a mesma manifestação respeite.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Concluído o período de consulta pública, a Direção-Geral do Património Cultural, decide sobre o pedido de proteção legal no prazo de 120 dias.
 
 2 - A decisão é publicada no Diário da República e divulgada nas páginas eletrónicas da Direção-Geral do Património Cultural e das direções regionais de cultura.
 
-###### Artigo 16.º — Salvaguarda do património cultural imaterial à escala internacional
+Artigo 16.º
+
+Salvaguarda do património cultural imaterial à escala internacional
 
 1 - A inscrição de uma manifestação do património cultural imaterial no registo de inventariação do «Inventário Nacional do Património Cultural Imaterial» constitui condição prévia e indispensável para a sua eventual candidatura à «Lista Representativa do Património Cultural Imaterial da Humanidade».
 
@@ -349,13 +441,17 @@ d) [...].
 
 4 - Sempre que verificada a maior amplitude ou transversalidade de um elemento considerado para candidatura à «Lista do Património Cultural Imaterial que necessita de Salvaguarda Urgente» face aos domínios a que se refere o n.º 3 do artigo 1.º, é assegurada a inscrição prévia de, pelo menos, uma manifestação do património cultural imaterial relativa àquele elemento no registo de salvaguarda urgente do «Inventário Nacional do Património Cultural Imaterial».
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - É admissível o registo no «Inventário Nacional do Património Cultural Imaterial» de uma manifestação do património cultural imaterial dispensando a consulta pública prevista no artigo 14.º, desde que comprovada a necessidade de salvaguarda urgente.
 
 2 - O pedido de registo de salvaguarda urgente no «Inventário Nacional do Património Cultural Imaterial» de uma manifestação do património cultural imaterial obedece ao disposto no artigo 8.º
 
-###### Artigo 18.º — Revisão
+Artigo 18.º
+
+Revisão
 
 1 - O registo de inventariação ou de salvaguarda urgente de uma manifestação do património cultural imaterial é objeto de revisão ordinária em período de 10 anos, sem prejuízo de revisão em período inferior sempre que sejam conhecidas alterações relevantes.
 
@@ -365,7 +461,9 @@ d) [...].
 
 4 - Qualquer interessado pode suscitar, a todo o tempo e nos termos do disposto no número anterior, a revisão extraordinária do registo de inventariação ou de salvaguarda urgente de uma manifestação do património cultural imaterial.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os bens móveis suporte de manifestações do património cultural imaterial registadas no «Inventário Nacional do Património Cultural Imaterial», bem como os elementos gráficos, sonoros, audiovisuais usados na respetiva documentação, devem ser, sempre que adequado, objeto de incorporação ou de depósito em museu com vista à sua salvaguarda.
 
@@ -373,7 +471,9 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As manifestações do património cultural imaterial registadas no «Inventário Nacional do Património Cultural Imaterial» devem ser consideradas na elaboração de programas sectoriais no âmbito do ordenamento do território, do ambiente, da educação e formação e do turismo.
 
@@ -381,7 +481,9 @@ d) [...].
 
 3 - A proteção legal de uma manifestação do património cultural imaterial pode determinar a inventariação ou a classificação dos bens móveis ou imóveis que representem o seu suporte material e que revelem especial interesse etnográfico ou antropológico.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - A Direção-Geral do Património Cultural divulga na página eletrónica do «Inventário Nacional do Património Cultural Imaterial» as decisões referidas no n.º 3 do artigo 4.º, bem como no sistema de pesquisa online de informação pública que indexa todos os conteúdos públicos dos sítios na Internet das entidades públicas, previsto no artigo 49.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, [72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 16 de junho, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
@@ -397,15 +499,15 @@ São revogados o n.º 4 do artigo 7.º, os artigos 21.º a 27.º e o artigo 30.�
 
 Visto e aprovado em Conselho de Ministros de 14 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 23 de julho de 2015.**
+Promulgado em 23 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de julho de 2015.**
+Referendado em 23 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

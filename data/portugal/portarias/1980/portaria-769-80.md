@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/769-1980-461594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ce28a4c2a24e473ac8f6f47eaad54bebcb24e81d98fcd809c96b05e52235944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 377dfa16969af05a8d1fc1d1987c31ec9f125d11446c2f7126c3bc507a55e59b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Organização Administrativa
+- Direcção Geral de Recrutamento e Formação
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:378311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567893:por
+  label: "Mantidas em vigor as disposições do presente diploma, até à entrada em vigor dos diplomas a que se referem os nºs\
+    \ 1 e 2 do art. 19º do Dec Lei 99/81, de 05-Mai, pelo DEC LEI.331/81.1981.12.04.MRA, DR.IS [279]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1981-567893
+  date: '1981-12-04'
+- type: amended_by
+  target: pt:dre:378311:por
+  label: "Mantidos em vigor os n.os 4.º e 5.º, pelo DR.72/82.03.11.1982.MFP, DR.IS [254] de 03.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/72-1982-378311
+  date: '1982-11-03'
+- type: cites
+  target: pt:dre:231292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:39Z'
   warnings: []
   errors: []
 ---
@@ -203,10 +229,10 @@ Secretarias de Estado da Reforma Administrativa e do Orçamento, 18 de Setembro 
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1.º da Portaria n.º 769/80, de 2 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/22800/30833084.pdf))](https://files.diariodarepublica.pt/1s/1980/10/22800/30833084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/22800/30833084.pdf)
 
 ## ANEXO II — Quadro de pessoal a que se refere o n.º 2.º da Portaria n.º 769/80, de 2 de Outubro
 
 Lugares a abater aos quadros de pessoal da DGOA e da DGRF, previstos nos Decretos Regulamentares n.os [82/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/82-1979-231292) e [80/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/80-1979-231301), respectivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/22800/30833084.pdf))](https://files.diariodarepublica.pt/1s/1980/10/22800/30833084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/22800/30833084.pdf)

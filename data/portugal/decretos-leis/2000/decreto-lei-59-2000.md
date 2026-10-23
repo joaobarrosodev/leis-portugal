@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/093a00/16741682.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2000/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2000-522799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 575cd7927c7b8f1375a9ed89f0a45723ab57d9898a9c3d5b8099ffbc963314d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb9b0c87e8bcd29e914f693013c57e52691b8bd7984ee037208299be7ee1f94b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Instituto do Emprego e Formação Profissional
-- Multa
-- Entidade Certificadora
-- REDE Pública de Telecomunicações
+- Comunicações
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
+- Entidade Certificadora
 - Equipamento
+- Equipamento de Transmissão
 - Fiscalização
 - Instituto das Comunicações de Portugal
+- Instituto do Emprego e Formação Profissional
 - Licenciamento
+- Multa
 - Normas de Segurança
+- Prédio Urbano
 - Prestação de Serviços
 - Projeto
 - Proteção do Consumidor
-- Comunicações
+- REDE Pública de Telecomunicações
 - Registo Obrigatório
-- Prédio Urbano
-- Equipamento de Transmissão
 - Vistoria
 relationships:
 - type: amended_by
@@ -109,16 +109,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/767-a/1993/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/767-a/1993/08/31/p/dre
+- type: cites
+  target: pt:dre:215735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666155:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:665960:por
+  label: "Rectificado pela DECL-RECT.7-C/2000.2000.06.30.PCM DR.IS-A [149]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-c-2000-665960
+  date: '2000-06-30'
+- type: repealed_by
+  target: pt:dre:608758:por
+  label: "Revogado, pelo DEC LEI.123/2009.21.05.2009.MOPTC, DR.IS [98] de 21.05.2009, sem prejuízo do disposto no n.º 2 do\
+    \ art. 109.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2009-608758
+  date: '2009-05-21'
 article_structure:
   article_count: 57
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:38Z'
   warnings: []
   errors: []
 ---
@@ -719,12 +758,12 @@ São revogados o [Decreto-Lei n.º 146/87](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 3 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 31 de Março de 2000.**
+Promulgado em 31 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

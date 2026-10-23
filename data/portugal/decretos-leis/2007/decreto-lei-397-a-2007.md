@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 251/2007, 2º Suplemento, Série I de 2007-12-31
   number: '251'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 9178-(456) a 9178-(460)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/25102/0045600460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/397-a/2007/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-a-2007-529217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5176c2d9cec37783d0336aa02918cf65dd58cc22ff1619156ba68382995b2fae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b3497fec3fd2bc1c2fc6ef54d526c678d4a9ab36e856b11223fe33db4d1dd97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
+- CASA PIA de Lisboa
 - Definição de Competências
 - Estatuto do Pessoal
-- CASA PIA de Lisboa
 - Orgânica
+- Património
 - Pessoal Docente
 relationships:
 - type: amended_by
@@ -100,16 +100,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/2/2006/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/2/2006/01/06/p/dre
+- type: cites
+  target: pt:dre:168222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553937:por
+  label: "Revogado, a partir de 01.04.2012, pelo DEC LEI.77/2012.26.03.2012.MSSSOC, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2012-553937
+  date: '2012-03-26'
+- type: repeals
+  target: pt:numero:decreto-lei:50/2001
+  label: "Revoga, a partir de 01.01.2008, com excepção do art. 39.º, e n.º 1 do art. 44.º, que se mantêm em vigor para o pessoal\
+    \ auxiliar de apoio residencial que não opte pelo regime do contrato individual de trabalho da Administração Pública,\
+    \ o Decreto-Lei n.º 50/2001, de 13 de Fevereiro, DR.IS-A [37], cujas normas foram repristinadas por caducidade do Decreto-Lei\
+    \ n.º 10/2006, de 13 de Janeiro\0\0"
+  source: null
+  date: '2001-02-13'
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:36Z'
   warnings: []
   errors: []
 ---
@@ -398,12 +435,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 27 de Novembro de 2007.**
+Promulgado em 27 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Novembro de 2007.**
+Referendado em 28 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2006/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2006-694200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18958486633f0a4a01b7337bb9f4a0bd4d692e85fd58813c67665e6a058925c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba4fd5bdfa98e3b0ba8dac17d2c523b6bf059f08471413f63ea6b51e70b93813
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - Gado Suíno
-- Política Agrícola Comum
 - Pecuária
+- Política Agrícola Comum
+- Proteção dos Animais
 relationships:
 - type: cites
   target: celex:32001L0088
@@ -85,14 +85,14 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/135/2003/06/28/p/dre
 article_structure:
   article_count: 3
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:48Z'
   warnings: []
   errors: []
 ---
@@ -149,13 +149,17 @@ n) ...
 
 o) 'Sistema de criação e engorda em regime intensivo' o que em área coberta ou ao ar livre não utiliza o pastoreio em qualquer das fases do processo produtivo.
 
-## ANEXO — CAPÍTULO I
+ANEXO
+
+CAPÍTULO I
 
 [...]
 
 ...
 
-### CAPÍTULO II — [...]
+CAPÍTULO II
+
+[...]
 
 A - [...]
 
@@ -185,12 +189,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 15 de Fevereiro de 2006.**
+Promulgado em 15 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Fevereiro de 2006.**
+Referendado em 15 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

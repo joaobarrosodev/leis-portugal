@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-1975-160735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:40:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b34b580c88999735105f9e526f45554d9d601eb988a06a2da486bc119f559d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 015175c4c3502e12d10130e3e6b6ef3e86bc135f0ae77709713e00c914bda6f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:40:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,58 @@ relationships:
   target: pt:dre:279184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336490:por
+  label: Revistos, até 31.12.1975, os preços do aposento e do primeiro almoço, almoço e jantar a praticar nos estabelecimentos
+    hoteleiros de interesse para o turismo classificados no grupo 2 e revogados os preços referentes a estes estabelecimentos
+    publicados em anexo ao presente diploma, pelo(a) Portaria n.º 458/75 - Diário do Governo n.º 170/1975, Série I de 1975-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-1975-336490
+  date: '1975-07-25'
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430850:por
+  label: Revogado o n.º 16, pelo(a) Portaria n.º 472/76 - Diário da República n.º 179/1976, Série I de 1976-08-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/472-1976-430850
+  date: '1976-08-02'
+- type: repealed_by
+  target: pt:dre:289213:por
+  label: Revogados os n.os 4.º e 11.º pelo(a) Portaria n.º 181-A/77 - Diário da República n.º 76/1977, 2º Suplemento, Série
+    I de 1977-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-a-1977-289213
+  date: '1977-03-31'
+- type: repealed_by
+  target: pt:dre:279184:por
+  label: Revogada, a partir de 01.11.1977, pelo(a) Portaria n.º 636/77 - Diário da República n.º 231/1977, Série I de 1977-10-06,
+    que manteve, contudo, transitoriamente em vigor, o regime de preços dela constantes para as Regiões Autónomas até que
+    cada um dos respectivos Governos disponha diversamente.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1977-279184
+  date: '1977-10-06'
+- type: repealed_by
+  target: pt:dre:31007000:por
+  label: "Revogada pela PORT.37/77.29.11.1977.SRCI-RAA, JOA-IS [17] de 29.11.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/37-1977-31007000
+  date: '1977-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:40:01Z'
   warnings: []
   errors: []
 ---
@@ -145,14 +187,14 @@ Secretarias de Estado do Abastecimento e Preços e do Comércio Externo e Turism
 
 QUARTOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf)
 
 Nota. - Estes preços incluem todas as taxas e impostos.
 
 APARTAMENTOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05600/03640366.pdf)
 
 Nota. - Estes preços incluem todas as taxas e impostos.
 
-**O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo. - O Secretário de Estado do Comércio Externo e Turismo, José Vera Jardim.**
+O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo. - O Secretário de Estado do Comércio Externo e Turismo, José Vera Jardim.

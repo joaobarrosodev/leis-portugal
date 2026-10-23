@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22312-1966-479224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 145da90e4b42ecad27d058b9ffc80084c506edd1e0f8d616f4fd55820f3298d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce4a996482cdf02e4ace9063fc3b6d159859286368b4e06d5d2bcfa42bdddca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:454348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683272:por
+  label: Mantidas em vigor as disposições do presente diploma pelo(a) Portaria n.º 49/73 - Diário do Governo n.º 20/1973,
+    Série I de 1973-01-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-1973-683272
+  date: '1973-01-24'
+- type: amended_by
+  target: pt:dre:381103:por
+  label: "Dada nova redacção ao n.º 2 do presente diploma, pela PORT.294/79.22.06.1979.MAP, DR.IS [142] de 22.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-1979-381103
+  date: '1979-06-22'
+- type: cites
+  target: pt:dre:169944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680600:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:461806:por
+  label: "Revogado o n.º 3 pela PORT.734/80.26.09.1980.MAP, DR.IS [223] de 26.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/734-1980-461806
+  date: '1980-09-26'
+- type: repealed_by
+  target: pt:dre:568098:por
+  label: "Revogado o n.º 2 pela PORT.1094-D/80.26.12.1980.MAP, DR.IS [297-5.º Supl] de 26.12.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1094-d-1980-568098
+  date: '1980-12-26'
+- type: repealed_by
+  target: pt:dre:454348:por
+  label: Revogada, a partir de 01.01.1984, pelo(a) Portaria n.º 826/83 - Diário da República n.º 180/1983, Série I de 1983-08-06,
+    en tudo o que contrarie aquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-1983-454348
+  date: '1983-08-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:52Z'
   warnings: []
   errors: []
 ---

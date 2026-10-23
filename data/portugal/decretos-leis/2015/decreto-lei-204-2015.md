@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/204/2015/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2015-70300351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c01e0917a876a1658cc88c2a979464abaa9f7df1f9f32f42fad2fd87a72a568
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 228f58c4c2a44bdb44ba75bea531dfadc7c3aa5f3b80d9d36d8089e8e8c6317f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
+- Espécie Protegida
 - Instituto da Conservação da Natureza e das Florestas
 - Proteção do Ambiente
-- Espécie Protegida
+- Rede Natura 2000
+- Vida Selvagem
 - Zona de Proteção
 - ZONA de Protecção Especial da Costa Sudoeste
-- Rede Natura 2000
 - ZONA de Protecção Especial do CABO Espichel
 - Zona Especial de Conservação
 relationships:
@@ -120,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/26/1995/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/26/1995/09/21/p/dre
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:16Z'
   warnings: []
   errors: []
 ---
@@ -170,15 +194,15 @@ Os originais das cartas constantes dos anexos i e ii ao presente decreto-lei, à
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 10 de setembro de 2015.**
+Promulgado em 10 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de setembro de 2015.**
+Referendado em 11 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -196,7 +220,7 @@ Inicia-se na foz do barranco do Porto (carta militar n.º 535), seguindo este cu
 
 Considera-se o limite marítimo da ZPE como sendo uma faixa de 2 km definida ao longo da linha de costa em toda a sua extensão entre a ponta da Almádena a sul e o ponto 1 correspondente à numeração na figura, o qual é seguido pelas linhas retas que unem os pontos 1, 2, 3, 4, 5 e 6 cujas coordenadas se apresentam de seguida e correspondentes à numeração na figura 1 anexa, sendo que a norte do ponto 6 o limite marítimo segue de novo uma faixa de 2 km definida ao longo da linha de costa até à foz do barranco do Porto a norte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf)
 
 Na tabela, as coordenadas retangulares (X e Y) referem-se ao Sistema de Referência PT-TM06/ETRS89 (Projeção Transversa de Mercator) e as coordenadas geográficas (Latitude e Longitude) referem-se ao Sistema de Referência ETRS89 (Elipsóide GRS80). As coordenadas retangulares estão representadas na figura pela quadrícula espaçada de 10 000 metros (cruzes).»
 
@@ -212,6 +236,6 @@ Limites
 
 O limite da área da Zona de Proteção Especial do Cabo Espichel é definido a este pela linha de baixa-mar até à foz da ribeira das Lajes (praia da Foz), onde segue por esta ribeira até à estrada que liga a Aldeia do Meco com a zona nascente de Casais da Azoia. Continua depois por essa estrada, no sentido sudoeste, até ao ponto de encontro com o caminho que estabelece ligação à zona poente de Casais da Azoia e que antecede as instalações pecuárias da Quinta do Cabo. Prossegue por esse caminho, no sentido sudoeste, até ao cruzamento com o caminho proveniente daquela pecuária. Segue por este, no sentido do ribeiro dos Caixeiros e, logo de seguida, inflete para noroeste, até ao ponto de encontro com o caminho que liga a EN 379 às proximidades da foz do ribeiro dos Caixeiros. Segue por este caminho, no sentido sudeste, passa junto ao Casal de São João, até ao ponto de encontro com a EN 379, ao quilómetro 1,7. Transpõe aquela estrada nacional e segue o caminho, que ao infletir para nordeste passa junto às instalações da empresa Aeroportos e Navegação Aérea, até à Rua da Pedra do Mar em Serra da Azoia. Segue por essa rua, para noroeste, até encontrar a placa de identificação desta em Aldeia Nova. Inflete depois para sul, por um caminho que acompanha parte do Vale da Couve e, posteriormente, continua para sudeste, passando junto ao Penedo, até encontrar uma linha de água proveniente da Serra dos Pinheirinhos. Inflete para sul, seguindo a linha de água até ao ponto de encontro com o mar, a nascente do areal da Cova da Mijona. Daqui, segue o paralelo iniciado no ponto 1 e, de seguida, os limites definidos pelas linhas retas que unem os pontos com as seguintes coordenadas, correspondentes à numeração na figura seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18200/0824108243.pdf)
 
 Na tabela, as coordenadas retangulares (X e Y) referem-se ao Sistema de Referência PT-TM06/ETRS89 (Projeção Transversa de Mercator) e as coordenadas geográficas (Latitude e Longitude) referem-se ao Sistema de Referência ETRS89 (Elipsóide GRS80). As coordenadas retangulares estão representadas na figura pela quadrícula espaçada de 5000 metros (cruzes).»

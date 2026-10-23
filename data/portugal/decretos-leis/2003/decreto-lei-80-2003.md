@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2003/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2003-239796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc1e01c6d985a6cfea8062c1ca0dea5d2498747590aad2b816f12ee8110eec08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e6bf0ec97c28d40868dc1ec9abaf4f8a9793210fd1da8889f1bd9e87a779483
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,91 @@ reuse:
 subjects:
 - Código do IRC
 - Código do IRS
-- IRS
 - IRC
+- IRS
 - Retenção na Fonte
 relationships:
 - type: amended_by
   target: pt:dre:66022085:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605329:por
+  label: "Alterado o art. 90º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.34/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2005-605329
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:583434:por
+  label: "Alterado o art. 101º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.192/2005.07.11.2005.MFAP, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 90.º do Código do IRC, aprovado pelo Dec Lei n.º 442-B/88, de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, e com a redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 90.º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, e na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 88.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 88.º e 90.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 88º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, e republicado pelo Dec Lei 159/2009, de 13-Jul, pela\
+    \ LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 88º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 101º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 7º do Dec Lei 42/91 de 22-jan, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 16.º, 88.º, 90.º e 91.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado
+    pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterado o art. 101.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,
+    pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/228/2002/10/31/p/dre
   label: null
@@ -88,16 +165,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+- type: cites
+  target: pt:dre:298192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:210392:por
+  label: "Rectificado o art. 2º [na parte que altera o nº 5 do art. 90º do Código do IRC, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul], pelo DECL-RECT.7-A/2003.2003.05.14.PCM DR.IS-A [126]2º\
+    \ Supl de 31/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-2003-210392
+  date: '2003-05-14'
 article_structure:
-  article_count: 12
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:32Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +270,9 @@ Métodos e competência para a determinação da matéria colectável
 
 4 - A determinação do lucro tributável por métodos indirectos só pode efectuar-se nos termos e condições referidos na secção V.
 
-###### Artigo 88.º — Retenção na fonte
+Artigo 88.º
+
+Retenção na fonte
 
 1 - ...
 
@@ -190,7 +308,9 @@ b) Quando, não se tratando de rendimentos prediais, o titular dos rendimentos s
 
 7 - (Anterior n.º 8.)
 
-###### Artigo 90.º — Dispensa de retenção na fonte
+Artigo 90.º
+
+Dispensa de retenção na fonte
 
 1 - Não existe obrigação de efectuar a retenção na fonte de IRC, quando este tenha a natureza de imposto por conta, nos seguintes casos:
 
@@ -218,7 +338,9 @@ h) ...
 
 5 - (Eliminado.)
 
-###### Artigo 91.º — Liquidação adicional
+Artigo 91.º
+
+Liquidação adicional
 
 1 - ...
 
@@ -250,7 +372,9 @@ Situação pessoal e familiar
 
 5 - As tabelas de retenção na fonte referidas nos números anteriores serão anualmente aprovadas por despacho do Ministro das Finanças, devendo na sua construção ser integralmente respeitados os princípios consagrados neste diploma.
 
-###### Artigo 7.º — Procedimentos especiais
+Artigo 7.º
+
+Procedimentos especiais
 
 1 - Quando forem pagos ou colocados à disposição do respectivo titular rendimentos das categorias A ou H em mês, do mesmo ano, diferente daquele a que respeitam, recalcula-se o imposto e retém-se apenas a diferença entre a importância assim determinada e aquela que, com referência ao mesmo período, tenha eventualmente sido retida.
 
@@ -264,7 +388,9 @@ São aditados dois novos capítulos ao [Decreto-Lei n.º 42/91](https://diarioda
 
 Retenções de IRS sobre rendimentos abrangidos por convenções internacionais
 
-###### Artigo 18.º — Dispensa de retenção e reembolso
+Artigo 18.º
+
+Dispensa de retenção e reembolso
 
 1 - Não existe obrigação de efectuar a retenção na fonte de IRS, no todo ou em parte, consoante os casos, relativamente aos rendimentos referidos no artigo 71.º do Código do IRS quando, por força de uma convenção destinada a evitar a dupla tributação celebrada por Portugal, a competência para a tributação dos rendimentos auferidos por um residente do outro Estado contratante não seja atribuída ao Estado da fonte ou o seja apenas de forma limitada.
 
@@ -274,9 +400,13 @@ Retenções de IRS sobre rendimentos abrangidos por convenções internacionais
 
 4 - O sujeito passivo não residente, quando não tenha efectuado a prova no prazo referido no número anterior, pode requerer à Direcção-Geral dos Impostos o reconhecimento dos benefícios resultantes de convenção destinada a evitar a dupla tributação e solicitar o reembolso, no todo ou em parte, do imposto retido na fonte, no prazo de dois anos a contar da data da verificação do facto gerador do imposto, mediante apresentação de formulário de modelo aprovado por despacho do Ministro das Finanças.
 
-### CAPÍTULO V — Disposições diversas
+CAPÍTULO V
 
-###### Artigo 19.º — Disposições finais
+Disposições diversas
+
+Artigo 19.º
+
+Disposições finais
 
 1 - O direito à remuneração previsto nos artigos 14.º e seguintes constitui-se relativamente à liquidação do IRS que deva efectuar-se em resultado dos factos tributários que ocorram após a entrada em vigor deste diploma.
 
@@ -296,12 +426,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2003.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 4 de Abril de 2003.**
+Promulgado em 4 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 2003.**
+Referendado em 9 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

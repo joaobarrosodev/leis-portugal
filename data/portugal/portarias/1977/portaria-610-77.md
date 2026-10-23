@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22100/23142316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-1977-278534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:26:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e425a6ffc1308e9eeff7fa5a8f703d43fc8c732e2a7a64f57851d64908d7a73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31add2b2c16346dee0767649af2c7ba19d12d92520ed5e342ab87cf90b820158
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:26:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Concurso de Habilitação
+- Marinha
+- Pessoal Militarizado
+- Polícia Marítima
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:384258:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393061:por
+  label: "Alterados os nºs 3, 4, 5, 16, 17, 18, 20 e 30 pela PORT.444/82.1982.04.30.CR, DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-1982-393061
+  date: '1982-04-30'
+- type: cites
+  target: pt:dre:501375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:384258:por
+  label: "Revogada pela PORT.334/84.04.06.1984.MDN, DR.IS [129] de 04.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/334-1984-384258
+  date: '1984-06-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:26:43Z'
   warnings: []
   errors: []
 ---

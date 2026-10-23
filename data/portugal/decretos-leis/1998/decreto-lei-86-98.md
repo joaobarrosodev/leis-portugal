@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/079a00/14461455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1998-209017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b7a440c6a28170fa28a9ab06d7a4bc1b98abc159c215761fc5f6322bb741ae3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b04aa9070bc00a4eca9541c2bd2e1b24b8080b2b89d4d23e42eea1614f74f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Multa
+- Centro de Exame
 - Contra-ordenação
 - Direcção Geral de Viação
-- Centro de Exame
 - Ensino de Condução
 - Escola de Condução
 - Instrutor de Condução
 - Licenciamento
-- Veículo
+- Multa
 - Regime Jurídico
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:571931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437230:por
+  label: "Alterada a redacção dos arts. 4.º a 9.º, 17.º, 21.º, nºs. 4 e 5 do art. 25.º e art. 27.º e aditado um art. 10.º-A,\
+    \ pela LEI.51/98.1998.08.18.AR DR.IS-A [189]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-1998-437230
+  date: '1998-08-18'
+- type: amended_by
+  target: pt:dre:423058:por
+  label: "Alterada a redacção do nº 4 do art. 10º e do art. 13º pelo DEC LEI.315/99.1999.08.11.MAI, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1999-423058
+  date: '1999-08-11'
+- type: amended_by
+  target: pt:dre:261503:por
+  label: "Alterado o art. 30º e aditado o art. 36º-A ao presente diploma, com a redacção dada pela Lei 51/98 de 18-Ago e pelo\
+    \ Dec Lei 315/99 de 11-Ago, pelo DEC LEI.127/2004.01.06.2004.MAI, DR.IS-A [128] de 01.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2004-261503
+  date: '2004-06-01'
 - type: cites
   target: celex:31991L0439
   label: null
   source: http://data.europa.eu/eli/dir/1991/439/oj
+- type: corrected_by
+  target: pt:dre:546856:por
+  label: "Rectificado pela DECL-RECT.10-C/98.1998.05.29.PCM DR.IS-A [125]2ºSupl de 30/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-c-1998-546856
+  date: '1998-05-29'
+- type: repealed_by
+  target: pt:dre:571931:por
+  label: "Revogado a partir de 16.06.2014, na redação da Lei 51/98, de 18-ago e dos Decs Lei 315/99, de 11-ago e 127/2004,\
+    \ de 01-jun, pela LEI.14/2014.18.03.2014.AR, DR.IS [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2014-571931
+  date: '2014-03-18'
 article_structure:
   article_count: 54
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:49Z'
   warnings: []
   errors: []
 ---
@@ -691,12 +719,12 @@ O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 20 de Março de 1998.**
+Promulgado em 20 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

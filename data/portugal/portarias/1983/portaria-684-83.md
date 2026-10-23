@@ -48,36 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1983-452001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d3527b6051521e9f615f67984199540adeb796605f45f929be70912a56c1bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81e7e46769947ad3e8457576bf04f921fc2b5330bfd9bd471bcc7cc6ee625c18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- TAP
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:376595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:18Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +123,7 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 1.º São aprovadas as tarifas de transporte aéreo de passageiros a praticar nos serviços regulares das linhas a seguir especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
 
 2.º Não são permitidas paragens voluntárias (stop-overs) no Funchal ou em Porto Santo, excepto para passageiros de tarifa normal.
 
@@ -148,7 +175,7 @@ Tarifa de 45 kg ... 39$00
 
 Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
 
-**Assinada em 25 de Maio de 1983.**
+Assinada em 25 de Maio de 1983.
 
 Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - Pelo Ministro da Agricultura, Comércio e Pescas, António Escaja Gonçalves, Secretário de Estado do Comércio. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.
 
@@ -204,8 +231,8 @@ Os passageiros com menos de 6 meses de residência que se encontrem vinculados p
 
 Elementos das Forças Armadas, Guarda Fiscal, Guarda Nacional Republicana e Polícia de Segurança Pública, quando deslocados em comissão de serviço na região, são igualmente elegíveis, mediante apresentação de documento devidamente autenticado pela unidade de comando a que pertençam comprovativo de residência há mais de 6 meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
 
 ## ANEXO II — Tarifas especiais de carga entre o continente e a Região Autónoma da Madeira e entre esta e a Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22707-1967-312235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be95259cedd7e82ce29499a624400730c1832e1edca7a081f9d9716f19b16433
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e92b08fd182ab0052ae1edd850c0aac3314c0e347e1319e9f197d2b70b4c1f21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:481559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658745:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:21Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +101,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termo
 
 Ministério das Finanças, 5 de Junho de 1967. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/06/13100/12131214.pdf))](https://files.diariodarepublica.pt/1s/1967/06/13100/12131214.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/06/13100/12131214.pdf)
 
 Ministério das Finanças, 5 de Junho de 1967. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.

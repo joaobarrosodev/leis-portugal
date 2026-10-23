@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/19/2001/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/19-2001-347955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30be8a1cb3f89833887a3b66bd799518b8a64391e181d33c49b010073a58dc1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70013f53413de3dc177b3beca5059021a50a6e86137dad77a4b42e9bd323e6da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
 subjects:
 - Chanceler das Ordens Nacionais
 - Nomeação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:372798:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:39Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +92,12 @@ validation:
 
 de 23 de Março
 
-**O Presidente da República decreta, nos termos do artigo 27.º, n.º 2, da Lei Orgânica das Ordens Honoríficas Portuguesas, aprovada pelo [Decreto-Lei n.º 414-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798), de 15 de Dezembro, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 27.º, n.º 2, da Lei Orgânica das Ordens Honoríficas Portuguesas, aprovada pelo [Decreto-Lei n.º 414-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798), de 15 de Dezembro, o seguinte:
 
 São nomeados chanceleres das antigas ordens militares, das ordens nacionais e das ordens de mérito civil, respectivamente, o Prof. Doutor Rui Nogueira Lobo de Alarcão e Silva, o embaixador Dr. João de Sá Coutinho Rebello Sotto Mayor e o Pe. Dr. Victor José Melícias Lopes.
 
-**Assinado em 9 de Março de 2001.**
+Assinado em 9 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

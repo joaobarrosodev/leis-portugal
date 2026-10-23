@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 231/1993, 1º Suplemento, Série I-A de 1993-10-01
   number: '231'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5556-(2) a 5556-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/231a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/51/1993/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-1993-275841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0052b717bf9d6fa02aca9f8bf7f7ac196c2ee5032c9d132c8e7c41e295630721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc1decd0c95153266bd3cf09bbb459696c3c0b5023023085c825e5911904218f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - Congresso Postal Universal
 - Convenção
-- Portugal
 - Hamburgo
-- ACTO Constitutivo
+- Portugal
 - Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/30/1993/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/30/1993/10/01/p/dre
+- type: cites
+  target: pt:dre:253048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275842:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:11Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +103,16 @@ validation:
 
 de 1 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 São ratificados o Terceiro Protocolo Adicional à Constituição da União Postal Universal, aprovada pelo [Decreto-Lei n.º 47597](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47597-1967-253048), de 21 de Março de 1967, e o Regulamento Geral da União Postal Universal, a Convenção Postal Universal, com Protocolo Final, e o respectivo Regulamento de Execução, assinados no XIX Congresso da referida União, celebrado em Hamburgo em Julho de 1984, aprovados, para ratificação, pela [Resolução da Assembleia da República n.º 30/93](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/30-1993-275842), em 16 de Outubro de 1990.
 
-**Assinado em 3 de Setembro de 1993.**
+Assinado em 3 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1993.**
+Referendado em 8 de Setembro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

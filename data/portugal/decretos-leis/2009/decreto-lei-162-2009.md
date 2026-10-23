@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/2009/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2009-492383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6281cf09f0b938427a69c347dca1d768af5fa430212d413c30f50785ac511903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce426f99aec873a7526e57bb377bc96a4a8c47dffce03fbb9469f6034cf330e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,27 +72,27 @@ reuse:
 subjects:
 - Agência de Câmbio
 - Aproximação das Legislações
-- Instituição de Crédito
+- Atividade Bancária
+- Banca
+- Banco de Portugal
 - Caixa Central de Crédito Àgrícola Mútuo
 - Caixa de Crédito Agrícola
 - Caixa de Crédito Agrícola Mútuo
 - Caixa Económica
 - Caixa Geral de Depósitos Crédito e Previdência
+- CMVM
 - Definição de Competências
 - Finangeste
 - Fundo de Garantia de Depósitos
 - Fundo de Garantia do Crédito Agrícola Mútuo
-- Banco de Portugal
 - Ilícito de MERA Ordenação Social
-- Banca
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
 - Operações de Bolsa
-- Sanção Penal
 - Pessoa Colectiva de Direito Público
+- Sanção Penal
 - Segredo Profissional
 - Sigilo Bancário
-- CMVM
-- Instituição Financeira
 - Sistema Integrado de Crédito Àgrícola Mútuo
 - Sociedade Administradora de Compras em Grupo
 - Sociedade Corretora
@@ -112,6 +112,40 @@ relationships:
   target: pt:dre:176907512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação aos arts. 155º, 156º, 165º, 167º e 167º-A do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras, aprovado pelo Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF,\
+    \ DR.IS [30-Supl] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterado o art. 167º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:55068738:por
+  label: Dada nova redação ao art. 155.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo
+    Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 114-A/2014 - Diário da República n.º
+    147/2014, 1º Suplemento, Série I de 2014-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-a-2014-55068738
+  date: '2014-08-01'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Altera, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, o art 167.º do Regime Geral
+    das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na
+    redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterados, a partir de 31.03.2015, os arts. 5.º, 13.º e 14.º do Dec. Lei 345/98 de 09-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26 que procedeu
+    à sua republicação no anexo II
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
 - type: cites
   target: celex:31994L0019
   label: null
@@ -133,15 +167,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/345/1998/11/09/p/dre
 article_structure:
-  article_count: 19
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:45Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +270,9 @@ Os artigos 101.º, 155.º, 156.º, 157.º, 165.º, 167.º e 167.º-A do Regime G
 
 4 - O prazo previsto no n.º 1 é de cinco anos relativamente às participações indirectas detidas através de sociedades de capital de risco e de sociedades gestoras de participações sociais.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +286,9 @@ b) Prestar apoio financeiro ao Sistema de Indemnização aos Investidores, nas m
 
 4 - ...
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +304,9 @@ b) Prestar apoio financeiro ao Sistema de Indemnização aos Investidores, nas m
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - As instituições de crédito que captem depósitos em Portugal devem prestar ao público, de forma facilmente compreensível, todas as informações pertinentes relativas aos sistemas de garantia de que beneficiem os depósitos que recebem, nomeadamente as respectivas identificação e disposições, bem como os respectivos montante, âmbito de cobertura e prazo máximo de reembolso.
 
@@ -280,7 +320,9 @@ b) Prestar apoio financeiro ao Sistema de Indemnização aos Investidores, nas m
 
 6 - O Banco de Portugal define, por aviso, os elementos, o modo e a periodicidade da comunicação prevista no número anterior.
 
-###### Artigo 165.º — [...]
+Artigo 165.º
+
+[...]
 
 1 - Excluem-se da garantia de reembolso:
 
@@ -314,7 +356,9 @@ m) Os depósitos de titulares que actuem por conta de quaisquer pessoas ou entid
 
 4 - Caso haja uma decisão judicial de não reconhecimento do direito à cobertura pelo Fundo, após a efectivação do reembolso, a operação de reembolso é revertida em benefício do Fundo.
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - O reembolso deve ter lugar dentro dos seguintes prazos:
 
@@ -344,7 +388,9 @@ c) ...
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 167.º-A — [...]
+Artigo 167.º-A
+
+[...]
 
 1 - ...
 
@@ -378,7 +424,9 @@ Os artigos 5.º, 13.º e 14.º do Decreto-Lei n.º 345/98, de 9 de Novembro, alt
 
 6 - O Banco de Portugal define, por aviso, os elementos, o modo e a periodicidade da comunicação prevista no número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Excluem-se da garantia de reembolso:
 
@@ -412,7 +460,9 @@ m) Os depósitos de titulares actuando por conta de quaisquer pessoas ou entidad
 
 4 - Caso haja uma decisão judicial de não reconhecimento do direito à cobertura pelo Fundo após a efectivação do reembolso, a operação de reembolso é revertida em benefício do Fundo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O reembolso deve ter lugar dentro dos seguintes prazos:
 
@@ -446,7 +496,9 @@ Os artigos 3.º, 6.º, 7.º, 9.º, 10.º, 12.º e 14.º do Decreto-Lei n.º 222/
 
 2 - Para efeitos do disposto no número anterior, os fundos devidos aos investidores e que se encontram especialmente afectos a operações de investimento incluem os créditos de que os mesmos sejam titulares sobre uma entidade participante do Sistema e que resultem de operações de investimento cujas condições contratuais estabeleçam uma garantia de reembolso de montantes determinados ou determináveis.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -462,7 +514,9 @@ Os artigos 3.º, 6.º, 7.º, 9.º, 10.º, 12.º e 14.º do Decreto-Lei n.º 222/
 
 7 - As entidades participantes são obrigadas a fornecer ao Sistema a informação que se revele necessária para uma adequada avaliação dos compromissos assumidos, nomeadamente os elementos que permitam analisar a contabilidade da entidade e o montante dos créditos dos investidores, sem prejuízo de a CMVM poder recolher e verificar essa informação nas instalações da entidade participante.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -472,7 +526,9 @@ Os artigos 3.º, 6.º, 7.º, 9.º, 10.º, 12.º e 14.º do Decreto-Lei n.º 222/
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Excluem-se da cobertura do Sistema:
 
@@ -504,7 +560,9 @@ l) Os créditos decorrentes de operações de investimento de que sejam titulare
 
 4 - Caso haja uma decisão judicial de não reconhecimento do direito à cobertura do Sistema, após a sua atribuição, a indemnização concedida é revertida em benefício do Sistema.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O Sistema garante o reembolso dos créditos decorrentes de operações de investimento de que seja titular o investidor à data em que se verificarem as situações previstas no n.º 1 do artigo seguinte até um limite máximo de (euro) 25 000.
 
@@ -514,7 +572,9 @@ l) Os créditos decorrentes de operações de investimento de que sejam titulare
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Sistema fica sub-rogado na titularidade dos direitos dos investidores na medida das indemnizações que tenha efectuado, não lhe sendo oponível qualquer negócio jurídico celebrado entre os investidores e as entidades participantes, nomeadamente a renúncia a direitos.
 
@@ -522,7 +582,9 @@ l) Os créditos decorrentes de operações de investimento de que sejam titulare
 
 3 - Os valores recuperados ao abrigo do disposto no número anterior revertem para a massa insolvente, nos termos da lei, ou para o Sistema, caso em que ficam afectos à cobertura das respectivas responsabilidades.
 
-###### Artigo 14.º — Dever de informação
+Artigo 14.º
+
+Dever de informação
 
 1 - As empresas de investimento e as instituições de crédito devem prestar ao público, de forma facilmente compreensível, todas as informações pertinentes relativas ao sistema de indemnização de que beneficiem os fundos que recebem, nomeadamente a respectiva identificação e disposições, bem como os respectivos montante, âmbito de cobertura e prazo máximo de pagamento da indemnização.
 
@@ -542,12 +604,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 10 de Julho de 2009.**
+Promulgado em 10 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Julho de 2009.**
+Referendado em 13 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215/2002/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2002-432175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ed243abc214e5a759e30aa721fb1777ca3301d32ec7f6ae94a750b9106993f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f85ea8b25c97723bf3b2dfacfb791c7d0e7d4ceec3deaf8b9af69e443538491c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
 subjects:
 - BDAP
 - Definição de Competências
+- Direcção Geral da Administração Pública
 - Direcção Geral do Património
 - Extinção de Serviços
-- Ministério das Finanças
 - Infocid
-- Sociedade da Informação
 - Instituto de Gestão da BASE de Dados dos Recursos Humanos da Administração Pública
 - Instituto de Informática
-- Instituto para a Inovação na Administração do Estado
-- Direcção Geral da Administração Pública
 - Instituto para a Gestão das Lojas do Cidadão
+- Instituto para a Inovação na Administração do Estado
+- Ministério das Finanças
 - Serviço Público Directo
+- Sociedade da Informação
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -103,16 +103,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:219145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621721:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:302160:por
+  label: "Revogado o art. 4º pelo DEC LEI.98/2004.03.05.2004.PCM, DR.IS-A [103] de 03.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2004-302160
+  date: '2004-05-03'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:12Z'
   warnings: []
   errors: []
 ---
@@ -193,12 +214,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 7 de Outubro de 2002.**
+Promulgado em 7 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Outubro de 2002.**
+Referendado em 11 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

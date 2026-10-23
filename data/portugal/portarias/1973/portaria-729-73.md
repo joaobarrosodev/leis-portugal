@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/729-1973-412263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d07e2b578de3674bfcb7f3e2850fb57c513c71f3a57b7205f068d02c80f46b83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d852654302e561771dee94d52d7b4c0d89a788132054dfb8353539d088a62f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686047:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:37Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +91,7 @@ de 23 de Outubro
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos termos do artigo 7.º do [Decreto-Lei n.º 448/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1972-686047), de 13 de Novembro, introduzir na tabela de despesa do orçamento privativo das forças terrestres do Estado de Moçambique em vigor no ano de 1973 as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24800/19341934.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24800/19341934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24800/19341934.pdf)
 
 Presidência do Conselho, 23 de Setembro de 1973. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 

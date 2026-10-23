@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1978-425557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 840c6caf16f7b8c18ebb853aba34fcb909e58a3799e5dc91ba9fe2c631d6f3d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3bbd6079c9c5a87e798214bbbd6842104f5d07b11eaa713002bec7c59903542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Administração Geral do Porto de Lisboa
+- Admissão de Pessoal
+- Formas de Provimento
+- Promoção Profissional
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:307219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:19Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +122,17 @@ Considerando o disposto no artigo 2.º do [Decreto-Lei n.º 519/75](https://diar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - É aprovado o Regulamento de Admissão e Promoção do Pessoal dos Quadros da Administração-Geral do Porto de Lisboa, anexo ao presente diploma.
+Artigo único - 1 - É aprovado o Regulamento de Admissão e Promoção do Pessoal dos Quadros da Administração-Geral do Porto de Lisboa, anexo ao presente diploma.
 
 2 - O Regulamento a que se refere o número precedente entra em vigor no dia seguinte ao da publicação deste diploma.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Manuel Branco Ferreira Lima.
 
-**Promulgado em 14 de Abril de 1978.**
+Promulgado em 14 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DE ADMISSÃO E PROMOÇÃO DO PESSOAL DOS QUADROS DA ADMINISTRAÇÃO-GERAL DO PORTO DE LISBOA
 
@@ -220,4 +244,4 @@ As matérias constantes da alínea a) do artigo 3.º, n.os 1 e 2 do artigo 6.º 
 
 As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações.
 
-**O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.**
+O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

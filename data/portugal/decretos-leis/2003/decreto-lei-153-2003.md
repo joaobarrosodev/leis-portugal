@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/158a00/39573965.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/2003/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2003-667550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e067ec249707f362f57eaef81d706077aef0970ecad60e9e1a478475bf4d1e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49c3d3f1ef92aa6b3a76da163519547de3db91c391018cfa7f11b3ad8dfa51b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,31 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Armazenagem
-- Gestão de Resíduos
-- Financiamento
-- Incineração
+- Comércio
 - Comissão de Acompanhamento da Gestão de Óleos Usados
+- Financiamento
 - Fiscalização
+- Gestão de Resíduos
+- Incineração
 - Inspecção Geral das Actividades Económicas
 - Inspecção Geral do Ambiente
-- Licenciamento
 - Instituto dos Resíduos
+- Licenciamento
 - ÓLEO Usado
 - Proteção do Ambiente
 - Regime Jurídico
 - Sanção
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:169360995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Alterados os arts. 2.º, 4.º, 6.º, 24.º, 25.º, 26.º e 27.º e revogado o nº 5 do art. 24º, pelo DEC LEI.73/2011.17.06.2011.MAOT,\
+    \ DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
 - type: cites
   target: celex:31975L0439
   label: null
@@ -106,16 +112,28 @@ relationships:
   target: celex:32001D0068
   label: null
   source: http://data.europa.eu/eli/dec/2001/68/oj
+- type: repealed_by
+  target: pt:dre:540016:por
+  label: "Revogados o nº 3 do art. 15º, o nº 1 do art. 16º, o art. 20º, o nº 4 do art. 22º, a al. g) do nº 1 do art. 25º e\
+    \ o art. 29º do presente diploma pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o presente diploma, na redação dos Decs Leis 178/2006 de 05-set e 73/2011 de 17-jun,
+    pelo(a) Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
   article_count: 33
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:52Z'
   warnings: []
   errors: []
 ---
@@ -590,12 +608,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 23 de Junho de 2003.**
+Promulgado em 23 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Julho de 2003.**
+Referendado em 2 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

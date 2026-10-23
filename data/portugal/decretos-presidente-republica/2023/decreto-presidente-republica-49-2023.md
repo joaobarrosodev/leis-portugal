@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08800/0000600006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/49/2023/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/49-2023-212665137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b29051c2b8ee30123d57ed01e6bc5357df03708728cb3a1907d36314570ab08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f38aa988c797cb60e008e045e9bde64271286d9a0d0ecdaec68e32d2aa166a35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Vice-chefe do Estado Maior do Exército
 - Homologação
 - Nomeação
+- Vice-chefe do Estado Maior do Exército
 relationships:
 - type: amended_by
   target: pt:dre:864224892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:864224892:por
+  label: Homologada, com efeitos a 9 de maio de 2024, a exoneração do Vice-Chefe do Estado-Maior do Exército, cuja nomeação
+    foi homologada pelo presente diploma, pelo(a) Decreto do Presidente da República n.º 44/2024 - Diário da República n.º
+    90/2024, Série I de 2024-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/44-2024-864224892
+  date: '2024-05-09'
+- type: amends
+  target: pt:numero:decreto-presidente-republica:90/2018
+  label: Homologa, com efeitos a 17.05.2023, a exoneração do Vice-Chefe do Estado-Maior do Exército, cuja nomeação foi confirmada
+    pelo Decreto do Presidente da República n.º 90/2018, de 6 de dezembro, Diário da República n.º 235/2018, Série I
+  source: null
+  date: '2018-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:48:26Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +113,7 @@ validation:
 
 de 8 de maio
 
-**O Presidente da República decreta, nos termos do n.º 5 do artigo 25.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 5 do artigo 25.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:
 
 1 - É homologada a exoneração do Tenente-General Rui Davide Guerra Pereira do cargo de Vice-Chefe do Estado-Maior do Exército, em virtude de transitar, a seu pedido, para a situação de reserva, efetuada por despacho da Ministra da Defesa Nacional de 26 de abril de 2023, sob proposta do Chefe do Estado-Maior do Exército, datada de 21 de abril de 2023.
 
@@ -104,8 +121,10 @@ de 8 de maio
 
 3 - O presente decreto produz efeitos à data de 17 de maio de 2023.
 
-**Assinado em 2 de maio de 2023.**
+Assinado em 2 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+116426252

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02600/0070100709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2015/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37d83a480e99aa96d662e5e4a5e87e741f05523bafda540b56a8495bbbe3a521
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04abc1bc3ae492f487ed266626721e69ed5bf1c85d3d9909655c52950438f43f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Agência para o Desenvolvimento e Coesão
-- Multa
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comunicação Social
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
 - Inclusão Digital
-- Madeira.região Autónoma
-- Publicação
 - Leitura Pública
-- Açores
+- Madeira.região Autónoma
+- Multa
+- Publicação
 relationships:
 - type: amended_by
   target: pt:dre:912444913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106579661:por
+  label: Alterado o art. 20.º do Dec Lei 98/2007 de 02-abr, na versão republicada pelo presente diploma pelo(a) Decreto-Lei
+    n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2017-106579661
+  date: '2017-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/6/2005/01/06/p/dre
   label: null
@@ -92,16 +98,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/98/2007/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/98/2007/04/02/p/dre
+- type: cites
+  target: pt:dre:457007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
+  article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:43Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +166,9 @@ Os artigos 1.º, 4.º, 5.º, 9.º a 13.º e 15.º a 20.º do [Decreto-Lei n.º 9
 
 5 - Estão excluídos da comparticipação prevista no presente decreto-lei os brindes.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -170,7 +186,9 @@ e) Terem uma tiragem mínima por edição de 1000 exemplares nos seis meses ante
 
 3 - O mesmo trabalhador não pode ser considerado por mais de uma publicação periódica para efeitos de preenchimento do número de profissionais exigido nos números anteriores.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -190,7 +208,9 @@ e) Terem uma tiragem mínima por edição de 1000 exemplares nos seis meses ante
 
 9 - As publicações referidas nos n.os 1 a 5 apenas beneficiam de comparticipação até à gramagem máxima de 200 g por exemplar, incluindo suplementos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Cabe às CCDR a instrução dos processos de candidatura para a atribuição de comparticipação dos custos de expedição postal.
 
@@ -206,7 +226,9 @@ e) Terem uma tiragem mínima por edição de 1000 exemplares nos seis meses ante
 
 7 - Cada CCDR comunica à comissão de acompanhamento as decisões de deferimento e indeferimento que profere no âmbito do presente incentivo.
 
-###### Artigo 10.º — Título de acesso
+Artigo 10.º
+
+Título de acesso
 
 1 - A comprovação do enquadramento de uma publicação no regime do presente decreto-lei, designadamente no momento de cada expedição, é feita mediante a apresentação de um título de acesso emitido pela CCDR competente, que contém o número de titular, previamente atribuído, o regime de comparticipação aplicável, as datas de emissão e de caducidade, o título da respetiva publicação periódica e a designação da entidade requerente.
 
@@ -218,7 +240,9 @@ e) Terem uma tiragem mínima por edição de 1000 exemplares nos seis meses ante
 
 5 - [Revogado].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As entidades titulares das publicações abrangidas por comparticipação nos custos de expedição postal para assinantes obrigam-se a informar a CCDR competente de qualquer alteração relacionada com o cumprimento dos requisitos gerais e específicos que determinaram o respetivo enquadramento, devendo essa informação ser prestada nos 15 dias subsequentes à ocorrência da alteração.
 
@@ -232,7 +256,9 @@ e) Terem uma tiragem mínima por edição de 1000 exemplares nos seis meses ante
 
 6 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -262,7 +288,9 @@ i) [Revogada].
 
 5 - [Revogado].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -276,7 +304,9 @@ d) [...].
 
 2 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -304,13 +334,17 @@ l) A utilização do benefício instituído pelo presente decreto-lei quando oco
 
 2 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Em função da gravidade da infração e da culpa do agente, a prática de contraordenação muito grave pode também dar lugar à sanção acessória de privação do direito a beneficiar de incentivos à comunicação social por um período não superior a dois anos.
 
 2 - A prática de duas contraordenações graves no prazo de três anos pode ainda dar lugar à sanção acessória de privação do direito a beneficiar da comparticipação prevista no presente decreto-lei por um período não superior a dois anos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O processamento das contraordenações previstas no presente decreto-lei cabe à CCDR competente, nos termos do artigo 9.º.
 
@@ -318,7 +352,9 @@ l) A utilização do benefício instituído pelo presente decreto-lei quando oco
 
 3 - O produto das coimas reverte em 60 % para o Estado e em 40 % para a CCDR competente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A fiscalização da aplicação do presente decreto-lei cabe à CCDR competente em função da respetiva área de atuação definida na lei, que pode mandatar outras entidades, de reconhecida independência, para a prática de atos de fiscalização e auditoria.
 
@@ -326,7 +362,9 @@ l) A utilização do benefício instituído pelo presente decreto-lei quando oco
 
 3 - [Anterior n.º 2].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A utilização abusiva do incentivo, qualquer outra conduta violadora do regime consagrado no presente decreto-lei ou a omissão de informação com repercussão nas condições de atribuição do incentivo e nos níveis de comparticipação determinam a reposição das verbas indevidamente comparticipadas.
 
@@ -334,7 +372,9 @@ l) A utilização do benefício instituído pelo presente decreto-lei quando oco
 
 3 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os encargos decorrentes da aplicação deste decreto-lei são inscritos anualmente no orçamento da Agência para o Desenvolvimento e Coesão, I. P., que fica incumbida da certificação e do pagamento das verbas respeitantes ao incentivo previsto no presente decreto-lei.
 
@@ -352,23 +392,31 @@ Majoração para o desenvolvimento digital
 
 2 - A majoração prevista no número anterior vigora apenas durante um período máximo de dois anos consecutivos.
 
-###### Artigo 4.º-B — Majoração em função do PIB e baixa densidade
+Artigo 4.º-B
+
+Majoração em função do PIB e baixa densidade
 
 1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo 4.º, pode, respeitadas as condições de acesso, atingir a percentagem de 50 %, nos casos de assinantes residentes em território nacional, caso a empresa proprietária ou editora da publicação desenvolva o seu projeto ou atividade em territórios de baixa densidade ou em territórios com um índice PIB per capita regional inferior a 75 % da média do PIB per capita nacional.
 
 2 - Para efeitos do disposto no número anterior, consideram-se territórios de baixa densidade os de nível NUTS III com menos de 100 habitantes por Km2.
 
-###### Artigo 4.º-C — Majoração para captação de novos leitores
+Artigo 4.º-C
+
+Majoração para captação de novos leitores
 
 1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo 4.º, pode, respeitadas as condições de acesso, atingir a percentagem de 100 %, nos casos em que os assinantes sejam estabelecimentos do ensino básico, secundário ou superior em território nacional, caso tenha sido deferida candidatura ao incentivo à literacia e educação para a comunicação social, nos termos e com as condições definidas no diploma que aprova o regime de incentivos do Estado à comunicação social e do respetivo regulamento.
 
 2 - A majoração prevista no número anterior vigora apenas durante o período de duração do projeto apoiado no âmbito do incentivo à literacia e educação para a comunicação social, não podendo contemplar mais do que uma assinatura por estabelecimento de ensino.
 
-###### Artigo 9.º-A — Publicitação
+Artigo 9.º-A
+
+Publicitação
 
 As entidades responsáveis pela atribuição do incentivo previsto no presente decreto-lei devem manter no respetivo sítio na Internet listagens atualizadas das entidades beneficiárias, com identificação das respetivas publicações, número de assinaturas e correspondentes montantes de comparticipação.
 
-###### Artigo 20.º-A — Regiões Autónomas
+Artigo 20.º-A
+
+Regiões Autónomas
 
 1 - As competências atribuídas no presente decreto-lei às comissões de coordenação e desenvolvimento regional são exercidas nas Regiões Autónomas pelos organismos regionalmente competentes, com a participação, em cada uma das Regiões, de comissões de acompanhamento previstas no diploma que aprova o regime de incentivos do Estado à comunicação social.
 
@@ -396,15 +444,15 @@ O presente decreto-lei entra em vigor no dia 1 de março de 2015.
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 2 de fevereiro de 2015.**
+Promulgado em 2 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de fevereiro de 2015.**
+Referendado em 3 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

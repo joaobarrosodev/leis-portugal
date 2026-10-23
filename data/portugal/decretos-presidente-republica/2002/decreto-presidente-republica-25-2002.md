@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/25/2002/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/25-2002-303253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d220b77b433d50546e2555ab7d9945cbbb8ad5d184bcc92cdab505da3d5e2aa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 543e38cb076cc1a51059df95ad697fbda8805695a91ddd532cc8907fe05d3302
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cidade do Panamá
 - Convenção
-- Portugal
 - Escritório de Educação Ibero-Americano
 - Estatuto
 - OEI
 - Panamá
-- Cidade do Panamá
+- Portugal
 - Regulamento
 - Trujillo
 relationships:
@@ -82,16 +82,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/27/2002/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/27/2002/04/10/p/dre
+- type: cites
+  target: pt:dre:303251:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:20Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +104,16 @@ validation:
 
 de 10 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 São ratificados a Acta de Protocolarização dos Estatutos do Escritório de Educação Ibero-Americano, assinada em Ciudad de Trujillo, República Dominicana, em 31 de Outubro de 1957, os Estatutos da Organização dos Estados Ibero-Americanos para a Educação, a Ciência e a Cultura, assinados na cidade do Panamá em 2 de Dezembro de 1985, e o respectivo Regulamento Orgânico, assinado na cidade do Panamá em 3 de Dezembro de 1985, aprovados, para adesão, pela [Resolução da Assembleia da República n.º 27/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/27-2002-303251), em 20 de Dezembro de 2001.
 
-**Assinado em 22 de Março de 2002.**
+Assinado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Março de 2002.**
+Referendado em 22 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

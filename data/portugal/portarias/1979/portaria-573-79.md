@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 252/1979, 1º Suplemento, Série I de 1979-10-31
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2774-(19) a 2774-(143)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf
 entry_into_force_dates: []
@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/573-1979-585067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 705ac9873102a2128a537c636d687b8a39cd97243683153c995c14cef6d3d9a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e1990a3435b1132f1ae6a9bc197f411963e1bcc3508f29732bb0293fffff9a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Madeira.região Autónoma
+- Manual Escolar
+- Programa
+relationships:
+- type: cites
+  target: pt:dre:382048:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:56Z'
   warnings: []
   errors: []
 ---
@@ -112,23 +121,23 @@ Gramática (L. I. ou L. I. + L. A.);
 
 b) Estudos Histórico-Sociais:
 
-# Livro do aluno (L. I. + L. A. ou L. I. + L. T. + L. A.);
+Livro do aluno (L. I. + L. A. ou L. I. + L. T. + L. A.);
 
 c) Língua Estrangeira:
 
-# Livro do aluno (L. T. + L. A.) acompanhado do livro do professor (L. I. + L. A. + L. T. ou L. I. + L. A.);
+Livro do aluno (L. T. + L. A.) acompanhado do livro do professor (L. I. + L. A. + L. T. ou L. I. + L. A.);
 
 d) Matemática:
 
-# Livro do aluno (L. I. + L. A.);
+Livro do aluno (L. I. + L. A.);
 
 e) Ciências da Natureza:
 
-# Livro do aluno (L. I. + L. A.);
+Livro do aluno (L. I. + L. A.);
 
 f) Educação Musical:
 
-# Livro do aluno (L. T. + L. I. + L. A.).
+Livro do aluno (L. T. + L. I. + L. A.).
 
 6 - Os programas anexos a esta portaria serão aplicados às Regiões Autónomas dos Açores e da Madeira, por portaria do Ministro da Educação, ouvidos os respectivos Governos Regionais.
 
@@ -172,7 +181,7 @@ Ao ser equacionado o problema da interdisciplinaridade, entendida como um projec
 
 Mantém-se, portanto, o mesmo plano curricular, seguidamente indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Procurou-se, no entanto, em sentido vertical, a articulação com os programas do ensino primário e, em sentido horizontal, a coordenação entre as várias disciplinas, nos seguintes aspectos:
 
@@ -206,7 +215,7 @@ Objectivos gerais do ensino preparatório
 
 Objectivos das disciplinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Português
 
@@ -282,7 +291,7 @@ Poucas actividades escolares superam a composição, dado que a sua prática met
 
 Pretende-se com esta nota introdutória provocar uma reflexão sobre alguns aspectos do programa, deixando, todavia, ao professor, a liberdade de actuar criativamente perante a realidade dos seus alunos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 N. B. - O facto de não se incluir poesia nos conteúdos programáticos nãi significa que o aluno não vá sendo sensibilizado a textos poéticos ao longo do ano; no entanto, as marcas características do poético não devem constituir ainda matéria de aprendizagem.
 
@@ -346,29 +355,29 @@ Emprega-se «Aplica adequadamente» quando se pretende que o conceito em questã
 
 5.4 - Relações multidisciplinares. - Sugerem-se ligações com outras disciplinas, em termos não só de conteúdos, mas sobretudo de coordenação de atitudes, métodos e planos de trabalho. Indica-se para cada área de estudo o nome das disciplinas com as quais se poderão organizar unidades de ensino convergentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 1.º ano
 
 Tema «Portugal, comunidade hoje»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 1.º ano
 
 Tema «Portugal, comunidade de oito séculos (I)»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Língua estrangeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Objectivos linguísticos
 
 Dentro do âmbito do programa de cada língua estrangeira (alemão, francês e inglês), os alunos deverão ser capazes de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Francês
 
@@ -434,31 +443,31 @@ Tanto os domínios de referência como as actividades linguísticas propostos pa
 
 1 - Identificação e caracterização pessoais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 2 - Escola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 3 - Refeições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 4 - Vestuário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 5 - Comércio e compras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 6 - Deslocações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 7 - Tempos livres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Funções
 
@@ -478,37 +487,37 @@ Embora sem estar expressamente assinalada, não se deve esquecer que a entoaçã
 
 (Actos sociais)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 2 - Pedir para repetir e para explicitar
 
 (Compreensão do discurso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 3 - Pedir para fazer/dizer para fazer
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 4 - Pedir/dar uma opinião
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 5 - Pedir/fazer uma apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 6 - Reagir à atitude do interlocutor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 7 - Pedir/dar informações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 8 - Narração/descrição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Noções semântico-gramaticais
 
@@ -542,9 +551,9 @@ SN - Sintagma nominal.
 
 N - Nome.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Inglês
 
@@ -632,19 +641,19 @@ c) Square brackets, e.g. [CLAUSE] - an optional item;
 
 d) Dots - e.g.: ... - indicate an incomplete sentence or structure.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Note. - Functions 13, 14, 15, 16 may appear in other situations along with other functions. The exponents are in general fixed expressions.
 
 II - Situações/Áreas vocabulares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Nota. - As áreas vocabulares seleccionadas para o 1.º ano serão retomadas e alargadas no 2.º ano.
 
 III - Formas e estruturas gramaticais/Grammatical forms and structures
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Alemão
 
@@ -676,7 +685,7 @@ QUADRO I
 
 Sprechintentionen - Sachbereiche - Strukturen/Redewendungen
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 QUADRO II
 
@@ -784,7 +793,7 @@ Formas e estruturas gramaticais
 
 Nota. - R = formas a introduzir apenas para reconhecimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Matemática
 
@@ -798,7 +807,7 @@ A inserção da Matemática em actividades multidisciplinares é desejável, emb
 
 A listagem de objectivos comportamentais observáveis (2.ª coluna) não pretende ser exaustiva. A partir dela deverão ser definidos, pelo conjunto dos professores de Matemática, objectivos mais pormenorizados, de acordo com um estudo prévio da realidade região-escola-turma e da didáctica a adoptar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Ciências da Natureza
 
@@ -828,15 +837,15 @@ Para cada tópico devem ler-se simultaneamente os objectivos, os conceitos, as a
 
 Pretende-se ainda com este esquema de apresentação sugerir ao professor uma metodologia experimental com a qual se poderão atingir muitos dos objectivos propostos para as Ciências da Natureza, dando, no entanto, toda a liberdade ao professor de actuar criativamente e de atender à realidade dos seus alunos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Quadro geral dos conteúdos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Desenvolvimento programático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Educação Visual
 
@@ -882,7 +891,7 @@ A integração da Educação Visual no processo educativo supõe que se tenham c
 
 Relativamente a esses objectivos gerais e introdução poder-se-á esquematizar a nossa contribuição nos três quadros seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 É uma educação visual a desenvolver na maior colaboração possível com as outras disciplinas, envolvendo-as em projectos comuns que promovam a associação dos nossos métodos, motivações e objectos aos métodos, motivações e objectos das outras áreas e curriculares.
 
@@ -1080,7 +1089,7 @@ Clareza de definição - perante os próprios alunos - e objectividade de avalia
 
 A matriz de especificação de objectivos que a seguir se sugere pretende facilitar ao professor a elaboração dos quadros de objectivos e conteúdos a ter presentes para cada unidade; quadros que poderá elaborar com forma idêntica à da matriz, mas muito reduzida, extraindo dela somente os comportamentos e conteúdos que professor e alunos vão ter particularmente em atenção. Não será mais do que um instrumento de contrôle, mas a diversidade de turmas que cada professor lecciona pode tornar esse instrumento bastante útil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 O encontro cruzado dos conteúdos com os objectivos evidenciará os aspectos que a unidade de trabalho particularmente se presta a abordar. E a utilização de uma matriz por turma, para a qual se passam, no fim de cada unidade, os encontros efectivamente realizados, dará ao professor a imagem do que está feito e do que há para fazer.
 
@@ -1104,7 +1113,7 @@ Deve ser preocupação do professor que qualquer proposta de trabalho não pode 
 
 Durante a 3.ª fase, o aluno poderá demonstrar plenamente todas as suas capacidades criativas e de realização, satisfazendo outras carências que não as de aprendizagem, pois sabe o que é o material, como reage, quais as técnicas a utilizar, como deve seleccioná-las e utilizá-las para alcançar os fins em vista.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 1.ª e 2.ª fases - Contacto com os materiais
 
@@ -1142,7 +1151,7 @@ Estudo de técnicas
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Educação Musical
 
@@ -1154,7 +1163,7 @@ Esta nova disciplina, que não pretende formar músicos nem servir-se apenas dos
 
 Educação Musical
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Esquema programático
 
@@ -1360,35 +1369,35 @@ Facilitar e orientar o trabalho do professor, indicando formas de actuação que
 
 Com o presente programa não se pretende limitar a acção do professor; este não deve ser um simples «transmissor» de conhecimentos. Como educador deve ser capaz de desenvolver, adaptar, criar processos de actuação, consoante as situações apresentadas, de modo a desenvolver em cada aluno as capacidades necessárias para atingir os objectivos desejados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Ginástica desportiva masculina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Ginástica desportiva feminina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Ginástica rítmica - Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Atletismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Basquetebol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Andebol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Voleibol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Futebol
 
@@ -1422,15 +1431,15 @@ Utilizar de preferência passes curtos para a progressão no terreno.
 
 Após o passe, não ficar parado. Correr em direcção da baliza contrária para poder receber de novo a bola em melhores condições.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Elementos técnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Actividades Rítmicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Programa de Religião e Moral Católicas
 
@@ -1476,11 +1485,11 @@ São muitos os pontos do programa de Religião Moral que têm relação com os p
 
 Fundamentação psico-pedagógica das unidades temáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Quadro geral dos temas do 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf))](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/25201/00190143.pdf)
 
 Notas pedagógicas
 

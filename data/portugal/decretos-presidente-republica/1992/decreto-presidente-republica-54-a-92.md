@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 290/1992, 2º Suplemento, Série I-A de 1992-12-17
   number: '290'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5822-(8) a 5822-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/12/290a02/00080008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/54-a/1992/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/54-a-1992-305397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92ef17b9fe1d43e20ada0cd776fa375e1bfa9d77fe7594116054ba18f45cd61f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b923557af39f11e2b31005dfabfbdbf48c8e60919a3d9a31895db9ed096c8cd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Exoneração
 - Governo XII
-- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado
+- Secretário de Estado da Administração Local e Ordenamento do Território
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:15Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,16 @@ validation:
 
 de 17 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:
 
 É exonerado, sob proposta do Primeiro-Ministro, o Dr. José Manuel Nunes Liberato do cargo de Secretário de Estado da Administração Local e do Ordenamento do Território.
 
-**Assinado em 17 de Dezembro de 1992.**
+Assinado em 17 de Dezembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Dezembro de 1992.**
+Referendado em 17 de Dezembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

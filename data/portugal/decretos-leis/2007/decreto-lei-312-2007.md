@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/312/2007/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2007-640354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 991ca2252fb1904418045126ef551a1916517298ba7aa2c1a1c10fc08448f20a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1004e861032eacf3737254c3097dd39eab94eb32ff948c1cdf73205e63e6c97c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Financiamento
-- Modernização Administrativa
-- Inspeção Geral de Finanças
-- Comissão de Acompanhamento
-- Política de Cooperação
-- Definição de Competências
-- Comissão de Coordenação Regional
-- Feader
-- Pnace
-- Estratégia Nacional de Desenvolvimento Sustentável
-- FEDER
-- Prodep
-- Instituto de Gestão do Fundo Social Europeu
-- Plano Nacional de Emprego
-- FSE
-- Programa Simplex
-- Observatório do QREN
-- Programa Nacional da Política de Ordenamento do Território
-- Prace
-- Programa Operacional
-- QCA III
-- Madeira.região Autónoma
 - Açores
+- Comissão de Acompanhamento
+- Comissão de Coordenação Regional
+- Definição de Competências
+- Estratégia Nacional de Desenvolvimento Sustentável
+- Feader
+- FEDER
+- Financiamento
+- FSE
+- Inspeção Geral de Finanças
+- Instituto de Gestão do Fundo Social Europeu
+- Madeira.região Autónoma
+- Modernização Administrativa
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Observatório do QREN
+- Plano Nacional de Emprego
+- Pnace
+- Política de Cooperação
+- Prace
+- Prodep
+- Programa Nacional da Política de Ordenamento do Território
+- Programa Operacional
+- Programa Simplex
+- QCA III
+- QREN
 relationships:
 - type: amended_by
   target: pt:dre:499049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249865:por
+  label: "Alterados os arts. 11º, 12º, 16º, 21º, 22º, 23º, 32º, 34º, 40º, 41º, 42º, 45º, 46º, 47º, 50º, 51º, 52º, 53º, 55º,\
+    \ 64º e 68º do presente diploma pelo DEC LEI.74/2008.22.04.2008.MAOTDR, DR.IS [79] de 22.04.2008, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2008-249865
+  date: '2008-04-22'
+- type: amended_by
+  target: pt:dre:607729:por
+  label: "Alterado o art. 68º (na redacção do Dec Lei 74/2008, de 22-Abr, que o republica) pelo DEC LEI.99/2009.28.04.2009.MAOTDR,\
+    \ DR.IS [82] de 28.04.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2009-607729
+  date: '2009-04-28'
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Integrado na Presidência do Conselho de Ministros (cuja orgânica consta do Dec Lei 126-A/2011 de 29-dez) o Observatório\
+    \ do Quadro de Referência Estratégico Nacional (Observatório do QREN), cujas atribuições e orgânica constam do presente\
+    \ diploma, com as alterações introduzidas pelos Dec Lei 74/2008 de 22-abr e 99/2009 de 28-abr (anteriormente colocado\
+    \ na dependência do Ministro das Finanças pela Res 49/2011 de 28-nov da PCM) pelo DEC LEI.60/2013.09.05.2013.PCM, DR.IS\
+    \ [89] de 09.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Integrado na Presidência do Conselho de Ministros, cuja orgânica consta do Dec Lei 126-A/2011, de 29-dez, pelo DEC\
+    \ LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:66762659:por
+  label: Determinada a extinção da autoridade de gestão do Programa Operacional Potencial Humano (POPH), prevista no presente
+    diploma, sendo as respetivas competências, direitos e obrigações assumidas pela autoridade de gestão do Programa Operacional
+    Inclusão Social e Emprego (PO ISE) pelo(a) Despacho n.º 2702-C/2015 - Diário da República n.º 51/2015, 3º Suplemento,
+    Série II de 2015-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2702-c-2015-66762659
+  date: '2015-03-13'
+- type: amended_by
+  target: pt:dre:67323977:por
+  label: Determinada a extinção, com efeitos a 27.05.2015, da Autoridade de Gestão do Programa Operacional Factores de Competitividade
+    (COMPETE) prevista no presente diploma, sendo as suas competências, direitos e obrigações assumidas pela Autoridade de
+    Gestão do Programa Operacional Temático Competitividade e Internacionalização (COMPETE 2020) - criada pela Res 73-B/2014
+    de 16-dez PCM -, pelo(a) Despacho n.º 5579/2015 - Diário da República n.º 102/2015, Série II de 2015-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5579-2015-67323977
+  date: '2015-05-27'
 - type: cites
   target: celex:32006R1080
   label: null
@@ -115,13 +158,13 @@ relationships:
 article_structure:
   article_count: 69
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:52Z'
   warnings: []
   errors: []
 ---
@@ -1696,12 +1739,12 @@ Mantêm-se em vigor os regulamentos aplicáveis à gestão e financiamento do FS
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Costa Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Luís Medeiros Vieira - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Valter Victorino Lemos - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 10 de Setembro de 2007.**
+Promulgado em 10 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Setembro de 2007.**
+Referendado em 12 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

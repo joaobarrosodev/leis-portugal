@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/23100/0001600018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2020/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2020-149707128
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b28625925e89082f377699189fce468a90566cb4758bdf6a8e18c295de3e8a7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca23a5718d476052bc2bb93e0707d465413fd73f5a708868a22bbadf03b379d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Família
-- Protecção à Vítima
-- Pagamento
+- Funcionário Público
+- Licença de Reestruturação Familiar
 - Órgãos Sociais
+- Pagamento
 - Pessoa Coletiva
 - Prestações da Segurança Social
 - Proteção Social
+- Protecção à Família
+- Protecção à Vítima
 - Regime de Protecção Social Convergente
 - Segurança Social
-- Funcionário Público
+- Subsídio de Reestruturação Familiar
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Vítima
 - Violência Doméstica
-- Trabalhador com Contrato de Trabalho em Funções Públicas
-- Licença de Reestruturação Familiar
-- Subsídio de Reestruturação Familiar
+- Vítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/112/2009/09/16/p/dre
@@ -116,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107061862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141214378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179158:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:19Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +226,9 @@ Licença de reestruturação familiar
 
 3 - O disposto nos números anteriores é aplicável ao trabalhador por conta de outrem e ao trabalhador em exercício de funções públicas, independentemente da modalidade de vínculo de emprego público.
 
-###### Artigo 43.º-B — Subsídio de reestruturação familiar
+Artigo 43.º-B
+
+Subsídio de reestruturação familiar
 
 1 - O subsídio de reestruturação familiar é concedido a vítima de violência doméstica a quem tenha sido atribuído o respetivo estatuto, nos seguintes termos:
 
@@ -212,7 +246,9 @@ d) Quando se trate de profissional não abrangido pelo sistema de proteção soc
 
 4 - O subsídio previsto no presente artigo não é cumulável com prestações imediatas de segurança social.
 
-###### Artigo 43.º-C — Responsabilidade pelo pagamento do subsídio de reestruturação familiar
+Artigo 43.º-C
+
+Responsabilidade pelo pagamento do subsídio de reestruturação familiar
 
 1 - A responsabilidade pelo pagamento do subsídio de reestruturação familiar compete ao sistema de segurança social, com exceção do pagamento do subsídio de trabalhador abrangido pelo re - gime de proteção social convergente, em que a responsabilidade compete ao empregador público.
 
@@ -226,12 +262,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de novembro de 2020. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 19 de novembro de 2020.**
+Promulgado em 19 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de novembro de 2020.**
+Referendado em 20 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113762487

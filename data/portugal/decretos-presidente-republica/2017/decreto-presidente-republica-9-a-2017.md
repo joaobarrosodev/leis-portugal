@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 25/2017, 1º Suplemento, Série I de 2017-02-03
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 664-(2) a 664-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/02501/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9-a/2017/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-a-2017-106398162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f19846416d95c4f9fd6ff1c9607fe3fb8c2328ebbca22db1f7eb78e0bfe539d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86c9cc96168ae35b041607107fd3305f84893d8f11f15959e06d68c9fc8a17d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,13 +80,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:29Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +95,16 @@ validation:
 
 de 3 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 133.º alínea p) da Constituição e dos n.os 1 e 2 do artigo 23.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º alínea p) da Constituição e dos n.os 1 e 2 do artigo 23.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 6/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384929/details/normal?l=1), de 1 de setembro, o seguinte:
 
 Sob proposta do Governo, é prorrogado o mandato, com efeitos a partir de 6 de fevereiro de 2017, do Chefe do Estado-Maior-General das Forças Armadas, General Artur Neves Pina Monteiro.
 
-**Assinado em 2 de fevereiro de 2017.**
+Assinado em 2 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de fevereiro de 2017.**
+Referendado em 2 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

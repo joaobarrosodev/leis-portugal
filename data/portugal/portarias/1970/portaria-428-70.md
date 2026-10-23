@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/428-1970-138839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59d16b7ea5af648f17bea14f125e2bb4c248869d5eb00adbde1eb3946fecdfe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edf7be13bf7adf4a718239772af33555b4b5c709291c984fb0af6691ca9b58b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,26 @@ relationships:
   target: pt:dre:325319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325319:por
+  label: É extinto o Centro de Estudos de Marinha e mantém o regulamento em anexo, nos termos do n.º 4.º, aprovado pela presente
+    portaria, pelo(a) Portaria n.º 769/78 - Diário da República n.º 296/1978, Série I de 1978-12-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-1978-325319
+  date: '1978-12-27'
+- type: cites
+  target: pt:dre:525268:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:46Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +113,9 @@ Ministério da Marinha, 27 de Agosto de 1970. - O Ministro da Marinha, Manuel Pe
 
 Regulamento do Centro de Estudos de Marinha
 
-###### Artigo 1.º O Centro de Estudos de Marinha (C. E. M.) funciona no âmbito do Ministério da Marinha e o respectivo presidente, para fins administrativos, depende directamente do Ministro da Marinha.
+Artigo 1.º O Centro de Estudos de Marinha (C. E. M.) funciona no âmbito do Ministério da Marinha e o respectivo presidente, para fins administrativos, depende directamente do Ministro da Marinha.
 
-###### Art. 2.º - 1. O C. E. M. compreende membros das seguintes categorias:
+Art. 2.º - 1. O C. E. M. compreende membros das seguintes categorias:
 
 a) Efectivos;
 
@@ -123,23 +133,23 @@ b) Secção de Artes, letras e ciências.
 
 3. Em cada uma das secções referidas no número anterior podem ser criadas subsecções especializadas.
 
-###### Art. 3.º - 1. Só podem ser eleitos membros efectivos do C. E. M. cidadãos da comunidade luso-brasileira.
+Art. 3.º - 1. Só podem ser eleitos membros efectivos do C. E. M. cidadãos da comunidade luso-brasileira.
 
 2. O número máximo de membros efectivos de cada uma das secções referidas no n.º 2 do artigo anterior é de trinta.
 
 3. Depois de em cada secção ser atingido o número de membros efectivos referidos no número anterior, a eleição de novos membros será realizada, como regra, entre os membros correspondentes.
 
-###### Art. 4.º - 1. A categoria de associados destina-se a contemplar a eleição de personalidades não pertencentes à comunidade luso-brasileira.
+Art. 4.º - 1. A categoria de associados destina-se a contemplar a eleição de personalidades não pertencentes à comunidade luso-brasileira.
 
 2. O número de associados, em cada secção, não deve exceder, como regra, o número de membros efectivos.
 
-###### Art. 5.º - 1. A eleição de membros correspondentes também será feita, exclusivamente, entre personalidades da comunidade luso-brasileira.
+Art. 5.º - 1. A eleição de membros correspondentes também será feita, exclusivamente, entre personalidades da comunidade luso-brasileira.
 
 2. O número de membros correspondentes, em cada secção, não deve exceder, como regra, o número de membros efectivos.
 
-###### Art. 6.º Os membros honorários, em número indeterminado, serão eleitos tendo em vista os altos e reconhecidos méritos e serviços prestados ao Centro e à marinha.
+Art. 6.º Os membros honorários, em número indeterminado, serão eleitos tendo em vista os altos e reconhecidos méritos e serviços prestados ao Centro e à marinha.
 
-###### Art. 7.º - 1. Os cargos de direcção e administração do Centro são os seguintes:
+Art. 7.º - 1. Os cargos de direcção e administração do Centro são os seguintes:
 
 a) Presidente do Centro;
 
@@ -165,9 +175,9 @@ f) Vice-secretário-geral e secretário da secção de Artes, letras e ciências
 
 7. O presidente do Centro poderá acumular o exercício deste cargo com o de presidente de qualquer das duas secções.
 
-###### Art. 8.º Os membros de qualquer das categorias referidas no n.º 1 do artigo 2.º serão eleitos por todos os membros efectivos, sendo necessária maioria absoluta de votos dos membros em exercício das duas secções.
+Art. 8.º Os membros de qualquer das categorias referidas no n.º 1 do artigo 2.º serão eleitos por todos os membros efectivos, sendo necessária maioria absoluta de votos dos membros em exercício das duas secções.
 
-###### Art. 9.º Ao presidente do Centro compete, especialmente:
+Art. 9.º Ao presidente do Centro compete, especialmente:
 
 a) Orientar os trabalhos do Centro;
 
@@ -175,7 +185,7 @@ b) Representar o organismo a que preside, podendo corresponder-se directamente c
 
 c) Administrar as dotações que sejam atribuídas ao Centro.
 
-###### Art. 10.º Compete especialmente aos presidentes das secções do Centro:
+Art. 10.º Compete especialmente aos presidentes das secções do Centro:
 
 a) Orientar os trabalhos próprios da respectiva secção;
 
@@ -183,22 +193,22 @@ b) Propor a criação das subsecções que a sua secção deve abranger;
 
 c) Distribuir os membros da sua secção pelas diversas subsecções.
 
-###### Art. 11.º O C. E. M. terá emblema, divisa e selo próprios.
+Art. 11.º O C. E. M. terá emblema, divisa e selo próprios.
 
-###### Art. 12.º Por despacho do Ministro da Marinha será fixado o distintivo dos membros do Centro e definidas as circunstâncias em que o mesmo deve ser usado.
+Art. 12.º Por despacho do Ministro da Marinha será fixado o distintivo dos membros do Centro e definidas as circunstâncias em que o mesmo deve ser usado.
 
-###### Art. 13º O Ministro da Marinha estabelecerá, por portaria e por despacho, respectivamente, o pessoal militar e o pessoal civil que prestará serviço na secretaria e órgãos auxiliares do Centro.
+Art. 13º O Ministro da Marinha estabelecerá, por portaria e por despacho, respectivamente, o pessoal militar e o pessoal civil que prestará serviço na secretaria e órgãos auxiliares do Centro.
 
-###### Art. 14.º Os membros do C. E. M. podem utilizar o Museu de Marinha, a Biblioteca Central da Marinha e o Arquivo Geral da Marinha em condições idênticas às estabelecidas para os oficiais da Armada.
+Art. 14.º Os membros do C. E. M. podem utilizar o Museu de Marinha, a Biblioteca Central da Marinha e o Arquivo Geral da Marinha em condições idênticas às estabelecidas para os oficiais da Armada.
 
-###### Art. 15.º Enquanto não dispuser de instalações próprias, o C. E. M. funcionará nas do Museu de Marinha.
+Art. 15.º Enquanto não dispuser de instalações próprias, o C. E. M. funcionará nas do Museu de Marinha.
 
-###### Art. 16.º Os actuais membros do Grupo de Estudos de História Marítima passam a ser membros do C. E. M., de categoria equivalente, na secção de História marítima.
+Art. 16.º Os actuais membros do Grupo de Estudos de História Marítima passam a ser membros do C. E. M., de categoria equivalente, na secção de História marítima.
 
-###### Art. 17.º Pertence ao Ministro da Marinha designar, por despacho, os primeiros doze membros efectivos da secção de Artes, letras e ciências do C. E. M.
+Art. 17.º Pertence ao Ministro da Marinha designar, por despacho, os primeiros doze membros efectivos da secção de Artes, letras e ciências do C. E. M.
 
-###### Art. 18.º Os actuais presidente e secretário-geral do Grupo de Estudos de História Marítima passam a exercer, respectivamente, os cargos de presidente e de secretário-geral do C. E. M., terminando os seus mandatos em Janeiro de 1973.
+Art. 18.º Os actuais presidente e secretário-geral do Grupo de Estudos de História Marítima passam a exercer, respectivamente, os cargos de presidente e de secretário-geral do C. E. M., terminando os seus mandatos em Janeiro de 1973.
 
-###### Art. 19.º O regulamento interno do C. E. M. será aprovado por despacho do Ministro da Marinha.
+Art. 19.º O regulamento interno do C. E. M. será aprovado por despacho do Ministro da Marinha.
 
 Ministério da Marinha, 27 de Agosto de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.

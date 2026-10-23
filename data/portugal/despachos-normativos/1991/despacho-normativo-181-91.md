@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/181/1991/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/181-1991-403317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 524d32a779690ec8554f2fae3d18e88c62afe5d345a9e5b833329d55e4292dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d9e944af61c406884b9233cf7b306e9a03612586a7dcd5fcd2e638c0a6d246a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Lisboa
 - Instituto Politécnico
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:2933982:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2933982:por
+  label: "Homologada a 1ª. alteração aos Estatutos do Instituto Politécnico de Lisboa, homologados pelo presente despacho,\
+    \ pelo DN.31/2007.16.08.2007.MCTES, DR.IIS [157] de 16.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/31-2007-2933982
+  date: '2007-08-16'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 55
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:18Z'
   warnings: []
   errors: []
 ---
@@ -819,7 +841,7 @@ Os Estatutos do IPL podem ser registos nos termos do artigo 46.º da [Lei n.º 5
 
 ###### Artigo 52.º — Cessação de funções
 
-**O presidente da comissão instaladora do Instituto cessa funções com a tomada de posse do primeiro presidente eleito.**
+O presidente da comissão instaladora do Instituto cessa funções com a tomada de posse do primeiro presidente eleito.
 
 ###### Artigo 53.º — Final do regime de instalação
 

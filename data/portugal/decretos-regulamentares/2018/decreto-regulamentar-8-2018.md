@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17000/0442604429.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/8/2018/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2018-116320538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ff81f7269df968be94f5a0f767f0b5eef0b8d53e3344cf10a8784723b5427ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f16ac505a143d305669fcb688b283eaecf3ea254abec17a7f644ca22f75e2fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,9 +74,9 @@ subjects:
 - Deslocação em Serviço
 - Laboratório Nacional de Engenharia Civil
 - Mandato
+- Ministro do Planeamento e das Infraestruturas
 - Orgânica
 - Presidente
-- Ministro do Planeamento e das Infraestruturas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/2011/10/06/p/dre
@@ -105,13 +105,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:37Z'
   warnings: []
   errors: []
 ---
@@ -398,12 +398,14 @@ O presente decreto regulamentar entra em vigor no primeiro dia do mês seguinte 
 
 Visto e aprovado em Conselho de Ministros de 9 de agosto de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Guilherme Waldemar Goulão dos Reis d'Oliveira Martins - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Ana Paula Mendes Vitorino.
 
-**Promulgado em 29 de agosto de 2018.**
+Promulgado em 29 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de agosto de 2018.**
+Referendado em 30 de agosto de 2018.
 
 Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+
+111621307

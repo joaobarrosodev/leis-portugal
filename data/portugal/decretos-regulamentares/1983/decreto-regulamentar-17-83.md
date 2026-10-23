@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04800/06780684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1983-311244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3038e21026a587d56be44e9b5bbf32b5eac2f07bc45ec3db21109618ba8c2ad9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7881ddf58ccefe5fef2f54dbc492bbebb1414e4be0d6b915383bd94441446432
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Administração e Orçamento
+- Ministério da Agricultura Comércio e Pescas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:649314:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:649314:por
+  label: "Revogado pelo DR.19-A/85.1985.03.30.MA, DR.IS [75]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-a-1985-649314
+  date: '1985-03-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:00Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +102,9 @@ de 28 de Fevereiro
 
 Tendo em vista a execução do disposto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral de Administração e Orçamento (DGAO), criada pela alínea b) do artigo 7.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, e um serviço central do Ministério da Agricultura, Comércio e Pescas (MACP) com atribuições de coordenação da actividade administrativa departamental, de preparação e controle da execução do orçamento, visando garantir, articuladamente, a máxima eficiência e coerência dos serviços e organismos que o integram, bem como a execução de acções que, nestes domínios, devam ser prosseguidas de forma global e centralizada.
+Artigo 1.º A Direcção-Geral de Administração e Orçamento (DGAO), criada pela alínea b) do artigo 7.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, e um serviço central do Ministério da Agricultura, Comércio e Pescas (MACP) com atribuições de coordenação da actividade administrativa departamental, de preparação e controle da execução do orçamento, visando garantir, articuladamente, a máxima eficiência e coerência dos serviços e organismos que o integram, bem como a execução de acções que, nestes domínios, devam ser prosseguidas de forma global e centralizada.
 
-###### Art. 2.º - 1 - Para o desempenho das atribuições referidas no artigo anterior, compete à DGAO, na área administrativa:
+Art. 2.º - 1 - Para o desempenho das atribuições referidas no artigo anterior, compete à DGAO, na área administrativa:
 
 a) Prestar colaboração aos departamentos do Ministério, com vista a garantir, articuladamente, a máxima eficiência e coerência dos serviços e organismos que o integram;
 
@@ -148,15 +160,15 @@ l) Promover o tratamento automático da informação correspondente às funçõe
 
 m) Desempenhar funções de coordenação, no âmbito do MACP, em matéria de racionalização de gestão financeira e de execução orçamental.
 
-###### Art. 3.º - 1 - No exercício das suas atribuições e competências, de acordo com a orientação do Ministro, poderá a DGAO solicitar as informações, colaborações e intervenções que, no domínio técnico-administrativo, forem julgadas necessárias à prossecução dos seus fins, quer junto dos serviços do MACP quer junto de entidades públicas, cooperativas ou privadas, nacionais ou estrangeiras.
+Art. 3.º - 1 - No exercício das suas atribuições e competências, de acordo com a orientação do Ministro, poderá a DGAO solicitar as informações, colaborações e intervenções que, no domínio técnico-administrativo, forem julgadas necessárias à prossecução dos seus fins, quer junto dos serviços do MACP quer junto de entidades públicas, cooperativas ou privadas, nacionais ou estrangeiras.
 
 2 - As acções no domínio do número anterior poderão revestir, quando necessário, a forma de contrato de tarefa ou de aquisição de serviços nos termos da lei geral.
 
-###### Art. 4.º - 1 - A DGAO é dirigida por 1 director-geral, coadjuvado no exercício das suas funções por 2 subdirectores-gerais.
+Art. 4.º - 1 - A DGAO é dirigida por 1 director-geral, coadjuvado no exercício das suas funções por 2 subdirectores-gerais.
 
 2 - O director-geral é substituído, nas suas ausências e impedimentos, por um dos subdirectores-gerais, designado por despacho do Ministro.
 
-###### Art. 5.º A DGAO compreende os seguintes serviços:
+Art. 5.º A DGAO compreende os seguintes serviços:
 
 a) Direcção dos Serviços de Administração;
 
@@ -168,7 +180,7 @@ d) Divisão de Gestão Orçamental;
 
 e) Divisão de Apoio Jurídico.
 
-###### Art. 6.º À Direcção dos Serviços de Administração incumbem as competências enumeradas nas alíneas a) a g) do n.º 1 do artigo 2.º e compreende as seguintes unidades:
+Art. 6.º À Direcção dos Serviços de Administração incumbem as competências enumeradas nas alíneas a) a g) do n.º 1 do artigo 2.º e compreende as seguintes unidades:
 
 a) Repartição de Pessoal;
 
@@ -178,13 +190,13 @@ c) Repartição de Expediente Geral e Arquivo;
 
 d) Divisão de Técnica Geral.
 
-###### Art. 7.º A Repartição de Pessoal exerce a sua actividade no campo das competências definidas na alínea d) do n.º 1 do artigo 2.º e compreende as seguintes subunidades orgânicas:
+Art. 7.º A Repartição de Pessoal exerce a sua actividade no campo das competências definidas na alínea d) do n.º 1 do artigo 2.º e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Expediente e Assiduidade;
 
 b) Secção de Cadastro.
 
-###### Art. 8.º À Secção de Expediente e Assiduidade compete:
+Art. 8.º À Secção de Expediente e Assiduidade compete:
 
 a) Executar todo o expediente referente à Repartição e manter actualizado o arquivo desta;
 
@@ -194,7 +206,7 @@ c) Proceder ao controle da assiduidade do pessoal, remetendo mensalmente à Sec�
 
 d) Instruir os processos de acidentes em serviço e tratar de todos os assuntos relacionados com a ADSE.
 
-###### Art. 9.º À Secção de Cadastro compete:
+Art. 9.º À Secção de Cadastro compete:
 
 a) Organizar e manter actualizado o cadastro de todo o pessoal da DGAO;
 
@@ -206,13 +218,13 @@ d) Passar certidões;
 
 e) Organizar os processos de aposentação.
 
-###### Art. 10.º A Repartição de Património, Instalações e Segurança exerce a sua actividade no campo das competências referidas nas alíneas e) e f) do n.º 1 do artigo 2.º e compreende as seguintes subunidades orgânicas:
+Art. 10.º A Repartição de Património, Instalações e Segurança exerce a sua actividade no campo das competências referidas nas alíneas e) e f) do n.º 1 do artigo 2.º e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Património;
 
 b) Secção de Instalações e Segurança.
 
-###### Art. 11.º À Secção de Património compete:
+Art. 11.º À Secção de Património compete:
 
 a) Gerir o património afecto à DGAO, promovendo, em colaboração com a Divisão de Técnica Geral desta Direcção-Geral, a conservação e manutenção dos seus móveis e imóveis que constituem o referido património;
 
@@ -220,7 +232,7 @@ b) Organizar e manter actualizado o inventário e respectivo registo cadastral d
 
 c) Assegurar o aproveitamento racional dos edifícios e bens de equipamento, nomeadamente dando parecer sobre a aquisição ou arrendamento de propriedades rurais e urbanas ou outras instalações para utilização de órgãos e serviços do MACP, bem como pronunciar-se sobre a aquisição de bens de equipamento para uso da DGAO.
 
-###### Art. 12.º À Secção de Instalações e Segurança compete:
+Art. 12.º À Secção de Instalações e Segurança compete:
 
 a) Promover a eficácia dos circuitos de comunicação interna, assegurando o funcionamento de um sistema de vigilância e segurança adequado à protecção de pessoas e bens;
 
@@ -228,13 +240,13 @@ b) Superintender ao pessoal auxiliar das carreiras de telefonistas, guardas-noct
 
 c) Superintender no pessoal de limpeza, coordenando a organização do respectivo trabalho.
 
-###### Art. 13.º A Repartição de Expediente Geral e Arquivo exerce a sua actividade no campo das competências definidas nas alíneas a), b) e c) do n.º 1 do artigo 2.º e compreende as seguintes subunidades orgânicas:
+Art. 13.º A Repartição de Expediente Geral e Arquivo exerce a sua actividade no campo das competências definidas nas alíneas a), b) e c) do n.º 1 do artigo 2.º e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Expediente Geral;
 
 b) Secção de Arquivo.
 
-###### Art. 14.º À Secção de Expediente Geral compete:
+Art. 14.º À Secção de Expediente Geral compete:
 
 a) Assegurar o movimento de expediente geral da DGAO, bem assim como proceder ao registo e classificação da documentação entrada e expedida;
 
@@ -242,7 +254,7 @@ b) Controlar a circulação dos documentos pelos serviços de apoio;
 
 c) Coordenar o apoio dactilográfico e reprográfico aos órgãos e serviços a que se refere a alínea c) do artigo 2.º do presente diploma.
 
-###### Art. 15.º À Secção de Arquivo compete:
+Art. 15.º À Secção de Arquivo compete:
 
 a) Organizar, manter e assegurar a permanente utilização e actualização do arquivo geral;
 
@@ -250,9 +262,9 @@ b) Proceder à divulgação pelos órgãos e serviços do MACP de directrizes de
 
 c) Divulgar pelos serviços da Direcção-Geral as normas de funcionamento interno.
 
-###### Art. 16.º À Divisão de Técnica Geral incumbem as competências referidas na alínea g) do n.º 1 do artigo 2.º
+Art. 16.º À Divisão de Técnica Geral incumbem as competências referidas na alínea g) do n.º 1 do artigo 2.º
 
-###### Art. 17.º À Direcção dos Serviços de Orçamento incumbem as competências enumeradas nas alíneas a) a i) do n.º 2 do artigo 2.º e compreende as seguintes unidades:
+Art. 17.º À Direcção dos Serviços de Orçamento incumbem as competências enumeradas nas alíneas a) a i) do n.º 2 do artigo 2.º e compreende as seguintes unidades:
 
 a) Repartição de Orçamento;
 
@@ -260,13 +272,13 @@ b) Repartição de Contabilidade Geral;
 
 c) Repartição de Aprovisionamento.
 
-###### Art. 18.º A Repartição de Orçamento exerce a sua actividade no campo das competências definidas nas alíneas a) a e) do n.º 2 do artigo 2.º e compreende as seguintes subunidades orgânicas:
+Art. 18.º A Repartição de Orçamento exerce a sua actividade no campo das competências definidas nas alíneas a) a e) do n.º 2 do artigo 2.º e compreende as seguintes subunidades orgânicas:
 
 a) Secção do OGE;
 
 b) Secção de Orçamentos Privativos.
 
-###### Art. 19.º À Secção do OGE compete:
+Art. 19.º À Secção do OGE compete:
 
 a) Coligir todos os elementos de receita e despesa necessários à elaboração do orçamento do MACP;
 
@@ -276,7 +288,7 @@ c) Coordenar a preparação e elaboração dos orçamentos anuais dos órgãos a
 
 d) Controlar a execução orçamental e respectiva evolução, promovendo as correspondentes alterações orçamentais dos orçamentos cuja gestão lhe compete.
 
-###### Art. 20.º À Secção de Orçamentos Privativos compete:
+Art. 20.º À Secção de Orçamentos Privativos compete:
 
 a) Estudar e informar os orçamentos privativos dos fundos e serviços autónomos do MACP;
 
@@ -284,13 +296,13 @@ b) Coligir os elementos necessários à análise e informação dos orçamentos 
 
 c) Elaborar as propostas de abertura de créditos especiais referentes a contas de ordem e assegurar o respectivo expediente;
 
-###### Art. 21.º A Repartição de Contabilidade Geral exerce a sua actividade no campo das competências definidas nas alíneas f), g) e h) do n.º 2 do artigo 2.º e compreende as seguintes subunidades orgânicas:
+Art. 21.º A Repartição de Contabilidade Geral exerce a sua actividade no campo das competências definidas nas alíneas f), g) e h) do n.º 2 do artigo 2.º e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Remunerações Certas e Permanentes;
 
 b) Secção de Processamentos Diversos.
 
-###### Art. 22.º À Secção de Remunerações Certas e Permanentes compete:
+Art. 22.º À Secção de Remunerações Certas e Permanentes compete:
 
 a) Processar as folhas de vencimentos e salários do pessoal da Direcção-Geral de Administração e Orçamento, Direcção-Geral de Organização e Recursos Humanos, inspecção-geral e gabinetes ministeriais;
 
@@ -298,7 +310,7 @@ b) Processar os abonos, prestações sociais, gratificações e subsídios atrib
 
 c) Elaborar e manter actualizado o registo de cadastro do pessoal referido na alínea a), no que se reporta aos seus reflexos nos respectivos abonos.
 
-###### Art. 23.º À Secção de Processamentos Diversos compete:
+Art. 23.º À Secção de Processamentos Diversos compete:
 
 a) Estudar e informar os processos de liquidações de receitas e realização de despesas;
 
@@ -308,25 +320,25 @@ c) Processar as despesas afectas aos gabinetes ministeriais incluídas no PIDDAC
 
 d) Elaborar os mapas de receitas e despesas a remeter anualmente ao Tribunal de Contas.
 
-###### Art. 24.º A Repartição de Aprovisionamento exerce a sua actividade no campo das competências referidas na alínea i) do n.º 2 do artigo 2.º e compreende as seguintes subunidades orgânicas:
+Art. 24.º A Repartição de Aprovisionamento exerce a sua actividade no campo das competências referidas na alínea i) do n.º 2 do artigo 2.º e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Aquisições;
 
 b) Secção de Stocks.
 
-###### Art. 25.º À Secção de Aquisições compete:
+Art. 25.º À Secção de Aquisições compete:
 
 a) Promover a aquisição de material necessário ao funcionamento normal dos serviços e gabinetes ministeriais referidos na alínea a) do artigo 22.º;
 
 b) Promover a aquisição de bens de equipamento e material de transporte destinados aos serviços e gabinetes ministeriais a que se refere a alínea anterior, ouvidos os serviços competentes da DGAO.
 
-###### Art. 26.º À Secção de Stocks compete:
+Art. 26.º À Secção de Stocks compete:
 
 a) Proceder à armazenagem, conservação e distribuição dos materiais e bens referidos no artigo anterior pelos respectivos serviços utilizadores;
 
 b) Assegurar o funcionamento do serviço de informação de existências em armazém.
 
-###### Art. 27.º - 1 - À Direcção dos Serviços de Documentação, Informação e Protecção do Património Cultural incumbem as competências enumeradas nas alíneas i) a o) do n.º 1 do artigo 2.º e compreende as seguintes unidades:
+Art. 27.º - 1 - À Direcção dos Serviços de Documentação, Informação e Protecção do Património Cultural incumbem as competências enumeradas nas alíneas i) a o) do n.º 1 do artigo 2.º e compreende as seguintes unidades:
 
 a) Divisão de Documentação e Informação Científica e Técnica;
 
@@ -338,28 +350,28 @@ a) A Divisão de Documentação e Informação Científica e Técnica, no campo 
 
 b) A Divisão de Protecção do Património Cultural, no campo das alíneas m), n) e o).
 
-###### Art. 28.º À Divisão de Gestão Orçamental incumbem as competências referidas nas alíneas i), l) e m) do n.º 2 do artigo 2.º
+Art. 28.º À Divisão de Gestão Orçamental incumbem as competências referidas nas alíneas i), l) e m) do n.º 2 do artigo 2.º
 
-###### Art. 29.º À Divisão de Apoio Jurídico incumbem as competências referidas na alínea h) do n.º 1 do artigo 2.º
+Art. 29.º À Divisão de Apoio Jurídico incumbem as competências referidas na alínea h) do n.º 1 do artigo 2.º
 
-###### Art. 30.º - 1 - A DGAO dispõe do contingente de pessoal do quadro único do MACP constante do mapa anexo ao presente diploma.
+Art. 30.º - 1 - A DGAO dispõe do contingente de pessoal do quadro único do MACP constante do mapa anexo ao presente diploma.
 
 2 - A distribuição do pessoal referido no número anterior será feita por despacho do director-geral.
 
-###### Art. 31.º Ao pessoal da DGAO não é permitido, salvo nos casos expressamente previstos na lei, acumular lugares ou cargos públicos, nem por si ou por interposta pessoa exercer actividades privadas, quando esse exercício se mostre incompatível com os deveres legalmente estabelecidos.
+Art. 31.º Ao pessoal da DGAO não é permitido, salvo nos casos expressamente previstos na lei, acumular lugares ou cargos públicos, nem por si ou por interposta pessoa exercer actividades privadas, quando esse exercício se mostre incompatível com os deveres legalmente estabelecidos.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Basílio Adolfo Mendonça Horta da Franca - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 7 de Fevereiro de 1983.**
+Promulgado em 7 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Fevereiro de 1983.**
+Referendado em 9 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa a que se refere o artigo 30.º do Decreto Regulamentar n.º 17/83
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/04800/06780684.pdf))](https://files.diariodarepublica.pt/1s/1983/02/04800/06780684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/04800/06780684.pdf)

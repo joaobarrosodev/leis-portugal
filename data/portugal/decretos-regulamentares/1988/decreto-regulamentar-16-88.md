@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1988-286327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89bce00d9b3d8005fa82376bea1fe55b257cbeb3fe9d4a98e0de1ca355abee1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0248d5a6ea302e0b31f374e130706935150fc75bd8c820e66ef2392737a82cd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Escola Prática de Polícia
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:49Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +103,9 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 151/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1985-152342), de 9 de Maio, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 20.º do [Decreto Regulamentar n.º 50/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1986-221551), de 3 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 20.º do [Decreto Regulamentar n.º 50/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1986-221551), de 3 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 20.º - 1 - ...
+Art. 20.º - 1 - ...
 
 2 - As provas físicas são fixadas por despacho do Ministro da Administração Interna.
 
@@ -102,16 +113,16 @@ Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 151/85](https://diario
 
 4 - ...
 
-###### Art. 2.º É revogado o anexo IV do [Decreto Regulamentar n.º 50/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1986-221551), de 3 de Outubro.
+Art. 2.º É revogado o anexo IV do [Decreto Regulamentar n.º 50/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1986-221551), de 3 de Outubro.
 
 Aníbal António Cavaco Silva - José António da Silveira Godinho.
 
-**Promulgado em 14 de Março de 1988.**
+Promulgado em 14 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1988.**
+Referendado em 16 de Março de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

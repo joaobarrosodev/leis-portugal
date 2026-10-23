@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15200/15411544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/373-1980-471724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a2f53e64af8f54bcd1a153b60af192828b5606353e03dc40d9c256c607c64fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f789b210e5923a669ceab38d57003dbba1772b1f0f3f3ad9967d5bb6913f7fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Anti-doping
+- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:333351:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370640:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333351:por
+  label: "Revogada pelo DEC LEI.105/90.23.03.1990.ME, DR.IS [69] de 23.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1990-333351
+  date: '1990-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:55Z'
   warnings: []
   errors: []
 ---
@@ -112,9 +123,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência
 
 Regulamento do «Contrôle Antidoping»
 
-###### Artigo 1.º A Direcção-Geral de Apoio Médico, abreviadamente designada por DGAM, a solicitação da DGD ou das federações e em colaboração com a Comissão Antidopagem, responsabilizar-se-á pela recolha do líquido orgânico nas provas desportivas onde se realize o contrôle antidoping, providenciará que sejam efectuadas as respectivas análises em laboratórios idóneos e comunicará os resultados às entidades competentes dentro dos prazos que forem estabelecidos.
+Artigo 1.º A Direcção-Geral de Apoio Médico, abreviadamente designada por DGAM, a solicitação da DGD ou das federações e em colaboração com a Comissão Antidopagem, responsabilizar-se-á pela recolha do líquido orgânico nas provas desportivas onde se realize o contrôle antidoping, providenciará que sejam efectuadas as respectivas análises em laboratórios idóneos e comunicará os resultados às entidades competentes dentro dos prazos que forem estabelecidos.
 
-###### Art. 2.º - 1 - A Comissão Antidopagem é um órgão consultivo com missão eminentemente técnica para apoiar o contrôle antidoping e será constituída por:
+Art. 2.º - 1 - A Comissão Antidopagem é um órgão consultivo com missão eminentemente técnica para apoiar o contrôle antidoping e será constituída por:
 
 a) O director-geral de Apoio Médico, ou seu representante, que presidirá e terá voto de qualidade;
 
@@ -132,9 +143,9 @@ e) Um médico representante das federações.
 
 4 - Os membros da Comissão Antidopagem terão direito a senhas de presença.
 
-###### Art. 3.º De acordo com o artigo 16.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640), de 8 de Setembro, o Ministro da Educação e Ciência determinará qual a entidade ou entidades que elaborarão o programa anual de contrôle antidoping a apresentar à Comissão Antidopagem.
+Art. 3.º De acordo com o artigo 16.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640), de 8 de Setembro, o Ministro da Educação e Ciência determinará qual a entidade ou entidades que elaborarão o programa anual de contrôle antidoping a apresentar à Comissão Antidopagem.
 
-###### Art. 4.º Compete à Comissão Antidopagem:
+Art. 4.º Compete à Comissão Antidopagem:
 
 a) Colaborar com a DGAM e federações desportivas na elaboração da lista de produtos ou substâncias a publicar anualmente, de acordo com o artigo 3.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640);
 
@@ -156,7 +167,7 @@ i) Coordenar e relacionar anualmente o programa apresentado pelas entidades defi
 
 j) Pronunciar-se sobre a idoneidade dos laboratórios indicados pela DGAM onde se realizam as análises para detecção das substâncias dopantes.
 
-###### Art. 5.º - 1 - As entidades competentes, designadamente as federações interessadas, deverão notificar os atletas que devem submeter-se ao contrôle através dos seus delegados, usando para o efeito dos meios mais eficazes.
+Art. 5.º - 1 - As entidades competentes, designadamente as federações interessadas, deverão notificar os atletas que devem submeter-se ao contrôle através dos seus delegados, usando para o efeito dos meios mais eficazes.
 
 2 - O atleta notificado para operações de colheita deverá apresentar-se imediatamente à equipa de contrôle antidoping que se encontre no local onde decorre a prova. No caso de ali se encontrar mais de uma equipa de contrôle antidoping, apresentar-se-á àquela que lhe tiver sido indicada. A partir desse momento, o atleta fica à disposição do médico da respectiva equipa antidoping, o qual é a única entidade que decidirá do momento oportuno para proceder à colheita da urina.
 
@@ -168,9 +179,9 @@ j) Pronunciar-se sobre a idoneidade dos laboratórios indicados pela DGAM onde s
 
 6 - O atleta que não puder satisfazer as necessidades de contrôle será mantido sob vigilância médica, no local, durante o tempo que o médico considerar necessário.
 
-###### Art. 6.º O atleta ou praticante desportivo que, infringindo as normas definidas para a recolha laboratorial, se recusar a facultar o produto a analisar química e laboratorialmente incorre nas sanções previstas no artigo 12.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640), de 8 de Setembro.
+Art. 6.º O atleta ou praticante desportivo que, infringindo as normas definidas para a recolha laboratorial, se recusar a facultar o produto a analisar química e laboratorialmente incorre nas sanções previstas no artigo 12.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640), de 8 de Setembro.
 
-###### Art. 7.º - 1 - A equipa de contrôle antidoping será constituída por:
+Art. 7.º - 1 - A equipa de contrôle antidoping será constituída por:
 
 a) Médico;
 
@@ -186,7 +197,7 @@ b) Um representante do atleta, devidamente identificado.
 
 3 - Os atletas apresentar-se-ão, no momento da colheita, despidos da cintura para baixo e com os antebraços a descoberto.
 
-###### Art. 8.º - 1 - A urina será recolhida num recipiente de 100 cm3, e o conteúdo repartir-se-á por dois frascos de 50 cm3 cada um, os quais serão fechados, selados e codificados com um número de que as entidades presentes tomarão conhecimento.
+Art. 8.º - 1 - A urina será recolhida num recipiente de 100 cm3, e o conteúdo repartir-se-á por dois frascos de 50 cm3 cada um, os quais serão fechados, selados e codificados com um número de que as entidades presentes tomarão conhecimento.
 
 2 - O atleta escolherá livremente os dois frascos, devidamente preparados.
 
@@ -206,11 +217,11 @@ b) Um representante do atleta, devidamente identificado.
 
 10 - A urina contida no frasco que não foi assinalado pelo atleta será analisada, conservando-se o conteúdo do outro, para eventual contra-análise, pelo prazo máximo de uma semana após comunicação do resultado da primeira análise.
 
-###### Art. 9.º Nada impede que futuramente, através de despacho do Ministro da Educação, seja determinado que se proceda à recolha de amostras orgânicas de outra natureza da do contrôle antidoping.
+Art. 9.º Nada impede que futuramente, através de despacho do Ministro da Educação, seja determinado que se proceda à recolha de amostras orgânicas de outra natureza da do contrôle antidoping.
 
-###### Art. 10.º Os resultados da análise do líquido orgânico serão comunicados imediatamente, por escrito e com a assinatura do responsável do laboratório em impresso próprio (modelo n.º 4), à federação respectiva, através da DGAM.
+Art. 10.º Os resultados da análise do líquido orgânico serão comunicados imediatamente, por escrito e com a assinatura do responsável do laboratório em impresso próprio (modelo n.º 4), à federação respectiva, através da DGAM.
 
-###### Art. 11.º - 1 - O atleta pode interpor recurso sob a forma de pedido escrito de contra-análise no período compreendido até setenta e duas horas após a comunicação dos resultados da primeira análise à federação respectiva. Esta comunicará à DGAM, no prazo máximo de quarenta e oito horas após a recepção do pedido, a solicitação de contra-análise.
+Art. 11.º - 1 - O atleta pode interpor recurso sob a forma de pedido escrito de contra-análise no período compreendido até setenta e duas horas após a comunicação dos resultados da primeira análise à federação respectiva. Esta comunicará à DGAM, no prazo máximo de quarenta e oito horas após a recepção do pedido, a solicitação de contra-análise.
 
 2 - O pedido de contra-análise que não constitua custos do processo deve ser acompanhado da importância de 15000$00, que será restituída integralmente no caso de o resultado não confirmar o da primeira análise.
 
@@ -234,7 +245,7 @@ a) Perito indicado pelo atleta;
 
 b) Perito nomeado pela federação.
 
-###### Art. 12.º - 1 - As federações das diversas modalidades desportivas, no mês de Setembro de cada ano, enviarão à Comissão Antidopagem as listas dos produtos ou substâncias considerados dopantes pelas respectivas federações internacionais. Na eventualidade do não cumprimento pelas federações do artigo anterior, a DGAM decidirá, ouvida a Comissão Antidopagem.
+Art. 12.º - 1 - As federações das diversas modalidades desportivas, no mês de Setembro de cada ano, enviarão à Comissão Antidopagem as listas dos produtos ou substâncias considerados dopantes pelas respectivas federações internacionais. Na eventualidade do não cumprimento pelas federações do artigo anterior, a DGAM decidirá, ouvida a Comissão Antidopagem.
 
 2 - A DGAM, após parecer da Comissão Antidopagem, devolverá às federações as respectivas listas, acompanhadas das alterações que forem julgadas convenientes, para que as federações as introduzam no seu regulamento no lugar que entendam.
 
@@ -242,16 +253,16 @@ b) Perito nomeado pela federação.
 
 Disposições finais e transitórias
 
-###### Art. 13.º Dentro de três meses, têm as federações de elaborar regulamentos, ou adaptar os que já possuam, em conformidade com o presente Regulamento, tendo especialmente em consideração as funções que este e os artigos 2.º, 3.º, n.º 2, e 9.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640) lhes remetem.
+Art. 13.º Dentro de três meses, têm as federações de elaborar regulamentos, ou adaptar os que já possuam, em conformidade com o presente Regulamento, tendo especialmente em consideração as funções que este e os artigos 2.º, 3.º, n.º 2, e 9.º do [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640) lhes remetem.
 
-###### Art. 14.º A alteração de qualquer dos quatro formulários anexos, referidos no texto como modelos n.os 1, 2, 3 e 4, depende de despacho do director-geral de Apoio Médico a publicar no Diário da República.
+Art. 14.º A alteração de qualquer dos quatro formulários anexos, referidos no texto como modelos n.os 1, 2, 3 e 4, depende de despacho do director-geral de Apoio Médico a publicar no Diário da República.
 
-###### Art. 15.º As dúvidas surgidas na interpretação e aplicação da presente portaria regulamentar serão resolvidas, sem prejuízo do disposto no artigo 16.º do citado [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640), por despacho do Secretário de Estado da Juventude e Desportos.
+Art. 15.º As dúvidas surgidas na interpretação e aplicação da presente portaria regulamentar serão resolvidas, sem prejuízo do disposto no artigo 16.º do citado [Decreto-Lei n.º 374/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1979-370640), por despacho do Secretário de Estado da Juventude e Desportos.
 
-###### Art. 16.º Esta portaria entra imediatamente em vigor.
+Art. 16.º Esta portaria entra imediatamente em vigor.
 
 Ministério da Educação e Ciência, 4 de Julho de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
 
 Do MODELO N.º 1 ao MODELO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15200/15411544.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15200/15411544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15200/15411544.pdf)

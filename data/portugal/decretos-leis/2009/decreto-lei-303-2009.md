@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20500/0793207933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/303/2009/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2009-483169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea325a70632582cb7b3e36c876cb24e1630a8ab2640ae29ed04f3790356190c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66f85460a8e783f6cb02c69ea3702375c726c142867c66de5c4f4e7aa81ecc98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,26 @@ relationships:
   target: pt:dre:191571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191571:por
+  label: "Extinto e integrado na Unidade Local de Saúde do Litoral Alentejano, E. P. E (ULS do Litoral Alentejano, E.P.E.),\
+    \ a qual sucede em todos os direitos e obrigações,o Hospital do Litoral Alentejano, E. P. E., criado pelo presente diploma\
+    \ que é revogado a partir de 01.11.2012 pelo DEC LEI.238/2012.31.10.2012.MS, DR.IS [211] de 31.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2012-191571
+  date: '2012-10-31'
+- type: amends
+  target: pt:numero:decreto-lei:172/2003
+  label: "Cria, a 01.01.2010, com a natureza de entidade pública empresarial, o Hospital do Litoral Alentejano, e extingue\
+    \ a unidade de saúde, criada pelo Decreto-Lei n.º 172/2003, de 1 de Agosto, DR.IS-A [176], a que sucede em todos os direitos\
+    \ e obrigações \0\0"
+  source: null
+  date: '2003-08-01'
+- type: amends
+  target: pt:numero:decreto-lei:233/2005
+  label: "Aprova para o Hospital do Litoral Alentejano E.P.E., nos termos do n.º 2 do artigo 1.º do presente diploma os estatutos,\
+    \ constantes do anexo II do Decreto-Lei n.º 233/2005, de 29 de Dezembro, DR.IS-A [249]\0\0"
+  source: null
+  date: '2005-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -88,16 +108,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:05Z'
   warnings: []
   errors: []
 ---
@@ -168,16 +200,16 @@ O presente decreto-lei entra em vigor em 1 de Janeiro de 2010.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 12 de Outubro de 2009.**
+Promulgado em 12 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Outubro de 2009.**
+Referendado em 12 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20500/0793207933.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20500/0793207933.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20500/0793207933.pdf)

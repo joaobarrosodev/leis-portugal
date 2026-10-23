@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/1995/05/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1995-500747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e8eef3cb78b36072058b44cd5c590af5e7d49a2e4b950c42cfb7797855d7366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da396ffad37007827ad5ab29cd5c331cd77f0f50eb131e7bd74f88b7cddc3e5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,22 @@ relationships:
   target: celex:31993L0068
   label: null
   source: http://data.europa.eu/eli/dir/1993/68/oj
+- type: repealed_by
+  target: pt:dre:642503:por
+  label: "Revogado a partir de 29.09.2007 o Dec Lei 74/92 de 29-Abr, alterado pelo presente diploma, pelo DEC LEI.325/2007.28.09.2007.MEI,\
+    \ DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-2007-642503
+  date: '2007-09-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:01Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +117,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 4.º, 5.º e 8.º do Decreto-Lei n.º 74/92, de 29 de Abril, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 4.º, 5.º e 8.º do Decreto-Lei n.º 74/92, de 29 de Abril, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [89/336/CEE](https://data.europa.eu/eli/dir/1989/336/oj?locale=pt), do Conselho, de 3 de Maio de 1989, respeitante à compatibilidade electromagnética, com as alterações que lhe foram introduzidas pela Directiva n.º [93/68/CEE](https://data.europa.eu/eli/dir/1993/68/oj?locale=pt), do Conselho, de 22 de Julho de 1993, respeitante à marcação «CE».
+Artigo 1.º O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [89/336/CEE](https://data.europa.eu/eli/dir/1989/336/oj?locale=pt), do Conselho, de 3 de Maio de 1989, respeitante à compatibilidade electromagnética, com as alterações que lhe foram introduzidas pela Directiva n.º [93/68/CEE](https://data.europa.eu/eli/dir/1993/68/oj?locale=pt), do Conselho, de 22 de Julho de 1993, respeitante à marcação «CE».
 
-###### Art. 2.º Para efeitos do presente diploma entende-se por:
+Art. 2.º Para efeitos do presente diploma entende-se por:
 
 a) ...
 
@@ -129,9 +135,9 @@ e) ...
 
 f) Norma harmonizada: norma elaborada por organismos europeus de normalização cujas referências tenham sido objecto de publicação no Jornal Oficial das Comunidades Europeias (JOCE).
 
-###### Art. 4.º Os aparelhos fabricados de acordo com normas harmonizadas, ou com normas de Estados membros notificadas pela Comissão Europeia com esse fim, presumem-se em conformidade com os requisitos exigidos pelo presente diploma e respectiva legislação complementar.
+Art. 4.º Os aparelhos fabricados de acordo com normas harmonizadas, ou com normas de Estados membros notificadas pela Comissão Europeia com esse fim, presumem-se em conformidade com os requisitos exigidos pelo presente diploma e respectiva legislação complementar.
 
-###### Art. 5.º - 1 - Nos aparelhos em que o fabricante tenha cumprido as regras e características estabelecidas para a sua fabricação deve ser aposta a marcação «CE» de conformidade.
+Art. 5.º - 1 - Nos aparelhos em que o fabricante tenha cumprido as regras e características estabelecidas para a sua fabricação deve ser aposta a marcação «CE» de conformidade.
 
 2 - É proibida a aposição da marcação «CE» de conformidade em aparelhos não abrangidos pelo disposto no número anterior.
 
@@ -139,30 +145,30 @@ f) Norma harmonizada: norma elaborada por organismos europeus de normalização 
 
 4 - As regras para a emissão, pelo Instituto das Comunicações de Portugal (ICP), do certificado de tipo CE de conformidade, bem como as iniciais e grafismo da marcação «CE» de conformidade, bem como as regras da sua aposição nos aparelhos, são objecto de portaria conjunta dos Ministros da Indústria e Energia e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 8.º - 1 - ...
+Art. 8.º - 1 - ...
 
 2 - As infracções ao disposto no n.º 1 do artigo 5.º, nos n.os 1 e 2 do artigo 5.º-A e no n.º 2 do artigo 7.º do presente diploma constituem contra-ordenação punível com coima de 25000$00 a 250000$00, no caso de pessoas singulares, ou até 1000000$00, no caso de pessoas colectivas.
 
 3 - ...
 
-###### Art. 2.º É aditado ao Decreto-Lei n.º 74/92, de 29 de Abril, o artigo 5.º-A com a seguinte redacção:
+Art. 2.º É aditado ao Decreto-Lei n.º 74/92, de 29 de Abril, o artigo 5.º-A com a seguinte redacção:
 
-###### Art. 5.º-A - 1 - É proibida a aposição nos aparelhos, nas suas embalagens, nos manuais de utilização ou nos cartões de garantia de marcações susceptíveis de induzir em erro quanto ao significado e ao grafismo da marcação «CE».
+Art. 5.º-A - 1 - É proibida a aposição nos aparelhos, nas suas embalagens, nos manuais de utilização ou nos cartões de garantia de marcações susceptíveis de induzir em erro quanto ao significado e ao grafismo da marcação «CE».
 
 2 - Sem prejuízo do disposto no número anterior, podem ser apostas outras marcações nos aparelhos, embalagens, manuais de utilizações ou cartões de garantia, desde que não reduzam ou excluam a visibilidade e a legibilidade da marcação «CE».
 
-###### Art. 3.º - 1 - É revogado o anexo ao Decreto-Lei n.º 74/92, de 29 de Abril.
+Art. 3.º - 1 - É revogado o anexo ao Decreto-Lei n.º 74/92, de 29 de Abril.
 
 2 - A revogação operada pelo número anterior produz efeitos na data da entrada em vigor da portaria referida no artigo 5.º
 
 Visto e aprovado em Conselho de Ministros de 9 de Março de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 26 de Abril de 1995.**
+Promulgado em 26 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Abril de 1995.**
+Referendado em 27 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

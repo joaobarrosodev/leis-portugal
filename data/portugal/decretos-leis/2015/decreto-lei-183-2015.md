@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16900/0661306615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2015/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5b6209127cfb94a7534bacba95f22136b62cdbe40159e84b3fabe311ce6b8e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92c7901372cfb6da80baf96363b5c91a657d65b83d013d645cf23879d9dad927
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ reuse:
 subjects:
 - Acumulação de Empregos
 - Acumulação de Funções
-- Médico
 - Conselho de Administração
 - Director Clínico
 - Empresa Pública
-- Estatuto
-- Serviço Nacional de Saúde
-- Gestor Público
 - Estabelecimento Hospitalar
+- Estatuto
+- Gestor Público
+- Médico
+- Serviço Nacional de Saúde
 - Unidade Local de Saúde
 relationships:
 - type: amended_by
@@ -91,16 +91,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/233/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/233/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106434234:por
+  label: Revogado, a partir de 15.02.2017 e com efeitos a 01.01.2017, o Dec. Lei 188/2003 de 20-ago, na redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I de 2017-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2017-106434234
+  date: '2017-02-10'
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:53Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +185,9 @@ Os artigos 13.º e 24.º dos Estatutos dos Hospitais e Centros Hospitalares, E. 
 
 6 - O exercício da atividade médica prevista no n.º 3 depende de requerimento do interessado e da verificação de comprovado interesse para o serviço.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O hospital, E. P. E., adota o sistema contabilístico que lhe for aplicável por lei.»
 
@@ -195,7 +211,9 @@ Os artigos 13.º e 26.º dos Estatutos das Unidades Locais de Saúde, E. P. E., 
 
 5 - O exercício da atividade médica prevista no n.º 2 depende de requerimento do interessado e da verificação de comprovado interesse para o serviço.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 A ULS, E. P. E., adota o sistema contabilístico que lhe for aplicável por lei.»
 
@@ -205,12 +223,12 @@ São revogados os n.os 2 e 3 do artigo 9.º do anexo ii e os n.os 2 e 3 do artig
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Isabel Cabral de Abreu Castelo Branco - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 12 de agosto de 2015.**
+Promulgado em 12 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de agosto de 2015.**
+Referendado em 17 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28900/20452046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/749-1975-311178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5bd6c523aca44ff3dd93e1237e7fa929e603ac55b6314e0f29ff261c0de6121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ddc50461b9175bcf72b23ca59444156d8db3647f67441fb282d3f6f0c31d5e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Náutica Infante Dom Henrique
+- Marinha Mercante
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:322509:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322509:por
+  label: "Revogada pelo DEC LEI.458-A/85.31.10.1985.MM, DR.IS [251]Supl de 31.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-a-1985-322509
+  date: '1985-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:23Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 1.º Os artigos 43.º, 45.º, 46.º e 49.º do [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 43.º - 1. Os cursos ministrados na Escola Náutica são os seguintes:
+Art. 43.º - 1. Os cursos ministrados na Escola Náutica são os seguintes:
 
 a) Cursos de oficiais da marinha mercante;
 
@@ -119,7 +135,7 @@ d) Cursos de estudos marítimos.
 
 ...
 
-###### Art. 45.º - 1. ...
+Art. 45.º - 1. ...
 
 a) ...
 
@@ -137,13 +153,13 @@ b) O curso complementar, com a duração de dois anos lectivos.
 
 3. ...
 
-###### Art. 46.º - 1. Os cursos de reciclagem, de aperfeiçoamento e de estudos marítimos são criados ou extintos por portaria do Secretário de Estado da Marinha Mercante.
+Art. 46.º - 1. Os cursos de reciclagem, de aperfeiçoamento e de estudos marítimos são criados ou extintos por portaria do Secretário de Estado da Marinha Mercante.
 
 2. ...
 
 ...
 
-###### Art. 49.º - 1. ...
+Art. 49.º - 1. ...
 
 2. As actividades escolares dos cursos de reciclagem, de aperfeiçoamento e de estudos marítimos são regulados por despacho do Secretário de Estado da Marinha Mercante, o qual poderá delegar tal faculdade no director-geral dos Estudos Náuticos.
 

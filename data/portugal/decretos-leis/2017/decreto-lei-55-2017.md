@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10800/0277802780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2017/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2017-107468879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03aed44cdc9f233acf045e3ee917580e90851884da5f43b3e92a34d6f368c323
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd8a45a35367bfc7d3a6223debab6a84846a8ffc0b073764609296c190fa199c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
 subjects:
 - Agência para o Desenvolvimento e Coesão
 - Aquisição de Bens e Serviços
-- Pessoal de Saúde
-- Financiamento
 - Contenção de Despesas
 - Despesas Públicas
-- Serviço Nacional de Saúde
 - Execução do Orçamento
 - Finanças Públicas
+- Financiamento
 - Horas Extraordinárias
-- Serviço Regional de Saúde
+- Pessoal de Saúde
 - PORTUGAL 2020
+- Serviço Nacional de Saúde
+- Serviço Regional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/2017/03/03/p/dre
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73000151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:56Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +193,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -223,7 +249,9 @@ p) A aquisição de serviços cofinanciados pelos programas do Portugal 2020 ou 
 
 10 - [...]
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - A partir de 1 de abril de 2017, ao trabalho extraordinário prestado pelos profissionais de saúde nos estabelecimentos que integram o Serviço Nacional de Saúde e os Serviços Regionais de Saúde é aplicável o disposto no artigo 73.º da [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, alterada pelas [Leis n.os 159-E/2015](https://diariodarepublica.pt/dr/detalhe/lei/159-e-2015-73000151), de 30 de dezembro, e [7-A/2016](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), de 30 de março, mantida em vigor pelo artigo 19.º da Lei do Orçamento do Estado, acrescido em 50 % da diferença apurada entre as percentagens previstas na tabela a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de março, e as estabelecidas no mencionado artigo 73.º
 
@@ -239,7 +267,9 @@ p) A aquisição de serviços cofinanciados pelos programas do Portugal 2020 ou 
 
 7 - Os atos praticados em violação da presente norma são nulos e a violação da mesma determina responsabilidade civil, financeira e disciplinar por parte dos gestores das entidades abrangidas pelo regime estabelecido no presente decreto-lei.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - [...]
 
@@ -273,12 +303,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Maria Fernanda Fernandes Garcia Rollo - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Amândio José de Oliveira Torres - Ana Paula Mendes Vitorino.
 
-**Promulgado em 19 de maio de 2017.**
+Promulgado em 19 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de maio de 2017.**
+Referendado em 24 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

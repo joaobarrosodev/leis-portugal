@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/266a00/65706576.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/298/2000/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2000-616184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79ab08dee17271ea66e980fd55f907f4005c5eca91604b8b33c07c6f61ae1462
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b6e92f1c0061f6cb466fc7cf5dc6916dadb7e406d505d348b6008bbf4571c05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
-- Secretaria Geral
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Integração de Trabalhadores
 - Ministério do Planeamento
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:647503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério das Finanças da Secretaria-Geral (integrada no agora extinto Ministério\
+    \ do Planeamento), pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/2000/07/20/p/dre
   label: null
@@ -95,16 +101,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:647503:por
+  label: "Revogado pelo DEC LEI.196/2002.2002.09.25.MF, DR.IS-A [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-2002-647503
+  date: '2002-09-25'
 article_structure:
   article_count: 26
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:57Z'
   warnings: []
   errors: []
 ---
@@ -265,7 +292,9 @@ b) A Secção de Administração de Pessoal;
 
 c) A Secção de Expediente Geral e Arquivo.
 
-###### Artigo 9.º — Divisão de Organização e Recursos Humanos
+###### Artigo 9.º
+
+##### Divisão de Organização e Recursos Humanos
 
 À Divisão de Organização e Recursos Humanos compete:
 
@@ -309,7 +338,9 @@ t) Assegurar a elaboração de manuais e textos de apoio, visando a actualizaç�
 
 u) Assegurar a ligação com os serviços e organismos da Administração Pública competentes em matéria de pessoal, modernização, qualidade e formação, bem como coordenar, de acordo com as orientações superiormente definidas, a política definida, nestes domínios, a nível do Ministério.
 
-###### Artigo 10.º — Secção de Administração de Pessoal
+###### Artigo 10.º
+
+#### Secção de Administração de Pessoal
 
 À Secção de Administração de Pessoal compete:
 
@@ -331,7 +362,9 @@ h) Assegurar o expediente relacionado com os benefícios sociais a que o pessoal
 
 i) Emitir cartões de identificação, bem como certidões e declarações relativas ao cadastro individual.
 
-###### Artigo 11.º — Secção de Expediente Geral e Arquivo
+###### Artigo 11.º
+
+#### Secção de Expediente Geral e Arquivo
 
 À Secção de Expediente Geral e Arquivo compete:
 
@@ -357,7 +390,9 @@ b) A Secção de Orçamento e Conta;
 
 c) A Secção de Património e Aprovisionamento.
 
-###### Artigo 13.º — Divisão de Planeamento e Gestão Financeira
+###### Artigo 13.º
+
+##### Divisão de Planeamento e Gestão Financeira
 
 À Divisão de Planeamento e Gestão Financeira compete:
 
@@ -377,7 +412,9 @@ g) Coordenar o processo de publicação dos subsídios atribuídos pelos serviç
 
 h) Coordenar a elaboração do plano e relatório de actividades da Secretaria-Geral.
 
-###### Artigo 14.º — Secção de Orçamento e Conta
+###### Artigo 14.º
+
+#### Secção de Orçamento e Conta
 
 À Secção de Orçamento e Conta compete:
 
@@ -401,7 +438,9 @@ i) Verificar a conformidade legal das despesas, e proceder ao respectivo cabimen
 
 j) Elaborar balancetes mensais de execução orçamental.
 
-###### Artigo 15.º — Secção de Património e Aprovisionamento
+###### Artigo 15.º
+
+#### Secção de Património e Aprovisionamento
 
 À Secção de Património e Aprovisionamento compete:
 
@@ -567,13 +606,13 @@ Serão definidos, ao abrigo do disposto nos n.os 1 e 39 do artigo 7.º da [Lei n
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira - Alberto de Sousa Martins.
 
-**Promulgado em 6 de Novembro de 2000.**
+Promulgado em 6 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 2000.**
+Referendado em 9 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 

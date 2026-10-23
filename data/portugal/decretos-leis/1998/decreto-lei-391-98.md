@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/391/1998/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1998-222071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e460e28fb554a1a62ab934b84cd6e0c20c8033901d107b44ca10f97493cb51e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1c24b42446adc25c9a1dff618a632ca36de89c8e643349e47ecbb5f53d65442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento para Animais
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
-- Saúde Pública
 - Fabrico Industrial
-- Alimento para Animais
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:483651:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31998L0060
   label: null
   source: http://data.europa.eu/eli/dir/1998/60/oj
+- type: repealed_by
+  target: pt:dre:483651:por
+  label: "Revogada a redacção dada á Port 1107/89, de 27-Dez, pelo DEC LEI.235/2003.2003.09.30.MADRP DR.IS-A [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2003-483651
+  date: '2003-09-30'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:13Z'
   warnings: []
   errors: []
 ---
@@ -134,22 +139,22 @@ Os anexos I e II à Portaria n.º 1107/89, de 27 de Dezembro, são alterados em 
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1998. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em 23 de Novembro de 1998.**
+Promulgado em 23 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1998.**
+Referendado em 25 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
 1 - No anexo I é aditado ao ponto B, «Produtos», o seguinte subponto 21:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66806681.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66806681.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66806681.pdf)
 
 2 - No anexo II é aditado ao ponto A o seguinte subponto 4:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66806681.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66806681.pdf)](https://files.diariodarepublica.pt/1s/1998/12/280a00/66806681.pdf)

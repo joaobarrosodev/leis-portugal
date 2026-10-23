@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2004/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2004-480287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12108e7dfc255461d9599f01419ad39efda13baac50daeda006d1a5c3e466aae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484727f4b03ef91ebf6d63e9735e7eb4e4858345ed69b40449324d6aa00119b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ subjects:
 - Concurso
 - Contratação de Docentes
 - Destacamento de Pessoal
-- Formulário Eletrónico
-- Recrutamento de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Secundário
 - Estabelecimento de Ensino
+- Formulário Eletrónico
 - Pessoal Docente
-- Ensino Básico
-- Educação Pré-escolar
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2004/01/17/p/dre
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604629:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:14Z'
   warnings: []
   errors: []
 ---
@@ -166,12 +178,12 @@ O presente diploma produz efeitos a partir do dia seguinte ao da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - Maria do Carmo Félix da Costa Seabra
 
-**Promulgado em 16 de Agosto de 2004.**
+Promulgado em 16 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Agosto de 2004.**
+Referendado em 16 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

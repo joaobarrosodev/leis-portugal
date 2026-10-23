@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/2008/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2008-452963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d19739e641053ff59c4dcc7ce698505e7bd9bea9b13d1f2379e34e184debf70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe1e313ddf99833f48b870df6fec1892c1a3054a9d5c58003f83b45bc8464f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,42 +69,56 @@ subjects:
 - Accionista
 - Acordo
 - Adjudicação
-- Metropolitano de Lisboa
 - Arbitragem
 - ÁREA Metropolitana
 - Associação Nacional de Municípios Portugueses
-- Financiamento
-- Sociedade Anónima
-- Inspeção Geral de Finanças
+- Comissão de Trabalhadores
 - Concurso Público Internacional
 - Contrato de Concessão
 - CP
-- Transporte Ferroviário
-- Comissão de Trabalhadores
-- Propriedade do Estado
 - Estatuto
 - Expropriação
+- Financiamento
 - Fiscalização
 - Infraestrutura dos Transportes
+- Inspeção Geral de Finanças
 - Isenção Fiscal
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
+- Metro do Porto
+- Metropolitano de Lisboa
 - Obras Públicas
-- Sanção Penal
-- Serviço Público
+- Porto
+- Propriedade do Estado
 - Refer
 - Regime de Exclusividade
+- Sanção Penal
 - Santo Tirso
-- Metro do Porto
+- Serviço Público
+- Sociedade Anónima
 - STCP
 - Transporte de Passageiros
-- Porto
+- Transporte Ferroviário
 - Trofa
 relationships:
 - type: amended_by
   target: pt:dre:168697991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105387216:por
+  label: Alterados a Base XIX das Bases da Concessão do Sistema de Metro Ligeiro do Porto, e o art. 9.º dos Estatutos da Metro
+    do Porto, S. A., ambos na redação do presente diploma, constantes dos anexos I e III respetivamente, ao Dec. Lei 394-A/98,
+    de 15-dez pelo(a) Lei n.º 38/2016 - Diário da República n.º 241/2016, Série I de 2016-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/38-2016-105387216
+  date: '2016-12-19'
+- type: amended_by
+  target: pt:dre:168697991:por
+  label: Alteradas, a partir de 31.07.2021, as bases i, vi, vii, ix, x, xi-a, xiii, xv e xix, bem como a epígrafe da base
+    xi, da concessão do sistema de metro ligeiro do Porto aprovadas pelo Dec Lei 394-A/98 de 15-dez, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 68/2021 - Diário da República n.º 147/2021, Série I de 2021-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2021-168697991
+  date: '2021-07-30'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -145,16 +159,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/142-a/1998/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/142-a/1998/12/15/p/dre
+- type: cites
+  target: pt:dre:188948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673634:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 33
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:26Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +259,9 @@ As bases i, ii, v, vi, vii, x, xi, xi-a, xii, xiii, xiv, xv, xvi, xvii, xix, xx,
 
 3 - (Revogado.)
 
-###### Base II — [...]
+Base II
+
+[...]
 
 1 - ...
 
@@ -219,7 +283,9 @@ e) (Revogada.)
 
 5 - Quando a concessionária tenha contratado ou quando sejam contratadas terceiras empresas para a realização de algumas das prestações contidas no objecto da concessão, a concessionária pode participar no capital dessas empresas, desde que essas mesmas empresas sejam contratadas no decurso de procedimento de contratação, com respeito das regras essenciais da concorrência, observados os procedimentos legais.
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - Os prazos essenciais para a concretização do empreendimento e entrada em serviço do sistema são os estabelecidos nos instrumentos contratuais respectivos.
 
@@ -227,7 +293,9 @@ e) (Revogada.)
 
 3 - (Revogado.)
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - A rede do sistema é composta pelos seguintes troços:
 
@@ -281,7 +349,9 @@ d) [Anterior alínea f).]
 
 e) [Anterior alínea g).]
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 1 - ...
 
@@ -303,13 +373,17 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 8 - ...
 
-###### Base X — [...]
+Base X
+
+[...]
 
 1 - O Estado pode facultar à concessionária o direito de utilização do domínio público abrangido pelo sistema para efeitos de implantação e exploração das infra-estruturas, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial.
 
 2 - ...
 
-###### Base XI — [...]
+Base XI
+
+[...]
 
 1 - Compete à concessionária, como entidade expropriante, actuando em nome do Estado, realizar as expropriações e constituir as servidões necessárias à construção do sistema, nos termos do presente decreto-lei e do Código das Expropriações.
 
@@ -321,7 +395,9 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 5 - O membro do Governo responsável pela tutela sectorial pode designar uma entidade que coordene e fiscalize a condução dos processos expropriativos e dos relativos à aquisição pela via do direito privado.
 
-###### Base XI-A — [...]
+Base XI-A
+
+[...]
 
 1 - ...
 
@@ -337,13 +413,17 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 7 - Se, apesar de realizadas as diligências referidas no n.º 6 da presente base, não for possível à concessionária identificar os donos ou titulares dos prédios a afectar pela imposição de servidões ou direitos, designadamente pela falta de resposta dentro do prazo fixado, é suficiente, para notificação dos donos ou titulares desconhecidos a publicação, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., na 2.ª série do Diário da República das plantas do traçado do sistema de metro em escala adequada e que permita a clara identificação dos prédios servientes ou afectados.
 
-###### Base XII — [...]
+Base XII
+
+[...]
 
 1 - A concessionária está isenta de imposto municipal sobre a transmissão onerosa de imóveis (IMT) nas aquisições, a qualquer título, dos imóveis necessários para a prossecução do seu objecto social principal, ao abrigo da alínea c) do artigo 6.º do Código do IMT, salvo manifestação em contrário das autarquias.
 
 2 - Nos termos do acordo parassocial, os municípios que sejam accionistas da concessionária podem propor a transformação dos seus créditos pela cobrança de taxas e emolumentos devidos pela apresentação ou aprovação de projectos e de licenciamentos, pela emissão de licenças e alvarás de loteamento ou de construção e pela ocupação ou utilização de vias, terrenos públicos, subsolos e espaços aéreos em entradas de capital ou em espécie.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - O financiamento da concessão é assegurado pelas receitas decorrentes da actividade da concessionária e, designadamente, pelas dotações do Orçamento do Estado, de fundos de origem comunitária, de empréstimos contraídos, de contribuições de capital, de entradas de fundos, suprimentos e prestações acessórias de capital realizadas pelos seus accionistas, podendo estas ser convertidas em capital quando o seu valor, ainda que acumulado, seja igual ou superior a 10 vezes o capital detido pelo accionista prestador.
 
@@ -359,7 +439,9 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 7 - A concessionária pode contrair empréstimos para assegurar a cobertura global dos pagamentos orçamentados, podendo os membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial determinar as circunstâncias em que o Estado prestará garantias e avales.
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - ...
 
@@ -373,7 +455,9 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 6 - A entrada em vigor das tarifas depende de prévia homologação pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., devendo a concessionária enviar àquele organismo as tabelas no prazo que lhe seja fixado.
 
-###### Base XV — Compensações financeiras
+Base XV
+
+Compensações financeiras
 
 1 - O Estado prestará à concessionária compensações financeiras pela prestação de serviço de interesse geral, devendo estas ser objecto de contratos-programa ou contratos de serviço público.
 
@@ -383,7 +467,9 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 4 - (Revogado.)
 
-###### Base XVI — [...]
+Base XVI
+
+[...]
 
 1 - A concessionária deve dar conhecimento imediato ao membro do Governo responsável pela tutela sectorial de qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases, bem como ao membro do Governo responsável pela área das finanças, quando tais eventos tenham implicações de natureza económica e financeira.
 
@@ -405,7 +491,9 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 10 - ...
 
-###### Base XVII — [...]
+Base XVII
+
+[...]
 
 1 - ...
 
@@ -421,7 +509,9 @@ e) Inspecção-Geral de Finanças e Instituto da Mobilidade e dos Transportes Te
 
 2 - Os representantes dos organismos referidos no número anterior reúnem periodicamente com a concessionária e prestam todos os esclarecimentos e informações que lhe forem solicitados.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - ...
 
@@ -431,11 +521,15 @@ e) Inspecção-Geral de Finanças e Instituto da Mobilidade e dos Transportes Te
 
 4 - (Revogado.)
 
-###### Base XX — [...]
+Base XX
+
+[...]
 
 A operação do sistema durante o período inicial, que decorre até ao final de Março de 2009, é realizada pelo adjudicatário escolhido no âmbito do procedimento de contratação previsto no artigo 3.º do [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), de 15 de Dezembro, devendo seguir a tramitação estabelecida na legislação aplicável.
 
-###### Base XXI — [...]
+Base XXI
+
+[...]
 
 1 - ...
 
@@ -445,7 +539,9 @@ A operação do sistema durante o período inicial, que decorre até ao final de
 
 4 - ...
 
-###### Base XXII — Escolha da subconcessionária
+Base XXII
+
+Escolha da subconcessionária
 
 1 - A escolha da subconcessionária ou das subconcessionárias deve ser feita mediante procedimento de contratação, a lançar pela concessionária, devendo seguir a tramitação estabelecida na legislação aplicável.
 
@@ -457,7 +553,9 @@ A operação do sistema durante o período inicial, que decorre até ao final de
 
 5 - Nos contratos a celebrar com as subconcessionárias deve assegurar-se o cumprimento do disposto nas presentes bases.
 
-###### Base XXIV — [...]
+Base XXIV
+
+[...]
 
 1 - ...
 
@@ -473,7 +571,9 @@ A operação do sistema durante o período inicial, que decorre até ao final de
 
 7 - ...
 
-###### Base XXV — [...]
+Base XXV
+
+[...]
 
 1 - O Estado, através do membro do Governo responsável pela tutela sectorial, poderá tomar a exploração do serviço quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou quando se verifiquem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -483,7 +583,9 @@ A operação do sistema durante o período inicial, que decorre até ao final de
 
 4 - ...
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 1 - O Estado, através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -511,7 +613,9 @@ i) ...
 
 4 - ...
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - Nos últimos 15 anos de vigência da concessão, pode o Estado proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à concessionária da intenção de resgate.
 
@@ -537,7 +641,9 @@ Os artigos 2.º, 4.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.�
 
 A sede da sociedade é na Avenida de Fernão de Magalhães, 1862, 7.º, Porto.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -553,11 +659,15 @@ e) (Revogada.)
 
 2 - A sociedade pode, para o desenvolvimento das actividades referidas no número anterior, constituir empresas ou tomar participações noutras sociedades, observados os procedimentos legais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O capital social é de (euro) 7 500 000 e encontra-se integralmente realizado em dinheiro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O capital social é representado por 1 500 000 acções ordinárias de (euro) 5 cada.
 
@@ -567,7 +677,9 @@ O capital social é de (euro) 7 500 000 e encontra-se integralmente realizado em
 
 4 - As despesas com o desdobramento dos títulos correm por conta dos accionistas que o requeiram.
 
-###### Artigo 9.º — Estrutura accionista
+Artigo 9.º
+
+Estrutura accionista
 
 1 - As participações sociais no capital dos accionistas, em termos de detenção de acções ordinárias, são nas percentagens seguintes:
 
@@ -585,7 +697,9 @@ b) O accionista Área Metropolitana do Porto pode transmitir aos municípios abr
 
 c) Os accionistas municípios podem transmitir acções a outros municípios abrangidos pelo sistema de metro ligeiro acções do seu lote.
 
-###### Artigo 10.º — Prestações acessórias
+Artigo 10.º
+
+Prestações acessórias
 
 Os accionistas realizam prestações acessórias de capital, em dinheiro ou em espécie, nos termos seguintes:
 
@@ -605,11 +719,15 @@ d) Salvo quanto ao accionista Estado, qualquer accionista pode, independentement
 
 e) As prestações acessórias, qualquer que seja a natureza da entrada ou o seu regime, são sempre feitas a título gratuito, sem prejuízo do disposto na parte final do n.º 1 da base xiii da concessão.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Mediante deliberação da assembleia geral, a sociedade pode emitir obrigações e outros títulos de dívidas, nos termos da legislação em vigor.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
 
@@ -619,7 +737,9 @@ Mediante deliberação da assembleia geral, a sociedade pode emitir obrigações
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +751,9 @@ Mediante deliberação da assembleia geral, a sociedade pode emitir obrigações
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Compete à assembleia geral, designadamente:
 
@@ -655,7 +777,9 @@ h) [Anterior alínea g).]
 
 3 - É proibido o voto por correspondência.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -663,11 +787,15 @@ h) [Anterior alínea g).]
 
 3 - O vice-presidente e o secretário da mesa da assembleia geral são indicados pelo accionista Estado.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A assembleia geral reúne, pelo menos, uma vez por ano e sempre que convocada pelo presidente do conselho de administração ou do presidente do conselho fiscal ou a pedido dos accionistas que possuam acções correspondentes a pelo menos 5 % do capital social.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O conselho de administração é composto por sete membros, sendo três executivos, incluindo o presidente, e quatro não executivos.
 
@@ -679,7 +807,9 @@ A assembleia geral reúne, pelo menos, uma vez por ano e sempre que convocada pe
 
 5 - O conselho de administração delega numa comissão executiva a gestão corrente da sociedade nos termos permitidos por lei, a qual é presidida pelo presidente do conselho de administração.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Compete ao conselho de administração, designadamente:
 
@@ -697,7 +827,9 @@ f) ...
 
 2 - Sem prejuízo do disposto no artigo 37.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto, a participação da sociedade no capital de outras sociedades ou em agrupamentos complementares de empresas e a celebração de contratos de consórcio e de associação em participação estão condicionadas ao acordo de todos os membros do conselho de administração.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Compete ao presidente do conselho de administração, especialmente:
 
@@ -711,19 +843,25 @@ d) ...
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O conselho de administração fixa as datas ou a periodicidade das suas reuniões ordinárias e reúne extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.
 
 2 - A falta de um membro do conselho de administração a mais de duas reuniões deste órgão por ano, seguidas ou interpoladas, sem justificação aceite por esse conselho, conduz à falta definitiva do administrador, devendo proceder-se à sua substituição nos termos do Código das Sociedade Comerciais.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
 2 - As deliberações do conselho de administração constam sempre de acta e são tomadas por maioria dos votos presentes ou representados, tendo o presidente, ou quem o substitua, voto de qualidade.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A sociedade obriga-se:
 
@@ -737,9 +875,13 @@ c) Pela assinatura de um dos administradores executivos e de um director ou mand
 
 3 - ...
 
-#### SECÇÃO III — Fiscalização
+SECÇÃO III
 
-###### Artigo 24.º — [...]
+Fiscalização
+
+Artigo 24.º
+
+[...]
 
 1 - A fiscalização da sociedade compete a um conselho fiscal eleito em assembleia geral por um período de três anos.
 
@@ -751,7 +893,9 @@ c) Pela assinatura de um dos administradores executivos e de um director ou mand
 
 5 - O outro vogal efectivo do conselho fiscal, obrigatoriamente revisor oficial de contas, é indicado, por consenso, pelos accionistas Estado e Área Metropolitana do Porto.
 
-###### Artigo 25.º — Competência e reuniões do conselho fiscal
+Artigo 25.º
+
+Competência e reuniões do conselho fiscal
 
 1 - Compete ao conselho fiscal, designadamente:
 
@@ -773,7 +917,9 @@ f) ...
 
 4 - O conselho fiscal deve reunir, pelo menos, todos os trimestres.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Os lucros líquidos anuais, devidamente aprovados, têm a seguinte aplicação:
 
@@ -803,15 +949,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 22 de Setembro de 2008.**
+Promulgado em 22 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Setembro de 2008.**
+Referendado em 24 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -819,7 +965,9 @@ Bases da concessão do sistema de metro ligeiro do Porto
 
 #### SECÇÃO I — Disposições e princípios gerais
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 1 - A concessão tem por objecto a exploração de um sistema de metro ligeiro na área metropolitana do Porto.
 
@@ -827,7 +975,9 @@ Bases da concessão do sistema de metro ligeiro do Porto
 
 3 - (Revogado.)
 
-###### Base II — Actividades da concessionária
+Base II
+
+Actividades da concessionária
 
 1 - A concessionária tem como objecto e actividade principal a realização das prestações inerentes à concessão.
 
@@ -849,11 +999,15 @@ e) (Revogada.)
 
 5 - Quando a concessionária tenha contratado ou quando sejam contratadas terceiras empresas para a realização de algumas das prestações contidas no objecto da concessão, a concessionária pode participar no capital dessas empresas, desde que essas mesmas empresas sejam contratadas no decurso de procedimento de contratação, com respeito das regras essenciais da concorrência, observados os procedimentos legais.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 A concessão é exercida em regime de serviço público e de exclusividade.
 
-###### Base IV — Prazo da concessão
+Base IV
+
+Prazo da concessão
 
 1 - A concessão tem a duração de 50 anos, contados a partir da data de entrada em vigor do decreto-lei que aprova as presentes bases.
 
@@ -861,7 +1015,9 @@ A concessão é exercida em regime de serviço público e de exclusividade.
 
 3 - A prorrogação deve ser requerida pela concessionária com a antecedência mínima de 18 meses sobre o termo da concessão e comunicada a esta com uma antecedência mínima de um ano sobre tal termo.
 
-###### Base V — Prazos de concretização e entrada em serviço do sistema
+Base V
+
+Prazos de concretização e entrada em serviço do sistema
 
 1 - Os prazos essenciais para a concretização do empreendimento e entrada em serviço do sistema são os estabelecidos nos instrumentos contratuais respectivos.
 
@@ -869,7 +1025,9 @@ A concessão é exercida em regime de serviço público e de exclusividade.
 
 3 - (Revogado.)
 
-###### Base VI — Composição e características gerais do sistema
+Base VI
+
+Composição e características gerais do sistema
 
 1 - A rede do sistema é composta pelos seguintes troços:
 
@@ -925,7 +1083,9 @@ e) Os clientes, as instalações e o material circulante são sujeitos a vigilâ
 
 #### SECÇÃO II — Dos bens e meios afectos à concessão
 
-###### Base VII — Estabelecimento e bens afectos à concessão
+Base VII
+
+Estabelecimento e bens afectos à concessão
 
 1 - Consideram-se afectos à concessão, para além dos bens que integram o seu estabelecimento, todos os bens móveis ou imóveis, corpóreos ou incorpóreos, assim como todos os direitos ligados directa ou indirectamente à implantação e exploração do sistema.
 
@@ -947,23 +1107,31 @@ b) Pode, no âmbito da concessão, utilizar equipamentos relevantes, designadame
 
 8 - Caso venha a verificar-se uma situação de cessação da concessão por qualquer outro motivo ou de incumprimento contratual, o concedente tem sempre a possibilidade de permanecer no uso e fruição dos bens afectos à concessão ao abrigo de contratos de direito privado, assumindo a posição contratual do concessionário.
 
-###### Base VIII — Transferência das infra-estruturas existentes
+Base VIII
+
+Transferência das infra-estruturas existentes
 
 1 - As infra-estruturas ferroviárias existentes desde a Trindade até à Póvoa de Varzim e até à Trofa, nelas se incluindo as linhas, estações, outras instalações imobiliárias e direitos inerentes ao transporte ferroviário, assim como a faixa de terreno na estação de Campanhã identificada no apêndice n.º 1, são afectadas à concessionária.
 
 2 - A afectação referida no número anterior é feita a título gratuito, pelo período de duração da concessão e mediante autos de entrega, lavrados para o efeito e assinados por representantes do Estado e da concessionária.
 
-###### Base IX — Construção ou adaptação de infra-estruturas
+Base IX
+
+Construção ou adaptação de infra-estruturas
 
 A construção ou adaptação de infra-estruturas compreende também a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e a constituição das necessárias servidões.
 
-###### Base X — Utilização do domínio público
+Base X
+
+Utilização do domínio público
 
 1 - O Estado pode facultar à concessionária o direito de utilização do domínio público abrangido pelo sistema para efeitos de implantação e exploração das infra-estruturas, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial.
 
 2 - O Estado e os municípios cuja área seja abrangida pelo sistema de metro podem, na qualidade de accionistas da concessionária, transferir para esta bens dominiais e outros bens e direitos a título de entradas em espécie, nos termos regulados no acordo parassocial.
 
-###### Base XI — Expropriações
+Base XI
+
+Expropriações
 
 1 - Compete à concessionária, como entidade expropriante, actuando em nome do Estado, realizar as expropriações e constituir as servidões necessárias à construção do sistema, nos termos do presente decreto-lei e do Código das Expropriações.
 
@@ -975,7 +1143,9 @@ A construção ou adaptação de infra-estruturas compreende também a aquisiç�
 
 5 - O membro do Governo responsável pela tutela sectorial pode designar uma entidade que coordene e fiscalize a condução dos processos expropriativos e dos relativos à aquisição pela via do direito privado.
 
-###### Base XI-A — Servidões de implantação de catenária
+Base XI-A
+
+Servidões de implantação de catenária
 
 1 - Compete à concessionária constituir as servidões ou direitos de uso ou de passagem necessários à instalação das catenárias do sistema de metro, bastando para esse efeito a notificação escrita por parte da concessionária ao dono ou titular do prédio serviente ou afectado.
 
@@ -1001,7 +1171,9 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 7 - Se, apesar de realizadas as diligências referidas no n.º 6 da presente base, não for possível à concessionária identificar os donos ou titulares dos prédios a afectar pela imposição de servidões ou direitos, designadamente pela falta de resposta dentro do prazo fixado, é suficiente, para notificação dos donos ou titulares desconhecidos, a publicação, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., na 2.ª série do Diário da República das plantas do traçado do sistema de metro em escala adequada e que permita a clara identificação dos prédios servientes ou afectados.
 
-###### Base XII — Isenções
+Base XII
+
+Isenções
 
 1 - A concessionária está isenta de imposto municipal sobre a transmissão onerosa de imóveis (IMT) nas aquisições, a qualquer título, dos imóveis necessários para a prossecução do seu objecto social principal, ao abrigo da alínea c) do artigo 6.º do Código do IMT, salvo manifestação em contrário das autarquias.
 
@@ -1009,7 +1181,9 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 #### SECÇÃO III — Regime financeiro
 
-###### Base XIII — Financiamento das actividades da concessionária
+Base XIII
+
+Financiamento das actividades da concessionária
 
 1 - O financiamento da concessão é assegurado pelas receitas decorrentes da actividade da concessionária e, designadamente, pelas dotações do Orçamento do Estado, de fundos de origem comunitária, de empréstimos contraídos, de contribuições de capital, de entradas de fundos, suprimentos e prestações acessórias de capital realizadas pelos seus accionistas, podendo estas ser convertidas em capital quando o seu valor, ainda que acumulado, seja igual ou superior a 10 vezes o capital detido pelo accionista prestador.
 
@@ -1025,7 +1199,9 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 7 - A concessionária pode contrair empréstimos para assegurar a cobertura global dos pagamentos orçamentados, podendo os membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial determinar as circunstâncias em que o Estado prestará garantias e avales.
 
-###### Base XIV — Regime tarifário
+Base XIV
+
+Regime tarifário
 
 1 - A concessionária deve elaborar tabelas anuais das tarifas a cobrar aos clientes do sistema como contrapartida do serviço de transporte, devendo assegurar um esquema de complementaridade com os vários meios de transporte colectivos da área metropolitana do Porto, a emissão e comercialização de títulos de transporte próprios e intermodais, assim como a fiscalização comercial da exploração do sistema.
 
@@ -1039,7 +1215,9 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 6 - A entrada em vigor das tarifas depende de prévia homologação pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., devendo a concessionária enviar àquele organismo as tabelas no prazo que lhe seja fixado.
 
-###### Base XV — Compensações financeiras
+Base XV
+
+Compensações financeiras
 
 1 - O Estado prestará à concessionária compensações financeiras pela prestação de serviço de interesse geral, devendo estas ser objecto de contratos-programa ou contratos de serviço público.
 
@@ -1051,7 +1229,9 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 #### SECÇÃO IV — Relações com o concedente
 
-###### Base XVI — Obrigações de informação da concessionária
+Base XVI
+
+Obrigações de informação da concessionária
 
 1 - A concessionária deve dar conhecimento imediato ao membro do Governo responsável pela tutela sectorial de qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases, bem como ao membro do Governo responsável pela área das finanças, quando tais eventos tenham implicações de natureza económica e financeira.
 
@@ -1073,7 +1253,9 @@ e) A passagem ou a ocupação temporária de terrenos ou de outros bens para ins
 
 10 - Antes de iniciar quaisquer procedimentos ou negociações tendentes à modificação do contrato referido no artigo 3.º do [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), de 15 de Dezembro, nomeadamente dos respectivos preços ou das condições e termos referentes ao seu objecto, a concessionária deve solicitar a autorização conjunta dos membros do Governo referidos nos números anteriores, identificando fundamentadamente as causas e objectivos da modificação pretendida.
 
-###### Base XVII — Fiscalização
+Base XVII
+
+Fiscalização
 
 1 - A fiscalização das obrigações da concessionária inerentes ao exercício da concessão será efectuada pelas seguintes entidades:
 
@@ -1091,7 +1273,9 @@ e) Inspecção-Geral de Finanças e Instituto da Mobilidade e dos Transportes Te
 
 #### SECÇÃO V — Obrigações diversas da concessionária
 
-###### Base XVIII — Obrigações de segurança, de acesso e de informação
+Base XVIII
+
+Obrigações de segurança, de acesso e de informação
 
 1 - Sem prejuízo das obrigações do Estado em matéria de segurança pública, a concessionária zela pela segurança dos clientes e dos bens que estes transportem através da celebração de protocolos com a Polícia de Segurança Pública e com a Guarda Nacional Republicana.
 
@@ -1101,7 +1285,9 @@ e) Inspecção-Geral de Finanças e Instituto da Mobilidade e dos Transportes Te
 
 4 - A concessionária assegura também a efectiva acessibilidade e o conforto das pessoas de mobilidade reduzida.
 
-###### Base XIX — Obrigações respeitantes à sociedade concessionária
+Base XIX
+
+Obrigações respeitantes à sociedade concessionária
 
 1 - A concessionária deve manter como seu objecto social principal a exploração do sistema de metropolitano ligeiro e a sua sede social em local sito na área metropolitana do Porto.
 
@@ -1113,11 +1299,15 @@ e) Inspecção-Geral de Finanças e Instituto da Mobilidade e dos Transportes Te
 
 #### SECÇÃO VI — Exploração do empreendimento concessionado
 
-###### Base XX — Operação do sistema no período inicial
+Base XX
+
+Operação do sistema no período inicial
 
 A operação do sistema durante o período inicial, que decorre até ao final de Março de 2009, é realizada pelo adjudicatário escolhido no âmbito do procedimento de contratação previsto no artigo 3.º do [Decreto-Lei n.º 394-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-a-1998-324333), de 15 de Dezembro, devendo seguir a tramitação estabelecida na legislação aplicável.
 
-###### Base XXI — Exploração do sistema
+Base XXI
+
+Exploração do sistema
 
 1 - Uma vez terminado o período inicial de operação, a exploração do sistema pela concessionária deve dar-se de forma a assegurar tendencialmente o equilíbrio comercial da exploração e a auto-suficiência financeira da concessão, sem prejuízo das obrigações inerentes ao regime de serviço público.
 
@@ -1127,7 +1317,9 @@ A operação do sistema durante o período inicial, que decorre até ao final de
 
 4 - A concessionária mantém os direitos e continua sujeita às obrigações e responsabilidades emergentes das presentes bases em caso de subconcessão.
 
-###### Base XXII — Escolha da subconcessionária
+Base XXII
+
+Escolha da subconcessionária
 
 1 - A escolha da subconcessionária ou das subconcessionárias deve ser feita mediante procedimento de contratação, a lançar pela concessionária, devendo seguir a tramitação estabelecida na legislação aplicável.
 
@@ -1139,13 +1331,17 @@ A operação do sistema durante o período inicial, que decorre até ao final de
 
 5 - Nos contratos a celebrar com as subconcessionárias deve assegurar-se o cumprimento do disposto nas presentes bases.
 
-###### Base XXIII — Proibição de transmissão
+Base XXIII
+
+Proibição de transmissão
 
 Para além da subconcessão prevista nas presentes bases, são proibidas quaisquer formas de transmissão, parcial ou total, da concessão.
 
 #### SECÇÃO VII — Sanções
 
-###### Base XXIV — Multas
+Base XXIV
+
+Multas
 
 1 - Pelo incumprimento de qualquer das obrigações inerentes à concessão poderá a concessionária ser punida com multa de (euro) 200 000 a (euro) 20 000 000, segundo a sua gravidade.
 
@@ -1163,7 +1359,9 @@ Para além da subconcessão prevista nas presentes bases, são proibidas quaisqu
 
 #### SECÇÃO VIII — Sequestro, extinção e resgate da concessão
 
-###### Base XXV — Sequestro
+Base XXV
+
+Sequestro
 
 1 - O Estado, através do membro do Governo responsável pela tutela sectorial, pode tomar a exploração do serviço quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou quando se verifiquem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -1173,7 +1371,9 @@ Para além da subconcessão prevista nas presentes bases, são proibidas quaisqu
 
 4 - Se a concessionária não quiser ou não puder retomar a exploração ou se, tendo-o feito, continuarem a verificar-se graves deficiências na organização e funcionamento do serviço, o Estado pode declarar a concessão extinta.
 
-###### Base XXVI — Extinção da concessão
+Base XXVI
+
+Extinção da concessão
 
 1 - O Estado, através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da tutela sectorial, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -1201,7 +1401,9 @@ i) Decurso do prazo previsto na base iv.
 
 4 - A extinção da concessão é comunicada à concessionária por carta registada, com aviso de recepção, e produzirá imediatamente os seus efeitos.
 
-###### Base XXVII — Resgate da concessão
+Base XXVII
+
+Resgate da concessão
 
 1 - Nos últimos 15 anos de vigência da concessão, pode o Estado proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à concessionária da intenção de resgate.
 
@@ -1219,7 +1421,9 @@ i) Decurso do prazo previsto na base iv.
 
 #### SECÇÃO IX — Contencioso
 
-###### Base XXVIII — Arbitragem
+Base XXVIII
+
+Arbitragem
 
 1 - Qualquer litígio emergente da concessão é submetido ao foro arbitral, nos termos da [Lei n.º 31/86](https://diariodarepublica.pt/dr/detalhe/lei/31-1986-218957), de 29 de Agosto.
 

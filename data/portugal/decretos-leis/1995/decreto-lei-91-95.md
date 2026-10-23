@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/1995/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1995-513869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637da19cf0f33781555c5bec56991fe10b40a6edfe8d8053cf69813da7595a70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42f9106970628c785eddcad24f0c60277a0917d4ec751f682d890eac0373d13a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alienação de Acções
-- Sociedade Anónima
 - Banco Comercial dos Açores
 - Capital Social
 - Companhia de Seguros Açoreana
 - Concurso Público
-- Governo Regional
 - Empresa Pública
 - Estatuto
+- Governo Regional
 - Personalidade Jurídica
 - Privatização
-- Açores
+- Sociedade Anónima
 - Transferência Patrimonial
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:307235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:317347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:52Z'
   warnings: []
   errors: []
 ---
@@ -109,29 +121,29 @@ Por outro lado, como o Banco Comercial dos Açores, E. P., é o único accionist
 
 Assim, no desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) a c) do n.º 1 do artigo 201.º da Constituição, precedendo iniciativa e parecer favorável do Governo da Região Autónoma dos Açores, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Banco Comercial dos Açores, E. P., organizado como empresa pública pelo [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, na sequência da nacionalização operada pelo [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, é transformado em sociedade anónima, adoptando a denominação «Banco Comercial dos Açores, S. A.», podendo também designar-se abreviadamente «B. C. A., S. A.».
+Artigo 1.º - 1 - O Banco Comercial dos Açores, E. P., organizado como empresa pública pelo [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, na sequência da nacionalização operada pelo [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, é transformado em sociedade anónima, adoptando a denominação «Banco Comercial dos Açores, S. A.», podendo também designar-se abreviadamente «B. C. A., S. A.».
 
 2 - O B. C. A., S. A., rege-se pelo presente diploma, pelas disposições aplicáveis do regime geral das instituições de crédito e sociedades financeiras, pelas normas reguladoras das sociedades anónimas e pelos estatutos aprovados pelo presente diploma.
 
-###### Art. 2.º - 1 - O B. C. A., S. A., continua a personalidade jurídica da empresa pública Banco Comercial dos Açores, E. P., conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+Art. 2.º - 1 - O B. C. A., S. A., continua a personalidade jurídica da empresa pública Banco Comercial dos Açores, E. P., conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
 2 - Os pensionistas do B. C. A., E. P., e os trabalhadores ao seu serviço mantêm perante o B. C. A., S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 3 - O presente diploma constitui título bastante para a comprovação do previsto no n.º 1 do artigo 1.º para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da sociedade anónima por ele criada ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração do B. C. A., S. A.
 
-###### Art. 3.º - 1 - O capital social do B. C. A., S. A., é de 9000000000$00, encontra-se totalmente realizado pelos valores integrantes do seu património social e é representado por 9000000 de acções nominativas, com o valor nominal de 1000$00 cada uma.
+Art. 3.º - 1 - O capital social do B. C. A., S. A., é de 9000000000$00, encontra-se totalmente realizado pelos valores integrantes do seu património social e é representado por 9000000 de acções nominativas, com o valor nominal de 1000$00 cada uma.
 
 2 - As acções representativas do capital social do B. C. A., S. A., referidas no número anterior, são pertença da Região Autónoma dos Açores.
 
 3 - Os direitos da Região Autónoma dos Açores, na qualidade de accionista da sociedade, serão exercidos por um representante daquela, nomeado pelo Governo Regional.
 
-###### Art. 4.º - 1 - São aprovados os estatutos do B. C. A., S. A., anexos ao presente diploma.
+Art. 4.º - 1 - São aprovados os estatutos do B. C. A., S. A., anexos ao presente diploma.
 
 2 - A transformação efectuada pelo artigo 1.º e os estatutos ora aprovados produzem efeitos relativamente a terceiros, independentemente de registo, a partir da data da entrada em vigor do presente diploma.
 
 3 - As futuras alterações dos estatutos far-se-ão de acordo com a lei comercial, no respeito e com ressalva dos direitos especiais atribuídos à Região Autónoma dos Açores pelo artigo seguinte do presente diploma e pelo artigo 6.º dos estatutos.
 
-###### Art. 5.º - 1 - Enquanto a Região Autónoma dos Açores detiver pelo menos 5% do capital social do B. C. A., S. A., as acções por ela tituladas conferem sempre:
+Art. 5.º - 1 - Enquanto a Região Autónoma dos Açores detiver pelo menos 5% do capital social do B. C. A., S. A., as acções por ela tituladas conferem sempre:
 
 a) O direito de veto em deliberações da assembleia geral que tenham por objecto a redução significativa da actividade do Banco na Região Autónoma dos Açores, a fusão, cisão, transformação ou dissolução da sociedade e a alteração dos seus estatutos, incluindo a redução do capital social e a mudança de localização da sede, mas excluindo o aumento do capital social;
 
@@ -141,7 +153,7 @@ b) O poder de designar um dos membros do conselho de administração, que dispor
 
 3 - Sem prejuízo do disposto na lei quanto à prestação de informação aos accionistas, o conselho de administração enviará à Secretaria Regional das Finanças, Planeamento e Administração Pública dos Açores, até 30 dias antes da data da assembleia geral anual, o relatório de gestão e contas do exercício e quaisquer outros elementos adequados à compreensão integral da situação económica e financeira da sociedade, eficiência de gestão e perspectivas da sua evolução.
 
-###### Art. 6.º - 1 - Nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a reprivatização do B. C. A., S. A., através da alienação, em duas fases sucessivas, de 5940000 acções, representativas de 66% do respectivo capital social.
+Art. 6.º - 1 - Nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do presente diploma, é aprovada a reprivatização do B. C. A., S. A., através da alienação, em duas fases sucessivas, de 5940000 acções, representativas de 66% do respectivo capital social.
 
 2 - Na primeira fase, será alienado por concurso público limitado um bloco indivisível de 5040000 acções, representativas de 56% da totalidade do capital social.
 
@@ -153,7 +165,7 @@ b) O poder de designar um dos membros do conselho de administração, que dispor
 
 6 - A operação a que se refere o n.º 3 será realizada no prazo máximo de 12 meses, contados a partir da data da publicação da resolução do Conselho de Ministros que contenha a decisão final a que se refere o n.º 2 do artigo 7.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 7.º - 1 - Atendendo às características eminentemente regionais do Banco Comercial dos Açores, S. A., e à estratégia definida para a manutenção e desenvolvimento da sua actividade, e ao abrigo do n.º 3 do artigo 6.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, só serão admitidos ao concurso público a que se refere o n.º 2 do artigo anterior:
+Art. 7.º - 1 - Atendendo às características eminentemente regionais do Banco Comercial dos Açores, S. A., e à estratégia definida para a manutenção e desenvolvimento da sua actividade, e ao abrigo do n.º 3 do artigo 6.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, só serão admitidos ao concurso público a que se refere o n.º 2 do artigo anterior:
 
 a) Instituições de crédito com capacidade e solidez financeira adequadas, com as características fixadas no caderno de encargos a que se refere o n.º 1 do artigo 8.º;
 
@@ -163,19 +175,19 @@ b) Agrupamentos de entidades, integradas ou não em sociedade gestoras de partic
 
 3 - Os concorrentes deverão apresentar propostas para a totalidade do bloco de acções definido no n.º 2 do artigo 6.º
 
-###### Art. 8.º - 1 - O concurso público mencionado no artigo anterior reger-se-á pelo caderno de encargos a aprovar pela resolução do Conselho de Ministros a que se refere o artigo 15.º, sob proposta do Governo Regional dos Açores.
+Art. 8.º - 1 - O concurso público mencionado no artigo anterior reger-se-á pelo caderno de encargos a aprovar pela resolução do Conselho de Ministros a que se refere o artigo 15.º, sob proposta do Governo Regional dos Açores.
 
 2 - O caderno de encargos fixará o preço base de alienação das acções referidas no n.º 2 do artigo 6.º e estabelecerá os restantes termos e condições do concurso.
 
 3 - O caderno de encargos estabelecerá ainda os critérios para a obtenção do reconhecimento do factor de preferência mencionado no n.º 2 do artigo anterior.
 
-###### Art. 9.º - 1 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades individuais mínimas e máximas a fixar por resolução do Conselho de Ministros.
+Art. 9.º - 1 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades individuais mínimas e máximas a fixar por resolução do Conselho de Ministros.
 
 2 - As propostas de aquisição em condições de serem satisfeitas serão reduzidas às quantidades referidas no número anterior, se as excederem.
 
 3 - A resolução referida no n.º 1 estabelecerá preços fixos especiais para as acções reservadas a trabalhadores, pequenos subscritores e emigrantes e poderá prever, quanto aos primeiros, que o respectivo pagamento seja fraccionado no tempo.
 
-###### Art. 10.º - 1 - As acções adquiridas ao abrigo do n.º 3 do artigo 6.º não poderão ser oneradas, nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano contado a partir da data da sua aquisição.
+Art. 10.º - 1 - As acções adquiridas ao abrigo do n.º 3 do artigo 6.º não poderão ser oneradas, nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano contado a partir da data da sua aquisição.
 
 2 - As acções adquiridas por pequenos subscritores ou emigrantes não conferem aos respectivos titulares o direito de voto em assembleia geral durante o período de indisponibilidade definido no número anterior.
 
@@ -185,69 +197,69 @@ b) Agrupamentos de entidades, integradas ou não em sociedade gestoras de partic
 
 5 - Para os efeitos deste diploma, consideram-se como trabalhadores as pessoas como tal definidas no n.º 1 do artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-###### Art. 11.º - 1 - As acções adquiridas ao abrigo do n.º 2 do artigo 6.º, bem como as que a SGPS constituída nos termos da alínea b) do n.º 1 do artigo 7.º adquira, permanecerão indisponíveis pelo período de cinco anos, antes e durante o qual não poderão ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, sob pena de nulidade do referido negócio.
+Art. 11.º - 1 - As acções adquiridas ao abrigo do n.º 2 do artigo 6.º, bem como as que a SGPS constituída nos termos da alínea b) do n.º 1 do artigo 7.º adquira, permanecerão indisponíveis pelo período de cinco anos, antes e durante o qual não poderão ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, sob pena de nulidade do referido negócio.
 
 2 - O disposto no número anterior não se aplica aos contratos-promessa, de opção ou semelhantes, pelos quais seja convencionada uma futura alienação de acções sujeitas àquele período de indisponibilidade, quando celebrados entre entidades que integrem o agrupamento adquirente dessas acções.
 
 3 - As acções adquiridas nos termos do n.º 5 do artigo 6.º ficam sujeitas ao regime estatuído nos números anteriores.
 
-###### Art. 12.º No âmbito da operação de reprivatização regulada neste diploma, e salvo por força do disposto no n.º 5 do artigo 6.º, nenhuma entidade, singular ou colectiva, poderá adquirir mais de 56% do capital do B. C. A., S. A., sob pena de nulidade das aquisições que excedam aquele limite.
+Art. 12.º No âmbito da operação de reprivatização regulada neste diploma, e salvo por força do disposto no n.º 5 do artigo 6.º, nenhuma entidade, singular ou colectiva, poderá adquirir mais de 56% do capital do B. C. A., S. A., sob pena de nulidade das aquisições que excedam aquele limite.
 
-###### Art. 13.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 1 do artigo 8.º deverá prever que o cumprimento das obrigações impostas pelo caderno de encargos aos adquirentes finais seja caucionado com acções adquiridas através do concurso, ou garantido por outra forma adequada.
+Art. 13.º - 1 - A resolução do Conselho de Ministros a que se refere o n.º 1 do artigo 8.º deverá prever que o cumprimento das obrigações impostas pelo caderno de encargos aos adquirentes finais seja caucionado com acções adquiridas através do concurso, ou garantido por outra forma adequada.
 
 2 - As obrigações mencionadas no número anterior transmitem-se para os cessionários sucessivos.
 
-###### Art. 14.º - 1 - Compete ao conselho de administração do B. C. A., S. A., propor ao Governo da Região Autónoma dos Açores o valor da instituição, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que forem pré-qualificadas para o efeito.
+Art. 14.º - 1 - Compete ao conselho de administração do B. C. A., S. A., propor ao Governo da Região Autónoma dos Açores o valor da instituição, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que forem pré-qualificadas para o efeito.
 
 2 - Nos 15 dias seguintes ao termo do processo de reprivatização, o B. C. A., S. A., publicará, nos termos prescritos pelo artigo 167.º do Código das Sociedades Comerciais para os anúncios sociais, a lista dos accionistas com participação igual ou superior a 5% do seu capital social, indicando a quantidade de que cada um é titular.
 
-###### Art. 15.º De acordo com o n.º 1 do artigo 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, compete ao Conselho de Ministros aprovar, mediante proposta do Governo Regional dos Açores e através de resolução, as condições finais e concretas das operações a realizar para a execução do presente diploma.
+Art. 15.º De acordo com o n.º 1 do artigo 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, compete ao Conselho de Ministros aprovar, mediante proposta do Governo Regional dos Açores e através de resolução, as condições finais e concretas das operações a realizar para a execução do presente diploma.
 
-###### Art. 16.º - 1 - Enquanto não forem eleitos os membros dos novos órgãos sociais, os membros do conselho de administração e os da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
+Art. 16.º - 1 - Enquanto não forem eleitos os membros dos novos órgãos sociais, os membros do conselho de administração e os da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.
 
 2 - Nos 30 dias seguintes à operação prevista no n.º 1 do artigo 6.º, o Governo Regional convocará a assembleia geral para se reunir no prazo mínimo previsto por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 3 - A assembleia geral referida no número anterior será presidida pelo presidente do conselho de administração da sociedade e secretariada por quem este designar.
 
-###### Art. 17.º A situação dos trabalhadores do B. C. A., S. A., chamados a ocupar cargos nos órgãos da sociedade, ou requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por este facto, regressando aqueles aos respectivos postos logo que terminem o mandato ou o tempo de requisição.
+Art. 17.º A situação dos trabalhadores do B. C. A., S. A., chamados a ocupar cargos nos órgãos da sociedade, ou requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por este facto, regressando aqueles aos respectivos postos logo que terminem o mandato ou o tempo de requisição.
 
-###### Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 18.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 24 de Março de 1995.**
+Promulgado em 24 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Março de 1995.**
+Referendado em 29 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos do Banco Comercial dos Açores, S. A.
 
 ### CAPÍTULO I — Firma, sede e objecto
 
-###### Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 91/95, de 9 de Maio, continua a personalidade jurídica da empresa pública Banco Comercial dos Açores, E. P., adopta a denominação de Banco Comercial dos Açores, S. A.
+Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 91/95, de 9 de Maio, continua a personalidade jurídica da empresa pública Banco Comercial dos Açores, E. P., adopta a denominação de Banco Comercial dos Açores, S. A.
 
 2 - A sociedade rege-se pelo Decreto-Lei n.º 91/95, de 9 de Maio, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes estatutos.
 
-###### Art. 2.º - 1 - A sociedade tem a sua sede no Largo da Matriz, em Ponta Delgada.
+Art. 2.º - 1 - A sociedade tem a sua sede no Largo da Matriz, em Ponta Delgada.
 
 2 - O conselho de administração, ouvido o conselho fiscal, pode criar e encerrar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer outras formas de representação.
 
-###### Art. 3.º - 1 - O objecto da sociedade é o exercício da actividade bancária, podendo praticar todas as operações acessórias, conexas ou similares compatíveis com essa actividade que a lei permita.
+Art. 3.º - 1 - O objecto da sociedade é o exercício da actividade bancária, podendo praticar todas as operações acessórias, conexas ou similares compatíveis com essa actividade que a lei permita.
 
 2 - A sociedade pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária ou subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas, embora sujeitas a leis especiais.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 4.º - 1 - O capital da sociedade é de 9000000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
+Art. 4.º - 1 - O capital da sociedade é de 9000000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
 
 2 - O capital social é representado por 9000000 de acções com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções são nominativas ou ao portador em regime de registo.
+Art. 5.º - 1 - As acções são nominativas ou ao portador em regime de registo.
 
 2 - As acções podem revestir forma escritural.
 
@@ -257,7 +269,7 @@ Estatutos do Banco Comercial dos Açores, S. A.
 
 5 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
-###### Art. 6.º - 1 - Os direitos da Região Autónoma dos Açores, na qualidade de accionista da sociedade, serão exercidos por um representante daquela, nomeado pelo respectivo Governo Regional.
+Art. 6.º - 1 - Os direitos da Região Autónoma dos Açores, na qualidade de accionista da sociedade, serão exercidos por um representante daquela, nomeado pelo respectivo Governo Regional.
 
 2 - Enquanto a Região Autónoma dos Açores detiver pelo menos 5% do capital social do Banco Comercial dos Açores, S. A., as acções por ela tituladas, qualquer que seja o seu número ou a percentagem do capital que representem, conferem sempre:
 
@@ -267,11 +279,11 @@ b) O poder de designar um dos membros do conselho de administração.
 
 3 - Sem prejuízo do disposto na lei quanto ao direito de informação dos accionistas, o conselho de administração enviará à Secretaria Regional das Finanças, Planeamento e Administração Pública dos Açores, pelo menos 30 dias antes da data da assembleia geral anual, o relatório de gestão e contas do exercício e quaisquer outros elementos adequados à compreensão integral da situação económica e financeira da sociedade, eficiência de gestão e perspectivas da sua evolução.
 
-###### Art. 7.º A sociedade poderá emitir obrigações, nos termos e até aos limites legais, e bem assim efectuar sobre obrigações as operações que forem legalmente permitidas.
+Art. 7.º A sociedade poderá emitir obrigações, nos termos e até aos limites legais, e bem assim efectuar sobre obrigações as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 8.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 8.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - A mesa da assembleia geral e os membros do conselho de administração e do conselho fiscal serão eleitos pela assembleia geral, que designará igualmente os respectivos presidentes.
 
@@ -281,7 +293,7 @@ b) O poder de designar um dos membros do conselho de administração.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
+Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
 
 2 - Sem prejuízo do direito de agrupamento conferido pelo n.º 5 do artigo 379.º do Código das Sociedades Comerciais, podem participar na assembleia geral, dentro dos limites impostos pela legislação vigente, os accionistas com direito a, pelo menos, um voto.
 
@@ -289,23 +301,23 @@ b) O poder de designar um dos membros do conselho de administração.
 
 4 - Não são consideradas para efeito de participação em assembleia geral as transmissões de acções efectuadas durante os oito dias que precedem a reunião de cada assembleia, em primeira convocação.
 
-###### Art. 10.º A mesa da assembleia é constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei.
+Art. 10.º A mesa da assembleia é constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei.
 
-###### Art. 11.º No aviso convocatório da assembleia pode ser fixado um prazo, não superior a oito dias antes da reunião da assembleia, para a recepção, pelo presidente da mesa, dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas.
+Art. 11.º No aviso convocatório da assembleia pode ser fixado um prazo, não superior a oito dias antes da reunião da assembleia, para a recepção, pelo presidente da mesa, dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por três, cinco ou sete administradores, eleitos em assembleia geral, podendo ser eleitos suplentes nos termos da lei.
+Art. 12.º - 1 - O conselho de administração é composto por três, cinco ou sete administradores, eleitos em assembleia geral, podendo ser eleitos suplentes nos termos da lei.
 
 2 - Enquanto a Região Autónoma dos Açores detiver, pelo menos, 5% do capital social, o Governo Regional dos Açores, através do seu representante, designará sempre um dos membros efectivos do conselho de administração, com a competência que lhe é atribuída pelo artigo 5.º do Decreto-Lei n.º 91/95 , de 9 de Maio.
 
 3 - O presidente do conselho de administração tem voto de qualidade.
 
-###### Art. 13.º - 1 - O conselho de administração pode encarregar alguns dos seus membros de se ocuparem de certas matérias de administração, ou delegar a gestão corrente da sociedade numa comissão executiva constituída por três ou cinco dos seus membros.
+Art. 13.º - 1 - O conselho de administração pode encarregar alguns dos seus membros de se ocuparem de certas matérias de administração, ou delegar a gestão corrente da sociedade numa comissão executiva constituída por três ou cinco dos seus membros.
 
 2 - A aquisição, alienação e oneração de participações sociais não se incluem nos actos delegáveis.
 
-###### Art. 14.º - 1 - A sociedade é representada:
+Art. 14.º - 1 - A sociedade é representada:
 
 a) Por dois administradores;
 
@@ -317,29 +329,29 @@ c) Por procuradores, quanto aos actos ou categorias de actos definidos nas procu
 
 3 - Em assuntos de mero expediente bastará a assinatura de um administrador.
 
-###### Art. 15.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
+Art. 15.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
 2 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 16.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de três anos.
+Art. 16.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de três anos.
 
 2 - A remuneração pode consistir parcialmente numa percentagem que não poderá exceder globalmente 1% dos lucros do exercício, deduzidos da importância destinada à reserva legal.
 
-###### Art. 17.º O conselho de administração reunirá ordinariamente pelo menos uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou pela maioria dos seus membros.
+Art. 17.º O conselho de administração reunirá ordinariamente pelo menos uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou pela maioria dos seus membros.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 18.º - 1 - O conselho fiscal é composto por três membros efectivos.
+Art. 18.º - 1 - O conselho fiscal é composto por três membros efectivos.
 
 2 - Haverá dois suplentes.
 
-###### Art. 19.º O conselho fiscal reúne ordinariamente pelo menos uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou pela maioria dos seus membros.
+Art. 19.º O conselho fiscal reúne ordinariamente pelo menos uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou pela maioria dos seus membros.
 
-###### Art. 20.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada e devem ser certas.
+Art. 20.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada e devem ser certas.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 21.º Os lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:
+Art. 21.º Os lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:
 
 a) Cobertura dos prejuízos de exercícios anteriores;
 
@@ -355,6 +367,6 @@ f) Outras finalidades que a assembleia geral deliberar.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 22.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 22.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

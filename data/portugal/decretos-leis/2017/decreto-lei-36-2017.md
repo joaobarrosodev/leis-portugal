@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06200/0163301636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2017/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2017-106663786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19697b238bfb290349f16e98d7863b870a8909df32fe8b8890962787dc0de6c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78a9c9e1249907a150af3e553722cbb3af0824af21efe16df56ee3a2df7ec199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Diretor
 - Extinção de Serviços
 - Gabinete de Investigação de Segurança e de Acidentes Ferroviários
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
 - Integração de Serviços
 - Investigação
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção sobre o Gabinete de Prevenção e Investigação de Acidentes com
+    Aeronaves e Acidentes Ferroviários, criado pelo presente diploma, seja exercida pelo Ministro das Infraestruturas e da
+    Habitação pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a partir de 30.03.2022, o exercício da direção pelo Ministro das Infraestruturas e da Habitação
+    sobre o Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários (GPIAAF) pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:206618939:por
+  label: Determinado o exercício da direção, pelo Ministro das Infraestruturas, sobre o Gabinete de Prevenção e Investigação
+    de Acidentes com Aeronaves e Acidentes Ferroviários pelo(a) Decreto-Lei n.º 7/2023 - Diário da República n.º 20/2023,
+    Série I de 2023-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2023-206618939
+  date: '2023-01-27'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro das Infraestruturas e Habitação a
+    direção sobre o Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários pelo(a) Decreto-Lei
+    n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro das Infraestruturas e Habitação a
+    direção sobre o Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários pelo(a) Decreto-Lei
+    n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: celex:32010R0996
   label: null
@@ -112,16 +147,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80/2012/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80/2012/03/27/p/dre
+- type: cites
+  target: pt:dre:553660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628001:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:37Z'
   warnings: []
   errors: []
 ---
@@ -322,18 +373,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 8 de março de 2017.**
+Promulgado em 8 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de março de 2017.**
+Referendado em 14 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — Mapa de cargos de dirigentes
 
 (a que se refere o artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/03/06200/0163301636.pdf))](https://files.diariodarepublica.pt/1s/2017/03/06200/0163301636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/03/06200/0163301636.pdf)

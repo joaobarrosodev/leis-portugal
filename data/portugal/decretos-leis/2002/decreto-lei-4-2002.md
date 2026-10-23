@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/003a00/00280035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2002-584862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e961ada457e4a6b9f631daa31b157b15ff484bfacd47bb4769b3c39865dbb019
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ca86692d278c614c49b25af77d1e97d159cf4dad7aaa552b2a669f31d99a292
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Observatório da Qualidade
-- Sistema Português da Qualidade
-- Criação de Serviços
-- Orgânica
-- Regime Jurídico
 - Conselho Nacional da Qualidade
+- Criação de Serviços
+- Observatório da Qualidade
+- Orgânica
+- Reestruturação de Serviços
+- Regime Jurídico
+- Sistema Português da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:278973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425927:por
+  label: "Extinto o Observatório da Qualidade e revogados a al. b) do nº 1 do art. 5º e os arts. 15º e 16º deste diploma pelo\
+    \ DEC LEI.233/2002.2002.11.02.MECO DR.IS-A [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2002-425927
+  date: '2002-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
+- type: cites
+  target: pt:dre:311467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:425884:por
+  label: "Revogadas a al. a) do n.º 1 do art. 5.º, os arts. 6.º a 14.º e o art. 33.º, extinto o Conselho Nacional da Qualidade\
+    \ e transferidas as respectivas atribuições e competências para o Instituto Português da Qualidade (previsto no Dec Lei\
+    \ 113/2001, de 07-Abr), pelo DEC LEI.226/2002.2002.10.30.MECO DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2002-425884
+  date: '2002-10-30'
+- type: repealed_by
+  target: pt:dre:278973:por
+  label: "Revogado pelo DEC LEI.140/2004.08.06.2004.MECO, DR.IS-A [134] de 08.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2004-278973
+  date: '2004-06-08'
 article_structure:
   article_count: 38
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:38Z'
   warnings: []
   errors: []
 ---
@@ -563,12 +589,12 @@ As publicações do SPQ, elaboradas e editadas de acordo com os procedimentos es
 
 Visto e aprovado em Conselho de Ministros de 15 de Novembro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Alberto de Sousa Martins.
 
-**Promulgado em 11 de Dezembro de 2001.**
+Promulgado em 11 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2001.**
+Referendado em 19 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

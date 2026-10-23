@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/1998/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1998-516913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca9e8a2c7c8ef59a6b9a9ac4e25f95e1c7fa629af845b7e2f49011737e133c46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8db8469e8656101dd62cf092f43e3890f71e530d9e73642e885c7d406884dab2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Multa
-- Veículo
 - Limite de Velocidade
+- Multa
 - Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:608745:por
@@ -80,16 +80,27 @@ relationships:
   target: celex:31992L0094
   label: null
   source: http://data.europa.eu/eli/dir/1992/94/oj
+- type: corrected_by
+  target: pt:dre:248870:por
+  label: "Rectificado pela DECL-RECT.10-I/98.1998.05.29.PCM, DR.IS-B [125]3ºSupl de 30/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-i-1998-248870
+  date: '1998-05-29'
+- type: repealed_by
+  target: pt:dre:608745:por
+  label: "Revogado no que se refere aos dispositivos limitadores de velocidade pelo DEC LEI.46/2005.23.02.2005.MAI, DR.IS-A\
+    \ [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2005-608745
+  date: '2005-02-23'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:39Z'
   warnings: []
   errors: []
 ---
@@ -226,12 +237,12 @@ Presidência do Conselho de Ministros, 11 de Março de 1998.
 
 António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 17 de Abril de 1998.**
+Promulgado em 17 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Abril de 1998.**
+Referendado em 23 de Abril de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.

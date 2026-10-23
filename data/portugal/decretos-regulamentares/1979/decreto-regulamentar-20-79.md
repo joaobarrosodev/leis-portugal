@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1979-383214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c646e9adc50a2717915a8635b9075b3fc8475435a276640129e68d533288ef23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9fcdd4234e2d9c198615cf43c679e071a140f9c7094b99238046e708bd50be2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Apoio ao Retorno de Nacionais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:395920:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395920:por
+  label: "Alterado o mapa anexo pela PORT.609/82.1982.06.19.MFP DR.IS [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/609-1982-395920
+  date: '1982-06-19'
+- type: cites
+  target: pt:dre:161489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:44Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +129,7 @@ Assim, e tendo em consideração o disposto no n.º 1 do artigo 1.º do [Decreto
 
 O Governo decreta, nos termos da alínea e) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Instituto de Apoio ao Retorno de Nacionais, adiante designado por Instituto, compreende os seguintes órgãos e serviços:
+Artigo 1.º O Instituto de Apoio ao Retorno de Nacionais, adiante designado por Instituto, compreende os seguintes órgãos e serviços:
 
 a) Direcção;
 
@@ -116,15 +143,15 @@ e) Repartição de Cadastro e Ficheiro de Contrôle;
 
 f) Serviços regionais.
 
-###### Art. 2.º À direcção, constituída por um director e por um subdirector, incumbe dirigir a actividade do Instituto de harmonia com as directrizes que lhe forem superiormente transmitidas, competindo-lhe, especialmente:
+Art. 2.º À direcção, constituída por um director e por um subdirector, incumbe dirigir a actividade do Instituto de harmonia com as directrizes que lhe forem superiormente transmitidas, competindo-lhe, especialmente:
 
 a) Elaborar e propor os programas de trabalho anuais;
 
 b) Apresentar o relatório anual da actividade do organismo.
 
-###### Art. 3.º A Comissão Instaladora tem a constituição e atribuições previstas nos n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 494/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1975-307583), de 10 de Setembro.
+Art. 3.º A Comissão Instaladora tem a constituição e atribuições previstas nos n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 494/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-1975-307583), de 10 de Setembro.
 
-###### Art. 4.º A Direcção dos Serviços de Alojamentos compreende:
+Art. 4.º A Direcção dos Serviços de Alojamentos compreende:
 
 a) A Divisão de Gestão e Contrôle de Alojamentos, à qual incumbe:
 
@@ -140,7 +167,7 @@ b) A Divisão de Informática e Estatística, à qual incumbe:
 
 2 - Analisar estatisticamente os dados recolhidos.
 
-###### Art. 5.º A Direcção dos Serviços Administrativos e Financeiros compreende:
+Art. 5.º A Direcção dos Serviços Administrativos e Financeiros compreende:
 
 a) A Repartição de Pessoal, Expediente Geral e Arquivo, constituída por uma Secção de Pessoal e por uma Secção de Expediente Geral e Arquivo, à qual incumbe:
 
@@ -190,7 +217,7 @@ d) A Tesouraria, à qual incumbe:
 
 e) Quatro núcleos administrativos a nível de secção, que prestarão apoio às delegações regionais, de acordo com a distribuição definida por despacho do Alto-Comissário.
 
-###### Art. 6.º A Repartição de Cadastro e Ficheiro de Contrôle tem as seguintes atribuições:
+Art. 6.º A Repartição de Cadastro e Ficheiro de Contrôle tem as seguintes atribuições:
 
 a) Organizar e manter actualizado o arquivo de todos os processos referentes a desalojados que venham sendo ou tenham sido assistidos pelo Instituto;
 
@@ -198,7 +225,7 @@ b) Organizar e manter actualizado o ficheiro geral dos desalojados referidos na 
 
 c) Organizar e manter actualizado um serviço de informação estatística referente às actividades do Instituto e seu tratamento adequado.
 
-###### Art. 7.º - 1 - Os serviços regionais são constituídos por delegações, que podem agrupar um ou mais distritos, competindo-lhes, em especial:
+Art. 7.º - 1 - Os serviços regionais são constituídos por delegações, que podem agrupar um ou mais distritos, competindo-lhes, em especial:
 
 a) Executar as acções previstas no programa de alojamentos temporários aprovado para a respectiva área de acção;
 
@@ -206,9 +233,9 @@ b) Cooperar com os órgãos concelhios e distritais do Comissariado para os Desa
 
 2 - As delegações são criadas por despacho do Alto-Comissário para os Desalojados, sendo chefiadas por funcionários que actuam na directa dependência da direcção do Instituto, com categoria igual ou superior à letra H.
 
-###### Art. 8.º O quadro do pessoal do Instituto a que se refere o artigo 13.º do [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, passa a ser o constante do mapa anexo a este diploma, que dele faz parte integrante.
+Art. 8.º O quadro do pessoal do Instituto a que se refere o artigo 13.º do [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, passa a ser o constante do mapa anexo a este diploma, que dele faz parte integrante.
 
-###### Art. 9.º O pessoal dirigente é recrutado entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar e será provido:
+Art. 9.º O pessoal dirigente é recrutado entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar e será provido:
 
 a) Director e subdirector, em comissão de serviço por tempo indeterminado, por despacho do Primeiro-Ministro, sob proposta do Alto-Comissário;
 
@@ -216,7 +243,7 @@ b) Director de serviços e chefe de divisão, em comissão de serviço, por temp
 
 c) Chefe de repartição, por livre escolha do Alto-Comissário, sob proposta do director do Instituto, de entre indivíduos habilitados com curso superior adequado, ou chefes de secção com um mínimo de três anos de bom e efectivo serviço nessas funções e experiência apropriada ao exercício do cargo.
 
-###### Art. 10.º O pessoal técnico superior é recrutado entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar e será provido:
+Art. 10.º O pessoal técnico superior é recrutado entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar e será provido:
 
 a) Técnico assessor, por concurso documental e apreciação curricular, entre os técnicos superiores principais com, pelo menos, seis anos de bom e efectivo serviço na categoria;
 
@@ -226,7 +253,7 @@ c) Técnico superior de 1.ª classe, por concurso documental e apreciação curr
 
 d) Técnico superior de 2.ª classe, por concurso documental, de entre os indivíduos com licenciatura adequada ao exercício das respectivas funções.
 
-###### Art. 11.º O pessoal técnico é recrutado entre indivíduos habilitados com o bacharelato ou diplomados com curso superior adequado à natureza específica das funções que irão desempenhar e será provido:
+Art. 11.º O pessoal técnico é recrutado entre indivíduos habilitados com o bacharelato ou diplomados com curso superior adequado à natureza específica das funções que irão desempenhar e será provido:
 
 a) Técnicos principais, por concurso documental e avaliação curricular, entre os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -234,7 +261,7 @@ b) Técnicos de 1.ª classe, por concurso documental e avaliação curricular, e
 
 c) Técnicos de 2.ª classe, por concurso documental, entre diplomados com curso adequado às respectivas funções.
 
-###### Art. 12.º O pessoal técnico auxiliar é recrutado entre indivíduos habilitados com o curso geral dos liceus ou equiparado e será provido:
+Art. 12.º O pessoal técnico auxiliar é recrutado entre indivíduos habilitados com o curso geral dos liceus ou equiparado e será provido:
 
 a) Técnicos auxiliares principais, por concurso documental e avaliação curricular, entre os técnicos auxiliares de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -242,7 +269,7 @@ b) Técnicos auxiliares de 1.ª classe, por concurso documental e avaliação cu
 
 c) Técnicos auxiliares de 2.ª classe, por concurso documental.
 
-###### Art. 13.º Os desenhadores são recrutados da seguinte forma:
+Art. 13.º Os desenhadores são recrutados da seguinte forma:
 
 a) Desenhadores principais, por concurso documental e avaliação curricular, entre desenhadores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -250,7 +277,7 @@ b) Desenhadores de 1.ª classe, por concurso documental e avaliação curricular
 
 c) Desenhadores de 2.ª classe, por concurso de provas escritas e práticas, entre indivíduos habilitados com o curso geral dos liceus ou equiparado.
 
-###### Art. 14.º - 1 - Os lugares de chefe de secção são providos, por concurso documental, entre diplomados com curso superior e experiência profissional adequada ao exercício das respectivas funções e primeiros-oficiais de comprovada experiência no domínio das funções a que se destinam e com, pelo menos, três anos de bom e efectivo serviço na categoria.
+Art. 14.º - 1 - Os lugares de chefe de secção são providos, por concurso documental, entre diplomados com curso superior e experiência profissional adequada ao exercício das respectivas funções e primeiros-oficiais de comprovada experiência no domínio das funções a que se destinam e com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os tesoureiros são recrutados da seguinte forma:
 
@@ -268,13 +295,13 @@ c) Terceiros-oficiais, mediante concurso de provas escritas e práticas, a que s
 
 4 - Os escriturários-dactilógrafos serão recrutados entre indivíduos com a escolaridade obrigatória, mediante concurso de provas escritas e práticas.
 
-###### Art. 15.º O recrutamento do pessoal auxiliar far-se-á atendendo ao que, para o efeito, estiver estipulado na legislação geral.
+Art. 15.º O recrutamento do pessoal auxiliar far-se-á atendendo ao que, para o efeito, estiver estipulado na legislação geral.
 
-###### Art. 16.º - 1 - O provimento do pessoal do quadro criado pelo artigo 8.º será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 16.º - 1 - O provimento do pessoal do quadro criado pelo artigo 8.º será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2 - As nomeações terão carácter provisório durante um ano, findo o qual os funcionários serão providos definitivamente, se tiverem revelado aptidão para o cargo, ou exonerados.
 
-###### Art. 17.º - 1 - Se a nomeação para qualquer dos lugares do quadro recair em funcionário público ou administrativo, poderá a mesma ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos.
+Art. 17.º - 1 - Se a nomeação para qualquer dos lugares do quadro recair em funcionário público ou administrativo, poderá a mesma ser feita em comissão de serviço, pelo prazo de um ano, prorrogável por iguais períodos.
 
 2 - O tempo de serviço prestado no Instituto em regime de comissão de serviço considera-se, para todos os efeitos, como prestado no quadro de origem a que pertencem os funcionários, salvo se tratamento mais favorável decorrer da lei geral.
 
@@ -282,7 +309,7 @@ c) Terceiros-oficiais, mediante concurso de provas escritas e práticas, a que s
 
 4 - Pode ainda o Instituto, para a execução de tarefas específicas, promover a requisição ou destacamento de funcionários, obtido o prévio acordo destes e dos serviços de origem.
 
-###### Art. 18.º - 1 - O primeiro provimento dos lugares do quadro será feito mediante lista ou listas nominativas aprovadas pelo Alto-Comissário, visadas pelo Tribunal de Contas e publicadas no Diário da República, de entre o pessoal que presta serviço no Instituto há pelo menos dois anos, para categoria correspondente à que ao funcionário ou agente actualmente está atribuída, com respeito pelas habilitações legais fixadas no presente diploma.
+Art. 18.º - 1 - O primeiro provimento dos lugares do quadro será feito mediante lista ou listas nominativas aprovadas pelo Alto-Comissário, visadas pelo Tribunal de Contas e publicadas no Diário da República, de entre o pessoal que presta serviço no Instituto há pelo menos dois anos, para categoria correspondente à que ao funcionário ou agente actualmente está atribuída, com respeito pelas habilitações legais fixadas no presente diploma.
 
 2 - O pessoal já provido em lugares do quadro anexo ao [Decreto-Lei n.º 169/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1975-161489), de 31 de Março, e aquele a que se refere o artigo 22.º do mesmo decreto-lei, transita para lugar equivalente do novo quadro, ou ainda para lugar de categoria superior se reunir os requisitos habilitacionais e de tempo de serviço para promoção.
 
@@ -292,24 +319,24 @@ c) Terceiros-oficiais, mediante concurso de provas escritas e práticas, a que s
 
 5 - Para efeito de provimento em categoria superior será contado, independentemente do vínculo, o tempo de serviço anteriormente prestado, ressalvadas sempre as habilitações literárias exigidas.
 
-###### Art. 19.º Quando existam vagas de lugares do quadro de qualquer categoria que não possam ser preenchidas por falta de candidatos que reúnam as condições legais de promoção, poderá ser preenchido igual número de lugares de categorias mais baixas da respectiva carreira.
+Art. 19.º Quando existam vagas de lugares do quadro de qualquer categoria que não possam ser preenchidas por falta de candidatos que reúnam as condições legais de promoção, poderá ser preenchido igual número de lugares de categorias mais baixas da respectiva carreira.
 
-###### Art. 20.º Os actuais director e subdirector do Instituto transitam para o novo quadro por lista nominativa anotada pelo Tribunal de Contas.
+Art. 20.º Os actuais director e subdirector do Instituto transitam para o novo quadro por lista nominativa anotada pelo Tribunal de Contas.
 
-###### Art. 21.º O pessoal actualmente em serviço no Instituto que não vier a ser integrado nos lugares do quadro manter-se-á na mesma situação afecto às acções em curso até as mesmas serem concluídas ou transferidas para outros serviços, aplicando-se então o disposto no [Decreto-Lei n.º 126/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1979-383217), de 11 de Maio.
+Art. 21.º O pessoal actualmente em serviço no Instituto que não vier a ser integrado nos lugares do quadro manter-se-á na mesma situação afecto às acções em curso até as mesmas serem concluídas ou transferidas para outros serviços, aplicando-se então o disposto no [Decreto-Lei n.º 126/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1979-383217), de 11 de Maio.
 
-###### Art. 22.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias da respectiva competência.
+Art. 22.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Primeiro-Ministro, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias da respectiva competência.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.
 
-**Promulgado em 23 de Abril de 1979.**
+Promulgado em 23 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10800/08810884.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10800/08810884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10800/08810884.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

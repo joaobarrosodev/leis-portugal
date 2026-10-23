@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20398-1964-469860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6af8bf78e918ee1c3e24a4d199d5a5416b50091e960d2f5b5260b3e01bf9fd3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 279960e0843097b8b445e8b596d8f9bfb95fda209d2caff6e0f6b7ee0e61b4ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:05Z'
   warnings: []
   errors: []
 ---
@@ -88,26 +88,26 @@ Ministério da Educação Nacional, 27 de Fevereiro de 1964. - Pelo Ministro da 
 
 Regulamento do Prémio Escolar José Domingues Paulo e D. Dora Simões da Silva Domingues Paulo
 
-###### Artigo 1.º É instituído o Prémio José Domingues Paulo e D. Dora Simões da Silva Domingues Paulo destinado a dois alunos de cada sexo das escolas primárias de Vinhó, concelho de Gouveia, aprovados em cada ano lectivo no exame da 4.ª classe e que se tenham distinguido por qualidades morais, assiduidade às aulas, aplicação ao estudo e dotes intelectuais, e o seu fundo de manutenção é constituído pelo rendimento anual da importância de 25000$00, a converter em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar da Guarda.
+Artigo 1.º É instituído o Prémio José Domingues Paulo e D. Dora Simões da Silva Domingues Paulo destinado a dois alunos de cada sexo das escolas primárias de Vinhó, concelho de Gouveia, aprovados em cada ano lectivo no exame da 4.ª classe e que se tenham distinguido por qualidades morais, assiduidade às aulas, aplicação ao estudo e dotes intelectuais, e o seu fundo de manutenção é constituído pelo rendimento anual da importância de 25000$00, a converter em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar da Guarda.
 
-###### Art. 2.º Para efeito da sua aplicação o Prémio José Domingues Paulo e D. Dora Simões da Silva Domingues Paulo é desdobrado em dois:
+Art. 2.º Para efeito da sua aplicação o Prémio José Domingues Paulo e D. Dora Simões da Silva Domingues Paulo é desdobrado em dois:
 
 O primeiro intitula-se Prémio José Domingues Paulo e é constituído pela importância de 500$00, da qual serão distribuídos 300$00 e 200$00, respectivamente, aos alunos classificados em primeiro e segundo lugar, de harmonia com o disposto no artigo 1.º
 
 O segundo intitula-se Prémio D. Dora Simões da Silva Domingues Paulo e é constituído pela importância de 500$00, da qual serão distribuídos 300$00 e 200$00, respectivamente, às alunas classificadas em primeiro e segundo lugar, também de harmonia com o disposto no artigo 1.º
 
-###### Art. 3.º A escolha dos alunos a premiar será feita pelos professores das escolas de Vinhó, após a realização das provas do exame da 4.ª classe.
+Art. 3.º A escolha dos alunos a premiar será feita pelos professores das escolas de Vinhó, após a realização das provas do exame da 4.ª classe.
 
 § único. Em casos de dúvida poderão os professores solicitar a colaboração dos membros do júri dos exames para a escolha dos candidatos.
 
-###### Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados, até 15 de Agosto, ao delegado escolar no concelho de Gouveia, que, por sua vez, os transmitirá ao director escolar até 31 do mesmo mês.
+Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados, até 15 de Agosto, ao delegado escolar no concelho de Gouveia, que, por sua vez, os transmitirá ao director escolar até 31 do mesmo mês.
 
 2. No caso de a proposta não lhe parecer suficientemente fundamentada, o director do Distrito Escolar promoverá a substituição dos alunos propostos por outros que pareçam mais dignos da concessão do prémio.
 
-###### Art. 5.º Das substituições feitas pelo director do Distrito Escolar cabe aos agentes de ensino recurso, no prazo de oito dias, para o director-geral do Ensino Primário, que julgará em última instância mediante o exame do processo, que lhe será enviado no prazo de cinco dias.
+Art. 5.º Das substituições feitas pelo director do Distrito Escolar cabe aos agentes de ensino recurso, no prazo de oito dias, para o director-geral do Ensino Primário, que julgará em última instância mediante o exame do processo, que lhe será enviado no prazo de cinco dias.
 
-###### Art. 6.º A distribuição dos prémios far-se-á em sessão solene, realizada numa das salas de aula do edifício escolar de Vinhó, dentro dos primeiros quinze dias do mês de Outubro seguinte, e será presidida pelo director do Distrito Escolar da Guarda ou por um seu representante.
+Art. 6.º A distribuição dos prémios far-se-á em sessão solene, realizada numa das salas de aula do edifício escolar de Vinhó, dentro dos primeiros quinze dias do mês de Outubro seguinte, e será presidida pelo director do Distrito Escolar da Guarda ou por um seu representante.
 
-###### Art. 7.º As importâncias destinadas aos prémios serão entregues aos beneficiados, se eles e os pais o desejarem, ou depositadas na Caixa Geral de Depósitos, Crédito e Previdência, com a condição de só as poderem levantar quando atingirem a maioridade, para se criar neles o gosto pela economia e a gratidão pelos que tiveram a lembrança da instituição do prémio.
+Art. 7.º As importâncias destinadas aos prémios serão entregues aos beneficiados, se eles e os pais o desejarem, ou depositadas na Caixa Geral de Depósitos, Crédito e Previdência, com a condição de só as poderem levantar quando atingirem a maioridade, para se criar neles o gosto pela economia e a gratidão pelos que tiveram a lembrança da instituição do prémio.
 
 Direcção-Geral do Ensino Primário, 27 de Fevereiro de 1964. - O Director-Geral, José Gomes Branco.

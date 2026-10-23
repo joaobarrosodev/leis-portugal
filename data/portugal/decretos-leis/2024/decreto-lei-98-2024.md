@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23200/0001500033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2024/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2024-898378509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f4679cf82f076f72f969e7a5870ec61d7a1b2bcfa3e0270cb3024de27e04f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7af386c994731083cd4ef72a41122598e23e5108f3239d6be99cc7102525c0e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
+- Aproximação das Legislações
+- Autoridade Nacional da Aviação Civil
+- Aviação Civil
+- Contra-ordenação
 - Efeito de Estufa
 - Licença de Emissão
-- Aproximação das Legislações
-- Contra-ordenação
-- Poluição Atmosférica
 - Operador de Trabalho Aéreo
+- Poluição Atmosférica
 - Proteção do Ambiente
-- Aviação Civil
 - Regulamento CE
-- Autoridade Nacional da Aviação Civil
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:31992R2408
@@ -171,6 +171,24 @@ relationships:
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:93/2010
+  label: Revoga, a partir de 4 de dezembro de 2024, nos termos do artigo 33.º, o Decreto-Lei n.º 93/2010, de 27 de julho,
+    Diário da República n.º 144/2010, Série I
+  source: null
+  date: '2010-07-27'
 - type: transposes
   target: celex:32003L0087
   label: null
@@ -186,13 +204,13 @@ relationships:
 article_structure:
   article_count: 34
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:37Z'
   warnings: []
   errors: []
 ---
@@ -407,7 +425,7 @@ b) Entre pessoas singulares ou coletivas no interior da União e pessoas de paí
 
 3 - Para efeitos de cumprimento das obrigações dos operadores de aeronave previstas no número seguinte, são reconhecidas as licenças de emissão concedidas pelas autoridades competentes de outro Estado-Membro, ao abrigo das respetivas disposições nacionais que procedem à transposição da [Diretiva 2003/87/CE](http://data.europa.eu/eli/dir/2003/87/oj?locale=pt) do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, na sua redação atual.
 
-4 - O operador de aeronave deve devolver as licenças de emissão equivalentes ao respetivo total das emissões do ano civil anterior, tal como verificadas nos termos do artigo 18.º, até 30 de setembro de cada ano, devendo a APA, I. P., garantir a sua subsequente anulação, sem prejuízo do disposto nos n.<sup>os</sup>5 e 6 seguintes, nos n.<sup>os</sup>2 e 3 do artigo 11.º e no n.º 1 do artigo 20.º
+4 - O operador de aeronave deve devolver as licenças de emissão equivalentes ao respetivo total das emissões do ano civil anterior, tal como verificadas nos termos do artigo 18.º, até 30 de setembro de cada ano, devendo a APA, I. P., garantir a sua subsequente anulação, sem prejuízo do disposto nos n.os5 e 6 seguintes, nos n.os2 e 3 do artigo 11.º e no n.º 1 do artigo 20.º
 
 5 - Não são impostas obrigações de devolução de licenças de emissão relativamente a:
 
@@ -507,7 +525,7 @@ b) As alterações às licenças de exploração referidas nas alíneas a) e b) 
 
 ###### Artigo 18.º — Verificação
 
-1 - O relatório de emissões apresentado pelo operador de aeronave nos termos dos n.<sup>os</sup>4 e 5 do artigo anterior é verificado por verificadores acreditados, em conformidade com os critérios estabelecidos no [Regulamento de Execução (UE) 2018/2067](http://data.europa.eu/eli/reg/2018/2067/oj?locale=pt) da Comissão, de 19 de dezembro de 2018, na sua redação atual, sem prejuízo do disposto no n.º 5 do artigo 20.º
+1 - O relatório de emissões apresentado pelo operador de aeronave nos termos dos n.os4 e 5 do artigo anterior é verificado por verificadores acreditados, em conformidade com os critérios estabelecidos no [Regulamento de Execução (UE) 2018/2067](http://data.europa.eu/eli/reg/2018/2067/oj?locale=pt) da Comissão, de 19 de dezembro de 2018, na sua redação atual, sem prejuízo do disposto no n.º 5 do artigo 20.º
 
 2 - Os requisitos e condições de exercício da atividade de verificador decorrem do [Regulamento de Execução (UE) 2018/2067](http://data.europa.eu/eli/reg/2018/2067/oj?locale=pt) da Comissão, de 19 de dezembro de 2018, na sua redação atual, e da regulamentação própria aplicável.
 
@@ -549,11 +567,11 @@ b) Todas as emissões provenientes de voos entre um aeródromo situado numa regi
 
 2 - A APA, I. P., procede ainda ao cálculo dos requisitos de compensação final total para um determinado período de conformidade CORSIA, até 30 de novembro do ano seguinte ao último ano do período pertinente de conformidade CORSIA, notificando os operadores de aeronave.
 
-3 - Os n.<sup>os</sup>1 e 2 aplicam-se aos operadores de aeronave que preencham, cumulativamente, as condições previstas abaixo:
+3 - Os n.os1 e 2 aplicam-se aos operadores de aeronave que preencham, cumulativamente, as condições previstas abaixo:
 
 a) Sejam titulares de uma licença de exploração válida emitida pela ANAC, em conformidade com as disposições do [Regulamento (CE) n.º 1008/2008](http://data.europa.eu/eli/reg/2008/1008/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de setembro de 2008, na sua redação atual, e respetivo certificado de operador aéreo válido; e
 
-b) Produzam emissões de CO<sub>2</sub> superiores a 10 000 t, provenientes da utilização de aeronaves com uma massa máxima à descolagem certificada superior a 5700 kg que efetuem voos abrangidos pelo anexo i do presente decreto-lei e do qual faz parte integrante, com exceção dos voos com partida e chegada no mesmo Estado-Membro, incluindo regiões ultraperiféricas do mesmo Estado-Membro, a partir de 1 de janeiro de 2021.
+b) Produzam emissões de CO2 superiores a 10 000 t, provenientes da utilização de aeronaves com uma massa máxima à descolagem certificada superior a 5700 kg que efetuem voos abrangidos pelo anexo i do presente decreto-lei e do qual faz parte integrante, com exceção dos voos com partida e chegada no mesmo Estado-Membro, incluindo regiões ultraperiféricas do mesmo Estado-Membro, a partir de 1 de janeiro de 2021.
 
 4 - Para efeitos da alínea b) do número anterior, não são tidas em conta as emissões de CO2 provenientes dos seguintes tipos de voos:
 
@@ -569,9 +587,9 @@ e) Voos de combate a incêndios;
 
 f) Voos que precedam ou que se sigam a um voo humanitário, médico ou de combate a incêndios, desde que esses voos tenham sido realizados com a mesma aeronave e tenham sido necessários para realizar as referidas atividades humanitárias, médicas ou de combate a incêndios, ou para deslocar a aeronave após essas atividades com vista à sua atividade seguinte.
 
-5 - Os cálculos mencionados nos n.<sup>os</sup>1 e 2 seguem as disposições dos atos de execução que especificam a metodologia de cálculo dos requisitos de compensação, para efeitos do CORSIA, e que sejam aplicáveis aos operadores de aeronave.
+5 - Os cálculos mencionados nos n.os1 e 2 seguem as disposições dos atos de execução que especificam a metodologia de cálculo dos requisitos de compensação, para efeitos do CORSIA, e que sejam aplicáveis aos operadores de aeronave.
 
-6 - Os operadores de aeronave referidos no n.º 3 anulam unidades no montante correspondente à quantidade notificada nos termos dos n.<sup>os</sup>1 e 2 relativamente ao período de conformidade com o CORSIA pertinente.
+6 - Os operadores de aeronave referidos no n.º 3 anulam unidades no montante correspondente à quantidade notificada nos termos dos n.os1 e 2 relativamente ao período de conformidade com o CORSIA pertinente.
 
 7 - As unidades a serem utilizadas seguem as disposições fixadas no ato de execução.
 
@@ -639,7 +657,7 @@ d) A violação da obrigação de envio do relatório de melhoria, nos termos pr
 
 e) Incumprimento do dever de facultar os elementos previstos no n.º 1 do artigo 10.º do Regulamento de Execução (UE) 2018/2067 da Comissão, de 19 de dezembro de 2018, na sua redação atual.
 
-4 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a condenação pela prática das infrações muito graves e graves previstas nos n.<sup>os</sup>1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
+4 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a condenação pela prática das infrações muito graves e graves previstas nos n.os1 e 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
 
 5 - A tentativa e a negligência são puníveis nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual.
 
@@ -733,19 +751,19 @@ Os atos e procedimentos necessários à execução do presente decreto-lei nas R
 
 Visto e aprovado em Conselho de Ministros de 17 de outubro de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - Paulo Artur dos Santos de Castro de Campos Rangel - Miguel Martinez de Castro Pinto Luz - Maria da Graça Carvalho.
 
-**Promulgado em 17 de novembro de 2024.**
+Promulgado em 17 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de novembro de 2024.**
+Referendado em 20 de novembro de 2024.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
 
 ## ANEXO I — Categorias de atividades de aviação
 
-| Atividades | Gases com efeito de estufa |
+| Atividades | Gases com efeito<br>de estufa |
 | --- | --- |
 | Voos com chegada ou partida num aeródromo situado no território de um Estado-Membro ao qual se aplica o Tratado. | Dióxido de carbono. |
 | Excluem-se desta categoria de atividades: |  |
@@ -777,14 +795,16 @@ Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finan
 
 ## ANEXO II — Gases com efeito de estufa
 
-Dióxido de carbono (CO<sub>2</sub>).
+Dióxido de carbono (CO2).
 
-Metano (CH<sub>4</sub>).
+Metano (CH4).
 
-Óxido nitroso (N<sub>2</sub>O).
+Óxido nitroso (N2O).
 
 Hidrofluorocarbonetos (HFC).
 
 Perfluorocarbonetos (PFC).
 
-Hexafluoreto de enxofre (SF<sub>6</sub>).
+Hexafluoreto de enxofre (SF6).
+
+118393338

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26512653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/51/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-2007-521011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56f38aaebdea5a70956b92c03450d046907480790e79aa5db0a467d03e111f19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac639e955636d4374d9d2d7fa7c21a8af0d717ddf60051b9bc239c3960deb126
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
+- Departamento de Prospectiva Planeamento e Relações Internacionais
 - Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Departamento de Prospectiva Planeamento e Relações Internacionais
 relationships:
 - type: amended_by
   target: pt:dre:553933:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto, sendo objecto de fusão, o Departamento de Prospectiva Planeamento e Relações Internacionais (criado pelo\
+    \ Dec Lei 207/2006 de 27-Out, já revogado), e cujas atribuições e competências constam do presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 4º; sendo as suas atribuições, no domínio da coordenação\
+    \ e do acompanhamento dos instrumentos de planeamento e do orçamento, do subsistema de avaliação do desempenho dos serviços\
+    \ e das relações internacionais, integradas no Gabinete de Planeamento e Políticas, e as restantes atribuições integradas\
+    \ na Agência Portuguesa do Ambiente, I. P,.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:553603:por
+  label: "Determinado que a Agência Portuguesa do Ambiente, I.P., suceda nas atribuições do do Departamento de Prospectiva\
+    \ e Planeamento e Relações Internacionais, pelo DEC LEI.56/2012.12.03.2012.MAMAOT, DR.IS [51] de 12.03.2012, nos termos\
+    \ do nº 2 do art. 15º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2012-553603
+  date: '2012-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2006/10/27/p/dre
   label: null
@@ -100,16 +117,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:146565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553933:por
+  label: "Revogado a partir de 01.04.2012 e determinado que o GPP suceda nas atribuições do Departamento de Prospetiva e Planeamento\
+    \ e Relações Internacionais, no domínio da coordenação e acompanhamento dos instrumentos de planeamento e do orçamento,\
+    \ do subsistema de avaliação do desempenho dos serviços e das relações internacionais, pelo DR.34/2012.26.03.2012.MAMAOT,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2012-553933
+  date: '2012-03-26'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:51Z'
   warnings: []
   errors: []
 ---
@@ -270,16 +319,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 19 de Abril de 2007.**
+Referendado em 19 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26512653.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26512653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26512653.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/383/1999/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1999-556239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fdecf3774102f22657a9d258d0f33d4181811aca37a41c9f09c6d84dc7c23a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c55480c5f8535596ea9ed3d04e2babc3d4eff39aea97eeb10e0bc738c2fa4f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cobrança de Dívidas
 - Código do Processo Civil
 - Contrato
-- Injunção
-- Residência
-- Notificação
-- Cobrança de Dívidas
-- Regime Jurídico
-- Execução por Dívidas
-- Processo de Execução
 - Custas Judiciais
+- Execução por Dívidas
+- Injunção
+- Notificação
+- Processo de Execução
+- Regime Jurídico
+- Residência
 - Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:439815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 1.º-A e 12.º-A do regime anexo ao Dec Lei 269/98 de 01-Set, aditados pelo presente diploma, pelo\
+    \ DEC LEI.183/2000.2000.08.10.MJ DR.IS-A [184]\04]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:189484:por
+  label: "Alterados, nos termos do n.º 2 do art. 10.º, os arts. 10º, 12º e 12º-A do anexo do Dec Lei 269/98 de 01-Set, com\
+    \ a redacção dada pelo presente diploma, pelo DEC LEI.32/2003.2003.02.17.MJ DR.IS-A [40]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2003-189484
+  date: '2003-02-17'
+- type: amended_by
+  target: pt:dre:233745:por
+  label: "Alterado, o art. 6º do Dec Lei 269/98 de 01-Set, renumerado pelo presente diploma, e alterados os arts 1º, 10º e\
+    \ 12º do Regime Anexo ao supracitado diploma, na redacção do presente diploma, pelo DEC LEI.107/2005.01.07.2005.MJ, DR.IS-A\
+    \ [125] de 01.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2005-233745
+  date: '2005-07-01'
+- type: amended_by
+  target: pt:dre:661170:por
+  label: "Alterado o art. 10º do regime anexo ao Dec Lei 269/98 de 01-Set, na redacção do presente diploma, pela LEI.14/2006.26.04.2006.AR,\
+    \ DR.IS-A [81] de 26.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2006-661170
+  date: '2006-04-26'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterado , a partir de 31.03.2009, o art. 10º do regime anexo ao Dec Lei 269/98, de 01-Set, na redacção do presente\
+    \ diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/269/1998/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/269/1998/09/01/p/dre
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o art. 6º do Dec Lei 269/98, de 28-Ago, renumerado pelo presente diploma, pelo\
+    \ DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:32Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +181,9 @@ Fixação de domicílio das partes
 
 2 - É inoponível a quem na causa figure como autor qualquer alteração do local convencionado nos termos do número anterior, salvo se o interessado tiver notificado a contraparte, mediante carta registada com aviso de recepção, da alteração do local do domicílio, nos 30 dias subsequentes à respectiva superveniência.
 
-###### Artigo 3.º — Recusa de assinatura do aviso ou de recebimento da carta
+Artigo 3.º
+
+Recusa de assinatura do aviso ou de recebimento da carta
 
 Se o citando ou o notificando recusarem a assinatura do aviso de recepção ou o recebimento da carta, o distribuidor postal lavra nota do incidente antes de a devolver, considerando-se efectuada a citação ou a notificação pessoal face à certificação da ocorrência.»
 
@@ -160,7 +203,9 @@ Os artigos 1.º, 10.º e 12.º do regime anexo ao [Decreto-Lei n.º 269/98](http
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +225,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +257,9 @@ Convenção de domicílio
 
 5 - A citação considera-se feita na própria pessoa do citando, além dos casos previstos no artigo 238.º do Código de Processo Civil, na data certificada pelo distribuidor do serviço postal, nos termos do número anterior, presumindo-se que o destinatário teve oportuno conhecimento dos elementos que lhe foram deixados.
 
-###### Artigo 12.º-A — Convenção de domicílio
+Artigo 12.º-A
+
+Convenção de domicílio
 
 Nos casos de domicílio convencionado, nos termos do n.º 1 do artigo 2.º do diploma preambular, aplica-se à notificação o disposto nos n.os 2 a 5 do artigo 1.º-A, com as necessárias adaptações.»
 
@@ -220,12 +269,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação, não
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 3 de Setembro de 1999.**
+Promulgado em 3 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Setembro de 1999.**
+Referendado em 9 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

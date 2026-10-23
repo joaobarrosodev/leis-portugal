@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/10900/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2024/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2024-868097436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bce8557b6eed5bab2ad6500c850732a76d0ea7b4a8c12cf4a446a6e3dd5500be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb3ac91b8eb86f4865d44befca66cfd4cd3b69e68d948720d29ed92becb2501e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Fundo de Coesão
-- Fundos CE
-- Secretariado Técnico
-- Portugal 2030
+- Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura
+- Fundo para o Asilo, a Migração e a Integração
 - Fundo para Uma Transição Justa
 - Fundo Social Europeu Mais
-- Fundo Europeu dos Assuntos Marítimos
-- das Pescas e da Aquicultura
-- Fundo para o Asilo
-- a Migração e a Integração
+- Fundos CE
+- Portugal 2030
+- Secretariado Técnico
 - Sistema de Informação dos Fundos Europeus
 relationships:
 - type: amended_by
   target: pt:dre:1156670555:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:5/2023
+  label: Altera, a partir de 7 de junho de 2024, o artigo 14.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, Diário da República
+    n.º 18/2023, Série I
+  source: null
+  date: '2023-01-25'
 - type: cites
   target: celex:32021R1060
   label: null
@@ -102,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/14/2023/02/10/p/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864060322:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:19Z'
   warnings: []
   errors: []
 ---
@@ -174,12 +194,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de maio de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - Manuel Castro Almeida.
 
-**Promulgado em 29 de maio de 2024.**
+Promulgado em 29 de maio de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de maio de 2024.**
+Referendado em 31 de maio de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117766333

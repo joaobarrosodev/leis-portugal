@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/02/04300/02140214.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21120-1965-238817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bb808387381fe598fbc22dce0a6f57d38535f7a5faf911071e01559c8d17bf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d4647c344e9265b14aec5f8971ebeba02f40afc31098e66a0a5c2dc6b9951a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Naval
+- Comando Naval do Continente
+- Marinha
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:473364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217729:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473364:por
+  label: Revogada pelo(a) Portaria n.º 22021 - Diário do Governo n.º 127/1966, Série I de 1966-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22021-1966-473364
+  date: '1966-05-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:37Z'
   warnings: []
   errors: []
 ---

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23597-1968-265079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87ab324d5b750d0d1e9096d2186832a089423a10014563736548580381e6373d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7dafcff761312ae64d1f575ea4d9cefef09e313d644e1a22b2f0ac4173e1487
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:24Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +122,7 @@ b) Um da importância de 31676887$40, tomando como contrapartida o saldo das con
 
 ### CAPÍTULO 12.º — Despesa extraordinária
 
-###### Artigo 2780.º «Outras despesas extraordinárias»:
+Artigo 2780.º «Outras despesas extraordinárias»:
 
 N.º 3) «Segurança pública»:
 
@@ -124,19 +152,19 @@ Biblioteca Nacional de Macau
 
 Despesas com o pessoal:
 
-###### Artigo 96.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 1197$00
+Artigo 96.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 1197$00
 
 Imprensa Nacional
 
 Despesas com o pessoal:
 
-###### Artigo 107.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 2470$00
+Artigo 107.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 2470$00
 
 Polícia de Segurança Pública
 
 Despesas com o pessoal:
 
-###### Artigo 134.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 17996$00
+Artigo 134.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 17996$00
 
 Serviços de Estatística
 
@@ -144,13 +172,13 @@ Repartição Provincial dos Serviços de Estatística
 
 Despesas com o pessoal:
 
-###### Artigo 146.º «Remunerações certas ao pessoal em exercício»:
+Artigo 146.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 12122$00
 
 N.º 3) «Pessoal assalariado» ... 1938$00
 
-###### Artigo 147.º, n.º 1) «Remunerações acidentais - Gratificação ao chefe de serviço, nos termos do artigo 23.º do [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966 (diferença de vencimentos entre o grupo G e o grupo E)» ... 1083$00
+Artigo 147.º, n.º 1) «Remunerações acidentais - Gratificação ao chefe de serviço, nos termos do artigo 23.º do [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966 (diferença de vencimentos entre o grupo G e o grupo E)» ... 1083$00
 
 ### CAPÍTULO 6.º — Serviços de Justiça
 
@@ -158,7 +186,7 @@ Comarcas e julgados
 
 Despesas com o pessoal:
 
-###### Artigo 186.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 5073$00
+Artigo 186.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 5073$00
 
 ### CAPÍTULO 7.º — Serviços de Fomento
 
@@ -166,7 +194,7 @@ Repartição Provincial dos Serviços de Obras Públicas e Transportes
 
 Despesas com o pessoal:
 
-###### Artigo 224.º «Remunerações certas ao pessoal em exercício»:
+Artigo 224.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 2) «Pessoal contratado» ... 2147$00
 
@@ -174,7 +202,7 @@ N.º 3) «Pessoal assalariado» ... 18582$00
 
 N.º 4) «Pessoal além dos quadros, nos termos do artigo 6.º do [Decreto n.º 44660](https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263), de 2 de Novembro de 1962» ... 3572$00
 
-###### Artigo 225.º «Remunerações acidentais»:
+Artigo 225.º «Remunerações acidentais»:
 
 N.º 2) «Gratificações especiais anuais» ... 1482$00
 
@@ -186,7 +214,7 @@ Serviço Meteorológico
 
 Despesas com o pessoal:
 
-###### Artigo 236.º «Remunerações certas ao pessoal em exercício»:
+Artigo 236.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 14041$00
 

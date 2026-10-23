@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21400/0393003944.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2016/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2016-75688299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db742f9027c16953b5c36d2c04a9196aba0ec888cd898746a82d5c6e300757c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 131745f0a62a775b1b25a1a07faebdbe244e9346fa0ff611cd7133162e2975ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Livro de Reclamações
-- Sociedade Comercial
-- Infarmed
 - Definição de Competências
 - Direcção Técnica
 - Farmácia de Oficina
 - Horário de Funcionamento
-- Transmissão da Propriedade
+- Infarmed
+- Livro de Reclamações
 - Prestação de Serviços
 - Proteção do Consumidor
 - Regime Jurídico
+- Sociedade Comercial
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:888861493:por
@@ -123,16 +123,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
+- type: cites
+  target: pt:dre:144639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 90
+  article_count: 74
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:50Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +283,9 @@ Os artigos 12.º, 18.º, 19.º, 19.º-A, 20.º, 22.º, 25.º, 27.º, 30.º, 36.�
 
 4 - A comunicação prevista na alínea a) do n.º 2, pode ser substituída por informação equivalente, fornecida pelas farmácias à Administração Central do Sistema de Saúde, I. P., através do Centro de Conferência de Faturas do Serviço Nacional de Saúde.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -201,7 +307,9 @@ Os artigos 12.º, 18.º, 19.º, 19.º-A, 20.º, 22.º, 25.º, 27.º, 30.º, 36.�
 
 10 - A caducidade do alvará ocorre se decorridos dois anos após o termo do prazo referido no n.º 5, sem que tenha ocorrido a adjudicação ou alienação da farmácia a favor de quem possa ser seu proprietário.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O representante legal da sociedade proprietária de farmácia averbada em alvará comunica ao INFARMED, I. P., por meios eletrónicos em local apropriado no sítio eletrónico do INFARMED, I. P., a declaração referida no artigo anterior, com as devidas adaptações, no prazo de 30 dias, para efeito de averbamento no alvará, das seguintes situações:
 
@@ -213,7 +321,9 @@ c) [Revogada].
 
 2 - É correspondentemente aplicável o disposto nos n.os 5 a 9 do artigo anterior.
 
-###### Artigo 19.º-A — [...]
+Artigo 19.º-A
+
+[...]
 
 1 - O INFARMED, I. P., organiza e mantém um registo permanentemente atualizado de cada farmácia e de todos os atos sujeitos a averbamento nos termos do presente decreto-lei.
 
@@ -233,7 +343,9 @@ d) Postos farmacêuticos móveis dependentes da farmácia.
 
 5 - [Revogado].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, a direção técnica da farmácia é assegurada em permanência por farmacêutico diretor técnico, não podendo haver acumu-lação destas com quaisquer outras funções durante o horário de trabalho.
 
@@ -249,13 +361,17 @@ d) Postos farmacêuticos móveis dependentes da farmácia.
 
 7 - É da responsabilidade da proprietária a veracidade do teor das comunicações efetuadas nos termos do presente artigo.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A cessação da função de diretor técnico deve ser comunicada ao INFARMED, I. P., pela proprietária da farmácia.
 
 2 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -269,7 +385,9 @@ d) Postos farmacêuticos móveis dependentes da farmácia.
 
 6 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - É proibida a utilização, na designação da farmácia, de quaisquer vocábulos enganosos, que constituam concorrência desleal, que sejam suscetíveis de criar confusão com outras farmácias localizadas no mesmo concelho ou que estabeleçam qualquer equívoco quanto ao disposto no artigo 15.º
 
@@ -277,17 +395,23 @@ d) Postos farmacêuticos móveis dependentes da farmácia.
 
 3 - [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 O horário de funcionamento das farmácias abrange os períodos de funcionamento, diário e semanal e os turnos de serviço regulados por decreto-lei.
 
-###### Artigo 36.º — Prestação de serviços na área da saúde
+Artigo 36.º
+
+Prestação de serviços na área da saúde
 
 1 - As farmácias podem prestar serviços de promoção da saúde e do bem-estar dos utentes, em termos a definir pela portaria do membro do Governo responsável pela área da saúde prevista na alínea f) do artigo 57.º
 
 2 - Na definição dos serviços que as farmácias podem prestar deve ser seguido um modelo que potencie a rede de farmácias no âmbito dos cuidados de saúde primários nas áreas de prevenção e terapêutica.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - As farmácias devem dispor de livro de reclamações nos termos e nas condições estabelecidas no regime jurídico do livro de reclamações.
 
@@ -295,7 +419,9 @@ O horário de funcionamento das farmácias abrange os períodos de funcionamento
 
 3 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -305,7 +431,9 @@ O horário de funcionamento das farmácias abrange os períodos de funcionamento
 
 4 - Não é considerado voluntário o encerramento de uma farmácia realizado no âmbito de um processo de insolvência do proprietário ou quando este se tenha iniciado no prazo de um ano a contar da data do encerramento da farmácia, não lhe sendo aplicável o prazo referido no n.º 1.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -317,7 +445,9 @@ O horário de funcionamento das farmácias abrange os períodos de funcionamento
 
 5 - [...].
 
-###### Artigo 47.º-A — [...]
+Artigo 47.º-A
+
+[...]
 
 1 - Sem prejuízo das demais sanções que ao caso couberem, constitui contraordenação grave, punível com coima entre (euro) 2 000 e 10 % do volume de negócios do responsável ou (euro) 75 000, consoante o que for inferior:
 
@@ -353,7 +483,9 @@ o) A inexistência de livro de reclamações em violação do disposto no n.º 1
 
 2 - [...].
 
-###### Artigo 53.º — Nulidade e cassação
+Artigo 53.º
+
+Nulidade e cassação
 
 1 - [...].
 
@@ -361,11 +493,15 @@ o) A inexistência de livro de reclamações em violação do disposto no n.º 1
 
 3 - A violação dos limites previstos no n.º 1 do artigo 15.º implica a cassação dos alvarás.
 
-###### Artigo 54.º — Prestação de informação
+Artigo 54.º
+
+Prestação de informação
 
 Para efeitos de fiscalização o INFARMED, I. P., pode solicitar às entidades competentes informação sobre todos os negócios jurídicos que, direta ou indiretamente, envolvam, no todo ou em parte, a alteração da propriedade, da exploração ou da gestão de uma farmácia.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - O INFARMED, I. P., cria e gere, na sua página eletrónica na Internet, uma plataforma informática em que os requerentes de quaisquer atos previstos no presente decreto-lei devem utilizar para formular os seus pedidos, reclamações, recursos ou outras comunicações.
 
@@ -407,15 +543,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 24 de outubro de 2016.**
+Promulgado em 24 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2016.**
+Referendado em 27 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

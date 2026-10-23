@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2013/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2013-498740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 672595dc3b923efedb60ca172dc7b860574ce08c25cba3c5bb7ee83c5a728759
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c8446f0679943b1f62199d1fdf75abe6bcde400103b40ed18fda6c537362ee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
-- Infarmed
 - Comparticipação do Estado
-- Serviço Nacional de Saúde
+- Infarmed
 - Medicamento
 - Preço
 - Preço de Venda
+- Serviço Nacional de Saúde
 - Utente
 relationships:
 - type: cites
@@ -99,16 +99,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2011/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2011/12/12/p/dre
+- type: cites
+  target: pt:dre:145588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:22Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +191,9 @@ b) No 1.º dia do mês seguinte, no caso da alínea b) do número anterior.
 
 7 - A competência referida no n.º 2 pode ser delegada no INFARMED, I. P.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Quando já exista grupo homogéneo, o PVP dos novos medicamentos a comparticipar deve ser inferior em 5 % relativamente ao PVP máximo do medicamento genérico de preço mais baixo, com pelo menos 5 % de quota do mercado de medicamentos genéricos no grupo homogéneo.
 
@@ -171,7 +201,9 @@ b) No 1.º dia do mês seguinte, no caso da alínea b) do número anterior.
 
 3 - O disposto no n.º 1 não se aplica aos preços que, por efeito do disposto no artigo 21.º, já cumpram o que nele se dispõe.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O INFARMED, I. P., define e publica as listas de grupos homogéneos:
 
@@ -185,12 +217,12 @@ b) Até ao 20.º dia do mês, no caso de novos grupos homogéneos criados em res
 
 Visto e aprovado em Conselho de Ministros de 30 de maio de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 22 de julho de 2013.**
+Promulgado em 22 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de julho de 2013.**
+Referendado em 23 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

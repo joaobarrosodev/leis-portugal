@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/191a00/52135219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/2003/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2003-654679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 381845331349752623f0200f2ad757f2fedf5b58c768e53396d42a3ffb235cb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25930c35cb5ac75a681d557acd851b681b5dc18d71979909ecf3872def728d48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
-- Ministério da Economia
 - Integração de Trabalhadores
+- Ministério da Economia
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -79,6 +79,28 @@ relationships:
   target: pt:dre:521016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Feitas transitar as atribuições no domínio do turismo, anteriormente cometidas à Secretaria-Geral do Ministério\
+    \ da Economia, cuja orgânica foi aprovada pelo presente diploma, para a Secretaria-Geral do Ministério do Turismo, pelo\
+    \ DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:457013:por
+  label: "Determinado que a Secretaria-Geral cuja orgânica foi aprovada pelo presente diploma suceda nas competências, salvo\
+    \ no domínio do turismo, ao Gabinete de gestão extinto e revogado o Dec Lei 191/2003, de 22-Ago, pelo DEC LEI.8/2005.06.01.2005.MAET,\
+    \ DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2005-457013
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:588833:por
+  label: "Determinada a transição para a SG do Ministério do Turismo dos bens, direitos e obrigações, incluindo as posições\
+    \ contratuais inerentes às aquisições de bens e serviços e aos fornecimentos de serviços externos inerentes à transferência\
+    \ de atribuições da SG do extinto Ministério da Economia (estabelecida no n.º 1 do art. 19.º do Dec Lei 228/2004, de 07-Dez),\
+    \ cuja orgânica foi aprovada pelo presente diploma, pelo DR.1/2005.08.03.2005.MTUR, DR.IS-B [47] de 08.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-2005-588833
+  date: '2005-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
   label: null
@@ -95,16 +117,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278973:por
+  label: "Revogada a al. h) do n.º 2 do art. 2.º, pelo DEC LEI.140/2004.08.06.2004.MECO, DR.IS-A [134] de 08.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2004-278973
+  date: '2004-06-08'
+- type: repealed_by
+  target: pt:dre:521016:por
+  label: "Revogado, a partir de 01.05.2007, pelo DEC LEI.138/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2007-521016
+  date: '2007-04-27'
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:35Z'
   warnings: []
   errors: []
 ---
@@ -537,15 +585,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 6 de Agosto de 2003.**
+Promulgado em 6 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Agosto em 2003.**
+Referendado em 8 de Agosto em 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o n.º 1 do artigo 17.º)
 

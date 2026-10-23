@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18100/0811508117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2015/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2015-70309898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c27be43fffce4dd3edb6bd5917cbe50ed3b2fda5b55afebc91e1d81f391df29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c03384112ac42ef79465df0a4e90fd4d398bd41280103af987d850eae9266962
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Tribunal Constitucional
+- Gestão de Recursos Humanos
 - Orgânica
 - Quadro de Pessoal
 - Secretaria Judicial
 - Serviços de Apoio ao Tribunal Constitucional
-- Gestão de Recursos Humanos
+- Tribunal Constitucional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/545/1999/12/14/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:226440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:08Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +160,9 @@ Os artigos 1.º, 19.º, 20.º e 26.º do [Decreto-Lei n.º 545/99](https://diari
 
 A organização dos serviços do Tribunal Constitucional compreende o secretário-geral, a Secretaria Judicial, o Departamento Administrativo e Financeiro, o Núcleo de Apoio Documental e Informação Jurídica, o Centro de Informática, o Gabinete de Relações Externas e os Gabinetes de Apoio ao Presidente, Vice-Presidente, Juízes e Ministério Público.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -148,7 +170,9 @@ A organização dos serviços do Tribunal Constitucional compreende o secretári
 
 3 - O chefe do Gabinete do Presidente é substituído, nas suas ausências e impedimentos, pelo assessor para o efeito designado pelo Presidente.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -172,7 +196,9 @@ A organização dos serviços do Tribunal Constitucional compreende o secretári
 
 11 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +216,9 @@ Direção do Departamento Administrativo e Financeiro
 
 O Departamento Administrativo e Financeiro é dirigido por um diretor de serviços.
 
-###### Artigo 15.º-A — Assessores do Núcleo de Apoio Documental e Informação Jurídica
+Artigo 15.º-A
+
+Assessores do Núcleo de Apoio Documental e Informação Jurídica
 
 1 - Para a área de competência prevista na alínea h) do artigo 14.º, o Núcleo de Apoio Documental e Informação Jurídica pode integrar até três assessores, designados pelo Presidente do Tribunal, de entre:
 
@@ -212,7 +240,9 @@ b) Personalidades de reconhecido mérito e experiência na área da investigaç�
 
 8 - O tempo de serviço prestado em regime de exclusividade suspende a contagem dos prazos para a apresentação de relatórios ou a prestação de provas para a carreira docente do ensino superior ou para a carreira de investigação científica.
 
-###### Artigo 15.º-B — Competências
+Artigo 15.º-B
+
+Competências
 
 Compete ao Gabinete de Relações Externas prestar ao Tribunal o apoio que lhe for determinado pelo Presidente, nas seguintes áreas:
 
@@ -230,7 +260,9 @@ f) Seleção das peças de imprensa, nacional e estrangeira, com interesse para 
 
 g) Organização e acolhimento das visitas ao Tribunal.
 
-###### Artigo 15.º-C — Dependência
+Artigo 15.º-C
+
+Dependência
 
 O Gabinete de Relações Externas funciona na dependência direta do Presidente do Tribunal.»
 
@@ -250,12 +282,12 @@ No [Decreto-Lei n.º 545/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António Manuel Coelho da Costa Moura.
 
-**Promulgado em 4 de setembro de 2015.**
+Promulgado em 4 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de setembro de 2015.**
+Referendado em 10 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

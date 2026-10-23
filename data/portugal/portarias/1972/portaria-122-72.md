@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/122-1972-398533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 640948a8c5b2a8190c8d66d169ee3b50ea2a13c3e824f8a707c50c70479f9b68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14d94febf97b853b0b90ef26ebf1d9957bada532f71d881cd4ef53ed7f214d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:58Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +92,6 @@ de 1 de Março
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, fixar em 0,2 e em 1, respectivamente para os bancos comerciais e instituições auxiliares de crédito em actividade nas províncias ultramarinas, relativamente ao ano económico de 1971, as percentagens a que se referem os artigos 14.º e 109.º e § 4.º do artigo 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

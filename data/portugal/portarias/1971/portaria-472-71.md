@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/472-1971-630241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d9a686bf1fcdd1f535382e2584c9ef66bc6a7d3260345ee0b0fd9131d2f37c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d97b46a975759fe32a61319f064fcb4333f8426f5eb6b0b1a5e5b05288b92152
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:445756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:49Z'
   warnings: []
   errors: []
 ---
@@ -103,4 +111,4 @@ Manda o Governo da República Portuguesa, pelos Ministros do Ultramar e da Saúd
 
 6.º O programa de formação comum iniciar-se-á em 1 de Outubro de cada ano e as matrículas serão feitas de 1 a 15 de Setembro.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - Pelo Ministro da Saúde e Assistência, Francisco Gonçalves Ferreira, Secretário de Estado da Saúde e Assistência.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - Pelo Ministro da Saúde e Assistência, Francisco Gonçalves Ferreira, Secretário de Estado da Saúde e Assistência.

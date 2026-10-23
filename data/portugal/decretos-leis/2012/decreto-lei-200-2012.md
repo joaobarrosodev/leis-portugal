@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2012-174556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e451a1d42638ad0472f051fb14ff0011b4df3e6be73737bafb55daed025d4542
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bb7bfcd16d3f4f0dd022090735c366c51abaa6675ca974fa271526815dc5372
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Gestão Financeira
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Conselho Consultivo
 - Conselho de Administração
 - Definição de Competências
 - Estatuto
+- Fiscal Único
 - Gestão do Património
-- Conselho Consultivo
+- Gestão Financeira
 - Instituto de Gestão da Tesouraria e do Crédito Público
-- Agência de Gestão da Tesouraria e da Dívida Pública
+- Mobilidade de Pessoal
 - Presidente
 - Remuneração
-- Mobilidade de Pessoal
 - Segredo Profissional
 - Vogal
 relationships:
@@ -87,20 +85,61 @@ relationships:
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66463205:por
+  label: Dada nova redação ao anexo II do Dec Lei 117/2011 de 15-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2015-66463205
+  date: '2015-02-10'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Instituto de Gestão da Tesouraria
+    e do Crédito Público, I. P., transformado em Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., com
+    os estatutos previstos no presente diploma, seja exercida pelo Ministro de Estado e das Finanças, pelo(a) Decreto-Lei
+    n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a superintendência e tutela sobre a Agência de Gestão da Tesouraria e da
+    Dívida Pública - IGCP, E. P. E. com os estatutos previstos no presente diploma seja exercida pelo Ministro das Finanças
+    pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro de Estado e das Finanças a superintendência
+    e tutela sobre a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. pelo(a) Decreto-Lei n.º 32/2024
+    - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro de Estado e das Finanças a superintendência
+    e tutela sobre a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. pelo(a) Decreto-Lei n.º 87-A/2025
+    - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: celex:32004L0018
   label: null
   source: http://data.europa.eu/eli/dir/2004/18/oj
+- type: corrected_by
+  target: pt:dre:175809:por
+  label: "Retificado o n.º 1 do art. 9.º dos Estatutos da Agência de Gestão da Tesouraria e da Dívida Pública, pela DECL-RECT.56/2012.03.10.2012.PCM,\
+    \ DR.IS [192] de 03.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/56-2012-175809
+  date: '2012-10-03'
 article_structure:
   article_count: 34
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:49Z'
   warnings: []
   errors: []
 ---
@@ -169,15 +208,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 17 de agosto de 2012.**
+Promulgado em 17 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de agosto de 2012.**
+Referendado em 23 de agosto de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
@@ -567,4 +606,4 @@ j) Quaisquer outras receitas que lhe sejam atribuídas nos termos da lei.
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16500/0470304710.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16500/0470304710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16500/0470304710.pdf)

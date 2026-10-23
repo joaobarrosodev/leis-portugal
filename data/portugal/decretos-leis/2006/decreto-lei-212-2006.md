@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/212/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2006-545638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24dfab24d3e6d8aca81c6c58a12ed589312e799d50b6407c33781a2d19e47ebd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fde0fa9528d45c5c9eb2f9e28a9c70414762fb84e78972a6d27368716920573d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Administração Regional de Saúde do Alentejo
 - Administração Regional de Saúde do Algarve
-- Centro de Histocompatibilidade do Centro
-- Administração Regional de Saúde de Lisboa e VALE do TEJO
 - Administração Regional de Saúde do Centro
 - Administração Regional de Saúde do Norte
+- ALTO Comissariado da Saúde
+- ALTO Comissário Adjunto da Saúde
 - ALTO Comissário da Saúde
-- Reestruturação de Serviços
 - Autoridade para os Serviços de Sangue e da Transplantação
+- Centro de Histocompatibilidade do Centro
 - Centro de Histocompatibilidade do Norte
 - Centro de Histocompatibilidade do SUL
 - Centro Regional de Alcoologia
@@ -82,46 +84,44 @@ subjects:
 - Centro Regional de Alcoologia do Norte
 - Centro Regional de Alcoologia do Sul
 - Centro Regional de Saúde Pública
+- Centro Regional de Saúde Pública da ZONA Centro
 - Centro Regional de Saúde Pública da ZONA Norte
 - Centro Regional de Saúde Pública de Lisboa e VALE do TEJO
 - Centro Regional de Saúde Pública do Alentejo
 - Centro Regional de Saúde Pública do Algarve
-- Pessoal Dirigente
-- INEM
-- Infarmed
-- Direção Geral da Saúde
+- Conselho Diretivo
+- Conselho Nacional de Saúde
 - Conselho Nacional do Combate à Droga e a Toxicodependência
-- Instituto da Droga e da Toxicodependência
 - Controlador Financeiro
 - Criação de Serviços
-- Centro Regional de Saúde Pública da ZONA Centro
 - Definição de Competências
-- Administração Regional de Saúde
+- Direção Geral da Saúde
 - Direcção Geral das Instalações e Equipamentos de Saúde
 - Diretor Geral
 - Entidade Reguladora da Saúde
 - Extinção de Serviços
-- Secretaria Geral
-- Conselho Diretivo
+- INEM
+- Infarmed
 - Inspecção Geral das Actividades em Saúde
 - Inspecção Geral de Saúde
 - Inspetor Geral
+- Instituto da Droga e da Toxicodependência
 - Instituto da Qualidade em Saúde
 - Instituto de Genética Médica Dr Jacinto de Magalhães
 - Instituto de Gestão Informática e Financeira da Saúde
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Instituto Português de Sangue
 - Integração de Serviços
 - Laboratório do Estado
-- Administração Central do Sistema de Saúde
-- ALTO Comissariado da Saúde
-- ALTO Comissário Adjunto da Saúde
-- Conselho Nacional de Saúde
-- Orgânica
-- Presidente
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Quadro de Pessoal
 - Ministério da Saúde
+- Orgânica
+- Pessoal Dirigente
+- Presidente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 - Subdirector Geral
 - Subinspector Geral
 - Vice-presidente
@@ -131,6 +131,38 @@ relationships:
   target: pt:dre:145186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:440817:por
+  label: "Alterados os arts. 14.º e 16.º, aditado o art. 26.º-A e e republicado com a redacção actual, pelo DEC LEI.234/2008.02.12.2008.MS,\
+    \ DR.IS [233] de 02.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2008-440817
+  date: '2008-12-02'
+- type: amended_by
+  target: pt:dre:334117:por
+  label: "Alterado o art. 11º, pelo DEC LEI.91/2010.22.07.2010.MS, DR.IS [141] de 22.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2010-334117
+  date: '2010-07-22'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Saúde dos serviços, organismos e entidades identificados no presente\
+    \ diploma, alterado pelos Dec Lei 222/2007 de 01-Jun, 234/2008 de 02-Dez e 91/2010 de 22-Jul, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 18º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:146212:por
+  label: "Alterado o art. 16º ( na redacção do Dec Lei 234/2008, de 02-Dez) e revogada a al. d) do nº 2 do artigo 16º, pelo\
+    \ DEC LEI.108/2011.17.11.2011.MS, DR.IS [221] de 17.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2011-146212
+  date: '2011-11-17'
+- type: amended_by
+  target: pt:dre:145186:por
+  label: "Extinta, sendo objecto de fusão, a Autoridade para os Serviços de Sangue e da Transplantação criada pelo presente\
+    \ diploma, e integradas as suas atribuições no Instituto Português do Sangue e da Transplantação, I. P., com excepção\
+    \ das atribuições que são integradas na Direcção-Geral da Saúde, nos termos da al. b) do nº 3 do art. 23º, pelo DEC LEI.124/2011.29.12.2011.MS,\
+    \ DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -147,16 +179,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638525:por
+  label: "Revogada a al e) do art. 15º pelo DEC LEI.222/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007, a partir de 01.06.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2007-638525
+  date: '2007-05-29'
+- type: repealed_by
+  target: pt:dre:145186:por
+  label: "Revogado, a partir de 03.01.2012., pelo DEC LEI.124/2011.29.12.2011.MS, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
 article_structure:
   article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:48Z'
   warnings: []
   errors: []
 ---
@@ -637,22 +696,22 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf)
 
 (nota 1) Não inclui o Alto-Comissariado da Saúde.
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75177525.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15100/0409204092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/55/2014/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/55-2014-55235834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 067eeab8800febcb70ec293c25ceee11eb1d3e37c5c635950ceb9b14cb55a74f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bd0950830ec6fc62c568102a72b85ffd04605b2181d5efc678826127a780aa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bélgica
+- Militar
 - Missão Militar
 - Nomeação
 - Representação Portuguesa
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:70086387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70086387:por
+  label: Exonerado, com efeitos a 16.09.2015, pelo(a) Decreto do Presidente da República n.º 93/2015 - Diário da República
+    n.º 164/2015, Série I de 2015-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/93-2015-70086387
+  date: '2015-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:24Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +108,12 @@ validation:
 
 de 7 de agosto
 
-**O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, o seguinte:**
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 24.º da [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, o seguinte:
 
 É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, o Major-General Isidro de Morais Pereira para o cargo de Representante Militar Nacional junto do Quartel-General do Comando Supremo das Forças Aliadas na Europa (SHAPE), em Mons-Bélgica, com efeitos a partir de 29 de agosto de 2014.
 
-**Assinado em 1 de agosto de 2014.**
+Assinado em 1 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2009/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2009-494197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 424211965f6abc762634be865ee630321b38c7a0794fc507427c3ece391cf780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bccd23eca2718dca6fc026dde751d1ae86f0a17903de0aa8c5dbc1d99325012
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Crime
-- Registo Individual do Condutor
+- Autoridade Nacional de Segurança Rodoviária
+- Base de Dados
 - Carta de Condução
 - Certidão
 - Código da Estrada
-- Contra-ordenação
-- Definição de Competências
-- Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Autoridade Nacional de Segurança Rodoviária
 - Condutor
+- Contra-ordenação
+- Crime
+- Definição de Competências
+- Direito à Informação
 - Presidente
+- Registo Individual do Condutor
+- Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146221:por
+  label: "Alterados os art.s 7º, 11º e 12º do Dec Lei 317/94, de 24-Dez, na redacção do presente diploma, pelo DEC LEI.114/2011.30.11.2011.MAI,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:105263933:por
+  label: Alterados, a partir de 28.12.2016, os arts. 1.º, 4.º, 5.º 6.º, 7.º, 8.º, 11.º e 12.º do Dec Lei 317/94 de 24-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28,
+    que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2016-105263933
+  date: '2016-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2006/06/07/p/dre
   label: null
@@ -108,16 +121,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:18Z'
   warnings: []
   errors: []
 ---
@@ -160,17 +197,23 @@ a) Organizar e manter actualizada a informação necessária ao exercício das c
 
 b) Permitir o acesso à informação sobre o registo de infracções dos condutores e, ainda, a emissão automática de certidões de registo de infracções dos condutores.
 
-###### Artigo 2.º — Responsável da base de dados
+Artigo 2.º
+
+Responsável da base de dados
 
 1 - É responsável pela base de dados do RIC, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, o presidente da ANSR.
 
 2 - Cabe, em especial, ao presidente da ANSR assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como velar para que a consulta ou a comunicação da informação respeitem as condições previstas na lei.
 
-###### Artigo 3.º — Dados recolhidos
+Artigo 3.º
+
+Dados recolhidos
 
 A recolha de dados para tratamento automatizado, no âmbito das competências da ANSR, deve limitar-se ao que seja necessário para a prossecução dos objectivos legalmente definidos para a respectiva base de dados.
 
-###### Artigo 4.º — Registo de infracções de condutores
+Artigo 4.º
+
+Registo de infracções de condutores
 
 1 - ...
 
@@ -266,7 +309,9 @@ c) ...
 
 d) Período durante o qual não pode ser concedido novo título de condução.
 
-###### Artigo 5.º — Registo de infractores habilitados com título de condução estrangeiro
+Artigo 5.º
+
+Registo de infractores habilitados com título de condução estrangeiro
 
 1 - O registo de infractores habilitados com título de condução estrangeiro é constituído pelos dados de identificação do condutor, pelas condenações por infracção com inibição ou proibição de condução em território nacional e pelas condenações em medida de segurança que impliquem cassação do título de condução.
 
@@ -286,7 +331,9 @@ f) ...
 
 3 - Relativamente às infracções punidas com inibição ou proibição de condução em território nacional e à aplicação de medidas de segurança que impliquem cassação dos títulos de condução são recolhidos os dados referidos nos n.os 3 e 5 do artigo anterior.
 
-###### Artigo 6.º — Recolha e actualização
+Artigo 6.º
+
+Recolha e actualização
 
 1 - ...
 
@@ -310,7 +357,9 @@ d) Da data da decisão e do trânsito em julgado;
 
 e) Dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.
 
-###### Artigo 7.º — Acesso aos dados
+Artigo 7.º
+
+Acesso aos dados
 
 1 - A ANSR e, nas Regiões Autónomas, os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.
 
@@ -326,15 +375,21 @@ d) Os governos civis, com vista a facultar ao titular da informação o conhecim
 
 3 - A Guarda Nacional Republicana e a Polícia de Segurança Pública podem aceder indirectamente à base de dados, no âmbito de acções de fiscalização do trânsito, bem como quando exista obrigação ou autorização legal nesse sentido e, ainda, quando os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com obrigações legais da ANSR.
 
-###### Artigo 8.º — Comunicação de dados
+Artigo 8.º
+
+Comunicação de dados
 
 Os dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades competentes de outro estado no âmbito de acordo bilateral, convenção ou tratado internacional a que o Estado Português se encontre vinculado.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Para além dos casos previstos no artigo 7.º, a informação pode ser divulgada para fins estatísticos, mediante autorização do responsável das bases de dados e desde que não possam ser identificáveis as pessoas a que respeita, observadas as disposições legais aplicáveis.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +409,9 @@ Para além dos casos previstos no artigo 7.º, a informação pode ser divulgada
 
 9 - Todas as operações relacionadas com o acesso por parte das entidades autorizadas dependem de utilização de palavra chave que identifique os postos de trabalho, a pessoa que acede à informação, a hora e o tempo de acesso.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Tendo em vista a segurança da informação, cabe ao responsável pela base de dados a que se refere o presente decreto-lei garantir a observação das seguintes regras:
 
@@ -402,15 +459,15 @@ Certidão do registo de infracções do condutor
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Rui Carlos Pereira - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 20 de Maio de 2009.**
+Promulgado em 20 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Maio de 2009.**
+Referendado em 21 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 317/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1994-575295), de 24 de Dezembro
 

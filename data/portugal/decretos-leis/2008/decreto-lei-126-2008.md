@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2008/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2008-456783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 165a77d0a753b196f5bc920684e4966bbf4de5c5d7e0a54ee60da59754410f45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f60a1b8f295de7b560d04007f6fd7cd38fe36329e0dee714b8a7da6aa1ff5db5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administrador
-- Instituição de Crédito
+- Banco de Portugal
+- CMVM
 - Comissão Directiva
 - Conselho Geral
 - Fiscalização
 - Fundo de Garantia do Crédito Agrícola Mútuo
-- Banco de Portugal
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Seguros de Portugal
 - Qualificação Profissional
 - Reclamação
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
-- CMVM
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:66868336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação aos arts. 143º e 158º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF, DR.IS [30-Supl]\
+    \ de 10.02.2012 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 30.º, 31.º,33.º,69.º
+    do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado
+    em anexo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I
+    de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado, a partir de 31.03.2015, o art. 1.º do Dec. Lei 345/98 de 09-nov, na redação do presente diploma, pelo(a)
+    Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26 que procedeu à sua republicação
+    no anexo II
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -125,16 +147,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:186546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646111:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:12Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +265,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 5 - Para efeitos do presente artigo, considera-se verificada a idoneidade dos membros dos órgãos de administração e de fiscalização que se encontrem registados junto da Comissão do Mercado de Valores Mobiliários ou do Instituto de Seguros de Portugal, quando esse registo esteja sujeito a exigências de controlo da idoneidade, a menos que factos supervenientes à data do referido registo conduzam o Banco de Portugal a pronunciar-se em sentido contrário.
 
-###### Artigo 31.º — Qualificação profissional
+Artigo 31.º
+
+Qualificação profissional
 
 1 - Os membros do órgão de administração a quem caiba assegurar a gestão corrente da instituição de crédito e os revisores oficiais de contas que integrem o órgão de fiscalização devem possuir qualificação adequada, nomeadamente através de habilitação académica ou experiência profissional.
 
@@ -197,7 +277,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 4 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O Banco de Portugal pode opor-se a que os membros dos órgãos de administração e do conselho geral e de supervisão das instituições de crédito exerçam funções de administração noutras sociedades, se entender que a acumulação é susceptível de prejudicar o exercício das funções que o interessado já desempenhe, nomeadamente por existirem riscos graves de conflito de interesses, ou, tratando-se de pessoas a quem caiba a gestão corrente da instituição, por não se verificar disponibilidade suficiente para o exercício do cargo.
 
@@ -205,7 +287,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 3 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - O registo dos membros dos órgãos de administração e fiscalização, incluindo os que integrem o conselho geral e de supervisão e os administradores não executivos, deve ser solicitado, após a respectiva designação, mediante requerimento da instituição de crédito.
 
@@ -225,7 +309,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 9 - ...
 
-###### Artigo 77.º-A — [...]
+Artigo 77.º-A
+
+[...]
 
 1 - ...
 
@@ -235,7 +321,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 4 - Sem prejuízo do regime aplicável às reclamações apresentadas às instituições de crédito no âmbito da legislação em vigor, o Banco de Portugal torna público um relatório anual sobre as reclamações dos clientes das instituições de crédito, independentemente da sua modalidade de apresentação, com especificação das suas áreas de incidência e das entidades reclamadas e com informação sobre o tratamento dado às reclamações.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +341,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 8 - ...
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +355,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 5 - ...
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 1 - ...
 
@@ -273,7 +365,9 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 3 - O Fundo goza de um regime especial nos termos da lei quadro dos institutos públicos, regendo-se pelo presente decreto-lei, pelos seus regulamentos e, em tudo o que não for por estes fixado em contrário pela mesma lei quadro dos institutos públicos.
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - O Fundo é gerido por uma comissão directiva composta por três membros, sendo o presidente um elemento do conselho de administração do Banco de Portugal, por este designado, outro nomeado pelo ministro responsável pela área das finanças, em sua representação, e um terceiro designado pela associação que em Portugal represente as instituições de crédito participantes que, no seu conjunto, detenham o maior volume de depósitos garantidos.
 
@@ -283,13 +377,17 @@ c) A condenação, em Portugal ou no estrangeiro, pela prática de infracções 
 
 4 - Os membros da comissão directiva exercem as suas funções por mandatos de três anos, renováveis até ao máximo de três mandatos, podendo acumular as suas funções com quaisquer outras, públicas ou privadas, desde que autorizados para o efeito no acto de nomeação.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - ...
 
 2 - As publicações a que se refere o número anterior são feitas a expensas do infractor e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico e da protecção dos mercados bancários, incluindo necessariamente no sítio da Internet do Banco de Portugal.
 
-###### Artigo 227.º — [...]
+Artigo 227.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +411,9 @@ Criação e regime jurídico
 
 2 - O Fundo goza de um regime especial, nos termos da lei quadro dos institutos públicos regendo-se pelo presente decreto-lei, pelos seus regulamentos e, em tudo o que não for por estes fixado em contrário, pela mesma lei quadro dos institutos públicos.
 
-###### Artigo 6.º — Comissão directiva
+Artigo 6.º
+
+Comissão directiva
 
 1 - ...
 
@@ -331,12 +431,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 1 de Julho de 2008.**
+Promulgado em 1 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Julho de 2008.**
+Referendado em 3 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

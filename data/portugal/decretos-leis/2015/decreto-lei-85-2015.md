@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09800/0266202666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2015/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2015-67250270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f23a1532945757d2e260e9366e0c67a8509dd2fe4dea45d57cb0a90f1761fec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86f08ed1cd4f7846ba18aaa4802bbf06acbd5ece38cdf4902e63304f22a718c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Açores
+- Artesanato
 - Artesão
-- Multa
+- Comércio
+- Contra-ordenação
 - Desenvolvimento Rural
 - Estabelecimento Comercial
-- Contra-ordenação
-- Artesanato
+- Exploração Agrícola
 - Exploração Pecuária
 - Fiscalização
 - Instalação de Serviços
-- Exploração Agrícola
-- Produtor
 - Madeira.região Autónoma
-- Produção Agrícola
-- Regime Jurídico
-- Regulamento CE
+- Mercado Local de Produtores
+- Multa
 - Pecuária
-- Açores
-- Comércio
+- Produção Agrícola
+- Produção Animal
 - Produto Agrícola
 - Produto Animal
-- Mercado Local de Produtores
+- Produtor
+- Regime Jurídico
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:1148792656:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:118748847:por
+  label: Alterado, com efeitos a 01.01.2019, e nos termos do disposto nos nºs. 1, 2 e 3 do art. 21.º do presente diploma,
+    o art. 2.º do Dec Lei 81/2013, de 14-jun , na redação do presente diploma, pelo(a) Decreto-Lei n.º 20/2019 - Diário da
+    República n.º 21/2019, Série I de 2019-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2019-118748847
+  date: '2019-01-30'
 - type: cites
   target: celex:32000R0104
   label: null
@@ -128,16 +135,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2013/06/14/p/dre
+- type: cites
+  target: pt:dre:179788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:22Z'
   warnings: []
   errors: []
 ---
@@ -430,12 +457,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de março de 2015. - Pedro Passos Coelho - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 13 de maio de 2015.**
+Promulgado em 13 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de maio de 2015.**
+Referendado em 14 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

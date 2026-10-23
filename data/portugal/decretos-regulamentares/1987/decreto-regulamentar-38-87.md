@@ -46,40 +46,165 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1987-419781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d8ca852340419dae31e6f49ab584a67b58a586f674cc6dc1ca8ea961e98a504
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d10f90b2f49fc562f37f4044d06cd538095db410a87092b7473e88bb59a33fe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura da Beira Litoral
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355372:por
+  label: "Aditado um lugar ao quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral, constante do presente\
+    \ diploma, pela PORT.646/88.23.09.1988.MF, DR.IS [221] de 23.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1988-355372
+  date: '1988-09-23'
+- type: amended_by
+  target: pt:dre:355519:por
+  label: "Aditado um lugar ao quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral, constante do presente\
+    \ diploma, pela PORT.649/88.27.09.1988.MF, DR.IS [224] de 27.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/649-1988-355519
+  date: '1988-09-27'
+- type: amended_by
+  target: pt:dre:610038:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.378/89.29.05.1989.MF, DR.IS [122] de 29.05.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1989-610038
+  date: '1989-05-29'
+- type: amended_by
+  target: pt:dre:574931:por
+  label: "Alterados os arts. 3º e 14º, revogados a al. c) do nº 1 e o nº 4 do art. 11º e substituído o quadro de pessoal anexo\
+    \ ao presente diploma, ao qual é aditado o art. 13º-A pelo DEC LEI.184/90.06.06.1990.MAPA, DR.IS [130] de 06.06.1990,\
+    \ que determinou a transferência para a Direcção Regional de Agricultura da Beira Litoral, cuja orgânica consta deste\
+    \ diploma, do Centro de Estudos Vitivinícolas do Dão, integrado no Instituto Nacional de Investigação Agrária, cuja orgânica\
+    \ consta do Dec Lei 5-A/88 de 14-Jan DR.IS [11]2º Supl, assim como a transferência da Zona Agrária de Leiria integrada\
+    \ na Direcção Regional de Agricultura do Ribatejo e Oeste, cuja orgânica consta do DR 55/86 de 08-Out DR.IS [232]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1990-574931
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:565584:por
+  label: "Alterado o quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral constante do mapa anexo I, pelo\
+    \ DN.125/90.1990.10.01.MF DR.IS [242] de 19/Out/1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/125-1990-565584
+  date: '1990-10-01'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado o art. 16º e o quadro de pessoal da Direcção Regional de Agricultura da Beira Litoral pelo DR.43/90.1990.12.19.MAPA,\
+    \ DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:644366:por
+  label: "Alterado o quadro de pessoal pelo DN.110/91.24.05.1991.MF, DR.IS-B [119] de 24.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/110-1991-644366
+  date: '1991-05-24'
+- type: amended_by
+  target: pt:dre:590966:por
+  label: "Alterado, no que se refere às carreiras de informática, o quadro de pessoal da Direcção Regional de Agricultura\
+    \ da Beira Litoral pela PORT.1222/91.30.12.1991.MF, DR.IS-B [300] de 30.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1222-1991-590966
+  date: '1991-12-30'
+- type: amended_by
+  target: pt:dre:226436:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pelo DN.193/92.16.10.1992.MF, DR.IS-B\
+    \ [239] de 16.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/193-1992-226436
+  date: '1992-10-16'
+- type: amended_by
+  target: pt:dre:274414:por
+  label: "Alterado o quadro de pessoal pela PORT.494/93.10.05.1993.MF, DR.IS-B [108] de 10.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/494-1993-274414
+  date: '1993-05-10'
+- type: amended_by
+  target: pt:dre:375975:por
+  label: "Alterado o quadro de pessoal pela PORT.648/93.07.07.1993.MF, DR.IS-B [157] de 07.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/648-1993-375975
+  date: '1993-07-07'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas do Centro suceda nas atribuições da Direcção Regional\
+    \ de Agricultura da Beira Litoral, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:647304:por
+  label: Rectificado pela DECL.DD4337.29.09.1987.PCM, DR.IS [225]2ºSupl de 30.09.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-647304
+  date: '1987-09-29'
 article_structure:
   article_count: 22
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:54Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +281,7 @@ e) Divisão de Protecção à Produção Vegetal (DPPV);
 
 4) Serviços operativos de âmbito local:
 
-##### Divisão da Zona Agrária.
+Divisão da Zona Agrária.
 
 ###### Artigo 4.º — Órgãos
 
@@ -214,11 +339,15 @@ c) Património e Aprovisionamento.
 
 8 - Adstrita à RFP, na dependência do respectivo chefe, funciona a tesouraria, sob a responsabilidade de um tesoureiro, com as competências referidas na alínea e) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
 
-###### Artigo 7.º — Divisão de Informação de Contabilidades Agrícolas
+###### Artigo 7.º
+
+##### Divisão de Informação de Contabilidades Agrícolas
 
 A DICA tem as competências referidas no n.º 2 do artigo 8.º do [Decreto-Lei n.º 90/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1985-325108), de 1 de Abril.
 
-###### Artigo 8.º — Divisão de Informação de Mercados Agrícolas
+###### Artigo 8.º
+
+##### Divisão de Informação de Mercados Agrícolas
 
 A DIMA tem as competências referidas no n.º 2 do artigo 11.º do [Decreto-Lei n.º 91/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1985-325109), de 1 de Abril.
 
@@ -364,7 +493,9 @@ b) Colaborar no estudo e formulação de medidas de política, no âmbito dos pr
 
 c) Coordenar o reconhecimento e inventariação das estruturas comerciais, agro-industriais e de armazenamento da região agrária.
 
-###### Artigo 14.º — Divisão de Protecção à Produção Vegetal
+###### Artigo 14.º
+
+##### Divisão de Protecção à Produção Vegetal
 
 A DPPV tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no n.º 4 do artigo 9.º à DV (Estação Vitivinícola da Beira Litoral).
 
@@ -448,16 +579,16 @@ Ficam revogadas as disposições do [Decreto Regulamentar n.º 6-A/79](https://d
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 28 de Maio de 1987.**
+Promulgado em 28 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Maio de 1987.**
+Referendado em 30 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo I a que se refere o n.º 1 do artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/06/14500/24592468.pdf))](https://files.diariodarepublica.pt/1s/1987/06/14500/24592468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/14500/24592468.pdf)

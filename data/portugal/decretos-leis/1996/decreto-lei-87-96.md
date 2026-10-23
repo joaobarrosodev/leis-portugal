@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/152a00/17081709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/1996/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1996-424341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eee21e263a809eefe532b8d13114596908570ac577dee0a4c02d2ff567d5ffe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08b6e528cb86081a762a1ce936677ab19105fdfdc5cc72c9fe4c5ed327ef25ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,39 @@ relationships:
   target: pt:dre:629137:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476543:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629137:por
+  label: "Revogado a partir de 24.10.2007 pelo DEC LEI.350/2007.19.10.2007.MADRP, DR.IS [202] de 19.10.2007, que o mantém\
+    \ contudo em vigor, enquanto não forem publicadas, por portaria, as normas referidas no art. 13º daquele diploma para\
+    \ as matérias neste contidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/350-2007-629137
+  date: '2007-10-19'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:24Z'
   warnings: []
   errors: []
 ---
@@ -113,12 +136,12 @@ São revogados o [Decreto-Lei n.º 49271](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 23 de Maio de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 19 de Junho de 1996.**
+Promulgado em 19 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 1996.**
+Referendado em 20 de Junho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2003/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9206d9075e17fe388dc2802317100ad919d6ad6563fd0e421970a6ca367e6a9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf94d5e30a31fd53afa76c1b7b52b81bb5ce29ea2399b6f347715a33b9f0976b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,240 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
-- Registo Automóvel
-- Registo de Navios
+- Direcção Geral das Contribuições e Impostos
 - Emolumento
 - Emolumento do Notariado
-- Pagamento
 - Isenção de Taxas e Emolumentos
+- Pagamento
 - Reconhecimento Notarial
+- Registo Automóvel
 - Registo Civil
+- Registo Comercial
+- Registo de Navios
 - Registo Nacional de Pessoas Coletivas
 - Registo Predial
 - Regulamento Emolumentar dos Registos e Notariado
-- Direcção Geral das Contribuições e Impostos
-- Registo Comercial
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:175659839:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538423:por
+  label: Alterado o art. 28.º do Regulamento Emulumentar dos Registos e Notariado, na redacção do presente diploma, pelo DEC
+    LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004, a partir da data da sua entrada em vigor.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:480709:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e Notariado anexo ao Dec Lei 322-A/2001 de 14-Dez, na\
+    \ redacção do presente diploma, pelo DEC LEI.199/2004.18.08.2004.MF, DR.IS-A [194] de 18.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2004-480709
+  date: '2004-08-18'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o art. 8º do diploma preambular bem como os arts. 15º, 27º e 28º do Regulamento Emolumentar dos Registos\
+    \ e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-Dez, na redacção do presente, pelo DEC LEI.111/2005.08.07.2005.MJ,\
+    \ DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:404371:por
+  label: "Alterados os arts 25º e 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001\
+    \ de 14-Dez, alterado e republicado pelo presente diploma, pelo DEC LEI.178-A/2005.28.10.2005.MJ, DR.IS-A [208-Supl] de\
+    \ 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-2005-404371
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterados os arts. 15º, 18º, 21º, 22º, 27º e 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado\
+    \ pelo Dec Lei 322-A/2001 de 14-Dez, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A\
+    \ [63-Supl] de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:633290:por
+  label: "Alterados os arts. 25º e 28º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei 322-A/2001\
+    \ de 14-Dez, com a redacção constante do presente diploma, pelo DEC LEI.85/2006.23.05.2006.MJ, DR.IS-A [99] de 23.05.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2006-633290
+  date: '2006-05-23'
+- type: amended_by
+  target: pt:dre:356373:por
+  label: "Alterados os artigos 27.º e 28.º do Decreto-Lei 322-A/2001, de 14 de Dezembro, na redacção do presente diploma,\
+    \ pelo DEC LEI.125/2006.29.06.2006.MJ, DR.IS-A [124] de 29.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2006-356373
+  date: '2006-06-29'
+- type: amended_by
+  target: pt:dre:216911:por
+  label: "Alterado o art. 8º do diploma preambular bem como os art.s 10º e 18º do Regulamento Emolumentar dos Registos e Notariado,\
+    \ aprovado Dec Lei 322-A/2001, de 14-Dez, na redacção do presente diploma, pelo DEC LEI.237-A/2006.14.12.2006.MJ, DR.IS\
+    \ [239-Supl] de 14.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-a-2006-216911
+  date: '2006-12-14'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterados os arts. 9º, 15º, 16.º-B, 20º, 22º e 27º e revogados os nºs 4.1.1, 4.1.2, 4.3 e 5 do art. 20º e os nºs\
+    \ 2.2 e 2.3 do art. 22º todos do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei 322-A/2001\
+    \ de 14-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:499204:por
+  label: "Alterado o art. 21º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec Lei 322-A/2001 de 14-Dez,\
+    \ com a redacção constante do presente diploma, pelo DEC LEI.263-A/2007.23.07.2007.MJ, DR.IS [140-Supl] de 23.07.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-a-2007-499204
+  date: '2007-07-23'
+- type: amended_by
+  target: pt:dre:640908:por
+  label: "Alterados os arts. 22º, 23º, 27º e 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec\
+    \ Lei 322-A/2001 de 14-Dez, na redacção do presente diploma, pela LEI.40/2007.24.08.2007.AR, DR.IS [163] de 24.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2007-640908
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o artigo 8º do diploma preambular bem como os art.s 9º, 10º, 18º e 28º do Regulamento Emolumentar dos Registos\
+    \ e do Notariado, aprovado pelo Decreto-Lei 322-A/2001, de 14-Dez, alterado e republicado pelo presente diploma, pelo\
+    \ DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:248220:por
+  label: "Alterados os arts. 15º,16-B (este último aditado pelo presente diploma) e art. 25º do Regulamento Emolumentar dos\
+    \ Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-Dez, pelo DEC LEI.20/2008.31.01.2008.MJ, DR.IS [22]\
+    \ de 31.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2008-248220
+  date: '2008-01-31'
+- type: amended_by
+  target: pt:dre:249803:por
+  label: "Alterados os art.s 22º e 27º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001,\
+    \ de 14-Dez, na redacção do presente diploma, pelo DEC LEI.73/2008.16.04.2008.MJ, DR.IS [75] de 16.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2008-249803
+  date: '2008-04-16'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 9º, 14º, 21º, 22º e 28º e revogados os nºs 7 a 10 do art. 21º e o nº 15 do art. 22º do Regulamento\
+    \ Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001, de 14-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterados o art. 8º do diploma preambular bem como os art.s 15º, 16º-A, 18º, 22º, 23º, 27º e 28º do Regulamento\
+    \ Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322 -A/2001, de 14-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterado o art. 8º, com produção de efeitos desde 31.03.2009, do Dec Lei 322-A/2001, de 14-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterados os art.s 14º, 16º, 16º-B e 22º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec\
+    \ Lei 322-A/2001, de 14-Dez, na redacção do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:344272:por
+  label: "Alterados, a partir de 01.10.2010, o art. 7º do diploma preambular, assim como os arts. 10º, 18º, 21º, 22º, 23º,\
+    \ 24º, 25º, 27º e 28º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-Dez,\
+    \ com a redacção do presente diploma, pelo DEC LEI.99/2010.02.09.2010.MJ, DR.IS [171] de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2010-344272
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterado o art. 8º do diploma prembular bem como os art.s 14º, 15º, 16º-B, 18º, 21º, 22º, 23º, 25º, 27º e 28º do\
+    \ Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez, na redação do presente\
+    \ diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:190576:por
+  label: Alterado o art. 28º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez,
+    com a redação e republicação do presente diploma, pela LEI.63/2012.10.12.2012.AR, DR.IS [238] de 10.12.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2012-190576
+  date: '2012-12-10'
+- type: amended_by
+  target: pt:dre:64797339:por
+  label: Alterado o art. 25.º e aditado o art 40.º-A ao Regulamento do Registo de Automóveis, aprovado pelo Dec 55/75, de
+    12-fev, na redação do presente diploma, pelo(a) Decreto-Lei n.º 177/2014 - Diário da República n.º 241/2014, Série I de
+    2014-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2014-64797339
+  date: '2014-12-15'
+- type: amended_by
+  target: pt:dre:66414231:por
+  label: Alterados a partir de 03.06.2015 o art. 8º do Dec Lei 322-A/2001, de 14-dez e o art. 23.º do Regulamento Emolumentar
+    dos Registos e do Notariado aprovado em anexo ao mesmo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 19/2015
+    - Diário da República n.º 23/2015, Série I de 2015-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2015-66414231
+  date: '2015-02-03'
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Alterados, a partir de 01.11.2015, os arts. 10.º, 12.º, 14.º, 15.º, 16.º, 16.º-A, 16.º-B, 18.º, 19.º, 21.º, 22.º,
+    24.º, 27.º e 27.º e 27.º-A; aditado, a partir de 18.09.2015 (nos termos do disposto no n.º 2 do art. 32.º do Dec Lei 201/2015
+    de 17-set) o art. 18.º-A; e revogados, também a partir de 01.11.2015, o n.º 4 do art. 9.º, os n.ºs 7.5, 12, 13.4 e 13.5
+    do art. 18.º, o n.º 1 do art. 19.º, os n.ºs 15 e 20 do art. 21.º, os n.ºs 23, 24 e 26 do art. 22.º, os n.ºs 9 e 10 do
+    art. 23.º, os n.ºs 5.7, 5.8, 10, 12, 12.1 e 14.1 do art. 25.º, os n.ºs 3.8, 3.8.1 e 8.3 do art. 27.º e o n.º 11 do art.
+    27.º-A, todos do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez, alterado
+    e republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:107458728:por
+  label: Alterado, a partir de 01.07.2017, o art. 27.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo
+    Dec Lei 322-A/2001 de 14-dez, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 54/2017 - Diário da
+    República n.º 107/2017, Série I de 2017-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2017-107458728
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:114358690:por
+  label: Alterado o art. 28.º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez,
+    na versão republicada pelo presente diploma pelo(a) Lei n.º 110/2017 - Diário da República n.º 240/2017, Série I de 2017-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2017-114358690
+  date: '2017-12-15'
+- type: amended_by
+  target: pt:dre:118950630:por
+  label: Alterados a partir de 01.07.2019, os arts. 15.º, 16.º-A e 22.º do Regulamento Emolumentar dos Registos e do Notariado
+    aprovado pelo Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 24/2019 - Diário
+    da República n.º 23/2019, Série I de 2019-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2019-118950630
+  date: '2019-02-01'
+- type: amended_by
+  target: pt:dre:122349220:por
+  label: Alterado, a partir de 20.06.2019, o art. 14.º (na redação dos Decs Lei 116/2008 de 04-jul, 185/2009 de 12-ago, 99/2010
+    de 02-set, 209/2012 de 19-set e 201/2015 de 17-set) do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo
+    Dec Lei 322-A/2001 de 14-dez, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 66/2019 - Diário da
+    República n.º 97/2019, Série I de 2019-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2019-122349220
+  date: '2019-05-21'
+- type: amended_by
+  target: pt:dre:123962149:por
+  label: Alterado o art. 16.º-B do Dec Lei 322-A/2001, de 14-dez, aditado pelo presente diploma pelo(a) Decreto-Lei n.º 111/2019
+    - Diário da República n.º 156/2019, Série I de 2019-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2019-123962149
+  date: '2019-08-16'
+- type: amended_by
+  target: pt:dre:125560576:por
+  label: Aditado, a partir de 01.01.2020, o art. 27.º-C ao Regulamento Emolumentar dos Registos e do Notariado aprovado em
+    anexo ao Dec Lei 322-A/2001 de 14-dez, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 157/2019 -
+    Diário da República n.º 203/2019, Série I de 2019-10-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2019-125560576
+  date: '2019-10-22'
+- type: amended_by
+  target: pt:dre:175659839:por
+  label: Alterado, a partir de 10.12.2021, o art. 22.º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec
+    Lei 322-A/2001 de 14-dez, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 109-D/2021 - Diário da
+    República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-d-2021-175659839
+  date: '2021-12-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/171/1991/05/10/p/dre
   label: null
@@ -120,16 +335,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/996/1998/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/996/1998/11/25/p/dre
+- type: cites
+  target: pt:dre:216752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652885:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:647729:por
+  label: "Rectificado pela DECL-RECT.11-I/2003.30.09.2003.PCM, DR.IS-A [226]Supl de 30.09.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-i-2003-647729
+  date: '2003-08-23'
+- type: repealed_by
+  target: pt:dre:456492:por
+  label: "Revogado o art. 152º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
 article_structure:
-  article_count: 70
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 47
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:41Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +488,9 @@ d) Nas operações de emparcelamento.
 
 4 - Para efeitos do disposto no artigo 4.º do Regulamento Emolumentar, aprovado pelo presente diploma, considera-se que as isenções e reduções previstas no número anterior têm carácter estrutural.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para efeitos do disposto no n.º 1 do artigo 9.º do Regulamento Emolumentar dos Registos e Notariado, são mantidas em vigor as normas sobre emolumentos pessoais, bem como as regras relativas à sua distribuição, constantes das anteriores tabelas emolumentares, aplicáveis com as necessárias adaptações.»
 
@@ -228,11 +504,15 @@ Isenções e reduções emolumentares
 
 As isenções ou reduções emolumentares que venham a ser criadas após a entrada em vigor do Regulamento Emolumentar deverão ser inseridas no seu artigo 28.º
 
-###### Artigo 8.º — Actos gratuitos
+Artigo 8.º
+
+Actos gratuitos
 
 São gratuitas as certidões, fotocópias, informações e outros documentos de carácter probatório, bem como o acesso e consultas a base de dados, desde que solicitadas pela Direcção-Geral de Contribuições e Impostos, por autoridades judiciais e entidades que prossigam fins de investigação criminal.
 
-###### Artigo 9.º — Aplicação da lei no tempo
+Artigo 9.º
+
+Aplicação da lei no tempo
 
 1 - O Regulamento Emolumentar aplica-se a todos os actos requeridos após a sua entrada em vigor.
 
@@ -248,19 +528,25 @@ Os artigos 4.º, 5.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 17.º, 18
 
 As normas que prevêem isenções ou reduções emolumentares vigoram por um período de quatro anos, se não tiverem previsto outro mais curto, salvo quando, tendo em consideração a sua natureza, lhes seja atribuído um carácter estrutural.
 
-###### Artigo 5.º — Interpretação e integração de lacunas
+Artigo 5.º
+
+Interpretação e integração de lacunas
 
 1 - As disposições tabelares não admitem interpretação extensiva nem integração analógica.
 
 2 - ...
 
-###### Artigo 9.º — Emolumentos pessoais e outros encargos
+Artigo 9.º
+
+Emolumentos pessoais e outros encargos
 
 1 - ...
 
 2 - Aos encargos previstos no número anterior acresce o reembolso das despesas comprovadamente efectuadas pelos funcionários, imprescindíveis à prática dos actos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -320,7 +606,9 @@ ab) Conferência de fotocópias, nos termos do [Decreto-Lei n.º 30/2000](https:
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -356,7 +644,9 @@ i) As diversas notificações para efeitos do artigo 99.º do Código do Notaria
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - São gratuitos os seguintes actos:
 
@@ -368,7 +658,9 @@ c) Conferência de fotocópias, nos termos do [Decreto-Lei n.º 30/2000](https:/
 
 2 - São igualmente gratuitas as certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - São gratuitos os seguintes actos de registo:
 
@@ -390,7 +682,9 @@ b) Conferência de fotocópias, nos termos do [Decreto-Lei n.º 30/2000](https:/
 
 c) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - São gratuitos os seguintes actos:
 
@@ -408,7 +702,9 @@ b) Conferência de fotocópias, nos termos do [Decreto-Lei n.º 30/2000](https:/
 
 c) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 São gratuitos os seguintes actos:
 
@@ -420,7 +716,9 @@ c) Conferência de fotocópias, nos termos do [Decreto-Lei n.º 30/2000](https:/
 
 d) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 São gratuitos os seguintes actos:
 
@@ -432,7 +730,9 @@ c) (Eliminada.)
 
 d) Rectificação de actos de registo ou documentos resultante de erro ou inexactidão proveniente de deficiência dos títulos emitidos pelos serviços dos registos e do notariado.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 ... Em euros
 
@@ -560,7 +860,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 12.7 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 ... Em euros
 
@@ -674,7 +976,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 7.2 - Tratando-se, porém, de escrituras de partilha, doação, proposta de doação ou de aceitação de doação, ao emolumento previsto no número anterior acresce o emolumento previsto no n.º 1.2 reduzido a metade.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 ... Em euros
 
@@ -762,7 +1066,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 9.8 - O emolumento devido pelas certidões e fotocópias quando cobrado no acto do pedido é restituído no caso da recusa da sua emissão.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ... Em euros
 
@@ -832,7 +1138,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 ... Em euros
 
@@ -910,7 +1218,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 8.4.2 - (Anterior n.º 7.4.2.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 ... Em euros
 
@@ -972,7 +1282,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 7.7 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 ... Em euros
 
@@ -1040,7 +1352,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 6 - Pela instrução e decisão de processo especial de rectificação ... 125
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 ... Em euros
 
@@ -1054,7 +1368,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 3 - Pela realização de serviço externo, para além das despesas de transporte ... 25
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 ... Em euros
 
@@ -1094,7 +1410,9 @@ d) Rectificação de actos de registo ou documentos resultante de erro ou inexac
 
 4 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os emolumentos devidos por actos notariais e de registo decorrentes da compra e venda, doação e partilha mortis causa de imóveis rústicos são reduzidos em função do valor do acto, nos seguintes termos:
 
@@ -1160,7 +1478,9 @@ c) Conferência de fotocópias, nos termos do [Decreto-Lei n.º 30/2000](https:/
 
 d) Certidões, fotocópias e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.
 
-###### Artigo 16.º-B — Actos gratuitos
+Artigo 16.º-B
+
+Actos gratuitos
 
 1 - São gratuitos os seguintes actos de registo:
 
@@ -1202,15 +1522,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - João Luís Mota de Campos.
 
-**Promulgado em 6 de Agosto de 2003.**
+Promulgado em 6 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Agosto de 2003.**
+Referendado em 8 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de Dezembro, que aprovou o Regulamento Emolumentar dos Registos e Notariado
 
@@ -1316,7 +1636,9 @@ As normas que prevêem isenções ou reduções emolumentares vigoram por um per
 
 As tabelas emolumentares devem ser afixadas nos serviços em local visível e acessível à generalidade dos utentes.
 
-### CAPÍTULO II — SECÇÃO I
+### CAPÍTULO II
+
+#### SECÇÃO I
 
 Normas gerais de aplicação
 

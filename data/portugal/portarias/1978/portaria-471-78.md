@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac29d0afd8f404461736d57f9f15f732b97f8a31cf8f3b26dc1a76d4c150a255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5ab069bc72abd16ebe53eaf5d9b3f610069bf42227e9887ee1b646b95d81f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aluno Militar
+- Bilheteira
+- Cartão de Identificação
+- Comboio
+- Forças Armadas
+- Militar
+- Pessoa em Situação de Dependência
+- Subsídio de Deslocação
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:324722:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324722:por
+  label: Als d) e f) dos arts 1.º e 2.º e n.º 2 do art. 4.º da presente portaria, pelo(a) Portaria n.º 737/78 - Diário da
+    República n.º 286/1978, Série I de 1978-12-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/737-1978-324722
+  date: '1978-12-14'
+- type: cites
+  target: pt:dre:219555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:02Z'
   warnings: []
   errors: []
 ---

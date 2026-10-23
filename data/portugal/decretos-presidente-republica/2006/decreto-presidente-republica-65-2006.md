@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/65/2006/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/65-2006-537264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5969fcba530a4bb864e557397394aa5552f600a67854a76977e42f25b5a38a82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7772c42a319656a2d39cc7cac996cc4c90cbdf2fb21ad32a7ba585440250c210
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unesco
 - Convenção
-- Portugal
-- Património Cultural
 - Paris
+- Património Cultural
 - Património Subaquático
+- Portugal
 - Protecção do Património
+- Unesco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/51/2006/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/51/2006/07/18/p/dre
+- type: cites
+  target: pt:dre:537266:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:42Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ validation:
 
 de 18 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -106,12 +110,12 @@ de 18 de Julho
 
 No momento do depósito do instrumento de ratificação, Portugal declarará que, ao abrigo do n.º 2 do artigo 9.º da Convenção sobre a Protecção do Património Cultural Subaquático, a forma pela qual serão transmitidas as informações previstas na alínea b) do n.º 1 do mesmo artigo é estipulada na subalínea ii).
 
-**Assinado em 6 de Julho de 2006.**
+Assinado em 6 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 10 de Julho de 2006.**
+Referendado em 10 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

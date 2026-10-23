@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20300/0002200040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2019/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2019-125560577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90fb2e88041ccbda43069804ab283a5633db9eb540dd40135db27741c006357a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7f5993b7a5114bc2bd302b15c2d23405eb52e4c56af97e82f111f1398774b4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Multa
-- Contra-ordenação
-- Definição de Competências
-- Documento de Transporte
 - Administração de Portos
-- Fiscalização
-- Formulário Eletrónico
-- Impresso
-- Logística
-- Gestão de Material
-- Documento Eletrónico
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Notificação
-- Página na Internet
-- Janela Única Logística
-- Internet
-- Processo Administrativo
-- Exploração Portuária
-- Dados Pessoais
-- Taxa
-- Transporte Internacional
-- Plataforma Eletrónica
+- Aproximação das Legislações
 - Autoridade Competente
 - Comissão Nacional para a Simplificação e Digitalização do Transporte e Logística
+- Contra-ordenação
+- Dados Pessoais
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Documento de Transporte
+- Documento Eletrónico
+- Embarcação
+- Exploração Portuária
+- Fiscalização
+- Formulário Eletrónico
+- Gestão de Material
+- Impresso
+- Internet
+- Janela Única Logística
+- Logística
+- Multa
+- Notificação
+- Página na Internet
+- Plataforma Eletrónica
+- Processo Administrativo
+- Taxa
+- Transporte Internacional
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:31998L0041
@@ -173,6 +173,34 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2
   label: null
   source: http://data.europa.eu/eli/dir/2
+- type: cites
+  target: pt:dre:114248655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122124254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32010L0065
   label: null
@@ -182,15 +210,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 39
+  article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:33Z'
   warnings: []
   errors: []
 ---
@@ -721,15 +749,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2019. - António Luís Santos da Costa - José Luís Pereira Carneiro - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões - Pedro Nuno de Oliveira Santos - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 10 de outubro de 2019.**
+Promulgado em 10 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de outubro de 2019.**
+Referendado em 15 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -741,23 +769,23 @@ Esta categoria de formalidades de declaração inclui as informações que devem
 
 1) Notificação para os navios à chegada e ou à partida de portos dos Estados-Membros:
 
-###### Artigo 4.º da [Diretiva 2002/59/CE](https://data.europa.eu/eli/dir/2002/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de junho, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 180/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2004-507225), de 27 de julho, na sua redação atual.
+Artigo 4.º da [Diretiva 2002/59/CE](https://data.europa.eu/eli/dir/2002/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de junho, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 180/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2004-507225), de 27 de julho, na sua redação atual.
 
 2) Controlos fronteiriços de pessoas:
 
-###### Artigo 8.º do [Regulamento (CE) 2016/399](https://data.europa.eu/eli/reg/2016/399/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março, que estabelece o código da União relativo ao regime de passagem de pessoas nas fronteiras (Código das Fronteiras Schengen), na sua redação atual.
+Artigo 8.º do [Regulamento (CE) 2016/399](https://data.europa.eu/eli/reg/2016/399/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de março, que estabelece o código da União relativo ao regime de passagem de pessoas nas fronteiras (Código das Fronteiras Schengen), na sua redação atual.
 
 3) Notificação de mercadorias perigosas ou poluentes transportadas a bordo (incluindo a notificação de bancas):
 
-###### Artigo 13.º da [Diretiva 2002/59/CE](https://data.europa.eu/eli/dir/2002/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de junho, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 180/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2004-507225), de 27 de julho, na sua redação atual.
+Artigo 13.º da [Diretiva 2002/59/CE](https://data.europa.eu/eli/dir/2002/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de junho, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 180/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2004-507225), de 27 de julho, na sua redação atual.
 
 4) Notificação de resíduos:
 
-###### Artigo 6.º da [Diretiva 2000/59/CE](https://data.europa.eu/eli/dir/2000/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de novembro, relativa aos meios portuários de receção de resíduos gerados em navios e de resíduos da carga, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 165/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2003-673632), de 24 de julho, na sua redação atual.
+Artigo 6.º da [Diretiva 2000/59/CE](https://data.europa.eu/eli/dir/2000/59/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de novembro, relativa aos meios portuários de receção de resíduos gerados em navios e de resíduos da carga, transposta para a ordem jurídica interna pelo [Decreto-Lei n.º 165/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2003-673632), de 24 de julho, na sua redação atual.
 
 5) Notificação de informações em matéria de proteção:
 
-###### Artigo 6.º do [Regulamento (CE) n.º 725/2004](https://data.europa.eu/eli/reg/2004/725/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de março, relativo ao reforço da proteção dos navios e das instalações portuárias.
+Artigo 6.º do [Regulamento (CE) n.º 725/2004](https://data.europa.eu/eli/reg/2004/725/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de março, relativo ao reforço da proteção dos navios e das instalações portuárias.
 
 Enquanto não for aprovado um formulário harmonizado a nível internacional, deve ser utilizado o formulário que consta do apêndice ao presente anexo para a transmissão das informações exigidas pelo artigo 6.º do [Regulamento (CE) n.º 725/2004](https://data.europa.eu/eli/reg/2004/725/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de março.
 
@@ -793,7 +821,7 @@ b) Formalidades à partida:
 
 8) Carga e descarga segura de navios graneleiros:
 
-###### Artigo 7.º da [Diretiva 2001/96/CE](https://data.europa.eu/eli/dir/2001/96/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de dezembro, relativa ao estabelecimento de requisitos e procedimentos harmonizados para a descarga e carga segura de navios graneleiros.
+Artigo 7.º da [Diretiva 2001/96/CE](https://data.europa.eu/eli/dir/2001/96/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de dezembro, relativa ao estabelecimento de requisitos e procedimentos harmonizados para a descarga e carga segura de navios graneleiros.
 
 9) Controlo do Estado do Porto («Port State Control»):
 
@@ -801,11 +829,11 @@ Artigos 9.º e 24.º, n.º 2, da [Diretiva 2009/16/CE](https://data.europa.eu/el
 
 10) Estatísticas do transporte marítimo:
 
-###### Artigo 3.º da [Diretiva 2009/42/CE](https://data.europa.eu/eli/dir/2009/42/oj?locale=pt), do Parlamento Europeu e do Conselho, de 6 de maio, relativa ao reporte estatístico do transporte de pessoas e bens por via marítima.
+Artigo 3.º da [Diretiva 2009/42/CE](https://data.europa.eu/eli/dir/2009/42/oj?locale=pt), do Parlamento Europeu e do Conselho, de 6 de maio, relativa ao reporte estatístico do transporte de pessoas e bens por via marítima.
 
 11) Notificação de informações em matéria de emissões:
 
-###### Artigo 25.º do [Regulamento (UE) 2015/757](https://data.europa.eu/eli/reg/2015/757/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de abril de 2015, relativo à monitorização, comunicação e verificação das emissões de dióxido de carbono provenientes do transporte marítimo e que altera a [Diretiva 2009/16/CE](https://data.europa.eu/eli/dir/2009/16/oj?locale=pt).
+Artigo 25.º do [Regulamento (UE) 2015/757](https://data.europa.eu/eli/reg/2015/757/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de abril de 2015, relativo à monitorização, comunicação e verificação das emissões de dióxido de carbono provenientes do transporte marítimo e que altera a [Diretiva 2009/16/CE](https://data.europa.eu/eli/dir/2009/16/oj?locale=pt).
 
 B) Formulários FAL e formalidades resultantes de instrumentos jurídicos internacionais:
 
@@ -829,10 +857,12 @@ Esta categoria de formalidades de declaração inclui as informações que devem
 
 C) Obrigações de declaração decorrentes da legislação e dos requisitos nacionais.
 
-## APÊNDICE
+APÊNDICE
 
 Formulário para a transmissão de informações em matéria de proteção para todos os navios antes da entrada num porto de um Estado-Membro da União Europeia
 
 [Regra 9 do Capítulo XI-2 da Convenção Internacional para a Proteção da Vida Humana no Mar de 1974 (Convenção SOLAS) e n.º 3 do artigo 6.º do [Regulamento (CE) n.º 725/2004](https://data.europa.eu/eli/reg/2004/725/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de março de 2004]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20300/0002200040.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20300/0002200040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20300/0002200040.pdf)
+
+112680083

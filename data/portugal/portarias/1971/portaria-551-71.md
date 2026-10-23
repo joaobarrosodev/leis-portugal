@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/551-1971-632918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 475f4656c61dfd6883bc210ebbb301fb9c8bfa344e05e3758b7fcda6a8e306e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05d217c99a785d486723cbf3ee898473a39b3a9f63b9115729b2037c10eaca9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234567:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:40Z'
   warnings: []
   errors: []
 ---
@@ -88,8 +92,8 @@ de 8 de Outubro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, tornar extensivo às províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor o artigo 1.º do [Decreto n.º 48324](https://diariodarepublica.pt/dr/detalhe/decreto/48324-1968-234567), de 8 de Abril de 1968, com a seguinte redacção:
 
-###### Artigo 1.º As gratificações a que tiver direito o pessoal dirigente dos comissariados provinciais da Mocidade Portuguesa, masculina e feminina, serão fixadas por despacho do Ministro do Ultramar.
+Artigo 1.º As gratificações a que tiver direito o pessoal dirigente dos comissariados provinciais da Mocidade Portuguesa, masculina e feminina, serão fixadas por despacho do Ministro do Ultramar.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor. - J. da Silva Cunha.

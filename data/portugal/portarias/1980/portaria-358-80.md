@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-1980-473561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2647dd095f4912f0bc01759c22cca0e80e53fad4ec7aa7effb416b92da0dc512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6863c3b70df00dca31f6f7cee0b1521cd192a866f9ed92f22112228d01db1412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Consumo
 relationships:
 - type: amended_by
   target: pt:dre:578503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390200:por
+  label: "Prorrogado o prazo estabelecido no n.º 1 do presente diploma, pela PORT.90/81.21.01.1981.MFP, DR.IS [17] de 21.01.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-1981-390200
+  date: '1981-01-21'
+- type: amended_by
+  target: pt:dre:388391:por
+  label: "Prorrogado, até 31 de maio, de 1981, o prazo estabelecido no n.º 1 do artigo 1.º pela PORT.263/81.12.03.1981.MFP,\
+    \ DR.IS [59] de 12.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1981-388391
+  date: '1981-03-12'
+- type: amended_by
+  target: pt:dre:578503:por
+  label: "Prorrogado, até 31.10.1981, o prazo estabelecido pelo n.º 1 do n.º 1º pela PORT.523/81.27.06.1981.MFP, DR.IS [145]\
+    \ de 27.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/523-1981-578503
+  date: '1981-06-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:29Z'
   warnings: []
   errors: []
 ---

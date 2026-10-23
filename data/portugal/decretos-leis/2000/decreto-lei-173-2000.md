@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2000/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2000-339397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319f291667644f916d48b00b87839695347bb754c39ba5e953868638a928e14b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fc86ddeb92ddcbdc09199ec6cb5022e2e27508b63f6eab90808ae48ace0326e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Avaliação do Pessoal
 - Progressão na Carreira
 - Promoção Profissional
-- Avaliação do Pessoal
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:578721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:578721:por
+  label: "Prorrogado por um ano o período transitório previsto no art. 1.º pelo DEC LEI.322/2001.2001.12.14.MAI DR.IS-A [288]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-2001-578721
+  date: '2001-12-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:05Z'
   warnings: []
   errors: []
 ---
@@ -120,12 +130,12 @@ O regime de reserva de vagas previsto no n.º 3 do artigo 7.º do [Decreto-Lei n
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Julho de 2000.**
+Referendado em 29 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

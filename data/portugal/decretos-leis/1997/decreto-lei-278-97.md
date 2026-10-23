@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/233a00/54405443.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/1997/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1997-667169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ad89cfd1a27ef4a0bdfb3316e4409512a06f585267865b0263b137e5b0051fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2765230e74b7c0850d8360b7ad428b5364c267c607fbeaa7c0d5f039eea3f67e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Avaliação de Impacte Ambiental
 - Instituto de Promoção Ambiental
-- Proteção do Ambiente
 - Política do Ambiente
-- Poluição Industrial
-- Regime Jurídico
 - Poluição
+- Poluição Industrial
+- Proteção do Ambiente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:281589:por
@@ -82,16 +82,22 @@ relationships:
   target: celex:31985L0337
   label: null
   source: http://data.europa.eu/eli/dir/1985/337/oj
+- type: repealed_by
+  target: pt:dre:281589:por
+  label: "Revogado o Dec Lei 186/90 de 06-Jun, na redacção dada pelo presente diploma, pelo DEC LEI.69/2000.2000.05.03.MAOT,DR.IS-A\
+    \ [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2000-281589
+  date: '2000-05-03'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:46Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +152,7 @@ b) Solicitar à entidade competente a consulta do público interessado, disponib
 
 9 - Caso haja uma decisão de isenção, e antes de ser concedido o licenciamento ou aprovação do projecto em causa, deve o membro do Governo responsável pela área do ambiente informar a Comissão Europeia das razões da isenção.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -166,25 +172,25 @@ d) Um resumo não técnico das informações referidas nas alíneas anteriores.
 
 5 - Na apreciação do EIA ter-se-ão em conta os efeitos cumulativos ou sinérgicos do empreendimento sobre os componentes ambientais.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - A entidade competente para a aprovação do projecto deve ter em consideração, no respectivo licenciamento ou aprovação, o parecer da AIA, o relatório de consulta pública, bem como, quando for aplicável, as informações recebidas de acordo com o artigo 6.º-A, e, no caso da sua não adopção, incorporar na decisão as razões de facto e de direito que para tal foram determinantes.
 
 2 - Sempre que ocorra o previsto no n.º 3 do artigo anterior, a entidade competente para a aprovação do projecto deverá ter em consideração o EIA fornecido pelo dono da obra, bem como o resultado da consulta do público interessado no projecto em causa, que para o efeito será solicitado à entidade competente para a instrução do processo da AIA.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Os projectos constantes do anexo III serão submetidos a AIA, nos termos e de acordo com os critérios e limiares a definir mediante decreto regulamentar, tendo em atenção, nomeadamente, a dimensão, a natureza e a localização dos projectos.
 
 2 - O decreto regulamentar a que se refere o número anterior deve, relativamente aos projectos constantes nos anexos I e III, definir o processo a seguir e, bem assim, a instituição de mecanismos de acompanhamento e fiscalização.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - As decisões finais tomadas sobre os projectos apreciados nos termos do presente diploma, bem como os respectivos processos, devem ser objecto de divulgação pública.
 
 2 - As decisões relativas aos projectos previstos no artigo 6.º-A são ainda comunicadas aos Estados membros com os quais exista implicação transfronteiriça.
 
-## ANEXO III
+ANEXO III
 
 1 - Agricultura:
 
@@ -388,7 +394,7 @@ São aditados ao Decreto-Lei n.º 186/90, de 6 de Junho, os artigos 3.º-A e 6.�
 
 2 - O proponente deve facultar ao organismo competente para instrução do processo de consulta do público, no prazo de cinco dias após notificação, um número suplementar de exemplares do EIA, correspondente ao número de municípios abrangidos pelo projecto e um número suplementar de exemplares do resumo não técnico correspondente ao número de freguesias abrangidas pelo projecto.
 
-###### Artigo 6.º-A
+Artigo 6.º-A
 
 1 - Os projectos previstos no presente diploma susceptíveis de provocarem efeitos ambientais significativos no território de outro Estado membro, e de acordo com o regime de reciprocidade e equivalência, obrigam à disponibilização das informações previstas no n.º 2 do artigo 3.º, as quais são simultaneamente disponibilizadas a nível nacional.
 
@@ -402,12 +408,12 @@ São aditados ao Decreto-Lei n.º 186/90, de 6 de Junho, os artigos 3.º-A e 6.�
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - José Alberto Rebelo dos Reis Lamego - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Setembro de 1997.**
+Promulgado em 19 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1997.**
+Referendado em 24 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

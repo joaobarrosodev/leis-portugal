@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 126/2006, 1º Suplemento, Série I de 2006-07-03
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4710-(2) a 4710-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/12601/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/62-c/2006/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-c-2006-150956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67087d95bd42304ca1856e03772d61905780a9f6a0f24f03ecead7c9001f81b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c28c0135932d0cb88cee8bafe75f2600d533c446c4d5a7a0807e4e20558d9cd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro de Estado e dos Negócios Estrangeiros
 - Governo XVII
-- Nomeação
 - Ministro da Defesa Nacional
+- Ministro de Estado e dos Negócios Estrangeiros
+- Nomeação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:37Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +89,7 @@ validation:
 
 de 3 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -97,12 +97,12 @@ O Dr. Luís Filipe Marques Amado Ministro de Estado e dos Negócios Estrangeiros
 
 O Prof. Doutor Henrique Nuno Pires Severiano Teixeira Ministro da Defesa Nacional.
 
-**Assinado em 3 de Julho de 2006.**
+Assinado em 3 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 3 de Julho de 2006.**
+Referendado em 3 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

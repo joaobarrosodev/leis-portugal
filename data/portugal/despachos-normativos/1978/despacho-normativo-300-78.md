@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26500/24202422.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/300-1978-325758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1dfdfccb1a3efb16540c0a28aff7d998ba08622c8aa2982f3e5c0f35bc6fd4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e39331f9d6a65218a7e090d91f7f8465a1a22806a40a20fa259a291fea2bb59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:46:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Comércio
+- Margens de Comercialização
+- Pesticida
+- Política de Preços
+- Preço
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:367193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383626:por
+  label: "Incluídas umas substâncias ao quadro de pesticidas constante do anexo pelo DN.47/79.02.03.1979.MCT, DR.IS [51] de\
+    \ 02.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/47-1979-383626
+  date: '1979-03-02'
+- type: cites
+  target: pt:dre:279245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546981:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367193:por
+  label: "Revogado pelo DN.344/79.27.11.1979.MCT, DR.IS [274] de 27.11.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/344-1979-367193
+  date: '1979-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:46:18Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +158,6 @@ Secretaria de Estado do Comércio Interno, 3 de Novembro de 1978. - O Secretári
 
 Quadro a que se refere o n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/26500/24202422.pdf))](https://files.diariodarepublica.pt/1s/1978/11/26500/24202422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/26500/24202422.pdf)
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12500/0285102869.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2018/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cde61e3605aa0fac512d869fa73561fb3d6c80124a2d729f6702b05b60265b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0659786b96d6ffbe747403e54fe1b842fe97cba58daf62c85b4b229428c4c857
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Contribuições da Segurança Social
-- Regulamentação de Atos Legislativos
 - Documento Eletrónico
+- Instituto da Segurança Social
 - Pagamento de Contribuições
 - Proteção na Velhice
-- Protecção na Doença
 - Proteção Social
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Protecção na Doença
+- Regulamentação de Atos Legislativos
 - Segurança Social
 - Sistema Previdencial
 - TAXA Contributiva
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:967317022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado a partir de 29.06.2019 e nos termos do art. 210.º, o art. 16.º do DR 1-A/2011 de 03-jan, na versão alterada
+    e republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2018/01/09/p/dre
   label: null
@@ -124,16 +130,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2001/05/11
   label: null
   source: http://data.dre.pt/eli/lei/7/2001/05/11
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106642829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114484243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
 article_structure:
-  article_count: 135
+  article_count: 110
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:36Z'
   warnings: []
   errors: []
 ---
@@ -178,13 +232,17 @@ Os artigos 2.º, 8.º, 12.º, 16.º, 26.º, 43.º, 54.º-A, 56.º, 57.º, 58.º,
 
 4 - É aplicável às notificações eletrónicas da segurança social, com as necessárias adaptações, o disposto nos n.os 2, 3, 4 e 6 do artigo 5.º do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
 2 - Nos casos de entidades empregadoras de trabalhadores do serviço doméstico, as comunicações referidas no número anterior podem ser efetuadas através de formulário próprio, em suporte de papel, a remeter à instituição de segurança social que abrange o local de trabalho.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -196,7 +254,9 @@ c) O Instituto da Segurança Social dos Açores, I. P.-RA, se o local de trabalh
 
 2 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -214,7 +274,9 @@ a) Um dia de trabalho por cada conjunto de cinco horas;
 
 b) Meio dia de trabalho nos casos em que o número de horas de trabalho, excedente de múltiplos de cinco, for igual a dois e meio ou inferior e, nos restantes casos, mais um dia, com o limite máximo de 30 dias em cada mês.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -224,7 +286,9 @@ b) Meio dia de trabalho nos casos em que o número de horas de trabalho, exceden
 
 4 - A declaração de remunerações relativa a períodos anteriores à data do início de atividade comunicada na admissão do trabalhador, quando não se encontre prescrita a obrigação contributiva correspondente, é requerida ao serviço de segurança social competente mediante apresentação de prova da prévia existência da relação de trabalho.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -232,7 +296,9 @@ b) Meio dia de trabalho nos casos em que o número de horas de trabalho, exceden
 
 3 - Nos casos em que o acordo de pré-reforma seja apresentado em data posterior à referida no n.º 1, a alteração do enquadramento produz efeitos a partir do mês seguinte ao da sua apresentação.
 
-###### Artigo 54.º-A — [...]
+Artigo 54.º-A
+
+[...]
 
 1 - A declaração dos elementos complementares necessários ao enquadramento, bem como à fixação da base de incidência contributiva dos trabalhadores independentes que não possam ser obtidos através da troca de informação com a administração tributária, é efetuada:
 
@@ -242,7 +308,9 @@ b) Anualmente, no prazo legal para a entrega da declaração fiscal, através do
 
 2 - [...].
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O início de atividade dos cônjuges dos trabalhadores independentes e dos unidos de facto identificados na alínea c) do n.º 1, no n.º 2 do artigo 133.º e na alínea a) do n.º 1 do artigo 134.º do Código é por estes obrigatoriamente comunicado no mês de início de atividade.
 
@@ -250,7 +318,9 @@ b) Anualmente, no prazo legal para a entrega da declaração fiscal, através do
 
 3 - A prova da união de facto é efetuada nos termos da [Lei n.º 7/2001](https://diariodarepublica.pt/dr/detalhe/lei/7-2001-314194), de 11 de maio.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...].
 
@@ -268,7 +338,9 @@ e) Dissolução da união de facto.
 
 3 - [...].
 
-###### Artigo 58.º — Declaração anual da atividade
+Artigo 58.º
+
+Declaração anual da atividade
 
 1 - (Anterior corpo do artigo.)
 
@@ -276,7 +348,9 @@ e) Dissolução da união de facto.
 
 3 - A declaração é feita por preenchimento do anexo SS ao modelo 3 da declaração de imposto sobre o rendimento das pessoas singulares, efetuada no prazo legal para a entrega da declaração fiscal, o qual é remetido aos serviços da segurança social pela entidade tributária competente.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Quando o rendimento relevante de trabalho independente ultrapasse o limite previsto na alínea a) do n.º 1 do artigo 157.º do Código, o trabalhador deve declarar a totalidade dos rendimentos obtidos na declaração trimestral imediatamente posterior à data em que deixaram de se verificar as condições para a isenção.
 
@@ -292,7 +366,9 @@ b) Nos casos de enquadramento noutro sistema de proteção social, mediante comp
 
 5 - Não releva para efeitos de base de incidência contributiva o valor de rendimento relevante que determine uma contribuição de valor inferior ao que for fixado em despacho do membro do Governo responsável pela área da segurança social.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...].
 
@@ -302,7 +378,9 @@ b) Nos casos de enquadramento noutro sistema de proteção social, mediante comp
 
 4 - É aplicável às situações previstas no número anterior, com as necessárias adaptações, o disposto no artigo 156.º do Código.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -310,7 +388,9 @@ b) Nos casos de enquadramento noutro sistema de proteção social, mediante comp
 
 3 - O disposto no n.º 1 não é aplicável nos casos previstos na alínea d) do n.º 1 do artigo 157.º do Código.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Para efeitos do apuramento do rendimento relevante nos termos do artigo 162.º do Código, são considerados ou excluídos os rendimentos identificados nos termos dos números seguintes, sem prejuízo do disposto na parte final do n.º 5 do mesmo artigo.
 
@@ -332,7 +412,9 @@ e) Rendimentos provenientes de propriedade intelectual ou industrial.
 
 5 - Quando sejam relevados, os rendimentos previstos no número anterior são considerados como rendimentos da atividade que lhes deu origem.
 
-###### Artigo 62.º-A — Revisão anual da base de incidência
+Artigo 62.º-A
+
+Revisão anual da base de incidência
 
 1 - O valor da diferença decorrente da revisão anual da base de incidência contributiva efetuada nos termos do artigo 164.º-A do Código determina o apuramento de obrigação contributiva no mês de janeiro do ano seguinte àquele a que os rendimentos dizem respeito e é considerado proporcionalmente na carreira contributiva do trabalhador relativamente à totalidade do ano a que respeitam.
 
@@ -342,13 +424,17 @@ e) Rendimentos provenientes de propriedade intelectual ou industrial.
 
 4 - O exercício de resposta à audiência de interessados prevista no número anterior é efetuado preferencialmente através do sítio da Internet da segurança social.
 
-###### Artigo 63.º — Comunicação da obrigação contributiva
+Artigo 63.º
+
+Comunicação da obrigação contributiva
 
 1 - Para efeitos do cumprimento da obrigação contributiva, são mensalmente disponibilizados no sítio da Internet da segurança social os elementos necessários ao pagamento das contribuições devidas.
 
 2 - (Revogado.)
 
-###### Artigo 64.º — Elementos da obrigação contributiva dos cônjuges
+Artigo 64.º
+
+Elementos da obrigação contributiva dos cônjuges
 
 1 - A opção prevista no n.º 2 do artigo 166.º do Código é exercida trimestralmente, nos momentos declarativos previstos no n.º 3 do artigo 151.º-A do Código, e anualmente nas situações de enquadramento no regime de contabilidade organizada.
 
@@ -362,7 +448,9 @@ e) Rendimentos provenientes de propriedade intelectual ou industrial.
 
 6 - A taxa contributiva aplicável aos cônjuges dos trabalhadores independentes corresponde à do trabalhador independente.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...].
 
@@ -374,7 +462,9 @@ e) Rendimentos provenientes de propriedade intelectual ou industrial.
 
 5 - O registo de remunerações resultante da revisão anual é efetuado por referência ao ano a que respeitam.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 [...]:
 
@@ -392,7 +482,9 @@ f) [...];
 
 g) [...].
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - [...].
 
@@ -400,7 +492,9 @@ g) [...].
 
 3 - São definidos por despacho do membro do Governo responsável pela área da segurança social os limites máximos de pagamento em numerário de valores devidos à Segurança Social.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - Para efeitos do disposto nos artigos 188.º e 189.º do Código, quando, por força da renovação da execução extinta, prevista no artigo 850.º do Código de Processo Civil, as instituições de segurança social passem a assumir a posição de exequente, o Instituto de Gestão Financeira da Segurança Social, I. P., pode autorizar a regularização da dívida através de acordo prestacional, para efeitos do disposto nos artigos 806.º e seguintes do Código de Processo Civil.
 
@@ -424,11 +518,15 @@ Exclusão do regime
 
 2 - O trabalhador independente é responsável pela comunicação das situações determinantes da cessação de exclusão até ao final do mês em que as mesmas ocorrerem, sem prejuízo da sua verificação oficiosa pelos serviços da segurança social competentes, designadamente por troca de informação com as entidades que disponibilizam os rendimentos determinantes da verificação da exclusão.
 
-###### Artigo 57.º-A — Produção de efeitos facultativa
+Artigo 57.º-A
+
+Produção de efeitos facultativa
 
 O requerimento previsto no artigo 146.º do Código é efetuado nos momentos previstos para a declaração trimestral de rendimentos dos trabalhadores independentes.
 
-###### Artigo 57.º-B — Obrigação declarativa
+Artigo 57.º-B
+
+Obrigação declarativa
 
 1 - As declarações previstas nos n.os 1 e 5 do artigo 151.º-A do Código são efetuadas eletronicamente no sítio da Internet da segurança social e consideram-se entregues na data em que são submetidas com sucesso no sistema de informação da segurança social.
 
@@ -442,17 +540,23 @@ O requerimento previsto no artigo 146.º do Código é efetuado nos momentos pre
 
 6 - As instituições de segurança social podem exigir a confirmação dos elementos constantes da declaração que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais das declarações prestadas.
 
-###### Artigo 57.º-C — Opção pelo regime de apuramento trimestral
+Artigo 57.º-C
+
+Opção pelo regime de apuramento trimestral
 
 Exercida a opção nos termos do n.º 3 do artigo 164.º do Código, o trabalhador deve efetuar a primeira declaração trimestral em janeiro, relativa aos rendimentos obtidos no último trimestre do ano civil anterior, para efeitos de determinação do rendimento relevante a considerar no primeiro trimestre.
 
-###### Artigo 57.º-D — Contabilidade organizada
+Artigo 57.º-D
+
+Contabilidade organizada
 
 1 - Nas situações de início ou reinício de atividade, a determinação do rendimento relevante nos termos do n.º 3 do artigo 162.º do Código é aplicável apenas após o conhecimento, pelos serviços competentes da segurança social, da correspondente declaração de imposto sobre o rendimento das pessoas singulares, comunicada pela entidade tributária competente.
 
 2 - Até ao momento do conhecimento previsto no número anterior, o rendimento relevante é apurado nos termos do n.º 1 do artigo 162.º do Código.
 
-###### Artigo 81.º-A — Juros de mora
+Artigo 81.º-A
+
+Juros de mora
 
 Para efeitos do disposto nos artigos 187.º e 211.º do Código, o cálculo de juros de mora tem lugar desde a data em que deveria ter sido cumprida a obrigação contributiva até à data do pagamento da dívida, e interrompe-se ou suspende-se nos mesmos termos.»
 
@@ -488,15 +592,15 @@ São revogados o artigo 62.º-B e o n.º 2 do artigo 63.º, o artigo 65.º, as s
 
 Visto e aprovado em Conselho de Ministros de 24 de maio de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - José António Fonseca Vieira da Silva.
 
-**Promulgado em 15 de junho de 2018.**
+Promulgado em 15 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de junho de 2018.**
+Referendado em 21 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -1371,3 +1475,5 @@ O presente decreto regulamentar produz efeitos a 1 de janeiro de 2011.
 ###### Artigo 92.º — Entrada em vigor
 
 O presente decreto regulamentar entra em vigor no dia seguinte à sua publicação.
+
+111461584

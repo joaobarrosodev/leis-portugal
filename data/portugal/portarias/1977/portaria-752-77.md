@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28700/29292929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/752-1977-279596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:30:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71e6fe8bdd7bd1d8f0416709ea716db1229020de8b4393e2f5d83937990d4f1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6616a1d54d021351bbb2084072a5df8de753a6c7735107efa11897dbbedcee9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:30:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito à Habitação
+- Habitação
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:392621:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279595:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329871:por
+  label: "Revogada pela PORT.522/78.07.09.1978.MFP, DR.IS [206] de 07.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/522-1978-329871
+  date: '1978-09-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:30:15Z'
   warnings: []
   errors: []
 ---
@@ -124,6 +136,6 @@ QUADRO ANEXO
 
 Empréstimos para habitação própria, com juros bonificados pelo Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28700/29292929.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28700/29292929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28700/29292929.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

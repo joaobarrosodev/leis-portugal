@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15800/12961296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1978-297985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac42bcfa0d8d02729691e373e7aecc075f9b76a19758bf67bed9c9d7fd5c49ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8c96f910062cf7d8e3f45be37bbf6b788e5e437dbf35cebdffb3c5345044e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- Pesca
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:420193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:420193:por
+  label: "Revogado pelo DEC LEI.278/87.07.07.1987.MAPA, DR.IS [153] de 07.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1987-420193
+  date: '1987-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:33Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Considerando que se torna necessário regular desde já o exercício da pesca, n
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Governo poderá conceder autorizações de pesca temporárias a países que condicionalmente venham exercendo a pesca na Zona Económica Exclusiva Portuguesa e que tenham entrado em negociações com Portugal com vista à celebração de acordos bilaterais de pesca.
+Artigo 1.º - 1 - O Governo poderá conceder autorizações de pesca temporárias a países que condicionalmente venham exercendo a pesca na Zona Económica Exclusiva Portuguesa e que tenham entrado em negociações com Portugal com vista à celebração de acordos bilaterais de pesca.
 
 2 - O Governo poderá em qualquer momento cancelar a autorização referida no número anterior, por meio de aviso directo à embaixada do país em causa, devendo todas as actividades de pesca dos nacionais e navios desse país cessar no prazo de quinze dias a contar da data do aviso.
 
-###### Art. 2.º - 1 - A concessão da autorização a que se refere o artigo anterior fica dependente da entrega, na Direcção-Geral das Pescas, de uma lista de que constem os seguintes elementos referentes a cada navio já a pescar ou que tencione pescar na Zona Económica Exclusiva Portuguesa:
+Art. 2.º - 1 - A concessão da autorização a que se refere o artigo anterior fica dependente da entrega, na Direcção-Geral das Pescas, de uma lista de que constem os seguintes elementos referentes a cada navio já a pescar ou que tencione pescar na Zona Económica Exclusiva Portuguesa:
 
 a) Nome do navio;
 
@@ -123,6 +131,6 @@ j) Capacidade de armazenamento de pescado (fresco e congelado).
 
 3 - O Governo, através da Secretaria de Estado das Pescas, poderá exigir as demais informações que julgar necessárias, relacionadas com a actividade de pesca.
 
-###### Art. 3.º O presente diploma produz efeitos a partir de 27 de Junho de 1978.
+Art. 3.º O presente diploma produz efeitos a partir de 27 de Junho de 1978.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro da Agricultura e Pescas, Luís Silvério Gonçalves Saias.**
+O Primeiro-Ministro, Mário Soares. - O Ministro da Agricultura e Pescas, Luís Silvério Gonçalves Saias.

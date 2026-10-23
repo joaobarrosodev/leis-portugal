@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16500/0630006301.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/172/2015/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2015-70095698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 026a6973e789e80663f5a301b01083a6299a881f0b546cc0baa5cb012eb01eb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe0be7d64eac0167591780803475355f8641f1822b0f6eb47dc7cba52bbac65d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
+- Aparelho de Medição
 - Aproximação das Legislações
 - CEE
 - Cereal
-- Metrologia
-- Álcool
-- Aparelho de Medição
-- Regulamento
 - Controlo Metrológico
-- Regulamento do Controlo Metrológico de Alcoometros e Areometros para Álcool
+- Metrologia
 - Normalização
+- Regulamento
+- Regulamento do Controlo Metrológico de Alcoometros e Areometros para Álcool
 relationships:
 - type: cites
   target: celex:31971L0317
@@ -133,6 +133,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/377/1991/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/377/1991/05/02/p/dre
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693850:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0017
   label: null
@@ -140,13 +160,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:39Z'
   warnings: []
   errors: []
 ---
@@ -203,12 +223,12 @@ O presente decreto-lei produz efeitos a partir de 1 de dezembro de 2015.
 
 Visto e aprovado em Conselho de Ministros de 23 de julho de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 12 de agosto de 2015.**
+Promulgado em 12 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de agosto de 2015.**
+Referendado em 17 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

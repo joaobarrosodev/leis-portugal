@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2019/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2019-122498959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ebba4e7c0680b095054fd69037ca8dcd86362886fc7089781dcf7b2286ae9c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b43565c151b9df8dbd6da34378c067e13e5ded14eb057fcd94f6ff124e3da613
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direção Geral do Património Cultural
 - Direcção Regional de Cultura do Alentejo
 - Museu
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regime Jurídico
 relationships:
@@ -118,16 +118,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409483:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221225700:por
+  label: Revogado, a partir de 05.09.2023, pelo(a) Decreto-Lei n.º 79/2023 - Diário da República n.º 171/2023, Série I de
+    2023-09-04 nos termos do art. 15.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2023-221225700
+  date: '2023-09-04'
 article_structure:
-  article_count: 31
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 13
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:44Z'
   warnings: []
   errors: []
 ---
@@ -268,15 +322,15 @@ O disposto no presente decreto-lei não prejudica o processo de descentralizaç�
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Ângela Carvalho Ferreira.
 
-**Promulgado em 24 de maio de 2019.**
+Promulgado em 24 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2019.**
+Referendado em 28 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -284,13 +338,17 @@ Visto e aprovado em Conselho de Ministros de 21 de março de 2019. - Augusto Ern
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf))](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf)
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf))](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf)
+[...]
 
-## ANEXO II — (a que se refere o artigo 4.º)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 4.º)
 
 «ANEXO I
 
@@ -346,7 +404,9 @@ x) Museu Nacional Frei Manuel do Cenáculo.
 
 y) Museu Nacional da Resistência e da Liberdade.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 a) [...].
 
@@ -434,27 +494,39 @@ pp) Antigo Paço Episcopal de Évora, também designado por edifício do Museu N
 
 qq) Forte de Sacavém ou Reduto do Monte Cintra, em Sacavém.
 
-## ANEXO III — [...]
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf))](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf)
+[...]
 
-## ANEXO III — (a que se refere o artigo 8.º)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/06/10800/0288002887.pdf)
+
+ANEXO III
+
+(a que se refere o artigo 8.º)
 
 Regime Jurídico de Autonomia de Gestão dos Museus, Monumentos e Palácios
 
-### CAPÍTULO I — Disposições iniciais
+CAPÍTULO I
 
-###### Artigo 1.º — Âmbito
+Disposições iniciais
+
+Artigo 1.º
+
+Âmbito
 
 O presente regime aplica-se aos museus, monumentos e palácios, doravante designados por unidades orgânicas.
 
-###### Artigo 2.º — Unidades orgânicas
+Artigo 2.º
+
+Unidades orgânicas
 
 1 - As unidades orgânicas são serviços dependentes da Direção-Geral do Património Cultural (DGPC), nos termos do [Decreto-Lei n.º 115/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2012-177827), de 25 de maio, na sua redação atual, ou das Direções Regionais de Cultura (DRC), nos termos do [Decreto-Lei n.º 114/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2012-177829), de 25 de maio, consoante o caso, e sob a direção do membro do Governo responsável pela área da cultura.
 
 2 - As unidades orgânicas são serviços da Administração Pública, não personalizados, constituídas como unidades organizativas e funcionais, nos termos do artigo 4.º do regime jurídico do registo nacional de pessoas coletivas, aprovado pelo [Decreto-Lei n.º 129/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1998-522842), de 13 de maio, na sua redação atual.
 
-###### Artigo 3.º — Princípios orientadores
+Artigo 3.º
+
+Princípios orientadores
 
 Sem prejuízo dos previstos na [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, que estabelece a Lei de Bases do Património Cultural, e na [Lei n.º 47/2004](https://diariodarepublica.pt/dr/detalhe/lei/47-2004-480516), de 19 de agosto, que aprova a Lei-Quadro dos Museus Portugueses, o regime jurídico de autonomia de gestão dos museus, monumentos e palácios assenta nos seguintes princípios orientadores:
 
@@ -476,13 +548,19 @@ h) Promoção da cidadania responsável;
 
 i) Descentralização e diversificação da frequência e da participação dos públicos, promovendo a correção de assimetrias neste domínio.
 
-### CAPÍTULO II — Autonomia de gestão
+CAPÍTULO II
 
-###### Artigo 4.º — Gestão por objetivos
+Autonomia de gestão
+
+Artigo 4.º
+
+Gestão por objetivos
 
 A gestão das unidades orgânicas consubstancia-se no cumprimento de objetivos e metas, no âmbito das funções museológicas e de salvaguarda patrimonial consagradas na lei, e que integram o plano plurianual de gestão.
 
-###### Artigo 5.º — Autonomia de gestão
+Artigo 5.º
+
+Autonomia de gestão
 
 1 - A autonomia de gestão das unidades orgânicas consiste na atribuição ao diretor da unidade orgânica de um ampla latitude de poderes e faculdades para tomar decisões relativamente à sua organização e atividade, no quadro das suas competências próprias, delegadas e subdelegadas, tendo em conta as suas características e os recursos que lhe são atribuídos.
 
@@ -512,7 +590,9 @@ d) Na execução e operacionalização pelo diretor do plano de atividades e or�
 
 6 - O valor da receita efetivamente cobrada que exceda o valor previsto no orçamento desse ano fica consignado à unidade orgânica, nos termos do artigo 7.º, podendo ser utilizado em despesa.
 
-###### Artigo 6.º — Plano plurianual de gestão
+Artigo 6.º
+
+Plano plurianual de gestão
 
 1 - O diretor-geral da DGPC ou o diretor regional da DRC, consoante o caso, e o diretor da unidade orgânica celebram, no prazo de 90 dias a contar da data de início da comissão de serviço, um plano plurianual de gestão, homologado pelo membro do Governo responsável pela área da cultura.
 
@@ -532,7 +612,9 @@ e) A indicação do montante até ao qual, por delegação de competências do d
 
 4 - Na sequência do acompanhamento, avaliação e fiscalização da execução do plano plurianual de gestão, caso se comprove o seu incumprimento grave ou o manifesto prejuízo para o serviço público, pode o diretor-geral da DGPC ou o diretor regional da DRC, consoante o caso, determinar unilateralmente, através de despacho fundamentado, a resolução ou suspensão, total ou parcial, do plano plurianual de gestão.
 
-###### Artigo 7.º — Consignação de receitas
+Artigo 7.º
+
+Consignação de receitas
 
 1 - A DGPC e as DRC consignam obrigatoriamente às unidades orgânicas com quem celebrem o plano plurianual de gestão, com as limitações prevista nos n.os 4 e 5 do artigo 5.º, todos os rendimentos diretamente resultantes da respetiva atividade, nomeadamente as receitas provenientes de:
 
@@ -554,11 +636,15 @@ h) Gestão de fundos europeus.
 
 2 - Os saldos das receitas previstas no número anterior, verificados no fim de cada ano económico, transitam para o orçamento do ano seguinte, para reforço das dotações das respetivas unidades orgânicas, através de abertura de créditos especiais.
 
-###### Artigo 8.º — Fundo de maneio
+Artigo 8.º
+
+Fundo de maneio
 
 Para a realização de despesas de pequeno montante, é constituído um fundo de maneio em nome do diretor da unidade orgânica, nos termos legalmente aplicáveis, a regular por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
 
-###### Artigo 9.º — Documentos de prestação de contas
+Artigo 9.º
+
+Documentos de prestação de contas
 
 O diretor da unidade orgânica apresenta ao diretor-geral da DGPC ou ao diretor regional da DRC, consoante o caso, os documentos de prestação de contas, incluindo relatórios de atividade e acompanhamento do cumprimento dos objetivos definidos, nos seguintes termos:
 
@@ -566,13 +652,19 @@ a) Até ao dia 31 de março de cada ano, apresenta os documentos referentes ao a
 
 b) Até ao dia 30 de setembro de cada ano, apresenta os documentos referentes ao primeiro semestre do ano em curso.
 
-###### Artigo 10.º — Protocolos de colaboração
+Artigo 10.º
+
+Protocolos de colaboração
 
 As unidades orgânicas podem celebrar protocolos de colaboração com outras entidades, nacionais ou internacionais, públicas e privadas, nomeadamente autarquias locais, áreas metropolitanas, comunidades intermunicipais, associações de municípios, estabelecimentos de ensino e outros, para a realização de projetos comuns.
 
-### CAPÍTULO III — Órgãos de gestão
+CAPÍTULO III
 
-###### Artigo 11.º — Diretor
+Órgãos de gestão
+
+Artigo 11.º
+
+Diretor
 
 1 - A unidade orgânica é dirigida por um diretor, com o regime de recrutamento, seleção e provimento previsto no presente regime, que consiste, consoante o caso:
 
@@ -582,7 +674,9 @@ b) Num cargo de direção intermédia de 2.º grau, hierarquicamente dependente 
 
 2 - O diretor do Museu Nacional de Arte Antiga consiste num cargo de direção superior de 2.º grau, com as competências previstas no presente regime para o diretor da unidade orgânica, sendo coadjuvado por um subdiretor, que consiste num cargo de direção intermédia de 1.º grau.
 
-###### Artigo 12.º — Competências do diretor
+Artigo 12.º
+
+Competências do diretor
 
 1 - Compete ao diretor a definição da estratégia global para a unidade orgânica, respeitando na sua atuação:
 
@@ -620,11 +714,15 @@ l) Gerir as coleções da unidade orgânica;
 
 m) Diligenciar para a obtenção de apoio mecenático e outras receitas.
 
-###### Artigo 13.º — Recrutamento do diretor
+Artigo 13.º
+
+Recrutamento do diretor
 
 O diretor é recrutado por procedimento concursal internacionalmente difundido, de entre indivíduos com grau de licenciatura, vinculados ou não à Administração Pública, que possuam habilitações e competências técnicas específicas na área da museologia ou na área patrimonial, adequadas ao desempenho de funções na unidade orgânica para que concorre, assim como aptidão para o exercício de funções de direção, coordenação e de gestão.
 
-###### Artigo 14.º — Seleção e provimento do diretor
+Artigo 14.º
+
+Seleção e provimento do diretor
 
 1 - Para efeitos do artigo anterior, o procedimento concursal para o preenchimento do lugar de diretor é publicitado, nos termos legais, bem como divulgado em órgãos de comunicação e expansão nacional e internacional.
 
@@ -660,19 +758,29 @@ d) Por duas individualidades de reconhecida competência na área museológica o
 
 6 - Em tudo o que não estiver previsto no presente artigo, aplicam-se as disposições referentes ao procedimento concursal e à comissão de serviço para titular de cargo de direção intermédia de 1.º e 2.º grau, previstas na lei referida no número anterior.
 
-### CAPÍTULO IV — Fiscalização e garantias
+CAPÍTULO IV
 
-###### Artigo 15.º — Entidade competente
+Fiscalização e garantias
+
+Artigo 15.º
+
+Entidade competente
 
 Compete à Inspeção-Geral das Atividades Culturais a realização de auditorias técnicas, financeiras e de gestão à atuação do diretor e à atividade da unidade orgânica, sem prejuízo das competências próprias de outros serviços e organismos de controlo e fiscalização.
 
-###### Artigo 16.º — Reclamação e recurso
+Artigo 16.º
+
+Reclamação e recurso
 
 Das decisões do diretor-geral da DGPC ou do diretor regional das DRC, consoante o caso, cabe reclamação e recurso, nos termos previstos no Código do Procedimento Administrativo.
 
-### CAPÍTULO V — Conselho Geral dos Museus, Monumentos e Palácios
+CAPÍTULO V
 
-###### Artigo 17.º — Composição e funcionamento
+Conselho Geral dos Museus, Monumentos e Palácios
+
+Artigo 17.º
+
+Composição e funcionamento
 
 1 - O Conselho Geral dos Museus, Monumentos e Palácios, adiante designado por Conselho, funciona na dependência do membro do Governo responsável pela área da cultura.
 
@@ -694,7 +802,9 @@ c) Os diretores das unidades orgânicas.
 
 7 - Podem ainda participar como observadores nas reuniões extraordinárias do Conselho, sem direito a voto, quaisquer pessoas convidadas por iniciativa do presidente ou mediante solicitação a ele dirigida por qualquer dos restantes membros permanentes.
 
-###### Artigo 18.º — Competências
+Artigo 18.º
+
+Competências
 
 1 - O Conselho desempenha funções consultivas sobre a implementação do presente regime e sobre as grandes linhas de orientação estratégica relativas à coordenação dos museus, monumentos e palácios.
 
@@ -705,3 +815,5 @@ c) Os diretores das unidades orgânicas.
 4 - O Conselho pode pronunciar-se, a pedido do membro do Governo responsável pela área da cultura, sobre quaisquer iniciativas legislativas relativas aos museus, monumentos e palácios.
 
 5 - Compete ainda ao Conselho desenvolver parcerias e propor projetos conjuntos ou iniciativas articuladas entre as diferentes unidades orgânicas em função de interesses, territórios ou temáticas comuns.
+
+112337267

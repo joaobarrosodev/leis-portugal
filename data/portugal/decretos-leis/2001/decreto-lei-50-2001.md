@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/037a00/08150823.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2001/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2001-320736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 222dafcf06ce030c6e7886c8d92ba64ca68ba77053c74de80b8117de38a578e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdd02a333e366ae2878df415a4be30b5f742b78f693869662f9108f8fc3ff035
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - CASA PIA de Lisboa
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -82,16 +82,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:180981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573100:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533014:por
+  label: "Revogado a partir de 14.01.2006 pelo DEC LEI.10/2006.13.01.2006.MTSSO, DR.IS-A [10] de 13.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2006-533014
+  date: '2006-01-13'
+- type: repealed_by
+  target: pt:dre:529217:por
+  label: "Revogado, a partir de 01.01.2008, com excepção do art. 39.º, e n.º 1 do art. 44.º, que se mantêm em vigor para o\
+    \ pessoal auxiliar de apoio residencial que não opte pelo regime do contrato individual de trabalho da Administração Pública,\
+    \ cujas normas foram repristinadas por caducidade do Decreto-Lei n.º 10/2006, de 13 de Janeiro, pelo DEC LEI.397-A/2007.31.12.2007.MTSSO,\
+    \ DR.IS [251-2ºSupl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/397-a-2007-529217
+  date: '2007-12-31'
 article_structure:
-  article_count: 45
+  article_count: 50
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:36Z'
   warnings: []
   errors: []
 ---
@@ -460,7 +489,9 @@ d) Assegurar a gestão do fundo de maneio na Provedoria;
 
 e) Assegurar a organização e funcionamento do arquivo respeitante à Tesouraria.
 
-##### SUBSECÇÃO III — Artigo 16.º
+##### SUBSECÇÃO III
+
+###### Artigo 16.º
 
 Gabinete de Consultadoria Jurídica
 
@@ -476,7 +507,9 @@ d) Assegurar a organização e a actualização dos ficheiros e arquivos de legi
 
 e) Promover a divulgação e esclarecimentos sobre as matérias de direito com interesse para a CPL.
 
-##### SUBSECÇÃO IV — Artigo 17.º
+##### SUBSECÇÃO IV
+
+###### Artigo 17.º
 
 Gabinete de Planeamento e Estatística
 
@@ -492,7 +525,9 @@ d) Elaborar a conta de gerência, o balanço social e o relatório de actividade
 
 e) Assegurar a avaliação económico-financeira dos projectos de investimento e desenvolvimento em que a CPL seja parte interessada.
 
-##### SUBSECÇÃO V — Artigo 18.º
+##### SUBSECÇÃO V
+
+###### Artigo 18.º
 
 Gabinete de Auditoria Interna
 
@@ -508,7 +543,9 @@ d) Propor a alteração ou substituição das normas internas e dos métodos e t
 
 e) Colaborar com as equipas de auditoria e de fiscalização que venham a ser determinadas à CPL.
 
-##### SUBSECÇÃO VI — Artigo 19.º
+##### SUBSECÇÃO VI
+
+###### Artigo 19.º
 
 Departamento de Organização e Informática
 
@@ -538,7 +575,9 @@ d) Executar as operações de processamento, emissão e tratamento de informaç�
 
 3 - O Departamento de Organização e Informática é dirigido por um chefe de divisão.
 
-##### SUBSECÇÃO VII — Artigo 20.º
+##### SUBSECÇÃO VII
+
+###### Artigo 20.º
 
 Departamento de Projectos e Obras
 
@@ -838,15 +877,15 @@ São revogados os Decretos-Lei n.os [335/85](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros, de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Augusto Ernesto Santos Silva.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 

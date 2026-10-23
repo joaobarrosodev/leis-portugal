@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2005/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 888f2dbcda52b845f1e66424ff5925da5cce222c15d291d0e50381a834ccc350
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b2dc744e78b90e1990f439e91a752c844ea2b20f06ebffe360f4cf7f581ef1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Incêndio
-- Financiamento
-- Gado Caprino
+- Apicultura
 - Direcção Regional de Agricultura da Beira Interior
 - Direcção Regional de Agricultura da Beira Litoral
 - Direcção Regional de Agricultura de Trás-os-montes
 - Direcção Regional de Agricultura do Alentejo
 - Direcção Regional de Agricultura do Algarve
 - Direcção Regional de Agricultura do Ribatejo e Oeste
-- Gado Bovino
-- Gado Suíno
-- Linha de Crédito
-- SECA
 - Exploração Agrícola
+- Financiamento
+- Gado Bovino
+- Gado Caprino
+- Gado Equino
 - Gado Ovino
+- Gado Suíno
+- Incêndio
+- Linha de Crédito
 - Pessoa Coletiva
 - Pessoa Singular
-- Apicultura
-- Gado Equino
+- Produção Animal
+- SECA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/2005/06/09/p/dre
@@ -97,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/95/2005/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2005/06/09/p/dre
+- type: cites
+  target: pt:dre:227414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227416:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:12Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +145,9 @@ Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 94/2005](https://diariodarepub
 
 É criada uma linha de crédito para financiamento das entidades do sector pecuário extensivo criadoras de bovinos, ovinos, caprinos, suínos e equinos, bem como das entidades que se dediquem à apicultura, com vista a compensar os custos acrescidos resultantes da escassez de pastagens e forragens em virtude de condições climatéricas adversas verificadas desde Novembro de 2004.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Têm acesso à linha de crédito referida no artigo anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem à bovinicultura, ovinicultura, caprinicultura, suinicultura, equinicultura e apicultura e se localizem nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.
 
@@ -147,7 +157,9 @@ Os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 94/2005](https://diariodarepub
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O montante global de crédito a conceder não pode exceder os 90 milhões de euros.
 
@@ -183,12 +195,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João José Amaral Tomaz - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 17 de Outubro de 2005.**
+Promulgado em 17 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Outubro de 2005.**
+Referendado em 18 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

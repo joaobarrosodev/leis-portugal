@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 299/1981, 2º Suplemento, Série I de 1981-12-30
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3406-(46) a 3406-(56)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29902/00460056.pdf
 entry_into_force_dates: []
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1112-c-1981-242541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae92ff008281d5f18e8a0073b3f053faf394d045c81c8d4244b451474a0e859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3266a16723256c8a5ccfd7c6aa68b653aaa5bfabbd052db641bbd55496644e48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Transporte Ferroviário
+relationships:
+- type: cites
+  target: pt:dre:219555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403330:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:37:03Z'
   warnings: []
   errors: []
 ---
@@ -111,4 +131,4 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes, 29 de Dezembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Habitação, Obras Públicas e Transportes, Abílio Gaspar Rodrigues, Secretário de Estado dos Transportes Interiores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29902/00460056.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29902/00460056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29902/00460056.pdf)

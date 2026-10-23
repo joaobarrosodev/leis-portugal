@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 51/1974, 1º Suplemento, Série I de 1974-03-01
   number: '51'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 300-(6) a 300-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/03/05101/00060007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/171-1974-627448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7969ddc79609ceca1ada59cf348134d38ce3c7159ca0ff885b8caefa7704094e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1bc086909a9e19a4ef87a8646964147f09cbc2ec182b678977ce420bec23508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:21:01Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Nos termos do artigo 71.º, n.º 2, do [Decreto-Lei n.º 413/71](https://diariod
 
 Manda o Governo da República Portuguesa, pelo Ministro da Saúde, obtida a concordância do Ministro das Finanças, que o mapa do pessoal não compreendido no quadro de direcção e chefia do Hospital de Sobral Cid, aprovado pela [Portaria n.º 17250](https://diariodarepublica.pt/dr/detalhe/portaria/17250-1959-433180), de 1 de Julho de 1959, com as alterações introduzidas pela [Portaria n.º 20585](https://diariodarepublica.pt/dr/detalhe/portaria/20585-1964-575951), de 13 de Maio de 1964, e pelo n.º 2 do artigo 1.º do [Decreto-Lei n.º 48448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48448-1968-272043), de 22 de Junho de 1968, seja substituído pelo seguinte quadro de pessoal não dirigente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/03/05101/00060007.pdf))](https://files.diariodarepublica.pt/1s/1974/03/05101/00060007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/03/05101/00060007.pdf)
 
 Notas
 

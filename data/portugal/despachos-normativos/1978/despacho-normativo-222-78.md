@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/222-1978-329670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:44:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3798767f31a84c7ec60b42649b522702fd79b279a8d6da612908dbe7efab49af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab8df42587c77f2174bd4c18f9414da495efe53898ecf9e9b96685aeda299c6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:44:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Autorização de Despesas
+- Financiamento
+- Fundo de Desemprego
+- Ministério da Administração Interna
+- Ministério do Trabalho
+- Ministro do Trabalho
+- Obras Públicas
+- Secretário de Estado da População e Emprego
+relationships:
+- type: cites
+  target: pt:dre:256805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360309:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:44:20Z'
   warnings: []
   errors: []
 ---
@@ -168,4 +185,4 @@ Imprevistos ... 25000
 
 Total ... 760000
 
-**O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes. - O Secretário de Estado da Administração Regional e Local, Júlio Francisco Miranda Calha. - O Secretário de Estado da População e Emprego, José Alberto Menano Cardoso do Amaral.**
+O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes. - O Secretário de Estado da Administração Regional e Local, Júlio Francisco Miranda Calha. - O Secretário de Estado da População e Emprego, José Alberto Menano Cardoso do Amaral.

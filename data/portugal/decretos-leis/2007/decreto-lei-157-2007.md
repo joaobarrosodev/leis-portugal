@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/27632767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9218952cb2a99b5b86643b4ec6c4a8a9d3f67775e3ddb359a39182a90af8c71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46bf61e60922a85063a9f6920ed3d1b84c39fa6262ae0167c8e3630e94de4f39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Carreira de Investigação Científica
-- Investigação Científica e Tecnológica
-- Unidade de Acompanhamento
 - Comissão Paritária
 - Conselho Científico
 - Conselho de Orientação
-- Definição de Competências
-- Recrutamento de Pessoal
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
 - Ineti
 - Instituto de Meteorologia
+- Investigação Científica e Tecnológica
 - Laboratório do Estado
+- Ministério da Ciência Tecnologia e Ensino Superior
 - Orgânica
 - Pessoal Docente
-- Ministério da Ciência Tecnologia e Ensino Superior
+- Recrutamento de Pessoal
+- Unidade de Acompanhamento
 relationships:
 - type: amended_by
   target: pt:dre:553639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transferidas as competências do INETI, I.P., de acordo com o art. 2º, transferindo para o Instituto de Meteorologia,\
+    \ I.P., cuja orgânica foi aprovada pelo presente diploma, o Instituto Nacional de Saúde Dr. Ricardo Jorge, I.P., cuja\
+    \ orgânica foi aprovada pelo Dec Lei 271/2007 de 26-Jul, bem como são transferidas as Universalidades e, ainda, objecto\
+    \ de externalização, as competências(a sua sucessão é objecto de Dec Lei - nº 8 do art. 2º), desenvolvidas pelas Unidades\
+    \ elencads no nº 7º, pelo DEC LEI.355/2007.29.10.2007.MEI, DR.IS [208] de 29.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinto, sendo objecto de fusão, o Instituto de Meteorologia, I. P., e integradas as suas atribuições no Instituto\
+    \ Português do Mar e da Atmosfera, I. P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território,\
+    \ pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:553639:por
+  label: "Determinada a sucessão do IPMA, I. P. nas atribuições do Instituto de Meteorologia, I. P. e revogado a partir de\
+    \ 01.04.2012, pelo DEC LEI.68/2012.20.03.2012.MAMAOT, DR.IS [57] de 20.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2012-553639
+  date: '2012-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
   label: null
@@ -106,16 +128,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:58Z'
   warnings: []
   errors: []
 ---
@@ -438,12 +480,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

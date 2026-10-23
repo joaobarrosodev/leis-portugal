@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 287/1979, 1º Suplemento, Série I de 1979-12-14
   number: '287'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3230-(1) a 3230-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28701/00010020.pdf
 entry_into_force_dates: []
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/368-a-1979-381766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b07e8357fabb5b3f1c768c941f0357bb7d9003e0d616c566c4d7deeb5929c59a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14b3aca856d8d7a46640d41e406f5ed0267d843eb01bcd1845026f56bcd930f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assembleia da República
+- Estatuto Jurídico
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:180405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180405:por
+  label: "Alterado o quadro de pessoal publicado em anexo pela RES.20/85.05.07.1985.AR, DR.IS [184] de 12.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/20-1985-180405
+  date: '1985-07-05'
+- type: cites
+  target: pt:dre:370777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692589:por
+  label: Rectificado pela DECL.DD6645.02.01.1980.AR, DR.IS [25] de 30.01.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692589
+  date: '1980-01-02'
+- type: corrected_by
+  target: pt:dre:692798:por
+  label: Rectificado pela DECL.DD6694.28.01.1980.AR, DR.IS [39] de 15.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-692798
+  date: '1980-01-28'
 article_structure:
   article_count: 104
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:33Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +133,7 @@ NORMAS DE PROVIMENTO DO PESSOAL DO QUADRO DA ASSEMBLEIA DA REPÚBLICA
 
 ###### Artigo 1.º — (Secretário-geral)
 
-**O secretário-geral da Assembleia da República será provido em comissão de serviço pelo período da legislatura, cabendo a respectiva nomeação ao Presidente da Assembleia da República, com parecer favorável da Mesa da Assembleia, e permanecerá em exercício até à nomeação de novo secretário-geral da Assembleia da República.**
+O secretário-geral da Assembleia da República será provido em comissão de serviço pelo período da legislatura, cabendo a respectiva nomeação ao Presidente da Assembleia da República, com parecer favorável da Mesa da Assembleia, e permanecerá em exercício até à nomeação de novo secretário-geral da Assembleia da República.
 
 ###### Artigo 2.º — (Directores-gerais)
 
@@ -1036,6 +1071,6 @@ Assembleia da República, 13 de Dezembro de 1979. - O Presidente da Assembleia d
 
 A que se refere o artigo 6.º da [Lei n.º 27/79](https://diariodarepublica.pt/dr/detalhe/lei/27-1979-370777), de 5 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28701/00010020.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28701/00010020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28701/00010020.pdf)
 
 Assembleia da República, 13 de Dezembro de 1979. - O Presidente da Assembleia da República, Teófilo Carvalho dos Santos.

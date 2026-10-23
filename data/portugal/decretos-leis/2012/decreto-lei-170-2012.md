@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/2012/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2012-179069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd75366eeb09568b90fde5decbfdc57bd8b69b00b4bd5f92f657c4060b15139e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e3ae5861284f1ab9f058f12c00c02852ace2416afa8680b3f358f505f294d5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Energia Elétrica
-- Política Energética
 - Mobilidade Elétrica
+- Política Energética
 - REDE Piloto da Mobilidade Eléctrica
 - Regime Jurídico
 - Regulamento de Sinalização do Trânsito
@@ -79,6 +79,19 @@ relationships:
   target: pt:dre:25676885:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25676885:por
+  label: "Alterados os arts. 1.º, 3.º a 11.º, 13.º a 28.º, 30.º a 33.º, 37.º, 45.º, 46.º, 48.º e 50.º; aditados o art. 57.º,\
+    \ assim como o anexo I, sendo o atual renumerado como anexo II; e revogados as als. b), c) e e) do n.º 4 do art. 4.º,\
+    \ os n.ºs 5 e 6 do art. 6.º, os n.ºs 2 e 3 do art. 7.º, os n.ºs 4, 6, 7 e 8 do art. 8.º, o n.º 2 do art. 9.º, as als.\
+    \ a) e b) do n.º 1, o n.º 2, as als. a) a d) do n.º 3 e o n.º 4 do art. 10.º, as als. c), e), h) e n) do n.º 1 e o n.º\
+    \ 2 do art. 11.º, o art. 12.º, a al. d) do art. 13.º, o n.º 4 do art. 14.º, a al. a) do n.º 2 do art. 15.º, as als. i),\
+    \ j) e l) do n.º 1 do art. 16.º, os n.ºs 2 e 3 do art. 18.º, os n.ºs 2 e 3 do art. 20.º, as als. e) e h) do n.º 2 do art.\
+    \ 21.º, o n.º 8 do art. 33.º, os arts. 34.º a 36.º, as als. a) e c) do n.º 1 do art. 45.º e o art. 53.º todos do Dec Lei\
+    \ 39/2010 de 26-abr, alterado e republicado pelo presente diploma, pelo DEC LEI.90/2014.11.06.2014.MAOTE, DR.IS [111]\
+    \ de 11.06.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2014-25676885
+  date: '2014-06-11'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -87,16 +100,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/2010/04/26/p/dre
+- type: corrected_by
+  target: pt:dre:176299:por
+  label: "Retificado, na parte referente ao cap. V, arts. 38º a 41º (que são agora apresentados como revogados) da republicação\
+    \ do Dec Lei 39/2010 de 26-abr constante do anexo do presente diploma, pela DECL-RECT.47/2012.17.09.2012.PCM, DR.IS [180]\
+    \ de 17.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/47-2012-176299
+  date: '2012-09-17'
 article_structure:
-  article_count: 75
+  article_count: 61
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:23Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +161,9 @@ Os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 14.º, 15.º, 16.º, 17.º, 19.º, 22
 
 5 - Os contratos de fornecimento de energia elétrica referidos no número anterior não podem impedir ou tornar excessivamente onerosa a utilização de certos pontos de carregamento, favorecendo injustificadamente a utilização dos demais, salvaguardado o período estritamente necessário para o estabelecimento das relações jurídicas necessárias entre o comercializador de energia elétrica e os operadores dos pontos de carregamento em causa.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -159,13 +181,17 @@ Os artigos 7.º, 8.º, 9.º, 10.º, 11.º, 14.º, 15.º, 16.º, 17.º, 19.º, 22
 
 8 - A apresentação extemporânea da caução referida no número anterior deve ser acompanhada de justificação do atraso, competindo à sociedade gestora de operações da rede de mobilidade elétrica decidir sobre a procedência dos motivos apresentados pelo comercializador de eletricidade para a mobilidade elétrica.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A licença de comercialização de eletricidade para a mobilidade elétrica pode ser transmitida, por qualquer título jurídico, mediante comunicação do titular e do transmissário remetida através do balcão único eletrónico dos serviços, desde que se encontrem verificados, em relação ao transmissário, os requisitos legais para a sua atribuição, podendo a DGEG, em caso contrário, opor-se a essa transmissão, no prazo de 30 dias contados do envio da referida comunicação.
 
 2 - Conferida a autorização, ainda que tacitamente, o transmissário é titular dos direitos e fica sujeito às obrigações e condições de exercício da atividade constantes da licença transmitida, bem como às demais que lhe sejam expressamente impostas na autorização de transmissão.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A licença de comercialização de eletricidade para a mobilidade elétrica caduca, mediante declaração da DGEG:
 
@@ -179,7 +205,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -215,7 +243,9 @@ o) ...
 
 3 - Os comercializadores de eletricidade não podem discriminar o acesso aos respetivos postos de carregamento em razão da nacionalidade ou local de residência dos utilizadores de veículos elétricos, exceto em casos de incompatibilidade técnica.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -225,7 +255,9 @@ o) ...
 
 4 - Os operadores só podem recusar o acesso aos seus pontos de carregamento de acesso público a utilizadores de veículos que hajam contratado o fornecimento de energia elétrica a comercializador com que não hajam ainda estabelecido as relações jurídicas necessárias referidas no n.º 4 do artigo 7.º, dentro do período referido no n.º 5 daquele mesmo artigo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As licenças de operação de pontos de carregamento da rede de mobilidade elétrica têm âmbito nacional e são atribuídas, durante o período transitório referido no n.º 6 do artigo 5.º, pelo prazo de 15 anos, prorrogável por igual período, nomeadamente para o efeito de possibilitar o equilíbrio económico e financeiro do operador.
 
@@ -247,7 +279,9 @@ b) Prova da existência da apólice de seguro, nos termos do disposto no artigo 
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 ...
 
@@ -281,7 +315,9 @@ o) ...
 
 p) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +333,9 @@ p) ...
 
 7 - Para os efeitos do disposto no número anterior, os operadores de pontos de carregamento têm obrigação de, no prazo de 10 dias, remeter as reclamações recebidas à ERSE, competindo a esta entidade o seu tratamento.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As entidades responsáveis pela aprovação das instalações elétricas de pontos de carregamento realizam, por sua iniciativa, com a periodicidade mínima de cinco anos, inspeções periódicas a, pelo menos, 25 % dos pontos de carregamento explorados por cada operador.
 
@@ -305,7 +343,9 @@ p) ...
 
 3 - A inspeção prevista no presente artigo deve assegurar que os pontos de carregamento a inspecionar são selecionados de forma aleatória e que cada um é objeto de inspeção com uma periodicidade mínima de 15 anos.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -315,7 +355,9 @@ p) ...
 
 4 - A sociedade gestora de operações da rede de mobilidade elétrica deve, com periodicidade anual, apresentar, através do balcão único eletrónico dos serviços, à ERSE relatórios sobre a execução das atividades por si desenvolvidas.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -339,7 +381,9 @@ h) ...
 
 3 - A violação do disposto nos n.os 6 e 7 do artigo 17.º é punida nos termos previstos para a violação da obrigatoriedade de existência e disponibilização do livro de reclamações, nos termos do Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, e 317/2009, de 30 de outubro.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -351,7 +395,9 @@ h) ...
 
 5 - ...
 
-###### Artigo 50.º — Balcão único eletrónico dos serviços
+Artigo 50.º
+
+Balcão único eletrónico dos serviços
 
 Todos os pedidos e comunicações entre os interessados e outros intervenientes no âmbito dos procedimentos de licenciamento devem ser efetuados por meios eletrónicos, através do balcão único eletrónico dos serviços previsto no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.»
 
@@ -375,15 +421,15 @@ Todos os pedidos e comunicações entre os interessados e outros intervenientes 
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 24 de julho de 2012.**
+Promulgado em 24 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de julho de 2012.**
+Referendado em 26 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -1297,7 +1343,9 @@ H41 - ...
 
 H42 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Os painéis adicionais representados no quadro xxxv, em anexo, destinam-se a completar a indicação dada pelos sinais verticais, a restringir a sua aplicação a certas categorias de utentes da via pública, a limitar a sua validade a determinados períodos de tempo ou a indicar a extensão da via em que vigoram as prescrições e são os seguintes:
 
@@ -1347,18 +1395,18 @@ QUADRO XXIX
 
 H13c - Posto de abastecimento de combustível com serviço a veículos elétricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf))](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
 
 H13d - Posto de abastecimento com GPL e com serviço a veículos elétricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf))](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
 
 QUADRO XXXV
 
 Modelo 10c
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf))](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
 
 Modelo 11l
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf))](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/14800/0400704025.pdf)

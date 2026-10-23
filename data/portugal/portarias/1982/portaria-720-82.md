@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-1982-394090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 059fd8a13cba736a4a5cd38bcbaf875461301724a911138174ed0338f97ca745
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddfd2ff05baa63ec7b325d42d110ab0e96c5538dc8655020a0c3b1c05ddfde75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Registos e do Notariado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:666119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666119:por
+  label: Alterado o quadro de pessoal pelo(a) Port 316/87 - Diário da República n.º 89/1987, Série I de 1987-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1987-666119
+  date: '1987-04-16'
+- type: cites
+  target: pt:dre:329438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:23:27Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +125,4 @@ Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 
 
 Quadro de pessoal dos Serviços Centrais da Direcção-Geral dos Registos e do Notariado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/16800/22022203.pdf))](https://files.diariodarepublica.pt/1s/1982/07/16800/22022203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/16800/22022203.pdf)

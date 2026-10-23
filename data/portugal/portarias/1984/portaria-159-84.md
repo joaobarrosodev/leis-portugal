@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-1984-661973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 500bf6bfef45012ea470fa7b9577c8aba962dc067c5df8f3fa9d44d87792c572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc52db5ce78f62d1fceb4be52383d6757fe1a28d6e73d5f20c7dfd7689fe2342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conservação de Documentos
+- Microfilmagem
+- Portucel
+- Prazo de Conservação
+relationships:
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:48Z'
   warnings: []
   errors: []
 ---
@@ -146,6 +154,6 @@ As dúvidas surgidas na aplicação da presente portaria, inclusive as que respe
 
 Ministério da Indústria e Energia.
 
-**Assinada em 8 de Março de 1984.**
+Assinada em 8 de Março de 1984.
 
 Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria.

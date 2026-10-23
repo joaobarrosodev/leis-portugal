@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12400/0331003313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2019/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2019-122857879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7848e3ebf13ec5f0f2cfce35769991190d580b7a88a7ccd522410e062590912e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98b314f67d6ef49e2ddad5ae81d97dc268958de42cbd93c1d4aabc21d38e7f0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Autarquia Local
+- Autoridade Nacional de Emergência e Proteção Civil
+- Bombeiro
+- Carreira Profissional
 - Comunidade Intermunicipal
+- Descrição de Funções
 - Equiparação de Cargos
 - Estatuto
-- Sistema Retributivo
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Bombeiro
-- Instituto da Conservação da Natureza e das Florestas
-- Descrição de Funções
-- Pré-reforma
-- Promoção Profissional
-- Regime Jurídico
-- Remuneração
-- Mobilidade de Pessoal
-- Sapador Florestal
-- Autarquia Local
-- Sistema de Gestão Integrada de Fogos Rurais
-- Autoridade Nacional de Emergência e Proteção Civil
 - Força de Sapadores Bombeiros Florestais
 - Força Especial de Proteção Civil
+- Instituto da Conservação da Natureza e das Florestas
+- Mobilidade de Pessoal
+- Pré-reforma
+- Promoção Profissional
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
+- Sapador Florestal
+- Sistema de Gestão Integrada de Fogos Rurais
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:1068974008:por
@@ -112,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
 article_structure:
-  article_count: 17
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:54Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +207,9 @@ Os artigos 5.º, 7.º, 17.º, 18.º e 25.º do [Decreto-Lei n.º 106/2002](https
 
 O conteúdo funcional dos bombeiros sapadores e dos sapadores bombeiros florestais consta, respetivamente, dos anexos I e III ao presente diploma, do qual fazem parte integrante.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O recrutamento para os cargos de comandante e de 2.º comandante de regimento, batalhão ou companhia quando autónoma é feito, por escolha, de entre indivíduos licenciados com experiência de, pelo menos, quatro anos na área da proteção e do socorro e no exercício de funções de comando ou de chefia.
 
@@ -221,7 +223,9 @@ O conteúdo funcional dos bombeiros sapadores e dos sapadores bombeiros floresta
 
 6 - O recrutamento para os cargos de comandante e de 2.º comandante de regimento, batalhão ou companhia quando autónoma, da Força de Sapadores Bombeiros Florestais do Instituto da Conservação da Natureza e das Florestas, I. P., é feito, por escolha, de entre indivíduos licenciados com experiência de, pelo menos, quatro anos nas áreas descritas no anexo III ao presente diploma e no exercício de funções de comando ou de chefia.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -233,7 +237,9 @@ O conteúdo funcional dos bombeiros sapadores e dos sapadores bombeiros floresta
 
 5 - A duração, o conteúdo programático e o sistema de funcionamento e avaliação dos cursos de promoção são aprovados por despacho dos membros do Governo responsáveis pelas áreas da administração interna, da administração local, da Administração Pública e das florestas, ouvidas a Associação Nacional de Municípios Portugueses e as organizações sindicais.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -253,7 +259,9 @@ O conteúdo funcional dos bombeiros sapadores e dos sapadores bombeiros floresta
 
 9 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -321,15 +329,15 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de maio de 2019. - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Luís Manuel Capoulas Santos.
 
-**Promulgado em 21 de junho de 2019.**
+Promulgado em 21 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de junho de 2019.**
+Referendado em 27 de junho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
@@ -356,3 +364,5 @@ f) Ações de instalação e manutenção de rede primária e secundária de def
 g) Ações de combate a incêndios rurais;
 
 h) Ações de recuperação de áreas ardidas e estabilização de emergência, e outras ações especializadas no âmbito da gestão florestal.»
+
+112405671

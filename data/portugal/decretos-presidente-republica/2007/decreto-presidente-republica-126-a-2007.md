@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 239/2007, 1º Suplemento, Série I de 2007-12-12
   number: '239'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8888-(2) a 8888-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/23901/0000200002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/126-a/2007/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/126-a-2007-496087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb72e2841e05f6546088a932cc82f83e22158a32b48b4b40bcd71da7658f417f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 237ad706e767ad1e3dcc96e92de9379474c0923a5fc00d93108a04c3270da6fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Patente
-- Propriedade Industrial
 - Munique
+- Patente
+- Portugal
+- Propriedade Industrial
 - Propriedade Intelectual
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/60-a/2007/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/60-a/2007/12/12/p/dre
+- type: cites
+  target: pt:dre:496086:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:13Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +99,16 @@ validation:
 
 de 12 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o acto de revisão da Convenção sobre a Concessão de Patentes Europeias (Convenção sobre a Patente Europeia), adoptado em Munique em 29 de Novembro de 2000, aprovado pela [Resolução da Assembleia da República n.º 60-A/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/60-a-2007-496086), em 30 de Novembro de 2007.
 
-**Assinado em 10 de Dezembro de 2007.**
+Assinado em 10 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Dezembro de 2007.**
+Referendado em 11 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

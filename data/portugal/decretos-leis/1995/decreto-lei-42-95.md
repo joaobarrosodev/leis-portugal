@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/045a00/10661066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/1995/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1995-188686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46fbb28b9a00ed9b9506e22d8121e01fcfdb80a1364e26bc6cec213b7d5906aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d4e64c01e12f099d0db7795d8b18bc55946a142076c78c143968576859a1fa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Bombeiros Voluntários
-- Financiamento
+- Câmara Municipal
 - Crédito
 - Equipamento Urbano
-- Câmara Municipal
+- Financiamento
 - Serviço Nacional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:145871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:145871:por
+  label: "Revogado pelo Dec Lei. 252/96.1996.12.26.MAI DR.IS-A [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-1996-145871
+  date: '1996-12-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:51Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +115,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma regula o processo de apoio ao crédito para financiamento do serviço de dívida decorrente da incapacidade justificada e comprovada do cumprimento, por associações de bombeiros voluntários, de obrigações advenientes da realização de obras de construção ou beneficiação de quartéis dos seus corpos de bombeiros.
+Artigo 1.º O presente diploma regula o processo de apoio ao crédito para financiamento do serviço de dívida decorrente da incapacidade justificada e comprovada do cumprimento, por associações de bombeiros voluntários, de obrigações advenientes da realização de obras de construção ou beneficiação de quartéis dos seus corpos de bombeiros.
 
-###### Art. 2.º O apoio referido no artigo anterior é objecto de despacho conjunto dos Ministros da Administração Interna, das Finanças e do Planeamento e da Administração do Território, sob proposta do Serviço Nacional de Bombeiros, ouvida a Liga dos Bombeiros Portugueses, e baseado na apreciação da candidatura apresentada pela associação beneficiária, de que constarão obrigatoriamente os seguintes elementos:
+Art. 2.º O apoio referido no artigo anterior é objecto de despacho conjunto dos Ministros da Administração Interna, das Finanças e do Planeamento e da Administração do Território, sob proposta do Serviço Nacional de Bombeiros, ouvida a Liga dos Bombeiros Portugueses, e baseado na apreciação da candidatura apresentada pela associação beneficiária, de que constarão obrigatoriamente os seguintes elementos:
 
 a) Relatório descritivo da situação financeira e dos motivos que originaram a incapacidade de cumprimento dos compromissos;
 
@@ -120,24 +125,24 @@ b) Parecer da câmara municipal sobre aquele relatório, apreciando o mérito da
 
 c) Orçamentos e contas de gerência dos anos a que se reporta a dívida em apreço, abrangendo pelo menos os três anos imediatamente precedentes.
 
-###### Art. 3.º A associação mutuária é responsável pelo cumprimento dos encargos financeiros decorrentes da operação de crédito a autorizar.
+Art. 3.º A associação mutuária é responsável pelo cumprimento dos encargos financeiros decorrentes da operação de crédito a autorizar.
 
-###### Art. 4.º A proposta a formular pelo Serviço Nacional de Bombeiros, nos termos do artigo 2.º, deverá mencionar o limite de empréstimo, o prazo e a forma de utilização, bem como o apoio, se a ele houver lugar, da câmara municipal e do Serviço Nacional de Bombeiros.
+Art. 4.º A proposta a formular pelo Serviço Nacional de Bombeiros, nos termos do artigo 2.º, deverá mencionar o limite de empréstimo, o prazo e a forma de utilização, bem como o apoio, se a ele houver lugar, da câmara municipal e do Serviço Nacional de Bombeiros.
 
-###### Art. 5.º A taxa de juro a aplicar às operações descritas no artigo 1.º será indexada à taxa preferencial variável de curto prazo da Caixa Geral de Depósitos.
+Art. 5.º A taxa de juro a aplicar às operações descritas no artigo 1.º será indexada à taxa preferencial variável de curto prazo da Caixa Geral de Depósitos.
 
-###### Art. 6.º O presente diploma só é aplicável a dívidas decorrentes de obrigações constituídas antes da sua entrada em vigor.
+Art. 6.º O presente diploma só é aplicável a dívidas decorrentes de obrigações constituídas antes da sua entrada em vigor.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 8 de Fevereiro de 1995.**
+Promulgado em 8 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Fevereiro de 1995.**
+Referendado em 11 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

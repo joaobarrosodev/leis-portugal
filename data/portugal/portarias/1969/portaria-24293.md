@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24293-1969-214057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca61799ee00552582514a432b43e63bdaa2bda8a8d1025f49fb0277839b265d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e16fd9fa10fe845fd0a72c4f2f59bb18f1e0879962ec9f42dd0bfd1061ee6b3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:16Z'
   warnings: []
   errors: []
 ---
@@ -85,13 +93,13 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Sotavento do Algarve, aprovadas pela [Portaria n.º 15498](https://diariodarepublica.pt/dr/detalhe/portaria/15498-1955-236151), de 10 de Agosto de 1955, com as alterações introduzidas pelas Portarias n.os 16408, 19033, 19765, 20674 e 21772, de, respectivamente, 11 de Setembro de 1957, 16 de Fevereiro de 1962, 16 de Março de 1963, 9 de Julho de 1964 e 4 de Janeiro de 1966, e mais as seguintes dos artigos 60.º-A, 60.º-B e 120.º:
 
-###### Art. 60.º-A Relativamente à armazenagem de mercadorias feita nas modalidades do § único do artigo 51.º, a Junta não será responsável pelas avarias que as mercadorias experimentem resultantes da sua própria natureza, do seu modo de acondicionamento ou de enfardamento, ou de qualquer caso de força maior, nem ainda pelos estragos causados por animais daninhos.
+Art. 60.º-A Relativamente à armazenagem de mercadorias feita nas modalidades do § único do artigo 51.º, a Junta não será responsável pelas avarias que as mercadorias experimentem resultantes da sua própria natureza, do seu modo de acondicionamento ou de enfardamento, ou de qualquer caso de força maior, nem ainda pelos estragos causados por animais daninhos.
 
-###### Art. 60.º-B O seguro contra o risco de incêndio das mercadorias existentes nos armazéns, telheiros, cais e terraplenos ou terrenos marginais livres é ùnicamente de conta dos seus respectivos donos ou consignatários.
+Art. 60.º-B O seguro contra o risco de incêndio das mercadorias existentes nos armazéns, telheiros, cais e terraplenos ou terrenos marginais livres é ùnicamente de conta dos seus respectivos donos ou consignatários.
 
 ...
 
-###### Art. 120.º ...
+Art. 120.º ...
 
 1.ª categoria - Encarregado de tráfego e armazéns, mestre marítimo de 1.ª classe, motorista marítimo de 1.ª classe, manobrador de guindastes de 1.ª classe, encarregado de obras de 1.ª classe, mestre de oficinas e agentes de cais de 2.ª classe ... 18$00
 

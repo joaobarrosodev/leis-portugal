@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/120a00/25732575.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1997/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1997-347305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02f207ae5d2449e2576860261760455cfb59cb59d2668d014636f1c6cac20b05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 163c9cd35b6d0efdfdb47d3c7cabbe6d8db955bfef9efc04202fb5b3f7b7c540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Reestruturação de Serviços
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
 - Concurso
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Definição de Competências
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Investigação Científica e Tecnológica
 - Laboratório Nacional de Investigação Veterinária
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
+- Produção Animal
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:667535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632398:por
+  label: "Alterado o artigo 8.º do Decreto-Lei n.º 74/96, de 18 de Junho, com a redacção que lhe foi dada no artigo 2.º do\
+    \ presente diploma, pelo DEC LEI.526/99.1999.12.10.MADRP DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1999-632398
+  date: '1999-12-10'
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 7º, 8º, 10º, 11º, 13º, 15º, 16º, 17º, 18º, 19º, 20º, 21º e 22º do Dec Lei 74/96\
+    \ de 18-Jun, na redacção do presente diploma, pelo DEC LEI.246/2002.2002.11.08.MADRP,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:218544:por
+  label: "Alterada a redacção dada ao art. 4.º (na redacção do Dec Lei 246/2002, de 08-Nov), o art. 8.º (na redacção do Dec\
+    \ Lei 526/99, de 10-Dez e do Dec Lei 246/2002, de 08-Nov) e o quadro de pessoal do Dec Lei 74/96, de 18-Jun, pelo DEC\
+    \ LEI.80/2004.10.04.2004.MADRP, DR.IS-A [85] de 10.04.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2004-218544
+  date: '2004-04-10'
+- type: amended_by
+  target: pt:dre:667535:por
+  label: "Alterados a al. c) do art. 8º e o quadro de pessoal anexo e, revogadas a al. l) do nº 2 do art. 4º e a al. m) do\
+    \ art. 8º, todos do Dec Lei 74/96 de 18-Jun, com as alterações constantes do presente diploma, pelo DEC LEI.68/2006.23.03.2006.MADRP,\
+    \ DR.IS-A [59] de 23.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2006-667535
+  date: '2006-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+- type: cites
+  target: pt:dre:354113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:149607:por
+  label: "Rectificado pela Decl-Rect.11-D/97.1997.06.30.PCM, DR.IS-A [148]-5ºSuple\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-d-1997-149607
+  date: '1997-06-30'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:14Z'
   warnings: []
   errors: []
 ---
@@ -210,16 +253,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Maio de 1997.**
+Promulgado em 8 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1997.**
+Referendado em 12 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O ARTIGO 18.º DO DECRETO-LEI N.º 74/96
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/120a00/25732575.pdf))](https://files.diariodarepublica.pt/1s/1997/05/120a00/25732575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/120a00/25732575.pdf)

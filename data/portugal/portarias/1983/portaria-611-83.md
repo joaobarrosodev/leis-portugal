@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12200/19341934.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/611-1983-451797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c35aae62d5c1be1e2e1ce7485e416f8112b740925a80828c1af2f4da5187bf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7704944613e9be59977502144af376383b9469f6ac8935b47253488e4c4badc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Promoção Profissional
+relationships:
+- type: cites
+  target: pt:dre:376411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579374:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEI NUMERO 34-A/90, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 20, SUPLEMENTO, DE 24/1/90.\0\
+    /1/90.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:26Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +113,7 @@ Considerando o disposto no n.º 1 do artigo 211.º do Estatuto do Oficial da For
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que os artigos 128.º, 130.º, 136.º e 142.º do EOFAP, aprovado pelo Decreto n.º 377/81, de 10 de Setembro, com alterações introduzidas pelas Portarias n.os [274/81](https://diariodarepublica.pt/dr/detalhe/portaria/274-1981-388060), [644/81](https://diariodarepublica.pt/dr/detalhe/portaria/644-1981-579374) e [651/81](https://diariodarepublica.pt/dr/detalhe/portaria/651-1981-577083), respectivamente de 17 de Março, 28 de Julho e 30 de Julho, passem a ter a seguinte redacção:
 
-###### Art. 128.º - 1 - A promoção por escolha tem lugar nas promoções aos seguintes postos:
+Art. 128.º - 1 - A promoção por escolha tem lugar nas promoções aos seguintes postos:
 
 a) General;
 
@@ -106,7 +131,7 @@ c) Outros postos desde que sejam os mais elevados nos respectivos quadros.
 
 6 - A promoção aos postos de coronel, tenente-coronel e major, com excepção dos quadros em que estes postos sejam os mais elevados, é feita por escolha e antiguidade, devendo o CCEM fixar anualmente as percentagens respectivas, privilegiando a antiguidade nos postos mais baixos e a escolha nos postos mais elevados.
 
-###### Art. 130.º - 1 - Na promoção aos postos a que se refere a alínea c) do n.º 1 do artigo 128.º a escolha é feita anualmente, para cada quadro e posto, entre todos os oficiais que até 31 de Dezembro de cada ano venham a reunir condições legais para concorrerem à promoção.
+Art. 130.º - 1 - Na promoção aos postos a que se refere a alínea c) do n.º 1 do artigo 128.º a escolha é feita anualmente, para cada quadro e posto, entre todos os oficiais que até 31 de Dezembro de cada ano venham a reunir condições legais para concorrerem à promoção.
 
 2 - Na promoção aos postos a que se refere o n.º 6 do artigo 128.º, a designação de apto para a promoção por escolha ou de apto apenas para a promoção por antiguidade é feita anualmente entre todos os oficiais que até 31 de Dezembro de cada ano venham a reunir as condições legais para concorrerem a promoção, através de lista elaborada pela Comissão Técnica da Força Aérea.
 
@@ -114,7 +139,7 @@ c) Outros postos desde que sejam os mais elevados nos respectivos quadros.
 
 4 - No caso excepcional de as vacaturas virem a exceder o número de oficiais apreciados, proceder-se-á a nova escolha ou designação em relação a cada vacatura entre todos os oficiais que à data reúnam as necessárias condições de promoção.
 
-###### Art. 136.º - 1 - ...
+Art. 136.º - 1 - ...
 
 a) ...
 
@@ -126,7 +151,7 @@ c) ...
 
 3 - ...
 
-###### Art. 142.º - 1 - ...
+Art. 142.º - 1 - ...
 
 2 - ...
 
@@ -146,6 +171,6 @@ c) ...
 
 Ministério da Defesa Nacional.
 
-**Assinada em 3 de Maio de 1983.**
+Assinada em 3 de Maio de 1983.
 
-**O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.**
+O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.

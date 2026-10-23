@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/805-1982-396568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07b3d60bb804b9f2f16559de233eefcb5b6eb86381ea2029f6e51d5feefd08d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbcd6339c483e07117358eaf8bb8f6f9bf8933b91b5293c4eea60f37a8f524a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Plano de Urbanização
+- Regulamento
+- VILA NOVA de Famalicão
+relationships:
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:28Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +97,7 @@ Ministério da Habitação, Obras Públicas e Transportes, 14 de Julho de 1982. 
 
 Regulamento do Plano Parcial de Urbanização a Norte de Vila Nova de Famalicão
 
-###### Artigo 1.º Para o efeito de execução deste Plano Parcial, que se insere e subordina ao Plano Geral de Urbanização, em elaboração, os terrenos aqui contidos ficam condicionados às prescrições do presente Regulamento e classificados nas seguintes zonas:
+Artigo 1.º Para o efeito de execução deste Plano Parcial, que se insere e subordina ao Plano Geral de Urbanização, em elaboração, os terrenos aqui contidos ficam condicionados às prescrições do presente Regulamento e classificados nas seguintes zonas:
 
 1.1 - Zona residencial de alta densidade a criar;
 
@@ -100,20 +107,20 @@ Regulamento do Plano Parcial de Urbanização a Norte de Vila Nova de Famalicão
 
 1.4 - Zona florestal a conservar.
 
-###### Art. 2.º Os limites das diferentes zonas poderão ser alterados pelos futuros planos de pormenor quando se reconhecer conveniente proceder à sua correcção ou ajustamento.
+Art. 2.º Os limites das diferentes zonas poderão ser alterados pelos futuros planos de pormenor quando se reconhecer conveniente proceder à sua correcção ou ajustamento.
 
-###### Art. 3.º A zona residencial de alta densidade não deverá ultrapassar os 300 a 350 habitantes por hectare e estar equipada com um centro comercial, uma escola primária e outra pré-primária, estas com capacidade para a população escolar consequente.
+Art. 3.º A zona residencial de alta densidade não deverá ultrapassar os 300 a 350 habitantes por hectare e estar equipada com um centro comercial, uma escola primária e outra pré-primária, estas com capacidade para a população escolar consequente.
 
-###### Art. 4.º Na zona urbano-rural, a completar, só se admite a construção de moradias isoladas ou geminadas e os anexos próprios de uma habitação ou de apoio à actividade agrícola.
+Art. 4.º Na zona urbano-rural, a completar, só se admite a construção de moradias isoladas ou geminadas e os anexos próprios de uma habitação ou de apoio à actividade agrícola.
 
-###### Art. 5.º A zona agrícola a conservar não poderá ser loteada e a execução de quaisquer obras de construção civil só é permitida para fins agrícolas ou destinadas à habitação dos agricultores. As construções para habitação dos agricultores ficam limitadas a uma por cada propriedade.
+Art. 5.º A zona agrícola a conservar não poderá ser loteada e a execução de quaisquer obras de construção civil só é permitida para fins agrícolas ou destinadas à habitação dos agricultores. As construções para habitação dos agricultores ficam limitadas a uma por cada propriedade.
 
-###### Art. 6.º Na zona florestal a conservar não são permitidos quaisquer loteamentos e o abate de árvores fica condicionado a prévia autorização da Câmara Municipal.
+Art. 6.º Na zona florestal a conservar não são permitidos quaisquer loteamentos e o abate de árvores fica condicionado a prévia autorização da Câmara Municipal.
 
 Admite-se, no entanto, a construção de uma moradia por propriedade desde que esta não tenha área inferior a 2 ha.
 
-###### Art. 7.º A destruição acidental ou dolosa de uma área florestal não altera as características da zona definida no Plano Parcial.
+Art. 7.º A destruição acidental ou dolosa de uma área florestal não altera as características da zona definida no Plano Parcial.
 
-###### Art. 8.º Os casos omissos ou especiais que suscitem dúvidas de interpretação e não estejam contidos neste Regulamento serão resolvidos pela Câmara Municipal de Vila Nova de Famalicão mediante parecer da Direcção-Geral do Planeamento Urbanístico.
+Art. 8.º Os casos omissos ou especiais que suscitem dúvidas de interpretação e não estejam contidos neste Regulamento serão resolvidos pela Câmara Municipal de Vila Nova de Famalicão mediante parecer da Direcção-Geral do Planeamento Urbanístico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19500/24812482.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19500/24812482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19500/24812482.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/1991/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1991-475550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d85e9d704ab10ac61e8a303d4ae0f44c37dd06c8ae4441cb6df34ebab24de5e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad75d82c8b358e3c65fd5865c340c608f2086c0d6bc65fced9c7b29cd0c03284
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,207 @@ relationships:
   target: pt:dre:416864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459611:por
+  label: "Alterados, relativamente ao pessoal técnico, os quadros de pessoal constantes dos mapas II e IV anexos pela PORT.371-A/91.30.04.1991.MF,\
+    \ DR.IS-B [99-3º Supl] de 30.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-a-1991-459611
+  date: '1991-04-30'
+- type: amended_by
+  target: pt:dre:610757:por
+  label: "Alterado o quadro de pessoal da Delegação Regional da Indústria e Energia do Centro, constante do mapa I anexo ao\
+    \ presente diploma, pela PORT.389/91.08.05.1991.MF, DR.IS-B [105] de 08.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1991-610757
+  date: '1991-05-08'
+- type: amended_by
+  target: pt:dre:686437:por
+  label: "Alterado o quadro de pessoal da Delegação Regional da Indústria e Energia do Centro, constante do mapa II anexo\
+    \ ao presente diploma, pela PORT.727/91.31.07.1991.MF, DR.IS-B [174] de 31.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/727-1991-686437
+  date: '1991-07-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O MAPA III PELO DESPACHO NORMATIVO 201/91, PUBLICADO NO DR.IS-B, 214, DE 910917.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORTARIA 1210/91, PUBLICADA NO DR.IS-B, 293, DE 911220.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-12-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 126/92, PUBLICADA NO DR.IS-B, 51, DE 920229.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-02-29'
+- type: amended_by
+  target: pt:dre:168812:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA III PELO DESPACHO NORMATIVO 79/92, PUBLICADO NO DR.IS-B, 124, DE 920529.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-1992-168812
+  date: '1992-05-29'
+- type: amended_by
+  target: pt:dre:379111:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA III PELO DESPACHO NORMATIVO 78/92, PUBLICADO NO DR.IS-B, 124, DE 920526.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1210-1991-379111
+  date: '1992-05-29'
+- type: amended_by
+  target: pt:dre:517209:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO II, PELA PORTARIA 504/92, PUBLICADA NO DR.IS-B, 139, DE 920619.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/78-1992-517209
+  date: '1992-06-19'
+- type: amended_by
+  target: pt:dre:226067:por
+  label: "Alterado o quadro de pessoal da Delegação Regional da Indústria e Energia do Centro, constante do mapa II anexo\
+    \ ao presente diploma, pela PORT.964/92.10.10.1992.MF, DR.IS-B [234] de 10.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/964-1992-226067
+  date: '1992-10-10'
+- type: amended_by
+  target: pt:dre:517204:por
+  label: ALTERADO O QUADRO DE PESSOAL, CONSTANTE DO MAPA III ANEXO, PELA PORTARIA 520/93, PUBLICADA NO DR.IS-B, 113, DE 930515.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/79-1992-517204
+  date: '1993-05-15'
+- type: amended_by
+  target: pt:dre:301430:por
+  label: AUMENTADOS OS QUADROS DE PESSOAL CONSTANTES DOS MAPAS I E III, PELA PORTARIA 526/93, PUBLICADA NO DR.IS-B, 115, DE
+    930518.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/504-1992-301430
+  date: '1993-05-18'
+- type: amended_by
+  target: pt:dre:346737:por
+  label: "Alterado o quadro de pessoal da Delegação Regional da Indústria e Energia do Norte, constante do mapa I anexo ao\
+    \ presente diploma, pela PORT.690/93.22.07.1993.MF, DR.IS-B [170] de 22.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/690-1993-346737
+  date: '1993-07-22'
+- type: amended_by
+  target: pt:dre:275979:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DELEGAÇÃO REGIONAL DA INDÚSTRIA E ENERGIA DO CENTRO DO MINISTÉRIO DA INDÚSTRIA E
+    ENERGIA, PELO DESPACHO NORMATIVO 332/93, DE 16 DE SETEMBRO, PUBLICADO NO DR.IS-B, 240, DE 931013.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/520-1993-275979
+  date: '1993-10-13'
+- type: amended_by
+  target: pt:dre:281809:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DELEGAÇÃO REGIONAL DA INDÚSTRIA E ENERGIA DO CENTRO, CONSTANTE DO MAPA II, PELA PORTARIA
+    1210/93, DE 19 DE NOVEMBRO, PUBLICADA NO DR.IS-B, DE 931119.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1993-281809
+  date: '1993-11-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I ANEXO PELA PORTARIA 1233/93, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B,
+    280, DE 931130.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:668342:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA V ANEXO AO PRESENTE DIPLOMA, PELO DESPACHO NORMATIVO 417/93, DE 4
+    DE NOVEMBRO, PUBLICADO NO DR.IS-B, 288, DE 931211.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/332-1993-668342
+  date: '1993-12-11'
+- type: amended_by
+  target: pt:dre:550208:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I PELA PORTARIA 1284/93, DE 21 DE DEZEMBRO, PUBLICADO NO DR.IS-B,
+    296, DE 931221. 931227 - ALTERADO O QUADRO DE PESSOAL DA DELEGAÇÃO REGIONAL DA INDÚSTRIA E ENERGIA DO NORTE, CONSTANTE
+    DO MAPA I ANEXO AO PRESENTE DIPLOMA, PELA PORTARIA 1302/93, DE 27 DE DEZEMBRO, PUBLICADO NO DR.IS-B, 300.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/417-1993-550208
+  date: '1993-12-21'
+- type: amended_by
+  target: pt:dre:550662:por
+  label: ALTERADO QUADRO DE PESSOAL CONSTANTE DO MAPA I PELA PORTARIA 1285/93, DE 21 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 296.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1265-1993-550662
+  date: '1993-12-21'
+- type: amended_by
+  target: pt:dre:552329:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DELEGAÇÃO REGIONAL DA INDÚSTRIA E ENERGIA DO NORTE, CONSTANTE DO MAPA I ANEXO AO
+    PRESENTE DIPLOMA PELA PORTARIA 1289/93, DE 22 DE DEZEMBRO, PUBLICADO NO DR.IS-B, 297.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1233-1993-552329
+  date: '1993-12-22'
+- type: amended_by
+  target: pt:dre:676017:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DELEGAÇÃO REGIONAL DA INDÚSTRIA E ENERGIA DO ALENTEJO, CONSTANTE DO MAPA IV ANEXO
+    AO PRESENTE DIPLOMA, PELA PORTARIA 1288/93, DE 22 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 297.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1210-1993-676017
+  date: '1993-12-22'
+- type: amended_by
+  target: pt:dre:540982:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 29/94, DE 30 DE DEZEMBRO DE 1993, PUBLICADO NO DR.IS-B, 22,
+    DE 940127.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1288-1993-540982
+  date: '1994-01-27'
+- type: amended_by
+  target: pt:dre:540983:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA V ANEXO, PELO DESPACHO NORMATIVO 265/94, DE 22 DE MARCO, PUBLICADO
+    NO DR.IS-B, 94, DE 940422.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1289-1993-540983
+  date: '1994-04-22'
+- type: amended_by
+  target: pt:dre:540219:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I, PELO DESPACHO NORMATIVO 330/94, DE 12 DE ABRIL, PUBLICADO NO DR.IS-B,
+    110.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1285-1993-540219
+  date: '1994-05-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA V ANEXO, PELO DESPACHO NORMATIVO 458/94, DE 11 DE MAIO, PUBLICADO
+    NO DR.IS-B, 146, 940627.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-06-27'
+- type: amended_by
+  target: pt:dre:297206:por
+  label: ALTERADO O QUADRO DE PESSOAL DA DELEGAÇÃO REGIONAL DA INDÚSTRIA E ENERGIA DO ALGARVE, CONSTANTE DO MAPA V ANEXO,
+    PELA PORTARIA 1102/94, DE 10 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 284.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/533-1994-297206
+  date: '1994-12-10'
+- type: amended_by
+  target: pt:dre:3116119:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo, pela Port.297/96IIS.1996.08.26.PCM, DR.IIS [302] de 1996.12.31\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/297-1996-3116119
+  date: '1996-08-26'
+- type: amended_by
+  target: pt:dre:166667:por
+  label: "Alterado o mapa I anexo pela PORT.651/96.1996.11.13.PCM DR.IS-B [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/651-1996-166667
+  date: '1996-11-13'
+- type: amended_by
+  target: pt:dre:513790:por
+  label: "Alterado o quadro constante do mapa I pela Port.143/97.1997.02.28.PCM, DR.IS-B [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-1997-513790
+  date: '1997-02-28'
+- type: amended_by
+  target: pt:dre:3456367:por
+  label: "Alterao o quadro de pessoal, constante do mapa III pela PORT.370/97(2ªSÉRIE).1997.06.06.PCM, MF E MECO DR.IIS [150]\
+    \ DE 02/JUL/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-1997-3456367
+  date: '1997-06-06'
+- type: amended_by
+  target: pt:dre:3456370:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo pela PORT.367/97(2ªSÉRIE).1997.06.06.PCM, MF E MECO DR.IIS\
+    \ [150] DE 02/JUL/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/367-1997-3456370
+  date: '1997-06-06'
+- type: amended_by
+  target: pt:dre:3619127:por
+  label: "Alterado o quadro de pessoal constante do mapa V anexo PORT.623/97(2ªSÉRIE).1997.08.05.PCM, MF E MADRP DR.IIS [197]\
+    \ DE 27/AGO/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1997-3619127
+  date: '1997-08-05'
+- type: amended_by
+  target: pt:dre:1987009:por
+  label: "Alterado o quadro de pessoal constante do mapa II anexo pela PORT.515/98(2ªSÉRIE).1998.05.07.PCM DR.IIS [123] DE\
+    \ 28/MAI/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/515-1998-1987009
+  date: '1998-05-07'
+- type: amended_by
+  target: pt:dre:1315367:por
+  label: "Alterado o quadro de pessoal da Delegação Regional do Centro, constante do mapa II anexo ao presente diploma, pela\
+    \ PORT.662/98(2ªSÉRIE).1998.07.07.PCM, DR.IIS [163] de 17/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/662-1998-1315367
+  date: '1998-07-07'
+- type: amended_by
+  target: pt:dre:1428618:por
+  label: "Alterado o quadro de pessoal constantes do anexo II pela PORT.210/99(2ªSÉRIE).1999.02.24.PCM DR.IIS [62] DE 15/MAR/1999\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-1999-1428618
+  date: '1999-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -83,16 +284,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:144995:por
+  label: "Revogado pelo DEC LEI.78/99.1999.03.16.MECO, DR.IS-A [63] de 16/Mar/1999, mantendo-se em vigor os mapas de pessoal\
+    \ até que sejam aprovados, nos termos do nº 1 do art. 33º do presente diploma, os novos quadros de pessoal\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1999-144995
+  date: '1999-03-16'
 article_structure:
   article_count: 37
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:39Z'
   warnings: []
   errors: []
 ---
@@ -493,7 +748,9 @@ b) Repartição Administrativa.
 
 3 - Nas DRIEAL e DRIEAG, os serviços de apoio técnico-administrativo são constituídos pela Divisão de Apoio Técnico e pela Repartição Administrativa, directamente dependentes do director da DRIEL.
 
-###### Artigo 21.º — Divisão de Apoio Técnico
+###### Artigo 21.º
+
+##### Divisão de Apoio Técnico
 
 Incumbe à Divisão de Apoio Técnico:
 
@@ -687,15 +944,15 @@ Presidência do Conselho de Ministros, 15 de Outubro de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 31 de Dezembro de 1990.**
+Promulgado em 31 de Dezembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Janeiro de 1991.**
+Referendado em 7 de Janeiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Do MAPA I ao MAPA VI
 

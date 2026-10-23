@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1973-422228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d04af63eb7dad808b204ee2fa80b40225bc50433062b6df40b32efa6717b4155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 086a4c77af538d693a8a9c11442290ab3a652052f4833ee3e5ba6acf0ebdaa6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:501254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625592:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:08Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Nestas condições:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 38292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38292-1951-625592), de 8 de Junho de 1951, o seguinte:
 
-###### Artigo único. Às taxas previstas na [Portaria n.º 22452](https://diariodarepublica.pt/dr/detalhe/portaria/22452-1967-501254), de 14 de Janeiro de 1967, são acrescentadas as seguintes:
+Artigo único. Às taxas previstas na [Portaria n.º 22452](https://diariodarepublica.pt/dr/detalhe/portaria/22452-1967-501254), de 14 de Janeiro de 1967, são acrescentadas as seguintes:
 
 1 - Aprovisionamento de aeronaves:
 
@@ -244,6 +252,6 @@ Por pessoa: 5$00.
 
 Ministério das Comunicações, 27 de Abril de 1973. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11000/07670768.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11000/07670768.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11000/07670768.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

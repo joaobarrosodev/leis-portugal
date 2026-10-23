@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21493-1965-292912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d842294e171695c54dfe11229e9de2f7d7a158c46a0e3c1d5acb98aafaa941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 940ac5a76ae8ab61e1c5d92a4a6b7c4dc132926e1e0cb9d425b8276b6b72b471
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577368:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:09Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +109,19 @@ I
 
 Da organização
 
-###### Artigo 1.º Os concursos de prognósticos ou apostas mútuas sobre os resultados de competições desportivas, cuja organização foi atribuída à Santa Casa da Misericórdia de Lisboa pelo [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, são ampliados à província de Moçambique, a partir da próxima época oficial de futebol. Para assegurar os serviços necessários a esta ampliação é criada, com sede em Lourenço Marques, uma delegação da Santa Casa da Misericórdia de Lisboa.
+Artigo 1.º Os concursos de prognósticos ou apostas mútuas sobre os resultados de competições desportivas, cuja organização foi atribuída à Santa Casa da Misericórdia de Lisboa pelo [Decreto-Lei n.º 43777](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43777-1961-172897), de 3 de Julho de 1961, são ampliados à província de Moçambique, a partir da próxima época oficial de futebol. Para assegurar os serviços necessários a esta ampliação é criada, com sede em Lourenço Marques, uma delegação da Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 2.º Além de serviços administrativos, haverá na delegação serviços de instrução e fiscalização de agentes, expedição e recolha de bilhetes, contagem e conferência de apostas, microfilmagem de matrizes e escrutínio das apostas admitidas aos concursos. A todos estes serviços aplicar-se-ão os regulamentos internos e instruções em vigor no departamento de apostas mútuas desportivas.
+Art. 2.º Além de serviços administrativos, haverá na delegação serviços de instrução e fiscalização de agentes, expedição e recolha de bilhetes, contagem e conferência de apostas, microfilmagem de matrizes e escrutínio das apostas admitidas aos concursos. A todos estes serviços aplicar-se-ão os regulamentos internos e instruções em vigor no departamento de apostas mútuas desportivas.
 
-###### Art. 3.º As relações de serviço entre a Santa Casa da Misericórdia de Lisboa e a sua delegação serão efectuadas através do respectivo departamento.
+Art. 3.º As relações de serviço entre a Santa Casa da Misericórdia de Lisboa e a sua delegação serão efectuadas através do respectivo departamento.
 
-###### Art. 4.º Quando haja conveniência para os serviços e mediante proposta do chefe da delegação, sancionada pela mesa provincial, a mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas poderá sugerir a criação de subdelegações noutras localidades da província, com a competência que lhes for fixada.
+Art. 4.º Quando haja conveniência para os serviços e mediante proposta do chefe da delegação, sancionada pela mesa provincial, a mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas poderá sugerir a criação de subdelegações noutras localidades da província, com a competência que lhes for fixada.
 
 II
 
 Dos órgãos de administração
 
-###### Art. 5.º São órgãos de administração da delegação:
+Art. 5.º São órgãos de administração da delegação:
 
 a) A mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas;
 
@@ -121,7 +137,7 @@ f) A mesa provincial;
 
 g) O chefe da delegação.
 
-###### Art. 6.º A mesa provincial, que funcionará como delegada da mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas, terá a seguinte constituição:
+Art. 6.º A mesa provincial, que funcionará como delegada da mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas, terá a seguinte constituição:
 
 a) Representante da Direcção dos Serviços de Saúde e Assistência;
 
@@ -133,7 +149,7 @@ d) Presidente da Associação Provincial de Futebol.
 
 § único. O presidente da mesa provincial será designado, de entre os respectivos membros, pelo governador-geral da província.
 
-###### Art. 7.º Compete à mesa provincial, além de outras funções que lhe forem delegadas pela mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas:
+Art. 7.º Compete à mesa provincial, além de outras funções que lhe forem delegadas pela mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas:
 
 1.º Inteirar-se dos actos de administração praticados pelo chefe da delegação e das despesas por ele realizadas, assim como conhecer de todas as matérias que possam interessar às apostas mútuas desportivas na província e sobre elas deliberar, dentro da sua competência, ou propor à mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas o que julgar por conveniente.
 
@@ -153,11 +169,11 @@ d) Presidente da Associação Provincial de Futebol.
 
 9.º Dar parecer sobre todos os assuntos que lhe sejam submetidos pela mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas, comissão executiva, provedor, chefe do departamento ou pelo chefe da delegação.
 
-###### Art. 8.º A mesa provincial reunirá extraordinàriamente todas as semanas.
+Art. 8.º A mesa provincial reunirá extraordinàriamente todas as semanas.
 
 § único. Serão enviadas mensalmente à mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas cópias das actas das reuniões, acompanhadas dos elementos referidos no artigo seguinte.
 
-###### Art. 9.º Na segunda reunião de cada mês serão obrigatòriamente apresentados os seguintes elementos informativos:
+Art. 9.º Na segunda reunião de cada mês serão obrigatòriamente apresentados os seguintes elementos informativos:
 
 1.º Balancetes de todas as contas orçamentais de receita e despesa correspondentes ao mês anterior.
 
@@ -179,9 +195,9 @@ f) Número de reclamações com ou sem provimento;
 
 g) Número de contadores e escrutinadores.
 
-###### Art. 10.º Os membros da mesa provincial serão remunerados pela forma constante da tabela anexa à presente portaria.
+Art. 10.º Os membros da mesa provincial serão remunerados pela forma constante da tabela anexa à presente portaria.
 
-###### Art. 11.º Compete ao chefe da delegação:
+Art. 11.º Compete ao chefe da delegação:
 
 1.º Dirigir e coordenar os serviços da delegação.
 
@@ -219,13 +235,13 @@ g) Número de contadores e escrutinadores.
 
 § único. O chefe da delegação pode praticar qualquer dos actos da competência da mesa provincial, sempre que o exijam circunstâncias excepcionais e não seja possível reuni-la, ficando, porém, os actos praticados sujeitos a subsequente ratificação daquela mesa.
 
-###### Art. 12.º Quando a mesa provincial não sancionar os actos referidos no artigo anterior, poderá o chefe da delegação, mediante proposta fundamentada, solicitar a ratificação à mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas, à comissão executiva ou ao provedor, segundo as regras da respectiva competência.
+Art. 12.º Quando a mesa provincial não sancionar os actos referidos no artigo anterior, poderá o chefe da delegação, mediante proposta fundamentada, solicitar a ratificação à mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas, à comissão executiva ou ao provedor, segundo as regras da respectiva competência.
 
 III
 
 Dos serviços
 
-###### Art. 13.º Incumbe aos serviços da delegação:
+Art. 13.º Incumbe aos serviços da delegação:
 
 1.º Assegurar o expediente geral.
 
@@ -289,17 +305,17 @@ Dos serviços
 
 31.º Remeter ao departamento os originais de todos os documentos que respeitem ao pessoal dos quadros, ficando com fotocópia dos mesmos.
 
-###### Art. 14.º A mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas designará, entre os funcionários da delegação, o que há-de servir de oficial público na celebração dos contratos com o pessoal ou de fornecimentos e na passagem de certidões.
+Art. 14.º A mesa da Santa Casa da Misericórdia de Lisboa para a gerência das apostas mútuas desportivas designará, entre os funcionários da delegação, o que há-de servir de oficial público na celebração dos contratos com o pessoal ou de fornecimentos e na passagem de certidões.
 
 IV
 
 Dos júris
 
-###### Art. 15.º A recepção das matrizes das apostas - quer de agentes, quer de serviços da delegação -, a reprodução em microfilme das mesmas e o escrutínio para apuramento dos premiados competem a um júri constituído pelo chefe da delegação ou seu substituto, que presidirá, e por um representante da autoridade administrativa e outro da Direcção dos Serviços de Fazenda e Contabilidade, designados pelo governador-geral da província.
+Art. 15.º A recepção das matrizes das apostas - quer de agentes, quer de serviços da delegação -, a reprodução em microfilme das mesmas e o escrutínio para apuramento dos premiados competem a um júri constituído pelo chefe da delegação ou seu substituto, que presidirá, e por um representante da autoridade administrativa e outro da Direcção dos Serviços de Fazenda e Contabilidade, designados pelo governador-geral da província.
 
 § único. Nas operações previstas no corpo deste artigo, o júri será coadjuvado pelo pessoal necessário.
 
-###### Art. 16.º Compete ao júri do escrutínio:
+Art. 16.º Compete ao júri do escrutínio:
 
 1.º Superintender na recepção das matrizes, contagem, conferência e microfilmagem das mesmas, assim como fiscalizar estas operações.
 
@@ -325,33 +341,33 @@ d) Matrizes rectificadas;
 
 e) Apostas premiadas e classes de prémios.
 
-###### Art. 17.º As reclamações serão julgadas por um júri, constituído por um magistrado designado pelo Ministro do Ultramar, o qual presidirá, e por um representante da autoridade administrativa e outro da Direcção dos Serviços de Fazenda e Contabilidade, designados pelo governador-geral da província. Deste júri não pode fazer parte quem tenha intervindo na decisão reclamada.
+Art. 17.º As reclamações serão julgadas por um júri, constituído por um magistrado designado pelo Ministro do Ultramar, o qual presidirá, e por um representante da autoridade administrativa e outro da Direcção dos Serviços de Fazenda e Contabilidade, designados pelo governador-geral da província. Deste júri não pode fazer parte quem tenha intervindo na decisão reclamada.
 
-###### Art. 18.º Compete ao júri de reclamações julgar as reclamações nos termos da lei, lavrando-se acórdão fundamentado em relação a cada uma e elaborando-se, em duplicado, acta das sessões de julgamento.
+Art. 18.º Compete ao júri de reclamações julgar as reclamações nos termos da lei, lavrando-se acórdão fundamentado em relação a cada uma e elaborando-se, em duplicado, acta das sessões de julgamento.
 
-###### Art. 19.º Os membros dos júris serão remunerados de harmonia com a tabela anexa à presente portaria.
+Art. 19.º Os membros dos júris serão remunerados de harmonia com a tabela anexa à presente portaria.
 
 V
 
 Do pessoal
 
-###### Art. 20.º Todos os encargos com o pessoal que presta serviço na delegação, bem como os resultantes da deslocação em missão de serviço de funcionários da metrópole ou de pessoas estranhas ao quadro, serão imputados à exploração das apostas na província.
+Art. 20.º Todos os encargos com o pessoal que presta serviço na delegação, bem como os resultantes da deslocação em missão de serviço de funcionários da metrópole ou de pessoas estranhas ao quadro, serão imputados à exploração das apostas na província.
 
-###### Art. 21.º Tendo em consideração as grandes distâncias e dificuldades de comunicação, são autorizadas, sempre que indispensáveis, as deslocações por táxi dentro das cidades e por via aérea.
+Art. 21.º Tendo em consideração as grandes distâncias e dificuldades de comunicação, são autorizadas, sempre que indispensáveis, as deslocações por táxi dentro das cidades e por via aérea.
 
-###### Art. 22.º As gratificações destinadas a remunerar serviços especializados serão abonadas em todas as situações em que o funcionário receba o vencimento de exercício.
+Art. 22.º As gratificações destinadas a remunerar serviços especializados serão abonadas em todas as situações em que o funcionário receba o vencimento de exercício.
 
-###### Art. 23.º As gratificações por acumulações, funções de chefia, direcção, fiscalização, inspecção e situações semelhantes só poderão ser abonadas quando o funcionário estiver em exercício efectivo do cargo.
+Art. 23.º As gratificações por acumulações, funções de chefia, direcção, fiscalização, inspecção e situações semelhantes só poderão ser abonadas quando o funcionário estiver em exercício efectivo do cargo.
 
-###### Art. 24.º A concessão de abono de família, o regime de ajudas de custo e de faltas e licenças aplicáveis aos funcionários que prestam serviços na delegação em Moçambique da Santa Casa da Misericórdia de Lisboa serão regulados pelas disposições do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, e do Decreto-Lei n.º 41732, de 12 de Julho de 1958. Aplicar-se-ão também as disposições constantes do primeiro dos mencionados diplomas no que respeita aos direitos relativos a viagens.
+Art. 24.º A concessão de abono de família, o regime de ajudas de custo e de faltas e licenças aplicáveis aos funcionários que prestam serviços na delegação em Moçambique da Santa Casa da Misericórdia de Lisboa serão regulados pelas disposições do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, e do Decreto-Lei n.º 41732, de 12 de Julho de 1958. Aplicar-se-ão também as disposições constantes do primeiro dos mencionados diplomas no que respeita aos direitos relativos a viagens.
 
-###### Art. 25.º Os funcionários em comissão de serviço na delegação, que tenham na metrópole encargos de família, poderão requerer que o respectivo vencimento-base, em parte ou no todo, seja pago na metrópole.
+Art. 25.º Os funcionários em comissão de serviço na delegação, que tenham na metrópole encargos de família, poderão requerer que o respectivo vencimento-base, em parte ou no todo, seja pago na metrópole.
 
 VI
 
 Disposições diversas
 
-###### Art. 26.º É tornado extensivo à província de Moçambique o artigo 7.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942, com a seguinte redacção:
+Art. 26.º É tornado extensivo à província de Moçambique o artigo 7.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942, com a seguinte redacção:
 
 Enquanto não for fixado o quadro definitivo do pessoal do departamento de apostas mútuas desportivas poderão os Ministros da Saúde e Assistência e do Ultramar, em despacho conjunto, determinar livremente o provimento do pessoal indispensável à execução dos serviços da delegação criada por esta portaria e estabelecer as remunerações correspondentes aos cargos a desempenhar.
 
@@ -361,11 +377,11 @@ O quadro do pessoal deverá ser organizado dentro de um período de dois anos, f
 
 § 2.º Nos mesmos termos, é tornado extensivo à referida província o artigo 6.º do [Decreto-Lei n.º 45766](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45766-1964-577368), de 18 de Junho de 1964.
 
-###### Art. 27.º As compensações devidas à Santa Casa da Misericórdia de Lisboa são repartidas proporcionalmente ao produto ilíquido das apostas efectuadas na metrópole, Angola e Moçambique.
+Art. 27.º As compensações devidas à Santa Casa da Misericórdia de Lisboa são repartidas proporcionalmente ao produto ilíquido das apostas efectuadas na metrópole, Angola e Moçambique.
 
-###### Art. 28.º Consideram-se sancionadas as despesas realizadas até esta data para os fins consignados na presente portaria.
+Art. 28.º Consideram-se sancionadas as despesas realizadas até esta data para os fins consignados na presente portaria.
 
-###### Art. 29.º As disposições da presente portaria entram imediatamente em vigor.
+Art. 29.º As disposições da presente portaria entram imediatamente em vigor.
 
 Ministérios do Ultramar e da Saúde e Assistência, 27 de Agosto de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
 
@@ -373,6 +389,6 @@ Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
 Tabela das remunerações da mesa provincial e dos júris da delegação da Santa Casa da Misericórdia de Lisboa para a exploração das apostas mútuas desportivas em Moçambique.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/08/19300/11531156.pdf))](https://files.diariodarepublica.pt/1s/1965/08/19300/11531156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/08/19300/11531156.pdf)
 
 Ministérios do Ultramar e da Saúde e Assistência, 27 de Agosto de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

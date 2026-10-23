@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/848-1974-461247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3cf92343cf8d40223e5755a4f48f96dbd754040bf857436f872c03302ab9f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d229468caf3d04050e181b918aa9ff048d1ec94d28decf2544f19f0da3081a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Exército
+- Força Aérea
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:667106:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667106:por
+  label: "Substituída, a partir de 1 de Junho de 1977, a tabela de ajudas de custo aprovada no presente diploma, pela PORT.779-A/77.22.12.1977.CR,\
+    \ DR.IS [294]Supl de 22.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-a-1977-667106
+  date: '1977-12-22'
+- type: cites
+  target: pt:dre:422459:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:25Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +107,6 @@ Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n
 
 Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas que a tabela de ajudas de custo a que se refere a [Portaria n.º 359/73](https://diariodarepublica.pt/dr/detalhe/portaria/359-1973-422459), de 23 de Maio, seja substituída, a partir de 1 de Setembro de 1974, pela que seguidamente se publica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30300/16501650.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30300/16501650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30300/16501650.pdf)
 
 Conselho dos Chefes dos Estados-Maiores das Forças Armadas, 18 de Dezembro de 1974. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias. - O Ministro da Defesa Nacional, Victor Manuel Rodrigues Alves. - O Ministro das Finanças, José da Silva Lopes.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 121/1975, 1º Suplemento, Série I de 1975-05-26
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 730-(9) a 730-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf
 entry_into_force_dates: []
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-a-1975-526217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf07574ea03cc9d835247ccfa944cd7264499a8abe39828a0d448d60d3291d4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e592b6f044bdc1deb0d6a6269bb37a89f2ea951a9d6cb0a4e42871a5038cd98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Ensino
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Pessoal Eventual
+- Pessoal Técnico
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:252253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252253:por
+  label: "Aumentado de dois lugares de professor efectivo do 12º grupo o quadro de pessoal da Escola Secundária de Vila do\
+    \ Conde, aprovado no presente diploma, pelo DEC LEI.193/77.13.05.1977.MEIC, DR.IS [111] de 13.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-1977-252253
+  date: '1977-05-13'
+- type: corrected_by
+  target: pt:dre:335731:por
+  label: Rectificado o preâmbulo, o n.º 1 e o mapa a que se refere o artigo 1.º, pela DECL.DD9387.18.06.1975.PCM, DG.IS [138]
+    de 18.06.1975
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1975-335731
+  date: '1975-06-18'
+- type: repealed_by
+  target: pt:dre:354563:por
+  label: "Revogado o n.º 9 pelo DEC LEI.792/75.31.12.1975.MEIC, DG.IS [300]9ºSupl de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/792-1975-354563
+  date: '1975-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:53Z'
   warnings: []
   errors: []
 ---
@@ -119,20 +143,20 @@ Ministérios para o Planeamento e Coordenação Económica, das Finanças e da E
 
 Mapa a que se refere o n.º 1 da Portaria n.º 326-A/75, de 26 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf))](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf)
 
-**O Ministro da Educação e Cultura, José Emílio da Silva.**
+O Ministro da Educação e Cultura, José Emílio da Silva.
 
 Mapa n.º 2 a que se refere o n.º 2 da Portaria n.º 326-A/75, de 26 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf))](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf)
 
-**O Ministro da Educação e Cultura, José Emílio da Silva.**
+O Ministro da Educação e Cultura, José Emílio da Silva.
 
 Mapa n.º 3 a que se refere o n.º 6 da Portaria n.º 326-A/75, de 26 de Maio
 
 Grupo ou especialidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf))](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/05/12101/00090016.pdf)
 
-**O Ministro da Educação e Cultura, José Emílio da Silva.**
+O Ministro da Educação e Cultura, José Emílio da Silva.

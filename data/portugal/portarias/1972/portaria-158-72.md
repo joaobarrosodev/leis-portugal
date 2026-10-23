@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-1972-396743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bdfbbe253a9cb0bebee0c76e924ceb554eb71f0e38b72fc21b72f56a2d3f22a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 187b2088fed1e156a74caa0ba59fcfdbb66d132f8d84b8e9b9ff36911cd9cca2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643954:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:48Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +100,11 @@ Nos termos do n.º 2 do artigo 15.º do [Decreto-Lei n.º 237/71](https://diario
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, aprovar o Regulamento da Comissão Permanente da Indústria de Abate, que vai anexo a esta portaria, dela fazenda parte.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
 
 Regulamento da Comissão Permanente da Indústria de Abate
 
-###### Artigo 1.º - 1. A Comissão Permanente da Indústria de Abate reunirá, mediante convocação do presidente, por sua iniciativa ou por solicitação de qualquer dos vogais.
+Artigo 1.º - 1. A Comissão Permanente da Indústria de Abate reunirá, mediante convocação do presidente, por sua iniciativa ou por solicitação de qualquer dos vogais.
 
 2. Para todas as reuniões, cada vogal será expressamente convocado pelo presidente, pelo menos, com oito dias de antecedência.
 
@@ -100,23 +112,23 @@ Regulamento da Comissão Permanente da Indústria de Abate
 
 4. A discussão de qualquer matéria compreendida na ordem do dia pode ser adiada, total ou parcialmente, para outra reunião, a pedido fundamentado de qualquer dos membros e se a Comissão Permanente da Indústria de Abate assim o deliberar.
 
-###### Art. 2.º - 1. A presença dos vogais nas reuniões é obrigatória, devendo as faltas ser justificadas perante o presidente.
+Art. 2.º - 1. A presença dos vogais nas reuniões é obrigatória, devendo as faltas ser justificadas perante o presidente.
 
 2. Os vogais da Comissão Permanente da Indústria de Abate podem fazer-se substituir por representantes devidamente credenciados pelo departamento respectivo.
 
-###### Art. 3.º - 1. As reuniões da Comissão Permanente da Indústria de Abate só podem realizar-se com a presença da maioria do número legal dos seus membros, incluindo o presidente.
+Art. 3.º - 1. As reuniões da Comissão Permanente da Indústria de Abate só podem realizar-se com a presença da maioria do número legal dos seus membros, incluindo o presidente.
 
 2. A emissão do voto é obrigatória para todos os membros presentes nas reuniões, podendo ser acompanhada de declaração.
 
 3. As deliberações serão tomadas pela maioria dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 4.º - 1. Um secretário, sem direito a voto, lavrará a acta de cada reunião.
+Art. 4.º - 1. Um secretário, sem direito a voto, lavrará a acta de cada reunião.
 
 2. De cada acta será enviada cópia aos membros da Comissão Permanente da Indústria de Abate.
 
 3. No início de cada reunião será lida e submetida a aprovação a acta da reunião anterior, que, depois de aprovada, deverá ser assinada por todos os membros presentes à reunião a que respeita.
 
-###### Art. 5.º Compete, nomeadamente, ao presidente da Comissão Permanente da Indústria de Abate:
+Art. 5.º Compete, nomeadamente, ao presidente da Comissão Permanente da Indústria de Abate:
 
 a) Convocar e presidir às reuniões da Comissão;
 
@@ -128,25 +140,25 @@ d) Submeter a despacho superior os processos instruídos e estudados no âmbito 
 
 e) Orientar e despachar o expediente da Comissão.
 
-###### Art. 6.º O presidente, nos seus impedimentos, será substituído pelo vogal designado pelo Secretário de Estado da Agricultura.
+Art. 6.º O presidente, nos seus impedimentos, será substituído pelo vogal designado pelo Secretário de Estado da Agricultura.
 
-###### Art. 7.º A conveniência de se constituírem grupos de trabalho, bem como a escolha dos seus componentes, poderá ser decidida por votação dos membros da Comissão Permanente da Indústria de Abate, cabendo ao presidente voto de qualidade.
+Art. 7.º A conveniência de se constituírem grupos de trabalho, bem como a escolha dos seus componentes, poderá ser decidida por votação dos membros da Comissão Permanente da Indústria de Abate, cabendo ao presidente voto de qualidade.
 
-###### Art. 8.º Para a realização de estudos ou trabalhos necessários ao desempenho das suas funções, a Comissão Permanente da Indústria de Abate poderá solicitar a colaboração de outras entidades, incluindo consultores privados, nacionais ou estrangeiros.
+Art. 8.º Para a realização de estudos ou trabalhos necessários ao desempenho das suas funções, a Comissão Permanente da Indústria de Abate poderá solicitar a colaboração de outras entidades, incluindo consultores privados, nacionais ou estrangeiros.
 
-###### Art. 9.º - 1. As pretensões, sujeitas a deliberação da Comissão Permanente da Indústria de Abate, serão formuladas em requerimentos dos interessados dirigidos ao respectivo presidente.
+Art. 9.º - 1. As pretensões, sujeitas a deliberação da Comissão Permanente da Indústria de Abate, serão formuladas em requerimentos dos interessados dirigidos ao respectivo presidente.
 
 2. Os requerimentos serão instruídos com os documentos que a Comissão Permanente da Indústria de Abate entenda necessários para demonstração dos requisitos que a lei estabelece como condição de deferimento.
 
 3. Os requerimentos referidos nos números precedentes serão presentes à Comissão Permanente da Indústria de Abate na reunião seguinte à sua apresentação e a deliberação que sobre eles recaia comunicada ao requerente, logo que proferida.
 
-###### Art. 10.º - 1. Os requerimentos para instalação, alteração e ampliação dos matadouros a que se refere o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, devem mencionar o nome, nacionalidade e domicílio do requerente, qualidade em que requer, localização do estabelecimento e modalidade ou modalidades industriais a explorar.
+Art. 10.º - 1. Os requerimentos para instalação, alteração e ampliação dos matadouros a que se refere o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), de 29 de Maio, devem mencionar o nome, nacionalidade e domicílio do requerente, qualidade em que requer, localização do estabelecimento e modalidade ou modalidades industriais a explorar.
 
 2. Se a Comissão Permanente da Indústria de Abate considerar viável o pedido, avisará o requerente para apresentar, em quadruplicado, o projecto das instalações, alterações ou ampliações.
 
 3. O projecto e a respectiva memória descritiva devem conter os elementos referidos nas alíneas a), b) e c) do n.º 3 do artigo 5.º do [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966, na parte aplicável.
 
-###### Art. 11.º - 1. A Comissão Permanente da Indústria de Abate, recebidos os documentos referidos no n.º 3 do artigo anterior, enviará logo exemplar do projecto à Direcção-Geral dos Serviços Pecuários, à Direcção-Geral de Saúde e à Comissão Nacional do Frio e, quando for caso disso, à Direcção-Geral dos Serviços Industriais, para que sobre ele se pronunciem, e consultará a câmara municipal do concelho onde se pretendam realizar as obras de instalação, alteração ou ampliação do matadouro acerca da viabilidade dessas obras sob o ponto de vista urbanístico.
+Art. 11.º - 1. A Comissão Permanente da Indústria de Abate, recebidos os documentos referidos no n.º 3 do artigo anterior, enviará logo exemplar do projecto à Direcção-Geral dos Serviços Pecuários, à Direcção-Geral de Saúde e à Comissão Nacional do Frio e, quando for caso disso, à Direcção-Geral dos Serviços Industriais, para que sobre ele se pronunciem, e consultará a câmara municipal do concelho onde se pretendam realizar as obras de instalação, alteração ou ampliação do matadouro acerca da viabilidade dessas obras sob o ponto de vista urbanístico.
 
 2. Quando a Comissão Permanente da Indústria de Abate, obtidos os pareceres das entidades referidas no número anterior, considerar o projecto em condições de ser aprovado, dará conhecimento do facto ao requerente para que apresente a licença da respectiva câmara municipal para a execução das obras.
 
@@ -156,8 +168,8 @@ e) Orientar e despachar o expediente da Comissão.
 
 5. A vistoria referida no número anterior, de cujo auto será enviada cópia à Comissão Permanente da Indústria de Abate, habilitará a Direcção-Geral dos Serviços Pecuários a emitir a licença sanitária prevista no n.º 9 do artigo 7.º do [Decreto-Lei n.º 41380](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41380-1957-251851), de 20 de Novembro de 1957.
 
-###### Art. 12.º Das deliberações da Comissão Permanente da Indústria de Abate poderão os interessados recorrer, no prazo de trinta dias, contados da respectiva comunicação, para o Secretário de Estado da Agricultura.
+Art. 12.º Das deliberações da Comissão Permanente da Indústria de Abate poderão os interessados recorrer, no prazo de trinta dias, contados da respectiva comunicação, para o Secretário de Estado da Agricultura.
 
-###### Art. 13.º As condições a que devem obedecer os matadouros referidos no artigo 6.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954) constarão de instruções regulamentares aprovadas em portaria do Ministro da Economia, sob proposta da Comissão Permanente da Indústria de Abate.
+Art. 13.º As condições a que devem obedecer os matadouros referidos no artigo 6.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954) constarão de instruções regulamentares aprovadas em portaria do Ministro da Economia, sob proposta da Comissão Permanente da Indústria de Abate.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

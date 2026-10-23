@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1978-297991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecee96e0ae6238f6db56af41be277ef1c9dec8e998b71edf0feed287a65a612b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 016c1f7d6f34c6ea8a2c5a77921cf083a8138782ee29037f1b90e710c11f8f93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Almada
+- ÁREA NON Aedificandi
+- Câmara Municipal
+- Medidas Preventivas
+- Ordenamento do Território
+- Política de Solos
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:28Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +103,22 @@ Estão nestas condições as zonas designadas por PP7, PP9 e Centro-Sul, em Alma
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, ficam sujeitas a medidas preventivas as parcelas de terreno assinaladas por PP7, PP9 e Centro-Sul de Almada, na planta anexa, as quais consistem na proibição dos actos mencionados nas alíneas a) a f) do artigo 8.º, n.º 1, do mesmo decreto-lei.
+Artigo 1.º - 1 - Ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, ficam sujeitas a medidas preventivas as parcelas de terreno assinaladas por PP7, PP9 e Centro-Sul de Almada, na planta anexa, as quais consistem na proibição dos actos mencionados nas alíneas a) a f) do artigo 8.º, n.º 1, do mesmo decreto-lei.
 
 2 - O prazo das medidas preventivas é de dois anos.
 
-###### Art. 2.º A área sujeita às medidas preventivas é delimitada por uma linha poligonal com as seguintes confrontações: pelo norte, o Santuário do Cristo-Rei; pelo nascente, e sucessivamente, o Seminário de Almada, a Rua de Fernão Lourenço, a Avenida do Cristo-Rei, a Quinta da Horta, a Rua de D. João de Castro, a Azinhaga da Ramalha, a Avenida de D. Nuno Álvares Pereira, a Rua de Nuno Álvares Botelho, a Rua da Liberdade, a Rua da Terra dos Cortes Reais, a Rua de Vera Cruz, o Largo de Antero de Quental, a Avenida da Fundação, a Rua do Major Castelino Pais, a Estrada do Brejo, a Travessa do Brejo, a Avenida de D. Filipa de Lencastre, a Avenida do Infante Santo, a Rua de Frei Domingos da Caridade e o prolongamento da Rua de S. João, pelo sul, a Rua do Padre da Nóbrega, a Rua de José Estêvão Coelho de Magalhães, a Rua de Oliveira Martins, a Rua de Ramalho Ortigão e a Rua de António Elvas, e pelo poente a Auto-Estrada do Sul.
+Art. 2.º A área sujeita às medidas preventivas é delimitada por uma linha poligonal com as seguintes confrontações: pelo norte, o Santuário do Cristo-Rei; pelo nascente, e sucessivamente, o Seminário de Almada, a Rua de Fernão Lourenço, a Avenida do Cristo-Rei, a Quinta da Horta, a Rua de D. João de Castro, a Azinhaga da Ramalha, a Avenida de D. Nuno Álvares Pereira, a Rua de Nuno Álvares Botelho, a Rua da Liberdade, a Rua da Terra dos Cortes Reais, a Rua de Vera Cruz, o Largo de Antero de Quental, a Avenida da Fundação, a Rua do Major Castelino Pais, a Estrada do Brejo, a Travessa do Brejo, a Avenida de D. Filipa de Lencastre, a Avenida do Infante Santo, a Rua de Frei Domingos da Caridade e o prolongamento da Rua de S. João, pelo sul, a Rua do Padre da Nóbrega, a Rua de José Estêvão Coelho de Magalhães, a Rua de Oliveira Martins, a Rua de Ramalho Ortigão e a Rua de António Elvas, e pelo poente a Auto-Estrada do Sul.
 
-###### Art. 3.º Compete à Câmara Municipal de Almada a fiscalização da observância das proibições referidas nas alíneas a) a f) do artigo 8.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, bem como a aplicação do disposto nos artigos 12.º e 13.º do mesmo decreto-lei.
+Art. 3.º Compete à Câmara Municipal de Almada a fiscalização da observância das proibições referidas nas alíneas a) a f) do artigo 8.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, bem como a aplicação do disposto nos artigos 12.º e 13.º do mesmo decreto-lei.
 
-###### Art. 4.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
+Art. 4.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Jaime José Matos da Gama - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 15 de Junho de 1978.**
+Promulgado em 15 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/15100/12011202.pdf))](https://files.diariodarepublica.pt/1s/1978/07/15100/12011202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15100/12011202.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/107a00/19982000.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2000/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2000-275867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e9a939c46ab7a8c77bb1f34c7c3d7ce73ea199a9ff4fe3999e451be610890b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34f185fa52236920382422fb660180f6ba922ad43dee1d2f5b91f8a074b24e20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção da Maternidade
-- Segurança no Trabalho
 - Licença Parental
 - Maternidade
 - Paternidade
-- Proteção ao Deficiente
 - Prestações da Segurança Social
+- Proteção ao Deficiente
+- Protecção da Maternidade
 - Regime Geral da Segurança Social
 - Regimes de Segurança Social
+- Segurança no Trabalho
 - Segurança Social
 - Subsídio
 - Subsídio de Adopção
@@ -88,6 +88,12 @@ relationships:
   target: pt:dre:603961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456212:por
+  label: "Alterado, a partir de 01.08.2008, o art. 20º do Dec Lei 154/88, de 29-Abr, na redacção do presente diploma, pelo\
+    \ DEC LEI.105/2008.25.06.2008.MTSSO, DR.IS [121] de 25.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2008-456212
+  date: '2008-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/333/1995/12/23/p/dre
   label: null
@@ -108,16 +114,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/17/1995/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/17/1995/06/09/p/dre
+- type: cites
+  target: pt:dre:223422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603961:por
+  label: "Revogado, a partir de 01.05.2009, o Dec Lei 154/88, de 29-Abr, na redacção do presente diploma, pelo DEC LEI.91/2009.09.04.2009.MTSSO,\
+    \ DR.IS [70] de 09.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2009-603961
+  date: '2009-04-09'
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:08Z'
   warnings: []
   errors: []
 ---
@@ -152,17 +196,23 @@ Protecção na maternidade
 
 2 - Os beneficiários do regime de segurança social dos trabalhadores independentes têm igualmente direito ao esquema de prestações previsto no presente diploma, com excepção do subsídio correspondente à licença de cinco dias a gozar pelo pai, dos subsídios para assistência a descendentes doentes, para assistência a deficientes profundos e doentes crónicos, por licença parental e por faltas especiais dos avós, regulados no âmbito do presente diploma.
 
-###### Artigo 2.º — Caracterização das eventualidades
+Artigo 2.º
+
+Caracterização das eventualidades
 
 1 - A protecção social estabelecida neste diploma abrange as situações respeitantes à saúde e à segurança no trabalho das beneficiárias grávidas, puérperas e lactantes, bem como as situações de incapacidade ou de indisponibilidade para o exercício da actividade profissional por motivo de maternidade, paternidade, acompanhamento de menores adoptados, assistência a filhos, assistência na doença a filhos do beneficiário ou do cônjuge e a adoptados, menores ou deficientes, assistência a deficientes profundos e doentes crónicos e nascimento de netos.
 
 2 - ...
 
-###### Artigo 3.º — Modalidades das prestações
+Artigo 3.º
+
+Modalidades das prestações
 
 A protecção social efectiva-se mediante a atribuição de prestações pecuniárias, designadas subsídios de maternidade, de paternidade, por adopção, por licença parental, para assistência na doença a descendentes menores ou deficientes, para assistência a deficientes profundos e doentes crónicos, por riscos específicos e por faltas especiais dos avós.
 
-###### Artigo 5.º — Exclusão do direito aos subsídios
+Artigo 5.º
+
+Exclusão do direito aos subsídios
 
 1 - Não têm direito aos subsídios previstos neste diploma:
 
@@ -172,7 +222,9 @@ b) Os beneficiários que se encontrem a receber prestações de desemprego, sem 
 
 2 - O recebimento de prestações de desemprego não prejudica o reconhecimento do direito aos subsídios de maternidade, paternidade e adopção, com os efeitos previstos no regime jurídico de protecção no desemprego.
 
-###### Artigo 20.º — Meios de prova
+Artigo 20.º
+
+Meios de prova
 
 1 - ...
 
@@ -190,7 +242,9 @@ f) Comprovação pelo Instituto de Desenvolvimento e Inspecção das Condições
 
 2 - ...
 
-###### Artigo 22.º — Efeitos das faltas e licenças
+Artigo 22.º
+
+Efeitos das faltas e licenças
 
 1 - Os períodos de faltas e licenças que determinem o reconhecimento do direito a prestações, incluindo a prevista no n.º 2 do artigo 19.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, na redacção que lhe foi dada pela [Lei n.º 142/99](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), de 31 de Agosto, dão lugar ao registo de remunerações por equivalência à entrada de contribuições, sendo considerados como trabalho efectivamente prestado.
 
@@ -206,7 +260,9 @@ Montante do subsídio por licença parental
 
 O montante diário do subsídio por licença parental corresponde a 100% da remuneração de referência do beneficiário.
 
-###### Artigo 12.º-D — Montante do subsídio por faltas especiais dos avós
+Artigo 12.º-D
+
+Montante do subsídio por faltas especiais dos avós
 
 O montante diário do subsídio por faltas especiais dos avós corresponde a 100% da remuneração de referência do beneficiário.»
 
@@ -220,12 +276,12 @@ O presente diploma produz efeitos desde 1 de Dezembro de 1999.
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 14 de Abril de 2000.**
+Promulgado em 14 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Abril de 2000.**
+Referendado em 20 de Abril de 2000.
 
-**O Primeiro-Ministro em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro em exercício, Jaime José Matos da Gama.

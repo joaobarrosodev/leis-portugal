@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26042606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2007-520998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2640c7b90e4e3f8ff44a322d61d8f6792e405a08033c658ac6f79a783e249d0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0ccbda8df3eccc61daca5301e41bf2fac9ebbfc5a6bf6c0c74aa583960d538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Definição de Competências
 - Instituto Camões
-- Conselho Consultivo
+- Ministério dos Negócios Estrangeiros
 - Orgânica
 - Presidente
-- Ministério dos Negócios Estrangeiros
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:543919:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:479644:por
+  label: "Alterados os art.s 1º, 2º, 3º, 4º, 6º, 7º, 8º, 9º e 10º, aditado um art. 6º-A, revogado o nº 2 do art. 9º e republicado,\
+    \ pelo DEC LEI.165-A/2009.28.07.2009.MNE, DR.IS [144-Supl] de 28.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-a-2009-479644
+  date: '2009-07-28'
+- type: amended_by
+  target: pt:dre:145192:por
+  label: "Extinto, nos termos dos arts. 24.º e 26.º, o Instituto Camões, IP, cuja orgânica foi aprovada pelo presente diploma,\
+    \ sendo objecto de fusão e as suas atribuições integradas no Camões - Instituto da Cooperação e da Língua, IP, pelo DEC\
+    \ LEI.121/2011.29.12.2011.MNE, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2011-145192
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543919:por
+  label: "Determinado que o Camões, I. P., suceda nas atribuições do Instituto Camões, I. P. (IC, I. P.) e revogado, a partir\
+    \ de 01.02.2012, o presente diploma, que aprova a respetiva orgânica, na redacção do Dec Lei 165-A/2009, de 28-jul, pelo\
+    \ DEC LEI.21/2012.30.01.2012.MNE, DR.IS [21] de 30.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2012-543919
+  date: '2012-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/1997/07/05/p/dre
   label: null
@@ -89,16 +109,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:156847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:655172:por
+  label: "Rectificado pela DECL-RECT.59-B/2007.26.06.2007.PCM, DR.IS [121]Supl de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-b-2007-655172
+  date: '2007-06-26'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:04Z'
   warnings: []
   errors: []
 ---
@@ -267,12 +304,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago - Mário Vieira de Carvalho - Augusto Ernesto Santos Silva.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

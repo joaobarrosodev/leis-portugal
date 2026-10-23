@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/789-1980-462195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 973b78984078c54d8ae4f13145228364bc1c19c8e0a91c7c5a5206ca25fee7db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7503bca8d1bd4e91f9b196352eda9151e4982c83f1a3f3ddbce8e82e8affddf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Informática
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:177070:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575888:por
+  label: "Criado um lugar de assessor informático no quadro de pessoal anexo ao presente diploma, pela PORT.710/81.20.08.1981.MFP,\
+    \ DR.IS [190] de 20.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-1981-575888
+  date: '1981-08-20'
+- type: amended_by
+  target: pt:dre:177070:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.698/85.21.09.1985.PCM, DR.IS\
+    \ [218] de 21.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-1985-177070
+  date: '1985-09-21'
+- type: cites
+  target: pt:dre:156799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:09Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +124,6 @@ Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 22
 
 Quadro a que se refere a Portaria n.º 789/80 de 6 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23100/31353135.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23100/31353135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23100/31353135.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

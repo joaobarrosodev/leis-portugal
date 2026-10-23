@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 61/1976, 1º Suplemento, Série I de 1976-03-12
   number: '61'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 514-(1) a 514-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/06101/00010002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/139-a-1976-273830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d1663af220f9e907f1e95a2f21879c7b483248ae3a803f26aea3317e0f7c1c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23b1a93a7dbc717f6b16afbe6cd18b61aeeab1a6c1aebe6584076f05cbe70c51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Primário
+- Formação Profissional
+- Habilitações Literárias
+- Pessoal Docente
+- Plano de Estudos
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:365957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365957:por
+  label: "Alterado o n.º 2 pela PORT.697/79.20.12.1979.ME, DR.IS [292] de 20.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1979-365957
+  date: '1979-12-20'
+- type: cites
+  target: pt:dre:312418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:431270:por
+  label: Rectificada pela DECL.DD9026.30.06.1976.PCM, DR.IS [151] de 30.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-431270
+  date: '1976-06-30'
+- type: repealed_by
+  target: pt:dre:430674:por
+  label: Revogado o n.º 13, pelo(a) Portaria n.º 451/76 - Diário da República n.º 172/1976, Série I de 1976-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/451-1976-430674
+  date: '1976-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:17Z'
   warnings: []
   errors: []
 ---

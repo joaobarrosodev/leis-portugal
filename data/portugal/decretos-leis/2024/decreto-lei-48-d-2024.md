@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/14701/0000700010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48-d/2024/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-d-2024-874170160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f11faa9d0f2e020a385a49c39e949a55e9d935c94cb6cedc03769b27d3a56f39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a352ee946f5c0c38b58fe257bda2adf99b8170d554dc39cf04779f6a0adb2d98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- Serviços de Registo e Notariado
-- Emolumento do Notariado
 - Contribuições e Impostos
+- Emolumento do Notariado
 - IRS
+- Serviços de Registo e Notariado
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:322-A/2001
+  label: Altera, a partir de 1 de agosto de 2024, com efeitos a 1 de agosto de 2024, o artigo 28.º do Regulamento Emolumentar
+    dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, Diário da República n.º 288/2001,
+    1º Suplemento, Série I-A
+  source: null
+  date: '2001-12-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
   label: null
@@ -85,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/48-a/2024/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48-a/2024/07/25/p/dre
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873616105:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:34Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +238,7 @@ b) O registo de hipoteca voluntária para garantia de mútuo concedido para a aq
 
 39 - Quando os pressupostos das isenções a que se referem as alíneas a) e b) do n.º 37 se verificarem apenas relativamente a algum ou alguns dos adquirentes, os emolumentos devidos pelos registos de aquisição e de hipoteca são reduzidos proporcionalmente.
 
-40 - Se, para a situação prevista na alínea a) do n.º 37, for utilizado o procedimento especial de transmissão, oneração e registo de imóveis previsto nos n.<sup>os</sup>1 e 2 do artigo 27.º-A, os emolumentos devidos pelo procedimento são reduzidos em:
+40 - Se, para a situação prevista na alínea a) do n.º 37, for utilizado o procedimento especial de transmissão, oneração e registo de imóveis previsto nos n.os1 e 2 do artigo 27.º-A, os emolumentos devidos pelo procedimento são reduzidos em:
 
 a) € 225, se apenas for registado um facto;
 
@@ -237,12 +260,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 26 de julho de 2024. - Luís Montenegro - Rita Fragoso de Rhodes Alarcão Júdice de Abreu e Mota - Ana Margarida Balseiro de Sousa Lopes.
 
-**Promulgado em 30 de julho de 2024.**
+Promulgado em 30 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de julho de 2024.**
+Referendado em 31 de julho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117979712

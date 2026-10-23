@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/2006/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2006-541635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd169e2a4c40105dbb67ce64daf2988b058bef95fa2a622230bcf69180d93c36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13912d3bcbb02b27be5b4b63a20a290bebeb771bc5860ca62c1dcdaa994ca106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ASAE
 - Contra-ordenação
 - Direcção Regional de Agricultura
-- Transporte de Resíduos
-- ASAE
+- Eliminação de Resíduos
 - Embalagem
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Tratamento de Resíduos
 - Produto Fitofarmacêutico
-- Eliminação de Resíduos
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:260454:por
@@ -100,16 +100,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/29-b/1998/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/29-b/1998/01/15/p/dre
+- type: cites
+  target: pt:dre:173369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594308:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:544869:por
+  label: "Rectificado pela DECL-RECT.78/2006.09.11.2006.PCM, DR.IS [222] de 17.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/78-2006-544869
+  date: '2006-11-09'
+- type: repealed_by
+  target: pt:dre:260454:por
+  label: "Revogado, a partir de 16.04.2013, o Dec Lei 173/2005 de 21-out DR.IS-A [203], alterado pelo presente diploma, pela\
+    \ LEI.26/2013.11.04.2013.AR, DR.IS [71] de 11.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2013-260454
+  date: '2013-04-11'
 article_structure:
-  article_count: 28
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:17Z'
   warnings: []
   errors: []
 ---
@@ -368,7 +399,9 @@ Os artigos 13.º, 15.º, 19.º, 25.º, 26.º, 28.º e 29.º do [Decreto-Lei n.º
 
 8 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -402,17 +435,23 @@ d) Um contrato de seguro válido para cobertura adequada da responsabilidade civ
 
 12 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os resíduos de embalagens e os resíduos de excedentes de produtos fitofarmacêuticos devem ser tratados no âmbito de sistemas de gestão, de acordo, respectivamente, com a legislação aplicável às embalagens, resíduos de embalagens, respeitando, ainda, as indicações emanadas pela DGPC expressas no rótulo daqueles produtos.
 
 2 - As condições e procedimentos de segurança a que devem obedecer os sistemas de gestão dos resíduos de embalagens e dos resíduos de excedentes de produtos fitofarmacêuticos constam de legislação específica.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Sem prejuízo das competências atribuídas por lei a outras entidades, a inspecção e fiscalização ao disposto no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE), à DGPC, às DRA, à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), às autoridades regionais dos resíduos e às autoridades policiais.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -448,7 +487,9 @@ o) (Revogada.)
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O levantamento dos autos de contra-ordenação pelas infracções referidas nas alíneas a) a f) do n.º 1 do artigo 26.º é da competência da ASAE e da IGAOT, assim como das autoridades policiais e fiscalizadoras.
 
@@ -462,7 +503,9 @@ o) (Revogada.)
 
 6 - A aplicação das coimas e sanções acessórias a que se referem os n.os 2 e 4 compete ao director-geral de Protecção das Culturas.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 O produto das coimas reverte:
 
@@ -500,12 +543,12 @@ São revogadas as alíneas o) do n.º 1 do artigo 26.º e c) do artigo 29.º do 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - António Luís Santos Costa - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 6 de Setembro de 2006.**
+Promulgado em 6 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 7 de Setembro de 2006.**
+Referendado em 7 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

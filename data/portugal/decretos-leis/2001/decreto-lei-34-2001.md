@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2001/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2001-319906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e71d3ba4c0c895cc4b142777b4a4ed4aacb904a890bc1d05b9899c028b35a145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26ede8c1ec0c6dcc45b8f7fd49d43d95eb3d71e58e5235c6df66df1f7c4f3bf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
 - Azeite
 - Feoga
 - Feoga-garantia
+- Financiamento
 - Instituto Nacional de Intervenção e Garantia Agrícola
-- Tabaco
-- Ruris
 - Política Agrícola Comum
-- Agricultor
 - Regulamento CE
-- Agricultura
+- Ruris
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:197357:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583642:por
+  label: "Alterado o art. 9º (vigência) pelo DEC LEI.281/2001.2001.10.25.MADRP DR.IS-A [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/281-2001-583642
+  date: '2001-10-25'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -91,16 +96,21 @@ relationships:
   target: celex:31999R1259
   label: null
   source: http://data.europa.eu/eli/reg/1999/1259/oj
+- type: repealed_by
+  target: pt:dre:197357:por
+  label: "Revogado pelo DEC LEI.173/2002.2002.07.25.MADRP, DR IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2002-197357
+  date: '2002-07-25'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:10Z'
   warnings: []
   errors: []
 ---
@@ -173,22 +183,22 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf)](https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf)
 
 ## ANEXO II — (a que se refere o artigo 2.º)
 
 Ajudas directas a modular em euros
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf)](https://files.diariodarepublica.pt/1s/2001/02/033a00/06620664.pdf)

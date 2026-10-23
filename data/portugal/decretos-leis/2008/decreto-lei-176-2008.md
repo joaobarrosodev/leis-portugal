@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16400/0598805989.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/2008/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2008-453561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dee1f168a7b374a609208ce2477d7f6a4caa4b7dad867ab9cb4f6ed88abc147
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e53d92f587ab94722754a017eeec26858564f888043ebc984ee887c5a2a58754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento de Elevação
 - Aproximação das Legislações
+- Elevador
+- Equipamento de Elevação
 - Normas de Segurança
 - Segurança dos Edifícios
-- Elevador
 relationships:
 - type: amended_by
   target: pt:dre:107495705:por
@@ -87,16 +87,22 @@ relationships:
   target: celex:32006L0042
   label: null
   source: http://data.europa.eu/eli/dir/2006/42/oj
+- type: repealed_by
+  target: pt:dre:107495705:por
+  label: Revogado o Dec Lei 295/98 de 22-set, na redação do presente diploma, pelo(a) Decreto-Lei n.º 58/2017 - Diário da
+    República n.º 112/2017, Série I de 2017-06-09, sem prejuízo do disposto no seu art. 45.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2017-107495705
+  date: '2017-06-09'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:08Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +157,9 @@ j) Os aparelhos de elevação cuja velocidade de deslocação seja igual ou infe
 
 l) As escadas mecânicas e os tapetes rolantes.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 a) Ascensor - aparelho de elevação destinado a transportar pessoas, pessoas e carga ou unicamente carga, mediante a translação, entre diferentes níveis, de um habitáculo que se desloca ao longo de guias rígidas, cuja inclinação em relação à horizontal é superior a 15º, ou cujo trajecto no espaço é perfeitamente definido, devendo, ainda, no caso de se destinar unicamente a carga, o habitáculo ser acessível à entrada de pelo menos uma pessoa e equipado com comandos situados no seu interior ou ao alcance de qualquer pessoa que nele se encontre;
 
@@ -171,7 +179,9 @@ h) ...
 
 i) Habitáculo - parte de um ascensor na qual as pessoas tomam lugar e ou as cargas são colocadas a fim de serem transportadas no sentido ascendente ou descendente.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 -...
 
@@ -301,12 +311,12 @@ O presente decreto-lei entra em vigor em 29 de Dezembro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 30 de Julho de 2008.**
+Promulgado em 30 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Agosto de 2008.**
+Referendado em 1 de Agosto de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

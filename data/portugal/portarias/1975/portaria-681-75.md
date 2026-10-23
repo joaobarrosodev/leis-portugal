@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/681-1975-310416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:52:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd263a7690049dba689c39c259c309971308961cd1027e96dec6f6635659f25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be4801d2f7625106ee38f1580d661dd26008973f24515ba08119b047d001df41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:52:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bélgica
+- Consulado
+- Consulado Geral
+- Consulado Honorário
+- Itália
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:52:42Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +111,7 @@ Vice-Consulado honorário em Bruges - Província da Flandres Ocidental.
 
 22) Distrito consular de Bruxelas:
 
-#### Secção consular da Embaixada em Bruxelas - Província de Brabante e província de Namur;
+Secção consular da Embaixada em Bruxelas - Província de Brabante e província de Namur;
 
 Consulado honorário em Liège - Província de Liège, com excepção do arrondissement de Verviers, e província do Luxemburgo, com excepção do arrondissement de Bastogne;
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 174/1983, 5º Suplemento, Série I de 1983-07-30
   number: '174'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 2832-(57) a 2832-(59)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-a2-1983-435630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ec3c9d852076f911f6bd96c95659da27402604deca4bddf784db96f10b454d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3a89c85a550f67b3c51314154af71996b8146e506d906fdc9e84d8a8c44b5d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Coimbra
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Ensino Superior Politécnico
+- Escola Superior Agrária
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:403683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662694:por
+  label: "Alterado o n.º 2.º e os quadros III dos anexos I e II, pela PORT.126/87.24.02.1987.MEC, DR.IS [46] de 24.02.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-1987-662694
+  date: '1987-02-24'
+- type: amended_by
+  target: pt:dre:499482:por
+  label: "Alterados os quadros I e II dos anexos I e II pela PORT.950/87.19.12.1987.ME, DR.IS [291] de 19.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/950-1987-499482
+  date: '1987-12-19'
+- type: cites
+  target: pt:dre:236683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553067:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:403683:por
+  label: "Revogada pela PORT.889/91.29.08.1991.ME, DR.IS-B [198] de 29.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/889-1991-403683
+  date: '1991-08-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:49:29Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +232,7 @@ As regras de matrícula e inscrição, bem como o regime de faltas, de avaliaç�
 
 Ministério da Educação.
 
-**Assinada em 7 de Junho de 1983.**
+Assinada em 7 de Junho de 1983.
 
 Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
 
@@ -197,19 +244,19 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
 
 ## ANEXO II — Curso de Produção Animal
 
@@ -219,16 +266,16 @@ QUADRO I
 
 1.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
 
 QUADRO II
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
 
 QUADRO III
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17405/00570059.pdf)

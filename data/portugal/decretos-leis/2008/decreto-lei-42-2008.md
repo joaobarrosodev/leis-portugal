@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04900/0149901503.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2008/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2008-247227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 326c7fa8ed1f7e06b139eea586106b7af19aa9932c3eca6de943ba33aeb9c66d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23594234c123dd8c809e9aaa8b5f1342886d745ed298e87887628b54a79c32e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Artesanato
+- ASAE
 - Bebida Alcoólica
 - Cadastro Comercial
+- Câmara Municipal
 - CE Países
-- Multa
 - Comércio a Retalho
+- Concorrência
+- Confidencialidade
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Concorrência
-- Artesanato
 - Exploração Pecuária
 - Feira
 - Feirante
 - Fiscalização
 - Horário de Funcionamento
-- ASAE
-- Página na Internet
 - Madeira.região Autónoma
-- Confidencialidade
-- Câmara Municipal
+- Multa
+- Página na Internet
 - Regime Jurídico
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:260444:por
@@ -105,16 +105,21 @@ relationships:
   target: celex:32005R0183
   label: null
   source: http://data.europa.eu/eli/reg/2005/183/oj
+- type: repealed_by
+  target: pt:dre:260444:por
+  label: "Revogado a partir de 12.05.2013, pela LEI.27/2013.12.04.2013.AR, DR.IS [72] de 12.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2013-260444
+  date: '2013-04-12'
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:48Z'
   warnings: []
   errors: []
 ---
@@ -441,12 +446,12 @@ O presente decreto-lei entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos - Jorge Miguel de Melo Viana Pedreira.
 
-**Promulgado em 27 de Fevereiro de 2008.**
+Promulgado em 27 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Fevereiro de 2008.**
+Referendado em 29 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

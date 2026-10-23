@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17300/0531305315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/2017/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2017-108113698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e010483a0494a3ac675831f292069919bc15c43d823722a6b0147bff6531e2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 877264dc591cb5f7caeba09fca02725fc7c7e1ec179be114af5239a297ed1cdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
-- Ministério das Finanças e da Administração Pública
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral dos Impostos
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Estatuto Remuneratório
 - Fundo de Estabilização Aduaneiro
-- Fundos Autónomos
-- Ministério das Finanças
-- Remuneração Acessória
-- Integração de Serviços
 - Fundo de Estabilização Tributário
+- Fundos Autónomos
+- Integração de Serviços
+- Ministério das Finanças
+- Ministério das Finanças e da Administração Pública
 - Orgânica
 - Remuneração
-- Estatuto Remuneratório
+- Remuneração Acessória
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -126,16 +126,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/68/2007/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2007/03/26/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:18Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +294,9 @@ i) Outras receitas que lhe venham a ser atribuídas.
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -206,7 +308,9 @@ c) ...
 
 d) O pagamento das apólices de seguro de responsabilidade civil para cobertura do risco inerente ao desempenho profissional de trabalhadores da AT.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +328,9 @@ e) (Revogada.)
 
 3 - A duração do mandato dos membros referidos nas alíneas b) e c) do n.º 1 é de três anos, renováveis por iguais períodos de tempo.
 
-###### Artigo 11.º — Fiscal único
+Artigo 11.º
+
+Fiscal único
 
 1 - A fiscalização do FET é assegurada por um fiscal único, a quem compete o controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do Fundo, obrigando-se, designadamente, a:
 
@@ -300,12 +406,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 12 de junho de 2017.**
+Promulgado em 12 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de junho de 2017.**
+Referendado em 28 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21687-1965-512245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c09d8f6ed67b756b20d476edcc78499dba0546f669ad606d5623cb862f660826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eb869ed38d52de6e6158c380cf6b7daf3552115f8adad1be234a2403f14acb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:512432:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:31Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Tendo em vista o disposto no n.º III da base LXXXIII da Lei Orgânica do Ultram
 
 Manda o Governo da República Portuguesa, pelo Presidente do Conselho, nos termos do artigo 107.º da Constituição, que sejam publicados no Boletim Oficial das províncias ultramarinas de Angola e Moçambique, para ali vigorarem, os Decretos n.os 46646 e 46647, ambos de 16 de Novembro corrente, com a seguinte alteração no artigo único do citado [Decreto n.º 46647](https://diariodarepublica.pt/dr/detalhe/decreto/46647-1965-512432):
 
-###### Artigo único. Quando assim se mostre necessário para assegurar o conveniente funcionamento do serviço, poderá o Ministro da Educação Nacional, ouvido o reitor dos Estudos Gerais Universitários, autorizar segundos-assistentes do ensino superior a exercerem o cargo até dois anos além do limite fixado no Decreto n.º 35964, de 20 de Novembro de 1946.
+Artigo único. Quando assim se mostre necessário para assegurar o conveniente funcionamento do serviço, poderá o Ministro da Educação Nacional, ouvido o reitor dos Estudos Gerais Universitários, autorizar segundos-assistentes do ensino superior a exercerem o cargo até dois anos além do limite fixado no Decreto n.º 35964, de 20 de Novembro de 1946.
 
 Ministério do Ultramar, 24 de Novembro de 1965. - O Presidente do Conselho, António de Oliveira Salazar.
 

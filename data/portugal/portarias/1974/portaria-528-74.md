@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-1974-475740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2676cdfe9e748972780ff04a1c5597338ae2bfac84a92c1405b87a9261898b9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87783db31692182042d5821dab20da54537d3255950092fadb8f1d290716c93c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:35Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Considerando o que foi proposto pelo Governo de Macau no sentido de serem refor�
 
 Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, nos termos dos artigos 11.º, alínea h), e 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo de Macau, tomando como contrapartida o saldo das contas de exercícios findos, abra um crédito especial de 25658000$00 para reforço das seguintes verbas da tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1974:
 
-### Capítulo 12.º, artigo 278.º «IV Plano de Fomento - Programa de execução para 1974»:
+Capítulo 12.º, artigo 278.º «IV Plano de Fomento - Programa de execução para 1974»:
 
 II) Turismo ... 8500000$00
 

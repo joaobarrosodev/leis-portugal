@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/12700/0000500008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2023/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2023-215085998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59746274cc276a1121d0ca99498ca9f87cb929ea932e042159f14624bbfe02b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79fc57ffd169ac49165cf55de5036f0ac8df9691cfb3fbd2c65611cd9855ee6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- Pessoal Dirigente
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
 - Instituto de Turismo de Portugal
 - Instituto Público
 - Orgânica
+- Pessoal Dirigente
 - ZONA de JOGO
 relationships:
 - type: cites
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:15Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +158,9 @@ Os artigos 2.º, 3.º, 7.º e 8.º do [Decreto-Lei n.º 129/2012](https://diario
 
 4 - O Turismo de Portugal, I. P., desenvolve a sua ação no exterior, através de uma rede de equipas de turismo no estrangeiro, que atua de forma unificada com os serviços periféricos externos do Ministério dos Negócios Estrangeiros (MNE), da respetiva área geográfica e na dependência funcional do chefe de missão diplomática, ou a ele equiparado.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O Turismo de Portugal, I. P., tem por missão o apoio ao investimento no setor do turismo, a qualificação e desenvolvimento das infraestruturas turísticas, a coordenação da promoção interna e externa de Portugal como destino turístico, o desenvolvimento da formação de recursos humanos do setor, a promoção turística da competitividade das acessibilidades aéreas, rodoferroviárias e de navegabilidade ao território nacional, bem como o controlo, inspeção e regulação da exploração e prática de jogos de fortuna ou azar de base territorial (jogos de base territorial) e de jogos de fortuna ou azar, de apostas desportivas à cota e de apostas hípicas, mútuas e à cota, quando praticados à distância, através de suportes eletrónicos, informáticos, telemáticos e interativos, ou por quaisquer outros meios (jogos e apostas online).
 
@@ -188,7 +206,9 @@ s) Gerir, de forma integrada, a rede de equipas de turismo no estrangeiro a que 
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -200,7 +220,9 @@ s) Gerir, de forma integrada, a rede de equipas de turismo no estrangeiro a que 
 
 5 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -252,12 +274,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de maio de 2023. - António Luís Santos da Costa - João Titterington Gomes Cravinho - Fernando Medina Maciel Almeida Correia - António José da Costa Silva.
 
-**Promulgado em 16 de junho de 2023.**
+Promulgado em 16 de junho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de junho de 2023.**
+Referendado em 28 de junho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116620409

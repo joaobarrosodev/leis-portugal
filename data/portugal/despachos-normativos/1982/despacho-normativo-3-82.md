@@ -48,40 +48,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1982-601299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f158c611a9fd80d2a8621f550555b31974272a77766007696a595e1282e72d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e281b1aaae6059466a1da2ea1c05f8a7f49d4b0ff26a4595f8f0ab479107d6cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Habilitações Literárias
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:311427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376443:por
+  label: "Alterado pelo DN.213/82.06.10.1982.MFP, DR.IS [231] de 06.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/213-1982-376443
+  date: '1982-10-06'
+- type: amended_by
+  target: pt:dre:311427:por
+  label: "Alterados os mapas 2 e 3 anexos ao Decreto-Lei 519-E2/79, de 29 de Dezembro, na redacção do presente diploma, pelo\
+    \ DN.57/83.23.02.1983.MFP, DR.IS [44] de 23.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/57-1983-311427
+  date: '1983-02-23'
+- type: cites
+  target: pt:dre:157046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676613:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600558:por
+  label: Rectificado pela DECL.DD2444.16.02.1982.PCM, DR.IS [39] de 16.02.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600558
+  date: '1982-02-01'
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:20Z'
   warnings: []
   errors: []
 ---
@@ -2762,7 +2829,7 @@ Cursos industriais da especialidade, regulados pelo [Decreto n.º 20420](https:/
 
 Habilitação complementar, regulada pelo [Decreto n.º 20420](https://diariodarepublica.pt/dr/detalhe/decreto/20420-1931-595296), de 20 de Outubro de 1931 (ver nota a).
 
-#### Secção preparatória aos ex-institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a).
+Secção preparatória aos ex-institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a).
 
 (nota a) Desde que os respectivos titulares comprovem possuir um dos seguintes cursos:
 
@@ -2834,7 +2901,7 @@ Curso de formação de montador electricista, montador radiotécnico e electrome
 
 Habilitação complementar, regulada pelo [Decreto n.º 20420](https://diariodarepublica.pt/dr/detalhe/decreto/20420-1931-595296), de 20 de Outubro de 1931 (ver nota a).
 
-#### Secção preparatória dos institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a).
+Secção preparatória dos institutos industriais, regulada pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948 (ver nota a).
 
 (nota a) Desde que os respectivos titulares comprovem possuir um dos seguintes cursos:
 
@@ -3204,7 +3271,7 @@ Imagem.
 
 Imagem e Comunicações Áudio-Visual.
 
-#### Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b).
+Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b).
 
 3.º escalão
 
@@ -3282,7 +3349,7 @@ Equipamento e Decoração.
 
 Equipamento e Interiores.
 
-#### Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b).
+Secção preparatória aos cursos de Pintura e Escultura das escolas superiores de belas-artes (ver nota b).
 
 3.º escalão
 

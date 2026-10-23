@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1987-599723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8481f8c24b8cd7b2816fb2d62999263f80d550720dfb1a27b1a7bfe40b8e987a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 200eb7caec3f79426653c5210af33d89c6119397cbf4f902093e4a9bf9298f2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços Sociais Universitários
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL APROVADO, PELA PORT 1181/95 DE 27-SET DR.IS-B [224]\0B [224]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-27'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 34.º a 40.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:11Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +136,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade de Lisboa, adiante designados por SSUL, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e funcionam na Universidade de Lisboa.
+Artigo 1.º Os Serviços Sociais da Universidade de Lisboa, adiante designados por SSUL, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e funcionam na Universidade de Lisboa.
 
-###### Art. 2.º Os SSUL têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+Art. 2.º Os SSUL têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUL beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Lisboa e preencham as restantes condições legalmente fixadas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUL beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Lisboa e preencham as restantes condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade de Lisboa que não estejam abrangidos pela acção social de quaisquer serviços sociais do ensino superior poderão beneficiar de acção desenvolvida pelos SSUL, nos termos do disposto nos números seguintes.
 
@@ -122,7 +156,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Dos órgãos e suas competências
 
-###### Art. 4.º São órgãos dos SSUL:
+Art. 4.º São órgãos dos SSUL:
 
 a) O presidente;
 
@@ -130,7 +164,7 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 5.º - 1 - O cargo de presidente dos SSUL é inerente ao cargo de reitor da mesma Universidade.
+Art. 5.º - 1 - O cargo de presidente dos SSUL é inerente ao cargo de reitor da mesma Universidade.
 
 2 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
@@ -154,7 +188,7 @@ g) Submeter ao CASES os projectos de regulamentos e os assuntos relativos ao fun
 
 5 - O presidente dos SSUL poderá receber do Ministro da Educação e Cultura delegação de competência para despachar assuntos relativos a funções de administração geral, considerando-se como tais as que respeitem às actividades correntes dos SSUL e à gestão dos recursos humanos.
 
-###### Art. 6.º - 1 - O conselho geral tem a seguinte composição:
+Art. 6.º - 1 - O conselho geral tem a seguinte composição:
 
 a) O presidente dos SSUL, que preside;
 
@@ -174,7 +208,7 @@ f) Dois representantes das associações de estudantes da Universidade de Lisboa
 
 4 - Os membros do conselho geral referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após o termo dos respectivos mandatos, até que sejam designados os novos membros que os irão substituir.
 
-###### Art. 7.º - 1 - Compete ao conselho geral:
+Art. 7.º - 1 - Compete ao conselho geral:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades, a submeter à aprovação do CASES;
 
@@ -206,7 +240,7 @@ h) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 8 - Poderão participar nas reuniões do conselho geral, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUL cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 8.º - 1 - O conselho administrativo é constituído por:
+Art. 8.º - 1 - O conselho administrativo é constituído por:
 
 a) O presidente dos SSUL, que preside;
 
@@ -224,7 +258,7 @@ d) O director dos serviços de apoio.
 
 5 - O membro do conselho administrativo a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência, nos domínios da Administração Pública.
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -266,13 +300,13 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Dos serviços e suas competências
 
-###### Art. 10.º Os SSUL compreendem:
+Art. 10.º Os SSUL compreendem:
 
 a) Os serviços operativos;
 
 b) Os serviços de apoio.
 
-###### Art. 11.º - 1 - Os serviços operativos são dirigidos por um director de serviços.
+Art. 11.º - 1 - Os serviços operativos são dirigidos por um director de serviços.
 
 2 - Os serviços operativos exercem as suas atribuições nos seguintes domínios de actuação:
 
@@ -290,7 +324,7 @@ f) Procuradoria.
 
 3 - O presidente dos SSUL, sob proposta do director dos serviços operativos, designará um funcionário dos serviços com experiência e formação adequadas, que coordenará cada uma das áreas de actuação.
 
-###### Art. 12.º Em matéria de alojamento compete aos SSUL:
+Art. 12.º Em matéria de alojamento compete aos SSUL:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -306,7 +340,7 @@ f) Zelar pela manutenção e conservação do equipamento e instalações afecto
 
 g) Colaborar com os serviços de bolsas e empréstimos no envio à Repartição Financeira dos elementos necessários à cobrança pontual das receitas dos alojamentos e à elaboração dos orçamentos e relatórios anuais dos SSUL.
 
-###### Art. 13.º Em matéria da bolsas e empréstimos compete aos SSUL:
+Art. 13.º Em matéria da bolsas e empréstimos compete aos SSUL:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios a estudantes matriculados em estabelecimentos de ensino superior abrangidos pelos SSUL, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;
 
@@ -318,7 +352,7 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Colaborar com os serviços de alojamento no envio à Repartição Financeira dos elementos necessários à cobrança pontual das receitas dos alojamentos e na elaboração dos orçamentos e relatórios anuais dos SSUL.
 
-###### Art. 14.º Em matéria de alimentação compete aos SSUL:
+Art. 14.º Em matéria de alimentação compete aos SSUL:
 
 a) Providenciar pela abertura e assegurar o funcionamento das cantinas, refeitórios, snacks e bares;
 
@@ -332,7 +366,7 @@ e) Enviar aos serviços competentes as receitas das cantinas, refeitórios, snac
 
 f) Enviar à Repartição Financeira os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUL.
 
-###### Art. 15.º Em matéria de apoio à infância compete aos SSUL:
+Art. 15.º Em matéria de apoio à infância compete aos SSUL:
 
 a) Providenciar pela abertura e assegurar o funcionamento das instalações adequadas à prestação de serviços de infantário e jardim infantil;
 
@@ -352,7 +386,7 @@ h) Enviar aos serviços competentes as receitas do infantário e jardim infantil
 
 i) Enviar à Repartição Financeira os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUL.
 
-###### Art. 16.º Em matéria de documentação e material escolar compete aos SSUL:
+Art. 16.º Em matéria de documentação e material escolar compete aos SSUL:
 
 a) Promover a edição ou reedição de folhas e textos de apoio didácticos;
 
@@ -372,7 +406,7 @@ h) Zelar pela manutenção e conservação do equipamento e instalações afecto
 
 i) Enviar à Repartição Financeira os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUL.
 
-###### Art. 17.º Em matéria de procuradoria compete aos SSUL apoiar os estudantes no cumprimento das formalidades legais e administrativas a que estão obrigados na sua vida académica, nomeadamente:
+Art. 17.º Em matéria de procuradoria compete aos SSUL apoiar os estudantes no cumprimento das formalidades legais e administrativas a que estão obrigados na sua vida académica, nomeadamente:
 
 a) Tratar dos problemas académicos junto dos Serviços Académicos da Universidade de Lisboa;
 
@@ -382,7 +416,7 @@ c) Enviar à Repartição Financeira as receitas obtidas;
 
 d) Enviar à Repartição Financeira os elementos necessários à elaboração dos orçamentos e relatórios anuais.
 
-###### Art. 18.º - 1 - Os serviços de apoio são dirigidos por um director de serviços.
+Art. 18.º - 1 - Os serviços de apoio são dirigidos por um director de serviços.
 
 2 - Os serviços de apoio, que exercem as suas atribuições no domínio da gestão administrativa e financeira, do aprovisionamento e apoio geral aos serviços dos SSUL, compreendem:
 
@@ -392,7 +426,7 @@ b) A Repartição Financeira;
 
 c) A Repartição de Aprovisionamento.
 
-###### Art. 19.º - 1 - A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 19.º - 1 - A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Expediente Geral e Arquivo;
 
@@ -432,7 +466,7 @@ e) Processar as folhas de vencimentos, salários, gratificações e outros abono
 
 f) Prestar o apoio necessário à realização de acções sistemáticas de formação profissional e aperfeiçoamento do pessoal dos SSUL.
 
-###### Art. 20.º - 1 - A Repartição Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 20.º - 1 - A Repartição Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Contabilidade;
 
@@ -488,7 +522,7 @@ c) Organizar os autos de abate e inutilização dos bens deteriorados e sem valo
 
 d) Superintender na conservação do parque auto, promovendo a manutenção e a assistência periódica ou extraordinária das viaturas, e elaborar os registos de controle de gestão e consumos.
 
-###### Art. 21.º - 1 - Adstrito à Repartição Financeira funciona um serviço de estatística, ao qual compete registar e tratar os dados com interesse estatístico.
+Art. 21.º - 1 - Adstrito à Repartição Financeira funciona um serviço de estatística, ao qual compete registar e tratar os dados com interesse estatístico.
 
 2 - Adstrita à Repartição Financeira funciona a tesouraria, à qual compete:
 
@@ -506,7 +540,7 @@ f) Manter rigorosamente em dia os registos de tesouraria;
 
 g) Controlar diariamente as disponibilidades reais em cofre e elaborar balancetes demonstrativos do movimento efectuado, incluindo o dos depósitos em instituições bancárias, pelos quais é também responsável.
 
-###### Art. 22.º - 1 - A Repartição de Aprovisionamento é dirigida por um chefe de repartição e compreende:
+Art. 22.º - 1 - A Repartição de Aprovisionamento é dirigida por um chefe de repartição e compreende:
 
 a) A Secção de Gestão de Stocks;
 
@@ -568,11 +602,11 @@ g) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 23.º A gestão financeira e patrimonial dos SSUL reger-se-á pelo disposto nos artigos 26.º e 33.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e pelo disposto nos artigos seguintes.
+Art. 23.º A gestão financeira e patrimonial dos SSUL reger-se-á pelo disposto nos artigos 26.º e 33.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e pelo disposto nos artigos seguintes.
 
-###### Art. 24.º Para a realização dos seus fins, os SSUL administrarão os bens do domínio público a seu cargo.
+Art. 24.º Para a realização dos seus fins, os SSUL administrarão os bens do domínio público a seu cargo.
 
-###### Art. 25.º - 1 - Os SSUL arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 25.º - 1 - Os SSUL arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUL:
 
@@ -592,31 +626,31 @@ g) Os saldos da conta de gerência do ano anterior;
 
 h) Quaisquer outras receitas que por lei, contrato ou a outro título lhes sejam atribuídas.
 
-###### Art. 26.º - 1 - As disponibilidades dos SSUL serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devam ser feitas em dinheiro.
+Art. 26.º - 1 - As disponibilidades dos SSUL serão depositadas na Caixa Geral de Depósitos ou nas restantes instituições de crédito, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos, devidamente legalizados.
 
-###### Art. 27.º A gestão económica e financeira dos SSUL será disciplinada pelos seguintes instrumentos de previsão:
+Art. 27.º A gestão económica e financeira dos SSUL será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividade financeira anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-###### Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação e Cultura, após apreciação do conselho geral e do CASES, e ao visto do Ministro das Finanças nos prazos legais.
 
 3 - Os SSUL poderão submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar as verbas inscritas no orçamento privativo, quer a ocorrer a despesas nele não previstas, quer ainda para fins de alteração de rubricas.
 
-###### Art. 29.º O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no Orçamento do Estado e constantes de contas de ordem.
+Art. 29.º O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no Orçamento do Estado e constantes de contas de ordem.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 30.º - 1 - Os SSUL dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 30.º - 1 - Os SSUL dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, o quadro de pessoal dos SSUL poderá ser revisto, por proposta do presidente, após apreciação pelo CASES e mediante portaria dos Ministros das Finanças e da Educação e Cultura e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 31.º O quadro de pessoal dos SSUL compreenderá os seguintes grupos profissionais:
+Art. 31.º O quadro de pessoal dos SSUL compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -638,7 +672,7 @@ i) Pessoal auxiliar;
 
 j) Outro pessoal.
 
-###### Art. 32.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras do pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 32.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras do pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -656,19 +690,19 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 33.º - 1 - As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 33.º - 1 - As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
 2 - Os lugares de chefe de repartição serão providos de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado e reconhecida competência para o exercício do cargo.
 
-###### Art. 34.º Os lugares da carreira de pessoal técnico superior serão providos nos termos previstos na lei geral.
+Art. 34.º Os lugares da carreira de pessoal técnico superior serão providos nos termos previstos na lei geral.
 
-###### Art. 35.º O provimento nos lugares da carreira de operador de registo de dados será feito nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 35.º O provimento nos lugares da carreira de operador de registo de dados será feito nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 36.º Os lugares de ingresso nas carreiras de nutricionista e de técnico de serviço social serão providos de entre indivíduos habilitados, respectivamente com curso superior de nutricionista e de serviço social, processando-se o acesso nas respectivas carreiras de acordo com o estabelecido na lei geral para a carreira técnica.
+Art. 36.º Os lugares de ingresso nas carreiras de nutricionista e de técnico de serviço social serão providos de entre indivíduos habilitados, respectivamente com curso superior de nutricionista e de serviço social, processando-se o acesso nas respectivas carreiras de acordo com o estabelecido na lei geral para a carreira técnica.
 
-###### Art. 37.º As formas de recrutamento, de ingresso e acesso dos educadores de infância são as previstas nas disposições legais em vigor.
+Art. 37.º As formas de recrutamento, de ingresso e acesso dos educadores de infância são as previstas nas disposições legais em vigor.
 
-###### Art. 38.º - 1 - O recrutamento, ingresso e acesso nas carreiras de pessoal técnico-profissional estão condicionados ao disposto na lei geral.
+Art. 38.º - 1 - O recrutamento, ingresso e acesso nas carreiras de pessoal técnico-profissional estão condicionados ao disposto na lei geral.
 
 2 - Os lugares de chefe de secção e de oficial administrativo são providos nos termos da lei geral.
 
@@ -676,7 +710,7 @@ b) No lugar do quadro em que vier a ser provido definitivamente, finda a comiss�
 
 4 - O recrutamento, ingresso e acesso do pessoal da carreira de tesoureiro serão feitos nos termos da lei geral.
 
-###### Art. 39.º - 1 - O recrutamento ingresso e acesso do pessoal operário regem-se pelo disposto na lei geral.
+Art. 39.º - 1 - O recrutamento ingresso e acesso do pessoal operário regem-se pelo disposto na lei geral.
 
 2 - O recrutamento de encarregado de refeitório far-se-á de entre cozinheiros principais com o mínimo de 3 anos de serviço na categoria e classificação de serviço não inferior a Bom ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe com, pelo menos, 6 anos de serviço na categoria e classificação de serviço não inferior a Bom.
 
@@ -694,11 +728,11 @@ b) O acesso fica condicionado à permanência de 5 anos de bom e efectivo servi�
 
 c) Os lugares de cozinheiro principal são providos de entre cozinheiros de 1.ª classe com, pelo menos, 3 anos na categoria, mediante provas de selecção.
 
-###### Art. 40.º Os lugares de vigilante, telefonista, motorista, auxiliar administrativo e guarda-nocturno serão providos nos termos da lei geral.
+Art. 40.º Os lugares de vigilante, telefonista, motorista, auxiliar administrativo e guarda-nocturno serão providos nos termos da lei geral.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 41.º - 1 - A integração do pessoal dos SSUL abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, em lugares do quadro anexo ao presente diploma far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 41.º - 1 - A integração do pessoal dos SSUL abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, em lugares do quadro anexo ao presente diploma far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -722,30 +756,30 @@ c) Para categoria que resulte da aplicação da tabela de equivalências constan
 
 9 - Transitam para os lugares de chefe de repartição do quadro anexo ao presente diploma os actuais chefe de departamento e chefe de secção que têm vindo a desempenhar efectivamente aquelas funções.
 
-###### Art. 42.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos termos da lei geral do trabalho nos SSUL à data da entrada em vigor do presente decreto regulamentar, opte pela não integração no quadro anexo a este diploma será remunerado com vencimento e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 42.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos termos da lei geral do trabalho nos SSUL à data da entrada em vigor do presente decreto regulamentar, opte pela não integração no quadro anexo a este diploma será remunerado com vencimento e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 43.º O primeiro preenchimento dos cargos de director de serviços de apoio e de director de serviços operativos será feito pelos funcionários licenciados que à data da entrada em vigor do presente diploma desempenhem as respectivas funções.
+Art. 43.º O primeiro preenchimento dos cargos de director de serviços de apoio e de director de serviços operativos será feito pelos funcionários licenciados que à data da entrada em vigor do presente diploma desempenhem as respectivas funções.
 
-###### Art. 44.º Os encargos resultantes do presente diploma serão suportados por verbas a inscrever ou a reforçar no orçamento dos SSUL.
+Art. 44.º Os encargos resultantes do presente diploma serão suportados por verbas a inscrever ou a reforçar no orçamento dos SSUL.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Qaudro do pessoal a que se refere o n.º 1 do artigo 30.º do decreto Regulamentar n.º /8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/00100/00040016.pdf))](https://files.diariodarepublica.pt/1s/1987/01/00100/00040016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/00100/00040016.pdf)
 
 ## ANEXO II — Tabela de equivalências
 
 [Alínea c) do n.º 1 do artigo 41.º do Decreto Regulamentar n.º 1/87]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/00100/00040016.pdf))](https://files.diariodarepublica.pt/1s/1987/01/00100/00040016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/00100/00040016.pdf)

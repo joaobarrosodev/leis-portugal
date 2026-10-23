@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/318/2003/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2003-423405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37f9c91cf716de11add429367b03391e5a41686fa414a3140e2012cdd67c5b96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 932e9291c9ba4e6cfbf613d6be37cbd002426019b0361806cb3fa631b1a66378
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,23 @@ relationships:
   target: celex:31999R1493
   label: null
   source: http://data.europa.eu/eli/reg/1999/1493/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado o Dec Lei 299/90 de 24-Set, com excepção dos arts 5º e 6º, na redacção do presente diploma, pelo Dec Lei\
+    \ 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação da legislação prevista\
+    \ nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:12Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +122,7 @@ Os artigos 4.º e 10.º dos Estatutos das Regiões Vitivinícolas de Lagoa, Lago
 
 As castas a utilizar na elaboração dos vinhos com direito às denominações de origem controladas de Lagoa, Lagos, Portimão e Tavira são as constantes do anexo aos presentes Estatutos, dos quais fazem parte integrante.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Os vinhos tintos só podem ser engarrafados após um estágio mínimo de seis meses.
 
@@ -127,15 +134,15 @@ As castas a utilizar na elaboração dos vinhos com direito às denominações d
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2003. - José Manuel Durão Barroso - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 5 de Dezembro de 2003.**
+Promulgado em 5 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2003.**
+Referendado em 10 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

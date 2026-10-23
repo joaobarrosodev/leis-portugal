@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2000/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2000-522391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 826c47c99757b890aae4200d4b59f8a07bb6957aacb546091e3206f7aa18fcdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48371963839dd32074cb9d12b90176e2ce68216ba266bdd79aebce2b9ac626f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,20 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: amended_by
   target: pt:dre:303189:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303189:por
+  label: "Alterados os arts. 1º e 22º e os anexos VI e VIII pelo DEC LEI.93/2002.2002.04.12.MAI, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2002-303189
+  date: '2002-04-12'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -93,13 +98,13 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:37Z'
   warnings: []
   errors: []
 ---
@@ -338,15 +343,15 @@ b) Para novas matrículas, a partir do 15.º dia posterior ao da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Fernando Manuel dos Santos Gomes - António Luís Santos Costa.
 
-**Promulgado em 28 de Março de 2000.**
+Promulgado em 28 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Ficha de informações
 
@@ -530,29 +535,29 @@ Adenda ao certificado de homologação CE n.º ..., relativo à homologação de
 
 Dobradiça da porta - Dispositivo de ensaio para a carga estática (carga transversal)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
 
 Figura 2
 
 Fechadura da porta - Equipamento de ensaio sob carga estática (carga longitudinal)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
 
 Figura 3
 
 Fechadura da porta - Equipamento de ensaio sob carga estática (carga transversal)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
 
 Figura 4
 
 Resistência aos efeitos da inércia - Exemplo de cálculo
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
 
 Figura 5
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)
 
 ## ANEXO IV — Prescrições sobre instalação de dobradiças
 

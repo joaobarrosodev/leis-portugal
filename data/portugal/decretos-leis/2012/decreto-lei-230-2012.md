@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/2012/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9e09017641a8f197985359ddb3bdfea849e0c8199e3001548260ee71d27135b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e23c006b779efe82ccfd1623b84c0431140ad56638222d5b41df894d8ac4f00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Garantia
+- Comércio
 - Contrato de Concessão
 - Definição de Competências
-- Distribuição de Gás
-- Reservas de Combustível
 - Direção Geral de Energia e Geologia
+- Distribuição de Gás
+- Entidade Reguladora dos Serviços Energéticos
+- Garantia
 - Importação
+- Informação do Consumidor
 - Licenciamento
 - Mercado Interno
-- Entidade Reguladora dos Serviços Energéticos
-- Informação do Consumidor
 - Preço
-- Serviço Público
 - Proteção do Consumidor
 - Rede Nacional de Distribuição de Gás Natural
 - Rede Nacional de Transporte Instalações de Armazenamento e Terminais
 - Regulamento CE
-- Comércio
+- Reservas de Combustível
+- Serviço Público
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:105637672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 26.º e 36.º do Dec Lei 30/2006, de 15-fev, na versão alterada e republicada pelo presente diploma
+    pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -133,15 +139,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/2006/02/15/p/dre
 article_structure:
-  article_count: 183
+  article_count: 114
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:19Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +208,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 13.º, 15.º, 
 
 4 - Nas matérias que constituem o seu objeto, o presente decreto-lei dá ainda execução, juntamente com a legislação complementar a emitir, ao Regulamento (CE) n.º [715/2009](http://data.europa.eu/eli/reg/2009/715/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de julho, relativo às condições de acesso às redes de transporte de gás natural e que revoga o Regulamento (CE) n.º [1775/2005](http://data.europa.eu/eli/reg/2005/1775/oj?locale=pt), e ao Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro, relativo a medidas destinadas a garantir a segurança do aprovisionamento de gás e que revoga a Diretiva n.º [2004/67/CE](http://data.europa.eu/eli/dir/2004/67/oj?locale=pt), do Conselho.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +220,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 11.º, 13.º, 15.º, 
 
 4 - As disposições do presente decreto-lei relativas ao acesso às redes de transporte e de distribuição e demais infraestruturas do SNGN, bem como à comercialização de gás natural, são aplicáveis ao biogás e ao gás proveniente da biomassa, ou a outros tipos de gás, na medida em que esses gases possam ser, do ponto de vista técnico, de qualidade e da segurança, injetados e transportados nas redes de gás natural, nos termos a definir em legislação complementar.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -294,7 +304,9 @@ ll) [Anterior alínea mm).]
 
 mm) [Anterior alínea nn).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O presente decreto-lei e respetiva legislação complementar têm como objetivo fundamental contribuir para a progressiva melhoria da competitividade e eficiência do SNGN e para a realização do mercado interno da energia, visando assegurar uma oferta de gás natural em termos adequados às necessidades dos consumidores.
 
@@ -310,7 +322,9 @@ mm) [Anterior alínea nn).]
 
 7 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -318,7 +332,9 @@ mm) [Anterior alínea nn).]
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -336,7 +352,9 @@ b) O tratamento eficiente das reclamações através da Entidade Reguladora dos 
 
 6 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Em caso de crise repentina no mercado da energia e de ameaça à segurança, física ou outra, das pessoas, dos equipamentos ou instalações ou à integridade da rede, o Governo pode adotar temporariamente as medidas de salvaguarda necessárias, em conformidade com os termos previstos na lei aplicável às crises energéticas e às infraestruturas críticas e no Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro.
 
@@ -344,7 +362,9 @@ b) O tratamento eficiente das reclamações através da Entidade Reguladora dos 
 
 3 - O Governo comunica de imediato as medidas de salvaguarda adotadas aos outros Estados membros e à Comissão Europeia.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -372,7 +392,9 @@ e) Monitorização da segurança do abastecimento;
 
 f) Declaração de crise energética nos termos da legislação aplicável e adoção das correspondentes medidas de salvaguarda, de forma a minorar os seus efeitos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No continente, a RPGN abrange o conjunto das infraestruturas de serviço público destinadas à receção, armazenamento e regaseificação de GNL, ao armazenamento subterrâneo, ao transporte e à distribuição de gás natural, que integram a RNTIAT e a RNDGN.
 
@@ -380,7 +402,9 @@ f) Declaração de crise energética nos termos da legislação aplicável e ado
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -398,7 +422,9 @@ f) Operação de mercados organizados de gás natural;
 
 g) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -410,13 +436,17 @@ g) ...
 
 5 - A entidade concessionária da RNTGN está obrigada a respeitar as disposições legais em matéria de certificação e a praticar os necessários atos e diligências com vista a garantir a obtenção e manutenção da referida certificação.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A gestão técnica global do SNGN é exercida com independência, de forma transparente e não discriminatória, e consiste na coordenação sistémica das infraestruturas que constituem o SNGN, de forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e continuidade do abastecimento de gás natural, nos termos previstos em legislação complementar.
 
 2 - A gestão técnica global do SNGN é da responsabilidade do operador da RNTGN.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -424,7 +454,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -434,7 +466,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 20.º — Operador da RNTGN
+Artigo 20.º
+
+Operador da RNTGN
 
 1 - O operador da RNTGN é a entidade concessionária da rede de transporte, sem prejuízo do disposto nos artigos 21.º-A a 21.º-F.
 
@@ -446,7 +480,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 20.º-A — [...]
+Artigo 20.º-A
+
+[...]
 
 1 - ...
 
@@ -494,7 +530,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrum
 
 13 - (Anterior n.º 7.)
 
-###### Artigo 20.º-B — [...]
+Artigo 20.º-B
+
+[...]
 
 1 - ...
 
@@ -510,7 +548,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrum
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -550,7 +590,9 @@ c) ...
 
 7 - (Revogado.)
 
-###### Artigo 21.º-A — Aprovação, designação e certificação do operador da RNTGN
+Artigo 21.º-A
+
+Aprovação, designação e certificação do operador da RNTGN
 
 1 - A entidade concessionária da rede de transporte deve ser aprovada e designada como operador da RNTGN pelo membro do Governo responsável pela área da energia, o qual deve comunicar essa designação à Comissão Europeia e promover a sua publicação no Jornal Oficial da União Europeia.
 
@@ -576,7 +618,9 @@ c) ...
 
 12 - Os procedimentos a observar para a certificação do cumprimento das condições previstas no n.º 3 são estabelecidos por regulamentação emitida pela ERSE.
 
-###### Artigo 21.º-B — [...]
+Artigo 21.º-B
+
+[...]
 
 1 - O operador da RNTGN deve notificar a ERSE de quaisquer alterações ou transações previstas ou ocorridas que possam exigir a reapreciação das condições que foram objeto de certificação para avaliar do cumprimento do disposto no n.º 3 do artigo anterior.
 
@@ -590,13 +634,17 @@ c) Na sequência de pedido fundamentado da Comissão Europeia.
 
 3 - A reapreciação da certificação observa, com as devidas adaptações, o disposto nos n.os 4 a 12 do artigo anterior.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os operadores da RNTIAT devem proporcionar aos interessados, de forma não discriminatória e transparente, o acesso às suas infraestruturas, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento do Acesso às Redes, às Infraestruturas e às Interligações e do Regulamento Tarifário, sem prejuízo do disposto no artigo seguinte.
 
 2 - ...
 
-###### Artigo 24.º-A — [...]
+Artigo 24.º-A
+
+[...]
 
 1 - Sem prejuízo do regime de acesso regulado previsto no artigo anterior, a atividade de armazenamento subterrâneo pode também ser exercida em regime de acesso negociado de terceiros, nos termos dos números seguintes.
 
@@ -622,13 +670,17 @@ d) A atividade de armazenamento subterrâneo a exercer em regime de acesso negoc
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 25.º — Relacionamento dos operadores da RNTIAT
+Artigo 25.º
+
+Relacionamento dos operadores da RNTIAT
 
 1 - Os operadores da RNTIAT relacionam-se comercialmente com os utilizadores das respetivas infraestruturas, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas e preços, nos termos do número seguinte.
 
 2 - As tarifas e preços devidos pela utilização de infraestruturas e prestação de serviços são regulados e definidos no Regulamento Tarifário, com exceção do armazenamento subterrâneo no regime de acesso negociado de terceiros, em que as tarifas de acesso e preços são negociados livremente.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O planeamento da RNTIAT deve prever medidas destinadas a assegurar a existência de capacidade das infraestruturas, o desenvolvimento adequado e eficiente da rede e a segurança do abastecimento e deve ter em conta as disposições e os objetivos previstos no Regulamento (CE) n.º [715/2009](http://data.europa.eu/eli/reg/2009/715/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de julho, no âmbito do mercado interno do gás natural.
 
@@ -646,7 +698,9 @@ c) O calendário dos projetos de investimento.
 
 5 - O procedimento de elaboração do PDIRGN é definido em legislação complementar.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -658,13 +712,17 @@ c) O calendário dos projetos de investimento.
 
 5 - O disposto nos números anteriores não prejudica o exercício da atividade de distribuição de gás natural para utilização privativa ou em redes de distribuição fechada, nos termos a definir em legislação complementar.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A atividade de distribuição integra a operação da respetiva rede de distribuição.
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -674,7 +732,9 @@ c) O calendário dos projetos de investimento.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -714,7 +774,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrum
 
 8 - Sem prejuízo da separação contabilística das atividades, a separação jurídica prevista no presente artigo e a forma de comunicação prevista na alínea e) do n.º 2 não são exigidas aos distribuidores que sirvam um número de clientes inferior a 100 000.
 
-###### Artigo 31.º-A — [...]
+Artigo 31.º-A
+
+[...]
 
 1 - ...
 
@@ -730,7 +792,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrum
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 36.º — Planeamento da RNDGN
+Artigo 36.º
+
+Planeamento da RNDGN
 
 1 - O planeamento da RNDGN deve assegurar a existência de capacidade nas redes para a receção e entrega de gás natural, com níveis adequados de qualidade de serviço e de segurança, e o seu desenvolvimento adequado e eficiente, no âmbito do mercado interno de gás natural.
 
@@ -746,7 +810,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrum
 
 7 - O procedimento de elaboração dos PDIRD é definido em legislação complementar.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -758,7 +824,9 @@ b) A empresa verticalmente integrada aprove o plano financeiro anual, ou instrum
 
 5 - O fornecimento de gás natural, salvo casos fortuitos ou de força maior, só pode ser interrompido por razões de interesse público, de serviço ou de segurança, ou por facto imputável ao cliente ou a terceiros, nos termos previstos no Regulamento de Relações Comerciais.
 
-###### Artigo 38.º-A — Direitos e deveres dos comercializadores em regime de mercado
+Artigo 38.º-A
+
+Direitos e deveres dos comercializadores em regime de mercado
 
 1 - ...
 
@@ -786,7 +854,9 @@ j) Prestar informações à DGEG e à ERSE sobre consumos, número de clientes, 
 
 k) [Anterior alínea j).]
 
-###### Artigo 39.º-A — [...]
+Artigo 39.º-A
+
+[...]
 
 1 - O contrato de fornecimento de gás natural está sujeito à forma escrita, devendo especificar os elementos e conter as garantias estabelecidas em legislação complementar.
 
@@ -804,7 +874,9 @@ k) [Anterior alínea j).]
 
 8 - Os comercializadores devem notificar os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes denunciar de imediato os contratos se não aceitarem as novas condições que lhes sejam notificadas pelos respetivos comercializadores.
 
-###### Artigo 39.º-B — [...]
+Artigo 39.º-B
+
+[...]
 
 1 - ...
 
@@ -820,7 +892,9 @@ b) Enviar à ERSE semestralmente os preços praticados nos meses anteriores.
 
 5 - Os comercializadores ficam ainda obrigados a enviar à DGEG, com a periodicidade prevista na lei, informação relativa aos preços médios praticados, consumos e número de clientes, bem como às componentes dos referidos preços e respetivos encargos.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Considera-se 'comercializador de último recurso' aquele que estiver sujeito a obrigações de serviço público, nos termos previstos na presente subsecção, em legislação complementar e na respetiva licença.
 
@@ -834,7 +908,9 @@ b) Enviar à ERSE semestralmente os preços praticados nos meses anteriores.
 
 6 - Os comercializadores de último recurso retalhistas são ainda responsáveis por fornecer gás natural aos clientes cujo comercializador em regime de mercado tenha ficado impedido de exercer a sua atividade, bem como por assegurar o fornecimento de gás natural em locais onde não exista oferta dos comercializadores de gás natural em regime de mercado, nos termos a definir em legislação complementar.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - As atividades de comercialização de gás natural de último recurso em regime grossista e retalhista são separadas juridicamente das restantes atividades do SNGN, incluindo outras formas de comercialização, sendo exercidas segundo critérios de independência definidos na lei e no Regulamento de Relações Comerciais.
 
@@ -842,7 +918,9 @@ b) Enviar à ERSE semestralmente os preços praticados nos meses anteriores.
 
 3 - Os comercializadores de último recurso devem diferenciar a sua imagem e comunicação das restantes entidades que atuam no SNGN.
 
-###### Artigo 43.º — Relacionamento comercial do comercializador de último recurso grossista e dos comercializadores de último recurso retalhistas
+Artigo 43.º
+
+Relacionamento comercial do comercializador de último recurso grossista e dos comercializadores de último recurso retalhistas
 
 1 - Com vista a garantir o abastecimento necessário à satisfação dos contratos com clientes finais, o comercializador de último recurso grossista deve adquirir as quantidades de gás natural que lhe sejam solicitadas pelos comercializadores de último recurso retalhistas, nos termos previstos em legislação complementar, assegurando que o respetivo preço seja o mais baixo de entre os praticados na data da aquisição.
 
@@ -852,17 +930,23 @@ b) Enviar à ERSE semestralmente os preços praticados nos meses anteriores.
 
 4 - Os comercializadores de último recurso retalhistas aplicam a clientes finais com consumos anuais iguais ou inferiores a 10 000 m3, a título transitório, as tarifas transitórias de venda previstas no artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, e, de forma contínua, aos clientes economicamente vulneráveis, a tarifa social de fornecimento de gás natural prevista no artigo 3.º do Decreto-Lei n.º 101/2011, de 30 de setembro, conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O exercício da atividade de gestão de mercado organizado de gás natural é livre, ficando sujeita a autorização, em termos a definir em legislação complementar.
 
 2 - O exercício da atividade de gestão de mercado organizado é da responsabilidade do operador de mercado, de acordo com o estabelecido em legislação complementar, sem prejuízo das disposições legais em matéria de instituições financeiras que sejam aplicáveis aos mercados em que se realizem operações a prazo.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Os deveres do operador de mercado organizado são estabelecidos em legislação complementar.
 
-###### Artigo 47.º — Direitos dos consumidores
+Artigo 47.º
+
+Direitos dos consumidores
 
 1 - ...
 
@@ -880,7 +964,9 @@ Os deveres do operador de mercado organizado são estabelecidos em legislação 
 
 8 - A especificação dos direitos dos consumidores e dos respetivos mecanismos e procedimentos de apoio é estabelecida em legislação e regulamentação complementares.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -900,11 +986,15 @@ g) ...
 
 2 - ...
 
-###### Artigo 49.º — Deveres dos consumidores
+Artigo 49.º
+
+Deveres dos consumidores
 
 Os deveres dos consumidores de gás natural são estabelecidos em legislação complementar.
 
-###### Artigo 51.º-A — [...]
+Artigo 51.º-A
+
+[...]
 
 ...
 
@@ -926,7 +1016,9 @@ h) ...
 
 i) ...
 
-###### Artigo 52.º — Competências de regulação da ERSE no âmbito do SNGN
+Artigo 52.º
+
+Competências de regulação da ERSE no âmbito do SNGN
 
 1 - Sem prejuízo das atribuições e competências previstas nos seus Estatutos, em regulamentos europeus e na lei, a ERSE exerce as seguintes competências de regulação do SNGN:
 
@@ -958,7 +1050,9 @@ m) [Anterior alínea n).]
 
 2 - Quando, no âmbito do processo de certificação do operador da RNTGN, este for sujeito às obrigações previstas na subsecção ii da secção ii do capítulo ii, a regulação da ERSE tem ainda como objetivo, para além do disposto no n.º 1, monitorizar o cumprimento das obrigações do operador da RNTGN e da empresa verticalmente integrada e a relação entre ambos, no âmbito das competências que lhe são atribuídas por lei.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -966,13 +1060,17 @@ m) [Anterior alínea n).]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A ERSE apresenta ao membro do Governo responsável pela área da energia, com a periodicidade estabelecida em legislação complementar, relatórios sobre o funcionamento do mercado de gás natural e sobre o grau de concorrência efetiva, indicando as medidas adotadas e a adotar tendo em vista o reforço da eficácia e eficiência deste mercado.
 
 2 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - A monitorização da segurança do abastecimento é assegurada pelo Governo, através da DGEG, com a colaboração do operador da RNTGN, nos termos dos números seguintes e da legislação complementar.
 
@@ -982,7 +1080,9 @@ m) [Anterior alínea n).]
 
 4 - O Governo publicita o relatório anual previsto no número anterior até 31 de julho de cada ano, dando conhecimento do mesmo à Comissão Europeia e à ERSE.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Os comercializadores em regime de mercado e os comercializadores de último recurso retalhistas estão sujeitos à obrigação de assegurar a constituição e manutenção de reservas de segurança para garantia de abastecimento dos seus clientes, nos termos do Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro, e da legislação complementar.
 
@@ -990,7 +1090,9 @@ m) [Anterior alínea n).]
 
 3 - A utilização das reservas de segurança deve ter em consideração a legislação aplicável às crises energéticas e o Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -998,7 +1100,9 @@ m) [Anterior alínea n).]
 
 3 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -1006,7 +1110,9 @@ m) [Anterior alínea n).]
 
 3 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -1016,11 +1122,15 @@ m) [Anterior alínea n).]
 
 4 - Compete à ERSE promover a arbitragem destinada à resolução de conflitos entre os agentes e os clientes.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 Para garantir o cumprimento das suas obrigações, os operadores da RNTIAT e da rede de distribuição devem constituir e manter em vigor um seguro de responsabilidade civil, proporcional ao potencial risco inerente às atividades, de montante a definir nos termos da legislação complementar.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -1078,7 +1188,9 @@ b) Se a atribuição da certificação põe, ou não, em risco a segurança do a
 
 11 - A decisão final e respetiva fundamentação são publicadas, juntamente com o parecer da Comissão Europeia, nos sítios na Internet da ERSE e da DGEG.
 
-###### Artigo 21.º-D — Recusa de certificação relativamente a países terceiros
+Artigo 21.º-D
+
+Recusa de certificação relativamente a países terceiros
 
 1 - A ERSE deve recusar a certificação da entidade concessionária referida no n.º 1 do artigo anterior sempre que não tiver sido demonstrado que:
 
@@ -1098,7 +1210,9 @@ c) Outros factos e circunstâncias específicos do caso e do país ou países te
 
 4 - Para efeitos de realização da avaliação prevista na alínea b) do n.º 1, a ERSE deve notificar de imediato o membro do Governo responsável pela área da energia ou a entidade por este designada do pedido de certificação apresentado, do parecer emitido pela Comissão ou da respetiva omissão de pronúncia, bem como de todas as demais informações e elementos relevantes.
 
-###### Artigo 21.º-E — Reapreciação da certificação relativamente a países terceiros
+Artigo 21.º-E
+
+Reapreciação da certificação relativamente a países terceiros
 
 1 - O operador da RNTGN deve notificar a ERSE sempre que ocorram quaisquer circunstâncias suscetíveis de conduzir à aquisição do seu controlo ou do controlo da RNTGN por parte de pessoa ou pessoas de país ou países terceiros à União Europeia.
 
@@ -1110,7 +1224,9 @@ b) Sempre que tenha conhecimento, por outra via, de quaisquer circunstâncias su
 
 3 - O procedimento de reapreciação iniciado nos termos do número anterior observa, com as devidas adaptações, o disposto nos artigos 21.º-C e 21.º-D.
 
-###### Artigo 21.º-F — Modelos alternativos de separação
+Artigo 21.º-F
+
+Modelos alternativos de separação
 
 1 - Caso, no âmbito do processo de certificação do operador da RNTGN, surjam objeções à certificação da entidade concessionária da RNTGN nos termos do artigo 21.º-A por se considerar que a mesma integra uma empresa verticalmente integrada em violação do disposto no artigo 21.º, a ERSE notifica a referida entidade concessionária para praticar os atos e adotar as medidas necessárias a assegurar o cumprimento integral das condições relativas à separação jurídica e patrimonial previstas no artigo 21.º
 
@@ -1150,7 +1266,9 @@ c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação ant
 
 9 - A certificação da entidade concessionária da RNTGN como OTI nos termos dos n.os 5 a 7 não afeta a qualidade de concessionária da RNTGN por parte da referida entidade.
 
-###### Artigo 21.º-G — Funções do operador da RNTGN no âmbito da política energética
+Artigo 21.º-G
+
+Funções do operador da RNTGN no âmbito da política energética
 
 1 - A DGEG define e concretiza, mediante regulamento, a forma de execução das obrigações do operador da RNTGN previstas na lei e no contrato de concessão no apoio ao concedente em matéria de política energética e que não estejam exclusivamente ligadas à exploração da RNTGN e à gestão técnica do sistema, as quais devem ser cumpridas de forma independente.
 
@@ -1160,7 +1278,9 @@ c) Têm o direito de reclamar junto da ERSE quando entendam que a cessação ant
 
 4 - A comissão de auditoria prevista no n.º 2 deve reunir pelo menos uma vez por trimestre e elaborar relatórios, com a periodicidade indicada no regulamento previsto no número anterior, indicando as situações de incumprimento ou cumprimento defeituoso detetadas e as medidas propostas com vista à respetiva sanação e formulando recomendações quanto à atuação do operador da RNTGN no exercício das funções decorrentes das obrigações referidas no n.º 1.
 
-###### Artigo 22.º-A — Ativos, equipamento, pessoal e identidade
+Artigo 22.º-A
+
+Ativos, equipamento, pessoal e identidade
 
 1 - Para ser certificado enquanto operador de transporte independente (OTI), a entidade concessionária da RNTGN deve dispor de todos os recursos humanos, técnicos, materiais e financeiros necessários ao cumprimento das suas obrigações nos termos da presente subsecção e ao exercício da atividade de transporte de gás natural, devendo, designadamente, ser o proprietário de todos os ativos, incluindo a RNTGN, e contratar o pessoal necessário ao exercício da atividade de transporte de gás natural, incluindo para o desempenho das funções societárias.
 
@@ -1176,7 +1296,9 @@ b) Os termos e condições da prestação desses serviços sejam aprovados pela 
 
 5 - Sem prejuízo das decisões do órgão de supervisão previsto no artigo 22.º-E, a empresa verticalmente integrada deve disponibilizar atempadamente ao OTI, na sequência de um pedido deste para esse efeito, os recursos financeiros necessários para a realização de futuros projetos de investimento e substituição dos ativos existentes.
 
-###### Artigo 22.º-B — Deveres do OTI
+Artigo 22.º-B
+
+Deveres do OTI
 
 1 - A atividade de transporte de gás natural exercida pelo OTI compreende, para além do disposto no n.º 2 do artigo 20.º, pelo menos, os deveres seguidamente indicados:
 
@@ -1208,7 +1330,9 @@ h) Assegurar a prestação de todos os serviços da empresa, incluindo serviços
 
 7 - O OTI não pode, no âmbito da compra ou venda de eletricidade por empresas coligadas, utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
 
-###### Artigo 22.º-C — Independência do OTI
+Artigo 22.º-C
+
+Independência do OTI
 
 1 - Sem prejuízo das competências de decisão do órgão de supervisão previsto no artigo 22.º-E, o OTI dispõe dos seguintes poderes:
 
@@ -1238,7 +1362,9 @@ b) O poder de angariar e mobilizar meios financeiros no mercado de capitais, em 
 
 12 - A empresa verticalmente integrada deve abster-se de qualquer comportamento que impeça ou prejudique o cumprimento, por parte do OTI, das obrigações que lhe incumbem nos termos da presente subsecção, não podendo, designadamente, exigir que o OTI obtenha autorização da empresa verticalmente integrada para cumprir essas obrigações.
 
-###### Artigo 22.º-D — Independência do pessoal e da gestão do OTI
+Artigo 22.º-D
+
+Independência do pessoal e da gestão do OTI
 
 1 - As decisões relativas à nomeação e recondução dos titulares dos órgãos de administração ou de gerência e dos responsáveis pela gestão do OTI, às respetivas condições de trabalho, incluindo a remuneração, bem como à cessação dos respetivos mandatos ou contratos são tomadas pelo órgão de supervisão do OTI previsto no artigo seguinte.
 
@@ -1266,7 +1392,9 @@ b) Se existirem dúvidas quanto à justificação da cessação antecipada de um
 
 11 - O disposto nos n.os 6 a 10 é igualmente aplicável a todos os responsáveis pela gestão executiva do OTI, bem como a todos aqueles que respondam diretamente perante estes sobre questões relacionadas com o funcionamento, a manutenção ou o desenvolvimento da rede.
 
-###### Artigo 22.º-E — Órgão de supervisão
+Artigo 22.º-E
+
+Órgão de supervisão
 
 1 - O OTI tem um órgão de supervisão composto pelo número de membros indicado nos seus estatutos, os quais representam o acionista ou acionistas que, direta ou indiretamente, controlam o OTI e os demais titulares, direta ou indiretamente, de ações do OTI, cabendo a cada um destes grupos de acionistas indicar metade dos referidos membros, nos termos indicados nos estatutos.
 
@@ -1278,13 +1406,17 @@ b) Se existirem dúvidas quanto à justificação da cessação antecipada de um
 
 5 - O disposto na alínea b) do n.º 4 do artigo 22.º-D é aplicável a todos os membros do órgão de supervisão.
 
-###### Artigo 22.º-F — Programa de conformidade
+Artigo 22.º-F
+
+Programa de conformidade
 
 1 - O OTI deve elaborar e executar um programa de conformidade que contemple as medidas adotadas e obrigações específicas para excluir comportamentos discriminatórios, devendo ainda estabelecer o plano de monitorização do cumprimento do referido programa.
 
 2 - O programa de conformidade é submetido à aprovação da ERSE, sem prejuízo das competências do responsável pela conformidade previsto no artigo seguinte.
 
-###### Artigo 22.º-G — Responsável pela conformidade
+Artigo 22.º-G
+
+Responsável pela conformidade
 
 1 - O órgão de supervisão designa um responsável pela conformidade, que pode ser uma pessoa singular ou coletiva, ficando tal designação sujeita a aprovação prévia pela ERSE.
 
@@ -1300,7 +1432,9 @@ b) Se existirem dúvidas quanto à justificação da cessação antecipada de um
 
 7 - O órgão de supervisão pode destituir o responsável pela conformidade, com fundamento na sua falta de independência ou de capacidade profissional, mediante aprovação prévia pela ERSE ou a pedido desta.
 
-###### Artigo 22.º-H — Funções do responsável pela conformidade
+Artigo 22.º-H
+
+Funções do responsável pela conformidade
 
 1 - Sem prejuízo dos poderes de fiscalização da ERSE, compete ao responsável pela conformidade:
 
@@ -1322,7 +1456,9 @@ g) Submeter à ERSE as propostas de decisão sobre o plano de investimentos ou a
 
 3 - Compete ainda ao responsável pela conformidade fiscalizar o cumprimento pelo OTI dos deveres de confidencialidade previstos na alínea j) do n.º 2 do artigo 20.º e nos n.os 6 e 7 do artigo 22.º-B.
 
-###### Artigo 22.º-I — Poderes do responsável pela conformidade
+Artigo 22.º-I
+
+Poderes do responsável pela conformidade
 
 1 - O responsável pela conformidade tem acesso a todos os dados relevantes do OTI, bem como aos serviços pelo mesmo prestados e demais informações necessárias para o cumprimento das suas funções.
 
@@ -1336,7 +1472,9 @@ b) Projetos empreendidos com vista a explorar, manter e desenvolver a RNTGN, inc
 
 c) Compra ou venda da energia necessária para a exploração da RNTGN.
 
-###### Artigo 22.º-J — Poderes para tomar decisões de investimento
+Artigo 22.º-J
+
+Poderes para tomar decisões de investimento
 
 1 - O OTI deve comunicar à ERSE qualquer decisão envolvendo a não realização dos investimentos previstos no plano decenal de desenvolvimento da RNTGN (PDIRGN) para os três anos seguintes, apresentando os respetivos fundamentos.
 
@@ -1362,7 +1500,9 @@ c) A exploração dos novos ativos pelo OTI.
 
 6 - Quando a ERSE fizer uso dos poderes previstos no n.º 2, os custos dos investimentos realizados no desenvolvimento da RNTGN são repercutidos na tarifa de uso global do sistema ou noutra tarifa aplicável à globalidade dos consumidores de gás natural nos termos a definir no Regulamento Tarifário.
 
-###### Artigo 22.º-K — Ligação à RNTGN
+Artigo 22.º-K
+
+Ligação à RNTGN
 
 1 - O OTI elabora e publica procedimentos transparentes e eficientes para a ligação não discriminatória de instalações de armazenamento, instalações de regaseificação de GNL e de clientes industriais à RNTGN, os quais estão sujeitos a aprovação prévia pela ERSE, ouvida a DGEG.
 
@@ -1370,7 +1510,9 @@ c) A exploração dos novos ativos pelo OTI.
 
 3 - O OTI deve garantir uma capacidade suficiente de entrada e de saída para a de novas instalações de armazenamento, de instalações de regaseificação de GNL e de clientes industriais à RNTGN.
 
-###### Artigo 24.º-B — Separação jurídica das atividades de armazenamento subterrâneo em regime de acesso regulado e negociado
+Artigo 24.º-B
+
+Separação jurídica das atividades de armazenamento subterrâneo em regime de acesso regulado e negociado
 
 1 - Para assegurar a separação das atividades de armazenamento subterrâneo em regime de acesso regulado e negociado prevista na alínea e) do n.º 5 do artigo 24.º-A, os operadores de armazenamento subterrâneo em determinado regime de acesso não podem deter diretamente ou por intermédio de empresa por eles controlada participações no capital social de empresas que exerçam atividades de armazenamento noutro regime de acesso, assim como os respetivos gestores:
 
@@ -1388,7 +1530,9 @@ b) Aprovação pelo grupo de empresas do plano financeiro anual, ou instrumento 
 
 3 - A remuneração dos gestores dos operadores de armazenamento subterrâneo em regime de acesso regulado referidos no número anterior não pode depender das atividades ou resultados das referidas empresas do grupo que exerçam a atividade de armazenamento subterrâneo em regime de acesso negociado.
 
-###### Artigo 53.º-A — Separação contabilística
+Artigo 53.º-A
+
+Separação contabilística
 
 1 - As empresas que exerçam atividades de receção, armazenamento e regaseificação de GNL e de armazenamento subterrâneo, transporte, distribuição e comercialização de gás natural, incluindo de último recurso, bem como as de operação logística de mudança de comercializador e de gestão de mercados organizados, devem, sem prejuízo das exigências constantes do presente decreto-lei em matéria de separação jurídica e independentemente da sua forma jurídica e regime de propriedade, elaborar, submeter a aprovação dos órgãos competentes e publicar as suas contas anuais, nos termos da legislação e regulamentação aplicável.
 
@@ -1438,15 +1582,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de agosto de 2012. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Promulgado em 18 de outubro de 2012.**
+Promulgado em 18 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de outubro de 2012.**
+Referendado em 22 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

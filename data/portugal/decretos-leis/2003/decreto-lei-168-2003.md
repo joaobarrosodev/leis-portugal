@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2003/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2003-651281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a567aa0f94cb0c0c72a916334554859f5166ebab9d76a3ab987b91562a21e1c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 961921c1439bbb291c2d2cdb9f8b43cfdb76d00c006b8e16aeaff8063cbd7057
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação Nacional de Municípios Portugueses
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Contribuições da Segurança Social
-- Desemprego de Longa Duração
-- Desenvolvimento Social
 - Artesanato
-- Jovem Trabalhador
-- FSE
-- Criação de Emprego
-- Desenvolvimento Económico
-- Prazo de Garantia
-- Desemprego
-- Qualificação Profissional
-- Programa de Emprego
-- Recuperação de Empresas
-- Política de Emprego
-- Proteção no Desemprego
-- Programa de Emprego e Protecção Social
+- Associação Nacional de Municípios Portugueses
 - Contrato de Trabalho
-- Trabalho a Tempo Parcial
+- Contribuições da Segurança Social
+- Criação de Emprego
+- Desemprego
+- Desemprego de Longa Duração
+- Desenvolvimento Económico
+- Desenvolvimento Social
+- Formação Profissional
+- FSE
+- Instituto do Emprego e Formação Profissional
+- Jovem Trabalhador
+- Política de Emprego
+- Prazo de Garantia
+- Programa de Emprego
+- Programa de Emprego e Protecção Social
+- Proteção no Desemprego
+- Qualificação Profissional
+- Recuperação de Empresas
 - TAXA Contributiva Reduzida
+- Trabalho a Tempo Parcial
 relationships:
 - type: amended_by
   target: pt:dre:147999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147999:por
+  label: "Prorrogada, até 31 de Julho de 2006, a vigência das medidas temporárias de emprego e formação profissional constantes\
+    \ das als. a), d), e), h), i) e j) do nº 2 do art. 1º deste diploma, pelo DEC LEI.164/2005.22.09.2005.MTSSO, DR.IS-A [183]\
+    \ de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2005-147999
+  date: '2005-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1
   label: null
@@ -133,16 +140,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/255/2002/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/255/2002/03/12/p/dre
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:10Z'
   warnings: []
   errors: []
 ---
@@ -549,12 +636,12 @@ O presente diploma entra em vigor no dia seguinte ao da respectiva publicação 
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 8 de Julho de 2003.**
+Promulgado em 8 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-1980-460850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e4bc0c8b26d1c7ff3bba9aa8dff351ada806024953bfa47b46567bb6c424d36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d86ea787a022dd1dddd6ecd8c60252eb028a772f393d8c7f22b0113b9527b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital do Conde de Ferreira
+- Porto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:405312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601146:por
+  label: "Alterado o quadro de pessoal, pela PORT.32/82.13.01.1982.MFP, DR.IS [10] de 13.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-1982-601146
+  date: '1982-01-13'
+- type: amended_by
+  target: pt:dre:451616:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal de enfermagem, pela PORT.571/83.14.05.1983.MFP, DR.IS\
+    \ [111] de 14.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/571-1983-451616
+  date: '1983-05-14'
+- type: amended_by
+  target: pt:dre:435460:por
+  label: "Alterado o quadro de pessoal, reajustado pela Portaria n.º 32/82, de 13 de Janeiro, na parte referente ao pessoal\
+    \ técnico superior e pessoal operário e auxiliar, pela PORT.807-J2/83.30.07.1983.MFP, DR.IS [174]6ºSupl de 30.07.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-j2-1983-435460
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435580:por
+  label: "Alterado o quadro de pessoal, alterado pela Portaria n.º 32/82, de 13 de Janeiro, na parte referente ao pessoal\
+    \ técnico superior e pessoal médico, pela PORT.807-T3/83.30.07.1983.MFP, DR.IS [174]6ºSupl de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-t3-1983-435580
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:665733:por
+  label: "Alterado o quadro de pessoal pela PORT.349/87.28.04.1987.MF, DR.IS [97] de 28.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-1987-665733
+  date: '1987-04-28'
+- type: amended_by
+  target: pt:dre:285877:por
+  label: "Alterado o quadro de pessoal pela PORT.162/88.16.03.1988.MF, DR.IS [63] de 16.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1988-285877
+  date: '1988-03-16'
+- type: amended_by
+  target: pt:dre:373613:por
+  label: "Alterado o quadro de pessoal pela PORT.278/88.04.05.1988.MF, DR.IS [103] de 04.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/278-1988-373613
+  date: '1988-05-04'
+- type: amended_by
+  target: pt:dre:599708:por
+  label: "Substituído o quadro de pessoal, na parte referente às carreiras de técnico superior de serviço social e de técnico\
+    \ superior de saúde, pela PORT.1097/92.28.11.1992.MF, DR.IS-B [276] de 28.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1097-1992-599708
+  date: '1992-11-28'
+- type: amended_by
+  target: pt:dre:405312:por
+  label: "Repristinada pelo DEC LEI.129/96.1996.08.12.MS, DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1996-405312
+  date: '1996-08-12'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:562271:por
+  label: "Revogada pelo DEC LEI.232/95.1995.09.12.MS, DR.IS-A [211] de 12.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1995-562271
+  date: '1995-09-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:28Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +170,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Mental Oriental do Porto (Hospital do Conde de Ferreira)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/26832684.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/26832684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26832684.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

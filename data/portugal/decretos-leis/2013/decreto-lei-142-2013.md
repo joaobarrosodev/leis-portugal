@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2013/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2013-503027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c615afaf4c9bb7ff20efe36f030199f7fa7a4a81308d5a46d340458eed75bb56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e783af301b0f2a6c74f374e9099c428ebd959ec4dc5f4bf9d73367f4f4a5e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Banco de Portugal
+- Definição de Competências
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:148747521:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado o art. 17.º-A da Lei Orgânica do Banco de Portugal, aprovada pela Lei 5/98 de 31-jan, aditado pelo presente
+    diploma, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:148747521:por
+  label: Alterado, a partir de 01.01.2021, o art. 27.º da Lei Orgânica do Banco de Portugal aprovada pela Lei 5/98 de 31-jan,
+    na versão republicada pelo presente diploma, pelo(a) Lei n.º 73/2020 - Diário da República n.º 224/2020, Série I de 2020-11-17
+    que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-2020-148747521
+  date: '2020-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2001/04/17/p/dre
   label: null
@@ -101,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1998/01/31/p/dre
+- type: cites
+  target: pt:dre:164212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601997:por
+  label: null
+  source: null
 article_structure:
-  article_count: 75
+  article_count: 73
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:01Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +198,7 @@ d) Participar no sistema europeu de prevenção e mitigação de riscos para a e
 
 e) [Anterior alínea d)].
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Compete ao Banco de Portugal exercer a supervisão das instituições de crédito, sociedades financeiras e outras entidades que lhe estejam legalmente sujeitas, nomeadamente estabelecendo diretivas para a sua atuação e para assegurar os serviços de centralização de riscos de crédito, bem como aplicando-lhes medidas de intervenção preventiva e corretiva, nos termos da legislação que rege a supervisão financeira.
 
@@ -175,7 +216,7 @@ São aditados à Lei Orgânica do Banco de Portugal, aprovada pela [Lei n.º 5/9
 
 3 - Para efeitos do exercício das atribuições previstas no presente artigo, o Banco de Portugal estabelece mecanismos de cooperação com as demais autoridades públicas e com os outros supervisores financeiros, nos termos da legislação aplicável.
 
-###### Artigo 17.º-A
+Artigo 17.º-A
 
 Compete ao Banco de Portugal desempenhar as funções de autoridade de resolução nacional, incluindo, entre outros poderes previstos na legislação aplicável, os de elaborar planos de resolução, aplicar medidas de resolução e determinar a eliminação de potenciais obstáculos à aplicação de tais medidas, nos termos e com os limites previstos na legislação aplicável.»
 
@@ -213,13 +254,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 15 de outubro de 2013.**
+Promulgado em 15 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de outubro de 2013.**
+Referendado em 17 de outubro de 2013.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 

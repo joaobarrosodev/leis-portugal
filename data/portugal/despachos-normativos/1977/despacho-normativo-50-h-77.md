@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 342-(10) a 342-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05002/00100010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-h-1977-315535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b96dff51cbff47c59b79d758ae939134815e8cd8eaf33d040196399400f4d199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09e2e510f006471b5636a12cc9462c3dfdfb97995480fdcbb742b0441917e0c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Farinha
+- Indústria de Moagem
+- Instituto dos Cereais
+- Subsídio
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:656378:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656378:por
+  label: Revogado pelo DEC LEI.70/78.07.04.1978.MAP, DR.IS [81-2ºSupl] de 07.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1978-656378
+  date: '1978-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:07Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03800/13201328.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2007/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41669fd5c96c4c43dec9f35acd7a5b6d1e7f54b2c97493a8cd2f5f90168c0d04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80df871ccbbb33eb2a9a984c20e7723ca83e4d828fef8fd3bca71436b39b0732
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação da Formação de Professores
-- Formação Profissional
-- Ministério da Educação
-- Plano de Estudos
-- Formação de Professores
 - Definição de Competências
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
+- Formação de Professores
+- Formação Profissional
 - Habilitações Literárias
 - Mestrado
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
-- Regime Jurídico
 - Ministério da Ciência Tecnologia e Ensino Superior
-- Educação Pré-escolar
+- Ministério da Educação
+- Pessoal Docente
+- Plano de Estudos
+- Qualificação Profissional
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:25344769:por
@@ -122,16 +122,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/212/1993/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/212/1993/02/19/p/dre
+- type: cites
+  target: pt:dre:202779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25344769:por
+  label: "Revogado, sem prejuízo do disposto no art. 29.º, a partir de 19.05.2014, pelo DEC LEI.79/2014.14.05.2014.MECI, DR.IS\
+    \ [92] de 14.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2014-25344769
+  date: '2014-05-14'
 article_structure:
   article_count: 30
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:42Z'
   warnings: []
   errors: []
 ---
@@ -594,16 +680,16 @@ q) O despacho conjunto n.º 74/2002, publicado no Diário da República, 2.ª s�
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Domínios de habilitação para a docência, níveis e ciclos abrangidos, especialidades do grau de mestre e créditos mínimos de formação na área da docência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03800/13201328.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03800/13201328.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03800/13201328.pdf)

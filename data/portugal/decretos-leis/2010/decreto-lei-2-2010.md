@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2010/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2010-459961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a16fbf5db527b4a124abcf1fbd56347166c7b17c7853a7076ffffd0933d4dc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08eb143a95f9e6cfcf3e9c868fe3dc6f4849c2c911548d28f4af65488eac1dc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,29 +70,43 @@ subjects:
 - Concurso Público
 - Delegação de Competências
 - Direção Geral do Tesouro e Finanças
+- Governo Xviii
 - Ministro das Finanças
 - Ministro de Estado
 - Privatização
-- Governo Xviii
 relationships:
 - type: amended_by
   target: pt:dre:671453:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671453:por
+  label: "Alterados os arts. 2º, 4º e 6º, aditado um art. 2º-A e revogado o art. 5º, pelo DEC LEI.96/2011.19.08.2011.MF, DR.IS\
+    \ [159] de 19.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2011-671453
+  date: '2011-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/62-a/2008/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62-a/2008/11/11/p/dre
+- type: cites
+  target: pt:dre:330383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:35Z'
   warnings: []
   errors: []
 ---
@@ -243,12 +257,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 30 de Dezembro de 2009.**
+Promulgado em 30 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Janeiro de 2010.**
+Referendado em 4 de Janeiro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

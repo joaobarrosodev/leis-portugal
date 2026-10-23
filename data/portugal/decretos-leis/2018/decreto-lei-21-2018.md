@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2018/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2018-114937037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3dac73c87fc033c19239b67576683fa8ef011aaf01bb95e723cc4a6e01d45f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9291d888baa5af1875f0787753e2e9f83bd1917bc3228edcb923c7462e80f512
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Nacional de Segurança de Barragens
-- Construção Civil
-- Comissão de Segurança de Barragens
 - Barragem
+- Comissão de Segurança de Barragens
+- Construção Civil
 - Normas de Construção
 - Regulamento
 - Segurança das Instalações
@@ -94,15 +94,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/847/1993/09/10/p/dre
 article_structure:
-  article_count: 95
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 80
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:17Z'
   warnings: []
   errors: []
 ---
@@ -159,13 +159,17 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 9.º, 10.º, 15.º, 36.º, 37.º, 45.º, 46.�
 
 2 - [Revogado].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
 2 - A classificação referida no número anterior deve ter em conta as vidas humanas, bens e ambiente, bem como as características da barragem, de acordo com as regras constantes do anexo ao presente Regulamento e que dele faz parte integrante.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -271,7 +275,9 @@ bd) [Anterior alínea bc)];
 
 be) [Anterior alínea bd)].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -287,7 +293,9 @@ c) [...].
 
 4 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A CSB, cujo presidente deve ser designado por despacho do membro do Governo com tutela sobre o organismo com competência genérica de controlo de segurança das barragens, sendo os restantes membros designados pela entidade que representam, funciona junto da Autoridade e tem a seguinte composição:
 
@@ -339,7 +347,9 @@ d) [...].
 
 5 - À Autoridade compete suportar, logística e financeiramente, o funcionamento da CSB.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -377,7 +387,9 @@ j) Promover as atualizações do plano de observação.
 
 8 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -403,7 +415,9 @@ c) No caso de se instalarem comportas automáticas, estas devem ser providas de 
 
 4 - As descargas de fundo devem permitir o esvaziamento da albufeira e ser equipadas com duas comportas ou válvulas com possibilidades de acionamento idênticas às atribuídas, na alínea b) do número anterior, às comportas dos descarregadores de cheias, uma funcionando como segurança e a outra destinada ao serviço normal da exploração, excetuando-se, quando devidamente justificado, as barragens incluídas nas classes ii e iii.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...].
 
@@ -419,7 +433,9 @@ c) [...];
 
 d) Uma eventual proposta de atualização do plano de observação para o período subsequente.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -433,7 +449,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Com vista a fazer face a situações de acidente ou catástrofe, deve ser efetuado o planeamento de emergência para todas as barragens das classes i e ii.
 
@@ -441,7 +459,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -453,7 +473,9 @@ b) Procedimentos simplificados de emergência, no caso das barragens da classe i
 
 3 - No caso de existência de mais de uma barragem com incidência sobre um trecho comum do rio, o planeamento de emergência na parte relativa a esse trecho deve considerar o cenário de acidente mais desfavorável para essas barragens.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - A inspeção prévia ao primeiro enchimento da albufeira deve ter a participação dos serviços de proteção civil no caso das barragens da classe i, nomeadamente para verificar a implementação dos sistemas de alerta e aviso, de acordo com o disposto no n.º 1 do artigo 30.º
 
@@ -471,19 +493,25 @@ b) Procedimentos simplificados de emergência, no caso das barragens da classe i
 
 8 - Compete ao dono de obra a conservação e manutenção dos sistemas de alerta e aviso considerados no plano de emergência interno, para as barragens da classe i.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...].
 
 2 - O plano de emergência interno atualizado deve ser aprovado pela Autoridade, tal como disposto na alínea d) do n.º 6 do artigo 6.º, após parecer da ANPC, de acordo com a alínea a) do n.º 1 do artigo 8.º
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - O plano de emergência externo deve ser elaborado pelas entidades territorialmente competentes do sistema de proteção civil, de acordo com a legislação aplicável, em articulação com o plano de emergência interno e após implementação do mesmo.
 
 2 - [...].
 
-###### Artigo 55.º — Documentos técnicos de apoio
+Artigo 55.º
+
+Documentos técnicos de apoio
 
 1 - Para boa execução do presente Regulamento devem ser estabelecidos pela Autoridade, com o parecer da Comissão de Segurança de Barragens, documentos técnicos de apoio com disposições relativas ao projeto, à construção, à exploração e à observação e inspeção de barragens.
 
@@ -491,7 +519,9 @@ b) Procedimentos simplificados de emergência, no caso das barragens da classe i
 
 3 - Para boa execução das disposições relativas ao planeamento de emergência de barragens, a Autoridade e a ANPC publicarão documentos técnicos de apoio à elaboração e operacionalização deste planeamento.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O dono de obra deve submeter à aprovação da Autoridade, no prazo máximo de um ano a partir da data da entrada em vigor das alterações ao presente Regulamento, para as barragens nas fases de construção, de primeiro enchimento e de exploração, uma proposta devidamente justificada da classe a atribuir à barragem, de acordo com o anexo ao presente Regulamento.
 
@@ -569,15 +599,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de novembro de 2017. - Maria Manuel de Lemos Leitão Marques - Eduardo Arménio do Nascimento Cabrita - Pedro Manuel Dias de Jesus Marques - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 20 de março de 2018.**
+Promulgado em 20 de março de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de março de 2018.**
+Referendado em 22 de março de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -585,7 +615,7 @@ Visto e aprovado em Conselho de Ministros de 30 de novembro de 2017. - Maria Man
 
 1 - Classificam-se as barragens em função da sua perigosidade e dos danos potenciais associados à onda de inundação correspondente ao cenário de acidente mais desfavorável.
 
-2 - A perigosidade da barragem deve ser caracterizada pelo fator [([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf))](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf), sendo H a altura da barragem, em metros, e V a capacidade da albufeira, em hm3.
+2 - A perigosidade da barragem deve ser caracterizada pelo fator [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf), sendo H a altura da barragem, em metros, e V a capacidade da albufeira, em hm3.
 
 3 - Os danos potenciais devem ser avaliados na região do vale a jusante da barragem, onde a onda de inundação pode afetar a população, os bens e o ambiente, devendo:
 
@@ -601,7 +631,7 @@ b) Por uma secção do rio localizada 10 km a jusante da barragem, no caso de ba
 
 5 - A classe da barragem resulta da aplicação do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf))](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -1349,7 +1379,9 @@ d) As qualificações técnicas dos agentes encarregados da instalação e explo
 
 5 - O programa de trabalhos deve permitir clarificar interfaces e aspetos críticos de atividades fundamentais, assegurar a compatibilidade das frentes de trabalho e explicitar os períodos de execução mais condicionantes, salvaguardando a segurança e a qualidade dos trabalhos.
 
-###### Artigo 24.º — Livro técnico da obra
+###### Artigo 24.º
+
+## Livro técnico da obra
 
 1 - O diretor técnico da obra manterá atualizado, durante a construção, um livro paginado e selado pela Autoridade, que é designado por livro técnico da obra e onde são registadas, além de outras, as ocorrências com interesse do ponto de vista da segurança.
 
@@ -1481,7 +1513,9 @@ b) À operação, manutenção e conservação dos órgãos de segurança e expl
 
 2 - As regras de exploração da barragem devem ser submetidas a aprovação da Autoridade, nos termos da alínea j) do n.º 2 do artigo 10.º
 
-###### Artigo 35.º — Livro técnico da obra na fase de exploração
+###### Artigo 35.º
+
+## Livro técnico da obra na fase de exploração
 
 O técnico responsável pela exploração dará continuidade ao livro técnico da obra, registando as ocorrências mais significativas do ponto de vista da segurança, devendo observar-se o disposto no n.º 2 do artigo 24.º quanto às visitas à obra das entidades aí mencionadas.
 
@@ -1761,7 +1795,7 @@ b) Quatro anos, para as barragens da classe ii.
 
 1 - Classificam-se as barragens em função da sua perigosidade e dos danos potenciais associados à onda de inundação correspondente ao cenário de acidente mais desfavorável.
 
-2 - A perigosidade da barragem deve ser caracterizada pelo fator [([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf))](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf), sendo H a altura da barragem, em metros, e V a capacidade da albufeira, em hm3.
+2 - A perigosidade da barragem deve ser caracterizada pelo fator [(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf), sendo H a altura da barragem, em metros, e V a capacidade da albufeira, em hm3.
 
 3 - Os danos potenciais devem ser avaliados na região do vale a jusante da barragem, onde a onda de inundação pode afetar a população, os bens e o ambiente, devendo:
 
@@ -1777,4 +1811,6 @@ b) Por uma secção do rio localizada 10 km a jusante da barragem, no caso de ba
 
 5 - A classe da barragem resulta da aplicação do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf))](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/03/06200/0143301454.pdf)
+
+111225533

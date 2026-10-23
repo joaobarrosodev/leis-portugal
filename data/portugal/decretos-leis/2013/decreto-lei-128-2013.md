@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2013/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2013-499269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 208f7f7435c30b055ab392b79da837fbe2b63e7b50dfbbfbcbb63e84c6a57e99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cd570742bd894131d2771955bf04cb94d416c28263da6552917ebf7136f08f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,38 +70,72 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Médico
-- Farmácia
-- Indústria Farmacêutica
 - CE Países
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Comunicações Eletrónicas
 - Definição de Competências
-- Saúde Pública
+- Documento Eletrónico
 - Etiquetagem
 - Fabrico Industrial
+- Farmácia
 - Farmácia de Oficina
 - Fiscalização
 - Formulário Eletrónico
-- Medicamento
+- Indústria Farmacêutica
+- Infarmed
 - Licenciamento
-- Documento Eletrónico
+- Medicamento
+- Médico
 - Normas de Segurança
 - Países Terceiros
-- Sistema de Informação
 - Preço
 - Produto Farmacêutico
 - Proteção do Consumidor
 - Receita Médica
 - Regime Jurídico
-- Comércio
+- Saúde Pública
+- Sistema de Informação
 - Transacção Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:888861493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56346571:por
+  label: Alterado o art. 48º do Dec Lei 307/2007 de 31-ago, na redação do presente diploma, pelo(a) Lei n.º 51/2014 - Diário
+    da República n.º 162/2014, Série I de 2014-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2014-56346571
+  date: '2014-08-25'
+- type: amended_by
+  target: pt:dre:75688299:por
+  label: Alterado, a partir de 08.12.2016, o art. 20.º do Dec Lei 307/2007 de 31-ago, com a redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 75/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2016-75688299
+  date: '2016-11-08'
+- type: amended_by
+  target: pt:dre:105711790:por
+  label: Alterados, a partir de 05.02.2017, os arts. 159.º (com a redação dada pela Lei 51/2014 de 25-ago) e 162.º, e revogado,
+    a partir da referida data, o art. 163.º do Dec Lei 176/2006 de 30-ago, na versão republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 5/2017 - Diário da República n.º 5/2017, Série I de 2017-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2017-105711790
+  date: '2017-01-06'
+- type: amended_by
+  target: pt:dre:115172415:por
+  label: Alterados, a partir de 02.05.2018, os arts. 1.º, 3.º, 59.º, 62.º, 63.º, 65.º, 67.º, 68.º, 69.º, 70.º, 71.º, 105.º-A,
+    109.º e 149.º-A do Dec Lei 176/2006 de 30-ago, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 26/2018
+    - Diário da República n.º 80/2018, Série I de 2018-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2018-115172415
+  date: '2018-04-24'
+- type: amended_by
+  target: pt:dre:123962150:por
+  label: Alterados, a partir de 17.08.2019, os arts. 3.º (na redação do Dec Lei 26/2018 de 24-abr), 6.º, 9.º, 12.º, 29.º,
+    60.º, 94.º, 95.º, 96.º, 97.º, 98.º, 100.º, 101.º, 101.º-B, 120.º-A e 179.º, a parte III do anexo I, aditados os arts.
+    94.º-A, 94.º-B, 95.º-A e 102.º-A e revogada a al. g) do n.º 2 do art. 96.º do Dec Lei 176/2006 de 30-ago, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 112/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2019-123962150
+  date: '2019-08-16'
 - type: cites
   target: celex:31994L0036
   label: null
@@ -162,16 +196,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2003
   label: null
   source: http://data.europa.eu/eli/dir/2003
+- type: corrected_by
+  target: pt:dre:504759:por
+  label: "Retificado o anexo II (na parte em republica os arts. 64º, 65º e 66º do Dec Lei 176/2006, de 30-ago), pela DECL-RECT.47/2013.04.11.2013.PCM,\
+    \ DR.IS [213] de 04.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/47-2013-504759
+  date: '2013-11-04'
 article_structure:
-  article_count: 275
-  section_count: 51
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 243
+  section_count: 55
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:49Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +284,9 @@ l) A Diretiva n.º [2012/26/UE](https://data.europa.eu/eli/dir/2012/26/oj?locale
 
 3 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 101.º-A e nas alíneas b) e c) do n.º 2 do artigo 178.º, em legislação especial e nos números seguintes, o presente decreto-lei aplica-se aos medicamentos preparados industrialmente ou em cujo fabrico intervenha um processo industrial.
 
@@ -256,7 +298,9 @@ l) A Diretiva n.º [2012/26/UE](https://data.europa.eu/eli/dir/2012/26/oj?locale
 
 5 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -414,11 +458,15 @@ sss) [Anterior alínea ooo)].
 
 4 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Nos termos a aprovar pelo membro do Governo responsável pela área da saúde, é estabelecido um código nacional do medicamento, de aplicação geral, que facilite a rápida identificação do medicamento e a respetiva autenticação e rastreabilidade, o qual pode ser subdividido, consoante os mercados hospitalar e ambulatório, e implementado em momentos diferentes.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -480,7 +528,9 @@ u) [Anterior alínea t)].
 
 9 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Sem prejuízo do disposto na legislação da União Europeia, as alterações dos termos de uma autorização concedida ao abrigo do presente decreto-lei dependem de autorização do INFARMED, I.P., nos termos do disposto na presente subsecção.
 
@@ -492,7 +542,9 @@ u) [Anterior alínea t)].
 
 5 - Os procedimentos de alterações dos termos das autorizações de introdução no mercado são considerados urgentes.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -516,7 +568,9 @@ b) Suspender cautelarmente a autorização de introdução no mercado e a utiliz
 
 9 - A decisão referida na alínea b) do n.º 1, acompanhada da respetiva fundamentação, é notificada, até ao termo do primeiro dia útil seguinte, à Comissão Europeia e aos restantes Estados membros envolvidos.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...].
 
@@ -538,7 +592,9 @@ b) Suspender cautelarmente a autorização de introdução no mercado e a utiliz
 
 8 - A decisão prevista na alínea b) do n.º 1, acompanhada da respetiva fundamentação, é notificada, até ao termo do primeiro dia útil seguinte, à Comissão Europeia e aos restantes Estados membros envolvidos.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...].
 
@@ -550,7 +606,9 @@ b) Suspender cautelarmente a autorização de introdução no mercado e a utiliz
 
 5 - [...].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]:
 
@@ -628,7 +686,9 @@ b) Assegurarem o mesmo grau de eficácia que os originais na verificação da au
 
 10 - As boas práticas de distribuição são aprovadas por regulamento do INFARMED, I.P., tendo em consideração as diretrizes aprovadas pela Comissão Europeia.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]:
 
@@ -656,7 +716,9 @@ h) [...].
 
 5 - [...].
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - [...].
 
@@ -686,7 +748,9 @@ e) [Alínea e) do anterior n.º 7];
 
 f) [Alínea f) do anterior n.º 7].
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...].
 
@@ -704,7 +768,9 @@ f) [Alínea f) do anterior n.º 7].
 
 8 - [Anterior n.º 6].
 
-###### Artigo 92.º — Autorização de utilização excecional
+Artigo 92.º
+
+Autorização de utilização excecional
 
 1 - [...]:
 
@@ -722,7 +788,9 @@ b) Na situação referida na alínea c) do n.º 1, a Comissão Nacional de Farm�
 
 3 - O INFARMED, I.P., aprova, por regulamento, os requisitos, condições e prazos de que dependem os pedidos de autorização previstos nos números anteriores.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...].
 
@@ -734,7 +802,9 @@ b) Na situação referida na alínea c) do n.º 1, a Comissão Nacional de Farm�
 
 5 - O INFARMED, I.P., deve introduzir na base de dados da União Europeia a informação sobre cada autorização de distribuição por grosso concedida, sem prejuízo de, mediante pedido, prestar à Comissão ou a qualquer Estado membro todas as informações necessárias acerca das autorizações de distribuição por grosso concedidas.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...]:
 
@@ -776,7 +846,9 @@ b) Uma lista de medicamentos cuja exportação, ou distribuição para outros Es
 
 6 - Para os efeitos previstos na alínea i) do n.º 1, os estabelecimentos de distribuição por grosso de medicamentos dispõem de um plano de emergência que permita a imediata e efetiva retirada do mercado de um medicamento, ordenada pelo INFARMED, I.P., ou em cooperação com o fabricante ou o titular da autorização de introdução no mercado do medicamento em questão.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - Salvo disposição legal em contrário, a rotulagem do acondicionamento secundário e, caso não exista, do acondicionamento primário, contém as seguintes indicações, elementos ou dispositivos:
 
@@ -842,7 +914,9 @@ v) Para os medicamentos previstos no n.º 3 do artigo 115.º, a menção «Medic
 
 10 - [...].
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...].
 
@@ -852,7 +926,9 @@ v) Para os medicamentos previstos no n.º 3 do artigo 115.º, a menção «Medic
 
 4 - O disposto no número anterior é igualmente aplicável à classificação de medicamentos que obtenham autorização de introdução no mercado.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - O patrocínio, por qualquer entidade abrangida pelo presente decreto-lei, de congressos, simpósios ou quaisquer ações ou eventos de cariz científico ou de divulgação, direta ou indireta, de medicamentos, deve constar da documentação promocional relativa aos mesmos, bem como da documentação dos participantes e dos trabalhos ou relatórios publicados após a realização dessas mesmas ações e eventos, devendo a entidade patrocinadora comunicar previamente ao INFARMED, I.P., o referido patrocínio.
 
@@ -870,7 +946,9 @@ v) Para os medicamentos previstos no n.º 3 do artigo 115.º, a menção «Medic
 
 8 - [Anterior n.º 7].
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 1 - [...].
 
@@ -890,7 +968,9 @@ a) O nome, Estado membro de residência, domicílio profissional, números de te
 
 b) O nome, distrito onde reside, domicílio profissional, números de telefone e telefax e endereço de correio eletrónico da pessoa de contacto para questões de farmacovigilância prevista no n.º 6, junto do INFARMED, I.P.
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - O INFARMED, I.P., inicia o procedimento previsto na presente secção, informando as autoridades nacionais competentes dos demais Estados membros, a Agência e a Comissão Europeia, se os resultados da avaliação dos dados de farmacovigilância forem motivo de preocupação e se verifique qualquer dos seguintes casos:
 
@@ -924,7 +1004,9 @@ b) Informa o Grupo de Coordenação, no caso de medicamentos autorizados pelos p
 
 6 - [Anterior n.º 4].
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 1 a 3 do artigo anterior, no artigo seguinte e no artigo 175.º-B, quando se mostrar necessária uma ação urgente para proteger a saúde pública, o INFARMED, I.P., pode suspender a autorização de introdução no mercado do medicamento em questão e a utilização do medicamento em território nacional até ser tomada uma decisão definitiva, devendo notificar a Comissão Europeia, a Agência e as autoridades nacionais competentes dos demais Estados membros, o mais tardar no dia útil seguinte, dos fundamentos dessa medida.
 
@@ -934,7 +1016,9 @@ b) Informa o Grupo de Coordenação, no caso de medicamentos autorizados pelos p
 
 4 - [...].
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - [...]:
 
@@ -980,7 +1064,9 @@ n) [Anterior alínea k)].
 
 8 - [...].
 
-###### Artigo 177.º — [...]
+Artigo 177.º
+
+[...]
 
 1 - [...].
 
@@ -1002,7 +1088,9 @@ n) [Anterior alínea k)].
 
 10 - O INFARMED, I.P., deve introduzir na base de dados da União Europeia os certificados de boas práticas de fabrico ou de distribuição que emita, bem como as informações previstas no n.º 2 do artigo 72.º-A.
 
-###### Artigo 178.º — Sistema de prevenção e recolha de medicamentos
+Artigo 178.º
+
+Sistema de prevenção e recolha de medicamentos
 
 1 - Sem prejuízo do disposto no presente decreto-lei ou em legislação especial, é criado um sistema destinado a prevenir a receção pelo doente de medicamentos suspeitos de representarem perigo para a saúde.
 
@@ -1028,7 +1116,9 @@ e) Difusão de comunicados públicos de emergência.
 
 7 - [Anterior n.º 3].
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - [...].
 
@@ -1052,7 +1142,9 @@ c) Caso os controlos não sejam efetuados segundo os métodos descritos de acord
 
 8 - [...].
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - [...].
 
@@ -1142,7 +1234,9 @@ b) Se, no prazo de 60 dias, a contar da receção do formulário de registo, o I
 
 7 - O disposto no presente artigo não prejudica o disposto nos artigos 176.º e 177.º.
 
-###### Artigo 101.º-A — Distribuição para países terceiros
+Artigo 101.º-A
+
+Distribuição para países terceiros
 
 1 - No caso da distribuição por grosso de medicamentos para países terceiros, não se aplica o disposto no n.º 1 do artigo 77.º e nas alíneas f) e g) do n.º 1 do artigo 100.º.
 
@@ -1156,7 +1250,9 @@ a) Assegurar que esses fornecimentos são feitos apenas a pessoas autorizadas ou
 
 b) Cumprir o disposto no n.º 5 do artigo 100.º.
 
-###### Artigo 101.º-B — Intermediação de medicamentos
+Artigo 101.º-B
+
+Intermediação de medicamentos
 
 1 - As pessoas que se dedicam à intermediação de medicamentos devem cumprir o disposto nas alíneas c) e f) do n.º 1 e no n.º 2 do artigo 100.º, bem como, com as necessárias adaptações, as obrigações previstas nas alíneas a), e), k) e i) do n.º 1 do artigo 100.º e nos n.os 4 a 6 deste último artigo.
 
@@ -1174,7 +1270,9 @@ d) Localização do estabelecimento onde será exercida a atividade.
 
 4 - São, com as necessárias adaptações, aplicáveis ao registo referido no n.º 2 as regras de suspensão, revogação e interdição previstas no artigo 101.º.
 
-###### Artigo 105.º-A — Dispositivos de segurança
+Artigo 105.º-A
+
+Dispositivos de segurança
 
 1 - Os medicamentos sujeitos a receita médica devem ser dotados dos dispositivos de segurança a que se refere a alínea v) do n.º 1 do artigo anterior, exceto se constarem de lista aprovada pela Comissão Europeia através de ato delegado.
 
@@ -1218,7 +1316,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Por razões de proteção da saúde pública, e sem prejuízo da possibilidade de apresentação do pedido por qualquer meio de comunicação, incluindo a página eletrónica na Internet de cada farmácia, a dispensa e entrega de medicamentos ao público em território nacional só pode ser efetuada pelo pessoal da farmácia a que se referem os artigos 23.º e 24.º, nas instalações desta ou no domicílio do utente, incluindo os medicamentos não sujeitos a receita médica que dependam de dispensa exclusiva em farmácia.
 
@@ -1232,7 +1332,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, a direção técnica da farmácia é assegurada em permanência por farmacêutico diretor técnico, registado no INFARMED, I.P., no prazo máximo de 10 dias após o início de funções, não podendo haver acumulação destas com outras funções durante o horário de trabalho.
 
@@ -1246,7 +1348,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]:
 
@@ -1418,15 +1522,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de junho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Paula Maria von Hafe Teixeira da Cruz - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 23 de agosto de 2013.**
+Promulgado em 23 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de agosto de 2013.**
+Referendado em 27 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -1434,7 +1538,7 @@ Visto e aprovado em Conselho de Ministros de 19 de junho de 2013. - Pedro Passos
 
 [...]
 
-# PARTE I
+PARTE I
 
 1 - [...].
 
@@ -5440,7 +5544,7 @@ O presente anexo divide-se em quatro partes distintas:
 
 - A parte IV trata os «medicamentos de terapia avançada» e diz respeito a requisitos específicos para medicamentos de terapia génica (utilizando o sistema autólogo ou alogénico humano, ou o sistema xenogénico), medicamentos de terapia celular, quer de origem humana, quer de origem animal, e medicamentos de xenotransplantação.
 
-# PARTE I — Requisitos normalizados para os dossiês de autorização de introdução no mercado
+## PARTE I — Requisitos normalizados para os dossiês de autorização de introdução no mercado
 
 1 - Módulo 1: Informações administrativas.
 
@@ -6426,7 +6530,7 @@ Caso o medicamento esteja já autorizado em países terceiros, devem ser apresen
 
 Quando submetidos de acordo com a norma orientadora correspondente publicada pela Agência, os formulários de notificação de casos e os registos com os dados individuais dos doentes devem ser apresentados pela mesma ordem que os relatórios de estudos clínicos e indexados por estudo.
 
-# PARTE II — Dossiês e requisitos específicos de autorização de introdução no mercado
+## PARTE II — Dossiês e requisitos específicos de autorização de introdução no mercado
 
 Alguns medicamentos apresentam características específicas tais, que todos os requisitos do dossiê do pedido de autorização de introdução no mercado, conforme o disposto na parte I do presente anexo, devem ser adaptados. Para ter em conta estas situações especiais, os requerentes devem adaptar em conformidade a apresentação do dossiê.
 
@@ -6530,7 +6634,7 @@ Os pedidos mistos de autorização de introdução no mercado são os dossiês d
 
 Todos os outros módulos devem estar em conformidade com a estrutura descrita na parte I do presente anexo. A autoridade competente aceitará caso a caso o formato proposto que o requerente apresentar.
 
-# PARTE III — Medicamentos especiais
+## PARTE III — Medicamentos especiais
 
 A presente parte estabelece os requisitos específicos relacionados com a natureza de determinados medicamentos.
 
@@ -6808,7 +6912,7 @@ No que respeita ao desenvolvimento da formulação, deve ser fornecido um resumo
 
 - à utilização dessa substância de acordo com as disposições da legislação referida na alínea d) do n.º 3 do artigo 2.º
 
-# PARTE IV — Medicamentos de terapia avançada
+## PARTE IV — Medicamentos de terapia avançada
 
 1 - Introdução. - Os pedidos de autorização de introdução no mercado relativos a medicamentos de terapia avançada, tal como definidos na alínea a) do n.º 1 do artigo 2.º do Regulamento (CE) n.º [1394/2007](https://data.europa.eu/eli/reg/2007/1394/oj?locale=pt), devem respeitar os requisitos de apresentação (módulos 1, 2, 3, 4 e 5) descritos na parte i do presente anexo.
 

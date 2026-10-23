@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/941-1984-396312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ab7c22bea4dcff8b9e2546497c9548085f62482276784ad9df0e8981f5c0c5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d87d97d185b6651e2079e04d617e6a878c1206418ebf3b930176b33aced69a9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Faculdade de Ciências
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:16:55Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação.
 
-**Assinada em 3 de Dezembro de 1984.**
+Assinada em 3 de Dezembro de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 
@@ -104,7 +112,7 @@ Regulamento do Departamento de Informática e Ciências da Computação da Facul
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Informática e Ciências da Computação da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, constitui uma unidade orgânica de ensino, de investigação científica e tecnológica e de prestação de serviços à comunidade, nas áreas de informática e de ciências da computação, tendo como objectivos, especialmente:
+Artigo 1.º O Departamento de Informática e Ciências da Computação da Faculdade de Ciências da Universidade de Lisboa, adiante designado por Departamento, constitui uma unidade orgânica de ensino, de investigação científica e tecnológica e de prestação de serviços à comunidade, nas áreas de informática e de ciências da computação, tendo como objectivos, especialmente:
 
 a) Promover a aquisição, desenvolvimento e difusão do conhecimento e da tecnologia nas áreas indicadas, bem como a formação de docentes, investigadores e técnicos superiores qualificados nesses domínios;
 
@@ -120,19 +128,19 @@ f) Desenvolver actividades de extensão universitária, pondo ao serviço da com
 
 g) Prosseguir uma política editorial activa, enriquecendo a bibliografia da especialidade publicada em Portugal.
 
-###### Art. 2.º O Departamento goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que tenham sido ou venham a ser estabelecidas pelos órgãos da Faculdade e da Universidade.
+Art. 2.º O Departamento goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que tenham sido ou venham a ser estabelecidas pelos órgãos da Faculdade e da Universidade.
 
-###### Art. 3.º Poderão ser criadas, alteradas ou extintas secções no Departamento, sob proposta de 2 professores, sempre que a dimensão e a pluralidade das matérias incluídas no respectivo domínio o justifiquem, seguindo-se os termos fixados no n.º 2 do artigo 8.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 3.º Poderão ser criadas, alteradas ou extintas secções no Departamento, sob proposta de 2 professores, sempre que a dimensão e a pluralidade das matérias incluídas no respectivo domínio o justifiquem, seguindo-se os termos fixados no n.º 2 do artigo 8.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 4.º O Departamento dispõe dos seguintes órgãos próprios:
+Art. 4.º O Departamento dispõe dos seguintes órgãos próprios:
 
 a) O conselho de departamento;
 
 b) A comissão executiva.
 
-###### Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes todos os professores catedráticos, associados e auxiliares, de carreira ou convidados em regime de tempo integral, bem como todos os investigadores doutorados incluídos nas áreas científicas abrangidas pelo Departamento.
 
@@ -150,7 +158,7 @@ Os membros permanentes que prestem serviço noutro departamento ou grupo partilh
 
 9 - As deliberações do conselho de departamento só produzirão efeitos quando tomadas pela maioria dos membros em efectividade de funções.
 
-###### Art. 6.º - 1 - Ao conselho de departamento compete:
+Art. 6.º - 1 - Ao conselho de departamento compete:
 
 a) Elaborar propostas de alteração ao regulamento do Departamento, nomeadamente as referentes à criação e dissolução de secções;
 
@@ -176,11 +184,11 @@ l) Aprovar os planos de valorização do pessoal docente e investigador e submet
 
 m) Deliberar sobre outras matérias que, nos termos do número anterior, estão sujeitas aos trâmites fixados no artigo 2.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 7.º - 1 - As deliberações do conselho de departamento só poderão ser alteradas, ouvido este, pelos órgãos da Faculdade ou da Universidade quando as julguem incompatíveis com os interesses gerais prosseguidos pela Faculdade ou Universidade ou ainda possam prejudicar o seu funcionamento.
+Art. 7.º - 1 - As deliberações do conselho de departamento só poderão ser alteradas, ouvido este, pelos órgãos da Faculdade ou da Universidade quando as julguem incompatíveis com os interesses gerais prosseguidos pela Faculdade ou Universidade ou ainda possam prejudicar o seu funcionamento.
 
 2 - Das alterações às deliberações do conselho de departamento cabe recurso para o reitor.
 
-###### Art. 8.º Ao presidente do conselho de departamento compete:
+Art. 8.º Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho de departamento e da comissão executiva;
 
@@ -188,13 +196,13 @@ b) Representar o Departamento;
 
 c) Exercer as funções que lhe forem cometidas pelo conselho de departamento.
 
-###### Art. 9.º A comissão executiva do Departamento é constituída por:
+Art. 9.º A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho de departamento, que preside;
 
 b) 2 docentes ou investigadores do Departamento designados pelo presidente.
 
-###### Art. 10.º À comissão executiva compete:
+Art. 10.º À comissão executiva compete:
 
 a) Preparar as reuniões do conselho de departamento e executar as suas deliberações;
 
@@ -214,27 +222,27 @@ h) Propor ao conselho de departamento a definição das actividades do pessoal n
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 11.º Os órgãos de gestão da Faculdade, sob proposta do conselho de departamento, procederão ao destacamento interno do pessoal técnico superior, técnico, técnico-profissional, administrativo e auxiliar que se mostre necessário ao funcionamento do Departamento.
+Art. 11.º Os órgãos de gestão da Faculdade, sob proposta do conselho de departamento, procederão ao destacamento interno do pessoal técnico superior, técnico, técnico-profissional, administrativo e auxiliar que se mostre necessário ao funcionamento do Departamento.
 
 ### CAPÍTULO IV — Orçamento, instalações e equipamento
 
-###### Art. 12.º O orçamento do Departamento constituirá uma subdivisão orgânica da Universidade de Lisboa no Orçamento Geral do Estado.
+Art. 12.º O orçamento do Departamento constituirá uma subdivisão orgânica da Universidade de Lisboa no Orçamento Geral do Estado.
 
-###### Art. 13.º Os órgãos de gestão da Faculdade procederão à afectação de instalações e equipamento que se mostre necessário ao funcionamento do Departamento, dentro das dotações orçamentais, sem prejuízo dos outros serviços da Faculdade.
+Art. 13.º Os órgãos de gestão da Faculdade procederão à afectação de instalações e equipamento que se mostre necessário ao funcionamento do Departamento, dentro das dotações orçamentais, sem prejuízo dos outros serviços da Faculdade.
 
 ### CAPÍTULO V — Contratos, convénios e prestação de serviços
 
-###### Art. 14.º O Departamento pode celebrar contratos ou termos de tarefas com entidades singulares ou colectivas, nacionais ou estrangeiras, públicas ou privadas, para a realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 14.º O Departamento pode celebrar contratos ou termos de tarefas com entidades singulares ou colectivas, nacionais ou estrangeiras, públicas ou privadas, para a realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
-###### Art. 15.º - 1 - O Departamento pode celebrar convénios e protocolos de cooperação e intercâmbio com departamentos, escolas ou universidades, bem como com outras entidades públicas ou privadas, nacionais ou estrangeiras, ou prestar serviços à comunidade no âmbito da sua especialidade.
+Art. 15.º - 1 - O Departamento pode celebrar convénios e protocolos de cooperação e intercâmbio com departamentos, escolas ou universidades, bem como com outras entidades públicas ou privadas, nacionais ou estrangeiras, ou prestar serviços à comunidade no âmbito da sua especialidade.
 
 2 - A homologação dos convénios e protocolos cabe ao reitor da Universidade de Lisboa, caso não envolvam entidades exteriores ao Ministério da Educação e não impliquem o dispêndio de verbas não previamente autorizadas.
 
 3 - É requerida a homologação ministerial para a celebração dos convénios e protocolos de cooperação em todas as situações não previstas no número anterior.
 
-###### Art. 16.º O Departamento pode subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas, nacionais ou estrangeiras, relacionadas com as suas actividades e de reconhecido interesse para a prossecução dos seus fins e atribuições.
+Art. 16.º O Departamento pode subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas, nacionais ou estrangeiras, relacionadas com as suas actividades e de reconhecido interesse para a prossecução dos seus fins e atribuições.
 
-###### Art. 17.º Os instrumentos de formalização dos contratos, acordos, protocolos de cooperação e convénios deverão conter, entre outros, os seguintes elementos:
+Art. 17.º Os instrumentos de formalização dos contratos, acordos, protocolos de cooperação e convénios deverão conter, entre outros, os seguintes elementos:
 
 a) Identificação das partes e seus representantes;
 
@@ -246,7 +254,7 @@ d) Duração;
 
 e) Tarefas a realizar.
 
-###### Art. 18.º - 1 - O conselho de departamento fixará, em cada caso, o preço dos serviços prestados ao abrigo de contratos, acordos, protocolos de cooperação e convénios, atendendo, nomeadamente, a:
+Art. 18.º - 1 - O conselho de departamento fixará, em cada caso, o preço dos serviços prestados ao abrigo de contratos, acordos, protocolos de cooperação e convénios, atendendo, nomeadamente, a:
 
 a) Despesas com a utilização e amortização de equipamento;
 
@@ -264,12 +272,12 @@ d) Gratificações por horas extraordinárias do pessoal envolvido na orientaç�
 
 ### CAPÍTULO VI — Das disposições transitórias
 
-###### Art. 19.º O Departamento, constituído pelos docentes e investigadores a ele afectados pelo conselho científico da Faculdade, em cumprimento do n.º 1 do artigo 3.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), poderá ser integrado por outros docentes e investigadores que a ele sejam afectados por proposta aprovada pela comissão coordenadora daquele conselho.
+Art. 19.º O Departamento, constituído pelos docentes e investigadores a ele afectados pelo conselho científico da Faculdade, em cumprimento do n.º 1 do artigo 3.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), poderá ser integrado por outros docentes e investigadores que a ele sejam afectados por proposta aprovada pela comissão coordenadora daquele conselho.
 
-###### Art. 20.º Enquanto não for possível estabelecer a dotação orçamental própria, prevista no artigo 12.º deste Regulamento, serão satisfeitos pelas disponibilidades da Faculdade de Ciências da Universidade de Lisboa os encargos resultantes de serviços e funcionamento do Departamento.
+Art. 20.º Enquanto não for possível estabelecer a dotação orçamental própria, prevista no artigo 12.º deste Regulamento, serão satisfeitos pelas disponibilidades da Faculdade de Ciências da Universidade de Lisboa os encargos resultantes de serviços e funcionamento do Departamento.
 
-###### Art. 21.º - 1 - No prazo de 20 dias, após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada de entre o corpo docente do Departamento desencadeará os processos eleitorais para a eleição dos membros não permanentes do conselho de departamento, bem como para a posterior eleição do seu presidente.
+Art. 21.º - 1 - No prazo de 20 dias, após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada de entre o corpo docente do Departamento desencadeará os processos eleitorais para a eleição dos membros não permanentes do conselho de departamento, bem como para a posterior eleição do seu presidente.
 
 2 - O primeiro mandato dos membros eleitos, em consequência do número anterior, termina no fim do ano lectivo seguinte àquele em que tiver sido realizada a eleição.
 
-###### Art. 22.º O Departamento entra em funcionamento na data de posse do primeiro presidente do conselho de departamento.
+Art. 22.º O Departamento entra em funcionamento na data de posse do primeiro presidente do conselho de departamento.

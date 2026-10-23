@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/412/1998/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac14e3a2338d51694dc0a28a2513319e2575f2a33179fb39bb591702e393d5a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dee08dcbacd0d15c94c75d2cc35c8dd03c169bfc1510f7bdc8f6e0595352d34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Formação Profissional
-- Pessoal Dirigente
-- Enfermeiro-director
+- Avaliação do Pessoal
 - Carreira Profissional
+- Descrição de Funções
+- Enfermeiro-director
+- Formação Profissional
 - Formas de Provimento
 - Integração de Trabalhadores
-- Descrição de Funções
 - Pessoal de Enfermagem
-- Qualificação Profissional
+- Pessoal de Saúde
+- Pessoal Dirigente
 - Promoção Profissional
 - Quadro de Pessoal
+- Qualificação Profissional
 - Reestruturação de Carreiras
 - Remuneração
-- Avaliação do Pessoal
 - Tabela Salarial
 relationships:
 - type: amended_by
   target: pt:dre:2747085:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667135:por
+  label: "Alterada, de acordo com o anexo I ao Dec Lei 411/99, as escalas indiciárias constantes da Tabela I a que se refere\
+    \ o nº 2 do art. 5º do Dec Lei 437/91 de 08-Nov DR.IS-A [257], na redacção da tabela anexa ao presente diploma, pelo DEC\
+    \ LEI.411/99.1999.10.15.MS, DR.IS-A [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1999-667135
+  date: '1999-10-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/1998/02/18/p/dre
   label: null
@@ -94,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:43Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +157,9 @@ b) O nível 2, que integra as categorias de enfermeiro especialista e de enferme
 
 c) O nível 3, que integra a categoria de enfermeiro--supervisor.
 
-###### Artigo 5.º — Remuneração base
+Artigo 5.º
+
+Remuneração base
 
 1 - As remunerações das categorias e cargos previstos no presente diploma são fixadas com base no valor do índice 100 constante de portaria do Primeiro-Ministro e do Ministro das Finanças.
 
@@ -148,7 +169,9 @@ c) O nível 3, que integra a categoria de enfermeiro--supervisor.
 
 4 - Sempre que os enfermeiros integrem órgãos de gestão, serão remunerados nos termos do que estiver previsto para os membros daqueles órgãos.
 
-###### Artigo 6.º — Áreas de actuação
+Artigo 6.º
+
+Áreas de actuação
 
 1 - ...
 
@@ -156,7 +179,9 @@ c) O nível 3, que integra a categoria de enfermeiro--supervisor.
 
 3 - À área de actuação de assessoria técnica corresponde o cargo de assessor de enfermagem.
 
-###### Artigo 7.º — Conteúdo funcional das categorias de enfermeiro, enfermeiro graduado e enfermeiro especialista
+Artigo 7.º
+
+Conteúdo funcional das categorias de enfermeiro, enfermeiro graduado e enfermeiro especialista
 
 1 - Ao enfermeiro e ao enfermeiro graduado compete:
 
@@ -204,7 +229,9 @@ i) ...
 
 j) ...
 
-###### Artigo 8.º — Conteúdo funcional das categorias de enfermeiro-chefe e de enfermeiro-supervisor e do cargo de enfermeiro-director
+Artigo 8.º
+
+Conteúdo funcional das categorias de enfermeiro-chefe e de enfermeiro-supervisor e do cargo de enfermeiro-director
 
 1 - ...
 
@@ -330,7 +357,9 @@ f) [Corresponde à alínea f) do anterior n.º 5.]
 
 g) [Corresponde à alínea g) do anterior n.º 5.]
 
-###### Artigo 9.º — Conteúdo funcional do cargo de assessor de enfermagem
+Artigo 9.º
+
+Conteúdo funcional do cargo de assessor de enfermagem
 
 Ao assessor de enfermagem compete o seguinte:
 
@@ -356,7 +385,9 @@ j) ...
 
 l) ...
 
-###### Artigo 10.º — Condições de ingresso
+Artigo 10.º
+
+Condições de ingresso
 
 O ingresso na carreira de enfermagem faz-se:
 
@@ -364,7 +395,9 @@ a) Pela categoria de enfermeiro, de entre os que possuam o título profissional 
 
 b) ...
 
-###### Artigo 11.º — Condições de acesso
+Artigo 11.º
+
+Condições de acesso
 
 1 - O provimento na categoria de enfermeiro graduado depende da permanência de um período de seis anos de exercício de funções na categoria de enfermeiro com avaliação de desempenho de Satisfaz, sem prejuízo do disposto no artigo 59.º
 
@@ -398,7 +431,9 @@ d) Curso de especialização em Enfermagem estruturado nos termos do n.º 1 do a
 
 8 - (Actual n.º 11.)
 
-###### Artigo 13.º — Preenchimento do cargo de enfermeiro-director
+Artigo 13.º
+
+Preenchimento do cargo de enfermeiro-director
 
 1 - O enfermeiro-director de serviço de enfermagem é nomeado, em comissão de serviço, de entre enfermeiros-supervisores ou actuais assessores técnicos de enfermagem, por despacho ministerial, mediante proposta do dirigente máximo do serviço, ouvido o órgão de apoio técnico de enfermagem, quando exista.
 
@@ -408,11 +443,15 @@ d) Curso de especialização em Enfermagem estruturado nos termos do n.º 1 do a
 
 4 - ...
 
-###### Artigo 14.º — Cessação da comissão de serviço do cargo de enfermeiro-director
+Artigo 14.º
+
+Cessação da comissão de serviço do cargo de enfermeiro-director
 
 A cessação da comissão de serviço do cargo de enfermeiro-director determina, quando do regresso à categoria de que é titular, o posicionamento no índice remuneratório imediatamente superior.
 
-###### Artigo 15.º — Preenchimento do cargo de assessor de enfermagem
+Artigo 15.º
+
+Preenchimento do cargo de assessor de enfermagem
 
 1 - O assessor de enfermagem é provido de entre enfermeiros-supervisores, independentemente do tempo na categoria, enfermeiros-chefes e enfermeiros especialistas com três anos nas respectivas categorias ou no conjunto das duas com avaliação de desempenho de Satisfaz.
 
@@ -428,7 +467,9 @@ A cessação da comissão de serviço do cargo de enfermeiro-director determina,
 
 7 - O tempo de serviço prestado em regime de comissão de serviço nos termos do presente artigo é contado para efeitos de progressão na categoria de origem e promoção na carreira.
 
-###### Artigo 24.º — Constituição e composição do júri
+Artigo 24.º
+
+Constituição e composição do júri
 
 1 - ...
 
@@ -444,7 +485,9 @@ A cessação da comissão de serviço do cargo de enfermeiro-director determina,
 
 7 - Nos concursos para a categoria de enfermeiro especialista, pelo menos um dos vogais efectivos e um dos suplentes deverá ser detentor de formação na área de especialização para que o concurso é aberto ou detentor de formação em outras áreas de especialização, sempre que não existam profissionais habilitados naquela área.
 
-###### Artigo 26.º — Funcionamento do júri
+Artigo 26.º
+
+Funcionamento do júri
 
 1 - ...
 
@@ -458,7 +501,9 @@ A cessação da comissão de serviço do cargo de enfermeiro-director determina,
 
 6 - ...
 
-###### Artigo 29.º — Conteúdo do aviso de abertura
+Artigo 29.º
+
+Conteúdo do aviso de abertura
 
 1 - ...
 
@@ -500,7 +545,9 @@ q) ...
 
 4 - (Actual n.º 3.)
 
-###### Artigo 34.º — Métodos de selecção
+Artigo 34.º
+
+Métodos de selecção
 
 1 - ...
 
@@ -516,7 +563,9 @@ b) ...
 
 5 - Nos concursos para as categorias de enfermeiro-chefe e enfermeiro-supervisor serão obrigatoriamente utilizados os métodos referidos nas alíneas a) e b) do n.º 1.
 
-###### Artigo 35.º — Objectivos dos métodos de selecção
+Artigo 35.º
+
+Objectivos dos métodos de selecção
 
 1 - ...
 
@@ -526,7 +575,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 37.º — Classificação final dos candidatos
+Artigo 37.º
+
+Classificação final dos candidatos
 
 1 - ...
 
@@ -546,17 +597,23 @@ b) ...
 
 9 - ...
 
-###### Artigo 40.º — Prazos
+Artigo 40.º
+
+Prazos
 
 Na contagem dos prazos estabelecidos no presente capítulo será observado o regime previsto no Código do Procedimento Administrativo.
 
-###### Artigo 44.º — Casos em que é considerada a menção qualitativa da avaliação de desempenho
+Artigo 44.º
+
+Casos em que é considerada a menção qualitativa da avaliação de desempenho
 
 1 - A menção qualitativa da avaliação do desempenho é obrigatoriamente considerada na progressão e promoção na carreira.
 
 2 - A menção qualitativa atribuída nos termos do número anterior é relevante, para todos os efeitos legais, até à atribuição de nova menção.
 
-###### Artigo 48.º — Avaliadores para atribuição da menção qualitativa
+Artigo 48.º
+
+Avaliadores para atribuição da menção qualitativa
 
 1 - ...
 
@@ -578,7 +635,9 @@ Na contagem dos prazos estabelecidos no presente capítulo será observado o reg
 
 10 - ...
 
-###### Artigo 56.º — Regras de organização, prestação e compensação de trabalho
+Artigo 56.º
+
+Regras de organização, prestação e compensação de trabalho
 
 1 - ...
 
@@ -604,7 +663,9 @@ Na contagem dos prazos estabelecidos no presente capítulo será observado o reg
 
 12 - As disposições constantes dos números anteriores que não sejam susceptíveis de aplicação imediata serão objecto de regulamentação pelos órgãos competentes.
 
-###### Artigo 63.º — Formação contínua
+Artigo 63.º
+
+Formação contínua
 
 1 - ...
 
@@ -710,22 +771,22 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 15 de Dezembro de 1998.**
+Promulgado em 15 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Dezembro de 1998.**
+Referendado em 16 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 TABELA
 
 (a que se refere o artigo 5.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf)](https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf)
 
 Do MAPA I ao MAPA IV
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf)](https://files.diariodarepublica.pt/1s/1998/12/300a00/72577264.pdf)

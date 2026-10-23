@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/00600/00460046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-1977-492443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73c053ef0f5dc4d401413e57c76824cc10b276bee5b40312fd9dcb885975cf8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76d036cac516d48b985a4124384716e788e410cf5827ede908b183333acfb371
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Gabinete Governamental
+- Ministro
+- Secretário de Estado
 relationships:
 - type: amended_by
   target: pt:dre:472965:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:472965:por
+  label: "Revogada pela PORT.331/80.14.06.1980.MFP, DR.IS [135] de 14.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-1980-472965
+  date: '1980-06-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:53Z'
   warnings: []
   errors: []
 ---
@@ -109,8 +118,8 @@ Ministério do Plano e Coordenação Económica, 30 de Novembro de 1976. - O Min
 
 ## ANEXO — Modelo do cartão de identidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/01/00600/00460046.pdf))](https://files.diariodarepublica.pt/1s/1977/01/00600/00460046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/01/00600/00460046.pdf)
 
 Observação. - Nas primeiras duas linhas do cartão (frente) apor-se-ão as indicações, respectivamente, do departamento governamental e do serviço.
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

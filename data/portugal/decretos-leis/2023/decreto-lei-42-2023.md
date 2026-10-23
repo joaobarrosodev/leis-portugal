@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10800/0000400025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2023/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2023-213918209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7451ce13d6600cd17b8589c26722b57d551582f2b2abb651dbc516dbc49a9859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afbfd69eecd96809590cabf7878058a9709822abc232938a89abd83ee79c949d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Aquisição de Bens e Serviços
-- REDE Escolar
-- Gestão Financeira
-- Programa de Modernização do Parque Escolar Destinado ao Ensino Secundario
-- Empresa Pública
-- Gestão Administrativa
-- Estatuto
-- Gestão Escolar
-- Ensino Secundário
-- Parque Escolar
-- Estabelecimento de Ensino
 - Construção Pública
+- Empresa Pública
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Estatuto
+- Gestão Administrativa
+- Gestão Escolar
+- Gestão Financeira
+- Parque Escolar
+- Programa de Modernização do Parque Escolar Destinado ao Ensino Secundario
+- REDE Escolar
+- Reestruturação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
+- type: cites
+  target: pt:dre:143741480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603244:por
+  label: null
+  source: null
 article_structure:
-  article_count: 64
+  article_count: 46
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:03Z'
   warnings: []
   errors: []
 ---
@@ -162,15 +186,21 @@ Os artigos 1.º, 3.º, 4.º, 9.º e 10.º do [Decreto-Lei n.º 41/2007](https://
 
 3 - A Construção Pública, E. P. E., rege-se pelo regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, com as especificidades previstas neste diploma e nos seus estatutos, bem como no respetivo regulamento interno.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A Construção Pública, E. P. E., tem a natureza de pessoa coletiva de direito público de natureza empresarial, dotada de personalidade jurídica, autonomia administrativa e financeira e de património próprio, nos termos do regime jurídico do setor público empresarial, estando sujeita à tutela dos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação ou da habitação.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 A Construção Pública, E. P. E., tem por objeto o planeamento, gestão, desenvolvimento e execução de programas e projetos de construção, reconstrução, reabilitação, requalificação, modernização, adaptação, manutenção e conservação de edifícios, equipamentos e outro património imobiliário próprio ou alheio, designadamente nos domínios da educação e da habitação, bem como a prestação de serviços de consultoria, assessoria e gestão de contratos públicos, naqueles âmbitos, relativos a património público alheio.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -178,7 +208,9 @@ A Construção Pública, E. P. E., tem por objeto o planeamento, gestão, desenv
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A tutela económica e financeira da Construção Pública, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e, em função da matéria, da educação e da habitação, sem prejuízo do regime jurídico do setor público empresarial, e compreende:
 
@@ -232,7 +264,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 9.º, 13.º, 14.º, 15.º, 
 
 4 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A Construção Pública, E. P. E., tem por objeto o planeamento, gestão, desenvolvimento e execução de programas e projetos de construção, reconstrução, adaptação, reabilitação, requalificação, modernização, valorização, manutenção e conservação de edifícios, equipamentos e outro património imobiliário próprio ou alheio, designadamente nos domínios da educação e da habitação, bem como a prestação de serviços de consultoria, assessoria e gestão de contratos públicos, naqueles âmbitos, relativos a património público alheio.
 
@@ -260,11 +294,15 @@ f) A conceção, desenvolvimento e implementação de projetos nacionais e inter
 
 7 - Para a realização do seu objeto, a Construção Pública, E. P. E., pode ainda constituir ou participar noutras empresas ou sociedades, observados os requisitos previstos na lei aplicável e mediante autorização conjunta dos membros do Governo responsáveis pelas áreas das finanças e da educação ou da habitação, em razão das matérias relacionadas com as respetivas áreas.
 
-###### Artigo 3.º — Programa de Modernização do Parque Escolar Destinado ao Ensino Secundário
+Artigo 3.º
+
+Programa de Modernização do Parque Escolar Destinado ao Ensino Secundário
 
 A Construção Pública, E. P. E., prossegue as atividades compreendidas no programa de modernização e manutenção da rede pública de escolas secundárias, previsto na alínea a) do n.º 2 do artigo anterior, com base em programa plurianual e nos termos e condições constantes de contrato com o Estado, no qual se prevê a respetiva contrapartida pelo serviço prestado.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -272,7 +310,9 @@ A Construção Pública, E. P. E., prossegue as atividades compreendidas no prog
 
 3 - O capital estatutário pode ser aumentado ou reduzido por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação, por força de entradas patrimoniais ou mediante incorporação de reservas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -290,7 +330,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +340,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Para além do exercício dos poderes que não estejam reservados a outros órgãos, ao conselho de administração compete, em geral, o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da atividade da Construção Pública, E. P. E., e a administração dos bens afetos à atividade da mesma, e, em especial:
 
@@ -352,13 +396,17 @@ y) Negociar convenções coletivas de trabalho.
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
 2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado ou, na falta de designação, pelo vogal mais antigo e, em caso de igualdade, pelo que tenha mais anos de experiência como gestor público.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -366,7 +414,9 @@ y) Negociar convenções coletivas de trabalho.
 
 3 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo do disposto no Estatuto do Gestor Público, os membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação podem dissolver o conselho de administração nos seguintes casos:
 
@@ -376,7 +426,9 @@ b) [...]
 
 2 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -388,7 +440,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -422,7 +476,9 @@ l) [...]
 
 5 - Com base na proposta de plano de atividades e orçamento apresentada pelo conselho de administração, o conselho fiscal deve emitir um relatório e parecer ao mesmo, o qual deve ser enviado aos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A Construção Pública, E. P. E., deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de reserva legal.
 
@@ -434,13 +490,17 @@ l) [...]
 
 5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A Construção Pública, E. P. E., pode contrair financiamentos, internos ou externos, a curto, médio ou longo prazo, em moeda nacional ou estrangeira, bem como emitir obrigações e papel comercial até ao limite de 30 % do capital estatutário.
 
 2 - Para financiamentos superiores ao limite previsto no número anterior, é necessária a autorização prévia conjunta dos membros do Governo responsáveis pelas áreas das finanças, da educação e da habitação.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -478,15 +538,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de março de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - João Miguel Marques da Costa - Marina Sola Gonçalves.
 
-**Promulgado em 22 de maio de 2023.**
+Promulgado em 22 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de maio de 2023.**
+Referendado em 23 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1019,3 +1079,5 @@ Lista do património cujo direito de propriedade é transferido para a Construç
 6 - Escola Secundária Oliveira Martins - Escola Secundária Oliveira Martins, inicialmente designada por Escola Comercial Oliveira Martins, localizada na Rua do Major David Magno, 65, freguesia do Bonfim, concelho do Porto, inscrita na matriz predial urbana da freguesia do Bonfim sob o artigo matricial 10533 NIP, constituída por dois pavilhões articulados entre si por uma galeria coberta formando um pátio, implantado numa parcela de terreno com a área de 14 898 m2, com área de implantação ou área coberta de 1982 m2 e área descoberta de 12 916 m2.
 
 7 - Escola Secundária Rodrigues de Freitas - Escola Secundária Rodrigues de Freitas, inicialmente designada por Liceu de Rodrigues de Freitas, localizada na Rua da Paz, freguesia de Cedofeita, concelho do Porto, inscrita na matriz predial urbana da freguesia da Cedofeita sob o artigo matricial 4161 NIP, constituída por um edifício de configuração em «U», implantado numa parcela de terreno com a área de 28 954 m2, com área de implantação ou área coberta de 6170 m2 e área descoberta de 22 784 m2.
+
+116503186

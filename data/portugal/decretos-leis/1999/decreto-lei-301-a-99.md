@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 181/1999, 2º Suplemento, Série I-A de 1999-08-05
   number: '181'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5078-(6) a 5078-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/181a02/00060012.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/301-a/1999/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-a-1999-380127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80442c84839de6a64bd9d4420a905393aa10012c1aa2e8c4bef0d67a53a16339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b14a3bbe24d88f767d597605537ae7078be3b9f65b96c9233a59c3c8ae4b624a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ÁREA de Jurisdição
 - Braga
+- Coimbra
 - Conselho Superior dos Tribunais Administrativos e Fiscais
 - Contencioso Aduaneiro
 - Criação de Serviços
 - Estatuto
 - Extinção de Serviços
 - Faro
-- Pessoal de Justiça
+- Funchal
 - Instalação de Serviços
-- ÁREA de Jurisdição
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Funchal
+- Pessoal de Justiça
 - Ponta Delgada
-- Coimbra
 - Procurador Adjunto
 - Quadro de Pessoal
+- Tribunal
 - Tribunal Administrativo
 - Tribunal de Círculo
 - Tribunal Fiscal
 - Tribunal Fiscal Aduaneiro
-- Tribunal
 - Tribunal Tributário
 relationships:
 - type: cites
@@ -99,16 +99,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:272589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:51Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +179,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +191,9 @@ c) ...
 
 4 - A secção de contencioso tributário apenas conhece de matéria de direito nos processos inicialmente julgados pelos tribunais tributários de 1.ª instância.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -179,7 +207,9 @@ c) ...
 
 d) [Anterior alínea e).]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +219,9 @@ d) [Anterior alínea e).]
 
 4 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +243,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -231,13 +265,17 @@ g) ...
 
 2 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Os tribunais administrativos de círculo têm sede em Braga, Coimbra, Faro, Funchal, Lisboa, Ponta Delgada e Porto.
 
 2 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -257,7 +295,9 @@ f) [Anterior alínea g).]
 
 3 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +317,9 @@ f) [Anterior alínea g).]
 
 3 - ...
 
-###### Artigo 62.º — Competência em contencioso tributário geral
+Artigo 62.º
+
+Competência em contencioso tributário geral
 
 1 - ...
 
@@ -285,7 +327,9 @@ f) [Anterior alínea g).]
 
 3 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Os recursos a que se referem as alíneas a) a h) e o conhecimento das questões e incidentes a que se refere a alínea i), todas do n.º 1 do artigo 62.º, são da competência do tribunal da área da sede da autoridade que praticou o acto nos termos da lei de processo tributário ou que instaurou o processo de execução fiscal.
 
@@ -297,7 +341,9 @@ f) [Anterior alínea g).]
 
 5 - A competência em matéria respeitante ao contencioso aduaneiro é determinada, com as necessárias adaptações, nos termos dos n.os 1 e 4.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -315,7 +361,9 @@ d) Nos tribunais tributários de 1.ª instância, procuradores da República.
 
 4 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -331,13 +379,17 @@ e) Nos tribunais tributários de 1.ª instância, em matéria respeitante ao con
 
 2 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
 2 - Os funcionários das secretarias dos tribunais tributários de 1.ª instância pertencem aos quadros do Ministério das Finanças e encontram-se sujeitos ao respectivo estatuto.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -345,13 +397,17 @@ e) Nos tribunais tributários de 1.ª instância, em matéria respeitante ao con
 
 3 - Os juízes dos tribunais administrativos de círculo e dos tribunais tributários de 1.ª instância têm as honras, precedências, categorias, direitos, vencimentos e abonos que competem aos juízes de círculo.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - As vagas existentes nos tribunais administrativos de círculo e nos tribunais tributários de 1.ª instância são prioritariamente preenchidas por transferência ou permuta dos juízes de qualquer daqueles tribunais, com mais de 1 ano de serviço no lugar anterior.
 
 2 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - Os juízes dos tribunais administrativos de círculo e dos tribunais tributários de 1.ª instância são recrutados de entre:
 
@@ -361,7 +417,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - O provimento de vagas nos tribunais administrativos de círculo e nos tribunais tributários de 1.ª instância é feito na mesma proporção dos candidatos referidos nas alíneas a) e b) do n.º 1 do artigo 85.º
 
@@ -375,7 +433,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -413,15 +473,21 @@ l) ...
 
 7 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 As inspecções aos juízes dos tribunais administrativos de círculo e dos tribunais tributários de 1.ª instância são efectuadas por juízes do Supremo Tribunal Administrativo e do Tribunal Central Administrativo designados pelo Conselho.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 As disposições do presente diploma que se referem a tribunais administrativos, a tribunais fiscais e a tribunais tributários compreendem os tribunais superiores que sejam competentes, pelas suas secções ou outras formações, para o respectivo contencioso.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 ...
 
@@ -435,13 +501,17 @@ d) ...
 
 e) ...
 
-###### Artigo 117.º — Instalação de tribunais administrativos de círculo e de tribunais tributários de 1.ª instância
+Artigo 117.º
+
+Instalação de tribunais administrativos de círculo e de tribunais tributários de 1.ª instância
 
 1 - Os tribunais administrativos de círculo e os tribunais tributários de 1.ª instância que não se encontrem em funcionamento são declarados instalados por portarias dos Ministros da Justiça e das Finanças, respectivamente.
 
 2 - ...
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 As transgressões fiscais e as transgressões fiscais aduaneiras ainda previstas na lei são conhecidas pelos tribunais tributários de 1.ª instância.»
 
@@ -499,7 +569,7 @@ m) Das demais matérias que lhes forem confiadas por lei.
 
 6 - ...
 
-###### Artigo 46.º
+Artigo 46.º
 
 1 - ...
 
@@ -517,23 +587,23 @@ A área de jurisdição dos Tribunais Tributários de 1.ª Instância do Funchal
 
 Tribunais agregados
 
-###### Artigo 27.º-B
+Artigo 27.º-B
 
 São agregados os Tribunais Administrativos de Círculo e os Tribunais Tributários de 1.ª Instância, respectivamente, do Funchal e de Ponta Delgada.
 
-###### Artigo 27.º-C
+Artigo 27.º-C
 
 Os quadros dos magistrados dos Tribunais referidos no artigo anterior são os constantes dos mapas XVII e XVIII anexos.
 
-###### Artigo 27.º-D
+Artigo 27.º-D
 
 Às secretarias e aos serviços de apoio dos tribunais agregados são aplicáveis, com as necessárias adaptações, as disposições correspondentes dos tribunais administrativos de círculo.
 
-###### Artigo 27.º-E
+Artigo 27.º-E
 
 Os quadros das secretarias e dos serviços de apoio dos tribunais agregados são os fixados nos mapas XIX e XX anexos.
 
-###### Artigo 27.º-F
+Artigo 27.º-F
 
 Os tribunais agregados são considerados tribunais administrativos de círculo quando se mostre necessária a sua qualificação para efeitos de integração administrativa.»
 
@@ -593,15 +663,15 @@ Com excepção do disposto no artigo 8.º, o presente diploma entra em vigor 30 
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Manuel de Matos Fernandes.
 
-**Promulgado em 30 de Julho de 1999.**
+Promulgado em 30 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 1999.**
+Referendado em 4 de Agosto de 1999.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 MAPA A QUE SE REFERE O N.º 5 DO ARTIGO 2.º
 
@@ -731,7 +801,7 @@ XIX
 
 Quadro da secretaria e dos serviços de apoio do Tribunal Administrativo e Fiscal agregado do Funchal
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Pessoal:
 
@@ -763,7 +833,7 @@ XX
 
 Quadro da secretaria e dos serviços de apoio do Tribunal Administrativo e Fiscal agregado de Ponta Delgada
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Pessoal:
 
@@ -795,7 +865,7 @@ MAPA A QUE SE REFERE O ARTIGO 7.º
 
 «Quadro da secretaria e dos serviços de apoio do Tribunal Administrativo do Círculo de Braga
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Pessoal:
 
@@ -825,7 +895,7 @@ Técnico de justiça auxiliar - 1.
 
 Quadro da secretaria e dos serviços de apoio do Tribunal Administrativo do Círculo de Faro
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Pessoal:
 

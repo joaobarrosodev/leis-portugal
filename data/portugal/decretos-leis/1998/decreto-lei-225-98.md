@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/1998/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1998-424698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb8c54ff8d5e2622c104de831b4dfcb2d6ab6c3c37811aa02a913e1306bbc71d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8347e9dbe7be27e2613f5a6d13eaa5efe95b60183ff42f267212743999fc529d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Totobola
-- Jogos de Fortuna e Azar
-- Lisboa
-- Regulamento Geral dos Concursos do Joker
 - Apostas Mútuas Desportivas
-- Santa Casa da Misericórdia
-- Regulamento
+- Jogos de Fortuna e Azar
 - Joker
+- Lisboa
+- Regulamento
+- Regulamento Geral dos Concursos do Joker
+- Santa Casa da Misericórdia
+- Totobola
 - Totogolo
 relationships:
 - type: amended_by
   target: pt:dre:488827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480286:por
+  label: "Alterado o nº 1 do art. 1º do Dec Lei 64/95 de 07-Abr, na redacção do presente diploma, pelo DEC LEI.210/2004.20.08.2004.MSST,\
+    \ DR.IS-A [196] de 20.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2004-480286
+  date: '2004-08-20'
+- type: amended_by
+  target: pt:dre:491910:por
+  label: "Alterados os arts. 1º e 3º do Dec Lei 412/93 de 21-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.153/2009.02.07.2009.MTSSO,\
+    \ DR.IS [126] de 02.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2009-491910
+  date: '2009-07-02'
+- type: amended_by
+  target: pt:dre:488827:por
+  label: "Alterado o art. 3.º do Dec Lei 412/93, de 21-Dez, na redacção do presente diploma, pelo DEC LEI.200/2009.27.08.2009.MTSSO,\
+    \ DR.IS [166] de 27.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2009-488827
+  date: '2009-08-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322/1991/08/26/p/dre
   label: null
@@ -96,16 +114,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1292-a/1993/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1292-a/1993/12/22/p/dre
+- type: cites
+  target: pt:dre:230523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632384:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:01Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +216,9 @@ O montante dos prémios caducados reverte a favor da Santa Casa da Misericórdia
 
 É organizado e explorado pela Santa Casa da Misericórdia de Lisboa, em regime de exclusivo para todo o território nacional, simultaneamente com os concursos do Totobola, do Totoloto e do Totogolo, um jogo denominado 'JOKER'.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A receita do JOKER é constituída pelo montante total da participação neste jogo através dos bilhetes com apostas admitidas aos concursos do Totobola, do Totoloto e do Totogolo.
 
@@ -204,12 +240,12 @@ O presente diploma entra em vigor com a publicação da portaria conjunta a que 
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 2 de Julho de 1998.**
+Promulgado em 2 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Julho de 1998.**
+Referendado em 9 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

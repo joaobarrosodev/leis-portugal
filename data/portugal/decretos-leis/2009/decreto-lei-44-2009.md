@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03100/0104901050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2009-602067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f29fb8c30652e0c18a056459ab5ca506affe4d6488d3382e134354c4b8e2d108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: deaed55ac0a88e01323640f3a3ad233546c0d075a077ba72d9a3cd0fd7be0244
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Direção Geral de Veterinária
+- Direção Regional de Agricultura e Pescas do Alentejo
 - Direcção Regional de Agricultura da Beira Interior
 - Direcção Regional de Agricultura da Beira Litoral
 - Direcção Regional de Agricultura de entre Douro e Minho
 - Direcção Regional de Agricultura de Trás-os-montes
 - Direcção Regional de Agricultura e Pescas de Lisboa e VALE do TEJO
+- Direcção Regional de Agricultura e Pescas do Algarve
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Direção Regional de Agricultura e Pescas do Alentejo
-- Direcção Regional de Agricultura e Pescas do Algarve
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, e determinada a transição para o Ministério\
+    \ da Agricultura, do Mar, Ambiente e Ordenamento do Território dos serviços, organismos, entidades e estruturas identificados\
+    \ no Dec lei 209/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl]\
+    \ de 12.07.2011, nos termos do seu art. 17º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/2008/08/08/p/dre
   label: null
@@ -95,16 +103,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2008/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2008/02/25/p/dre
+- type: cites
+  target: pt:dre:247711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544386:por
+  label: "Revogado, a partir de 22.01.2012, o Dec Lei 209/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:41Z'
   warnings: []
   errors: []
 ---
@@ -181,12 +207,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Ascenso Luís Seixas Simões.
 
-**Promulgado em 23 de Janeiro de 2009.**
+Promulgado em 23 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 26 de Janeiro de 2009.**
+Referendado em 26 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

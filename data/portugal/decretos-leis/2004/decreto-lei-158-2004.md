@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2004/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ee6eeb01d4793daf266e9048e03af8a262f57731c8ca8c6dd9b78a76782504
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3346fd8d67df5f10172351d81c70acec88c3a4fdfcfb48a4c9ccb33842da5981
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Nacional de Acesso ao Ensino Superior
-- Prova de Ingresso
 - Ensino
-- Regime Jurídico
 - Ensino Superior
+- Prova de Ingresso
+- Regime Jurídico
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:211844897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399197:por
+  label: "Alterado o art. 42.º do Dec Lei 169-A/98, de 25-Set, na redacção do presente diploma, pelo Dec Lei.147-A/2006.31.07.2006.ME,\
+    \ DR.IS [146]Supl de 31.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-a-2006-399197
+  date: '2006-07-31'
+- type: amended_by
+  target: pt:dre:448963:por
+  label: "Alterados os arts. 21º e 42º do Dec Lei 296-A/98, de 25-Set, alterados pelo presente diploma, pelo DEC LEI.90/2008.30.05.2008.MCTES,\
+    \ DR.IS [104] de 30.05.2008, que o republica na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2008-448963
+  date: '2008-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
   label: null
@@ -97,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:07Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +191,9 @@ g) [Anterior alínea f).]
 
 2 - ...
 
-###### Artigo 42.º — Melhoria da classificação final do ensino secundário
+Artigo 42.º
+
+Melhoria da classificação final do ensino secundário
 
 1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria da classificação final do ensino secundário não são aplicáveis quando tais melhorias forem obtidas em provas de exame de âmbito nacional e tiverem como objectivo o acesso ao ensino superior.
 
@@ -167,7 +205,9 @@ b) Na primeira fase dos exames nacionais do ensino secundário desse ano lectivo
 
 c) Na segunda fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na primeira fase.
 
-###### Artigo 47.º — Disposição transitória
+Artigo 47.º
+
+Disposição transitória
 
 1 - (Anterior corpo do artigo.)
 
@@ -179,12 +219,12 @@ O presente diploma produz efeitos a partir do início do período da candidatura
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2004. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - José David Gomes Justino - Maria da Graça Martins da Silva Carvalho - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 22 de Junho de 2004.**
+Promulgado em 22 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Junho de 2004.**
+Referendado em 23 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

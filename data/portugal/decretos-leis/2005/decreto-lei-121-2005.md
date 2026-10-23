@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2005/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2005-240043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3143f6ab7e3b5fc9da8229c54adcd9a94b6606c9992bbc33fb6965ff2bf8a2b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83e830e3e73408ebc5e9b2134ef53400ad38e85235a597315fed3179772a88b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,46 +68,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Tempo de Serviço
 - Aposentação
+- Avaliação do Pessoal
 - Bolseiro
-- Formação Profissional
+- Carreira Profissional
 - Comissão de Serviço
 - Concurso
 - Destacamento de Pessoal
 - Educador de Infância
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Estágio de Formação
 - Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
-- Sistema Retributivo
-- Carreira Profissional
-- Férias
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Horas Extraordinárias
 - Faltas
+- Férias
+- Formação Profissional
+- Formas de Provimento
+- Funcionário Público
+- Habilitações Literárias
+- Horário de Trabalho
+- Horas Extraordinárias
+- Mobilidade de Pessoal
 - Pessoal Contratado
 - Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
-- Estágio de Formação
 - Quadro de Pessoal
-- Horário de Trabalho
-- Trabalho Nocturno
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Remuneração
 - Requisição de Pessoal
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Funcionário Público
+- Sistema Retributivo
 - Subsídio de Fixação
+- Tempo de Serviço
+- Trabalho Nocturno
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:74717230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterado o artigo 80.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e\
+    \ Secundário, aprovado pelo Dec Lei 139-A/90, de 28-Abr, na redacção do presente diploma, pelo DEC LEI.15/2007.19.01.2007.ME,\
+    \ DR.IS [14] de 19.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -144,16 +151,91 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/718/1995/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/718/1995/07/05/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546068:por
+  label: "Revogado o art. 81º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário,\
+    \ aprovado pelo Dec Lei 139-A/90 de 28-Abr, alterado pelo presente diploma, pelo DEC LEI.224/2006.13.11.2006.ME, DR.IS\
+    \ [218] de 13.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2006-546068
+  date: '2006-11-13'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:57Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +280,9 @@ Exercício de outras funções
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 81.º — Dispensa da componente lectiva
+Artigo 81.º
+
+Dispensa da componente lectiva
 
 1 - ...
 
@@ -288,12 +372,12 @@ c) A [Portaria n.º 659/88](https://diariodarepublica.pt/dr/detalhe/portaria/659
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 21 de Julho de 2005.**
+Promulgado em 21 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2005.**
+Referendado em 22 de Julho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

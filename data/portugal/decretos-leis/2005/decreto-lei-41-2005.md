@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/035a00/12941296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2005/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2005-604584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 191a3c602cd64632915bfa1f71191d49633ff54f61a2775530d9166eb8cbae55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b18b4b5d89b86e05d95fe5adb1d4af5fb7dd339ffa542a849052a46b0612664d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Funerária
-- Multa
 - Funeral
 - Horário de Funcionamento
+- Multa
 - Preço
 - Prestação de Serviços
 - Regime Jurídico
@@ -95,16 +95,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378/1998/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/1998/07/02/p/dre
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307671:por
+  label: "Revogado o Dec Lei 206/2001, de 27-Jul, a partir de 13.12.2010, na redacção do presente diploma, pelo DEC LEI.109/2010.14.10.2010.MEID,\
+    \ DR.IS [200] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2010-307671
+  date: '2010-10-14'
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:36Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +171,9 @@ d) Ornamentação, armação e decoração de actos fúnebres.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +193,9 @@ e) Manter ao serviço um agente funerário com, pelo menos, três anos de experi
 
 4 - Para efeitos do disposto na alínea e) do n.º 1 o cargo de responsável técnico pela agência pode ser assumido por um seu administrador ou gerente.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -183,7 +209,9 @@ d) ...
 
 e) A mudança de responsável técnico pela agência.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O registo deve ser efectuado mediante requerimento do interessado, apresentado através de impresso próprio, em duplicado, na Direcção-Geral da Empresa ou na direcção regional da economia da respectiva área, no prazo de 30 dias contados da data da ocorrência de qualquer dos factos previstos no artigo anterior.
 
@@ -193,7 +221,9 @@ e) A mudança de responsável técnico pela agência.
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As agências funerárias estão sujeitas aos horários de funcionamento previstos na lei, devendo estar abertas ao público dentro dos períodos de funcionamento afixados.
 
@@ -203,7 +233,9 @@ e) A mudança de responsável técnico pela agência.
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -219,7 +251,9 @@ e) [Anterior alínea c).]
 
 f) [Anterior alínea d).]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -233,13 +267,17 @@ b) ...
 
 c) ...
 
-###### Artigo 14.º — Proibição de permanência em certos locais
+Artigo 14.º
+
+Proibição de permanência em certos locais
 
 1 - É vedado ao pessoal das agências funerárias, no exercício da sua actividade, a permanência em quaisquer dependências de estabelecimentos hospitalares, outros serviços médico-legais ou lares de idosos, salvo o disposto no número seguinte.
 
 2 - Ao pessoal das agências funerárias, quando devidamente identificado, é permitido o acesso às casas mortuárias, aos serviços hospitalares e aos lares de idosos, para realização do funeral ou para obtenção da documentação referente ao óbito indispensável à sua realização, devendo exibir a sua identificação sempre que tal seja solicitado.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -271,12 +309,12 @@ c) De (euro) 1000 a (euro) 5000, as infracções ao disposto nos n.os 1, 2 e 3 d
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - Daniel Viegas Sanches - José Pedro Aguiar Branco - Luís Filipe da Conceição Pereira - Rui Manuel Lobo Gomes da Silva.
 
-**Promulgado em 28 de Janeiro de 2005.**
+Promulgado em 28 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 2005.**
+Referendado em 2 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

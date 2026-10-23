@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21125-1965-238863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e9f32fde4348f2f70d56aa2d2f7ea089df091d77e0f7809e477f8f604682863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1e8a909301e61cc58a1a6aa353a72b2077519b719dd3ce719fbef5b2966217c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535811:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:42Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +105,11 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Sa�
 
 1.º São abatidos ao mapa do pessoal não compreendido no quadro de direcção e chefia do Dispensário Central de Higiene Social do Porto, constante da [Portaria n.º 17157](https://diariodarepublica.pt/dr/detalhe/portaria/17157-1959-423381), de 9 de Maio de 1959, os seguintes lugares incluídos no pessoal da alínea abaixo indicada do referido mapa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/04600/02220222.pdf))](https://files.diariodarepublica.pt/1s/1965/02/04600/02220222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/04600/02220222.pdf)
 
 2.º É aumentado à alínea abaixo indicada, constante do referido mapa do pessoal não compreendido no quadro de direcção e chefia do aludido Dispensário, o seguinte lugar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/02/04600/02220222.pdf))](https://files.diariodarepublica.pt/1s/1965/02/04600/02220222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/02/04600/02220222.pdf)
 
 3.º Esta portaria considera-se em vigor desde 1 de Dezembro de 1964 e substitui a [Portaria n.º 20940](https://diariodarepublica.pt/dr/detalhe/portaria/20940-1964-535811), de 28 de Novembro de 1964.
 

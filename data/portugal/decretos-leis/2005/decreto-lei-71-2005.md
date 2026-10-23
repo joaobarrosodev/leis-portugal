@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2005/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2005-574567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb3b34c2c52ce729841e629c66930d2d5adcc50e24754e36e9940177bafc1e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 540326067c3b6dceeac9be062fda126908e26f4dfda7b2f06778f71389c4b3e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Judicial
-- Instituto da Segurança Social
 - Aproximação das Legislações
 - Autoridade Nacional
 - CE Países
 - Centro de Segurança Social da Madeira
 - Competência Jurisdicional
+- Custas Judiciais
 - Definição de Competências
 - Direito à Justiça
 - Impugnação
+- Instituto da Segurança Social
+- Instituto de Acção Social
 - Insuficiência Económica
 - Litígio Transfronteiriço
-- Instituto de Acção Social
 - Segurança Social
-- Custas Judiciais
 relationships:
 - type: cites
   target: celex:32001R0044
@@ -94,13 +94,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:12Z'
   warnings: []
   errors: []
 ---
@@ -297,12 +297,12 @@ O presente decreto-lei produz efeitos no 1.º dia do 2.º mês subsequente à re
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - Fernando Mimoso Negrão.
 
-**Promulgado em 28 de Fevereiro de 2005.**
+Promulgado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 2005.**
+Referendado em 3 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

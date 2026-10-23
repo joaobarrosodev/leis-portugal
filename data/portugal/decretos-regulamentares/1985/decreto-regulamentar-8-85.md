@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1985-329387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cb25e6448d7dac283f8a382e00ef87e9741f85fe73e90cc4209681792ce6aec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f72b9f3c477940ddecc001b7e4c918aeb04888cc0a5b4926f6e0f1a6b3e868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Coordenador do Trabalho Portuário
+- Instituto do Trabalho Portuário
+- TAXA de Prestação de Serviços
+- Trabalho Portuário
+relationships:
+- type: cites
+  target: pt:dre:392411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631274:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:21Z'
   warnings: []
   errors: []
 ---
@@ -95,24 +119,24 @@ Nestes termos, com vista à regulamentação do previsto na alínea a) do n.º 1
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os centros coordenadores do trabalho portuário (CCTP), os órgãos de gestão bipartida (OGB) e outras organizações locais de gestão do trabalho portuário transferirão mensalmente para o Instituto do Trabalho Portuário (ITP) uma percentagem da respectiva taxa de prestação de serviços.
+Artigo 1.º Os centros coordenadores do trabalho portuário (CCTP), os órgãos de gestão bipartida (OGB) e outras organizações locais de gestão do trabalho portuário transferirão mensalmente para o Instituto do Trabalho Portuário (ITP) uma percentagem da respectiva taxa de prestação de serviços.
 
-###### Art. 2.º A comparticipação referida no artigo anterior será fixada anualmente até 15 de Julho do ano anterior àquele a que respeitar a comparticipação por despacho do Ministro do Mar, sob proposta do ITP.
+Art. 2.º A comparticipação referida no artigo anterior será fixada anualmente até 15 de Julho do ano anterior àquele a que respeitar a comparticipação por despacho do Ministro do Mar, sob proposta do ITP.
 
-###### Art. 3.º A comparticipação para o ano de 1985 será fixada até 31 de Janeiro de 1985.
+Art. 3.º A comparticipação para o ano de 1985 será fixada até 31 de Janeiro de 1985.
 
-###### Art. 4.º A transferência para o ITP da comparticipação a que se referem os artigos anteriores será formalizada por simples protocolo, a celebrar entre os respectivos órgãos executivos.
+Art. 4.º A transferência para o ITP da comparticipação a que se referem os artigos anteriores será formalizada por simples protocolo, a celebrar entre os respectivos órgãos executivos.
 
-###### Art. 5.º É revogado o [Decreto Regulamentar n.º 30/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1982-392411), de 21 de Maio.
+Art. 5.º É revogado o [Decreto Regulamentar n.º 30/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1982-392411), de 21 de Maio.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Carlos Montez Melancia.
 
-**Promulgado em 9 de Janeiro de 1985.**
+Promulgado em 9 de Janeiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 10 de Janeiro de 1985.**
+Referendado em 10 de Janeiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/089b00/21562157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/1991/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1991-616623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a36c3c9be6a5357df6cc80d071eaa3a7ab09b4a61c68e86f8023be8a2ad1bc9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05875185c96363d38c928b9c07372c9f329e34dfdf51a45fa519788600e31e20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Aeroporto
-- Transporte Aéreo
-- Direcção Geral da Aviação Civil
 - Carreira Profissional
+- Direcção Geral da Aviação Civil
 - Pessoal Aeronáutico
 - Pessoal Auxiliar
 - Pessoal Técnico Profissional
-- Administração Local
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:31Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +124,13 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 247/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), de 17 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São criadas no ordenamento de pessoal da administração local as carreiras de:
+Artigo 1.º São criadas no ordenamento de pessoal da administração local as carreiras de:
 
 a) Técnico-adjunto de informação de tráfego de aeródromo e de agente de informação de tráfego de aeródromo, integradas no grupo de pessoal técnico-profissional, respectivamente, níveis 4 e 3, com o desenvolvimento e o escalão salarial previstos nos Decretos-Leis n.os [247/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), de 17 de Junho, e [353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, para as carreiras daquele grupo de pessoal;
 
 b) Auxiliar de aeródromo, integrada no grupo de pessoal auxiliar, com a estrutura do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º O conteúdo funcional das carreiras referidas no número anterior integra as seguintes tarefas:
+Art. 2.º O conteúdo funcional das carreiras referidas no número anterior integra as seguintes tarefas:
 
 1) Técnico-adjunto de informação de tráfego de aeródromo:
 
@@ -144,7 +162,7 @@ a) Guarda das instalações;
 
 b) Trabalhos de conservação e manutenção que não exijam um grau de especialização elevada.
 
-###### Art. 3.º - 1 - O recrutamento para as categorias de acesso das carreiras de técnico-adjunto de informação de tráfego de aeródromo e de agente de informação de tráfego de aeródromo faz-se de harmonia com o disposto no artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 3.º - 1 - O recrutamento para as categorias de acesso das carreiras de técnico-adjunto de informação de tráfego de aeródromo e de agente de informação de tráfego de aeródromo faz-se de harmonia com o disposto no artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
 2 - O recrutamento para as categorias de ingresso das carreiras referidas no número anterior faz-se:
 
@@ -158,16 +176,16 @@ Presidência do Conselho de Ministros, 10 de Dezembro de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 1 de Abril de 1991.**
+Promulgado em 1 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Abril de 1991.**
+Referendado em 2 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere a alínea b) do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/089b00/21562157.pdf))](https://files.diariodarepublica.pt/1s/1991/04/089b00/21562157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/089b00/21562157.pdf)

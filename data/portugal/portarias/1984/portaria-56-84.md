@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-1984-660886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:07:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8494e0fadf8c341f694165603f9b96ba36d31ec5f3ac772350138ba4edf6c703
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7ad0eaca12c3520a0f635af62b9efc3b099edd4050406b9b8de3baa241f1d6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Construções Escolares
+- Integração de Trabalhadores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:622159:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396322:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 279/78, de 07-Set, com as alterações constantes do presente diploma,\
+    \ pela PORT.931/84.18.12.1984.PCM, DR.IS [291] de 18.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/931-1984-396322
+  date: '1984-12-18'
+- type: amended_by
+  target: pt:dre:622159:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 279/78, de 07-Set, alterado pelas Ports. 149/82, de 02-Fev, 64/82,\
+    \ de 15-Jan, 678/82, de 08-Jul e 302/83, de 25-Mar, pela PORT.4/85.1985.01.02.PCM DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-1985-622159
+  date: '1985-01-02'
+- type: cites
+  target: pt:dre:329874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601088:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:07:40Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +139,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 16 de Janeiro de 1984.**
+Assinada em 16 de Janeiro de 1984.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro do Equipamento Social, José Eugénio Nobre, Secretário de Estado das Obras Públicas. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/02300/03100310.pdf))](https://files.diariodarepublica.pt/1s/1984/01/02300/03100310.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/02300/03100310.pdf)

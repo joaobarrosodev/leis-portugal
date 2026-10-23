@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16400/0013800139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2022/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2022-200268065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d690ab51f2eaad92b3dd7b3080478a1f7d5693558e55b8cb91d1b93d3338ec4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8a569503604decbaa243021beed0ab70c5d121c4278cd4725b8b4ac0a6b1a47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
-- Empresa
-- Modernização Administrativa
+- Administrador da Insolvência
 - Assembleia de Credores
 - Código da Insolvência e da Recuperação de Empresas
 - Comissão de Credores
 - Crédito
+- Empresa
+- Insolvência
+- Modernização Administrativa
+- Plano de Recuperação e Resiliência
 - Recuperação de Empresas
 - Saneamento Económico e Financeiro
 - Situação Económica Dificil
-- Administrador da Insolvência
-- Plano de Recuperação e Resiliência
 relationships:
 - type: cites
   target: celex:32021R0241
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/53/2004/03/18/p/dre
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:34Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +144,9 @@ Os artigos 129.º e 130.º do Código da Insolvência e da Recuperação de Empr
 
 5 - [...]
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - [...]
 
@@ -154,12 +160,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de agosto de 2022. - António Luís Santos da Costa - Jorge Albino Alves Costa - António Manuel Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 14 de agosto de 2022.**
+Promulgado em 14 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de agosto de 2022.**
+Referendado em 17 de agosto de 2022.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+115621947

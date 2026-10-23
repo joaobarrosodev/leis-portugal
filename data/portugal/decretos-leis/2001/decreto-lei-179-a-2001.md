@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 139/2001, 1º Suplemento, Série I-A de 2001-06-18
   number: '139'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3544-(2) a 3544-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/139a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179-a/2001/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-a-2001-219677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e1ec61f84c314e892b80237362ddf66462b6067368218471e88358d7f4e4e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25eeb493be14dc037b29a4c02ea0b1fb83c9d42ae7907da076175930b4debb4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Transporte Ferroviário
+- Coimbra
 - Definição de Competências
 - Direcção Geral dos Transportes Terrestres
 - Metropolitano
 - Miranda do Corvo
-- Coimbra
+- Sociedade Anónima
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:239224:por
@@ -86,16 +86,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/70/1994/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/70/1994/03/03/p/dre
+- type: cites
+  target: pt:dre:276020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349923:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239224:por
+  label: "Revogado o Dec Lei 70/94 de 03-Mar, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.10/2002.2002.01.24.MES\
+    \ DR.IS-A [20]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2002-239224
+  date: '2002-01-24'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:30Z'
   warnings: []
   errors: []
 ---
@@ -130,17 +144,17 @@ Os artigos 1.º, 2.º, 4.º e 5.º do [Decreto-Lei n.º 70/94](https://diariodar
 
 3 - O capital social da sociedade Metro-Mondego, S. A., é detido pelas Câmaras Municipais de Coimbra, de Miranda do Corvo e da Lousã e, maioritariamente, pelo Estado, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 2.º
+Artigo 2.º
 
 No capital social da Metro-Mondego, S. A., podem ainda participar a CP - Caminhos de Ferro Portugueses, E. P., o Metropolitano de Lisboa, E. P., e a REFER - Rede Ferroviária Nacional, E. P.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A realização dos estudos, concepção, planeamento e projectos e a construção das infra-estruturas necessárias à concretização do empreendimento cabe à Metro-Mondego, S. A.
 
 2 - Para efeitos do disposto no número anterior, pode a Metro-Mondego, S. A., proceder à contratação, por concurso, das prestações que considere necessárias, designadamente no que concerne à concepção e projecto, realização de obras de construção, fornecimento, montagem e manutenção do material circulante e demais equipamentos que constituem o sistema de metro e a sua exploração.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -160,12 +174,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José António Fonseca Vieira da Silva - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 12 de Junho de 2001.**
+Promulgado em 12 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Junho de 2001.**
+Referendado em 15 de Junho de 2001.
 
-**O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.**
+O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.

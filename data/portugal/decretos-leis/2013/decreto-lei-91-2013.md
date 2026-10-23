@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2013/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2013-497860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c48ea4a59af03e8241a884ba323ee393af5c8601ae8b5cdd9b855919f5f80915
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47296a38d8d7b4e5eb67b29eab74375e1827f42ab881db47c401347044a15d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,39 @@ reuse:
 subjects:
 - Agrupamento de Escolas
 - Aprendizagem
-- Língua Portuguesa
-- Plano de Estudos
-- Diploma
-- Ensino Profissional
+- Avaliação de Conhecimentos
+- Currículo Nacional
 - Curso Profissional
+- Diploma
+- Ensino Básico
+- Ensino Profissional
+- Estabelecimento de Ensino
 - Gestão Escolar
 - Língua Estrangeira
+- Língua Portuguesa
 - Matemática
-- Currículo Nacional
-- Estabelecimento de Ensino
-- Ensino Básico
-- Avaliação de Conhecimentos
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:129970449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:64297587:por
+  label: Dada nova redação aos arts. 9.º e 26.º, bem como ao anexo I do Dec Lei 139/2012 de 05-jul, alterado pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12, com efeitos nos termos
+    do disposto no seu art. 10.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2014-64297587
+  date: '2014-12-12'
+- type: amended_by
+  target: pt:dre:74007250:por
+  label: Alterados, a partir de 05.04.2016, os arts. 1.º, 3.º, 4.º, 23.º, 24.º, 25.º e 26.º (este último na redação do presente
+    diploma e do Dec Lei 176/2014 de 12-dez), aditados, a partir da mesma data, os arts. 24.º-A, 24.º-B, 24.º-C e 26.º-A,
+    e revogados, a partir da mesma data, o n.º 5 do art. 23.º, os n.ºs 3 e 4 do art. 24.º, os n.ºs 5, 6, 7, 8 e 9 do art.
+    25.º e os n.ºs 3 e 4 do art. 26.º, todos do Dec Lei 139/2012 de 05-jul, pelo(a) Decreto-Lei n.º 17/2016 - Diário da República
+    n.º 65/2016, Série I de 2016-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2016-74007250
+  date: '2016-04-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2012/07/05/p/dre
   label: null
@@ -102,16 +118,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:178548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115652962:por
+  label: Revogado, a partir de 07.07.2018, o Dec Lei 139/2012 de 05-jul, com a redação dada pelo presente, pelo(a) Decreto-Lei
+    n.º 55/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06, sem prejuízo da vigência das normas relativas a
+    cursos de educação e formação de adultos e a ensinos básico e secundário na modalidade de ensino recorrente, nos termos
+    do art. 36.º e de acordo com a calendarização de produção de efeitos fixada no art. 38.º, ambos do Dec Lei 55/2018.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2018-115652962
+  date: '2018-07-06'
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:07Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +202,9 @@ Os artigos 2.º, 8.º, 9.º, 12.º, 13.º, 14.º, 26.º e 29.º do [Decreto-Lei 
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -174,7 +220,9 @@ c) [...].
 
 4 - Os programas e as metas curriculares para as diversas disciplinas dos três ciclos do ensino básico são objeto de homologação através de despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As escolas do 1.º ciclo podem, de acordo com os recursos disponíveis, proporcionar a iniciação da língua inglesa, com ênfase na sua expressão oral, no âmbito da Oferta Complementar.
 
@@ -182,7 +230,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -190,19 +240,25 @@ c) [...].
 
 3 - No 1.º ciclo, a Oferta Complementar integra o currículo e deve contribuir para a promoção integral dos alunos em áreas de cidadania, artísticas, culturais, científicas ou outras.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - No 1.º ciclo, o Apoio ao Estudo é de frequência obrigatória e tem por objetivo apoiar os alunos na criação de métodos de estudo e de trabalho, visando prioritariamente o reforço do apoio nas disciplinas de Português e de Matemática.
 
 2 - No 2.º ciclo, a oferta de Apoio ao Estudo é obrigatória para as escolas e agrupamentos de escolas, podendo, por indicação do conselho de turma e desde que obtido o acordo dos encarregados de educação ser de frequência obrigatória para os alunos para tal indicados.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - No desenvolvimento do seu projeto educativo e no âmbito do 1.º ciclo, as escolas devem proporcionar aos alunos atividades de enriquecimento do currículo de carácter facultativo e de natureza eminentemente lúdica, formativa e cultural incidindo, nomeadamente, nos domínios desportivo, artístico, científico e tecnológico, de ligação da escola com o meio, de solidariedade e voluntariado e da dimensão europeia na educação.
 
 2 - A definição e organização das atividades referidas no número anterior constam de despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -212,7 +268,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -250,15 +308,15 @@ Os anexos I e VI ao [Decreto-Lei n.º 139/2012](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 7 de julho de 2013.**
+Promulgado em 7 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de julho de 2013.**
+Referendado em 9 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — «ANEXO I
 
@@ -268,7 +326,7 @@ Ensino Básico
 
 1.º Ciclo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13100/0401304015.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13100/0401304015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13100/0401304015.pdf)
 
 ## ANEXO VI — (a que se referem os artigos 2.º e 16.º)
 
@@ -276,4 +334,4 @@ Ensino Secundário - Cursos profissionais
 
 No âmbito da autonomia, as escolas têm liberdade de organizar os tempos lectivos na unidade mais conveniente desde que respeitem as cargas horárias totais de cada disciplina constantes do presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/13100/0401304015.pdf))](https://files.diariodarepublica.pt/1s/2013/07/13100/0401304015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/13100/0401304015.pdf)

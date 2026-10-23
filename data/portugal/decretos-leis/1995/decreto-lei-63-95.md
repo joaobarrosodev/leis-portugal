@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/1995/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1995-230522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d23eb61b570d5651801afa100c7355485b625cf583de0dcbc9ee913d44817328
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6efdf8c44085054a47f16a70289d8e106012332e268afaeef16b3db9e6866a80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA Metropolitana
+- Autarquia Local
+- Certificado de Qualidade
 - Construção Civil
 - Definição de Competências
-- Lisboa
+- Habitação
 - Habitação Social
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Laboratório Nacional de Engenharia Civil
-- Certificado de Qualidade
-- Programa
-- Habitação
-- Autarquia Local
+- Lisboa
 - Porto
+- Programa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/1993/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/164/1993/05/07/p/dre
+- type: cites
+  target: pt:dre:274241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554609:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:16Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +116,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto-Lei n.º 164/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1993-274241), de 7 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Os empreendimentos desenvolvidos no âmbito do Programa devem ser certificados pelos respectivos promotores com a marca de qualidade LNEC, nos termos do [Decreto-Lei n.º 310/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1990-554609), de 1 de Outubro.
+Art. 3.º - 1 - Os empreendimentos desenvolvidos no âmbito do Programa devem ser certificados pelos respectivos promotores com a marca de qualidade LNEC, nos termos do [Decreto-Lei n.º 310/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1990-554609), de 1 de Outubro.
 
 2 - Para efeitos do disposto no número anterior, compete ao LNEC atestar:
 
@@ -124,12 +132,12 @@ c) A funcionalidade, durabilidade e segurança dos edifícios.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Março de 1995.**
+Promulgado em 9 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Março de 1995.**
+Referendado em 13 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

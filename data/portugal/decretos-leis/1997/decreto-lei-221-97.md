@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/221/1997/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1997-195800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40bda987cf14f0e6c1d41b6b3392977966bb317468f3043d6141f3d6eba8530a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a24a3521ba2921f71a7023f90b0a9fc2a911b60e20ab009f984af0471eb4b2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Consultiva do Ambiente
+- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
 - Extinção de Serviços
 - Ministério do Ambiente
-- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
 - Orgânica
 - Política do Ambiente
 relationships:
@@ -76,20 +76,57 @@ relationships:
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281197:por
+  label: "Alterados os arts. 1º, 3º, 8º, 9º, 10º, 11º e 17º e revogados os arts. 18º, 19º e 20º do presente diploma pelo DEC\
+    \ LEI.136/2004.03.06.2004.MCOTA, DR.IS-A [130] de 03.06.2004, que o republica com as alterações introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2004-281197
+  date: '2004-06-03'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Ambiente e do Ordenamento do Território do Conselho Nacional do Ambiente\
+    \ e do Desenvolvimento Sustentável (integrado no agora extinto Ministério das Cidades, Ordenamento do Território e Ambiente),\
+    \ pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério do Ambiente, Ordenamento do Território e Energia, pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que se encontra na dependência da Ministra do Ambiente e Energia o
+    Conselho Nacional do Ambiente e do Desenvolvimento Sustentável pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º
+    91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que o Conselho Nacional do Ambiente e do Desenvolvimento Sustentável
+    é um órgão consultivo da Ministra do Ambiente e Energia pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025,
+    Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:25Z'
   warnings: []
   errors: []
 ---
@@ -314,12 +351,12 @@ Com a entrada em funcionamento do Conselho extingue-se a Comissão Consultiva do
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 1 de Agosto de 1997.**
+Promulgado em 1 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 1997.**
+Referendado em 4 de Agosto de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Vitorino.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/11800/10031004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1979-382775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b711ab1e160184a5a9fe7f7d4fdc4293d8252886142bd6968dc6e318d5ed057
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92e3272c6347e9b6042aab15db6cceacc5217ebc6b183886ef8c616cb6062259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Braga
+- Câmara Municipal
+- Casa Degradada
+- Obras de Conservação e Restauro
+- Património Histórico
+- Plano de Urbanização
+- Protecção do Património
 relationships:
 - type: amended_by
   target: pt:dre:166665:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:166665:por
+  label: "Revogado pelo DR.13/96.1996.11.13.MEPAT DR.IS-B [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-1996-166665
+  date: '1996-11-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:49Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +114,7 @@ Assim:
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único - 1 - Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e conversão urbanística a zona correspondente ao perímetro medieval da cidade de Braga.
+Artigo único - 1 - Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e conversão urbanística a zona correspondente ao perímetro medieval da cidade de Braga.
 
 2 - Os limites da área critica referida no número anterior vão demarcados na planta anexa a este diploma, que dele faz parte integrante.
 
@@ -105,12 +122,12 @@ Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o
 
 Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro - João Orlindo Almeida Pina.
 
-**Promulgado em 23 de Abril de 1979.**
+Promulgado em 23 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11800/10031004.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11800/10031004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11800/10031004.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.

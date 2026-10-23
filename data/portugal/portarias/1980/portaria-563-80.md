@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/563-1980-464238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a1f5ffd06fa3c35ed2814a860cfa2a2394d93ea727c4e655a64b52368ad6a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a31d37e2ce9821edd665622798d7e9f56e22df9c840ce97884c593823f504cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Faculdade de Ciências
+- Regulamento
+- Universidade de Coimbra
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:42Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Ministério da Educação e Ciência, 20 de Agosto de 1980. - O Ministro da Educ
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Química da Faculdade de Ciências e Tecnologia é uma unidade orgânica permanente, dirigida à realização continuada, no âmbito da química pura e da química tecnológica, das tarefas de investigação e de ensino compreendidas nos fins institucionais da Universidade de Coimbra, competindo-lhe, designadamente:
+Artigo 1.º O Departamento de Química da Faculdade de Ciências e Tecnologia é uma unidade orgânica permanente, dirigida à realização continuada, no âmbito da química pura e da química tecnológica, das tarefas de investigação e de ensino compreendidas nos fins institucionais da Universidade de Coimbra, competindo-lhe, designadamente:
 
 a) Fomentar o desenvolvimento da química nos aspectos de índole teórica e aplicada desta ciência;
 
@@ -111,19 +123,19 @@ e) Organizar ou apoiar cursos de actualização;
 
 f) Apoiar a comunidade na resolução de problemas dentro da sua esfera científica.
 
-###### Art. 2.º O Departamento de Química goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da Escola.
+Art. 2.º O Departamento de Química goza de autonomia pedagógica e científica, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da Escola.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 3.º O Departamento de Química tem os seguintes órgãos:
+Art. 3.º O Departamento de Química tem os seguintes órgãos:
 
 a) O Conselho de Departamento;
 
 b) A Comissão Executiva.
 
-###### Art. 4.º São membros permanentes do Conselho de Departamento os professores catedráticos, associados e auxiliares e os investigadores doutorados incluídos na área científica abrangida pelo Departamento.
+Art. 4.º São membros permanentes do Conselho de Departamento os professores catedráticos, associados e auxiliares e os investigadores doutorados incluídos na área científica abrangida pelo Departamento.
 
-###### Art. 5.º - 1 - São membros não permanentes dois representantes dos assistentes e investigadores não doutorados da área departamental, eleitos pelos seus pares para mandatos bienais.
+Art. 5.º - 1 - São membros não permanentes dois representantes dos assistentes e investigadores não doutorados da área departamental, eleitos pelos seus pares para mandatos bienais.
 
 2 - A eleição dos membros não permanentes terá lugar na 1.ª quinzena de Julho.
 
@@ -143,7 +155,7 @@ b) A Comissão Executiva.
 
 10 - O membro não permanente eleito por substituição assegurará o mandato do membro substituído, até final do respectivo biénio.
 
-###### Art. 6.º - 1 - O Conselho de Departamento é presidido por um professor catedrático ou associado do Departamento, eleito por todos os membros do Conselho.
+Art. 6.º - 1 - O Conselho de Departamento é presidido por um professor catedrático ou associado do Departamento, eleito por todos os membros do Conselho.
 
 2 - O presidente é eleito para mandato bienal, sendo-lhe vedado o exercício de mais do que dois mandatos seguidos.
 
@@ -169,7 +181,7 @@ b) A Comissão Executiva.
 
 § único. O exercício do cargo de presidente do Conselho de Departamento é incompatível com o de presidente de outros órgãos directivos universitários.
 
-###### Art. 7.º - 1 - O Conselho de Departamento reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, metade dos seus membros.
+Art. 7.º - 1 - O Conselho de Departamento reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, metade dos seus membros.
 
 2 - A convocatória deverá ser escrita e enviada a cada um dos membros do Conselho de Departamento, com uma antecedência mínima de três dias sobre a data da sessão.
 
@@ -179,7 +191,7 @@ b) A Comissão Executiva.
 
 5 - Das reuniões do Conselho de Departamento serão elaboradas actas, que, uma vez lidas e aprovadas, serão assinadas pelo presidente do Conselho de Departamento e pelo membro da Comissão Executiva que secretariou a respectiva reunião.
 
-###### Art. 18.º - 1 - Ao Conselho de Departamento compete:
+Art. 18.º - 1 - Ao Conselho de Departamento compete:
 
 a) Coordenar todos os meios ao dispor do Departamento, em ordem a assegurar a execução dos seus objectivos;
 
@@ -209,11 +221,11 @@ n) Deliberar sobre outras matérias que, nos termos do [Decreto-Lei n.º 66/80](
 
 2 - As propostas de alteração deste Regulamento estarão sujeitas aos trâmites fixados no artigo 2.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, e legislação complementar ou que a substitua.
 
-###### Art. 9.º - 1 - A Comissão Executiva é constituída pelo presidente do Conselho de Departamento, que a ela presidirá, e por dois outros membros por este designados.
+Art. 9.º - 1 - A Comissão Executiva é constituída pelo presidente do Conselho de Departamento, que a ela presidirá, e por dois outros membros por este designados.
 
 2 - A designação dos membros referidos no número anterior carece de homologação pelo Conselho de Departamento.
 
-###### Art. 10.º À Comissão Executiva compete:
+Art. 10.º À Comissão Executiva compete:
 
 a) Preparar as reuniões do Conselho de Departamento e executar as suas deliberações;
 
@@ -225,11 +237,11 @@ d) Zelar pela conservação e manutenção das instalações e outros bens afect
 
 e) Elaborar as actas das reuniões do Conselho de Departamento.
 
-###### Art. 11.º - 1 - As deliberações do Conselho de Departamento só poderão ser alteradas, ouvido este, pelos órgãos centrais da Escola, quando as julguem incompatíveis com os interesses gerais prosseguidos pela Escola ou possam prejudicar o seu funcionamento.
+Art. 11.º - 1 - As deliberações do Conselho de Departamento só poderão ser alteradas, ouvido este, pelos órgãos centrais da Escola, quando as julguem incompatíveis com os interesses gerais prosseguidos pela Escola ou possam prejudicar o seu funcionamento.
 
 2 - Das alterações às deliberações do Conselho de Departamento cabe recurso para o reitor.
 
-###### Art. 12.º - 1 - As atribuições da comissão de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas a uma comissão constituída por todos os professores doutorados do Departamento.
+Art. 12.º - 1 - As atribuições da comissão de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas a uma comissão constituída por todos os professores doutorados do Departamento.
 
 2 - Os membros do Departamento de Química que prestem serviço noutros departamentos e neles façam parte de conselhos ou comissões de grupo não podem pertencer ao Conselho de Departamento de Química.
 
@@ -237,17 +249,17 @@ e) Elaborar as actas das reuniões do Conselho de Departamento.
 
 4 - Os doutorados contratados na situação de equiparados às categorias de professores só podem fazer parte do Conselho de Departamento de Química por deliberação favorável aprovada por dois terços dos membros em efectividade de funções.
 
-###### Art. 13.º - 1 - São criadas as seguintes comissões permanentes:
+Art. 13.º - 1 - São criadas as seguintes comissões permanentes:
 
 a) Comissão Científica;
 
 b) Comissão Pedagógica.
 
-###### Art. 14.º - 1 - A Comissão Científica é constituída pelos responsáveis das linhas de investigação do Centro de Investigação do Departamento de Química.
+Art. 14.º - 1 - A Comissão Científica é constituída pelos responsáveis das linhas de investigação do Centro de Investigação do Departamento de Química.
 
 2 - Na Comissão Científica será admitido um representante dos alunos dos cursos de pós-licenciatura, eleito pelos seus pares.
 
-###### Art. 15.º Compete à Comissão Científica ocupar-se de todos os assuntos ligados à investigação no Departamento e, designadamente:
+Art. 15.º Compete à Comissão Científica ocupar-se de todos os assuntos ligados à investigação no Departamento e, designadamente:
 
 a) Elaborar pareceres sobre a criação ou extinção de linhas e projectos a integrar no Centro de Investigação ou a ele pertencentes;
 
@@ -255,11 +267,11 @@ b) Elaborar relatórios e planos de actividade do Centro de Investigação;
 
 c) Desenvolver acções tendentes a melhorar o rendimento da investigação do Departamento.
 
-###### Art. 16.º - 1 - A Comissão Pedagógica é constituída por três elementos do Conselho de Departamento, eleitos por escrutínio secreto de entre os seus pares.
+Art. 16.º - 1 - A Comissão Pedagógica é constituída por três elementos do Conselho de Departamento, eleitos por escrutínio secreto de entre os seus pares.
 
 2 - Na Comissão Pedagógica serão admitidos dois representantes dos alunos das licenciaturas, eleitos pelos seus pares.
 
-###### Art. 17.º Compete à Comissão Pedagógica providenciar pelo bom funcionamento do ensino designadamente:
+Art. 17.º Compete à Comissão Pedagógica providenciar pelo bom funcionamento do ensino designadamente:
 
 a) Colaborar com outros departamentos e com a Faculdade na fixação da duração dos períodos lectivos;
 
@@ -269,7 +281,7 @@ c) Propor a aquisição de obras de carácter didáctico e de outros meios auxil
 
 ### CAPÍTULO III — Organização científica e pedagógica
 
-###### Art. 18.º - 1 - Para fins científicos e pedagógicos, consideram-se secções do Departamento de Química as linhas de investigação que integram o respectivo Centro de Investigação.
+Art. 18.º - 1 - Para fins científicos e pedagógicos, consideram-se secções do Departamento de Química as linhas de investigação que integram o respectivo Centro de Investigação.
 
 2 - Cada secção tem a seu cargo:
 
@@ -279,33 +291,33 @@ b) Assegurar o funcionamento de disciplinas dos cursos de pós-licenciatura do s
 
 c) Providenciar pelo cumprimento das obrigações dos funcionários que nele prestem serviço.
 
-###### Art. 19.º - 1 - A docência das disciplinas dos cursos de licenciatura e de pós-licenciatura será assegurada prioritariamente pelos professores que estejam integrados nas linhas de investigação segundo as respectivas áreas da especialidade.
+Art. 19.º - 1 - A docência das disciplinas dos cursos de licenciatura e de pós-licenciatura será assegurada prioritariamente pelos professores que estejam integrados nas linhas de investigação segundo as respectivas áreas da especialidade.
 
 2 - O serviço docente das disciplinas de índole geral será atribuído pelo Conselho de Departamento mediante proposta da Comissão Científica.
 
 3 - A distribuição do serviço docente para um semestre far-se-á no último mês útil do semestre anterior.
 
-###### Art. 20.º - 1 - O Departamento oferecerá cursos de licenciatura em Química, em Tecnologia Química e em áreas interdisciplinares afins, cursos de aperfeiçoamento e reciclagem e cursos de pós-licenciatura conducentes aos graus de mestre e doutor.
+Art. 20.º - 1 - O Departamento oferecerá cursos de licenciatura em Química, em Tecnologia Química e em áreas interdisciplinares afins, cursos de aperfeiçoamento e reciclagem e cursos de pós-licenciatura conducentes aos graus de mestre e doutor.
 
 2 - Os planos curriculares dos cursos oferecidos pelo Departamento serão afixados anualmente até ao dia 30 do mês de Maio anterior ao ano lectivo em que se iniciam.
 
 3 - Na organização dos cursos, o Departamento terá em atenção as necessidades nas diferentes áreas científicas e tecnológicas do País, assim como a capacidade de absorção de diplomados em cada uma dessas áreas.
 
-###### Art. 21.º - 1 - Os laboratórios de ensino estão na dependência das linhas de investigação nos domínios afins.
+Art. 21.º - 1 - Os laboratórios de ensino estão na dependência das linhas de investigação nos domínios afins.
 
 2 - Cada um dos laboratórios de ensino das disciplinas de índole geral está na dependência da Comissão Executiva, que designará um professor responsável por cada um destes laboratórios.
 
 3 - A Comissão Executiva, sob proposta do professor responsável, designará para cada laboratório de ensino um funcionário técnico, ao qual caberá zelar pelas condições de funcionamento, pelo equipamento nele existente e pelas instalações.
 
-###### Art. 22.º Aos alunos dos dois primeiros anos das licenciaturas ministradas no Departamento serão indicados professores a quem os alunos poderão solicitar orientação na resolução dos seus problemas escolares.
+Art. 22.º Aos alunos dos dois primeiros anos das licenciaturas ministradas no Departamento serão indicados professores a quem os alunos poderão solicitar orientação na resolução dos seus problemas escolares.
 
 § único. O Conselho de Departamento distribuirá os alunos pelos professores encarregados de tais tarefas.
 
-###### Art. 23.º - 1 - O Departamento oferecerá cursos de mestrado e doutoramento em domínios científicos de interesse para o País e de acordo com a capacidade de orientação dos projectos de investigação existentes.
+Art. 23.º - 1 - O Departamento oferecerá cursos de mestrado e doutoramento em domínios científicos de interesse para o País e de acordo com a capacidade de orientação dos projectos de investigação existentes.
 
 2 - A admissão aos cursos de pós-licenciatura carece de aprovação do Conselho de Departamento, que designará o supervisor do trabalho de investigação, tendo em conta o desejo do aluno e disponibilidade dos projectos de investigação.
 
-###### Art. 24.º - 1 - A actividade do Departamento é apoiada pelos seguintes serviços técnicos:
+Art. 24.º - 1 - A actividade do Departamento é apoiada pelos seguintes serviços técnicos:
 
 a) Serviços Administrativos;
 
@@ -317,11 +329,11 @@ d) Armazéns.
 
 2 - Os serviços técnicos estão na dependência directa da Comissão Executiva.
 
-###### Art. 25.º - 1 - Aos Serviços Administrativos compete a execução e organização dos serviços de secretaria-geral, expediente, contabilidade e arquivo.
+Art. 25.º - 1 - Aos Serviços Administrativos compete a execução e organização dos serviços de secretaria-geral, expediente, contabilidade e arquivo.
 
 2 - Os Serviços Administrativos funcionam sob responsabilidade do funcionário mais graduado neles destacado, sempre que possível um técnico superior.
 
-###### Art. 26.º - 1 - Aos Serviços de Biblioteca, Documentação e Publicações compete:
+Art. 26.º - 1 - Aos Serviços de Biblioteca, Documentação e Publicações compete:
 
 a) Assegurar as aquisições de livros, revistas, filmes e outros auxiliares didácticos;
 
@@ -337,7 +349,7 @@ f) Manter um serviço de reprodução de textos.
 
 2 - Os Serviços de Biblioteca, Documentação e Publicações funcionam sob responsabilidade do funcionário mais graduado neles destacado.
 
-###### Art. 27.º - 1 - Aos Serviços de Oficinas e Manutenção compete a execução de trabalhos oficinais necessários às actividades de ensino e investigação do Departamento, assim como a manutenção e conservação do equipamento e das instalações.
+Art. 27.º - 1 - Aos Serviços de Oficinas e Manutenção compete a execução de trabalhos oficinais necessários às actividades de ensino e investigação do Departamento, assim como a manutenção e conservação do equipamento e das instalações.
 
 2 - Os Serviços de Oficinas e Manutenção estão organizados nos seguintes sectores:
 
@@ -349,15 +361,15 @@ c) Oficina de vidro.
 
 3 - Cada uma das oficinas dos Serviços de Oficinas e Manutenção funciona sob responsabilidade do funcionário mais graduado que nela preste serviço.
 
-###### Art. 28.º - 1 - Aos Serviços de Armazém compete a aquisição de reagentes, material de vidro, equipamento científico corrente e material destinado aos Serviços de Oficinas e Manutenção.
+Art. 28.º - 1 - Aos Serviços de Armazém compete a aquisição de reagentes, material de vidro, equipamento científico corrente e material destinado aos Serviços de Oficinas e Manutenção.
 
 2 - Os Serviços de Armazém funcionam sob responsabilidade do funcionário mais graduado que neles preste serviço.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 29.º No Departamento presta serviço pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico, operário e auxiliar.
+Art. 29.º No Departamento presta serviço pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo, auxiliar técnico, operário e auxiliar.
 
-###### Art. 30.º Compete ao professores:
+Art. 30.º Compete ao professores:
 
 a) Participar no fomento e desenvolvimento da investigação no Departamento através de uma actividade de investigação própria;
 
@@ -365,7 +377,7 @@ b) Assegurar o serviço docente que lhes for atribuído;
 
 c) Aceitar e desempenhar os lugares de gestão do Departamento para os quais forem eleitos.
 
-###### Art. 31.º - 1 - Os assistentes estagiários são recrutados por concurso de entre os licenciados que, para além das condições legais, satisfaçam às definidas nos editais para o referido concurso.
+Art. 31.º - 1 - Os assistentes estagiários são recrutados por concurso de entre os licenciados que, para além das condições legais, satisfaçam às definidas nos editais para o referido concurso.
 
 2 - Os assistentes estagiários integrar-se-ão nos projectos de investigação do Departamento.
 
@@ -377,37 +389,37 @@ c) Aceitar e desempenhar os lugares de gestão do Departamento para os quais for
 
 § 2.º É condição de admissão dos assistentes o seu interesse e aceitação de integração num projecto de investigação que lhes seja indicado pelo Conselho de Departamento.
 
-###### Art. 32.º Compete aos assistentes e aos assistentes estagiários:
+Art. 32.º Compete aos assistentes e aos assistentes estagiários:
 
 a) Participar nas actividades dos projectos de investigação em que estiverem integrados, preparando as suas dissertações;
 
 b) Coadjuvar os professores na assistência às aulas práticas.
 
-###### Art. 33.º Os assistentes convidados são recrutados para coadjuvar os professores na docência dos cursos para que tenham sido contratados.
+Art. 33.º Os assistentes convidados são recrutados para coadjuvar os professores na docência dos cursos para que tenham sido contratados.
 
-###### Art. 34.º O pessoal investigador é recrutado mediante concursos abertos pelo Departamento, tendo de satisfazer requisitos de graduação e qualificação paralelos aos definidos para o pessoal docente de categoria equivalente, sem prejuízo das disposições legais especialmente aplicáveis.
+Art. 34.º O pessoal investigador é recrutado mediante concursos abertos pelo Departamento, tendo de satisfazer requisitos de graduação e qualificação paralelos aos definidos para o pessoal docente de categoria equivalente, sem prejuízo das disposições legais especialmente aplicáveis.
 
-###### Art. 35.º Compete aos investigadores participar no fomento e desenvolvimento da investigação dentro dos projectos em que estão integrados.
+Art. 35.º Compete aos investigadores participar no fomento e desenvolvimento da investigação dentro dos projectos em que estão integrados.
 
-###### Art. 36.º O pessoal técnico superior, técnico, técnico-profissional, administrativo, operário, auxiliar técnico e auxiliar é recrutado pela Faculdade, por proposta do Departamento, mediante concursos abertos por este, desde que satisfaça as condições definidas na lei e as cláusulas constantes dos respectivos editais.
+Art. 36.º O pessoal técnico superior, técnico, técnico-profissional, administrativo, operário, auxiliar técnico e auxiliar é recrutado pela Faculdade, por proposta do Departamento, mediante concursos abertos por este, desde que satisfaça as condições definidas na lei e as cláusulas constantes dos respectivos editais.
 
-###### Art. 37.º As actividades do pessoal técnico superior, técnico, técnico-profissional, administrativo, operário, auxiliar técnico e auxiliar são definidas pelos responsáveis das linhas de investigação a que estejam afectos ou pelos chefes dos serviços técnicos onde prestam serviço.
+Art. 37.º As actividades do pessoal técnico superior, técnico, técnico-profissional, administrativo, operário, auxiliar técnico e auxiliar são definidas pelos responsáveis das linhas de investigação a que estejam afectos ou pelos chefes dos serviços técnicos onde prestam serviço.
 
 ### CAPÍTULO VI — Instalações e equipamento
 
-###### Art. 38.º - 1 - São atribuídas ao Departamento de Química todas as instalações construídas especialmente para o laboratório químico.
+Art. 38.º - 1 - São atribuídas ao Departamento de Química todas as instalações construídas especialmente para o laboratório químico.
 
 2 - É atribuído ao Departamento de Química o uso exclusivo do mobiliário e equipamento presentemente existente e todo aquele que venha a ser adquirido para satisfazer as necessidades do Departamento.
 
-###### Art. 39.º Cabe aos órgãos de gestão do Departamento a responsabilidade pela manutenção, segurança e serviços de apoio das respectivas instalações, bem como a superintendência exclusiva do pessoal adstrito a tais tarefas.
+Art. 39.º Cabe aos órgãos de gestão do Departamento a responsabilidade pela manutenção, segurança e serviços de apoio das respectivas instalações, bem como a superintendência exclusiva do pessoal adstrito a tais tarefas.
 
 ### CAPÍTULO VII — Contratos e convénios
 
-###### Art. 40.º O Departamento poderá celebrar contratos ou termos de tarefa com entidades singulares ou colectivas, nacionais ou estrangeiros, para realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual necessários ao desempenho das suas actividades.
+Art. 40.º O Departamento poderá celebrar contratos ou termos de tarefa com entidades singulares ou colectivas, nacionais ou estrangeiros, para realização de trabalhos técnicos ou científicos e outros serviços de carácter eventual necessários ao desempenho das suas actividades.
 
-###### Art. 41.º O Departamento pode celebrar convénios de cooperação e intercâmbio científico com as Universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras.
+Art. 41.º O Departamento pode celebrar convénios de cooperação e intercâmbio científico com as Universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 42.º - 1 - Os contratos, termos de tarefa e convénios carecem de aprovação do Conselho de Departamento.
+Art. 42.º - 1 - Os contratos, termos de tarefa e convénios carecem de aprovação do Conselho de Departamento.
 
 2 - Os contratos e termos de tarefa são assinados pelo presidente da Comissão Executiva, enquanto os convénios são propostos à Universidade.
 
@@ -421,13 +433,13 @@ c) Os direitos e deveres das partes;
 
 d) A duração.
 
-###### Art. 43.º - 1 - O Departamento poderá aceitar professores, assistentes e investigadores ou técnicos provenientes de outras instituições universitárias e de ensino superior ou laboratórios públicos ou privados para nele realizarem estágios de aperfeiçoamento técnico ou de investigação científica.
+Art. 43.º - 1 - O Departamento poderá aceitar professores, assistentes e investigadores ou técnicos provenientes de outras instituições universitárias e de ensino superior ou laboratórios públicos ou privados para nele realizarem estágios de aperfeiçoamento técnico ou de investigação científica.
 
 2 - As pessoas a que se refere o número anterior ficam sujeitas às normas definidas pelo Departamento.
 
 ### CAPÍTULO VIII — Prestação de serviços
 
-###### Art. 44.º - 1 - O Departamento poderá prestar serviços à comunidade no âmbito da sua especialidade.
+Art. 44.º - 1 - O Departamento poderá prestar serviços à comunidade no âmbito da sua especialidade.
 
 2 - A prestação de serviços não deve prejudicar os fins e objectivos primordiais do Departamento.
 
@@ -439,7 +451,7 @@ d) A duração.
 
 6 - Não é permitida a realização de qualquer trabalho que envolva dispêndio ou utilização de material laboratorial, oficinal ou outro por parte de qualquer membro do pessoal do Departamento sem autorização dos respectivos órgãos de gestão.
 
-###### Art. 45.º - 1 - O Conselho de Departamento fixará para cada caso o preço dos serviços prestados, atendendo a:
+Art. 45.º - 1 - O Conselho de Departamento fixará para cada caso o preço dos serviços prestados, atendendo a:
 
 a) Despesas com a utilização e amortização de equipamento utilizado;
 
@@ -451,12 +463,12 @@ d) Gratificação por horas extraordinárias do pessoal envolvido na orientaçã
 
 2 - As importâncias recebidas pelo Departamento pela prestação de serviços, depois de deduzida a correspondente à alínea d) do número anterior, serão entregues nos cofres do Estado e escrituradas em «Contas de ordem» no Orçamento Geral do Estado, podendo ser aplicadas no próprio ano ou em anos futuros através de orçamentos privativos.
 
-###### Art. 46.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 45.º, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
+Art. 46.º - 1 - Para fins de administração autónoma das receitas referidas no n.º 1 do artigo 45.º, e só neste caso, o Departamento ficará sujeito à legislação geral aplicável aos serviços com autonomia administrativa e financeira.
 
 2 - Nos termos do número anterior, o Conselho de Departamento gozará da competência atribuída aos serviços com autonomia administrativa e financeira.
 
-###### Art. 47.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Universidade de Coimbra no Orçamento Geral do Estado.
+Art. 47.º - 1 - O orçamento do Departamento constituirá uma subdivisão orgânica do orçamento da Universidade de Coimbra no Orçamento Geral do Estado.
 
 2 - Enquanto não for possível estabelecer no Orçamento Geral do Estado dotação própria, serão satisfeitos pelas disponibilidades da Faculdade de Ciências e Tecnologia da Universidade de Coimbra os encargos resultantes de serviços e funcionamento do Departamento de Química.
 
-**O Ministro da Educação e Ciência, Vítor Pereira Crespo.**
+O Ministro da Educação e Ciência, Vítor Pereira Crespo.

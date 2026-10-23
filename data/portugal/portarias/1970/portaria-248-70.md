@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/248-1970-142301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa12334dbe1e6e31f9c6ce797527654c397c77d207c0581a72b0f57b186d0c9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa3a436336a34e15ebb2fb179fd9913bad5f87997b239551cf6466083735c7d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:30Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1456.º «Quota-parte da província em encargos na metrópole»:
+Artigo 1456.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 1) «Conselho Ultramarino ([Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936) - Quota-parte da província nos encargos deste organismo» ... 207290$00
 
@@ -111,13 +135,13 @@ Instituto do Trabalho, Previdência e Acção Social
 
 Despesas com o pessoal:
 
-###### Artigo 217.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 336680$50
+Artigo 217.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 336680$50
 
 Serviços de Centralização e Coordenação de Informações de Angola
 
 Despesas com o pessoal:
 
-###### Artigo 496.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 500000$00
+Artigo 496.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 500000$00
 
 ### CAPÍTULO 5.º — Serviços de Fazenda
 
@@ -125,7 +149,7 @@ Serviços das alfândegas
 
 Despesas com o pessoal:
 
-###### Artigo 688.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 800000$00
+Artigo 688.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 800000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -133,7 +157,7 @@ Serviços de agricultura e florestas
 
 Despesas com o pessoal:
 
-###### Artigo 1097.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1035055$00
+Artigo 1097.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1035055$00
 
 ... 2671735$50
 
@@ -141,7 +165,7 @@ Despesas com o pessoal:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2870.º «Quota-parte da província em encargos na metrópole»:
+Artigo 2870.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 1), alínea a) «Conselho Ultramarino ([Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936) - Quota-parte da província nos encargos com este organismo» ... 168485$00
 
@@ -161,7 +185,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 274.º «Quota-parte da província em encargos na metrópole»:
+Artigo 274.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 1) «Conselho Ultramarino ([Decreto n.º 26180](https://diariodarepublica.pt/dr/detalhe/decreto/26180-1936-528802), de 7 de Janeiro de 1936)» ... 9975$00
 

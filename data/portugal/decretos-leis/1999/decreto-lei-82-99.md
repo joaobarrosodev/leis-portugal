@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/063a00/14571463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/1999/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1999-144997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7d325eb0895a2db3c30afb231692f437c67644b8f0e22bdb42664b2df47f567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f61b1695e0d670f2ff3212a216fdcf2347c1f77f8935fd86b0691b06ac98f38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,25 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Aproximação das Legislações
-- Multa
-- Higiene do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
 - Equipamento de Trabalho
-- Segurança no Trabalho
 - Fiscalização
+- Higiene do Trabalho
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Multa
 - Prevenção de Riscos Profissionais
-- Condições de Higiene e Segurança no Trabalho
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:2448796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 39.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
 - type: cites
   target: celex:31989L0655
   label: null
@@ -90,16 +95,21 @@ relationships:
   target: celex:31995L0063
   label: null
   source: http://data.europa.eu/eli/dir/1995/63/oj
+- type: repealed_by
+  target: pt:dre:584397:por
+  label: "Revogado pelo DEC LEI.50/2005.25.02.2005.MAET, DR.IS-A [40] de 25.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2005-584397
+  date: '2005-02-25'
 article_structure:
   article_count: 41
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:04Z'
   warnings: []
   errors: []
 ---
@@ -524,12 +534,12 @@ Nas Regiões Autónomas dos Açores e da Madeira, a referência ao Instituto de 
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 26 de Fevereiro de 1999.**
+Promulgado em 26 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

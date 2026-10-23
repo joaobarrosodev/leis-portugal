@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/8/1991/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-1991-495320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6ffcb8bd02d41727a545cee08e28e8684918a06bfb0b5347eba1cdf902d10b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fce247ba81c127f0e5372b3a9cd5dbb889c5fedbf30387de833fabc6be3cf3da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ subjects:
 - Instituto Português do Património Cultural
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:46Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +100,4 @@ Determina-se o seguinte:
 
 2 - A criação do lugar referido no número anterior produz efeitos desde 21 de Outubro de 1989.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.

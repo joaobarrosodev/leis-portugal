@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/096a00/18301832.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/1998/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67a845c7e50eb5781b1f174a2a2c083d473828af38df41ed71b315a7330725de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 717e7bed1ee50f2043e1bc1dbd540cd4cb7dfe13d6072853e6839969dd9c4a57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
-- Multa
-- Estrada
+- Câmara Municipal
 - Contra-ordenação
 - Definição de Competências
+- Estrada
 - Fiscalização
 - Ilícito de MERA Ordenação Social
 - Licenciamento
 - Licenciamento de Obras
-- Segurança Rodoviária
+- Multa
 - Proteção do Ambiente
-- Suporte Publicitário
-- Câmara Municipal
+- Publicidade
 - Responsabilidade Civil
+- Segurança Rodoviária
+- Suporte Publicitário
 - Tribunal Tributário
 relationships:
 - type: amended_by
   target: pt:dre:67085601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321715:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 7º e 11º pelo DEC LEI.166/99.1999.05.13.MAM,DR.IS-A [111]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1999-321715
+  date: '1999-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/6/1995/01/17/p/dre
   label: null
@@ -93,16 +98,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
+- type: cites
+  target: pt:dre:146566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291194:por
+  label: "Rectificado pela DECL-RECT.11-A/98.1998.06.30.PCM DR.IS-A [148]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-a-1998-291194
+  date: '1998-06-30'
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, o presente diploma, alterado pelo Dec Lei 166/99 de 13-mai, pelo(a) Lei n.º 34/2015
+    - Diário da República n.º 81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:35Z'
   warnings: []
   errors: []
 ---
@@ -275,12 +315,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Abril de 1998.**
+Promulgado em 7 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

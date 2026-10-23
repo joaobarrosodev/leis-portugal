@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 7/1980, 5º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 26-(78) a 26-(79)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00705/00780079.pdf
 entry_into_force_dates: []
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-e2-1980-508605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e89c86cdd1a29b4a2a0b6c9efa19661226ad360c8cb575dd37d0d71397168e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8017575b5b25788097ac93b7975d0b7acc6f560ebcbf3d6eb3a07ccac40d0b6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Empréstimo
+- Parempresa-Sociedade Parabancária para a Recuperação de Empresas
+- Saneamento Económico e Financeiro
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA NUMERO 646/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 129, DE 6/6/83.\0/6/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:451782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451782:por
+  label: Alterado a para 3% o valor da taxa de comissão pelo(a) Portaria n.º 646/83 - Diário da República n.º 129/1983, Série
+    I de 1983-06-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/646-1983-451782
+  date: '1983-06-06'
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:00Z'
   warnings: []
   errors: []
 ---

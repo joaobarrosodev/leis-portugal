@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/2004/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2004-589953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21053f2c295ccbe227eac5af3add9beda2b5c2c44123f322a08215cdfc7f179e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4dd74d4b4404adb30d0289d52d0b149e145c473edcc59a3e6ccef2eb74ca3bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
 - Etiquetagem
-- Aditivo Alimentar
 - Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:247718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247718:por
+  label: "Alterado o anexo, quadro I do Dec Lei 394/98 de 10-Dez, na redacção do presente diploma, pelo DEC LEI.33/2008.25.02.2008.MADRP,\
+    \ DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2008-247718
+  date: '2008-02-25'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -117,13 +123,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:23Z'
   warnings: []
   errors: []
 ---
@@ -182,15 +188,15 @@ O presente diploma entra em vigor no dia 29 de Janeiro de 2005.
 
 Visto e aprovado em Conselho de Ministros de 19 de Agosto de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Carlos Henrique da Costa Neves.
 
-**Promulgado em 15 de Setembro de 2004.**
+Promulgado em 15 de Setembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2004.**
+Referendado em 25 de Setembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Alteração ao anexo do Decreto-Lei n.º 394/98, de 10 de Dezembro
 
@@ -240,10 +246,10 @@ Ao anexo do Decreto-Lei n.º 394/98, de 10 de Dezembro, na redacção que lhe fo
 
 QUADRO VIII
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)
 
 QUADRO IX
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)](https://files.diariodarepublica.pt/1s/2004/10/237a00/62406244.pdf)
 
 Nota. - As doses máximas de utilização de sal de aspártamo e acessulfame derivam das doses máximas de utilização das suas partes constituintes, o aspártamo (E 951) e o acessulfame-K (E 950). As doses máximas de utilização para o aspártamo (E 951) e para o acessulfame-K (E 950) não devem ser excedidas pela sua utilização combinada ou não com o sal de aspártamo e acessulfame. Os limites desta coluna são expressos em (a) equivalentes de acessulfame-K ou em (b) equivalentes de aspártamo.

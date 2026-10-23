@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/245a00/57055707.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/286/1997/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1997-672452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f9e72e511b969b7677d1528351a8f8f21fa59e42e5bcd565c0bca1e194def2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a5fb0629e3edafad61c73e8fc308e7acf2200951df508d521379c7177ad717
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,48 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Auditoria Ambiental
-- Pessoal Dirigente
-- Secretaria Geral
 - Ministério do Equipamento do Planeamento e da Administração do Território
 - Orgânica
+- Pessoal Dirigente
 - Proteção do Ambiente
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:521009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social e Auditoria Ambiental, cuja Lei Orgânica foi aprovada pelo presente\
+    \ diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:521009:por
+  label: "Determinada a sucessão do Gabinete de Planeamento, Estratégia e Relações Internacionais (GPERI) nas atribuições\
+    \ da Auditoria Ambiental (que se extingue), constantes do presente diploma, que é revogado a partir de 01.05.2007, nos\
+    \ termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.59/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-2007-521009
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:56Z'
   warnings: []
   errors: []
 ---
@@ -177,18 +194,18 @@ A dotação orçamental da Auditoria Ambiental consta de verba inscrita no orça
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Outubro de 1997.**
+Promulgado em 6 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Outubro de 1997.**
+Referendado em 9 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/245a00/57055707.pdf))](https://files.diariodarepublica.pt/1s/1997/10/245a00/57055707.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/245a00/57055707.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/248a00/72597261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/2005/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2005-469000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af73daa88724ad9385b5033341ece3e4fed0ab4e8e77d2774387786db089a72c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 522860a17fe55e4822e2e350b34a2a034e56020817a46914d6a7495408f7cd34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Conselho de Museus
 - Criação de Serviços
 - Definição de Competências
 - Diretor
-- Património Cultural
 - Extinção de Serviços
-- Ministro da Cultura
-- Conselho Consultivo
-- Instituto Português de Museus
 - Fundo de Fomento Cultural
+- Instituto Português de Museus
+- Ministro da Cultura
+- Património Cultural
 - Presidente
 relationships:
 - type: amended_by
   target: pt:dre:520449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Extinto, sendo objecto de fusão o Conselho de Museus, criado pelo presente diploma, cujas atribuições nos termos\
+    \ da alínea e) do nº. 3 do artigo 26.º são integrados no Conselho Nacional de Cultura pelo DEC LEI.215/2006.27.10.2006.MC,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/398/1999/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/398/1999/10/13/p/dre
+- type: cites
+  target: pt:dre:662122:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520449:por
+  label: "Revogado, a partir de 01.04.2007, e determinado que o Conselho Nacional de Cultura, suceda nas competências do Conselho\
+    \ de Museus, cuja orgânica foi aprovada pelo presente diploma. pelo DR.35/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-2007-520449
+  date: '2007-03-29'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:08Z'
   warnings: []
   errors: []
 ---
@@ -218,12 +236,12 @@ São revogados a alínea c) do n.º 1 do artigo 7.º e o artigo 10.º do [Decret
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 12 de Dezembro de 2005.**
+Promulgado em 12 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

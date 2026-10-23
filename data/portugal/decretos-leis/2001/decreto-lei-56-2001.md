@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/042a00/09020913.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2001/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2001-319739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 613e1bab8400dd9a3a05297672aaa6293419bb838e1e37f855f70cb23b56bdb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2961b108fd1a020052ac5a6a8ea4389be977fd1047d72682a24cd50abca8d9ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
+- Açores
+- Apoio ao Investimento
 - Comissão de Acompanhamento
 - Comunicação Social
 - Contra-ordenação
 - Definição de Competências
-- Edição de Publicações
-- Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
-- Instituto da Comunicação Social
-- Imprensa
-- Modernização Tecnológica
-- Radiodifusão
 - Desenvolvimento Económico
+- Edição de Publicações
+- Financiamento
+- Fiscalização
+- Formação Profissional
+- Imprensa
+- Instituto da Comunicação Social
 - Internet
-- Porte PAGO
 - Madeira.região Autónoma
-- Açores
+- Modernização Tecnológica
+- Porte PAGO
+- Projeto de Investimento
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:457007:por
@@ -105,16 +105,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/21/1997/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/21/1997/06/27/p/dre
+- type: cites
+  target: pt:dre:162666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534635:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:303127:por
+  label: "Rectificado pela DECL-RECT.4-B/2001.2001.02.28.PCM,DR.IS-A [50]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-b-2001-303127
+  date: '2001-02-28'
+- type: repealed_by
+  target: pt:dre:457007:por
+  label: "Revogado pelo DEC LEI.6/2005.06.01.2005.PCM, DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2005-457007
+  date: '2005-01-06'
 article_structure:
   article_count: 49
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:45Z'
   warnings: []
   errors: []
 ---
@@ -751,12 +777,12 @@ b) 80%, nos casos a que alude o n.º 5 do artigo 6.º
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Fernando Manuel dos Santos Vigário Pacheco - Eduardo Luís Barreto Ferro Rodrigues - Mário Cristina de Sousa - José Estêvão Cangarato Sasportes - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 31 de Janeiro de 2001.**
+Promulgado em 31 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2001.**
+Referendado em 7 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

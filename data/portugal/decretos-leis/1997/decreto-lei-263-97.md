@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/1997/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1997-661562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98ea76c6c3cfb32c008b28a0dc64884a9106d87263825dd25e29477984c56706
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2aa0914bab05af723a717a273d56ec066c5a77608b22f98bfa67e4928a735e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Investigação Científica e Tecnológica
-- Conselho de Ciência e Tecnologia de Defesa
 - Conselho Consultivo de Tecnologias de Defesa
+- Conselho de Ciência e Tecnologia de Defesa
 - Definição de Competências
 - Direcção Geral de Armamento e Equipamentos de Defesa
+- Investigação Científica e Tecnológica
+- Ministério da Defesa Nacional
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:655675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615042:por
+  label: "Alterados os arts. 9º e 12º e o quadro de pessoal anexo, referido no nº 2 do art. 20º do Dec Lei 47/93 de 26-Fev,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.290/2000.2000.11.14.MDN DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2000-615042
+  date: '2000-11-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197362:por
+  label: "Revogado o art.1º do presente diploma e o nº 3 do art 14º do Dec Lei 47/93, de 26-Fev, na redacção dada pelo presente\
+    \ diploma, pelo DEC LEI.171/2002.2002.07.25.MDN DR.IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2002-197362
+  date: '2002-07-25'
+- type: repealed_by
+  target: pt:dre:655675:por
+  label: "Revogado o Decreto-Lei n.º 47/93, de 26 de Fevereiro, na redacção do presente diploma, pelo DEC LEI.154-A/2009.06.07.2009.MDN,\
+    \ DR.IS [128]2ºSupl de 06.07.2009, com excepção dos artigos 21.º e 22.º, que permanecem em vigor nos termos do n.º 2 do\
+    \ seu artigo 34.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:25Z'
   warnings: []
   errors: []
 ---
@@ -171,12 +194,12 @@ São revogados a alínea c) do n.º 2 do artigo 9.º e o artigo 18.º do [Decret
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - José Alberto Rebelo dos Reis Lamego - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 15 de Setembro de 1997.**
+Promulgado em 15 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Setembro de 1997.**
+Referendado em 18 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

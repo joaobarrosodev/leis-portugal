@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-1984-400033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:13:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16984df370217df77f8c21c3bd97b55cdb667f568a0193db649462e6c32e1ba6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6525f2a760a7950b994afe9c4b41192b57226a4a6787b51b915f38c66f35aeb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:13:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cofre de Previdência das Forças Armadas
+- Contrato de Seguro
+- Forças Armadas
+- Regulamento
+- Seguro de VIDA
+relationships:
+- type: cites
+  target: pt:dre:243479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:13:10Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +104,17 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, apro
 
 Ministério da Defesa Nacional.
 
-**Assinada em 18 de Setembro de 1984.**
+Assinada em 18 de Setembro de 1984.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
 
 Regulamento dos Seguros de Renda Certa-Amortizações e dos Seguros de Vida Temporários de Capital Decrescente
 
-###### Artigo 1.º - 1 - O Cofre de Previdência das Forças Armadas (CPFA) pode aceitar seguros de vida temporários, nas modalidades «Seguro de renda certa-amortizações» e «Seguro de vida temporário de capital decrescente», de subscritores seus.
+Artigo 1.º - 1 - O Cofre de Previdência das Forças Armadas (CPFA) pode aceitar seguros de vida temporários, nas modalidades «Seguro de renda certa-amortizações» e «Seguro de vida temporário de capital decrescente», de subscritores seus.
 
 2 - Estas modalidades de seguro visam, fundamentalmente, assegurar a amortização de hipotecas contraídas para aquisição ou construção de habitação própria ou permitir a continuação dos estudos dos filhos, em caso de falecimento do subscritor.
 
-###### Art. 2.º - 1 - Para efeitos deste Regulamento, entende-se como:
+Art. 2.º - 1 - Para efeitos deste Regulamento, entende-se como:
 
 a) Segurado - a pessoa que celebra o contrato com o CPFA e por cuja morte deve ser pago o capital seguro;
 
@@ -113,13 +126,13 @@ c) Capital seguro - o valor determinado nos termos dos números seguintes.
 
 3 - Na modalidade «Seguro de vida temporário de capital decrescente» o capital seguro decrescerá uniformemente todos os anos ou semestres durante o prazo do contrato até à sua anulação, que deverá coincidir com o final do mesmo prazo.
 
-###### Art. 3.º Os candidatos a segurados terão de sujeitar-se aos exames médicos, análises e outros que o CPFA entender necessários.
+Art. 3.º Os candidatos a segurados terão de sujeitar-se aos exames médicos, análises e outros que o CPFA entender necessários.
 
-###### Art. 4.º - 1 - Compete à direcção do CPFA a decisão sobre a aceitação ou recusa dos seguros, sem que tenha que justificar as suas decisões.
+Art. 4.º - 1 - Compete à direcção do CPFA a decisão sobre a aceitação ou recusa dos seguros, sem que tenha que justificar as suas decisões.
 
 2 - Não serão aceites seguros quando o candidato a segurado tenha mais de 60 anos de idade à data do início do contrato ou quando o prazo do seguro pretendido ultrapasse os 75 anos de idade do segurado.
 
-###### Art. 5.º Quando o seguro for aceite, o CPFA assumirá a responsabilidade pela liquidação ao beneficiário do capital seguro por morte do segurado, salvo se esta for ocasionada pelas excepções seguintes:
+Art. 5.º Quando o seguro for aceite, o CPFA assumirá a responsabilidade pela liquidação ao beneficiário do capital seguro por morte do segurado, salvo se esta for ocasionada pelas excepções seguintes:
 
 a) Acto criminoso dos beneficiários ou seus agentes;
 
@@ -133,13 +146,13 @@ e) Sismos e erupções vulcânicas;
 
 f) Desportos inerentemente perigosos e em particular corridas de automóveis ou motos e respectivos treinos, alpinismos, boxe, prática de artes marciais, tauromaquia e pára-quedismo, acidentes de aviação, salvo se ocorridos com passageiros de aviões comerciais, com passageiros de aviões de transporte devidamente autorizados ou com passageiros e tripulantes de aviões militares, nas condições fixadas pelas autoridades competentes, se não tiver sido pago o sobreprémio estabelecido para estes casos.
 
-###### Art. 6.º - 1 - Os prémios são calculados com base nas tabelas anexas I e II e serão acrescidos das taxas legais aplicáveis e de um adicional de 10% sobre o valor do prémio, destinado a cobrir despesas de administração.
+Art. 6.º - 1 - Os prémios são calculados com base nas tabelas anexas I e II e serão acrescidos das taxas legais aplicáveis e de um adicional de 10% sobre o valor do prémio, destinado a cobrir despesas de administração.
 
 2 - Na aplicação das tabelas referidas no n.º 1, as idades serão arredondadas, por excesso, para um número inteiro de anos.
 
 3 - Quando houver que considerar prazos diferentes dos previstos nas tabelas, o prémio a aplicar será calculado de acordo com as bases utilizadas na elaboração das mesmas tabelas.
 
-###### Art. 7.º - 1 - O prémio anual é indivisível e deverá ser pago adiantadamente na tesouraria do CPFA, contra recibo, considerando-se vencido na data do início de cada ano do contrato.
+Art. 7.º - 1 - O prémio anual é indivisível e deverá ser pago adiantadamente na tesouraria do CPFA, contra recibo, considerando-se vencido na data do início de cada ano do contrato.
 
 2 - O CPFA poderá autorizar o pagamento do prémio em prestações semestrais, mediante uma sobrecarga de 2,5% sobre a importância do referido prémio.
 
@@ -147,25 +160,25 @@ f) Desportos inerentemente perigosos e em particular corridas de automóveis ou 
 
 4 - O prazo de pagamento dos prémios será sempre inferior em 3 anos ao prazo de vigência dos contratos (P-3).
 
-###### Art. 8.º - 1 - O não pagamento dos prémios nos primeiros 15 dias do ano ou semestre a que respeitam implica uma sobretaxa de 0,1% por dia sobre o valor do prémio e adicional.
+Art. 8.º - 1 - O não pagamento dos prémios nos primeiros 15 dias do ano ou semestre a que respeitam implica uma sobretaxa de 0,1% por dia sobre o valor do prémio e adicional.
 
 2 - Quando o atraso de pagamento ultrapassar em mais de 30 dias a data de vencimento do prémio, o CPFA poderá rescindir o contrato, avisando do facto o segurado e o beneficiário, por carta registada e com uma antecedência mínima de 8 dias sobre a data em que a rescisão for considerada efectiva.
 
 3 - A rescisão efectuada nos termos do número anterior não confere ao segurado direito a qualquer indemnização ou devolução de prémios pagos.
 
-###### Art. 9.º O segurado pode, a todo o tempo, rescindir o contrato, mediante aviso prévio, efectuado por carta registada, com a antecedência de 30 dias, não lhe conferindo o facto direito a qualquer indemnização, ao reembolso de prémios pagos.
+Art. 9.º O segurado pode, a todo o tempo, rescindir o contrato, mediante aviso prévio, efectuado por carta registada, com a antecedência de 30 dias, não lhe conferindo o facto direito a qualquer indemnização, ao reembolso de prémios pagos.
 
-###### Art. 10.º Uma vez aceite a qualidade de beneficiário, considera-se irrevogável a respectiva cláusula, salvo expressa concordância do mesmo.
+Art. 10.º Uma vez aceite a qualidade de beneficiário, considera-se irrevogável a respectiva cláusula, salvo expressa concordância do mesmo.
 
-###### Art. 11.º Após a celebração do contrato, serão enviados exemplares da apólice ao segurado e ao beneficiário, quando o segurado o deseje.
+Art. 11.º Após a celebração do contrato, serão enviados exemplares da apólice ao segurado e ao beneficiário, quando o segurado o deseje.
 
-###### Art. 12.º O segurado obriga-se a participar ao CPFA as suas mudanças de residência.
+Art. 12.º O segurado obriga-se a participar ao CPFA as suas mudanças de residência.
 
-###### Art. 13.º Para liquidação do capital seguro é indispensável a apresentação de certidão de óbito do segurado, podendo ainda ser exigidos quaisquer outros documentos que o CPFA considere necessários para uma definição concreta das situações consideradas no artigo 5.º deste Regulamento.
+Art. 13.º Para liquidação do capital seguro é indispensável a apresentação de certidão de óbito do segurado, podendo ainda ser exigidos quaisquer outros documentos que o CPFA considere necessários para uma definição concreta das situações consideradas no artigo 5.º deste Regulamento.
 
-###### Art. 14.º No caso de beneficiários menores, o capital será pago consoante o estabelecido na apólice, se outro destino não for dado por decisão judicial.
+Art. 14.º No caso de beneficiários menores, o capital será pago consoante o estabelecido na apólice, se outro destino não for dado por decisão judicial.
 
-###### Art. 15.º O foro competente para dirimir qualquer pleito emergente dos contratos é o de Lisboa, com exclusão de qualquer outro.
+Art. 15.º O foro competente para dirimir qualquer pleito emergente dos contratos é o de Lisboa, com exclusão de qualquer outro.
 
 TABELA I
 
@@ -175,7 +188,7 @@ Seguro de renda certa-amortizações
 
 Prémios anuais por cada 1000$00 de renda anual pagáveis nos P-3 primeiros anos do contrato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/30933095.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/30933095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/30933095.pdf)
 
 TABELA II
 
@@ -185,4 +198,4 @@ Seguro de vida temporário de capital decrescente - Forma de decrescimento anual
 
 Prémios anuais por cada 1000$00 de capital inicial pagáveis nos P-3 primeiros anos do contrato
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23400/30933095.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23400/30933095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23400/30933095.pdf)

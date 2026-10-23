@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 180/1975, 2º Suplemento, Série I de 1975-08-06
   number: '180'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1094-(3) a 1094-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/477-a-1975-586874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1fee84912b73576c7357505b1cd03e2f591a688644bd8e8a0342c04543fa950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6d7c66c6a80154a3089f3cb20f82739919e94c0b233de1541413e459f204f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Corpo de Tropas Paraquedistas
+- DILI
+- Força Aérea
+- Militar
+- Paraquedismo
+- Quadro de Pessoal
+- Tropa Paraquedista
+relationships:
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342472:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:40Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +115,11 @@ Pessoal militar especializado em pára-quedismo
 
 A) Oficiais especializados em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf)
 
 B) Sargentos e praças especializados em pára-quedismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18002/00030003.pdf)
 
 Estado-Maior da Força Aérea e Ministério da Coordenação Interterritorial, 6 de Agosto de 1975. - O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general. - O Ministro da Coordenação Interterritorial, António de Almeida Santos.
 

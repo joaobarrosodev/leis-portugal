@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1979-380546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc1b6f314b046e782a5c074ddfc600d9dd0a314e1f33b6f0e8fc56fc8bf7aea0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6478f95d3cc3820ef6ace790d0f531f5750b5763745a3d60d990aeef0d7eabc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Ordenamento e Gestão Florestal
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:157049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:157049:por
+  label: "Dada nova redacção à al e) do n.º 2 e al. l) do n.º 3 do art. 8.º, art. 12.º, als b), c), d) e e) do art. 28.º,\
+    \ al e) do art. 31.º, al. g) do art. 42.º, arts 50.º e 51.º, al h) do art. 52.º, arts. 53.º, 54.º, 55.º e 58.º, revoga\
+    \ os n.ºs 2 e 3 do art. 24.º e substitui o mapa I anexo pelo DR.71-A/79 29-Dez, DR.IS [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/71-a-1979-157049
+  date: '1979-12-29'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:377881:por
+  label: Rectificado pela DECL.DD7249.11.08.1979.PCM, DR.IS [185] de 11.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-377881
+  date: '1979-08-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:09Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +116,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral de Ordenamento e Gestão Florestal, do Ministério da Agricultura e Pescas, abreviadamente designada por DGOGF, criada pelo artigo 42.º e alínea n) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve no âmbito do ordenamento florestal, da gestão do património florestal em que o Estado intervenha e dos recursos cinegéticos, aquícolas e apícolas.
+Artigo 1.º - 1 - A Direcção-Geral de Ordenamento e Gestão Florestal, do Ministério da Agricultura e Pescas, abreviadamente designada por DGOGF, criada pelo artigo 42.º e alínea n) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo cuja actividade se desenvolve no âmbito do ordenamento florestal, da gestão do património florestal em que o Estado intervenha e dos recursos cinegéticos, aquícolas e apícolas.
 
 2 - As atribuições da DGOGF são as constantes do artigo 35.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 2.º O Parque Nacional da Peneda-Gerês, que possui estatuto próprio, funciona sob a orientação técnica da DGOGF.
+Art. 2.º O Parque Nacional da Peneda-Gerês, que possui estatuto próprio, funciona sob a orientação técnica da DGOGF.
 
-###### Art. 3.º - 1 - A DGOGF é um organismo dotado de autonomia administrativa.
+Art. 3.º - 1 - A DGOGF é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGOGF:
 
@@ -146,17 +168,17 @@ h) De quaisquer outras acções inerentes ao fomento e protecção da caça ou d
 
 5 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 4.º A DGOGF é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 4.º A DGOGF é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º São órgãos da DGOGF:
+Art. 5.º São órgãos da DGOGF:
 
 a) O conselho técnico;
 
 b) O conselho administrativo.
 
-###### Art. 6.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director-geral e por ele presidido.
+Art. 6.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director-geral e por ele presidido.
 
 2 - O conselho técnico é constituído pelos seguintes membros:
 
@@ -176,7 +198,7 @@ d) Os directores de serviços da DGOGF.
 
 6 - As entidades estranhas ao MAP convidadas de conformidade com o número anterior terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transporte, nos termos legais.
 
-###### Art. 7.º - 1 - Ao conselho técnico compete emitir parecer sobre:
+Art. 7.º - 1 - Ao conselho técnico compete emitir parecer sobre:
 
 a) Os projectos de diploma que interfiram com a actividade da DGOGF;
 
@@ -204,7 +226,7 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 8.º - 1 - Para o estudo de assuntos de carácter especializado o conselho técnico divide-se em duas secções:
+Art. 8.º - 1 - Para o estudo de assuntos de carácter especializado o conselho técnico divide-se em duas secções:
 
 a) Florestal;
 
@@ -242,11 +264,11 @@ i) Um representante dos caçadores por cada comissão venatória regional;
 
 j) Um representante dos pescadores por cada comissão regional de pescadores.
 
-###### Art. 9.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 9.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos a apreciação do conselho técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 10.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros:
+Art. 10.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros:
 
 a) O director-geral, que presidirá;
 
@@ -258,7 +280,7 @@ d) O director de Serviços de Administração.
 
 2 - Servirá de secretário o chefe da Repartição de Administração Financeira e Patrimonial.
 
-###### Art. 11.º - 1 - Compete ao conselho administrativo:
+Art. 11.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento da Direcção-Geral de conta das dotações consignadas no OGE e propor as alterações orçamentais consideradas necessárias;
 
@@ -296,7 +318,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO I — Dos serviços
 
-###### Art. 12.º - 1 - A DGOGF dispõe dos seguintes serviços:
+Art. 12.º - 1 - A DGOGF dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -328,11 +350,11 @@ e) Divisão de Parques e Reservas Florestais.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 13.º - 1 - O Gabinete de Planeamento tem como atribuições a preparação da programação da actividade da Direcção-Geral, a análise da execução dos programas, a verificação da utilização dos seus recursos e respectivo aproveitamento e a realização de estudos técnico-económicos.
+Art. 13.º - 1 - O Gabinete de Planeamento tem como atribuições a preparação da programação da actividade da Direcção-Geral, a análise da execução dos programas, a verificação da utilização dos seus recursos e respectivo aproveitamento e a realização de estudos técnico-económicos.
 
 2 - O Gabinete de Planeamento assegura a ligação com outras unidades do Ministério da Agricultura e Pescas, nomeadamente com o Gabinete de Planeamento do MAP, ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 14.º - 1 - O Gabinete de Planeamento compreende as seguintes divisões:
+Art. 14.º - 1 - O Gabinete de Planeamento compreende as seguintes divisões:
 
 a) De Programação e Controlo;
 
@@ -340,7 +362,7 @@ b) De Economia da Produção.
 
 2 - O director do Gabinete de Planeamento tem a categoria de director de serviços.
 
-###### Art. 15.º À Divisão de Programação e Controlo compete:
+Art. 15.º À Divisão de Programação e Controlo compete:
 
 a) Promover e coordenar a elaboração dos planos das diferentes áreas de actuação:
 
@@ -354,7 +376,7 @@ e) Assegurar a realização do relatório anual da DGOGF;
 
 Propor a política anual de vendas de produtos resultantes de matas em que o Estado intervenha.
 
-###### Art. 16.º À Divisão de Economia da Produção compete:
+Art. 16.º À Divisão de Economia da Produção compete:
 
 a) Promover a valorização e diversificação dos produtos e matérias-primas do sector florestal e a definição de critérios para a sua classificação e especificação de qualidade;
 
@@ -364,17 +386,17 @@ c) Recolher, tratar e manter actualizada a informação sobre a comercializaçã
 
 d) Estabelecer previsões da produção e do consumo de produtos florestais e recolher, tratar e manter actualizada a informação sobre a indústria transformadora das matérias-primas florestais.
 
-###### Art. 17.º - 1 - A Direcção de Serviços de Infra-Estruturas Florestais tem como atribuições a coordenação das acções relativas ao Inventário Florestal Nacional, a realização da cartografia específica à actividade da DGOGF, a elaboração de estudos e projectos de obras no âmbito da DGOGF e a promoção de acções tendentes à conservação do solo e da água nas áreas dos perímetros florestais e submetidas ao regime florestal.
+Art. 17.º - 1 - A Direcção de Serviços de Infra-Estruturas Florestais tem como atribuições a coordenação das acções relativas ao Inventário Florestal Nacional, a realização da cartografia específica à actividade da DGOGF, a elaboração de estudos e projectos de obras no âmbito da DGOGF e a promoção de acções tendentes à conservação do solo e da água nas áreas dos perímetros florestais e submetidas ao regime florestal.
 
 2 - A Direcção de Serviços de Infra-Estruturas Florestais assegura as ligações com os serviços regionais de agricultura e outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista a efectivação das atribuições que lhe estão conferidas.
 
-###### Art. 18.º A Direcção de Serviços de Infra-Estruturas Florestais é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 18.º A Direcção de Serviços de Infra-Estruturas Florestais é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Inventário Florestal e Cartografia;
 
 b) De Obras e Hidrologia.
 
-###### Art. 19.º À Divisão de Inventário Florestal e Cartografia compete:
+Art. 19.º À Divisão de Inventário Florestal e Cartografia compete:
 
 a) Proceder à realização do Inventário Florestal Nacional;
 
@@ -388,7 +410,7 @@ e) Efectuar os levantamentos topográficos dos perímetros florestais e outros n
 
 f) Proceder à delimitação dos perímetros florestais, coordenando todos os marcos que os definam.
 
-###### Art. 20.º À Divisão de Obras e Hidrologia compete:
+Art. 20.º À Divisão de Obras e Hidrologia compete:
 
 a) Inventariar os edifícios e outras construções, caminhos florestais e pontes;
 
@@ -400,7 +422,7 @@ d) Elaborar projectos de correcção torrencial e de conservação da água e do
 
 e) Colaborar com a DGHEA no ordenamento e protecção da rede hidrográfica, bem como em todas as acções inerentes às atribuições da DGHEA.
 
-###### Art. 21.º O Gabinete de Viaturas, Equipamento e Máquinas Florestais é dirigido por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
+Art. 21.º O Gabinete de Viaturas, Equipamento e Máquinas Florestais é dirigido por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
 
 a) Elaborar e manter actualizado o inventário das máquinas e viaturas da DGOGF;
 
@@ -410,7 +432,7 @@ c) Coordenar a manutenção e a renovação do equipamento, viaturas e máquinas
 
 d) Apoiar tecnicamente a organização dos processos de aquisição e de aluguer de viaturas, equipamento e máquinas florestais e emitir parecer sobre os processos organizados pelos serviços executivos da DGOGF.
 
-###### Art. 22.º A Divisão de Estatística é dirigida por um chefe de divisão, competindo-lhe:
+Art. 22.º A Divisão de Estatística é dirigida por um chefe de divisão, competindo-lhe:
 
 a) Proceder e dar parecer a delineamentos estatísticos para as actividades no âmbito da DGOGF;
 
@@ -418,11 +440,11 @@ b) Apoiar as operações de cálculo e as interpretações estatísticas no âmb
 
 c) Preparar os elementos de índole estatística no âmbito da DGOGF.
 
-###### Art. 23.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 23.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 24.º - 1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
+Art. 24.º - 1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
 
 a) De Administração Patrimonial e Financeira;
 
@@ -432,7 +454,7 @@ b) De Pessoal e Expediente.
 
 3 - O pessoal referido no número anterior depende funcionalmente do director dos Serviços de Administração e hierarquicamente do respectivo administrador florestal.
 
-###### Art. 25.º A Repartição de Administração Patrimonial e Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 25.º A Repartição de Administração Patrimonial e Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Orçamento e Conta;
 
@@ -440,7 +462,7 @@ b) De Contabilidade;
 
 c) De Património e Aprovisionamento.
 
-###### Art. 26.º À Secção de Orçamento e Conta compete:
+Art. 26.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização dos orçamentos da DGOGF;
 
@@ -456,7 +478,7 @@ f) Organizar a conta de gerência e preparar os elementos necessários à elabor
 
 g) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 27.º À Secção de Contabilidade compete:
+Art. 27.º À Secção de Contabilidade compete:
 
 a) Verificar e liquidar todas as despesas dos serviços da DGOGF;
 
@@ -468,7 +490,7 @@ d) Assegurar o cálculo e análise de custos em ligação com o Gabinete de Plan
 
 e) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço.
 
-###### Art. 28.º À Secção de Património e Aprovisionamento compete:
+Art. 28.º À Secção de Património e Aprovisionamento compete:
 
 a) Organizar e manter actualizado o inventário da DGOGF respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -482,7 +504,7 @@ e) Processar os documentos de despesa das aquisições referidas nas alíneas b)
 
 f) Zelar pela segurança dos edifícios e outras instalações.
 
-###### Art. 29.º Adstrita à Repartição de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 29.º Adstrita à Repartição de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à DGOGF;
 
@@ -490,13 +512,13 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 30.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 30.º A Repartição de Pessoal e Expediente é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Pessoal;
 
 b) De Expediente e Arquivo.
 
-###### Art. 31.º À Secção de Pessoal compete:
+Art. 31.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal da DGOGF;
 
@@ -510,7 +532,7 @@ e) Superintender no pessoal auxiliar;
 
 f) Instruir processos de acidentes em serviço e dar-lhes o devido andamento.
 
-###### Art. 32.º À Secção de Expediente e Arquivo compete:
+Art. 32.º À Secção de Expediente e Arquivo compete:
 
 a) Executar as tarefas inerentes à recepção, classificação, expediente e arquivo do expediente dos serviços centrais da DGOGF;
 
@@ -518,7 +540,7 @@ b) Elaborar directivas de processamento e arquivo de correspondência e promover
 
 c) Assegurar uma adequada circulação de documentos e normas pelos diversos serviços da DGOGF.
 
-###### Art. 33.º O Centro de Documentação e Informação é dirigido por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
+Art. 33.º O Centro de Documentação e Informação é dirigido por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
 
 a) Organizar e gerir a biblioteca da DGOGF;
 
@@ -536,11 +558,11 @@ g) Colaborar com a DGER na organização e participação da DGOGF em feiras e e
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 34.º - 1 - A Direcção de Serviços de Produção Florestal tem como atribuições a gestão do património florestal em que o Estado intervenha, promovendo, nomeadamente, a elaboração de planos de utilização dos recursos nas áreas comunitárias, o melhoramento e regulamentação da utilização das pastagens em regime silvo-pastoril e o desenvolvimento de acções tendentes ao fomento da apicultura.
+Art. 34.º - 1 - A Direcção de Serviços de Produção Florestal tem como atribuições a gestão do património florestal em que o Estado intervenha, promovendo, nomeadamente, a elaboração de planos de utilização dos recursos nas áreas comunitárias, o melhoramento e regulamentação da utilização das pastagens em regime silvo-pastoril e o desenvolvimento de acções tendentes ao fomento da apicultura.
 
 2 - A Direcção de Serviços de Produção Florestal assegura as ligações com os serviços regionais de agricultura e outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe são cometidas.
 
-###### Art. 35.º A Direcção de Serviços de Produção Florestal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 35.º A Direcção de Serviços de Produção Florestal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Silvicultura;
 
@@ -548,7 +570,7 @@ b) De Ordenamento Florestal e Exploração;
 
 c) De Apicultura.
 
-###### Art. 36.º À Divisão de Silvicultura compete:
+Art. 36.º À Divisão de Silvicultura compete:
 
 a) Elaborar planos sobre cultura e exploração de matas, definindo os modelos de silvicultura;
 
@@ -556,7 +578,7 @@ b) Accionar as medidas tendentes ao fomento das produções secundárias e elabo
 
 c) Colaborar com os serviços regionais de agricultura nas normas e na definição da metodologia a que deve obedecer a elaboração de projectos que visem o melhor aproveitamento dos recursos silvo-pastoris nas regiões onde se insiram.
 
-###### Art. 37.º À Divisão de Ordenamento Florestal e Exploração compete:
+Art. 37.º À Divisão de Ordenamento Florestal e Exploração compete:
 
 a) Estabelecer normas e definir a metodologia a que deve obedecer a elaboração de projectos de ordenamento florestal em colaboração com o serviço regional de agricultura da área envolvida;
 
@@ -568,7 +590,7 @@ d) Recolher e tratar a informação dos processos de vendas, mantendo actualizad
 
 e) Promover a racionalização dos métodos de exploração das matérias-primas florestais.
 
-###### Art. 38.º À Divisão de Apicultura compete:
+Art. 38.º À Divisão de Apicultura compete:
 
 a) Promover e fomentar as acções necessárias ao desenvolvimento da apicultura nas áreas do sector público e apoiar as referentes ao sector privado;
 
@@ -576,17 +598,17 @@ b) Contribuir para a definição de uma política apícola nacional, propondo su
 
 c) Promover a adopção de medidas tendentes à conservação, defesa e expansão da floresta melífera natural e propor normas de qualidade dos produtos apícolas.
 
-###### Art. 39.º - 1 - A Direcção de Serviços de Conservação Florestal tem como atribuições o planeamento e contrôle das acções de defesa das matas contra agentes bióticos e físicos e o apoio aos serviços regionais de agricultura na gestão do património florestal cooperativo e privado e na promoção das medidas relativas à defesa das árvores e povoamentos florestais.
+Art. 39.º - 1 - A Direcção de Serviços de Conservação Florestal tem como atribuições o planeamento e contrôle das acções de defesa das matas contra agentes bióticos e físicos e o apoio aos serviços regionais de agricultura na gestão do património florestal cooperativo e privado e na promoção das medidas relativas à defesa das árvores e povoamentos florestais.
 
 2 - A Direcção de Serviços de Conservação Florestal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão conferidas.
 
-###### Art. 40.º A Direcção de Serviços de Conservação Florestal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 40.º A Direcção de Serviços de Conservação Florestal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Defesa e Protecção Florestal;
 
 b) De Promoção Florestal.
 
-###### Art. 41.º À Divisão de Defesa e Protecção da Floresta compete:
+Art. 41.º À Divisão de Defesa e Protecção da Floresta compete:
 
 a) Planear e controlar, a nível nacional, as acções relacionadas com a prevenção, detecção e combate a fogos florestais;
 
@@ -598,7 +620,7 @@ d) Estudar as técnicas referentes a fogos controlados;
 
 e) Planear e controlar, a nível nacional, as acções relativas à prevenção, detecção e combate de pragas e doenças nas florestas e promover o levantamento do mapa sanitário dos povoamentos florestais.
 
-###### Art. 42.º À Divisão de Promoção Florestal compete:
+Art. 42.º À Divisão de Promoção Florestal compete:
 
 a) Apoiar os serviços regionais de agricultura nas acções tendentes a aumentar a produtividade global da floresta portuguesa;
 
@@ -612,17 +634,17 @@ e) Definir normas relativas ao armamento e fardamento da polícia florestal;
 
 f) Programar os cursos de formação profissional florestal em ligação com a Direcção-Geral de Extensão Rural.
 
-###### Art. 43.º - 1 - A Direcção de Serviços de Caça tem como atribuições a promoção e coordenação das acções de gestão dos recursos e das explorações cinegéticas e o licenciamento, fiscalização, transporte e comércio da caça.
+Art. 43.º - 1 - A Direcção de Serviços de Caça tem como atribuições a promoção e coordenação das acções de gestão dos recursos e das explorações cinegéticas e o licenciamento, fiscalização, transporte e comércio da caça.
 
 2 - A Direcção de Serviços de Caça assegura as ligações com os serviços regionais de agricultura e outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 44.º A Direcção de Serviços de Caça é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 44.º A Direcção de Serviços de Caça é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Ordenamento dos Recursos Cinegéticos;
 
 b) De Promoção e Desenvolvimento Cinegético.
 
-###### Art. 45.º À Divisão de Ordenamento dos Recursos Cinegéticos compete:
+Art. 45.º À Divisão de Ordenamento dos Recursos Cinegéticos compete:
 
 a) Inventariar e classificar os terrenos de caça e definir os regimes mais adequados para a exploração cinegética;
 
@@ -636,7 +658,7 @@ e) Propor a regulamentação para o exercício da caça, fornecer os elementos e
 
 f) Manter actualizado o cadastro de caçadores, emitir os necessários documentos de identificação e organizar o licenciamento relativo à caça.
 
-###### Art. 46.º À Divisão de Promoção e Desenvolvimento Cinegético compete:
+Art. 46.º À Divisão de Promoção e Desenvolvimento Cinegético compete:
 
 a) Recolher ou promover a recolha e analisar os elementos necessários ao conhecimento da biologia, ecologia e sanidade das populações cinegéticas;
 
@@ -646,11 +668,11 @@ c) Preparar a informação para divulgação dos princípios do ordenamento cine
 
 d) Promover a criação e apoiar a gestão de centros cinegéticos.
 
-###### Art. 47.º - 1 - A Direcção de Serviços Aquícolas tem como atribuições a promoção e coordenação das acções de gestão dos recursos aquícolas e das explorações piscícolas, em colaboração com os organismos da Secretaria de Estado das Pescas, e o licenciamento e fiscalização do exercício da pesca nas águas interiores.
+Art. 47.º - 1 - A Direcção de Serviços Aquícolas tem como atribuições a promoção e coordenação das acções de gestão dos recursos aquícolas e das explorações piscícolas, em colaboração com os organismos da Secretaria de Estado das Pescas, e o licenciamento e fiscalização do exercício da pesca nas águas interiores.
 
 2 - A Direcção de Serviços Aquícolas assegura as ligações com os serviços regionais de agricultura, o Instituto Nacional de Investigação das Pescas e outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 48.º - 1 - A Direcção de Serviços Aquícolas é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 48.º - 1 - A Direcção de Serviços Aquícolas é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Gestão e Fomento Aquícola;
 
@@ -658,7 +680,7 @@ b) De Produção Piscícola do Norte;
 
 c) De Produção Piscícola do Sul.
 
-###### Art. 49.º À Divisão de Gestão e Fomento Aquícola compete:
+Art. 49.º À Divisão de Gestão e Fomento Aquícola compete:
 
 a) Proceder ao ordenamento dos recursos aquícolas e incrementar a sua produtividade;
 
@@ -672,7 +694,7 @@ e) Elaborar ou dar parecer sobre os planos de ordenamento e de exploração pisc
 
 f) Manter actualizado o cadastro de pescadores, emitir os necessários documentos de identificação, organizar o licenciamento relativo à pesca nas águas interiores e promover a elaboração de estatísticas.
 
-###### Art. 50.º À Divisão de Produção Piscícola do Norte compete:
+Art. 50.º À Divisão de Produção Piscícola do Norte compete:
 
 a) Incrementar a produtividade das massas hídricas, com especial incidência nos salmonídeos;
 
@@ -682,7 +704,7 @@ c) Orientar e incrementar a produção de alevinagem de salmonídeos e outras es
 
 d) Preconizar a utilização das técnicas profilácticas adequadas aos recursos aquícolas das águas frias.
 
-###### Art. 51.º À Direcção de Produção Piscícola do Sul compete:
+Art. 51.º À Direcção de Produção Piscícola do Sul compete:
 
 a) Incrementar a produtividade das massas hídricas, com especial incidência nos ciprinídeos;
 
@@ -692,7 +714,7 @@ c) Orientar e incrementar a produção de alevinagem de ciprinídeos e de outras
 
 d) Preconizar a utilização das técnicas profilácticas adequadas aos recursos aquícolas de águas do Sul do País.
 
-###### Art. 52.º A Divisão de Parques e Reservas Florestais é chefiada por um chefe de divisão, competindo-lhe:
+Art. 52.º A Divisão de Parques e Reservas Florestais é chefiada por um chefe de divisão, competindo-lhe:
 
 a) Promover a elaboração de legislação relativa a parques e reservas florestais, matas de protecção, árvores e maciços florestais de interesse público e à regulamentação do recreio, turismo e outras actividades no âmbito florestal;
 
@@ -710,15 +732,15 @@ g) Assegurar a gestão dos parques e reservas florestais não dependentes das ad
 
 ##### SUBSECÇÃO III — Das administrações florestais
 
-###### Art. 53.º As administrações florestais são agrupamentos de áreas florestais do sector público, constantes do mapa I anexo ao presente diploma.
+Art. 53.º As administrações florestais são agrupamentos de áreas florestais do sector público, constantes do mapa I anexo ao presente diploma.
 
-###### Art. 54.º Compete aos administradores florestais:
+Art. 54.º Compete aos administradores florestais:
 
 a) Superintender na execução das acções planeadas pelas direcções de serviços para as administrações florestais e apoiar a aplicação do regime florestal nas áreas que lhes sejam determinadas;
 
 b) Assegurar o fomento e a fiscalização dos recursos cinegéticos e piscícolas das águas interiores, segundo a orientação que lhes for definida pelas direcções de serviços respectivas.
 
-###### Art. 55.º - 1 - Às secções administrativas referidas no n.º 2 do artigo 24.º compete o apoio instrumental às acções desenvolvidas sob orientação dos administradores florestais.
+Art. 55.º - 1 - Às secções administrativas referidas no n.º 2 do artigo 24.º compete o apoio instrumental às acções desenvolvidas sob orientação dos administradores florestais.
 
 2 - Os administradores florestais terão direito ao vencimento da letra D.
 
@@ -726,41 +748,41 @@ b) Assegurar o fomento e a fiscalização dos recursos cinegéticos e piscícola
 
 #### SECÇÃO I — Dos quadros de pessoal
 
-###### Art. 56.º A DGOGF disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa II anexo ao presente diploma, que dele faz parte integrante.
+Art. 56.º A DGOGF disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa II anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 57.º O lugar de director de serviços de administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 57.º O lugar de director de serviços de administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 58.º Os lugares de administrador florestal serão providos em comissão de serviço, mediante proposta do director-geral, de entre engenheiros silvicultores.
+Art. 58.º Os lugares de administrador florestal serão providos em comissão de serviço, mediante proposta do director-geral, de entre engenheiros silvicultores.
 
-###### Art. 59.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente da DGOGF só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 25 de Novembro.
+Art. 59.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente da DGOGF só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 25 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na dotação orçamental correspondente enquanto se mantiver aquela situação.
 
-###### Art. 60.º O tesoureiro terá direito a um abono para falhas de acordo com a lei vigente.
+Art. 60.º O tesoureiro terá direito a um abono para falhas de acordo com a lei vigente.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 61.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da direcção de serviços que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 61.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da direcção de serviços que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 62.º O director de serviços de administração é substituído nas suas ausências e impedimentos pelo chefe da repartição da direcção de serviços que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de repartição mais antigo da direcção de serviços.
+Art. 62.º O director de serviços de administração é substituído nas suas ausências e impedimentos pelo chefe da repartição da direcção de serviços que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de repartição mais antigo da direcção de serviços.
 
-###### Art. 63.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços de que depende, for designado por despacho do director-geral, ou, na falta de designação, pelo técnico superior mais antigo da divisão.
+Art. 63.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços de que depende, for designado por despacho do director-geral, ou, na falta de designação, pelo técnico superior mais antigo da divisão.
 
-###### Art. 64.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta, for designado por despacho do director-geral.
+Art. 64.º O tesoureiro é substituído nas suas ausências e impedimentos pelo funcionário que, sob sua proposta, for designado por despacho do director-geral.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 65.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a DGOGF poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 65.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a DGOGF poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 66.º A DGOGF poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 66.º A DGOGF poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 67.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá a DGOGF estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o Gabinete de Informação e Cooperação Internacional.
+Art. 67.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá a DGOGF estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o Gabinete de Informação e Cooperação Internacional.
 
-###### Art. 68.º - 1 - Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a eles estranhas pela sua participação na realização de projectos e outros empreendimentos da DGOGF incluídos no Plano serão pagos de conta das dotações consignadas a esses objectivos.
+Art. 68.º - 1 - Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais, ou a pessoas a eles estranhas pela sua participação na realização de projectos e outros empreendimentos da DGOGF incluídos no Plano serão pagos de conta das dotações consignadas a esses objectivos.
 
-###### Art. 69.º - 1 - A cobrança coerciva das dívidas à DGOGF, provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 69.º - 1 - A cobrança coerciva das dívidas à DGOGF, provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial, far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -774,21 +796,21 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 70.º A DGOGF, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, poderá subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas, relacionados com as actividades da Direcção-Geral.
+Art. 70.º A DGOGF, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, poderá subsidiar a prestação de serviços e a realização de trabalhos efectuados por entidades públicas ou privadas, relacionados com as actividades da Direcção-Geral.
 
-###### Art. 71.º As receitas previstas nas alíneas a) a d) do n.º 2 do artigo 3.º do presente diploma, bem como os encargos especificados no n.º 4 do mesmo artigo, só passam a constituir receita e encargo próprio do orçamento de «Contas de ordem» da DGOGF a partir de 1 de Janeiro de 1980.
+Art. 71.º As receitas previstas nas alíneas a) a d) do n.º 2 do artigo 3.º do presente diploma, bem como os encargos especificados no n.º 4 do mesmo artigo, só passam a constituir receita e encargo próprio do orçamento de «Contas de ordem» da DGOGF a partir de 1 de Janeiro de 1980.
 
-###### Art. 72.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
+Art. 72.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 73.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 73.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 29 de Junho de 1979.**
+Promulgado em 29 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o artigo 53.º
 
@@ -842,6 +864,6 @@ Matas nacionais de: Cabeção, Machada, Medos, Valverde.
 
 Mapa II a que se refere o artigo 56.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/15700/14721481.pdf))](https://files.diariodarepublica.pt/1s/1979/07/15700/14721481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/15700/14721481.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

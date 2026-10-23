@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/2009/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-2009-483381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 430cbe94780542c4c9a182cdf56494692e5402746d6b62e9c0c8c7f9a10d32d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1437344a685a2d2364640c6f345beef19a26421471de835c437118589aa5e7bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Aproximação das Legislações
-- Energia Elétrica
-- Consumo de Energia
-- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
-- Fundo de Eficiência Energética
-- Direção Geral de Energia e Geologia
-- Entidade Reguladora dos Serviços Energéticos
-- Energia
-- Eficiência Energética
 - Comércio
+- Consumo de Energia
+- Direção Geral de Energia e Geologia
+- Distribuição de Energia Elétrica
+- Eficiência Energética
+- Energia
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
+- Fundo de Eficiência Energética
+- Plano Nacional de Acção para a Eficiência Energética (2008-2015)
 relationships:
 - type: amended_by
   target: pt:dre:67123272:por
@@ -99,16 +99,24 @@ relationships:
   target: celex:32006L0032
   label: null
   source: http://data.europa.eu/eli/dir/2006/32/oj
+- type: repealed_by
+  target: pt:dre:67123272:por
+  label: Revogado, a partir de 01.05.2015, o presente diploma pelo(a) Decreto-Lei n.º 68-A/2015 - Diário da República n.º
+    84/2015, 1º Suplemento, Série I de 2015-04-30, sem prejuízo do disposto no n.º 2 do art. 42.º daquele diploma, que determina
+    que os n.ºs 1, 4 e 5 do art. 4.º e os anexos I, III e IV do presente diploma se mantêm em vigor ao termo do prazo fixado
+    para o cumprimento do objetivo de 9%, nos termos previstos na al. g) do n.º 4 do art. 4.º do Dec Lei 68-A/2015.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-a-2015-67123272
+  date: '2015-04-30'
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:21Z'
   warnings: []
   errors: []
 ---
@@ -355,15 +363,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - João António da Costa Mira Gomes - António José de Castro Guerra.
 
-**Promulgado em 19 de Outubro de 2009.**
+Promulgado em 19 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Outubro de 2009.**
+Referendado em 21 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 4 do artigo 4.º)
 
@@ -395,7 +403,7 @@ Esta metodologia de medição das economias de energia garante que o total das e
 
 Teor em energia de combustíveis seleccionados para utilização final - Tabela de conversão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/11/21300/0832008329.pdf))](https://files.diariodarepublica.pt/1s/2009/11/21300/0832008329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/11/21300/0832008329.pdf)
 
 ## ANEXO III — (a que se refere o n.º 7 do artigo 4.º)
 

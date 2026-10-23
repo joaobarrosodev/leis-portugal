@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1989-547017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12c0e6865e66139453ccf2801bca6ece5d08d323fe8c641a31aac284eb79922e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45240c0b6b97cd8143786a928a1de9cb9feeda67c91c77805534c23e337b2979
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Universitária
+- Ensino Superior
+- Estatuto das Universidades
+- Universidade de Évora
 relationships:
 - type: amended_by
   target: pt:dre:2375073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2375073:por
+  label: "Homologada a alteração aos Estatutos homologados pelo presente diploma, pelo DN.6/2007.07.12.2006.MCTES, DR.IIS\
+    \ [9] de 12.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo-extracto/6-2007-2375073
+  date: '2006-12-07'
+- type: cites
+  target: pt:dre:228606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
 article_structure:
   article_count: 71
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:43:55Z'
   warnings: []
   errors: []
 ---
@@ -410,7 +428,9 @@ o) Ocupar-se dos restantes assuntos que lhe forem cometidos por lei, pelos prese
 
 5 - Podem participar nas reuniões do senado, sem direito a voto, elementos a ele estranhos, nos termos do respectivo regimento.
 
-###### Artigo 19.º — Secção disciplinar
+###### Artigo 19.º
+
+#### Secção disciplinar
 
 1 - Para efeitos de exercício do poder disciplinar é constituída uma secção permanente do senado universitário.
 
@@ -1208,12 +1228,12 @@ As revisões e alterações dos estatutos efectuam-se nos termos da [Lei n.º 10
 
 ## ANEXO I — MODELO DO EMBLEMA E SELO DA UNIVERSIDADE, A QUE SE REFERE O ARTIGO 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf))](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf)
 
 ## ANEXO II — MODELO DO TRAJE ACADÉMICO DA UNIVERSIDADE, A QUE SE REFERE O ARTIGO 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf))](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf)
 
 INSÍGNIA DA UNIVERSIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf))](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37153726.pdf)

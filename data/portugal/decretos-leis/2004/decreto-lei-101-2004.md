@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2004/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2004-301785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ff37be5efe27fc01e7cf34334c92e57a21824c8abcaab0719a0b16090815f02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 267a02aaf33f66d8e5657c035331849d0815de7470bdd450f8dd3a47d972b378
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Albufeira.cidade
-- Turismo
-- Instituto Portuário e dos Transportes Marítimos
+- Algarve
 - Contrato de Concessão
 - Definição de Competências
-- Algarve
+- Exploração Portuária
+- Instituto Portuário e dos Transportes Marítimos
 - Marina
 - Ministro das Obras Públicas Transportes e Habitação
-- Exploração Portuária
 - Navegação de Recreio
 - Portos
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/43/1995/05/04/p/dre
+- type: cites
+  target: pt:dre:142171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581870:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:54Z'
   warnings: []
   errors: []
 ---
@@ -162,31 +182,37 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 19 de Abril de 2004.**
+Promulgado em 19 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 2004.**
+Referendado em 22 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Bases do contrato de concessão da marina de Albufeira
 
 ### CAPÍTULO I — Da concessão
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 A presente concessão tem por objecto a exploração, em regime de serviço público, de um porto destinado à navegação de recreio, incluindo as respectivas instalações de apoio e serviços operacionais a ele afectas, em Albufeira, adiante designado por marina.
 
-###### Base II — Localização
+Base II
+
+Localização
 
 1 - A localização da marina consta da planta anexa, que define a sombreado a área da concessão, com os pormenores de implantação e referências.
 
 2 - Com a celebração do contrato de concessão são incorporados no domínio público do Estado, independentemente de qualquer formalidade e sem quaisquer encargos para o concedente, os terrenos da sociedade Actividades Agrícolas e Turísticas da Várzea da Orada, S. A., sociedade em relação de grupo com a ALBUMARINA - Gestora de Marinas, S. A., ambas sobre o domínio total da sociedade MARINAPART, SGPS, S. A., que venham a ser alagados pelas águas do mar em resultado da construção da marina, bem como os utilizados na construção dos cais e para instalação dos serviços directamente afectados à exploração portuária, integrados na área de concessão, ficando sob jurisdição do Instituto Portuário e dos Transportes Marítimos (IPTM), sem prejuízo do eventual direito a ser indemnizado por parte de terceiros.
 
-###### Base III — Estabelecimento
+Base III
+
+Estabelecimento
 
 1 - Compreende-se no estabelecimento o conjunto dos bens, móveis e imóveis, que estejam ou venham a ser implantados pelo Estado ou pela concessionária, na área da concessão ou a ser-lhe afectados, destinados à exploração da marina, nomeadamente:
 
@@ -204,7 +230,9 @@ c) Os edifícios, as instalações, os equipamentos, os mecanismos, as ferrament
 
 5 - Com a celebração do contrato deve ser apresentado pela concessionária o inventário discriminativo do conjunto de bens já afectados à concessão, referido à data da respectiva celebração.
 
-###### Base IV — Serviços e instalações obrigatórios
+Base IV
+
+Serviços e instalações obrigatórios
 
 1 - Compete à concessionária a instalação dos serviços de apoio, bem como dos equipamentos exigidos pelo funcionamento e operacionalidade da marina, de acordo com as necessidades da navegação de recreio.
 
@@ -252,7 +280,9 @@ t) Serviços bancários.
 
 ### CAPÍTULO II — Da exploração
 
-###### Base V — Regime de exploração
+Base V
+
+Regime de exploração
 
 1 - A marina será explorada em regime de serviço público, de forma regular e contínua, nos termos fixados no contrato de concessão e em conformidade com o disposto no respectivo regulamento de exploração e utilização.
 
@@ -260,7 +290,9 @@ t) Serviços bancários.
 
 3 - O estabelecido no número anterior não abrange o acesso nem a prestação de serviços a embarcações que não sejam de recreio.
 
-###### Base VI — Obrigações de serviço público
+Base VI
+
+Obrigações de serviço público
 
 A exploração da marina em regime de serviço público obriga a concessionária a:
 
@@ -270,7 +302,9 @@ b) Prestar aos utentes os serviços que integram o objecto da concessão;
 
 c) Assegurar que os serviços sejam prestados com a maior segurança, eficiência e economia, segundo métodos racionais e técnicas actualizadas, por forma a garantir prestações de qualidade e de preço compatíveis com estabelecimentos similares.
 
-###### Base VII — Outras obrigações da concessionária
+Base VII
+
+Outras obrigações da concessionária
 
 1 - Constituirá obrigação e encargo da concessionária a realização das dragagens de instalação e manutenção do canal de navegação de acesso à marina, a partir da secção definida pelas cabeças dos molhes de abrigo do porto de pesca, tendentes a garantir a navegabilidade com uma cota mínima de - 4 m (ZH).
 
@@ -278,19 +312,25 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 3 - Os materiais provenientes de dragagens a efectuar na área da concessão são removidos e depositados nos termos da legislação e procedimentos aplicáveis.
 
-###### Base VIII — Licenciamento da exploração
+Base VIII
+
+Licenciamento da exploração
 
 1 - A efectiva exploração da marina nos termos da concessão a que as presentes bases se referem só pode iniciar-se quando a concessionária estiver munida de todas as licenças e autorizações legalmente exigidas para o exercício das actividades nela compreendidas.
 
 2 - A concessionária deve dar conhecimento ao IPTM do início da exploração com, pelo menos, 30 dias de antecedência, remetendo cópia das licenças e autorizações a que se refere o número anterior.
 
-###### Base IX — Regulamento de exploração e utilização
+Base IX
+
+Regulamento de exploração e utilização
 
 1 - Antes do início da exploração, o IPTM aprovará, mediante proposta da concessionária, os regulamentos que estabeleçam as normas relativas às operações e condições de prestação dos serviços abrangidos pela concessão.
 
 2 - Os regulamentos de exploração e utilização devem ser facultados a todos os potenciais utentes da marina, ficando a concessionária obrigada a proceder à sua afixação, nas suas instalações, em locais bem visíveis.
 
-###### Base X — Regulamento de tarifas
+Base X
+
+Regulamento de tarifas
 
 1 - Os limites máximos das taxas a cobrar pela concessionária pelos serviços que prestar no âmbito da concessão e pela utilização das instalações e equipamentos que apoiam a marina, assim como as regras gerais de aplicação, são os que constam do regulamento de tarifas, a aprovar pelo IPTM, sob proposta da concessionária, considerando-se o mesmo aprovado se o IPTM não se pronunciar no prazo de 30 dias contados a partir da data da sua apresentação.
 
@@ -298,7 +338,9 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 3 - A concessionária não pode cobrar quaisquer taxas que não constem do regulamento de tarifas nem onerar, por qualquer forma, o preço dos serviços prestados ou das instalações e equipamentos utilizados.
 
-###### Base XI — Conservação dos bens afectos à concessão
+Base XI
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento da concessão e a substituir, por sua conta e responsabilidade, todos os que se destruírem ou se mostrarem inadequados aos fins a que se destinam, por desgaste físico, avaria, deterioração ou obsolescência.
 
@@ -312,25 +354,33 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 6 - No caso de a concessionária não cumprir a determinação nos prazos fixados ou não proceder de acordo com as determinações do IPTM, este poderá substituir o equipamento ou executar as obras por conta da concessionária, retirando do fundo de conservação e renovação as importâncias necessárias para o efeito.
 
-###### Base XII — Obras a realizar
+Base XII
+
+Obras a realizar
 
 1 - A concessionária deve garantir previamente à execução de qualquer obra que ela se conforme com os instrumentos de gestão territorial em vigor para o local e deve compatibilizar a respectiva realização com a de outras infra-estruturas, municipais ou portuárias, que tenham de articular-se com o empreendimento em causa.
 
 2 - O plano geral do estabelecimento deve respeitar os instrumentos de gestão territorial em vigor para o local.
 
-###### Base XIII — Fundo de conservação e renovação
+Base XIII
+
+Fundo de conservação e renovação
 
 1 - Para ocorrer aos encargos emergentes das obrigações de reparação e conservação, a concessionária afectará 5% dos lucros anuais à constituição de um fundo de conservação e renovação, nos termos e condições que forem acordados com o IPTM e que constarão do contrato.
 
 2 - Com autorização expressa do IPTM, pode o fundo a que se refere o número anterior ser investido, no todo ou em parte, em novas aquisições ou em outra aplicação considerada útil para a prossecução dos fins da concessão.
 
-###### Base XIV — Vigilância das instalações
+Base XIV
+
+Vigilância das instalações
 
 1 - Compete à concessionária a guarda e vigilância das instalações, serviços e equipamentos que integram o estabelecimento da concessão, bem como assegurar a observância, pelos utentes, das normas constantes dos regulamentos de exploração e utilização.
 
 2 - A concessionária deve participar às autoridades públicas competentes o incumprimento, por parte dos utentes, das normas legais e regulamentares de segurança, disciplina e conduta.
 
-###### Base XV — Fiscalização
+Base XV
+
+Fiscalização
 
 1 - O estabelecimento da concessão e as actividades nele exercidas são fiscalizados pelos serviços do IPTM, cujas instruções e directivas a concessionária se obriga a cumprir, logo que lhe sejam comunicadas por escrito.
 
@@ -338,11 +388,15 @@ c) Assegurar que os serviços sejam prestados com a maior segurança, eficiênci
 
 3 - O disposto nos números anteriores não dispensa a concessionária de se subordinar à fiscalização de quaisquer outros serviços oficiais competentes.
 
-###### Base XVI — Vistorias
+Base XVI
+
+Vistorias
 
 Constituem encargo da concessionária as despesas com vistorias extraordinárias, nomeadamente as que resultem de reclamações de terceiros, desde que a vistoria conclua pela existência de irregularidades imputáveis à concessionária.
 
-###### Base XVII — Exploração por terceiros
+Base XVII
+
+Exploração por terceiros
 
 1 - A concessionária poderá ceder a terceiros que disponham de idoneidade pessoal, técnica e financeira os direitos de exploração de instalações e de serviços, de natureza comercial ou industrial, de apoio à marina, considerando-se, porém, ineficazes perante o IPTM as cláusulas dos contratos de cessão que confiram aos respectivos cessionários direitos ou faculdades que a concessionária não detinha ou que visem transferir ou diminuir a responsabilidade desta perante o concedente, mesmo que respeitante apenas à exploração cedida.
 
@@ -352,11 +406,15 @@ Constituem encargo da concessionária as despesas com vistorias extraordinárias
 
 ### CAPÍTULO III — Da vigência e extinção da concessão
 
-###### Base XVIII — Prazo
+Base XVIII
+
+Prazo
 
 A concessão terá uma duração de 75 anos, contados a partir da data da celebração do respectivo contrato, podendo ser renovável por períodos de 10 anos, se o interesse público o justificar.
 
-###### Base XIX — Decurso do prazo
+Base XIX
+
+Decurso do prazo
 
 1 - Finda a concessão, pelo decurso do prazo, o IPTM entra imediatamente na posse de todos os bens que constituem o estabelecimento e que reverterão gratuitamente para o Estado, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -374,7 +432,9 @@ A concessão terá uma duração de 75 anos, contados a partir da data da celebr
 
 8 - A fixação do valor das instalações referidas no número anterior bem como as questões relativas a eventuais obras que se encontrem em curso no termo da concessão serão reguladas por acordo ou, na sua falta, por recurso à arbitragem, nos termos do disposto na base XXX.
 
-###### Base XX — Resgate
+Base XX
+
+Resgate
 
 1 - O IPTM pode resgatar a concessão, quando motivos de interesse público o justifiquem, após decorrido metade do respectivo prazo, mediante autorização do ministro da tutela, cujo despacho produzirá efeitos decorridos dois anos sobre a data da sua notificação à concessionária.
 
@@ -392,7 +452,9 @@ A concessão terá uma duração de 75 anos, contados a partir da data da celebr
 
 8 - O pagamento dos montantes devidos à concessionária pode ser feito de uma só vez ou em anuidades, até ao limite previsto para o termo do prazo da concessão, vencendo as importâncias em débito juros calculados a uma taxa mínima de proposta aplicável às operações principais de refinanciamento pelo Banco Central Europeu, adicionada de 1 ponto percentual.
 
-###### Base XXI — Rescisão
+Base XXI
+
+Rescisão
 
 1 - O IPTM, autorizado pelo ministro da tutela, pode rescindir o contrato de concessão sempre que do não cumprimento das obrigações essenciais da concessionária resultem graves perturbações na organização e no funcionamento dos serviços concedidos.
 
@@ -428,7 +490,9 @@ i) A interrupção injustificada da exploração do estabelecimento.
 
 8 - Uma vez declarada e comunicada por escrito à concessionária, a rescisão produz imediatamente os seus efeitos, independentemente de qualquer outra formalidade.
 
-###### Base XXII — Sequestro
+Base XXII
+
+Sequestro
 
 1 - O IPTM pode assegurar a administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja iminente a sua cessação total ou parcial por causa imputável à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometerem a regularidade da exploração.
 
@@ -440,7 +504,9 @@ i) A interrupção injustificada da exploração do estabelecimento.
 
 5 - A declaração da situação de sequestro da concessão, assim como a declaração imediata de rescisão prevista no número anterior, carece de homologação do ministro da tutela.
 
-###### Base XXIII — Estado de sítio ou de emergência
+Base XXIII
+
+Estado de sítio ou de emergência
 
 1 - De acordo com a legislação especial aplicável, o IPTM, ou outra entidade para o efeito designada, pode, em situação de estado de sítio ou de emergência formalmente declarado, ser investido na gestão e exploração dos serviços concedidos, nos termos da lei.
 
@@ -448,7 +514,9 @@ i) A interrupção injustificada da exploração do estabelecimento.
 
 ### CAPÍTULO IV — Obrigações especiais
 
-###### Base XXIV — Contrapartida pela concessão
+Base XXIV
+
+Contrapartida pela concessão
 
 1 - A concessionária pagará ao IPTM, como contrapartida pela concessão, uma anuidade correspondente à soma das parcelas seguintes:
 
@@ -466,7 +534,9 @@ b) Mensalmente, após 60 dias depois do fim do mês a que respeita, a que se ref
 
 4 - O pagamento da contrapartida pela concessão só será devido após o decurso de um período de carência, a estabelecer no contrato de concessão.
 
-###### Base XXV — Deliberações sujeitas à aprovação do IPTM
+Base XXV
+
+Deliberações sujeitas à aprovação do IPTM
 
 1 - Sem prejuízo do disposto nas presentes bases, carecem de aprovação pelo IPTM os actos da concessionária que visem:
 
@@ -488,11 +558,15 @@ f) A interrupção ou a cessação total ou parcial da exploração dos serviço
 
 ### CAPÍTULO V — Disposições finais
 
-###### Base XXVI — Responsabilidade civil
+Base XXVI
+
+Responsabilidade civil
 
 A concessionária é inteiramente responsável pelos prejuízos ou danos causados a terceiros no exercício dos poderes que lhe são conferidos pela concessão.
 
-###### Base XXVII — Caução
+Base XXVII
+
+Caução
 
 1 - Antes do início da exploração, a concessionária deve prestar caução para garantir o exacto e pontual cumprimento das obrigações por ela assumidas e o pagamento de quaisquer penalidades que lhe forem aplicadas pelo IPTM.
 
@@ -502,7 +576,9 @@ A concessionária é inteiramente responsável pelos prejuízos ou danos causado
 
 4 - O valor da caução será actualizado nos termos fixados no contrato de concessão.
 
-###### Base XXVIII — Incumprimento das obrigações
+Base XXVIII
+
+Incumprimento das obrigações
 
 1 - O não cumprimento das obrigações assumidas pela concessionária, quando lhe não corresponda sanção mais grave, nos termos das bases anteriores ou do regulamento de exploração, implica o pagamento de multa contratual de (euro) 500 a (euro) 5000, segundo a gravidade e a frequência da infracção, mediante deliberação do IPTM, a qual, notificada por escrito à concessionária, produzirá efeitos independentemente de qualquer outra formalidade.
 
@@ -510,11 +586,15 @@ A concessionária é inteiramente responsável pelos prejuízos ou danos causado
 
 3 - Os montantes de multas que não forem pagos voluntariamente, até 30 dias após a notificação, serão levantados da caução prevista na base anterior.
 
-###### Base XXIX — Resolução convencional
+Base XXIX
+
+Resolução convencional
 
 O IPTM e a concessionária podem, em qualquer momento, resolver o contrato por mútuo acordo, sujeito a homologação do ministro da tutela.
 
-###### Base XXX — Arbitragem
+Base XXX
+
+Arbitragem
 
 As questões que se suscitem sobre interpretação ou execução do contrato de concessão podem ser resolvidas por arbitragem, nos termos gerais do direito.
 

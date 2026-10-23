@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/1996/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 591b95ae7398e2b03d6627c9729b418eb31687b66726693d1008044ee4d4548b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bb1a05a9dc108b13ad058484e362f326fe00fc7a712beb8c892bd9ce8aa7fac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Carreira Profissional
 - Criação de Serviços
 - Definição de Competências
-- Sistema Retributivo
-- Carreira Profissional
-- Remuneração Acessória
 - Inspeção Geral da Administração Interna
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Remuneração
+- Remuneração Acessória
 - Segredo Profissional
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:553450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492272:por
+  label: "Alterado o quadro de pessoal anexo pelo DEC LEI.3/99.1999.01.04.MAI DR.IS-A [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1999-492272
+  date: '1999-01-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1995/09/11/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561468:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553450:por
+  label: "Revogado, a partir de 01.04.2012, com exceção do art. 13º, o Dec Lei 227/95 de 11-set , alterado pelo presente diploma,\
+    \ pelo DEC LEI.58/2012.14.03.2012.MAI, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2012-553450
+  date: '2012-03-14'
 article_structure:
-  article_count: 18
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:27Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +155,9 @@ Natureza
 
 2 - Para todos os efeitos não excepcionados neste diploma, a IGAI é caracterizada como inspecção de alto nível e o pessoal dirigente e de inspecção que o integra constitui um corpo especial sujeito a regime próprio.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - ...
 
@@ -164,7 +185,9 @@ j) Exercer outras competências previstas na lei ou superiormente ordenadas, no 
 
 3 - ...
 
-###### Artigo 7.º — Competência do inspector-geral
+Artigo 7.º
+
+Competência do inspector-geral
 
 a) ...
 
@@ -178,7 +201,9 @@ e) ...
 
 f) Determinar a instauração de processos de averiguações.
 
-###### Artigo 9.º — Competências do SIF
+Artigo 9.º
+
+Competências do SIF
 
 1 - Compete ao SIF:
 
@@ -196,7 +221,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 16.º — Dever de cooperação
+Artigo 16.º
+
+Dever de cooperação
 
 1 - ...
 
@@ -208,7 +235,9 @@ f) ...
 
 5 - A IGAI poderá solicitar a qualquer pessoa colectiva de direito privado ou cidadão informações e ainda a este último depoimentos, sempre que o repute necessário para o apuramento dos factos da sua competência.
 
-###### Artigo 17.º — Quadro privativo
+Artigo 17.º
+
+Quadro privativo
 
 1 - O pessoal da IGAI integra um quadro privativo, que abrange os seguintes grupos e categorias:
 
@@ -230,17 +259,23 @@ f) Pessoal auxiliar.
 
 4 - ...
 
-###### Artigo 19.º — Pessoal de inspecção
+Artigo 19.º
+
+Pessoal de inspecção
 
 1 - O pessoal de inspecção integra um corpo especial sujeito a regime próprio e não se desenvolve em carreira.
 
 2 - As categorias do pessoal de inspecção são as de inspector superior principal, inspector superior e inspector principal.
 
-###### Artigo 20.º — Função de interesse público
+Artigo 20.º
+
+Função de interesse público
 
 O exercício de funções dirigentes e de inspecção é de reconhecido interesse público para efeito do disposto no n.º 1, alínea c), do artigo 6.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
-###### Artigo 21.º — Recrutamento do pessoal de inspecção
+Artigo 21.º
+
+Recrutamento do pessoal de inspecção
 
 1 - Para os lugares de inspecção podem ser nomeados funcionários ou agentes da Administração Pública, de institutos e de empresas públicas com pelo menos seis anos de serviço e conhecimentos e experiência profissional adequados, nomeadamente nas seguintes áreas:
 
@@ -262,7 +297,9 @@ e) Comando, direcção ou coordenação, nomeadamente no âmbito das forças ou 
 
 5 - O provimento é feito em regime de comissão de serviço, por períodos de três anos, renováveis, podendo igualmente ser feito em regime de requisição ou destacamento, nos termos da lei geral.
 
-###### Artigo 23.º — Conteúdo funcional
+Artigo 23.º
+
+Conteúdo funcional
 
 1 - Ao pessoal de inspecção de alto nível compete:
 
@@ -276,13 +313,17 @@ d) A elaboração de estudos, pareceres e informações no âmbito das atribuiç
 
 2 - Ao pessoal técnico de apoio à inspecção compete, em geral, realizar o conjunto de actividades de investigação, concepção, assessoria, apoio e suporte ao planeamento, organização, execução e controlo das acções de inspecção, fiscalização e auditoria.
 
-###### Artigo 24.º — Remunerações
+Artigo 24.º
+
+Remunerações
 
 1 - Ao exercício de funções do pessoal de inspecção corresponde o estatuto remuneratório do lugar de origem, com todas as regalias ao mesmo inerentes.
 
 2 - O pessoal dirigente e de inspecção tem direito a um suplemento correspondente a 30% do vencimento base ilíquido, o qual é considerado para todos os efeitos como vencimento, nomeadamente para efeitos do cálculo dos subsídios de férias e de Natal, bem como da pensão de aposentação.
 
-###### Artigo 30.º — Preenchimento transitório de lugares
+Artigo 30.º
+
+Preenchimento transitório de lugares
 
 Durante três anos contados a partir da data da primeira tomada de posse do inspector-geral, a IGAI pode, nos termos da lei e dentro das respectivas dotações orçamentais, recorrer à contratação de pessoal técnico e administrativo devidamente habilitado.»
 
@@ -304,13 +345,17 @@ b) Indivíduos possuidores de curso superior adequado e experiência profissiona
 
 3 - O lugar de chefe da Secção de Processos e Expediente Geral (SPEG) pode ainda ser preenchido por escrivão de direito com, pelo menos, três anos de serviço na categoria, em comissão de serviço, por períodos de três anos, renováveis, aplicando-se-lhe, com as devidas adaptações, o regime previsto no n.º 2 do artigo 18.º e podendo optar pelo estatuto remuneratório do lugar de origem.
 
-###### Artigo 29.º-A — Uso e porte de arma
+Artigo 29.º-A
+
+Uso e porte de arma
 
 1 - O pessoal dirigente e de inspecção, enquanto no exercício efectivo de funções na IGAI, é dispensado de licença de uso e porte de arma de defesa, valendo como tal o cartão de identificação referido no artigo 25.º
 
 2 - O pessoal referido no número anterior tem direito a que lhe seja distribuída, por conta do Estado, arma de defesa, em condições a regulamentar por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.
 
-###### Artigo 29.º-B — Garantias
+Artigo 29.º-B
+
+Garantias
 
 O pessoal da IGAI não pode ser prejudicado no seu emprego, na estabilidade e progresso da carreira, bem como quanto ao regime de segurança social, de que beneficie nos lugares de origem.»
 
@@ -328,18 +373,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - José Augusto de Carvalho - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Agosto de 1996.**
+Promulgado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1996.**
+Referendado em 21 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 
 Quadro do pessoal dirigente e de chefia da IGAI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/202a00/28822885.pdf))](https://files.diariodarepublica.pt/1s/1996/08/202a00/28822885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/202a00/28822885.pdf)

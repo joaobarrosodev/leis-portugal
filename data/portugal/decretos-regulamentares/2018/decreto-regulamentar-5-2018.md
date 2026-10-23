@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/12100/0263002632.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2018/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2018-115578262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 652589500a2470ecd35479986b8f7ab527cb57642d43d4da3d12142026441d74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6b6d32e970843351ea451497c80755cb1b7c74b2e0b0c0a000a29352072a5f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Actualização de Pensões
-- Instituto da Segurança Social
-- Financiamento
 - Banco de Angola
+- Caixa Geral de Aposentações
 - Complemento por Dependência
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Pensão por Incapacidade Permanente para o Trabalho
-- Caixa Geral de Aposentações
+- Financiamento
 - IAS
+- Instituto da Segurança Social
+- Madeira.região Autónoma
 - Montante Adicional de Pensão
 - Pensão de Aposentação
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensão Unificada
 - Pensionista
 - Pensões
 - Prestações da Segurança Social
-- Madeira.região Autónoma
 - Proteção Social
 - Regime de Protecção Social Convergente
 - Regime não Contributivo da Segurança Social
+- Regulamentação de Atos Legislativos
 - Segurança Social
-- Açores
 - STCP
 - Subsídio de Natal
 relationships:
@@ -119,16 +119,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-b/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-b/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107787667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:35Z'
   warnings: []
   errors: []
 ---
@@ -235,12 +259,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 24 de maio de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - José António Fonseca Vieira da Silva.
 
-**Promulgado em 15 de junho de 2018.**
+Promulgado em 15 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de junho de 2018.**
+Referendado em 21 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111445627

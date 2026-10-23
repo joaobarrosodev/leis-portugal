@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1984-400042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:13:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 695d4b52ca6f5020291ad12a47348877504d533a053444abcbf9e8c45562ef2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11fffd1e479d3c63c12dcc7a02e8a388704974c28cd72fb90ec5c62dd706e930
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:13:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Científico
+- Definição de Competências
+- Instituto Nacional de Investigação Científica
+- Política de Investigação e Desenvolvimento
 relationships:
 - type: amended_by
   target: pt:dre:152349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152349:por
+  label: "Alterados o nº 2, as als. a) e e) do nº 3 e a al. b) do n.º 6.º pela PORT.262/85.09.05.1985.ME, DR.IS [106] de 09.05.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1985-152349
+  date: '1985-05-09'
+- type: cites
+  target: pt:dre:399248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461662:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:13:13Z'
   warnings: []
   errors: []
 ---
@@ -145,6 +163,6 @@ b) As comissões reunirão por convocação do presidente do INIC, nos termos do
 
 Ministério da Educação.
 
-**Assinada em 6 de Junho de 1984.**
+Assinada em 6 de Junho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

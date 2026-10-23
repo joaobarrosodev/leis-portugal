@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22700/0002200030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2024/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2024-897548402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c64a9e49025377ed933d1c9f7de4191fc808eb1642aa9da8c92ce4ccee076f8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e63b549ab31f73d1e1962e90346bedec9ef8a5fec4f1de4b78cdabf1ad76d493
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Agência para a Modernização Administrativa
 - Código de Procedimento e de Processo Tributário
 - Código do Processo Civil
 - Comunicações Eletrónicas
 - Correio Electrónico
 - Definição de Competências
 - Instituto de Gestão Financeira e Equipamentos da Justiça
+- Morada Única Digital
 - Notificação
 - Pessoa Coletiva
 - Pessoa Singular
-- Processo Judicial
-- Agência para a Modernização Administrativa
-- Tribunal
 - Plataforma Eletrónica
-- Morada Única Digital
+- Processo Judicial
+- Tribunal
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:93/2017
+  label: Altera, a partir de 14 de janeiro de 2025, os artigos 2.º e 7.º do Decreto-Lei n.º 93/2017, de 1 de agosto, Diário
+    da República n.º 147/2017, Série I
+  source: null
+  date: '2017-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
@@ -117,16 +123,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:889277036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895836368:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:30Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +235,7 @@ a) À primeira alteração ao [Decreto-Lei n.º 93/2017](https://diariodarepubli
 
 b) À quadragésima quinta alteração ao [Decreto-Lei n.º 433/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1999-692261), de 26 de outubro, na sua redação atual, que aprova o Código de Procedimento e de Processo Tributário;
 
-c) À quinta alteração ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>[356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro, que institui o ilícito de mera ordenação social e respetivo processo.
+c) À quinta alteração ao [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos Decretos-Leis n.os[356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro, que institui o ilícito de mera ordenação social e respetivo processo.
 
 ###### Artigo 2.º — Área de Serviços Digitais dos Tribunais
 
@@ -231,7 +285,7 @@ c) À quinta alteração ao [Decreto-Lei n.º 433/82](https://diariodarepublica.
 
 4 - Aplica-se ao envio do aviso referido nos números anteriores o disposto no [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto, e na portaria que o regulamenta, em tudo o que não contraria o disposto nos números seguintes, salvo o disposto no n.º 3 do artigo 3.º do referido decreto-lei.
 
-5 - Para efeitos do disposto no número anterior, entende-se que o aviso a que o presente artigo se refere se enquadra no conceito de notificação adotado no [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto, não se aplicando o disposto nos n.<sup>os</sup>3, 4, 6 e 7 do artigo 8.º do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto.
+5 - Para efeitos do disposto no número anterior, entende-se que o aviso a que o presente artigo se refere se enquadra no conceito de notificação adotado no [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto, não se aplicando o disposto nos n.os3, 4, 6 e 7 do artigo 8.º do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto.
 
 6 - O aviso enviado através do serviço público de notificações eletrónicas dispensa assinatura, sendo a autenticidade do mesmo garantida pelos mecanismos de autenticação do sistema de informação de suporte à atividade dos tribunais ou certificada mediante aposição de selo eletrónico qualificado.
 
@@ -241,7 +295,7 @@ c) À quinta alteração ao [Decreto-Lei n.º 433/82](https://diariodarepublica.
 
 9 - As especificações técnicas e funcionais da interoperabilidade entre o sistema informático de suporte ao serviço público de notificações eletrónicas e o sistema de informação de suporte à atividade dos tribunais são definidas mediante protocolo a celebrar entre a AMA, I. P., e o IGFEJ, I. P.
 
-10 - O presente artigo não se aplica a outros avisos, diferentes dos identificados no n.º 1, previstos em normas legais ou regulamentares, designadamente o previsto nos n.<sup>os</sup>4 e 5 do artigo 129.º do Código da Insolvência e Recuperação de Empresas, aprovado em anexo ao [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual.
+10 - O presente artigo não se aplica a outros avisos, diferentes dos identificados no n.º 1, previstos em normas legais ou regulamentares, designadamente o previsto nos n.os4 e 5 do artigo 129.º do Código da Insolvência e Recuperação de Empresas, aprovado em anexo ao [Decreto-Lei n.º 53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de março, na sua redação atual.
 
 ###### Artigo 5.º — Utilização da Plataforma Eletrónica de Registo e Transmissão de Ofícios pelo sistema judicial
 
@@ -299,7 +353,9 @@ Os artigos 2.º e 7.º do [Decreto-Lei n.º 93/2017](https://diariodarepublica.p
 
 4 - O regime aplicável à utilização do serviço público de notificações eletrónicas associado à morada única digital no âmbito do envio de citações, notificações ou outras comunicações remetidas pelo sistema judicial é regulado em diploma próprio.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -349,9 +405,11 @@ Os artigos 38.º, 214.º e 223.º do Código de Procedimento e de Processo Tribu
 
 13 - [...]
 
-14 - Sem prejuízo do disposto nos n.<sup>os</sup>8 e 9, as notificações a entidades bancárias, relativas a pedidos de informação financeira ou outros atos e diligências no âmbito do processo de execução fiscal, bem como as respetivas respostas dos notificandos, podem ser realizadas através da plataforma informática de registos e transmissão de ofícios protocolada entre o Banco de Portugal e as autoridades públicas ou outras entidades requerentes.
+14 - Sem prejuízo do disposto nos n.os8 e 9, as notificações a entidades bancárias, relativas a pedidos de informação financeira ou outros atos e diligências no âmbito do processo de execução fiscal, bem como as respetivas respostas dos notificandos, podem ser realizadas através da plataforma informática de registos e transmissão de ofícios protocolada entre o Banco de Portugal e as autoridades públicas ou outras entidades requerentes.
 
-###### Artigo 214.º — [...]
+Artigo 214.º
+
+[...]
 
 1 - [...]
 
@@ -363,7 +421,9 @@ Os artigos 38.º, 214.º e 223.º do Código de Procedimento e de Processo Tribu
 
 5 - Os órgãos de execução fiscal podem utilizar a Plataforma Eletrónica de Registo e Transmissão de Ofícios do Banco de Portugal, com mecanismo idóneo para a notificação de pedidos de informação bancária, designadamente os previstos no número anterior, ou de outros atos e diligências, dirigidos a entidades bancárias, no âmbito dos processos de execução fiscal, podendo as respostas dos notificandos ser enviadas pelo mesmo meio.
 
-###### Artigo 223.º — [...]
+Artigo 223.º
+
+[...]
 
 1 - [...]
 
@@ -421,12 +481,14 @@ O presente decreto-lei entra em vigor no dia 14 de janeiro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 6 de novembro de 2024. - Luís Montenegro - João Alexandre da Silva Lopes - Rita Alarcão Júdice - Carla da Cruz Mouro.
 
-**Promulgado em 17 de novembro de 2024.**
+Promulgado em 17 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de novembro de 2024.**
+Referendado em 20 de novembro de 2024.
 
 Pelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças.
+
+118377973

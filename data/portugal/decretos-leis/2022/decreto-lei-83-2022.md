@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23600/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2022/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2022-204502327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9137945a5c53bed57883bb5ff85f2d48831dfc615479a3aef62645d2d2248608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d487695dc2b8eff251ccae8871774930fe77cc07f8aaa4b6dc7d7615cc7ed91d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,44 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Região Autónoma
+- Artes de Pesca
+- ASAE
 - Autoridade Tributária e Aduaneira
 - Campanha de Sensibilização
-- Matéria Plástica
-- Multa
+- Comércio
 - Comércio a Retalho
 - Contra-ordenação
+- Contraordenação Económica
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embalagem
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Etiquetagem
 - Fiscalização
 - Fruto
-- Pagamento
 - Indústria de Plásticos
+- Informação do Consumidor
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- ASAE
 - Legume
-- Embalagem
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Tabaco
+- Madeira.região Autónoma
+- Matéria Plástica
+- Multa
+- Pagamento
 - Página na Internet
 - Pão
-- Proteção do Ambiente
-- Artes de Pesca
-- Informação do Consumidor
 - Prazo
 - Produto Hortícola
 - Produtor
-- Madeira.região Autónoma
+- Proteção do Ambiente
 - Refeição
+- Região Autónoma
 - Regulamento CE
-- Açores
-- Comércio
-- Contraordenação Económica
-- Agência Portuguesa do Ambiente
+- Tabaco
 relationships:
 - type: cites
   target: celex:32009R1224
@@ -137,20 +137,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/78/2021/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/78/2021/09/24/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171871496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L0904
   label: null
   source: null
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:07Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +223,9 @@ Os artigos 1.º e 2.º do [Decreto-Lei n.º 78/2021](https://diariodarepublica.p
 
 2 - [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se aos produtos de plástico de utilização única, aos produtos feitos de plástico oxodegradável, às artes de pesca que contêm plástico e aos produtos do tabaco com filtros e filtros comercializados para uso em combinação com produtos do tabaco, que contêm plástico.
 
@@ -231,7 +253,9 @@ e) Tabaco com filtros e filtros comercializados para uso em combinação com pro
 
 2 - Os produtores referidos no número anterior devem observar, quando aplicável, o disposto no capítulo ii do UNILEX, relativo às regras comuns de gestão de fluxos específicos de resíduos abrangidos pela responsabilidade alargada do produtor e nos artigos 12.º e 13.º do RGGR, publicado no anexo i do [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro, na sua redação atual.
 
-###### Artigo 8.º-B — Custos a suportar pelos produtores
+Artigo 8.º-B
+
+Custos a suportar pelos produtores
 
 1 - Devem suportar, relativamente aos produtos produzidos, os custos relativos à adoção das medidas de sensibilização referidas no artigo 13.º, bem como da limpeza do lixo proveniente desses produtos e do seu posterior transporte e tratamento, os produtores dos seguintes produtos de plástico de utilização única, através de sistemas individuais ou integrados de gestão previstos no UNILEX:
 
@@ -269,7 +293,9 @@ h) Tabaco com filtros e filtros comercializados para uso em combinação com pro
 
 7 - Os fabricantes de artes de pesca que contêm plástico devem suportar os custos da recolha seletiva dos resíduos de artes de pesca que contêm plástico, entregues através dos meios portuários de receção adequados, nos termos do disposto no [Decreto-Lei n.º 102/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2020-150509334), de 9 de dezembro, ou de outros sistemas de recolha equivalentes não abrangidos pelo âmbito de aplicação do referido diploma, bem como os custos resultantes do seu posterior transporte e tratamento.
 
-###### Artigo 8.º-C — Limpeza urbana
+Artigo 8.º-C
+
+Limpeza urbana
 
 1 - Para efeitos do cumprimento do disposto do artigo anterior, os produtores devem financiar a limpeza de espaço urbano, designadamente a realizada através de operações de manutenção e recolha de papeleiras, varredura manual e mecânica e limpeza de praias, bem como o transporte e tratamento dos respetivos resíduos, de forma proporcional, transparente e economicamente eficiente, através de sistemas individuais ou de sistemas integrados de gestão, nos termos definidos das respetivas autorizações ou licenças e dos acordos estabelecidos com os demais intervenientes.
 
@@ -285,7 +311,9 @@ h) Tabaco com filtros e filtros comercializados para uso em combinação com pro
 
 7 - As metas definidas nas autorizações ou licenças atribuídas são revistas, sempre que necessário, em função da evolução dos dados relativos a resíduos públicos, por razões de caráter tecnológico, de mercado ou em resultado da evolução do direito da União Europeia.
 
-###### Artigo 8.º-D — Rede de recolha própria para produtos do tabaco
+Artigo 8.º-D
+
+Rede de recolha própria para produtos do tabaco
 
 1 - Os produtores de produtos do tabaco, através de sistemas integrados ou individuais de gestão, podem instalar uma rede de recolha própria, mediante a celebração de contrato administrativo, nos termos do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, com o município ou com a entidade gestora do sistema de recolha e tratamento de resíduos urbanos da respetiva área de recolha, conforme os casos, nos termos da legislação aplicável aos serviços municipais de abastecimento público de água, saneamento e resíduos urbanos e à concessão da exploração e gestão dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos e, caso existam, dos contratos de concessão respetivos.
 
@@ -317,12 +345,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de novembro de 2022. - António Luís Santos da Costa - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 5 de dezembro de 2022.**
+Promulgado em 5 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de dezembro de 2022.**
+Referendado em 5 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115945526

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 260/1999, 1º Suplemento, Série I-A de 1999-11-08
   number: '260'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7810-(2) a 7810-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/260a01/00020008.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-a-1999-692200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc7719cbb4d15828233aa0d3fc99ce244c0848f8f86acecda9a91d44978c95f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d268084ea59ca0e3a1a0fef0e9c94727b96779859845dc3398ac9d5590daa8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,53 +70,44 @@ subjects:
 - Administração do Porto de Sines
 - Administração dos Portos de Setúbal e Sesimbra
 - Administração dos Portos do Douro e Leixões
-- Metropolitano de Lisboa
 - ALTO Comissário para a Igualdade e a Família
 - ALTO Comissário para a Imigração e Minorias Étnicas
+- ANA
 - ANAM
-- Região Autónoma
 - Auditoria Ambiental
-- Sociedade Anónima
+- Auditoria Jurídica
 - Brisa
 - Carris
-- Ministério da Defesa Nacional
-- Instituto Nacional de Estatística
+- Centro de Estudos e Formação Autárquica
 - Centro Nacional de Informação Geográfica
-- Ministério do Trabalho e da Solidariedade
 - Comissão de Apoio à Reestruturação do Equipamento e da Administração do Território
 - Comissão de Coordenação da Região Centro
 - Comissão de Coordenação da Região de Lisboa e VALE do TEJO
+- Comissão de Coordenação da Região do Alentejo
 - Comissão de Coordenação da Região do Algarve
 - Comissão de Coordenação da Região Norte
-- Comissão de Coordenação da Região do Alentejo
-- Ministro do Ambiente e do Ordenamento do Território
+- Comissão de Coordenação Regional
 - Comissão de Empresas-administração
-- Ministério da Administração Interna
 - Comissão de Observação e Acompanhamento de Concursos para Cargos Dirigentes
 - Comissão de Planeamento das Comunicações de Emergência
 - Comissão de Planeamento do Transporte Aéreo de Emergência
 - Comissão de Planeamento do Transporte Marítimo de Emergência
 - Comissão de Planeamento dos Transportes Terrestres de Emergência
 - Comissão Económica para a Europa
-- Conselho Nacional da Família
 - Comissão Nacional para a Cooperação com o Comité de Habitação e Planifícação da Comissão Económica para a Europa
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Comissão Permanente para o Desenvolvimento do Transporte Combinado
-- Ministro da Economia
+- Comissão Permanente para Segurança de Pessoas e BENS nas Obras e Exploração das Travessias do TEJO em Lisboa
 - Competência Própria
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Conselho de Coordenação das Políticas Sociais
 - Conselho de Coordenação para os Assuntos Económicos
-- Ministério da Educação
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos da Cooperação
 - Conselho de Ministros para os Assuntos da União Europeia
 - Conselho de Saúde e Segurança no Trabalho para a Administração Pública
-- Ministro do Trabalho e da Solidariedade
+- Conselho Nacional da Família
 - Conselho para a Qualidade nos Serviços Públicos
-- Ministério da Reforma do Estado e da Administração Pública
+- Conselho Superior da Administração e da Função Pública
 - Conselho Superior de Acção Social Complementar
 - Conselho Superior de Obras Públicas e Transportes
 - Costagest
@@ -124,143 +115,152 @@ subjects:
 - CTT
 - Definição de Competências
 - Delegação de Competências
-- Instituto Nacional de Aviação Civil
+- Departamento de Prospectiva e Planeamento
 - Direção Geral das Autarquias Locais
+- Direcção Geral da Administração Pública
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Direcção Geral dos Edifícios e Monumentos Nacionais
 - Direcção Geral dos Transportes Terrestres
 - Direcção Regional da Administração Autárquica
-- Comissão de Coordenação Regional
 - Direcção Regional do Ordenamento do Território
 - Dragapor-dragagens de Portugal
 - EDIA
+- Empresa de Silos Portuários
 - Empresa Pública
 - Escola Náutica Infante Dom Henrique
-- INA
 - Fórum Cidadãos-administração
-- Portugal Telecom
-- Secretaria Geral
-- Ministério da Economia
 - Gabinete da Travessia do TEJO em Lisboa
 - Gabinete de Coordenação do Investimento e do Financiamento
-- Ministério do Equipamento do Planeamento e da Administração do Território
 - Gabinete para os Assuntos Europeus e Relações Externas
 - Gestão Orçamental
 - Governo XIV
-- Ministro da Justiça
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
-- Secretário de Estado do Turismo
-- Ministro Adjunto do Primeiro-ministro
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Secretário de Estado Adjunto do Ministro da Justiça
-- Secretário de Estado Adjunto e das Obras Públicas
-- Ministério da Cultura
-- Ministério das Finanças
-- Secretário de Estado da Cultura
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministério da Justiça
-- Ministro da Cultura
-- Ministro das Finanças
-- Ministro de Estado
-- Primeiro-ministro
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Saúde
-- Secretário de Estado dos Transportes
-- Instituto das Comunicações de Portugal
-- Instituto para a Construção Rodoviária
-- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Imoppi
+- INA
 - Inspecção Geral da Administração do Território
-- Instituto Marítimo-portuário
-- Instituto Nacional de Habitação
 - Inspecção Geral da Administração Pública
 - Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Instituto das Comunicações de Portugal
+- Instituto das Estradas de Portugal
 - Instituto de Gestão da BASE de Dados dos Recursos Humanos da Administração Pública
-- Imoppi
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto de Meteorologia
+- Instituto de Navegabilidade do Douro
+- Instituto Marítimo-portuário
+- Instituto Nacional de Aviação Civil
+- Instituto Nacional de Estatística
+- Instituto Nacional de Habitação
 - Instituto Nacional do Transporte Ferroviário
 - Instituto para a Conservação e Exploração da REDE Rodoviária
-- Instituto Portuário do Norte
-- Instituto de Navegabilidade do Douro
+- Instituto para a Construção Rodoviária
+- Instituto para a Gestão das Lojas do Cidadão
 - Instituto Portuário do Centro
+- Instituto Portuário do Norte
 - Instituto Portuário do SUL
 - Instituto Português de Cartografia e Cadastro
-- Instituto das Estradas de Portugal
 - Laboratório Nacional de Engenharia Civil
-- Santa Casa da Misericórdia
+- Metro do Porto
+- Metropolitano de Lisboa
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério da Ciência e da Tecnologia
-- Auditoria Jurídica
-- Secretário de Estado da Justiça
-- Conselho Superior da Administração e da Função Pública
-- Departamento de Prospectiva e Planeamento
-- Direcção Geral da Administração Pública
-- Direcção Geral do Desenvolvimento Regional
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Reforma do Estado e da Administração Pública
+- Ministério da Saúde
+- Ministério das Finanças
 - Ministério do Ambiente
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Secretário de Estado do Ambiente
+- Ministério do Ambiente e do Ordenamento do Território
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Ministério do Equipamento Social
 - Ministério do Planeamento
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
-- Secretário de Estado do Desporto
+- Ministério do Trabalho e da Solidariedade
+- Ministério dos Negócios Estrangeiros
+- Ministro Adjunto do Primeiro-ministro
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
 - Ministro da Reforma do Estado e da Administração Pública
-- Centro de Estudos e Formação Autárquica
-- Instituto para a Gestão das Lojas do Cidadão
+- Ministro da Saúde
+- Ministro das Finanças
+- Ministro de Estado
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Ministro para a Igualdade
 - Naer-Novo Aeroporto
 - NAV
 - OBRA Social
-- OSMOP
 - Orgânica
+- OSMOP
 - Parque EXPO 98
-- Comissão Permanente para Segurança de Pessoas e BENS nas Obras e Exploração das Travessias do TEJO em Lisboa
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Profap
+- Portugal Telecom
 - Presidência do Conselho de Ministros
-- ANA
-- Ministério da Saúde
+- Primeiro-ministro
+- Profap
 - Refer
+- Região Autónoma
 - RIMA
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Secretariado para a Modernização Administrativa
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro da Economia
+- Secretário de Estado Adjunto do Ministro da Justiça
 - Secretário de Estado Adjunto do Ministro do Planeamento
 - Secretário de Estado Adjunto do Ministro do Trabalho e da Solidariedade
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado Adjunto e das Obras Públicas
 - Secretário de Estado da Administração Educativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Marítima e Portuária
 - Secretário de Estado da Administração Pública e Modernização Administrativa
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
 - Secretário de Estado da Defesa Nacional
+- Secretário de Estado da Educação
 - Secretário de Estado da Habitação
 - Secretário de Estado da Indústria e Energia
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Pescas
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Comércio e Serviços
 - Secretário de Estado do Desenvolvimento Rural
+- Secretário de Estado do Desporto
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
-- Ministério do Ambiente e do Ordenamento do Território
+- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
 - Secretário de Estado do Planeamento
+- Secretário de Estado do Tesouro e das Finanças
 - Secretário de Estado do Trabalho e Formação
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
 - Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar
 - Secretário de Estado dos Negócios Estrangeiros
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Recursos Humanos e da Modernização da Saúde
+- Secretário de Estado dos Transportes
 - Secretário de Estado para a Defesa do Consumidor
-- Ministro da Administração Interna
-- Empresa de Silos Portuários
+- Secretário de Estado para os Assuntos Europeus
+- Sociedade Anónima
 - Sociedade de Transportes Colectivos do Porto
-- Metro do Porto
 - STCP
 - Substituição de Cargos
 - TAP
@@ -270,20 +270,70 @@ relationships:
   target: pt:dre:125234992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Alterados os arts. 2º, 6º, 7º, 8º, 9º, 15º, 16º, 17º, 18º, 19º(transição da Comissão para a Igualdade no Trabalho\
+    \ e no Emprego e do Observatório para a Integração das Pessoas Portadoras de Deficiência, integrados na PCM, para o Ministério\
+    \ do Trabalho e da Solidariedade), 22º, 25º(transição do Centro de Estudos e Formação Autárquica, da Direcção-Geral das\
+    \ Autarquias Locais e da Inspecção-Geral da Administração do Território, integrados na PCM, para o Ministério do Ambiente\
+    \ e do Ordenamento do Território), 33º, 34º, e 37º; conferida nova designação ao cap. II - que passa a designar-se \"\
+    Do Conselho de Ministros\"; aditados os arts. 28º-A e 33º-A; e revogados os arts. 10º, 11º, 12º, 35º, e 36º pelo DEC LEI.267-A/2000.2000.10.20.PCM\
+    \ DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:164210:por
+  label: "Alterados os arts. 2º, 6º, 8º, 14º, 19º e 28º-A pelo DEC LEI.116/2001.2001.04.17.PCM,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2001-164210
+  date: '2001-04-17'
+- type: amended_by
+  target: pt:dre:642555:por
+  label: "Alterados os arts. 2º e 6º (ambos na redacção dos Dec Lei 267-A/2000 de 20-Out e 116/2001 de 17-Abr), 9º, 15º, 17º\
+    \ e 18º (todos na redacção do Dec Lei 267-A/2000 de 20-Out), 19º (este último na redacção dos Dec Lei 267-A/2000 de 20-Out\
+    \ e 116/2001 de 17-Abr), 23º, 24º e 26º e Repristinado com nova redacção o art. 12º, pelo DEC LEI.247/2001.2001.09.18.PCM,\
+    \ DR.IS-A [217]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2001-642555
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:273419:por
+  label: "Aditado o art. 37º ao presente diploma, alterado pelo Dec Lei 267-A/2000, de 20-Out, pelo Dec Lei 116/2001, de 17-Abr\
+    \ e pelo Dec Lei 247/2001, de 18-Set, pelo DEC LEI.24/2002.2002.02.11.PCM, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2002-273419
+  date: '2002-02-11'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Substituida a estrutura orgânica constante do presente diploma, pelo DEC LEI.120/2002.2002.05.03.PCM, DR.IS-A [102]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:125234992:por
+  label: Revogado, a partir de 01.01.2020, o Dec Lei 202/94 de 23-jul, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 151/2019 - Diário da República n.º 196/2019, Série I de 2019-10-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2019-125234992
+  date: '2019-10-11'
 article_structure:
   article_count: 44
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:33Z'
   warnings: []
   errors: []
 ---
@@ -422,11 +472,11 @@ c) Inspecção-Geral da Administração do Território.
 
 ###### Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
 
 ###### Artigo 8.º
 
-**O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.**
+O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 ###### Artigo 9.º
 
@@ -446,7 +496,7 @@ c) Inspecção-Geral da Administração do Território.
 
 ###### Artigo 11.º
 
-**O Ministro para a Igualdade exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.**
+O Ministro para a Igualdade exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 ###### Artigo 12.º
 
@@ -870,12 +920,12 @@ O presente diploma produz efeitos a contar de 25 de Outubro de 1999.
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Guilherme Waldemar Pereira d'Oliveira Martins - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Armando António Martins Vara.
 
-**Promulgado em 5 de Novembro de 1999.**
+Promulgado em 5 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Novembro de 1999.**
+Referendado em 5 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/77/2008/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/77-2008-452894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17bb3f0bf06be6d3677a4a75f891333ff5a3f39aa053579934299aa3e7c017c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c932bf910257a1719a81773c73bcc6a66e1ecd81e09ae1973191966cb6283ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519615:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:44Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +99,12 @@ validation:
 
 de 9 de Outubro
 
-**O Presidente da República decreta, nos termos do n.º 4 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 4 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:
 
 É confirmada a exoneração do cargo de Comandante Naval do Vice-Almirante Fernando Manuel de Oliveira Vargas de Matos, efectuada por despacho do Ministro da Defesa Nacional de 29 de Setembro de 2008, com efeitos a partir de 9 de Outubro de 2008.
 
-**Assinado em 2 de Outubro de 2008.**
+Assinado em 2 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126-b/2025/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2025-964514221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4b235f19d7d1c5cedbfa779a33f2fca5304d3599444e821243dc6223083cd47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f19f39e548eeebb3c6ff71219b0d6c661b0d44b0798af82874fb360e899783c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,29 @@ reuse:
 subjects:
 - Agrupamento Complementar de Empresas
 - Agrupamento Europeu de Interesse Económico
-- Empresa
-- Sociedade Comercial
-- Contabilidade
-- Multa
-- Comissão de Normalização Contabilística
-- Definição de Competências
-- Empresa Pública
-- União Europeia
-- Cooperativa
 - Banco de Portugal
+- CMVM
+- Comissão de Normalização Contabilística
+- Contabilidade
+- Cooperativa
+- Definição de Competências
+- Empresa
+- Empresa Pública
 - Ilícito de MERA Ordenação Social
-- Sistema de Normalização Contabilística
+- Multa
+- Normalização
 - Normas Internacionais de Contabilidade
 - Prestação de Contas
-- CMVM
-- Normalização
+- Sistema de Normalização Contabilística
+- Sociedade Comercial
+- União Europeia
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:158/2009
+  label: Altera, a partir de 6 de dezembro de 2025 e nos termos do artigo 3.º, os artigos 9.º e 9.º-B do Decreto-Lei n.º 158/2009,
+    de 13 de julho, Diário da República n.º 133/2009, Série I
+  source: null
+  date: '2009-07-13'
 - type: cites
   target: celex:32013L0034
   label: null
@@ -97,6 +103,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/158/2009/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/2009/07/13/p/dre
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32013L0034
   label: null
@@ -106,15 +120,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:17Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +187,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 9.º-B — Grupos
+Artigo 9.º-B
+
+Grupos
 
 1 - [...]
 
@@ -203,12 +219,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e a
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento.
 
-**Promulgado em 4 de dezembro de 2025.**
+Promulgado em 4 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2025.**
+Referendado em 4 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119853371

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2013/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2013-498680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1de32d6c9cf75d89350bf0c4b1bfaf43ddd68ec158cfc48357705f245ad0e90c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ef5b9112e64059e76a0f44b7366a98d23d2f856f70e6b03b552d23066c15370
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Conselho de Administração
-- Fundação
+- Conselho de Curadores
 - Conselho Executivo
 - Definição de Competências
 - Estatuto
+- Fiscal Único
 - FLAD
+- Fundação
 - Lisboa
-- Conselho de Curadores
 - Utilidade Pública
 relationships:
 - type: cites
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/2012/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/2012/07/09/p/dre
+- type: cites
+  target: pt:dre:151525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 20
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:26Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +154,9 @@ Os artigos 2.º, 7.º a 9.º e 11.º a 14.º dos Estatutos da Fundação Luso-Am
 
 2 - A sede da Fundação é na Rua Sacramento à Lapa, n.º 21, em Lisboa.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]:
 
@@ -146,7 +168,9 @@ c) O conselho de curadores;
 
 d) O fiscal único.
 
-###### Artigo 8.º — Conselho de administração
+Artigo 8.º
+
+Conselho de administração
 
 1 - O conselho de administração é composto por três a cinco membros, sendo um escolhido pelo Primeiro-Ministro, que será o presidente do conselho de administração, e os demais pelo conselho de curadores.
 
@@ -186,7 +210,9 @@ i) Decidir sobre quaisquer outras matérias que respeitem à atividade da Funda�
 
 10 - [Revogado].
 
-###### Artigo 9.º — Conselho executivo
+Artigo 9.º
+
+Conselho executivo
 
 1 - O conselho executivo é constituído por três membros designados por despacho do Primeiro-Ministro de entre os membros do conselho de administração.
 
@@ -220,7 +246,9 @@ g) Praticar todos os atos necessários ao cumprimento dos deveres de transparên
 
 9 - [Revogado].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A Fundação obriga-se:
 
@@ -230,7 +258,9 @@ b) Pelas assinaturas conjuntas de dois membros do conselho executivo, um dos qua
 
 c) Pela assinatura de um mandatário legalmente constituído pelo conselho de administração, no âmbito dos poderes constantes da procuração.
 
-###### Artigo 12.º — Conselho de curadores
+Artigo 12.º
+
+Conselho de curadores
 
 1 - O conselho de curadores é constituído por cinco a sete membros, designados por despacho do Primeiro-Ministro de entre individualidades de mérito reconhecido e com competência em domínios adequados aos fins da Fundação.
 
@@ -272,13 +302,17 @@ d) Definir o estatuto remuneratório e demais subvenções dos membros do consel
 
 e) Definir o valor das subvenções de transporte e alojamento dos seus próprios membros, através de uma comissão composta por três curadores.
 
-###### Artigo 13.º — Fiscal único
+Artigo 13.º
+
+Fiscal único
 
 1 - A fiscalização da Fundação é exercida por um fiscal único, designado pelo conselho de administração sob proposta do conselho executivo, tendo um mandato de três anos.
 
 2 - O fiscal único pode ser um revisor oficial de contas, uma sociedade de revisores oficiais de contas ou uma empresa de auditoria.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Governo Português, por sua iniciativa ou sob proposta do conselho de administração, ouvido neste caso o conselho de curadores, poderá deliberar sobre a modificação dos presentes estatutos ou sobre a transformação ou extinção da Fundação.
 
@@ -306,15 +340,15 @@ São republicados, em anexo ao presente decreto-lei, do qual faz parte integrant
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo Sacadura Cabral Portas.
 
-**Promulgado em 29 de julho de 2013.**
+Promulgado em 29 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de julho de 2013.**
+Referendado em 29 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/160a00/31403142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2000/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2000-319936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac2f3aea1f49dd08c4dacd768242d476587b2f9bd472bff6b8f0eee7f4a0f358
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52336bbe8a7b94b6505596757e6d42515be17f90a7c95016922d4612f779f67a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Brisa
 - Compensação Financeira
-- Auto-estrada
-- Veículo
 - Portagem
 - Taxa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:197511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532458:por
+  label: "Alterado o art. 2º pelo DEC LEI.254/2000.2000.10.17.MES,DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2000-532458
+  date: '2000-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre
+- type: cites
+  target: pt:dre:671934:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197511:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 254/2000 de 17-Out, pela LEI.53-A/2006.29.12.2006.AR, DR.IS\
+    \ [249-Supl] de 29.12.2006, nos termos dos nºs 1 e 2 do art. 138º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:09Z'
   warnings: []
   errors: []
 ---
@@ -152,15 +167,15 @@ c) O pagamento pelo utilizador apenas da parte do preço da tarifa por si devida
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2000. - António Manuel de Oliveira Guterres. - Jorge Paulo Sacadura Almeida Coelho. - Joaquim Augusto Nunes Pina Moura. - Joaquim Augusto Nunes Pina Moura. - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 30 de Junho de 2000.**
+Promulgado em 30 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2000.**
+Referendado em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 

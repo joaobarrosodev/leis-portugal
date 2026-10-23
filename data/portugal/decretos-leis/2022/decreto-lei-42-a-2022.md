@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30
   number: '125'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 32-(2) a 32-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12501/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42-a/2022/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaa198ea2324fd1b1d86598313e6501fd56dc3b9df5cc10e15c1d4209331b80a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f50d151f0722f924ffae6a88745fd590b2f75d7ca184f2fe31b44a4f2510a160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,84 +65,84 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Abastecimento de BENS Essenciais
+- Ação Social
 - Ação Social Escolar
 - Análises Clínicas
-- Instituto da Segurança Social
-- Protecção à Família
-- Gás Natural
+- Apoio Extraordinário ao Rendimento dos Trabalhadores
 - Aproximação das Legislações
+- Aquicultura
 - Aquisição de Bens e Serviços
-- Financiamento
-- Empresa
-- Energia Elétrica
-- Ordenamento do Território
-- Direção Geral da Saúde
+- Código dos Contratos Públicos
 - Compensação Financeira
-- Serviço de Telecomunicações Móveis
+- Comunicações
 - Conflito de Consumo
 - Contrato
-- Educação
-- Recursos Hídricos
+- Crédito Bancário
+- Dados Pessoais
+- Direção Geral da Saúde
 - Direito de Regresso
 - Documentação
-- Saúde Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Ação Social
+- Documento Eletrónico
+- Doença
+- Doença Infecciosa
+- Educação
+- Empresa
+- Energia Elétrica
+- Ensino Básico
+- Epidemia
+- Equipamento de Proteção
+- Estabelecimento de Ensino
+- Faltas
+- Financiamento
 - Frequência Escolar
-- IPSS
 - Garantia Bancária
-- Pagamento
+- Gás Natural
 - Informação
+- Instituição Financeira
 - Instituição Financeira de Crédito
+- Instituto da Segurança Social
+- IPSS
 - JURO de MORA
 - Juros
 - Licenciamento
-- Faltas
-- Pagamento em Atraso
 - Manual Escolar
-- Documento Eletrónico
 - Meios Complementares de Diagnóstico
-- Crédito Bancário
 - Moratória
-- Aquicultura
 - Operações de Emprestimo
 - Operador Económico
-- Passe Social
-- Doença Infecciosa
-- Epidemia
-- Código dos Contratos Públicos
-- Prazo
-- Estabelecimento de Ensino
-- Prestação de Serviços
-- Ensino Básico
-- Prorrogação de Prazo
+- Ordenamento do Território
+- Pagamento
+- Pagamento em Atraso
 - Parentalidade
-- Proteção do Consumidor
-- Proteção Social
-- Comunicações
-- Reembolso
+- Passe Jovem
+- Passe Social
 - Pequenas e Médias Empresas
 - PME
+- Política de Saúde
+- Prazo
+- Prestação de Serviços
+- Prorrogação de Prazo
+- Proteção do Consumidor
+- Proteção Social
+- Protecção à Família
+- Recursos Hídricos
+- Reembolso
 - Remuneração
 - Saldos
-- Doença
+- Saúde Pública
 - Serviço de Telecomunicações Fixas
-- Dados Pessoais
-- Instituição Financeira
-- Abastecimento de Água
+- Serviço de Telecomunicações Móveis
+- Serviço Nacional de Saúde
+- Situação de Calamidade
 - Sociedade Financeira Portuguesa
 - Subsídio de Apoio Social
 - Subsídio de Doença
+- Suspensão de Prazo
 - Transmissão de Títulos
 - Transporte de Passageiros
 - Transporte Público
-- Suspensão de Prazo
-- Passe Jovem
-- Equipamento de Proteção
-- Situação de Calamidade
-- Apoio Extraordinário ao Rendimento dos Trabalhadores
 relationships:
 - type: cites
   target: celex:32014L0023
@@ -204,20 +204,76 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127764896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159707135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159869157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185224662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66727183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75158990:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0055
   label: null
   source: null
 article_structure:
-  article_count: 18
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:14Z'
   warnings: []
   errors: []
 ---
@@ -334,7 +390,9 @@ b) Até 31 de dezembro de 2023, no caso da sua validade ter expirado em 2021 ou 
 
 12 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +412,9 @@ b) Até 31 de dezembro de 2023, no caso da sua validade ter expirado em 2021 ou 
 
 9 - Os documentos referidos no número anterior continuam a ser aceites, nos mesmos termos, após 31 de dezembro de 2022, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
 
-###### Artigo 37.º-A — [...]
+Artigo 37.º-A
+
+[...]
 
 1 - ...
 
@@ -378,7 +438,9 @@ Os artigos 2.º a 5.º, 6.º-B e 6.º-C do [Decreto-Lei n.º 14-C/2020](https://
 
 4 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -388,19 +450,25 @@ Os artigos 2.º a 5.º, 6.º-B e 6.º-C do [Decreto-Lei n.º 14-C/2020](https://
 
 4 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As verbas destinadas ao PROTransP em 2020, 2021 e 2022 podem, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente, ser utilizadas para o financiamento de serviços de transporte público considerados como serviços essenciais.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As compensações relativas à venda do passe 4_18@escola.tp, do passe sub23@superior.tp e do passe Social+, referentes ao segundo, terceiro e quarto trimestre de 2020, ao ano de 2021 e ao de 2022, são pagas aos operadores de transporte com base no histórico de compensações dos meses homólogos de 2019.
 
 2 - ...
 
-###### Artigo 6.º-B — [...]
+Artigo 6.º-B
+
+[...]
 
 ...
 
@@ -418,7 +486,9 @@ b) Para efeitos do disposto no n.º 6 do artigo 6.º, a devolução dos montante
 
 c) Para efeitos do disposto no n.º 7 do artigo 6.º, a AMT valida os montantes objeto de devolução ou acerto com base em informação remetida pelos operadores e entidades públicas até 15 de julho de 2023.
 
-###### Artigo 6.º-C — [...]
+Artigo 6.º-C
+
+[...]
 
 Sem prejuízo dos efeitos previstos no artigo anterior, o presente decreto-lei vigora até 31 de dezembro de 2022.»
 
@@ -466,12 +536,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de junho de 2022. - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Fernando Medina Maciel Almeida Correia - António de Oliveira Leite - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - José Duarte Piteira Rica Silvestre Cordeiro - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 30 de junho de 2022.**
+Promulgado em 30 de junho de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de junho de 2022.**
+Referendado em 30 de junho de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115474113

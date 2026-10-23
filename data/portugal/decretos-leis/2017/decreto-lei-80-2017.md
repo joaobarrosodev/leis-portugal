@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/12500/0331503338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2017/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d56f8ffaa01fa9d355ba88cd2031a08763b6ec46fe647fa9620604a41848052b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d532f35675c92b128dfbcd7c9eac7222f9774f6d9f84871b37fd7ac4aa56df8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,56 +66,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo no Espaço Rural
+- Açores
+- Agro-turismo
+- Aldeamento Turístico
 - Alvará
 - Animação Ambiental
 - Apartamento Turístico
-- Livro de Reclamações
-- Garantia
+- ASAE
+- Câmara Municipal
 - Campo de Golfe
-- Estabelecimento de Jogos
-- Turismo
-- Multa
-- Estabelecimento Comercial
-- Reserva Ecológica Nacional
+- CASA de Campo
+- Conjunto Turístico
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Consumidor
 - Embargo
 - Enatur
+- Estabelecimento Comercial
+- Estabelecimento de Jogos
 - Estabelecimento de Restauração
 - Estabelecimento Hoteleiro
-- Segurança Pública
+- Estabelecimento Termal
 - Fiscalização
+- Garantia
+- Hotel Rural
+- Infraestrutura Turística
 - Instituto de Turismo de Portugal
-- ASAE
 - Licenciamento
 - Licenciamento de Obras
+- Livro de Reclamações
+- Madeira.região Autónoma
 - Marina
 - Moradia Turística
-- Aldeamento Turístico
+- Multa
+- Parque de Campismo Rural
 - Prestação de Serviços
-- Madeira.região Autónoma
-- Câmara Municipal
 - Regime Jurídico
 - Registo Nacional de Empreendimentos Turísticos
-- Conjunto Turístico
-- Açores
+- Reserva Ecológica Nacional
+- Segurança Pública
 - Taxa
-- Estabelecimento Termal
-- Agro-turismo
-- CASA de Campo
-- Hotel Rural
-- Parque de Campismo Rural
+- Turismo
 - Turismo de Aldeia
 - Turismo de Habitação
+- Turismo no Espaço Rural
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 67.º, 69.º-A e 71.º e revogados o n.º 1 do art. 67.º e o art. 69.º do
+    Dec Lei 39/2008 de 07-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República
+    n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163/2006/08/08/p/dre
   label: null
@@ -156,16 +163,224 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/327/2008/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/327/2008/04/28/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70386134:por
+  label: null
+  source: null
 article_structure:
-  article_count: 116
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 97
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:20Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +431,9 @@ Os artigos 4.º,5.º,9.º, 11.º, 18.º, 19.º, 21.º, 23.º, 25.º, 26.º,30.º
 
 3 - As tipologias de empreendimentos turísticos identificados no n.º 1 podem ser reconhecidas como turismo de natureza, nos termos do artigo 20.º, ou associadas a marcas nacionais, como o sistema nacional de áreas classificadas (SNAC) ou o natural.pt.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A instalação de empreendimentos turísticos deve cumprir as normas constantes do regime jurídico da urbanização e edificação, bem como as normas técnicas de construção aplicáveis às edificações em geral, designadamente em matéria de segurança contra incêndio, saúde, higiene, ruído e eficiência energética, sem prejuízo do disposto no presente decreto-lei e respetiva regulamentação.
 
@@ -228,13 +445,17 @@ Os artigos 4.º,5.º,9.º, 11.º, 18.º, 19.º, 21.º, 23.º, 25.º, 26.º,30.º
 
 5 - [Revogado].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Nas piscinas de empreendimentos turísticos, quando utilizadas exclusivamente pelos seus hóspedes e convidados, tem de ser assegurada vigilância e mantido disponível material e equipamento de informação e salvamento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -246,7 +467,9 @@ b) Hotéis-apartamentos (aparthotéis), quando a maioria das unidades de alojame
 
 c) [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -266,7 +489,9 @@ c) [...].
 
 9 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - São parques de campismo e de caravanismo os empreendimentos instalados em terrenos devidamente delimitados e dotados de estruturas destinadas a permitir a instalação de tendas, reboques, caravanas, autocaravanas ou outras instalações de alojamento amovível e demais material e equipamento necessários à prática do campismo e do caravanismo.
 
@@ -276,7 +501,9 @@ c) [...].
 
 4 - Nos parques de campismo e de caravanismo podem existir instalações destinadas a alojamento, nomeadamente bungalows, mobile homes, glamping, e realidades afins, na proporção e nos termos a regulamentar na portaria prevista na alínea b) do n.º 2 do artigo 4.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [Revogado].
 
@@ -294,7 +521,9 @@ d) Enquadrar nas tipologias de empreendimentos turísticos novas realidades de a
 
 4 - Para efeitos da instalação de empreendimentos turísticos, os contratos que tenham por objeto a elaboração de um projeto de plano, sua alteração ou revisão, previsto no n.º 2 do artigo 6.º e no artigo 79.º do regime jurídico dos instrumentos de gestão territorial, podem ser celebrados também com o Turismo de Portugal, I. P., e com as demais entidades públicas representativas de interesses a ponderar no procedimento relativo ao futuro plano.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -312,13 +541,17 @@ d) Enquadrar nas tipologias de empreendimentos turísticos novas realidades de a
 
 8 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Qualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalar um empreendimento turístico e quais as respetivas condicionantes urbanísticas, nos termos previstos no regime jurídico da urbanização e edificação.
 
 2 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Qualquer interessado pode requerer ao Turismo de Portugal, I. P., a emissão de parecer relativamente:
 
@@ -336,7 +569,9 @@ b) Ao pedido de informação prévia, à admissão de comunicação prévia ou d
 
 6 - As câmaras municipais notificam o Turismo de Portugal, I. P., através da plataforma eletrónica prevista no artigo 74.º dos pedidos a que se refere o n.º 1 do presente artigo e respetiva decisão, acompanhado do projeto de arquitetura, quando aplicável.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Concluída a obra, o interessado requer a concessão de autorização de utilização para fins turísticos, nos termos do artigo 62.º e seguintes do regime jurídico da urbanização e edificação, com as especificidades previstas na presente secção.
 
@@ -360,7 +595,9 @@ b) Ao pedido de informação prévia, à admissão de comunicação prévia ou d
 
 11 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 [...]:
 
@@ -370,7 +607,9 @@ b) Comprovativos de ter efetuado a comunicação prevista no n.º 1 do artigo an
 
 c) [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Os empreendimentos turísticos referidos nas alíneas a) a c) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º, classificam-se nas categorias de uma a cinco estrelas, atendendo à qualidade do serviço e das instalações, de acordo com os requisitos a definir pela portaria prevista na alínea a) do n.º 2 do artigo 4.º
 
@@ -378,7 +617,9 @@ c) [...].
 
 3 - A portaria a que se refere o n.º 1 distingue entre os requisitos mínimos e os requisitos opcionais, cujo somatório permite alcançar a pontuação necessária para a obtenção de determinada classificação.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]:
 
@@ -472,7 +713,9 @@ Comunicação prévia com prazo
 
 5 - Quando o presidente da câmara municipal defira o pedido ou não se pronuncie no prazo previsto no n.º 2 ou no n.º 3, consoante o caso, o interessado pode dar início às obras, efetuando previamente o pagamento das taxas devidas através de autoliquidação.
 
-###### Artigo 25.º-A — Pedido de informação prévia em solo rústico
+Artigo 25.º-A
+
+Pedido de informação prévia em solo rústico
 
 1 - Qualquer interessado pode pedir à câmara municipal, a título prévio, informação sobre a viabilidade de determinada operação urbanística de que dependa a instalação de empreendimento turístico em solo rústico, bem como sobre os respetivos condicionamentos legais ou regulamentares, nomeadamente relativos a infraestruturas, servidões administrativas e restrições de utilidade pública, índices urbanísticos, cérceas, afastamentos e demais parâmetros aplicáveis à pretensão, com os efeitos previstos no presente artigo.
 
@@ -516,7 +759,9 @@ f) Quando a edificação esteja abrangida por operação de loteamento, indicaç
 
 g) Elementos desenhados, nomeadamente incluindo plantas à escala 1:1000 ou superior que caraterizem a intervenção pretendida definindo a volumetria, alinhamento, altura da fachada e implantação da edificação e das construções anexas.
 
-###### Artigo 25.º-B — Procedimento
+Artigo 25.º-B
+
+Procedimento
 
 1 - O presente artigo estabelece um procedimento específico de pedido de informação prévia em solo rústico ou parcialmente rústico, o qual não altera as condições materiais de decisão subjacentes à viabilidade do pedido.
 
@@ -540,7 +785,9 @@ g) Elementos desenhados, nomeadamente incluindo plantas à escala 1:1000 ou supe
 
 11 - A existência de pareceres ou posições desfavoráveis de natureza não vinculativa não obsta a uma decisão final favorável.
 
-###### Artigo 25.º-C — Decisão
+Artigo 25.º-C
+
+Decisão
 
 1 - A câmara municipal comunica a decisão relativa ao pedido de informação prévia no prazo de 60 dias contados a partir da data da receção do pedido de informação prévia, ou dos elementos solicitados para completar ou corrigir o pedido, podendo decidir desfavoravelmente à viabilidade do empreendimento turístico.
 
@@ -560,7 +807,9 @@ b) No prazo máximo de 180 dias, os atos administrativos e as operações materi
 
 7 - Decorrido o prazo fixado no número anterior, o particular pode requerer ao presidente da câmara municipal informação confirmativa de que se mantêm os pressupostos de facto e de direito que levaram à decisão favorável, devendo o mesmo decidir no prazo de 20 dias e, em caso afirmativo ou de ausência de resposta no termo do referido prazo, reinicia-se novo prazo de um ano para apresentar os pedidos de comunicação prévia ou de licenciamento.
 
-###### Artigo 29.º-A — Procedimento
+Artigo 29.º-A
+
+Procedimento
 
 1 - Após a realização das obras referidas no artigo anterior e, caso seja necessária a alteração de uso para fins turísticos, aplica-se o regime previsto no presente artigo.
 
@@ -576,13 +825,17 @@ c) Termo de responsabilidade subscrito pelo diretor da obra ou diretor da fiscal
 
 4 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com as normas aplicáveis, o subscritor do termo de responsabilidade a que se refere a alínea c) do n.º 2 responde solidariamente com a entidade exploradora do empreendimento pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
 
-###### Artigo 31.º-A — Comunicação de abertura em caso de ausência de emissão de autorização de utilização para fins turísticos
+Artigo 31.º-A
+
+Comunicação de abertura em caso de ausência de emissão de autorização de utilização para fins turísticos
 
 1 - Decorridos os prazos previstos no n.º 3 do artigo 30.º sem que tenha sido proferida decisão expressa ou emitido o alvará de autorização de utilização para fins turísticos, o interessado pode comunicar à câmara municipal, com conhecimento ao Turismo de Portugal, I. P., a sua decisão de abrir ao público.
 
 2 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com o projeto aprovado, os subscritores dos termos de responsabilidade entregues na câmara municipal respondem solidariamente com a entidade exploradora do empreendimento, pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
 
-###### Artigo 42.º-A — Divulgação e comercialização
+Artigo 42.º-A
+
+Divulgação e comercialização
 
 As plataformas eletrónicas que disponibilizem, divulguem ou comercializem alojamento nos termos do n.º 1 e da alínea b) do n.º 2 do artigo 2.º, devem exigir e exibir na plataforma o respetivo número de Registo Nacional de Turismo.»
 
@@ -618,15 +871,15 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2017.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Amândio José de Oliveira Torres.
 
-**Promulgado em 28 de junho de 2017.**
+Promulgado em 28 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de junho de 2017.**
+Referendado em 29 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -1148,7 +1401,9 @@ c) Termo de responsabilidade subscrito pelo diretor da obra ou diretor da fiscal
 
 2 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com o projeto aprovado, os subscritores dos termos de responsabilidade entregues na câmara municipal respondem solidariamente com a entidade exploradora do empreendimento, pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
 
-###### Artigo 32.º — Título de abertura
+###### Artigo 32.º
+
+## Título de abertura
 
 Constitui título válido de abertura do empreendimento qualquer dos seguintes documentos:
 
@@ -1394,7 +1649,9 @@ b) A reserva temporária de parte ou da totalidade do empreendimento turístico.
 
 [Revogado].
 
-###### Artigo 51.º — Livro de reclamações
+###### Artigo 51.º
+
+## Livro de reclamações
 
 1 - Os empreendimentos turísticos devem dispor de livro de reclamações, nos termos e condições estabelecidos na legislação aplicável.
 
@@ -1414,7 +1671,9 @@ b) A reserva temporária de parte ou da totalidade do empreendimento turístico.
 
 Às relações entre os proprietários dos empreendimentos turísticos em propriedade plural é aplicável o disposto no presente decreto-lei e, subsidiariamente, o regime da propriedade horizontal.
 
-###### Artigo 54.º — Título constitutivo
+###### Artigo 54.º
+
+## Título constitutivo
 
 1 - Os empreendimentos turísticos em propriedade plural regem-se por um título constitutivo elaborado e aprovado nos termos do presente decreto-lei.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/04/08000/11371138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-1984-654509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0681eac1c09700ee42debbdf4fede2ca7872115a96df120a248fa1cf8d08bb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed21058e5f441d8fc9fc468205c9fcfa091ed2f13048de51dfdfa0a4def4050d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional dos Desportos
+- Desporto
+- Ministério da Qualidade de VIDA
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:665345:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665345:por
+  label: "Revogada pelo DEC LEI.143/93.1993.04.26.ME DR.IS [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1993-665345
+  date: '1993-04-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:47Z'
   warnings: []
   errors: []
 ---
@@ -166,6 +179,6 @@ n) 1 elemento nomeado pelo Secretário de Estado dos Desportos.
 
 Ministérios da Defesa Nacional, da Educação, do Trabalho e Segurança Social, da Cultura e da Qualidade de Vida.
 
-**Assinada em 2 de Novembro de 1983.**
+Assinada em 2 de Novembro de 1983.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - O Ministro da Educação, José Augusto Seabra. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Ministro da Cultura, António Antero Coimbra Martins. - O Ministro da Qualidade de Vida, António d'Orey Capucho.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto. - O Ministro da Educação, José Augusto Seabra. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Ministro da Cultura, António Antero Coimbra Martins. - O Ministro da Qualidade de Vida, António d'Orey Capucho.

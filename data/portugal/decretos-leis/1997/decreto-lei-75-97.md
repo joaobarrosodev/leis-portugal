@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/1997/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1997-526782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 051fbd23bb0ffaef4b3993410fb7f4ab9d7c1fa389576a6f4cdcdc8da271644a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8ba50c8a6a48a9a19b1df3de6cf0109808a44bb93acfa3ddaebb4bd2d832fde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ subjects:
 - Bacharelato
 - Ensino Cooperativo
 - Ensino Oficial
+- Ensino Superior
 - Exame
 - Licenciatura
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:199778:por
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:57Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +142,15 @@ d) Obter, na nota de candidatura a que se refere o artigo 27.º, a classificaç�
 
 e) Não ser titular de um curso superior.
 
-###### Artigo 12.º — Exames a realizar
+Artigo 12.º
+
+Exames a realizar
 
 1 - Os estudantes que concorram com a titularidade de um dos cursos do ensino secundário a que se refere o [Decreto-Lei n.º 286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto, realizam os exames das disciplinas específicas obrigatoriamente de entre os exames nacionais desse curso constantes do elenco fixado nos termos do artigo 10.2 - Os estudantes que concorram com a titularidade de outro curso de ensino secundário, ou com uma equivalência a um curso de ensino secundário, realizam os exames das disciplinas específicas entre os exames nacionais de qualquer curso de ensino secundário constantes do elenco fixado nos termos do artigo 10.º
 
-###### Artigo 27.º — Nota de candidatura
+Artigo 27.º
+
+Nota de candidatura
 
 1 - A nota de candidatura é uma classificação na escala de 0 a 200, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como uma décima o valor não inferior a 0,05:
 
@@ -170,7 +186,9 @@ P = classificação atribuída ao pré-requisito.
 
 4 - Todos os cálculos intermédios são efectuados sem arredondamento.
 
-###### Artigo 28.º — Classificação do ensino secundário
+Artigo 28.º
+
+Classificação do ensino secundário
 
 1 - Para os cursos de ensino secundário organizados num só ciclo de três anos, S tem o valor da classificação final do curso de ensino secundário com que o estudante se candidata, tal como fixada nos termos da lei e multiplicada por 10.
 
@@ -184,7 +202,9 @@ Sa = classificação final dos 10.º/11.º anos de escolaridade, ou 1.º/2.º an
 
 Sb = classificação final do 12.º ano de escolaridade, calculada nos termos da lei e multiplicada por 10.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 ...
 
@@ -198,7 +218,9 @@ c) Sb, se aplicável.
 
 ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 ...
 
@@ -222,12 +244,12 @@ O presente diploma aplica-se a partir da candidatura à matrícula e inscrição
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 14 de Março de 1997.**
+Promulgado em 14 de Março de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Março de 1997.**
+Referendado em 19 de Março de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

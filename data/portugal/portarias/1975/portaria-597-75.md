@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/597-1975-311785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d014e91f2a141a642501c96fbd5fbb0459590483f59341c3d5d1c4de31a18f65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd7c84327318ed44ca67edb4162fc8d17e447e0a23b252a979fec74c0a23ba8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acesso à Informação
+- Ministério dos Transportes e Comunicações
+- Regulamento
+- Regulamento Arquivistico
 relationships:
 - type: amended_by
   target: pt:dre:252636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:307212:por
+  label: Rectificada a al. c) do n.º 1 do art. 2.º pelo(a) Declaração - Diário do Governo n.º 59/1976, 2º Suplemento, Série
+    I de 1976-03-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-307212
+  date: '1976-03-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:37Z'
   warnings: []
   errors: []
 ---
@@ -289,4 +303,4 @@ A inutilização de documentos será feita por meio de máquinas de destruição
 
 As dúvidas que surjam na aplicação da presente portaria, inclusive as que respeitem a manutenção em arquivo de documentos sem interesse administrativo ou técnico, serão postas à Secretaria-Geral do Ministério, a fim de serem submetidas, com o seu parecer, a despacho ministerial.
 
-**O Ministro dos Transportes e Comunicações, Henrique Manuel Araújo de Oliveira Sá.**
+O Ministro dos Transportes e Comunicações, Henrique Manuel Araújo de Oliveira Sá.

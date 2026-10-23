@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 36/1977, 2º Suplemento, Série I de 1977-02-12
   number: '36'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 224-(6) a 224-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/03602/00060007.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-1977-204401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69a58ce0341cdd93a9e4f6f3f71b4fd06f01a1f85eadc1c740169906d927373
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2683a96fb628b806b1fc3148cefe0a2920630043e44a0df12fef391a26944379
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Importação de Veículos
 relationships:
 - type: amended_by
   target: pt:dre:280188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250833:por
+  label: Alterado o n.º 2.º pelo(a) Portaria n.º 446/77 - Diário da República n.º 166/1977, Série I de 1977-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/446-1977-250833
+  date: '1977-07-20'
+- type: amended_by
+  target: pt:dre:277776:por
+  label: Alterado o n.º 2.º pelo(a) Portaria n.º 670/77 - Diário da República n.º 253/1977, Série I de 1977-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-1977-277776
+  date: '1977-11-02'
+- type: amended_by
+  target: pt:dre:280188:por
+  label: Determinada a cessação da produção de efeitos a partir de 17.02.1978 do presente diploma pelo(a) Portaria n.º 762/77
+    - Diário da República n.º 290/1977, Série I de 1977-12-17, nos termos constantes do seu art. 10.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/762-1977-280188
+  date: '1977-12-17'
+- type: cites
+  target: pt:dre:201864:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:29:40Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +179,4 @@ Dahiatsu ... 4069
 
 (nota 1) Estes valores são os fornecidos à Direcção-Geral de Preços.
 
-**O Ministro do Plano e Coordenação Económica e da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.**
+O Ministro do Plano e Coordenação Económica e da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1978-327872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bae4808017f4e007cafe994a6047f5cd1c88862b69a511ac6824ef44a3bcf67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6de8216ccdaff0d874331c68187833a33d6fa01ce4ce988a924e3117d38f72b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Universitário de Évora
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:567060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353720:por
+  label: "Extinto o curso de licenciatura em Ciências Sociais, criado pelo art. 1.º do presente diploma, pelo DR.75/79.31.12.1979.ME,\
+    \ DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/75-1979-353720
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:567060:por
+  label: "Extintos os cursos de licenciatura em Ciências Agrárias e em Extensão Rural actualmente ministrados na Universidade\
+    \ de Évora e criados pelo presente diploma, pelo DEC.141/81.22.12.1981.MEU, DR.IS [293] de 22.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/141-1981-567060
+  date: '1981-12-22'
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:54Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +117,7 @@ Em cumprimento do disposto no artigo 16.º do [Decreto-Lei n.º 769-B/76](https:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados no Instituto Universitário de Évora os seguintes cursos de licenciatura:
+Artigo 1.º São criados no Instituto Universitário de Évora os seguintes cursos de licenciatura:
 
 a) Em Ciências Agrárias;
 
@@ -114,22 +137,22 @@ Física e Química;
 
 Biologia e Geologia.
 
-###### Art. 2.º Os cursos referidos no artigo anterior iniciar-se-ão por proposta da comissão instaladora do Instituto Universitário de Évora, mediante despacho do Ministro da Educação e Cultura, a publicar no Diário da República, verificadas as necessárias condições de funcionamento.
+Art. 2.º Os cursos referidos no artigo anterior iniciar-se-ão por proposta da comissão instaladora do Instituto Universitário de Évora, mediante despacho do Ministro da Educação e Cultura, a publicar no Diário da República, verificadas as necessárias condições de funcionamento.
 
-###### Art. 3.º Os planos de estudo dos cursos agora criados serão aprovados por despacho do Ministro da Educação e Cultura.
+Art. 3.º Os planos de estudo dos cursos agora criados serão aprovados por despacho do Ministro da Educação e Cultura.
 
-###### Art. 4.º Os alunos que estiveram inscritos nos bacharelatos a que se refere o artigo 1.º do [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, poderão concluí-los nos termos e prazos do artigo 2.º do referido decreto-lei ou solicitar a sua inserção nas licenciaturas correspondentes agora criadas, através de planos de transição a estabelecer pelo Instituto Universitário de Évora e a aprovar nos termos do artigo 3.º deste diploma.
+Art. 4.º Os alunos que estiveram inscritos nos bacharelatos a que se refere o artigo 1.º do [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, poderão concluí-los nos termos e prazos do artigo 2.º do referido decreto-lei ou solicitar a sua inserção nas licenciaturas correspondentes agora criadas, através de planos de transição a estabelecer pelo Instituto Universitário de Évora e a aprovar nos termos do artigo 3.º deste diploma.
 
-###### Art. 5.º A opção a que se refere o artigo anterior deverá ser concretizada no ano lectivo de 1978-1979.
+Art. 5.º A opção a que se refere o artigo anterior deverá ser concretizada no ano lectivo de 1978-1979.
 
-###### Art. 6.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura.
+Art. 6.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura.
 
-###### Art. 7.º Este diploma entra em vigor no dia imediato à data da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia imediato à data da sua publicação.
 
 Alfredo Jorge Nobre da Costa - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 15 de Outubro de 1978.**
+Promulgado em 15 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

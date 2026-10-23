@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/13/1998/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1998-475096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e04e48d68a249c40cdb26a052c1832563cde008442cf9be19ea434df6b615073
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b650b64322be79e051648b1fe80031b4de9b6c334606ffd08c0145c6b6a377b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,11 @@ relationships:
   target: pt:dre:346124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:657057:por
+  label: "Alterado o nº 2 do art. 1º, pelo DR.43/2002.2002.10.04.MCOTA, DR.IS-B [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-2002-657057
+  date: '2002-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -81,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:589934:por
+  label: "Revogados os arts. 1.º, 2.º e 3.º, pelo DEC LEI.54/2005.03.03.2005.MAI, DR.IS-A [44] de 03.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2005-589934
+  date: '2005-03-03'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:09Z'
   warnings: []
   errors: []
 ---
@@ -189,15 +207,15 @@ Presidência do Conselho de Ministros, 23 de Abril de 1998.
 
 António Manuel de Oliveira Guterres - Jorge Paulo Sacadura de Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 22 de Maio de 1998.**
+Promulgado em 22 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Maio de 1998.**
+Referendado em 24 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Chapas de matrícula
 

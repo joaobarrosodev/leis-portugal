@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 284/2001, 1º Suplemento, Série I-A de 2001-12-10
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8138-(2) a 8138-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/284a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319-a/2001/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-2001-408697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cac5d31b336d71eb0656ab1e319bb0ca3e801c81b5299c23828b94aebafe00d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce8775c3adae23a6be44506575c1d595725ec559daf67438431f9526b443285a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,7 +69,6 @@ reuse:
 subjects:
 - Adjudicação
 - Almeida
-- Gestão de Resíduos
 - Belmonte
 - Celorico da Beira
 - Contrato de Concessão
@@ -77,6 +76,8 @@ subjects:
 - Figueira de Castelo Rodrigo
 - Fornos de Algodres
 - Fundão
+- Gestão de Resíduos
+- Guarda
 - Licenciamento
 - Manteigas
 - Meda
@@ -85,12 +86,26 @@ subjects:
 - Sabugal
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos da COVA da Beira
 - Trancoso
-- Guarda
 relationships:
 - type: amended_by
   target: pt:dre:25345600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456778:por
+  label: "Determinada a concessão à sociedade RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos\
+    \ do contrato de trespasse a celebrar, do exclusivo da gestão e exploração do sistema multimunicipal criado e atribuído\
+    \ pelo presente diploma à Águas do Zêzere e Côa, S. A., bem como a transferência das relações laborais, do património\
+    \ e dos direitos pelo DEC LEI.128/2008.21.07.2008.MAOTDR, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2008-456778
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:25345600:por
+  label: Alterados, a partir de 03.07.2014, os arts 3.º e 4.º e revogados o art 2.º, os n.ºs 2 e 3 do art 3.º, os n.ºs 1 a
+    4 do art 4.º e os arts 5.º e 7.º do presente diploma, pelo(a) Decreto-Lei n.º 98/2014 - Diário da República n.º 125/2014,
+    Série I de 2014-07-02, que procede à sua republicação no anexo I
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2014-25345600
+  date: '2014-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2000/07/04/p/dre
   label: null
@@ -111,16 +126,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:36Z'
   warnings: []
   errors: []
 ---
@@ -195,12 +234,12 @@ Será transmitida à concessionária, nos termos que vierem a ser fixados no con
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 5 de Dezembro de 2001.**
+Promulgado em 5 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Dezembro de 2001.**
+Referendado em 7 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

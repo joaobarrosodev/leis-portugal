@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17500/0471804757.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2018/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2018-116382281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a8c6faab4427dd35c8f527b1af26f31612e14fb15105f9c2b318fed1495d041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a52a5f0ed22b50c41d5ef8ca9bd18c847a84483e346c13052dfc5cd2ac7f3e05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Imigração
-- Família
+- Admissão de Estrangeiros
 - Cidadão Estrangeiro
 - Circulação de Pessoas
 - Entrada de Estrangeiros
 - Expulsão de Estrangeiros
+- Família
 - Fiscalização
+- IAPMEI
+- Imigração
 - Imigrante
 - Residência
 - Serviço de Estrangeiros e Fronteiras
-- IAPMEI
 - Titulo de Residência
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterado o art. 65.º-A do DR 84/2007 de 05-nov, na versão republicada pelo presente diploma, pelo(a) Lei n.º 71/2018
+    - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
 - type: cites
   target: celex:32001L0040
   label: null
@@ -153,20 +159,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2015/06/30/p/
   label: null
   source: http://data.dre.pt/eli/lei/63/2015/06/30/p/
+- type: cites
+  target: pt:dre:108063583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67541737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67637970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70167924:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0040
   label: null
   source: null
 article_structure:
-  article_count: 157
+  article_count: 122
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:38Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +289,9 @@ Os artigos 1.º, 7.º, 10.º, 14.º, 23.º, 31.º a 33.º, 43.º, 45.º, 46.º, 
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -217,7 +301,9 @@ Os artigos 1.º, 7.º, 10.º, 14.º, 23.º, 31.º a 33.º, 43.º, 45.º, 46.º, 
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, as alíneas a) e b) do n.º 1 e o n.º 3 do artigo 2.º do Regulamento Consular, aprovado pelo [Decreto-Lei n.º 71/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2009-603208), de 31 de março, na sua redação atual, é formulado em impresso próprio, assinado pelo requerente e instruído com toda a documentação necessária.
 
@@ -247,7 +333,9 @@ c) O requerente de visto de residência para atividade docente, altamente qualif
 
 11 - (Anterior n.º 6.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Dos pareceres positivos relativos a vistos de residência, emitidos nos termos da alínea a) do n.º 1 do artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, consta, sempre que no pedido for indicada a data da viagem, o agendamento para apresentação no SEF do interessado para apresentação do pedido de autorização de residência,
 
@@ -261,7 +349,9 @@ c) O requerente de visto de residência para atividade docente, altamente qualif
 
 6 - (Anterior n.º 2.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -279,7 +369,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -295,7 +387,9 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 3 - (Revogado.)
 
-###### Artigo 32.º — Visto de residência para atividade docente, altamente qualificada ou cultural
+Artigo 32.º
+
+Visto de residência para atividade docente, altamente qualificada ou cultural
 
 1 - O pedido de visto de residência previsto no artigo 61.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado dos documentos que atestem um dos requisitos previstos no n.º 1 do mesmo artigo.
 
@@ -307,7 +401,9 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 5 - (Revogado.)
 
-###### Artigo 32.º-A — Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado
+Artigo 32.º-A
+
+Visto de residência para atividade altamente qualificada exercida por trabalhador subordinado
 
 1 - O pedido de visto de residência previsto no artigo 61.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado dos documentos que atestem o cumprimento dos requisitos previstos no n.º 1 do mesmo artigo.
 
@@ -317,7 +413,9 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 4 - (Revogado.)
 
-###### Artigo 33.º — Visto de residência para investigação, estudo, intercâmbio de estudantes do ensino secundário, estágio e voluntariado
+Artigo 33.º
+
+Visto de residência para investigação, estudo, intercâmbio de estudantes do ensino secundário, estágio e voluntariado
 
 1 - O pedido de visto de residência ao abrigo do artigo 62.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado dos documentos que atestem o cumprimento dos requisitos previstos no mesmo artigo.
 
@@ -333,7 +431,9 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 7 - O parecer prévio previsto no n.º 1 do artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, pode ser substituído por comunicação prévia ao Serviço de Estrangeiros e Fronteiras, quando o requerente de visto de residência para efeitos de frequência do ensino superior seja nacional de Estado Terceiro de língua oficial portuguesa.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os pedidos de prorrogação de permanência são apresentados, em qualquer direção ou delegação regional do SEF, em impresso próprio assinado pelo requerente ou pelo seu representante legal ou por via eletrónica, instruídos com toda a documentação necessária, acompanhados, se necessário, de duas fotografias iguais, tipo passe, a cores e fundo liso, atualizadas e com boas condições de identificação.
 
@@ -347,7 +447,9 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 6 - O disposto no n.º 1 não isenta o requerente da recolha dos dados biométricos e da aposição pelo SEF da respetiva vinheta.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A prorrogação da permanência solicitada nos termos do n.º 4 do artigo 56.º, do n.º 1 do artigo 71.º e do artigo 71.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é concedida desde que se mantenham as condições que permitiram a admissão do cidadão estrangeiro em território nacional.
 
@@ -359,13 +461,17 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 5 - (Revogado.)
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - É prorrogada a permanência solicitada nos termos do n.º 3 do artigo 72.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, sempre que existam razões pessoais ou humanitárias atendíveis.
 
 2 - [...].
 
-###### Artigo 51.º — Formulação e tramitação do pedido
+Artigo 51.º
+
+Formulação e tramitação do pedido
 
 1 - O pedido de concessão e de renovação de autorização de residência ou de cartão azul UE é formulado em impresso próprio e assinado pelo requerente ou pelo seu representante legal e pode ser apresentado em qualquer direção ou delegação regional do SEF, que o pode remeter, após instrução e decisão, para a direção ou delegação regional da área de residência do requerente.
 
@@ -389,7 +495,9 @@ d) Declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P.,
 
 11 - É competente para a concessão e renovação de autorização de residência o diretor regional do SEF, com possibilidade de delegação.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -411,7 +519,9 @@ c) Informação necessária para verificação da inscrição na administração
 
 7 - O pedido de dispensa de visto de residência pode ser apresentado simultaneamente com o pedido de autorização de residência para exercício de atividade profissional subordinada, caso em que o requerente deve juntar todos os documentos exigíveis para o efeito.
 
-###### Artigo 55.º — Pedido de concessão de autorização de residência para exercício de atividade profissional independente ou para imigrantes empreendedores
+Artigo 55.º
+
+Pedido de concessão de autorização de residência para exercício de atividade profissional independente ou para imigrantes empreendedores
 
 1 - [...].
 
@@ -425,7 +535,9 @@ c) Informação necessária para verificação da inscrição na administração
 
 6 - O pedido de concessão de autorização de residência para desenvolvimento de projeto empreendedor ou criação de empresa de base inovadora previsto no n.º 4 do artigo 89.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado de declaração do IAPMEI - Agência para a Competitividade e Inovação, I. P., comprovativa da celebração de contrato de incubação com incubadora certificada, nos termos da legislação aplicável.
 
-###### Artigo 56.º — Pedido de concessão de autorização de residência para atividade de docência, altamente qualificada e cultural
+Artigo 56.º
+
+Pedido de concessão de autorização de residência para atividade de docência, altamente qualificada e cultural
 
 1 - O pedido de concessão de autorização de residência temporária ou de cartão azul UE previstos, respetivamente, nos artigos 90.º e 121.º-B da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, são acompanhados dos documentos que atestem o cumprimento de qualquer um dos requisitos previstos nos n.os 1 daqueles artigos.
 
@@ -435,7 +547,9 @@ c) Informação necessária para verificação da inscrição na administração
 
 4 - O pedido de concessão de autorização de residência nos termos do presente artigo pode ser apresentado pelas entidades referidas no número anterior, o que não dispensa a presença do requerente nos termos do disposto no artigo 51.º
 
-###### Artigo 57.º — Pedido de concessão de autorização de residência para estudo, investigação, estágio ou voluntariado
+Artigo 57.º
+
+Pedido de concessão de autorização de residência para estudo, investigação, estágio ou voluntariado
 
 1 - O pedido de concessão de autorização de residência para estudo em estabelecimento de ensino secundário ou superior ou para frequência de cursos de nível 4 ou 5 do Quadro Nacional de Qualificações (QNQ) ou cursos de formação profissional ministrados por estabelecimentos de ensino ou de formação profissional deve ser acompanhado dos seguintes documentos:
 
@@ -485,7 +599,9 @@ c) Inscrição na segurança social, nas situações de contrato de trabalho ou 
 
 9 - Ao estudante do ensino secundário, pós-secundário ou profissional pode ser dispensado, mediante requerimento, visto de residência, desde que apresente documento comprovativo de entrada e permanência legais em território nacional.
 
-###### Artigo 58.º — Exercício de atividade profissional por titular de autorização de residência para estudantes do ensino superior
+Artigo 58.º
+
+Exercício de atividade profissional por titular de autorização de residência para estudantes do ensino superior
 
 1 - O titular de autorização de residência para estudo, que pretenda exercer uma atividade profissional subordinada ou independente, deve fazer uma comunicação ao SEF, com pedido de substituição do título de residência, acompanhada de contrato de trabalho, contrato de prestação de serviços ou declaração de início de atividade junto da administração fiscal.
 
@@ -497,7 +613,9 @@ c) Inscrição na segurança social, nas situações de contrato de trabalho ou 
 
 5 - A emissão do título de residência substitutivo, nos termos dos números anteriores, é comunicada pelo SEF, por via eletrónica, à Autoridade para as Condições de Trabalho, à administração fiscal e à Segurança Social, ou nas Regiões Autónomas, às respetivas secretarias regionais.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...].
 
@@ -549,13 +667,17 @@ c) Inscrição na segurança social, nas situações de contrato de trabalho ou 
 
 25 - [...].
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...].
 
 2 - Para efeitos da alínea b) do n.º 1 do artigo 123.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, o SEF deve considerar, ponderadas as circunstâncias concretas do caso, como razões humanitárias a inserção no mercado laboral por um período superior a um ano.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]:
 
@@ -597,7 +719,9 @@ d) [...].
 
 16 - O pedido de renovação pode ser requerido entre os 90 e os 30 dias anteriores à caducidade do título.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...].
 
@@ -609,7 +733,9 @@ d) [...].
 
 5 - O pedido de renovação pode ser pedido entre os 90 e os 30 dias anteriores à caducidade do título.
 
-###### Artigo 65.º-A — Requisitos relativos à atividade de investimento
+Artigo 65.º-A
+
+Requisitos relativos à atividade de investimento
 
 1 - Para efeitos de autorização de residência para atividade de investimento, consideram-se requisitos quantitativos mínimos de investimento a verificação em território nacional de, pelo menos, uma das situações previstas na alínea d) do n.º 1 do artigo 3.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
@@ -637,7 +763,9 @@ d) [...].
 
 13 - Sempre que os investimentos sejam realizados através de sociedade unipessoal por quotas, deve o requerente da concessão ou renovação de autorização de residência apresentar certidão do registo comercial atualizada, que demonstre ser o requerente o sócio da sociedade unipessoal por quotas.
 
-###### Artigo 65.º-D — Meios de prova do investimento
+Artigo 65.º-D
+
+Meios de prova do investimento
 
 1 - Para prova do cumprimento do requisito previsto na subalínea i) da alínea d) do artigo 3.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, o requerente deve apresentar:
 
@@ -741,7 +869,9 @@ d) (Revogada.)
 
 18 - O SEF pode solicitar a entidades nacionais competentes parecer sobre o cumprimento dos requisitos legais em razão do investimento.
 
-###### Artigo 65.º-E — [...]
+Artigo 65.º-E
+
+[...]
 
 1 - Para a renovação de autorização de residência emitida ao abrigo do artigo 90.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, o requerente deve fazer prova da manutenção do investimento em território nacional através de:
 
@@ -821,7 +951,9 @@ b) Declaração emitida pela sociedade gestora do respetivo fundo de investiment
 
 17 - O SEF pode solicitar a entidades nacionais competentes parecer sobre o cumprimento dos requisitos legais em razão do investimento.
 
-###### Artigo 65.º-F — Divulgação e apresentação de pedidos
+Artigo 65.º-F
+
+Divulgação e apresentação de pedidos
 
 1 - [...].
 
@@ -829,7 +961,9 @@ b) Declaração emitida pela sociedade gestora do respetivo fundo de investiment
 
 3 - Mediante protocolo entre o Ministério da Economia, o Ministério dos Negócios Estrangeiros e o SEF, podem ser abertos postos de atendimento para informação a investidores, nas instalações da AICEP, E. P. E., ou do Turismo de Portugal, I. P.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -855,7 +989,9 @@ Meios de subsistência
 
 4 - É dispensado da prova de meios de subsistência o requerente de visto de residência, nacional de Estado terceiro de língua oficial portuguesa, quando admitido em instituição de ensino superior.
 
-###### Artigo 17.º-A — Visto de curta duração para trabalho sazonal
+Artigo 17.º-A
+
+Visto de curta duração para trabalho sazonal
 
 1 - O pedido de visto de curta duração para trabalho sazonal é acompanhado dos seguintes documentos:
 
@@ -871,7 +1007,9 @@ e) Quando aplicável, declaração emitida por entidade competente para a verifi
 
 2 - Para efeitos de aferição do disposto nas alíneas e) e f) do n.º 1 do artigo 56.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, o IEFP, I. P., mantém atualizada uma lista de empresas de trabalho temporário.
 
-###### Artigo 19.º-A — Visto de estada temporária para exercício de uma atividade profissional independente de carácter temporário
+Artigo 19.º-A
+
+Visto de estada temporária para exercício de uma atividade profissional independente de carácter temporário
 
 O pedido de visto de estada temporária previsto na alínea c) do n.º 1 do artigo 54.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado dos seguintes documentos:
 
@@ -879,13 +1017,17 @@ a) Contrato ou promessa de contrato de prestação de serviços no âmbito de um
 
 b) Quando aplicável, declaração emitida pela entidade competente para a verificação dos requisitos do exercício de profissão que, em Portugal, se encontre sujeita a qualificações especiais.
 
-###### Artigo 23.º-A — Visto de estada temporária para trabalho sazonal superior a 90 dias
+Artigo 23.º-A
+
+Visto de estada temporária para trabalho sazonal superior a 90 dias
 
 1 - Ao pedido de visto de estada temporária para trabalho sazonal superior a 90 dias é aplicável o disposto no artigo 17.º-A.
 
 2 - Pode ser dispensada a apresentação de título de transporte que assegure o regresso.
 
-###### Artigo 23.º-B — Visto de estada temporária para frequência de curso em estabelecimento de ensino ou de formação profissional
+Artigo 23.º-B
+
+Visto de estada temporária para frequência de curso em estabelecimento de ensino ou de formação profissional
 
 O pedido de visto de estada temporária para frequência de curso em estabelecimento de ensino ou formação profissional previsto na alínea i) do n.º 1 do artigo 54.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos seguintes documentos:
 
@@ -893,7 +1035,9 @@ a) Documento emitido por estabelecimento de ensino ou de formação profissional
 
 b) Comprovativo de meios de subsistência e de alojamento.
 
-###### Artigo 58.º-A — Mobilidade dos estudantes do ensino superior
+Artigo 58.º-A
+
+Mobilidade dos estudantes do ensino superior
 
 1 - A comunicação de mobilidade prevista no artigo 91.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhada dos seguintes documentos:
 
@@ -913,13 +1057,17 @@ e) Comprovativo da admissão em instituição de ensino superior ao abrigo de um
 
 4 - Ao estudante em mobilidade que não a comunique no prazo legal será prorrogada a permanência por períodos sucessivos de 90 dias, apresentando a documentação a que alude o n.º 1
 
-###### Artigo 58.º-B — Mobilidade dos investigadores
+Artigo 58.º-B
+
+Mobilidade dos investigadores
 
 1 - O pedido de autorização de residência prevista no artigo 91.º-C da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos documentos previstos no artigo 53.º e no n.º 4 do artigo 54.º, sendo-lhe aplicável o disposto no n.º 5 do artigo 54.º
 
 2 - Se no prazo de 30 dias a contar da data de apresentação do pedido referido no número anterior o SEF não comunicar por escrito a sua oposição nos termos do n.º 5 do artigo 91.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser imediatamente emitida declaração a confirmar a autorização de residência em território nacional para efeitos de estudo ou investigação.
 
-###### Artigo 62.º-A — Regime especial para deslocalização de empresas
+Artigo 62.º-A
+
+Regime especial para deslocalização de empresas
 
 O pedido de autorização de residência prevista no artigo 123.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos seguintes documentos:
 
@@ -933,7 +1081,9 @@ d) Título de residência do país de proveniência;
 
 e) Certificado de registo criminal do país da anterior residência e autorização para consulta do registo criminal português.
 
-###### Artigo 62.º-B — Trabalhadores transferidos dentro de empresa - "Autorização de Residência TDE-ICT"
+Artigo 62.º-B
+
+Trabalhadores transferidos dentro de empresa - "Autorização de Residência TDE-ICT"
 
 1 - O pedido de autorização de residência ao abrigo do artigo 124.º-B da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos documentos referidos no n.º 1 do referido artigo, bem como de prova de entrada legal em território nacional.
 
@@ -941,7 +1091,9 @@ e) Certificado de registo criminal do país da anterior residência e autorizaç
 
 3 - O disposto nos números anteriores é aplicável ao titular de título de residência ICT concedido por outro Estado membro da União Europeia que requeira uma autorização de residência para mobilidade de longa duração nos termos do artigo 124.º-E da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 65.º-K — Concessão de autorização de residência permanente a titulares de autorização de residência para atividade de investimento
+Artigo 65.º-K
+
+Concessão de autorização de residência permanente a titulares de autorização de residência para atividade de investimento
 
 Aos cidadãos titulares de autorização de residência para atividade de investimento e seus familiares, que cumpram os requisitos previstos no artigo 80.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e requeiram a concessão de autorização de residência permanente, será emitida uma autorização de residência para atividade de investimento permanente, excecionando a este regime o previsto na alínea b) do n.º 2 e nos n.os 3 e 4 do artigo 85.º do mesmo diploma.»
 
@@ -967,13 +1119,13 @@ O presente decreto regulamentar entra em vigor no primeiro dia útil do mês seg
 
 Visto e aprovado em Conselho de Ministros de 28 de junho de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Manuel Frederico Tojal de Valsassina Heitor - Ana Sofia Pedroso Lopes Antunes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 29 de agosto de 2018.**
+Promulgado em 29 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de agosto de 2018.**
+Referendado em 30 de agosto de 2018.
 
 Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
 
@@ -2724,3 +2876,5 @@ O Alto Comissariado para as Migrações, I. P., pode exercer funções de interl
 ###### Artigo 93.º — Norma revogatória
 
 É revogado o [Decreto Regulamentar n.º 6/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2004-222820), de 26 de abril.
+
+111621372

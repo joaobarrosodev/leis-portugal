@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/343/1997/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1997-402724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e8cf2a0e2140ea7c1b2971f366a0e62f8366c534b21df28173d75f102e433c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9725dd12de402d7081e9bfea98f3cc927aa963c26fc1108f9bf0755ef3059e1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carta de Condução
-- Exame de Condução
-- Multa
+- Centro de Exame
 - Contra-ordenação
 - Direcção Geral de Viação
-- Centro de Exame
+- Exame de Condução
 - Ilícito de MERA Ordenação Social
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:423602:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423602:por
+  label: "Alterados os arts. 31º e 40º do Dec Lei 175/91, de 11-Maio, na redacção do presente diploma, pelo DEC LEI.209/98.15.07.1998.MAI,\
+    \ DR.IS-A [161] de 15.07.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-1998-423602
+  date: '1998-07-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/1991/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/175/1991/05/11/p/dre
+- type: cites
+  target: pt:dre:611319:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336352:por
+  label: "Rectificado pela DECL-RECT.22-D/97.1997.12.31.PCM DR.IS-A [301]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-d-1997-336352
+  date: '1997-12-31'
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:07Z'
   warnings: []
   errors: []
 ---
@@ -119,11 +134,15 @@ Normas aplicáveis
 
 2 - São aplicáveis nos centros de exame as normas regulamentares e as instruções técnicas em vigor para os exames realizados directamente pela DGV.
 
-###### Artigo 30.º — Contra-ordenações
+Artigo 30.º
+
+Contra-ordenações
 
 As infracções ao disposto no presente diploma constituem contra-ordenações sancionadas nos termos dos artigos seguintes.
 
-###### Artigo 31.º — Responsabilidade das associações e dos responsáveis dos centros
+Artigo 31.º
+
+Responsabilidade das associações e dos responsáveis dos centros
 
 1 - As infracções, da responsabilidade de associações autorizadas a realizar exames de condução e pelo responsável do centro de exames, do disposto nos artigos 6.º, n.º 3, 7.º, n.º 2, 8.º, n.º 1, alínea b), 15.º, 22.º, 27.º, n.º 1, e 29.º constituem contra-ordenações sancionadas com as seguintes coimas:
 
@@ -139,11 +158,15 @@ b) De 50000$00 a 500000$00, aplicável ao responsável do centro.
 
 5 - A sanção acessória prevista no número anterior não é aplicável nos casos de infracção ao disposto nos artigos 8.º, n.º 1, alíneas a) e c), e 9.º, se a falta for sanada no prazo de 30 dias úteis após a sua verificação pela entidade competente.
 
-###### Artigo 34.º — Escolas de condução
+Artigo 34.º
+
+Escolas de condução
 
 As infracções ao disposto nos artigos 10.º, n.º 3, no que respeita à cedência de veículos para exame, e 19.º, no que se refere à remessa do processo de exame dos serviços competentes da DGV, constituem contra-ordenação punível com coima de 150000$00 a 750000$00.
 
-###### Artigo 40.º — Processos de contra-ordenação
+Artigo 40.º
+
+Processos de contra-ordenação
 
 1 - É aplicável ao processo contra-ordenacional previsto no presente diploma, com as necessárias adaptações, o disposto no Código da Estrada, quanto ao processamento das contra-ordenações rodoviárias.
 
@@ -173,12 +196,12 @@ Visto e aprovado em Conselho de Ministros de 18 de Setembro de 1997. - António 
 
 Nóvoa - Antero Alves Monteiro Diniz - Alberto Bernardes Costa.
 
-**Promulgado em 17 de Novembro de 1997.**
+Promulgado em 17 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 1997.**
+Referendado em 24 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

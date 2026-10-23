@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/2007/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-2007-642050
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf0327bf391353512ec63ee6459cd9de6e3e51c248e2572c811b99486ab62f94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eaff04b08158a6ae9468689e98ed4b82a2b9a7e9a52ca2a455610b1831e78ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,25 +72,29 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Despesas Públicas
+- Laboratório Nacional de Engenharia Civil
 - Lisboa
 - LNEC
-- Laboratório Nacional de Engenharia Civil
 - OTA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/18-b/2000/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/18-b/2000/04/27/p/dre
+- type: cites
+  target: pt:dre:406307:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:02Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +141,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 20 de Setembro de 2007.**
+Promulgado em 20 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2007.**
+Referendado em 21 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
